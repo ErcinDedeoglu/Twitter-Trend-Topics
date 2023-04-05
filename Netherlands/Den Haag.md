@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-04-05 07:16:35 UTC`
+📆 Last Updated: `2023-04-05 08:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#spapsv](http://twitter.com/search?q=%23spapsv) | N/A |
+| 1 | [#spaPSV](http://twitter.com/search?q=%23spaPSV) | N/A |
 | 2 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
 | 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 4 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
 | 5 | [#knvbbeker](http://twitter.com/search?q=%23knvbbeker) | N/A |
 | 6 | [Voorschoten](http://twitter.com/search?q=Voorschoten) | N/A |
 | 7 | [#treinongeluk](http://twitter.com/search?q=%23treinongeluk) | N/A |
-| 8 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
-| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 10 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
-| 11 | [jutta](http://twitter.com/search?q=jutta) | N/A |
-| 12 | [Teze](http://twitter.com/search?q=Teze) | N/A |
-| 13 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
-| 14 | [Caribische](http://twitter.com/search?q=Caribische) | N/A |
-| 15 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
-| 16 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 17 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 9 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
+| 10 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
+| 11 | [Teze](http://twitter.com/search?q=Teze) | N/A |
+| 12 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
+| 13 | [Jutta](http://twitter.com/search?q=Jutta) | N/A |
+| 14 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 15 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
+| 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 17 | [Caribische](http://twitter.com/search?q=Caribische) | N/A |
 | 18 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 19 | [Morguh](http://twitter.com/search?q=Morguh) | N/A |
-| 20 | [Lelystad](http://twitter.com/search?q=Lelystad) | N/A |
-| 21 | [prorail](http://twitter.com/search?q=prorail) | N/A |
-| 22 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
+| 20 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
+| 21 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
+| 22 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 23 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
-| 24 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 25 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
-| 26 | [Transavia](http://twitter.com/search?q=Transavia) | N/A |
-| 27 | [kaagje](http://twitter.com/search?q=kaagje) | N/A |
-| 28 | [guus til](http://twitter.com/search?q=guus+til) | N/A |
-| 29 | [Jasper Philipsen](http://twitter.com/search?q=Jasper+Philipsen) | N/A |
-| 30 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 31 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
-| 32 | [manschot](http://twitter.com/search?q=manschot) | N/A |
-| 33 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 34 | [cora van nieuwenhuizen](http://twitter.com/search?q=cora+van+nieuwenhuizen) | N/A |
-| 35 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 36 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
-| 37 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 38 | [oosting](http://twitter.com/search?q=oosting) | N/A |
-| 39 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 40 | [Bidden](http://twitter.com/search?q=Bidden) | N/A |
-| 41 | [ide schelling](http://twitter.com/search?q=ide+schelling) | N/A |
-| 42 | [dries](http://twitter.com/search?q=dries) | N/A |
-| 43 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 44 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 45 | [premier rutte](http://twitter.com/search?q=premier+rutte) | N/A |
-| 46 | [Stromae](http://twitter.com/search?q=Stromae) | N/A |
-| 47 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 48 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
-| 49 | [sondag](http://twitter.com/search?q=sondag) | N/A |
+| 24 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
+| 25 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
+| 26 | [guus til](http://twitter.com/search?q=guus+til) | N/A |
+| 27 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 28 | [Lelystad](http://twitter.com/search?q=Lelystad) | N/A |
+| 29 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
+| 30 | [manschot](http://twitter.com/search?q=manschot) | N/A |
+| 31 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 32 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 33 | [cora van nieuwenhuizen](http://twitter.com/search?q=cora+van+nieuwenhuizen) | N/A |
+| 34 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 35 | [Transavia](http://twitter.com/search?q=Transavia) | N/A |
+| 36 | [KAAGJE](http://twitter.com/search?q=KAAGJE) | N/A |
+| 37 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 38 | [Jasper Philipsen](http://twitter.com/search?q=Jasper+Philipsen) | N/A |
+| 39 | [dries](http://twitter.com/search?q=dries) | N/A |
+| 40 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 41 | [premier rutte](http://twitter.com/search?q=premier+rutte) | N/A |
+| 42 | [Hartelijk](http://twitter.com/search?q=Hartelijk) | N/A |
+| 43 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 44 | [sondag](http://twitter.com/search?q=sondag) | N/A |
+| 45 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 46 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
+| 47 | [Erik](http://twitter.com/search?q=Erik) | N/A |
+| 48 | [Bidden](http://twitter.com/search?q=Bidden) | N/A |
+| 49 | [zzp'er](http://twitter.com/search?q=zzp%27er) | N/A |
 
 
 

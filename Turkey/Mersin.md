@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-04-05 07:16:56 UTC`
+📆 Last Updated: `2023-04-05 08:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
-| 2 | [#MescidiAksa](http://twitter.com/search?q=%23MescidiAksa) | N/A |
-| 3 | [ZirveSensin SedatPolat](http://twitter.com/search?q=ZirveSensin+SedatPolat) | N/A |
-| 4 | [Nureddin Nebati](http://twitter.com/search?q=Nureddin+Nebati) | N/A |
-| 5 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
-| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 7 | [Trabzonspor](http://twitter.com/search?q=Trabzonspor) | N/A |
-| 8 | [Ankaragücü](http://twitter.com/search?q=Ankarag%c3%bcc%c3%bc) | Ankaragücü is a Turkish sports club based in Ankara, Turkey. The club's name translates to "Ankara Sports Club" in English. It is best known for its football team, which competes in the Turkish Süper Lig, the top tier of Turkish football. |
-| 9 | [İÇİMİZDEKİ HAÇLILAR](http://twitter.com/search?q=%c4%b0%c3%87%c4%b0M%c4%b0ZDEK%c4%b0+HA%c3%87LILAR) | N/A |
-| 10 | [Lale Orta](http://twitter.com/search?q=Lale+Orta) | Lale Orta is a Turkish phrase meaning "tulip garden". It is often used to refer to a place of beauty and tranquility. |
-| 11 | [İşgalci İsrail](http://twitter.com/search?q=%c4%b0%c5%9fgalci+%c4%b0srail) | N/A |
-| 12 | [Safiye](http://twitter.com/search?q=Safiye) | N/A |
-| 13 | [BİZİM BAHARIMIZ ERDOĞAN](http://twitter.com/search?q=B%c4%b0Z%c4%b0M+BAHARIMIZ+ERDO%c4%9eAN) | N/A |
-| 14 | [GenelAf Sebepleri](http://twitter.com/search?q=GenelAf+Sebepleri) | N/A |
-| 15 | [Vazgeçtim](http://twitter.com/search?q=Vazge%c3%a7tim) | N/A |
-| 16 | [Adaletin ÇöküşHikayesi](http://twitter.com/search?q=Adaletin+%c3%87%c3%b6k%c3%bc%c5%9fHikayesi) | N/A |
-| 17 | [GELİYOR GELMEKTE OLAN](http://twitter.com/search?q=GEL%c4%b0YOR+GELMEKTE+OLAN) | N/A |
-| 18 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 19 | [Usmanım](http://twitter.com/search?q=Usman%c4%b1m) | N/A |
-| 20 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
-| 21 | [Büyük Başkan](http://twitter.com/search?q=B%c3%bcy%c3%bck+Ba%c5%9fkan) | N/A |
-| 22 | [Semiha](http://twitter.com/search?q=Semiha) | N/A |
-| 23 | [Darısı](http://twitter.com/search?q=Dar%c4%b1s%c4%b1) | N/A |
-| 24 | [Ali Sowe](http://twitter.com/search?q=Ali+Sowe) | N/A |
-| 25 | [Ahmet Ağaoğlu](http://twitter.com/search?q=Ahmet+A%c4%9fao%c4%9flu) | N/A |
-| 26 | [Bay Bay Kemal](http://twitter.com/search?q=Bay+Bay+Kemal) | N/A |
-| 27 | [Avcı](http://twitter.com/search?q=Avc%c4%b1) | N/A |
-| 28 | [Ersan](http://twitter.com/search?q=Ersan) | Ersan is a Turkish name derived from the Arabic word “Irsan”, which means “guardian” or “protector”. It is also used as a surname in some parts of Turkey. |
-| 29 | [Tolunay](http://twitter.com/search?q=Tolunay) | N/A |
-| 30 | [Fox TV](http://twitter.com/search?q=Fox+TV) | N/A |
-| 31 | [Uğurcan](http://twitter.com/search?q=U%c4%9furcan) | Uğurcan is a Turkish name, derived from the words "uğur" (meaning luck or fortune) and "can" (meaning soul). It can be translated to English as "lucky soul". |
-| 32 | [Taşeronİçin BaharGelecek](http://twitter.com/search?q=Ta%c5%9feron%c4%b0%c3%a7in+BaharGelecek) | N/A |
-| 33 | [Sütlü](http://twitter.com/search?q=S%c3%bctl%c3%bc) | N/A |
-| 34 | [Aybüke](http://twitter.com/search?q=Ayb%c3%bcke) | N/A |
-| 35 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
-| 36 | [Her Türk](http://twitter.com/search?q=Her+T%c3%bcrk) | N/A |
-| 37 | [Zorunlu](http://twitter.com/search?q=Zorunlu) | N/A |
-| 38 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
-| 39 | [Askerlik](http://twitter.com/search?q=Askerlik) | N/A |
-| 40 | [Larsen](http://twitter.com/search?q=Larsen) | Larsen is a Scandinavian surname derived from the given name Lars, which is a form of the Latin name Laurentius. It is most commonly found in Norway, Denmark, and Sweden. The English meaning of Larsen is "son of Lars". |
-| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 42 | [Takımın](http://twitter.com/search?q=Tak%c4%b1m%c4%b1n) | N/A |
-| 43 | [GHBG FinalOlmasın](http://twitter.com/search?q=GHBG+FinalOlmas%c4%b1n) | N/A |
-| 44 | [Deva](http://twitter.com/search?q=Deva) | N/A |
-| 45 | [The Economist](http://twitter.com/search?q=The+Economist) | The Economist is a weekly news and international affairs publication based in London, England. It covers politics, business, science, technology, and the arts from a global perspective. The magazine's primary focus is on economic and financial issues, but it also includes articles on current affairs, culture, and lifestyle topics. The Economist's mission is to "take part in a severe contest between intelligence, which presses forward, and an unworthy, timid ignorance obstructing our progress." |
-| 46 | [Trabzonda](http://twitter.com/search?q=Trabzonda) | N/A |
-| 47 | [Anneler](http://twitter.com/search?q=Anneler) | N/A |
+| 1 | [#MescidiAksa](http://twitter.com/search?q=%23MescidiAksa) | N/A |
+| 2 | [#SözVeriyoruz](http://twitter.com/search?q=%23S%c3%b6zVeriyoruz) | N/A |
+| 3 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
+| 4 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 5 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 6 | [#Kudüs](http://twitter.com/search?q=%23Kud%c3%bcs) | N/A |
+| 7 | [Trabzon](http://twitter.com/search?q=Trabzon) | Trabzon is a city in northeastern Turkey, located on the Black Sea coast. It is the capital of Trabzon Province and one of the oldest cities in the country. The name Trabzon comes from the Greek word “Trapezounta”, which means “table” or “bench”. |
+| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 9 | [İdris Baluken](http://twitter.com/search?q=%c4%b0dris+Baluken) | N/A |
+| 10 | [meltem demir](http://twitter.com/search?q=meltem+demir) | N/A |
+| 11 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 12 | [iyikidoğdun erenalan](http://twitter.com/search?q=iyikido%c4%9fdun+erenalan) | N/A |
+| 13 | [Togg](http://twitter.com/search?q=Togg) | N/A |
+| 14 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 15 | [MİLLET ERDOĞAN DİYOR](http://twitter.com/search?q=M%c4%b0LLET+ERDO%c4%9eAN+D%c4%b0YOR) | N/A |
+| 16 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 17 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
+| 18 | [denetim özlükistiyor](http://twitter.com/search?q=denetim+%c3%b6zl%c3%bckistiyor) | N/A |
+| 19 | [Nureddin Nebati](http://twitter.com/search?q=Nureddin+Nebati) | N/A |
+| 20 | [vefatının 26](http://twitter.com/search?q=vefat%c4%b1n%c4%b1n+26) | N/A |
+| 21 | [baykemaldenarkeosanatasöz](http://twitter.com/search?q=baykemaldenarkeosanatas%c3%b6z) | N/A |
+| 22 | [xproject token](http://twitter.com/search?q=xproject+token) | N/A |
+| 23 | [Ali Koç](http://twitter.com/search?q=Ali+Ko%c3%a7) | Ali Koç is a Turkish surname. It is derived from the Turkish word "koç" which means "ram". In English, Ali Koç would translate to "Ali the Ram". |
+| 24 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
+| 25 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
+| 26 | [kanal 3](http://twitter.com/search?q=kanal+3) | N/A |
+| 27 | [hüseyin sezen](http://twitter.com/search?q=h%c3%bcseyin+sezen) | N/A |
+| 28 | [yapıkayıt vaaddeğil](http://twitter.com/search?q=yap%c4%b1kay%c4%b1t+vaadde%c4%9fil) | N/A |
+| 29 | [The Economist](http://twitter.com/search?q=The+Economist) | The Economist is a weekly news and international affairs publication based in London, England. It covers politics, business, science, technology, and the arts from a global perspective. The magazine's primary focus is on economic and financial issues, but it also includes articles on current affairs, culture, and lifestyle topics. The Economist's mission is to "take part in a severe contest between intelligence, which presses forward, and an unworthy, timid ignorance obstructing our progress." |
+| 30 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
+| 31 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
+| 32 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 33 | [Ya Kahhar](http://twitter.com/search?q=Ya+Kahhar) | N/A |
+| 34 | [BilenKazanır GooglePlaydeİndir](http://twitter.com/search?q=BilenKazan%c4%b1r+GooglePlayde%c4%b0ndir) | N/A |
+| 35 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 36 | [İÇİMİZDEKİ HAÇLILAR](http://twitter.com/search?q=%c4%b0%c3%87%c4%b0M%c4%b0ZDEK%c4%b0+HA%c3%87LILAR) | N/A |
+| 37 | [Ertuğrul Doğan](http://twitter.com/search?q=Ertu%c4%9frul+Do%c4%9fan) | N/A |
+| 38 | [Adaletin ÇöküşHikayesi](http://twitter.com/search?q=Adaletin+%c3%87%c3%b6k%c3%bc%c5%9fHikayesi) | N/A |
+| 39 | [ZirveSensin SedatPolat](http://twitter.com/search?q=ZirveSensin+SedatPolat) | N/A |
+| 40 | [Müslümanlar](http://twitter.com/search?q=M%c3%bcsl%c3%bcmanlar) | N/A |
+| 41 | [Kıble Mescidi](http://twitter.com/search?q=K%c4%b1ble+Mescidi) | N/A |
+| 42 | [Koyun](http://twitter.com/search?q=Koyun) | N/A |
+| 43 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
+| 44 | [Gününüz](http://twitter.com/search?q=G%c3%bcn%c3%bcn%c3%bcz) | N/A |
+| 45 | [Taşeronİçin BaharGelecek](http://twitter.com/search?q=Ta%c5%9feron%c4%b0%c3%a7in+BaharGelecek) | N/A |
+| 46 | [Ya Rabbi](http://twitter.com/search?q=Ya+Rabbi) | N/A |
+| 47 | [GHBG FinalOlmasın](http://twitter.com/search?q=GHBG+FinalOlmas%c4%b1n) | N/A |
+| 48 | [GELİYOR GELMEKTE OLAN](http://twitter.com/search?q=GEL%c4%b0YOR+GELMEKTE+OLAN) | N/A |
 
 
 

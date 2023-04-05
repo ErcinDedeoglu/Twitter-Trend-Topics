@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-04-05 07:16:55 UTC`
+📆 Last Updated: `2023-04-05 08:18:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,54 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |
-| 2 | [#CGStandsWithRahulGandhi](http://twitter.com/search?q=%23CGStandsWithRahulGandhi) | N/A |
-| 3 | [#TelanganaWithBandiSanjay](http://twitter.com/search?q=%23TelanganaWithBandiSanjay) | N/A |
-| 4 | [#BRSDramaCompany](http://twitter.com/search?q=%23BRSDramaCompany) | N/A |
-| 5 | [बाबू जगजीवन राम](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82+%e0%a4%9c%e0%a4%97%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 6 | [55 Years Of Selfless Services](http://twitter.com/search?q=55+Years+Of+Selfless+Services) | N/A |
-| 7 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
-| 8 | [Ashram Activities](http://twitter.com/search?q=Ashram+Activities) | N/A |
-| 9 | [SSRCase Delay Helps Accused](http://twitter.com/search?q=SSRCase+Delay+Helps+Accused) | N/A |
-| 10 | [महर्षि कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%b0%e0%a5%8d%e0%a4%b7%e0%a4%bf+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 11 | [राष्ट्रीय समुद्री](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 12 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 14 | [#WorkerFarmerRally](http://twitter.com/search?q=%23WorkerFarmerRally) | N/A |
-| 15 | [#SelfBelief](http://twitter.com/search?q=%23SelfBelief) | N/A |
-| 16 | [#War2](http://twitter.com/search?q=%23War2) | N/A |
-| 17 | [#AshramDarpan](http://twitter.com/search?q=%23AshramDarpan) | N/A |
-| 18 | [#WhereIsPushpa](http://twitter.com/search?q=%23WhereIsPushpa) | N/A |
-| 19 | [#BabuJagjivanRam](http://twitter.com/search?q=%23BabuJagjivanRam) | N/A |
-| 20 | [#NayaBharat_YuvaJosh](http://twitter.com/search?q=%23NayaBharat_YuvaJosh) | N/A |
-| 21 | [#NationalMaritimeDay](http://twitter.com/search?q=%23NationalMaritimeDay) | N/A |
-| 22 | [#7YearsOfStandUpIndia](http://twitter.com/search?q=%237YearsOfStandUpIndia) | N/A |
-| 23 | [#HappyBirthdayRashmika](http://twitter.com/search?q=%23HappyBirthdayRashmika) | N/A |
-| 24 | [#PushpaTheRule](http://twitter.com/search?q=%23PushpaTheRule) | N/A |
-| 25 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 26 | [#HBDRashmikaMandanna](http://twitter.com/search?q=%23HBDRashmikaMandanna) | N/A |
-| 27 | [#YRFSpyUniverse](http://twitter.com/search?q=%23YRFSpyUniverse) | N/A |
-| 28 | [#KicchaSudeep](http://twitter.com/search?q=%23KicchaSudeep) | N/A |
-| 29 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
-| 30 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 31 | [#RRvsPBKS](http://twitter.com/search?q=%23RRvsPBKS) | N/A |
-| 32 | [#HrithikRoshan](http://twitter.com/search?q=%23HrithikRoshan) | N/A |
-| 33 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
-| 34 | [#GodMorningWednesday](http://twitter.com/search?q=%23GodMorningWednesday) | N/A |
-| 35 | [#Justice4PujaBhil](http://twitter.com/search?q=%23Justice4PujaBhil) | N/A |
-| 36 | [#Pushpa2](http://twitter.com/search?q=%23Pushpa2) | N/A |
-| 37 | [#पूजा_हत्यारें_को_फांसी_दो](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%82%e0%a4%9c%e0%a4%be_%e0%a4%b9%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b0%e0%a5%87%e0%a4%82_%e0%a4%95%e0%a5%8b_%e0%a4%ab%e0%a4%be%e0%a4%82%e0%a4%b8%e0%a5%80_%e0%a4%a6%e0%a5%8b) | N/A |
-| 38 | [#AyanMukerji](http://twitter.com/search?q=%23AyanMukerji) | N/A |
+| 1 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 2 | [#RedmiNote12giveaway](http://twitter.com/search?q=%23RedmiNote12giveaway) | N/A |
+| 3 | [#WinRedmiNote12](http://twitter.com/search?q=%23WinRedmiNote12) | N/A |
+| 4 | [#SuperNoteSuperDesign](http://twitter.com/search?q=%23SuperNoteSuperDesign) | N/A |
+| 5 | [#CGStandsWithRahulGandhi](http://twitter.com/search?q=%23CGStandsWithRahulGandhi) | N/A |
+| 6 | [बाबू जगजीवन राम](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82+%e0%a4%9c%e0%a4%97%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 7 | [SSRCase Delay Helps Accused](http://twitter.com/search?q=SSRCase+Delay+Helps+Accused) | N/A |
+| 8 | [55 Years Of Selfless Services](http://twitter.com/search?q=55+Years+Of+Selfless+Services) | N/A |
+| 9 | [Ashram Activities](http://twitter.com/search?q=Ashram+Activities) | N/A |
+| 10 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
+| 11 | [महर्षि कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%b0%e0%a5%8d%e0%a4%b7%e0%a4%bf+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 12 | [राष्ट्रीय समुद्री](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 13 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 14 | [हनुमान जयंती](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 15 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 16 | [#BRSDramaCompany](http://twitter.com/search?q=%23BRSDramaCompany) | N/A |
+| 17 | [#War2](http://twitter.com/search?q=%23War2) | N/A |
+| 18 | [#TelanganaWithBandiSanjay](http://twitter.com/search?q=%23TelanganaWithBandiSanjay) | N/A |
+| 19 | [#WorkerFarmerRally](http://twitter.com/search?q=%23WorkerFarmerRally) | N/A |
+| 20 | [#JrNTR](http://twitter.com/search?q=%23JrNTR) | N/A |
+| 21 | [#SelfBelief](http://twitter.com/search?q=%23SelfBelief) | N/A |
+| 22 | [#WhereIsPushpa](http://twitter.com/search?q=%23WhereIsPushpa) | N/A |
+| 23 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 24 | [#NationalMaritimeDay](http://twitter.com/search?q=%23NationalMaritimeDay) | N/A |
+| 25 | [#7YearsOfStandUpIndia](http://twitter.com/search?q=%237YearsOfStandUpIndia) | N/A |
+| 26 | [#BabuJagjivanRam](http://twitter.com/search?q=%23BabuJagjivanRam) | N/A |
+| 27 | [#NayaBharat_YuvaJosh](http://twitter.com/search?q=%23NayaBharat_YuvaJosh) | N/A |
+| 28 | [#AshramDarpan](http://twitter.com/search?q=%23AshramDarpan) | N/A |
+| 29 | [#PushpaTheRule](http://twitter.com/search?q=%23PushpaTheRule) | N/A |
+| 30 | [#WeDontWantKicchaInPolitics](http://twitter.com/search?q=%23WeDontWantKicchaInPolitics) | N/A |
+| 31 | [#HrithikRoshan](http://twitter.com/search?q=%23HrithikRoshan) | N/A |
+| 32 | [#YRFSpyUniverse](http://twitter.com/search?q=%23YRFSpyUniverse) | N/A |
+| 33 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 34 | [#HappyBirthdayRashmika](http://twitter.com/search?q=%23HappyBirthdayRashmika) | N/A |
+| 35 | [#KicchaSudeep](http://twitter.com/search?q=%23KicchaSudeep) | N/A |
+| 36 | [#RashmikaMandanna](http://twitter.com/search?q=%23RashmikaMandanna) | N/A |
+| 37 | [#RRvsPBKS](http://twitter.com/search?q=%23RRvsPBKS) | N/A |
+| 38 | [#पूजा_के_हत्यारे_को_फांसी_दो](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%82%e0%a4%9c%e0%a4%be_%e0%a4%95%e0%a5%87_%e0%a4%b9%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b0%e0%a5%87_%e0%a4%95%e0%a5%8b_%e0%a4%ab%e0%a4%be%e0%a4%82%e0%a4%b8%e0%a5%80_%e0%a4%a6%e0%a5%8b) | N/A |
+| 39 | [#TataNeu](http://twitter.com/search?q=%23TataNeu) | N/A |
+| 40 | [#UstaadBhagatSingh](http://twitter.com/search?q=%23UstaadBhagatSingh) | N/A |
+| 41 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
+| 42 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 43 | [#TrumpArrest](http://twitter.com/search?q=%23TrumpArrest) | N/A |
+| 44 | [#GodMorningWednesday](http://twitter.com/search?q=%23GodMorningWednesday) | N/A |
+| 45 | [#Pushpa2](http://twitter.com/search?q=%23Pushpa2) | N/A |
+| 46 | [#Justice4PujaBhil](http://twitter.com/search?q=%23Justice4PujaBhil) | N/A |
+| 47 | [#AlluArjun](http://twitter.com/search?q=%23AlluArjun) | N/A |
+| 48 | [#AyanMukerji](http://twitter.com/search?q=%23AyanMukerji) | N/A |
 
 
 

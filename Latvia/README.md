@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-05 07:17:11 UTC`
+📆 Last Updated: `2023-04-05 08:19:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Latvia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 2 | [#optimusal](http://twitter.com/search?q=%23optimusal) | N/A |
-| 3 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 2 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 3 | [#StrongerTogether](http://twitter.com/search?q=%23StrongerTogether) | N/A |
 | 4 | [somijas](http://twitter.com/search?q=somijas) | N/A |
-| 5 | [psrs](http://twitter.com/search?q=psrs) | N/A |
-| 6 | [#StrongerTogether](http://twitter.com/search?q=%23StrongerTogether) | N/A |
-| 7 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
-| 8 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 9 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
-| 10 | [Inga](http://twitter.com/search?q=Inga) | N/A |
-| 11 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 12 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 13 | [laikam](http://twitter.com/search?q=laikam) | N/A |
-| 14 | [somiju](http://twitter.com/search?q=somiju) | N/A |
-| 15 | [Latvijā](http://twitter.com/search?q=Latvij%c4%81) | N/A |
-| 16 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 17 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
-| 18 | [viņam](http://twitter.com/search?q=vi%c5%86am) | N/A |
-| 19 | [Putinu](http://twitter.com/search?q=Putinu) | N/A |
-| 20 | [baltijas](http://twitter.com/search?q=baltijas) | N/A |
-| 21 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
-| 22 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 23 | [Precīzi](http://twitter.com/search?q=Prec%c4%abzi) | N/A |
-| 24 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 25 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
-| 26 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
-| 27 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
-| 28 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
-| 29 | [Neko](http://twitter.com/search?q=Neko) | N/A |
-| 30 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 31 | [latgalē](http://twitter.com/search?q=latgal%c4%93) | N/A |
-| 32 | [viņiem](http://twitter.com/search?q=vi%c5%86iem) | N/A |
-| 33 | [lieldienu](http://twitter.com/search?q=lieldienu) | N/A |
-| 34 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
-| 35 | [Nekas](http://twitter.com/search?q=Nekas) | N/A |
-| 36 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | N/A |
-| 37 | [Diez](http://twitter.com/search?q=Diez) | N/A |
-| 38 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
-| 39 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
-| 40 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
-| 41 | [liepājā](http://twitter.com/search?q=liep%c4%81j%c4%81) | N/A |
-| 42 | [Saprotu](http://twitter.com/search?q=Saprotu) | N/A |
-| 43 | [Jūsu](http://twitter.com/search?q=J%c5%absu) | N/A |
-| 44 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 45 | [kaut](http://twitter.com/search?q=kaut) | N/A |
-| 46 | [kāds](http://twitter.com/search?q=k%c4%81ds) | N/A |
-| 47 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 48 | [Viss](http://twitter.com/search?q=Viss) | N/A |
-| 49 | [Droši](http://twitter.com/search?q=Dro%c5%a1i) | N/A |
-| 50 | [pirms](http://twitter.com/search?q=pirms) | N/A |
+| 5 | [Inga](http://twitter.com/search?q=Inga) | N/A |
+| 6 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 7 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 8 | [Igaunijā](http://twitter.com/search?q=Igaunij%c4%81) | N/A |
+| 9 | [Latvijā](http://twitter.com/search?q=Latvij%c4%81) | N/A |
+| 10 | [Satversmes](http://twitter.com/search?q=Satversmes) | N/A |
+| 11 | [Protams](http://twitter.com/search?q=Protams) | N/A |
+| 12 | [#1188lv](http://twitter.com/search?q=%231188lv) | N/A |
+| 13 | [vienkārši](http://twitter.com/search?q=vienk%c4%81r%c5%a1i) | N/A |
+| 14 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
+| 15 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 16 | [lietuvā](http://twitter.com/search?q=lietuv%c4%81) | N/A |
+| 17 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 18 | [Manā](http://twitter.com/search?q=Man%c4%81) | N/A |
+| 19 | [Kariņa](http://twitter.com/search?q=Kari%c5%86a) | N/A |
+| 20 | [kādā](http://twitter.com/search?q=k%c4%81d%c4%81) | N/A |
+| 21 | [latgalē](http://twitter.com/search?q=latgal%c4%93) | N/A |
+| 22 | [Lieldienu](http://twitter.com/search?q=Lieldienu) | N/A |
+| 23 | [Ceru](http://twitter.com/search?q=Ceru) | N/A |
+| 24 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
+| 25 | [Diez](http://twitter.com/search?q=Diez) | N/A |
+| 26 | [Dievs](http://twitter.com/search?q=Dievs) | N/A |
+| 27 | [Tiešām](http://twitter.com/search?q=Tie%c5%a1%c4%81m) | N/A |
+| 28 | [Nebūs](http://twitter.com/search?q=Neb%c5%abs) | N/A |
+| 29 | [cēsīs](http://twitter.com/search?q=c%c4%93s%c4%abs) | N/A |
+| 30 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
+| 31 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
+| 32 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
+| 33 | [Saprotu](http://twitter.com/search?q=Saprotu) | N/A |
+| 34 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 35 | [Viņam](http://twitter.com/search?q=Vi%c5%86am) | N/A |
+| 36 | [Riga](http://twitter.com/search?q=Riga) | N/A |
+| 37 | [Polijas](http://twitter.com/search?q=Polijas) | N/A |
+| 38 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 39 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
+| 40 | [daugavpils](http://twitter.com/search?q=daugavpils) | N/A |
+| 41 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
+| 42 | [Rietumu](http://twitter.com/search?q=Rietumu) | N/A |
+| 43 | [kādēļ](http://twitter.com/search?q=k%c4%81d%c4%93%c4%bc) | N/A |
+| 44 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
+| 45 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
+| 46 | [Esmu](http://twitter.com/search?q=Esmu) | N/A |
+| 47 | [Daugavas](http://twitter.com/search?q=Daugavas) | N/A |
+| 48 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
+| 49 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 50 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
 
 
 

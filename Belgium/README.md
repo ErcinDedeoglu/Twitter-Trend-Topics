@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-04-05 07:17:07 UTC`
+📆 Last Updated: `2023-04-05 08:18:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Belgium
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#liefdevoormuziek](http://twitter.com/search?q=%23liefdevoormuziek) | N/A |
-| 2 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 3 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 4 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 5 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 6 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
-| 7 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 8 | [Alliance](http://twitter.com/search?q=Alliance) | N/A |
-| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 10 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 11 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 12 | [open vld](http://twitter.com/search?q=open+vld) | N/A |
-| 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 14 | [Birger Jensen](http://twitter.com/search?q=Birger+Jensen) | N/A |
-| 15 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 17 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 18 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 19 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 20 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 21 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 22 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 23 | [pensioenschandaal kamer](http://twitter.com/search?q=pensioenschandaal+kamer) | N/A |
-| 24 | [Jaap](http://twitter.com/search?q=Jaap) | N/A |
-| 25 | [van peel](http://twitter.com/search?q=van+peel) | N/A |
-| 26 | [Barcelone](http://twitter.com/search?q=Barcelone) | N/A |
-| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 28 | [Björn](http://twitter.com/search?q=Bj%c3%b6rn) | N/A |
-| 29 | [Mons](http://twitter.com/search?q=Mons) | N/A |
-| 30 | [Portland](http://twitter.com/search?q=Portland) | N/A |
-| 31 | [Zaventem](http://twitter.com/search?q=Zaventem) | N/A |
-| 32 | [jasper philipsen](http://twitter.com/search?q=jasper+philipsen) | N/A |
-| 33 | [Allies](http://twitter.com/search?q=Allies) | N/A |
-| 34 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 2 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 3 | [#Finland](http://twitter.com/search?q=%23Finland) | N/A |
+| 4 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
+| 5 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 6 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 7 | [Alliance](http://twitter.com/search?q=Alliance) | N/A |
+| 8 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 9 | [#StrongerTogether](http://twitter.com/search?q=%23StrongerTogether) | N/A |
+| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 11 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 12 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 13 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 14 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 15 | [Björn](http://twitter.com/search?q=Bj%c3%b6rn) | N/A |
+| 16 | [Birger Jensen](http://twitter.com/search?q=Birger+Jensen) | N/A |
+| 17 | [Barcelone](http://twitter.com/search?q=Barcelone) | N/A |
+| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 19 | [pensioenschandaal kamer](http://twitter.com/search?q=pensioenschandaal+kamer) | N/A |
+| 20 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 21 | [Jaap](http://twitter.com/search?q=Jaap) | N/A |
+| 22 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 23 | [openvld](http://twitter.com/search?q=openvld) | N/A |
+| 24 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
+| 25 | [Philipsen](http://twitter.com/search?q=Philipsen) | N/A |
+| 26 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 27 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 28 | [Secretary General](http://twitter.com/search?q=Secretary+General) | N/A |
+| 29 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
+| 30 | [5min](http://twitter.com/search?q=5min) | N/A |
+| 31 | [wuyts](http://twitter.com/search?q=wuyts) | N/A |
+| 32 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 33 | [Ally](http://twitter.com/search?q=Ally) | N/A |
+| 34 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
 | 35 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 36 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 37 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 38 | [goeiemorgen](http://twitter.com/search?q=goeiemorgen) | N/A |
-| 39 | [goeiemiddag](http://twitter.com/search?q=goeiemiddag) | N/A |
-| 40 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 41 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
-| 42 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
-| 43 | [Secretary General](http://twitter.com/search?q=Secretary+General) | N/A |
-| 44 | [La Belgique](http://twitter.com/search?q=La+Belgique) | N/A |
-| 45 | [États-Unis](http://twitter.com/search?q=%c3%89tats-Unis) | N/A |
-| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 47 | [Lees](http://twitter.com/search?q=Lees) | N/A |
-| 48 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
-| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 50 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
+| 36 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
+| 37 | [Van Peel](http://twitter.com/search?q=Van+Peel) | N/A |
+| 38 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 39 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 40 | [Chinezen](http://twitter.com/search?q=Chinezen) | N/A |
+| 41 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 42 | [Allies](http://twitter.com/search?q=Allies) | N/A |
+| 43 | [westmalle](http://twitter.com/search?q=westmalle) | N/A |
+| 44 | [Antwerpen](http://twitter.com/search?q=Antwerpen) | N/A |
+| 45 | [Dankje](http://twitter.com/search?q=Dankje) | N/A |
+| 46 | [Scheldeprijs](http://twitter.com/search?q=Scheldeprijs) | N/A |
+| 47 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 48 | [Zaventem](http://twitter.com/search?q=Zaventem) | N/A |
+| 49 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 50 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
 
 
 

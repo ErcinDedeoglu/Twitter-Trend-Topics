@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexicali
 
-📆 Last Updated: `2023-04-05 07:16:24 UTC`
+📆 Last Updated: `2023-04-05 08:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 3 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
 | 4 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 5 | [GOLDEN RECORD HOLDER](http://twitter.com/search?q=GOLDEN+RECORD+HOLDER) | N/A |
-| 6 | [#BatallaPorMedallas](http://twitter.com/search?q=%23BatallaPorMedallas) | N/A |
-| 7 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
-| 8 | [#AlertaSismica](http://twitter.com/search?q=%23AlertaSismica) | N/A |
-| 9 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 5 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
+| 6 | [GOLDEN RECORD HOLDER](http://twitter.com/search?q=GOLDEN+RECORD+HOLDER) | N/A |
+| 7 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 8 | [#BatallaPorMedallas](http://twitter.com/search?q=%23BatallaPorMedallas) | N/A |
+| 9 | [#AlertaSismica](http://twitter.com/search?q=%23AlertaSismica) | N/A |
 | 10 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
 | 11 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
 | 12 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 13 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
 | 14 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
 | 15 | [Pedro Navajas](http://twitter.com/search?q=Pedro+Navajas) | N/A |
-| 16 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 17 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 18 | [LAS MAVELYN SE LLEVAN TODO](http://twitter.com/search?q=LAS+MAVELYN+SE+LLEVAN+TODO) | N/A |
-| 19 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 20 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 22 | [SEGALMEX](http://twitter.com/search?q=SEGALMEX) | N/A |
-| 23 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 25 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 26 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 16 | [Madero](http://twitter.com/search?q=Madero) | N/A |
+| 17 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 18 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 19 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 20 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
+| 21 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 22 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
+| 23 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 24 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 25 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
+| 26 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 | 27 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
 | 28 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
 | 29 | [Chanoc](http://twitter.com/search?q=Chanoc) | N/A |
 | 30 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 31 | [Puerto Escondido](http://twitter.com/search?q=Puerto+Escondido) | N/A |
-| 32 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 33 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 34 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 31 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 32 | [Lucas Romero](http://twitter.com/search?q=Lucas+Romero) | N/A |
+| 33 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 34 | [Puerto Escondido](http://twitter.com/search?q=Puerto+Escondido) | N/A |
 | 35 | [Misión del Valle](http://twitter.com/search?q=Misi%c3%b3n+del+Valle) | N/A |
-| 36 | [Lucas Romero](http://twitter.com/search?q=Lucas+Romero) | N/A |
+| 36 | [michael cera](http://twitter.com/search?q=michael+cera) | N/A |
 | 37 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
-| 38 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 39 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 40 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 41 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 42 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
-| 43 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 44 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 45 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 46 | [Edomex](http://twitter.com/search?q=Edomex) | N/A |
-| 47 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
-| 48 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 38 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 39 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 40 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
+| 41 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 42 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 43 | [Edomex](http://twitter.com/search?q=Edomex) | N/A |
+| 44 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
+| 45 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 46 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 47 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 48 | [Meade](http://twitter.com/search?q=Meade) | N/A |
 | 49 | [Roberto Madrazo](http://twitter.com/search?q=Roberto+Madrazo) | N/A |
 
 

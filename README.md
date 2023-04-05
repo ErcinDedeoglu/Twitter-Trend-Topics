@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-05 07:16:18 UTC`
+📆 Last Updated: `2023-04-05 08:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [#TierraDeNadie5](http://twitter.com/search?q=%23TierraDeNadie5) | N/A |
-| 4 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 5 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 6 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
-| 7 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 8 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 9 | [#فوازير_غازي_الذيابي7](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a7) | N/A |
-| 10 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [Palavecino](http://twitter.com/search?q=Palavecino) | N/A |
-| 13 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 14 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 15 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
-| 16 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 17 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
-| 18 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
-| 19 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
-| 20 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 21 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
-| 22 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 23 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 25 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 26 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
-| 27 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 28 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 29 | [Demichelis](http://twitter.com/search?q=Demichelis) | Demichelis is a surname of Italian origin. It is derived from the given name Michelangelo, which means "angel of God". In English, the name Demichelis can be translated to mean "God's angel". |
-| 30 | [Paulo Diaz](http://twitter.com/search?q=Paulo+Diaz) | N/A |
-| 31 | [المصلي القبلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a) | N/A |
-| 32 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 33 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 34 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
-| 35 | [feather](http://twitter.com/search?q=feather) | Feather is a light, fluffy structure that grows on the bodies of birds and some other animals. It is made up of a central shaft with barbs on either side. Feathers are used for insulation, flight, and protection. They can also be used in art and fashion. |
-| 36 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 37 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 38 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 39 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 40 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
-| 41 | [ZirveSensin SedatPolat](http://twitter.com/search?q=ZirveSensin+SedatPolat) | N/A |
-| 42 | [تاليسكا](http://twitter.com/search?q=%d8%aa%d8%a7%d9%84%d9%8a%d8%b3%d9%83%d8%a7) | تاليسكا is a type of traditional dance from the Middle East. It is an energetic, fast-paced dance that involves spinning and clapping. In English, it is sometimes referred to as the "Tahleekah Dance". |
-| 43 | [Pablo Ibáñez](http://twitter.com/search?q=Pablo+Ib%c3%a1%c3%b1ez) | N/A |
-| 44 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 45 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 46 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 47 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
-| 48 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 49 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 50 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 1 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 3 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 4 | [#AgustD_SUGA_Tour_in_bangkok](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_bangkok) | N/A |
+| 5 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
+| 6 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 7 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 8 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 9 | [#MescidiAksa](http://twitter.com/search?q=%23MescidiAksa) | N/A |
+| 10 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 11 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 12 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 14 | [ちいかわくじ](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e3%81%8f%e3%81%98) | N/A |
+| 15 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 16 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 17 | [メロンフラペチーノ](http://twitter.com/search?q=%e3%83%a1%e3%83%ad%e3%83%b3%e3%83%95%e3%83%a9%e3%83%9a%e3%83%81%e3%83%bc%e3%83%8e) | N/A |
+| 18 | [Twilog](http://twitter.com/search?q=Twilog) | Twilog is a Japanese website that allows users to search and view tweets from other Twitter users. The name Twilog is a combination of the words “Twitter” and “blog”, which reflects the site’s purpose of providing an easy way to browse through tweets. |
+| 19 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
+| 20 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 21 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 22 | [feather](http://twitter.com/search?q=feather) | Feather is a light, fluffy structure that grows on the bodies of birds and some other animals. It is made up of a central shaft with barbs on either side. Feathers are used for insulation, flight, and protection. They can also be used in art and fashion. |
+| 23 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 24 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
+| 25 | [幕間ルーティン](http://twitter.com/search?q=%e5%b9%95%e9%96%93%e3%83%ab%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3) | N/A |
+| 26 | [ドラクエウォーク](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%82%af%e3%82%a8%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%af) | N/A |
+| 27 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 28 | [外国人差別](http://twitter.com/search?q=%e5%a4%96%e5%9b%bd%e4%ba%ba%e5%b7%ae%e5%88%a5) | N/A |
+| 29 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 30 | [スタバのメロン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e3%83%a1%e3%83%ad%e3%83%b3) | N/A |
+| 31 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 32 | [LETTER TO KHOSI](http://twitter.com/search?q=LETTER+TO+KHOSI) | N/A |
+| 33 | [在日韓国人の口座開設](http://twitter.com/search?q=%e5%9c%a8%e6%97%a5%e9%9f%93%e5%9b%bd%e4%ba%ba%e3%81%ae%e5%8f%a3%e5%ba%a7%e9%96%8b%e8%a8%ad) | N/A |
+| 34 | [メイク落としシート](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%82%af%e8%90%bd%e3%81%a8%e3%81%97%e3%82%b7%e3%83%bc%e3%83%88) | N/A |
+| 35 | [銀行拒否](http://twitter.com/search?q=%e9%8a%80%e8%a1%8c%e6%8b%92%e5%90%a6) | N/A |
+| 36 | [びんずる尊者](http://twitter.com/search?q=%e3%81%b3%e3%82%93%e3%81%9a%e3%82%8b%e5%b0%8a%e8%80%85) | N/A |
+| 37 | [救済申し立て](http://twitter.com/search?q=%e6%95%91%e6%b8%88%e7%94%b3%e3%81%97%e7%ab%8b%e3%81%a6) | N/A |
+| 38 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 39 | [बाबू जगजीवन राम](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82+%e0%a4%9c%e0%a4%97%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 40 | [HORI7ON SALAMAT OUT NOW](http://twitter.com/search?q=HORI7ON+SALAMAT+OUT+NOW) | N/A |
+| 41 | [通信障害](http://twitter.com/search?q=%e9%80%9a%e4%bf%a1%e9%9a%9c%e5%ae%b3) | 通信障害 (tsūshin shōgai) is a Japanese term that translates to “communication failure” or “communication disruption” in English. It refers to any kind of interruption or malfunction in communication systems, such as telephone lines, internet connections, or radio signals. |
+| 42 | [週刊金曜日](http://twitter.com/search?q=%e9%80%b1%e5%88%8a%e9%87%91%e6%9b%9c%e6%97%a5) | N/A |
+| 43 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
+| 44 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
+| 45 | [PJ TUCKER](http://twitter.com/search?q=PJ+TUCKER) | N/A |
+| 46 | [닭한마리](http://twitter.com/search?q=%eb%8b%ad%ed%95%9c%eb%a7%88%eb%a6%ac) | N/A |
+| 47 | [松本市内](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e5%b8%82%e5%86%85) | N/A |
+| 48 | [Moody](http://twitter.com/search?q=Moody) | N/A |
+| 49 | [びんずる様](http://twitter.com/search?q=%e3%81%b3%e3%82%93%e3%81%9a%e3%82%8b%e6%a7%98) | N/A |
+| 50 | [予想外の臨時収入](http://twitter.com/search?q=%e4%ba%88%e6%83%b3%e5%a4%96%e3%81%ae%e8%87%a8%e6%99%82%e5%8f%8e%e5%85%a5) | N/A |
 
 
 

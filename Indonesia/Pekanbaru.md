@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-04-05 07:16:39 UTC`
+📆 Last Updated: `2023-04-05 08:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 6 | [#SipalingPengejarPahala](http://twitter.com/search?q=%23SipalingPengejarPahala) | N/A |
 | 7 | [Ramadan Di Lazada](http://twitter.com/search?q=Ramadan+Di+Lazada) | N/A |
 | 8 | [giveaway thr 10juta](http://twitter.com/search?q=giveaway+thr+10juta) | N/A |
-| 9 | [Dua Kali Lebih Murah](http://twitter.com/search?q=Dua+Kali+Lebih+Murah) | N/A |
-| 10 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 11 | [garuda muda bangkit](http://twitter.com/search?q=garuda+muda+bangkit) | N/A |
-| 12 | [Windah](http://twitter.com/search?q=Windah) | N/A |
-| 13 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
-| 14 | [BTOB MAY COMEBACK](http://twitter.com/search?q=BTOB+MAY+COMEBACK) | N/A |
-| 15 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 16 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
-| 17 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 18 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 19 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
-| 20 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 21 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 22 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 23 | [Taubat Sebelum Terlambat](http://twitter.com/search?q=Taubat+Sebelum+Terlambat) | N/A |
-| 24 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 25 | [Bobon](http://twitter.com/search?q=Bobon) | N/A |
-| 26 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 27 | [Flexi Cash](http://twitter.com/search?q=Flexi+Cash) | N/A |
-| 28 | [LIKE IT LIKE IT CD RELEASE](http://twitter.com/search?q=LIKE+IT+LIKE+IT+CD+RELEASE) | N/A |
+| 9 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
+| 10 | [garuda muda bangkit](http://twitter.com/search?q=garuda+muda+bangkit) | N/A |
+| 11 | [Windah](http://twitter.com/search?q=Windah) | N/A |
+| 12 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 13 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 14 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
+| 15 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 16 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 17 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
+| 18 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 19 | [Taubat Sebelum Terlambat](http://twitter.com/search?q=Taubat+Sebelum+Terlambat) | N/A |
+| 20 | [BTOB MAY COMEBACK](http://twitter.com/search?q=BTOB+MAY+COMEBACK) | N/A |
+| 21 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 22 | [Bobon](http://twitter.com/search?q=Bobon) | N/A |
+| 23 | [Flexi Cash](http://twitter.com/search?q=Flexi+Cash) | N/A |
+| 24 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 25 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 26 | [Chelsea vs Liverpool](http://twitter.com/search?q=Chelsea+vs+Liverpool) | N/A |
+| 27 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
+| 28 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
 | 29 | [Firli](http://twitter.com/search?q=Firli) | N/A |
-| 30 | [Chelsea vs Liverpool](http://twitter.com/search?q=Chelsea+vs+Liverpool) | N/A |
-| 31 | [Odyssey](http://twitter.com/search?q=Odyssey) | N/A |
+| 30 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 31 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
 | 32 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 33 | [Begal](http://twitter.com/search?q=Begal) | N/A |
-| 34 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 35 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 36 | [karma is an army](http://twitter.com/search?q=karma+is+an+army) | N/A |
-| 37 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
-| 38 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
-| 39 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 40 | [Mbah Slamet](http://twitter.com/search?q=Mbah+Slamet) | N/A |
-| 41 | [Banjarnegara](http://twitter.com/search?q=Banjarnegara) | N/A |
+| 33 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 34 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
+| 35 | [Begal](http://twitter.com/search?q=Begal) | N/A |
+| 36 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 37 | [Demokrat](http://twitter.com/search?q=Demokrat) | N/A |
+| 38 | [BPKP](http://twitter.com/search?q=BPKP) | N/A |
+| 39 | [AGUST D X IU IS COMING](http://twitter.com/search?q=AGUST+D+X+IU+IS+COMING) | N/A |
+| 40 | [KKUL FM](http://twitter.com/search?q=KKUL+FM) | N/A |
+| 41 | [Mbah Slamet](http://twitter.com/search?q=Mbah+Slamet) | N/A |
 | 42 | [Nmax](http://twitter.com/search?q=Nmax) | N/A |
-| 43 | [Demokrat](http://twitter.com/search?q=Demokrat) | N/A |
-| 44 | [AGUST D X IU IS COMING](http://twitter.com/search?q=AGUST+D+X+IU+IS+COMING) | N/A |
-| 45 | [Lazada Ramadan](http://twitter.com/search?q=Lazada+Ramadan) | N/A |
-| 46 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 47 | [Jenius QR](http://twitter.com/search?q=Jenius+QR) | N/A |
-| 48 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
-| 49 | [feat iu](http://twitter.com/search?q=feat+iu) | N/A |
-| 50 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 43 | [Odyssey](http://twitter.com/search?q=Odyssey) | N/A |
+| 44 | [Jenius QR](http://twitter.com/search?q=Jenius+QR) | N/A |
+| 45 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
+| 46 | [feat iu](http://twitter.com/search?q=feat+iu) | N/A |
+| 47 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 48 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 49 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 50 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
 
 
 

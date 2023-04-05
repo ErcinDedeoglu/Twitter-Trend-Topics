@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-04-05 07:17:02 UTC`
+📆 Last Updated: `2023-04-05 08:18:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 1 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
 | 2 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 3 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 4 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 6 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 7 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 8 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 4 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 5 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 6 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 7 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 8 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
 | 9 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 10 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 10 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
 | 11 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 12 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 14 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 15 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 16 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 17 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 13 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 14 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 15 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 16 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 17 | [#JJK219](http://twitter.com/search?q=%23JJK219) | N/A |
 | 18 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 19 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 20 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 21 | [#aimseyspace](http://twitter.com/search?q=%23aimseyspace) | N/A |
+| 19 | [Moody](http://twitter.com/search?q=Moody) | N/A |
+| 20 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 21 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
 | 22 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 23 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 24 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 25 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
-| 26 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 27 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 28 | [Moody](http://twitter.com/search?q=Moody) | N/A |
-| 29 | [Al McCoy](http://twitter.com/search?q=Al+McCoy) | N/A |
-| 30 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 31 | [WI Supreme Court](http://twitter.com/search?q=WI+Supreme+Court) | N/A |
-| 32 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 33 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
-| 34 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 35 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
-| 36 | [Evers](http://twitter.com/search?q=Evers) | N/A |
-| 37 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 38 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 39 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 40 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
-| 41 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 42 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 43 | [Jason Heyward](http://twitter.com/search?q=Jason+Heyward) | N/A |
-| 44 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 45 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 46 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 47 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
-| 48 | [O'Neill](http://twitter.com/search?q=O%27Neill) | N/A |
-| 49 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 50 | [Pacific Division](http://twitter.com/search?q=Pacific+Division) | N/A |
+| 23 | [Olynyk](http://twitter.com/search?q=Olynyk) | N/A |
+| 24 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
+| 25 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 26 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 27 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 28 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 29 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 30 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 31 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 32 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
+| 33 | [Evers](http://twitter.com/search?q=Evers) | N/A |
+| 34 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 35 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 36 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
+| 37 | [Jinyoung](http://twitter.com/search?q=Jinyoung) | N/A |
+| 38 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 39 | [Ronna](http://twitter.com/search?q=Ronna) | Ronna is a female given name, derived from the Hebrew name Veronica. It is a variant of the name Veronica, which means "true image". |
+| 40 | [Doc Rivers](http://twitter.com/search?q=Doc+Rivers) | N/A |
+| 41 | [Scott Walker](http://twitter.com/search?q=Scott+Walker) | N/A |
+| 42 | [Teoscar Hernandez](http://twitter.com/search?q=Teoscar+Hernandez) | N/A |
+| 43 | [O’Neill](http://twitter.com/search?q=O%e2%80%99Neill) | N/A |
+| 44 | [Knodl](http://twitter.com/search?q=Knodl) | N/A |
+| 45 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 46 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
+| 47 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 48 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 49 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
+| 50 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
 
 
 
