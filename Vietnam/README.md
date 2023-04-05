@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-04-05 11:17:13 UTC`
+📆 Last Updated: `2023-04-05 12:19:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for Vietnam
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#bkex](http://twitter.com/search?q=%23bkex) | N/A |
-| 2 | [#폭풍전야_CONCEPT_PHOTO_2](http://twitter.com/search?q=%23%ed%8f%ad%ed%92%8d%ec%a0%84%ec%95%bc_CONCEPT_PHOTO_2) | N/A |
+| 1 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 2 | [#Beyourluve](http://twitter.com/search?q=%23Beyourluve) | N/A |
 | 3 | [#Spring_Sunshine_LEW_Day](http://twitter.com/search?q=%23Spring_Sunshine_LEW_Day) | N/A |
-| 4 | [#rdnt](http://twitter.com/search?q=%23rdnt) | N/A |
-| 5 | [#EnglotHappy1stAns](http://twitter.com/search?q=%23EnglotHappy1stAns) | N/A |
-| 6 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
-| 7 | [PEACE LILY FOR BIBLE](http://twitter.com/search?q=PEACE+LILY+FOR+BIBLE) | N/A |
-| 8 | [2ND CONCEPT PHOTO](http://twitter.com/search?q=2ND+CONCEPT+PHOTO) | N/A |
-| 9 | [winter for vogue korea](http://twitter.com/search?q=winter+for+vogue+korea) | N/A |
-| 10 | [accessories](http://twitter.com/search?q=accessories) | N/A |
-| 11 | [Protector](http://twitter.com/search?q=Protector) | N/A |
-| 12 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 13 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 14 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
-| 15 | [hello to our hopeworld](http://twitter.com/search?q=hello+to+our+hopeworld) | N/A |
-| 16 | [chốt](http://twitter.com/search?q=ch%e1%bb%91t) | N/A |
+| 4 | [#EnglotHappy1stAns](http://twitter.com/search?q=%23EnglotHappy1stAns) | N/A |
+| 5 | [#OurSkyyxStarInMyMind](http://twitter.com/search?q=%23OurSkyyxStarInMyMind) | N/A |
+| 6 | [PEACE LILY FOR BIBLE](http://twitter.com/search?q=PEACE+LILY+FOR+BIBLE) | N/A |
+| 7 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
+| 8 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 9 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
+| 10 | [Babiu](http://twitter.com/search?q=Babiu) | N/A |
+| 11 | [P'Jak](http://twitter.com/search?q=P%27Jak) | N/A |
+| 12 | [2023 utc](http://twitter.com/search?q=2023+utc) | N/A |
+| 13 | [hello to our hopeworld](http://twitter.com/search?q=hello+to+our+hopeworld) | N/A |
+| 14 | [Tool](http://twitter.com/search?q=Tool) | N/A |
+| 15 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 16 | [Cushion Cover](http://twitter.com/search?q=Cushion+Cover) | N/A |
 | 17 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
-| 18 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
-| 19 | [flooring](http://twitter.com/search?q=flooring) | N/A |
-| 20 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
-| 21 | [floral skull](http://twitter.com/search?q=floral+skull) | N/A |
-| 22 | [Tool](http://twitter.com/search?q=Tool) | N/A |
-| 23 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 24 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 25 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 26 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 27 | [jennie new face of chanel22](http://twitter.com/search?q=jennie+new+face+of+chanel22) | N/A |
-| 28 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
-| 29 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 30 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 31 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 32 | [Kiểu](http://twitter.com/search?q=Ki%e1%bb%83u) | N/A |
-| 33 | [great project](http://twitter.com/search?q=great+project) | N/A |
-| 34 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 35 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 36 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 37 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 38 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 39 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 40 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
-| 41 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
-| 42 | [Đồng](http://twitter.com/search?q=%c4%90%e1%bb%93ng) | N/A |
-| 43 | [ngày](http://twitter.com/search?q=ng%c3%a0y) | N/A |
-| 44 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
-| 45 | [America](http://twitter.com/search?q=America) | N/A |
-| 46 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
-| 47 | [#BYLAlwaysLuveBIU](http://twitter.com/search?q=%23BYLAlwaysLuveBIU) | N/A |
-| 48 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
+| 18 | [2ND CONCEPT PHOTO](http://twitter.com/search?q=2ND+CONCEPT+PHOTO) | N/A |
+| 19 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
+| 20 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 21 | [Cuối](http://twitter.com/search?q=Cu%e1%bb%91i) | N/A |
+| 22 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 23 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 24 | [Rose Skull](http://twitter.com/search?q=Rose+Skull) | N/A |
+| 25 | [calaveras skull](http://twitter.com/search?q=calaveras+skull) | N/A |
+| 26 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
+| 27 | [Zksync](http://twitter.com/search?q=Zksync) | N/A |
+| 28 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 29 | [Motorcycle Skull](http://twitter.com/search?q=Motorcycle+Skull) | N/A |
+| 30 | [Grim Reaper](http://twitter.com/search?q=Grim+Reaper) | N/A |
+| 31 | [joong](http://twitter.com/search?q=joong) | N/A |
+| 32 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 33 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 34 | [Cùng](http://twitter.com/search?q=C%c3%b9ng) | N/A |
+| 35 | [Kiểu](http://twitter.com/search?q=Ki%e1%bb%83u) | N/A |
+| 36 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 37 | [Road to the Mainnet NFT](http://twitter.com/search?q=Road+to+the+Mainnet+NFT) | N/A |
+| 38 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 39 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 40 | [Cháy](http://twitter.com/search?q=Ch%c3%a1y) | N/A |
+| 41 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
+| 42 | [Phần Lan](http://twitter.com/search?q=Ph%e1%ba%a7n+Lan) | N/A |
+| 43 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 44 | [nanon](http://twitter.com/search?q=nanon) | N/A |
+| 45 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 46 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
+| 47 | [Chốt](http://twitter.com/search?q=Ch%e1%bb%91t) | N/A |
+| 48 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 49 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
 
 
 

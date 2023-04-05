@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-04-05 11:16:49 UTC`
+📆 Last Updated: `2023-04-05 12:18:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 3 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 4 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 5 | [DEAR KHOSI](http://twitter.com/search?q=DEAR+KHOSI) | N/A |
-| 6 | [Tamia](http://twitter.com/search?q=Tamia) | N/A |
-| 7 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 8 | [WE LOVE YOU TSATSII](http://twitter.com/search?q=WE+LOVE+YOU+TSATSII) | N/A |
-| 9 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
-| 10 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 11 | [#thehuntfordealsisover](http://twitter.com/search?q=%23thehuntfordealsisover) | N/A |
-| 12 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 13 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 14 | [#Iblewit](http://twitter.com/search?q=%23Iblewit) | N/A |
-| 15 | [#coronasunsetumhlanga](http://twitter.com/search?q=%23coronasunsetumhlanga) | N/A |
+| 1 | [LETTER TO KHOSI](http://twitter.com/search?q=LETTER+TO+KHOSI) | N/A |
+| 2 | [#FunDee](http://twitter.com/search?q=%23FunDee) | N/A |
+| 3 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
+| 4 | [#1LifeChangingLives](http://twitter.com/search?q=%231LifeChangingLives) | N/A |
+| 5 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
+| 6 | [#TheOnlyWayToGame](http://twitter.com/search?q=%23TheOnlyWayToGame) | N/A |
+| 7 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 8 | [DEAR KHOSI](http://twitter.com/search?q=DEAR+KHOSI) | N/A |
+| 9 | [Tamia](http://twitter.com/search?q=Tamia) | N/A |
+| 10 | [WE LOVE YOU TSATSII](http://twitter.com/search?q=WE+LOVE+YOU+TSATSII) | N/A |
+| 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 12 | [KHOSIREIGNS X KHOSI](http://twitter.com/search?q=KHOSIREIGNS+X+KHOSI) | N/A |
+| 13 | [KING KHOSI OF AFRICA](http://twitter.com/search?q=KING+KHOSI+OF+AFRICA) | N/A |
+| 14 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 15 | [TOP BABE TSATSII](http://twitter.com/search?q=TOP+BABE+TSATSII) | N/A |
 | 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 17 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 18 | [somizi](http://twitter.com/search?q=somizi) | N/A |
-| 19 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 20 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
-| 21 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 23 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 24 | [THABANG ON CLEAN SLATE](http://twitter.com/search?q=THABANG+ON+CLEAN+SLATE) | N/A |
-| 25 | [back yard](http://twitter.com/search?q=back+yard) | N/A |
-| 26 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 27 | [juicy jay the influencer](http://twitter.com/search?q=juicy+jay+the+influencer) | N/A |
-| 28 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 29 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 30 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 31 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 32 | [fohloza](http://twitter.com/search?q=fohloza) | N/A |
-| 33 | [LGBTQI](http://twitter.com/search?q=LGBTQI) | N/A |
-| 34 | [Deborah Cox](http://twitter.com/search?q=Deborah+Cox) | N/A |
-| 35 | [cape town city](http://twitter.com/search?q=cape+town+city) | N/A |
-| 36 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
-| 37 | [The Dome](http://twitter.com/search?q=The+Dome) | N/A |
-| 38 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 39 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 40 | [leeto](http://twitter.com/search?q=leeto) | N/A |
-| 41 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 42 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 43 | [mr kgomo](http://twitter.com/search?q=mr+kgomo) | N/A |
-| 44 | [ayanda dlamini](http://twitter.com/search?q=ayanda+dlamini) | N/A |
-| 45 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
-| 46 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 47 | [pfma](http://twitter.com/search?q=pfma) | N/A |
-| 48 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 49 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 50 | [MOST WANTED BLUE AIVA](http://twitter.com/search?q=MOST+WANTED+BLUE+AIVA) | N/A |
+| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 19 | [Woodmead](http://twitter.com/search?q=Woodmead) | N/A |
+| 20 | [Somizi](http://twitter.com/search?q=Somizi) | N/A |
+| 21 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 22 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 23 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
+| 24 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 25 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 26 | [BACK YARD](http://twitter.com/search?q=BACK+YARD) | N/A |
+| 27 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 28 | [FNB App](http://twitter.com/search?q=FNB+App) | N/A |
+| 29 | [THABANG JUST ARRIVED](http://twitter.com/search?q=THABANG+JUST+ARRIVED) | N/A |
+| 30 | [LGBTQI](http://twitter.com/search?q=LGBTQI) | N/A |
+| 31 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
+| 32 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 33 | [THABANG ON CLEAN SLATE](http://twitter.com/search?q=THABANG+ON+CLEAN+SLATE) | N/A |
+| 34 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 35 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 36 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 37 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 38 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 39 | [Mr kgomo](http://twitter.com/search?q=Mr+kgomo) | N/A |
+| 40 | [OUTA](http://twitter.com/search?q=OUTA) | N/A |
+| 41 | [Dyantyi](http://twitter.com/search?q=Dyantyi) | N/A |
+| 42 | [JUICY JAY THE INFLUENCER](http://twitter.com/search?q=JUICY+JAY+THE+INFLUENCER) | N/A |
+| 43 | [NO THABANG NO BUZZ](http://twitter.com/search?q=NO+THABANG+NO+BUZZ) | N/A |
+| 44 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 45 | [Deborah Cox](http://twitter.com/search?q=Deborah+Cox) | N/A |
+| 46 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
+| 47 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
+| 48 | [The Dome](http://twitter.com/search?q=The+Dome) | N/A |
+| 49 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
+| 50 | [Transnet](http://twitter.com/search?q=Transnet) | N/A |
 
 
 

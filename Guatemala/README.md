@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-05 11:17:08 UTC`
+📆 Last Updated: `2023-04-05 12:19:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Guatemala
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 3 | [Foppa](http://twitter.com/search?q=Foppa) | N/A |
-| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 5 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 6 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
-| 7 | [la reseña](http://twitter.com/search?q=la+rese%c3%b1a) | N/A |
-| 8 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 9 | [tres potencias](http://twitter.com/search?q=tres+potencias) | N/A |
-| 10 | [#CubaCoopera](http://twitter.com/search?q=%23CubaCoopera) | N/A |
-| 11 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 12 | [#ElGobDeLosGuatemaltecos](http://twitter.com/search?q=%23ElGobDeLosGuatemaltecos) | N/A |
-| 13 | [Jesús de la Merced](http://twitter.com/search?q=Jes%c3%bas+de+la+Merced) | N/A |
-| 14 | [#tebasout](http://twitter.com/search?q=%23tebasout) | N/A |
-| 15 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 16 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 17 | [Mario Bros](http://twitter.com/search?q=Mario+Bros) | N/A |
-| 18 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 19 | [Sat.](http://twitter.com/search?q=Sat.) | N/A |
-| 20 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 21 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 23 | [patrón jurado](http://twitter.com/search?q=patr%c3%b3n+jurado) | N/A |
-| 24 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 25 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
-| 26 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 27 | [Canela](http://twitter.com/search?q=Canela) | N/A |
-| 28 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 29 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 30 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 31 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 32 | [San Pedro](http://twitter.com/search?q=San+Pedro) | N/A |
-| 33 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 34 | [Palencia](http://twitter.com/search?q=Palencia) | N/A |
-| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 36 | [Depende](http://twitter.com/search?q=Depende) | N/A |
-| 37 | [Calzada Roosevelt](http://twitter.com/search?q=Calzada+Roosevelt) | N/A |
-| 38 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 39 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 40 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 41 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 42 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 43 | [shombre](http://twitter.com/search?q=shombre) | N/A |
-| 44 | [izabal](http://twitter.com/search?q=izabal) | N/A |
-| 45 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 46 | [Walmart](http://twitter.com/search?q=Walmart) | N/A |
-| 47 | [Coatepeque](http://twitter.com/search?q=Coatepeque) | N/A |
-| 48 | [PLGP](http://twitter.com/search?q=PLGP) | N/A |
-| 49 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 50 | [Arzu](http://twitter.com/search?q=Arzu) | N/A |
+| 2 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
+| 3 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 4 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 6 | [Foppa](http://twitter.com/search?q=Foppa) | N/A |
+| 7 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 8 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 10 | [#elgobdelosguatemaltecos](http://twitter.com/search?q=%23elgobdelosguatemaltecos) | N/A |
+| 11 | [#cubacoopera](http://twitter.com/search?q=%23cubacoopera) | N/A |
+| 12 | [Copa del Rey](http://twitter.com/search?q=Copa+del+Rey) | N/A |
+| 13 | [La Reseña](http://twitter.com/search?q=La+Rese%c3%b1a) | N/A |
+| 14 | [Sat.](http://twitter.com/search?q=Sat.) | N/A |
+| 15 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 16 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 17 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 18 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 19 | [#reportenacional](http://twitter.com/search?q=%23reportenacional) | N/A |
+| 20 | [NO VALE MENTIR](http://twitter.com/search?q=NO+VALE+MENTIR) | N/A |
+| 21 | [Palencia](http://twitter.com/search?q=Palencia) | N/A |
+| 22 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 23 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 24 | [Canela](http://twitter.com/search?q=Canela) | N/A |
+| 25 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
+| 26 | [El Taquero](http://twitter.com/search?q=El+Taquero) | N/A |
+| 27 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 28 | [coatepeque](http://twitter.com/search?q=coatepeque) | N/A |
+| 29 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 30 | [Quiñonez](http://twitter.com/search?q=Qui%c3%b1onez) | N/A |
+| 31 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
+| 32 | [patrón jurado](http://twitter.com/search?q=patr%c3%b3n+jurado) | N/A |
+| 33 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 34 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 35 | [Arzu](http://twitter.com/search?q=Arzu) | N/A |
+| 36 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 37 | [Los Ángeles](http://twitter.com/search?q=Los+%c3%81ngeles) | N/A |
+| 38 | [Municipal](http://twitter.com/search?q=Municipal) | N/A |
+| 39 | [anahí keller](http://twitter.com/search?q=anah%c3%ad+keller) | N/A |
+| 40 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 41 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 42 | [Bienvenido](http://twitter.com/search?q=Bienvenido) | N/A |
+| 43 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
+| 44 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 45 | [Mary](http://twitter.com/search?q=Mary) | N/A |
+| 46 | [Calzada Roosevelt](http://twitter.com/search?q=Calzada+Roosevelt) | N/A |
+| 47 | [Porqué](http://twitter.com/search?q=Porqu%c3%a9) | N/A |
+| 48 | [Virgen](http://twitter.com/search?q=Virgen) | N/A |
+| 49 | [jalapa](http://twitter.com/search?q=jalapa) | N/A |
+| 50 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 
 
 

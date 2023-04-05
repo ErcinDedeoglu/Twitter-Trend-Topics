@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-04-05 11:16:30 UTC`
+📆 Last Updated: `2023-04-05 12:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 2 | [#kksleg](http://twitter.com/search?q=%23kksleg) | N/A |
-| 3 | [#lovejoygdańsk](http://twitter.com/search?q=%23lovejoygda%c5%84sk) | N/A |
-| 4 | [#opozycjawygra](http://twitter.com/search?q=%23opozycjawygra) | N/A |
-| 5 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
-| 6 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
-| 7 | [Kalisza](http://twitter.com/search?q=Kalisza) | N/A |
-| 8 | [europejskiej partii ludowej](http://twitter.com/search?q=europejskiej+partii+ludowej) | N/A |
-| 9 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 10 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
-| 11 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
-| 12 | [lasy państwowe](http://twitter.com/search?q=lasy+pa%c5%84stwowe) | N/A |
-| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 14 | [sojuszu](http://twitter.com/search?q=sojuszu) | N/A |
-| 15 | [legii](http://twitter.com/search?q=legii) | N/A |
-| 16 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 17 | [semeniuk](http://twitter.com/search?q=semeniuk) | N/A |
+| 1 | [Order Orła Białego](http://twitter.com/search?q=Order+Or%c5%82a+Bia%c5%82ego) | N/A |
+| 2 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 3 | [#KKSLEG](http://twitter.com/search?q=%23KKSLEG) | N/A |
+| 4 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
+| 5 | [#PiSprzegra](http://twitter.com/search?q=%23PiSprzegra) | N/A |
+| 6 | [#lovejoygdańsk](http://twitter.com/search?q=%23lovejoygda%c5%84sk) | N/A |
+| 7 | [#OpozycjaWygra](http://twitter.com/search?q=%23OpozycjaWygra) | N/A |
+| 8 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 9 | [Henryk Kowalczyk](http://twitter.com/search?q=Henryk+Kowalczyk) | N/A |
+| 10 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
+| 11 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
+| 12 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 13 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 14 | [Europejskiej Partii Ludowej](http://twitter.com/search?q=Europejskiej+Partii+Ludowej) | N/A |
+| 15 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 16 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
+| 17 | [Hańba](http://twitter.com/search?q=Ha%c5%84ba) | N/A |
 | 18 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
-| 19 | [polskie radio](http://twitter.com/search?q=polskie+radio) | N/A |
-| 20 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 21 | [miłego](http://twitter.com/search?q=mi%c5%82ego) | N/A |
-| 22 | [nowym jorku](http://twitter.com/search?q=nowym+jorku) | N/A |
-| 23 | [różański](http://twitter.com/search?q=r%c3%b3%c5%bca%c5%84ski) | N/A |
-| 24 | [wołyń](http://twitter.com/search?q=wo%c5%82y%c5%84) | N/A |
-| 25 | [szwecję](http://twitter.com/search?q=szwecj%c4%99) | N/A |
-| 26 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 27 | [Ukrainki](http://twitter.com/search?q=Ukrainki) | N/A |
-| 28 | [Panią](http://twitter.com/search?q=Pani%c4%85) | N/A |
-| 29 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 30 | [narodowym](http://twitter.com/search?q=narodowym) | N/A |
-| 31 | [andżelika borys](http://twitter.com/search?q=and%c5%bcelika+borys) | N/A |
-| 32 | [finowie](http://twitter.com/search?q=finowie) | N/A |
-| 33 | [tarczyński](http://twitter.com/search?q=tarczy%c5%84ski) | N/A |
-| 34 | [bartosiaka](http://twitter.com/search?q=bartosiaka) | N/A |
-| 35 | [szwajcaria](http://twitter.com/search?q=szwajcaria) | N/A |
-| 36 | [belgijska](http://twitter.com/search?q=belgijska) | N/A |
-| 37 | [freiburgiem](http://twitter.com/search?q=freiburgiem) | N/A |
-| 38 | [zełenskiego](http://twitter.com/search?q=ze%c5%82enskiego) | N/A |
-| 39 | [jacuś](http://twitter.com/search?q=jacu%c5%9b) | N/A |
-| 40 | [migi](http://twitter.com/search?q=migi) | N/A |
-| 41 | [elona](http://twitter.com/search?q=elona) | N/A |
-| 42 | [szczujnia](http://twitter.com/search?q=szczujnia) | N/A |
-| 43 | [jagiellonii](http://twitter.com/search?q=jagiellonii) | N/A |
-| 44 | [donka](http://twitter.com/search?q=donka) | N/A |
-| 45 | [monachium](http://twitter.com/search?q=monachium) | N/A |
-| 46 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 47 | [zacznie](http://twitter.com/search?q=zacznie) | N/A |
-| 48 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 19 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 20 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 21 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
+| 22 | [Różański](http://twitter.com/search?q=R%c3%b3%c5%bca%c5%84ski) | N/A |
+| 23 | [Paweł Kukiz](http://twitter.com/search?q=Pawe%c5%82+Kukiz) | N/A |
+| 24 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
+| 25 | [Semeniuk](http://twitter.com/search?q=Semeniuk) | N/A |
+| 26 | [sojuszu północnoatlantyckiego](http://twitter.com/search?q=sojuszu+p%c3%b3%c5%82nocnoatlantyckiego) | N/A |
+| 27 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 28 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
+| 29 | [Pani Magdaleno](http://twitter.com/search?q=Pani+Magdaleno) | N/A |
+| 30 | [Janusz Kowalski](http://twitter.com/search?q=Janusz+Kowalski) | N/A |
+| 31 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
+| 32 | [Wielka Środa](http://twitter.com/search?q=Wielka+%c5%9aroda) | N/A |
+| 33 | [mameda](http://twitter.com/search?q=mameda) | N/A |
+| 34 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 35 | [Polskie Radio](http://twitter.com/search?q=Polskie+Radio) | N/A |
+| 36 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 37 | [Zacznie](http://twitter.com/search?q=Zacznie) | N/A |
+| 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 39 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
+| 40 | [Freiburgiem](http://twitter.com/search?q=Freiburgiem) | N/A |
+| 41 | [Belgijska](http://twitter.com/search?q=Belgijska) | N/A |
+| 42 | [Finowie](http://twitter.com/search?q=Finowie) | N/A |
+| 43 | [Pucharu Króla](http://twitter.com/search?q=Pucharu+Kr%c3%b3la) | N/A |
+| 44 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 45 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
+| 46 | [Panią](http://twitter.com/search?q=Pani%c4%85) | N/A |
+| 47 | [Turyngii](http://twitter.com/search?q=Turyngii) | N/A |
+| 48 | [Słuszna](http://twitter.com/search?q=S%c5%82uszna) | N/A |
 
 
 

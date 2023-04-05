@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-05 11:16:19 UTC`
+📆 Last Updated: `2023-04-05 12:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,16 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [#الاقصي_يستغيث](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a_%d9%8a%d8%b3%d8%aa%d8%ba%d9%8a%d8%ab) | N/A |
-| 4 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 5 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
-| 6 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 7 | [#MescidiAksa](http://twitter.com/search?q=%23MescidiAksa) | N/A |
-| 8 | [#TierraDeNadie5](http://twitter.com/search?q=%23TierraDeNadie5) | N/A |
-| 9 | [feather](http://twitter.com/search?q=feather) | Feather is a light, fluffy structure that grows on the bodies of birds and some other animals. It is made up of a central shaft with barbs on either side. Feathers are used for insulation, flight, and protection. They can also be used in art and fashion. |
-| 10 | [#فوازير_غازي_الذيابي7](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a7) | N/A |
-| 11 | [Palavecino](http://twitter.com/search?q=Palavecino) | N/A |
-| 12 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 13 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 14 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
-| 15 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
-| 16 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
-| 17 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 18 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 19 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 20 | [Gattoni](http://twitter.com/search?q=Gattoni) | N/A |
-| 21 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 23 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 24 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 25 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
-| 26 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 27 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 28 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
-| 29 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 31 | [Demichelis](http://twitter.com/search?q=Demichelis) | Demichelis is a surname of Italian origin. It is derived from the given name Michelangelo, which means "angel of God". In English, the name Demichelis can be translated to mean "God's angel". |
-| 32 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 33 | [Odair](http://twitter.com/search?q=Odair) | N/A |
-| 34 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
-| 35 | [menezes](http://twitter.com/search?q=menezes) | N/A |
-| 36 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
-| 37 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
-| 38 | [المصلي القبلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a) | N/A |
-| 39 | [Paulo Diaz](http://twitter.com/search?q=Paulo+Diaz) | N/A |
-| 40 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 41 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
-| 42 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 43 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 44 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 45 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 46 | [マエケン](http://twitter.com/search?q=%e3%83%9e%e3%82%a8%e3%82%b1%e3%83%b3) | N/A |
-| 47 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 48 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 49 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 50 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 1 | [#AURMEAXBecky](http://twitter.com/search?q=%23AURMEAXBecky) | N/A |
+| 2 | [並木くん](http://twitter.com/search?q=%e4%b8%a6%e6%9c%a8%e3%81%8f%e3%82%93) | 並木くん is a character from the Japanese manga series "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo". He is a young boy who lives in the neighborhood of Kameari Park and is known for his mischievous behavior. His name literally translates to "Mr. Line Tree" in English. |
+| 3 | [#解体キングダム](http://twitter.com/search?q=%23%e8%a7%a3%e4%bd%93%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%80%e3%83%a0) | N/A |
+| 4 | [#笑ってコラえて](http://twitter.com/search?q=%23%e7%ac%91%e3%81%a3%e3%81%a6%e3%82%b3%e3%83%a9%e3%81%88%e3%81%a6) | N/A |
+| 5 | [#GETRISINGTORISER](http://twitter.com/search?q=%23GETRISINGTORISER) | N/A |
+| 6 | [#あなたがときめく5文字教えて下さい](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c%e3%81%a8%e3%81%8d%e3%82%81%e3%81%8f5%e6%96%87%e5%ad%97%e6%95%99%e3%81%88%e3%81%a6%e4%b8%8b%e3%81%95%e3%81%84) | N/A |
+| 7 | [feather](http://twitter.com/search?q=feather) | Feather is a light, fluffy structure that grows on the bodies of birds and some other animals. It is made up of a central shaft with barbs on either side. Feathers are used for insulation, flight, and protection. They can also be used in art and fashion. |
+| 8 | [#مسابقه_NHC](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_NHC) | N/A |
+| 9 | [#Kudüs](http://twitter.com/search?q=%23Kud%c3%bcs) | N/A |
+| 10 | [#MescidiAksa](http://twitter.com/search?q=%23MescidiAksa) | N/A |
 
 
 

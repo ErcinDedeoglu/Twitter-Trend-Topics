@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-04-05 11:17:03 UTC`
+📆 Last Updated: `2023-04-05 12:18:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 3 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 4 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 5 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 6 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 7 | [#gamingdoge](http://twitter.com/search?q=%23gamingdoge) | N/A |
-| 8 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 10 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 11 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 12 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 13 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 14 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 15 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 16 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 17 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 18 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 19 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 20 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 21 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 22 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 23 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 24 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 25 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 26 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 27 | [PJ TUCKER](http://twitter.com/search?q=PJ+TUCKER) | N/A |
-| 28 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 29 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 30 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 31 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 32 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 33 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 34 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 35 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 36 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 37 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 38 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 39 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 40 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 41 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 42 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 43 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 44 | [Damian Jones](http://twitter.com/search?q=Damian+Jones) | N/A |
-| 45 | [One Shining Moment](http://twitter.com/search?q=One+Shining+Moment) | N/A |
-| 46 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 47 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
-| 48 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
-| 49 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
-| 50 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 1 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 2 | [florida](http://twitter.com/search?q=florida) | N/A |
+| 3 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 4 | [Hollister](http://twitter.com/search?q=Hollister) | N/A |
+| 5 | [san jose](http://twitter.com/search?q=san+jose) | N/A |
+| 6 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 7 | [utah](http://twitter.com/search?q=utah) | N/A |
+| 8 | [JAZZ](http://twitter.com/search?q=JAZZ) | N/A |
+| 9 | [ZOOM](http://twitter.com/search?q=ZOOM) | N/A |
+| 10 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
+| 11 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 12 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 13 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 14 | [michael cera](http://twitter.com/search?q=michael+cera) | N/A |
+| 15 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 16 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 17 | [Spider-man](http://twitter.com/search?q=Spider-man) | N/A |
+| 18 | [#VtuberUprising](http://twitter.com/search?q=%23VtuberUprising) | N/A |
+| 19 | [DOGE](http://twitter.com/search?q=DOGE) | N/A |
+| 20 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 21 | [caitlin clark](http://twitter.com/search?q=caitlin+clark) | N/A |
+| 22 | [reese](http://twitter.com/search?q=reese) | N/A |
+| 23 | [harry potter](http://twitter.com/search?q=harry+potter) | N/A |
+| 24 | [roman](http://twitter.com/search?q=roman) | N/A |
+| 25 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 26 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 28 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 30 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 31 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 32 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 33 | [PJ TUCKER](http://twitter.com/search?q=PJ+TUCKER) | N/A |
+| 34 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 35 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 36 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 37 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
+| 38 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 39 | [scherzer](http://twitter.com/search?q=scherzer) | N/A |
+| 40 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 41 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 42 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
+| 43 | [brandon](http://twitter.com/search?q=brandon) | N/A |
+| 44 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 45 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 46 | [Mar-A-Lago](http://twitter.com/search?q=Mar-A-Lago) | N/A |
+| 47 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 48 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
 
 
 
