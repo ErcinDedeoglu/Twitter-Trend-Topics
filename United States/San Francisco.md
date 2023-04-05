@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-05 15:17:54 UTC`
+📆 Last Updated: `2023-04-05 17:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 2 | [DAMIAN JONES](http://twitter.com/search?q=DAMIAN+JONES) | N/A |
-| 3 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
-| 4 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 5 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
-| 6 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 7 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 8 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 9 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 10 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 11 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 12 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
-| 13 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 14 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 15 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 16 | [#HereToPlay](http://twitter.com/search?q=%23HereToPlay) | N/A |
-| 17 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 18 | [#lockhimup](http://twitter.com/search?q=%23lockhimup) | N/A |
-| 19 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 20 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 21 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 23 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 24 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 25 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 26 | [America](http://twitter.com/search?q=America) | N/A |
-| 27 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 28 | [#gamingdoge](http://twitter.com/search?q=%23gamingdoge) | N/A |
-| 29 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 30 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 31 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 32 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 33 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 34 | [NEW MEMORIES WITH BIBLEBUILD](http://twitter.com/search?q=NEW+MEMORIES+WITH+BIBLEBUILD) | N/A |
-| 35 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 36 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 37 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 38 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 39 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 40 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 41 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 42 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
-| 43 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 44 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 45 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 46 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 47 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 48 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 49 | [jim nantz](http://twitter.com/search?q=jim+nantz) | N/A |
-| 50 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 3 | [Dominic Rhodes](http://twitter.com/search?q=Dominic+Rhodes) | N/A |
+| 4 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 6 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
+| 7 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 8 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 9 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 10 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 11 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 12 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
+| 13 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 14 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 15 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 16 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 17 | [#GoldStarSpousesDay](http://twitter.com/search?q=%23GoldStarSpousesDay) | N/A |
+| 18 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 19 | [Vickie](http://twitter.com/search?q=Vickie) | N/A |
+| 20 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
+| 21 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
+| 22 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 23 | [Daily Quordle 436](http://twitter.com/search?q=Daily+Quordle+436) | N/A |
+| 24 | [Bryce Dallas Howard](http://twitter.com/search?q=Bryce+Dallas+Howard) | N/A |
+| 25 | [Ronna](http://twitter.com/search?q=Ronna) | Ronna is a female given name, derived from the Hebrew name Veronica. It is a variant of the name Veronica, which means "true image". |
+| 26 | [Seder](http://twitter.com/search?q=Seder) | N/A |
+| 27 | [Lori Lightfoot](http://twitter.com/search?q=Lori+Lightfoot) | N/A |
+| 28 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
+| 29 | [The Super Mario Bros](http://twitter.com/search?q=The+Super+Mario+Bros) | N/A |
+| 30 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
+| 31 | [Mario Movie](http://twitter.com/search?q=Mario+Movie) | N/A |
+| 32 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 33 | [WotC](http://twitter.com/search?q=WotC) | WotC stands for Wizards of the Coast, a publisher of fantasy and science fiction games, books, and other products. It is best known for its role-playing game Dungeons & Dragons. |
+| 34 | [#SafePlaceSelfie](http://twitter.com/search?q=%23SafePlaceSelfie) | N/A |
+| 35 | [#NationalWalkingDay](http://twitter.com/search?q=%23NationalWalkingDay) | N/A |
+| 36 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 37 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 38 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 39 | [#IStandWithEvan](http://twitter.com/search?q=%23IStandWithEvan) | N/A |
+| 40 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 41 | [#ncpol](http://twitter.com/search?q=%23ncpol) | N/A |
+| 42 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
+| 43 | [#JJK219](http://twitter.com/search?q=%23JJK219) | N/A |
+| 44 | [#firevince](http://twitter.com/search?q=%23firevince) | N/A |
 
 
 

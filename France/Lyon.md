@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-04-05 15:17:21 UTC`
+📆 Last Updated: `2023-04-05 17:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Kohlanta](http://twitter.com/search?q=%23Kohlanta) | N/A |
-| 2 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
-| 3 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
-| 4 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 5 | [#JucheeCommeJamais](http://twitter.com/search?q=%23JucheeCommeJamais) | N/A |
-| 6 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
-| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 8 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 9 | [KANTÉ](http://twitter.com/search?q=KANT%c3%89) | N/A |
-| 10 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 11 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 12 | [Duhamel](http://twitter.com/search?q=Duhamel) | N/A |
-| 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 14 | [Ligue](http://twitter.com/search?q=Ligue) | N/A |
-| 15 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 16 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 17 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 18 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 19 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
-| 20 | [la ps5](http://twitter.com/search?q=la+ps5) | N/A |
-| 21 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 22 | [chelsea liverpool](http://twitter.com/search?q=chelsea+liverpool) | N/A |
-| 23 | [Droits](http://twitter.com/search?q=Droits) | N/A |
-| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 25 | [Dreyfus](http://twitter.com/search?q=Dreyfus) | N/A |
-| 26 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
-| 27 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 28 | [Thomas Bangalter](http://twitter.com/search?q=Thomas+Bangalter) | N/A |
-| 29 | [prochain concert](http://twitter.com/search?q=prochain+concert) | N/A |
-| 30 | [pire concert](http://twitter.com/search?q=pire+concert) | N/A |
-| 31 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 32 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 33 | [concert de rêve](http://twitter.com/search?q=concert+de+r%c3%aave) | N/A |
-| 34 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 35 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
-| 36 | [esteban](http://twitter.com/search?q=esteban) | N/A |
-| 37 | [delormeau](http://twitter.com/search?q=delormeau) | N/A |
-| 38 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
-| 39 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 40 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 41 | [Kev adams](http://twitter.com/search?q=Kev+adams) | N/A |
-| 42 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 43 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
-| 44 | [La LDH](http://twitter.com/search?q=La+LDH) | N/A |
-| 45 | [fribourg](http://twitter.com/search?q=fribourg) | N/A |
-| 46 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 47 | [Pirouette](http://twitter.com/search?q=Pirouette) | N/A |
-| 48 | [J'avoue](http://twitter.com/search?q=J%27avoue) | N/A |
-| 49 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 50 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 1 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
+| 2 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
+| 3 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 5 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
+| 6 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 7 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 8 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 9 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 10 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 11 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 12 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 14 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
+| 15 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 17 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 18 | [Ligue](http://twitter.com/search?q=Ligue) | N/A |
+| 19 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 20 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 21 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
+| 22 | [Dreyfus](http://twitter.com/search?q=Dreyfus) | N/A |
+| 23 | [Edouard Philippe](http://twitter.com/search?q=Edouard+Philippe) | N/A |
+| 24 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 25 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 26 | [Al-Aqsa](http://twitter.com/search?q=Al-Aqsa) | N/A |
+| 27 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 28 | [Chelsea liverpool](http://twitter.com/search?q=Chelsea+liverpool) | N/A |
+| 29 | [Droits](http://twitter.com/search?q=Droits) | N/A |
+| 30 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 31 | [La PS5](http://twitter.com/search?q=La+PS5) | N/A |
+| 32 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 33 | [Matignon](http://twitter.com/search?q=Matignon) | N/A |
+| 34 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
+| 35 | [IFOP](http://twitter.com/search?q=IFOP) | N/A |
+| 36 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 37 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 38 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 39 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 40 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 41 | [Pessah](http://twitter.com/search?q=Pessah) | N/A |
+| 42 | [Pirouette](http://twitter.com/search?q=Pirouette) | N/A |
+| 43 | [Maillot](http://twitter.com/search?q=Maillot) | N/A |
+| 44 | [Thomas Bangalter](http://twitter.com/search?q=Thomas+Bangalter) | N/A |
+| 45 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 46 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 47 | [Joffrin](http://twitter.com/search?q=Joffrin) | N/A |
+| 48 | [La LDH](http://twitter.com/search?q=La+LDH) | N/A |
+| 49 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 
 
 

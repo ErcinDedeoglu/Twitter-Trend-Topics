@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-04-05 15:17:54 UTC`
+📆 Last Updated: `2023-04-05 17:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 2 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 3 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 4 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 5 | [#txlege](http://twitter.com/search?q=%23txlege) | N/A |
-| 6 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 7 | [#Rockets](http://twitter.com/search?q=%23Rockets) | N/A |
-| 8 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 9 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 10 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 11 | [YORDAN](http://twitter.com/search?q=YORDAN) | N/A |
-| 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 15 | [America](http://twitter.com/search?q=America) | N/A |
-| 16 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 17 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 18 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 19 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 20 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 21 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 22 | [NEW MEMORIES WITH BIBLEBUILD](http://twitter.com/search?q=NEW+MEMORIES+WITH+BIBLEBUILD) | N/A |
-| 23 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 24 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 25 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 26 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 27 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 28 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 29 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 30 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
-| 31 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 32 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 33 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 34 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 35 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 36 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 37 | [jim nantz](http://twitter.com/search?q=jim+nantz) | N/A |
-| 38 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 39 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 40 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 41 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 42 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 43 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 44 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 45 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 46 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 47 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 48 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
-| 49 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 50 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 2 | [Dominic Rhodes](http://twitter.com/search?q=Dominic+Rhodes) | N/A |
+| 3 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 4 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 5 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
+| 6 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 7 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 8 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 9 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 10 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 11 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
+| 12 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 13 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 14 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 15 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 16 | [#GoldStarSpousesDay](http://twitter.com/search?q=%23GoldStarSpousesDay) | N/A |
+| 17 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 18 | [Vickie](http://twitter.com/search?q=Vickie) | N/A |
+| 19 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
+| 20 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
+| 21 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 22 | [Daily Quordle 436](http://twitter.com/search?q=Daily+Quordle+436) | N/A |
+| 23 | [Bryce Dallas Howard](http://twitter.com/search?q=Bryce+Dallas+Howard) | N/A |
+| 24 | [Ronna](http://twitter.com/search?q=Ronna) | Ronna is a female given name, derived from the Hebrew name Veronica. It is a variant of the name Veronica, which means "true image". |
+| 25 | [Seder](http://twitter.com/search?q=Seder) | N/A |
+| 26 | [Lori Lightfoot](http://twitter.com/search?q=Lori+Lightfoot) | N/A |
+| 27 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
+| 28 | [The Super Mario Bros](http://twitter.com/search?q=The+Super+Mario+Bros) | N/A |
+| 29 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
+| 30 | [Mario Movie](http://twitter.com/search?q=Mario+Movie) | N/A |
+| 31 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 32 | [WotC](http://twitter.com/search?q=WotC) | WotC stands for Wizards of the Coast, a publisher of fantasy and science fiction games, books, and other products. It is best known for its role-playing game Dungeons & Dragons. |
+| 33 | [#SafePlaceSelfie](http://twitter.com/search?q=%23SafePlaceSelfie) | N/A |
+| 34 | [#NationalWalkingDay](http://twitter.com/search?q=%23NationalWalkingDay) | N/A |
+| 35 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 36 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 37 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 38 | [#IStandWithEvan](http://twitter.com/search?q=%23IStandWithEvan) | N/A |
+| 39 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 40 | [#ncpol](http://twitter.com/search?q=%23ncpol) | N/A |
+| 41 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
+| 42 | [#JJK219](http://twitter.com/search?q=%23JJK219) | N/A |
+| 43 | [#firevince](http://twitter.com/search?q=%23firevince) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangalore
 
-📆 Last Updated: `2023-04-05 15:17:45 UTC`
+📆 Last Updated: `2023-04-05 17:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,47 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WeDontWantKicchaInPolitics](http://twitter.com/search?q=%23WeDontWantKicchaInPolitics) | N/A |
-| 2 | [#AskDilraju](http://twitter.com/search?q=%23AskDilraju) | N/A |
-| 3 | [#RRvPBKS](http://twitter.com/search?q=%23RRvPBKS) | N/A |
+| 2 | [#RRvPBKS](http://twitter.com/search?q=%23RRvPBKS) | N/A |
+| 3 | [#AskDilraju](http://twitter.com/search?q=%23AskDilraju) | N/A |
 | 4 | [#PadmaAwards2023](http://twitter.com/search?q=%23PadmaAwards2023) | N/A |
-| 5 | [#BJPLeaks](http://twitter.com/search?q=%23BJPLeaks) | N/A |
-| 6 | [HBD DIVA RUPALI GANGULY](http://twitter.com/search?q=HBD+DIVA+RUPALI+GANGULY) | N/A |
-| 7 | [मुलायम सिंह यादव](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%b2%e0%a4%be%e0%a4%af%e0%a4%ae+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | मुलायम सिंह यादव is a Hindi phrase which translates to "Mulayam Singh Yadav" in English. It is the name of an Indian politician who served as the Chief Minister of Uttar Pradesh from 2003 to 2017. |
-| 8 | [SHIV HITS 100K YT FAM](http://twitter.com/search?q=SHIV+HITS+100K+YT+FAM) | N/A |
-| 9 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 10 | [हनुमान जयंती](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 11 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 12 | [SSRCase Delay Helps Accused](http://twitter.com/search?q=SSRCase+Delay+Helps+Accused) | N/A |
-| 13 | [बाबू जगजीवन राम](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82+%e0%a4%9c%e0%a4%97%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 14 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 15 | [महर्षि कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%b0%e0%a5%8d%e0%a4%b7%e0%a4%bf+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 17 | [#askbholaa](http://twitter.com/search?q=%23askbholaa) | N/A |
-| 18 | [#AlluArjunBirthdayCDP](http://twitter.com/search?q=%23AlluArjunBirthdayCDP) | N/A |
+| 5 | [Dhawan](http://twitter.com/search?q=Dhawan) | N/A |
+| 6 | [#BJPLeaks](http://twitter.com/search?q=%23BJPLeaks) | N/A |
+| 7 | [नेताजी अमर](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%a4%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%85%e0%a4%ae%e0%a4%b0) | N/A |
+| 8 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 9 | [मुलायम सिंह यादव](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%b2%e0%a4%be%e0%a4%af%e0%a4%ae+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | मुलायम सिंह यादव is a Hindi phrase which translates to "Mulayam Singh Yadav" in English. It is the name of an Indian politician who served as the Chief Minister of Uttar Pradesh from 2003 to 2017. |
+| 10 | [HBD DIVA RUPALI GANGULY](http://twitter.com/search?q=HBD+DIVA+RUPALI+GANGULY) | N/A |
+| 11 | [SHIV HITS 100K YT FAM](http://twitter.com/search?q=SHIV+HITS+100K+YT+FAM) | N/A |
+| 12 | [हनुमान जयंती](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 13 | [Sudeep](http://twitter.com/search?q=Sudeep) | N/A |
+| 14 | [महात्मा गांधी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | महात्मा गांधी (Mahatma Gandhi) is the title given to Mohandas Karamchand Gandhi, an Indian political and spiritual leader who led India's struggle for independence from British rule. He is often referred to as the "Father of the Nation" in India. The term Mahatma, which literally means "great soul," was bestowed upon him by Rabindranath Tagore. |
+| 15 | [SSRCase Delay Helps Accused](http://twitter.com/search?q=SSRCase+Delay+Helps+Accused) | N/A |
+| 16 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 17 | [महर्षि कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%b0%e0%a5%8d%e0%a4%b7%e0%a4%bf+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 19 | [#PeoplesPadma](http://twitter.com/search?q=%23PeoplesPadma) | N/A |
-| 20 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
-| 21 | [#War2](http://twitter.com/search?q=%23War2) | N/A |
-| 22 | [#KicchaSudeep](http://twitter.com/search?q=%23KicchaSudeep) | N/A |
-| 23 | [#WinRedmiNote12](http://twitter.com/search?q=%23WinRedmiNote12) | N/A |
-| 24 | [#SuperNoteSuperDesign](http://twitter.com/search?q=%23SuperNoteSuperDesign) | N/A |
-| 25 | [#hanumanjayanti](http://twitter.com/search?q=%23hanumanjayanti) | N/A |
-| 26 | [#PunjabKings](http://twitter.com/search?q=%23PunjabKings) | N/A |
-| 27 | [#NayaBharat_YuvaJosh](http://twitter.com/search?q=%23NayaBharat_YuvaJosh) | N/A |
-| 28 | [#JrNTR](http://twitter.com/search?q=%23JrNTR) | N/A |
-| 29 | [#AapkaPartner](http://twitter.com/search?q=%23AapkaPartner) | N/A |
-| 30 | [#HrithikRoshan](http://twitter.com/search?q=%23HrithikRoshan) | N/A |
-| 31 | [#AlAqsaUnderAttack](http://twitter.com/search?q=%23AlAqsaUnderAttack) | N/A |
-| 32 | [#stufflistingsarmy](http://twitter.com/search?q=%23stufflistingsarmy) | N/A |
-| 33 | [#पूजा_हत्यारें_को_फांसी_दो](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%82%e0%a4%9c%e0%a4%be_%e0%a4%b9%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b0%e0%a5%87%e0%a4%82_%e0%a4%95%e0%a5%8b_%e0%a4%ab%e0%a4%be%e0%a4%82%e0%a4%b8%e0%a5%80_%e0%a4%a6%e0%a5%8b) | N/A |
-| 34 | [#DuareSarkar](http://twitter.com/search?q=%23DuareSarkar) | N/A |
-| 35 | [#NationalMaritimeDay](http://twitter.com/search?q=%23NationalMaritimeDay) | N/A |
-| 36 | [#TataNeu](http://twitter.com/search?q=%23TataNeu) | N/A |
-| 37 | [#CGStandsWithRahulGandhi](http://twitter.com/search?q=%23CGStandsWithRahulGandhi) | N/A |
-| 38 | [#BandiSanjay](http://twitter.com/search?q=%23BandiSanjay) | N/A |
-| 39 | [#MediaOne](http://twitter.com/search?q=%23MediaOne) | N/A |
-| 40 | [#WhereIsPushpa](http://twitter.com/search?q=%23WhereIsPushpa) | N/A |
-| 41 | [#7YearsOfStandUpIndia](http://twitter.com/search?q=%237YearsOfStandUpIndia) | N/A |
-| 42 | [#WorkerFarmerRally](http://twitter.com/search?q=%23WorkerFarmerRally) | N/A |
-| 43 | [#YRFSpyUniverse](http://twitter.com/search?q=%23YRFSpyUniverse) | N/A |
-| 44 | [#EgiyeBangla](http://twitter.com/search?q=%23EgiyeBangla) | N/A |
-| 45 | [#Justice4PujaBhil](http://twitter.com/search?q=%23Justice4PujaBhil) | N/A |
-| 46 | [#BRSDramaCompany](http://twitter.com/search?q=%23BRSDramaCompany) | N/A |
+| 20 | [#UstaadBhagatSingh](http://twitter.com/search?q=%23UstaadBhagatSingh) | N/A |
+| 21 | [#askbholaa](http://twitter.com/search?q=%23askbholaa) | N/A |
+| 22 | [#AlluArjunBirthdayCDP](http://twitter.com/search?q=%23AlluArjunBirthdayCDP) | N/A |
+| 23 | [#PadmaShri](http://twitter.com/search?q=%23PadmaShri) | N/A |
+| 24 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
+| 25 | [#Salaar](http://twitter.com/search?q=%23Salaar) | N/A |
+| 26 | [#WinRedmiNote12](http://twitter.com/search?q=%23WinRedmiNote12) | N/A |
+| 27 | [#HanumanJayanti](http://twitter.com/search?q=%23HanumanJayanti) | N/A |
+| 28 | [#SuperNoteSuperDesign](http://twitter.com/search?q=%23SuperNoteSuperDesign) | N/A |
+| 29 | [#PunjabKings](http://twitter.com/search?q=%23PunjabKings) | N/A |
+| 30 | [#RedmiNote12giveaway](http://twitter.com/search?q=%23RedmiNote12giveaway) | N/A |
+| 31 | [#AapkaPartner](http://twitter.com/search?q=%23AapkaPartner) | N/A |
+| 32 | [#देश_का_PM_अनपढ़_है](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%87%e0%a4%b6_%e0%a4%95%e0%a4%be_PM_%e0%a4%85%e0%a4%a8%e0%a4%aa%e0%a4%a2%e0%a4%bc_%e0%a4%b9%e0%a5%88) | N/A |
+| 33 | [#AlAqsaUnderAttack](http://twitter.com/search?q=%23AlAqsaUnderAttack) | N/A |
+| 34 | [#BandiSanjay](http://twitter.com/search?q=%23BandiSanjay) | N/A |
+| 35 | [#stufflistingsarmy](http://twitter.com/search?q=%23stufflistingsarmy) | N/A |
+| 36 | [#NayaBharat_YuvaJosh](http://twitter.com/search?q=%23NayaBharat_YuvaJosh) | N/A |
+| 37 | [#TataNeu](http://twitter.com/search?q=%23TataNeu) | N/A |
+| 38 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 39 | [#DuareSarkar](http://twitter.com/search?q=%23DuareSarkar) | N/A |
+| 40 | [#7YearsOfStandUpIndia](http://twitter.com/search?q=%237YearsOfStandUpIndia) | N/A |
+| 41 | [#WhereIsPushpa](http://twitter.com/search?q=%23WhereIsPushpa) | N/A |
+| 42 | [#EgiyeBangla](http://twitter.com/search?q=%23EgiyeBangla) | N/A |
 
 
 

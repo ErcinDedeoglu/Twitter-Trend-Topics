@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-05 15:17:57 UTC`
+📆 Last Updated: `2023-04-05 17:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Denmark
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 2 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 3 | [#pldk](http://twitter.com/search?q=%23pldk) | N/A |
-| 4 | [#lfcdk](http://twitter.com/search?q=%23lfcdk) | N/A |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 9 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 10 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 13 | [århus](http://twitter.com/search?q=%c3%a5rhus) | N/A |
-| 14 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 15 | [Danish](http://twitter.com/search?q=Danish) | N/A |
-| 16 | [Hele](http://twitter.com/search?q=Hele) | N/A |
-| 17 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 18 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 19 | [ekstra bladet](http://twitter.com/search?q=ekstra+bladet) | N/A |
-| 20 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 21 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 22 | [Norden](http://twitter.com/search?q=Norden) | N/A |
-| 23 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 24 | [Mener](http://twitter.com/search?q=Mener) | N/A |
-| 25 | [vejle](http://twitter.com/search?q=vejle) | N/A |
-| 26 | [Kvinder](http://twitter.com/search?q=Kvinder) | N/A |
-| 27 | [Anders](http://twitter.com/search?q=Anders) | N/A |
-| 28 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 29 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 30 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 31 | [Christiansborg](http://twitter.com/search?q=Christiansborg) | N/A |
-| 32 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 33 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
-| 34 | [NASA](http://twitter.com/search?q=NASA) | N/A |
-| 35 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 36 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 37 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 38 | [skat](http://twitter.com/search?q=skat) | N/A |
-| 39 | [inger støjberg](http://twitter.com/search?q=inger+st%c3%b8jberg) | N/A |
-| 40 | [MADS](http://twitter.com/search?q=MADS) | N/A |
-| 41 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 42 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
-| 43 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 44 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 45 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 46 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 47 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 48 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 49 | [President](http://twitter.com/search?q=President) | N/A |
-| 50 | [sanjay shah](http://twitter.com/search?q=sanjay+shah) | N/A |
+| 1 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 3 | [#lfcdk](http://twitter.com/search?q=%23lfcdk) | N/A |
+| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 5 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 6 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 7 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 8 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 9 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 10 | [#isdk](http://twitter.com/search?q=%23isdk) | N/A |
+| 11 | [Jesper Møller](http://twitter.com/search?q=Jesper+M%c3%b8ller) | N/A |
+| 12 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 13 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 14 | [Demokraterne](http://twitter.com/search?q=Demokraterne) | N/A |
+| 15 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 16 | [Forbyd](http://twitter.com/search?q=Forbyd) | N/A |
+| 17 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 18 | [verden](http://twitter.com/search?q=verden) | N/A |
+| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [#GOLD](http://twitter.com/search?q=%23GOLD) | N/A |
+| 21 | [#pldk](http://twitter.com/search?q=%23pldk) | N/A |
+| 22 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 23 | [NASA](http://twitter.com/search?q=NASA) | N/A |
+| 24 | [Schweiz](http://twitter.com/search?q=Schweiz) | N/A |
+| 25 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 26 | [MitID](http://twitter.com/search?q=MitID) | N/A |
+| 27 | [Norden](http://twitter.com/search?q=Norden) | N/A |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 30 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 31 | [Ekstra Bladet](http://twitter.com/search?q=Ekstra+Bladet) | N/A |
+| 32 | [pointen](http://twitter.com/search?q=pointen) | N/A |
+| 33 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 34 | [Kender](http://twitter.com/search?q=Kender) | N/A |
+| 35 | [Aalborg](http://twitter.com/search?q=Aalborg) | N/A |
+| 36 | [Hang](http://twitter.com/search?q=Hang) | N/A |
+| 37 | [Anders](http://twitter.com/search?q=Anders) | N/A |
+| 38 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 39 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 40 | [sanjay shah](http://twitter.com/search?q=sanjay+shah) | N/A |
+| 41 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 42 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 43 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 44 | [Beklager](http://twitter.com/search?q=Beklager) | N/A |
+| 45 | [$SHIDO](http://twitter.com/search?q=%24SHIDO) | N/A |
+| 46 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 47 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 48 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 49 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 50 | [Dario](http://twitter.com/search?q=Dario) | N/A |
 
 
 

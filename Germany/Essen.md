@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-04-05 15:17:22 UTC`
+📆 Last Updated: `2023-04-05 17:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Germany](</Germany>)
 | 3 | [#SGEFCU](http://twitter.com/search?q=%23SGEFCU) | N/A |
 | 4 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
 | 5 | [Streich](http://twitter.com/search?q=Streich) | N/A |
-| 6 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 7 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 8 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 9 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 10 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 11 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 13 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
-| 14 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 15 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
-| 16 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 17 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 18 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 19 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 20 | [Flugtaxis](http://twitter.com/search?q=Flugtaxis) | N/A |
-| 21 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 22 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 23 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 24 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
-| 25 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 26 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
+| 6 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 7 | [#FCNVfB](http://twitter.com/search?q=%23FCNVfB) | N/A |
+| 8 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 9 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 10 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 12 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
+| 13 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 14 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 15 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 16 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 17 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 18 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 19 | [Flugtaxis](http://twitter.com/search?q=Flugtaxis) | N/A |
+| 20 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 21 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 22 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 23 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
+| 24 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 25 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
+| 26 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 | 27 | [Zoff](http://twitter.com/search?q=Zoff) | N/A |
-| 28 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 29 | [Mehrheit der Deutschen](http://twitter.com/search?q=Mehrheit+der+Deutschen) | N/A |
-| 30 | [U-Haft](http://twitter.com/search?q=U-Haft) | N/A |
-| 31 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
-| 32 | [Klaus Teuber](http://twitter.com/search?q=Klaus+Teuber) | N/A |
-| 33 | [Landwirtschaftsminister](http://twitter.com/search?q=Landwirtschaftsminister) | N/A |
-| 34 | [WLAN](http://twitter.com/search?q=WLAN) | N/A |
-| 35 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 36 | [KNUST](http://twitter.com/search?q=KNUST) | N/A |
-| 37 | [Expertenrat](http://twitter.com/search?q=Expertenrat) | N/A |
-| 38 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
+| 28 | [U-Haft](http://twitter.com/search?q=U-Haft) | N/A |
+| 29 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
+| 30 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 31 | [Klaus Teuber](http://twitter.com/search?q=Klaus+Teuber) | N/A |
+| 32 | [Landwirtschaftsminister](http://twitter.com/search?q=Landwirtschaftsminister) | N/A |
+| 33 | [Radwege](http://twitter.com/search?q=Radwege) | N/A |
+| 34 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 35 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 36 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 37 | [Amtsanmaßung](http://twitter.com/search?q=Amtsanma%c3%9fung) | N/A |
+| 38 | [WLAN](http://twitter.com/search?q=WLAN) | N/A |
 | 39 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
-| 40 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
-| 41 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 42 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 43 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 40 | [Schulschließungen](http://twitter.com/search?q=Schulschlie%c3%9fungen) | N/A |
+| 41 | [Mehrheit der Deutschen](http://twitter.com/search?q=Mehrheit+der+Deutschen) | N/A |
+| 42 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 43 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
 | 44 | [Elfmeterpunkt](http://twitter.com/search?q=Elfmeterpunkt) | N/A |
-| 45 | [Schulschließungen](http://twitter.com/search?q=Schulschlie%c3%9fungen) | N/A |
-| 46 | [Radwege](http://twitter.com/search?q=Radwege) | N/A |
+| 45 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
+| 46 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
 | 47 | [Vorurteile](http://twitter.com/search?q=Vorurteile) | N/A |
-| 48 | [Beilagen](http://twitter.com/search?q=Beilagen) | N/A |
-| 49 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 50 | [Hänsel und Gretel](http://twitter.com/search?q=H%c3%a4nsel+und+Gretel) | N/A |
+| 48 | [Hänsel und Gretel](http://twitter.com/search?q=H%c3%a4nsel+und+Gretel) | N/A |
+| 49 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 50 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
 
 
 

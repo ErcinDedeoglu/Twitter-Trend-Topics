@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-04-05 15:17:23 UTC`
+📆 Last Updated: `2023-04-05 17:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fcbscf](http://twitter.com/search?q=%23fcbscf) | N/A |
-| 2 | [#DFBPOKAL](http://twitter.com/search?q=%23DFBPOKAL) | N/A |
-| 3 | [#sgefcu](http://twitter.com/search?q=%23sgefcu) | N/A |
-| 4 | [FREIBURG](http://twitter.com/search?q=FREIBURG) | N/A |
-| 5 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 6 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 7 | [#lanz](http://twitter.com/search?q=%23lanz) | N/A |
-| 8 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 9 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 10 | [Julian Nagelsmann](http://twitter.com/search?q=Julian+Nagelsmann) | N/A |
-| 11 | [Streich](http://twitter.com/search?q=Streich) | N/A |
-| 12 | [Kellermann](http://twitter.com/search?q=Kellermann) | N/A |
-| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 14 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 15 | [denunziant](http://twitter.com/search?q=denunziant) | N/A |
-| 16 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
-| 17 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 18 | [Klaus Teuber](http://twitter.com/search?q=Klaus+Teuber) | N/A |
-| 19 | [Trainerwechsel](http://twitter.com/search?q=Trainerwechsel) | N/A |
-| 20 | [Wehrdienst](http://twitter.com/search?q=Wehrdienst) | N/A |
-| 21 | [Saison](http://twitter.com/search?q=Saison) | N/A |
-| 22 | [Sprache](http://twitter.com/search?q=Sprache) | N/A |
-| 23 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 24 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 25 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 26 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
-| 27 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 28 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | N/A |
-| 29 | [Choupo](http://twitter.com/search?q=Choupo) | N/A |
-| 30 | [skiurlaub](http://twitter.com/search?q=skiurlaub) | N/A |
-| 31 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 32 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 33 | [U-Haft](http://twitter.com/search?q=U-Haft) | N/A |
-| 34 | [gnabry](http://twitter.com/search?q=gnabry) | N/A |
-| 35 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 36 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 37 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
-| 38 | [Rathaus](http://twitter.com/search?q=Rathaus) | N/A |
-| 39 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 40 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
-| 41 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 42 | [knust](http://twitter.com/search?q=knust) | N/A |
-| 43 | [KOLO MUANI](http://twitter.com/search?q=KOLO+MUANI) | N/A |
-| 44 | [Kugel Eis](http://twitter.com/search?q=Kugel+Eis) | N/A |
-| 45 | [xbox 360](http://twitter.com/search?q=xbox+360) | N/A |
-| 46 | [NetzDG](http://twitter.com/search?q=NetzDG) | N/A |
-| 47 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
-| 48 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 49 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 50 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 1 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
+| 2 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
+| 3 | [#SGEFCU](http://twitter.com/search?q=%23SGEFCU) | N/A |
+| 4 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 5 | [Streich](http://twitter.com/search?q=Streich) | N/A |
+| 6 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 7 | [#FCNVfB](http://twitter.com/search?q=%23FCNVfB) | N/A |
+| 8 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 9 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 10 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 12 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
+| 13 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 14 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 15 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 16 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 17 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 18 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 19 | [Flugtaxis](http://twitter.com/search?q=Flugtaxis) | N/A |
+| 20 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 21 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 22 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 23 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 24 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
+| 25 | [Jamal](http://twitter.com/search?q=Jamal) | N/A |
+| 26 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 27 | [Zoff](http://twitter.com/search?q=Zoff) | N/A |
+| 28 | [U-Haft](http://twitter.com/search?q=U-Haft) | N/A |
+| 29 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
+| 30 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 31 | [Klaus Teuber](http://twitter.com/search?q=Klaus+Teuber) | N/A |
+| 32 | [Landwirtschaftsminister](http://twitter.com/search?q=Landwirtschaftsminister) | N/A |
+| 33 | [Radwege](http://twitter.com/search?q=Radwege) | N/A |
+| 34 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 35 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 36 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 37 | [Amtsanmaßung](http://twitter.com/search?q=Amtsanma%c3%9fung) | N/A |
+| 38 | [WLAN](http://twitter.com/search?q=WLAN) | N/A |
+| 39 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 40 | [Schulschließungen](http://twitter.com/search?q=Schulschlie%c3%9fungen) | N/A |
+| 41 | [Mehrheit der Deutschen](http://twitter.com/search?q=Mehrheit+der+Deutschen) | N/A |
+| 42 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 43 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 44 | [Elfmeterpunkt](http://twitter.com/search?q=Elfmeterpunkt) | N/A |
+| 45 | [Kindergeld](http://twitter.com/search?q=Kindergeld) | N/A |
+| 46 | [Kinderarmut](http://twitter.com/search?q=Kinderarmut) | N/A |
+| 47 | [Vorurteile](http://twitter.com/search?q=Vorurteile) | N/A |
+| 48 | [Hänsel und Gretel](http://twitter.com/search?q=H%c3%a4nsel+und+Gretel) | N/A |
+| 49 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 50 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
 
 
 

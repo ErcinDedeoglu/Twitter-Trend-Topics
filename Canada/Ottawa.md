@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-04-05 15:17:07 UTC`
+📆 Last Updated: `2023-04-05 17:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 3 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 4 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 5 | [#OHLPlayoffs](http://twitter.com/search?q=%23OHLPlayoffs) | N/A |
-| 6 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 7 | [kikuchi](http://twitter.com/search?q=kikuchi) | N/A |
-| 8 | [barton](http://twitter.com/search?q=barton) | N/A |
-| 9 | [#bluejays](http://twitter.com/search?q=%23bluejays) | N/A |
-| 10 | [#Nextlevel](http://twitter.com/search?q=%23Nextlevel) | N/A |
+| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 2 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
+| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 4 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
+| 5 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 6 | [#Passover](http://twitter.com/search?q=%23Passover) | N/A |
+| 7 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 8 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 9 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
+| 10 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
 | 11 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
-| 12 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
-| 13 | [Zach Aston](http://twitter.com/search?q=Zach+Aston) | N/A |
-| 14 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 16 | [Varsho](http://twitter.com/search?q=Varsho) | Varsho is a Gujarati word that means "year". In English, it can be used to refer to a period of time or an anniversary. |
-| 17 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 19 | [Gondek](http://twitter.com/search?q=Gondek) | N/A |
-| 20 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
-| 21 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 22 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 23 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 24 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 25 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 26 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 27 | [Mar-a-lago](http://twitter.com/search?q=Mar-a-lago) | N/A |
-| 28 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 29 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
-| 30 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
-| 31 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 32 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 33 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 34 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
-| 35 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 36 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 37 | [Game 3](http://twitter.com/search?q=Game+3) | N/A |
-| 38 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 39 | [Notley](http://twitter.com/search?q=Notley) | N/A |
-| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 41 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 42 | [Drag](http://twitter.com/search?q=Drag) | N/A |
-| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 45 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
-| 46 | [#LHJMQ](http://twitter.com/search?q=%23LHJMQ) | N/A |
-| 47 | [#VTuberUprising](http://twitter.com/search?q=%23VTuberUprising) | N/A |
-| 48 | [#TOpoli](http://twitter.com/search?q=%23TOpoli) | N/A |
+| 12 | [Gondek](http://twitter.com/search?q=Gondek) | N/A |
+| 13 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 14 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 15 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 16 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 17 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 18 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
+| 19 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 20 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 21 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 22 | [Keean](http://twitter.com/search?q=Keean) | N/A |
+| 23 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 24 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 25 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
+| 26 | [Daulton Varsho](http://twitter.com/search?q=Daulton+Varsho) | N/A |
+| 27 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 28 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 29 | [zach aston](http://twitter.com/search?q=zach+aston) | N/A |
+| 30 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
+| 31 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 32 | [usports](http://twitter.com/search?q=usports) | N/A |
+| 33 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
+| 34 | [4.5% of Canadians](http://twitter.com/search?q=4.5%25+of+Canadians) | N/A |
+| 35 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 36 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 37 | [Barbada](http://twitter.com/search?q=Barbada) | N/A |
+| 38 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 39 | [Calgarians](http://twitter.com/search?q=Calgarians) | N/A |
+| 40 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 41 | [Segregation](http://twitter.com/search?q=Segregation) | N/A |
+| 42 | [Davie](http://twitter.com/search?q=Davie) | N/A |
+| 43 | [Weber](http://twitter.com/search?q=Weber) | N/A |
+| 44 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 45 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 46 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 47 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 48 | [24 Sussex](http://twitter.com/search?q=24+Sussex) | N/A |
+| 49 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
+| 50 | [Jet Greaves](http://twitter.com/search?q=Jet+Greaves) | N/A |
 
 
 

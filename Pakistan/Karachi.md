@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-04-05 15:17:42 UTC`
+📆 Last Updated: `2023-04-05 17:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#آئین_پرڈٹ_گیا_چیف_جسٹس](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d9%be%d8%b1%da%88%d9%b9_%da%af%db%8c%d8%a7_%da%86%db%8c%d9%81_%d8%ac%d8%b3%d9%b9%d8%b3) | N/A |
 | 2 | [#بندیالی_فیصلہ_مسترد](http://twitter.com/search?q=%23%d8%a8%d9%86%d8%af%db%8c%d8%a7%d9%84%db%8c_%d9%81%db%8c%d8%b5%d9%84%db%81_%d9%85%d8%b3%d8%aa%d8%b1%d8%af) | N/A |
-| 3 | [#عدل_کی_جنگ_نواز_کے_سنگ](http://twitter.com/search?q=%23%d8%b9%d8%af%d9%84_%da%a9%db%8c_%d8%ac%d9%86%da%af_%d9%86%d9%88%d8%a7%d8%b2_%da%a9%db%92_%d8%b3%d9%86%da%af) | N/A |
-| 4 | [#Chief_Justice_of_Pakistan](http://twitter.com/search?q=%23Chief_Justice_of_Pakistan) | N/A |
-| 5 | [#آج_آئین_کی_جیت_ہوگی](http://twitter.com/search?q=%23%d8%a2%d8%ac_%d8%a2%d8%a6%db%8c%d9%86_%da%a9%db%8c_%d8%ac%db%8c%d8%aa_%db%81%d9%88%da%af%db%8c) | N/A |
+| 3 | [#آئین_کا_محافظ_عمران_خان](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%da%a9%d8%a7_%d9%85%d8%ad%d8%a7%d9%81%d8%b8_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
+| 4 | [#BOLStandsWithJudges](http://twitter.com/search?q=%23BOLStandsWithJudges) | N/A |
+| 5 | [#جشن_میلاد_امام_حسنؑ](http://twitter.com/search?q=%23%d8%ac%d8%b4%d9%86_%d9%85%db%8c%d9%84%d8%a7%d8%af_%d8%a7%d9%85%d8%a7%d9%85_%d8%ad%d8%b3%d9%86%d8%91) | N/A |
 | 6 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [Rizbar](http://twitter.com/search?q=Rizbar) | N/A |
-| 9 | [imad](http://twitter.com/search?q=imad) | N/A |
-| 10 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 11 | [Haris Sohail](http://twitter.com/search?q=Haris+Sohail) | Haris Sohail is a Pakistani cricketer. His name is derived from the Arabic word "haris", which means "guardian". In English, Haris Sohail would mean "Guardian of Success". |
-| 12 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
-| 13 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 14 | [Reported](http://twitter.com/search?q=Reported) | N/A |
-| 15 | [Beggars](http://twitter.com/search?q=Beggars) | N/A |
-| 16 | [Nawaz Shari](http://twitter.com/search?q=Nawaz+Shari) | N/A |
-| 17 | [Azam khan](http://twitter.com/search?q=Azam+khan) | N/A |
-| 18 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 19 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 20 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 21 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
-| 22 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 24 | [Petition](http://twitter.com/search?q=Petition) | N/A |
-| 25 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
-| 26 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
-| 27 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 28 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 29 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 30 | [Odis](http://twitter.com/search?q=Odis) | N/A |
-| 31 | [Itni](http://twitter.com/search?q=Itni) | N/A |
-| 32 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 33 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
-| 34 | [Indians](http://twitter.com/search?q=Indians) | N/A |
-| 35 | [Ma'am](http://twitter.com/search?q=Ma%27am) | N/A |
-| 36 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 37 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 38 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
-| 39 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 40 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 7 | [Nawasa E Rasool](http://twitter.com/search?q=Nawasa+E+Rasool) | N/A |
+| 8 | [Sabz Qaba](http://twitter.com/search?q=Sabz+Qaba) | N/A |
+| 9 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 10 | [Imam Hassan](http://twitter.com/search?q=Imam+Hassan) | N/A |
+| 11 | [Rizbar](http://twitter.com/search?q=Rizbar) | N/A |
+| 12 | [East Jerusalem](http://twitter.com/search?q=East+Jerusalem) | N/A |
+| 13 | [Congratulations Pakistan](http://twitter.com/search?q=Congratulations+Pakistan) | N/A |
+| 14 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
+| 15 | [Nawaz Shari](http://twitter.com/search?q=Nawaz+Shari) | N/A |
+| 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 17 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
+| 18 | [Muslim Ummah](http://twitter.com/search?q=Muslim+Ummah) | N/A |
+| 19 | [Reported](http://twitter.com/search?q=Reported) | N/A |
+| 20 | [Al Mujtaba](http://twitter.com/search?q=Al+Mujtaba) | N/A |
+| 21 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
+| 22 | [Haris Sohail](http://twitter.com/search?q=Haris+Sohail) | Haris Sohail is a Pakistani cricketer. His name is derived from the Arabic word "haris", which means "guardian". In English, Haris Sohail would mean "Guardian of Success". |
+| 23 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 24 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 25 | [Noor Jehan](http://twitter.com/search?q=Noor+Jehan) | N/A |
+| 26 | [Petition](http://twitter.com/search?q=Petition) | N/A |
+| 27 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
+| 28 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
+| 29 | [Kaaba](http://twitter.com/search?q=Kaaba) | N/A |
+| 30 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
+| 31 | [Cutee](http://twitter.com/search?q=Cutee) | N/A |
+| 32 | [Reference](http://twitter.com/search?q=Reference) | N/A |
+| 33 | [Times](http://twitter.com/search?q=Times) | N/A |
+| 34 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 35 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
+| 36 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 37 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 38 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 39 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 40 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
 | 41 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 42 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 43 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
-| 44 | [Fiverr](http://twitter.com/search?q=Fiverr) | N/A |
-| 45 | [Sindhi](http://twitter.com/search?q=Sindhi) | N/A |
-| 46 | [President](http://twitter.com/search?q=President) | N/A |
-| 47 | [Ameeen](http://twitter.com/search?q=Ameeen) | N/A |
-| 48 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
-| 49 | [Hain](http://twitter.com/search?q=Hain) | N/A |
-| 50 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 42 | [Paradise](http://twitter.com/search?q=Paradise) | N/A |
+| 43 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
+| 44 | [Pure](http://twitter.com/search?q=Pure) | N/A |
+| 45 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 46 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 47 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 48 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 49 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
+| 50 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
 
 
 

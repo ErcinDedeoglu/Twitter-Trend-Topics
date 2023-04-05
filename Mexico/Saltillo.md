@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-04-05 15:17:14 UTC`
+📆 Last Updated: `2023-04-05 17:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 3 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
 | 4 | [#KornoCelestial](http://twitter.com/search?q=%23KornoCelestial) | N/A |
-| 5 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 6 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
-| 7 | [#FelizMiércoles](http://twitter.com/search?q=%23FelizMi%c3%a9rcoles) | N/A |
-| 8 | [#batallapormedallas](http://twitter.com/search?q=%23batallapormedallas) | N/A |
-| 9 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 10 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 11 | [Pedro Navajas](http://twitter.com/search?q=Pedro+Navajas) | N/A |
-| 12 | [golden record holder](http://twitter.com/search?q=golden+record+holder) | N/A |
+| 5 | [#SantoPoderoso](http://twitter.com/search?q=%23SantoPoderoso) | N/A |
+| 6 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 7 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 8 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
+| 9 | [Hola Mir](http://twitter.com/search?q=Hola+Mir) | N/A |
+| 10 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 11 | [golden record holder](http://twitter.com/search?q=golden+record+holder) | N/A |
+| 12 | [Mang](http://twitter.com/search?q=Mang) | N/A |
 | 13 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 14 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 16 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
-| 17 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 18 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 19 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 20 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 21 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 22 | [Chanoc](http://twitter.com/search?q=Chanoc) | N/A |
-| 23 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 24 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 26 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 27 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 28 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 29 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 30 | [Lucas Romero](http://twitter.com/search?q=Lucas+Romero) | N/A |
-| 31 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 32 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
-| 33 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
-| 34 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
+| 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 15 | [Pedro navajas](http://twitter.com/search?q=Pedro+navajas) | N/A |
+| 16 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 17 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
+| 18 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 19 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
+| 20 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 22 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
+| 23 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 24 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 25 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 26 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 27 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 28 | [Madero](http://twitter.com/search?q=Madero) | N/A |
+| 29 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 30 | [lucas romero](http://twitter.com/search?q=lucas+romero) | N/A |
+| 31 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
+| 32 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 33 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 34 | [Tilín](http://twitter.com/search?q=Til%c3%adn) | N/A |
 | 35 | [Puerto Escondido](http://twitter.com/search?q=Puerto+Escondido) | N/A |
-| 36 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 37 | [Misión Del Valle](http://twitter.com/search?q=Misi%c3%b3n+Del+Valle) | N/A |
-| 38 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 39 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 40 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 36 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
+| 37 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 38 | [Misión del Valle](http://twitter.com/search?q=Misi%c3%b3n+del+Valle) | N/A |
+| 39 | ["Chanoc"](http://twitter.com/search?q=%22Chanoc%22) | N/A |
+| 40 | [Moana](http://twitter.com/search?q=Moana) | N/A |
 | 41 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
 | 42 | [Mexico Infrastructure Partners](http://twitter.com/search?q=Mexico+Infrastructure+Partners) | N/A |
 | 43 | [LAS MAVELYN SE LLEVAN TODO](http://twitter.com/search?q=LAS+MAVELYN+SE+LLEVAN+TODO) | N/A |
-| 44 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
-| 45 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 46 | [Santamaría](http://twitter.com/search?q=Santamar%c3%ada) | N/A |
-| 47 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 48 | [Robert Smith](http://twitter.com/search?q=Robert+Smith) | N/A |
+| 44 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
+| 45 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 46 | [Robert Smith](http://twitter.com/search?q=Robert+Smith) | N/A |
+| 47 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 48 | [Philadelphia Union](http://twitter.com/search?q=Philadelphia+Union) | N/A |
 
 
 

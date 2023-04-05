@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-04-05 15:17:07 UTC`
+📆 Last Updated: `2023-04-05 17:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [#abpoli](http://twitter.com/search?q=%23abpoli) | N/A |
-| 3 | [kikuchi](http://twitter.com/search?q=kikuchi) | N/A |
-| 4 | [barton](http://twitter.com/search?q=barton) | N/A |
-| 5 | [#bluejays](http://twitter.com/search?q=%23bluejays) | N/A |
-| 6 | [#Nextlevel](http://twitter.com/search?q=%23Nextlevel) | N/A |
-| 7 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
-| 8 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
-| 9 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
-| 10 | [Zach Aston](http://twitter.com/search?q=Zach+Aston) | N/A |
-| 11 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 12 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 13 | [Varsho](http://twitter.com/search?q=Varsho) | Varsho is a Gujarati word that means "year". In English, it can be used to refer to a period of time or an anniversary. |
-| 14 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 15 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 16 | [Gondek](http://twitter.com/search?q=Gondek) | N/A |
-| 17 | [#LHJMQ](http://twitter.com/search?q=%23LHJMQ) | N/A |
-| 18 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
-| 19 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 20 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 21 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 22 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 23 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 24 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 25 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 26 | [Mar-a-lago](http://twitter.com/search?q=Mar-a-lago) | N/A |
-| 27 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 28 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
-| 29 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
-| 30 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 31 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 32 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 33 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
-| 34 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 35 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 36 | [Game 3](http://twitter.com/search?q=Game+3) | N/A |
-| 37 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 38 | [Notley](http://twitter.com/search?q=Notley) | N/A |
-| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 40 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 41 | [Drag](http://twitter.com/search?q=Drag) | N/A |
-| 42 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 44 | [#WHLPlayoffs](http://twitter.com/search?q=%23WHLPlayoffs) | N/A |
-| 45 | [#VTuberUprising](http://twitter.com/search?q=%23VTuberUprising) | N/A |
-| 46 | [#TOpoli](http://twitter.com/search?q=%23TOpoli) | N/A |
+| 1 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
+| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 3 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
+| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 5 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
+| 6 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 7 | [#Passover](http://twitter.com/search?q=%23Passover) | N/A |
+| 8 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 9 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 10 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
+| 11 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
+| 12 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
+| 13 | [Gondek](http://twitter.com/search?q=Gondek) | N/A |
+| 14 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 15 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 16 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 17 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 18 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 19 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
+| 20 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 21 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 22 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 23 | [Keean](http://twitter.com/search?q=Keean) | N/A |
+| 24 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 25 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 26 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
+| 27 | [Daulton Varsho](http://twitter.com/search?q=Daulton+Varsho) | N/A |
+| 28 | [Verdugo](http://twitter.com/search?q=Verdugo) | N/A |
+| 29 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 30 | [zach aston](http://twitter.com/search?q=zach+aston) | N/A |
+| 31 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
+| 32 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 33 | [usports](http://twitter.com/search?q=usports) | N/A |
+| 34 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
+| 35 | [4.5% of Canadians](http://twitter.com/search?q=4.5%25+of+Canadians) | N/A |
+| 36 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 37 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 38 | [Barbada](http://twitter.com/search?q=Barbada) | N/A |
+| 39 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 40 | [Calgarians](http://twitter.com/search?q=Calgarians) | N/A |
+| 41 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 42 | [Segregation](http://twitter.com/search?q=Segregation) | N/A |
+| 43 | [Davie](http://twitter.com/search?q=Davie) | N/A |
+| 44 | [Weber](http://twitter.com/search?q=Weber) | N/A |
+| 45 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 46 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 47 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 48 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 49 | [24 Sussex](http://twitter.com/search?q=24+Sussex) | N/A |
+| 50 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
 
 
 
