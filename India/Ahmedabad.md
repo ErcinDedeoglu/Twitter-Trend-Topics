@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahmedabad
 
-📆 Last Updated: `2023-04-05 00:26:51 UTC`
+📆 Last Updated: `2023-04-05 01:38:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |
-| 2 | [#MahavirJayanti](http://twitter.com/search?q=%23MahavirJayanti) | N/A |
-| 3 | [#TwitterLogo](http://twitter.com/search?q=%23TwitterLogo) | N/A |
-| 4 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 5 | [#FactsAndBeliefsOfJainism](http://twitter.com/search?q=%23FactsAndBeliefsOfJainism) | N/A |
+| 2 | [#TwitterLogo](http://twitter.com/search?q=%23TwitterLogo) | N/A |
+| 3 | [#MahavirJayanti](http://twitter.com/search?q=%23MahavirJayanti) | N/A |
+| 4 | [#FactsAndBeliefsOfJainism](http://twitter.com/search?q=%23FactsAndBeliefsOfJainism) | N/A |
+| 5 | [#CSKvsLSG](http://twitter.com/search?q=%23CSKvsLSG) | N/A |
 | 6 | [भगवान महावीर](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b5%e0%a5%80%e0%a4%b0) | N/A |
 | 7 | [जैन धर्म](http://twitter.com/search?q=%e0%a4%9c%e0%a5%88%e0%a4%a8+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
-| 8 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 9 | [Mughals](http://twitter.com/search?q=Mughals) | N/A |
-| 10 | [महावीर जैन](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9c%e0%a5%88%e0%a4%a8) | N/A |
-| 11 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 8 | [Mughals](http://twitter.com/search?q=Mughals) | N/A |
+| 9 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
+| 10 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 11 | [महावीर जैन](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%9c%e0%a5%88%e0%a4%a8) | N/A |
 | 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 13 | [झलकारी बाई](http://twitter.com/search?q=%e0%a4%9d%e0%a4%b2%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%be%e0%a4%88) | N/A |
-| 14 | [Sheikh Zayed Stadium](http://twitter.com/search?q=Sheikh+Zayed+Stadium) | N/A |
-| 15 | [पुस्तक ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
-| 16 | [CBI Brand4Truth Or CagedParrot](http://twitter.com/search?q=CBI+Brand4Truth+Or+CagedParrot) | N/A |
-| 17 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 18 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 13 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 14 | [झलकारी बाई](http://twitter.com/search?q=%e0%a4%9d%e0%a4%b2%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%be%e0%a4%88) | N/A |
+| 15 | [Sheikh Zayed Stadium](http://twitter.com/search?q=Sheikh+Zayed+Stadium) | N/A |
+| 16 | [cbi brand4truth or cagedparrot](http://twitter.com/search?q=cbi+brand4truth+or+cagedparrot) | N/A |
+| 17 | [पुस्तक ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%95+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
+| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 19 | [श्री अरुण सिंह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 20 | [Assamese](http://twitter.com/search?q=Assamese) | N/A |
-| 21 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 22 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 23 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 24 | [Taj Mahal](http://twitter.com/search?q=Taj+Mahal) | N/A |
-| 25 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 26 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 27 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 28 | [kohli apne kutte sambhal](http://twitter.com/search?q=kohli+apne+kutte+sambhal) | N/A |
-| 29 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 30 | [छत्रपति शिवाजी महाराज](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 20 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 21 | [Assamese](http://twitter.com/search?q=Assamese) | N/A |
+| 22 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 23 | [Taj Mahal](http://twitter.com/search?q=Taj+Mahal) | N/A |
+| 24 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 25 | [kohli apne kutte sambhal](http://twitter.com/search?q=kohli+apne+kutte+sambhal) | N/A |
+| 26 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 27 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 28 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 29 | [छत्रपति शिवाजी महाराज](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 30 | [Kante](http://twitter.com/search?q=Kante) | N/A |
 | 31 | [sant shri asharamji gurukuls](http://twitter.com/search?q=sant+shri+asharamji+gurukuls) | N/A |
 | 32 | [लाल किला](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 33 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 34 | [Chepauk](http://twitter.com/search?q=Chepauk) | N/A |
-| 35 | [divine blend](http://twitter.com/search?q=divine+blend) | N/A |
-| 36 | [modern and vedic education](http://twitter.com/search?q=modern+and+vedic+education) | N/A |
-| 37 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 39 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 40 | [Sai Sudharsan](http://twitter.com/search?q=Sai+Sudharsan) | N/A |
-| 41 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 42 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 43 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 44 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 45 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 46 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 47 | [Reece](http://twitter.com/search?q=Reece) | N/A |
-| 48 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 49 | [ट्रम्प सरकार](http://twitter.com/search?q=%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%8d%e0%a4%aa+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 50 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 33 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 34 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 35 | [Chepauk](http://twitter.com/search?q=Chepauk) | N/A |
+| 36 | [divine blend](http://twitter.com/search?q=divine+blend) | N/A |
+| 37 | [modern and vedic education](http://twitter.com/search?q=modern+and+vedic+education) | N/A |
+| 38 | [बाबू जगजीवन राम](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82+%e0%a4%9c%e0%a4%97%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 39 | [axar](http://twitter.com/search?q=axar) | N/A |
+| 40 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 41 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 43 | [ट्रम्प सरकार](http://twitter.com/search?q=%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%8d%e0%a4%aa+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 44 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 45 | [Bandi Sanjay](http://twitter.com/search?q=Bandi+Sanjay) | N/A |
+| 46 | [गणपति बप्पा](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%ac%e0%a4%aa%e0%a5%8d%e0%a4%aa%e0%a4%be) | N/A |
+| 47 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
+| 48 | [जामा मस्जिद](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%ae%e0%a4%be+%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%9c%e0%a4%bf%e0%a4%a6) | N/A |
+| 49 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 50 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 
 
 

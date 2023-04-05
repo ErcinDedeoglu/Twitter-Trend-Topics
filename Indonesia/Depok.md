@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-04-05 00:26:30 UTC`
+📆 Last Updated: `2023-04-05 01:38:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
-| 2 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
-| 3 | [#potonganongkir40rb](http://twitter.com/search?q=%23potonganongkir40rb) | N/A |
+| 2 | [#potonganongkir40rb](http://twitter.com/search?q=%23potonganongkir40rb) | N/A |
+| 3 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
 | 4 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
 | 5 | [#promopuncakramadanshopee](http://twitter.com/search?q=%23promopuncakramadanshopee) | N/A |
 | 6 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 7 | [giveaway thr 10juta](http://twitter.com/search?q=giveaway+thr+10juta) | N/A |
-| 8 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 9 | [Windah](http://twitter.com/search?q=Windah) | N/A |
-| 10 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 11 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 12 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 13 | [Taubat Sebelum Terlambat](http://twitter.com/search?q=Taubat+Sebelum+Terlambat) | N/A |
-| 14 | [garuda muda bangkit](http://twitter.com/search?q=garuda+muda+bangkit) | N/A |
-| 15 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 16 | [unveil your beauty](http://twitter.com/search?q=unveil+your+beauty) | N/A |
-| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 18 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
-| 19 | [lazada ramadan](http://twitter.com/search?q=lazada+ramadan) | N/A |
-| 20 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
-| 21 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 22 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 23 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 24 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 25 | [Subuh](http://twitter.com/search?q=Subuh) | N/A |
-| 26 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 27 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 28 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 29 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 30 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 31 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 32 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 33 | [Flexi Cash](http://twitter.com/search?q=Flexi+Cash) | N/A |
-| 34 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 35 | [Firli](http://twitter.com/search?q=Firli) | N/A |
-| 36 | [lingkungan](http://twitter.com/search?q=lingkungan) | N/A |
-| 37 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 38 | [Mbah Slamet](http://twitter.com/search?q=Mbah+Slamet) | N/A |
-| 39 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
-| 40 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
-| 41 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 42 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
-| 43 | [PROMO SPESIAL](http://twitter.com/search?q=PROMO+SPESIAL) | N/A |
-| 44 | [Ada Cashback](http://twitter.com/search?q=Ada+Cashback) | N/A |
-| 45 | [karma is an army](http://twitter.com/search?q=karma+is+an+army) | N/A |
-| 46 | [Odyssey](http://twitter.com/search?q=Odyssey) | N/A |
-| 47 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 48 | [Demokrat](http://twitter.com/search?q=Demokrat) | N/A |
-| 49 | [BYL WILL ALWAYS CHOOSE BUILD](http://twitter.com/search?q=BYL+WILL+ALWAYS+CHOOSE+BUILD) | N/A |
-| 50 | [Gerindra](http://twitter.com/search?q=Gerindra) | N/A |
+| 8 | [Taubat Sebelum Terlambat](http://twitter.com/search?q=Taubat+Sebelum+Terlambat) | N/A |
+| 9 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 10 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 11 | [garuda muda bangkit](http://twitter.com/search?q=garuda+muda+bangkit) | N/A |
+| 12 | [unveil your beauty](http://twitter.com/search?q=unveil+your+beauty) | N/A |
+| 13 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
+| 14 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 15 | [lazada ramadan](http://twitter.com/search?q=lazada+ramadan) | N/A |
+| 16 | [Windah](http://twitter.com/search?q=Windah) | N/A |
+| 17 | [HER HEADER](http://twitter.com/search?q=HER+HEADER) | N/A |
+| 18 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
+| 19 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 20 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 22 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 23 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 24 | [Flexi Cash](http://twitter.com/search?q=Flexi+Cash) | N/A |
+| 25 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 26 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
+| 27 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 28 | [lingkungan](http://twitter.com/search?q=lingkungan) | N/A |
+| 29 | [Firli](http://twitter.com/search?q=Firli) | N/A |
+| 30 | [mbah slamet](http://twitter.com/search?q=mbah+slamet) | N/A |
+| 31 | [BPKP](http://twitter.com/search?q=BPKP) | N/A |
+| 32 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 33 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 34 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 35 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 36 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 37 | [Moeldoko](http://twitter.com/search?q=Moeldoko) | N/A |
+| 38 | [Brando](http://twitter.com/search?q=Brando) | N/A |
+| 39 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
+| 40 | [Odyssey](http://twitter.com/search?q=Odyssey) | N/A |
+| 41 | [karma is an army](http://twitter.com/search?q=karma+is+an+army) | N/A |
+| 42 | [AGUST D X IU IS COMING](http://twitter.com/search?q=AGUST+D+X+IU+IS+COMING) | N/A |
+| 43 | [byl will always choose build](http://twitter.com/search?q=byl+will+always+choose+build) | N/A |
+| 44 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 45 | [Begal](http://twitter.com/search?q=Begal) | N/A |
+| 46 | [Jenius QR](http://twitter.com/search?q=Jenius+QR) | N/A |
+| 47 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 48 | [Banjarnegara](http://twitter.com/search?q=Banjarnegara) | N/A |
+| 49 | [Demokrat](http://twitter.com/search?q=Demokrat) | N/A |
+| 50 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
 
 
 

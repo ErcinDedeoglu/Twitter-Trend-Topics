@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-05 00:27:12 UTC`
+📆 Last Updated: `2023-04-05 01:38:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,32 +17,32 @@ This is top 50 for Latvia
 | ------- | ------------ | ------------ |
 | 1 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
 | 2 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 3 | [#optimusal](http://twitter.com/search?q=%23optimusal) | N/A |
-| 4 | [#StrongerTogether](http://twitter.com/search?q=%23StrongerTogether) | N/A |
-| 5 | [somijas](http://twitter.com/search?q=somijas) | N/A |
-| 6 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 7 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
-| 8 | [Inga](http://twitter.com/search?q=Inga) | N/A |
-| 9 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 10 | [Latvijā](http://twitter.com/search?q=Latvij%c4%81) | N/A |
-| 11 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 12 | [baltijas](http://twitter.com/search?q=baltijas) | N/A |
+| 3 | [#StrongerTogether](http://twitter.com/search?q=%23StrongerTogether) | N/A |
+| 4 | [somijas](http://twitter.com/search?q=somijas) | N/A |
+| 5 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 6 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
+| 7 | [Inga](http://twitter.com/search?q=Inga) | N/A |
+| 8 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 9 | [Latvijā](http://twitter.com/search?q=Latvij%c4%81) | N/A |
+| 10 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 11 | [baltijas](http://twitter.com/search?q=baltijas) | N/A |
+| 12 | [#1188lv](http://twitter.com/search?q=%231188lv) | N/A |
 | 13 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
 | 14 | [vienkārši](http://twitter.com/search?q=vienk%c4%81r%c5%a1i) | N/A |
 | 15 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 16 | [Manā](http://twitter.com/search?q=Man%c4%81) | N/A |
+| 16 | [manā](http://twitter.com/search?q=man%c4%81) | N/A |
 | 17 | [psrs](http://twitter.com/search?q=psrs) | N/A |
 | 18 | [lietuvā](http://twitter.com/search?q=lietuv%c4%81) | N/A |
 | 19 | [lieldienu](http://twitter.com/search?q=lieldienu) | N/A |
-| 20 | [Kariņa](http://twitter.com/search?q=Kari%c5%86a) | N/A |
+| 20 | [kariņa](http://twitter.com/search?q=kari%c5%86a) | N/A |
 | 21 | [kādā](http://twitter.com/search?q=k%c4%81d%c4%81) | N/A |
 | 22 | [latgalē](http://twitter.com/search?q=latgal%c4%93) | N/A |
-| 23 | [Dievs](http://twitter.com/search?q=Dievs) | N/A |
+| 23 | [dievs](http://twitter.com/search?q=dievs) | N/A |
 | 24 | [cēsīs](http://twitter.com/search?q=c%c4%93s%c4%abs) | N/A |
 | 25 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
-| 26 | [tīri](http://twitter.com/search?q=t%c4%abri) | N/A |
-| 27 | [Diez](http://twitter.com/search?q=Diez) | N/A |
-| 28 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
+| 26 | [Diez](http://twitter.com/search?q=Diez) | N/A |
+| 27 | [tīri](http://twitter.com/search?q=t%c4%abri) | N/A |
+| 28 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
 | 29 | [viņam](http://twitter.com/search?q=vi%c5%86am) | N/A |
 | 30 | [Riga](http://twitter.com/search?q=Riga) | N/A |
 | 31 | [polijas](http://twitter.com/search?q=polijas) | N/A |

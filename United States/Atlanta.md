@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-05 00:26:56 UTC`
+📆 Last Updated: `2023-04-05 01:38:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#404Day](http://twitter.com/search?q=%23404Day) | N/A |
-| 2 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
-| 3 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 4 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 6 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 7 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 8 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 9 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 10 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 11 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
-| 12 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 13 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 14 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 15 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 16 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 17 | [Jake McCarthy](http://twitter.com/search?q=Jake+McCarthy) | N/A |
-| 18 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
-| 19 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 20 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 21 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
-| 22 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 23 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 25 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 26 | [Praying for Pedro](http://twitter.com/search?q=Praying+for+Pedro) | N/A |
-| 27 | [Juan Williams](http://twitter.com/search?q=Juan+Williams) | N/A |
-| 28 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 29 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 30 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
-| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 32 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
-| 33 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 34 | [Emily Yoffe](http://twitter.com/search?q=Emily+Yoffe) | N/A |
-| 35 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
-| 36 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
-| 37 | [Tres Pinos](http://twitter.com/search?q=Tres+Pinos) | N/A |
-| 38 | [Tricia Cotham](http://twitter.com/search?q=Tricia+Cotham) | N/A |
-| 39 | [Crismatt](http://twitter.com/search?q=Crismatt) | N/A |
-| 40 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 41 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 42 | [Horseface](http://twitter.com/search?q=Horseface) | N/A |
-| 43 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 44 | [Kyle Schwarber](http://twitter.com/search?q=Kyle+Schwarber) | N/A |
-| 45 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 46 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 47 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
-| 48 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 49 | [Hollister](http://twitter.com/search?q=Hollister) | N/A |
-| 50 | [Drey Jameson](http://twitter.com/search?q=Drey+Jameson) | N/A |
+| 2 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 3 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 4 | [Happy 404](http://twitter.com/search?q=Happy+404) | N/A |
+| 5 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 6 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 8 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 9 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 10 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 11 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 12 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 13 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
+| 14 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 15 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 16 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 17 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 18 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 19 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 20 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 21 | [Dylan Dodd](http://twitter.com/search?q=Dylan+Dodd) | N/A |
+| 22 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 23 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
+| 24 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 25 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 26 | [Jake McCarthy](http://twitter.com/search?q=Jake+McCarthy) | N/A |
+| 27 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 28 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
+| 29 | [Austin Riley](http://twitter.com/search?q=Austin+Riley) | N/A |
+| 30 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
+| 31 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 32 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 33 | [Romney](http://twitter.com/search?q=Romney) | N/A |
+| 34 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 35 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
+| 36 | [Petry](http://twitter.com/search?q=Petry) | N/A |
+| 37 | [Brian Hartline](http://twitter.com/search?q=Brian+Hartline) | N/A |
+| 38 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
+| 39 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 40 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
+| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 42 | [Mylan Graham](http://twitter.com/search?q=Mylan+Graham) | N/A |
+| 43 | [Reese McGuire](http://twitter.com/search?q=Reese+McGuire) | N/A |
+| 44 | [Praying for Pedro](http://twitter.com/search?q=Praying+for+Pedro) | N/A |
+| 45 | [Matz](http://twitter.com/search?q=Matz) | N/A |
+| 46 | [Hollister](http://twitter.com/search?q=Hollister) | N/A |
+| 47 | [Pleasantville](http://twitter.com/search?q=Pleasantville) | N/A |
+| 48 | [Will Benson](http://twitter.com/search?q=Will+Benson) | N/A |
+| 49 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 50 | [Yoffe](http://twitter.com/search?q=Yoffe) | N/A |
 
 
 

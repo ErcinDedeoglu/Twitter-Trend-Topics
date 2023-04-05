@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-04-05 00:26:19 UTC`
+📆 Last Updated: `2023-04-05 01:37:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
-| 2 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
-| 3 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
-| 4 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 5 | [Malafaia](http://twitter.com/search?q=Malafaia) | N/A |
-| 6 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 7 | [alisa](http://twitter.com/search?q=alisa) | N/A |
-| 8 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 9 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 1 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 2 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
+| 3 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 4 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 5 | [Peixe](http://twitter.com/search?q=Peixe) | N/A |
+| 6 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 7 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 8 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 9 | [alisa](http://twitter.com/search?q=alisa) | N/A |
 | 10 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
-| 11 | [GRANDE DIA](http://twitter.com/search?q=GRANDE+DIA) | Grande Dia is a Portuguese phrase that translates to "Big Day" in English. It is typically used to refer to a special day or event, such as a wedding, birthday, or other important occasion. |
-| 12 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 13 | [Estudante](http://twitter.com/search?q=Estudante) | N/A |
-| 14 | [Mezenga](http://twitter.com/search?q=Mezenga) | N/A |
-| 15 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 17 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 18 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 19 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 20 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
-| 21 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
-| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 23 | [#LibertadoresNaESPN](http://twitter.com/search?q=%23LibertadoresNaESPN) | N/A |
-| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 26 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 27 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
-| 28 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
-| 29 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 30 | [Santinha](http://twitter.com/search?q=Santinha) | N/A |
-| 31 | [La Paz](http://twitter.com/search?q=La+Paz) | N/A |
-| 32 | [Altitude](http://twitter.com/search?q=Altitude) | N/A |
-| 33 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
-| 34 | [Thiago Heleno](http://twitter.com/search?q=Thiago+Heleno) | Thiago Heleno is a Brazilian given name. It is derived from the Latin name Thiago, which means "beloved", and Heleno, which means "brave". In English, it can be translated to mean "beloved and brave". |
-| 35 | [Terans](http://twitter.com/search?q=Terans) | N/A |
-| 36 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 37 | [Canobbio](http://twitter.com/search?q=Canobbio) | N/A |
-| 38 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
-| 39 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 40 | [Bolívia](http://twitter.com/search?q=Bol%c3%advia) | N/A |
-| 41 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
-| 42 | [Zé Teodoro](http://twitter.com/search?q=Z%c3%a9+Teodoro) | N/A |
-| 43 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
-| 44 | [Fernandinho](http://twitter.com/search?q=Fernandinho) | N/A |
-| 45 | [OSNI](http://twitter.com/search?q=OSNI) | N/A |
-| 46 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
-| 47 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 48 | [SDOL](http://twitter.com/search?q=SDOL) | N/A |
-| 49 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 50 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
+| 11 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 12 | [Estudante](http://twitter.com/search?q=Estudante) | N/A |
+| 13 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 14 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 15 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 16 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 17 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
+| 18 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 19 | [Thiago Heleno](http://twitter.com/search?q=Thiago+Heleno) | Thiago Heleno is a Brazilian given name. It is derived from the Latin name Thiago, which means "beloved", and Heleno, which means "brave". In English, it can be translated to mean "beloved and brave". |
+| 20 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 21 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
+| 22 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
+| 23 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
+| 24 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
+| 25 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
+| 26 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
+| 27 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 28 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
+| 29 | [#LibertadoresNaESPN](http://twitter.com/search?q=%23LibertadoresNaESPN) | N/A |
+| 30 | [Terans](http://twitter.com/search?q=Terans) | N/A |
+| 31 | [Turra](http://twitter.com/search?q=Turra) | N/A |
+| 32 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 33 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 34 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 35 | [Canobbio](http://twitter.com/search?q=Canobbio) | N/A |
+| 36 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
+| 37 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 38 | [Thauan Lara](http://twitter.com/search?q=Thauan+Lara) | N/A |
+| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 40 | [Barcos](http://twitter.com/search?q=Barcos) | N/A |
+| 41 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 42 | [La Paz](http://twitter.com/search?q=La+Paz) | N/A |
+| 43 | [Bolívia](http://twitter.com/search?q=Bol%c3%advia) | N/A |
+| 44 | [Blooming](http://twitter.com/search?q=Blooming) | N/A |
+| 45 | [Altitude](http://twitter.com/search?q=Altitude) | N/A |
+| 46 | [LIGADO NO BBB COM ZÉ DELIVERY](http://twitter.com/search?q=LIGADO+NO+BBB+COM+Z%c3%89+DELIVERY) | N/A |
+| 47 | [Fernandinho](http://twitter.com/search?q=Fernandinho) | N/A |
+| 48 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
+| 49 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 50 | [Vitor Bueno](http://twitter.com/search?q=Vitor+Bueno) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-04-05 00:26:45 UTC`
+📆 Last Updated: `2023-04-05 01:38:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 2 | [#مراحل_فلاح_القرقاح](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%a7%d8%ad%d9%84_%d9%81%d9%84%d8%a7%d8%ad_%d8%a7%d9%84%d9%82%d8%b1%d9%82%d8%a7%d8%ad) | N/A |
-| 3 | [للاهلي](http://twitter.com/search?q=%d9%84%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 4 | [#دخون_الاماراتيه](http://twitter.com/search?q=%23%d8%af%d8%ae%d9%88%d9%86_%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a%d9%87) | N/A |
-| 5 | [عبدالله الحربي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a) | N/A |
-| 6 | [حمدان](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d8%a7%d9%86) | حمدان (Ḥamdan) is an Arabic male name meaning "praiseworthy". |
-| 7 | [#توقع_مع_كملنا](http://twitter.com/search?q=%23%d8%aa%d9%88%d9%82%d8%b9_%d9%85%d8%b9_%d9%83%d9%85%d9%84%d9%86%d8%a7) | N/A |
-| 8 | [نادي الوطن](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | نادي الوطن is a sports club in Saudi Arabia. The name translates to "National Club" in English. It is based in Riyadh and was founded in 1959. The club is known for its football team, which competes in the Saudi Professional League. |
-| 9 | [#الطايف_الان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
-| 10 | [يوفنتوس](http://twitter.com/search?q=%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3) | N/A |
-| 11 | [ابو سعد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b3%d8%b9%d8%af) | N/A |
-| 12 | [#فوازير_غازي_الذيابي7](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a7) | N/A |
-| 13 | [تاليسكا](http://twitter.com/search?q=%d8%aa%d8%a7%d9%84%d9%8a%d8%b3%d9%83%d8%a7) | تاليسكا is a type of traditional dance from the Middle East. It is an energetic, fast-paced dance that involves spinning and clapping. In English, it is sometimes referred to as the "Tahleekah Dance". |
-| 14 | [البليهي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | البليهي is an Arabic phrase meaning "the beautiful one". It is often used as a term of endearment for someone who is attractive or has a pleasing personality. |
-| 15 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
-| 16 | [التوقف الاضطراري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%81+%d8%a7%d9%84%d8%a7%d8%b6%d8%b7%d8%b1%d8%a7%d8%b1%d9%8a) | N/A |
-| 17 | [كانتي](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%aa%d9%8a) | N/A |
-| 18 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 19 | [كوادرادو](http://twitter.com/search?q=%d9%83%d9%88%d8%a7%d8%af%d8%b1%d8%a7%d8%af%d9%88) | N/A |
-| 20 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 21 | [حجازي](http://twitter.com/search?q=%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | حجازي is an Arabic word that refers to someone or something from the region of Hejaz, which is located in western Saudi Arabia. In English, it can be translated as "Hejazi". |
+| 1 | [علي الفريق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82) | N/A |
+| 2 | [بن عبد المطلب](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%b7%d9%84%d8%a8) | N/A |
+| 3 | [#الطايف_الان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
+| 4 | [فوز الهلال](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 5 | [#بطاقاتنا_تفوز](http://twitter.com/search?q=%23%d8%a8%d8%b7%d8%a7%d9%82%d8%a7%d8%aa%d9%86%d8%a7_%d8%aa%d9%81%d9%88%d8%b2) | N/A |
+| 6 | [#فوازير_غازي_الذيابي7](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a7) | N/A |
+| 7 | [#النصر_العداله](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | #النصر_العداله is an Arabic hashtag that translates to "Victory of Justice" in English. It is often used to express support for justice and fairness in society. |
+| 8 | [#رمضان_مع_ابوفهد6](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af6) | N/A |
+| 9 | [تاليسكا](http://twitter.com/search?q=%d8%aa%d8%a7%d9%84%d9%8a%d8%b3%d9%83%d8%a7) | تاليسكا is a type of traditional dance from the Middle East. It is an energetic, fast-paced dance that involves spinning and clapping. In English, it is sometimes referred to as the "Tahleekah Dance". |
+| 10 | [التوقف الاضطراري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%81+%d8%a7%d9%84%d8%a7%d8%b6%d8%b7%d8%b1%d8%a7%d8%b1%d9%8a) | N/A |
+| 11 | [حجازي](http://twitter.com/search?q=%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | حجازي is an Arabic word that refers to someone or something from the region of Hejaz, which is located in western Saudi Arabia. In English, it can be translated as "Hejazi". |
+| 12 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 13 | [البليهي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | البليهي is an Arabic phrase meaning "the beautiful one". It is often used as a term of endearment for someone who is attractive or has a pleasing personality. |
+| 14 | [دوري الطايره](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
+| 15 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 16 | [كوادرادو](http://twitter.com/search?q=%d9%83%d9%88%d8%a7%d8%af%d8%b1%d8%a7%d8%af%d9%88) | N/A |
+| 17 | [١٤ رمضان](http://twitter.com/search?q=%d9%a1%d9%a4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 18 | [الشبح الاهلاويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a8%d8%ad+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d8%a7%d9%88%d9%8a%d9%87) | N/A |
+| 19 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
+| 20 | [الدعيع](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%8a%d8%b9) | N/A |
+| 21 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
 | 22 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 23 | [الدعيع](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%8a%d8%b9) | N/A |
-| 24 | [ايمن يحيى](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d9%86+%d9%8a%d8%ad%d9%8a%d9%89) | "ايمن يحيى" is an Arabic name, and it translates to "Iman Yahya" in English. |
-| 25 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
-| 26 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
-| 27 | [لوكاكو](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7%d9%83%d9%88) | لوكاكو is a type of traditional Moroccan pastry. It is made with layers of phyllo dough filled with a mixture of almond paste, sugar, and cinnamon. The name comes from the Arabic word for almond, luqmān. In English, it is sometimes referred to as an almond pastry or an almond cake. |
-| 28 | [كلين شيت](http://twitter.com/search?q=%d9%83%d9%84%d9%8a%d9%86+%d8%b4%d9%8a%d8%aa) | N/A |
-| 29 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
-| 30 | [توفيق المقرن](http://twitter.com/search?q=%d8%aa%d9%88%d9%81%d9%8a%d9%82+%d8%a7%d9%84%d9%85%d9%82%d8%b1%d9%86) | N/A |
-| 31 | [١٤ رمضان](http://twitter.com/search?q=%d9%a1%d9%a4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 32 | [اوساسونا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b3%d8%a7%d8%b3%d9%88%d9%86%d8%a7) | N/A |
-| 33 | [ميشيل](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d9%8a%d9%84) | ميشيل (pronounced mee-sheel) is a common Arabic name, derived from the Hebrew name Michael. It means "who is like God" in English. |
-| 34 | [بن هاشم](http://twitter.com/search?q=%d8%a8%d9%86+%d9%87%d8%a7%d8%b4%d9%85) | N/A |
-| 35 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
-| 36 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
-| 37 | [نواف العقيدي](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%b9%d9%82%d9%8a%d8%af%d9%8a) | نواف العقيدي is an Arabic phrase meaning "the commander of the faithful". It is a title given to the leader of a Muslim community, usually referring to the Caliph or Imam. |
-| 38 | [سلطان الغنام](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | سلطان الغنام is an Arabic phrase which translates to "Sultan of the Ghannam". It is a title given to a leader or ruler who is known for their generosity and kindness. |
-| 39 | [نونو سانتو](http://twitter.com/search?q=%d9%86%d9%88%d9%86%d9%88+%d8%b3%d8%a7%d9%86%d8%aa%d9%88) | نونو سانتو (Nunu Santo) is a traditional dance from the Caribbean island of Trinidad and Tobago. It is a form of African-influenced dance that combines elements of African, Indian, and European cultures. The dance is performed in a circle with two or more people, and involves intricate footwork and hand movements. The name "Nunu Santo" translates to "Holy Dance" in English. |
-| 40 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 41 | [تاريخ الدوري](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
-| 42 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
-| 43 | [فوز العالمي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 44 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 45 | [هاتو الهلالي](http://twitter.com/search?q=%d9%87%d8%a7%d8%aa%d9%88+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
-| 46 | [الامه الهلاليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 47 | [محمد بن عبدالله بن](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a8%d9%86) | N/A |
-| 48 | [الدون](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%86) | الدون is an Arabic word that means "donation" or "contribution". It is used to refer to a voluntary gift of money or goods given to a charity, religious organization, or other cause. |
-| 49 | [فلاديمير](http://twitter.com/search?q=%d9%81%d9%84%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d8%b1) | فلاديمير is a Russian name, derived from the Greek name Φλαδίμηρος (Fládímēros). It is usually translated into English as "Fladimir" or "Vladimir". |
-| 50 | [المباراه الجايه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d9%87) | N/A |
+| 23 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 24 | [كانتي](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%aa%d9%8a) | N/A |
+| 25 | [ايمن يحيى](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d9%86+%d9%8a%d8%ad%d9%8a%d9%89) | "ايمن يحيى" is an Arabic name, and it translates to "Iman Yahya" in English. |
+| 26 | [نونو سانتو](http://twitter.com/search?q=%d9%86%d9%88%d9%86%d9%88+%d8%b3%d8%a7%d9%86%d8%aa%d9%88) | نونو سانتو (Nunu Santo) is a traditional dance from the Caribbean island of Trinidad and Tobago. It is a form of African-influenced dance that combines elements of African, Indian, and European cultures. The dance is performed in a circle with two or more people, and involves intricate footwork and hand movements. The name "Nunu Santo" translates to "Holy Dance" in English. |
+| 27 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
+| 28 | [فوز العالمي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 29 | [كلين شيت](http://twitter.com/search?q=%d9%83%d9%84%d9%8a%d9%86+%d8%b4%d9%8a%d8%aa) | N/A |
+| 30 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 31 | [اوساسونا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b3%d8%a7%d8%b3%d9%88%d9%86%d8%a7) | N/A |
+| 32 | [لوكاكو](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7%d9%83%d9%88) | لوكاكو is a type of traditional Moroccan pastry. It is made with layers of phyllo dough filled with a mixture of almond paste, sugar, and cinnamon. The name comes from the Arabic word for almond, luqmān. In English, it is sometimes referred to as an almond pastry or an almond cake. |
+| 33 | [نواف العقيدي](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%b9%d9%82%d9%8a%d8%af%d9%8a) | نواف العقيدي is an Arabic phrase meaning "the commander of the faithful". It is a title given to the leader of a Muslim community, usually referring to the Caliph or Imam. |
+| 34 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
+| 35 | [بن هاشم](http://twitter.com/search?q=%d8%a8%d9%86+%d9%87%d8%a7%d8%b4%d9%85) | N/A |
+| 36 | [توفيق المقرن](http://twitter.com/search?q=%d8%aa%d9%88%d9%81%d9%8a%d9%82+%d8%a7%d9%84%d9%85%d9%82%d8%b1%d9%86) | N/A |
+| 37 | [الكره الطايره](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
+| 38 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
+| 39 | [هاتو الهلالي](http://twitter.com/search?q=%d9%87%d8%a7%d8%aa%d9%88+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
+| 40 | [فاز الاهلي](http://twitter.com/search?q=%d9%81%d8%a7%d8%b2+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 41 | [الامه الهلاليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 42 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
+| 43 | [ابو العتاهيه](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d8%b9%d8%aa%d8%a7%d9%87%d9%8a%d9%87) | N/A |
+| 44 | [محمد بن عبدالله بن](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a8%d9%86) | N/A |
+| 45 | [ابو الطفيل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d8%b7%d9%81%d9%8a%d9%84) | N/A |
+| 46 | [للاهلي](http://twitter.com/search?q=%d9%84%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 47 | [الدوري السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 48 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 49 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
+| 50 | [الفيصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-04-05 00:26:20 UTC`
+📆 Last Updated: `2023-04-05 01:37:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 2 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 3 | [#KKSLEG](http://twitter.com/search?q=%23KKSLEG) | N/A |
-| 4 | [#OpozycjaWygra](http://twitter.com/search?q=%23OpozycjaWygra) | N/A |
-| 5 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
-| 6 | [#lovejoygdańsk](http://twitter.com/search?q=%23lovejoygda%c5%84sk) | N/A |
-| 7 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
-| 8 | [Kalisz](http://twitter.com/search?q=Kalisz) | N/A |
-| 9 | [#PiSprzegra](http://twitter.com/search?q=%23PiSprzegra) | N/A |
+| 4 | [#lovejoygdańsk](http://twitter.com/search?q=%23lovejoygda%c5%84sk) | N/A |
+| 5 | [#OpozycjaWygra](http://twitter.com/search?q=%23OpozycjaWygra) | N/A |
+| 6 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
+| 7 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
+| 8 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
+| 9 | [#Barbie](http://twitter.com/search?q=%23Barbie) | N/A |
 | 10 | [Europejskiej Partii Ludowej](http://twitter.com/search?q=Europejskiej+Partii+Ludowej) | N/A |
-| 11 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
-| 12 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 13 | [Legii](http://twitter.com/search?q=Legii) | N/A |
-| 14 | [Panią](http://twitter.com/search?q=Pani%c4%85) | N/A |
-| 15 | [Pani Magdaleno](http://twitter.com/search?q=Pani+Magdaleno) | N/A |
-| 16 | [Tuchela](http://twitter.com/search?q=Tuchela) | N/A |
-| 17 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [Różański](http://twitter.com/search?q=R%c3%b3%c5%bca%c5%84ski) | N/A |
-| 20 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 21 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 22 | [Semeniuk](http://twitter.com/search?q=Semeniuk) | N/A |
-| 23 | [Polskie Radio](http://twitter.com/search?q=Polskie+Radio) | N/A |
-| 24 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
-| 25 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 26 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 27 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
-| 28 | [Bayernu](http://twitter.com/search?q=Bayernu) | N/A |
-| 29 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 30 | [Sojuszu](http://twitter.com/search?q=Sojuszu) | N/A |
-| 31 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 32 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 33 | [Andżelika Borys](http://twitter.com/search?q=And%c5%bcelika+Borys) | N/A |
-| 34 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 35 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 36 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
-| 37 | [Belgijska](http://twitter.com/search?q=Belgijska) | N/A |
-| 38 | [Bartka](http://twitter.com/search?q=Bartka) | N/A |
-| 39 | [Zacznie](http://twitter.com/search?q=Zacznie) | N/A |
-| 40 | [mameda](http://twitter.com/search?q=mameda) | N/A |
-| 41 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 42 | [Bartosz Salamon](http://twitter.com/search?q=Bartosz+Salamon) | N/A |
-| 43 | [Donka](http://twitter.com/search?q=Donka) | N/A |
-| 44 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
-| 45 | [tebasa](http://twitter.com/search?q=tebasa) | N/A |
-| 46 | [Strzałka](http://twitter.com/search?q=Strza%c5%82ka) | N/A |
-| 47 | [Finowie](http://twitter.com/search?q=Finowie) | N/A |
-| 48 | [Szczujnia](http://twitter.com/search?q=Szczujnia) | N/A |
+| 11 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 12 | [Panią](http://twitter.com/search?q=Pani%c4%85) | N/A |
+| 13 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
+| 14 | [różański](http://twitter.com/search?q=r%c3%b3%c5%bca%c5%84ski) | N/A |
+| 15 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 16 | [Semeniuk](http://twitter.com/search?q=Semeniuk) | N/A |
+| 17 | [polskie radio](http://twitter.com/search?q=polskie+radio) | N/A |
+| 18 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
+| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [JPII](http://twitter.com/search?q=JPII) | N/A |
+| 21 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
+| 22 | [Bayernu](http://twitter.com/search?q=Bayernu) | N/A |
+| 23 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 24 | [sojuszu](http://twitter.com/search?q=sojuszu) | N/A |
+| 25 | [Legia Warszawa](http://twitter.com/search?q=Legia+Warszawa) | N/A |
+| 26 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 27 | [Andżelika Borys](http://twitter.com/search?q=And%c5%bcelika+Borys) | N/A |
+| 28 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
+| 29 | [Belgijska](http://twitter.com/search?q=Belgijska) | N/A |
+| 30 | [Zacznie](http://twitter.com/search?q=Zacznie) | N/A |
+| 31 | [mameda](http://twitter.com/search?q=mameda) | N/A |
+| 32 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 33 | [Bartosz Salamon](http://twitter.com/search?q=Bartosz+Salamon) | N/A |
+| 34 | [donka](http://twitter.com/search?q=donka) | N/A |
+| 35 | [Jana Pawła II](http://twitter.com/search?q=Jana+Paw%c5%82a+II) | N/A |
+| 36 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 37 | [Pani Magdaleno](http://twitter.com/search?q=Pani+Magdaleno) | N/A |
+| 38 | [tebasa](http://twitter.com/search?q=tebasa) | N/A |
+| 39 | [Wielkanoc](http://twitter.com/search?q=Wielkanoc) | N/A |
+| 40 | [Freiburgiem](http://twitter.com/search?q=Freiburgiem) | N/A |
+| 41 | [Finowie](http://twitter.com/search?q=Finowie) | N/A |
+| 42 | [strzałka](http://twitter.com/search?q=strza%c5%82ka) | N/A |
+| 43 | [Szczujnia](http://twitter.com/search?q=Szczujnia) | N/A |
+| 44 | [migi](http://twitter.com/search?q=migi) | N/A |
+| 45 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
+| 46 | [Brukseli](http://twitter.com/search?q=Brukseli) | N/A |
+| 47 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 48 | [pkp energetyka](http://twitter.com/search?q=pkp+energetyka) | N/A |
 
 
 

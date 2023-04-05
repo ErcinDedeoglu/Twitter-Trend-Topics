@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-04-05 00:26:39 UTC`
+📆 Last Updated: `2023-04-05 01:38:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
-| 2 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
-| 3 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
-| 4 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 5 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
-| 6 | [#FordaLigtasPoints](http://twitter.com/search?q=%23FordaLigtasPoints) | N/A |
+| 1 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
+| 2 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
+| 3 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
+| 4 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
+| 5 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 6 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
 | 7 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
 | 8 | [Holy Wednesday](http://twitter.com/search?q=Holy+Wednesday) | N/A |
-| 9 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 10 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 11 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 9 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 10 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 11 | [taemin](http://twitter.com/search?q=taemin) | N/A |
 | 12 | [happy 15th zachamsary](http://twitter.com/search?q=happy+15th+zachamsary) | N/A |
 | 13 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
 | 14 | [PBBGYO HOUSEMATES REVEAL](http://twitter.com/search?q=PBBGYO+HOUSEMATES+REVEAL) | N/A |
 | 15 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 16 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
-| 17 | [KAIAnniversary LIVE](http://twitter.com/search?q=KAIAnniversary+LIVE) | N/A |
-| 18 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
+| 16 | [kaianniversary live](http://twitter.com/search?q=kaianniversary+live) | N/A |
+| 17 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 18 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 | 19 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
 | 20 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
-| 21 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 22 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 23 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
-| 24 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
-| 25 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
-| 26 | [the new anji](http://twitter.com/search?q=the+new+anji) | N/A |
-| 27 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
+| 21 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
+| 22 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
+| 23 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
+| 24 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
+| 25 | [Mark Tuan](http://twitter.com/search?q=Mark+Tuan) | N/A |
+| 26 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
+| 27 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
 | 28 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
-| 29 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 30 | [mabuhay treasure d-10](http://twitter.com/search?q=mabuhay+treasure+d-10) | N/A |
-| 31 | [winter for vogue korea](http://twitter.com/search?q=winter+for+vogue+korea) | N/A |
-| 32 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
-| 33 | [IVE SECOND CONCEPT PHOTO](http://twitter.com/search?q=IVE+SECOND+CONCEPT+PHOTO) | N/A |
-| 34 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
-| 35 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
-| 36 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
-| 37 | [sarah g grab summerna](http://twitter.com/search?q=sarah+g+grab+summerna) | N/A |
-| 38 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
-| 39 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 40 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
-| 41 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
-| 42 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
-| 43 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
-| 44 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
-| 45 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 46 | [Juday](http://twitter.com/search?q=Juday) | N/A |
-| 47 | [JAYWON LAYAG](http://twitter.com/search?q=JAYWON+LAYAG) | N/A |
+| 29 | [mabuhay treasure d-10](http://twitter.com/search?q=mabuhay+treasure+d-10) | N/A |
+| 30 | [winter for vogue korea](http://twitter.com/search?q=winter+for+vogue+korea) | N/A |
+| 31 | [IVE SECOND CONCEPT PHOTO](http://twitter.com/search?q=IVE+SECOND+CONCEPT+PHOTO) | N/A |
+| 32 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
+| 33 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 34 | [sarah g grab summerna](http://twitter.com/search?q=sarah+g+grab+summerna) | N/A |
+| 35 | [WITH IU](http://twitter.com/search?q=WITH+IU) | N/A |
+| 36 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
+| 37 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 38 | [CONGRATS JIMIN](http://twitter.com/search?q=CONGRATS+JIMIN) | N/A |
+| 39 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
+| 40 | [Miyerkules Santo](http://twitter.com/search?q=Miyerkules+Santo) | N/A |
+| 41 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
+| 42 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 43 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
+| 44 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
+| 45 | [JAYWON LAYAG](http://twitter.com/search?q=JAYWON+LAYAG) | N/A |
+| 46 | [THE NEW ANJI](http://twitter.com/search?q=THE+NEW+ANJI) | N/A |
+| 47 | [Simu Liu](http://twitter.com/search?q=Simu+Liu) | N/A |
 | 48 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 49 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 49 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
 
 
 
