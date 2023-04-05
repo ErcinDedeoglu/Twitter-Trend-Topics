@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-04-05 17:17:19 UTC`
+📆 Last Updated: `2023-04-05 18:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 2 | [Dominic Rhodes](http://twitter.com/search?q=Dominic+Rhodes) | N/A |
-| 3 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 4 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 5 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
-| 6 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 7 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 8 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 9 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 10 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 11 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
-| 12 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 13 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 14 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 15 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 16 | [#GoldStarSpousesDay](http://twitter.com/search?q=%23GoldStarSpousesDay) | N/A |
-| 17 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 18 | [Vickie](http://twitter.com/search?q=Vickie) | N/A |
-| 19 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
-| 20 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
-| 21 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 22 | [Daily Quordle 436](http://twitter.com/search?q=Daily+Quordle+436) | N/A |
-| 23 | [Bryce Dallas Howard](http://twitter.com/search?q=Bryce+Dallas+Howard) | N/A |
-| 24 | [Ronna](http://twitter.com/search?q=Ronna) | Ronna is a female given name, derived from the Hebrew name Veronica. It is a variant of the name Veronica, which means "true image". |
-| 25 | [Seder](http://twitter.com/search?q=Seder) | N/A |
-| 26 | [Lori Lightfoot](http://twitter.com/search?q=Lori+Lightfoot) | N/A |
-| 27 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
-| 28 | [The Super Mario Bros](http://twitter.com/search?q=The+Super+Mario+Bros) | N/A |
-| 29 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
-| 30 | [Mario Movie](http://twitter.com/search?q=Mario+Movie) | N/A |
-| 31 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 32 | [WotC](http://twitter.com/search?q=WotC) | WotC stands for Wizards of the Coast, a publisher of fantasy and science fiction games, books, and other products. It is best known for its role-playing game Dungeons & Dragons. |
-| 33 | [#SafePlaceSelfie](http://twitter.com/search?q=%23SafePlaceSelfie) | N/A |
-| 34 | [#NationalWalkingDay](http://twitter.com/search?q=%23NationalWalkingDay) | N/A |
-| 35 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 36 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 37 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 38 | [#IStandWithEvan](http://twitter.com/search?q=%23IStandWithEvan) | N/A |
-| 39 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 40 | [#ncpol](http://twitter.com/search?q=%23ncpol) | N/A |
-| 41 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
-| 42 | [#JJK219](http://twitter.com/search?q=%23JJK219) | N/A |
-| 43 | [#firevince](http://twitter.com/search?q=%23firevince) | N/A |
+| 1 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 2 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 3 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 4 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 5 | [#BrotherlyLove](http://twitter.com/search?q=%23BrotherlyLove) | N/A |
+| 6 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 7 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 8 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 11 | [#NPHWChat](http://twitter.com/search?q=%23NPHWChat) | N/A |
+| 12 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 13 | [America](http://twitter.com/search?q=America) | N/A |
+| 14 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 15 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 16 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 17 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 18 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 19 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 20 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 21 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 22 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 23 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 25 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 26 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 27 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 28 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 29 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
+| 30 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 31 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 32 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 33 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 34 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 35 | [#BTRDay](http://twitter.com/search?q=%23BTRDay) | N/A |
+| 36 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 37 | [Joey Wiemer](http://twitter.com/search?q=Joey+Wiemer) | N/A |
+| 38 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 39 | [Dominic Rhodes](http://twitter.com/search?q=Dominic+Rhodes) | N/A |
+| 40 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 41 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 42 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 43 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 44 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 45 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 46 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 47 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 48 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 49 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 50 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
 
 
 

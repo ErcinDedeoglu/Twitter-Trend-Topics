@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-04-05 17:17:27 UTC`
+📆 Last Updated: `2023-04-05 18:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Poland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PiSprzegra](http://twitter.com/search?q=%23PiSprzegra) | N/A |
+| 1 | [#kksleg](http://twitter.com/search?q=%23kksleg) | N/A |
 | 2 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 3 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
-| 4 | [#kksleg](http://twitter.com/search?q=%23kksleg) | N/A |
-| 5 | [#lovejoygdansk](http://twitter.com/search?q=%23lovejoygdansk) | N/A |
-| 6 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 7 | [Order Orła Białego](http://twitter.com/search?q=Order+Or%c5%82a+Bia%c5%82ego) | N/A |
-| 8 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 9 | [#OpozycjaWygra](http://twitter.com/search?q=%23OpozycjaWygra) | N/A |
-| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 11 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 12 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
-| 13 | [Henryk Kowalczyk](http://twitter.com/search?q=Henryk+Kowalczyk) | N/A |
+| 3 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
+| 4 | [#lovejoygdańsk](http://twitter.com/search?q=%23lovejoygda%c5%84sk) | N/A |
+| 5 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 6 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
+| 7 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 8 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
+| 9 | [#PiSPrzegra](http://twitter.com/search?q=%23PiSPrzegra) | N/A |
+| 10 | [europejskiej partii ludowej](http://twitter.com/search?q=europejskiej+partii+ludowej) | N/A |
+| 11 | [#OpozycjaWygra](http://twitter.com/search?q=%23OpozycjaWygra) | N/A |
+| 12 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 13 | [Sojuszu](http://twitter.com/search?q=Sojuszu) | N/A |
 | 14 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 15 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
-| 16 | [Europejskiej Partii Ludowej](http://twitter.com/search?q=Europejskiej+Partii+Ludowej) | N/A |
-| 17 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
-| 18 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
-| 19 | [Przewodów](http://twitter.com/search?q=Przewod%c3%b3w) | N/A |
-| 20 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 21 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
-| 22 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
-| 23 | [Duda](http://twitter.com/search?q=Duda) | N/A |
-| 24 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
-| 25 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 26 | [JPII](http://twitter.com/search?q=JPII) | N/A |
-| 27 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 28 | [Paweł Kukiz](http://twitter.com/search?q=Pawe%c5%82+Kukiz) | N/A |
-| 29 | [Judasza](http://twitter.com/search?q=Judasza) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [Bartosz Salamon](http://twitter.com/search?q=Bartosz+Salamon) | N/A |
-| 32 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
-| 33 | [Pałacu Prezydenckim](http://twitter.com/search?q=Pa%c5%82acu+Prezydenckim) | N/A |
-| 34 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
-| 35 | [Sojuszu](http://twitter.com/search?q=Sojuszu) | N/A |
-| 36 | [Różański](http://twitter.com/search?q=R%c3%b3%c5%bca%c5%84ski) | N/A |
-| 37 | [wielka środa](http://twitter.com/search?q=wielka+%c5%9broda) | N/A |
-| 38 | [Semeniuk](http://twitter.com/search?q=Semeniuk) | N/A |
-| 39 | [Panią](http://twitter.com/search?q=Pani%c4%85) | N/A |
-| 40 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 41 | [polskie radio](http://twitter.com/search?q=polskie+radio) | N/A |
-| 42 | [Powidzu](http://twitter.com/search?q=Powidzu) | N/A |
-| 43 | [Antysystemowiec](http://twitter.com/search?q=Antysystemowiec) | N/A |
-| 44 | [Legia Warszawa](http://twitter.com/search?q=Legia+Warszawa) | N/A |
-| 45 | [SZA NA OPENERZE](http://twitter.com/search?q=SZA+NA+OPENERZE) | N/A |
-| 46 | [Pucharu Króla](http://twitter.com/search?q=Pucharu+Kr%c3%b3la) | N/A |
-| 47 | [Pani Magdaleno](http://twitter.com/search?q=Pani+Magdaleno) | N/A |
-| 48 | [Breżniew](http://twitter.com/search?q=Bre%c5%bcniew) | N/A |
-| 49 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
-| 50 | [freiburgiem](http://twitter.com/search?q=freiburgiem) | N/A |
+| 15 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 16 | [Ciekawe](http://twitter.com/search?q=Ciekawe) | N/A |
+| 17 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
+| 18 | [Chyba](http://twitter.com/search?q=Chyba) | N/A |
+| 19 | [bartosiaka](http://twitter.com/search?q=bartosiaka) | N/A |
+| 20 | [Zełenski](http://twitter.com/search?q=Ze%c5%82enski) | N/A |
+| 21 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 22 | [Szwecję](http://twitter.com/search?q=Szwecj%c4%99) | N/A |
+| 23 | [Order Orła Białego](http://twitter.com/search?q=Order+Or%c5%82a+Bia%c5%82ego) | N/A |
+| 24 | [Kaleta](http://twitter.com/search?q=Kaleta) | N/A |
+| 25 | [polskie radio](http://twitter.com/search?q=polskie+radio) | N/A |
+| 26 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 27 | [legia warszawa](http://twitter.com/search?q=legia+warszawa) | N/A |
+| 28 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
+| 29 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 30 | [różański](http://twitter.com/search?q=r%c3%b3%c5%bca%c5%84ski) | N/A |
+| 31 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
+| 32 | [freiburgiem](http://twitter.com/search?q=freiburgiem) | N/A |
+| 33 | [ukrainki](http://twitter.com/search?q=ukrainki) | N/A |
+| 34 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
+| 35 | [narodowym](http://twitter.com/search?q=narodowym) | N/A |
+| 36 | [Ukrainiec](http://twitter.com/search?q=Ukrainiec) | N/A |
+| 37 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 38 | [dazai](http://twitter.com/search?q=dazai) | N/A |
+| 39 | [semeniuk](http://twitter.com/search?q=semeniuk) | N/A |
+| 40 | [Skończy](http://twitter.com/search?q=Sko%c5%84czy) | N/A |
+| 41 | [belgijska](http://twitter.com/search?q=belgijska) | N/A |
+| 42 | [Judasza](http://twitter.com/search?q=Judasza) | N/A |
+| 43 | [Polski Ład](http://twitter.com/search?q=Polski+%c5%81ad) | N/A |
+| 44 | [Przewodów](http://twitter.com/search?q=Przewod%c3%b3w) | N/A |
+| 45 | [elona](http://twitter.com/search?q=elona) | N/A |
+| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 47 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 48 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 49 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 50 | [Szwajcaria](http://twitter.com/search?q=Szwajcaria) | N/A |
 
 
 

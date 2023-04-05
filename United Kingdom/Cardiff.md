@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-04-05 17:16:36 UTC`
+📆 Last Updated: `2023-04-05 18:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 4 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
-| 5 | [#NFFC](http://twitter.com/search?q=%23NFFC) | N/A |
-| 6 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 3 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 4 | [#NFFC](http://twitter.com/search?q=%23NFFC) | N/A |
+| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 6 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
 | 7 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 10 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 11 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 12 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 13 | [Passover](http://twitter.com/search?q=Passover) | N/A |
-| 14 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 17 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 18 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 19 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 20 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
-| 21 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 22 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
-| 23 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 24 | [Nigel Lawson](http://twitter.com/search?q=Nigel+Lawson) | N/A |
-| 25 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 26 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 27 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 28 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 29 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 30 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 31 | [Daily Quordle 436](http://twitter.com/search?q=Daily+Quordle+436) | N/A |
-| 32 | [Michael Keane](http://twitter.com/search?q=Michael+Keane) | N/A |
-| 33 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
-| 34 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
-| 35 | [Teemu](http://twitter.com/search?q=Teemu) | N/A |
-| 36 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
-| 37 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 38 | [Amir Khan](http://twitter.com/search?q=Amir+Khan) | N/A |
-| 39 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 40 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 41 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 42 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 43 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 44 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 45 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 46 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 47 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 48 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 9 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 10 | [Curtis jones](http://twitter.com/search?q=Curtis+jones) | N/A |
+| 11 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 12 | [JOTA](http://twitter.com/search?q=JOTA) | N/A |
+| 13 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 14 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 15 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
+| 16 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 17 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 18 | [FABINHO](http://twitter.com/search?q=FABINHO) | N/A |
+| 19 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 20 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 21 | [NUNEZ](http://twitter.com/search?q=NUNEZ) | N/A |
+| 22 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
+| 23 | [ayling](http://twitter.com/search?q=ayling) | N/A |
+| 24 | [MATIP](http://twitter.com/search?q=MATIP) | N/A |
+| 25 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 26 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 27 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
+| 28 | [Teemu](http://twitter.com/search?q=Teemu) | N/A |
+| 29 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 30 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 31 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 32 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 33 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 34 | [tsimikas](http://twitter.com/search?q=tsimikas) | N/A |
+| 35 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 36 | [michael keane](http://twitter.com/search?q=michael+keane) | N/A |
+| 37 | [Nigel Lawson](http://twitter.com/search?q=Nigel+Lawson) | N/A |
+| 38 | [KOVACIC](http://twitter.com/search?q=KOVACIC) | N/A |
+| 39 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
+| 40 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 41 | [anthony taylor](http://twitter.com/search?q=anthony+taylor) | N/A |
+| 42 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 43 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 44 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 45 | [MILNER](http://twitter.com/search?q=MILNER) | N/A |
+| 46 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 47 | [Amir khan](http://twitter.com/search?q=Amir+khan) | N/A |
+| 48 | [Mckennie](http://twitter.com/search?q=Mckennie) | N/A |
 
 
 

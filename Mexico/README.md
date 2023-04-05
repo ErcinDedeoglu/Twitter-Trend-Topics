@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-04-05 17:17:26 UTC`
+📆 Last Updated: `2023-04-05 18:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Mexico
 | 1 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
 | 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 3 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 4 | [#KornoCelestial](http://twitter.com/search?q=%23KornoCelestial) | N/A |
-| 5 | [#SantoPoderoso](http://twitter.com/search?q=%23SantoPoderoso) | N/A |
-| 6 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 7 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 8 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
-| 9 | [#IWannaStayWithGYU](http://twitter.com/search?q=%23IWannaStayWithGYU) | N/A |
-| 10 | [Hola Mir](http://twitter.com/search?q=Hola+Mir) | N/A |
-| 11 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 12 | [golden record holder](http://twitter.com/search?q=golden+record+holder) | N/A |
-| 13 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 14 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 16 | [Pedro navajas](http://twitter.com/search?q=Pedro+navajas) | N/A |
+| 4 | [#AlertaSismica](http://twitter.com/search?q=%23AlertaSismica) | N/A |
+| 5 | [#CosasDeNacos](http://twitter.com/search?q=%23CosasDeNacos) | N/A |
+| 6 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 7 | [#BTRDay](http://twitter.com/search?q=%23BTRDay) | N/A |
+| 8 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 9 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
+| 10 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 11 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
+| 12 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 13 | [Hola Mir](http://twitter.com/search?q=Hola+Mir) | N/A |
+| 14 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 15 | [Lucas Romero](http://twitter.com/search?q=Lucas+Romero) | N/A |
+| 16 | [Puerto Escondido](http://twitter.com/search?q=Puerto+Escondido) | N/A |
 | 17 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 18 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 19 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 20 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
-| 21 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 23 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 24 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 25 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 26 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 27 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 28 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 29 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 30 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 31 | [lucas romero](http://twitter.com/search?q=lucas+romero) | N/A |
-| 32 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
-| 33 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 34 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 35 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
-| 36 | [Tilín](http://twitter.com/search?q=Til%c3%adn) | N/A |
-| 37 | [Puerto Escondido](http://twitter.com/search?q=Puerto+Escondido) | N/A |
-| 38 | [Misión del Valle](http://twitter.com/search?q=Misi%c3%b3n+del+Valle) | N/A |
-| 39 | ["Chanoc"](http://twitter.com/search?q=%22Chanoc%22) | N/A |
-| 40 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 41 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 42 | [Mexico Infrastructure Partners](http://twitter.com/search?q=Mexico+Infrastructure+Partners) | N/A |
-| 43 | [LAS MAVELYN SE LLEVAN TODO](http://twitter.com/search?q=LAS+MAVELYN+SE+LLEVAN+TODO) | N/A |
-| 44 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 45 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 46 | [Robert Smith](http://twitter.com/search?q=Robert+Smith) | N/A |
-| 47 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 48 | [Philadelphia Union](http://twitter.com/search?q=Philadelphia+Union) | N/A |
-| 49 | [Roberto Madrazo](http://twitter.com/search?q=Roberto+Madrazo) | N/A |
-| 50 | [FONADIN](http://twitter.com/search?q=FONADIN) | N/A |
+| 18 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 19 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 20 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 21 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 22 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 23 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
+| 24 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 25 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 26 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
+| 27 | [Pedro navajas](http://twitter.com/search?q=Pedro+navajas) | N/A |
+| 28 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
+| 29 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
+| 30 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 31 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 32 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
+| 33 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 34 | [Madero](http://twitter.com/search?q=Madero) | N/A |
+| 35 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 36 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 37 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 38 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 39 | [Estral](http://twitter.com/search?q=Estral) | N/A |
+| 40 | [FERNANDO HERNÁNDEZ](http://twitter.com/search?q=FERNANDO+HERN%c3%81NDEZ) | N/A |
+| 41 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 42 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
+| 43 | [AUSTERIDAD](http://twitter.com/search?q=AUSTERIDAD) | N/A |
+| 44 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 45 | [Martes 4](http://twitter.com/search?q=Martes+4) | N/A |
+| 46 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 47 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 48 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 49 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 50 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
 
 
 

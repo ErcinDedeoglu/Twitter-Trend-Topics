@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-04-05 17:17:29 UTC`
+📆 Last Updated: `2023-04-05 18:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ukraine
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 2 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 1 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 2 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 3 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 4 | [#sarcasm](http://twitter.com/search?q=%23sarcasm) | N/A |
-| 5 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 6 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 7 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 8 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
-| 9 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 10 | [Maria Lvova-Belova](http://twitter.com/search?q=Maria+Lvova-Belova) | N/A |
-| 11 | [Dnipro](http://twitter.com/search?q=Dnipro) | Dnipro is the fourth-longest river in Europe and the longest river in Ukraine. It is also known as the Dnieper River. The name Dnipro is derived from the ancient Greek name of the river, Dnepr, which means “river of wild waters”. |
-| 12 | [Трампа](http://twitter.com/search?q=%d0%a2%d1%80%d0%b0%d0%bc%d0%bf%d0%b0) | N/A |
-| 13 | [Alliance](http://twitter.com/search?q=Alliance) | N/A |
-| 14 | [Kramatorsk](http://twitter.com/search?q=Kramatorsk) | N/A |
-| 15 | [Volodymyr Zelenskyy](http://twitter.com/search?q=Volodymyr+Zelenskyy) | N/A |
-| 16 | [Санкт-Петербурге](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bd%d0%ba%d1%82-%d0%9f%d0%b5%d1%82%d0%b5%d1%80%d0%b1%d1%83%d1%80%d0%b3%d0%b5) | N/A |
-| 17 | [Молоко](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%be%d0%ba%d0%be) | N/A |
-| 18 | [NAFO](http://twitter.com/search?q=NAFO) | N/A |
-| 19 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
-| 20 | [Байден](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
-| 21 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 22 | [раночку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
-| 23 | [Бахмуте](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b5) | N/A |
-| 24 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 25 | [донецк](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b5%d1%86%d0%ba) | N/A |
-| 26 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 27 | [пригожин](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%b3%d0%be%d0%b6%d0%b8%d0%bd) | N/A |
-| 28 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 29 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 30 | [XBYX](http://twitter.com/search?q=XBYX) | N/A |
-| 31 | [Татарского](http://twitter.com/search?q=%d0%a2%d0%b0%d1%82%d0%b0%d1%80%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 32 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 33 | [Чекаю](http://twitter.com/search?q=%d0%a7%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
-| 34 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 35 | [Гаагу](http://twitter.com/search?q=%d0%93%d0%b0%d0%b0%d0%b3%d1%83) | N/A |
-| 36 | [Путиным](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%8b%d0%bc) | N/A |
-| 37 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 38 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 39 | [Brussels](http://twitter.com/search?q=Brussels) | N/A |
-| 40 | [chernihiv](http://twitter.com/search?q=chernihiv) | N/A |
-| 41 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
-| 42 | [навальный](http://twitter.com/search?q=%d0%bd%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 43 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
-| 44 | [хватит](http://twitter.com/search?q=%d1%85%d0%b2%d0%b0%d1%82%d0%b8%d1%82) | N/A |
-| 45 | [Germans](http://twitter.com/search?q=Germans) | N/A |
-| 46 | [Типа](http://twitter.com/search?q=%d0%a2%d0%b8%d0%bf%d0%b0) | N/A |
-| 47 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 48 | [В Украине](http://twitter.com/search?q=%d0%92+%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
-| 49 | [Гитлер](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80) | N/A |
-| 50 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 4 | [Трампа](http://twitter.com/search?q=%d0%a2%d1%80%d0%b0%d0%bc%d0%bf%d0%b0) | N/A |
+| 5 | [#cryptocurrency](http://twitter.com/search?q=%23cryptocurrency) | N/A |
+| 6 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 7 | [#sarcasm](http://twitter.com/search?q=%23sarcasm) | N/A |
+| 8 | [odesa](http://twitter.com/search?q=odesa) | N/A |
+| 9 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 10 | [молоко](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%be%d0%ba%d0%be) | N/A |
+| 11 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
+| 12 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 13 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
+| 14 | [European](http://twitter.com/search?q=European) | N/A |
+| 15 | [Alliance](http://twitter.com/search?q=Alliance) | N/A |
+| 16 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 17 | [путину](http://twitter.com/search?q=%d0%bf%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
+| 18 | [#digitalart](http://twitter.com/search?q=%23digitalart) | N/A |
+| 19 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 20 | [Гойда](http://twitter.com/search?q=%d0%93%d0%be%d0%b9%d0%b4%d0%b0) | N/A |
+| 21 | [Донбасс](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81) | N/A |
+| 22 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 23 | [Татарского](http://twitter.com/search?q=%d0%a2%d0%b0%d1%82%d0%b0%d1%80%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 24 | [Страшно](http://twitter.com/search?q=%d0%a1%d1%82%d1%80%d0%b0%d1%88%d0%bd%d0%be) | N/A |
+| 25 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 26 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 27 | [видимо](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
+| 28 | [пригожин](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%b3%d0%be%d0%b6%d0%b8%d0%bd) | N/A |
+| 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 30 | [Donetsk](http://twitter.com/search?q=Donetsk) | N/A |
+| 31 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 32 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 33 | [Какое](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%be%d0%b5) | N/A |
+| 34 | [xbyx](http://twitter.com/search?q=xbyx) | N/A |
+| 35 | [Красота](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
+| 36 | [Класс](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d1%81) | N/A |
+| 37 | [донецк](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b5%d1%86%d0%ba) | N/A |
+| 38 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 39 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 40 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 41 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 42 | [буде](http://twitter.com/search?q=%d0%b1%d1%83%d0%b4%d0%b5) | N/A |
+| 43 | [мило](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bb%d0%be) | N/A |
+| 44 | [армении](http://twitter.com/search?q=%d0%b0%d1%80%d0%bc%d0%b5%d0%bd%d0%b8%d0%b8) | N/A |
+| 45 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
+| 46 | [Татарский](http://twitter.com/search?q=%d0%a2%d0%b0%d1%82%d0%b0%d1%80%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
+| 47 | [харькове](http://twitter.com/search?q=%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d0%b5) | N/A |
+| 48 | [Можна](http://twitter.com/search?q=%d0%9c%d0%be%d0%b6%d0%bd%d0%b0) | N/A |
+| 49 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 50 | [Чекаю](http://twitter.com/search?q=%d0%a7%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
 
 
 

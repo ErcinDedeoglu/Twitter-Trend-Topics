@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-04-05 17:17:18 UTC`
+📆 Last Updated: `2023-04-05 18:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,48 +17,52 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 2 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 3 | [Dominic Rhodes](http://twitter.com/search?q=Dominic+Rhodes) | N/A |
-| 4 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 6 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
-| 7 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 8 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 9 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 10 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 11 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 12 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
-| 13 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 14 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 15 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 16 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 17 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 18 | [Vickie](http://twitter.com/search?q=Vickie) | N/A |
-| 19 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
-| 20 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
-| 21 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 22 | [Daily Quordle 436](http://twitter.com/search?q=Daily+Quordle+436) | N/A |
-| 23 | [Bryce Dallas Howard](http://twitter.com/search?q=Bryce+Dallas+Howard) | N/A |
-| 24 | [Ronna](http://twitter.com/search?q=Ronna) | Ronna is a female given name, derived from the Hebrew name Veronica. It is a variant of the name Veronica, which means "true image". |
-| 25 | [Seder](http://twitter.com/search?q=Seder) | N/A |
-| 26 | [Lori Lightfoot](http://twitter.com/search?q=Lori+Lightfoot) | N/A |
-| 27 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
-| 28 | [The Super Mario Bros](http://twitter.com/search?q=The+Super+Mario+Bros) | N/A |
-| 29 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
-| 30 | [Mario Movie](http://twitter.com/search?q=Mario+Movie) | N/A |
-| 31 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 32 | [WotC](http://twitter.com/search?q=WotC) | WotC stands for Wizards of the Coast, a publisher of fantasy and science fiction games, books, and other products. It is best known for its role-playing game Dungeons & Dragons. |
-| 33 | [#GoldStarSpousesDay](http://twitter.com/search?q=%23GoldStarSpousesDay) | N/A |
-| 34 | [#SafePlaceSelfie](http://twitter.com/search?q=%23SafePlaceSelfie) | N/A |
-| 35 | [#NationalWalkingDay](http://twitter.com/search?q=%23NationalWalkingDay) | N/A |
-| 36 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 37 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 38 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 39 | [#IStandWithEvan](http://twitter.com/search?q=%23IStandWithEvan) | N/A |
-| 40 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 41 | [#ncpol](http://twitter.com/search?q=%23ncpol) | N/A |
-| 42 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
-| 43 | [#JJK219](http://twitter.com/search?q=%23JJK219) | N/A |
-| 44 | [#firevince](http://twitter.com/search?q=%23firevince) | N/A |
+| 3 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 4 | [#NPHWChat](http://twitter.com/search?q=%23NPHWChat) | N/A |
+| 5 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 6 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 7 | [Dominic Rhodes](http://twitter.com/search?q=Dominic+Rhodes) | N/A |
+| 8 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 9 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 10 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
+| 11 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
+| 12 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 13 | [#SafePlaceSelfie](http://twitter.com/search?q=%23SafePlaceSelfie) | N/A |
+| 14 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 15 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 16 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
+| 17 | [Vickie](http://twitter.com/search?q=Vickie) | N/A |
+| 18 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
+| 19 | [Grayson Rodriguez](http://twitter.com/search?q=Grayson+Rodriguez) | N/A |
+| 20 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 21 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 22 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 23 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 24 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 25 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
+| 26 | [Seder](http://twitter.com/search?q=Seder) | N/A |
+| 27 | [Bryce Dallas Howard](http://twitter.com/search?q=Bryce+Dallas+Howard) | N/A |
+| 28 | [Ronna](http://twitter.com/search?q=Ronna) | Ronna is a female given name, derived from the Hebrew name Veronica. It is a variant of the name Veronica, which means "true image". |
+| 29 | [Sore](http://twitter.com/search?q=Sore) | N/A |
+| 30 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
+| 31 | [The Super Mario Bros](http://twitter.com/search?q=The+Super+Mario+Bros) | N/A |
+| 32 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 33 | [Augusta National](http://twitter.com/search?q=Augusta+National) | N/A |
+| 34 | [WotC](http://twitter.com/search?q=WotC) | WotC stands for Wizards of the Coast, a publisher of fantasy and science fiction games, books, and other products. It is best known for its role-playing game Dungeons & Dragons. |
+| 35 | [Chicagoans](http://twitter.com/search?q=Chicagoans) | N/A |
+| 36 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
+| 37 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 38 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 39 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 40 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 41 | [#firevince](http://twitter.com/search?q=%23firevince) | N/A |
+| 42 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 43 | [#OneBallState](http://twitter.com/search?q=%23OneBallState) | N/A |
+| 44 | [#MarioMovie](http://twitter.com/search?q=%23MarioMovie) | N/A |
+| 45 | [#IStandWithEvan](http://twitter.com/search?q=%23IStandWithEvan) | N/A |
+| 46 | [#ncpol](http://twitter.com/search?q=%23ncpol) | N/A |
+| 47 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 48 | [#JJK219](http://twitter.com/search?q=%23JJK219) | N/A |
 
 
 

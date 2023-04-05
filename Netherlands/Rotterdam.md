@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-04-05 17:16:52 UTC`
+📆 Last Updated: `2023-04-05 18:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#verkiezingsdebat](http://twitter.com/search?q=%23verkiezingsdebat) | N/A |
-| 2 | [#SpaPSV](http://twitter.com/search?q=%23SpaPSV) | N/A |
-| 3 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
-| 4 | [Bokito](http://twitter.com/search?q=Bokito) | N/A |
-| 5 | [#feyaja](http://twitter.com/search?q=%23feyaja) | #Feyaja is a hashtag used on social media to express support for the LGBTQ+ community in Nigeria. It is derived from the Yoruba phrase "Feyi ja," which translates to "Love conquers all." |
+| 1 | [#feyaja](http://twitter.com/search?q=%23feyaja) | #Feyaja is a hashtag used on social media to express support for the LGBTQ+ community in Nigeria. It is derived from the Yoruba phrase "Feyi ja," which translates to "Love conquers all." |
+| 2 | [#verkiezingsdebat](http://twitter.com/search?q=%23verkiezingsdebat) | N/A |
+| 3 | [#SPApsv](http://twitter.com/search?q=%23SPApsv) | N/A |
+| 4 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
+| 5 | [Bokito](http://twitter.com/search?q=Bokito) | N/A |
 | 6 | [Hermans](http://twitter.com/search?q=Hermans) | N/A |
 | 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [Heerma](http://twitter.com/search?q=Heerma) | N/A |
-| 9 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
-| 10 | [#knvbbeker](http://twitter.com/search?q=%23knvbbeker) | N/A |
-| 11 | [Diergaarde Blijdorp](http://twitter.com/search?q=Diergaarde+Blijdorp) | N/A |
-| 12 | [#Voorschoten](http://twitter.com/search?q=%23Voorschoten) | N/A |
-| 13 | [Azarkan](http://twitter.com/search?q=Azarkan) | N/A |
+| 8 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
+| 9 | [#knvbbeker](http://twitter.com/search?q=%23knvbbeker) | N/A |
+| 10 | [#Voorschoten](http://twitter.com/search?q=%23Voorschoten) | N/A |
+| 11 | [Azarkan](http://twitter.com/search?q=Azarkan) | N/A |
+| 12 | [Diergaarde Blijdorp](http://twitter.com/search?q=Diergaarde+Blijdorp) | N/A |
+| 13 | [Heerma](http://twitter.com/search?q=Heerma) | N/A |
 | 14 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
 | 15 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 16 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
-| 17 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
+| 17 | [drommel](http://twitter.com/search?q=drommel) | N/A |
 | 18 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
 | 19 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 20 | [Ouwehand](http://twitter.com/search?q=Ouwehand) | N/A |
-| 21 | [Jutta](http://twitter.com/search?q=Jutta) | N/A |
-| 22 | [Caribische](http://twitter.com/search?q=Caribische) | N/A |
-| 23 | [Teze](http://twitter.com/search?q=Teze) | N/A |
-| 24 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 25 | [Paternotte](http://twitter.com/search?q=Paternotte) | N/A |
+| 20 | [Jutta](http://twitter.com/search?q=Jutta) | N/A |
+| 21 | [Caribische](http://twitter.com/search?q=Caribische) | N/A |
+| 22 | [Teze](http://twitter.com/search?q=Teze) | N/A |
+| 23 | [Sint-Oedenrode](http://twitter.com/search?q=Sint-Oedenrode) | N/A |
+| 24 | [Paternotte](http://twitter.com/search?q=Paternotte) | N/A |
+| 25 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 26 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 27 | [guus til](http://twitter.com/search?q=guus+til) | N/A |
-| 28 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 29 | [Transavia](http://twitter.com/search?q=Transavia) | N/A |
+| 28 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
+| 29 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
 | 30 | [Van Haga](http://twitter.com/search?q=Van+Haga) | N/A |
-| 31 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
-| 32 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
-| 33 | [Lelystad](http://twitter.com/search?q=Lelystad) | N/A |
-| 34 | [Van Huffelen](http://twitter.com/search?q=Van+Huffelen) | N/A |
-| 35 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 36 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 37 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
-| 38 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 39 | [Stromae](http://twitter.com/search?q=Stromae) | N/A |
-| 40 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
+| 31 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
+| 32 | [Ouwehand](http://twitter.com/search?q=Ouwehand) | N/A |
+| 33 | [Dassen](http://twitter.com/search?q=Dassen) | N/A |
+| 34 | [Lelystad](http://twitter.com/search?q=Lelystad) | N/A |
+| 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 36 | [Van Huffelen](http://twitter.com/search?q=Van+Huffelen) | N/A |
+| 37 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 38 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
+| 39 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 40 | [Stromae](http://twitter.com/search?q=Stromae) | N/A |
 | 41 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
-| 42 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
-| 43 | [dassen](http://twitter.com/search?q=dassen) | N/A |
-| 44 | [Tempelberg](http://twitter.com/search?q=Tempelberg) | N/A |
-| 45 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 46 | [Kaagje](http://twitter.com/search?q=Kaagje) | N/A |
+| 42 | [Tempelberg](http://twitter.com/search?q=Tempelberg) | N/A |
+| 43 | [Transavia](http://twitter.com/search?q=Transavia) | N/A |
+| 44 | [Raad van State](http://twitter.com/search?q=Raad+van+State) | N/A |
+| 45 | [Kaagje](http://twitter.com/search?q=Kaagje) | N/A |
+| 46 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
 | 47 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
-| 48 | [Klaver](http://twitter.com/search?q=Klaver) | N/A |
-| 49 | [bosz](http://twitter.com/search?q=bosz) | N/A |
-| 50 | [Van der Plas](http://twitter.com/search?q=Van+der+Plas) | N/A |
+| 48 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
+| 49 | [Prorail](http://twitter.com/search?q=Prorail) | N/A |
+| 50 | [Edwin Evers](http://twitter.com/search?q=Edwin+Evers) | N/A |
 
 
 

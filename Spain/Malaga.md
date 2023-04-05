@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-04-05 17:16:53 UTC`
+📆 Last Updated: `2023-04-05 18:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 2 | [#TierraDeNadie5](http://twitter.com/search?q=%23TierraDeNadie5) | N/A |
-| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [Miércoles Santo](http://twitter.com/search?q=Mi%c3%a9rcoles+Santo) | N/A |
-| 5 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
+| 1 | [#CofradiasMLG](http://twitter.com/search?q=%23CofradiasMLG) | N/A |
+| 2 | [#tierradenadie5](http://twitter.com/search?q=%23tierradenadie5) | N/A |
+| 3 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 4 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
+| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 6 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 7 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 8 | [#AbrilPuertosMil](http://twitter.com/search?q=%23AbrilPuertosMil) | N/A |
-| 9 | [Aless](http://twitter.com/search?q=Aless) | N/A |
-| 10 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
-| 11 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 13 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 14 | [#CuartosDeChampionsEnMovistar](http://twitter.com/search?q=%23CuartosDeChampionsEnMovistar) | N/A |
-| 15 | [Ana Sandra](http://twitter.com/search?q=Ana+Sandra) | N/A |
-| 16 | [Pablo Ibáñez](http://twitter.com/search?q=Pablo+Ib%c3%a1%c3%b1ez) | N/A |
-| 17 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 18 | [Lecturas](http://twitter.com/search?q=Lecturas) | N/A |
-| 19 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
-| 20 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 21 | [Aberrante](http://twitter.com/search?q=Aberrante) | N/A |
-| 22 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
-| 23 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
-| 24 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
-| 25 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
-| 26 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
-| 27 | [Zarraga](http://twitter.com/search?q=Zarraga) | N/A |
-| 28 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 30 | [Arrasate](http://twitter.com/search?q=Arrasate) | N/A |
-| 31 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 32 | [Helio](http://twitter.com/search?q=Helio) | N/A |
-| 33 | [Avilés](http://twitter.com/search?q=Avil%c3%a9s) | N/A |
-| 34 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 35 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 36 | [Isa Serra](http://twitter.com/search?q=Isa+Serra) | N/A |
-| 37 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 38 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 39 | [Yolanda](http://twitter.com/search?q=Yolanda) | N/A |
-| 40 | [David Bisbal](http://twitter.com/search?q=David+Bisbal) | N/A |
-| 41 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 42 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 43 | [Partido Popular Europeo](http://twitter.com/search?q=Partido+Popular+Europeo) | N/A |
-| 44 | [Hammurabi](http://twitter.com/search?q=Hammurabi) | N/A |
-| 45 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
-| 46 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 47 | [San Benito](http://twitter.com/search?q=San+Benito) | N/A |
-| 48 | [Ruber](http://twitter.com/search?q=Ruber) | N/A |
-| 49 | [jonan](http://twitter.com/search?q=jonan) | N/A |
+| 7 | [#firstdates4a](http://twitter.com/search?q=%23firstdates4a) | N/A |
+| 8 | [GINÉS](http://twitter.com/search?q=GIN%c3%89S) | N/A |
+| 9 | [SAN MAMÉS](http://twitter.com/search?q=SAN+MAM%c3%89S) | N/A |
+| 10 | [YAIZA](http://twitter.com/search?q=YAIZA) | N/A |
+| 11 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
+| 12 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 13 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 14 | [PABLO IBÁÑEZ](http://twitter.com/search?q=PABLO+IB%c3%81%c3%91EZ) | N/A |
+| 15 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
+| 16 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 17 | [SERGIO HERRERA](http://twitter.com/search?q=SERGIO+HERRERA) | N/A |
+| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 19 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
+| 20 | [bosco](http://twitter.com/search?q=bosco) | N/A |
+| 21 | [ZARRAGA](http://twitter.com/search?q=ZARRAGA) | N/A |
+| 22 | [Aless](http://twitter.com/search?q=Aless) | N/A |
+| 23 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
+| 24 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 25 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 26 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 27 | [Miércoles Santo](http://twitter.com/search?q=Mi%c3%a9rcoles+Santo) | N/A |
+| 28 | [Helio](http://twitter.com/search?q=Helio) | N/A |
+| 29 | [ana sandra](http://twitter.com/search?q=ana+sandra) | N/A |
+| 30 | [BILBAO](http://twitter.com/search?q=BILBAO) | N/A |
+| 31 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 32 | [Arrasate](http://twitter.com/search?q=Arrasate) | N/A |
+| 33 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
+| 34 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 35 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
+| 36 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 37 | [ADRI CONTRERAS](http://twitter.com/search?q=ADRI+CONTRERAS) | N/A |
+| 38 | [Raquel mosquera](http://twitter.com/search?q=Raquel+mosquera) | N/A |
+| 39 | [partido popular europeo](http://twitter.com/search?q=partido+popular+europeo) | N/A |
+| 40 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 41 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 42 | [Montecarlo](http://twitter.com/search?q=Montecarlo) | N/A |
+| 43 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 44 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
+| 45 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 46 | [UBON](http://twitter.com/search?q=UBON) | N/A |
+| 47 | [Palos de la Frontera](http://twitter.com/search?q=Palos+de+la+Frontera) | N/A |
+| 48 | [JONAN](http://twitter.com/search?q=JONAN) | N/A |
+| 49 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
+| 50 | [Kike García](http://twitter.com/search?q=Kike+Garc%c3%ada) | N/A |
 
 
 

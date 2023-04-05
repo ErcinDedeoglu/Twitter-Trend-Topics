@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-05 17:16:47 UTC`
+📆 Last Updated: `2023-04-05 18:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
-| 2 | [#ORFReport](http://twitter.com/search?q=%23ORFReport) | N/A |
-| 3 | [#ZiB2](http://twitter.com/search?q=%23ZiB2) | N/A |
-| 4 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 5 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 6 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
-| 7 | [Sujets](http://twitter.com/search?q=Sujets) | N/A |
-| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 9 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 10 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
-| 11 | [Förderungen](http://twitter.com/search?q=F%c3%b6rderungen) | N/A |
-| 12 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 13 | [Vermögenssteuer](http://twitter.com/search?q=Verm%c3%b6genssteuer) | N/A |
-| 14 | [Ausgabe](http://twitter.com/search?q=Ausgabe) | N/A |
-| 15 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
-| 16 | [Korrektur](http://twitter.com/search?q=Korrektur) | N/A |
-| 17 | [agentur](http://twitter.com/search?q=agentur) | N/A |
-| 18 | [Dichands](http://twitter.com/search?q=Dichands) | N/A |
-| 19 | [Abwesenheit](http://twitter.com/search?q=Abwesenheit) | N/A |
-| 20 | [Mikado](http://twitter.com/search?q=Mikado) | N/A |
-| 21 | [Mittelstand](http://twitter.com/search?q=Mittelstand) | N/A |
-| 22 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 23 | [Plakat](http://twitter.com/search?q=Plakat) | N/A |
-| 24 | [Balken](http://twitter.com/search?q=Balken) | N/A |
-| 25 | [Militär](http://twitter.com/search?q=Milit%c3%a4r) | N/A |
-| 26 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
-| 27 | [Boomer](http://twitter.com/search?q=Boomer) | N/A |
-| 28 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
-| 29 | [Terror](http://twitter.com/search?q=Terror) | N/A |
-| 30 | [Kommunisten](http://twitter.com/search?q=Kommunisten) | N/A |
-| 31 | [Klenk](http://twitter.com/search?q=Klenk) | N/A |
-| 32 | [Schatz](http://twitter.com/search?q=Schatz) | N/A |
-| 33 | [Kotzen](http://twitter.com/search?q=Kotzen) | N/A |
-| 34 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 35 | [Italiener](http://twitter.com/search?q=Italiener) | N/A |
-| 36 | [Pflicht](http://twitter.com/search?q=Pflicht) | N/A |
-| 37 | [Thomas Schmid](http://twitter.com/search?q=Thomas+Schmid) | N/A |
-| 38 | [Walach](http://twitter.com/search?q=Walach) | N/A |
-| 39 | [chefin](http://twitter.com/search?q=chefin) | N/A |
-| 40 | [Preisen](http://twitter.com/search?q=Preisen) | N/A |
-| 41 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 42 | [Karin](http://twitter.com/search?q=Karin) | N/A |
-| 43 | [Schublade](http://twitter.com/search?q=Schublade) | N/A |
-| 44 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
-| 45 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
-| 46 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 47 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 48 | [Gebiet](http://twitter.com/search?q=Gebiet) | N/A |
-| 49 | [Ausmaß](http://twitter.com/search?q=Ausma%c3%9f) | N/A |
+| 2 | [#ORFreport](http://twitter.com/search?q=%23ORFreport) | N/A |
+| 3 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 4 | [Sujets](http://twitter.com/search?q=Sujets) | N/A |
+| 5 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
+| 6 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 7 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
+| 8 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 10 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 11 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 12 | [Reaktion](http://twitter.com/search?q=Reaktion) | N/A |
+| 13 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 14 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
+| 15 | [dichands](http://twitter.com/search?q=dichands) | N/A |
+| 16 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
+| 17 | [Agentur](http://twitter.com/search?q=Agentur) | N/A |
+| 18 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 19 | [Spruch](http://twitter.com/search?q=Spruch) | N/A |
+| 20 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
+| 21 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
+| 22 | [Verbrecher](http://twitter.com/search?q=Verbrecher) | N/A |
+| 23 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
+| 24 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 25 | [klenk](http://twitter.com/search?q=klenk) | N/A |
+| 26 | [Kenn](http://twitter.com/search?q=Kenn) | N/A |
+| 27 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 28 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
+| 29 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 30 | [Konzept](http://twitter.com/search?q=Konzept) | N/A |
+| 31 | [Einstellung](http://twitter.com/search?q=Einstellung) | N/A |
+| 32 | [Firma](http://twitter.com/search?q=Firma) | N/A |
+| 33 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
+| 34 | [prozess](http://twitter.com/search?q=prozess) | N/A |
+| 35 | [Depends](http://twitter.com/search?q=Depends) | N/A |
+| 36 | [Wien](http://twitter.com/search?q=Wien) | N/A |
+| 37 | [Ausgabe](http://twitter.com/search?q=Ausgabe) | N/A |
+| 38 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 39 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
+| 40 | [Beteiligten](http://twitter.com/search?q=Beteiligten) | N/A |
+| 41 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 42 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 43 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
+| 44 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
+| 45 | [Würd](http://twitter.com/search?q=W%c3%bcrd) | N/A |
+| 46 | [Praxis](http://twitter.com/search?q=Praxis) | N/A |
+| 47 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
+| 48 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 49 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 50 | [Betrieb](http://twitter.com/search?q=Betrieb) | N/A |
 
 
 

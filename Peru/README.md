@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-04-05 17:17:27 UTC`
+📆 Last Updated: `2023-04-05 18:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Peru
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [#5deAbril](http://twitter.com/search?q=%235deAbril) | N/A |
-| 3 | [Paranaense](http://twitter.com/search?q=Paranaense) | N/A |
-| 4 | [Costa](http://twitter.com/search?q=Costa) | N/A |
-| 5 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
-| 6 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 7 | [Alianza](http://twitter.com/search?q=Alianza) | N/A |
-| 8 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
-| 9 | [Chicho](http://twitter.com/search?q=Chicho) | N/A |
-| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 11 | [Fernandinho](http://twitter.com/search?q=Fernandinho) | N/A |
-| 12 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
-| 13 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 14 | [Sabbag](http://twitter.com/search?q=Sabbag) | N/A |
-| 15 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
-| 16 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 17 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 18 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
-| 19 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 20 | [Felices 30](http://twitter.com/search?q=Felices+30) | N/A |
-| 21 | [Cipriani](http://twitter.com/search?q=Cipriani) | N/A |
-| 22 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
-| 23 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
-| 24 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 25 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 26 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 27 | [Percy Olivares](http://twitter.com/search?q=Percy+Olivares) | N/A |
-| 28 | [#capitanperuenperu](http://twitter.com/search?q=%23capitanperuenperu) | N/A |
-| 29 | [Dalila](http://twitter.com/search?q=Dalila) | N/A |
-| 30 | [Job 11](http://twitter.com/search?q=Job+11) | N/A |
-| 31 | [Fernando Pacheco](http://twitter.com/search?q=Fernando+Pacheco) | N/A |
-| 32 | [Ascues](http://twitter.com/search?q=Ascues) | N/A |
-| 33 | [Manuel Burga](http://twitter.com/search?q=Manuel+Burga) | N/A |
-| 34 | [Matute](http://twitter.com/search?q=Matute) | N/A |
-| 35 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
-| 36 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 37 | [Barcos](http://twitter.com/search?q=Barcos) | N/A |
-| 38 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 39 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 40 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
+| 1 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
+| 2 | [costa](http://twitter.com/search?q=costa) | N/A |
+| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 4 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 5 | [Paranaense](http://twitter.com/search?q=Paranaense) | N/A |
+| 6 | [REYNA](http://twitter.com/search?q=REYNA) | N/A |
+| 7 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 8 | [Alianza](http://twitter.com/search?q=Alianza) | N/A |
+| 9 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 10 | [Chicho](http://twitter.com/search?q=Chicho) | N/A |
+| 11 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
+| 12 | [Cipriani](http://twitter.com/search?q=Cipriani) | N/A |
+| 13 | [Sabbag](http://twitter.com/search?q=Sabbag) | N/A |
+| 14 | [Alberto Fujimori](http://twitter.com/search?q=Alberto+Fujimori) | N/A |
+| 15 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 16 | [#CopaLibertadores](http://twitter.com/search?q=%23CopaLibertadores) | N/A |
+| 17 | [Alejandro Villanueva](http://twitter.com/search?q=Alejandro+Villanueva) | N/A |
+| 18 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 19 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 20 | [Barcos](http://twitter.com/search?q=Barcos) | N/A |
+| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 22 | [Pleno del Congreso](http://twitter.com/search?q=Pleno+del+Congreso) | N/A |
+| 23 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 24 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 25 | [Ballón](http://twitter.com/search?q=Ball%c3%b3n) | N/A |
+| 26 | [vitor roque](http://twitter.com/search?q=vitor+roque) | N/A |
+| 27 | [FERNANDINHO](http://twitter.com/search?q=FERNANDINHO) | N/A |
+| 28 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 29 | [Presidenta](http://twitter.com/search?q=Presidenta) | Presidenta is a Spanish word meaning "female president". It is used to refer to a woman who holds the highest office in a country or organization. |
+| 30 | [mansiche](http://twitter.com/search?q=mansiche) | N/A |
+| 31 | [#CopaSudamericana](http://twitter.com/search?q=%23CopaSudamericana) | N/A |
+| 32 | [tesorito](http://twitter.com/search?q=tesorito) | N/A |
+| 33 | [Rifle](http://twitter.com/search?q=Rifle) | N/A |
+| 34 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 35 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
+| 36 | [The strongest](http://twitter.com/search?q=The+strongest) | N/A |
+| 37 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 38 | [#matute](http://twitter.com/search?q=%23matute) | N/A |
+| 39 | [Paddington](http://twitter.com/search?q=Paddington) | N/A |
+| 40 | [Acción Popular](http://twitter.com/search?q=Acci%c3%b3n+Popular) | N/A |
 | 41 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 42 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 43 | [Rifle](http://twitter.com/search?q=Rifle) | N/A |
-| 44 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 45 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 46 | [Sub 17](http://twitter.com/search?q=Sub+17) | N/A |
-| 47 | [campos](http://twitter.com/search?q=campos) | N/A |
-| 48 | [VAMOS CARAJO](http://twitter.com/search?q=VAMOS+CARAJO) | N/A |
-| 49 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
-| 50 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 42 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
+| 43 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 44 | [Percy Olivares](http://twitter.com/search?q=Percy+Olivares) | N/A |
+| 45 | [guillermo salas](http://twitter.com/search?q=guillermo+salas) | N/A |
+| 46 | [Vamos Boys](http://twitter.com/search?q=Vamos+Boys) | N/A |
+| 47 | [Burga](http://twitter.com/search?q=Burga) | N/A |
+| 48 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 49 | [Fernando Pacheco](http://twitter.com/search?q=Fernando+Pacheco) | N/A |
+| 50 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
 
 
 
