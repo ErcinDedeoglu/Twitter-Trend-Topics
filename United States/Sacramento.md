@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-04-05 02:23:34 UTC`
+📆 Last Updated: `2023-04-05 03:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Webbys](http://twitter.com/search?q=%23Webbys) | N/A |
-| 2 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 3 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
-| 4 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 5 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 7 | [#NoOneIsAboveTheLaw](http://twitter.com/search?q=%23NoOneIsAboveTheLaw) | N/A |
-| 8 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 9 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
-| 10 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 11 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 12 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 13 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 14 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 15 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 16 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
-| 17 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 18 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
-| 19 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 20 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
-| 21 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 22 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 23 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 24 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 26 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 27 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 28 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 29 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 30 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 31 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 32 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 33 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 34 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 35 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 36 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 37 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
-| 38 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 39 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 40 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
-| 41 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 42 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 43 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 44 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 45 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 46 | [Tacopina](http://twitter.com/search?q=Tacopina) | N/A |
-| 47 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
-| 48 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 49 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 50 | [Critics](http://twitter.com/search?q=Critics) | N/A |
+| 1 | [Hollister](http://twitter.com/search?q=Hollister) | N/A |
+| 2 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 3 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 4 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 5 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 6 | [Andrew Wiggins](http://twitter.com/search?q=Andrew+Wiggins) | N/A |
+| 7 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 8 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 9 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
+| 10 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 11 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 12 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 13 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 14 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 15 | [Hillary Clinton](http://twitter.com/search?q=Hillary+Clinton) | N/A |
+| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 17 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 18 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 19 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
+| 20 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
+| 21 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
+| 22 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 23 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 24 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 25 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
+| 26 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 27 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 28 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 29 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 30 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
+| 31 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 32 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 33 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 34 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 35 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
+| 36 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 37 | [Dylan Dodd](http://twitter.com/search?q=Dylan+Dodd) | N/A |
+| 38 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 39 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 40 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 41 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 42 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 43 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 44 | [Noam Dar](http://twitter.com/search?q=Noam+Dar) | N/A |
+| 45 | [Michael King](http://twitter.com/search?q=Michael+King) | N/A |
+| 46 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
+| 47 | [Mercer](http://twitter.com/search?q=Mercer) | N/A |
+| 48 | [Scola](http://twitter.com/search?q=Scola) | N/A |
+| 49 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
+| 50 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
 
 
 

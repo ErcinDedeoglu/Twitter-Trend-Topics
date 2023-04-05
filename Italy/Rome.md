@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-04-05 02:22:55 UTC`
+📆 Last Updated: `2023-04-05 03:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 2 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 3 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
-| 4 | [#JuventusInter](http://twitter.com/search?q=%23JuventusInter) | N/A |
-| 5 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 6 | [#primoappuntamento](http://twitter.com/search?q=%23primoappuntamento) | N/A |
+| 1 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
+| 2 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 3 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 4 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
+| 5 | [#JuventusInter](http://twitter.com/search?q=%23JuventusInter) | N/A |
+| 6 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
 | 7 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
 | 8 | [#CoppaItalia](http://twitter.com/search?q=%23CoppaItalia) | N/A |
-| 9 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
-| 10 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 11 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 12 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 13 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
-| 14 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 15 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 16 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 17 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 18 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
-| 19 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 20 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
-| 21 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 22 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
-| 23 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 24 | [Perin](http://twitter.com/search?q=Perin) | N/A |
-| 25 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 26 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 27 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 28 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
-| 29 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 30 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 9 | [#primoappuntamento](http://twitter.com/search?q=%23primoappuntamento) | N/A |
+| 10 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 11 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 12 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
+| 13 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 14 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 15 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 16 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 17 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 18 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 19 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
+| 20 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 21 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 22 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
+| 23 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 24 | [Lorenza](http://twitter.com/search?q=Lorenza) | N/A |
+| 25 | [Samir](http://twitter.com/search?q=Samir) | N/A |
+| 26 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 27 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
+| 28 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 29 | [Del Piero](http://twitter.com/search?q=Del+Piero) | N/A |
+| 30 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
 | 31 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
-| 32 | [forza ragazzi](http://twitter.com/search?q=forza+ragazzi) | N/A |
-| 33 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
-| 34 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 35 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 36 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
-| 37 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 38 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
-| 39 | [Parenzo](http://twitter.com/search?q=Parenzo) | N/A |
-| 40 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
-| 41 | [Digos](http://twitter.com/search?q=Digos) | N/A |
-| 42 | [Emanuela](http://twitter.com/search?q=Emanuela) | N/A |
-| 43 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 44 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 45 | [Mario Mario](http://twitter.com/search?q=Mario+Mario) | N/A |
-| 46 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
-| 47 | [#corviflowerparty](http://twitter.com/search?q=%23corviflowerparty) | N/A |
-| 48 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
-| 49 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 50 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
+| 32 | [Perin](http://twitter.com/search?q=Perin) | N/A |
+| 33 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 34 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 35 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 36 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
+| 37 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 38 | [forza ragazzi](http://twitter.com/search?q=forza+ragazzi) | N/A |
+| 39 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 40 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 41 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
+| 42 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 43 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
+| 44 | [Parenzo](http://twitter.com/search?q=Parenzo) | N/A |
+| 45 | [Gabriele](http://twitter.com/search?q=Gabriele) | N/A |
+| 46 | [Bellanova](http://twitter.com/search?q=Bellanova) | Bellanova is a term derived from the Italian words "bella" (beautiful) and "nova" (new). It is used to describe something that is beautiful and new, or something that has been recently renewed or refreshed. |
+| 47 | [Digos](http://twitter.com/search?q=Digos) | N/A |
+| 48 | [Emanuela](http://twitter.com/search?q=Emanuela) | N/A |
+| 49 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 50 | [Mario Mario](http://twitter.com/search?q=Mario+Mario) | N/A |
 
 
 

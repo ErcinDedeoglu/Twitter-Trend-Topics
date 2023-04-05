@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-05 02:23:39 UTC`
+📆 Last Updated: `2023-04-05 03:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for Denmark
 | 5 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
 | 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 7 | [#pldk](http://twitter.com/search?q=%23pldk) | N/A |
-| 8 | [paludan](http://twitter.com/search?q=paludan) | N/A |
+| 8 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
 | 9 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
@@ -43,14 +43,14 @@ This is top 50 for Denmark
 | 26 | [thorup](http://twitter.com/search?q=thorup) | N/A |
 | 27 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
 | 28 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 29 | [Sanjay Shah](http://twitter.com/search?q=Sanjay+Shah) | N/A |
+| 29 | [sanjay shah](http://twitter.com/search?q=sanjay+shah) | N/A |
 | 30 | [farum](http://twitter.com/search?q=farum) | N/A |
 | 31 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 32 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 33 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 34 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
 | 35 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 36 | [Beklager](http://twitter.com/search?q=Beklager) | N/A |
+| 36 | [beklager](http://twitter.com/search?q=beklager) | N/A |
 | 37 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
 | 38 | [claesson](http://twitter.com/search?q=claesson) | N/A |
 | 39 | [$SHIDO](http://twitter.com/search?q=%24SHIDO) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Denmark
 | 43 | [daramy](http://twitter.com/search?q=daramy) | N/A |
 | 44 | [spørgsmålet](http://twitter.com/search?q=sp%c3%b8rgsm%c3%a5let) | N/A |
 | 45 | [skat](http://twitter.com/search?q=skat) | N/A |
-| 46 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
-| 47 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 48 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 49 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
-| 50 | [Hele](http://twitter.com/search?q=Hele) | N/A |
+| 46 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 47 | [OPEC](http://twitter.com/search?q=OPEC) | N/A |
+| 48 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 49 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 50 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
 
 
 

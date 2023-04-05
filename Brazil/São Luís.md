@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-04-05 02:22:48 UTC`
+📆 Last Updated: `2023-04-05 03:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Brazil](</Brazil>)
 | 5 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
 | 6 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
 | 7 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
-| 8 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
-| 9 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 10 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
+| 8 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 9 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
+| 10 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
 | 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 12 | [#BetanoSabeTudo](http://twitter.com/search?q=%23BetanoSabeTudo) | N/A |
-| 13 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 12 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
+| 13 | [#BetanoSabeTudo](http://twitter.com/search?q=%23BetanoSabeTudo) | N/A |
 | 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 15 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 16 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 17 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | N/A |
-| 18 | [OSNI](http://twitter.com/search?q=OSNI) | N/A |
-| 19 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 20 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 15 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 16 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 17 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 18 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | N/A |
+| 19 | [OSNI](http://twitter.com/search?q=OSNI) | N/A |
+| 20 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
 | 21 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
 | 22 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 23 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 24 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
-| 25 | [GRANDE DIA](http://twitter.com/search?q=GRANDE+DIA) | Grande Dia is a Portuguese phrase that translates to "Big Day" in English. It is typically used to refer to a special day or event, such as a wedding, birthday, or other important occasion. |
+| 23 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 24 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 25 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
 | 26 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 27 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 28 | [SDOL](http://twitter.com/search?q=SDOL) | N/A |
-| 29 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 30 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
-| 31 | [DEIXA O ALFACE JOGAR](http://twitter.com/search?q=DEIXA+O+ALFACE+JOGAR) | N/A |
-| 32 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 33 | [João Erick](http://twitter.com/search?q=Jo%c3%a3o+Erick) | N/A |
-| 34 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 35 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 36 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 37 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
-| 38 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 39 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 40 | [Clubes](http://twitter.com/search?q=Clubes) | N/A |
-| 41 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 42 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 43 | [teen beach movie](http://twitter.com/search?q=teen+beach+movie) | N/A |
-| 44 | [Bayer](http://twitter.com/search?q=Bayer) | N/A |
-| 45 | [Bets](http://twitter.com/search?q=Bets) | N/A |
-| 46 | [Lili](http://twitter.com/search?q=Lili) | N/A |
-| 47 | [Malafaia](http://twitter.com/search?q=Malafaia) | N/A |
-| 48 | [Susi](http://twitter.com/search?q=Susi) | N/A |
-| 49 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 27 | [GRANDE DIA](http://twitter.com/search?q=GRANDE+DIA) | Grande Dia is a Portuguese phrase that translates to "Big Day" in English. It is typically used to refer to a special day or event, such as a wedding, birthday, or other important occasion. |
+| 28 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 29 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 30 | [DEIXA O ALFACE JOGAR](http://twitter.com/search?q=DEIXA+O+ALFACE+JOGAR) | N/A |
+| 31 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 32 | [SDOL](http://twitter.com/search?q=SDOL) | N/A |
+| 33 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
+| 34 | [João Erick](http://twitter.com/search?q=Jo%c3%a3o+Erick) | N/A |
+| 35 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 36 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 37 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 38 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 39 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 40 | [Copa da Alemanha](http://twitter.com/search?q=Copa+da+Alemanha) | N/A |
+| 41 | [Bayer](http://twitter.com/search?q=Bayer) | N/A |
+| 42 | [Clubes](http://twitter.com/search?q=Clubes) | N/A |
+| 43 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 44 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 45 | [Malafaia](http://twitter.com/search?q=Malafaia) | N/A |
+| 46 | [teen beach movie](http://twitter.com/search?q=teen+beach+movie) | N/A |
+| 47 | [Bets](http://twitter.com/search?q=Bets) | N/A |
+| 48 | [Lili](http://twitter.com/search?q=Lili) | N/A |
+| 49 | [Massa](http://twitter.com/search?q=Massa) | N/A |
 
 
 

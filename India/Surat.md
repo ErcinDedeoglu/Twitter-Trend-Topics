@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-04-05 02:23:22 UTC`
+📆 Last Updated: `2023-04-05 03:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -60,8 +60,7 @@ This is top 50 for [India](</India>)
 | 43 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
 | 44 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
 | 45 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 46 | [मुख्यमंत्री श्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 47 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
+| 46 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
 
 
 

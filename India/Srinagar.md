@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-04-05 02:23:21 UTC`
+📆 Last Updated: `2023-04-05 03:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,7 +45,7 @@ This is top 50 for [India](</India>)
 | 28 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
 | 29 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
 | 30 | [aaron f](http://twitter.com/search?q=aaron+f) | N/A |
-| 31 | [breakup - no](http://twitter.com/search?q=breakup+-+no) | N/A |
+| 31 | [Breakup - No](http://twitter.com/search?q=Breakup+-+No) | N/A |
 | 32 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 | 33 | [Drinks - No](http://twitter.com/search?q=Drinks+-+No) | N/A |
 | 34 | [Mumbai City FC](http://twitter.com/search?q=Mumbai+City+FC) | N/A |
@@ -60,7 +60,6 @@ This is top 50 for [India](</India>)
 | 43 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
 | 44 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
 | 45 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 46 | [मुख्यमंत्री श्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
 
 
 

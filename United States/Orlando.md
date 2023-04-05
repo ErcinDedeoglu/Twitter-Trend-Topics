@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-04-05 02:23:33 UTC`
+📆 Last Updated: `2023-04-05 03:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 2 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 3 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
-| 4 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 5 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 6 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 9 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 10 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 1 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
+| 2 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
+| 3 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 4 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 5 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 7 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
+| 8 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 10 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
 | 11 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 12 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 13 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 15 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 16 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
-| 17 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 18 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 19 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 20 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
-| 21 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 22 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 23 | [Michael King](http://twitter.com/search?q=Michael+King) | N/A |
-| 24 | [Noam Dar](http://twitter.com/search?q=Noam+Dar) | N/A |
-| 25 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 26 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
-| 27 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 28 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 29 | [Lewistown](http://twitter.com/search?q=Lewistown) | N/A |
-| 30 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 31 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 32 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
-| 33 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
-| 34 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
-| 35 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
-| 36 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 37 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 38 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
-| 39 | [Jubal](http://twitter.com/search?q=Jubal) | N/A |
-| 40 | [Domingo German](http://twitter.com/search?q=Domingo+German) | N/A |
-| 41 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 42 | [Kornet](http://twitter.com/search?q=Kornet) | N/A |
-| 43 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 44 | [Judd](http://twitter.com/search?q=Judd) | N/A |
-| 45 | [Wade Miley](http://twitter.com/search?q=Wade+Miley) | N/A |
-| 46 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
-| 47 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 48 | [Pleasantville](http://twitter.com/search?q=Pleasantville) | N/A |
-| 49 | [Finnegan](http://twitter.com/search?q=Finnegan) | N/A |
-| 50 | [Heaney](http://twitter.com/search?q=Heaney) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 13 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 14 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 15 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 17 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 18 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 19 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 20 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 21 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 22 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 23 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 24 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 25 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 26 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
+| 27 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 28 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 29 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 30 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
+| 31 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 32 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 33 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 34 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 35 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 36 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 37 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 38 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 39 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 40 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 41 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 42 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 43 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 44 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
+| 45 | [Tacopina](http://twitter.com/search?q=Tacopina) | N/A |
+| 46 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 47 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 48 | [Critics](http://twitter.com/search?q=Critics) | N/A |
 
 
 

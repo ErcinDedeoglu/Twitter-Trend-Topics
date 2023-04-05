@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mesa
 
-📆 Last Updated: `2023-04-05 02:23:31 UTC`
+📆 Last Updated: `2023-04-05 03:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
-| 2 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 5 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 6 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 7 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 8 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 1 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 2 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 3 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 4 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 5 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 7 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 8 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
 | 9 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
-| 10 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
-| 11 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 12 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 13 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 14 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 15 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 10 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 11 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 12 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 13 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
+| 14 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 15 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
 | 16 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 17 | [Dylan Dodd](http://twitter.com/search?q=Dylan+Dodd) | N/A |
-| 18 | [Michael King](http://twitter.com/search?q=Michael+King) | N/A |
-| 19 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 20 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
-| 21 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 22 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 23 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 24 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 25 | [Lewistown](http://twitter.com/search?q=Lewistown) | N/A |
-| 26 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
-| 27 | [Noam Dar](http://twitter.com/search?q=Noam+Dar) | N/A |
-| 28 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
-| 29 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
-| 30 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 31 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
-| 32 | [Domingo German](http://twitter.com/search?q=Domingo+German) | N/A |
-| 33 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
-| 34 | [Kornet](http://twitter.com/search?q=Kornet) | N/A |
-| 35 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 36 | [Judd](http://twitter.com/search?q=Judd) | N/A |
-| 37 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 38 | [Wade Miley](http://twitter.com/search?q=Wade+Miley) | N/A |
-| 39 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
-| 40 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 41 | [Pleasantville](http://twitter.com/search?q=Pleasantville) | N/A |
-| 42 | [Finnegan](http://twitter.com/search?q=Finnegan) | N/A |
-| 43 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
-| 44 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 45 | [Jake McCarthy](http://twitter.com/search?q=Jake+McCarthy) | N/A |
-| 46 | [Matz](http://twitter.com/search?q=Matz) | N/A |
-| 47 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 48 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 49 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 50 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 17 | [#ChicagoMayoralElection](http://twitter.com/search?q=%23ChicagoMayoralElection) | N/A |
+| 18 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 20 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
+| 21 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 22 | [Dylan Dodd](http://twitter.com/search?q=Dylan+Dodd) | N/A |
+| 23 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 24 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 25 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 26 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 27 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 28 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 29 | [Noam Dar](http://twitter.com/search?q=Noam+Dar) | N/A |
+| 30 | [Michael King](http://twitter.com/search?q=Michael+King) | N/A |
+| 31 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
+| 32 | [Mercer](http://twitter.com/search?q=Mercer) | N/A |
+| 33 | [Scola](http://twitter.com/search?q=Scola) | N/A |
+| 34 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
+| 35 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
+| 36 | [Wade Miley](http://twitter.com/search?q=Wade+Miley) | N/A |
+| 37 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 38 | [Garrett Mitchell](http://twitter.com/search?q=Garrett+Mitchell) | N/A |
+| 39 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 40 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 41 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 42 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
+| 43 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
+| 44 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 45 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
+| 46 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 47 | [Lewistown](http://twitter.com/search?q=Lewistown) | N/A |
+| 48 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
+| 49 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 50 | [BACK TO BACK TO BACK](http://twitter.com/search?q=BACK+TO+BACK+TO+BACK) | N/A |
 
 
 

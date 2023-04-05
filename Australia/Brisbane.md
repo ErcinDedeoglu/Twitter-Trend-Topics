@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brisbane
 
-📆 Last Updated: `2023-04-05 02:23:02 UTC`
+📆 Last Updated: `2023-04-05 03:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Australia](</Australia>)
 | 3 | [#imacelebrityau](http://twitter.com/search?q=%23imacelebrityau) | N/A |
 | 4 | [Kante](http://twitter.com/search?q=Kante) | N/A |
 | 5 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 6 | [#avfc](http://twitter.com/search?q=%23avfc) | #avfc stands for Aston Villa Football Club, an English professional football club based in Birmingham. |
-| 7 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 6 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 7 | [#AVFC](http://twitter.com/search?q=%23AVFC) | #AVFC stands for Aston Villa Football Club, an English professional football club based in Birmingham. The club competes in the Premier League, the top tier of the English football league system. |
 | 8 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 10 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
 | 11 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 12 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 13 | [georgie stone](http://twitter.com/search?q=georgie+stone) | N/A |
-| 14 | [Stan grant](http://twitter.com/search?q=Stan+grant) | N/A |
-| 15 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
-| 16 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
-| 17 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 18 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 19 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 12 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
+| 13 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
+| 14 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 15 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
+| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 17 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 18 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
+| 19 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
 | 20 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 23 | [America](http://twitter.com/search?q=America) | N/A |
-| 24 | [amanda rishworth](http://twitter.com/search?q=amanda+rishworth) | N/A |
-| 25 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 21 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 22 | [America](http://twitter.com/search?q=America) | N/A |
+| 23 | [amanda rishworth](http://twitter.com/search?q=amanda+rishworth) | N/A |
+| 24 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 26 | [rennick](http://twitter.com/search?q=rennick) | N/A |
-| 27 | [Deni](http://twitter.com/search?q=Deni) | N/A |
-| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 27 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 28 | [Deni](http://twitter.com/search?q=Deni) | N/A |
 | 29 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 30 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 31 | [yunupingu](http://twitter.com/search?q=yunupingu) | N/A |
-| 32 | [Dicko](http://twitter.com/search?q=Dicko) | N/A |
+| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 31 | [dicko](http://twitter.com/search?q=dicko) | N/A |
+| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 33 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
 | 34 | [tony jones](http://twitter.com/search?q=tony+jones) | N/A |
 | 35 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
-| 36 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 37 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 38 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 39 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 40 | [logue](http://twitter.com/search?q=logue) | N/A |
-| 41 | [Zali](http://twitter.com/search?q=Zali) | N/A |
-| 42 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 43 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
-| 44 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
-| 45 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
-| 46 | [hopgood](http://twitter.com/search?q=hopgood) | N/A |
+| 36 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
+| 37 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 38 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 39 | [logue](http://twitter.com/search?q=logue) | N/A |
+| 40 | [Zali](http://twitter.com/search?q=Zali) | N/A |
+| 41 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 42 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 43 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
+| 44 | [hopgood](http://twitter.com/search?q=hopgood) | N/A |
+| 45 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 46 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
 | 47 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
-| 48 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
-| 49 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 48 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 49 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
 | 50 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
 
 

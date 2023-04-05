@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-05 02:23:44 UTC`
+📆 Last Updated: `2023-04-05 03:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for New Zealand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
-| 3 | [Seymour](http://twitter.com/search?q=Seymour) | N/A |
+| 1 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
+| 2 | [Seymour](http://twitter.com/search?q=Seymour) | N/A |
+| 3 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 4 | [Sean Plunket](http://twitter.com/search?q=Sean+Plunket) | N/A |
 | 5 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 6 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
-| 7 | [christchurch call](http://twitter.com/search?q=christchurch+call) | N/A |
-| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 9 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 10 | [Max Key](http://twitter.com/search?q=Max+Key) | N/A |
-| 11 | [Brooke van Velden](http://twitter.com/search?q=Brooke+van+Velden) | N/A |
-| 12 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 13 | [Prince William](http://twitter.com/search?q=Prince+William) | N/A |
-| 14 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 15 | [rob campbell](http://twitter.com/search?q=rob+campbell) | N/A |
-| 16 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 17 | [efeso collins](http://twitter.com/search?q=efeso+collins) | N/A |
-| 18 | [Simon Power](http://twitter.com/search?q=Simon+Power) | N/A |
-| 19 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 6 | [Hipkins](http://twitter.com/search?q=Hipkins) | N/A |
+| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 8 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 9 | [Christchurch Call](http://twitter.com/search?q=Christchurch+Call) | N/A |
+| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 11 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 12 | [European](http://twitter.com/search?q=European) | N/A |
+| 13 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 14 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 15 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 16 | [efeso collins](http://twitter.com/search?q=efeso+collins) | N/A |
+| 17 | [rob campbell](http://twitter.com/search?q=rob+campbell) | N/A |
+| 18 | [Gore](http://twitter.com/search?q=Gore) | N/A |
+| 19 | [Max Key](http://twitter.com/search?q=Max+Key) | N/A |
 | 20 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 21 | [Kiri Allan](http://twitter.com/search?q=Kiri+Allan) | N/A |
-| 22 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 23 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 24 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 25 | [Cindy](http://twitter.com/search?q=Cindy) | N/A |
-| 26 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 27 | [Helen Clark](http://twitter.com/search?q=Helen+Clark) | N/A |
-| 28 | [disinformation project](http://twitter.com/search?q=disinformation+project) | N/A |
-| 29 | [Newshub](http://twitter.com/search?q=Newshub) | N/A |
-| 30 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 31 | [Hipkins](http://twitter.com/search?q=Hipkins) | N/A |
-| 32 | [Greg Fleming](http://twitter.com/search?q=Greg+Fleming) | N/A |
-| 33 | [Liz Gunn](http://twitter.com/search?q=Liz+Gunn) | N/A |
-| 34 | [Michael](http://twitter.com/search?q=Michael) | N/A |
-| 35 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 36 | [Piers Morgan](http://twitter.com/search?q=Piers+Morgan) | N/A |
-| 37 | [Mt Albert](http://twitter.com/search?q=Mt+Albert) | N/A |
-| 38 | [Canterbury](http://twitter.com/search?q=Canterbury) | N/A |
-| 39 | [Awful](http://twitter.com/search?q=Awful) | N/A |
-| 40 | [Gore](http://twitter.com/search?q=Gore) | N/A |
-| 41 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 42 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 43 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
-| 44 | [Peters](http://twitter.com/search?q=Peters) | N/A |
-| 45 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 46 | [Sesh](http://twitter.com/search?q=Sesh) | N/A |
-| 47 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 49 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
-| 50 | [Dave](http://twitter.com/search?q=Dave) | N/A |
+| 21 | [Gender](http://twitter.com/search?q=Gender) | N/A |
+| 22 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
+| 23 | [Prince William](http://twitter.com/search?q=Prince+William) | N/A |
+| 24 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 26 | [kiri allan](http://twitter.com/search?q=kiri+allan) | N/A |
+| 27 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 28 | [NewsHub](http://twitter.com/search?q=NewsHub) | N/A |
+| 29 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 30 | [Platform](http://twitter.com/search?q=Platform) | N/A |
+| 31 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 32 | [simon power](http://twitter.com/search?q=simon+power) | N/A |
+| 33 | [#Vtuber](http://twitter.com/search?q=%23Vtuber) | N/A |
+| 34 | [liz gunn](http://twitter.com/search?q=liz+gunn) | N/A |
+| 35 | [Rams](http://twitter.com/search?q=Rams) | Rams is a term used to refer to male sheep. It is derived from the Old English word ram, which means a male sheep. In English, the term is used to refer to any male sheep, regardless of age or breed. |
+| 36 | [greg fleming](http://twitter.com/search?q=greg+fleming) | N/A |
+| 37 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 38 | [Soooo](http://twitter.com/search?q=Soooo) | N/A |
+| 39 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 40 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 41 | [Family Court](http://twitter.com/search?q=Family+Court) | N/A |
+| 42 | [Mt Albert](http://twitter.com/search?q=Mt+Albert) | N/A |
+| 43 | [NZ PM](http://twitter.com/search?q=NZ+PM) | N/A |
+| 44 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 45 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
+| 46 | [#AdultHumanFemale](http://twitter.com/search?q=%23AdultHumanFemale) | N/A |
+| 47 | [Disinformation Project](http://twitter.com/search?q=Disinformation+Project) | N/A |
+| 48 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 49 | [Canterbury](http://twitter.com/search?q=Canterbury) | N/A |
+| 50 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 
 
 

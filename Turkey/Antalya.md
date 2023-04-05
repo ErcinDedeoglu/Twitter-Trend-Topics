@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-04-05 02:23:24 UTC`
+📆 Last Updated: `2023-04-05 03:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
-| 2 | [#MescidiAksa](http://twitter.com/search?q=%23MescidiAksa) | N/A |
-| 3 | [#Kudüs](http://twitter.com/search?q=%23Kud%c3%bcs) | N/A |
-| 4 | [#filistin](http://twitter.com/search?q=%23filistin) | N/A |
-| 5 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
-| 6 | [Yıkılasın İsrail](http://twitter.com/search?q=Y%c4%b1k%c4%b1las%c4%b1n+%c4%b0srail) | N/A |
-| 7 | [Kıble Mescidi](http://twitter.com/search?q=K%c4%b1ble+Mescidi) | N/A |
-| 8 | [İşgalci İsrail](http://twitter.com/search?q=%c4%b0%c5%9fgalci+%c4%b0srail) | N/A |
-| 9 | [Ya Kahhar](http://twitter.com/search?q=Ya+Kahhar) | N/A |
-| 10 | [Kahrolsun İsrail](http://twitter.com/search?q=Kahrolsun+%c4%b0srail) | N/A |
-| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 12 | [Ertuğrul Doğan](http://twitter.com/search?q=Ertu%c4%9frul+Do%c4%9fan) | N/A |
-| 13 | [Trabzon](http://twitter.com/search?q=Trabzon) | Trabzon is a city in northeastern Turkey, located on the Black Sea coast. It is the capital of Trabzon Province and one of the oldest cities in the country. The name Trabzon comes from the Greek word “Trapezounta”, which means “table” or “bench”. |
-| 14 | [Lale Orta](http://twitter.com/search?q=Lale+Orta) | Lale Orta is a Turkish phrase meaning "tulip garden". It is often used to refer to a place of beauty and tranquility. |
-| 15 | [İÇİMİZDEKİ HAÇLILAR](http://twitter.com/search?q=%c4%b0%c3%87%c4%b0M%c4%b0ZDEK%c4%b0+HA%c3%87LILAR) | N/A |
-| 16 | [BİZİM BAHARIMIZ ERDOĞAN](http://twitter.com/search?q=B%c4%b0Z%c4%b0M+BAHARIMIZ+ERDO%c4%9eAN) | N/A |
-| 17 | [Adaletin ÇöküşHikayesi](http://twitter.com/search?q=Adaletin+%c3%87%c3%b6k%c3%bc%c5%9fHikayesi) | N/A |
-| 18 | [GELİYOR GELMEKTE OLAN](http://twitter.com/search?q=GEL%c4%b0YOR+GELMEKTE+OLAN) | N/A |
-| 19 | [Nebati](http://twitter.com/search?q=Nebati) | N/A |
-| 20 | [Usmanım](http://twitter.com/search?q=Usman%c4%b1m) | N/A |
-| 21 | [Bay Bay Kemal](http://twitter.com/search?q=Bay+Bay+Kemal) | N/A |
-| 22 | [New York'ta](http://twitter.com/search?q=New+York%27ta) | N/A |
-| 23 | [Uzman](http://twitter.com/search?q=Uzman) | N/A |
-| 24 | [Semiha](http://twitter.com/search?q=Semiha) | N/A |
-| 25 | [Fox TV](http://twitter.com/search?q=Fox+TV) | N/A |
-| 26 | [Darısı](http://twitter.com/search?q=Dar%c4%b1s%c4%b1) | N/A |
-| 27 | [Anne](http://twitter.com/search?q=Anne) | N/A |
-| 28 | [The Economist](http://twitter.com/search?q=The+Economist) | The Economist is a weekly news and international affairs publication based in London, England. It covers politics, business, science, technology, and the arts from a global perspective. The magazine's primary focus is on economic and financial issues, but it also includes articles on current affairs, culture, and lifestyle topics. The Economist's mission is to "take part in a severe contest between intelligence, which presses forward, and an unworthy, timid ignorance obstructing our progress." |
-| 29 | [Taşeronİçin BaharGelecek](http://twitter.com/search?q=Ta%c5%9feron%c4%b0%c3%a7in+BaharGelecek) | N/A |
-| 30 | [Devin](http://twitter.com/search?q=Devin) | N/A |
-| 31 | [Zorunlu](http://twitter.com/search?q=Zorunlu) | N/A |
-| 32 | [Adnan](http://twitter.com/search?q=Adnan) | N/A |
-| 33 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
-| 34 | [Nehir](http://twitter.com/search?q=Nehir) | N/A |
-| 35 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
-| 36 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 37 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
-| 38 | [Deva](http://twitter.com/search?q=Deva) | N/A |
-| 39 | [#IsraeliTerrorism](http://twitter.com/search?q=%23IsraeliTerrorism) | N/A |
-| 40 | [#FreePalestine](http://twitter.com/search?q=%23FreePalestine) | N/A |
-| 41 | [#AvukatlarGünü](http://twitter.com/search?q=%23AvukatlarG%c3%bcn%c3%bc) | N/A |
-| 42 | [#OrhanAkİSTİFA](http://twitter.com/search?q=%23OrhanAk%c4%b0ST%c4%b0FA) | N/A |
-| 43 | [#SeçimÖncesiMemuraZam](http://twitter.com/search?q=%23Se%c3%a7im%c3%96ncesiMemuraZam) | N/A |
-| 44 | [#SüleymanSeba](http://twitter.com/search?q=%23S%c3%bcleymanSeba) | N/A |
-| 45 | [#katilisrail](http://twitter.com/search?q=%23katilisrail) | N/A |
-| 46 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
-| 47 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
-| 48 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 49 | [#GRAMALTIN](http://twitter.com/search?q=%23GRAMALTIN) | N/A |
+| 1 | [#OrhanAkİSTİFA](http://twitter.com/search?q=%23OrhanAk%c4%b0ST%c4%b0FA) | N/A |
+| 2 | [#SeçimÖncesiMemuraZam](http://twitter.com/search?q=%23Se%c3%a7im%c3%96ncesiMemuraZam) | N/A |
+| 3 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
+| 4 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 5 | [İyikiDoğdun ErenAlan](http://twitter.com/search?q=%c4%b0yikiDo%c4%9fdun+ErenAlan) | N/A |
+| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 7 | [Ertuğrul Doğan](http://twitter.com/search?q=Ertu%c4%9frul+Do%c4%9fan) | N/A |
+| 8 | [#Trabzonspor](http://twitter.com/search?q=%23Trabzonspor) | #Trabzonspor is a Turkish professional football club based in the city of Trabzon, Turkey. The club was founded in 1967 and currently plays in the Turkish Super Lig, the top tier of Turkish football. The club's name translates to "Trabzon Sports Club" in English. |
+| 9 | [İÇİMİZDEKİ HAÇLILAR](http://twitter.com/search?q=%c4%b0%c3%87%c4%b0M%c4%b0ZDEK%c4%b0+HA%c3%87LILAR) | N/A |
+| 10 | [Nureddin Nebati](http://twitter.com/search?q=Nureddin+Nebati) | N/A |
+| 11 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
+| 12 | [Lale Orta](http://twitter.com/search?q=Lale+Orta) | Lale Orta is a Turkish phrase meaning "tulip garden". It is often used to refer to a place of beauty and tranquility. |
+| 13 | [kanal 3](http://twitter.com/search?q=kanal+3) | N/A |
+| 14 | [Taşeronİçin BaharGelecek](http://twitter.com/search?q=Ta%c5%9feron%c4%b0%c3%a7in+BaharGelecek) | N/A |
+| 15 | [GenelAf Sebepleri](http://twitter.com/search?q=GenelAf+Sebepleri) | N/A |
+| 16 | [MutluYıllar DenizBaysal](http://twitter.com/search?q=MutluY%c4%b1llar+DenizBaysal) | N/A |
+| 17 | [Ali Sowe](http://twitter.com/search?q=Ali+Sowe) | N/A |
+| 18 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
+| 19 | [Adaletin ÇöküşHikayesi](http://twitter.com/search?q=Adaletin+%c3%87%c3%b6k%c3%bc%c5%9fHikayesi) | N/A |
+| 20 | [Darısı](http://twitter.com/search?q=Dar%c4%b1s%c4%b1) | N/A |
+| 21 | [BayKemaldenArkeoSanataSöz](http://twitter.com/search?q=BayKemaldenArkeoSanataS%c3%b6z) | N/A |
+| 22 | [Safiye](http://twitter.com/search?q=Safiye) | N/A |
+| 23 | [Devin](http://twitter.com/search?q=Devin) | N/A |
+| 24 | [Ahmet Ağaoğlu](http://twitter.com/search?q=Ahmet+A%c4%9fao%c4%9flu) | N/A |
+| 25 | [Usmanım](http://twitter.com/search?q=Usman%c4%b1m) | N/A |
+| 26 | [Larsen](http://twitter.com/search?q=Larsen) | Larsen is a Scandinavian surname derived from the given name Lars, which is a form of the Latin name Laurentius. It is most commonly found in Norway, Denmark, and Sweden. The English meaning of Larsen is "son of Lars". |
+| 27 | [Markovic](http://twitter.com/search?q=Markovic) | N/A |
+| 28 | [Uğurcan](http://twitter.com/search?q=U%c4%9furcan) | Uğurcan is a Turkish name, derived from the words "uğur" (meaning luck or fortune) and "can" (meaning soul). It can be translated to English as "lucky soul". |
+| 29 | [BİZİM BAHARIMIZ ERDOĞAN](http://twitter.com/search?q=B%c4%b0Z%c4%b0M+BAHARIMIZ+ERDO%c4%9eAN) | N/A |
+| 30 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 31 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 32 | [Peres](http://twitter.com/search?q=Peres) | N/A |
+| 33 | [Aybüke](http://twitter.com/search?q=Ayb%c3%bcke) | N/A |
+| 34 | [Hüseyin Türkmen](http://twitter.com/search?q=H%c3%bcseyin+T%c3%bcrkmen) | N/A |
+| 35 | [Hamsik](http://twitter.com/search?q=Hamsik) | Hamsik is a surname of Slovak origin. It is derived from the word "hamska", which means "little goose". In English, it can be translated to mean "little goose". |
+| 36 | [Pervin Buldan](http://twitter.com/search?q=Pervin+Buldan) | N/A |
+| 37 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
+| 38 | [Visca](http://twitter.com/search?q=Visca) | N/A |
+| 39 | [Serenay](http://twitter.com/search?q=Serenay) | N/A |
+| 40 | [Semiha](http://twitter.com/search?q=Semiha) | N/A |
+| 41 | [Tolunay Kafkas](http://twitter.com/search?q=Tolunay+Kafkas) | N/A |
+| 42 | [Yönetim](http://twitter.com/search?q=Y%c3%b6netim) | N/A |
+| 43 | [Ziraat Türkiye Kupası](http://twitter.com/search?q=Ziraat+T%c3%bcrkiye+Kupas%c4%b1) | N/A |
+| 44 | [Abdülkadir Ömür](http://twitter.com/search?q=Abd%c3%bclkadir+%c3%96m%c3%bcr) | N/A |
+| 45 | [New York'ta](http://twitter.com/search?q=New+York%27ta) | N/A |
+| 46 | [GHBG FinalOlmasın](http://twitter.com/search?q=GHBG+FinalOlmas%c4%b1n) | N/A |
+| 47 | [Kıymet](http://twitter.com/search?q=K%c4%b1ymet) | N/A |
+| 48 | [Fatih Tekke](http://twitter.com/search?q=Fatih+Tekke) | N/A |
 
 
 

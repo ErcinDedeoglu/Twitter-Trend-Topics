@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-04-05 02:22:46 UTC`
+📆 Last Updated: `2023-04-05 03:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Terans](http://twitter.com/search?q=Terans) | N/A |
-| 2 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 3 | [Fernandinho](http://twitter.com/search?q=Fernandinho) | N/A |
-| 4 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 5 | [Felipão](http://twitter.com/search?q=Felip%c3%a3o) | N/A |
-| 6 | [Bigode](http://twitter.com/search?q=Bigode) | N/A |
-| 7 | [Bento](http://twitter.com/search?q=Bento) | N/A |
-| 8 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
-| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 10 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 11 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 12 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
-| 13 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 14 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 15 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 16 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
-| 17 | [Menezes](http://twitter.com/search?q=Menezes) | N/A |
-| 18 | [Odair](http://twitter.com/search?q=Odair) | N/A |
-| 19 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 20 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 21 | [Thiago Heleno](http://twitter.com/search?q=Thiago+Heleno) | Thiago Heleno is a Brazilian given name. It is derived from the Latin name Thiago, which means "beloved", and Heleno, which means "brave". In English, it can be translated to mean "beloved and brave". |
-| 22 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
-| 23 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 24 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 25 | [Blooming](http://twitter.com/search?q=Blooming) | N/A |
-| 26 | [#SudamericanaNaESPN](http://twitter.com/search?q=%23SudamericanaNaESPN) | N/A |
-| 27 | [Thauan Lara](http://twitter.com/search?q=Thauan+Lara) | N/A |
-| 28 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
-| 29 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
-| 30 | [#LibertadoresNaESPN](http://twitter.com/search?q=%23LibertadoresNaESPN) | N/A |
-| 31 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
-| 32 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 33 | [Turra](http://twitter.com/search?q=Turra) | N/A |
-| 34 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 35 | [Queens of the Stone Age](http://twitter.com/search?q=Queens+of+the+Stone+Age) | N/A |
-| 36 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 37 | [Canobbio](http://twitter.com/search?q=Canobbio) | N/A |
-| 38 | [Ivonei](http://twitter.com/search?q=Ivonei) | Ivonei is a Portuguese name derived from the Latin name Yvonne. It is a feminine given name meaning "yew tree". |
-| 39 | [QOTSA](http://twitter.com/search?q=QOTSA) | N/A |
-| 40 | [Bolívia](http://twitter.com/search?q=Bol%c3%advia) | N/A |
-| 41 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 42 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 43 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 45 | [Felizes](http://twitter.com/search?q=Felizes) | N/A |
-| 46 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
-| 47 | [Barcos](http://twitter.com/search?q=Barcos) | N/A |
-| 48 | [Queijo](http://twitter.com/search?q=Queijo) | Queijo is the Portuguese word for cheese. In English, it means cheese. |
-| 49 | [La Paz](http://twitter.com/search?q=La+Paz) | N/A |
-| 50 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 4 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
+| 5 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 6 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
+| 7 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
+| 8 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 9 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
+| 10 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 12 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
+| 13 | [#BetanoSabeTudo](http://twitter.com/search?q=%23BetanoSabeTudo) | N/A |
+| 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 15 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 16 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 17 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 18 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | N/A |
+| 19 | [OSNI](http://twitter.com/search?q=OSNI) | N/A |
+| 20 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 21 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 22 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 23 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 24 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 25 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
+| 26 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 27 | [GRANDE DIA](http://twitter.com/search?q=GRANDE+DIA) | Grande Dia is a Portuguese phrase that translates to "Big Day" in English. It is typically used to refer to a special day or event, such as a wedding, birthday, or other important occasion. |
+| 28 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 29 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 30 | [DEIXA O ALFACE JOGAR](http://twitter.com/search?q=DEIXA+O+ALFACE+JOGAR) | N/A |
+| 31 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 32 | [SDOL](http://twitter.com/search?q=SDOL) | N/A |
+| 33 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
+| 34 | [João Erick](http://twitter.com/search?q=Jo%c3%a3o+Erick) | N/A |
+| 35 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 36 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 37 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 38 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 39 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 40 | [Copa da Alemanha](http://twitter.com/search?q=Copa+da+Alemanha) | N/A |
+| 41 | [Bayer](http://twitter.com/search?q=Bayer) | N/A |
+| 42 | [Clubes](http://twitter.com/search?q=Clubes) | N/A |
+| 43 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
+| 44 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 45 | [Malafaia](http://twitter.com/search?q=Malafaia) | N/A |
+| 46 | [teen beach movie](http://twitter.com/search?q=teen+beach+movie) | N/A |
+| 47 | [Bets](http://twitter.com/search?q=Bets) | N/A |
+| 48 | [Lili](http://twitter.com/search?q=Lili) | N/A |
+| 49 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 50 | [Arábia](http://twitter.com/search?q=Ar%c3%a1bia) | Arábia is a Portuguese word that refers to the Arabian Peninsula. It is used to describe the region, its people, and its culture. In English, it can be translated as "Arabia". |
 
 
 

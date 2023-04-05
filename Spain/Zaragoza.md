@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-04-05 02:22:58 UTC`
+📆 Last Updated: `2023-04-05 03:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,17 +34,17 @@ This is top 50 for [Spain](</Spain>)
 | 17 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
 | 18 | [#FirstDates4A](http://twitter.com/search?q=%23FirstDates4A) | N/A |
 | 19 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 21 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 22 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
-| 23 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
-| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 25 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 26 | [Partido Popular Europeo](http://twitter.com/search?q=Partido+Popular+Europeo) | N/A |
-| 27 | [Montecarlo](http://twitter.com/search?q=Montecarlo) | N/A |
-| 28 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 29 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
-| 30 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 20 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 21 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
+| 22 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 23 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 24 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 25 | [Partido Popular Europeo](http://twitter.com/search?q=Partido+Popular+Europeo) | N/A |
+| 26 | [Montecarlo](http://twitter.com/search?q=Montecarlo) | N/A |
+| 27 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 28 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
+| 29 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 30 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 31 | [feliz lunes](http://twitter.com/search?q=feliz+lunes) | N/A |
 | 32 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
 | 33 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
@@ -59,10 +59,10 @@ This is top 50 for [Spain](</Spain>)
 | 42 | [Ruber](http://twitter.com/search?q=Ruber) | N/A |
 | 43 | [San Gonzalo](http://twitter.com/search?q=San+Gonzalo) | N/A |
 | 44 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 45 | [Pere Milla](http://twitter.com/search?q=Pere+Milla) | N/A |
-| 46 | [Alberto Díaz](http://twitter.com/search?q=Alberto+D%c3%adaz) | N/A |
-| 47 | [Ertzaintza](http://twitter.com/search?q=Ertzaintza) | N/A |
-| 48 | [Pino Zamorano](http://twitter.com/search?q=Pino+Zamorano) | N/A |
+| 45 | [Ertzaintza](http://twitter.com/search?q=Ertzaintza) | N/A |
+| 46 | [pino zamorano](http://twitter.com/search?q=pino+zamorano) | N/A |
+| 47 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 48 | [Kick](http://twitter.com/search?q=Kick) | N/A |
 
 
 

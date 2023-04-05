@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-04-05 02:23:28 UTC`
+📆 Last Updated: `2023-04-05 03:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MAGA](http://twitter.com/search?q=%23MAGA) | N/A |
-| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 3 | [New York City](http://twitter.com/search?q=New+York+City) | N/A |
-| 4 | [Judge](http://twitter.com/search?q=Judge) | N/A |
-| 5 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 6 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 7 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 9 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 10 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 11 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 12 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 13 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 14 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 15 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 16 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 1 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 2 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 3 | [#SchoolLibrarianDay](http://twitter.com/search?q=%23SchoolLibrarianDay) | N/A |
+| 4 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 5 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 6 | [#buildthenest](http://twitter.com/search?q=%23buildthenest) | N/A |
+| 7 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 8 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
+| 9 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 10 | [Democratic Party](http://twitter.com/search?q=Democratic+Party) | N/A |
+| 11 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 12 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 14 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
+| 15 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 17 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 18 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 19 | [Dylan Dodd](http://twitter.com/search?q=Dylan+Dodd) | N/A |
-| 20 | [Michael King](http://twitter.com/search?q=Michael+King) | N/A |
+| 18 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
 | 21 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 22 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
-| 23 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 24 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 25 | [Lewistown](http://twitter.com/search?q=Lewistown) | N/A |
-| 26 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 27 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 28 | [Noam Dar](http://twitter.com/search?q=Noam+Dar) | N/A |
-| 29 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
-| 30 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
-| 31 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
-| 32 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
-| 33 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
-| 34 | [Jubal](http://twitter.com/search?q=Jubal) | N/A |
-| 35 | [Domingo German](http://twitter.com/search?q=Domingo+German) | N/A |
-| 36 | [Romney](http://twitter.com/search?q=Romney) | N/A |
-| 37 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
-| 38 | [Kornet](http://twitter.com/search?q=Kornet) | N/A |
-| 39 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 40 | [Judd](http://twitter.com/search?q=Judd) | N/A |
-| 41 | [Wade Miley](http://twitter.com/search?q=Wade+Miley) | N/A |
-| 42 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
-| 43 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 44 | [Pleasantville](http://twitter.com/search?q=Pleasantville) | N/A |
-| 45 | [Finnegan](http://twitter.com/search?q=Finnegan) | N/A |
-| 46 | [Heaney](http://twitter.com/search?q=Heaney) | N/A |
-| 47 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
-| 48 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 49 | [Jake McCarthy](http://twitter.com/search?q=Jake+McCarthy) | N/A |
+| 22 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 23 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 24 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 25 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 26 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 27 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 28 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 29 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 30 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 31 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 32 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
+| 33 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 34 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 35 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 36 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
+| 37 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 38 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 39 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 40 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 41 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 42 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 43 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
+| 44 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 45 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 46 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 47 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
 
 
 

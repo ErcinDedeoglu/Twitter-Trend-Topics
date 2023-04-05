@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-04-05 02:23:47 UTC`
+📆 Last Updated: `2023-04-05 03:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,50 @@ This is top 50 for Ukraine
 | 1 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 2 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 3 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 4 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 5 | [Трампа](http://twitter.com/search?q=%d0%a2%d1%80%d0%b0%d0%bc%d0%bf%d0%b0) | N/A |
-| 6 | [Alliance](http://twitter.com/search?q=Alliance) | N/A |
-| 7 | [#cryptocurrency](http://twitter.com/search?q=%23cryptocurrency) | N/A |
-| 8 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
-| 9 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
-| 10 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 11 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 13 | [#QuaiNetwork](http://twitter.com/search?q=%23QuaiNetwork) | N/A |
-| 14 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 15 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
-| 16 | [молоко](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%be%d0%ba%d0%be) | N/A |
-| 17 | [татарского](http://twitter.com/search?q=%d1%82%d0%b0%d1%82%d0%b0%d1%80%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 18 | [European](http://twitter.com/search?q=European) | N/A |
-| 19 | [#PositiveVibes](http://twitter.com/search?q=%23PositiveVibes) | N/A |
-| 20 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 21 | [путину](http://twitter.com/search?q=%d0%bf%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
+| 4 | [Трампа](http://twitter.com/search?q=%d0%a2%d1%80%d0%b0%d0%bc%d0%bf%d0%b0) | N/A |
+| 5 | [#cryptocurrency](http://twitter.com/search?q=%23cryptocurrency) | N/A |
+| 6 | [#DOGE](http://twitter.com/search?q=%23DOGE) | N/A |
+| 7 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
+| 8 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
+| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 10 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 11 | [Alliance](http://twitter.com/search?q=Alliance) | N/A |
+| 12 | [#QuaiNetwork](http://twitter.com/search?q=%23QuaiNetwork) | N/A |
+| 13 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 14 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
+| 15 | [молоко](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%be%d0%ba%d0%be) | N/A |
+| 16 | [татарского](http://twitter.com/search?q=%d1%82%d0%b0%d1%82%d0%b0%d1%80%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 17 | [European](http://twitter.com/search?q=European) | N/A |
+| 18 | [#PositiveVibes](http://twitter.com/search?q=%23PositiveVibes) | N/A |
+| 19 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 20 | [путину](http://twitter.com/search?q=%d0%bf%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
+| 21 | [Донбасс](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81) | N/A |
 | 22 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
 | 23 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 24 | [Гойда](http://twitter.com/search?q=%d0%93%d0%be%d0%b9%d0%b4%d0%b0) | N/A |
 | 25 | [Donetsk](http://twitter.com/search?q=Donetsk) | N/A |
 | 26 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 27 | [какое](http://twitter.com/search?q=%d0%ba%d0%b0%d0%ba%d0%be%d0%b5) | N/A |
+| 27 | [Какое](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%be%d0%b5) | N/A |
 | 28 | [NAFO](http://twitter.com/search?q=NAFO) | N/A |
 | 29 | [Бахмуте](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b5) | N/A |
 | 30 | [питере](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
 | 31 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
 | 32 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
 | 33 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 34 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
-| 35 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 36 | [Greek](http://twitter.com/search?q=Greek) | N/A |
-| 37 | [St. Petersburg](http://twitter.com/search?q=St.+Petersburg) | N/A |
-| 38 | [Чекаю](http://twitter.com/search?q=%d0%a7%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
-| 39 | [XBYX](http://twitter.com/search?q=XBYX) | N/A |
-| 40 | [Донецк](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b5%d1%86%d0%ba) | N/A |
-| 41 | [красота](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
-| 42 | [страшно](http://twitter.com/search?q=%d1%81%d1%82%d1%80%d0%b0%d1%88%d0%bd%d0%be) | N/A |
-| 43 | [класс](http://twitter.com/search?q=%d0%ba%d0%bb%d0%b0%d1%81%d1%81) | N/A |
-| 44 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
-| 45 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 46 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 47 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 34 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 35 | [Greek](http://twitter.com/search?q=Greek) | N/A |
+| 36 | [St. Petersburg](http://twitter.com/search?q=St.+Petersburg) | N/A |
+| 37 | [Чекаю](http://twitter.com/search?q=%d0%a7%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
+| 38 | [xbyx](http://twitter.com/search?q=xbyx) | N/A |
+| 39 | [Донецк](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b5%d1%86%d0%ba) | N/A |
+| 40 | [красота](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
+| 41 | [страшно](http://twitter.com/search?q=%d1%81%d1%82%d1%80%d0%b0%d1%88%d0%bd%d0%be) | N/A |
+| 42 | [класс](http://twitter.com/search?q=%d0%ba%d0%bb%d0%b0%d1%81%d1%81) | N/A |
+| 43 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
+| 44 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 45 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 46 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 47 | [Буде](http://twitter.com/search?q=%d0%91%d1%83%d0%b4%d0%b5) | N/A |
 | 48 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
 | 49 | [Армении](http://twitter.com/search?q=%d0%90%d1%80%d0%bc%d0%b5%d0%bd%d0%b8%d0%b8) | N/A |
 | 50 | [МАМА](http://twitter.com/search?q=%d0%9c%d0%90%d0%9c%d0%90) | N/A |

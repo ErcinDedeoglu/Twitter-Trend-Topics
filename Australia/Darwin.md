@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Darwin
 
-📆 Last Updated: `2023-04-05 02:23:02 UTC`
+📆 Last Updated: `2023-04-05 03:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 4 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 5 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
-| 6 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
-| 7 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 8 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 9 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 10 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 11 | [#Usydstrike](http://twitter.com/search?q=%23Usydstrike) | N/A |
-| 12 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
-| 13 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 14 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
-| 15 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 16 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 17 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 18 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 19 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 20 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
-| 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 22 | [Illawarra](http://twitter.com/search?q=Illawarra) | N/A |
-| 23 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 24 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 25 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 26 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 27 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 28 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
-| 29 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 30 | [Deni](http://twitter.com/search?q=Deni) | N/A |
-| 31 | [Rishworth](http://twitter.com/search?q=Rishworth) | N/A |
-| 32 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
-| 33 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
-| 34 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
-| 35 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 36 | [Ann Lesley Smith](http://twitter.com/search?q=Ann+Lesley+Smith) | N/A |
-| 37 | [Zali](http://twitter.com/search?q=Zali) | N/A |
-| 38 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 39 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 40 | [Kenty](http://twitter.com/search?q=Kenty) | N/A |
-| 41 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 42 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 43 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 44 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
-| 45 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
-| 46 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
-| 47 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 48 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 49 | [Lexus](http://twitter.com/search?q=Lexus) | N/A |
-| 50 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 1 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
+| 2 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 3 | [#imacelebrityau](http://twitter.com/search?q=%23imacelebrityau) | N/A |
+| 4 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 5 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 6 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 7 | [#AVFC](http://twitter.com/search?q=%23AVFC) | #AVFC stands for Aston Villa Football Club, an English professional football club based in Birmingham. The club competes in the Premier League, the top tier of the English football league system. |
+| 8 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 10 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 11 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 12 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
+| 13 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
+| 14 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 15 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
+| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 17 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 18 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
+| 19 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 20 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 21 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 22 | [America](http://twitter.com/search?q=America) | N/A |
+| 23 | [amanda rishworth](http://twitter.com/search?q=amanda+rishworth) | N/A |
+| 24 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 26 | [rennick](http://twitter.com/search?q=rennick) | N/A |
+| 27 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 28 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 29 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 31 | [dicko](http://twitter.com/search?q=dicko) | N/A |
+| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 33 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
+| 34 | [tony jones](http://twitter.com/search?q=tony+jones) | N/A |
+| 35 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
+| 36 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
+| 37 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 38 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 39 | [logue](http://twitter.com/search?q=logue) | N/A |
+| 40 | [Zali](http://twitter.com/search?q=Zali) | N/A |
+| 41 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 42 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 43 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
+| 44 | [hopgood](http://twitter.com/search?q=hopgood) | N/A |
+| 45 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 46 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
+| 47 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 48 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 49 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
+| 50 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
 
 
 

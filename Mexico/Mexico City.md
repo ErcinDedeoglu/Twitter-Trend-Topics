@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-04-05 02:22:39 UTC`
+📆 Last Updated: `2023-04-05 03:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 2 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 1 | [Sinaloa](http://twitter.com/search?q=Sinaloa) | Sinaloa is a state in northwestern Mexico. It is known for its beaches, mountains, and desert landscapes. The name Sinaloa comes from the Nahuatl language and means "place of the sinaloac people". |
+| 2 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
 | 3 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
-| 4 | [#CristianRey](http://twitter.com/search?q=%23CristianRey) | #CristianRey is a hashtag used to refer to the Christian faith. It is often used in posts related to Christianity, such as prayers, Bible verses, and inspirational quotes. The English translation of #CristianRey is "Christian King". |
-| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 6 | [#MásAsesinadosConAMLO](http://twitter.com/search?q=%23M%c3%a1sAsesinadosConAMLO) | N/A |
-| 7 | [Pedro Navajas](http://twitter.com/search?q=Pedro+Navajas) | N/A |
-| 8 | [#QuéPasóOlallo](http://twitter.com/search?q=%23Qu%c3%a9Pas%c3%b3Olallo) | N/A |
-| 9 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
-| 10 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
-| 11 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
-| 12 | [Chanoc](http://twitter.com/search?q=Chanoc) | N/A |
-| 13 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 14 | [Misión del Valle](http://twitter.com/search?q=Misi%c3%b3n+del+Valle) | N/A |
-| 15 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 17 | [Mexico Infrastructure Partners](http://twitter.com/search?q=Mexico+Infrastructure+Partners) | N/A |
-| 18 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 19 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 20 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 21 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 22 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
-| 23 | [Cuauhtémoc Blanco](http://twitter.com/search?q=Cuauht%c3%a9moc+Blanco) | N/A |
-| 24 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 25 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 26 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 27 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 28 | [Roberto Madrazo](http://twitter.com/search?q=Roberto+Madrazo) | N/A |
-| 29 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 30 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 31 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 32 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 33 | [Bartlett](http://twitter.com/search?q=Bartlett) | N/A |
-| 34 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 35 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
-| 36 | [Karely Ruiz](http://twitter.com/search?q=Karely+Ruiz) | N/A |
-| 37 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
-| 38 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
-| 39 | [Gobierno de México](http://twitter.com/search?q=Gobierno+de+M%c3%a9xico) | N/A |
-| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 5 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 6 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
+| 7 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 9 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 11 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 12 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 13 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 14 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 15 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 16 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 17 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 19 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 20 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 21 | [#lefaltan39ala4t](http://twitter.com/search?q=%23lefaltan39ala4t) | N/A |
+| 22 | [#CoppaItalia](http://twitter.com/search?q=%23CoppaItalia) | N/A |
+| 23 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 24 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
+| 25 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 26 | [Trun](http://twitter.com/search?q=Trun) | N/A |
+| 27 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 28 | [#ÚLTIMAHORA](http://twitter.com/search?q=%23%c3%9aLTIMAHORA) | N/A |
+| 29 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
+| 30 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 31 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 32 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 33 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
+| 34 | [#BTRDAY](http://twitter.com/search?q=%23BTRDAY) | N/A |
+| 35 | [Fernando Hernández](http://twitter.com/search?q=Fernando+Hern%c3%a1ndez) | N/A |
+| 36 | [Lucas Romero](http://twitter.com/search?q=Lucas+Romero) | N/A |
+| 37 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
+| 38 | [Mario Bros](http://twitter.com/search?q=Mario+Bros) | N/A |
+| 39 | [Barbosa](http://twitter.com/search?q=Barbosa) | N/A |
+| 40 | [Alexis Vega](http://twitter.com/search?q=Alexis+Vega) | Alexis Vega is a Spanish name, derived from the Greek name Alexios, meaning "defender" or "helper". |
 | 41 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 42 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 43 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
-| 44 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 45 | [Shrek](http://twitter.com/search?q=Shrek) | N/A |
-| 46 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 47 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 48 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 49 | [Mario Bros](http://twitter.com/search?q=Mario+Bros) | N/A |
-| 50 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 42 | [Tammy Parra](http://twitter.com/search?q=Tammy+Parra) | N/A |
+| 43 | [Gobierno de México](http://twitter.com/search?q=Gobierno+de+M%c3%a9xico) | N/A |
+| 44 | [Nicolás Larcamón](http://twitter.com/search?q=Nicol%c3%a1s+Larcam%c3%b3n) | N/A |
+| 45 | [Austeridad](http://twitter.com/search?q=Austeridad) | N/A |
+| 46 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 47 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 48 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 49 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 50 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
 
 
 

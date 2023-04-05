@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-04-05 02:22:47 UTC`
+📆 Last Updated: `2023-04-05 03:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 4 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
-| 5 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 6 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
-| 7 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
-| 8 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
-| 9 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 10 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
-| 11 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 12 | [#BetanoSabeTudo](http://twitter.com/search?q=%23BetanoSabeTudo) | N/A |
-| 13 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 15 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 16 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 17 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | N/A |
-| 18 | [OSNI](http://twitter.com/search?q=OSNI) | N/A |
-| 19 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 20 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
-| 21 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 22 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 23 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 24 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
-| 25 | [GRANDE DIA](http://twitter.com/search?q=GRANDE+DIA) | Grande Dia is a Portuguese phrase that translates to "Big Day" in English. It is typically used to refer to a special day or event, such as a wedding, birthday, or other important occasion. |
-| 26 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 27 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 28 | [SDOL](http://twitter.com/search?q=SDOL) | N/A |
-| 29 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 30 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
-| 31 | [DEIXA O ALFACE JOGAR](http://twitter.com/search?q=DEIXA+O+ALFACE+JOGAR) | N/A |
-| 32 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 33 | [João Erick](http://twitter.com/search?q=Jo%c3%a3o+Erick) | N/A |
-| 34 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 35 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 36 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 37 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
-| 38 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 39 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 40 | [Clubes](http://twitter.com/search?q=Clubes) | N/A |
-| 41 | [Al Hilal](http://twitter.com/search?q=Al+Hilal) | Al Hilal is an Arabic phrase meaning "The Crescent". It is a symbol of Islam and is often used as a name for Islamic organizations, schools, and sports teams. |
-| 42 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 43 | [teen beach movie](http://twitter.com/search?q=teen+beach+movie) | N/A |
-| 44 | [Bayer](http://twitter.com/search?q=Bayer) | N/A |
-| 45 | [Bets](http://twitter.com/search?q=Bets) | N/A |
-| 46 | [Lili](http://twitter.com/search?q=Lili) | N/A |
-| 47 | [Malafaia](http://twitter.com/search?q=Malafaia) | N/A |
-| 48 | [Susi](http://twitter.com/search?q=Susi) | N/A |
-| 49 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 50 | [Vila Aliança](http://twitter.com/search?q=Vila+Alian%c3%a7a) | N/A |
+| 1 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 2 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 3 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 4 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
+| 5 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
+| 6 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 8 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
+| 9 | [Menezes](http://twitter.com/search?q=Menezes) | N/A |
+| 10 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 11 | [Blooming](http://twitter.com/search?q=Blooming) | N/A |
+| 12 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
+| 13 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
+| 14 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
+| 15 | [#SudamericanaNaESPN](http://twitter.com/search?q=%23SudamericanaNaESPN) | N/A |
+| 16 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 17 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
+| 18 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
+| 19 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 20 | [Thauan Lara](http://twitter.com/search?q=Thauan+Lara) | N/A |
+| 21 | [Thiago Heleno](http://twitter.com/search?q=Thiago+Heleno) | Thiago Heleno is a Brazilian given name. It is derived from the Latin name Thiago, which means "beloved", and Heleno, which means "brave". In English, it can be translated to mean "beloved and brave". |
+| 22 | [#SantosNoSBT](http://twitter.com/search?q=%23SantosNoSBT) | N/A |
+| 23 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
+| 24 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
+| 25 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
+| 26 | [Dodi](http://twitter.com/search?q=Dodi) | N/A |
+| 27 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 28 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
+| 29 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
+| 30 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
+| 31 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 32 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
+| 33 | [QOTSA](http://twitter.com/search?q=QOTSA) | N/A |
+| 34 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 35 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
+| 36 | [Joel Embiid](http://twitter.com/search?q=Joel+Embiid) | N/A |
+| 37 | [Bolívia](http://twitter.com/search?q=Bol%c3%advia) | N/A |
+| 38 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
+| 39 | [Queens of the Stone Age](http://twitter.com/search?q=Queens+of+the+Stone+Age) | N/A |
+| 40 | [Terans](http://twitter.com/search?q=Terans) | N/A |
+| 41 | [O Santos](http://twitter.com/search?q=O+Santos) | O Santos is a Brazilian football club based in the city of Santos, São Paulo. The club was founded in 1912 and is one of the most successful clubs in Brazil, having won eight national titles and four international titles. In English, O Santos translates to "The Saints". |
+| 42 | [Turra](http://twitter.com/search?q=Turra) | N/A |
+| 43 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 44 | [LIGADO NO BBB COM ZÉ DELIVERY](http://twitter.com/search?q=LIGADO+NO+BBB+COM+Z%c3%89+DELIVERY) | N/A |
+| 45 | [Miguelito](http://twitter.com/search?q=Miguelito) | N/A |
+| 46 | [Canobbio](http://twitter.com/search?q=Canobbio) | N/A |
+| 47 | [Ivonei](http://twitter.com/search?q=Ivonei) | Ivonei is a Portuguese name derived from the Latin name Yvonne. It is a feminine given name meaning "yew tree". |
+| 48 | [Foo Fighters](http://twitter.com/search?q=Foo+Fighters) | Foo Fighters is an American rock band formed in Seattle, Washington in 1994. The band's name is derived from the term "foo fighter," which was used by Allied aircraft pilots in World War II to describe various unidentified flying objects. The band consists of Dave Grohl (lead vocals, guitar, drums), Taylor Hawkins (drums, backing vocals), Nate Mendel (bass guitar), Chris Shiflett (guitar, backing vocals), Pat Smear (guitar, backing vocals) and Rami Jaffee (keyboard). Foo Fighters have released nine studio albums and have won multiple Grammy Awards. |
+| 49 | [Gigantão da Zona Sul](http://twitter.com/search?q=Gigant%c3%a3o+da+Zona+Sul) | N/A |
+| 50 | [Altitude](http://twitter.com/search?q=Altitude) | N/A |
 
 
 

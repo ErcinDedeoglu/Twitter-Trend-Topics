@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dammam
 
-📆 Last Updated: `2023-04-05 02:23:15 UTC`
+📆 Last Updated: `2023-04-05 03:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 8 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
 | 9 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
 | 10 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 11 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 12 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
-| 13 | [البليهي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | البليهي is an Arabic phrase meaning "the beautiful one". It is often used as a term of endearment for someone who is attractive or has a pleasing personality. |
+| 11 | [البليهي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | البليهي is an Arabic phrase meaning "the beautiful one". It is often used as a term of endearment for someone who is attractive or has a pleasing personality. |
+| 12 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 13 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
 | 14 | [حجازي](http://twitter.com/search?q=%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | حجازي is an Arabic word that refers to someone or something from the region of Hejaz, which is located in western Saudi Arabia. In English, it can be translated as "Hejazi". |
-| 15 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 16 | [كوادرادو](http://twitter.com/search?q=%d9%83%d9%88%d8%a7%d8%af%d8%b1%d8%a7%d8%af%d9%88) | N/A |
+| 15 | [كوادرادو](http://twitter.com/search?q=%d9%83%d9%88%d8%a7%d8%af%d8%b1%d8%a7%d8%af%d9%88) | N/A |
+| 16 | [لوكاكو](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7%d9%83%d9%88) | لوكاكو is a type of traditional Moroccan pastry. It is made with layers of phyllo dough filled with a mixture of almond paste, sugar, and cinnamon. The name comes from the Arabic word for almond, luqmān. In English, it is sometimes referred to as an almond pastry or an almond cake. |
 | 17 | [التوقف الاضطراري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%81+%d8%a7%d9%84%d8%a7%d8%b6%d8%b7%d8%b1%d8%a7%d8%b1%d9%8a) | N/A |
-| 18 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
-| 19 | [ميشيل](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d9%8a%d9%84) | ميشيل (pronounced mee-sheel) is a common Arabic name, derived from the Hebrew name Michael. It means "who is like God" in English. |
-| 20 | [قول هنريكي](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%87%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
-| 21 | [ايمن يحيى](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d9%86+%d9%8a%d8%ad%d9%8a%d9%89) | "ايمن يحيى" is an Arabic name, and it translates to "Iman Yahya" in English. |
-| 22 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
-| 23 | [لوكاكو](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7%d9%83%d9%88) | لوكاكو is a type of traditional Moroccan pastry. It is made with layers of phyllo dough filled with a mixture of almond paste, sugar, and cinnamon. The name comes from the Arabic word for almond, luqmān. In English, it is sometimes referred to as an almond pastry or an almond cake. |
-| 24 | [قول الدون](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%af%d9%88%d9%86) | N/A |
-| 25 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
-| 26 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
-| 27 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 28 | [كوفا](http://twitter.com/search?q=%d9%83%d9%88%d9%81%d8%a7) | N/A |
-| 29 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
-| 30 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 31 | [سلطان الغنام](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | سلطان الغنام is an Arabic phrase which translates to "Sultan of the Ghannam". It is a title given to a leader or ruler who is known for their generosity and kindness. |
-| 32 | [قول برونو](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a8%d8%b1%d9%88%d9%86%d9%88) | N/A |
-| 33 | [البيشي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%b4%d9%8a) | البيشي is an Arabic word that means "the boss" or "the leader". It is often used to refer to someone who is in charge or has authority over others. |
-| 34 | [فلاديمير](http://twitter.com/search?q=%d9%81%d9%84%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d8%b1) | فلاديمير is a Russian name, derived from the Greek name Φλαδίμηρος (Fládímēros). It is usually translated into English as "Fladimir" or "Vladimir". |
-| 35 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
-| 36 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
-| 37 | [كلين شيت](http://twitter.com/search?q=%d9%83%d9%84%d9%8a%d9%86+%d8%b4%d9%8a%d8%aa) | N/A |
-| 38 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 39 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 40 | [بن هاشم](http://twitter.com/search?q=%d8%a8%d9%86+%d9%87%d8%a7%d8%b4%d9%85) | N/A |
-| 41 | [محمد بن عبدالله بن](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a8%d9%86) | N/A |
-| 42 | [قول الاسطوره](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d8%b7%d9%88%d8%b1%d9%87) | N/A |
-| 43 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
-| 44 | [قول تالي](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%aa%d8%a7%d9%84%d9%8a) | N/A |
-| 45 | [ناصر الدوسري](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | ناصر الدوسري is the name of a prominent Iraqi politician who served as Prime Minister of Iraq from 2006 to 2014. In English, it translates to Nouri al-Maliki. |
-| 46 | [قول الثاني](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 47 | [جونز](http://twitter.com/search?q=%d8%ac%d9%88%d9%86%d8%b2) | N/A |
-| 48 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
-| 49 | [جيمس](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3) | جيمس (pronounced "jīməs") is an Arabic name meaning "he who supplants". It is a variant of the English name James. |
-| 50 | [الدعيع](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%8a%d8%b9) | N/A |
+| 18 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 19 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 20 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
+| 21 | [ميشيل](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d9%8a%d9%84) | ميشيل (pronounced mee-sheel) is a common Arabic name, derived from the Hebrew name Michael. It means "who is like God" in English. |
+| 22 | [ايمن يحيى](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d9%86+%d9%8a%d8%ad%d9%8a%d9%89) | "ايمن يحيى" is an Arabic name, and it translates to "Iman Yahya" in English. |
+| 23 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
+| 24 | [كلين شيت](http://twitter.com/search?q=%d9%83%d9%84%d9%8a%d9%86+%d8%b4%d9%8a%d8%aa) | N/A |
+| 25 | [فلاديمير](http://twitter.com/search?q=%d9%81%d9%84%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d8%b1) | فلاديمير is a Russian name, derived from the Greek name Φλαδίμηρος (Fládímēros). It is usually translated into English as "Fladimir" or "Vladimir". |
+| 26 | [قول الدون](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%af%d9%88%d9%86) | N/A |
+| 27 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
+| 28 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 29 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
+| 30 | [الدعيع](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%8a%d8%b9) | N/A |
+| 31 | [كوفا](http://twitter.com/search?q=%d9%83%d9%88%d9%81%d8%a7) | N/A |
+| 32 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 33 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
+| 34 | [سلطان الغنام](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | سلطان الغنام is an Arabic phrase which translates to "Sultan of the Ghannam". It is a title given to a leader or ruler who is known for their generosity and kindness. |
+| 35 | [البيشي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%b4%d9%8a) | البيشي is an Arabic word that means "the boss" or "the leader". It is often used to refer to someone who is in charge or has authority over others. |
+| 36 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
+| 37 | [قول الحاجز](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%ad%d8%a7%d8%ac%d8%b2) | N/A |
+| 38 | [بن هاشم](http://twitter.com/search?q=%d8%a8%d9%86+%d9%87%d8%a7%d8%b4%d9%85) | N/A |
+| 39 | [قول تالي](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%aa%d8%a7%d9%84%d9%8a) | N/A |
+| 40 | [برونو هنريكي](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88+%d9%87%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
+| 41 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 42 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
+| 43 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
+| 44 | [قول الاسطوره](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d8%b7%d9%88%d8%b1%d9%87) | N/A |
+| 45 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
+| 46 | [محمد بن عبدالله بن](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a8%d9%86) | N/A |
+| 47 | [قوميز](http://twitter.com/search?q=%d9%82%d9%88%d9%85%d9%8a%d8%b2) | N/A |
+| 48 | [ناصر الدوسري](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | ناصر الدوسري is the name of a prominent Iraqi politician who served as Prime Minister of Iraq from 2006 to 2014. In English, it translates to Nouri al-Maliki. |
+| 49 | [قول الثاني](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 50 | [فابينهو](http://twitter.com/search?q=%d9%81%d8%a7%d8%a8%d9%8a%d9%86%d9%87%d9%88) | N/A |
 
 
 

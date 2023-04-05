@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-05 02:23:10 UTC`
+📆 Last Updated: `2023-04-05 03:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,16 +33,16 @@ This is top 50 for [Philippines](</Philippines>)
 | 16 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
 | 17 | [Holy Tuesday](http://twitter.com/search?q=Holy+Tuesday) | N/A |
 | 18 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 19 | [JIMIN HISTORY MAKER](http://twitter.com/search?q=JIMIN+HISTORY+MAKER) | N/A |
+| 19 | [jimin history maker](http://twitter.com/search?q=jimin+history+maker) | N/A |
 | 20 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
 | 21 | [THE BLOTTER PAPER D3](http://twitter.com/search?q=THE+BLOTTER+PAPER+D3) | N/A |
 | 22 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
 | 23 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
 | 24 | [the new anji](http://twitter.com/search?q=the+new+anji) | N/A |
 | 25 | [FEAT IU](http://twitter.com/search?q=FEAT+IU) | N/A |
-| 26 | [jimin ended kpop](http://twitter.com/search?q=jimin+ended+kpop) | N/A |
+| 26 | [JIMIN ENDED KPOP](http://twitter.com/search?q=JIMIN+ENDED+KPOP) | N/A |
 | 27 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
-| 28 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
+| 28 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
 | 29 | [mabuhay treasure d-10](http://twitter.com/search?q=mabuhay+treasure+d-10) | N/A |
 | 30 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
 | 31 | [how should we treat people](http://twitter.com/search?q=how+should+we+treat+people) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for [Philippines](</Philippines>)
 | 33 | [sarah g grab summerna](http://twitter.com/search?q=sarah+g+grab+summerna) | N/A |
 | 34 | [2 FT](http://twitter.com/search?q=2+FT) | N/A |
 | 35 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 36 | [gigmoto](http://twitter.com/search?q=gigmoto) | N/A |
+| 36 | [Gigmoto](http://twitter.com/search?q=Gigmoto) | N/A |
 | 37 | [RECORDSETTER JIN](http://twitter.com/search?q=RECORDSETTER+JIN) | N/A |
 | 38 | [Aeris](http://twitter.com/search?q=Aeris) | N/A |
 | 39 | [HBD Love Best Boy](http://twitter.com/search?q=HBD+Love+Best+Boy) | N/A |
@@ -58,9 +58,9 @@ This is top 50 for [Philippines](</Philippines>)
 | 41 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
 | 42 | [jieun](http://twitter.com/search?q=jieun) | N/A |
 | 43 | [Juday](http://twitter.com/search?q=Juday) | N/A |
-| 44 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 44 | [jiminie](http://twitter.com/search?q=jiminie) | N/A |
 | 45 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
-| 46 | [featuring iu](http://twitter.com/search?q=featuring+iu) | N/A |
+| 46 | [FEATURING IU](http://twitter.com/search?q=FEATURING+IU) | N/A |
 | 47 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
 
 

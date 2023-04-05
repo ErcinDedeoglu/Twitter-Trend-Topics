@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-05 02:22:58 UTC`
+📆 Last Updated: `2023-04-05 03:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,12 +19,12 @@ This is top 50 for [Latvia](</Latvia>)
 | 2 | [#optimusal](http://twitter.com/search?q=%23optimusal) | N/A |
 | 3 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
 | 4 | [somijas](http://twitter.com/search?q=somijas) | N/A |
-| 5 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
+| 5 | [psrs](http://twitter.com/search?q=psrs) | N/A |
 | 6 | [#StrongerTogether](http://twitter.com/search?q=%23StrongerTogether) | N/A |
 | 7 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 8 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
-| 9 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
-| 10 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 9 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 10 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
 | 11 | [Inga](http://twitter.com/search?q=Inga) | N/A |
 | 12 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 13 | [laikam](http://twitter.com/search?q=laikam) | N/A |
@@ -32,7 +32,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 15 | [Latvijā](http://twitter.com/search?q=Latvij%c4%81) | N/A |
 | 16 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
 | 17 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
-| 18 | [Viņam](http://twitter.com/search?q=Vi%c5%86am) | N/A |
+| 18 | [viņam](http://twitter.com/search?q=vi%c5%86am) | N/A |
 | 19 | [baltijas](http://twitter.com/search?q=baltijas) | N/A |
 | 20 | [precīzi](http://twitter.com/search?q=prec%c4%abzi) | N/A |
 | 21 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | N/A |
@@ -40,9 +40,9 @@ This is top 50 for [Latvia](</Latvia>)
 | 23 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
 | 24 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
 | 25 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
-| 26 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 27 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
-| 28 | [Neko](http://twitter.com/search?q=Neko) | N/A |
+| 26 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
+| 27 | [Neko](http://twitter.com/search?q=Neko) | N/A |
+| 28 | [Putina](http://twitter.com/search?q=Putina) | N/A |
 | 29 | [Riga](http://twitter.com/search?q=Riga) | N/A |
 | 30 | [latgalē](http://twitter.com/search?q=latgal%c4%93) | N/A |
 | 31 | [viņiem](http://twitter.com/search?q=vi%c5%86iem) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for [Latvia](</Latvia>)
 | 45 | [Viss](http://twitter.com/search?q=Viss) | N/A |
 | 46 | [krieviju](http://twitter.com/search?q=krieviju) | N/A |
 | 47 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
-| 48 | [Nevajag](http://twitter.com/search?q=Nevajag) | N/A |
+| 48 | [nevajag](http://twitter.com/search?q=nevajag) | N/A |
 | 49 | [Droši](http://twitter.com/search?q=Dro%c5%a1i) | N/A |
-| 50 | [Pirms](http://twitter.com/search?q=Pirms) | N/A |
+| 50 | [pirms](http://twitter.com/search?q=pirms) | N/A |
 
 
 

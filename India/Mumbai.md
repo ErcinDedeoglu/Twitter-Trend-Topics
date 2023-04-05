@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mumbai
 
-📆 Last Updated: `2023-04-05 02:23:22 UTC`
+📆 Last Updated: `2023-04-05 03:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 4 | [#FadtusUddhav](http://twitter.com/search?q=%23FadtusUddhav) | N/A |
-| 5 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
-| 6 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 1 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 3 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 5 | [#FadtusUddhav](http://twitter.com/search?q=%23FadtusUddhav) | N/A |
+| 6 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
 | 7 | [#DCvsGT](http://twitter.com/search?q=%23DCvsGT) | N/A |
 | 8 | [#GTvsDC](http://twitter.com/search?q=%23GTvsDC) | N/A |
 | 9 | [Miller](http://twitter.com/search?q=Miller) | N/A |
@@ -61,8 +61,7 @@ This is top 50 for [India](</India>)
 | 44 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
 | 45 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
 | 46 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 47 | [मुख्यमंत्री श्री अशोक गहलोत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 48 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
+| 47 | [#RishabhPant](http://twitter.com/search?q=%23RishabhPant) | N/A |
 
 
 

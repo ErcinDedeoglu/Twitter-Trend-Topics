@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-04-05 02:22:56 UTC`
+📆 Last Updated: `2023-04-05 03:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
-| 2 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 1 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 2 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
 | 3 | [#TierraDeNadie5](http://twitter.com/search?q=%23TierraDeNadie5) | N/A |
 | 4 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
 | 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
@@ -36,17 +36,17 @@ This is top 50 for [Spain](</Spain>)
 | 19 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
 | 20 | [#FirstDates4A](http://twitter.com/search?q=%23FirstDates4A) | N/A |
 | 21 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 23 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 24 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
-| 25 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
-| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 27 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 28 | [Partido Popular Europeo](http://twitter.com/search?q=Partido+Popular+Europeo) | N/A |
-| 29 | [Montecarlo](http://twitter.com/search?q=Montecarlo) | N/A |
-| 30 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 31 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
-| 32 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 22 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 23 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
+| 24 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 26 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 27 | [Partido Popular Europeo](http://twitter.com/search?q=Partido+Popular+Europeo) | N/A |
+| 28 | [Montecarlo](http://twitter.com/search?q=Montecarlo) | N/A |
+| 29 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 30 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
+| 31 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 32 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 33 | [feliz lunes](http://twitter.com/search?q=feliz+lunes) | N/A |
 | 34 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
 | 35 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for [Spain](</Spain>)
 | 44 | [Ruber](http://twitter.com/search?q=Ruber) | N/A |
 | 45 | [San Gonzalo](http://twitter.com/search?q=San+Gonzalo) | N/A |
 | 46 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 47 | [Pere Milla](http://twitter.com/search?q=Pere+Milla) | N/A |
-| 48 | [Alberto Díaz](http://twitter.com/search?q=Alberto+D%c3%adaz) | N/A |
-| 49 | [Ertzaintza](http://twitter.com/search?q=Ertzaintza) | N/A |
-| 50 | [Pino Zamorano](http://twitter.com/search?q=Pino+Zamorano) | N/A |
+| 47 | [Ertzaintza](http://twitter.com/search?q=Ertzaintza) | N/A |
+| 48 | [pino zamorano](http://twitter.com/search?q=pino+zamorano) | N/A |
+| 49 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 50 | [Kick](http://twitter.com/search?q=Kick) | N/A |
 
 
 

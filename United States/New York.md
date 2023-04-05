@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-05 02:23:32 UTC`
+📆 Last Updated: `2023-04-05 03:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 2 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 3 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
-| 4 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
-| 5 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 6 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 7 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 8 | [TEMU](http://twitter.com/search?q=TEMU) | N/A |
-| 9 | [Rikers](http://twitter.com/search?q=Rikers) | N/A |
-| 10 | [NYers](http://twitter.com/search?q=NYers) | N/A |
-| 11 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 12 | [Masters](http://twitter.com/search?q=Masters) | N/A |
-| 13 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
-| 14 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 15 | [#NewYorkCity](http://twitter.com/search?q=%23NewYorkCity) | N/A |
+| 2 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 3 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 4 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 5 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
+| 6 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
+| 7 | [NYers](http://twitter.com/search?q=NYers) | N/A |
+| 8 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 9 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 10 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 11 | [Rikers](http://twitter.com/search?q=Rikers) | N/A |
+| 12 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 13 | [TEMU](http://twitter.com/search?q=TEMU) | N/A |
+| 14 | [Masters](http://twitter.com/search?q=Masters) | N/A |
+| 15 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
 | 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 17 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
 | 18 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
 | 19 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 20 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 21 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 21 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
 | 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 23 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 23 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
 | 24 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
 | 25 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 26 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 26 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 27 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 28 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 29 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 30 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 31 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 32 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 33 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 28 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 29 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 30 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
+| 31 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 32 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 33 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
 | 34 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 35 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
-| 36 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 37 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 38 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
-| 39 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 40 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 41 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
-| 42 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 43 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
-| 44 | [Tacopina](http://twitter.com/search?q=Tacopina) | N/A |
-| 45 | [Bidwill](http://twitter.com/search?q=Bidwill) | N/A |
-| 46 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 47 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 48 | [Critics](http://twitter.com/search?q=Critics) | N/A |
+| 35 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 36 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 37 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
+| 38 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 39 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 40 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 41 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
+| 42 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 43 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 44 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 45 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 46 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 47 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
+| 48 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-05 02:22:50 UTC`
+📆 Last Updated: `2023-04-05 03:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,15 +15,15 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
-| 2 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
-| 3 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
+| 1 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
+| 2 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
+| 3 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
 | 4 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 6 | [Sujets](http://twitter.com/search?q=Sujets) | N/A |
-| 7 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 8 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
-| 9 | [#Dogecoin](http://twitter.com/search?q=%23Dogecoin) | N/A |
+| 6 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
+| 7 | [Sujets](http://twitter.com/search?q=Sujets) | N/A |
+| 8 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 9 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
 | 10 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
 | 11 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 12 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
@@ -50,7 +50,7 @@ This is top 50 for [Austria](</Austria>)
 | 33 | [Konzept](http://twitter.com/search?q=Konzept) | N/A |
 | 34 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
 | 35 | [Verbrecher](http://twitter.com/search?q=Verbrecher) | N/A |
-| 36 | [kommunismus](http://twitter.com/search?q=kommunismus) | N/A |
+| 36 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
 | 37 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
 | 38 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
 | 39 | [Klenk](http://twitter.com/search?q=Klenk) | N/A |
@@ -59,10 +59,10 @@ This is top 50 for [Austria](</Austria>)
 | 42 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
 | 43 | [Karten](http://twitter.com/search?q=Karten) | N/A |
 | 44 | [Studien](http://twitter.com/search?q=Studien) | N/A |
-| 45 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
-| 46 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
-| 47 | [Einfluss](http://twitter.com/search?q=Einfluss) | N/A |
-| 48 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 45 | [Bücher](http://twitter.com/search?q=B%c3%bccher) | N/A |
+| 46 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
+| 47 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
+| 48 | [Einfluss](http://twitter.com/search?q=Einfluss) | N/A |
 | 49 | [Haken](http://twitter.com/search?q=Haken) | N/A |
 | 50 | [Werk](http://twitter.com/search?q=Werk) | N/A |
 

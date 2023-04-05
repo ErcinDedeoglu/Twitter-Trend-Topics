@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-04-05 02:23:30 UTC`
+📆 Last Updated: `2023-04-05 03:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hollister](http://twitter.com/search?q=Hollister) | N/A |
-| 2 | [Nola](http://twitter.com/search?q=Nola) | N/A |
-| 3 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 4 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 5 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
-| 6 | [Xander](http://twitter.com/search?q=Xander) | N/A |
-| 7 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 8 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 9 | [#Trump2024](http://twitter.com/search?q=%23Trump2024) | N/A |
-| 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 11 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 12 | [Zoom](http://twitter.com/search?q=Zoom) | N/A |
-| 13 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 14 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 15 | [LOCK HIM UP](http://twitter.com/search?q=LOCK+HIM+UP) | N/A |
-| 16 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 17 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
-| 18 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 19 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 20 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
-| 21 | [George Santos](http://twitter.com/search?q=George+Santos) | George Santos is a name of Greek origin, derived from the words "georgios" (farmer) and "santos" (saint). It can be translated to mean "farmer saint". |
-| 22 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
+| 1 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 2 | [#Webbys](http://twitter.com/search?q=%23Webbys) | N/A |
+| 3 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 4 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 5 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 6 | [Ronny](http://twitter.com/search?q=Ronny) | N/A |
+| 7 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 8 | [#NoOneIsAboveTheLaw](http://twitter.com/search?q=%23NoOneIsAboveTheLaw) | N/A |
+| 9 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 10 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
+| 11 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 12 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
+| 13 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 14 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 15 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 16 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
+| 17 | [Spider-Man](http://twitter.com/search?q=Spider-Man) | N/A |
+| 18 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 19 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
+| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 21 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
+| 22 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
 | 23 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 24 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 25 | [#TrumpArraignment](http://twitter.com/search?q=%23TrumpArraignment) | N/A |
-| 26 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 27 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 28 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 29 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 30 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 31 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 32 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
-| 33 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 34 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 35 | [Michael King](http://twitter.com/search?q=Michael+King) | N/A |
-| 36 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 37 | [Fleming](http://twitter.com/search?q=Fleming) | N/A |
-| 38 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 39 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 40 | [Lewistown](http://twitter.com/search?q=Lewistown) | N/A |
-| 41 | [Johnny Davis](http://twitter.com/search?q=Johnny+Davis) | N/A |
-| 42 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 43 | [Noam Dar](http://twitter.com/search?q=Noam+Dar) | N/A |
-| 44 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
-| 45 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
-| 46 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
-| 47 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
-| 48 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
-| 49 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 24 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 25 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 27 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 28 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 29 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 30 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 31 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 32 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 33 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 34 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 35 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 36 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 37 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
+| 38 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 39 | [Rich Homie](http://twitter.com/search?q=Rich+Homie) | N/A |
+| 40 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 41 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 42 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 43 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
+| 44 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 45 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 46 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 47 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 48 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 49 | [Nelson Mandela](http://twitter.com/search?q=Nelson+Mandela) | N/A |
 
 
 

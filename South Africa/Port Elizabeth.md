@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-04-05 02:23:14 UTC`
+📆 Last Updated: `2023-04-05 03:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,45 +25,45 @@ This is top 50 for [South Africa](</South Africa>)
 | 8 | [Kante](http://twitter.com/search?q=Kante) | N/A |
 | 9 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
 | 10 | [#thehuntfordealsisover](http://twitter.com/search?q=%23thehuntfordealsisover) | N/A |
-| 11 | [#Iblewit](http://twitter.com/search?q=%23Iblewit) | N/A |
-| 12 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
-| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 14 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 15 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 16 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 18 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 19 | [Somizi](http://twitter.com/search?q=Somizi) | N/A |
-| 20 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 11 | [#iblewit](http://twitter.com/search?q=%23iblewit) | N/A |
+| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 13 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 14 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 15 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 16 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
+| 17 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 18 | [Somizi](http://twitter.com/search?q=Somizi) | N/A |
+| 19 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 21 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 22 | [THABANG JUST ARRIVED](http://twitter.com/search?q=THABANG+JUST+ARRIVED) | N/A |
+| 22 | [THABANG ON CLEAN SLATE](http://twitter.com/search?q=THABANG+ON+CLEAN+SLATE) | N/A |
 | 23 | [juicy jay the influencer](http://twitter.com/search?q=juicy+jay+the+influencer) | N/A |
 | 24 | [back yard](http://twitter.com/search?q=back+yard) | N/A |
 | 25 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 26 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 27 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 28 | [fohloza](http://twitter.com/search?q=fohloza) | N/A |
-| 29 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
-| 30 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 31 | [the dome](http://twitter.com/search?q=the+dome) | N/A |
-| 32 | [Deborah Cox](http://twitter.com/search?q=Deborah+Cox) | N/A |
-| 33 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 26 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
+| 27 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 28 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 29 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 30 | [fohloza](http://twitter.com/search?q=fohloza) | N/A |
+| 31 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 32 | [The Dome](http://twitter.com/search?q=The+Dome) | N/A |
+| 33 | [Deborah Cox](http://twitter.com/search?q=Deborah+Cox) | N/A |
 | 34 | [Museveni](http://twitter.com/search?q=Museveni) | N/A |
 | 35 | [leeto](http://twitter.com/search?q=leeto) | N/A |
 | 36 | [LGBTQI](http://twitter.com/search?q=LGBTQI) | N/A |
 | 37 | [MOST WANTED BLUE AIVA](http://twitter.com/search?q=MOST+WANTED+BLUE+AIVA) | N/A |
 | 38 | [Mr Kgomo](http://twitter.com/search?q=Mr+Kgomo) | N/A |
 | 39 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 40 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 41 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 40 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 41 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
 | 42 | [ayanda dlamini](http://twitter.com/search?q=ayanda+dlamini) | N/A |
 | 43 | [pfma](http://twitter.com/search?q=pfma) | N/A |
 | 44 | [Badiashile](http://twitter.com/search?q=Badiashile) | Badiashile is a Yoruba word that means “God has done it” or “God has made it happen.” It is often used as an expression of joy and gratitude for something that has been accomplished. |
 | 45 | [cape town city](http://twitter.com/search?q=cape+town+city) | N/A |
 | 46 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 47 | [Auba](http://twitter.com/search?q=Auba) | Auba is a nickname for the German footballer Pierre-Emerick Aubameyang. It is derived from his surname and is used as a term of endearment by his fans. In English, it can be translated to mean "darling" or "beloved". |
-| 48 | [Zungu](http://twitter.com/search?q=Zungu) | N/A |
-| 49 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 47 | [Zungu](http://twitter.com/search?q=Zungu) | N/A |
+| 48 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 49 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 
 
 
