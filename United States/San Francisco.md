@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-05 05:16:56 UTC`
+📆 Last Updated: `2023-04-05 06:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Xander](http://twitter.com/search?q=Xander) | N/A |
-| 2 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 3 | [#Webbys](http://twitter.com/search?q=%23Webbys) | N/A |
-| 4 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 5 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 6 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
-| 7 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
-| 8 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 9 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 10 | [Ronny](http://twitter.com/search?q=Ronny) | N/A |
-| 11 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 12 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 13 | [#NoOneIsAboveTheLaw](http://twitter.com/search?q=%23NoOneIsAboveTheLaw) | N/A |
-| 14 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 15 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 17 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 18 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 19 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 20 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 21 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
-| 22 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
-| 23 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
-| 24 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 25 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
-| 26 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 28 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 29 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 30 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 31 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 33 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 34 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 35 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 36 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 37 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 38 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 39 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 40 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 41 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 42 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 43 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 44 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
-| 45 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 46 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 3 | [Pacific Division](http://twitter.com/search?q=Pacific+Division) | N/A |
+| 4 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 5 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 6 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 7 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 8 | [Steve Kerr](http://twitter.com/search?q=Steve+Kerr) | Steve Kerr is the head coach of the Golden State Warriors, a professional basketball team in the National Basketball Association (NBA). He is known for his success as a coach, having led the Warriors to three NBA championships. The phrase "Steve Kerr" is used to refer to his coaching style, which emphasizes ball movement and team play. |
+| 9 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 10 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 11 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 12 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 13 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 14 | [Trump 2024](http://twitter.com/search?q=Trump+2024) | N/A |
+| 15 | [Passover](http://twitter.com/search?q=Passover) | N/A |
+| 16 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 17 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 18 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 19 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 20 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 21 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 22 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 23 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 24 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 25 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 26 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
+| 27 | [#aimseyspace](http://twitter.com/search?q=%23aimseyspace) | N/A |
+| 28 | [Teoscar](http://twitter.com/search?q=Teoscar) | N/A |
+| 29 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 30 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 31 | [#CWGothamKnights](http://twitter.com/search?q=%23CWGothamKnights) | N/A |
+| 32 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
+| 33 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 34 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 35 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 36 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 37 | [Damian Jones](http://twitter.com/search?q=Damian+Jones) | N/A |
+| 38 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
+| 39 | [Max Scherzer](http://twitter.com/search?q=Max+Scherzer) | N/A |
+| 40 | [Al McCoy](http://twitter.com/search?q=Al+McCoy) | N/A |
+| 41 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
+| 42 | [Moses Moody](http://twitter.com/search?q=Moses+Moody) | N/A |
+| 43 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 44 | [Daniel Kelly](http://twitter.com/search?q=Daniel+Kelly) | N/A |
+| 45 | [Tork](http://twitter.com/search?q=Tork) | N/A |
+| 46 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 47 | [WI Supreme Court](http://twitter.com/search?q=WI+Supreme+Court) | N/A |
+| 48 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 49 | [Pollock](http://twitter.com/search?q=Pollock) | N/A |
+| 50 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
 
 
 

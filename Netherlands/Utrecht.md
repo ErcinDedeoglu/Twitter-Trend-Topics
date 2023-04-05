@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-04-05 05:16:26 UTC`
+📆 Last Updated: `2023-04-05 06:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,31 +16,31 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#spapsv](http://twitter.com/search?q=%23spapsv) | N/A |
-| 2 | [spakenburg](http://twitter.com/search?q=spakenburg) | N/A |
+| 2 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
 | 3 | [#knvbbeker](http://twitter.com/search?q=%23knvbbeker) | N/A |
 | 4 | [Voorschoten](http://twitter.com/search?q=Voorschoten) | N/A |
 | 5 | [#treinongeluk](http://twitter.com/search?q=%23treinongeluk) | N/A |
-| 6 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
+| 6 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
 | 7 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
-| 8 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
-| 9 | [luuk de jong](http://twitter.com/search?q=luuk+de+jong) | N/A |
-| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 8 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
+| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 10 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
 | 11 | [jutta](http://twitter.com/search?q=jutta) | N/A |
 | 12 | [teze](http://twitter.com/search?q=teze) | N/A |
 | 13 | [drommel](http://twitter.com/search?q=drommel) | N/A |
 | 14 | [caribische](http://twitter.com/search?q=caribische) | N/A |
-| 15 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 16 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 15 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 16 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 17 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 18 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 18 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 19 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
 | 20 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
-| 21 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 22 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
+| 21 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 22 | [Lelystad](http://twitter.com/search?q=Lelystad) | N/A |
 | 23 | [prorail](http://twitter.com/search?q=prorail) | N/A |
-| 24 | [Lelystad](http://twitter.com/search?q=Lelystad) | N/A |
-| 25 | [rode kruis](http://twitter.com/search?q=rode+kruis) | N/A |
-| 26 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 24 | [rode kruis](http://twitter.com/search?q=rode+kruis) | N/A |
+| 25 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 26 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
 | 27 | [transavia](http://twitter.com/search?q=transavia) | N/A |
 | 28 | [kaagje](http://twitter.com/search?q=kaagje) | N/A |
 | 29 | [guus til](http://twitter.com/search?q=guus+til) | N/A |
@@ -49,21 +49,21 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 32 | [manschot](http://twitter.com/search?q=manschot) | N/A |
 | 33 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 34 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 35 | [cora van nieuwenhuizen](http://twitter.com/search?q=cora+van+nieuwenhuizen) | N/A |
-| 36 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
-| 37 | [oosting](http://twitter.com/search?q=oosting) | N/A |
-| 38 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 39 | [Bidden](http://twitter.com/search?q=Bidden) | N/A |
-| 40 | [Ide Schelling](http://twitter.com/search?q=Ide+Schelling) | N/A |
-| 41 | [Dries](http://twitter.com/search?q=Dries) | N/A |
-| 42 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
-| 43 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 44 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 45 | [premier rutte](http://twitter.com/search?q=premier+rutte) | N/A |
-| 46 | [Stromae](http://twitter.com/search?q=Stromae) | N/A |
-| 47 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 48 | [sondag](http://twitter.com/search?q=sondag) | N/A |
-| 49 | [rinus](http://twitter.com/search?q=rinus) | N/A |
+| 35 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 36 | [cora van nieuwenhuizen](http://twitter.com/search?q=cora+van+nieuwenhuizen) | N/A |
+| 37 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
+| 38 | [oosting](http://twitter.com/search?q=oosting) | N/A |
+| 39 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 40 | [Bidden](http://twitter.com/search?q=Bidden) | N/A |
+| 41 | [ide schelling](http://twitter.com/search?q=ide+schelling) | N/A |
+| 42 | [dries](http://twitter.com/search?q=dries) | N/A |
+| 43 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
+| 44 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 45 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 46 | [premier rutte](http://twitter.com/search?q=premier+rutte) | N/A |
+| 47 | [Stromae](http://twitter.com/search?q=Stromae) | N/A |
+| 48 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 49 | [sondag](http://twitter.com/search?q=sondag) | N/A |
 
 
 

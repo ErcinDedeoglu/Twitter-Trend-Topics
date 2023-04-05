@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-04-05 05:16:27 UTC`
+📆 Last Updated: `2023-04-05 06:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Spain](</Spain>)
 | 1 | [#TierraDeNadie5](http://twitter.com/search?q=%23TierraDeNadie5) | N/A |
 | 2 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
 | 3 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
-| 4 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
-| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 6 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
-| 7 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 8 | [#LaIslaDeLasTentaciones11](http://twitter.com/search?q=%23LaIslaDeLasTentaciones11) | N/A |
-| 9 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 10 | [Pablo Ibáñez](http://twitter.com/search?q=Pablo+Ib%c3%a1%c3%b1ez) | N/A |
-| 11 | [Aless](http://twitter.com/search?q=Aless) | N/A |
-| 12 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
-| 13 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 14 | [Ana Sandra](http://twitter.com/search?q=Ana+Sandra) | N/A |
-| 15 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
-| 16 | [#ConexiónHonduras5](http://twitter.com/search?q=%23Conexi%c3%b3nHonduras5) | N/A |
-| 17 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
-| 18 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 19 | [Helio](http://twitter.com/search?q=Helio) | N/A |
-| 20 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 5 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 6 | [San Mamés](http://twitter.com/search?q=San+Mam%c3%a9s) | San Mamés is the name of a football stadium in Bilbao, Spain. It is the home stadium of Athletic Bilbao, a Spanish football club. The name San Mamés comes from a local saint, Saint Mammes of Caesarea, who was martyred in the 3rd century AD. In English, San Mamés translates to "Saint Mammes". |
+| 7 | [#LaIslaDeLasTentaciones11](http://twitter.com/search?q=%23LaIslaDeLasTentaciones11) | N/A |
+| 8 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
+| 9 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
+| 10 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
+| 11 | [Pablo Ibáñez](http://twitter.com/search?q=Pablo+Ib%c3%a1%c3%b1ez) | N/A |
+| 12 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 13 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 14 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
+| 15 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 16 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 17 | [Helio](http://twitter.com/search?q=Helio) | N/A |
+| 18 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
+| 19 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
+| 20 | [Zarraga](http://twitter.com/search?q=Zarraga) | N/A |
 | 21 | [#SSantaSevilla23](http://twitter.com/search?q=%23SSantaSevilla23) | N/A |
-| 22 | [Zarraga](http://twitter.com/search?q=Zarraga) | N/A |
-| 23 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 24 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
-| 25 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
-| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 27 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
-| 28 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 29 | [Partido Popular Europeo](http://twitter.com/search?q=Partido+Popular+Europeo) | N/A |
-| 30 | [Montecarlo](http://twitter.com/search?q=Montecarlo) | N/A |
-| 31 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 32 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
-| 33 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 35 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 36 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 37 | [Mestalla](http://twitter.com/search?q=Mestalla) | Mestalla is the name of the home stadium of Valencia CF, a Spanish football club. The word Mestalla is derived from the Latin word matella, which means "fortress". In English, it can be translated to mean "fortress stadium". |
-| 38 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 39 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 40 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 41 | [Hammurabi](http://twitter.com/search?q=Hammurabi) | N/A |
-| 42 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
-| 43 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
-| 44 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 45 | [Palos de la Frontera](http://twitter.com/search?q=Palos+de+la+Frontera) | N/A |
-| 46 | [Gines](http://twitter.com/search?q=Gines) | N/A |
-| 47 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
-| 48 | [Ruber](http://twitter.com/search?q=Ruber) | N/A |
-| 49 | [San Gonzalo](http://twitter.com/search?q=San+Gonzalo) | N/A |
-| 50 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 23 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
+| 24 | [Ana Sandra](http://twitter.com/search?q=Ana+Sandra) | N/A |
+| 25 | [#firstdates4a](http://twitter.com/search?q=%23firstdates4a) | N/A |
+| 26 | [Aless](http://twitter.com/search?q=Aless) | N/A |
+| 27 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
+| 28 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 29 | [Bilbao](http://twitter.com/search?q=Bilbao) | N/A |
+| 30 | [Pacheta](http://twitter.com/search?q=Pacheta) | N/A |
+| 31 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 32 | [Arrasate](http://twitter.com/search?q=Arrasate) | N/A |
+| 33 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 34 | [hammurabi](http://twitter.com/search?q=hammurabi) | N/A |
+| 35 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 36 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
+| 37 | [Yoli](http://twitter.com/search?q=Yoli) | N/A |
+| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 39 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 40 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
+| 41 | [Partido Popular Europeo](http://twitter.com/search?q=Partido+Popular+Europeo) | N/A |
+| 42 | [kike garcía](http://twitter.com/search?q=kike+garc%c3%ada) | N/A |
+| 43 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 44 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 45 | [Montecarlo](http://twitter.com/search?q=Montecarlo) | N/A |
+| 46 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 47 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
+| 48 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 49 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 50 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-04-05 05:16:31 UTC`
+📆 Last Updated: `2023-04-05 06:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Australia](</Australia>)
 | ------- | ------------ | ------------ |
 | 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 4 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 5 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 6 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 3 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 4 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 5 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 6 | [Doge](http://twitter.com/search?q=Doge) | N/A |
 | 7 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
-| 8 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 9 | [Philip Lowe](http://twitter.com/search?q=Philip+Lowe) | N/A |
-| 10 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 8 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
+| 9 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 10 | [#VoiceToParliament](http://twitter.com/search?q=%23VoiceToParliament) | N/A |
 | 11 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 12 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 13 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 14 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 12 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 13 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 14 | [#auspol](http://twitter.com/search?q=%23auspol) | N/A |
 | 15 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 16 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 18 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 19 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 20 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 21 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
-| 22 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
-| 23 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
+| 16 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
+| 17 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 18 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 19 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 20 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 21 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 22 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
+| 23 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
 | 24 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 25 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 26 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
-| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 28 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 29 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
-| 30 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 31 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
-| 32 | [Chris Barrie](http://twitter.com/search?q=Chris+Barrie) | N/A |
-| 33 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 34 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
-| 35 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 36 | [kenty](http://twitter.com/search?q=kenty) | N/A |
+| 25 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 26 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 27 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
+| 28 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
+| 29 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 30 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 31 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 32 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 33 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 34 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 35 | [Chris Barrie](http://twitter.com/search?q=Chris+Barrie) | N/A |
+| 36 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
 | 37 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 38 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 39 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 40 | [Ann Lesley Smith](http://twitter.com/search?q=Ann+Lesley+Smith) | N/A |
-| 41 | [Deni](http://twitter.com/search?q=Deni) | N/A |
-| 42 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 43 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 38 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
+| 39 | [Ann Lesley Smith](http://twitter.com/search?q=Ann+Lesley+Smith) | N/A |
+| 40 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 41 | [Daily Quordle 436](http://twitter.com/search?q=Daily+Quordle+436) | N/A |
+| 42 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
+| 43 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
 | 44 | [Zali](http://twitter.com/search?q=Zali) | N/A |
-| 45 | [Indigenous Voice to Parliament](http://twitter.com/search?q=Indigenous+Voice+to+Parliament) | N/A |
-| 46 | [Jacinda](http://twitter.com/search?q=Jacinda) | N/A |
-| 47 | [Daily Quordle 436](http://twitter.com/search?q=Daily+Quordle+436) | N/A |
-| 48 | [Lexus](http://twitter.com/search?q=Lexus) | N/A |
-| 49 | [mirabella](http://twitter.com/search?q=mirabella) | N/A |
-| 50 | [Rishworth](http://twitter.com/search?q=Rishworth) | N/A |
+| 45 | [Lexus](http://twitter.com/search?q=Lexus) | N/A |
+| 46 | [Rishworth](http://twitter.com/search?q=Rishworth) | N/A |
+| 47 | [Newspoll](http://twitter.com/search?q=Newspoll) | N/A |
+| 48 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
+| 49 | [Impartial](http://twitter.com/search?q=Impartial) | N/A |
+| 50 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
 
 
 

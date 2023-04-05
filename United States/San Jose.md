@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-04-05 05:16:56 UTC`
+📆 Last Updated: `2023-04-05 06:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,49 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Xander](http://twitter.com/search?q=Xander) | N/A |
-| 2 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 3 | [#Webbys](http://twitter.com/search?q=%23Webbys) | N/A |
-| 4 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 5 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 6 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
+| 1 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
+| 2 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 3 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 4 | [#Webbys](http://twitter.com/search?q=%23Webbys) | N/A |
+| 5 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
 | 7 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
 | 8 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 9 | [Andrea Mitchell](http://twitter.com/search?q=Andrea+Mitchell) | N/A |
-| 10 | [Ronny](http://twitter.com/search?q=Ronny) | N/A |
-| 11 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 12 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 13 | [#NoOneIsAboveTheLaw](http://twitter.com/search?q=%23NoOneIsAboveTheLaw) | N/A |
-| 14 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 15 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 17 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 18 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 19 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 20 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 21 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
-| 22 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
-| 23 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
-| 24 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 25 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
-| 26 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 28 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 29 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 30 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 31 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 33 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 34 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 35 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 9 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 10 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 11 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
+| 12 | [#Arrestmas](http://twitter.com/search?q=%23Arrestmas) | N/A |
+| 13 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 14 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 15 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 16 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 17 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 18 | [Patriots](http://twitter.com/search?q=Patriots) | Patriots are people who are strongly devoted to and greatly support their country. They are proud of their country and its history, culture, and values. The term is often used to refer to those who serve in the military or fight for their country's freedom. |
+| 19 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
+| 20 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 21 | [34 Felonies](http://twitter.com/search?q=34+Felonies) | N/A |
+| 22 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 23 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 24 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
+| 25 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 26 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 27 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 30 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 31 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 32 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 33 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 34 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 35 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
 | 36 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 37 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 38 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 39 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 40 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 41 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 42 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 43 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 44 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
-| 45 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 46 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 37 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 38 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 39 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 40 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
+| 41 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
+| 42 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 43 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
 
 
 

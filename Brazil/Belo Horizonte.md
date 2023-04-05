@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-04-05 05:16:19 UTC`
+📆 Last Updated: `2023-04-05 06:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 2 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
-| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 4 | [Odair](http://twitter.com/search?q=Odair) | N/A |
-| 5 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
-| 6 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 7 | [#LibertadoresNoParamount](http://twitter.com/search?q=%23LibertadoresNoParamount) | N/A |
-| 8 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 9 | [menezes](http://twitter.com/search?q=menezes) | N/A |
-| 10 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 11 | [#SudamericanaNaESPN](http://twitter.com/search?q=%23SudamericanaNaESPN) | N/A |
-| 12 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 14 | [Blooming](http://twitter.com/search?q=Blooming) | N/A |
-| 15 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
-| 16 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
-| 17 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 18 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 19 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 20 | [Daniel Ruiz](http://twitter.com/search?q=Daniel+Ruiz) | N/A |
-| 21 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
-| 22 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
-| 23 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 24 | [Miguelito](http://twitter.com/search?q=Miguelito) | N/A |
-| 25 | [Marvvila](http://twitter.com/search?q=Marvvila) | Marvvila is not a word in English. It does not have a meaning. |
-| 26 | [O VT](http://twitter.com/search?q=O+VT) | O VT is an abbreviation for "Overtime," which means working beyond the normal hours of a job. |
-| 27 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
-| 28 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
-| 29 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 30 | [Que VT](http://twitter.com/search?q=Que+VT) | N/A |
-| 31 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
-| 32 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 33 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 34 | [#NBAnoPrimeVideo](http://twitter.com/search?q=%23NBAnoPrimeVideo) | N/A |
-| 35 | [Lucas Ramos](http://twitter.com/search?q=Lucas+Ramos) | N/A |
-| 36 | [O Santos](http://twitter.com/search?q=O+Santos) | O Santos is a Brazilian football club based in the city of Santos, São Paulo. The club was founded in 1912 and is one of the most successful clubs in Brazil, having won eight national titles and four international titles. In English, O Santos translates to "The Saints". |
-| 37 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 38 | [queens of the stone age](http://twitter.com/search?q=queens+of+the+stone+age) | N/A |
-| 39 | [QOTSA](http://twitter.com/search?q=QOTSA) | N/A |
-| 40 | [Dodi](http://twitter.com/search?q=Dodi) | N/A |
-| 41 | [Eduardo Bauermann](http://twitter.com/search?q=Eduardo+Bauermann) | N/A |
-| 42 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 43 | [Baralhas](http://twitter.com/search?q=Baralhas) | N/A |
-| 44 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
-| 45 | [Ivonei](http://twitter.com/search?q=Ivonei) | Ivonei is a Portuguese name derived from the Latin name Yvonne. It is a feminine given name meaning "yew tree". |
-| 46 | [Boliviano](http://twitter.com/search?q=Boliviano) | N/A |
-| 47 | [Esse VT](http://twitter.com/search?q=Esse+VT) | N/A |
-| 48 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
-| 49 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 50 | [p1harmony](http://twitter.com/search?q=p1harmony) | N/A |
+| 1 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 2 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 4 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 9 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 10 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
+| 11 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 12 | [Sesc](http://twitter.com/search?q=Sesc) | Sesc is an acronym for Serviço Social do Comércio, which is a Brazilian non-profit organization that provides social services to workers in the commerce and services sector. In English, it translates to Social Service of Commerce. |
+| 13 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
+| 14 | [#LibertadoresNaESPN](http://twitter.com/search?q=%23LibertadoresNaESPN) | N/A |
+| 15 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 16 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 17 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 18 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
+| 19 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 20 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 21 | [#BetanoSabeTudo](http://twitter.com/search?q=%23BetanoSabeTudo) | N/A |
+| 22 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 23 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 24 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
+| 25 | [Anderson Paulista](http://twitter.com/search?q=Anderson+Paulista) | N/A |
+| 26 | [DEIXA O ALFACE JOGAR](http://twitter.com/search?q=DEIXA+O+ALFACE+JOGAR) | N/A |
+| 27 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | N/A |
+| 28 | [OSNI](http://twitter.com/search?q=OSNI) | N/A |
+| 29 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 30 | [SDOL](http://twitter.com/search?q=SDOL) | N/A |
+| 31 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 32 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 33 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 34 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 35 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
+| 36 | [Copa da Alemanha](http://twitter.com/search?q=Copa+da+Alemanha) | N/A |
+| 37 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
+| 38 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 39 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 40 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 41 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 42 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 43 | [Santinha](http://twitter.com/search?q=Santinha) | N/A |
+| 44 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 45 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 46 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 47 | [Marê](http://twitter.com/search?q=Mar%c3%aa) | N/A |
+| 48 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
 
 
 

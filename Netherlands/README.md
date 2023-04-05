@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-04-05 05:17:02 UTC`
+📆 Last Updated: `2023-04-05 06:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Netherlands
 | 1 | [#spapsv](http://twitter.com/search?q=%23spapsv) | N/A |
 | 2 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
 | 3 | [#knvbbeker](http://twitter.com/search?q=%23knvbbeker) | N/A |
-| 4 | [Voorschoten](http://twitter.com/search?q=Voorschoten) | N/A |
+| 4 | [#voorschoten](http://twitter.com/search?q=%23voorschoten) | N/A |
 | 5 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
 | 6 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
 | 7 | [#treinongeluk](http://twitter.com/search?q=%23treinongeluk) | N/A |
@@ -26,45 +26,45 @@ This is top 50 for Netherlands
 | 9 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
 | 10 | [Drommel](http://twitter.com/search?q=Drommel) | N/A |
 | 11 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
-| 12 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
-| 13 | [Teze](http://twitter.com/search?q=Teze) | N/A |
-| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 15 | [Jutta](http://twitter.com/search?q=Jutta) | N/A |
-| 16 | [Caribische](http://twitter.com/search?q=Caribische) | N/A |
+| 12 | [Teze](http://twitter.com/search?q=Teze) | N/A |
+| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 14 | [Jutta](http://twitter.com/search?q=Jutta) | N/A |
+| 15 | [Caribische](http://twitter.com/search?q=Caribische) | N/A |
+| 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 17 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 19 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 20 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 22 | [kaagje](http://twitter.com/search?q=kaagje) | N/A |
-| 23 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
-| 24 | [Manschot](http://twitter.com/search?q=Manschot) | N/A |
-| 25 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
-| 26 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
+| 18 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 19 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 20 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 21 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 22 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
+| 23 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 24 | [kaagje](http://twitter.com/search?q=kaagje) | N/A |
+| 25 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
+| 26 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
 | 27 | [Lelystad](http://twitter.com/search?q=Lelystad) | N/A |
-| 28 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 29 | [van nistelrooij](http://twitter.com/search?q=van+nistelrooij) | N/A |
-| 30 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 31 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
-| 32 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 33 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
-| 34 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 35 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
-| 36 | [Transavia](http://twitter.com/search?q=Transavia) | N/A |
-| 37 | [Bidden](http://twitter.com/search?q=Bidden) | N/A |
-| 38 | [Jasper Philipsen](http://twitter.com/search?q=Jasper+Philipsen) | N/A |
-| 39 | [Gerapporteerd](http://twitter.com/search?q=Gerapporteerd) | N/A |
-| 40 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 41 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 42 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 43 | [guus til](http://twitter.com/search?q=guus+til) | N/A |
-| 44 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 45 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 46 | [cora van nieuwenhuizen](http://twitter.com/search?q=cora+van+nieuwenhuizen) | N/A |
+| 28 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 29 | [ProRail](http://twitter.com/search?q=ProRail) | N/A |
+| 30 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 31 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 32 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 33 | [Transavia](http://twitter.com/search?q=Transavia) | N/A |
+| 34 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 35 | [Bidden](http://twitter.com/search?q=Bidden) | N/A |
+| 36 | [jasper philipsen](http://twitter.com/search?q=jasper+philipsen) | N/A |
+| 37 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 39 | [guus til](http://twitter.com/search?q=guus+til) | N/A |
+| 40 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
+| 41 | [Manschot](http://twitter.com/search?q=Manschot) | N/A |
+| 42 | [cora van nieuwenhuizen](http://twitter.com/search?q=cora+van+nieuwenhuizen) | N/A |
+| 43 | [Rode Kruis](http://twitter.com/search?q=Rode+Kruis) | N/A |
+| 44 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 45 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 46 | [Gerapporteerd](http://twitter.com/search?q=Gerapporteerd) | N/A |
 | 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 48 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 49 | [zwaargewonden](http://twitter.com/search?q=zwaargewonden) | N/A |
-| 50 | [premier rutte](http://twitter.com/search?q=premier+rutte) | N/A |
+| 49 | [premier rutte](http://twitter.com/search?q=premier+rutte) | N/A |
+| 50 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-04-05 05:16:31 UTC`
+📆 Last Updated: `2023-04-05 06:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 3 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
 | 4 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 5 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 6 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
-| 7 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
-| 8 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 9 | [Philip Lowe](http://twitter.com/search?q=Philip+Lowe) | N/A |
-| 10 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 11 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 12 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 13 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 14 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 15 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 16 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 18 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 19 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 20 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 21 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
-| 22 | [#CheLiv](http://twitter.com/search?q=%23CheLiv) | N/A |
-| 23 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
-| 24 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 25 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 26 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
-| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 28 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 29 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
-| 30 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 31 | [NSW Police](http://twitter.com/search?q=NSW+Police) | N/A |
-| 32 | [Chris Barrie](http://twitter.com/search?q=Chris+Barrie) | N/A |
-| 33 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 34 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
-| 35 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 36 | [kenty](http://twitter.com/search?q=kenty) | N/A |
-| 37 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 38 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 39 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 40 | [Ann Lesley Smith](http://twitter.com/search?q=Ann+Lesley+Smith) | N/A |
-| 41 | [Deni](http://twitter.com/search?q=Deni) | N/A |
-| 42 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 43 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 44 | [Zali](http://twitter.com/search?q=Zali) | N/A |
-| 45 | [Jacinda](http://twitter.com/search?q=Jacinda) | N/A |
-| 46 | [Daily Quordle 436](http://twitter.com/search?q=Daily+Quordle+436) | N/A |
-| 47 | [Lexus](http://twitter.com/search?q=Lexus) | N/A |
-| 48 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
-| 49 | [Rishworth](http://twitter.com/search?q=Rishworth) | N/A |
-| 50 | [Newspoll](http://twitter.com/search?q=Newspoll) | N/A |
+| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 6 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
+| 7 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 8 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 9 | [#AVFC](http://twitter.com/search?q=%23AVFC) | #AVFC stands for Aston Villa Football Club, an English professional football club based in Birmingham. The club competes in the Premier League, the top tier of the English football league system. |
+| 10 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 11 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
+| 12 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 13 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 14 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 15 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 16 | [The RBA](http://twitter.com/search?q=The+RBA) | N/A |
+| 17 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
+| 18 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 19 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 21 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 23 | [amanda rishworth](http://twitter.com/search?q=amanda+rishworth) | N/A |
+| 24 | [Shiba Inu](http://twitter.com/search?q=Shiba+Inu) | N/A |
+| 25 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 26 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 27 | [Bidens](http://twitter.com/search?q=Bidens) | N/A |
+| 28 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
+| 29 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 30 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 31 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 33 | [nsw police](http://twitter.com/search?q=nsw+police) | N/A |
+| 34 | [tony jones](http://twitter.com/search?q=tony+jones) | N/A |
+| 35 | [Cobie](http://twitter.com/search?q=Cobie) | N/A |
+| 36 | [Rupert Murdoch](http://twitter.com/search?q=Rupert+Murdoch) | N/A |
+| 37 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 38 | [logue](http://twitter.com/search?q=logue) | N/A |
+| 39 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 40 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
+| 41 | [hopgood](http://twitter.com/search?q=hopgood) | N/A |
+| 42 | [Rennick](http://twitter.com/search?q=Rennick) | N/A |
+| 43 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 44 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 45 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
+| 46 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 47 | [Zali](http://twitter.com/search?q=Zali) | N/A |
+| 48 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 49 | [malka leifer](http://twitter.com/search?q=malka+leifer) | N/A |
 
 
 

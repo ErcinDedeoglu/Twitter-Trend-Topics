@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-04-05 05:16:59 UTC`
+📆 Last Updated: `2023-04-05 06:18:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 2 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 3 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 4 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 5 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 6 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
-| 7 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 8 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 9 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
-| 10 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 11 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
-| 12 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
-| 13 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 15 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 17 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
-| 18 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 19 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 20 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 21 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
-| 22 | [Félix](http://twitter.com/search?q=F%c3%a9lix) | N/A |
-| 23 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
-| 24 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 25 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 26 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
-| 27 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 28 | [Frédéric](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric) | N/A |
-| 29 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 30 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 31 | [Barth](http://twitter.com/search?q=Barth) | N/A |
-| 32 | [Shrek](http://twitter.com/search?q=Shrek) | N/A |
-| 33 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 34 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 35 | [Romain Molina](http://twitter.com/search?q=Romain+Molina) | N/A |
-| 36 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 37 | [Farès](http://twitter.com/search?q=Far%c3%a8s) | N/A |
-| 38 | [Bilal](http://twitter.com/search?q=Bilal) | N/A |
-| 39 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 40 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 41 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
-| 42 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 43 | [Marlène](http://twitter.com/search?q=Marl%c3%a8ne) | N/A |
-| 44 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 45 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 46 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
-| 47 | [Arabie](http://twitter.com/search?q=Arabie) | N/A |
-| 48 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 49 | [Pirouette](http://twitter.com/search?q=Pirouette) | N/A |
-| 50 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 1 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
+| 2 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 3 | [#dartygaming](http://twitter.com/search?q=%23dartygaming) | N/A |
+| 4 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 6 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 7 | [#JucheeCommeJamais](http://twitter.com/search?q=%23JucheeCommeJamais) | N/A |
+| 8 | [#freebetunibet](http://twitter.com/search?q=%23freebetunibet) | N/A |
+| 9 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 11 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 12 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 13 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 14 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 15 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 16 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
+| 17 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 19 | [Finlande](http://twitter.com/search?q=Finlande) | N/A |
+| 20 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 21 | [la ps5](http://twitter.com/search?q=la+ps5) | N/A |
+| 22 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 23 | [Chelsea Liverpool](http://twitter.com/search?q=Chelsea+Liverpool) | N/A |
+| 24 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 25 | [pire concert](http://twitter.com/search?q=pire+concert) | N/A |
+| 26 | [dernier concert](http://twitter.com/search?q=dernier+concert) | N/A |
+| 27 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 28 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 29 | [meilleur concert](http://twitter.com/search?q=meilleur+concert) | N/A |
+| 30 | [prochain concert](http://twitter.com/search?q=prochain+concert) | N/A |
+| 31 | [KEV ADAMS](http://twitter.com/search?q=KEV+ADAMS) | N/A |
+| 32 | [concert de rêve](http://twitter.com/search?q=concert+de+r%c3%aave) | N/A |
+| 33 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 34 | [premier concert](http://twitter.com/search?q=premier+concert) | N/A |
+| 35 | [Pirouette](http://twitter.com/search?q=Pirouette) | N/A |
+| 36 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 37 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 38 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 39 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 40 | [Xanax](http://twitter.com/search?q=Xanax) | N/A |
+| 41 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 42 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 43 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 44 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 45 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 46 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
+| 47 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 48 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 49 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 50 | [Toko](http://twitter.com/search?q=Toko) | Toko is a Japanese word that means "store" or "shop". It is used to refer to any kind of retail establishment, from small convenience stores to large department stores. |
 
 
 

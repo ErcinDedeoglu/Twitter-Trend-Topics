@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-04-05 05:16:54 UTC`
+📆 Last Updated: `2023-04-05 06:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 2 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 3 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
-| 4 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
-| 5 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 6 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [#LaFirmaNetflix](http://twitter.com/search?q=%23LaFirmaNetflix) | N/A |
-| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 10 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 11 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 12 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 15 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 16 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 17 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 18 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 19 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 20 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 21 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 22 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 23 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 24 | [34 FELONY COUNTS](http://twitter.com/search?q=34+FELONY+COUNTS) | N/A |
-| 25 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 26 | [Bari Weiss](http://twitter.com/search?q=Bari+Weiss) | N/A |
-| 27 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 28 | [Statement of Facts](http://twitter.com/search?q=Statement+of+Facts) | N/A |
-| 29 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
-| 30 | [Not Guilty](http://twitter.com/search?q=Not+Guilty) | N/A |
-| 31 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 32 | [Ron Kulpa](http://twitter.com/search?q=Ron+Kulpa) | N/A |
-| 33 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
-| 34 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 35 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 36 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 37 | [Critics](http://twitter.com/search?q=Critics) | N/A |
-| 38 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 39 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 40 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 41 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 42 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 43 | [Republic](http://twitter.com/search?q=Republic) | N/A |
-| 44 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 45 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 46 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 47 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
+| 1 | [#RaysUp](http://twitter.com/search?q=%23RaysUp) | N/A |
+| 2 | [#TimeToHunt](http://twitter.com/search?q=%23TimeToHunt) | N/A |
+| 3 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 4 | [#MagicTogether](http://twitter.com/search?q=%23MagicTogether) | N/A |
+| 5 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 6 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 7 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 8 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 9 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 10 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
+| 11 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 12 | [Vallas](http://twitter.com/search?q=Vallas) | N/A |
+| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 14 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 15 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 16 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 17 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
+| 18 | [#aimseyspace](http://twitter.com/search?q=%23aimseyspace) | N/A |
+| 19 | [Teoscar](http://twitter.com/search?q=Teoscar) | N/A |
+| 20 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 21 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 22 | [Brian Anderson](http://twitter.com/search?q=Brian+Anderson) | N/A |
+| 23 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 24 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 25 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 26 | [Damian Jones](http://twitter.com/search?q=Damian+Jones) | N/A |
+| 27 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
+| 28 | [Max Scherzer](http://twitter.com/search?q=Max+Scherzer) | N/A |
+| 29 | [Al McCoy](http://twitter.com/search?q=Al+McCoy) | N/A |
+| 30 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
+| 31 | [Moses Moody](http://twitter.com/search?q=Moses+Moody) | N/A |
+| 32 | [Derrick White](http://twitter.com/search?q=Derrick+White) | Derrick White is a professional basketball player who currently plays for the San Antonio Spurs of the National Basketball Association (NBA). He was drafted 29th overall in the 2018 NBA Draft. The name "Derrick White" is derived from his given name, Derrick, and his middle name, White. |
+| 33 | [Daniel Kelly](http://twitter.com/search?q=Daniel+Kelly) | N/A |
+| 34 | [Tork](http://twitter.com/search?q=Tork) | N/A |
+| 35 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 36 | [WI Supreme Court](http://twitter.com/search?q=WI+Supreme+Court) | N/A |
+| 37 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 38 | [Pollock](http://twitter.com/search?q=Pollock) | N/A |
+| 39 | [Luis Castillo](http://twitter.com/search?q=Luis+Castillo) | N/A |
+| 40 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 41 | [Jason Heyward](http://twitter.com/search?q=Jason+Heyward) | N/A |
+| 42 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 43 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
+| 44 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 45 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
+| 46 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 47 | [Kornet](http://twitter.com/search?q=Kornet) | N/A |
+| 48 | [Evers](http://twitter.com/search?q=Evers) | N/A |
+| 49 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 50 | [The Mets](http://twitter.com/search?q=The+Mets) | N/A |
 
 
 
