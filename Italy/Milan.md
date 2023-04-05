@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-04-05 20:17:30 UTC`
+📆 Last Updated: `2023-04-05 21:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,46 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 2 | [#backtoschool](http://twitter.com/search?q=%23backtoschool) | N/A |
-| 3 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
+| 1 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 2 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 3 | [#backtoschool](http://twitter.com/search?q=%23backtoschool) | N/A |
 | 4 | [#RoccoSchiavone](http://twitter.com/search?q=%23RoccoSchiavone) | N/A |
-| 5 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 5 | [#CremoneseFiorentina](http://twitter.com/search?q=%23CremoneseFiorentina) | N/A |
 | 6 | [#100x100ItaliaSpecial](http://twitter.com/search?q=%23100x100ItaliaSpecial) | N/A |
-| 7 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 7 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
 | 8 | [Rosalbino](http://twitter.com/search?q=Rosalbino) | N/A |
-| 9 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 10 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 12 | [Gennaro](http://twitter.com/search?q=Gennaro) | N/A |
-| 13 | [Valeria Marini](http://twitter.com/search?q=Valeria+Marini) | N/A |
-| 14 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 15 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 16 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
-| 17 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 18 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 19 | [Suma](http://twitter.com/search?q=Suma) | N/A |
-| 20 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
-| 21 | [Vulcano](http://twitter.com/search?q=Vulcano) | N/A |
-| 22 | [Nunzio](http://twitter.com/search?q=Nunzio) | N/A |
-| 23 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
-| 24 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
-| 25 | [Lotito](http://twitter.com/search?q=Lotito) | N/A |
-| 26 | [Biraghi](http://twitter.com/search?q=Biraghi) | N/A |
-| 27 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 28 | [moratti](http://twitter.com/search?q=moratti) | N/A |
-| 29 | [Simona](http://twitter.com/search?q=Simona) | N/A |
-| 30 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 31 | [Perin](http://twitter.com/search?q=Perin) | N/A |
-| 32 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 33 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 34 | [MARIO MARIO](http://twitter.com/search?q=MARIO+MARIO) | N/A |
-| 35 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 36 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
-| 37 | [Samir](http://twitter.com/search?q=Samir) | N/A |
-| 38 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 39 | [Italia 1](http://twitter.com/search?q=Italia+1) | N/A |
-| 40 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 41 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 42 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 43 | [graziani](http://twitter.com/search?q=graziani) | N/A |
-| 44 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 45 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 46 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 47 | [Fedriga](http://twitter.com/search?q=Fedriga) | N/A |
-| 48 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 49 | [Cesari](http://twitter.com/search?q=Cesari) | N/A |
-| 50 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 9 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 10 | [Pierino](http://twitter.com/search?q=Pierino) | N/A |
+| 11 | [Valeria Marini](http://twitter.com/search?q=Valeria+Marini) | N/A |
+| 12 | [Suma](http://twitter.com/search?q=Suma) | N/A |
+| 13 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 14 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
+| 15 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
+| 16 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
+| 17 | [Bellissime](http://twitter.com/search?q=Bellissime) | N/A |
+| 18 | [Lotito](http://twitter.com/search?q=Lotito) | N/A |
+| 19 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 20 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 21 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
+| 22 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 23 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
+| 24 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 25 | [#MatrimonioAPrimaVista](http://twitter.com/search?q=%23MatrimonioAPrimaVista) | N/A |
+| 26 | [#SilvioBerlusconi](http://twitter.com/search?q=%23SilvioBerlusconi) | N/A |
+| 27 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 28 | [#provareAncora](http://twitter.com/search?q=%23provareAncora) | N/A |
+| 29 | [#chilhavisters](http://twitter.com/search?q=%23chilhavisters) | N/A |
+| 30 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 31 | [#BarcaReal](http://twitter.com/search?q=%23BarcaReal) | N/A |
+| 32 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
+| 33 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 34 | [#RealMadrid](http://twitter.com/search?q=%23RealMadrid) | N/A |
+| 35 | [#Renzi](http://twitter.com/search?q=%23Renzi) | N/A |
+| 36 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 37 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 38 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
+| 39 | [#AdimFarah](http://twitter.com/search?q=%23AdimFarah) | N/A |
+| 40 | [#5aprile](http://twitter.com/search?q=%235aprile) | N/A |
 
 
 

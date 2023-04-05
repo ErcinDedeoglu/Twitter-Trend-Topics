@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-04-05 20:17:25 UTC`
+📆 Last Updated: `2023-04-05 21:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
-| 2 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 3 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 4 | [#FCBRMA](http://twitter.com/search?q=%23FCBRMA) | N/A |
-| 5 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 6 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 7 | [Realu](http://twitter.com/search?q=Realu) | N/A |
-| 8 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 9 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 10 | [#allthingsdevours](http://twitter.com/search?q=%23allthingsdevours) | N/A |
-| 11 | [Lewym](http://twitter.com/search?q=Lewym) | N/A |
-| 12 | [Order Orła Białego](http://twitter.com/search?q=Order+Or%c5%82a+Bia%c5%82ego) | N/A |
-| 13 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 14 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
-| 15 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 16 | [Jastrzębie](http://twitter.com/search?q=Jastrz%c4%99bie) | N/A |
-| 17 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 19 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
-| 20 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
-| 21 | [henryk kowalczyk](http://twitter.com/search?q=henryk+kowalczyk) | N/A |
-| 22 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 23 | [Duda](http://twitter.com/search?q=Duda) | N/A |
-| 24 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 25 | [KKS Kalisz](http://twitter.com/search?q=KKS+Kalisz) | N/A |
-| 26 | [Przewodów](http://twitter.com/search?q=Przewod%c3%b3w) | N/A |
-| 27 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 28 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 29 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 30 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
-| 31 | [Katyń](http://twitter.com/search?q=Katy%c5%84) | N/A |
-| 32 | [TVP Sport](http://twitter.com/search?q=TVP+Sport) | N/A |
-| 33 | [Judasza](http://twitter.com/search?q=Judasza) | N/A |
-| 34 | [Tchou](http://twitter.com/search?q=Tchou) | N/A |
-| 35 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
-| 36 | [Zamku Królewskim](http://twitter.com/search?q=Zamku+Kr%c3%b3lewskim) | N/A |
-| 37 | [Ziemkiewicz](http://twitter.com/search?q=Ziemkiewicz) | N/A |
-| 38 | [Bartosiaka](http://twitter.com/search?q=Bartosiaka) | N/A |
-| 39 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
-| 40 | [bartosz salamon](http://twitter.com/search?q=bartosz+salamon) | N/A |
-| 41 | [Łęcznej](http://twitter.com/search?q=%c5%81%c4%99cznej) | N/A |
-| 42 | [Pałacu Prezydenckim](http://twitter.com/search?q=Pa%c5%82acu+Prezydenckim) | N/A |
-| 43 | [Spokojnej](http://twitter.com/search?q=Spokojnej) | N/A |
-| 44 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 45 | [Ukraińcom](http://twitter.com/search?q=Ukrai%c5%84com) | N/A |
-| 46 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 47 | [Barcy](http://twitter.com/search?q=Barcy) | N/A |
-| 48 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 49 | [Europejskiej Partii Ludowej](http://twitter.com/search?q=Europejskiej+Partii+Ludowej) | N/A |
+| 1 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 2 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
+| 3 | [#FCBRMA](http://twitter.com/search?q=%23FCBRMA) | N/A |
+| 4 | [Realu](http://twitter.com/search?q=Realu) | N/A |
+| 5 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 6 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 7 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 8 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 9 | [Barcelony](http://twitter.com/search?q=Barcelony) | N/A |
+| 10 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 11 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 12 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
+| 13 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
+| 14 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 15 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 16 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 17 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 18 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
+| 19 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 20 | [Lewym](http://twitter.com/search?q=Lewym) | N/A |
+| 21 | [Jastrzębie](http://twitter.com/search?q=Jastrz%c4%99bie) | N/A |
+| 22 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 23 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
+| 24 | [Lipska](http://twitter.com/search?q=Lipska) | N/A |
+| 25 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 26 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 27 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 28 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
+| 29 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 30 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 31 | [Order Orła Białego](http://twitter.com/search?q=Order+Or%c5%82a+Bia%c5%82ego) | N/A |
+| 32 | [Zełenski](http://twitter.com/search?q=Ze%c5%82enski) | N/A |
+| 33 | [Ciekawe](http://twitter.com/search?q=Ciekawe) | N/A |
+| 34 | [Kalisz](http://twitter.com/search?q=Kalisz) | N/A |
+| 35 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 36 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
+| 37 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 38 | [Chyba](http://twitter.com/search?q=Chyba) | N/A |
+| 39 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 40 | [Bielecki](http://twitter.com/search?q=Bielecki) | N/A |
+| 41 | [szwecję](http://twitter.com/search?q=szwecj%c4%99) | N/A |
+| 42 | [kaleta](http://twitter.com/search?q=kaleta) | N/A |
+| 43 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 44 | [Madrytu](http://twitter.com/search?q=Madrytu) | N/A |
+| 45 | [Realem](http://twitter.com/search?q=Realem) | N/A |
+| 46 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 47 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 48 | [Przewodów](http://twitter.com/search?q=Przewod%c3%b3w) | N/A |
+| 49 | [Modricia](http://twitter.com/search?q=Modricia) | N/A |
 
 
 

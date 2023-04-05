@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-04-05 20:18:08 UTC`
+📆 Last Updated: `2023-04-05 21:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,41 @@ This is top 50 for Australia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 2 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
-| 5 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 6 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 7 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 8 | [America](http://twitter.com/search?q=America) | N/A |
-| 9 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 10 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 11 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 12 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
-| 13 | [#qanda](http://twitter.com/search?q=%23qanda) | N/A |
-| 14 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 15 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 16 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
-| 17 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 18 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 19 | [nsw police](http://twitter.com/search?q=nsw+police) | N/A |
-| 20 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 21 | [Australians](http://twitter.com/search?q=Australians) | N/A |
-| 22 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 23 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 24 | [Ann Lesley Smith](http://twitter.com/search?q=Ann+Lesley+Smith) | N/A |
-| 25 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 26 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 27 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 28 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 29 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 4 | [#MUNBRE](http://twitter.com/search?q=%23MUNBRE) | N/A |
+| 5 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 6 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 7 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 8 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 9 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 10 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
+| 11 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 12 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 13 | [#VoteNOAustralia](http://twitter.com/search?q=%23VoteNOAustralia) | N/A |
+| 14 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 15 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 16 | [America](http://twitter.com/search?q=America) | N/A |
+| 17 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 19 | [Grant](http://twitter.com/search?q=Grant) | N/A |
+| 20 | [Georgie Stone](http://twitter.com/search?q=Georgie+Stone) | N/A |
+| 21 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 22 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
+| 23 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 25 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 26 | [Ann Lesley Smith](http://twitter.com/search?q=Ann+Lesley+Smith) | N/A |
+| 27 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 28 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 29 | [New York](http://twitter.com/search?q=New+York) | N/A |
 | 30 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 31 | [London](http://twitter.com/search?q=London) | N/A |
-| 32 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
-| 33 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 34 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 35 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 31 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
+| 32 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 33 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 34 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 35 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
 | 36 | [rishworth](http://twitter.com/search?q=rishworth) | N/A |
 | 37 | [Terence Kelly](http://twitter.com/search?q=Terence+Kelly) | N/A |
 | 38 | [taemin](http://twitter.com/search?q=taemin) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Australia
 | 40 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
 | 41 | [Lexus](http://twitter.com/search?q=Lexus) | N/A |
 | 42 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 43 | [Cam Smith](http://twitter.com/search?q=Cam+Smith) | N/A |
-| 44 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 45 | [Medicare](http://twitter.com/search?q=Medicare) | N/A |
-| 46 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 47 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
-| 48 | [Overwatch](http://twitter.com/search?q=Overwatch) | N/A |
-| 49 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
-| 50 | [Hawkesbury](http://twitter.com/search?q=Hawkesbury) | N/A |
+| 43 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 44 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 45 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 46 | [Blue Beetle](http://twitter.com/search?q=Blue+Beetle) | N/A |
+| 47 | [Overwatch](http://twitter.com/search?q=Overwatch) | N/A |
+| 48 | [hawkesbury](http://twitter.com/search?q=hawkesbury) | N/A |
+| 49 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 50 | [Mirabella](http://twitter.com/search?q=Mirabella) | N/A |
 
 
 

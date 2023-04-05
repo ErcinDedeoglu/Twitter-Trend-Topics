@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-04-05 20:17:44 UTC`
+📆 Last Updated: `2023-04-05 21:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,47 +22,47 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 5 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
 | 6 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 7 | [#GETRISINGTORISER](http://twitter.com/search?q=%23GETRISINGTORISER) | N/A |
-| 8 | [biker skull](http://twitter.com/search?q=biker+skull) | N/A |
-| 9 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 10 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 11 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 8 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 9 | [biker skull](http://twitter.com/search?q=biker+skull) | N/A |
+| 10 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 11 | [New York](http://twitter.com/search?q=New+York) | N/A |
 | 12 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
 | 13 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
 | 14 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 15 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
-| 16 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
+| 15 | [Grim Reaper](http://twitter.com/search?q=Grim+Reaper) | N/A |
+| 16 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
 | 17 | [Tool](http://twitter.com/search?q=Tool) | N/A |
-| 18 | [Grim Reaper](http://twitter.com/search?q=Grim+Reaper) | N/A |
+| 18 | [Cushion Cover](http://twitter.com/search?q=Cushion+Cover) | N/A |
 | 19 | [Motorcycle Skull](http://twitter.com/search?q=Motorcycle+Skull) | N/A |
 | 20 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 21 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
-| 22 | [Cushion Cover](http://twitter.com/search?q=Cushion+Cover) | N/A |
-| 23 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 24 | [nhật](http://twitter.com/search?q=nh%e1%ba%adt) | N/A |
-| 25 | [kiểu](http://twitter.com/search?q=ki%e1%bb%83u) | N/A |
+| 21 | [Happy Easter 2023](http://twitter.com/search?q=Happy+Easter+2023) | N/A |
+| 22 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 23 | [nhật](http://twitter.com/search?q=nh%e1%ba%adt) | N/A |
+| 24 | [kiểu](http://twitter.com/search?q=ki%e1%bb%83u) | N/A |
+| 25 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
 | 26 | [Rose Skull](http://twitter.com/search?q=Rose+Skull) | N/A |
 | 27 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 28 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
-| 29 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 30 | [đồng](http://twitter.com/search?q=%c4%91%e1%bb%93ng) | N/A |
-| 31 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 32 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 33 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 34 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 35 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
-| 36 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 37 | [hàng](http://twitter.com/search?q=h%c3%a0ng) | N/A |
-| 38 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
-| 39 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 40 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
-| 41 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 28 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
+| 29 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
+| 30 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 31 | [đồng](http://twitter.com/search?q=%c4%91%e1%bb%93ng) | N/A |
+| 32 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
+| 33 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 34 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 35 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 36 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
+| 37 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 38 | [hàng](http://twitter.com/search?q=h%c3%a0ng) | N/A |
+| 39 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
+| 40 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 41 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
 | 42 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
 | 43 | [Ngày](http://twitter.com/search?q=Ng%c3%a0y) | N/A |
 | 44 | [TTTT](http://twitter.com/search?q=TTTT) | N/A |
 | 45 | [chéo](http://twitter.com/search?q=ch%c3%a9o) | N/A |
 | 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 47 | [hyuk](http://twitter.com/search?q=hyuk) | N/A |
-| 48 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
+| 48 | [ho chi minh city](http://twitter.com/search?q=ho+chi+minh+city) | N/A |
 | 49 | [America](http://twitter.com/search?q=America) | N/A |
 
 

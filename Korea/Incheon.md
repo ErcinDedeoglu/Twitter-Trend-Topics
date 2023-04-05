@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Incheon
 
-📆 Last Updated: `2023-04-05 20:17:41 UTC`
+📆 Last Updated: `2023-04-05 21:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for [Korea](</Korea>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [바퀴벌레](http://twitter.com/search?q=%eb%b0%94%ed%80%b4%eb%b2%8c%eb%a0%88) | N/A |
-| 2 | [#민규생일은_아름답기를_따뜻하길](http://twitter.com/search?q=%23%eb%af%bc%ea%b7%9c%ec%83%9d%ec%9d%bc%ec%9d%80_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b8%b0%eb%a5%bc_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b8%b8) | N/A |
-| 3 | [#네글자로_된_가슴뛰는_말을_해보자](http://twitter.com/search?q=%23%eb%84%a4%ea%b8%80%ec%9e%90%eb%a1%9c_%eb%90%9c_%ea%b0%80%ec%8a%b4%eb%9b%b0%eb%8a%94_%eb%a7%90%ec%9d%84_%ed%95%b4%eb%b3%b4%ec%9e%90) | N/A |
-| 4 | [퀄리티승부](http://twitter.com/search?q=%ed%80%84%eb%a6%ac%ed%8b%b0%ec%8a%b9%eb%b6%80) | N/A |
+| 1 | [퀄리티승부](http://twitter.com/search?q=%ed%80%84%eb%a6%ac%ed%8b%b0%ec%8a%b9%eb%b6%80) | N/A |
+| 2 | [바퀴벌레](http://twitter.com/search?q=%eb%b0%94%ed%80%b4%eb%b2%8c%eb%a0%88) | N/A |
+| 3 | [#민규생일은_아름답기를_따뜻하길](http://twitter.com/search?q=%23%eb%af%bc%ea%b7%9c%ec%83%9d%ec%9d%bc%ec%9d%80_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b8%b0%eb%a5%bc_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b8%b8) | N/A |
+| 4 | [#네글자로_된_가슴뛰는_말을_해보자](http://twitter.com/search?q=%23%eb%84%a4%ea%b8%80%ec%9e%90%eb%a1%9c_%eb%90%9c_%ea%b0%80%ec%8a%b4%eb%9b%b0%eb%8a%94_%eb%a7%90%ec%9d%84_%ed%95%b4%eb%b3%b4%ec%9e%90) | N/A |
 | 5 | [#IWannaStayWithGYU](http://twitter.com/search?q=%23IWannaStayWithGYU) | N/A |
 | 6 | [모든인증가능](http://twitter.com/search?q=%eb%aa%a8%eb%93%a0%ec%9d%b8%ec%a6%9d%ea%b0%80%eb%8a%a5) | N/A |
 | 7 | [#OnlineMidWeekWord](http://twitter.com/search?q=%23OnlineMidWeekWord) | N/A |
 | 8 | [유형별 4단어](http://twitter.com/search?q=%ec%9c%a0%ed%98%95%eb%b3%84+4%eb%8b%a8%ec%96%b4) | N/A |
 | 9 | [#LikeCrazyNo1Hot100](http://twitter.com/search?q=%23LikeCrazyNo1Hot100) | N/A |
-| 10 | [도지코인](http://twitter.com/search?q=%eb%8f%84%ec%a7%80%ec%bd%94%ec%9d%b8) | N/A |
-| 11 | [자고 했을때](http://twitter.com/search?q=%ec%9e%90%ea%b3%a0+%ed%96%88%ec%9d%84%eb%95%8c) | N/A |
+| 10 | [자고 했을때](http://twitter.com/search?q=%ec%9e%90%ea%b3%a0+%ed%96%88%ec%9d%84%eb%95%8c) | N/A |
+| 11 | [도지코인](http://twitter.com/search?q=%eb%8f%84%ec%a7%80%ec%bd%94%ec%9d%b8) | N/A |
 | 12 | [스파이더맨](http://twitter.com/search?q=%ec%8a%a4%ed%8c%8c%ec%9d%b4%eb%8d%94%eb%a7%a8) | N/A |
 | 13 | [갑타 명대사](http://twitter.com/search?q=%ea%b0%91%ed%83%80+%eb%aa%85%eb%8c%80%ec%82%ac) | N/A |
 | 14 | [아이맥스](http://twitter.com/search?q=%ec%95%84%ec%9d%b4%eb%a7%a5%ec%8a%a4) | N/A |
@@ -35,22 +35,22 @@ This is top 50 for [Korea](</Korea>)
 | 18 | [코스튬 안무영상](http://twitter.com/search?q=%ec%bd%94%ec%8a%a4%ed%8a%ac+%ec%95%88%eb%ac%b4%ec%98%81%ec%83%81) | N/A |
 | 19 | [캐릭터 찾기](http://twitter.com/search?q=%ec%ba%90%eb%a6%ad%ed%84%b0+%ec%b0%be%ea%b8%b0) | N/A |
 | 20 | [슬램덩크](http://twitter.com/search?q=%ec%8a%ac%eb%9e%a8%eb%8d%a9%ed%81%ac) | 슬램덩크 (slam dunk) is a term used in basketball to describe a powerful, spectacular dunk shot. It is also used as a metaphor for achieving something difficult or impossible. In English, it can be translated as "slam dunk". |
-| 21 | [남돌과 확률](http://twitter.com/search?q=%eb%82%a8%eb%8f%8c%ea%b3%bc+%ed%99%95%eb%a5%a0) | N/A |
-| 22 | [당신의 프세카](http://twitter.com/search?q=%eb%8b%b9%ec%8b%a0%ec%9d%98+%ed%94%84%ec%84%b8%ec%b9%b4) | N/A |
-| 23 | [시바견 뭐임](http://twitter.com/search?q=%ec%8b%9c%eb%b0%94%ea%b2%ac+%eb%ad%90%ec%9e%84) | N/A |
-| 24 | [다음날 밥상차림](http://twitter.com/search?q=%eb%8b%a4%ec%9d%8c%eb%82%a0+%eb%b0%a5%ec%83%81%ec%b0%a8%eb%a6%bc) | N/A |
-| 25 | [일론머스크](http://twitter.com/search?q=%ec%9d%bc%eb%a1%a0%eb%a8%b8%ec%8a%a4%ed%81%ac) | N/A |
-| 26 | [동거하는 페어](http://twitter.com/search?q=%eb%8f%99%ea%b1%b0%ed%95%98%eb%8a%94+%ed%8e%98%ec%96%b4) | N/A |
-| 27 | [쿠로코의 농구](http://twitter.com/search?q=%ec%bf%a0%eb%a1%9c%ec%bd%94%ec%9d%98+%eb%86%8d%ea%b5%ac) | N/A |
-| 28 | [동물잠옷](http://twitter.com/search?q=%eb%8f%99%eb%ac%bc%ec%9e%a0%ec%98%b7) | N/A |
-| 29 | [닭한마리](http://twitter.com/search?q=%eb%8b%ad%ed%95%9c%eb%a7%88%eb%a6%ac) | N/A |
-| 30 | [슈퍼캐럿봉](http://twitter.com/search?q=%ec%8a%88%ed%8d%bc%ec%ba%90%eb%9f%bf%eb%b4%89) | N/A |
+| 21 | [당신의 프세카](http://twitter.com/search?q=%eb%8b%b9%ec%8b%a0%ec%9d%98+%ed%94%84%ec%84%b8%ec%b9%b4) | N/A |
+| 22 | [시바견 뭐임](http://twitter.com/search?q=%ec%8b%9c%eb%b0%94%ea%b2%ac+%eb%ad%90%ec%9e%84) | N/A |
+| 23 | [다음날 밥상차림](http://twitter.com/search?q=%eb%8b%a4%ec%9d%8c%eb%82%a0+%eb%b0%a5%ec%83%81%ec%b0%a8%eb%a6%bc) | N/A |
+| 24 | [일론머스크](http://twitter.com/search?q=%ec%9d%bc%eb%a1%a0%eb%a8%b8%ec%8a%a4%ed%81%ac) | N/A |
+| 25 | [동거하는 페어](http://twitter.com/search?q=%eb%8f%99%ea%b1%b0%ed%95%98%eb%8a%94+%ed%8e%98%ec%96%b4) | N/A |
+| 26 | [쿠로코의 농구](http://twitter.com/search?q=%ec%bf%a0%eb%a1%9c%ec%bd%94%ec%9d%98+%eb%86%8d%ea%b5%ac) | N/A |
+| 27 | [동물잠옷](http://twitter.com/search?q=%eb%8f%99%eb%ac%bc%ec%9e%a0%ec%98%b7) | N/A |
+| 28 | [닭한마리](http://twitter.com/search?q=%eb%8b%ad%ed%95%9c%eb%a7%88%eb%a6%ac) | N/A |
+| 29 | [슈퍼캐럿봉](http://twitter.com/search?q=%ec%8a%88%ed%8d%bc%ec%ba%90%eb%9f%bf%eb%b4%89) | N/A |
+| 30 | [남돌과 확률](http://twitter.com/search?q=%eb%82%a8%eb%8f%8c%ea%b3%bc+%ed%99%95%eb%a5%a0) | N/A |
 | 31 | [시바이누](http://twitter.com/search?q=%ec%8b%9c%eb%b0%94%ec%9d%b4%eb%88%84) | N/A |
 | 32 | [라이프위버](http://twitter.com/search?q=%eb%9d%bc%ec%9d%b4%ed%94%84%ec%9c%84%eb%b2%84) | N/A |
-| 33 | [스킵과 로퍼](http://twitter.com/search?q=%ec%8a%a4%ed%82%b5%ea%b3%bc+%eb%a1%9c%ed%8d%bc) | N/A |
-| 34 | [아이마스](http://twitter.com/search?q=%ec%95%84%ec%9d%b4%eb%a7%88%ec%8a%a4) | N/A |
-| 35 | [양곡관리법](http://twitter.com/search?q=%ec%96%91%ea%b3%a1%ea%b4%80%eb%a6%ac%eb%b2%95) | N/A |
-| 36 | [가사 보고](http://twitter.com/search?q=%ea%b0%80%ec%82%ac+%eb%b3%b4%ea%b3%a0) | N/A |
+| 33 | [아이마스](http://twitter.com/search?q=%ec%95%84%ec%9d%b4%eb%a7%88%ec%8a%a4) | N/A |
+| 34 | [양곡관리법](http://twitter.com/search?q=%ec%96%91%ea%b3%a1%ea%b4%80%eb%a6%ac%eb%b2%95) | N/A |
+| 35 | [가사 보고](http://twitter.com/search?q=%ea%b0%80%ec%82%ac+%eb%b3%b4%ea%b3%a0) | N/A |
+| 36 | [스킵과 로퍼](http://twitter.com/search?q=%ec%8a%a4%ed%82%b5%ea%b3%bc+%eb%a1%9c%ed%8d%bc) | N/A |
 | 37 | [좀아포틴](http://twitter.com/search?q=%ec%a2%80%ec%95%84%ed%8f%ac%ed%8b%b4) | N/A |
 | 38 | [사람 pt](http://twitter.com/search?q=%ec%82%ac%eb%9e%8c+pt) | N/A |
 | 39 | [디코 아이디](http://twitter.com/search?q=%eb%94%94%ec%bd%94+%ec%95%84%ec%9d%b4%eb%94%94) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [Korea](</Korea>)
 | 47 | [비티 콘서트](http://twitter.com/search?q=%eb%b9%84%ed%8b%b0+%ec%bd%98%ec%84%9c%ed%8a%b8) | N/A |
 | 48 | [새븐틴 승관](http://twitter.com/search?q=%ec%83%88%eb%b8%90%ed%8b%b4+%ec%8a%b9%ea%b4%80) | N/A |
 | 49 | [도로공사](http://twitter.com/search?q=%eb%8f%84%eb%a1%9c%ea%b3%b5%ec%82%ac) | N/A |
-| 50 | [우리엄마](http://twitter.com/search?q=%ec%9a%b0%eb%a6%ac%ec%97%84%eb%a7%88) | N/A |
+| 50 | [포퓰리즘](http://twitter.com/search?q=%ed%8f%ac%ed%93%b0%eb%a6%ac%ec%a6%98) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-05 20:17:33 UTC`
+📆 Last Updated: `2023-04-05 21:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 2 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
-| 3 | [#WEURO2025](http://twitter.com/search?q=%23WEURO2025) | N/A |
-| 4 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 5 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 6 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 7 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 8 | [Vergleich](http://twitter.com/search?q=Vergleich) | N/A |
-| 9 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 11 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 12 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 13 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
-| 14 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 15 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
-| 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 17 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 1 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 2 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 3 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 4 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
+| 5 | [#WEURO2025](http://twitter.com/search?q=%23WEURO2025) | N/A |
+| 6 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 7 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 8 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 10 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 11 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 12 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 13 | [teilzeit](http://twitter.com/search?q=teilzeit) | N/A |
+| 14 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
+| 15 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 16 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 17 | [Servette](http://twitter.com/search?q=Servette) | N/A |
 | 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 20 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 21 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 22 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 23 | [Angebot](http://twitter.com/search?q=Angebot) | N/A |
-| 24 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
-| 25 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 26 | [special rapporteur](http://twitter.com/search?q=special+rapporteur) | N/A |
-| 27 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 28 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 30 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 31 | [Demos](http://twitter.com/search?q=Demos) | N/A |
-| 32 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 33 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
-| 34 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 35 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 36 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 37 | [Armee](http://twitter.com/search?q=Armee) | N/A |
-| 38 | [Verein](http://twitter.com/search?q=Verein) | N/A |
-| 39 | [Konflikt](http://twitter.com/search?q=Konflikt) | N/A |
-| 40 | [Trottel](http://twitter.com/search?q=Trottel) | N/A |
-| 41 | [Profilbild](http://twitter.com/search?q=Profilbild) | N/A |
-| 42 | [Preise](http://twitter.com/search?q=Preise) | N/A |
-| 43 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 44 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
-| 45 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
-| 46 | [Servette](http://twitter.com/search?q=Servette) | N/A |
-| 47 | [Szene](http://twitter.com/search?q=Szene) | N/A |
-| 48 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 19 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 20 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 21 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
+| 22 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 23 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 25 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 27 | [Demos](http://twitter.com/search?q=Demos) | N/A |
+| 28 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 29 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 30 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
+| 31 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
+| 32 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
+| 33 | [Armee](http://twitter.com/search?q=Armee) | N/A |
+| 34 | [Konflikt](http://twitter.com/search?q=Konflikt) | N/A |
+| 35 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 36 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
+| 37 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 38 | [Szene](http://twitter.com/search?q=Szene) | N/A |
+| 39 | [Nord](http://twitter.com/search?q=Nord) | N/A |
+| 40 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 41 | [Arzt](http://twitter.com/search?q=Arzt) | N/A |
+| 42 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 43 | [Licht](http://twitter.com/search?q=Licht) | N/A |
+| 44 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 45 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
+| 46 | [Bund](http://twitter.com/search?q=Bund) | N/A |
+| 47 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
+| 48 | [Familien](http://twitter.com/search?q=Familien) | N/A |
 
 
 
