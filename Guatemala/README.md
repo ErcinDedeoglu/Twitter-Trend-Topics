@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-05 18:17:55 UTC`
+📆 Last Updated: `2023-04-05 19:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [foppa](http://twitter.com/search?q=foppa) | N/A |
-| 3 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
-| 4 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 5 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 6 | [#SemanaSanta](http://twitter.com/search?q=%23SemanaSanta) | N/A |
-| 7 | [quiñonez](http://twitter.com/search?q=qui%c3%b1onez) | N/A |
-| 8 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 9 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 10 | [#elgobdelosguatemaltecos](http://twitter.com/search?q=%23elgobdelosguatemaltecos) | N/A |
-| 11 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
-| 12 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 13 | [jesús de la merced](http://twitter.com/search?q=jes%c3%bas+de+la+merced) | N/A |
-| 14 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 15 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 16 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 17 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 18 | [Virgen](http://twitter.com/search?q=Virgen) | N/A |
-| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 20 | [#accionesquetransforman](http://twitter.com/search?q=%23accionesquetransforman) | N/A |
-| 21 | [coatepeque](http://twitter.com/search?q=coatepeque) | N/A |
-| 22 | [La Reseña](http://twitter.com/search?q=La+Rese%c3%b1a) | N/A |
-| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 24 | [patrón jurado](http://twitter.com/search?q=patr%c3%b3n+jurado) | N/A |
-| 25 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 26 | [jimmy morales](http://twitter.com/search?q=jimmy+morales) | N/A |
-| 27 | [Walmart](http://twitter.com/search?q=Walmart) | N/A |
-| 28 | [Confirmo](http://twitter.com/search?q=Confirmo) | N/A |
-| 29 | [Canela](http://twitter.com/search?q=Canela) | N/A |
-| 30 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 31 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 32 | [izabal](http://twitter.com/search?q=izabal) | N/A |
-| 33 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 34 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 35 | [San Pedro](http://twitter.com/search?q=San+Pedro) | N/A |
-| 36 | [Petén](http://twitter.com/search?q=Pet%c3%a9n) | N/A |
-| 37 | [Depende](http://twitter.com/search?q=Depende) | N/A |
-| 38 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 39 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
-| 40 | [calzada roosevelt](http://twitter.com/search?q=calzada+roosevelt) | N/A |
-| 41 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 42 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 43 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 44 | [Ayyy](http://twitter.com/search?q=Ayyy) | N/A |
-| 45 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 46 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 47 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 48 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 49 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 50 | [Interesante](http://twitter.com/search?q=Interesante) | N/A |
+| 1 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 3 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 4 | [#ElClásico](http://twitter.com/search?q=%23ElCl%c3%a1sico) | N/A |
+| 5 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 6 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 7 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
+| 8 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 9 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 10 | [Municipal](http://twitter.com/search?q=Municipal) | N/A |
+| 11 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 12 | [Xelajú MC](http://twitter.com/search?q=Xelaj%c3%ba+MC) | N/A |
+| 13 | [Foppa](http://twitter.com/search?q=Foppa) | N/A |
+| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 15 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 16 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 17 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 18 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 19 | [#Clausura2023](http://twitter.com/search?q=%23Clausura2023) | N/A |
+| 20 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 21 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 22 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 24 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 25 | [#SpiderManAcrossTheSpiderVerse](http://twitter.com/search?q=%23SpiderManAcrossTheSpiderVerse) | N/A |
+| 26 | [jesús de la merced](http://twitter.com/search?q=jes%c3%bas+de+la+merced) | N/A |
+| 27 | [CICIG](http://twitter.com/search?q=CICIG) | N/A |
+| 28 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 29 | [NO VALE MENTIR](http://twitter.com/search?q=NO+VALE+MENTIR) | N/A |
+| 30 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 31 | [Canela](http://twitter.com/search?q=Canela) | N/A |
+| 32 | [Comunicaciones](http://twitter.com/search?q=Comunicaciones) | N/A |
+| 33 | [Cancún](http://twitter.com/search?q=Canc%c3%ban) | N/A |
+| 34 | [SAT.](http://twitter.com/search?q=SAT.) | N/A |
+| 35 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
+| 36 | [el taquero](http://twitter.com/search?q=el+taquero) | N/A |
+| 37 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 38 | [quiñonez](http://twitter.com/search?q=qui%c3%b1onez) | N/A |
+| 39 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 40 | [patrón jurado](http://twitter.com/search?q=patr%c3%b3n+jurado) | N/A |
+| 41 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 42 | [Arzu](http://twitter.com/search?q=Arzu) | N/A |
+| 43 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 44 | [Los Ángeles](http://twitter.com/search?q=Los+%c3%81ngeles) | N/A |
+| 45 | [Cheems](http://twitter.com/search?q=Cheems) | N/A |
+| 46 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 47 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 48 | [calzada roosevelt](http://twitter.com/search?q=calzada+roosevelt) | N/A |
+| 49 | [Virgen](http://twitter.com/search?q=Virgen) | N/A |
+| 50 | [Jalapa](http://twitter.com/search?q=Jalapa) | N/A |
 
 
 

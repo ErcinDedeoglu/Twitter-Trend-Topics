@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-04-05 18:17:22 UTC`
+📆 Last Updated: `2023-04-05 19:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#feyaja](http://twitter.com/search?q=%23feyaja) | #Feyaja is a hashtag used on social media to express support for the LGBTQ+ community in Nigeria. It is derived from the Yoruba phrase "Feyi ja," which translates to "Love conquers all." |
-| 2 | [#verkiezingsdebat](http://twitter.com/search?q=%23verkiezingsdebat) | N/A |
-| 3 | [#SPApsv](http://twitter.com/search?q=%23SPApsv) | N/A |
-| 4 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
-| 5 | [Bokito](http://twitter.com/search?q=Bokito) | N/A |
-| 6 | [Hermans](http://twitter.com/search?q=Hermans) | N/A |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
-| 9 | [#knvbbeker](http://twitter.com/search?q=%23knvbbeker) | N/A |
-| 10 | [#Voorschoten](http://twitter.com/search?q=%23Voorschoten) | N/A |
-| 11 | [Azarkan](http://twitter.com/search?q=Azarkan) | N/A |
-| 12 | [Diergaarde Blijdorp](http://twitter.com/search?q=Diergaarde+Blijdorp) | N/A |
-| 13 | [Heerma](http://twitter.com/search?q=Heerma) | N/A |
-| 14 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
-| 15 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 16 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
-| 17 | [drommel](http://twitter.com/search?q=drommel) | N/A |
-| 18 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
-| 19 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 20 | [Jutta](http://twitter.com/search?q=Jutta) | N/A |
-| 21 | [Caribische](http://twitter.com/search?q=Caribische) | N/A |
-| 22 | [Teze](http://twitter.com/search?q=Teze) | N/A |
-| 23 | [Sint-Oedenrode](http://twitter.com/search?q=Sint-Oedenrode) | N/A |
-| 24 | [Paternotte](http://twitter.com/search?q=Paternotte) | N/A |
-| 25 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 26 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 27 | [guus til](http://twitter.com/search?q=guus+til) | N/A |
-| 28 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
-| 29 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 30 | [Van Haga](http://twitter.com/search?q=Van+Haga) | N/A |
-| 31 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
-| 32 | [Ouwehand](http://twitter.com/search?q=Ouwehand) | N/A |
-| 33 | [Dassen](http://twitter.com/search?q=Dassen) | N/A |
-| 34 | [Lelystad](http://twitter.com/search?q=Lelystad) | N/A |
-| 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 36 | [Van Huffelen](http://twitter.com/search?q=Van+Huffelen) | N/A |
-| 37 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 38 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
-| 39 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 40 | [Stromae](http://twitter.com/search?q=Stromae) | N/A |
-| 41 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
-| 42 | [Tempelberg](http://twitter.com/search?q=Tempelberg) | N/A |
-| 43 | [Transavia](http://twitter.com/search?q=Transavia) | N/A |
-| 44 | [Raad van State](http://twitter.com/search?q=Raad+van+State) | N/A |
-| 45 | [Kaagje](http://twitter.com/search?q=Kaagje) | N/A |
-| 46 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
-| 47 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
-| 48 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
-| 49 | [Prorail](http://twitter.com/search?q=Prorail) | N/A |
-| 50 | [Edwin Evers](http://twitter.com/search?q=Edwin+Evers) | N/A |
+| 2 | [Baas](http://twitter.com/search?q=Baas) | N/A |
+| 3 | [#verkiezingsdebat](http://twitter.com/search?q=%23verkiezingsdebat) | N/A |
+| 4 | [#SPApsv](http://twitter.com/search?q=%23SPApsv) | N/A |
+| 5 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 6 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 7 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 8 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 9 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
+| 10 | [#ratw](http://twitter.com/search?q=%23ratw) | N/A |
+| 11 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 12 | [Bokito](http://twitter.com/search?q=Bokito) | N/A |
+| 13 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 14 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 15 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 16 | [Trauner](http://twitter.com/search?q=Trauner) | N/A |
+| 17 | [#knvbbeker](http://twitter.com/search?q=%23knvbbeker) | N/A |
+| 18 | [Jahanbakhsh](http://twitter.com/search?q=Jahanbakhsh) | N/A |
+| 19 | [Lindhout](http://twitter.com/search?q=Lindhout) | N/A |
+| 20 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 21 | [Hermans](http://twitter.com/search?q=Hermans) | N/A |
+| 22 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 23 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
+| 24 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 25 | [Hato](http://twitter.com/search?q=Hato) | N/A |
+| 26 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 27 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
+| 28 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 29 | [Azarkan](http://twitter.com/search?q=Azarkan) | N/A |
+| 30 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
+| 31 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 32 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 33 | [Voorschoten](http://twitter.com/search?q=Voorschoten) | N/A |
+| 34 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 35 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 36 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
+| 37 | [drommel](http://twitter.com/search?q=drommel) | N/A |
+| 38 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
+| 39 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 40 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
+| 41 | [Heerma](http://twitter.com/search?q=Heerma) | N/A |
+| 42 | [Wouke](http://twitter.com/search?q=Wouke) | N/A |
+| 43 | [Ouwehand](http://twitter.com/search?q=Ouwehand) | N/A |
+| 44 | [Sint-Oedenrode](http://twitter.com/search?q=Sint-Oedenrode) | N/A |
+| 45 | [Dassen](http://twitter.com/search?q=Dassen) | N/A |
+| 46 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 47 | [Van Haga](http://twitter.com/search?q=Van+Haga) | N/A |
+| 48 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 49 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 50 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
 
 
 

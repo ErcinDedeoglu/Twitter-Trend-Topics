@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-05 18:17:59 UTC`
+📆 Last Updated: `2023-04-05 19:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,45 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#tierradenadie5](http://twitter.com/search?q=%23tierradenadie5) | N/A |
-| 2 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 5 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
-| 6 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 7 | [#firstdates4a](http://twitter.com/search?q=%23firstdates4a) | N/A |
-| 8 | [GINÉS](http://twitter.com/search?q=GIN%c3%89S) | N/A |
-| 9 | [SAN MAMÉS](http://twitter.com/search?q=SAN+MAM%c3%89S) | N/A |
-| 10 | [YAIZA](http://twitter.com/search?q=YAIZA) | N/A |
-| 11 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
-| 12 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 13 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 14 | [PABLO IBÁÑEZ](http://twitter.com/search?q=PABLO+IB%c3%81%c3%91EZ) | N/A |
-| 15 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
-| 16 | [SERGIO HERRERA](http://twitter.com/search?q=SERGIO+HERRERA) | N/A |
-| 17 | [#LaIslaDeLasTentaciones11](http://twitter.com/search?q=%23LaIslaDeLasTentaciones11) | N/A |
-| 18 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
-| 19 | [bosco](http://twitter.com/search?q=bosco) | N/A |
-| 20 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 21 | [ZARRAGA](http://twitter.com/search?q=ZARRAGA) | N/A |
-| 22 | [Aless](http://twitter.com/search?q=Aless) | N/A |
-| 23 | [Miércoles Santo](http://twitter.com/search?q=Mi%c3%a9rcoles+Santo) | N/A |
-| 24 | [Lunes Santo](http://twitter.com/search?q=Lunes+Santo) | N/A |
-| 25 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 26 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 27 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 28 | [Helio](http://twitter.com/search?q=Helio) | N/A |
-| 29 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 30 | [ana sandra](http://twitter.com/search?q=ana+sandra) | N/A |
-| 31 | [Arrasate](http://twitter.com/search?q=Arrasate) | N/A |
-| 32 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
-| 33 | [BILBAO](http://twitter.com/search?q=BILBAO) | N/A |
-| 34 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 35 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 36 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 37 | [Yolanda Díaz](http://twitter.com/search?q=Yolanda+D%c3%adaz) | N/A |
-| 38 | [ADRI CONTRERAS](http://twitter.com/search?q=ADRI+CONTRERAS) | N/A |
-| 39 | [Raquel mosquera](http://twitter.com/search?q=Raquel+mosquera) | N/A |
-| 40 | [partido popular europeo](http://twitter.com/search?q=partido+popular+europeo) | N/A |
-| 41 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 42 | [Montecarlo](http://twitter.com/search?q=Montecarlo) | N/A |
-| 43 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 44 | [Iglesias](http://twitter.com/search?q=Iglesias) | N/A |
-| 45 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 46 | [UBON](http://twitter.com/search?q=UBON) | N/A |
-| 47 | [Palos de la Frontera](http://twitter.com/search?q=Palos+de+la+Frontera) | N/A |
-| 48 | [JONAN](http://twitter.com/search?q=JONAN) | N/A |
-| 49 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
-| 50 | [Kike García](http://twitter.com/search?q=Kike+Garc%c3%ada) | N/A |
+| 1 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 2 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 3 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 4 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 5 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 6 | [Minuto 10](http://twitter.com/search?q=Minuto+10) | N/A |
+| 7 | [Messi Messi](http://twitter.com/search?q=Messi+Messi) | N/A |
+| 8 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 9 | [#BarcelonaRealMadrid](http://twitter.com/search?q=%23BarcelonaRealMadrid) | N/A |
+| 10 | [El Camp Nou](http://twitter.com/search?q=El+Camp+Nou) | N/A |
+| 11 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 12 | [#LaCopaRTVE](http://twitter.com/search?q=%23LaCopaRTVE) | N/A |
+| 13 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 14 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 15 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 16 | [Vamos Barça](http://twitter.com/search?q=Vamos+Bar%c3%a7a) | N/A |
+| 17 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 18 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 19 | [VAMOS REAL](http://twitter.com/search?q=VAMOS+REAL) | N/A |
+| 20 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
+| 21 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 22 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
+| 23 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 24 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 25 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
+| 26 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 27 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 28 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 29 | [Carrera Oficial](http://twitter.com/search?q=Carrera+Oficial) | N/A |
+| 30 | [David Bisbal](http://twitter.com/search?q=David+Bisbal) | N/A |
+| 31 | [Feliz Semana Santa](http://twitter.com/search?q=Feliz+Semana+Santa) | N/A |
+| 32 | [Avilés](http://twitter.com/search?q=Avil%c3%a9s) | N/A |
+| 33 | [#MiércolesSanto](http://twitter.com/search?q=%23Mi%c3%a9rcolesSanto) | N/A |
+| 34 | [#LaCopaMola](http://twitter.com/search?q=%23LaCopaMola) | N/A |
+| 35 | [#CurseOfTheSeaRats](http://twitter.com/search?q=%23CurseOfTheSeaRats) | N/A |
+| 36 | [#AbrilPuertosMil](http://twitter.com/search?q=%23AbrilPuertosMil) | N/A |
+| 37 | [#YoMeRebelo5A](http://twitter.com/search?q=%23YoMeRebelo5A) | N/A |
+| 38 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
+| 39 | [#CuartosDeChampionsEnMovistar](http://twitter.com/search?q=%23CuartosDeChampionsEnMovistar) | N/A |
 
 
 

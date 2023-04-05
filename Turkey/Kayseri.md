@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-04-05 18:17:44 UTC`
+📆 Last Updated: `2023-04-05 19:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MescidiAksa](http://twitter.com/search?q=%23MescidiAksa) | N/A |
-| 2 | [#GSvİBFK](http://twitter.com/search?q=%23GSv%c4%b0BFK) | N/A |
-| 3 | [#Kudüs](http://twitter.com/search?q=%23Kud%c3%bcs) | N/A |
-| 4 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
-| 5 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 6 | [Müfettiş Özlükİstiyor](http://twitter.com/search?q=M%c3%bcfetti%c5%9f+%c3%96zl%c3%bck%c4%b0stiyor) | N/A |
-| 7 | [#AvukatlarGünü](http://twitter.com/search?q=%23AvukatlarG%c3%bcn%c3%bc) | N/A |
-| 8 | [DenklikteAdalet İstiyoruz](http://twitter.com/search?q=DenklikteAdalet+%c4%b0stiyoruz) | N/A |
-| 9 | [PatnosCezaevi Suçİşliyor](http://twitter.com/search?q=PatnosCezaevi+Su%c3%a7%c4%b0%c5%9fliyor) | N/A |
-| 10 | [Trabzon](http://twitter.com/search?q=Trabzon) | Trabzon is a city in northeastern Turkey, located on the Black Sea coast. It is the capital of Trabzon Province and one of the oldest cities in the country. The name Trabzon comes from the Greek word “Trapezounta”, which means “table” or “bench”. |
-| 11 | [Yerli Güç](http://twitter.com/search?q=Yerli+G%c3%bc%c3%a7) | N/A |
-| 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 13 | [iyikidoğdun erenalan](http://twitter.com/search?q=iyikido%c4%9fdun+erenalan) | N/A |
-| 14 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 15 | [denetim özlükistiyor](http://twitter.com/search?q=denetim+%c3%b6zl%c3%bckistiyor) | N/A |
-| 16 | [Koyun](http://twitter.com/search?q=Koyun) | N/A |
-| 17 | [İmarDerdi OlanMilyonlar](http://twitter.com/search?q=%c4%b0marDerdi+OlanMilyonlar) | N/A |
-| 18 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 19 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
-| 20 | [idris baluken](http://twitter.com/search?q=idris+baluken) | N/A |
-| 21 | [baykemaldenarkeosanatasöz](http://twitter.com/search?q=baykemaldenarkeosanatas%c3%b6z) | N/A |
-| 22 | [Togg](http://twitter.com/search?q=Togg) | N/A |
-| 23 | [xproject token](http://twitter.com/search?q=xproject+token) | N/A |
-| 24 | [Nureddin Nebati](http://twitter.com/search?q=Nureddin+Nebati) | N/A |
-| 25 | [bilenkazanır googleplaydeindir](http://twitter.com/search?q=bilenkazan%c4%b1r+googleplaydeindir) | N/A |
-| 26 | [Başbuğum](http://twitter.com/search?q=Ba%c5%9fbu%c4%9fum) | N/A |
-| 27 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
-| 28 | [Gününüz](http://twitter.com/search?q=G%c3%bcn%c3%bcn%c3%bcz) | N/A |
-| 29 | [SeçiminKilidi YapıKayıt](http://twitter.com/search?q=Se%c3%a7iminKilidi+Yap%c4%b1Kay%c4%b1t) | N/A |
-| 30 | [MİLLET ERDOĞAN DİYOR](http://twitter.com/search?q=M%c4%b0LLET+ERDO%c4%9eAN+D%c4%b0YOR) | N/A |
-| 31 | [Kıble Mescidi](http://twitter.com/search?q=K%c4%b1ble+Mescidi) | N/A |
-| 32 | [Ya Kahhar](http://twitter.com/search?q=Ya+Kahhar) | N/A |
-| 33 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
-| 34 | [Müslümanlara](http://twitter.com/search?q=M%c3%bcsl%c3%bcmanlara) | N/A |
-| 35 | [Meral](http://twitter.com/search?q=Meral) | N/A |
-| 36 | [ZirveSensin SedatPolat](http://twitter.com/search?q=ZirveSensin+SedatPolat) | N/A |
-| 37 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
-| 38 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
-| 39 | [Hakan Ceylan](http://twitter.com/search?q=Hakan+Ceylan) | N/A |
-| 40 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
-| 41 | [Komutanı Muhammed](http://twitter.com/search?q=Komutan%c4%b1+Muhammed) | N/A |
-| 42 | [Isparta](http://twitter.com/search?q=Isparta) | N/A |
-| 43 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
-| 44 | [Ülkemizde Milli Ağaç Bayramı](http://twitter.com/search?q=%c3%9clkemizde+Milli+A%c4%9fa%c3%a7+Bayram%c4%b1) | N/A |
-| 45 | [Takiyyeci Muhalefet](http://twitter.com/search?q=Takiyyeci+Muhalefet) | N/A |
-| 46 | [Tükenmişlik](http://twitter.com/search?q=T%c3%bckenmi%c5%9flik) | N/A |
-| 47 | [Serap Belet](http://twitter.com/search?q=Serap+Belet) | N/A |
-| 48 | [Senede 1](http://twitter.com/search?q=Senede+1) | N/A |
-| 49 | [Kürşad Oğuz](http://twitter.com/search?q=K%c3%bcr%c5%9fad+O%c4%9fuz) | N/A |
+| 1 | [#GSvİBFK](http://twitter.com/search?q=%23GSv%c4%b0BFK) | N/A |
+| 2 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
+| 3 | [DenklikteAdalet İstiyoruz](http://twitter.com/search?q=DenklikteAdalet+%c4%b0stiyoruz) | N/A |
+| 4 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
+| 5 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
+| 6 | [Kadir Sağlam](http://twitter.com/search?q=Kadir+Sa%c4%9flam) | N/A |
+| 7 | [#ÖzürDileÖzgürÖzel](http://twitter.com/search?q=%23%c3%96z%c3%bcrDile%c3%96zg%c3%bcr%c3%96zel) | N/A |
+| 8 | [#İNFKORUMA](http://twitter.com/search?q=%23%c4%b0NFKORUMA) | N/A |
+| 9 | [Lale Orta](http://twitter.com/search?q=Lale+Orta) | Lale Orta is a Turkish phrase meaning "tulip garden". It is often used to refer to a place of beauty and tranquility. |
+| 10 | [#ÇılgınTürk](http://twitter.com/search?q=%23%c3%87%c4%b1lg%c4%b1nT%c3%bcrk) | N/A |
+| 11 | [Kaan Ayhan](http://twitter.com/search?q=Kaan+Ayhan) | Kaan Ayhan is a Turkish name. It is composed of two words: Kaan, which means "lord" or "ruler," and Ayhan, which means "moon." In English, the name Kaan Ayhan can be translated to mean "Lord of the Moon." |
+| 12 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 13 | [Özgür Yankaya](http://twitter.com/search?q=%c3%96zg%c3%bcr+Yankaya) | N/A |
+| 14 | [PatnosCezaevi Suçİşliyor](http://twitter.com/search?q=PatnosCezaevi+Su%c3%a7%c4%b0%c5%9fliyor) | N/A |
+| 15 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
+| 16 | [Hakemler](http://twitter.com/search?q=Hakemler) | Hakemler is a Turkish word meaning "referees" or "umpires". It is used to refer to people who are responsible for making decisions and enforcing rules in a sporting event. |
+| 17 | [Ömer Ali](http://twitter.com/search?q=%c3%96mer+Ali) | N/A |
+| 18 | [AKSA SALDIRI ALTINDA](http://twitter.com/search?q=AKSA+SALDIRI+ALTINDA) | N/A |
+| 19 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
+| 20 | [Erman](http://twitter.com/search?q=Erman) | N/A |
+| 21 | [Rashica](http://twitter.com/search?q=Rashica) | Rashica is a surname of Albanian origin. It is derived from the word "rash" which means "joy" or "happiness". In English, it can be translated to mean "happy one". |
+| 22 | [KayıplarınSesini DuyanVarMı](http://twitter.com/search?q=Kay%c4%b1plar%c4%b1nSesini+DuyanVarM%c4%b1) | N/A |
+| 23 | [Vizeyi](http://twitter.com/search?q=Vizeyi) | N/A |
+| 24 | [TaşeronunOyu AyrımsızKadroya](http://twitter.com/search?q=Ta%c5%9feronunOyu+Ayr%c4%b1ms%c4%b1zKadroya) | N/A |
+| 25 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
+| 26 | [Müfettiş Özlükİstiyor](http://twitter.com/search?q=M%c3%bcfetti%c5%9f+%c3%96zl%c3%bck%c4%b0stiyor) | N/A |
+| 27 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 28 | [Eliyle](http://twitter.com/search?q=Eliyle) | N/A |
+| 29 | [İptal](http://twitter.com/search?q=%c4%b0ptal) | N/A |
+| 30 | [VAR'dan](http://twitter.com/search?q=VAR%27dan) | N/A |
+| 31 | [Kazımcan](http://twitter.com/search?q=Kaz%c4%b1mcan) | N/A |
+| 32 | [Hakemi](http://twitter.com/search?q=Hakemi) | N/A |
+| 33 | [Öncesinde](http://twitter.com/search?q=%c3%96ncesinde) | N/A |
+| 34 | [Penaltıyı](http://twitter.com/search?q=Penalt%c4%b1y%c4%b1) | N/A |
+| 35 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
+| 36 | [Operasyon](http://twitter.com/search?q=Operasyon) | N/A |
+| 37 | [STOP ISRAEL](http://twitter.com/search?q=STOP+ISRAEL) | N/A |
+| 38 | [Yerli Güç](http://twitter.com/search?q=Yerli+G%c3%bc%c3%a7) | N/A |
+| 39 | [Okan Buruk](http://twitter.com/search?q=Okan+Buruk) | Okan Buruk is a Turkish phrase that translates to "bad luck". It is used to express sympathy or commiserate with someone who has experienced misfortune. |
+| 40 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 41 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
+| 42 | [Kuzu](http://twitter.com/search?q=Kuzu) | N/A |
+| 43 | [#YıldızıdırParlayacak](http://twitter.com/search?q=%23Y%c4%b1ld%c4%b1z%c4%b1d%c4%b1rParlayacak) | N/A |
+| 44 | [#GalatasaraySK](http://twitter.com/search?q=%23GalatasaraySK) | N/A |
+| 45 | [#AKPyeOyYok](http://twitter.com/search?q=%23AKPyeOyYok) | N/A |
+| 46 | [#BursasporluVekilİstiyoruz](http://twitter.com/search?q=%23BursasporluVekil%c4%b0stiyoruz) | N/A |
+| 47 | [#CanımızaOkudunAKP](http://twitter.com/search?q=%23Can%c4%b1m%c4%b1zaOkudunAKP) | N/A |
+| 48 | [#AlparslanHocayaÖzgürlük](http://twitter.com/search?q=%23AlparslanHocaya%c3%96zg%c3%bcrl%c3%bck) | N/A |
+| 49 | [#habertürk](http://twitter.com/search?q=%23habert%c3%bcrk) | N/A |
 
 
 

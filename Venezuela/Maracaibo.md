@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracaibo
 
-📆 Last Updated: `2023-04-05 18:17:13 UTC`
+📆 Last Updated: `2023-04-05 19:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Venezuela](</Venezuela>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#5Abr](http://twitter.com/search?q=%235Abr) | N/A |
-| 2 | [#SemanaMayorEnAmor](http://twitter.com/search?q=%23SemanaMayorEnAmor) | N/A |
-| 3 | [#PuebloEnOraciónYPaz](http://twitter.com/search?q=%23PuebloEnOraci%c3%b3nYPaz) | N/A |
-| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 5 | [Miércoles Santo](http://twitter.com/search?q=Mi%c3%a9rcoles+Santo) | N/A |
-| 6 | [Nazareno](http://twitter.com/search?q=Nazareno) | N/A |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 9 | [Hugo Cabezas](http://twitter.com/search?q=Hugo+Cabezas) | N/A |
-| 10 | [#UnaMejorJuventud](http://twitter.com/search?q=%23UnaMejorJuventud) | N/A |
-| 11 | [Martha Piñango](http://twitter.com/search?q=Martha+Pi%c3%b1ango) | N/A |
-| 12 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
-| 13 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
-| 14 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 15 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 16 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
-| 17 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 18 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 19 | [Los Supersónicos](http://twitter.com/search?q=Los+Supers%c3%b3nicos) | N/A |
-| 20 | [Juan Valdez](http://twitter.com/search?q=Juan+Valdez) | N/A |
-| 21 | [alirio rodríguez](http://twitter.com/search?q=alirio+rodr%c3%adguez) | N/A |
-| 22 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
-| 23 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
-| 24 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 25 | [la cpi](http://twitter.com/search?q=la+cpi) | N/A |
-| 26 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 27 | [Quintas](http://twitter.com/search?q=Quintas) | N/A |
-| 28 | [Digitel](http://twitter.com/search?q=Digitel) | N/A |
-| 29 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 30 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 31 | [Trujillo](http://twitter.com/search?q=Trujillo) | N/A |
-| 32 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 33 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 34 | [Tarek William Saab](http://twitter.com/search?q=Tarek+William+Saab) | N/A |
-| 35 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 36 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
-| 37 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 38 | [maría bolívar](http://twitter.com/search?q=mar%c3%ada+bol%c3%advar) | N/A |
-| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 2 | [#PuebloEnOraciónYPaz](http://twitter.com/search?q=%23PuebloEnOraci%c3%b3nYPaz) | N/A |
+| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 4 | [#SemanaMayorEnAmor](http://twitter.com/search?q=%23SemanaMayorEnAmor) | N/A |
+| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 6 | [Miércoles Santo](http://twitter.com/search?q=Mi%c3%a9rcoles+Santo) | N/A |
+| 7 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 8 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 9 | [Alfredo Chirinos](http://twitter.com/search?q=Alfredo+Chirinos) | N/A |
+| 10 | [Nazareno](http://twitter.com/search?q=Nazareno) | N/A |
+| 11 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 12 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 13 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 14 | [Hugo Cabezas](http://twitter.com/search?q=Hugo+Cabezas) | N/A |
+| 15 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 16 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 17 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 18 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 19 | [Tarek William Saab](http://twitter.com/search?q=Tarek+William+Saab) | N/A |
+| 20 | [Rómulo Gallegos](http://twitter.com/search?q=R%c3%b3mulo+Gallegos) | N/A |
+| 21 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
+| 22 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 23 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 24 | [DGCIM](http://twitter.com/search?q=DGCIM) | N/A |
+| 25 | [Andrés Eloy Blanco](http://twitter.com/search?q=Andr%c3%a9s+Eloy+Blanco) | N/A |
+| 26 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 27 | [Julio jaramillo](http://twitter.com/search?q=Julio+jaramillo) | N/A |
+| 28 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 29 | [Metropolitanos](http://twitter.com/search?q=Metropolitanos) | N/A |
+| 30 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 31 | [Elluz peraza](http://twitter.com/search?q=Elluz+peraza) | N/A |
+| 32 | [Martha Piñango](http://twitter.com/search?q=Martha+Pi%c3%b1ango) | N/A |
+| 33 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 34 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 35 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 36 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
+| 37 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 38 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 39 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
 | 40 | [Hechizada](http://twitter.com/search?q=Hechizada) | N/A |
-| 41 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
-| 42 | [toco gómez](http://twitter.com/search?q=toco+g%c3%b3mez) | N/A |
-| 43 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 44 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 45 | [Carolina herrera](http://twitter.com/search?q=Carolina+herrera) | N/A |
-| 46 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
-| 47 | [David Martínez](http://twitter.com/search?q=David+Mart%c3%adnez) | N/A |
-| 48 | [Qepd](http://twitter.com/search?q=Qepd) | N/A |
-| 49 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 41 | [Juan Valdez](http://twitter.com/search?q=Juan+Valdez) | N/A |
+| 42 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 43 | [alirio rodríguez](http://twitter.com/search?q=alirio+rodr%c3%adguez) | N/A |
+| 44 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
+| 45 | [Basílica de Santa Teresa](http://twitter.com/search?q=Bas%c3%adlica+de+Santa+Teresa) | N/A |
+| 46 | [Chelique Sarabia](http://twitter.com/search?q=Chelique+Sarabia) | N/A |
+| 47 | [Fernando Blasi](http://twitter.com/search?q=Fernando+Blasi) | N/A |
+| 48 | [CVG y Cartones de Venezuela](http://twitter.com/search?q=CVG+y+Cartones+de+Venezuela) | N/A |
+| 49 | [Tareck El Aissami](http://twitter.com/search?q=Tareck+El+Aissami) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-05 18:17:32 UTC`
+📆 Last Updated: `2023-04-05 19:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for [Philippines](</Philippines>)
 | 4 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
 | 5 | [#FLOWER1stWin](http://twitter.com/search?q=%23FLOWER1stWin) | N/A |
 | 6 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 7 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 8 | [JOSHCULLEN WT PHOTOSHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+PHOTOSHOOT) | N/A |
+| 7 | [JOSHCULLEN WT PHOTOSHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+PHOTOSHOOT) | N/A |
+| 8 | [Mang](http://twitter.com/search?q=Mang) | N/A |
 | 9 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
 | 10 | [Holy Wednesday](http://twitter.com/search?q=Holy+Wednesday) | N/A |
 | 11 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
@@ -30,38 +30,39 @@ This is top 50 for [Philippines](</Philippines>)
 | 13 | [Bella](http://twitter.com/search?q=Bella) | N/A |
 | 14 | [KCULTURE NIGHT WITH iKON](http://twitter.com/search?q=KCULTURE+NIGHT+WITH+iKON) | N/A |
 | 15 | [LOOK FOR THE MAFIA SVT](http://twitter.com/search?q=LOOK+FOR+THE+MAFIA+SVT) | N/A |
-| 16 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 17 | [PNVF](http://twitter.com/search?q=PNVF) | N/A |
+| 16 | [PNVF](http://twitter.com/search?q=PNVF) | N/A |
+| 17 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
 | 18 | [pbbgyo housemates reveal](http://twitter.com/search?q=pbbgyo+housemates+reveal) | N/A |
 | 19 | [kaianniversary live](http://twitter.com/search?q=kaianniversary+live) | N/A |
-| 20 | [Manny Jacinto](http://twitter.com/search?q=Manny+Jacinto) | N/A |
-| 21 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 22 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 23 | [BTOB MAY COMEBACK](http://twitter.com/search?q=BTOB+MAY+COMEBACK) | N/A |
-| 24 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
-| 25 | [ALJAY TC EXTRAS QUESTUNES](http://twitter.com/search?q=ALJAY+TC+EXTRAS+QUESTUNES) | N/A |
-| 26 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
+| 20 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 21 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
+| 22 | [BTOB MAY COMEBACK](http://twitter.com/search?q=BTOB+MAY+COMEBACK) | N/A |
+| 23 | [ONE YEAR WITH STILL LIFE](http://twitter.com/search?q=ONE+YEAR+WITH+STILL+LIFE) | N/A |
+| 24 | [ALJAY TC EXTRAS QUESTUNES](http://twitter.com/search?q=ALJAY+TC+EXTRAS+QUESTUNES) | N/A |
+| 25 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
+| 26 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
 | 27 | [AWESOME NIGHT WITH CHA EUNWOO](http://twitter.com/search?q=AWESOME+NIGHT+WITH+CHA+EUNWOO) | N/A |
-| 28 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 29 | [shanelle as jayra](http://twitter.com/search?q=shanelle+as+jayra) | N/A |
-| 30 | [TWO THE RESCUE](http://twitter.com/search?q=TWO+THE+RESCUE) | N/A |
-| 31 | [Jinyoung](http://twitter.com/search?q=Jinyoung) | N/A |
-| 32 | [shanelle agustin](http://twitter.com/search?q=shanelle+agustin) | N/A |
-| 33 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 34 | [SERBISYONG BBMSARA](http://twitter.com/search?q=SERBISYONG+BBMSARA) | N/A |
-| 35 | [KYLER SALAMUCHUA](http://twitter.com/search?q=KYLER+SALAMUCHUA) | N/A |
-| 36 | [Tinig](http://twitter.com/search?q=Tinig) | N/A |
-| 37 | [PARAISO COMING SOON](http://twitter.com/search?q=PARAISO+COMING+SOON) | N/A |
+| 28 | [shanelle as jayra](http://twitter.com/search?q=shanelle+as+jayra) | N/A |
+| 29 | [TWO THE RESCUE](http://twitter.com/search?q=TWO+THE+RESCUE) | N/A |
+| 30 | [shanelle agustin](http://twitter.com/search?q=shanelle+agustin) | N/A |
+| 31 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 32 | [serbisyong bbmsara](http://twitter.com/search?q=serbisyong+bbmsara) | N/A |
+| 33 | [KYLER SALAMUCHUA](http://twitter.com/search?q=KYLER+SALAMUCHUA) | N/A |
+| 34 | [Tinig](http://twitter.com/search?q=Tinig) | N/A |
+| 35 | [PARAISO COMING SOON](http://twitter.com/search?q=PARAISO+COMING+SOON) | N/A |
+| 36 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 37 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
 | 38 | [ALAMAT ON THE ROAD PT](http://twitter.com/search?q=ALAMAT+ON+THE+ROAD+PT) | N/A |
 | 39 | [Bright x Riser](http://twitter.com/search?q=Bright+x+Riser) | N/A |
-| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 41 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 42 | [Miyerkules Santo](http://twitter.com/search?q=Miyerkules+Santo) | N/A |
-| 43 | [Plaridel](http://twitter.com/search?q=Plaridel) | N/A |
-| 44 | [HAPPY BIRTHDAY MY LOVE](http://twitter.com/search?q=HAPPY+BIRTHDAY+MY+LOVE) | N/A |
-| 45 | [THE BLOTTER PAPER D4](http://twitter.com/search?q=THE+BLOTTER+PAPER+D4) | N/A |
-| 46 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 40 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 41 | [Miyerkules Santo](http://twitter.com/search?q=Miyerkules+Santo) | N/A |
+| 42 | [Plaridel](http://twitter.com/search?q=Plaridel) | N/A |
+| 43 | [THE BLOTTER PAPER D4](http://twitter.com/search?q=THE+BLOTTER+PAPER+D4) | N/A |
+| 44 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 45 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 46 | [minghao](http://twitter.com/search?q=minghao) | N/A |
 | 47 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 48 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
 
 
 

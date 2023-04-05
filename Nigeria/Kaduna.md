@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-04-05 18:17:34 UTC`
+📆 Last Updated: `2023-04-05 19:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#StopAtNothing](http://twitter.com/search?q=%23StopAtNothing) | N/A |
-| 2 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 3 | [#cheliv](http://twitter.com/search?q=%23cheliv) | N/A |
-| 4 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 5 | [#TobyshangHomecoming](http://twitter.com/search?q=%23TobyshangHomecoming) | N/A |
-| 6 | [#MegaEasterRush](http://twitter.com/search?q=%23MegaEasterRush) | N/A |
-| 7 | [#BrightFutureMrVegas](http://twitter.com/search?q=%23BrightFutureMrVegas) | N/A |
-| 8 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 9 | [Pelumi](http://twitter.com/search?q=Pelumi) | N/A |
+| 1 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 2 | [#TobyshangHomecoming](http://twitter.com/search?q=%23TobyshangHomecoming) | N/A |
+| 3 | [#BrightFutureMrVegas](http://twitter.com/search?q=%23BrightFutureMrVegas) | N/A |
+| 4 | [#TECNO](http://twitter.com/search?q=%23TECNO) | N/A |
+| 5 | [#StopAtNothing](http://twitter.com/search?q=%23StopAtNothing) | N/A |
+| 6 | [#FreshFlavorFullEnergy](http://twitter.com/search?q=%23FreshFlavorFullEnergy) | N/A |
+| 7 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 8 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
+| 9 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
 | 10 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
 | 11 | [Middle Belt](http://twitter.com/search?q=Middle+Belt) | N/A |
-| 12 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
-| 13 | [Terdoo](http://twitter.com/search?q=Terdoo) | N/A |
-| 14 | [Lai Mohammed](http://twitter.com/search?q=Lai+Mohammed) | N/A |
-| 15 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 16 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 17 | [WELCOME HOME KANAGA JNR](http://twitter.com/search?q=WELCOME+HOME+KANAGA+JNR) | N/A |
-| 18 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 19 | [Jon bellion](http://twitter.com/search?q=Jon+bellion) | N/A |
-| 20 | [WELCOME BACK YVONNE](http://twitter.com/search?q=WELCOME+BACK+YVONNE) | N/A |
-| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 22 | [YVONNE GODSWILL](http://twitter.com/search?q=YVONNE+GODSWILL) | N/A |
-| 23 | [MURIC](http://twitter.com/search?q=MURIC) | N/A |
-| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 26 | [Datti](http://twitter.com/search?q=Datti) | N/A |
-| 27 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 28 | [After God](http://twitter.com/search?q=After+God) | N/A |
-| 29 | [kovacic](http://twitter.com/search?q=kovacic) | N/A |
-| 30 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
-| 31 | [LETTER TO KHOSI](http://twitter.com/search?q=LETTER+TO+KHOSI) | N/A |
-| 32 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 33 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 34 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 35 | [Baba God](http://twitter.com/search?q=Baba+God) | N/A |
-| 36 | [Uniben](http://twitter.com/search?q=Uniben) | Uniben is an acronym for the University of Benin, a public university located in Benin City, Nigeria. The university was established in 1970 and is one of the most prestigious universities in Nigeria. |
-| 37 | [minister lai](http://twitter.com/search?q=minister+lai) | N/A |
-| 38 | [shuttlers](http://twitter.com/search?q=shuttlers) | N/A |
-| 39 | [Benue](http://twitter.com/search?q=Benue) | N/A |
-| 40 | [Twitter NG](http://twitter.com/search?q=Twitter+NG) | N/A |
-| 41 | [Treason](http://twitter.com/search?q=Treason) | N/A |
-| 42 | [Fave](http://twitter.com/search?q=Fave) | N/A |
-| 43 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
-| 44 | [YEMI CREGX THE TROPHY](http://twitter.com/search?q=YEMI+CREGX+THE+TROPHY) | N/A |
-| 45 | [Ayra](http://twitter.com/search?q=Ayra) | N/A |
-| 46 | [THE LORD HAS SHOWN ME MERCY](http://twitter.com/search?q=THE+LORD+HAS+SHOWN+ME+MERCY) | N/A |
-| 47 | [Nnma](http://twitter.com/search?q=Nnma) | N/A |
-| 48 | [Accidentally](http://twitter.com/search?q=Accidentally) | N/A |
-| 49 | [TOP BABE TSATSII](http://twitter.com/search?q=TOP+BABE+TSATSII) | N/A |
-| 50 | [Deeman](http://twitter.com/search?q=Deeman) | N/A |
+| 12 | [Pelumi](http://twitter.com/search?q=Pelumi) | N/A |
+| 13 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 14 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 15 | [Lai Mohammed](http://twitter.com/search?q=Lai+Mohammed) | N/A |
+| 16 | [WELCOME HOME KANAGA JNR](http://twitter.com/search?q=WELCOME+HOME+KANAGA+JNR) | N/A |
+| 17 | [Terdoo](http://twitter.com/search?q=Terdoo) | N/A |
+| 18 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 19 | [Lamps](http://twitter.com/search?q=Lamps) | N/A |
+| 20 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 21 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
+| 22 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 23 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 24 | [WELCOME BACK YVONNE](http://twitter.com/search?q=WELCOME+BACK+YVONNE) | N/A |
+| 25 | [YVONNE GODSWILL](http://twitter.com/search?q=YVONNE+GODSWILL) | N/A |
+| 26 | [Boehly](http://twitter.com/search?q=Boehly) | Boehly is a German surname derived from the word "Böhl", which means "hill". It is most commonly found in the Rhineland-Palatinate region of Germany. In English, Boehly can be translated to mean "of or from the hill". |
+| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 28 | [Jon Bellion](http://twitter.com/search?q=Jon+Bellion) | N/A |
+| 29 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
+| 30 | [Datti](http://twitter.com/search?q=Datti) | N/A |
+| 31 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 32 | [MURIC](http://twitter.com/search?q=MURIC) | N/A |
+| 33 | [LETTER TO KHOSI](http://twitter.com/search?q=LETTER+TO+KHOSI) | N/A |
+| 34 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
+| 35 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 36 | [After God](http://twitter.com/search?q=After+God) | N/A |
+| 37 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 38 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 39 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 40 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 41 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 42 | [minister Lai](http://twitter.com/search?q=minister+Lai) | N/A |
+| 43 | [Benue](http://twitter.com/search?q=Benue) | N/A |
+| 44 | [shuttlers](http://twitter.com/search?q=shuttlers) | N/A |
+| 45 | [Twitter NG](http://twitter.com/search?q=Twitter+NG) | N/A |
+| 46 | [Graphic](http://twitter.com/search?q=Graphic) | N/A |
+| 47 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 48 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
+| 49 | [Uniben](http://twitter.com/search?q=Uniben) | Uniben is an acronym for the University of Benin, a public university located in Benin City, Nigeria. The university was established in 1970 and is one of the most prestigious universities in Nigeria. |
+| 50 | [YEMI CREGX THE TROPHY](http://twitter.com/search?q=YEMI+CREGX+THE+TROPHY) | N/A |
 
 
 

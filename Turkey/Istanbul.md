@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-04-05 18:17:43 UTC`
+📆 Last Updated: `2023-04-05 19:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 2 | [#MescidiAksa](http://twitter.com/search?q=%23MescidiAksa) | N/A |
-| 3 | [#GSvİBFK](http://twitter.com/search?q=%23GSv%c4%b0BFK) | N/A |
-| 4 | [#Kudüs](http://twitter.com/search?q=%23Kud%c3%bcs) | N/A |
-| 5 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
-| 6 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 7 | [Müfettiş Özlükİstiyor](http://twitter.com/search?q=M%c3%bcfetti%c5%9f+%c3%96zl%c3%bck%c4%b0stiyor) | N/A |
-| 8 | [#AvukatlarGünü](http://twitter.com/search?q=%23AvukatlarG%c3%bcn%c3%bc) | N/A |
-| 9 | [DenklikteAdalet İstiyoruz](http://twitter.com/search?q=DenklikteAdalet+%c4%b0stiyoruz) | N/A |
-| 10 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
-| 11 | [PatnosCezaevi Suçİşliyor](http://twitter.com/search?q=PatnosCezaevi+Su%c3%a7%c4%b0%c5%9fliyor) | N/A |
-| 12 | [#SözVeriyoruz](http://twitter.com/search?q=%23S%c3%b6zVeriyoruz) | N/A |
-| 13 | [Trabzon](http://twitter.com/search?q=Trabzon) | Trabzon is a city in northeastern Turkey, located on the Black Sea coast. It is the capital of Trabzon Province and one of the oldest cities in the country. The name Trabzon comes from the Greek word “Trapezounta”, which means “table” or “bench”. |
-| 14 | [Kazımcan](http://twitter.com/search?q=Kaz%c4%b1mcan) | N/A |
-| 15 | [Yerli Güç](http://twitter.com/search?q=Yerli+G%c3%bc%c3%a7) | N/A |
-| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 17 | [iyikidoğdun erenalan](http://twitter.com/search?q=iyikido%c4%9fdun+erenalan) | N/A |
-| 18 | [denetim özlükistiyor](http://twitter.com/search?q=denetim+%c3%b6zl%c3%bckistiyor) | N/A |
-| 19 | [Koyun](http://twitter.com/search?q=Koyun) | N/A |
-| 20 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 21 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
-| 22 | [idris baluken](http://twitter.com/search?q=idris+baluken) | N/A |
-| 23 | [baykemaldenarkeosanatasöz](http://twitter.com/search?q=baykemaldenarkeosanatas%c3%b6z) | N/A |
-| 24 | [Togg](http://twitter.com/search?q=Togg) | N/A |
-| 25 | [xproject token](http://twitter.com/search?q=xproject+token) | N/A |
-| 26 | [Nureddin Nebati](http://twitter.com/search?q=Nureddin+Nebati) | N/A |
-| 27 | [bilenkazanır googleplaydeindir](http://twitter.com/search?q=bilenkazan%c4%b1r+googleplaydeindir) | N/A |
-| 28 | [Başbuğum](http://twitter.com/search?q=Ba%c5%9fbu%c4%9fum) | N/A |
-| 29 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
-| 30 | [Gününüz](http://twitter.com/search?q=G%c3%bcn%c3%bcn%c3%bcz) | N/A |
-| 31 | [SeçiminKilidi YapıKayıt](http://twitter.com/search?q=Se%c3%a7iminKilidi+Yap%c4%b1Kay%c4%b1t) | N/A |
-| 32 | [MİLLET ERDOĞAN DİYOR](http://twitter.com/search?q=M%c4%b0LLET+ERDO%c4%9eAN+D%c4%b0YOR) | N/A |
-| 33 | [Eliyle](http://twitter.com/search?q=Eliyle) | N/A |
-| 34 | [Kaan Ayhan](http://twitter.com/search?q=Kaan+Ayhan) | Kaan Ayhan is a Turkish name. It is composed of two words: Kaan, which means "lord" or "ruler," and Ayhan, which means "moon." In English, the name Kaan Ayhan can be translated to mean "Lord of the Moon." |
-| 35 | [Kıble Mescidi](http://twitter.com/search?q=K%c4%b1ble+Mescidi) | N/A |
-| 36 | [Ya Kahhar](http://twitter.com/search?q=Ya+Kahhar) | N/A |
-| 37 | [Müslümanlara](http://twitter.com/search?q=M%c3%bcsl%c3%bcmanlara) | N/A |
-| 38 | [İptal](http://twitter.com/search?q=%c4%b0ptal) | N/A |
-| 39 | [ZirveSensin SedatPolat](http://twitter.com/search?q=ZirveSensin+SedatPolat) | N/A |
-| 40 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
-| 41 | [Ahmet Özal](http://twitter.com/search?q=Ahmet+%c3%96zal) | N/A |
-| 42 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
-| 43 | [Hakan Ceylan](http://twitter.com/search?q=Hakan+Ceylan) | N/A |
-| 44 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
-| 45 | [Komutanı Muhammed](http://twitter.com/search?q=Komutan%c4%b1+Muhammed) | N/A |
-| 46 | [Boskovic](http://twitter.com/search?q=Boskovic) | N/A |
-| 47 | [Meral](http://twitter.com/search?q=Meral) | N/A |
-| 48 | [TekBaşrol AfraMert](http://twitter.com/search?q=TekBa%c5%9frol+AfraMert) | N/A |
-| 49 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
-| 50 | [Eczacıbaşı](http://twitter.com/search?q=Eczac%c4%b1ba%c5%9f%c4%b1) | N/A |
+| 1 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
+| 2 | [#YıldızıdırParlayacak](http://twitter.com/search?q=%23Y%c4%b1ld%c4%b1z%c4%b1d%c4%b1rParlayacak) | N/A |
+| 3 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 4 | [#2000LerTBMMde](http://twitter.com/search?q=%232000LerTBMMde) | N/A |
+| 5 | [#GSvİBFK](http://twitter.com/search?q=%23GSv%c4%b0BFK) | N/A |
+| 6 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
+| 7 | [DenklikteAdalet İstiyoruz](http://twitter.com/search?q=DenklikteAdalet+%c4%b0stiyoruz) | N/A |
+| 8 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
+| 9 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
+| 10 | [Kadir Sağlam](http://twitter.com/search?q=Kadir+Sa%c4%9flam) | N/A |
+| 11 | [#ÖzürDileÖzgürÖzel](http://twitter.com/search?q=%23%c3%96z%c3%bcrDile%c3%96zg%c3%bcr%c3%96zel) | N/A |
+| 12 | [#İNFKORUMA](http://twitter.com/search?q=%23%c4%b0NFKORUMA) | N/A |
+| 13 | [Lale Orta](http://twitter.com/search?q=Lale+Orta) | Lale Orta is a Turkish phrase meaning "tulip garden". It is often used to refer to a place of beauty and tranquility. |
+| 14 | [Kaan Ayhan](http://twitter.com/search?q=Kaan+Ayhan) | Kaan Ayhan is a Turkish name. It is composed of two words: Kaan, which means "lord" or "ruler," and Ayhan, which means "moon." In English, the name Kaan Ayhan can be translated to mean "Lord of the Moon." |
+| 15 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 16 | [Özgür Yankaya](http://twitter.com/search?q=%c3%96zg%c3%bcr+Yankaya) | N/A |
+| 17 | [PatnosCezaevi Suçİşliyor](http://twitter.com/search?q=PatnosCezaevi+Su%c3%a7%c4%b0%c5%9fliyor) | N/A |
+| 18 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
+| 19 | [Hakemler](http://twitter.com/search?q=Hakemler) | Hakemler is a Turkish word meaning "referees" or "umpires". It is used to refer to people who are responsible for making decisions and enforcing rules in a sporting event. |
+| 20 | [Ömer Ali](http://twitter.com/search?q=%c3%96mer+Ali) | N/A |
+| 21 | [AKSA SALDIRI ALTINDA](http://twitter.com/search?q=AKSA+SALDIRI+ALTINDA) | N/A |
+| 22 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
+| 23 | [Erman](http://twitter.com/search?q=Erman) | N/A |
+| 24 | [Rashica](http://twitter.com/search?q=Rashica) | Rashica is a surname of Albanian origin. It is derived from the word "rash" which means "joy" or "happiness". In English, it can be translated to mean "happy one". |
+| 25 | [KayıplarınSesini DuyanVarMı](http://twitter.com/search?q=Kay%c4%b1plar%c4%b1nSesini+DuyanVarM%c4%b1) | N/A |
+| 26 | [TaşeronunOyu AyrımsızKadroya](http://twitter.com/search?q=Ta%c5%9feronunOyu+Ayr%c4%b1ms%c4%b1zKadroya) | N/A |
+| 27 | [Vizeyi](http://twitter.com/search?q=Vizeyi) | N/A |
+| 28 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
+| 29 | [Müfettiş Özlükİstiyor](http://twitter.com/search?q=M%c3%bcfetti%c5%9f+%c3%96zl%c3%bck%c4%b0stiyor) | N/A |
+| 30 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 31 | [Eliyle](http://twitter.com/search?q=Eliyle) | N/A |
+| 32 | [İptal](http://twitter.com/search?q=%c4%b0ptal) | N/A |
+| 33 | [Kazımcan](http://twitter.com/search?q=Kaz%c4%b1mcan) | N/A |
+| 34 | [VAR'dan](http://twitter.com/search?q=VAR%27dan) | N/A |
+| 35 | [Hakemi](http://twitter.com/search?q=Hakemi) | N/A |
+| 36 | [Öncesinde](http://twitter.com/search?q=%c3%96ncesinde) | N/A |
+| 37 | [Penaltıyı](http://twitter.com/search?q=Penalt%c4%b1y%c4%b1) | N/A |
+| 38 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
+| 39 | [Operasyon](http://twitter.com/search?q=Operasyon) | N/A |
+| 40 | [STOP ISRAEL](http://twitter.com/search?q=STOP+ISRAEL) | N/A |
+| 41 | [Yerli Güç](http://twitter.com/search?q=Yerli+G%c3%bc%c3%a7) | N/A |
+| 42 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 43 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
+| 44 | [Kuzu](http://twitter.com/search?q=Kuzu) | N/A |
+| 45 | [#ÇılgınTürk](http://twitter.com/search?q=%23%c3%87%c4%b1lg%c4%b1nT%c3%bcrk) | N/A |
+| 46 | [#GalatasaraySK](http://twitter.com/search?q=%23GalatasaraySK) | N/A |
+| 47 | [#CanımızaOkudunAKP](http://twitter.com/search?q=%23Can%c4%b1m%c4%b1zaOkudunAKP) | N/A |
+| 48 | [#AKPyeOyYok](http://twitter.com/search?q=%23AKPyeOyYok) | N/A |
+| 49 | [#BursasporluVekilİstiyoruz](http://twitter.com/search?q=%23BursasporluVekil%c4%b0stiyoruz) | N/A |
+| 50 | [#AlparslanHocayaÖzgürlük](http://twitter.com/search?q=%23AlparslanHocaya%c3%96zg%c3%bcrl%c3%bck) | N/A |
 
 
 

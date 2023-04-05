@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-04-05 18:17:52 UTC`
+📆 Last Updated: `2023-04-05 19:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 2 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 3 | [#NPHWChat](http://twitter.com/search?q=%23NPHWChat) | N/A |
-| 4 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 1 | [Corbin Burnes](http://twitter.com/search?q=Corbin+Burnes) | N/A |
+| 2 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 3 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 4 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
 | 5 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 6 | [Dominic Rhodes](http://twitter.com/search?q=Dominic+Rhodes) | N/A |
-| 7 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 8 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
-| 9 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 10 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
-| 11 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 12 | [#SafePlaceSelfie](http://twitter.com/search?q=%23SafePlaceSelfie) | N/A |
-| 13 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 6 | [#NPHWChat](http://twitter.com/search?q=%23NPHWChat) | N/A |
+| 7 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 8 | [Jacob deGrom](http://twitter.com/search?q=Jacob+deGrom) | N/A |
+| 9 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 10 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 11 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 12 | [Mitch Keller](http://twitter.com/search?q=Mitch+Keller) | N/A |
+| 13 | [emily henry](http://twitter.com/search?q=emily+henry) | N/A |
 | 14 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 15 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 16 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
-| 17 | [Vickie](http://twitter.com/search?q=Vickie) | N/A |
-| 18 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 19 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
-| 20 | [Grayson Rodriguez](http://twitter.com/search?q=Grayson+Rodriguez) | N/A |
-| 21 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 22 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 23 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 24 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 25 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 26 | [Seder](http://twitter.com/search?q=Seder) | N/A |
-| 27 | [Bryce Dallas Howard](http://twitter.com/search?q=Bryce+Dallas+Howard) | N/A |
-| 28 | [Ronna](http://twitter.com/search?q=Ronna) | Ronna is a female given name, derived from the Hebrew name Veronica. It is a variant of the name Veronica, which means "true image". |
-| 29 | [Sore](http://twitter.com/search?q=Sore) | N/A |
-| 30 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 31 | [The Super Mario Bros](http://twitter.com/search?q=The+Super+Mario+Bros) | N/A |
-| 32 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 33 | [Augusta National](http://twitter.com/search?q=Augusta+National) | N/A |
-| 34 | [WotC](http://twitter.com/search?q=WotC) | WotC stands for Wizards of the Coast, a publisher of fantasy and science fiction games, books, and other products. It is best known for its role-playing game Dungeons & Dragons. |
-| 35 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
-| 36 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 37 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 38 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 39 | [#firevince](http://twitter.com/search?q=%23firevince) | N/A |
-| 40 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 41 | [#OneBallState](http://twitter.com/search?q=%23OneBallState) | N/A |
-| 42 | [#IStandWithEvan](http://twitter.com/search?q=%23IStandWithEvan) | N/A |
-| 43 | [#MarioMovie](http://twitter.com/search?q=%23MarioMovie) | N/A |
-| 44 | [#ncpol](http://twitter.com/search?q=%23ncpol) | N/A |
-| 45 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 46 | [#JJK219](http://twitter.com/search?q=%23JJK219) | N/A |
-| 47 | [#Easter2023](http://twitter.com/search?q=%23Easter2023) | N/A |
+| 15 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 16 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
+| 17 | [Seamus Power](http://twitter.com/search?q=Seamus+Power) | N/A |
+| 18 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 19 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 20 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 21 | [Jose Trevino](http://twitter.com/search?q=Jose+Trevino) | N/A |
+| 22 | [Bryce Elder](http://twitter.com/search?q=Bryce+Elder) | N/A |
+| 23 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
+| 24 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 25 | [Ziwe](http://twitter.com/search?q=Ziwe) | N/A |
+| 26 | [Grayson Rodriguez](http://twitter.com/search?q=Grayson+Rodriguez) | N/A |
+| 27 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 28 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
+| 29 | [Kingery](http://twitter.com/search?q=Kingery) | N/A |
+| 30 | [Joey Wiemer](http://twitter.com/search?q=Joey+Wiemer) | N/A |
+| 31 | [Dominic Rhodes](http://twitter.com/search?q=Dominic+Rhodes) | N/A |
+| 32 | [Jorge Soler](http://twitter.com/search?q=Jorge+Soler) | N/A |
+| 33 | [Goldschmidt](http://twitter.com/search?q=Goldschmidt) | N/A |
+| 34 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 35 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
+| 36 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
+| 37 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
+| 38 | [Kevin Long](http://twitter.com/search?q=Kevin+Long) | N/A |
+| 39 | [Par 3 Contest](http://twitter.com/search?q=Par+3+Contest) | N/A |
+| 40 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
+| 41 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 42 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 43 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
+| 44 | [Maton](http://twitter.com/search?q=Maton) | Maton is a brand of acoustic guitars made in Australia. The name is derived from the words "May" and "Tone", which refer to the quality of sound produced by the guitars. |
+| 45 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 46 | [Surviving the Game](http://twitter.com/search?q=Surviving+the+Game) | N/A |
+| 47 | [Native Hawaiian](http://twitter.com/search?q=Native+Hawaiian) | N/A |
+| 48 | [Pop Warner](http://twitter.com/search?q=Pop+Warner) | N/A |
+| 49 | [Luzardo](http://twitter.com/search?q=Luzardo) | N/A |
 
 
 

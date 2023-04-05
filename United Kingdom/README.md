@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-04-05 18:18:00 UTC`
+📆 Last Updated: `2023-04-05 19:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for United Kingdom
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 2 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 5 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
-| 6 | [#nffc](http://twitter.com/search?q=%23nffc) | N/A |
-| 7 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
-| 8 | [#virginmedia](http://twitter.com/search?q=%23virginmedia) | N/A |
-| 9 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [#CooperIn](http://twitter.com/search?q=%23CooperIn) | N/A |
-| 12 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 13 | [#OVERLAPONTOUR](http://twitter.com/search?q=%23OVERLAPONTOUR) | N/A |
-| 14 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 15 | [Passover](http://twitter.com/search?q=Passover) | N/A |
-| 16 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 17 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 18 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 19 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 20 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 21 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
-| 22 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 23 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 24 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 25 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
-| 26 | [Nigel Lawson](http://twitter.com/search?q=Nigel+Lawson) | N/A |
-| 27 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 28 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
-| 29 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 30 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 31 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 32 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 33 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 34 | [Daily Quordle 436](http://twitter.com/search?q=Daily+Quordle+436) | N/A |
-| 35 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
-| 36 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 37 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 38 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 39 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 40 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
-| 41 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 42 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 43 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 44 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
-| 45 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 46 | [kovacic](http://twitter.com/search?q=kovacic) | N/A |
-| 47 | [Teemu](http://twitter.com/search?q=Teemu) | N/A |
-| 48 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 49 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 50 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 2 | [#OVERLAPONTOUR](http://twitter.com/search?q=%23OVERLAPONTOUR) | N/A |
+| 3 | [#WHUNEW](http://twitter.com/search?q=%23WHUNEW) | N/A |
+| 4 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 5 | [#MUNBRE](http://twitter.com/search?q=%23MUNBRE) | N/A |
+| 6 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
+| 7 | [Lamps](http://twitter.com/search?q=Lamps) | N/A |
+| 8 | [#Hisense](http://twitter.com/search?q=%23Hisense) | N/A |
+| 9 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
+| 10 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 11 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 12 | [Kehrer](http://twitter.com/search?q=Kehrer) | Kehrer is a German surname. It is derived from the Middle High German word "kehrer," which means "sweeper" or "cleaner." |
+| 13 | [#handmadehour](http://twitter.com/search?q=%23handmadehour) | N/A |
+| 14 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 15 | [Todd Boehly](http://twitter.com/search?q=Todd+Boehly) | Todd Boehly is the name of an American businessman and investor. He is the founder, chairman, and CEO of Eldridge Industries, a private investment firm. He is also the former co-owner and vice chairman of the Los Angeles Dodgers baseball team. |
+| 16 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 17 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
+| 18 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 19 | [HOWAY THE LADS](http://twitter.com/search?q=HOWAY+THE+LADS) | N/A |
+| 20 | [Fred West](http://twitter.com/search?q=Fred+West) | N/A |
+| 21 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 22 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 23 | [Sturgeon](http://twitter.com/search?q=Sturgeon) | Sturgeon is a type of large fish that is found in the waters of the Northern Hemisphere. It is an anadromous fish, meaning it spends part of its life in fresh water and part in salt water. Sturgeon are prized for their roe, which is used to make caviar. |
+| 24 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
+| 25 | [London Stadium](http://twitter.com/search?q=London+Stadium) | N/A |
+| 26 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 27 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
+| 28 | [Dorset](http://twitter.com/search?q=Dorset) | N/A |
+| 29 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 30 | [Mone](http://twitter.com/search?q=Mone) | N/A |
+| 31 | [West Midlands](http://twitter.com/search?q=West+Midlands) | N/A |
+| 32 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 33 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 34 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 35 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
+| 36 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 37 | [Alex Salmond](http://twitter.com/search?q=Alex+Salmond) | N/A |
+| 38 | [Toilet](http://twitter.com/search?q=Toilet) | N/A |
+| 39 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
+| 40 | [#C4News](http://twitter.com/search?q=%23C4News) | N/A |
+| 41 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 42 | [#MAFSAUS](http://twitter.com/search?q=%23MAFSAUS) | N/A |
+| 43 | [#craghoppers](http://twitter.com/search?q=%23craghoppers) | N/A |
+| 44 | [#firevince](http://twitter.com/search?q=%23firevince) | N/A |
+| 45 | [#MarriedatfirstsightAustralia](http://twitter.com/search?q=%23MarriedatfirstsightAustralia) | N/A |
+| 46 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 47 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
+| 48 | [#SNPCorruption](http://twitter.com/search?q=%23SNPCorruption) | N/A |
+| 49 | [#NotMyQueen](http://twitter.com/search?q=%23NotMyQueen) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-05 18:17:23 UTC`
+📆 Last Updated: `2023-04-05 19:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 2 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
-| 3 | [#fcbyb](http://twitter.com/search?q=%23fcbyb) | N/A |
-| 4 | [#WEURO2025](http://twitter.com/search?q=%23WEURO2025) | N/A |
-| 5 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
-| 6 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 7 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 8 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 9 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 10 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 12 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 13 | [Vergleich](http://twitter.com/search?q=Vergleich) | N/A |
-| 14 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
-| 15 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
-| 16 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 17 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
-| 18 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
-| 19 | [Match](http://twitter.com/search?q=Match) | N/A |
-| 20 | [Bise](http://twitter.com/search?q=Bise) | N/A |
-| 21 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 22 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 24 | [Mond](http://twitter.com/search?q=Mond) | N/A |
-| 25 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 26 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 27 | [Grafik](http://twitter.com/search?q=Grafik) | N/A |
-| 28 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
-| 29 | [bâle](http://twitter.com/search?q=b%c3%a2le) | N/A |
-| 30 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 31 | [sackmesser](http://twitter.com/search?q=sackmesser) | N/A |
-| 32 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 33 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 34 | [Angebot](http://twitter.com/search?q=Angebot) | N/A |
-| 35 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
-| 36 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
-| 37 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 38 | [special rapporteur](http://twitter.com/search?q=special+rapporteur) | N/A |
-| 39 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 40 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 41 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
-| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 44 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 45 | [Solange](http://twitter.com/search?q=Solange) | N/A |
-| 46 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
-| 47 | [Variante](http://twitter.com/search?q=Variante) | N/A |
-| 48 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 49 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
+| 2 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 3 | [#FCBYB](http://twitter.com/search?q=%23FCBYB) | N/A |
+| 4 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
+| 5 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 6 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
+| 7 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 9 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 10 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 11 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | N/A |
+| 12 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 13 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 14 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
+| 15 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 16 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 17 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
+| 18 | [Nord](http://twitter.com/search?q=Nord) | N/A |
+| 19 | [Aktionäre](http://twitter.com/search?q=Aktion%c3%a4re) | N/A |
+| 20 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 21 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 22 | [Ignoranz](http://twitter.com/search?q=Ignoranz) | N/A |
+| 23 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 24 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 25 | [Demos](http://twitter.com/search?q=Demos) | N/A |
+| 26 | [Preise](http://twitter.com/search?q=Preise) | N/A |
+| 27 | [spital](http://twitter.com/search?q=spital) | N/A |
+| 28 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 29 | [blocher](http://twitter.com/search?q=blocher) | N/A |
+| 30 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 31 | [Amis](http://twitter.com/search?q=Amis) | N/A |
+| 32 | [Vaud](http://twitter.com/search?q=Vaud) | N/A |
+| 33 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 34 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
+| 35 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 36 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
+| 37 | [Rücken](http://twitter.com/search?q=R%c3%bccken) | N/A |
+| 38 | [neuchâtel](http://twitter.com/search?q=neuch%c3%a2tel) | N/A |
+| 39 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 40 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
+| 41 | [Centre](http://twitter.com/search?q=Centre) | N/A |
+| 42 | [Lachen](http://twitter.com/search?q=Lachen) | N/A |
+| 43 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 44 | [Abfall](http://twitter.com/search?q=Abfall) | N/A |
+| 45 | [Austausch](http://twitter.com/search?q=Austausch) | N/A |
+| 46 | [Veränderungen](http://twitter.com/search?q=Ver%c3%a4nderungen) | N/A |
+| 47 | [mike müller](http://twitter.com/search?q=mike+m%c3%bcller) | N/A |
+| 48 | [Empathie](http://twitter.com/search?q=Empathie) | N/A |
+| 49 | [Special Rapporteur](http://twitter.com/search?q=Special+Rapporteur) | N/A |
 
 
 

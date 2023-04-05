@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-04-05 18:17:54 UTC`
+📆 Last Updated: `2023-04-05 19:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Colombia
 | ------- | ------------ | ------------ |
 | 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 2 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 3 | [#survivorlaisla](http://twitter.com/search?q=%23survivorlaisla) | N/A |
-| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 5 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 6 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
-| 7 | [#BTRDay](http://twitter.com/search?q=%23BTRDay) | N/A |
-| 8 | [Goiás](http://twitter.com/search?q=Goi%c3%a1s) | N/A |
-| 9 | [#undescansode](http://twitter.com/search?q=%23undescansode) | N/A |
-| 10 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 11 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
-| 12 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 13 | [Icfes](http://twitter.com/search?q=Icfes) | N/A |
-| 14 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
+| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 4 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 5 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 6 | [LEO CASTRO](http://twitter.com/search?q=LEO+CASTRO) | N/A |
+| 7 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 8 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 9 | [#OroPor](http://twitter.com/search?q=%23OroPor) | N/A |
+| 10 | [#Reflexionemos](http://twitter.com/search?q=%23Reflexionemos) | N/A |
+| 11 | [Dalas](http://twitter.com/search?q=Dalas) | N/A |
+| 12 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 13 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
+| 14 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
 | 15 | [Antonio García](http://twitter.com/search?q=Antonio+Garc%c3%ada) | N/A |
-| 16 | [minas antipersonal](http://twitter.com/search?q=minas+antipersonal) | N/A |
-| 17 | [The strongest](http://twitter.com/search?q=The+strongest) | N/A |
-| 18 | [espitia](http://twitter.com/search?q=espitia) | N/A |
-| 19 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 20 | [#ColombiaSinMinas](http://twitter.com/search?q=%23ColombiaSinMinas) | N/A |
-| 21 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 22 | [morelo](http://twitter.com/search?q=morelo) | N/A |
-| 23 | [María Alejandra Villamizar](http://twitter.com/search?q=Mar%c3%ada+Alejandra+Villamizar) | N/A |
-| 24 | [LEO CASTRO](http://twitter.com/search?q=LEO+CASTRO) | N/A |
-| 25 | [Marrugo](http://twitter.com/search?q=Marrugo) | Marrugo is a Spanish word that means "to be confused or perplexed". It is often used to describe a feeling of confusion or bewilderment. |
-| 26 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 27 | [Tibú](http://twitter.com/search?q=Tib%c3%ba) | N/A |
-| 28 | [vamos santa fe](http://twitter.com/search?q=vamos+santa+fe) | N/A |
-| 29 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
-| 30 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
-| 31 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 32 | [bacca](http://twitter.com/search?q=bacca) | N/A |
-| 33 | [Jorge Luis Pinto](http://twitter.com/search?q=Jorge+Luis+Pinto) | N/A |
-| 34 | [Michael Ortega](http://twitter.com/search?q=Michael+Ortega) | N/A |
-| 35 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
-| 36 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
-| 37 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 38 | [ferragamo](http://twitter.com/search?q=ferragamo) | N/A |
-| 39 | [Duque](http://twitter.com/search?q=Duque) | N/A |
-| 40 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 41 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 42 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 43 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 44 | [Almacenes Ley](http://twitter.com/search?q=Almacenes+Ley) | N/A |
-| 45 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 46 | [Cabal](http://twitter.com/search?q=Cabal) | N/A |
-| 47 | [Viva y Ultra](http://twitter.com/search?q=Viva+y+Ultra) | N/A |
-| 48 | [marco pérez](http://twitter.com/search?q=marco+p%c3%a9rez) | N/A |
-| 49 | [VAMOS MILLONARIOS](http://twitter.com/search?q=VAMOS+MILLONARIOS) | N/A |
-| 50 | [turbaco](http://twitter.com/search?q=turbaco) | N/A |
+| 16 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 17 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
+| 18 | [Venezuela y Argentina](http://twitter.com/search?q=Venezuela+y+Argentina) | N/A |
+| 19 | [Higuita](http://twitter.com/search?q=Higuita) | N/A |
+| 20 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 21 | [#CopaSudamericana](http://twitter.com/search?q=%23CopaSudamericana) | N/A |
+| 22 | [Resultados](http://twitter.com/search?q=Resultados) | N/A |
+| 23 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
+| 24 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 25 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 26 | [Tibú](http://twitter.com/search?q=Tib%c3%ba) | N/A |
+| 27 | [Goiás](http://twitter.com/search?q=Goi%c3%a1s) | N/A |
+| 28 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
+| 29 | [Monroy](http://twitter.com/search?q=Monroy) | N/A |
+| 30 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 31 | [ICFES](http://twitter.com/search?q=ICFES) | N/A |
+| 32 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 33 | [Almacenes Ley](http://twitter.com/search?q=Almacenes+Ley) | N/A |
+| 34 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 35 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 36 | [Montaje](http://twitter.com/search?q=Montaje) | N/A |
+| 37 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
+| 38 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 39 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 40 | [Ocampo](http://twitter.com/search?q=Ocampo) | Ocampo is a Spanish surname derived from the Latin word campus, meaning "field". It is most commonly found in Spain and Latin America. In English, it can be translated to mean "of the field". |
+| 41 | [Peñalosa](http://twitter.com/search?q=Pe%c3%b1alosa) | N/A |
+| 42 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 43 | [Daren](http://twitter.com/search?q=Daren) | N/A |
+| 44 | [minas antipersonal](http://twitter.com/search?q=minas+antipersonal) | N/A |
+| 45 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 46 | [vamos santa fe](http://twitter.com/search?q=vamos+santa+fe) | N/A |
+| 47 | [David González](http://twitter.com/search?q=David+Gonz%c3%a1lez) | N/A |
+| 48 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
+| 49 | [espitia](http://twitter.com/search?q=espitia) | N/A |
+| 50 | [Millos](http://twitter.com/search?q=Millos) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hermosillo
 
-📆 Last Updated: `2023-04-05 18:17:10 UTC`
+📆 Last Updated: `2023-04-05 19:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
 | 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 3 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 4 | [#AlertaSismica](http://twitter.com/search?q=%23AlertaSismica) | N/A |
-| 5 | [#CosasDeNacos](http://twitter.com/search?q=%23CosasDeNacos) | N/A |
-| 6 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 7 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 8 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 9 | [Hola Mir](http://twitter.com/search?q=Hola+Mir) | N/A |
+| 4 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
+| 5 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 6 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 7 | [Jorge Sánchez](http://twitter.com/search?q=Jorge+S%c3%a1nchez) | N/A |
+| 8 | [Bebote](http://twitter.com/search?q=Bebote) | N/A |
+| 9 | [#YadixModoVacación](http://twitter.com/search?q=%23YadixModoVacaci%c3%b3n) | N/A |
 | 10 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
-| 11 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 12 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
-| 13 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 14 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 15 | [Lucas Romero](http://twitter.com/search?q=Lucas+Romero) | N/A |
-| 16 | [Puerto Escondido](http://twitter.com/search?q=Puerto+Escondido) | N/A |
-| 17 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 18 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 19 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 20 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 21 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 22 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 23 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 24 | [acapulco](http://twitter.com/search?q=acapulco) | N/A |
-| 25 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 26 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 27 | [Pedro navajas](http://twitter.com/search?q=Pedro+navajas) | N/A |
-| 28 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 29 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
-| 30 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 31 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 32 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 33 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 34 | [Madero](http://twitter.com/search?q=Madero) | N/A |
-| 35 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 36 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
-| 37 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 38 | [Estral](http://twitter.com/search?q=Estral) | N/A |
-| 39 | [FERNANDO HERNÁNDEZ](http://twitter.com/search?q=FERNANDO+HERN%c3%81NDEZ) | N/A |
-| 40 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 41 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
-| 42 | [AUSTERIDAD](http://twitter.com/search?q=AUSTERIDAD) | N/A |
-| 43 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 44 | [Martes 4](http://twitter.com/search?q=Martes+4) | N/A |
-| 45 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 46 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 47 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 48 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
-| 49 | [Robert Smith](http://twitter.com/search?q=Robert+Smith) | N/A |
+| 11 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 12 | [#batallapormedallas](http://twitter.com/search?q=%23batallapormedallas) | N/A |
+| 13 | [#MásAcciónMásDiversión](http://twitter.com/search?q=%23M%c3%a1sAcci%c3%b3nM%c3%a1sDiversi%c3%b3n) | N/A |
+| 14 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
+| 15 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 16 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 17 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 18 | [Edson](http://twitter.com/search?q=Edson) | N/A |
+| 19 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 20 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 21 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 22 | [golden record holder](http://twitter.com/search?q=golden+record+holder) | N/A |
+| 23 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 24 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 25 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 26 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
+| 27 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 28 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 29 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 30 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
+| 31 | [Pedro navajas](http://twitter.com/search?q=Pedro+navajas) | N/A |
+| 32 | [Hola Mir](http://twitter.com/search?q=Hola+Mir) | N/A |
+| 33 | [Acapulco](http://twitter.com/search?q=Acapulco) | N/A |
+| 34 | [Tristeza](http://twitter.com/search?q=Tristeza) | N/A |
+| 35 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 36 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
+| 37 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 38 | [Nacionalización](http://twitter.com/search?q=Nacionalizaci%c3%b3n) | N/A |
+| 39 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
+| 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 41 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 42 | [Rotten Tomatoes](http://twitter.com/search?q=Rotten+Tomatoes) | N/A |
+| 43 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
+| 44 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 45 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
+| 46 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
+| 47 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 48 | [FONADIN](http://twitter.com/search?q=FONADIN) | N/A |
+| 49 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
 
 
 

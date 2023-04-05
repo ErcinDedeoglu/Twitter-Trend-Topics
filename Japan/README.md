@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Japan
 
-📆 Last Updated: `2023-04-05 18:17:56 UTC`
+📆 Last Updated: `2023-04-05 19:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Japan
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JO1ANNX](http://twitter.com/search?q=%23JO1ANNX) | #JO1ANNX is a hashtag used by Japanese singer and actor Jo1. It stands for "Jo1 All Night eXtreme", which is a special event held by the singer. |
-| 2 | [#U149](http://twitter.com/search?q=%23U149) | N/A |
-| 3 | [#乃木坂46ANN](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%8246ANN) | #乃木坂46ANN is the official hashtag for the Japanese idol group Nogizaka46. It stands for Nogizaka46 Announcement, and is used to share news and updates about the group. |
+| 1 | [#U149](http://twitter.com/search?q=%23U149) | N/A |
+| 2 | [アラウホ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%82%a6%e3%83%9b) | N/A |
+| 3 | [#佐久間宣行ANN0](http://twitter.com/search?q=%23%e4%bd%90%e4%b9%85%e9%96%93%e5%ae%a3%e8%a1%8cANN0) | N/A |
 | 4 | [#あなたがときめく5文字教えて下さい](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c%e3%81%a8%e3%81%8d%e3%82%81%e3%81%8f5%e6%96%87%e5%ad%97%e6%95%99%e3%81%88%e3%81%a6%e4%b8%8b%e3%81%95%e3%81%84) | N/A |
-| 5 | [#BEFIRSTTV2](http://twitter.com/search?q=%23BEFIRSTTV2) | N/A |
-| 6 | [ミンギュ](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%82%ae%e3%83%a5) | ミンギュ is a type of Korean traditional dance. It is a combination of singing and dancing, and it is usually performed at festivals or special occasions. In English, it can be translated as "folk dance". |
-| 7 | [三ツ矢くん](http://twitter.com/search?q=%e4%b8%89%e3%83%84%e7%9f%a2%e3%81%8f%e3%82%93) | N/A |
-| 8 | [開幕5連勝](http://twitter.com/search?q=%e9%96%8b%e5%b9%955%e9%80%a3%e5%8b%9d) | N/A |
-| 9 | [第440回](http://twitter.com/search?q=%e7%ac%ac440%e5%9b%9e) | N/A |
-| 10 | [マリーゴールド](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%bc%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 11 | [リーグ戦](http://twitter.com/search?q=%e3%83%aa%e3%83%bc%e3%82%b0%e6%88%a6) | リーグ戦 is a Japanese term that refers to a league competition or tournament. It is typically used to refer to sports competitions, such as soccer or baseball, where teams compete against each other in a round-robin format. In English, it can be translated as "league match" or "league tournament". |
-| 12 | [完全感覚Dreamer](http://twitter.com/search?q=%e5%ae%8c%e5%85%a8%e6%84%9f%e8%a6%9aDreamer) | N/A |
-| 13 | [Around The World](http://twitter.com/search?q=Around+The+World) | N/A |
-| 14 | [シバタリアン](http://twitter.com/search?q=%e3%82%b7%e3%83%90%e3%82%bf%e3%83%aa%e3%82%a2%e3%83%b3) | N/A |
-| 15 | [米津さん](http://twitter.com/search?q=%e7%b1%b3%e6%b4%a5%e3%81%95%e3%82%93) | N/A |
-| 16 | [小春ちゃん](http://twitter.com/search?q=%e5%b0%8f%e6%98%a5%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 17 | [ルヴァン](http://twitter.com/search?q=%e3%83%ab%e3%83%b4%e3%82%a1%e3%83%b3) | ルヴァン is a Japanese manga series written and illustrated by Yana Toboso. It follows the story of Ciel Phantomhive, a thirteen-year-old boy who is the head of the noble Phantomhive family and is tasked with solving various mysteries involving the supernatural for Queen Victoria. The title "ルヴァン" is derived from the French phrase "Le Vainqueur", which translates to "The Victor". |
-| 18 | [Twilog](http://twitter.com/search?q=Twilog) | Twilog is a Japanese website that allows users to search and view tweets from other Twitter users. The name Twilog is a combination of the words “Twitter” and “blog”, which reflects the site’s purpose of providing an easy way to browse through tweets. |
+| 5 | [メッシコール](http://twitter.com/search?q=%e3%83%a1%e3%83%83%e3%82%b7%e3%82%b3%e3%83%bc%e3%83%ab) | N/A |
+| 6 | [クラシコ](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b7%e3%82%b3) | クラシコ is a Japanese word that means "classico," or classic. It is used to describe something that has a timeless, traditional style or quality. |
+| 7 | [#乃木坂46ANN](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%8246ANN) | #乃木坂46ANN is the official hashtag for the Japanese idol group Nogizaka46. It stands for Nogizaka46 Announcement, and is used to share news and updates about the group. |
+| 8 | [カマヴィンガ](http://twitter.com/search?q=%e3%82%ab%e3%83%9e%e3%83%b4%e3%82%a3%e3%83%b3%e3%82%ac) | N/A |
+| 9 | [#BEFIRSTTV2](http://twitter.com/search?q=%23BEFIRSTTV2) | N/A |
+| 10 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
+| 11 | [シバタリアン](http://twitter.com/search?q=%e3%82%b7%e3%83%90%e3%82%bf%e3%83%aa%e3%82%a2%e3%83%b3) | N/A |
+| 12 | [ミンギュ](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%82%ae%e3%83%a5) | ミンギュ is a type of Korean traditional dance. It is a combination of singing and dancing, and it is usually performed at festivals or special occasions. In English, it can be translated as "folk dance". |
+| 13 | [第440回](http://twitter.com/search?q=%e7%ac%ac440%e5%9b%9e) | N/A |
+| 14 | [Around The World](http://twitter.com/search?q=Around+The+World) | N/A |
+| 15 | [開幕5連勝](http://twitter.com/search?q=%e9%96%8b%e5%b9%955%e9%80%a3%e5%8b%9d) | N/A |
+| 16 | [ランパード](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%91%e3%83%bc%e3%83%89) | ランパード (ranpādo) is a Japanese word that refers to a type of traditional Japanese clothing. It is a long, loose-fitting robe with wide sleeves and a sash around the waist. The word comes from the Portuguese word "ramparte," which means "protective wall." In English, it is sometimes referred to as a kimono robe. |
+| 17 | [三ツ矢くん](http://twitter.com/search?q=%e4%b8%89%e3%83%84%e7%9f%a2%e3%81%8f%e3%82%93) | N/A |
+| 18 | [完全感覚Dreamer](http://twitter.com/search?q=%e5%ae%8c%e5%85%a8%e6%84%9f%e8%a6%9aDreamer) | N/A |
 | 19 | [MONKEY MAJIK](http://twitter.com/search?q=MONKEY+MAJIK) | N/A |
-| 20 | [カットバン](http://twitter.com/search?q=%e3%82%ab%e3%83%83%e3%83%88%e3%83%90%e3%83%b3) | N/A |
-| 21 | [ジムセット](http://twitter.com/search?q=%e3%82%b8%e3%83%a0%e3%82%bb%e3%83%83%e3%83%88) | N/A |
-| 22 | [米津玄師](http://twitter.com/search?q=%e7%b1%b3%e6%b4%a5%e7%8e%84%e5%b8%ab) | 米津玄師 (Kenshi Yonezu) is a Japanese singer-songwriter, musician, and record producer. He is best known for his hit single "Lemon", which topped the Japanese Oricon Singles Chart in 2018. In English, his name translates to "Mystic Rice Field Master". |
-| 23 | [月ノ美兎](http://twitter.com/search?q=%e6%9c%88%e3%83%8e%e7%be%8e%e5%85%8e) | N/A |
-| 24 | [神奈川県民](http://twitter.com/search?q=%e7%a5%9e%e5%a5%88%e5%b7%9d%e7%9c%8c%e6%b0%91) | N/A |
-| 25 | [ネルシーニョ](http://twitter.com/search?q=%e3%83%8d%e3%83%ab%e3%82%b7%e3%83%bc%e3%83%8b%e3%83%a7) | N/A |
-| 26 | [ベーコンポテトパイ](http://twitter.com/search?q=%e3%83%99%e3%83%bc%e3%82%b3%e3%83%b3%e3%83%9d%e3%83%86%e3%83%88%e3%83%91%e3%82%a4) | N/A |
-| 27 | [ZAZY](http://twitter.com/search?q=ZAZY) | N/A |
-| 28 | [ワンオク](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%82%aa%e3%82%af) | N/A |
-| 29 | [神奈川県知事選](http://twitter.com/search?q=%e7%a5%9e%e5%a5%88%e5%b7%9d%e7%9c%8c%e7%9f%a5%e4%ba%8b%e9%81%b8) | N/A |
-| 30 | [ひるみ軽減](http://twitter.com/search?q=%e3%81%b2%e3%82%8b%e3%81%bf%e8%bb%bd%e6%b8%9b) | N/A |
-| 31 | [新藤くん](http://twitter.com/search?q=%e6%96%b0%e8%97%a4%e3%81%8f%e3%82%93) | N/A |
-| 32 | [マンダロリアン](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%83%80%e3%83%ad%e3%83%aa%e3%82%a2%e3%83%b3) | N/A |
-| 33 | [合同火力演習](http://twitter.com/search?q=%e5%90%88%e5%90%8c%e7%81%ab%e5%8a%9b%e6%bc%94%e7%bf%92) | N/A |
-| 34 | [シーサー](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%82%b5%e3%83%bc) | N/A |
-| 35 | [バクドル](http://twitter.com/search?q=%e3%83%90%e3%82%af%e3%83%89%e3%83%ab) | N/A |
-| 36 | [ナンジャモセット](http://twitter.com/search?q=%e3%83%8a%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%a2%e3%82%bb%e3%83%83%e3%83%88) | N/A |
-| 37 | [グランパス](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%91%e3%82%b9) | N/A |
-| 38 | [解体キングダム](http://twitter.com/search?q=%e8%a7%a3%e4%bd%93%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%80%e3%83%a0) | N/A |
-| 39 | [my darling](http://twitter.com/search?q=my+darling) | N/A |
-| 40 | [エクスプロージョン](http://twitter.com/search?q=%e3%82%a8%e3%82%af%e3%82%b9%e3%83%97%e3%83%ad%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3) | N/A |
-| 41 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 42 | [警察学校](http://twitter.com/search?q=%e8%ad%a6%e5%af%9f%e5%ad%a6%e6%a0%a1) | N/A |
-| 43 | [ガーベラ](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%83%99%e3%83%a9) | N/A |
-| 44 | [ブライト](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%83%88) | N/A |
-| 45 | [和田さん](http://twitter.com/search?q=%e5%92%8c%e7%94%b0%e3%81%95%e3%82%93) | 和田さん is a Japanese surname. In English, it would be translated as "Wada". |
+| 20 | [月ノ美兎](http://twitter.com/search?q=%e6%9c%88%e3%83%8e%e7%be%8e%e5%85%8e) | N/A |
+| 21 | [ベーコンポテトパイ](http://twitter.com/search?q=%e3%83%99%e3%83%bc%e3%82%b3%e3%83%b3%e3%83%9d%e3%83%86%e3%83%88%e3%83%91%e3%82%a4) | N/A |
+| 22 | [小春ちゃん](http://twitter.com/search?q=%e5%b0%8f%e6%98%a5%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 23 | [すわほー](http://twitter.com/search?q=%e3%81%99%e3%82%8f%e3%81%bb%e3%83%bc) | N/A |
+| 24 | [違法電波](http://twitter.com/search?q=%e9%81%95%e6%b3%95%e9%9b%bb%e6%b3%a2) | N/A |
+| 25 | [リーグ戦](http://twitter.com/search?q=%e3%83%aa%e3%83%bc%e3%82%b0%e6%88%a6) | リーグ戦 is a Japanese term that refers to a league competition or tournament. It is typically used to refer to sports competitions, such as soccer or baseball, where teams compete against each other in a round-robin format. In English, it can be translated as "league match" or "league tournament". |
+| 26 | [横浜開幕](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e9%96%8b%e5%b9%95) | N/A |
+| 27 | [神奈川県民](http://twitter.com/search?q=%e7%a5%9e%e5%a5%88%e5%b7%9d%e7%9c%8c%e6%b0%91) | N/A |
+| 28 | [ルヴァン](http://twitter.com/search?q=%e3%83%ab%e3%83%b4%e3%82%a1%e3%83%b3) | ルヴァン is a Japanese manga series written and illustrated by Yana Toboso. It follows the story of Ciel Phantomhive, a thirteen-year-old boy who is the head of the noble Phantomhive family and is tasked with solving various mysteries involving the supernatural for Queen Victoria. The title "ルヴァン" is derived from the French phrase "Le Vainqueur", which translates to "The Victor". |
+| 29 | [Twilog](http://twitter.com/search?q=Twilog) | Twilog is a Japanese website that allows users to search and view tweets from other Twitter users. The name Twilog is a combination of the words “Twitter” and “blog”, which reflects the site’s purpose of providing an easy way to browse through tweets. |
+| 30 | [米津さん](http://twitter.com/search?q=%e7%b1%b3%e6%b4%a5%e3%81%95%e3%82%93) | N/A |
+| 31 | [ジムセット](http://twitter.com/search?q=%e3%82%b8%e3%83%a0%e3%82%bb%e3%83%83%e3%83%88) | N/A |
+| 32 | [ネルシーニョ](http://twitter.com/search?q=%e3%83%8d%e3%83%ab%e3%82%b7%e3%83%bc%e3%83%8b%e3%83%a7) | N/A |
+| 33 | [神奈川県知事選](http://twitter.com/search?q=%e7%a5%9e%e5%a5%88%e5%b7%9d%e7%9c%8c%e7%9f%a5%e4%ba%8b%e9%81%b8) | N/A |
+| 34 | [カットバン](http://twitter.com/search?q=%e3%82%ab%e3%83%83%e3%83%88%e3%83%90%e3%83%b3) | N/A |
+| 35 | [米津玄師](http://twitter.com/search?q=%e7%b1%b3%e6%b4%a5%e7%8e%84%e5%b8%ab) | 米津玄師 (Kenshi Yonezu) is a Japanese singer-songwriter, musician, and record producer. He is best known for his hit single "Lemon", which topped the Japanese Oricon Singles Chart in 2018. In English, his name translates to "Mystic Rice Field Master". |
+| 36 | [合同火力演習](http://twitter.com/search?q=%e5%90%88%e5%90%8c%e7%81%ab%e5%8a%9b%e6%bc%94%e7%bf%92) | N/A |
+| 37 | [マンダロリアン](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%83%80%e3%83%ad%e3%83%aa%e3%82%a2%e3%83%b3) | N/A |
+| 38 | [たかほー](http://twitter.com/search?q=%e3%81%9f%e3%81%8b%e3%81%bb%e3%83%bc) | N/A |
+| 39 | [新藤くん](http://twitter.com/search?q=%e6%96%b0%e8%97%a4%e3%81%8f%e3%82%93) | N/A |
+| 40 | [ひるみ軽減](http://twitter.com/search?q=%e3%81%b2%e3%82%8b%e3%81%bf%e8%bb%bd%e6%b8%9b) | N/A |
+| 41 | [カクテル言葉](http://twitter.com/search?q=%e3%82%ab%e3%82%af%e3%83%86%e3%83%ab%e8%a8%80%e8%91%89) | N/A |
+| 42 | [解体キングダム](http://twitter.com/search?q=%e8%a7%a3%e4%bd%93%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%80%e3%83%a0) | N/A |
+| 43 | [シーサーちゃん](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%82%b5%e3%83%bc%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 44 | [黒岩さん](http://twitter.com/search?q=%e9%bb%92%e5%b2%a9%e3%81%95%e3%82%93) | N/A |
+| 45 | [my darling](http://twitter.com/search?q=my+darling) | N/A |
 | 46 | [Taka](http://twitter.com/search?q=Taka) | N/A |
-| 47 | [Official Live Video](http://twitter.com/search?q=Official+Live+Video) | N/A |
-| 48 | [黒岩さん](http://twitter.com/search?q=%e9%bb%92%e5%b2%a9%e3%81%95%e3%82%93) | N/A |
-| 49 | [村瀬さん](http://twitter.com/search?q=%e6%9d%91%e7%80%ac%e3%81%95%e3%82%93) | 村瀬さん is a Japanese honorific title used to refer to someone with the surname Murase. It is similar to the English title of "Mr. Murase" or "Mrs. Murase". |
-| 50 | [違法電波](http://twitter.com/search?q=%e9%81%95%e6%b3%95%e9%9b%bb%e6%b3%a2) | N/A |
+| 47 | [バクドル](http://twitter.com/search?q=%e3%83%90%e3%82%af%e3%83%89%e3%83%ab) | N/A |
+| 48 | [大津さん](http://twitter.com/search?q=%e5%a4%a7%e6%b4%a5%e3%81%95%e3%82%93) | N/A |
+| 49 | [ブライト](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%83%88) | N/A |
+| 50 | [Official Live Video](http://twitter.com/search?q=Official+Live+Video) | N/A |
 
 
 

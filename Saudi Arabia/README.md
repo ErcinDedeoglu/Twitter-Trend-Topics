@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saudi Arabia
 
-📆 Last Updated: `2023-04-05 18:17:59 UTC`
+📆 Last Updated: `2023-04-05 19:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for Saudi Arabia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#فوازير_غازي_الذيابي7](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a7) | N/A |
-| 2 | [#النصر_العداله](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | #النصر_العداله is an Arabic hashtag that translates to "Victory of Justice" in English. It is often used to express support for justice and fairness in society. |
-| 3 | [#الهلال_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | #الهلال_الفيحاء is a hashtag used by fans of the Saudi Arabian football team Al-Hilal FC. In English, it translates to "Al-Hilal's Phoenix". |
-| 4 | [#الاتحاد_ضمك](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%b6%d9%85%d9%83) | N/A |
-| 5 | [#برنامج_التقويم_المدرسي](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac_%d8%a7%d9%84%d8%aa%d9%82%d9%88%d9%8a%d9%85_%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a) | N/A |
+| 1 | [#ام_بطي_تنخاكم5](http://twitter.com/search?q=%23%d8%a7%d9%85_%d8%a8%d8%b7%d9%8a_%d8%aa%d9%86%d8%ae%d8%a7%d9%83%d9%855) | N/A |
+| 2 | [#هدايا_رسيس3](http://twitter.com/search?q=%23%d9%87%d8%af%d8%a7%d9%8a%d8%a7_%d8%b1%d8%b3%d9%8a%d8%b33) | N/A |
+| 3 | [#سوال_ابوفهد_اليومي8](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%a7%d9%84_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af_%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a8) | N/A |
+| 4 | [#ام_مشاري_تنخاكم_لعتق_ابنها](http://twitter.com/search?q=%23%d8%a7%d9%85_%d9%85%d8%b4%d8%a7%d8%b1%d9%8a_%d8%aa%d9%86%d8%ae%d8%a7%d9%83%d9%85_%d9%84%d8%b9%d8%aa%d9%82_%d8%a7%d8%a8%d9%86%d9%87%d8%a7) | N/A |
+| 5 | [#مراحل_فلاح_القرقاح](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%a7%d8%ad%d9%84_%d9%81%d9%84%d8%a7%d8%ad_%d8%a7%d9%84%d9%82%d8%b1%d9%82%d8%a7%d8%ad) | N/A |
 | 6 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
-| 7 | [تاليسكا](http://twitter.com/search?q=%d8%aa%d8%a7%d9%84%d9%8a%d8%b3%d9%83%d8%a7) | تاليسكا is a type of traditional dance from the Middle East. It is an energetic, fast-paced dance that involves spinning and clapping. In English, it is sometimes referred to as the "Tahleekah Dance". |
-| 8 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 9 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
-| 10 | [التوقف الاضطراري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%81+%d8%a7%d9%84%d8%a7%d8%b6%d8%b7%d8%b1%d8%a7%d8%b1%d9%8a) | N/A |
-| 11 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 12 | [كانتي](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%aa%d9%8a) | N/A |
-| 13 | [فلاديمير](http://twitter.com/search?q=%d9%81%d9%84%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d8%b1) | فلاديمير is a Russian name, derived from the Greek name Φλαδίμηρος (Fládímēros). It is usually translated into English as "Fladimir" or "Vladimir". |
-| 14 | [بن هاشم](http://twitter.com/search?q=%d8%a8%d9%86+%d9%87%d8%a7%d8%b4%d9%85) | N/A |
-| 15 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
-| 16 | [الساعات المقبله](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84%d9%87) | N/A |
-| 17 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
-| 18 | [ايمن يحيى](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d9%86+%d9%8a%d8%ad%d9%8a%d9%89) | "ايمن يحيى" is an Arabic name, and it translates to "Iman Yahya" in English. |
-| 19 | [محمد بن عبدالله بن](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a8%d9%86) | N/A |
-| 20 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 21 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 22 | [البليهي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | البليهي is an Arabic phrase meaning "the beautiful one". It is often used as a term of endearment for someone who is attractive or has a pleasing personality. |
-| 23 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
-| 24 | [رقم الدعيع](http://twitter.com/search?q=%d8%b1%d9%82%d9%85+%d8%a7%d9%84%d8%af%d8%b9%d9%8a%d8%b9) | N/A |
-| 25 | [ميشيل](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d9%8a%d9%84) | ميشيل (pronounced mee-sheel) is a common Arabic name, derived from the Hebrew name Michael. It means "who is like God" in English. |
-| 26 | [كوفا](http://twitter.com/search?q=%d9%83%d9%88%d9%81%d8%a7) | N/A |
-| 27 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 28 | [سامي النجعي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d9%86%d8%ac%d8%b9%d9%8a) | سامي النجعي is an Arabic phrase meaning "Sammy the Brave". It is often used as a nickname for someone who is courageous and brave. |
-| 29 | [فوز العالمي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 30 | [قول الدون](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d8%af%d9%88%d9%86) | N/A |
-| 31 | [اوساسونا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b3%d8%a7%d8%b3%d9%88%d9%86%d8%a7) | N/A |
-| 32 | [حجازي](http://twitter.com/search?q=%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | حجازي is an Arabic word that refers to someone or something from the region of Hejaz, which is located in western Saudi Arabia. In English, it can be translated as "Hejazi". |
-| 33 | [هندرسون](http://twitter.com/search?q=%d9%87%d9%86%d8%af%d8%b1%d8%b3%d9%88%d9%86) | N/A |
-| 34 | [عبدالله الحربي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a) | N/A |
-| 35 | [الساعه الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
-| 36 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
-| 37 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 38 | [ميلنر](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%86%d8%b1) | ميلنر (Mylner) is a type of traditional Arabic dance that originated in the Middle East. It is characterized by its fast-paced, energetic movements and intricate footwork. The dance is usually performed in a circle, with the dancers taking turns leading the group. In English, it can be translated as "circle dancer". |
-| 39 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
-| 40 | [كلين شيت](http://twitter.com/search?q=%d9%83%d9%84%d9%8a%d9%86+%d8%b4%d9%8a%d8%aa) | N/A |
-| 41 | [ابو الطفيل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d8%b7%d9%81%d9%8a%d9%84) | N/A |
-| 42 | [كوادرادو](http://twitter.com/search?q=%d9%83%d9%88%d8%a7%d8%af%d8%b1%d8%a7%d8%af%d9%88) | N/A |
-| 43 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
-| 44 | [جونز](http://twitter.com/search?q=%d8%ac%d9%88%d9%86%d8%b2) | N/A |
-| 45 | [بيت العنكبوت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d9%83%d8%a8%d9%88%d8%aa) | N/A |
-| 46 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 47 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
-| 48 | [ريان حامد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%86+%d8%ad%d8%a7%d9%85%d8%af) | N/A |
-| 49 | [عامل النظافه](http://twitter.com/search?q=%d8%b9%d8%a7%d9%85%d9%84+%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%81%d9%87) | N/A |
-| 50 | [جازان](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b2%d8%a7%d9%86) | N/A |
+| 7 | [فيسكا بارسا](http://twitter.com/search?q=%d9%81%d9%8a%d8%b3%d9%83%d8%a7+%d8%a8%d8%a7%d8%b1%d8%b3%d8%a7) | N/A |
+| 8 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 9 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 10 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
+| 11 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
+| 12 | [فهد العتيبي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a) | فهد العتيبي is a male Arabic name. It is composed of two parts: فهد (Fahd) which means "lynx" or "panther" and العتيبي (al-Atibi) which means "the one from Atiba", a region in Saudi Arabia. In English, the name would be translated as "Fahd of Atiba". |
+| 13 | [ويلسون](http://twitter.com/search?q=%d9%88%d9%8a%d9%84%d8%b3%d9%88%d9%86) | N/A |
+| 14 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 15 | [البرسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%b3%d8%a7) | N/A |
+| 16 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 17 | [ابو بكر الصديق](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a8%d9%83%d8%b1+%d8%a7%d9%84%d8%b5%d8%af%d9%8a%d9%82) | N/A |
+| 18 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
+| 19 | [دي يونغ](http://twitter.com/search?q=%d8%af%d9%8a+%d9%8a%d9%88%d9%86%d8%ba) | دي يونغ (Dai Yong) is a Chinese surname. In English, it can be translated to mean "Great Hero". |
+| 20 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 21 | [لمدريد](http://twitter.com/search?q=%d9%84%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
+| 22 | [الضمان الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
+| 23 | [١٥ رمضان](http://twitter.com/search?q=%d9%a1%d9%a5+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 24 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 25 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
+| 26 | [#برشلونه_ريال_مدريد](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
+| 27 | [#سديم_تنخي_شعب_طويق](http://twitter.com/search?q=%23%d8%b3%d8%af%d9%8a%d9%85_%d8%aa%d9%86%d8%ae%d9%8a_%d8%b4%d8%b9%d8%a8_%d8%b7%d9%88%d9%8a%d9%82) | N/A |
+| 28 | [#مبروك_بنك_البلاد](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%b1%d9%88%d9%83_%d8%a8%d9%86%d9%83_%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af) | N/A |
+| 29 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 30 | [#مسابقه_NHC](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_NHC) | N/A |
+| 31 | [#الروشن14](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8614) | N/A |
+| 32 | [#مسابقه_السلامه_المروريه14](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d9%8714) | N/A |
+| 33 | [#ViscaBarca](http://twitter.com/search?q=%23ViscaBarca) | N/A |
+| 34 | [#الانماء_وعطر_الكلام6](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1_%d9%88%d8%b9%d8%b7%d8%b1_%d8%a7%d9%84%d9%83%d9%84%d8%a7%d9%856) | N/A |
+| 35 | [#لك_اقرب](http://twitter.com/search?q=%23%d9%84%d9%83_%d8%a7%d9%82%d8%b1%d8%a8) | N/A |
+| 36 | [#بندر_بليله](http://twitter.com/search?q=%23%d8%a8%d9%86%d8%af%d8%b1_%d8%a8%d9%84%d9%8a%d9%84%d9%87) | N/A |
+| 37 | [#برنامج_التقويم_المدرسي](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac_%d8%a7%d9%84%d8%aa%d9%82%d9%88%d9%8a%d9%85_%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a) | N/A |
+| 38 | [#زد_رصيدك72](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8372) | N/A |
+| 39 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 40 | [#قصه_بطل14](http://twitter.com/search?q=%23%d9%82%d8%b5%d9%87_%d8%a8%d8%b7%d9%8414) | N/A |
+| 41 | [#الكلاسيكو](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%b3%d9%8a%d9%83%d9%88) | N/A |
+| 42 | [#كريم_اهل_البيت](http://twitter.com/search?q=%23%d9%83%d8%b1%d9%8a%d9%85_%d8%a7%d9%87%d9%84_%d8%a7%d9%84%d8%a8%d9%8a%d8%aa) | N/A |
+| 43 | [#الطايي_الرايد](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a_%d8%a7%d9%84%d8%b1%d8%a7%d9%8a%d8%af) | N/A |
+| 44 | [#ابها_التعاون](http://twitter.com/search?q=%23%d8%a7%d8%a8%d9%87%d8%a7_%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
+| 45 | [#المسجد_الاقصي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af_%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
+| 46 | [#الاقصي_يستغيث](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a_%d9%8a%d8%b3%d8%aa%d8%ba%d9%8a%d8%ab) | N/A |
+| 47 | [#الباطن_الوحده](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86_%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
+| 48 | [#غنايم_رمضان](http://twitter.com/search?q=%23%d8%ba%d9%86%d8%a7%d9%8a%d9%85_%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 49 | [#رمضان14](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%8614) | N/A |
 
 
 

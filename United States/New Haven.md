@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-04-05 18:17:49 UTC`
+📆 Last Updated: `2023-04-05 19:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [United States](</United States>)
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 2 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
 | 3 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 4 | [#NPHWChat](http://twitter.com/search?q=%23NPHWChat) | N/A |
-| 5 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 6 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 7 | [Dominic Rhodes](http://twitter.com/search?q=Dominic+Rhodes) | N/A |
-| 8 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 9 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 10 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
-| 11 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
-| 12 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 13 | [#SafePlaceSelfie](http://twitter.com/search?q=%23SafePlaceSelfie) | N/A |
-| 14 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 15 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 16 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
-| 17 | [Vickie](http://twitter.com/search?q=Vickie) | N/A |
-| 18 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
-| 19 | [Grayson Rodriguez](http://twitter.com/search?q=Grayson+Rodriguez) | N/A |
-| 20 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 21 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 22 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 23 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 24 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 25 | [Pharrell](http://twitter.com/search?q=Pharrell) | N/A |
-| 26 | [Seder](http://twitter.com/search?q=Seder) | N/A |
-| 27 | [Bryce Dallas Howard](http://twitter.com/search?q=Bryce+Dallas+Howard) | N/A |
-| 28 | [Ronna](http://twitter.com/search?q=Ronna) | Ronna is a female given name, derived from the Hebrew name Veronica. It is a variant of the name Veronica, which means "true image". |
-| 29 | [Sore](http://twitter.com/search?q=Sore) | N/A |
-| 30 | [Lightfoot](http://twitter.com/search?q=Lightfoot) | N/A |
-| 31 | [The Super Mario Bros](http://twitter.com/search?q=The+Super+Mario+Bros) | N/A |
-| 32 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 33 | [Augusta National](http://twitter.com/search?q=Augusta+National) | N/A |
-| 34 | [WotC](http://twitter.com/search?q=WotC) | WotC stands for Wizards of the Coast, a publisher of fantasy and science fiction games, books, and other products. It is best known for its role-playing game Dungeons & Dragons. |
-| 35 | [Chicagoans](http://twitter.com/search?q=Chicagoans) | N/A |
-| 36 | [Illumination](http://twitter.com/search?q=Illumination) | N/A |
-| 37 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 38 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 39 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 40 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 41 | [#firevince](http://twitter.com/search?q=%23firevince) | N/A |
-| 42 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 43 | [#OneBallState](http://twitter.com/search?q=%23OneBallState) | N/A |
-| 44 | [#MarioMovie](http://twitter.com/search?q=%23MarioMovie) | N/A |
-| 45 | [#IStandWithEvan](http://twitter.com/search?q=%23IStandWithEvan) | N/A |
-| 46 | [#ncpol](http://twitter.com/search?q=%23ncpol) | N/A |
-| 47 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 48 | [#JJK219](http://twitter.com/search?q=%23JJK219) | N/A |
+| 4 | [Corbin Burnes](http://twitter.com/search?q=Corbin+Burnes) | N/A |
+| 5 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 6 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 7 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
+| 8 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 9 | [#NPHWChat](http://twitter.com/search?q=%23NPHWChat) | N/A |
+| 10 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 11 | [Jacob deGrom](http://twitter.com/search?q=Jacob+deGrom) | N/A |
+| 12 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 13 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 14 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 15 | [Mitch Keller](http://twitter.com/search?q=Mitch+Keller) | N/A |
+| 16 | [emily henry](http://twitter.com/search?q=emily+henry) | N/A |
+| 17 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 18 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 19 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
+| 20 | [Seamus Power](http://twitter.com/search?q=Seamus+Power) | N/A |
+| 21 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 22 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 23 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 24 | [Jose Trevino](http://twitter.com/search?q=Jose+Trevino) | N/A |
+| 25 | [Bryce Elder](http://twitter.com/search?q=Bryce+Elder) | N/A |
+| 26 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
+| 27 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 28 | [Ziwe](http://twitter.com/search?q=Ziwe) | N/A |
+| 29 | [Grayson Rodriguez](http://twitter.com/search?q=Grayson+Rodriguez) | N/A |
+| 30 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
+| 31 | [Kingery](http://twitter.com/search?q=Kingery) | N/A |
+| 32 | [Joey Wiemer](http://twitter.com/search?q=Joey+Wiemer) | N/A |
+| 33 | [Dominic Rhodes](http://twitter.com/search?q=Dominic+Rhodes) | N/A |
+| 34 | [Jorge Soler](http://twitter.com/search?q=Jorge+Soler) | N/A |
+| 35 | [Goldschmidt](http://twitter.com/search?q=Goldschmidt) | N/A |
+| 36 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 37 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
+| 38 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
+| 39 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
+| 40 | [Kevin Long](http://twitter.com/search?q=Kevin+Long) | N/A |
+| 41 | [Par 3 Contest](http://twitter.com/search?q=Par+3+Contest) | N/A |
+| 42 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
+| 43 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 44 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 45 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
+| 46 | [Maton](http://twitter.com/search?q=Maton) | Maton is a brand of acoustic guitars made in Australia. The name is derived from the words "May" and "Tone", which refer to the quality of sound produced by the guitars. |
+| 47 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 48 | [Surviving the Game](http://twitter.com/search?q=Surviving+the+Game) | N/A |
 
 
 

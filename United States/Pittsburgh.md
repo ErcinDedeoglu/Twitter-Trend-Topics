@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-04-05 18:17:50 UTC`
+📆 Last Updated: `2023-04-05 19:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 4 | [#NPHWChat](http://twitter.com/search?q=%23NPHWChat) | N/A |
-| 5 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 6 | [America](http://twitter.com/search?q=America) | N/A |
-| 7 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 8 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 9 | [#HeartBridgeCoin](http://twitter.com/search?q=%23HeartBridgeCoin) | N/A |
-| 10 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 11 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 12 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 13 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 14 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 15 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 16 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 17 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 18 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 19 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 20 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 21 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
-| 22 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 23 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 24 | [Van Jones](http://twitter.com/search?q=Van+Jones) | N/A |
-| 25 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 26 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 27 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
-| 28 | [#BTRDay](http://twitter.com/search?q=%23BTRDay) | N/A |
-| 29 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 30 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 31 | [#RAWAfterMania](http://twitter.com/search?q=%23RAWAfterMania) | N/A |
+| 1 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 2 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 3 | [Corbin Burnes](http://twitter.com/search?q=Corbin+Burnes) | N/A |
+| 4 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 5 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 6 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
+| 7 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 8 | [#NPHWChat](http://twitter.com/search?q=%23NPHWChat) | N/A |
+| 9 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 10 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 11 | [Jacob deGrom](http://twitter.com/search?q=Jacob+deGrom) | N/A |
+| 12 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 13 | [Mitch Keller](http://twitter.com/search?q=Mitch+Keller) | N/A |
+| 14 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 15 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 16 | [emily henry](http://twitter.com/search?q=emily+henry) | N/A |
+| 17 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 18 | [Seamus Power](http://twitter.com/search?q=Seamus+Power) | N/A |
+| 19 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
+| 20 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 21 | [Bryce Elder](http://twitter.com/search?q=Bryce+Elder) | N/A |
+| 22 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 23 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 24 | [Jose Trevino](http://twitter.com/search?q=Jose+Trevino) | N/A |
+| 25 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
+| 26 | [Ziwe](http://twitter.com/search?q=Ziwe) | N/A |
+| 27 | [Grayson Rodriguez](http://twitter.com/search?q=Grayson+Rodriguez) | N/A |
+| 28 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 29 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
+| 30 | [Kingery](http://twitter.com/search?q=Kingery) | N/A |
+| 31 | [Joey Wiemer](http://twitter.com/search?q=Joey+Wiemer) | N/A |
 | 32 | [Dominic Rhodes](http://twitter.com/search?q=Dominic+Rhodes) | N/A |
-| 33 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 34 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 35 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 36 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 37 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 38 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 39 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
-| 40 | [Brandon Johnson](http://twitter.com/search?q=Brandon+Johnson) | N/A |
-| 41 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 42 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 43 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 44 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 45 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 46 | [Shrek 5](http://twitter.com/search?q=Shrek+5) | N/A |
-| 47 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 48 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 49 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 50 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 33 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
+| 34 | [Jorge Soler](http://twitter.com/search?q=Jorge+Soler) | N/A |
+| 35 | [Goldschmidt](http://twitter.com/search?q=Goldschmidt) | N/A |
+| 36 | [Goldy](http://twitter.com/search?q=Goldy) | N/A |
+| 37 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
+| 38 | [Kevin Long](http://twitter.com/search?q=Kevin+Long) | N/A |
+| 39 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 40 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
+| 41 | [Par 3 Contest](http://twitter.com/search?q=Par+3+Contest) | N/A |
+| 42 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 43 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 44 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
+| 45 | [Maton](http://twitter.com/search?q=Maton) | Maton is a brand of acoustic guitars made in Australia. The name is derived from the words "May" and "Tone", which refer to the quality of sound produced by the guitars. |
+| 46 | [Surviving the Game](http://twitter.com/search?q=Surviving+the+Game) | N/A |
+| 47 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 48 | [Native Hawaiian](http://twitter.com/search?q=Native+Hawaiian) | N/A |
+| 49 | [Pop Warner](http://twitter.com/search?q=Pop+Warner) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-04-05 18:17:54 UTC`
+📆 Last Updated: `2023-04-05 19:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,43 @@ This is top 50 for Brazil
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Blumenau](http://twitter.com/search?q=Blumenau) | N/A |
-| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [Evaristo](http://twitter.com/search?q=Evaristo) | N/A |
-| 4 | [#GamingDoge](http://twitter.com/search?q=%23GamingDoge) | N/A |
-| 5 | [#OnlineMidWeekWord](http://twitter.com/search?q=%23OnlineMidWeekWord) | N/A |
-| 6 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 9 | [#FicaAmanda](http://twitter.com/search?q=%23FicaAmanda) | N/A |
-| 10 | [Fábio William](http://twitter.com/search?q=F%c3%a1bio+William) | N/A |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 13 | [ANY GABRIELLY NO PORCHAT](http://twitter.com/search?q=ANY+GABRIELLY+NO+PORCHAT) | N/A |
-| 14 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 15 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 16 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 17 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 19 | [#FicaLarissa](http://twitter.com/search?q=%23FicaLarissa) | N/A |
-| 20 | [CRECHE](http://twitter.com/search?q=CRECHE) | N/A |
-| 21 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
-| 22 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 23 | [Odair](http://twitter.com/search?q=Odair) | N/A |
-| 24 | [Datena](http://twitter.com/search?q=Datena) | N/A |
-| 25 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 26 | [ANY GABRIELLY REPUBLIC RECORDS](http://twitter.com/search?q=ANY+GABRIELLY+REPUBLIC+RECORDS) | N/A |
-| 27 | [#IWannaStayWithGYU](http://twitter.com/search?q=%23IWannaStayWithGYU) | N/A |
-| 28 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 29 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 30 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 31 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 32 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 33 | [KEILLER](http://twitter.com/search?q=KEILLER) | N/A |
-| 34 | [blooming](http://twitter.com/search?q=blooming) | N/A |
-| 35 | [Faz o L](http://twitter.com/search?q=Faz+o+L) | N/A |
-| 36 | [Eita](http://twitter.com/search?q=Eita) | N/A |
-| 37 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 38 | [luiz adriano](http://twitter.com/search?q=luiz+adriano) | N/A |
-| 39 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 40 | [JUSTIÇA POR RAFAELI](http://twitter.com/search?q=JUSTI%c3%87A+POR+RAFAELI) | N/A |
-| 41 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 42 | [lily collins](http://twitter.com/search?q=lily+collins) | N/A |
-| 43 | [Moana](http://twitter.com/search?q=Moana) | N/A |
-| 44 | [Novo Ensino Médio](http://twitter.com/search?q=Novo+Ensino+M%c3%a9dio) | N/A |
-| 45 | [Luciano Huck](http://twitter.com/search?q=Luciano+Huck) | N/A |
-| 46 | [CAMACHO](http://twitter.com/search?q=CAMACHO) | N/A |
-| 47 | [Manoel](http://twitter.com/search?q=Manoel) | Manoel is a Portuguese variant of the name Manuel, which is derived from the Hebrew name Immanuel. It means "God is with us" in English. |
-| 48 | [Cuello](http://twitter.com/search?q=Cuello) | N/A |
-| 49 | [FREIBURG](http://twitter.com/search?q=FREIBURG) | N/A |
-| 50 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 2 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 3 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 4 | [Evaristo](http://twitter.com/search?q=Evaristo) | N/A |
+| 5 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 6 | [Fábio William](http://twitter.com/search?q=F%c3%a1bio+William) | N/A |
+| 7 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 8 | [#OnlineMidWeekWord](http://twitter.com/search?q=%23OnlineMidWeekWord) | N/A |
+| 9 | [Surto](http://twitter.com/search?q=Surto) | N/A |
+| 10 | [Dindinho](http://twitter.com/search?q=Dindinho) | N/A |
+| 11 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 12 | [CRECHE](http://twitter.com/search?q=CRECHE) | N/A |
+| 13 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 14 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 15 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
+| 16 | [Denunciando](http://twitter.com/search?q=Denunciando) | N/A |
+| 17 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 18 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 19 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 20 | [BOLSONARO PRESO](http://twitter.com/search?q=BOLSONARO+PRESO) | N/A |
+| 21 | [#AtardeESua](http://twitter.com/search?q=%23AtardeESua) | N/A |
+| 22 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 23 | [Realengo](http://twitter.com/search?q=Realengo) | N/A |
+| 24 | [lily collins](http://twitter.com/search?q=lily+collins) | N/A |
+| 25 | [Gabriela Hardt](http://twitter.com/search?q=Gabriela+Hardt) | N/A |
+| 26 | [Assassino](http://twitter.com/search?q=Assassino) | N/A |
+| 27 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 28 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 29 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
+| 30 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 31 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 32 | [Janaína](http://twitter.com/search?q=Jana%c3%adna) | N/A |
+| 33 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 34 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 35 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 36 | [#TodasAsFlores](http://twitter.com/search?q=%23TodasAsFlores) | N/A |
+| 37 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 38 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
 
 
 

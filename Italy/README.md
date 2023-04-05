@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-04-05 18:17:56 UTC`
+📆 Last Updated: `2023-04-05 19:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Italy
 | ------- | ------------ | ------------ |
 | 1 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
 | 2 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 3 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
-| 4 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 5 | [#CoppaItalia](http://twitter.com/search?q=%23CoppaItalia) | N/A |
-| 6 | [#primoappuntamento](http://twitter.com/search?q=%23primoappuntamento) | N/A |
-| 7 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 8 | [#4aprile](http://twitter.com/search?q=%234aprile) | N/A |
-| 9 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 10 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 11 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 12 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 13 | [di maria](http://twitter.com/search?q=di+maria) | N/A |
-| 14 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 15 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
-| 16 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
-| 17 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 18 | [Bonolis](http://twitter.com/search?q=Bonolis) | N/A |
-| 19 | [Moratti](http://twitter.com/search?q=Moratti) | N/A |
-| 20 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 21 | [Fedriga](http://twitter.com/search?q=Fedriga) | N/A |
-| 22 | [Perin](http://twitter.com/search?q=Perin) | N/A |
-| 23 | [Forza Presidente](http://twitter.com/search?q=Forza+Presidente) | N/A |
-| 24 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 25 | [MARIO MARIO](http://twitter.com/search?q=MARIO+MARIO) | N/A |
-| 26 | [inzaghi](http://twitter.com/search?q=inzaghi) | N/A |
-| 27 | [SAMIR](http://twitter.com/search?q=SAMIR) | N/A |
-| 28 | [DZEKO](http://twitter.com/search?q=DZEKO) | N/A |
-| 29 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 30 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 31 | [Graziani](http://twitter.com/search?q=Graziani) | N/A |
+| 3 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 4 | [#100x100ItaliaSpecial](http://twitter.com/search?q=%23100x100ItaliaSpecial) | N/A |
+| 5 | [#SilvioBerlusconi](http://twitter.com/search?q=%23SilvioBerlusconi) | N/A |
+| 6 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
+| 7 | [#provareAncora](http://twitter.com/search?q=%23provareAncora) | N/A |
+| 8 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 9 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
+| 10 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 12 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
+| 13 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 14 | [Perin](http://twitter.com/search?q=Perin) | N/A |
+| 15 | [Pallotta](http://twitter.com/search?q=Pallotta) | N/A |
+| 16 | [Lotito](http://twitter.com/search?q=Lotito) | N/A |
+| 17 | [Kumbulla](http://twitter.com/search?q=Kumbulla) | N/A |
+| 18 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 19 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 20 | [Lazio e Salernitana](http://twitter.com/search?q=Lazio+e+Salernitana) | N/A |
+| 21 | [Tare](http://twitter.com/search?q=Tare) | N/A |
+| 22 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 23 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 24 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 25 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
+| 26 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 27 | [Cristante](http://twitter.com/search?q=Cristante) | N/A |
+| 28 | [Vinco](http://twitter.com/search?q=Vinco) | N/A |
+| 29 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 30 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
+| 31 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
 | 32 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
-| 33 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 34 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 35 | [Serracchiani](http://twitter.com/search?q=Serracchiani) | N/A |
-| 36 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 37 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
-| 38 | [Cesari](http://twitter.com/search?q=Cesari) | N/A |
-| 39 | [Panita](http://twitter.com/search?q=Panita) | N/A |
-| 40 | [BONUCCI](http://twitter.com/search?q=BONUCCI) | N/A |
-| 41 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 42 | [Taveri](http://twitter.com/search?q=Taveri) | N/A |
-| 43 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 44 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
-| 45 | [Milik](http://twitter.com/search?q=Milik) | Milik is a Malay word that means "ownership" or "possession". It is often used to refer to the ownership of property or assets. |
-| 46 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 47 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
-| 48 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 49 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 50 | [CONSIGLIO DI STATO](http://twitter.com/search?q=CONSIGLIO+DI+STATO) | N/A |
+| 33 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 34 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 35 | [Forza Presidente](http://twitter.com/search?q=Forza+Presidente) | N/A |
+| 36 | [Friedkin](http://twitter.com/search?q=Friedkin) | N/A |
+| 37 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 38 | [Samir](http://twitter.com/search?q=Samir) | N/A |
+| 39 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 40 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
+| 41 | [Bugo](http://twitter.com/search?q=Bugo) | N/A |
+| 42 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
+| 43 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
+| 44 | [Bonucci](http://twitter.com/search?q=Bonucci) | N/A |
+| 45 | [Veltroni](http://twitter.com/search?q=Veltroni) | N/A |
+| 46 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 47 | [Ammonito](http://twitter.com/search?q=Ammonito) | N/A |
+| 48 | [L'Unità](http://twitter.com/search?q=L%27Unit%c3%a0) | N/A |
+| 49 | [Senatore](http://twitter.com/search?q=Senatore) | N/A |
+| 50 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
 
 
 
