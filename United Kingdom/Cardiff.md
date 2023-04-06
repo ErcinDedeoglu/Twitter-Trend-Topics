@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-04-06 07:17:45 UTC`
+📆 Last Updated: `2023-04-06 08:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 2 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 3 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
-| 4 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 5 | [#WHUNEW](http://twitter.com/search?q=%23WHUNEW) | N/A |
-| 6 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 8 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 9 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
-| 12 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 13 | [Fabianski](http://twitter.com/search?q=Fabianski) | N/A |
-| 14 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 15 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 17 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 18 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 19 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 20 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 21 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 22 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
-| 23 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
-| 24 | [Wembley Stadium](http://twitter.com/search?q=Wembley+Stadium) | N/A |
-| 25 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 26 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
-| 27 | [Curtis jones](http://twitter.com/search?q=Curtis+jones) | N/A |
-| 28 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
-| 29 | [Callum Wilson](http://twitter.com/search?q=Callum+Wilson) | N/A |
-| 30 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 31 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 32 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
-| 33 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
-| 34 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 35 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 36 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
-| 37 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 38 | [Kehrer](http://twitter.com/search?q=Kehrer) | Kehrer is a German surname. It is derived from the Middle High German word "kehrer," which means "sweeper" or "cleaner." |
-| 39 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 40 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 41 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 42 | [Passover](http://twitter.com/search?q=Passover) | N/A |
-| 43 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 44 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 45 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 46 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 47 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 48 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 2 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 3 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 4 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 5 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 7 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 8 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 9 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
+| 10 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 11 | [Wembley Stadium](http://twitter.com/search?q=Wembley+Stadium) | N/A |
+| 12 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 13 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
+| 14 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 15 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 16 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
+| 17 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
+| 18 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
+| 19 | [Tory MP](http://twitter.com/search?q=Tory+MP) | N/A |
+| 20 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 21 | [Soyinka](http://twitter.com/search?q=Soyinka) | N/A |
+| 22 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 23 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 24 | [Sturgeon](http://twitter.com/search?q=Sturgeon) | Sturgeon is a type of large fish that is found in the waters of the Northern Hemisphere. It is an anadromous fish, meaning it spends part of its life in fresh water and part in salt water. Sturgeon are prized for their roe, which is used to make caviar. |
+| 25 | [Peter Murrell](http://twitter.com/search?q=Peter+Murrell) | N/A |
+| 26 | [Dorset](http://twitter.com/search?q=Dorset) | N/A |
+| 27 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 28 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
+| 29 | [Sullivan](http://twitter.com/search?q=Sullivan) | N/A |
+| 30 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 31 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 32 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 33 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 34 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 35 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 36 | [Michelle Mone](http://twitter.com/search?q=Michelle+Mone) | N/A |
+| 37 | [Passover](http://twitter.com/search?q=Passover) | N/A |
+| 38 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 39 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 40 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 41 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 42 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
+| 43 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 44 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 45 | [Zionist](http://twitter.com/search?q=Zionist) | N/A |
+| 46 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 47 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
 
 
 

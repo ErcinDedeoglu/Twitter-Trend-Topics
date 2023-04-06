@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-04-06 07:18:44 UTC`
+📆 Last Updated: `2023-04-06 08:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Chile
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 2 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 3 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
+| 2 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
+| 3 | [Carabinero](http://twitter.com/search?q=Carabinero) | N/A |
 | 4 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 5 | [Carabinero](http://twitter.com/search?q=Carabinero) | N/A |
-| 6 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 7 | [#RenunciaToha](http://twitter.com/search?q=%23RenunciaToha) | N/A |
-| 8 | [#BastaYa](http://twitter.com/search?q=%23BastaYa) | N/A |
-| 9 | [#EstadoDeExcepcion](http://twitter.com/search?q=%23EstadoDeExcepcion) | N/A |
-| 10 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 11 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
-| 12 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 13 | [Cabo 1](http://twitter.com/search?q=Cabo+1) | N/A |
-| 14 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 5 | [#RenunciaBoric](http://twitter.com/search?q=%23RenunciaBoric) | N/A |
+| 6 | [#BastaYa](http://twitter.com/search?q=%23BastaYa) | N/A |
+| 7 | [#EstadoDeExcepcion](http://twitter.com/search?q=%23EstadoDeExcepcion) | N/A |
+| 8 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
+| 9 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 10 | [Cabo 1](http://twitter.com/search?q=Cabo+1) | N/A |
+| 11 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 12 | [#BoricEstaDestruyendoAChile](http://twitter.com/search?q=%23BoricEstaDestruyendoAChile) | N/A |
+| 13 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 14 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
 | 15 | [#LeyNainRetamal](http://twitter.com/search?q=%23LeyNainRetamal) | N/A |
-| 16 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 17 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 18 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 19 | [Q.E.P.D](http://twitter.com/search?q=Q.E.P.D) | N/A |
-| 20 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 21 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
-| 22 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 23 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
-| 24 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 25 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 26 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
-| 27 | [Posta Central](http://twitter.com/search?q=Posta+Central) | N/A |
-| 28 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 29 | [Falleció](http://twitter.com/search?q=Falleci%c3%b3) | N/A |
-| 30 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
-| 31 | [Asesinos](http://twitter.com/search?q=Asesinos) | N/A |
-| 32 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 33 | [PC y FA](http://twitter.com/search?q=PC+y+FA) | N/A |
-| 34 | [Santiago Centro](http://twitter.com/search?q=Santiago+Centro) | N/A |
-| 35 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
-| 36 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 37 | [Enfermo](http://twitter.com/search?q=Enfermo) | N/A |
-| 38 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 39 | [Militares](http://twitter.com/search?q=Militares) | N/A |
-| 40 | [Malditos](http://twitter.com/search?q=Malditos) | N/A |
-| 41 | [Cínica](http://twitter.com/search?q=C%c3%adnica) | N/A |
-| 42 | [Comunistas](http://twitter.com/search?q=Comunistas) | N/A |
-| 43 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 44 | [Cierra](http://twitter.com/search?q=Cierra) | N/A |
-| 45 | [La Pintana](http://twitter.com/search?q=La+Pintana) | N/A |
-| 46 | [Mentirosos](http://twitter.com/search?q=Mentirosos) | N/A |
-| 47 | [Región Metropolitana](http://twitter.com/search?q=Regi%c3%b3n+Metropolitana) | N/A |
-| 48 | [Acaban](http://twitter.com/search?q=Acaban) | N/A |
-| 49 | [Asesina](http://twitter.com/search?q=Asesina) | N/A |
-| 50 | [Frente Amplio](http://twitter.com/search?q=Frente+Amplio) | N/A |
+| 16 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 17 | [Q.E.P.D](http://twitter.com/search?q=Q.E.P.D) | N/A |
+| 18 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
+| 19 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
+| 20 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
+| 21 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
+| 22 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 23 | [Posta Central](http://twitter.com/search?q=Posta+Central) | N/A |
+| 24 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
+| 25 | [Falleció](http://twitter.com/search?q=Falleci%c3%b3) | N/A |
+| 26 | [Asesinos](http://twitter.com/search?q=Asesinos) | N/A |
+| 27 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
+| 28 | [Malditos](http://twitter.com/search?q=Malditos) | N/A |
+| 29 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 30 | [PC y FA](http://twitter.com/search?q=PC+y+FA) | N/A |
+| 31 | [Santiago Centro](http://twitter.com/search?q=Santiago+Centro) | N/A |
+| 32 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 33 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 34 | [Militares](http://twitter.com/search?q=Militares) | N/A |
+| 35 | [Cínica](http://twitter.com/search?q=C%c3%adnica) | N/A |
+| 36 | [Enfermo](http://twitter.com/search?q=Enfermo) | N/A |
+| 37 | [Audi](http://twitter.com/search?q=Audi) | N/A |
+| 38 | [Cierra](http://twitter.com/search?q=Cierra) | N/A |
+| 39 | [Región Metropolitana](http://twitter.com/search?q=Regi%c3%b3n+Metropolitana) | N/A |
+| 40 | [Damián Pizarro](http://twitter.com/search?q=Dami%c3%a1n+Pizarro) | N/A |
+| 41 | [Frente Amplio](http://twitter.com/search?q=Frente+Amplio) | N/A |
+| 42 | [Váyanse](http://twitter.com/search?q=V%c3%a1yanse) | N/A |
+| 43 | [Lacra](http://twitter.com/search?q=Lacra) | N/A |
+| 44 | [Mentirosa](http://twitter.com/search?q=Mentirosa) | N/A |
+| 45 | [#DestitucionDeBoric](http://twitter.com/search?q=%23DestitucionDeBoric) | N/A |
+| 46 | [#GatilloFacil](http://twitter.com/search?q=%23GatilloFacil) | N/A |
+| 47 | [#GobiernoAsesino](http://twitter.com/search?q=%23GobiernoAsesino) | N/A |
+| 48 | [#ColoColo](http://twitter.com/search?q=%23ColoColo) | N/A |
+| 49 | [#24HorasCentral](http://twitter.com/search?q=%2324HorasCentral) | N/A |
+| 50 | [#FueraBoric](http://twitter.com/search?q=%23FueraBoric) | N/A |
 
 
 

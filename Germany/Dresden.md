@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-04-06 07:18:02 UTC`
+📆 Last Updated: `2023-04-06 08:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
 | 5 | [#LeipzigBVB](http://twitter.com/search?q=%23LeipzigBVB) | N/A |
 | 6 | [#FCNVfB](http://twitter.com/search?q=%23FCNVfB) | N/A |
-| 7 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 8 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 9 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
-| 10 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 11 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 12 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 13 | ['Geflecht'](http://twitter.com/search?q=%27Geflecht%27) | N/A |
+| 7 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 8 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
+| 9 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 10 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
+| 11 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 12 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 13 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
 | 14 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
-| 15 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 16 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 17 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 18 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 19 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 20 | [torchance](http://twitter.com/search?q=torchance) | N/A |
-| 21 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 15 | ['Geflecht'](http://twitter.com/search?q=%27Geflecht%27) | N/A |
+| 16 | [torchance](http://twitter.com/search?q=torchance) | N/A |
+| 17 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 19 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 20 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
+| 21 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
 | 22 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 23 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 24 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
-| 25 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 26 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
-| 27 | [Claudia Neumann](http://twitter.com/search?q=Claudia+Neumann) | N/A |
-| 28 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 29 | [Kellermann](http://twitter.com/search?q=Kellermann) | N/A |
-| 30 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 31 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 32 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
-| 33 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 34 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
-| 35 | [Torschuss](http://twitter.com/search?q=Torschuss) | N/A |
-| 36 | [Brych](http://twitter.com/search?q=Brych) | N/A |
-| 37 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 38 | [Hänsel und Gretel](http://twitter.com/search?q=H%c3%a4nsel+und+Gretel) | N/A |
-| 39 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 40 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
-| 41 | [Edin](http://twitter.com/search?q=Edin) | N/A |
-| 42 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
-| 43 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
-| 44 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 45 | [Timo Werner](http://twitter.com/search?q=Timo+Werner) | N/A |
-| 46 | [Tanja](http://twitter.com/search?q=Tanja) | N/A |
-| 47 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
-| 48 | [Dream Concert](http://twitter.com/search?q=Dream+Concert) | N/A |
-| 49 | [First Concert](http://twitter.com/search?q=First+Concert) | N/A |
-| 50 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 23 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 24 | [Claudia Neumann](http://twitter.com/search?q=Claudia+Neumann) | N/A |
+| 25 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 26 | [Prinz](http://twitter.com/search?q=Prinz) | N/A |
+| 27 | [Frau Kellermann](http://twitter.com/search?q=Frau+Kellermann) | N/A |
+| 28 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 29 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 30 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
+| 31 | [Dream Concert](http://twitter.com/search?q=Dream+Concert) | N/A |
+| 32 | [Reus](http://twitter.com/search?q=Reus) | N/A |
+| 33 | [Torschuss](http://twitter.com/search?q=Torschuss) | N/A |
+| 34 | [Brych](http://twitter.com/search?q=Brych) | N/A |
+| 35 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 36 | [Hänsel und Gretel](http://twitter.com/search?q=H%c3%a4nsel+und+Gretel) | N/A |
+| 37 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 38 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 39 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 40 | [Edin](http://twitter.com/search?q=Edin) | N/A |
+| 41 | [Worst Concert](http://twitter.com/search?q=Worst+Concert) | N/A |
+| 42 | [Privatsache](http://twitter.com/search?q=Privatsache) | N/A |
+| 43 | [Timo Werner](http://twitter.com/search?q=Timo+Werner) | N/A |
+| 44 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
+| 45 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
+| 46 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
+| 47 | [Dienstgrad](http://twitter.com/search?q=Dienstgrad) | N/A |
+| 48 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 49 | [Wäscheschleuder](http://twitter.com/search?q=W%c3%a4scheschleuder) | N/A |
+| 50 | [Messerverbot](http://twitter.com/search?q=Messerverbot) | N/A |
 
 
 

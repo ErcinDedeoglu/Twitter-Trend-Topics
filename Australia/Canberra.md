@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-06 07:18:11 UTC`
+📆 Last Updated: `2023-04-06 08:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Australia](</Australia>)
 | 4 | [Noel Pearson](http://twitter.com/search?q=Noel+Pearson) | N/A |
 | 5 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
 | 6 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 7 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 8 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 7 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 8 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 10 | [#NameThisBand](http://twitter.com/search?q=%23NameThisBand) | N/A |
 | 11 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 12 | [Inland Rail](http://twitter.com/search?q=Inland+Rail) | N/A |
+| 12 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 13 | [Uluru Statement](http://twitter.com/search?q=Uluru+Statement) | N/A |
-| 14 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 15 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 16 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
-| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 18 | [HECS](http://twitter.com/search?q=HECS) | N/A |
+| 14 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
+| 15 | [HECS](http://twitter.com/search?q=HECS) | N/A |
+| 16 | [Inland Rail](http://twitter.com/search?q=Inland+Rail) | N/A |
+| 17 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 18 | [#AFLLionsPies](http://twitter.com/search?q=%23AFLLionsPies) | N/A |
 | 19 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 20 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 20 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 21 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 22 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 23 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
-| 24 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 22 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 23 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 24 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
 | 25 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 26 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 27 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 28 | [Canberra Voice](http://twitter.com/search?q=Canberra+Voice) | N/A |
+| 26 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 27 | [Senator Dodson](http://twitter.com/search?q=Senator+Dodson) | N/A |
+| 28 | [Fred Chaney](http://twitter.com/search?q=Fred+Chaney) | N/A |
 | 29 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 30 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
-| 31 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 32 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 33 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
-| 34 | [Fred Chaney](http://twitter.com/search?q=Fred+Chaney) | N/A |
-| 35 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 30 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 31 | [Canberra Voice](http://twitter.com/search?q=Canberra+Voice) | N/A |
+| 32 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
+| 33 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 34 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 35 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
 | 36 | [Newspoll](http://twitter.com/search?q=Newspoll) | N/A |
-| 37 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 38 | [Passover](http://twitter.com/search?q=Passover) | N/A |
-| 39 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 40 | [Chris Kenny](http://twitter.com/search?q=Chris+Kenny) | N/A |
-| 41 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 42 | [ryan gosling](http://twitter.com/search?q=ryan+gosling) | N/A |
-| 43 | [Campbell Newman](http://twitter.com/search?q=Campbell+Newman) | N/A |
-| 44 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 45 | [narty](http://twitter.com/search?q=narty) | N/A |
-| 46 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
-| 47 | [Kudla](http://twitter.com/search?q=Kudla) | N/A |
-| 48 | [iPod](http://twitter.com/search?q=iPod) | N/A |
+| 37 | [Nicho](http://twitter.com/search?q=Nicho) | N/A |
+| 38 | [Chris Kenny](http://twitter.com/search?q=Chris+Kenny) | N/A |
+| 39 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 40 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 41 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 42 | [Campbell Newman](http://twitter.com/search?q=Campbell+Newman) | N/A |
+| 43 | [Passover](http://twitter.com/search?q=Passover) | N/A |
+| 44 | [ryan gosling](http://twitter.com/search?q=ryan+gosling) | N/A |
+| 45 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 46 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
+| 47 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 48 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
 
 
 

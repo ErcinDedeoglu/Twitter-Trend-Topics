@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-04-06 07:18:47 UTC`
+📆 Last Updated: `2023-04-06 08:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Kuwait
 | 1 | [#احمد_النواف_الصباح](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%af_%d8%a7%d9%84%d9%86%d9%88%d8%a7%d9%81_%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
 | 2 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
 | 3 | [#مناشده_الوزير_قبول_الاحتياط](http://twitter.com/search?q=%23%d9%85%d9%86%d8%a7%d8%b4%d8%af%d9%87_%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1_%d9%82%d8%a8%d9%88%d9%84_%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%8a%d8%a7%d8%b7) | N/A |
-| 4 | [#ريال_مدريد_برشلونه](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af_%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | N/A |
-| 5 | [#اربح_مع_عسل_المعجزه14](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%a8%d8%ad_%d9%85%d8%b9_%d8%b9%d8%b3%d9%84_%d8%a7%d9%84%d9%85%d8%b9%d8%ac%d8%b2%d9%8714) | N/A |
-| 6 | [#الكلاسيكو](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%b3%d9%8a%d9%83%d9%88) | N/A |
-| 7 | [الدوله العميقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d9%8a%d9%82%d9%87) | N/A |
-| 8 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 4 | [#اربح_مع_عسل_المعجزه14](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%a8%d8%ad_%d9%85%d8%b9_%d8%b9%d8%b3%d9%84_%d8%a7%d9%84%d9%85%d8%b9%d8%ac%d8%b2%d9%8714) | N/A |
+| 5 | [#الكلاسيكو](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%b3%d9%8a%d9%83%d9%88) | N/A |
+| 6 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
+| 7 | [#مرزوق_الغانم](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%b2%d9%88%d9%82_%d8%a7%d9%84%d8%ba%d8%a7%d9%86%d9%85) | N/A |
+| 8 | [الدوله العميقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d9%8a%d9%82%d9%87) | N/A |
 | 9 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 10 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 11 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 12 | [١٥ رمضان](http://twitter.com/search?q=%d9%a1%d9%a5+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 13 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 14 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 15 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
-| 16 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 17 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
-| 18 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 19 | [الموتمر الصحفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d9%81%d9%8a) | الموتمر الصحفي is a term used in the Middle East to refer to a press conference. It literally translates to "press conference" in English. |
-| 20 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
-| 21 | [السلطه القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d9%87+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 22 | [اليوم الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
-| 23 | [ولي الامر](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1) | N/A |
-| 24 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 25 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 10 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 11 | [١٥ رمضان](http://twitter.com/search?q=%d9%a1%d9%a5+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 12 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 13 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 14 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 15 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 16 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 17 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 18 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
+| 19 | [السلطه القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d9%87+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 20 | [الموتمر الصحفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d8%ad%d9%81%d9%8a) | الموتمر الصحفي is a term used in the Middle East to refer to a press conference. It literally translates to "press conference" in English. |
+| 21 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
+| 22 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 23 | [اليوم الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
+| 24 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 25 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
 | 26 | [نور علي](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%b9%d9%84%d9%8a) | N/A |
-| 27 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 28 | [الثلاثي الكوكباني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d9%8a+%d8%a7%d9%84%d9%83%d9%88%d9%83%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
+| 27 | [الثلاثي الكوكباني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d9%8a+%d8%a7%d9%84%d9%83%d9%88%d9%83%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
+| 28 | [ولي الامر](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1) | N/A |
 | 29 | [محمد بن ناجي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%86%d8%a7%d8%ac%d9%8a) | N/A |
 | 30 | [المجلس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
 | 31 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
 | 32 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 33 | [احمد الفهد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%81%d9%87%d8%af) | N/A |
+| 33 | [رييس الحكومه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87) | N/A |
 | 34 | [كاس ملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%85%d9%84%d9%83) | N/A |
 | 35 | [يونغ](http://twitter.com/search?q=%d9%8a%d9%88%d9%86%d8%ba) | N/A |
-| 36 | [رييس الحكومه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87) | N/A |
+| 36 | [بن علي](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b9%d9%84%d9%8a) | N/A |
 | 37 | [يابو طلال](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b7%d9%84%d8%a7%d9%84) | N/A |
 | 38 | [بلد الوليد](http://twitter.com/search?q=%d8%a8%d9%84%d8%af+%d8%a7%d9%84%d9%88%d9%84%d9%8a%d8%af) | N/A |
-| 39 | [بن علي](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b9%d9%84%d9%8a) | N/A |
-| 40 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
+| 39 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
+| 40 | [نصف شهرك](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%b4%d9%87%d8%b1%d9%83) | N/A |
 | 41 | [ابو ابراهيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 42 | [علي الفريق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82) | N/A |
-| 43 | [15 رمضان](http://twitter.com/search?q=15+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 42 | [15 رمضان](http://twitter.com/search?q=15+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 43 | [علي الفريق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82) | N/A |
 | 44 | [كانتي](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%aa%d9%8a) | N/A |
-| 45 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
-| 46 | [اسبانيا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 47 | [البرشلوني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%8a) | N/A |
-| 48 | [الشيخ احمد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
-| 49 | [نصف شهرك](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%b4%d9%87%d8%b1%d9%83) | N/A |
-| 50 | [الخشوم الافانيس](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b4%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%81%d8%a7%d9%86%d9%8a%d8%b3) | N/A |
+| 45 | [احمد الفهد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%81%d9%87%d8%af) | N/A |
+| 46 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
+| 47 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 48 | [البرشلوني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%8a) | N/A |
+| 49 | [الخشوم الافانيس](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b4%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%81%d8%a7%d9%86%d9%8a%d8%b3) | N/A |
+| 50 | [الشيخ احمد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
 
 
 

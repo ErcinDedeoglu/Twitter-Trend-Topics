@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-06 07:18:45 UTC`
+📆 Last Updated: `2023-04-06 08:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,42 +16,42 @@ This is top 50 for Denmark
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 2 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 3 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 4 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 5 | [#pldk](http://twitter.com/search?q=%23pldk) | N/A |
-| 6 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 7 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 8 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 10 | [#isdk](http://twitter.com/search?q=%23isdk) | N/A |
-| 11 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 13 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
-| 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 15 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 16 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 17 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 18 | [Hele](http://twitter.com/search?q=Hele) | N/A |
-| 19 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 20 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 21 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 22 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 23 | [århus](http://twitter.com/search?q=%c3%a5rhus) | N/A |
-| 24 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
+| 2 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 3 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 4 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
+| 5 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 6 | [#pldk](http://twitter.com/search?q=%23pldk) | N/A |
+| 7 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 8 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 9 | [Nordjylland](http://twitter.com/search?q=Nordjylland) | N/A |
+| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 11 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 12 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 13 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
+| 14 | [#isdk](http://twitter.com/search?q=%23isdk) | N/A |
+| 15 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 17 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 18 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
+| 19 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 21 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 23 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 24 | [Århus](http://twitter.com/search?q=%c3%85rhus) | N/A |
 | 25 | [#dkbiz](http://twitter.com/search?q=%23dkbiz) | N/A |
 | 26 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 27 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 28 | [Norden](http://twitter.com/search?q=Norden) | N/A |
-| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 30 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 31 | [kvinder](http://twitter.com/search?q=kvinder) | N/A |
-| 32 | [Prøv](http://twitter.com/search?q=Pr%c3%b8v) | N/A |
-| 33 | [#copenhagen](http://twitter.com/search?q=%23copenhagen) | N/A |
-| 34 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 29 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 30 | [kvinder](http://twitter.com/search?q=kvinder) | N/A |
+| 31 | [Prøv](http://twitter.com/search?q=Pr%c3%b8v) | N/A |
+| 32 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 33 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 34 | [Præcis](http://twitter.com/search?q=Pr%c3%a6cis) | N/A |
 | 35 | [christiansborg](http://twitter.com/search?q=christiansborg) | N/A |
-| 36 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 37 | [ekstra bladet](http://twitter.com/search?q=ekstra+bladet) | N/A |
+| 36 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 37 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 38 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 39 | [President](http://twitter.com/search?q=President) | N/A |
 | 40 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Denmark
 | 42 | [Mads](http://twitter.com/search?q=Mads) | N/A |
 | 43 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 44 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 45 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 46 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 47 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 48 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 49 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
-| 50 | [Wass](http://twitter.com/search?q=Wass) | N/A |
+| 45 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 46 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 47 | [Netop](http://twitter.com/search?q=Netop) | N/A |
+| 48 | [Hele](http://twitter.com/search?q=Hele) | N/A |
+| 49 | [Ekstra Bladet](http://twitter.com/search?q=Ekstra+Bladet) | N/A |
+| 50 | [Italy](http://twitter.com/search?q=Italy) | N/A |
 
 
 
