@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-04-06 22:16:54 UTC`
+📆 Last Updated: `2023-04-06 23:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Lebanon
 | 1 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
 | 2 | [#غزه_تحت_القصف](http://twitter.com/search?q=%23%d8%ba%d8%b2%d9%87_%d8%aa%d8%ad%d8%aa_%d8%a7%d9%84%d9%82%d8%b5%d9%81) | N/A |
 | 3 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 4 | [#الفرحه_بتكمل_لما](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d8%b1%d8%ad%d9%87_%d8%a8%d8%aa%d9%83%d9%85%d9%84_%d9%84%d9%85%d8%a7) | N/A |
+| 4 | [#غزه_تقاوم](http://twitter.com/search?q=%23%d8%ba%d8%b2%d9%87_%d8%aa%d9%82%d8%a7%d9%88%d9%85) | N/A |
 | 5 | [#جنوب_لبنان](http://twitter.com/search?q=%23%d8%ac%d9%86%d9%88%d8%a8_%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
-| 6 | [#غزه_تقاوم](http://twitter.com/search?q=%23%d8%ba%d8%b2%d9%87_%d8%aa%d9%82%d8%a7%d9%88%d9%85) | N/A |
-| 7 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
-| 8 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
-| 9 | [#درعنا_ردعنا](http://twitter.com/search?q=%23%d8%af%d8%b1%d8%b9%d9%86%d8%a7_%d8%b1%d8%af%d8%b9%d9%86%d8%a7) | N/A |
-| 10 | [علي قطاع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%b7%d8%a7%d8%b9) | N/A |
-| 11 | [القبه الحديديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a8%d9%87+%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af%d9%8a%d9%87) | N/A |
+| 6 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
+| 7 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
+| 8 | [القبه الحديديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a8%d9%87+%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af%d9%8a%d9%87) | N/A |
+| 9 | [علي قطاع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%b7%d8%a7%d8%b9) | N/A |
+| 10 | [#مصطفي_شعبان](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b7%d9%81%d9%8a_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 11 | [#درعنا_ردعنا](http://twitter.com/search?q=%23%d8%af%d8%b1%d8%b9%d9%86%d8%a7_%d8%b1%d8%af%d8%b9%d9%86%d8%a7) | N/A |
 | 12 | [الكيان الموقت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%aa) | N/A |
 | 13 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 14 | [علي الحدود](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af) | N/A |
 | 15 | [فتح الملاجي](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d9%85%d9%84%d8%a7%d8%ac%d9%8a) | N/A |
 | 16 | [بيت العنكبوت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d9%83%d8%a8%d9%88%d8%aa) | N/A |
 | 17 | [الاراضي المحتله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%a7%d8%b6%d9%8a+%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%84%d9%87) | N/A |
-| 18 | [وزير المال](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84) | N/A |
-| 19 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 20 | [المجال الجوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a) | N/A |
-| 21 | [العدو الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%af%d9%88+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
-| 22 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
-| 23 | [Liban](http://twitter.com/search?q=Liban) | N/A |
-| 24 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 18 | [العدو الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%af%d9%88+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
+| 19 | [وزير المال](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84) | N/A |
+| 20 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 21 | [المجال الجوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a) | N/A |
+| 22 | [صندوق بريد](http://twitter.com/search?q=%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a8%d8%b1%d9%8a%d8%af) | N/A |
+| 23 | [القصف الصاروخي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b5%d9%81+%d8%a7%d9%84%d8%b5%d8%a7%d8%b1%d9%88%d8%ae%d9%8a) | N/A |
+| 24 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
 | 25 | [بلده القليله](http://twitter.com/search?q=%d8%a8%d9%84%d8%af%d9%87+%d8%a7%d9%84%d9%82%d9%84%d9%8a%d9%84%d9%87) | N/A |
-| 26 | [صندوق بريد](http://twitter.com/search?q=%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a8%d8%b1%d9%8a%d8%af) | N/A |
-| 27 | [جعجع ليس](http://twitter.com/search?q=%d8%ac%d8%b9%d8%ac%d8%b9+%d9%84%d9%8a%d8%b3) | N/A |
-| 28 | [Hezbollah](http://twitter.com/search?q=Hezbollah) | N/A |
-| 29 | [النوم الليله](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d9%85+%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87) | N/A |
-| 30 | [روح نام](http://twitter.com/search?q=%d8%b1%d9%88%d8%ad+%d9%86%d8%a7%d9%85) | N/A |
-| 31 | [شلومي](http://twitter.com/search?q=%d8%b4%d9%84%d9%88%d9%85%d9%8a) | N/A |
-| 32 | [حرب تموز](http://twitter.com/search?q=%d8%ad%d8%b1%d8%a8+%d8%aa%d9%85%d9%88%d8%b2) | N/A |
-| 33 | [الرحلات الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%ad%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 34 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 35 | [اليوم الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
-| 36 | [المكان المناسبين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d9%8a%d9%86) | N/A |
-| 37 | [الكيان الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
-| 38 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 39 | [جيش الاحتلال](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84) | N/A |
-| 40 | [فتح السفارتين](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d8%b3%d9%81%d8%a7%d8%b1%d8%aa%d9%8a%d9%86) | N/A |
-| 41 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 42 | [١٥ رمضان](http://twitter.com/search?q=%d9%a1%d9%a5+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 43 | [الاعلام العبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d8%b9%d8%a8%d8%b1%d9%8a) | N/A |
-| 44 | [الاماكن المقدسه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%83%d9%86+%d8%a7%d9%84%d9%85%d9%82%d8%af%d8%b3%d9%87) | N/A |
-| 45 | [اسماعيل هنية](http://twitter.com/search?q=%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84+%d9%87%d9%86%d9%8a%d8%a9) | N/A |
+| 26 | [جعجع ليس](http://twitter.com/search?q=%d8%ac%d8%b9%d8%ac%d8%b9+%d9%84%d9%8a%d8%b3) | N/A |
+| 27 | [النوم الليله](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d9%85+%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87) | N/A |
+| 28 | [Liban](http://twitter.com/search?q=Liban) | N/A |
+| 29 | [الكيان الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
+| 30 | [جيش الاحتلال](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84) | N/A |
+| 31 | [Hezbollah](http://twitter.com/search?q=Hezbollah) | N/A |
+| 32 | [شلومي](http://twitter.com/search?q=%d8%b4%d9%84%d9%88%d9%85%d9%8a) | N/A |
+| 33 | [حرب تموز](http://twitter.com/search?q=%d8%ad%d8%b1%d8%a8+%d8%aa%d9%85%d9%88%d8%b2) | N/A |
+| 34 | [الرحلات الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%ad%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 35 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 36 | [اليوم الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
+| 37 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 38 | [المكان المناسبين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d9%8a%d9%86) | N/A |
+| 39 | [فتح السفارتين](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%a7%d9%84%d8%b3%d9%81%d8%a7%d8%b1%d8%aa%d9%8a%d9%86) | N/A |
+| 40 | [١٥ رمضان](http://twitter.com/search?q=%d9%a1%d9%a5+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 41 | [الاعلام العبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85+%d8%a7%d9%84%d8%b9%d8%a8%d8%b1%d9%8a) | N/A |
+| 42 | [الاماكن المقدسه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%83%d9%86+%d8%a7%d9%84%d9%85%d9%82%d8%af%d8%b3%d9%87) | N/A |
+| 43 | [اسماعيل هنية](http://twitter.com/search?q=%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84+%d9%87%d9%86%d9%8a%d8%a9) | N/A |
+| 44 | [فيصل بن فرحان](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a8%d9%86+%d9%81%d8%b1%d8%ad%d8%a7%d9%86) | N/A |
+| 45 | [معز المومنين](http://twitter.com/search?q=%d9%85%d8%b9%d8%b2+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
 | 46 | [المحتلة](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%84%d8%a9) | N/A |
-| 47 | [فيصل بن فرحان](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a8%d9%86+%d9%81%d8%b1%d8%ad%d8%a7%d9%86) | N/A |
-| 48 | [معز المومنين](http://twitter.com/search?q=%d9%85%d8%b9%d8%b2+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
-| 49 | [سكاي نيوز](http://twitter.com/search?q=%d8%b3%d9%83%d8%a7%d9%8a+%d9%86%d9%8a%d9%88%d8%b2) | N/A |
-| 50 | [علي الزناد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b2%d9%86%d8%a7%d8%af) | N/A |
+| 47 | [حرس حدود](http://twitter.com/search?q=%d8%ad%d8%b1%d8%b3+%d8%ad%d8%af%d9%88%d8%af) | N/A |
+| 48 | [سكاي نيوز](http://twitter.com/search?q=%d8%b3%d9%83%d8%a7%d9%8a+%d9%86%d9%8a%d9%88%d8%b2) | N/A |
+| 49 | [علي الزناد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b2%d9%86%d8%a7%d8%af) | N/A |
+| 50 | [روح نام](http://twitter.com/search?q=%d8%b1%d9%88%d8%ad+%d9%86%d8%a7%d9%85) | N/A |
 
 
 

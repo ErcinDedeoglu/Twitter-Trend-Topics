@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-04-06 22:16:57 UTC`
+📆 Last Updated: `2023-04-06 23:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for United Kingdom
 | 2 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
 | 3 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
 | 4 | [Chloe Kelly](http://twitter.com/search?q=Chloe+Kelly) | N/A |
-| 5 | [#ENGBRA](http://twitter.com/search?q=%23ENGBRA) | N/A |
-| 6 | [#Taskmaster](http://twitter.com/search?q=%23Taskmaster) | N/A |
-| 7 | [#riseandfall](http://twitter.com/search?q=%23riseandfall) | N/A |
+| 5 | [#Taskmaster](http://twitter.com/search?q=%23Taskmaster) | N/A |
+| 6 | [#riseandfall](http://twitter.com/search?q=%23riseandfall) | N/A |
+| 7 | [#ENGBRA](http://twitter.com/search?q=%23ENGBRA) | N/A |
 | 8 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 9 | [Joas](http://twitter.com/search?q=Joas) | N/A |
-| 10 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 11 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 12 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 13 | [Peter Wright](http://twitter.com/search?q=Peter+Wright) | N/A |
+| 9 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 10 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 11 | [Joas](http://twitter.com/search?q=Joas) | N/A |
+| 12 | [Nora](http://twitter.com/search?q=Nora) | N/A |
+| 13 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
 | 14 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 15 | [Sarina Wiegman](http://twitter.com/search?q=Sarina+Wiegman) | N/A |
-| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 17 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 18 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 19 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
-| 20 | [Leah Williamson](http://twitter.com/search?q=Leah+Williamson) | N/A |
-| 21 | [Wakey](http://twitter.com/search?q=Wakey) | N/A |
-| 22 | [Clayton](http://twitter.com/search?q=Clayton) | N/A |
-| 23 | [Toone](http://twitter.com/search?q=Toone) | N/A |
-| 24 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 15 | [Peter Wright](http://twitter.com/search?q=Peter+Wright) | N/A |
+| 16 | [Jonny Clayton](http://twitter.com/search?q=Jonny+Clayton) | N/A |
+| 17 | [Wembley Park](http://twitter.com/search?q=Wembley+Park) | N/A |
+| 18 | [Sarina Wiegman](http://twitter.com/search?q=Sarina+Wiegman) | N/A |
+| 19 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 20 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 21 | [Toone](http://twitter.com/search?q=Toone) | N/A |
+| 22 | [Wakey](http://twitter.com/search?q=Wakey) | N/A |
+| 23 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 24 | [Saville](http://twitter.com/search?q=Saville) | N/A |
 | 25 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
-| 26 | [Wakefield](http://twitter.com/search?q=Wakefield) | N/A |
-| 27 | [Saville](http://twitter.com/search?q=Saville) | N/A |
-| 28 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 29 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 30 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
-| 31 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 32 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 33 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 26 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 27 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 28 | [Wakefield](http://twitter.com/search?q=Wakefield) | N/A |
+| 29 | [Leah Williamson](http://twitter.com/search?q=Leah+Williamson) | N/A |
+| 30 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
+| 31 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 32 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
+| 33 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
 | 34 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 35 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 35 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
 | 36 | [John Lydon](http://twitter.com/search?q=John+Lydon) | N/A |
-| 37 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 38 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 37 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 38 | [Theo](http://twitter.com/search?q=Theo) | N/A |
 | 39 | [5sos](http://twitter.com/search?q=5sos) | N/A |
 | 40 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
 | 41 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 42 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
-| 43 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 44 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
-| 45 | [U18s](http://twitter.com/search?q=U18s) | N/A |
-| 46 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 47 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
-| 48 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
+| 42 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
+| 43 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
+| 44 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 45 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 46 | [Dylan Mulvaney](http://twitter.com/search?q=Dylan+Mulvaney) | N/A |
+| 47 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
+| 48 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
 | 49 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 50 | [Clapham](http://twitter.com/search?q=Clapham) | N/A |
+| 50 | [U18s](http://twitter.com/search?q=U18s) | N/A |
 
 
 

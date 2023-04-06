@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-04-06 22:16:48 UTC`
+📆 Last Updated: `2023-04-06 23:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [#txlege](http://twitter.com/search?q=%23txlege) | N/A |
 | 2 | [Texas House](http://twitter.com/search?q=Texas+House) | N/A |
 | 3 | [#txed](http://twitter.com/search?q=%23txed) | N/A |
-| 4 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 5 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 6 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 7 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 8 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 4 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 5 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 6 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 7 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 8 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
 | 9 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
 | 10 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
 | 11 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 12 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 13 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 14 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 15 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 16 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 17 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
-| 18 | [#BreakingNews](http://twitter.com/search?q=%23BreakingNews) | N/A |
+| 12 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 13 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 14 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
+| 15 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 16 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 17 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 18 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
 | 19 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
-| 20 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
-| 21 | [#InternationalAceDay](http://twitter.com/search?q=%23InternationalAceDay) | N/A |
-| 22 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 23 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 24 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 25 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 26 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 27 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 28 | [Gino Bulso](http://twitter.com/search?q=Gino+Bulso) | N/A |
-| 29 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 30 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 31 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 32 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 33 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
-| 34 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 35 | [TN Republicans](http://twitter.com/search?q=TN+Republicans) | N/A |
-| 36 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 37 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 38 | [3 Democrats](http://twitter.com/search?q=3+Democrats) | N/A |
-| 39 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 40 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
-| 41 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 42 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 43 | [Expelled](http://twitter.com/search?q=Expelled) | N/A |
-| 44 | [Medhi](http://twitter.com/search?q=Medhi) | N/A |
-| 45 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
-| 46 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 47 | [Logan Cooley](http://twitter.com/search?q=Logan+Cooley) | Logan Cooley is a surname of Irish origin. It is derived from the Gaelic phrase "O'Lochain," which means "descendant of the small lake." |
-| 48 | [Miami Herald](http://twitter.com/search?q=Miami+Herald) | N/A |
-| 49 | [George Lucas](http://twitter.com/search?q=George+Lucas) | N/A |
+| 20 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 21 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 22 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
+| 23 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
+| 24 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 25 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 26 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 27 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 28 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 29 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 30 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 31 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 32 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 33 | [Andrew Farmer](http://twitter.com/search?q=Andrew+Farmer) | N/A |
+| 34 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 35 | [Rep. Johnson](http://twitter.com/search?q=Rep.+Johnson) | N/A |
+| 36 | [TN Republicans](http://twitter.com/search?q=TN+Republicans) | N/A |
+| 37 | [3 Democrats](http://twitter.com/search?q=3+Democrats) | N/A |
+| 38 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 39 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
+| 40 | [Coors Field](http://twitter.com/search?q=Coors+Field) | N/A |
+| 41 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 42 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 43 | [Expel](http://twitter.com/search?q=Expel) | N/A |
+| 44 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 45 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 46 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 47 | [George Lucas](http://twitter.com/search?q=George+Lucas) | N/A |
+| 48 | [Gino Bulso](http://twitter.com/search?q=Gino+Bulso) | N/A |
+| 49 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
+| 50 | [Medhi](http://twitter.com/search?q=Medhi) | N/A |
 
 
 

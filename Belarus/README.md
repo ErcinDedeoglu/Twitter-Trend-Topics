@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-06 22:16:50 UTC`
+📆 Last Updated: `2023-04-06 23:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Belarus
 | ------- | ------------ | ------------ |
 | 1 | [#корольишут](http://twitter.com/search?q=%23%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8c%d0%b8%d1%88%d1%83%d1%82) | N/A |
 | 2 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
-| 3 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
+| 3 | [согласен](http://twitter.com/search?q=%d1%81%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
 | 4 | [#беларусь](http://twitter.com/search?q=%23%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
 | 5 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
 | 6 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
@@ -25,12 +25,11 @@ This is top 50 for Belarus
 | 8 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
 | 9 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
 | 10 | [Минске](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | N/A |
-| 11 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
-| 12 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
-| 13 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 14 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 15 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
-| 16 | [#digitalart](http://twitter.com/search?q=%23digitalart) | N/A |
+| 11 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
+| 12 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 13 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 14 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
+| 15 | [#digitalart](http://twitter.com/search?q=%23digitalart) | N/A |
 
 
 

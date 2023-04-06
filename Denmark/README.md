@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-06 22:16:51 UTC`
+📆 Last Updated: `2023-04-06 23:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Denmark
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gorm](http://twitter.com/search?q=Gorm) | N/A |
+| 1 | [gorm](http://twitter.com/search?q=gorm) | N/A |
 | 2 | [Vejle](http://twitter.com/search?q=Vejle) | N/A |
 | 3 | [#SuperAaB](http://twitter.com/search?q=%23SuperAaB) | N/A |
 | 4 | [#Pokalen](http://twitter.com/search?q=%23Pokalen) | N/A |
@@ -23,48 +23,48 @@ This is top 50 for Denmark
 | 6 | [#vbfck](http://twitter.com/search?q=%23vbfck) | N/A |
 | 7 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
 | 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 9 | [Silkeborg](http://twitter.com/search?q=Silkeborg) | N/A |
-| 10 | [Randers](http://twitter.com/search?q=Randers) | N/A |
-| 11 | [#vffaab](http://twitter.com/search?q=%23vffaab) | N/A |
-| 12 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 13 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 9 | [Randers](http://twitter.com/search?q=Randers) | N/A |
+| 10 | [#vffaab](http://twitter.com/search?q=%23vffaab) | N/A |
+| 11 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 12 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 13 | [Silkeborg](http://twitter.com/search?q=Silkeborg) | N/A |
 | 14 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 15 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 16 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 17 | [Fedt](http://twitter.com/search?q=Fedt) | N/A |
-| 18 | [Lyngby](http://twitter.com/search?q=Lyngby) | N/A |
-| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 20 | [#fcklive](http://twitter.com/search?q=%23fcklive) | N/A |
-| 21 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 23 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 24 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 25 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 26 | [mitid](http://twitter.com/search?q=mitid) | N/A |
-| 27 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 28 | [århus](http://twitter.com/search?q=%c3%a5rhus) | N/A |
-| 29 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 30 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 31 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 32 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 33 | [Nordjylland](http://twitter.com/search?q=Nordjylland) | N/A |
-| 34 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 35 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 36 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 38 | [Danish](http://twitter.com/search?q=Danish) | N/A |
-| 39 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 40 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 41 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 42 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 43 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 44 | [christiansborg](http://twitter.com/search?q=christiansborg) | N/A |
-| 45 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 46 | [Roskilde](http://twitter.com/search?q=Roskilde) | N/A |
-| 47 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 48 | [ekstra bladet](http://twitter.com/search?q=ekstra+bladet) | N/A |
-| 49 | [Staten](http://twitter.com/search?q=Staten) | N/A |
-| 50 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
+| 16 | [Fedt](http://twitter.com/search?q=Fedt) | N/A |
+| 17 | [Lyngby](http://twitter.com/search?q=Lyngby) | N/A |
+| 18 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 19 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
+| 20 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 21 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 22 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 23 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 24 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 25 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 26 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 27 | [århus](http://twitter.com/search?q=%c3%a5rhus) | N/A |
+| 28 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 29 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 30 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 31 | [Nordjylland](http://twitter.com/search?q=Nordjylland) | N/A |
+| 32 | [MitId](http://twitter.com/search?q=MitId) | N/A |
+| 33 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
+| 34 | [Brian](http://twitter.com/search?q=Brian) | N/A |
+| 35 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 36 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 37 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 38 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 39 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 40 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 41 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 42 | [Roskilde](http://twitter.com/search?q=Roskilde) | N/A |
+| 43 | [Staten](http://twitter.com/search?q=Staten) | N/A |
+| 44 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 45 | [ekstra bladet](http://twitter.com/search?q=ekstra+bladet) | N/A |
+| 46 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
+| 47 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
+| 48 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 49 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 50 | [Mads](http://twitter.com/search?q=Mads) | N/A |
 
 
 

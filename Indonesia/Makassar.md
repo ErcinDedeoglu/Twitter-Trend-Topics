@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-04-06 22:16:22 UTC`
+📆 Last Updated: `2023-04-06 23:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [Gorengan Harga Mati](http://twitter.com/search?q=Gorengan+Harga+Mati) | N/A |
 | 2 | [#BigRamadanSaleShopee](http://twitter.com/search?q=%23BigRamadanSaleShopee) | N/A |
-| 3 | [#KobeBumbuAdukNasiUduk](http://twitter.com/search?q=%23KobeBumbuAdukNasiUduk) | N/A |
-| 4 | [HARI TERAKHIR PROMO PUNCAK](http://twitter.com/search?q=HARI+TERAKHIR+PROMO+PUNCAK) | N/A |
+| 3 | [HARI TERAKHIR PROMO PUNCAK](http://twitter.com/search?q=HARI+TERAKHIR+PROMO+PUNCAK) | N/A |
+| 4 | [#KobeBumbuAdukNasiUduk](http://twitter.com/search?q=%23KobeBumbuAdukNasiUduk) | N/A |
 | 5 | [Produk Viral](http://twitter.com/search?q=Produk+Viral) | N/A |
 | 6 | [#PedeItuPenting](http://twitter.com/search?q=%23PedeItuPenting) | N/A |
 | 7 | [Tabungan BRI Simpedes](http://twitter.com/search?q=Tabungan+BRI+Simpedes) | N/A |
 | 8 | [Pilihan Zillennial Jateng](http://twitter.com/search?q=Pilihan+Zillennial+Jateng) | N/A |
 | 9 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
 | 10 | [bersama lebih bermakna](http://twitter.com/search?q=bersama+lebih+bermakna) | N/A |
-| 11 | [Kamis Putih](http://twitter.com/search?q=Kamis+Putih) | N/A |
-| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 13 | [Jumat Agung](http://twitter.com/search?q=Jumat+Agung) | N/A |
-| 14 | [Repose Meadows](http://twitter.com/search?q=Repose+Meadows) | N/A |
-| 15 | [Bagaimana 4](http://twitter.com/search?q=Bagaimana+4) | N/A |
-| 16 | [BEAUTY MYSTERY BOX](http://twitter.com/search?q=BEAUTY+MYSTERY+BOX) | N/A |
-| 17 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 11 | [Jumat Agung](http://twitter.com/search?q=Jumat+Agung) | N/A |
+| 12 | [Jangan Lupa Dakwah](http://twitter.com/search?q=Jangan+Lupa+Dakwah) | N/A |
+| 13 | [Kamis Putih](http://twitter.com/search?q=Kamis+Putih) | N/A |
+| 14 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 15 | [Repose Meadows](http://twitter.com/search?q=Repose+Meadows) | N/A |
+| 16 | [Bagaimana 4](http://twitter.com/search?q=Bagaimana+4) | N/A |
+| 17 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
 | 18 | [majukan terus indonesia](http://twitter.com/search?q=majukan+terus+indonesia) | N/A |
 | 19 | [semangat persatuan prabowo](http://twitter.com/search?q=semangat+persatuan+prabowo) | N/A |
-| 20 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 21 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 22 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 23 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 24 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 25 | [KEJUTAN PRODUK GRATIS](http://twitter.com/search?q=KEJUTAN+PRODUK+GRATIS) | N/A |
-| 26 | [EXO 11th Anniversary](http://twitter.com/search?q=EXO+11th+Anniversary) | N/A |
-| 27 | [Prabowo Panutanku](http://twitter.com/search?q=Prabowo+Panutanku) | N/A |
-| 28 | [Prabowo Pilihan Kita](http://twitter.com/search?q=Prabowo+Pilihan+Kita) | N/A |
+| 20 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 21 | [Madame Gie](http://twitter.com/search?q=Madame+Gie) | N/A |
+| 22 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 23 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 24 | [BEAUTY MYSTERY BOX](http://twitter.com/search?q=BEAUTY+MYSTERY+BOX) | N/A |
+| 25 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 26 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 27 | [EXO 11th Anniversary](http://twitter.com/search?q=EXO+11th+Anniversary) | N/A |
+| 28 | [KEJUTAN PRODUK GRATIS](http://twitter.com/search?q=KEJUTAN+PRODUK+GRATIS) | N/A |
 | 29 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
 | 30 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 31 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 32 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 33 | [Done Ge](http://twitter.com/search?q=Done+Ge) | N/A |
-| 34 | [AllInPrabowo](http://twitter.com/search?q=AllInPrabowo) | N/A |
+| 31 | [UU ITE](http://twitter.com/search?q=UU+ITE) | N/A |
+| 32 | [Done Ge](http://twitter.com/search?q=Done+Ge) | N/A |
+| 33 | [Laneige](http://twitter.com/search?q=Laneige) | N/A |
+| 34 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
 | 35 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
 | 36 | [mini camp](http://twitter.com/search?q=mini+camp) | N/A |
-| 37 | [Laporin](http://twitter.com/search?q=Laporin) | N/A |
-| 38 | [Jepri](http://twitter.com/search?q=Jepri) | N/A |
-| 39 | [Sariwangi](http://twitter.com/search?q=Sariwangi) | N/A |
-| 40 | [MARK SOLO TOMORROW](http://twitter.com/search?q=MARK+SOLO+TOMORROW) | N/A |
-| 41 | [YOU DID WELL](http://twitter.com/search?q=YOU+DID+WELL) | N/A |
-| 42 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 43 | [Laneige](http://twitter.com/search?q=Laneige) | N/A |
-| 44 | [Madrasah](http://twitter.com/search?q=Madrasah) | N/A |
-| 45 | [Selection](http://twitter.com/search?q=Selection) | N/A |
+| 37 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 38 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 39 | [Laporin](http://twitter.com/search?q=Laporin) | N/A |
+| 40 | [Jepri](http://twitter.com/search?q=Jepri) | N/A |
+| 41 | [Madrasah](http://twitter.com/search?q=Madrasah) | N/A |
+| 42 | [SPRING PRINCE SIWON DAY](http://twitter.com/search?q=SPRING+PRINCE+SIWON+DAY) | N/A |
+| 43 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 44 | [MARK SOLO TOMORROW](http://twitter.com/search?q=MARK+SOLO+TOMORROW) | N/A |
+| 45 | [Sariwangi](http://twitter.com/search?q=Sariwangi) | N/A |
 | 46 | [Dico](http://twitter.com/search?q=Dico) | N/A |
-| 47 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 48 | [Underrated](http://twitter.com/search?q=Underrated) | N/A |
+| 47 | [YOU DID WELL](http://twitter.com/search?q=YOU+DID+WELL) | N/A |
+| 48 | [halsey](http://twitter.com/search?q=halsey) | N/A |
 
 
 

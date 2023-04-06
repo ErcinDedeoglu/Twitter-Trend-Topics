@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-04-06 22:16:03 UTC`
+📆 Last Updated: `2023-04-06 23:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SLCasWak](http://twitter.com/search?q=%23SLCasWak) | N/A |
-| 2 | [Clayton](http://twitter.com/search?q=Clayton) | N/A |
-| 3 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 4 | [U18s](http://twitter.com/search?q=U18s) | N/A |
+| 1 | [Leah Williamson](http://twitter.com/search?q=Leah+Williamson) | N/A |
+| 2 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 3 | [U18s](http://twitter.com/search?q=U18s) | N/A |
+| 4 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
 | 5 | [Nicky](http://twitter.com/search?q=Nicky) | N/A |
-| 6 | [#GoodFriday](http://twitter.com/search?q=%23GoodFriday) | N/A |
+| 6 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
 | 7 | [Munich](http://twitter.com/search?q=Munich) | N/A |
-| 8 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
-| 9 | [Chloe Kelly](http://twitter.com/search?q=Chloe+Kelly) | N/A |
-| 10 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 11 | [Joas](http://twitter.com/search?q=Joas) | N/A |
-| 12 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 13 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 9 | [#Finalissima](http://twitter.com/search?q=%23Finalissima) | N/A |
+| 10 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
+| 11 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
+| 12 | [Chloe Kelly](http://twitter.com/search?q=Chloe+Kelly) | N/A |
+| 13 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
 | 14 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 15 | [Peter Wright](http://twitter.com/search?q=Peter+Wright) | N/A |
-| 16 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 17 | [Sarina Wiegman](http://twitter.com/search?q=Sarina+Wiegman) | N/A |
-| 18 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 19 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 20 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
-| 21 | [Leah Williamson](http://twitter.com/search?q=Leah+Williamson) | N/A |
-| 22 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 23 | [Wakey](http://twitter.com/search?q=Wakey) | N/A |
-| 24 | [Toone](http://twitter.com/search?q=Toone) | N/A |
-| 25 | [Wakefield](http://twitter.com/search?q=Wakefield) | N/A |
-| 26 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 27 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 28 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
-| 29 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 30 | [Saville](http://twitter.com/search?q=Saville) | N/A |
-| 31 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
+| 15 | [Joas](http://twitter.com/search?q=Joas) | N/A |
+| 16 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 17 | [Nora](http://twitter.com/search?q=Nora) | N/A |
+| 18 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 19 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 20 | [Peter Wright](http://twitter.com/search?q=Peter+Wright) | N/A |
+| 21 | [Jonny Clayton](http://twitter.com/search?q=Jonny+Clayton) | N/A |
+| 22 | [Wembley Park](http://twitter.com/search?q=Wembley+Park) | N/A |
+| 23 | [Sarina Wiegman](http://twitter.com/search?q=Sarina+Wiegman) | N/A |
+| 24 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 25 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 26 | [Toone](http://twitter.com/search?q=Toone) | N/A |
+| 27 | [Wakey](http://twitter.com/search?q=Wakey) | N/A |
+| 28 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
+| 29 | [Savile](http://twitter.com/search?q=Savile) | N/A |
+| 30 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
+| 31 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
 | 32 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 33 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 33 | [Wakefield](http://twitter.com/search?q=Wakefield) | N/A |
 | 34 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 35 | [John Lydon](http://twitter.com/search?q=John+Lydon) | N/A |
-| 36 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 37 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 38 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 39 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 40 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 41 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 42 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 43 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
-| 44 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 45 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
-| 46 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 47 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
+| 35 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
+| 36 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 37 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 38 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 39 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 40 | [John Lydon](http://twitter.com/search?q=John+Lydon) | N/A |
+| 41 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 42 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 43 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 44 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 45 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
+| 46 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
+| 47 | [Moses](http://twitter.com/search?q=Moses) | N/A |
 
 
 

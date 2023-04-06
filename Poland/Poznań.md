@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-04-06 22:16:13 UTC`
+📆 Last Updated: `2023-04-06 23:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
-| 2 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 2 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
 | 3 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
 | 4 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
 | 5 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 6 | [Wielki Czwartek](http://twitter.com/search?q=Wielki+Czwartek) | N/A |
-| 7 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
+| 6 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
+| 7 | [Wielki Czwartek](http://twitter.com/search?q=Wielki+Czwartek) | N/A |
 | 8 | [#PistoZlo](http://twitter.com/search?q=%23PistoZlo) | N/A |
-| 9 | [#GORKOR](http://twitter.com/search?q=%23GORKOR) | N/A |
-| 10 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 11 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
+| 9 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
+| 10 | [#fcbrma](http://twitter.com/search?q=%23fcbrma) | N/A |
+| 11 | [#ŚLĄPIA](http://twitter.com/search?q=%23%c5%9aL%c4%84PIA) | N/A |
 | 12 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 13 | [#fcbrma](http://twitter.com/search?q=%23fcbrma) | N/A |
-| 14 | [Radio Zet](http://twitter.com/search?q=Radio+Zet) | N/A |
+| 13 | [Radio Zet](http://twitter.com/search?q=Radio+Zet) | N/A |
+| 14 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
 | 15 | [Świąt Wielkanocnych](http://twitter.com/search?q=%c5%9awi%c4%85t+Wielkanocnych) | N/A |
-| 16 | [ZAKSA Kędzierzyn-Koźle](http://twitter.com/search?q=ZAKSA+K%c4%99dzierzyn-Ko%c5%bale) | N/A |
-| 17 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
-| 18 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 19 | [Nono](http://twitter.com/search?q=Nono) | N/A |
-| 20 | [Bednorz](http://twitter.com/search?q=Bednorz) | N/A |
-| 21 | [Perugii](http://twitter.com/search?q=Perugii) | N/A |
-| 22 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 23 | [POLSKI FINAŁ](http://twitter.com/search?q=POLSKI+FINA%c5%81) | N/A |
-| 24 | [Turynie](http://twitter.com/search?q=Turynie) | N/A |
-| 25 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
-| 26 | [Ruch](http://twitter.com/search?q=Ruch) | N/A |
-| 27 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
-| 28 | [Podbeskidzie](http://twitter.com/search?q=Podbeskidzie) | N/A |
-| 29 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 30 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
-| 31 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 32 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 33 | [Vuko](http://twitter.com/search?q=Vuko) | N/A |
-| 34 | [Gruca](http://twitter.com/search?q=Gruca) | N/A |
-| 35 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 36 | [Lidze Mistrzów](http://twitter.com/search?q=Lidze+Mistrz%c3%b3w) | N/A |
-| 37 | [Comfort](http://twitter.com/search?q=Comfort) | N/A |
-| 38 | [Cieszyński](http://twitter.com/search?q=Cieszy%c5%84ski) | N/A |
-| 39 | [Libanu](http://twitter.com/search?q=Libanu) | N/A |
-| 40 | [Sirci](http://twitter.com/search?q=Sirci) | N/A |
-| 41 | [benzemy](http://twitter.com/search?q=benzemy) | N/A |
-| 42 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
-| 43 | [Eucharystii](http://twitter.com/search?q=Eucharystii) | N/A |
-| 44 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
-| 45 | [Mateckiego](http://twitter.com/search?q=Mateckiego) | N/A |
-| 46 | [Robert Telus](http://twitter.com/search?q=Robert+Telus) | N/A |
-| 47 | [Korony](http://twitter.com/search?q=Korony) | N/A |
-| 48 | [Ukraińców](http://twitter.com/search?q=Ukrai%c5%84c%c3%b3w) | N/A |
-| 49 | [Wielkiego Czwartku](http://twitter.com/search?q=Wielkiego+Czwartku) | N/A |
-| 50 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
+| 16 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
+| 17 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 18 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
+| 19 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 20 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
+| 21 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 22 | [Turynie](http://twitter.com/search?q=Turynie) | N/A |
+| 23 | [Bednorz](http://twitter.com/search?q=Bednorz) | N/A |
+| 24 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 25 | [Jump](http://twitter.com/search?q=Jump) | N/A |
+| 26 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 27 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 28 | [Gruca](http://twitter.com/search?q=Gruca) | N/A |
+| 29 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
+| 30 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 31 | [Lidze Mistrzów](http://twitter.com/search?q=Lidze+Mistrz%c3%b3w) | N/A |
+| 32 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
+| 33 | [Comfort](http://twitter.com/search?q=Comfort) | N/A |
+| 34 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
+| 35 | [Libanu](http://twitter.com/search?q=Libanu) | N/A |
+| 36 | [Sirci](http://twitter.com/search?q=Sirci) | N/A |
+| 37 | [Cieszyński](http://twitter.com/search?q=Cieszy%c5%84ski) | N/A |
+| 38 | [benzemy](http://twitter.com/search?q=benzemy) | N/A |
+| 39 | [Vuko](http://twitter.com/search?q=Vuko) | N/A |
+| 40 | [Mateckiego](http://twitter.com/search?q=Mateckiego) | N/A |
+| 41 | [Robert Telus](http://twitter.com/search?q=Robert+Telus) | N/A |
+| 42 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
+| 43 | [Ruch](http://twitter.com/search?q=Ruch) | N/A |
+| 44 | [Korony](http://twitter.com/search?q=Korony) | N/A |
+| 45 | [Eucharystii](http://twitter.com/search?q=Eucharystii) | N/A |
+| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 47 | [Radia Szczecin](http://twitter.com/search?q=Radia+Szczecin) | N/A |
+| 48 | [Gierszewski](http://twitter.com/search?q=Gierszewski) | N/A |
+| 49 | [Kłeczek](http://twitter.com/search?q=K%c5%82eczek) | N/A |
+| 50 | [Ukrainie](http://twitter.com/search?q=Ukrainie) | N/A |
 
 
 
