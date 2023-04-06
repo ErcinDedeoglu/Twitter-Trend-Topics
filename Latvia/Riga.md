@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-05 23:16:41 UTC`
+📆 Last Updated: `2023-04-06 00:27:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,23 +28,23 @@ This is top 50 for [Latvia](</Latvia>)
 | 11 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 12 | [viņam](http://twitter.com/search?q=vi%c5%86am) | N/A |
 | 13 | [#1188lv](http://twitter.com/search?q=%231188lv) | N/A |
-| 14 | [Precīzi](http://twitter.com/search?q=Prec%c4%abzi) | N/A |
+| 14 | [precīzi](http://twitter.com/search?q=prec%c4%abzi) | N/A |
 | 15 | [Skaidrs](http://twitter.com/search?q=Skaidrs) | N/A |
-| 16 | [Igaunijā](http://twitter.com/search?q=Igaunij%c4%81) | N/A |
-| 17 | [Iespējams](http://twitter.com/search?q=Iesp%c4%93jams) | N/A |
-| 18 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 19 | [Neko](http://twitter.com/search?q=Neko) | N/A |
+| 16 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | N/A |
+| 17 | [Neko](http://twitter.com/search?q=Neko) | N/A |
+| 18 | [Iespējams](http://twitter.com/search?q=Iesp%c4%93jams) | N/A |
+| 19 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 20 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
-| 21 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | N/A |
-| 22 | [Krievijai](http://twitter.com/search?q=Krievijai) | N/A |
+| 21 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
+| 22 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
 | 23 | [Lieldienu](http://twitter.com/search?q=Lieldienu) | N/A |
-| 24 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
+| 24 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
 | 25 | [Diez](http://twitter.com/search?q=Diez) | N/A |
 | 26 | [Nekas](http://twitter.com/search?q=Nekas) | N/A |
 | 27 | [Esmu](http://twitter.com/search?q=Esmu) | N/A |
 | 28 | [Piekrītu](http://twitter.com/search?q=Piekr%c4%abtu) | N/A |
 | 29 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
-| 30 | [Noteikti](http://twitter.com/search?q=Noteikti) | N/A |
+| 30 | [noteikti](http://twitter.com/search?q=noteikti) | N/A |
 | 31 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-04-05 23:16:33 UTC`
+📆 Last Updated: `2023-04-06 00:26:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 1 | [Araújo](http://twitter.com/search?q=Ara%c3%bajo) | N/A |
 | 2 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
-| 3 | [Equador](http://twitter.com/search?q=Equador) | N/A |
-| 4 | [Filipe Luís](http://twitter.com/search?q=Filipe+Lu%c3%ads) | N/A |
-| 5 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 6 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 7 | [#CidadeAlertaRJ](http://twitter.com/search?q=%23CidadeAlertaRJ) | N/A |
-| 8 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
-| 9 | [São Januário](http://twitter.com/search?q=S%c3%a3o+Janu%c3%a1rio) | São Januário is a football stadium located in Rio de Janeiro, Brazil. It is the home stadium of the football club Vasco da Gama. The name São Januário translates to Saint Januarius in English, and it is named after the patron saint of the city of Rio de Janeiro. |
-| 10 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
-| 11 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 12 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
-| 13 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 14 | [Blumenau](http://twitter.com/search?q=Blumenau) | N/A |
-| 15 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
-| 16 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 17 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 18 | [Evaristo](http://twitter.com/search?q=Evaristo) | N/A |
-| 19 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 20 | [#TodasAsFlores](http://twitter.com/search?q=%23TodasAsFlores) | N/A |
-| 21 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 22 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
-| 23 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 24 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 25 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 26 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 27 | [#LibertadoresNaESPN](http://twitter.com/search?q=%23LibertadoresNaESPN) | N/A |
-| 28 | [PAULOANDRE TOMMY X VIVARA](http://twitter.com/search?q=PAULOANDRE+TOMMY+X+VIVARA) | N/A |
-| 29 | [Espanha](http://twitter.com/search?q=Espanha) | N/A |
-| 30 | [Otero](http://twitter.com/search?q=Otero) | N/A |
-| 31 | [Araújo](http://twitter.com/search?q=Ara%c3%bajo) | N/A |
-| 32 | [ANY GABRIELLY NA BAZAAR](http://twitter.com/search?q=ANY+GABRIELLY+NA+BAZAAR) | N/A |
-| 33 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 34 | [VAMOS FLAMENGO](http://twitter.com/search?q=VAMOS+FLAMENGO) | N/A |
-| 35 | [#AUCxFLA](http://twitter.com/search?q=%23AUCxFLA) | N/A |
-| 36 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
-| 37 | [Victor Hugo](http://twitter.com/search?q=Victor+Hugo) | N/A |
-| 38 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
-| 39 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 40 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
-| 41 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
-| 42 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 43 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 44 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
-| 45 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 46 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 47 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 48 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 49 | [Nestlé](http://twitter.com/search?q=Nestl%c3%a9) | N/A |
-| 50 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 3 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 4 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 5 | [Técnico](http://twitter.com/search?q=T%c3%a9cnico) | N/A |
+| 6 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 7 | [VEXAME](http://twitter.com/search?q=VEXAME) | N/A |
+| 8 | [#VoltaJJ](http://twitter.com/search?q=%23VoltaJJ) | N/A |
+| 9 | [Filipe Luis](http://twitter.com/search?q=Filipe+Luis) | N/A |
+| 10 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
+| 11 | [Espanha](http://twitter.com/search?q=Espanha) | N/A |
+| 12 | [Vergonhoso](http://twitter.com/search?q=Vergonhoso) | N/A |
+| 13 | [#Libertadores2023](http://twitter.com/search?q=%23Libertadores2023) | N/A |
+| 14 | [VAI SE FUDER](http://twitter.com/search?q=VAI+SE+FUDER) | N/A |
+| 15 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 16 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 17 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 18 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
+| 19 | [#TodasAsFlores](http://twitter.com/search?q=%23TodasAsFlores) | N/A |
+| 20 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
+| 21 | [#foravp](http://twitter.com/search?q=%23foravp) | N/A |
+| 22 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
+| 23 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
+| 24 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 25 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
+| 26 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 27 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
+| 28 | [Blumenau](http://twitter.com/search?q=Blumenau) | N/A |
+| 29 | [Equador](http://twitter.com/search?q=Equador) | N/A |
+| 30 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
+| 31 | [Evaristo](http://twitter.com/search?q=Evaristo) | N/A |
+| 32 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 33 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 34 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 35 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
+| 36 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 37 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 38 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 39 | [O VP](http://twitter.com/search?q=O+VP) | N/A |
+| 40 | [Rodrigo Caio](http://twitter.com/search?q=Rodrigo+Caio) | Rodrigo Caio is a Brazilian professional footballer who plays as a defender for São Paulo FC. His name translates to "Rodrigo Victory" in English. |
+| 41 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 42 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
+| 43 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 44 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 45 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
+| 46 | [Gabriel Barbosa](http://twitter.com/search?q=Gabriel+Barbosa) | Gabriel Barbosa is a Brazilian professional footballer who plays as a forward for Flamengo. His nickname is Gabigol, which is a combination of his first name and the Portuguese word for goal. In English, Gabriel Barbosa means "God's messenger of goals". |
+| 47 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
+| 48 | [Otero](http://twitter.com/search?q=Otero) | N/A |
+| 49 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 50 | [Esse VP](http://twitter.com/search?q=Esse+VP) | N/A |
 
 
 

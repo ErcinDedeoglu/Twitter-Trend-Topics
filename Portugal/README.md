@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-04-05 23:17:16 UTC`
+📆 Last Updated: `2023-04-06 00:27:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Portugal
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chermiti](http://twitter.com/search?q=Chermiti) | N/A |
-| 2 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 3 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 4 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 5 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 6 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 7 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 9 | [Alexandra Reis](http://twitter.com/search?q=Alexandra+Reis) | N/A |
-| 10 | [Alexandra Reis](http://twitter.com/search?q=Alexandra+Reis) | N/A |
-| 11 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 12 | [Coates](http://twitter.com/search?q=Coates) | N/A |
-| 13 | [Tomás Araújo](http://twitter.com/search?q=Tom%c3%a1s+Ara%c3%bajo) | N/A |
-| 14 | [CEO da TAP](http://twitter.com/search?q=CEO+da+TAP) | N/A |
-| 15 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
-| 16 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 17 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 18 | [Gil Vicente](http://twitter.com/search?q=Gil+Vicente) | N/A |
-| 19 | [Barcelos](http://twitter.com/search?q=Barcelos) | N/A |
-| 20 | [Pote](http://twitter.com/search?q=Pote) | N/A |
-| 21 | [Trincão](http://twitter.com/search?q=Trinc%c3%a3o) | Trincão is a Portuguese slang term that means "little troublemaker". It is often used to describe someone who is mischievous or causes trouble. |
-| 22 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 23 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
-| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 25 | [Rodrigo Ribeiro](http://twitter.com/search?q=Rodrigo+Ribeiro) | N/A |
-| 26 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 27 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 28 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 29 | [#OTrianguloTvi](http://twitter.com/search?q=%23OTrianguloTvi) | N/A |
-| 30 | [Morita](http://twitter.com/search?q=Morita) | N/A |
-| 31 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 32 | [Carlos Pereira](http://twitter.com/search?q=Carlos+Pereira) | N/A |
-| 33 | [Bárbara Bandeira](http://twitter.com/search?q=B%c3%a1rbara+Bandeira) | N/A |
-| 34 | [#GVFCSCP](http://twitter.com/search?q=%23GVFCSCP) | N/A |
-| 35 | [Blumenau](http://twitter.com/search?q=Blumenau) | N/A |
-| 36 | [Inês Pedrosa](http://twitter.com/search?q=In%c3%aas+Pedrosa) | N/A |
+| 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 2 | [Chermiti](http://twitter.com/search?q=Chermiti) | N/A |
+| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 4 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 5 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 6 | [Alexandra Reis](http://twitter.com/search?q=Alexandra+Reis) | N/A |
+| 7 | [Coates](http://twitter.com/search?q=Coates) | N/A |
+| 8 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 9 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 10 | [CEO da TAP](http://twitter.com/search?q=CEO+da+TAP) | N/A |
+| 11 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 12 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 13 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 14 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 15 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 16 | [Gil Vicente](http://twitter.com/search?q=Gil+Vicente) | N/A |
+| 17 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 18 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
+| 19 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 20 | [Tomás Araújo](http://twitter.com/search?q=Tom%c3%a1s+Ara%c3%bajo) | N/A |
+| 21 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 23 | [Barcelos](http://twitter.com/search?q=Barcelos) | N/A |
+| 24 | [Matheus Reis](http://twitter.com/search?q=Matheus+Reis) | N/A |
+| 25 | [#OTrianguloTvi](http://twitter.com/search?q=%23OTrianguloTvi) | N/A |
+| 26 | [Morita](http://twitter.com/search?q=Morita) | N/A |
+| 27 | [Bárbara Bandeira](http://twitter.com/search?q=B%c3%a1rbara+Bandeira) | N/A |
+| 28 | [Carlos Pereira](http://twitter.com/search?q=Carlos+Pereira) | N/A |
+| 29 | [Pote](http://twitter.com/search?q=Pote) | N/A |
+| 30 | [Carcavelos](http://twitter.com/search?q=Carcavelos) | N/A |
+| 31 | [Blumenau](http://twitter.com/search?q=Blumenau) | N/A |
+| 32 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
+| 33 | [#GVFCSCP](http://twitter.com/search?q=%23GVFCSCP) | N/A |
+| 34 | [Inês Pedrosa](http://twitter.com/search?q=In%c3%aas+Pedrosa) | N/A |
+| 35 | [Rodrigo Ribeiro](http://twitter.com/search?q=Rodrigo+Ribeiro) | N/A |
+| 36 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 37 | [Artur Soares Dias](http://twitter.com/search?q=Artur+Soares+Dias) | N/A |
 | 38 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
-| 39 | [Liga Europa](http://twitter.com/search?q=Liga+Europa) | N/A |
-| 40 | [Inácio](http://twitter.com/search?q=In%c3%a1cio) | N/A |
-| 41 | [Corvo](http://twitter.com/search?q=Corvo) | N/A |
-| 42 | [Finlândia](http://twitter.com/search?q=Finl%c3%a2ndia) | N/A |
-| 43 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 39 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
+| 40 | [Trincão](http://twitter.com/search?q=Trinc%c3%a3o) | Trincão is a Portuguese slang term that means "little troublemaker". It is often used to describe someone who is mischievous or causes trouble. |
+| 41 | [Finlândia](http://twitter.com/search?q=Finl%c3%a2ndia) | N/A |
+| 42 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 43 | [Corvo](http://twitter.com/search?q=Corvo) | N/A |
+| 44 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 | 45 | [Varandas](http://twitter.com/search?q=Varandas) | N/A |
-| 46 | [Maria Botelho Moniz](http://twitter.com/search?q=Maria+Botelho+Moniz) | N/A |
-| 47 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 48 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 46 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 47 | [#UEFACongress](http://twitter.com/search?q=%23UEFACongress) | N/A |
+| 48 | [Galamba](http://twitter.com/search?q=Galamba) | N/A |
 | 49 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 50 | [#UEFACongress](http://twitter.com/search?q=%23UEFACongress) | N/A |
+| 50 | [Maria Botelho Moniz](http://twitter.com/search?q=Maria+Botelho+Moniz) | N/A |
 
 
 

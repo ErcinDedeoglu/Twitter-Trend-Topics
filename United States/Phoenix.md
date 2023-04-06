@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-04-05 23:17:08 UTC`
+📆 Last Updated: `2023-04-06 00:27:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 2 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 3 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 4 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 5 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 6 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 7 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 8 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 9 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 10 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 11 | [Kaulig](http://twitter.com/search?q=Kaulig) | N/A |
-| 12 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 13 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 14 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 15 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 16 | [Kansas Republicans](http://twitter.com/search?q=Kansas+Republicans) | N/A |
-| 17 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
-| 18 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 19 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 20 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 21 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 22 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 23 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
-| 24 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 25 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 26 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 27 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 28 | [Seder](http://twitter.com/search?q=Seder) | N/A |
-| 29 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 30 | [Garrett Mitchell](http://twitter.com/search?q=Garrett+Mitchell) | N/A |
-| 31 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 32 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 33 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
-| 34 | [Myles Straw](http://twitter.com/search?q=Myles+Straw) | N/A |
-| 35 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 36 | [Ziwe](http://twitter.com/search?q=Ziwe) | N/A |
-| 37 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 38 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 39 | [Mando](http://twitter.com/search?q=Mando) | N/A |
-| 40 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 41 | [Big Benz](http://twitter.com/search?q=Big+Benz) | N/A |
-| 42 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 43 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 44 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 45 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
-| 46 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
+| 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 2 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 3 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 4 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 5 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 6 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 7 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 8 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 9 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
+| 10 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
+| 11 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
+| 12 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 13 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
+| 14 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
+| 15 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
+| 16 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
+| 17 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
+| 18 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 19 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 20 | [Switchblade](http://twitter.com/search?q=Switchblade) | N/A |
+| 21 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
+| 22 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 23 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 24 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
+| 25 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 26 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 27 | [Kaulig](http://twitter.com/search?q=Kaulig) | N/A |
+| 28 | [Field of Dreams](http://twitter.com/search?q=Field+of+Dreams) | Field of Dreams is a 1989 American fantasy-drama film directed by Phil Alden Robinson, starring Kevin Costner, Amy Madigan, James Earl Jones, Ray Liotta and Burt Lancaster in his final film role. The film's title comes from the line "If you build it, he will come" from the poem "Revelation" by American poet Archibald MacLeish. The phrase refers to the main character's belief that if he builds a baseball field in his cornfield, Shoeless Joe Jackson and other deceased baseball players will come to play on it. The phrase has become an idiom for achieving one's dreams. |
+| 29 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
+| 30 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 31 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 32 | [Chris Jericho](http://twitter.com/search?q=Chris+Jericho) | N/A |
+| 33 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 34 | [The Sandlot](http://twitter.com/search?q=The+Sandlot) | N/A |
+| 35 | [Juice Robinson](http://twitter.com/search?q=Juice+Robinson) | N/A |
+| 36 | [Bull Durham](http://twitter.com/search?q=Bull+Durham) | N/A |
+| 37 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 38 | [Best Friends](http://twitter.com/search?q=Best+Friends) | N/A |
+| 39 | [Seder](http://twitter.com/search?q=Seder) | N/A |
+| 40 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 41 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
+| 42 | [Vanessa Williams](http://twitter.com/search?q=Vanessa+Williams) | N/A |
+| 43 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 44 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 45 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 46 | [The Natural](http://twitter.com/search?q=The+Natural) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-04-05 23:17:04 UTC`
+📆 Last Updated: `2023-04-06 00:27:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 2 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
-| 3 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 4 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 5 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 6 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 7 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 8 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 9 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 10 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 11 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 12 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 13 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 14 | [Kaulig](http://twitter.com/search?q=Kaulig) | N/A |
-| 15 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 4 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 5 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 6 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 7 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 8 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 9 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 10 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 11 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 12 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
+| 13 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
+| 14 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 15 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
 | 16 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 17 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 18 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 19 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 20 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
-| 21 | [Kansas Republicans](http://twitter.com/search?q=Kansas+Republicans) | N/A |
-| 22 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 23 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 24 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
-| 25 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 26 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 27 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
-| 28 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 29 | [Seder](http://twitter.com/search?q=Seder) | N/A |
-| 30 | [Garrett Mitchell](http://twitter.com/search?q=Garrett+Mitchell) | N/A |
-| 31 | [Mando](http://twitter.com/search?q=Mando) | N/A |
-| 32 | [Obamas](http://twitter.com/search?q=Obamas) | N/A |
-| 33 | [Myles Straw](http://twitter.com/search?q=Myles+Straw) | N/A |
-| 34 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 35 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 36 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 37 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 38 | [Jason Momoa](http://twitter.com/search?q=Jason+Momoa) | N/A |
-| 39 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 40 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 41 | [Ziwe](http://twitter.com/search?q=Ziwe) | N/A |
-| 42 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 43 | [Big Benz](http://twitter.com/search?q=Big+Benz) | N/A |
-| 44 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 45 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 46 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
-| 47 | [Christopher Lloyd](http://twitter.com/search?q=Christopher+Lloyd) | N/A |
-| 48 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 17 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
+| 18 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 19 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
+| 20 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
+| 21 | [Switchblade](http://twitter.com/search?q=Switchblade) | N/A |
+| 22 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
+| 23 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 24 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 25 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 26 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
+| 27 | [Field of Dreams](http://twitter.com/search?q=Field+of+Dreams) | Field of Dreams is a 1989 American fantasy-drama film directed by Phil Alden Robinson, starring Kevin Costner, Amy Madigan, James Earl Jones, Ray Liotta and Burt Lancaster in his final film role. The film's title comes from the line "If you build it, he will come" from the poem "Revelation" by American poet Archibald MacLeish. The phrase refers to the main character's belief that if he builds a baseball field in his cornfield, Shoeless Joe Jackson and other deceased baseball players will come to play on it. The phrase has become an idiom for achieving one's dreams. |
+| 28 | [Chris Jericho](http://twitter.com/search?q=Chris+Jericho) | N/A |
+| 29 | [Major League](http://twitter.com/search?q=Major+League) | Major League is a term used to refer to the highest level of professional sports in the United States and Canada. It is typically used to refer to the four major professional sports leagues in North America: Major League Baseball (MLB), the National Basketball Association (NBA), the National Football League (NFL), and the National Hockey League (NHL). |
+| 30 | [Kaulig](http://twitter.com/search?q=Kaulig) | N/A |
+| 31 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 32 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
+| 33 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 34 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 35 | [The Sandlot](http://twitter.com/search?q=The+Sandlot) | N/A |
+| 36 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 37 | [Juice Robinson](http://twitter.com/search?q=Juice+Robinson) | N/A |
+| 38 | [Best Friends](http://twitter.com/search?q=Best+Friends) | N/A |
+| 39 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
+| 40 | [Bull Durham](http://twitter.com/search?q=Bull+Durham) | N/A |
+| 41 | [Seder](http://twitter.com/search?q=Seder) | N/A |
+| 42 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 43 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 44 | [Vanessa Williams](http://twitter.com/search?q=Vanessa+Williams) | N/A |
+| 45 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 46 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 47 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 48 | [The Natural](http://twitter.com/search?q=The+Natural) | N/A |
 
 
 

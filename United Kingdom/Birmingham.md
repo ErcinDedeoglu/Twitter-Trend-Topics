@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-04-05 23:16:23 UTC`
+📆 Last Updated: `2023-04-06 00:26:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 3 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 4 | [#therepairshop](http://twitter.com/search?q=%23therepairshop) | N/A |
-| 5 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 6 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
-| 7 | [#HWTL](http://twitter.com/search?q=%23HWTL) | N/A |
-| 8 | [Cornet](http://twitter.com/search?q=Cornet) | N/A |
-| 9 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 10 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 11 | [Mason Mount](http://twitter.com/search?q=Mason+Mount) | Mason Mount is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. He is known for his passing, dribbling, and shooting ability. |
-| 12 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 13 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 14 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 15 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 16 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 17 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 18 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 1 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 2 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 3 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
+| 4 | [Lanzini](http://twitter.com/search?q=Lanzini) | N/A |
+| 5 | [Passover](http://twitter.com/search?q=Passover) | N/A |
+| 6 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 7 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 8 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 9 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 10 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 11 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 12 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 13 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 14 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 15 | [#WHUNEW](http://twitter.com/search?q=%23WHUNEW) | N/A |
+| 16 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 17 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 18 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 19 | [Fabianski](http://twitter.com/search?q=Fabianski) | N/A |
-| 20 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
-| 21 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 22 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 23 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 24 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 25 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 26 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
-| 27 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 28 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 29 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 30 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 31 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 32 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
-| 33 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
-| 34 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 35 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 36 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 37 | [Aguerd](http://twitter.com/search?q=Aguerd) | Aguerd is a term used in the Berber language of North Africa. It means "to be patient" or "to wait." |
-| 38 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 39 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
-| 40 | [Zouma](http://twitter.com/search?q=Zouma) | N/A |
-| 41 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
-| 42 | [Areola](http://twitter.com/search?q=Areola) | N/A |
-| 43 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 44 | [London Stadium](http://twitter.com/search?q=London+Stadium) | N/A |
-| 45 | [Dan Burn](http://twitter.com/search?q=Dan+Burn) | Dan Burn is a phrase used to describe a situation in which someone has been completely overwhelmed by an emotional experience. It is often used to describe the feeling of being overwhelmed with sadness or grief. |
-| 46 | [Hammers](http://twitter.com/search?q=Hammers) | N/A |
-| 47 | [Kehrer](http://twitter.com/search?q=Kehrer) | Kehrer is a German surname. It is derived from the Middle High German word "kehrer," which means "sweeper" or "cleaner." |
-| 48 | [Big Joe](http://twitter.com/search?q=Big+Joe) | N/A |
-| 49 | [Targett](http://twitter.com/search?q=Targett) | N/A |
-| 50 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 20 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 21 | [#raceacrosstheworld](http://twitter.com/search?q=%23raceacrosstheworld) | N/A |
+| 22 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
+| 23 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 24 | [#WHUFC](http://twitter.com/search?q=%23WHUFC) | N/A |
+| 25 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 26 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 27 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 28 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 29 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
+| 30 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 31 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 32 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
+| 33 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 34 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 35 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 36 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 37 | [Joelinton](http://twitter.com/search?q=Joelinton) | Joelinton is a Portuguese name, derived from the combination of the names Joel and António. It is usually given to boys and means "God will give". |
+| 38 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 39 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 40 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 41 | [Soucek](http://twitter.com/search?q=Soucek) | Soucek is a Czech surname derived from the word "souček," which means "little piece" or "small part." It is also a nickname for someone who is small or short. |
+| 42 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 43 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
+| 44 | [Dan Burn](http://twitter.com/search?q=Dan+Burn) | Dan Burn is a phrase used to describe a situation in which someone has been completely overwhelmed by an emotional experience. It is often used to describe the feeling of being overwhelmed with sadness or grief. |
+| 45 | [Sullivan](http://twitter.com/search?q=Sullivan) | N/A |
+| 46 | [Aguerd](http://twitter.com/search?q=Aguerd) | Aguerd is a term used in the Berber language of North Africa. It means "to be patient" or "to wait." |
+| 47 | [Murphy](http://twitter.com/search?q=Murphy) | Murphy is an Irish surname, derived from the Gaelic name Ó Murchadha. It is also used as a given name, and can mean "sea warrior" or "sea battler". |
+| 48 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 49 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
+| 50 | [Hammers](http://twitter.com/search?q=Hammers) | N/A |
 
 
 

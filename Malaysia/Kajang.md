@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kajang
 
-📆 Last Updated: `2023-04-05 23:16:48 UTC`
+📆 Last Updated: `2023-04-06 00:27:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 2 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 3 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 4 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 5 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 6 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
-| 7 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
-| 8 | [#IWannaStayWithGYU](http://twitter.com/search?q=%23IWannaStayWithGYU) | N/A |
-| 9 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 11 | [janna nick](http://twitter.com/search?q=janna+nick) | N/A |
-| 12 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 1 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
+| 2 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 3 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 4 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 5 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 7 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 8 | [#AgustD_SUGA_Tour_in_Singapore](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_Singapore) | N/A |
+| 9 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
+| 10 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 11 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 12 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 13 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 14 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 15 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 16 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
-| 17 | [chatgpt analysis](http://twitter.com/search?q=chatgpt+analysis) | N/A |
+| 14 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 15 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 16 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 17 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
 | 18 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 19 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 20 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 21 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 22 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 23 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 24 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 25 | [Jinyoung](http://twitter.com/search?q=Jinyoung) | N/A |
-| 26 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 19 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 20 | [FLOWER FIRST WIN](http://twitter.com/search?q=FLOWER+FIRST+WIN) | N/A |
+| 21 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 22 | [chatgpt analysis](http://twitter.com/search?q=chatgpt+analysis) | N/A |
+| 23 | [janna nick](http://twitter.com/search?q=janna+nick) | N/A |
+| 24 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 25 | [kajang](http://twitter.com/search?q=kajang) | N/A |
+| 26 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 27 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 28 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 29 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 30 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 31 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
-| 32 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 34 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 35 | [Spiderman](http://twitter.com/search?q=Spiderman) | N/A |
-| 36 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 37 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 38 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 39 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 40 | [Dazai](http://twitter.com/search?q=Dazai) | Dazai is a Japanese surname. It is derived from the Japanese words daza (太座) meaning "large seat" and i (伊) meaning "that". In English, it can be translated to mean "large seat holder". |
-| 41 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
-| 42 | [LOVESTRUCK FOCUS](http://twitter.com/search?q=LOVESTRUCK+FOCUS) | N/A |
-| 43 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 44 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 45 | [Sending](http://twitter.com/search?q=Sending) | N/A |
-| 46 | [kwsp](http://twitter.com/search?q=kwsp) | N/A |
-| 47 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 48 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 28 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 29 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
+| 30 | [dOUBLE sIX](http://twitter.com/search?q=dOUBLE+sIX) | N/A |
+| 31 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
+| 32 | [JISOO FIRST WIN](http://twitter.com/search?q=JISOO+FIRST+WIN) | N/A |
+| 33 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 34 | [Register for to WIN a Villa](http://twitter.com/search?q=Register+for+to+WIN+a+Villa) | N/A |
+| 35 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 36 | [Henry Golding](http://twitter.com/search?q=Henry+Golding) | N/A |
+| 37 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 38 | [Zionist](http://twitter.com/search?q=Zionist) | N/A |
+| 39 | [Winny](http://twitter.com/search?q=Winny) | N/A |
+| 40 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 41 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 42 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 43 | [Bersatu](http://twitter.com/search?q=Bersatu) | N/A |
+| 44 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 45 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 46 | [Shah Alam](http://twitter.com/search?q=Shah+Alam) | N/A |
+| 47 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 48 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-05 23:16:35 UTC`
+📆 Last Updated: `2023-04-06 00:27:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SCRSVR](http://twitter.com/search?q=%23SCRSVR) | N/A |
-| 2 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
-| 3 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
-| 4 | [#SCR2023](http://twitter.com/search?q=%23SCR2023) | N/A |
-| 5 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
-| 6 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 7 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 8 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
-| 9 | [Diskussionen](http://twitter.com/search?q=Diskussionen) | N/A |
-| 10 | [Sujets](http://twitter.com/search?q=Sujets) | N/A |
-| 11 | [Kunst](http://twitter.com/search?q=Kunst) | N/A |
-| 12 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
-| 13 | [Firma](http://twitter.com/search?q=Firma) | N/A |
-| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 15 | [Depends](http://twitter.com/search?q=Depends) | N/A |
-| 16 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 17 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 18 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 19 | [Studien](http://twitter.com/search?q=Studien) | N/A |
-| 20 | [Förderungen](http://twitter.com/search?q=F%c3%b6rderungen) | N/A |
-| 21 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
-| 22 | [Plattform](http://twitter.com/search?q=Plattform) | N/A |
-| 23 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
-| 24 | [mikado](http://twitter.com/search?q=mikado) | N/A |
-| 25 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 26 | [Argument](http://twitter.com/search?q=Argument) | N/A |
-| 27 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
-| 28 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 29 | [Meldung](http://twitter.com/search?q=Meldung) | N/A |
-| 30 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 31 | [Vertrag](http://twitter.com/search?q=Vertrag) | N/A |
-| 32 | [Stress](http://twitter.com/search?q=Stress) | N/A |
-| 33 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 34 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 35 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
-| 36 | [Erkenntnis](http://twitter.com/search?q=Erkenntnis) | N/A |
-| 37 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
-| 38 | [Italien](http://twitter.com/search?q=Italien) | N/A |
-| 39 | [Zitat](http://twitter.com/search?q=Zitat) | N/A |
-| 40 | [Zeitungen](http://twitter.com/search?q=Zeitungen) | N/A |
-| 41 | [Griff](http://twitter.com/search?q=Griff) | N/A |
-| 42 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
-| 43 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 44 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 45 | [Kälte](http://twitter.com/search?q=K%c3%a4lte) | N/A |
-| 46 | [Wirtschaft](http://twitter.com/search?q=Wirtschaft) | N/A |
-| 47 | [Kerl](http://twitter.com/search?q=Kerl) | N/A |
-| 48 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
-| 49 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 50 | [Kindergarten](http://twitter.com/search?q=Kindergarten) | N/A |
+| 2 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
+| 3 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
+| 4 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
+| 5 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 6 | [#ÖFBCup](http://twitter.com/search?q=%23%c3%96FBCup) | N/A |
+| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 8 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
+| 9 | [Sujets](http://twitter.com/search?q=Sujets) | N/A |
+| 10 | [mahrer](http://twitter.com/search?q=mahrer) | N/A |
+| 11 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
+| 12 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 13 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 14 | [Förderungen](http://twitter.com/search?q=F%c3%b6rderungen) | N/A |
+| 15 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 16 | [Menschlichkeit](http://twitter.com/search?q=Menschlichkeit) | N/A |
+| 17 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 18 | [Korrektur](http://twitter.com/search?q=Korrektur) | N/A |
+| 19 | [Vermögenssteuer](http://twitter.com/search?q=Verm%c3%b6genssteuer) | N/A |
+| 20 | [Viren](http://twitter.com/search?q=Viren) | N/A |
+| 21 | [artstylemimi](http://twitter.com/search?q=artstylemimi) | N/A |
+| 22 | [Mittelstand](http://twitter.com/search?q=Mittelstand) | N/A |
+| 23 | [aspekt](http://twitter.com/search?q=aspekt) | N/A |
+| 24 | [plakat](http://twitter.com/search?q=plakat) | N/A |
+| 25 | [Kommunisten](http://twitter.com/search?q=Kommunisten) | N/A |
+| 26 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 27 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
+| 28 | [Balken](http://twitter.com/search?q=Balken) | N/A |
+| 29 | [Militär](http://twitter.com/search?q=Milit%c3%a4r) | N/A |
+| 30 | [Boomer](http://twitter.com/search?q=Boomer) | N/A |
+| 31 | [Preisen](http://twitter.com/search?q=Preisen) | N/A |
+| 32 | [Terror](http://twitter.com/search?q=Terror) | N/A |
+| 33 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
+| 34 | [klenk](http://twitter.com/search?q=klenk) | N/A |
+| 35 | [Training](http://twitter.com/search?q=Training) | N/A |
+| 36 | [Schatz](http://twitter.com/search?q=Schatz) | N/A |
+| 37 | [Abwesenheit](http://twitter.com/search?q=Abwesenheit) | N/A |
+| 38 | [Kunst](http://twitter.com/search?q=Kunst) | N/A |
+| 39 | [Pflicht](http://twitter.com/search?q=Pflicht) | N/A |
+| 40 | [thomas schmid](http://twitter.com/search?q=thomas+schmid) | N/A |
+| 41 | [Walach](http://twitter.com/search?q=Walach) | N/A |
+| 42 | [Karin](http://twitter.com/search?q=Karin) | N/A |
+| 43 | [Schublade](http://twitter.com/search?q=Schublade) | N/A |
+| 44 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 45 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
+| 46 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 47 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 48 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
+| 49 | [Gebiet](http://twitter.com/search?q=Gebiet) | N/A |
+| 50 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
 
 
 

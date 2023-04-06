@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Voronezh
 
-📆 Last Updated: `2023-04-05 23:16:55 UTC`
+📆 Last Updated: `2023-04-06 00:27:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,9 +19,9 @@ This is top 50 for [Russia](</Russia>)
 | 2 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
 | 3 | [Трампа](http://twitter.com/search?q=%d0%a2%d1%80%d0%b0%d0%bc%d0%bf%d0%b0) | N/A |
 | 4 | [#applepronews](http://twitter.com/search?q=%23applepronews) | N/A |
-| 5 | [Самое](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bc%d0%be%d0%b5) | N/A |
-| 6 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | N/A |
-| 7 | [#корольишут](http://twitter.com/search?q=%23%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8c%d0%b8%d1%88%d1%83%d1%82) | N/A |
+| 5 | [самое](http://twitter.com/search?q=%d1%81%d0%b0%d0%bc%d0%be%d0%b5) | N/A |
+| 6 | [#корольишут](http://twitter.com/search?q=%23%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8c%d0%b8%d1%88%d1%83%d1%82) | N/A |
+| 7 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | N/A |
 | 8 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
 | 9 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
 | 10 | [#iPhone](http://twitter.com/search?q=%23iPhone) | N/A |
@@ -37,16 +37,15 @@ This is top 50 for [Russia](</Russia>)
 | 20 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
 | 21 | [Прям](http://twitter.com/search?q=%d0%9f%d1%80%d1%8f%d0%bc) | N/A |
 | 22 | [Татарского](http://twitter.com/search?q=%d0%a2%d0%b0%d1%82%d0%b0%d1%80%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 23 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
-| 24 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
-| 25 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
-| 26 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
-| 27 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
-| 28 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
-| 29 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
-| 30 | [#opensea](http://twitter.com/search?q=%23opensea) | N/A |
-| 31 | [#NFTCollection](http://twitter.com/search?q=%23NFTCollection) | N/A |
-| 32 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 23 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
+| 24 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
+| 25 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
+| 26 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
+| 27 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
+| 28 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
+| 29 | [#opensea](http://twitter.com/search?q=%23opensea) | N/A |
+| 30 | [#NFTCollection](http://twitter.com/search?q=%23NFTCollection) | N/A |
+| 31 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
 
 
 

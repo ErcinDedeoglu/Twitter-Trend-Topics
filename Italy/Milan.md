@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-04-05 23:16:39 UTC`
+📆 Last Updated: `2023-04-06 00:27:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 1 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
 | 2 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
 | 3 | [#backtoschool](http://twitter.com/search?q=%23backtoschool) | N/A |
-| 4 | [#RoccoSchiavone](http://twitter.com/search?q=%23RoccoSchiavone) | N/A |
-| 5 | [#SilvioBerlusconi](http://twitter.com/search?q=%23SilvioBerlusconi) | N/A |
-| 6 | [#100x100ItaliaSpecial](http://twitter.com/search?q=%23100x100ItaliaSpecial) | N/A |
-| 7 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 8 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 9 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
-| 10 | [Pierino](http://twitter.com/search?q=Pierino) | N/A |
-| 11 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
-| 12 | [Valeria Marini](http://twitter.com/search?q=Valeria+Marini) | N/A |
-| 13 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 14 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
-| 15 | [Lotito](http://twitter.com/search?q=Lotito) | N/A |
-| 16 | [Bellissime](http://twitter.com/search?q=Bellissime) | N/A |
-| 17 | [Coppa Italia](http://twitter.com/search?q=Coppa+Italia) | Coppa Italia is an annual Italian football tournament, organized by the Italian Football Federation. It is the main national cup competition in Italy and is contested between professional clubs from all over the country. The tournament's name translates to "Italian Cup" in English. |
-| 18 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 19 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 20 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 21 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
-| 22 | [#CremoneseFiorentina](http://twitter.com/search?q=%23CremoneseFiorentina) | N/A |
-| 23 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
-| 24 | [#chilhavisters](http://twitter.com/search?q=%23chilhavisters) | N/A |
-| 25 | [#provareAncora](http://twitter.com/search?q=%23provareAncora) | N/A |
-| 26 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
-| 27 | [#Benzema](http://twitter.com/search?q=%23Benzema) | N/A |
-| 28 | [#ricattodamore](http://twitter.com/search?q=%23ricattodamore) | N/A |
-| 29 | [#portaaporta](http://twitter.com/search?q=%23portaaporta) | N/A |
-| 30 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 31 | [#BarcaReal](http://twitter.com/search?q=%23BarcaReal) | N/A |
-| 32 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
-| 33 | [#RealMadrid](http://twitter.com/search?q=%23RealMadrid) | N/A |
-| 34 | [#nikella](http://twitter.com/search?q=%23nikella) | N/A |
-| 35 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 36 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
-| 37 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 38 | [#AdimFarah](http://twitter.com/search?q=%23AdimFarah) | N/A |
-| 39 | [#5aprile](http://twitter.com/search?q=%235aprile) | N/A |
+| 4 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 5 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
+| 6 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 7 | [#SilvioBerlusconi](http://twitter.com/search?q=%23SilvioBerlusconi) | N/A |
+| 8 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 10 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 11 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
+| 12 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 13 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
+| 14 | [Rosalbino](http://twitter.com/search?q=Rosalbino) | N/A |
+| 15 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 16 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 17 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 18 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 19 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 20 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
+| 21 | [Pierino](http://twitter.com/search?q=Pierino) | N/A |
+| 22 | [Perin](http://twitter.com/search?q=Perin) | N/A |
+| 23 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
+| 24 | [Suma](http://twitter.com/search?q=Suma) | N/A |
+| 25 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 26 | [Valeria Marini](http://twitter.com/search?q=Valeria+Marini) | N/A |
+| 27 | [Graziani](http://twitter.com/search?q=Graziani) | N/A |
+| 28 | [Forza Presidente](http://twitter.com/search?q=Forza+Presidente) | N/A |
+| 29 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
+| 30 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 31 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 32 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
+| 33 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
+| 34 | [Gennaro](http://twitter.com/search?q=Gennaro) | N/A |
+| 35 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 36 | [bonolis](http://twitter.com/search?q=bonolis) | N/A |
+| 37 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 38 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 39 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 40 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 41 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 42 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 43 | [Marco Mengoni](http://twitter.com/search?q=Marco+Mengoni) | N/A |
+| 44 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 45 | [Nunzia](http://twitter.com/search?q=Nunzia) | N/A |
+| 46 | [Anto](http://twitter.com/search?q=Anto) | Anto is a shortened form of the name Antonio, which is a male given name of Italian origin. It is derived from the Latin Antonius, which is ultimately derived from the Greek name Antonios. In English, it means "beyond praise" or "priceless". |
+| 47 | [Friedkin](http://twitter.com/search?q=Friedkin) | N/A |
+| 48 | [Serena](http://twitter.com/search?q=Serena) | N/A |
+| 49 | [Bellissime](http://twitter.com/search?q=Bellissime) | N/A |
+| 50 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
 
 
 
