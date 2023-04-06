@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-04-06 08:16:49 UTC`
+📆 Last Updated: `2023-04-06 09:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sturgeon](http://twitter.com/search?q=Sturgeon) | Sturgeon is a type of large fish that is found in the waters of the Northern Hemisphere. It is an anadromous fish, meaning it spends part of its life in fresh water and part in salt water. Sturgeon are prized for their roe, which is used to make caviar. |
+| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 2 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
 | 3 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 4 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 5 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 7 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
-| 8 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 9 | [Wembley Stadium](http://twitter.com/search?q=Wembley+Stadium) | N/A |
-| 10 | [#AdoorableThursday](http://twitter.com/search?q=%23AdoorableThursday) | N/A |
-| 11 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 12 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
-| 13 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 14 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
-| 15 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
-| 16 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
-| 17 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
-| 18 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 19 | [Tory MP](http://twitter.com/search?q=Tory+MP) | N/A |
-| 20 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
-| 21 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 22 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 4 | [#ASongOrMovieForJumping](http://twitter.com/search?q=%23ASongOrMovieForJumping) | N/A |
+| 5 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 6 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 8 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 9 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 10 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
+| 11 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 12 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 13 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 14 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 15 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
+| 16 | [Wembley Stadium](http://twitter.com/search?q=Wembley+Stadium) | N/A |
+| 17 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
+| 18 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
+| 19 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
+| 20 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 21 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
+| 22 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
 | 23 | [Soyinka](http://twitter.com/search?q=Soyinka) | N/A |
-| 24 | [Sullivan](http://twitter.com/search?q=Sullivan) | N/A |
-| 25 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 26 | [Dorset](http://twitter.com/search?q=Dorset) | N/A |
-| 27 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 28 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 29 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 30 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
-| 31 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 32 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 33 | [Michelle Mone](http://twitter.com/search?q=Michelle+Mone) | N/A |
-| 34 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
-| 35 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 36 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 37 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 38 | [#AEWAllIn](http://twitter.com/search?q=%23AEWAllIn) | N/A |
-| 39 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 40 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 41 | [#ToriesOut273](http://twitter.com/search?q=%23ToriesOut273) | N/A |
-| 42 | [#GiftBetter](http://twitter.com/search?q=%23GiftBetter) | N/A |
-| 43 | [#Wordle656](http://twitter.com/search?q=%23Wordle656) | N/A |
-| 44 | [#CountyChampionship](http://twitter.com/search?q=%23CountyChampionship) | N/A |
-| 45 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 46 | [#TorySleaze](http://twitter.com/search?q=%23TorySleaze) | N/A |
-| 47 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 24 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 25 | [iPod](http://twitter.com/search?q=iPod) | N/A |
+| 26 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 27 | [Woof](http://twitter.com/search?q=Woof) | N/A |
+| 28 | [Tory MP](http://twitter.com/search?q=Tory+MP) | N/A |
+| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 30 | [Dorset](http://twitter.com/search?q=Dorset) | N/A |
+| 31 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
+| 32 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 33 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 34 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 35 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
+| 36 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 37 | [Michelle Mone](http://twitter.com/search?q=Michelle+Mone) | N/A |
+| 38 | [Sullivan](http://twitter.com/search?q=Sullivan) | N/A |
+| 39 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 40 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
+| 41 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
+| 42 | [Channel 4](http://twitter.com/search?q=Channel+4) | Channel 4 is a British public-service television broadcaster that began broadcasting in 1982. It is known for its innovative and often controversial programming, including documentaries, comedy, drama, and current affairs. The channel's mission is to provide an alternative to mainstream commercial broadcasting and to produce programmes of the highest quality that reflect the diversity of the UK. |
+| 43 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
+| 44 | [Passover](http://twitter.com/search?q=Passover) | N/A |
+| 45 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
+| 46 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 47 | [Conservative MP](http://twitter.com/search?q=Conservative+MP) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-04-06 08:17:07 UTC`
+📆 Last Updated: `2023-04-06 09:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BigRamadanSaleShopee](http://twitter.com/search?q=%23BigRamadanSaleShopee) | N/A |
-| 2 | [HARI TERAKHIR PROMO PUNCAK](http://twitter.com/search?q=HARI+TERAKHIR+PROMO+PUNCAK) | N/A |
-| 3 | [Repose Meadows](http://twitter.com/search?q=Repose+Meadows) | N/A |
-| 4 | [Bagaimana 4](http://twitter.com/search?q=Bagaimana+4) | N/A |
-| 5 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
-| 6 | [#SUGAxNBA](http://twitter.com/search?q=%23SUGAxNBA) | N/A |
-| 7 | [Majukan Terus Indonesia](http://twitter.com/search?q=Majukan+Terus+Indonesia) | N/A |
-| 8 | [Semangat Persatuan Prabowo](http://twitter.com/search?q=Semangat+Persatuan+Prabowo) | N/A |
-| 9 | [#GalaxyBuds2](http://twitter.com/search?q=%23GalaxyBuds2) | N/A |
-| 10 | [#FlashSaleAkbarRp1](http://twitter.com/search?q=%23FlashSaleAkbarRp1) | N/A |
-| 11 | [HARUTO TREASURE HUMBLE](http://twitter.com/search?q=HARUTO+TREASURE+HUMBLE) | N/A |
-| 12 | [EXO 11th Anniversary](http://twitter.com/search?q=EXO+11th+Anniversary) | N/A |
-| 13 | [Mini Camp](http://twitter.com/search?q=Mini+Camp) | N/A |
-| 14 | [Underrated](http://twitter.com/search?q=Underrated) | N/A |
-| 15 | [Minyaknya](http://twitter.com/search?q=Minyaknya) | N/A |
-| 16 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 17 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 18 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 19 | [Kamseupay](http://twitter.com/search?q=Kamseupay) | N/A |
-| 20 | [Syok](http://twitter.com/search?q=Syok) | N/A |
-| 21 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 22 | [SMILE FOR CHOI HYUNSUK](http://twitter.com/search?q=SMILE+FOR+CHOI+HYUNSUK) | N/A |
-| 23 | [Pemilu 2024](http://twitter.com/search?q=Pemilu+2024) | N/A |
-| 24 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 25 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 26 | [Nabi Muhammad](http://twitter.com/search?q=Nabi+Muhammad) | N/A |
-| 27 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
-| 28 | [Yahudi](http://twitter.com/search?q=Yahudi) | N/A |
-| 29 | [Syiah](http://twitter.com/search?q=Syiah) | N/A |
-| 30 | [HAECHAN LEE](http://twitter.com/search?q=HAECHAN+LEE) | N/A |
-| 31 | [Yesus](http://twitter.com/search?q=Yesus) | N/A |
-| 32 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 1 | [#PedeItuPenting](http://twitter.com/search?q=%23PedeItuPenting) | N/A |
+| 2 | [Tabungan BRI Simpedes](http://twitter.com/search?q=Tabungan+BRI+Simpedes) | N/A |
+| 3 | [#WardahHeartToHeart](http://twitter.com/search?q=%23WardahHeartToHeart) | N/A |
+| 4 | [Bersama Lebih Bermakna](http://twitter.com/search?q=Bersama+Lebih+Bermakna) | N/A |
+| 5 | [#GoldenHour_MVTeaser](http://twitter.com/search?q=%23GoldenHour_MVTeaser) | N/A |
+| 6 | [Bagaimana 4](http://twitter.com/search?q=Bagaimana+4) | N/A |
+| 7 | [Repose Meadows](http://twitter.com/search?q=Repose+Meadows) | N/A |
+| 8 | [MARK SOLO TOMORROW](http://twitter.com/search?q=MARK+SOLO+TOMORROW) | N/A |
+| 9 | [#BigRamadanSaleShopee](http://twitter.com/search?q=%23BigRamadanSaleShopee) | N/A |
+| 10 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
+| 11 | [HARI TERAKHIR PROMO PUNCAK](http://twitter.com/search?q=HARI+TERAKHIR+PROMO+PUNCAK) | N/A |
+| 12 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 13 | [Majukan Terus Indonesia](http://twitter.com/search?q=Majukan+Terus+Indonesia) | N/A |
+| 14 | [Semangat Persatuan Prabowo](http://twitter.com/search?q=Semangat+Persatuan+Prabowo) | N/A |
+| 15 | [HARUTO TREASURE HUMBLE](http://twitter.com/search?q=HARUTO+TREASURE+HUMBLE) | N/A |
+| 16 | [Underrated](http://twitter.com/search?q=Underrated) | N/A |
+| 17 | [EXO 11th Anniversary](http://twitter.com/search?q=EXO+11th+Anniversary) | N/A |
+| 18 | [Mini Camp](http://twitter.com/search?q=Mini+Camp) | N/A |
+| 19 | [Selamat Hari Nelayan Nasional](http://twitter.com/search?q=Selamat+Hari+Nelayan+Nasional) | N/A |
+| 20 | [Minyaknya](http://twitter.com/search?q=Minyaknya) | N/A |
+| 21 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 22 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 23 | [Babinsa](http://twitter.com/search?q=Babinsa) | N/A |
+| 24 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 25 | [Indosiar](http://twitter.com/search?q=Indosiar) | N/A |
+| 26 | [Kamseupay](http://twitter.com/search?q=Kamseupay) | N/A |
+| 27 | [Pemilu 2024](http://twitter.com/search?q=Pemilu+2024) | N/A |
+| 28 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 29 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
+| 30 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 31 | [Nabi Muhammad](http://twitter.com/search?q=Nabi+Muhammad) | N/A |
+| 32 | [#GalaxyBuds2](http://twitter.com/search?q=%23GalaxyBuds2) | N/A |
 | 33 | [#THRpolpolan](http://twitter.com/search?q=%23THRpolpolan) | N/A |
 | 34 | [#MaknaiRamadanSamsung](http://twitter.com/search?q=%23MaknaiRamadanSamsung) | N/A |
 | 35 | [#tiketHariRaya](http://twitter.com/search?q=%23tiketHariRaya) | N/A |
-| 36 | [#OPPOxUCL](http://twitter.com/search?q=%23OPPOxUCL) | N/A |
-| 37 | [#D2_EXOAnniversary](http://twitter.com/search?q=%23D2_EXOAnniversary) | N/A |
-| 38 | [#Summerนี้มีD7xBible](http://twitter.com/search?q=%23Summer%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%a1%e0%b8%b5D7xBible) | N/A |
-| 39 | [#BLACKPINK_THE_GAME](http://twitter.com/search?q=%23BLACKPINK_THE_GAME) | N/A |
-| 40 | [#timtigadigit](http://twitter.com/search?q=%23timtigadigit) | N/A |
-| 41 | [#KPUMelayani](http://twitter.com/search?q=%23KPUMelayani) | N/A |
-| 42 | [#PemiluSerentak2024](http://twitter.com/search?q=%23PemiluSerentak2024) | N/A |
-| 43 | [#SobATRBPN](http://twitter.com/search?q=%23SobATRBPN) | N/A |
-| 44 | [#TemanPemilih](http://twitter.com/search?q=%23TemanPemilih) | N/A |
-| 45 | [#kemenkumhamri](http://twitter.com/search?q=%23kemenkumhamri) | N/A |
-| 46 | [#KumhamPasti](http://twitter.com/search?q=%23KumhamPasti) | N/A |
+| 36 | [#SUGAxNBA](http://twitter.com/search?q=%23SUGAxNBA) | N/A |
+| 37 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 38 | [#FlashSaleAkbarRp1](http://twitter.com/search?q=%23FlashSaleAkbarRp1) | N/A |
+| 39 | [#D2_EXOAnniversary](http://twitter.com/search?q=%23D2_EXOAnniversary) | N/A |
+| 40 | [#DukungUUCiptaker](http://twitter.com/search?q=%23DukungUUCiptaker) | N/A |
+| 41 | [#UUCiptaKerja](http://twitter.com/search?q=%23UUCiptaKerja) | N/A |
+| 42 | [#CiptakerSejahterakanRakyat](http://twitter.com/search?q=%23CiptakerSejahterakanRakyat) | N/A |
+| 43 | [#BLACKPINK_THE_GAME](http://twitter.com/search?q=%23BLACKPINK_THE_GAME) | N/A |
+| 44 | [#Summerนี้มีD7xBible](http://twitter.com/search?q=%23Summer%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%a1%e0%b8%b5D7xBible) | N/A |
+| 45 | [#KPUMelayani](http://twitter.com/search?q=%23KPUMelayani) | N/A |
+| 46 | [#SobATRBPN](http://twitter.com/search?q=%23SobATRBPN) | N/A |
+| 47 | [#timtigadigit](http://twitter.com/search?q=%23timtigadigit) | N/A |
+| 48 | [#PemiluSerentak2024](http://twitter.com/search?q=%23PemiluSerentak2024) | N/A |
+| 49 | [#TemanPemilih](http://twitter.com/search?q=%23TemanPemilih) | N/A |
+| 50 | [#WeLoveYouChoiHyunsuk](http://twitter.com/search?q=%23WeLoveYouChoiHyunsuk) | N/A |
 
 
 

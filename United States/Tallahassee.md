@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-04-06 08:17:34 UTC`
+📆 Last Updated: `2023-04-06 09:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [United States](</United States>)
 | 6 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
 | 7 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
 | 8 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
-| 9 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 10 | [iPod](http://twitter.com/search?q=iPod) | N/A |
-| 11 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 12 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 13 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 14 | [Darvin ham](http://twitter.com/search?q=Darvin+ham) | N/A |
-| 15 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 16 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 17 | [#WWHL](http://twitter.com/search?q=%23WWHL) | N/A |
-| 18 | [Bones Hyland](http://twitter.com/search?q=Bones+Hyland) | N/A |
-| 19 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 9 | [iPod](http://twitter.com/search?q=iPod) | N/A |
+| 10 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 11 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
+| 12 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 13 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 14 | [#DesantisKidnapping](http://twitter.com/search?q=%23DesantisKidnapping) | N/A |
+| 15 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 16 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 17 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 18 | [#WWHL](http://twitter.com/search?q=%23WWHL) | N/A |
+| 19 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
 | 20 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 21 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 22 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 23 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
-| 24 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
-| 25 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 26 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 27 | [Troy brown](http://twitter.com/search?q=Troy+brown) | N/A |
-| 28 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 29 | [RFK Jr](http://twitter.com/search?q=RFK+Jr) | N/A |
-| 30 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
-| 31 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 32 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 33 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 34 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 35 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 36 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 37 | [Progress](http://twitter.com/search?q=Progress) | N/A |
+| 21 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
+| 22 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
+| 23 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 24 | [Progress](http://twitter.com/search?q=Progress) | N/A |
+| 25 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 26 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
+| 27 | [Katie](http://twitter.com/search?q=Katie) | N/A |
+| 28 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 29 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 30 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 31 | [RFK Jr](http://twitter.com/search?q=RFK+Jr) | N/A |
+| 32 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 33 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 34 | [Rebekah Jones](http://twitter.com/search?q=Rebekah+Jones) | N/A |
+| 35 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 36 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 37 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 38 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 39 | [Katie](http://twitter.com/search?q=Katie) | N/A |
-| 40 | [Rebekah Jones](http://twitter.com/search?q=Rebekah+Jones) | N/A |
-| 41 | [Clips](http://twitter.com/search?q=Clips) | N/A |
-| 42 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 43 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 44 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
-| 45 | [Rubi Rose](http://twitter.com/search?q=Rubi+Rose) | N/A |
-| 46 | [Mando](http://twitter.com/search?q=Mando) | N/A |
-| 47 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 48 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 49 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 39 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 40 | [Rubi Rose](http://twitter.com/search?q=Rubi+Rose) | N/A |
+| 41 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
+| 42 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 43 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 44 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 45 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 46 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 47 | [Clips](http://twitter.com/search?q=Clips) | N/A |
+| 48 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
+| 49 | [Chris Pratt](http://twitter.com/search?q=Chris+Pratt) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-06 08:16:59 UTC`
+📆 Last Updated: `2023-04-06 09:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SCRSVR](http://twitter.com/search?q=%23SCRSVR) | N/A |
-| 2 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
-| 3 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
-| 4 | [Spinat](http://twitter.com/search?q=Spinat) | N/A |
+| 2 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
+| 3 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
+| 4 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
 | 5 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
-| 6 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 7 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
-| 8 | [Presserat](http://twitter.com/search?q=Presserat) | N/A |
-| 9 | [#öfbcup](http://twitter.com/search?q=%23%c3%b6fbcup) | N/A |
-| 10 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 11 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 13 | [sujet](http://twitter.com/search?q=sujet) | N/A |
-| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 15 | [Viren](http://twitter.com/search?q=Viren) | N/A |
-| 16 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
-| 17 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 18 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 19 | [Menschlichkeit](http://twitter.com/search?q=Menschlichkeit) | N/A |
-| 20 | [Ärztin](http://twitter.com/search?q=%c3%84rztin) | N/A |
-| 21 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 22 | [Korrektur](http://twitter.com/search?q=Korrektur) | N/A |
-| 23 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 24 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
-| 25 | [Umwelt](http://twitter.com/search?q=Umwelt) | N/A |
-| 26 | [artstylemimi](http://twitter.com/search?q=artstylemimi) | N/A |
-| 27 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
-| 28 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 29 | [Widerspruch](http://twitter.com/search?q=Widerspruch) | N/A |
-| 30 | [Kommunisten](http://twitter.com/search?q=Kommunisten) | N/A |
-| 31 | [Förderungen](http://twitter.com/search?q=F%c3%b6rderungen) | N/A |
-| 32 | [Militär](http://twitter.com/search?q=Milit%c3%a4r) | N/A |
-| 33 | [Preisen](http://twitter.com/search?q=Preisen) | N/A |
-| 34 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
-| 35 | [Training](http://twitter.com/search?q=Training) | N/A |
-| 36 | [Schatz](http://twitter.com/search?q=Schatz) | N/A |
-| 37 | [Bedarf](http://twitter.com/search?q=Bedarf) | N/A |
-| 38 | [abwesenheit](http://twitter.com/search?q=abwesenheit) | N/A |
-| 39 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
-| 40 | [Aspekt](http://twitter.com/search?q=Aspekt) | N/A |
-| 41 | [Pflicht](http://twitter.com/search?q=Pflicht) | N/A |
-| 42 | [Krankheit](http://twitter.com/search?q=Krankheit) | N/A |
-| 43 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 44 | [thomas schmid](http://twitter.com/search?q=thomas+schmid) | N/A |
-| 45 | [Walach](http://twitter.com/search?q=Walach) | N/A |
-| 46 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
-| 47 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 48 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
-| 49 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
-| 50 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 6 | [#scr2023](http://twitter.com/search?q=%23scr2023) | N/A |
+| 7 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 8 | [Spinat](http://twitter.com/search?q=Spinat) | N/A |
+| 9 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
+| 10 | [Presserat](http://twitter.com/search?q=Presserat) | N/A |
+| 11 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
+| 12 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
+| 13 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 14 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 15 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 16 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
+| 17 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 19 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 20 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
+| 21 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 22 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 23 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
+| 24 | [Sujets](http://twitter.com/search?q=Sujets) | N/A |
+| 25 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 26 | [Versteh](http://twitter.com/search?q=Versteh) | N/A |
+| 27 | [Umwelt](http://twitter.com/search?q=Umwelt) | N/A |
+| 28 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 29 | [Ärztin](http://twitter.com/search?q=%c3%84rztin) | N/A |
+| 30 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
+| 31 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
+| 32 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 33 | [Stress](http://twitter.com/search?q=Stress) | N/A |
+| 34 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 35 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 36 | [Diskussionen](http://twitter.com/search?q=Diskussionen) | N/A |
+| 37 | [Kunst](http://twitter.com/search?q=Kunst) | N/A |
+| 38 | [Organisation](http://twitter.com/search?q=Organisation) | N/A |
+| 39 | [Beweis](http://twitter.com/search?q=Beweis) | N/A |
+| 40 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
+| 41 | [Spruch](http://twitter.com/search?q=Spruch) | N/A |
+| 42 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 43 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
+| 44 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 45 | [Argument](http://twitter.com/search?q=Argument) | N/A |
+| 46 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 47 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 48 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 49 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 50 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
 
 
 

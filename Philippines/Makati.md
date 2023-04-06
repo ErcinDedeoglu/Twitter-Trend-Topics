@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-04-06 08:17:14 UTC`
+📆 Last Updated: `2023-04-06 09:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Philippines](</Philippines>)
 | 4 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
 | 5 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
 | 6 | [#BLACKPINK_THE_GAME](http://twitter.com/search?q=%23BLACKPINK_THE_GAME) | N/A |
-| 7 | [#SUGAxNBA](http://twitter.com/search?q=%23SUGAxNBA) | N/A |
-| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 9 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
+| 7 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
+| 8 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
+| 9 | [#SUGAxNBA](http://twitter.com/search?q=%23SUGAxNBA) | N/A |
 | 10 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 11 | [#HORI7ON_Salamat_MV](http://twitter.com/search?q=%23HORI7ON_Salamat_MV) | N/A |
-| 12 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 13 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 14 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 15 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 12 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
+| 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 14 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 15 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 16 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 17 | [1MILLION SALAMAT SA INYO](http://twitter.com/search?q=1MILLION+SALAMAT+SA+INYO) | N/A |
 | 18 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
-| 19 | [Huwebes Santo](http://twitter.com/search?q=Huwebes+Santo) | N/A |
-| 20 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 21 | [HORI7ON SALAMAT OUT NOW](http://twitter.com/search?q=HORI7ON+SALAMAT+OUT+NOW) | N/A |
-| 22 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 23 | [Jaya](http://twitter.com/search?q=Jaya) | N/A |
-| 24 | [Visita Iglesia](http://twitter.com/search?q=Visita+Iglesia) | N/A |
-| 25 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 26 | [iPod](http://twitter.com/search?q=iPod) | N/A |
-| 27 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 28 | [Marie Claire](http://twitter.com/search?q=Marie+Claire) | N/A |
-| 29 | [COMEBACK IN JUNE](http://twitter.com/search?q=COMEBACK+IN+JUNE) | N/A |
-| 30 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 31 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
-| 32 | [JOSHCULLEN WT PHOTOSHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+PHOTOSHOOT) | N/A |
-| 33 | [Pagbilao](http://twitter.com/search?q=Pagbilao) | N/A |
-| 34 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 35 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 36 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 19 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 20 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 21 | [Huwebes Santo](http://twitter.com/search?q=Huwebes+Santo) | N/A |
+| 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 23 | [HORI7ON SALAMAT OUT NOW](http://twitter.com/search?q=HORI7ON+SALAMAT+OUT+NOW) | N/A |
+| 24 | [Jaya](http://twitter.com/search?q=Jaya) | N/A |
+| 25 | [Visita Iglesia](http://twitter.com/search?q=Visita+Iglesia) | N/A |
+| 26 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 27 | [Marie Claire](http://twitter.com/search?q=Marie+Claire) | N/A |
+| 28 | [COMEBACK IN JUNE](http://twitter.com/search?q=COMEBACK+IN+JUNE) | N/A |
+| 29 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 30 | [JOSHCULLEN WT PHOTOSHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+PHOTOSHOOT) | N/A |
+| 31 | [iPod](http://twitter.com/search?q=iPod) | N/A |
+| 32 | [Pagbilao](http://twitter.com/search?q=Pagbilao) | N/A |
+| 33 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 34 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 35 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 36 | [Mashi](http://twitter.com/search?q=Mashi) | N/A |
 | 37 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 38 | [Darvin ham](http://twitter.com/search?q=Darvin+ham) | N/A |
-| 39 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 40 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 41 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
-| 42 | [Salamat MV](http://twitter.com/search?q=Salamat+MV) | N/A |
-| 43 | [Eucharist](http://twitter.com/search?q=Eucharist) | N/A |
-| 44 | [FLOWER FIRST WIN](http://twitter.com/search?q=FLOWER+FIRST+WIN) | N/A |
-| 45 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 46 | [Mingoo](http://twitter.com/search?q=Mingoo) | N/A |
-| 47 | [jaewon](http://twitter.com/search?q=jaewon) | N/A |
-| 48 | [Lucena](http://twitter.com/search?q=Lucena) | N/A |
-| 49 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 50 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
+| 38 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 39 | [Salamat MV](http://twitter.com/search?q=Salamat+MV) | N/A |
+| 40 | [Eucharist](http://twitter.com/search?q=Eucharist) | N/A |
+| 41 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 42 | [Lucena](http://twitter.com/search?q=Lucena) | N/A |
+| 43 | [FLOWER FIRST WIN](http://twitter.com/search?q=FLOWER+FIRST+WIN) | N/A |
+| 44 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 45 | [Mingoo](http://twitter.com/search?q=Mingoo) | N/A |
+| 46 | [JUNGKOOK OUR EUPHORIA](http://twitter.com/search?q=JUNGKOOK+OUR+EUPHORIA) | N/A |
+| 47 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 48 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
+| 49 | [STREAM TO 2B FOR JUNGKOOK](http://twitter.com/search?q=STREAM+TO+2B+FOR+JUNGKOOK) | N/A |
+| 50 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
 
 
 
