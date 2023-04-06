@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-04-06 20:17:12 UTC`
+📆 Last Updated: `2023-04-06 21:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dragonsden](http://twitter.com/search?q=%23dragonsden) | N/A |
-| 2 | [#Finalissima](http://twitter.com/search?q=%23Finalissima) | N/A |
-| 3 | [#ENGBRA](http://twitter.com/search?q=%23ENGBRA) | N/A |
-| 4 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
-| 5 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 7 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
-| 8 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 9 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 10 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 11 | [Peter Wright](http://twitter.com/search?q=Peter+Wright) | N/A |
-| 12 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 13 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 14 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
-| 15 | [Ella Toone](http://twitter.com/search?q=Ella+Toone) | N/A |
-| 16 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 17 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
-| 18 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 19 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 20 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 21 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 22 | [John Lydon](http://twitter.com/search?q=John+Lydon) | N/A |
-| 23 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 24 | [Saville](http://twitter.com/search?q=Saville) | N/A |
-| 25 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 26 | [Wakey](http://twitter.com/search?q=Wakey) | N/A |
-| 27 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
+| 1 | [#Finalissima](http://twitter.com/search?q=%23Finalissima) | N/A |
+| 2 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
+| 3 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
+| 4 | [#ENGBRA](http://twitter.com/search?q=%23ENGBRA) | N/A |
+| 5 | [Chloe Kelly](http://twitter.com/search?q=Chloe+Kelly) | N/A |
+| 6 | [#Taskmaster](http://twitter.com/search?q=%23Taskmaster) | N/A |
+| 7 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 8 | [Nora](http://twitter.com/search?q=Nora) | N/A |
+| 9 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 10 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 11 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 12 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 13 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 14 | [Ella Toone](http://twitter.com/search?q=Ella+Toone) | N/A |
+| 15 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
+| 16 | [Peter Wright](http://twitter.com/search?q=Peter+Wright) | N/A |
+| 17 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
+| 18 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 19 | [Sarina Wiegman](http://twitter.com/search?q=Sarina+Wiegman) | N/A |
+| 20 | [Wakey](http://twitter.com/search?q=Wakey) | N/A |
+| 21 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 22 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 23 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 24 | [Leah Williamson](http://twitter.com/search?q=Leah+Williamson) | N/A |
+| 25 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 26 | [John Lydon](http://twitter.com/search?q=John+Lydon) | N/A |
+| 27 | [Wakefield](http://twitter.com/search?q=Wakefield) | N/A |
 | 28 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 29 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 30 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 31 | [McIlroy](http://twitter.com/search?q=McIlroy) | N/A |
-| 32 | [Clapham](http://twitter.com/search?q=Clapham) | N/A |
-| 33 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 34 | [Jack Harrison](http://twitter.com/search?q=Jack+Harrison) | N/A |
-| 35 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 36 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 37 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 38 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
-| 39 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 40 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
-| 41 | [#SLCasWak](http://twitter.com/search?q=%23SLCasWak) | N/A |
-| 42 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 43 | [#MAFSAUS](http://twitter.com/search?q=%23MAFSAUS) | N/A |
-| 44 | [#Taskmaster](http://twitter.com/search?q=%23Taskmaster) | N/A |
-| 45 | [#PremierLeagueDarts](http://twitter.com/search?q=%23PremierLeagueDarts) | N/A |
-| 46 | [#MarriedatfirstsightAustralia](http://twitter.com/search?q=%23MarriedatfirstsightAustralia) | N/A |
-| 47 | [#Masters2023](http://twitter.com/search?q=%23Masters2023) | N/A |
-| 48 | [#MoodPitch](http://twitter.com/search?q=%23MoodPitch) | N/A |
-| 49 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 29 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 30 | [Clayton](http://twitter.com/search?q=Clayton) | N/A |
+| 31 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 32 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 33 | [Saville](http://twitter.com/search?q=Saville) | N/A |
+| 34 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
+| 35 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 36 | [Nicky](http://twitter.com/search?q=Nicky) | N/A |
+| 37 | [Clapham](http://twitter.com/search?q=Clapham) | N/A |
+| 38 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
+| 39 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 40 | [Season 3](http://twitter.com/search?q=Season+3) | N/A |
+| 41 | [Jack Harrison](http://twitter.com/search?q=Jack+Harrison) | N/A |
+| 42 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 43 | [Joanne](http://twitter.com/search?q=Joanne) | N/A |
+| 44 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 45 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 46 | [#dragonsden](http://twitter.com/search?q=%23dragonsden) | N/A |
+| 47 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 48 | [#FutureFoodStars](http://twitter.com/search?q=%23FutureFoodStars) | N/A |
+| 49 | [#SLCasWak](http://twitter.com/search?q=%23SLCasWak) | N/A |
 
 
 

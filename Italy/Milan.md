@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-04-06 20:17:28 UTC`
+📆 Last Updated: `2023-04-06 21:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
-| 2 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
-| 3 | [#SilvioBerlusconi](http://twitter.com/search?q=%23SilvioBerlusconi) | N/A |
-| 4 | [#6aprile](http://twitter.com/search?q=%236aprile) | N/A |
-| 5 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
-| 6 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 7 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 8 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 10 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 11 | [Achille](http://twitter.com/search?q=Achille) | N/A |
-| 12 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 13 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
-| 14 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 15 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
-| 16 | [Valerio](http://twitter.com/search?q=Valerio) | Valerio is an Italian name derived from the Latin name Valerius, which means “strong” or “brave”. It is also a variant of the name Valerian, which is derived from the Latin word valere, meaning “to be strong”. |
-| 17 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 18 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 19 | [buongiorno ale](http://twitter.com/search?q=buongiorno+ale) | N/A |
-| 20 | [Stefano Feltri](http://twitter.com/search?q=Stefano+Feltri) | N/A |
-| 21 | [buongiorno marco](http://twitter.com/search?q=buongiorno+marco) | N/A |
-| 22 | [Forza Presidente](http://twitter.com/search?q=Forza+Presidente) | N/A |
-| 23 | [Borneo](http://twitter.com/search?q=Borneo) | N/A |
-| 24 | [Artem](http://twitter.com/search?q=Artem) | N/A |
-| 25 | [buongiorno giusi](http://twitter.com/search?q=buongiorno+giusi) | N/A |
-| 26 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 27 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 28 | [Ezio Mauro](http://twitter.com/search?q=Ezio+Mauro) | N/A |
-| 29 | [Tribuna Sud](http://twitter.com/search?q=Tribuna+Sud) | N/A |
-| 30 | [buongiorno luca](http://twitter.com/search?q=buongiorno+luca) | N/A |
-| 31 | [buongiorno giuseppe](http://twitter.com/search?q=buongiorno+giuseppe) | N/A |
-| 32 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 33 | [Fabrizio Corona](http://twitter.com/search?q=Fabrizio+Corona) | N/A |
-| 34 | [buongiorno francesco](http://twitter.com/search?q=buongiorno+francesco) | N/A |
-| 35 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 36 | [buongiorno vito](http://twitter.com/search?q=buongiorno+vito) | N/A |
-| 37 | [buongiorno antonio](http://twitter.com/search?q=buongiorno+antonio) | N/A |
-| 38 | [Libano](http://twitter.com/search?q=Libano) | N/A |
-| 39 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 40 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 41 | [buongiorno silvia](http://twitter.com/search?q=buongiorno+silvia) | N/A |
-| 42 | [buongiorno roberto](http://twitter.com/search?q=buongiorno+roberto) | N/A |
-| 43 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 44 | [buongiorno emi](http://twitter.com/search?q=buongiorno+emi) | N/A |
-| 45 | [buongiorno monica](http://twitter.com/search?q=buongiorno+monica) | N/A |
-| 46 | [buongiorno daniele](http://twitter.com/search?q=buongiorno+daniele) | N/A |
-| 47 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 48 | [Pobega](http://twitter.com/search?q=Pobega) | N/A |
-| 49 | [Baccin](http://twitter.com/search?q=Baccin) | N/A |
-| 50 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 1 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
+| 2 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
+| 3 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
+| 4 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 5 | [#SilvioBerlusconi](http://twitter.com/search?q=%23SilvioBerlusconi) | N/A |
+| 6 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 7 | [#UnPassoDalCielo7](http://twitter.com/search?q=%23UnPassoDalCielo7) | N/A |
+| 8 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 9 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 10 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 11 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 13 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 14 | [Raimondo](http://twitter.com/search?q=Raimondo) | Raimondo is an Italian given name derived from the Germanic name Raginmund, which means "wise protector". It is also a surname. |
+| 15 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 16 | [Achille](http://twitter.com/search?q=Achille) | N/A |
+| 17 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 18 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 19 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
+| 20 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
+| 21 | [Todaro](http://twitter.com/search?q=Todaro) | Todaro is an Italian surname. It is derived from the Latin word "todarius," which means "hunter." The name is most commonly found in the regions of Sicily and Calabria. In English, it can be translated to mean "hunter." |
+| 22 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 23 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 24 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 25 | [NOVELLI SPOSI](http://twitter.com/search?q=NOVELLI+SPOSI) | N/A |
+| 26 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 27 | [Stefano Feltri](http://twitter.com/search?q=Stefano+Feltri) | N/A |
+| 28 | [L'Aquila](http://twitter.com/search?q=L%27Aquila) | N/A |
+| 29 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
+| 30 | [Forza Presidente](http://twitter.com/search?q=Forza+Presidente) | N/A |
+| 31 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
+| 32 | [Borneo](http://twitter.com/search?q=Borneo) | N/A |
+| 33 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 34 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 35 | [Valerio](http://twitter.com/search?q=Valerio) | Valerio is an Italian name derived from the Latin name Valerius, which means “strong” or “brave”. It is also a variant of the name Valerian, which is derived from the Latin word valere, meaning “to be strong”. |
+| 36 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 37 | [Ezio Mauro](http://twitter.com/search?q=Ezio+Mauro) | N/A |
+| 38 | [Moretto](http://twitter.com/search?q=Moretto) | N/A |
+| 39 | [Libano](http://twitter.com/search?q=Libano) | N/A |
+| 40 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
+| 41 | [Borgonovo](http://twitter.com/search?q=Borgonovo) | N/A |
+| 42 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
+| 43 | [Fabrizio Corona](http://twitter.com/search?q=Fabrizio+Corona) | N/A |
+| 44 | [AMICI ANTICIPAZIONI](http://twitter.com/search?q=AMICI+ANTICIPAZIONI) | N/A |
+| 45 | [Artem](http://twitter.com/search?q=Artem) | N/A |
+| 46 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 47 | [Baccin](http://twitter.com/search?q=Baccin) | N/A |
+| 48 | [Tribuna Sud](http://twitter.com/search?q=Tribuna+Sud) | N/A |
+| 49 | [Pobega](http://twitter.com/search?q=Pobega) | N/A |
+| 50 | [Senatore](http://twitter.com/search?q=Senatore) | N/A |
 
 
 

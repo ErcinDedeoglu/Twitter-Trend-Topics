@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-04-06 20:17:54 UTC`
+📆 Last Updated: `2023-04-06 21:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Suriya42](http://twitter.com/search?q=%23Suriya42) | N/A |
-| 2 | [#GetOutRavi](http://twitter.com/search?q=%23GetOutRavi) | #GetOutRavi is a hashtag used to express support for the Indian student Ravi Kumar, who was detained by US immigration authorities in 2019. The hashtag is used to call for his release and to raise awareness of his case. |
-| 3 | [#KKRvRCB](http://twitter.com/search?q=%23KKRvRCB) | N/A |
-| 4 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
-| 5 | [#Shardulthakur](http://twitter.com/search?q=%23Shardulthakur) | N/A |
-| 6 | [#Vi20FANFest](http://twitter.com/search?q=%23Vi20FANFest) | N/A |
-| 7 | [Chinnaswamy Stadium](http://twitter.com/search?q=Chinnaswamy+Stadium) | N/A |
-| 8 | [Suyash Sharma](http://twitter.com/search?q=Suyash+Sharma) | N/A |
-| 9 | [Wriddhiman S](http://twitter.com/search?q=Wriddhiman+S) | N/A |
-| 10 | [Varun](http://twitter.com/search?q=Varun) | N/A |
-| 11 | [BJP Against OBC](http://twitter.com/search?q=BJP+Against+OBC) | N/A |
-| 12 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 13 | [Harshal Patel](http://twitter.com/search?q=Harshal+Patel) | Harshal Patel is an Indian surname. It is derived from the Sanskrit words "harsha" meaning joy and "pati" meaning lord or master. The literal translation of the name is "lord of joy". |
-| 14 | [Haarcb](http://twitter.com/search?q=Haarcb) | N/A |
-| 15 | [Narine](http://twitter.com/search?q=Narine) | N/A |
-| 16 | [Anuj Rawat](http://twitter.com/search?q=Anuj+Rawat) | N/A |
-| 17 | [Eden Gardens](http://twitter.com/search?q=Eden+Gardens) | N/A |
-| 18 | [Just RCB](http://twitter.com/search?q=Just+RCB) | N/A |
-| 19 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 20 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
-| 21 | [Rinku Singh](http://twitter.com/search?q=Rinku+Singh) | N/A |
-| 22 | [Neeraj Chopra](http://twitter.com/search?q=Neeraj+Chopra) | N/A |
-| 23 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 24 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
-| 25 | [Lomror](http://twitter.com/search?q=Lomror) | N/A |
-| 26 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
-| 27 | [Southee](http://twitter.com/search?q=Southee) | N/A |
-| 28 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 29 | [Sterlite Copper](http://twitter.com/search?q=Sterlite+Copper) | N/A |
-| 30 | [RCB RCB](http://twitter.com/search?q=RCB+RCB) | N/A |
-| 31 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
-| 32 | [Nitish Rana](http://twitter.com/search?q=Nitish+Rana) | N/A |
-| 33 | [Willey](http://twitter.com/search?q=Willey) | N/A |
-| 34 | [Chokli](http://twitter.com/search?q=Chokli) | N/A |
-| 35 | [Sudeep](http://twitter.com/search?q=Sudeep) | N/A |
-| 36 | [Prakash](http://twitter.com/search?q=Prakash) | N/A |
-| 37 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 38 | [Anil](http://twitter.com/search?q=Anil) | N/A |
-| 39 | [#IPL23](http://twitter.com/search?q=%23IPL23) | N/A |
-| 40 | [#MazaarJihad](http://twitter.com/search?q=%23MazaarJihad) | N/A |
-| 41 | [#AmiKKR](http://twitter.com/search?q=%23AmiKKR) | N/A |
-| 42 | [#viratkholi](http://twitter.com/search?q=%23viratkholi) | N/A |
-| 43 | [#ShahRukhKhan](http://twitter.com/search?q=%23ShahRukhKhan) | N/A |
-| 44 | [#KolkataKnightRiders](http://twitter.com/search?q=%23KolkataKnightRiders) | N/A |
-| 45 | [#Ayothi](http://twitter.com/search?q=%23Ayothi) | N/A |
-| 46 | [#GoodFriday](http://twitter.com/search?q=%23GoodFriday) | N/A |
-| 47 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
-| 48 | [#SRK𓃵](http://twitter.com/search?q=%23SRK%f0%93%83%b5) | N/A |
-| 49 | [#FullMoon](http://twitter.com/search?q=%23FullMoon) | N/A |
-| 50 | [#KingKhan](http://twitter.com/search?q=%23KingKhan) | N/A |
+| 2 | [#KKRvRCB](http://twitter.com/search?q=%23KKRvRCB) | N/A |
+| 3 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
+| 4 | [#ShardulThakur](http://twitter.com/search?q=%23ShardulThakur) | N/A |
+| 5 | [Chinnaswamy Stadium](http://twitter.com/search?q=Chinnaswamy+Stadium) | N/A |
+| 6 | [#AmiKKR](http://twitter.com/search?q=%23AmiKKR) | N/A |
+| 7 | [#ShahRukhKhan](http://twitter.com/search?q=%23ShahRukhKhan) | N/A |
+| 8 | [Wriddhiman S](http://twitter.com/search?q=Wriddhiman+S) | N/A |
+| 9 | [Suyash Sharma](http://twitter.com/search?q=Suyash+Sharma) | N/A |
+| 10 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 11 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 12 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
+| 13 | [Eden Gardens](http://twitter.com/search?q=Eden+Gardens) | N/A |
+| 14 | [BJP Against OBC](http://twitter.com/search?q=BJP+Against+OBC) | N/A |
+| 15 | [Varun](http://twitter.com/search?q=Varun) | N/A |
+| 16 | [Harshal Patel](http://twitter.com/search?q=Harshal+Patel) | Harshal Patel is an Indian surname. It is derived from the Sanskrit words "harsha" meaning joy and "pati" meaning lord or master. The literal translation of the name is "lord of joy". |
+| 17 | [Narine](http://twitter.com/search?q=Narine) | N/A |
+| 18 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
+| 19 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
+| 20 | [Neeraj Chopra](http://twitter.com/search?q=Neeraj+Chopra) | N/A |
+| 21 | [Rinku](http://twitter.com/search?q=Rinku) | N/A |
+| 22 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
+| 23 | [King Khan](http://twitter.com/search?q=King+Khan) | N/A |
+| 24 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 25 | [Willey](http://twitter.com/search?q=Willey) | N/A |
+| 26 | [Mandeep](http://twitter.com/search?q=Mandeep) | N/A |
+| 27 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
+| 28 | [Anil](http://twitter.com/search?q=Anil) | N/A |
+| 29 | [Rana](http://twitter.com/search?q=Rana) | N/A |
+| 30 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 31 | [Sudeep](http://twitter.com/search?q=Sudeep) | N/A |
+| 32 | [Prakash](http://twitter.com/search?q=Prakash) | N/A |
+| 33 | [Manish Kashyap](http://twitter.com/search?q=Manish+Kashyap) | N/A |
+| 34 | [#MazaarJihad](http://twitter.com/search?q=%23MazaarJihad) | N/A |
+| 35 | [#viratkholi](http://twitter.com/search?q=%23viratkholi) | N/A |
+| 36 | [#haarcb](http://twitter.com/search?q=%23haarcb) | N/A |
+| 37 | [#KolkataKnightRiders](http://twitter.com/search?q=%23KolkataKnightRiders) | N/A |
+| 38 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
+| 39 | [#Ayothi](http://twitter.com/search?q=%23Ayothi) | N/A |
+| 40 | [#FullMoon](http://twitter.com/search?q=%23FullMoon) | N/A |
+| 41 | [#Desamuduru4KCelebrations](http://twitter.com/search?q=%23Desamuduru4KCelebrations) | N/A |
+| 42 | [#GetOutRavi](http://twitter.com/search?q=%23GetOutRavi) | #GetOutRavi is a hashtag used to express support for the Indian student Ravi Kumar, who was detained by US immigration authorities in 2019. The hashtag is used to call for his release and to raise awareness of his case. |
+| 43 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 44 | [#ForeignFundingExposed](http://twitter.com/search?q=%23ForeignFundingExposed) | N/A |
+| 45 | [#SRK𓃵](http://twitter.com/search?q=%23SRK%f0%93%83%b5) | N/A |
+| 46 | [#Meerasim](http://twitter.com/search?q=%23Meerasim) | N/A |
+| 47 | [#YumnaZaidi](http://twitter.com/search?q=%23YumnaZaidi) | N/A |
+| 48 | [#iplinbhojpuri](http://twitter.com/search?q=%23iplinbhojpuri) | N/A |
+| 49 | [#WahajAli](http://twitter.com/search?q=%23WahajAli) | N/A |
+| 50 | [#1947August16FromTomorrow](http://twitter.com/search?q=%231947August16FromTomorrow) | N/A |
 
 
 

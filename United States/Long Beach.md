@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-04-06 20:18:01 UTC`
+📆 Last Updated: `2023-04-06 21:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 2 | [Dylan Mulvaney](http://twitter.com/search?q=Dylan+Mulvaney) | N/A |
-| 3 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
-| 4 | [#TennesseeThree](http://twitter.com/search?q=%23TennesseeThree) | N/A |
-| 5 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 6 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
-| 7 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 8 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 9 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 10 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
-| 11 | [#NationalStudentAthleteDay](http://twitter.com/search?q=%23NationalStudentAthleteDay) | N/A |
-| 12 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 13 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 14 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 15 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 16 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 17 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 18 | [KAWS](http://twitter.com/search?q=KAWS) | N/A |
-| 19 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 20 | [Rep. Jones](http://twitter.com/search?q=Rep.+Jones) | N/A |
-| 21 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 22 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 23 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 24 | [Pomerantz](http://twitter.com/search?q=Pomerantz) | N/A |
-| 25 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
-| 26 | [Rebekah Jones](http://twitter.com/search?q=Rebekah+Jones) | N/A |
-| 27 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 28 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 29 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
-| 30 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 31 | [FedNow](http://twitter.com/search?q=FedNow) | N/A |
-| 32 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
-| 33 | [Bulso](http://twitter.com/search?q=Bulso) | N/A |
-| 34 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 35 | [Tennessee House](http://twitter.com/search?q=Tennessee+House) | N/A |
-| 36 | [EDCLV](http://twitter.com/search?q=EDCLV) | N/A |
-| 37 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 38 | [Jake Rogers](http://twitter.com/search?q=Jake+Rogers) | N/A |
-| 39 | [ProPublica](http://twitter.com/search?q=ProPublica) | N/A |
-| 40 | [George Lucas](http://twitter.com/search?q=George+Lucas) | N/A |
-| 41 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 42 | [Ryan Nembhard](http://twitter.com/search?q=Ryan+Nembhard) | N/A |
-| 43 | [Miami Herald](http://twitter.com/search?q=Miami+Herald) | N/A |
-| 44 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 45 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 46 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 1 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
+| 2 | [#NationalBurritoDay](http://twitter.com/search?q=%23NationalBurritoDay) | N/A |
+| 3 | [Tatis](http://twitter.com/search?q=Tatis) | N/A |
+| 4 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 5 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
+| 6 | [Kavanaugh](http://twitter.com/search?q=Kavanaugh) | N/A |
+| 7 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 8 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 9 | [Barbies](http://twitter.com/search?q=Barbies) | N/A |
+| 10 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 11 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
+| 12 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 13 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
+| 14 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 15 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 16 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
+| 17 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 18 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 19 | [#InternationalAceDay](http://twitter.com/search?q=%23InternationalAceDay) | N/A |
+| 20 | [#NationalStudentAthleteDay](http://twitter.com/search?q=%23NationalStudentAthleteDay) | N/A |
+| 21 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 22 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 23 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 24 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 25 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 26 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
+| 27 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 28 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
+| 29 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 30 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
+| 31 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 32 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 33 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 34 | [3 Democrats](http://twitter.com/search?q=3+Democrats) | N/A |
+| 35 | [KAWS](http://twitter.com/search?q=KAWS) | N/A |
+| 36 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 37 | [Pomerantz](http://twitter.com/search?q=Pomerantz) | N/A |
+| 38 | [TN Republicans](http://twitter.com/search?q=TN+Republicans) | N/A |
+| 39 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 40 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
+| 41 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
+| 42 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
+| 43 | [Brig](http://twitter.com/search?q=Brig) | N/A |
+| 44 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 45 | [George Lucas](http://twitter.com/search?q=George+Lucas) | N/A |
+| 46 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
 | 47 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 48 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
+| 48 | [Expelled](http://twitter.com/search?q=Expelled) | N/A |
 
 
 

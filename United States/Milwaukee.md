@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-04-06 20:18:01 UTC`
+📆 Last Updated: `2023-04-06 21:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TennesseeThree](http://twitter.com/search?q=%23TennesseeThree) | N/A |
-| 2 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 3 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
-| 4 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 5 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 6 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 7 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 1 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 2 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
+| 3 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 4 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 5 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
+| 6 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 7 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
 | 8 | [#NationalStudentAthleteDay](http://twitter.com/search?q=%23NationalStudentAthleteDay) | N/A |
-| 9 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 10 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 11 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 12 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 13 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 14 | [KAWS](http://twitter.com/search?q=KAWS) | N/A |
-| 15 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 16 | [Rep. Jones](http://twitter.com/search?q=Rep.+Jones) | N/A |
-| 17 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 18 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 19 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 20 | [Pomerantz](http://twitter.com/search?q=Pomerantz) | N/A |
-| 21 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
-| 22 | [Rebekah Jones](http://twitter.com/search?q=Rebekah+Jones) | N/A |
-| 23 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 24 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 25 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
-| 26 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 27 | [FedNow](http://twitter.com/search?q=FedNow) | N/A |
-| 28 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
-| 29 | [Bulso](http://twitter.com/search?q=Bulso) | N/A |
-| 30 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 31 | [Tennessee House](http://twitter.com/search?q=Tennessee+House) | N/A |
-| 32 | [EDCLV](http://twitter.com/search?q=EDCLV) | N/A |
-| 33 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 34 | [ProPublica](http://twitter.com/search?q=ProPublica) | N/A |
-| 35 | [George Lucas](http://twitter.com/search?q=George+Lucas) | N/A |
-| 36 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 37 | [Ryan Nembhard](http://twitter.com/search?q=Ryan+Nembhard) | N/A |
-| 38 | [Miami Herald](http://twitter.com/search?q=Miami+Herald) | N/A |
-| 39 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 40 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 41 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 42 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 43 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
-| 44 | [Jake Rogers](http://twitter.com/search?q=Jake+Rogers) | N/A |
+| 9 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 10 | [#InternationalAceDay](http://twitter.com/search?q=%23InternationalAceDay) | N/A |
+| 11 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 12 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 13 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 14 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 15 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 16 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 17 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 18 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
+| 19 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
+| 20 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
+| 21 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 22 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 23 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 24 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 25 | [3 Democrats](http://twitter.com/search?q=3+Democrats) | N/A |
+| 26 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 27 | [KAWS](http://twitter.com/search?q=KAWS) | N/A |
+| 28 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 29 | [Pomerantz](http://twitter.com/search?q=Pomerantz) | N/A |
+| 30 | [TN Republicans](http://twitter.com/search?q=TN+Republicans) | N/A |
+| 31 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
+| 32 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 33 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
+| 34 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 35 | [Brig](http://twitter.com/search?q=Brig) | N/A |
+| 36 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
+| 37 | [George Lucas](http://twitter.com/search?q=George+Lucas) | N/A |
+| 38 | [Expelled](http://twitter.com/search?q=Expelled) | N/A |
+| 39 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
+| 40 | [EDCLV](http://twitter.com/search?q=EDCLV) | N/A |
+| 41 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 42 | [Roseville](http://twitter.com/search?q=Roseville) | N/A |
+| 43 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
+| 44 | [Jeff Zients](http://twitter.com/search?q=Jeff+Zients) | N/A |
+| 45 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 46 | [Viktor Hovland](http://twitter.com/search?q=Viktor+Hovland) | N/A |
+| 47 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
+| 48 | [ENCHANTED TV](http://twitter.com/search?q=ENCHANTED+TV) | N/A |
+| 49 | [FedNow](http://twitter.com/search?q=FedNow) | N/A |
 
 
 

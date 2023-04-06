@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-04-06 20:18:12 UTC`
+📆 Last Updated: `2023-04-06 21:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Netherlands
 | ------- | ------------ | ------------ |
 | 1 | [#thepassion](http://twitter.com/search?q=%23thepassion) | N/A |
 | 2 | [#feyaja](http://twitter.com/search?q=%23feyaja) | #Feyaja is a hashtag used on social media to express support for the LGBTQ+ community in Nigeria. It is derived from the Yoruba phrase "Feyi ja," which translates to "Love conquers all." |
-| 3 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 4 | [Jezus](http://twitter.com/search?q=Jezus) | N/A |
-| 5 | [Buddy](http://twitter.com/search?q=Buddy) | N/A |
-| 6 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 3 | [#feyaja](http://twitter.com/search?q=%23feyaja) | #Feyaja is a hashtag used on social media to express support for the LGBTQ+ community in Nigeria. It is derived from the Yoruba phrase "Feyi ja," which translates to "Love conquers all." |
+| 4 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 5 | [#verkiezingsdebat](http://twitter.com/search?q=%23verkiezingsdebat) | N/A |
+| 6 | [Jezus](http://twitter.com/search?q=Jezus) | N/A |
 | 7 | [Marlijn](http://twitter.com/search?q=Marlijn) | N/A |
-| 8 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 9 | [#verkiezingsdebat](http://twitter.com/search?q=%23verkiezingsdebat) | N/A |
+| 8 | [Buddy](http://twitter.com/search?q=Buddy) | N/A |
+| 9 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
 | 10 | [Judas](http://twitter.com/search?q=Judas) | N/A |
 | 11 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
 | 12 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
 | 13 | [#tp23](http://twitter.com/search?q=%23tp23) | N/A |
-| 14 | [John de Wolf](http://twitter.com/search?q=John+de+Wolf) | N/A |
-| 15 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
-| 16 | [#SPAPSV](http://twitter.com/search?q=%23SPAPSV) | N/A |
-| 17 | [Bokito](http://twitter.com/search?q=Bokito) | N/A |
-| 18 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 19 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
-| 20 | [Enzo Knol](http://twitter.com/search?q=Enzo+Knol) | N/A |
-| 21 | [goeiemorgen](http://twitter.com/search?q=goeiemorgen) | N/A |
+| 14 | [Bokito](http://twitter.com/search?q=Bokito) | N/A |
+| 15 | [John de Wolf](http://twitter.com/search?q=John+de+Wolf) | N/A |
+| 16 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 17 | [Enzo Knol](http://twitter.com/search?q=Enzo+Knol) | N/A |
+| 18 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
+| 19 | [Pilatus](http://twitter.com/search?q=Pilatus) | N/A |
+| 20 | [Barabas](http://twitter.com/search?q=Barabas) | N/A |
+| 21 | [Harlingen](http://twitter.com/search?q=Harlingen) | N/A |
 | 22 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 23 | [Bloemendaal](http://twitter.com/search?q=Bloemendaal) | N/A |
-| 24 | [Harlingen](http://twitter.com/search?q=Harlingen) | N/A |
-| 25 | [Pilatus](http://twitter.com/search?q=Pilatus) | N/A |
-| 26 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 27 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 28 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 29 | [Rotterdam](http://twitter.com/search?q=Rotterdam) | N/A |
-| 30 | [goedemorgen lex](http://twitter.com/search?q=goedemorgen+lex) | N/A |
-| 31 | [Arena](http://twitter.com/search?q=Arena) | N/A |
-| 32 | [goedemorgen hans](http://twitter.com/search?q=goedemorgen+hans) | N/A |
-| 33 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 34 | [Witte Donderdag](http://twitter.com/search?q=Witte+Donderdag) | N/A |
-| 35 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 36 | [goedemorgen anita](http://twitter.com/search?q=goedemorgen+anita) | N/A |
-| 37 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
-| 38 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 39 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 40 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 41 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
-| 42 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 43 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
-| 44 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
-| 45 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
-| 46 | [Van Houwelingen](http://twitter.com/search?q=Van+Houwelingen) | N/A |
-| 47 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
-| 48 | [Paasweekend](http://twitter.com/search?q=Paasweekend) | N/A |
-| 49 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 50 | [lindhout](http://twitter.com/search?q=lindhout) | N/A |
+| 23 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
+| 24 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
+| 25 | [Bloemendaal](http://twitter.com/search?q=Bloemendaal) | N/A |
+| 26 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 27 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 28 | [Rotterdam](http://twitter.com/search?q=Rotterdam) | N/A |
+| 29 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 30 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 31 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 32 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 33 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
+| 34 | [Frank Boeijen](http://twitter.com/search?q=Frank+Boeijen) | N/A |
+| 35 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 36 | [Paasweekend](http://twitter.com/search?q=Paasweekend) | N/A |
+| 37 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
+| 38 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
+| 39 | [Van Houwelingen](http://twitter.com/search?q=Van+Houwelingen) | N/A |
+| 40 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 41 | [Soundos](http://twitter.com/search?q=Soundos) | N/A |
+| 42 | [Rutger](http://twitter.com/search?q=Rutger) | N/A |
+| 43 | [Khalid](http://twitter.com/search?q=Khalid) | N/A |
+| 44 | [Hermans](http://twitter.com/search?q=Hermans) | N/A |
+| 45 | [Lindhout](http://twitter.com/search?q=Lindhout) | N/A |
+| 46 | [Van Ooijen](http://twitter.com/search?q=Van+Ooijen) | N/A |
+| 47 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 48 | [Jan van Halst](http://twitter.com/search?q=Jan+van+Halst) | N/A |
+| 49 | [Wouke](http://twitter.com/search?q=Wouke) | N/A |
+| 50 | [Cora](http://twitter.com/search?q=Cora) | N/A |
 
 
 
