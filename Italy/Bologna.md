@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-04-06 04:17:50 UTC`
+📆 Last Updated: `2023-04-06 05:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
-| 2 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 3 | [#backtoschool](http://twitter.com/search?q=%23backtoschool) | N/A |
-| 4 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 5 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
-| 6 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 7 | [#SilvioBerlusconi](http://twitter.com/search?q=%23SilvioBerlusconi) | N/A |
-| 8 | [HANDANOVIC](http://twitter.com/search?q=HANDANOVIC) | N/A |
-| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 10 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 11 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 12 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 13 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 14 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 2 | [#6aprile](http://twitter.com/search?q=%236aprile) | N/A |
+| 3 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 4 | [#provareAncora](http://twitter.com/search?q=%23provareAncora) | N/A |
+| 5 | [#backtoschool](http://twitter.com/search?q=%23backtoschool) | N/A |
+| 6 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 7 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 8 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 9 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
+| 10 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 12 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 13 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 14 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
 | 15 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
-| 16 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 18 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 19 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 20 | [perin](http://twitter.com/search?q=perin) | N/A |
-| 21 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 22 | [Suma](http://twitter.com/search?q=Suma) | N/A |
-| 23 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
-| 24 | [valeria marini](http://twitter.com/search?q=valeria+marini) | N/A |
-| 25 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 26 | [graziani](http://twitter.com/search?q=graziani) | N/A |
+| 16 | [Giovedì Santo](http://twitter.com/search?q=Gioved%c3%ac+Santo) | N/A |
+| 17 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 18 | [perin](http://twitter.com/search?q=perin) | N/A |
+| 19 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 20 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 21 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 22 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 23 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 24 | [Buongiorno Liliana](http://twitter.com/search?q=Buongiorno+Liliana) | N/A |
+| 25 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 26 | [Buongiorno Dj](http://twitter.com/search?q=Buongiorno+Dj) | N/A |
 | 27 | [forza presidente](http://twitter.com/search?q=forza+presidente) | N/A |
-| 28 | [giulia salemi](http://twitter.com/search?q=giulia+salemi) | N/A |
-| 29 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 30 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
-| 31 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 32 | [Gennaro](http://twitter.com/search?q=Gennaro) | N/A |
-| 33 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
-| 34 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 35 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
-| 36 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 37 | [Mario Mario](http://twitter.com/search?q=Mario+Mario) | N/A |
-| 38 | [bonolis](http://twitter.com/search?q=bonolis) | N/A |
-| 39 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 40 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 41 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 42 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 43 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
-| 44 | [Veltroni](http://twitter.com/search?q=Veltroni) | N/A |
-| 45 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
-| 46 | [pierino](http://twitter.com/search?q=pierino) | N/A |
-| 47 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 48 | [Liliana](http://twitter.com/search?q=Liliana) | N/A |
-| 49 | [Regina](http://twitter.com/search?q=Regina) | N/A |
-| 50 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 28 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 29 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
+| 30 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
+| 31 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 32 | [Buongiorno Dida](http://twitter.com/search?q=Buongiorno+Dida) | N/A |
+| 33 | [Suma](http://twitter.com/search?q=Suma) | N/A |
+| 34 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 35 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 36 | [Veltroni](http://twitter.com/search?q=Veltroni) | N/A |
+| 37 | [giulia salemi](http://twitter.com/search?q=giulia+salemi) | N/A |
+| 38 | [l'unità](http://twitter.com/search?q=l%27unit%c3%a0) | N/A |
+| 39 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 40 | [vinco](http://twitter.com/search?q=vinco) | N/A |
+| 41 | [Buongiorno Roby](http://twitter.com/search?q=Buongiorno+Roby) | N/A |
+| 42 | [Bugo](http://twitter.com/search?q=Bugo) | N/A |
+| 43 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
+| 44 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 45 | [ammonito](http://twitter.com/search?q=ammonito) | N/A |
+| 46 | [Senatore](http://twitter.com/search?q=Senatore) | N/A |
+| 47 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 48 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
+| 49 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 50 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
 
 
 

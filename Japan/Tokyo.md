@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-04-06 04:17:59 UTC`
+📆 Last Updated: `2023-04-06 05:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [小学校の入学式](http://twitter.com/search?q=%e5%b0%8f%e5%ad%a6%e6%a0%a1%e3%81%ae%e5%85%a5%e5%ad%a6%e5%bc%8f) | N/A |
+| 1 | [ラゼンサーチ](http://twitter.com/search?q=%e3%83%a9%e3%82%bc%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%81) | N/A |
 | 2 | [ベッドマン](http://twitter.com/search?q=%e3%83%99%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
-| 3 | [バッグチャーム](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%82%b0%e3%83%81%e3%83%a3%e3%83%bc%e3%83%a0) | N/A |
-| 4 | [ガンプラジムギャラリー](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%97%e3%83%a9%e3%82%b8%e3%83%a0%e3%82%ae%e3%83%a3%e3%83%a9%e3%83%aa%e3%83%bc) | N/A |
-| 5 | [ピクリマ](http://twitter.com/search?q=%e3%83%94%e3%82%af%e3%83%aa%e3%83%9e) | N/A |
-| 6 | [ワグナス](http://twitter.com/search?q=%e3%83%af%e3%82%b0%e3%83%8a%e3%82%b9) | N/A |
-| 7 | [どうぶつ王国](http://twitter.com/search?q=%e3%81%a9%e3%81%86%e3%81%b6%e3%81%a4%e7%8e%8b%e5%9b%bd) | N/A |
-| 8 | [ホビーサイト](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%83%bc%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
-| 9 | [シバタリアン](http://twitter.com/search?q=%e3%82%b7%e3%83%90%e3%82%bf%e3%83%aa%e3%82%a2%e3%83%b3) | N/A |
-| 10 | [石川昂弥](http://twitter.com/search?q=%e7%9f%b3%e5%b7%9d%e6%98%82%e5%bc%a5) | 石川昂弥 is a Japanese name. It is composed of two characters: 石 (ishi) meaning "stone" and 川 (kawa) meaning "river"; 昂 (taka) meaning "high" and 弥 (ya) meaning "to increase". In English, it can be translated to mean "increasingly high stone river". |
-| 11 | [新クラス](http://twitter.com/search?q=%e6%96%b0%e3%82%af%e3%83%a9%e3%82%b9) | N/A |
-| 12 | [ムツゴロウさん](http://twitter.com/search?q=%e3%83%a0%e3%83%84%e3%82%b4%e3%83%ad%e3%82%a6%e3%81%95%e3%82%93) | N/A |
-| 13 | [畑正憲さん死去](http://twitter.com/search?q=%e7%95%91%e6%ad%a3%e6%86%b2%e3%81%95%e3%82%93%e6%ad%bb%e5%8e%bb) | N/A |
-| 14 | [ウルフチャン](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%95%e3%83%81%e3%83%a3%e3%83%b3) | N/A |
-| 15 | [ナイトマーケット](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%83%88%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88) | N/A |
-| 16 | [#春の丸亀製麺はがっつりかほっこりか](http://twitter.com/search?q=%23%e6%98%a5%e3%81%ae%e4%b8%b8%e4%ba%80%e8%a3%bd%e9%ba%ba%e3%81%af%e3%81%8c%e3%81%a3%e3%81%a4%e3%82%8a%e3%81%8b%e3%81%bb%e3%81%a3%e3%81%93%e3%82%8a%e3%81%8b) | N/A |
-| 17 | [#限界オタクのBL本](http://twitter.com/search?q=%23%e9%99%90%e7%95%8c%e3%82%aa%e3%82%bf%e3%82%af%e3%81%aeBL%e6%9c%ac) | N/A |
+| 3 | [ウルフちゃん](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%95%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 4 | [レオレオ](http://twitter.com/search?q=%e3%83%ac%e3%82%aa%e3%83%ac%e3%82%aa) | N/A |
+| 5 | [ランドセル](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%89%e3%82%bb%e3%83%ab) | N/A |
+| 6 | [小学校の入学式](http://twitter.com/search?q=%e5%b0%8f%e5%ad%a6%e6%a0%a1%e3%81%ae%e5%85%a5%e5%ad%a6%e5%bc%8f) | N/A |
+| 7 | [#あなたが加入できるスーパー戦隊](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c%e5%8a%a0%e5%85%a5%e3%81%a7%e3%81%8d%e3%82%8b%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e6%88%a6%e9%9a%8a) | N/A |
+| 8 | [麻雀格闘倶楽部](http://twitter.com/search?q=%e9%ba%bb%e9%9b%80%e6%a0%bc%e9%97%98%e5%80%b6%e6%a5%bd%e9%83%a8) | N/A |
+| 9 | [ミラクル人間](http://twitter.com/search?q=%e3%83%9f%e3%83%a9%e3%82%af%e3%83%ab%e4%ba%ba%e9%96%93) | N/A |
+| 10 | [バッグチャーム](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%82%b0%e3%83%81%e3%83%a3%e3%83%bc%e3%83%a0) | N/A |
+| 11 | [ムツゴロウさん](http://twitter.com/search?q=%e3%83%a0%e3%83%84%e3%82%b4%e3%83%ad%e3%82%a6%e3%81%95%e3%82%93) | N/A |
+| 12 | [畑正憲さん死去](http://twitter.com/search?q=%e7%95%91%e6%ad%a3%e6%86%b2%e3%81%95%e3%82%93%e6%ad%bb%e5%8e%bb) | N/A |
+| 13 | [ウルフチャン](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%95%e3%83%81%e3%83%a3%e3%83%b3) | N/A |
+| 14 | [ナイトマーケット](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%83%88%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88) | N/A |
+| 15 | [#限界オタクのBL本](http://twitter.com/search?q=%23%e9%99%90%e7%95%8c%e3%82%aa%e3%82%bf%e3%82%af%e3%81%aeBL%e6%9c%ac) | N/A |
+| 16 | [書き出し](http://twitter.com/search?q=%e6%9b%b8%e3%81%8d%e5%87%ba%e3%81%97) | N/A |
+| 17 | [#春の丸亀製麺はがっつりかほっこりか](http://twitter.com/search?q=%23%e6%98%a5%e3%81%ae%e4%b8%b8%e4%ba%80%e8%a3%bd%e9%ba%ba%e3%81%af%e3%81%8c%e3%81%a3%e3%81%a4%e3%82%8a%e3%81%8b%e3%81%bb%e3%81%a3%e3%81%93%e3%82%8a%e3%81%8b) | N/A |
 | 18 | [子猫物語](http://twitter.com/search?q=%e5%ad%90%e7%8c%ab%e7%89%a9%e8%aa%9e) | N/A |
-| 19 | [書き出し](http://twitter.com/search?q=%e6%9b%b8%e3%81%8d%e5%87%ba%e3%81%97) | N/A |
-| 20 | [カラモバ](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%a2%e3%83%90) | N/A |
+| 19 | [購入履歴](http://twitter.com/search?q=%e8%b3%bc%e5%85%a5%e5%b1%a5%e6%ad%b4) | N/A |
+| 20 | [滝沢歌舞伎](http://twitter.com/search?q=%e6%bb%9d%e6%b2%a2%e6%ad%8c%e8%88%9e%e4%bc%8e) | 滝沢歌舞伎 (Takizawa Kabuki) is a traditional form of Japanese theater that combines music, dance, and drama. It originated in the Edo period (1603-1868) and is still performed today. The name comes from the Takizawa district of Tokyo, where it was first performed. In English, it can be translated as "Takizawa Kabuki Theater". |
 | 21 | [動物好き](http://twitter.com/search?q=%e5%8b%95%e7%89%a9%e5%a5%bd%e3%81%8d) | N/A |
-| 22 | [滝沢歌舞伎](http://twitter.com/search?q=%e6%bb%9d%e6%b2%a2%e6%ad%8c%e8%88%9e%e4%bc%8e) | 滝沢歌舞伎 (Takizawa Kabuki) is a traditional form of Japanese theater that combines music, dance, and drama. It originated in the Edo period (1603-1868) and is still performed today. The name comes from the Takizawa district of Tokyo, where it was first performed. In English, it can be translated as "Takizawa Kabuki Theater". |
-| 23 | [購入履歴](http://twitter.com/search?q=%e8%b3%bc%e5%85%a5%e5%b1%a5%e6%ad%b4) | N/A |
+| 22 | [#渋谷刀剣男士2012](http://twitter.com/search?q=%23%e6%b8%8b%e8%b0%b7%e5%88%80%e5%89%a3%e7%94%b7%e5%a3%ab2012) | N/A |
+| 23 | [カラモバ](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%a2%e3%83%90) | N/A |
 | 24 | [クラス替え](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b9%e6%9b%bf%e3%81%88) | N/A |
-| 25 | [#ヒルナンデス](http://twitter.com/search?q=%23%e3%83%92%e3%83%ab%e3%83%8a%e3%83%b3%e3%83%87%e3%82%b9) | N/A |
+| 25 | [凍結祭り](http://twitter.com/search?q=%e5%87%8d%e7%b5%90%e7%a5%ad%e3%82%8a) | 凍結祭り (Kōketsu Matsuri) is a Japanese festival that celebrates the end of winter and the beginning of spring. It is usually celebrated in February or March, and involves eating frozen foods such as ice cream, shaved ice, and other cold treats. The literal translation of 凍結祭り is "Freezing Festival". |
 | 26 | [#淡麗グリーンラベルのここが好き](http://twitter.com/search?q=%23%e6%b7%a1%e9%ba%97%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%b3%e3%83%a9%e3%83%99%e3%83%ab%e3%81%ae%e3%81%93%e3%81%93%e3%81%8c%e5%a5%bd%e3%81%8d) | N/A |
-| 27 | [#どっちのサムライマック選手権](http://twitter.com/search?q=%23%e3%81%a9%e3%81%a3%e3%81%a1%e3%81%ae%e3%82%b5%e3%83%a0%e3%83%a9%e3%82%a4%e3%83%9e%e3%83%83%e3%82%af%e9%81%b8%e6%89%8b%e6%a8%a9) | N/A |
-| 28 | [ピクセルリマスター](http://twitter.com/search?q=%e3%83%94%e3%82%af%e3%82%bb%e3%83%ab%e3%83%aa%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 29 | [ヴォルカニック](http://twitter.com/search?q=%e3%83%b4%e3%82%a9%e3%83%ab%e3%82%ab%e3%83%8b%e3%83%83%e3%82%af) | N/A |
-| 30 | [スポニチアネックス](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%8b%e3%83%81%e3%82%a2%e3%83%8d%e3%83%83%e3%82%af%e3%82%b9) | スポニチアネックス (Sponichi Annex) is a Japanese news website operated by the Sports Nippon newspaper. It provides news and information about sports, entertainment, lifestyle, and other topics. The name is a combination of the words "Sports Nippon" and "Annex". |
-| 31 | [BK新規](http://twitter.com/search?q=BK%e6%96%b0%e8%a6%8f) | N/A |
-| 32 | [どうぶつ奇想天外](http://twitter.com/search?q=%e3%81%a9%e3%81%86%e3%81%b6%e3%81%a4%e5%a5%87%e6%83%b3%e5%a4%a9%e5%a4%96) | N/A |
-| 33 | [ベーコンポテトパイ](http://twitter.com/search?q=%e3%83%99%e3%83%bc%e3%82%b3%e3%83%b3%e3%83%9d%e3%83%86%e3%83%88%e3%83%91%e3%82%a4) | N/A |
-| 34 | [決済エラー](http://twitter.com/search?q=%e6%b1%ba%e6%b8%88%e3%82%a8%e3%83%a9%e3%83%bc) | N/A |
-| 35 | [バーニングナックラー](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%8a%e3%83%83%e3%82%af%e3%83%a9%e3%83%bc) | N/A |
-| 36 | [カウンター罠](http://twitter.com/search?q=%e3%82%ab%e3%82%a6%e3%83%b3%e3%82%bf%e3%83%bc%e7%bd%a0) | N/A |
-| 37 | [動物たち](http://twitter.com/search?q=%e5%8b%95%e7%89%a9%e3%81%9f%e3%81%a1) | N/A |
+| 27 | [決済エラー](http://twitter.com/search?q=%e6%b1%ba%e6%b8%88%e3%82%a8%e3%83%a9%e3%83%bc) | N/A |
+| 28 | [ペイトン](http://twitter.com/search?q=%e3%83%9a%e3%82%a4%e3%83%88%e3%83%b3) | N/A |
+| 29 | [ピクセルリマスター](http://twitter.com/search?q=%e3%83%94%e3%82%af%e3%82%bb%e3%83%ab%e3%83%aa%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 30 | [どうぶつ奇想天外](http://twitter.com/search?q=%e3%81%a9%e3%81%86%e3%81%b6%e3%81%a4%e5%a5%87%e6%83%b3%e5%a4%a9%e5%a4%96) | N/A |
+| 31 | [支払いエラー](http://twitter.com/search?q=%e6%94%af%e6%89%95%e3%81%84%e3%82%a8%e3%83%a9%e3%83%bc) | N/A |
+| 32 | [ヴォルカニック](http://twitter.com/search?q=%e3%83%b4%e3%82%a9%e3%83%ab%e3%82%ab%e3%83%8b%e3%83%83%e3%82%af) | N/A |
+| 33 | [ムビチケ39枚](http://twitter.com/search?q=%e3%83%a0%e3%83%93%e3%83%81%e3%82%b139%e6%9e%9a) | N/A |
+| 34 | [BK新規](http://twitter.com/search?q=BK%e6%96%b0%e8%a6%8f) | N/A |
+| 35 | [動物たち](http://twitter.com/search?q=%e5%8b%95%e7%89%a9%e3%81%9f%e3%81%a1) | N/A |
+| 36 | [チャトラン](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%88%e3%83%a9%e3%83%b3) | N/A |
+| 37 | [イブキ実装](http://twitter.com/search?q=%e3%82%a4%e3%83%96%e3%82%ad%e5%ae%9f%e8%a3%85) | N/A |
 | 38 | [ソウルバーナー](http://twitter.com/search?q=%e3%82%bd%e3%82%a6%e3%83%ab%e3%83%90%e3%83%bc%e3%83%8a%e3%83%bc) | N/A |
-| 39 | [心筋梗塞のため死去](http://twitter.com/search?q=%e5%bf%83%e7%ad%8b%e6%a2%97%e5%a1%9e%e3%81%ae%e3%81%9f%e3%82%81%e6%ad%bb%e5%8e%bb) | N/A |
-| 40 | [チャトラン](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%88%e3%83%a9%e3%83%b3) | N/A |
-| 41 | [ムツさん](http://twitter.com/search?q=%e3%83%a0%e3%83%84%e3%81%95%e3%82%93) | N/A |
-| 42 | [馬の食肉処理](http://twitter.com/search?q=%e9%a6%ac%e3%81%ae%e9%a3%9f%e8%82%89%e5%87%a6%e7%90%86) | N/A |
-| 43 | [オブライエン](http://twitter.com/search?q=%e3%82%aa%e3%83%96%e3%83%a9%e3%82%a4%e3%82%a8%e3%83%b3) | N/A |
-| 44 | [支払いエラー](http://twitter.com/search?q=%e6%94%af%e6%89%95%e3%81%84%e3%82%a8%e3%83%a9%e3%83%bc) | N/A |
-| 45 | [ステフォ](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%95%e3%82%a9) | N/A |
-| 46 | [動物番組](http://twitter.com/search?q=%e5%8b%95%e7%89%a9%e7%95%aa%e7%b5%84) | N/A |
-| 47 | [センター職員](http://twitter.com/search?q=%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc%e8%81%b7%e5%93%a1) | N/A |
-| 48 | [横山くん](http://twitter.com/search?q=%e6%a8%aa%e5%b1%b1%e3%81%8f%e3%82%93) | N/A |
-| 49 | [イブキ実装](http://twitter.com/search?q=%e3%82%a4%e3%83%96%e3%82%ad%e5%ae%9f%e8%a3%85) | N/A |
-| 50 | [エオカフェ](http://twitter.com/search?q=%e3%82%a8%e3%82%aa%e3%82%ab%e3%83%95%e3%82%a7) | N/A |
+| 39 | [スポニチアネックス](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%8b%e3%83%81%e3%82%a2%e3%83%8d%e3%83%83%e3%82%af%e3%82%b9) | スポニチアネックス (Sponichi Annex) is a Japanese news website operated by the Sports Nippon newspaper. It provides news and information about sports, entertainment, lifestyle, and other topics. The name is a combination of the words "Sports Nippon" and "Annex". |
+| 40 | [ベーコンポテトパイ](http://twitter.com/search?q=%e3%83%99%e3%83%bc%e3%82%b3%e3%83%b3%e3%83%9d%e3%83%86%e3%83%88%e3%83%91%e3%82%a4) | N/A |
+| 41 | [カウンター罠](http://twitter.com/search?q=%e3%82%ab%e3%82%a6%e3%83%b3%e3%82%bf%e3%83%bc%e7%bd%a0) | N/A |
+| 42 | [エオカフェ](http://twitter.com/search?q=%e3%82%a8%e3%82%aa%e3%82%ab%e3%83%95%e3%82%a7) | N/A |
+| 43 | [バーニングナックラー](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%8a%e3%83%83%e3%82%af%e3%83%a9%e3%83%bc) | N/A |
+| 44 | [心筋梗塞のため死去](http://twitter.com/search?q=%e5%bf%83%e7%ad%8b%e6%a2%97%e5%a1%9e%e3%81%ae%e3%81%9f%e3%82%81%e6%ad%bb%e5%8e%bb) | N/A |
+| 45 | [イロハ復刻](http://twitter.com/search?q=%e3%82%a4%e3%83%ad%e3%83%8f%e5%be%a9%e5%88%bb) | N/A |
+| 46 | [ムツさん](http://twitter.com/search?q=%e3%83%a0%e3%83%84%e3%81%95%e3%82%93) | N/A |
+| 47 | [湘北ジャージ](http://twitter.com/search?q=%e6%b9%98%e5%8c%97%e3%82%b8%e3%83%a3%e3%83%bc%e3%82%b8) | N/A |
+| 48 | [馬の食肉処理](http://twitter.com/search?q=%e9%a6%ac%e3%81%ae%e9%a3%9f%e8%82%89%e5%87%a6%e7%90%86) | N/A |
+| 49 | [センター職員](http://twitter.com/search?q=%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc%e8%81%b7%e5%93%a1) | N/A |
+| 50 | [ステフォ](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%95%e3%82%a9) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tijuana
 
-📆 Last Updated: `2023-04-06 04:17:40 UTC`
+📆 Last Updated: `2023-04-06 05:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,48 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BonoAllStar](http://twitter.com/search?q=%23BonoAllStar) | N/A |
-| 2 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 3 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
-| 4 | [NO QUEREMOS PERDERTE EMILIO](http://twitter.com/search?q=NO+QUEREMOS+PERDERTE+EMILIO) | N/A |
-| 5 | [#BLACKPINK_THE_GAME](http://twitter.com/search?q=%23BLACKPINK_THE_GAME) | N/A |
-| 6 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
-| 7 | [#IntegracionCacher](http://twitter.com/search?q=%23IntegracionCacher) | N/A |
-| 8 | [Graco](http://twitter.com/search?q=Graco) | N/A |
-| 9 | [Luis Quiñones](http://twitter.com/search?q=Luis+Qui%c3%b1ones) | N/A |
-| 10 | [Rodel](http://twitter.com/search?q=Rodel) | N/A |
-| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 12 | [San Felipe](http://twitter.com/search?q=San+Felipe) | N/A |
-| 13 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
-| 14 | [Matehuala](http://twitter.com/search?q=Matehuala) | N/A |
-| 15 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 16 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 17 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 18 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
+| 1 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 2 | [#BonoAllStar](http://twitter.com/search?q=%23BonoAllStar) | N/A |
+| 3 | [NO QUEREMOS PERDERTE EMILIO](http://twitter.com/search?q=NO+QUEREMOS+PERDERTE+EMILIO) | N/A |
+| 4 | [#BLACKPINK_THE_GAME](http://twitter.com/search?q=%23BLACKPINK_THE_GAME) | N/A |
+| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 6 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 7 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
+| 8 | [#IntegracionCacher](http://twitter.com/search?q=%23IntegracionCacher) | N/A |
+| 9 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 10 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 11 | [Graco](http://twitter.com/search?q=Graco) | N/A |
+| 12 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 13 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 14 | [Rodel](http://twitter.com/search?q=Rodel) | N/A |
+| 15 | [San Felipe](http://twitter.com/search?q=San+Felipe) | N/A |
+| 16 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
+| 17 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
+| 18 | [Matehuala](http://twitter.com/search?q=Matehuala) | N/A |
 | 19 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 20 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 21 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 22 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 23 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
-| 24 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 25 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
-| 26 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 27 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 28 | [ramon](http://twitter.com/search?q=ramon) | N/A |
-| 29 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
-| 30 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 31 | [Nacionalización](http://twitter.com/search?q=Nacionalizaci%c3%b3n) | N/A |
-| 32 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 33 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 34 | [Mexico City](http://twitter.com/search?q=Mexico+City) | N/A |
-| 35 | [Edson](http://twitter.com/search?q=Edson) | N/A |
-| 36 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 37 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 38 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
-| 39 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 40 | [#PeñitaRespondeme](http://twitter.com/search?q=%23Pe%c3%b1itaRespondeme) | N/A |
-| 41 | [#LunaRosa](http://twitter.com/search?q=%23LunaRosa) | N/A |
-| 42 | [#Tigres](http://twitter.com/search?q=%23Tigres) | N/A |
-| 43 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 44 | [#PiensoEnTi](http://twitter.com/search?q=%23PiensoEnTi) | N/A |
-| 45 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
-| 46 | [#Concachampions](http://twitter.com/search?q=%23Concachampions) | N/A |
-| 47 | [#BarbieTheMovie](http://twitter.com/search?q=%23BarbieTheMovie) | N/A |
-| 48 | [#MásAcciónMásDiversión](http://twitter.com/search?q=%23M%c3%a1sAcci%c3%b3nM%c3%a1sDiversi%c3%b3n) | N/A |
+| 20 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 21 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 22 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 23 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 24 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
+| 25 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 26 | [Libra](http://twitter.com/search?q=Libra) | N/A |
+| 27 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 28 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
+| 29 | [ramon](http://twitter.com/search?q=ramon) | N/A |
+| 30 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 31 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 32 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 33 | [Nacionalización](http://twitter.com/search?q=Nacionalizaci%c3%b3n) | N/A |
+| 34 | [Edson](http://twitter.com/search?q=Edson) | N/A |
+| 35 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 36 | [#LunaLlena](http://twitter.com/search?q=%23LunaLlena) | N/A |
+| 37 | [#PeñitaRespondeme](http://twitter.com/search?q=%23Pe%c3%b1itaRespondeme) | N/A |
+| 38 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 39 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 40 | [#PiensoEnTi](http://twitter.com/search?q=%23PiensoEnTi) | N/A |
+| 41 | [#Tigres](http://twitter.com/search?q=%23Tigres) | N/A |
+| 42 | [#Concachampions](http://twitter.com/search?q=%23Concachampions) | N/A |
 
 
 

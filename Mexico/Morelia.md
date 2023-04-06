@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Morelia
 
-📆 Last Updated: `2023-04-06 04:17:39 UTC`
+📆 Last Updated: `2023-04-06 05:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,46 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 2 | [#BonoAllStar](http://twitter.com/search?q=%23BonoAllStar) | N/A |
-| 3 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
-| 4 | [NO QUEREMOS PERDERTE EMILIO](http://twitter.com/search?q=NO+QUEREMOS+PERDERTE+EMILIO) | N/A |
-| 5 | [#BLACKPINK_THE_GAME](http://twitter.com/search?q=%23BLACKPINK_THE_GAME) | N/A |
-| 6 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
-| 7 | [#IntegracionCacher](http://twitter.com/search?q=%23IntegracionCacher) | N/A |
-| 8 | [Luis Quiñones](http://twitter.com/search?q=Luis+Qui%c3%b1ones) | N/A |
-| 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 10 | [Rodel](http://twitter.com/search?q=Rodel) | N/A |
-| 11 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 12 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 13 | [San Felipe](http://twitter.com/search?q=San+Felipe) | N/A |
-| 14 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
-| 15 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
-| 16 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 17 | [Matehuala](http://twitter.com/search?q=Matehuala) | N/A |
-| 18 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 3 | [NO QUEREMOS PERDERTE EMILIO](http://twitter.com/search?q=NO+QUEREMOS+PERDERTE+EMILIO) | N/A |
+| 4 | [#BLACKPINK_THE_GAME](http://twitter.com/search?q=%23BLACKPINK_THE_GAME) | N/A |
+| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 6 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 7 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
+| 8 | [#IntegracionCacher](http://twitter.com/search?q=%23IntegracionCacher) | N/A |
+| 9 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 10 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 11 | [Graco](http://twitter.com/search?q=Graco) | N/A |
+| 12 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 13 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 14 | [Rodel](http://twitter.com/search?q=Rodel) | N/A |
+| 15 | [San Felipe](http://twitter.com/search?q=San+Felipe) | N/A |
+| 16 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
+| 17 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
+| 18 | [Matehuala](http://twitter.com/search?q=Matehuala) | N/A |
 | 19 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 20 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
-| 21 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 22 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 23 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
-| 24 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 25 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 26 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 27 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
-| 28 | [Saltillo](http://twitter.com/search?q=Saltillo) | N/A |
-| 29 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
-| 30 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 31 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 32 | [ramon](http://twitter.com/search?q=ramon) | N/A |
+| 20 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 21 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 22 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 23 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 24 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
+| 25 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 26 | [Libra](http://twitter.com/search?q=Libra) | N/A |
+| 27 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 28 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
+| 29 | [ramon](http://twitter.com/search?q=ramon) | N/A |
+| 30 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 31 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 32 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
 | 33 | [Nacionalización](http://twitter.com/search?q=Nacionalizaci%c3%b3n) | N/A |
-| 34 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 35 | [Cuau](http://twitter.com/search?q=Cuau) | N/A |
-| 36 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 37 | [Centro Histórico](http://twitter.com/search?q=Centro+Hist%c3%b3rico) | N/A |
-| 38 | [El Real Madrid](http://twitter.com/search?q=El+Real+Madrid) | N/A |
-| 39 | [#PeñitaRespondeme](http://twitter.com/search?q=%23Pe%c3%b1itaRespondeme) | N/A |
-| 40 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 34 | [Edson](http://twitter.com/search?q=Edson) | N/A |
+| 35 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 36 | [#LunaLlena](http://twitter.com/search?q=%23LunaLlena) | N/A |
+| 37 | [#PeñitaRespondeme](http://twitter.com/search?q=%23Pe%c3%b1itaRespondeme) | N/A |
+| 38 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 39 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 40 | [#PiensoEnTi](http://twitter.com/search?q=%23PiensoEnTi) | N/A |
 | 41 | [#Tigres](http://twitter.com/search?q=%23Tigres) | N/A |
-| 42 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 43 | [#Concachampions](http://twitter.com/search?q=%23Concachampions) | N/A |
-| 44 | [#BarbieTheMovie](http://twitter.com/search?q=%23BarbieTheMovie) | N/A |
-| 45 | [#MásAcciónMásDiversión](http://twitter.com/search?q=%23M%c3%a1sAcci%c3%b3nM%c3%a1sDiversi%c3%b3n) | N/A |
-| 46 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 42 | [#Concachampions](http://twitter.com/search?q=%23Concachampions) | N/A |
 
 
 

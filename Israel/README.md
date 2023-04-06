@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-04-06 04:18:30 UTC`
+📆 Last Updated: `2023-04-06 05:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Israel
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
-| 2 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
+| 2 | [חג חירות שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%97%d7%99%d7%a8%d7%95%d7%aa+%d7%a9%d7%9e%d7%97) | N/A |
 | 3 | [חג פסח שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a4%d7%a1%d7%97+%d7%a9%d7%9e%d7%97) | N/A |
-| 4 | [חג חירות שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%97%d7%99%d7%a8%d7%95%d7%aa+%d7%a9%d7%9e%d7%97) | N/A |
+| 4 | [ליל הסדר](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c+%d7%94%d7%a1%d7%93%d7%a8) | N/A |
 | 5 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 6 | [ליל הסדר](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c+%d7%94%d7%a1%d7%93%d7%a8) | N/A |
-| 7 | [בנק ישראל](http://twitter.com/search?q=%d7%91%d7%a0%d7%a7+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 8 | [חג כשר](http://twitter.com/search?q=%d7%97%d7%92+%d7%9b%d7%a9%d7%a8) | N/A |
-| 9 | [אחד מי](http://twitter.com/search?q=%d7%90%d7%97%d7%93+%d7%9e%d7%99) | N/A |
-| 10 | [المصلي القبلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a) | N/A |
-| 11 | [ערב חג](http://twitter.com/search?q=%d7%a2%d7%a8%d7%91+%d7%97%d7%92) | N/A |
-| 12 | [מתן כהנא](http://twitter.com/search?q=%d7%9e%d7%aa%d7%9f+%d7%9b%d7%94%d7%a0%d7%90) | N/A |
-| 13 | [תחת עינויים](http://twitter.com/search?q=%d7%aa%d7%97%d7%aa+%d7%a2%d7%99%d7%a0%d7%95%d7%99%d7%99%d7%9d) | N/A |
-| 14 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 15 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
+| 6 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
+| 7 | [חג כשר](http://twitter.com/search?q=%d7%97%d7%92+%d7%9b%d7%a9%d7%a8) | N/A |
+| 8 | [ערב חג](http://twitter.com/search?q=%d7%a2%d7%a8%d7%91+%d7%97%d7%92) | N/A |
+| 9 | [עם גדי](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%92%d7%93%d7%99) | N/A |
+| 10 | [#الاقصي_يستغيث](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a_%d9%8a%d8%b3%d8%aa%d8%ba%d9%8a%d8%ab) | N/A |
+| 11 | [בני ישראל](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 12 | [ים סוף](http://twitter.com/search?q=%d7%99%d7%9d+%d7%a1%d7%95%d7%a3) | N/A |
+| 13 | [של פסח](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%a1%d7%97) | N/A |
+| 14 | [#الاقصي_في_خطر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a_%d9%81%d9%8a_%d8%ae%d8%b7%d8%b1) | N/A |
+| 15 | [Temple Mount](http://twitter.com/search?q=Temple+Mount) | N/A |
 | 16 | [Al-Aqsa](http://twitter.com/search?q=Al-Aqsa) | N/A |
-| 17 | [מני אסייג](http://twitter.com/search?q=%d7%9e%d7%a0%d7%99+%d7%90%d7%a1%d7%99%d7%99%d7%92) | N/A |
-| 18 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 19 | [בן אוליאל](http://twitter.com/search?q=%d7%91%d7%9f+%d7%90%d7%95%d7%9c%d7%99%d7%90%d7%9c) | N/A |
-| 20 | [מחצית שנייה](http://twitter.com/search?q=%d7%9e%d7%97%d7%a6%d7%99%d7%aa+%d7%a9%d7%a0%d7%99%d7%99%d7%94) | N/A |
-| 21 | [قوات الاحتلال](http://twitter.com/search?q=%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84) | N/A |
-| 22 | [Temple Mount](http://twitter.com/search?q=Temple+Mount) | N/A |
-| 23 | [סדר פסח](http://twitter.com/search?q=%d7%a1%d7%93%d7%a8+%d7%a4%d7%a1%d7%97) | N/A |
-| 24 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
-| 25 | [ריאל מדריד](http://twitter.com/search?q=%d7%a8%d7%99%d7%90%d7%9c+%d7%9e%d7%93%d7%a8%d7%99%d7%93) | N/A |
-| 26 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
-| 27 | [ל אמר](http://twitter.com/search?q=%d7%9c+%d7%90%d7%9e%d7%a8) | N/A |
-| 28 | [البلده القديمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d9%85%d9%87) | N/A |
-| 29 | [ערב פסח](http://twitter.com/search?q=%d7%a2%d7%a8%d7%91+%d7%a4%d7%a1%d7%97) | N/A |
-| 30 | [של פסח](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%a1%d7%97) | N/A |
-| 31 | [צבע אדום](http://twitter.com/search?q=%d7%a6%d7%91%d7%a2+%d7%90%d7%93%d7%95%d7%9d) | N/A |
-| 32 | [الشرطه الاسراييليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%b7%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a%d9%87) | N/A |
-| 33 | [דוד שלי](http://twitter.com/search?q=%d7%93%d7%95%d7%93+%d7%a9%d7%9c%d7%99) | N/A |
-| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 35 | [שולחן הסדר](http://twitter.com/search?q=%d7%a9%d7%95%d7%9c%d7%97%d7%9f+%d7%94%d7%a1%d7%93%d7%a8) | N/A |
-| 36 | [علي المعتكفين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%83%d9%81%d9%8a%d9%86) | N/A |
-| 37 | [מסגד אל](http://twitter.com/search?q=%d7%9e%d7%a1%d7%92%d7%93+%d7%90%d7%9c) | N/A |
-| 38 | [מאיה קיי](http://twitter.com/search?q=%d7%9e%d7%90%d7%99%d7%94+%d7%a7%d7%99%d7%99) | N/A |
-| 39 | [Seder](http://twitter.com/search?q=Seder) | N/A |
-| 40 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
-| 41 | [חג אביב שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%90%d7%91%d7%99%d7%91+%d7%a9%d7%9e%d7%97) | N/A |
-| 42 | [חצי דיקטטורה](http://twitter.com/search?q=%d7%97%d7%a6%d7%99+%d7%93%d7%99%d7%a7%d7%98%d7%98%d7%95%d7%a8%d7%94) | N/A |
-| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 44 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
-| 45 | [בית ישראל](http://twitter.com/search?q=%d7%91%d7%99%d7%aa+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 46 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 47 | [אראל סגל](http://twitter.com/search?q=%d7%90%d7%a8%d7%90%d7%9c+%d7%a1%d7%92%d7%9c) | N/A |
-| 48 | [של יאיר](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%90%d7%99%d7%a8) | N/A |
-| 49 | [President](http://twitter.com/search?q=President) | N/A |
-| 50 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 17 | [ערב פסח](http://twitter.com/search?q=%d7%a2%d7%a8%d7%91+%d7%a4%d7%a1%d7%97) | N/A |
+| 18 | [אחד מי](http://twitter.com/search?q=%d7%90%d7%97%d7%93+%d7%9e%d7%99) | N/A |
+| 19 | [חג אביב שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%90%d7%91%d7%99%d7%91+%d7%a9%d7%9e%d7%97) | N/A |
+| 20 | [תולדות המדינה](http://twitter.com/search?q=%d7%aa%d7%95%d7%9c%d7%93%d7%95%d7%aa+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
+| 21 | [בן אוליאל](http://twitter.com/search?q=%d7%91%d7%9f+%d7%90%d7%95%d7%9c%d7%99%d7%90%d7%9c) | N/A |
+| 22 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 23 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 24 | [צבע אדום](http://twitter.com/search?q=%d7%a6%d7%91%d7%a2+%d7%90%d7%93%d7%95%d7%9d) | N/A |
+| 25 | [סדר פסח](http://twitter.com/search?q=%d7%a1%d7%93%d7%a8+%d7%a4%d7%a1%d7%97) | N/A |
+| 26 | [תחת עינויים](http://twitter.com/search?q=%d7%aa%d7%97%d7%aa+%d7%a2%d7%99%d7%a0%d7%95%d7%99%d7%99%d7%9d) | N/A |
+| 27 | [דור פרץ](http://twitter.com/search?q=%d7%93%d7%95%d7%a8+%d7%a4%d7%a8%d7%a5) | N/A |
+| 28 | [בחור ישיבה](http://twitter.com/search?q=%d7%91%d7%97%d7%95%d7%a8+%d7%99%d7%a9%d7%99%d7%91%d7%94) | N/A |
+| 29 | [של חמאס](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%9e%d7%90%d7%a1) | N/A |
+| 30 | [מני אסייג](http://twitter.com/search?q=%d7%9e%d7%a0%d7%99+%d7%90%d7%a1%d7%99%d7%99%d7%92) | N/A |
+| 31 | [קרבן פסח](http://twitter.com/search?q=%d7%a7%d7%a8%d7%91%d7%9f+%d7%a4%d7%a1%d7%97) | N/A |
+| 32 | [المصلي القبلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a) | N/A |
+| 33 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 34 | [שולחן הסדר](http://twitter.com/search?q=%d7%a9%d7%95%d7%9c%d7%97%d7%9f+%d7%94%d7%a1%d7%93%d7%a8) | N/A |
+| 35 | [ל שבתאי](http://twitter.com/search?q=%d7%9c+%d7%a9%d7%91%d7%aa%d7%90%d7%99) | N/A |
+| 36 | [בנט לפיד](http://twitter.com/search?q=%d7%91%d7%a0%d7%98+%d7%9c%d7%a4%d7%99%d7%93) | N/A |
+| 37 | [פני זקן](http://twitter.com/search?q=%d7%a4%d7%a0%d7%99+%d7%96%d7%a7%d7%9f) | N/A |
+| 38 | [קורבן בהר](http://twitter.com/search?q=%d7%a7%d7%95%d7%a8%d7%91%d7%9f+%d7%91%d7%94%d7%a8) | N/A |
+| 39 | [שנה במדבר](http://twitter.com/search?q=%d7%a9%d7%a0%d7%94+%d7%91%d7%9e%d7%93%d7%91%d7%a8) | N/A |
+| 40 | [Seder](http://twitter.com/search?q=Seder) | N/A |
+| 41 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
+| 42 | [ל תקף](http://twitter.com/search?q=%d7%9c+%d7%aa%d7%a7%d7%a3) | N/A |
+| 43 | [חייב אדם](http://twitter.com/search?q=%d7%97%d7%99%d7%99%d7%91+%d7%90%d7%93%d7%9d) | N/A |
+| 44 | [ירי זיקוקים](http://twitter.com/search?q=%d7%99%d7%a8%d7%99+%d7%96%d7%99%d7%a7%d7%95%d7%a7%d7%99%d7%9d) | N/A |
+| 45 | [מסגד אל](http://twitter.com/search?q=%d7%9e%d7%a1%d7%92%d7%93+%d7%90%d7%9c) | N/A |
+| 46 | [Sderot](http://twitter.com/search?q=Sderot) | N/A |
+| 47 | [علي المصلين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a%d9%86) | N/A |
+| 48 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
+| 49 | [לילה לבן](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%9c%d7%91%d7%9f) | N/A |
+| 50 | [כוס יין](http://twitter.com/search?q=%d7%9b%d7%95%d7%a1+%d7%99%d7%99%d7%9f) | N/A |
 
 
 

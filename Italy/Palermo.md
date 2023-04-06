@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-04-06 04:17:51 UTC`
+📆 Last Updated: `2023-04-06 05:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
 | 2 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 3 | [#backtoschool](http://twitter.com/search?q=%23backtoschool) | N/A |
-| 4 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 5 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 6 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
-| 7 | [#5aprile](http://twitter.com/search?q=%235aprile) | N/A |
+| 3 | [#6aprile](http://twitter.com/search?q=%236aprile) | N/A |
+| 4 | [#provareAncora](http://twitter.com/search?q=%23provareAncora) | N/A |
+| 5 | [#backtoschool](http://twitter.com/search?q=%23backtoschool) | N/A |
+| 6 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 7 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
 | 8 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
 | 9 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
 | 10 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
 | 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 12 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
-| 13 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 14 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 15 | [perin](http://twitter.com/search?q=perin) | N/A |
-| 16 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 17 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 18 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 19 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
-| 20 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 21 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 22 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 23 | [forza presidente](http://twitter.com/search?q=forza+presidente) | N/A |
-| 24 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 25 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 26 | [Suma](http://twitter.com/search?q=Suma) | N/A |
-| 27 | [Buongiorno Liliana](http://twitter.com/search?q=Buongiorno+Liliana) | N/A |
-| 28 | [Veltroni](http://twitter.com/search?q=Veltroni) | N/A |
-| 29 | [giulia salemi](http://twitter.com/search?q=giulia+salemi) | N/A |
-| 30 | [L'Unità](http://twitter.com/search?q=L%27Unit%c3%a0) | N/A |
-| 31 | [valeria marini](http://twitter.com/search?q=valeria+marini) | N/A |
-| 32 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
-| 33 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 34 | [Vinco](http://twitter.com/search?q=Vinco) | N/A |
-| 35 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 36 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
-| 37 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
-| 38 | [Bugo](http://twitter.com/search?q=Bugo) | N/A |
-| 39 | [Senatore](http://twitter.com/search?q=Senatore) | N/A |
-| 40 | [ammonito](http://twitter.com/search?q=ammonito) | N/A |
-| 41 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 42 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
-| 43 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 44 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 45 | [Gennaro](http://twitter.com/search?q=Gennaro) | N/A |
-| 46 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
-| 47 | [Bonucci](http://twitter.com/search?q=Bonucci) | N/A |
-| 48 | [mara sattei](http://twitter.com/search?q=mara+sattei) | N/A |
-| 49 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
-| 50 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 12 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 13 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 14 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 15 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
+| 16 | [Giovedì Santo](http://twitter.com/search?q=Gioved%c3%ac+Santo) | N/A |
+| 17 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 18 | [perin](http://twitter.com/search?q=perin) | N/A |
+| 19 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 20 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 21 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 22 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 23 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 24 | [Buongiorno Liliana](http://twitter.com/search?q=Buongiorno+Liliana) | N/A |
+| 25 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 26 | [Buongiorno Dj](http://twitter.com/search?q=Buongiorno+Dj) | N/A |
+| 27 | [forza presidente](http://twitter.com/search?q=forza+presidente) | N/A |
+| 28 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 29 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
+| 30 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
+| 31 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 32 | [Buongiorno Dida](http://twitter.com/search?q=Buongiorno+Dida) | N/A |
+| 33 | [Suma](http://twitter.com/search?q=Suma) | N/A |
+| 34 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 35 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 36 | [Veltroni](http://twitter.com/search?q=Veltroni) | N/A |
+| 37 | [giulia salemi](http://twitter.com/search?q=giulia+salemi) | N/A |
+| 38 | [l'unità](http://twitter.com/search?q=l%27unit%c3%a0) | N/A |
+| 39 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 40 | [vinco](http://twitter.com/search?q=vinco) | N/A |
+| 41 | [Buongiorno Roby](http://twitter.com/search?q=Buongiorno+Roby) | N/A |
+| 42 | [Bugo](http://twitter.com/search?q=Bugo) | N/A |
+| 43 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
+| 44 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 45 | [ammonito](http://twitter.com/search?q=ammonito) | N/A |
+| 46 | [Senatore](http://twitter.com/search?q=Senatore) | N/A |
+| 47 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 48 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
+| 49 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 50 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
 
 
 
