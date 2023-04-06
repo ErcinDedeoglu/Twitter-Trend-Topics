@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-04-06 12:18:43 UTC`
+📆 Last Updated: `2023-04-06 13:18:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AFLLionsPies](http://twitter.com/search?q=%23AFLLionsPies) | N/A |
-| 2 | [#NRLStormRoosters](http://twitter.com/search?q=%23NRLStormRoosters) | N/A |
-| 3 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 4 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
-| 5 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 2 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 3 | [#NRLStormRoosters](http://twitter.com/search?q=%23NRLStormRoosters) | N/A |
+| 4 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 5 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
 | 6 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
-| 7 | [Noel Pearson](http://twitter.com/search?q=Noel+Pearson) | N/A |
-| 8 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
-| 9 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
-| 10 | [#VoiceToParliament](http://twitter.com/search?q=%23VoiceToParliament) | N/A |
-| 11 | [Radley](http://twitter.com/search?q=Radley) | N/A |
+| 7 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 8 | [Noel Pearson](http://twitter.com/search?q=Noel+Pearson) | N/A |
+| 9 | [Daicos](http://twitter.com/search?q=Daicos) | N/A |
+| 10 | [Charlie Cameron](http://twitter.com/search?q=Charlie+Cameron) | N/A |
+| 11 | [#VoiceToParliament](http://twitter.com/search?q=%23VoiceToParliament) | N/A |
 | 12 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 13 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
-| 14 | [Nick Daicos](http://twitter.com/search?q=Nick+Daicos) | N/A |
-| 15 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 16 | [Zorko](http://twitter.com/search?q=Zorko) | N/A |
+| 13 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
+| 14 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
+| 15 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
+| 16 | [Radley](http://twitter.com/search?q=Radley) | N/A |
 | 17 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
-| 18 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
-| 19 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 20 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 18 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 19 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 20 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 21 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 22 | [HECS](http://twitter.com/search?q=HECS) | N/A |
-| 23 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 24 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 25 | [Uluru Statement](http://twitter.com/search?q=Uluru+Statement) | N/A |
-| 26 | [Nick Meaney](http://twitter.com/search?q=Nick+Meaney) | N/A |
-| 27 | [Coates](http://twitter.com/search?q=Coates) | N/A |
-| 28 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
-| 29 | [Inland Rail](http://twitter.com/search?q=Inland+Rail) | N/A |
+| 22 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 23 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
+| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 25 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
+| 26 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
+| 27 | [Uluru Statement](http://twitter.com/search?q=Uluru+Statement) | N/A |
+| 28 | [Harry Grant](http://twitter.com/search?q=Harry+Grant) | N/A |
+| 29 | [HECS](http://twitter.com/search?q=HECS) | N/A |
 | 30 | [Linda Reynolds](http://twitter.com/search?q=Linda+Reynolds) | N/A |
-| 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 32 | [Bobby Hill](http://twitter.com/search?q=Bobby+Hill) | N/A |
-| 33 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 34 | [Crisp](http://twitter.com/search?q=Crisp) | N/A |
-| 35 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 36 | [Daniher](http://twitter.com/search?q=Daniher) | N/A |
-| 37 | [Fred Chaney](http://twitter.com/search?q=Fred+Chaney) | N/A |
-| 38 | [Harry Grant](http://twitter.com/search?q=Harry+Grant) | N/A |
-| 39 | [Hipwood](http://twitter.com/search?q=Hipwood) | N/A |
-| 40 | [Hutch](http://twitter.com/search?q=Hutch) | N/A |
-| 41 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 42 | [Tehan](http://twitter.com/search?q=Tehan) | N/A |
-| 43 | [Chris Kenny](http://twitter.com/search?q=Chris+Kenny) | N/A |
-| 44 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 45 | [Chooks](http://twitter.com/search?q=Chooks) | N/A |
-| 46 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 47 | [Senator Dodson](http://twitter.com/search?q=Senator+Dodson) | N/A |
-| 48 | [Canberra Voice](http://twitter.com/search?q=Canberra+Voice) | N/A |
-| 49 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 50 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 31 | [Daniher](http://twitter.com/search?q=Daniher) | N/A |
+| 32 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 33 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 34 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
+| 35 | [hutch](http://twitter.com/search?q=hutch) | N/A |
+| 36 | [Country Roads](http://twitter.com/search?q=Country+Roads) | N/A |
+| 37 | [Coates](http://twitter.com/search?q=Coates) | N/A |
+| 38 | [Inland Rail](http://twitter.com/search?q=Inland+Rail) | N/A |
+| 39 | [nick meaney](http://twitter.com/search?q=nick+meaney) | N/A |
+| 40 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 41 | [Bobby Hill](http://twitter.com/search?q=Bobby+Hill) | N/A |
+| 42 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 43 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 44 | [dunkley](http://twitter.com/search?q=dunkley) | N/A |
+| 45 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 46 | [Frampton](http://twitter.com/search?q=Frampton) | N/A |
+| 47 | [Fred Chaney](http://twitter.com/search?q=Fred+Chaney) | N/A |
+| 48 | [Brian Taylor](http://twitter.com/search?q=Brian+Taylor) | N/A |
+| 49 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 50 | [Zorko](http://twitter.com/search?q=Zorko) | N/A |
 
 
 

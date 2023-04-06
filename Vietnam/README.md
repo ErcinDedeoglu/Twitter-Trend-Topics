@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-04-06 12:19:16 UTC`
+📆 Last Updated: `2023-04-06 13:19:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,14 +26,14 @@ This is top 50 for Vietnam
 | 9 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
 | 10 | [Protector](http://twitter.com/search?q=Protector) | N/A |
 | 11 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
-| 12 | [cushion cover](http://twitter.com/search?q=cushion+cover) | N/A |
-| 13 | [Tool](http://twitter.com/search?q=Tool) | N/A |
-| 14 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
+| 12 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
+| 13 | [cushion cover](http://twitter.com/search?q=cushion+cover) | N/A |
+| 14 | [Tool](http://twitter.com/search?q=Tool) | N/A |
 | 15 | [Grim Reaper](http://twitter.com/search?q=Grim+Reaper) | N/A |
 | 16 | [Rose Skull](http://twitter.com/search?q=Rose+Skull) | N/A |
-| 17 | [Christmas Skull](http://twitter.com/search?q=Christmas+Skull) | N/A |
-| 18 | [Day of The Dead](http://twitter.com/search?q=Day+of+The+Dead) | N/A |
-| 19 | [Cinco de Mayo Skull](http://twitter.com/search?q=Cinco+de+Mayo+Skull) | N/A |
+| 17 | [Cinco de Mayo Skull](http://twitter.com/search?q=Cinco+de+Mayo+Skull) | N/A |
+| 18 | [Christmas Skull](http://twitter.com/search?q=Christmas+Skull) | N/A |
+| 19 | [Day of The Dead](http://twitter.com/search?q=Day+of+The+Dead) | N/A |
 | 20 | [Happy Easter 2023](http://twitter.com/search?q=Happy+Easter+2023) | N/A |
 | 21 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
 | 22 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
@@ -43,28 +43,28 @@ This is top 50 for Vietnam
 | 26 | [Motorcycle Skull](http://twitter.com/search?q=Motorcycle+Skull) | N/A |
 | 27 | [Flame Skull](http://twitter.com/search?q=Flame+Skull) | N/A |
 | 28 | [Flaming Skull](http://twitter.com/search?q=Flaming+Skull) | N/A |
-| 29 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 30 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
-| 31 | [Flower Skull](http://twitter.com/search?q=Flower+Skull) | N/A |
-| 32 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |
-| 33 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 34 | [Mexican Skull](http://twitter.com/search?q=Mexican+Skull) | N/A |
-| 35 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 36 | [Nanon](http://twitter.com/search?q=Nanon) | N/A |
-| 37 | [Calaveras Skull](http://twitter.com/search?q=Calaveras+Skull) | N/A |
-| 38 | [Ngày](http://twitter.com/search?q=Ng%c3%a0y) | N/A |
-| 39 | [Đỉnh](http://twitter.com/search?q=%c4%90%e1%bb%89nh) | N/A |
-| 40 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 41 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
+| 29 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
+| 30 | [Flower Skull](http://twitter.com/search?q=Flower+Skull) | N/A |
+| 31 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |
+| 32 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 33 | [Mexican Skull](http://twitter.com/search?q=Mexican+Skull) | N/A |
+| 34 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 35 | [Nanon](http://twitter.com/search?q=Nanon) | N/A |
+| 36 | [Calaveras Skull](http://twitter.com/search?q=Calaveras+Skull) | N/A |
+| 37 | [Ngày](http://twitter.com/search?q=Ng%c3%a0y) | N/A |
+| 38 | [Đỉnh](http://twitter.com/search?q=%c4%90%e1%bb%89nh) | N/A |
+| 39 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 40 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
+| 41 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
 | 42 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
 | 43 | [Quan](http://twitter.com/search?q=Quan) | N/A |
 | 44 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
 | 45 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 46 | [Biết](http://twitter.com/search?q=Bi%e1%ba%bft) | N/A |
+| 46 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
 | 47 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 48 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 49 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 50 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
+| 48 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 49 | [đài loan](http://twitter.com/search?q=%c4%91%c3%a0i+loan) | N/A |
+| 50 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
 
 
 

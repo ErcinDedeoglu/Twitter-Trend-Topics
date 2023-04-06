@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-04-06 12:19:09 UTC`
+📆 Last Updated: `2023-04-06 13:19:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [शोभा यात्रा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8b%e0%a4%ad%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
 | 2 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 3 | [#Adipurush](http://twitter.com/search?q=%23Adipurush) | N/A |
-| 4 | [#HanumanBhaktKamalnath](http://twitter.com/search?q=%23HanumanBhaktKamalnath) | N/A |
-| 5 | [#XiaomiFanFestival](http://twitter.com/search?q=%23XiaomiFanFestival) | N/A |
-| 6 | [#Redmi12C](http://twitter.com/search?q=%23Redmi12C) | N/A |
-| 7 | [#BholaaNewSongOut](http://twitter.com/search?q=%23BholaaNewSongOut) | N/A |
-| 8 | [Anil Antony](http://twitter.com/search?q=Anil+Antony) | N/A |
+| 3 | [#Suriya42](http://twitter.com/search?q=%23Suriya42) | N/A |
+| 4 | [#RenukaPanwar1MillionOnIG](http://twitter.com/search?q=%23RenukaPanwar1MillionOnIG) | N/A |
+| 5 | [#BJPBrokerAndLeaker](http://twitter.com/search?q=%23BJPBrokerAndLeaker) | N/A |
+| 6 | [#HanumanBhaktKamalnath](http://twitter.com/search?q=%23HanumanBhaktKamalnath) | N/A |
+| 7 | [#XiaomiFanFestival](http://twitter.com/search?q=%23XiaomiFanFestival) | N/A |
+| 8 | [अनिल एंटनी](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%bf%e0%a4%b2+%e0%a4%8f%e0%a4%82%e0%a4%9f%e0%a4%a8%e0%a5%80) | N/A |
 | 9 | [Arunachal Rejects China](http://twitter.com/search?q=Arunachal+Rejects+China) | N/A |
 | 10 | [Rashtriya Sewa Bharati](http://twitter.com/search?q=Rashtriya+Sewa+Bharati) | N/A |
-| 11 | [अनिल एंटनी](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%bf%e0%a4%b2+%e0%a4%8f%e0%a4%82%e0%a4%9f%e0%a4%a8%e0%a5%80) | N/A |
+| 11 | [MKJW SHIELD OF MUNAWAR](http://twitter.com/search?q=MKJW+SHIELD+OF+MUNAWAR) | N/A |
 | 12 | [Syedna Case](http://twitter.com/search?q=Syedna+Case) | N/A |
-| 13 | [MKJW SHIELD OF MUNAWAR](http://twitter.com/search?q=MKJW+SHIELD+OF+MUNAWAR) | N/A |
-| 14 | [हनुमान जयंती](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 15 | [भारतीय जनता पार्टी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 16 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 17 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
-| 18 | [पूर्व रक्षा मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 19 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 20 | [तमिलनाडु पुलिस](http://twitter.com/search?q=%e0%a4%a4%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8%e0%a4%be%e0%a4%a1%e0%a5%81+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 21 | [Eden Gardens](http://twitter.com/search?q=Eden+Gardens) | N/A |
-| 22 | [Defence](http://twitter.com/search?q=Defence) | N/A |
-| 23 | [विजय चौक](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%9a%e0%a5%8c%e0%a4%95) | N/A |
-| 24 | [Narzo N55](http://twitter.com/search?q=Narzo+N55) | N/A |
-| 25 | [Padma Shri](http://twitter.com/search?q=Padma+Shri) | Padma Shri is an Indian civilian award given by the Government of India. It is the fourth highest civilian award in India, after the Bharat Ratna, the Padma Vibhushan and the Padma Bhushan. The award is given to recognize distinguished service of a high order to the nation in any field including art, literature, education, science, sports, medicine, social service and public affairs. The literal meaning of Padma Shri in English is "Lotus Honor". |
-| 26 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 13 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 14 | [पूर्व रक्षा मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 15 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
+| 16 | [तमिलनाडु पुलिस](http://twitter.com/search?q=%e0%a4%a4%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8%e0%a4%be%e0%a4%a1%e0%a5%81+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 17 | [Eden Gardens](http://twitter.com/search?q=Eden+Gardens) | N/A |
+| 18 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 19 | [विजय चौक](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%9a%e0%a5%8c%e0%a4%95) | N/A |
+| 20 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 21 | [Narzo N55](http://twitter.com/search?q=Narzo+N55) | N/A |
+| 22 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 23 | [Scindia](http://twitter.com/search?q=Scindia) | N/A |
+| 24 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 25 | [जगरनाथ महतो](http://twitter.com/search?q=%e0%a4%9c%e0%a4%97%e0%a4%b0%e0%a4%a8%e0%a4%be%e0%a4%a5+%e0%a4%ae%e0%a4%b9%e0%a4%a4%e0%a5%8b) | N/A |
+| 26 | [Sushant A Game Changer](http://twitter.com/search?q=Sushant+A+Game+Changer) | N/A |
 | 27 | [D-Day](http://twitter.com/search?q=D-Day) | N/A |
-| 28 | [Sushant A Game Changer](http://twitter.com/search?q=Sushant+A+Game+Changer) | N/A |
-| 29 | [Scindia](http://twitter.com/search?q=Scindia) | N/A |
-| 30 | [श्री नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 31 | [राष्ट्र सेवा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%be) | N/A |
-| 32 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 33 | [शिक्षा मंत्री जगरनाथ महतो](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%9c%e0%a4%97%e0%a4%b0%e0%a4%a8%e0%a4%be%e0%a4%a5+%e0%a4%ae%e0%a4%b9%e0%a4%a4%e0%a5%8b) | N/A |
-| 34 | [कपिल मिश्रा](http://twitter.com/search?q=%e0%a4%95%e0%a4%aa%e0%a4%bf%e0%a4%b2+%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 35 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 36 | [झारखंड सरकार](http://twitter.com/search?q=%e0%a4%9d%e0%a4%be%e0%a4%b0%e0%a4%96%e0%a4%82%e0%a4%a1+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 37 | [राष्ट्र प्रथम](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae) | N/A |
-| 38 | [EVMs](http://twitter.com/search?q=EVMs) | N/A |
-| 39 | [Bharatiya Janata Party](http://twitter.com/search?q=Bharatiya+Janata+Party) | N/A |
-| 40 | [Ghulam](http://twitter.com/search?q=Ghulam) | N/A |
-| 41 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
-| 42 | [#RedmiNote12](http://twitter.com/search?q=%23RedmiNote12) | N/A |
-| 43 | [#SewaSangam2023](http://twitter.com/search?q=%23SewaSangam2023) | N/A |
-| 44 | [#KKRvsRCB](http://twitter.com/search?q=%23KKRvsRCB) | N/A |
-| 45 | [#realmenarzoOnAmazonSpecials](http://twitter.com/search?q=%23realmenarzoOnAmazonSpecials) | N/A |
-| 46 | [#AKAntony](http://twitter.com/search?q=%23AKAntony) | N/A |
-| 47 | [#BJPBrokerAndLeaker](http://twitter.com/search?q=%23BJPBrokerAndLeaker) | N/A |
-| 48 | [#BJPSthapnaDiwas](http://twitter.com/search?q=%23BJPSthapnaDiwas) | N/A |
-| 49 | [#RNRavi](http://twitter.com/search?q=%23RNRavi) | N/A |
-| 50 | [#VerifiedBySensibull](http://twitter.com/search?q=%23VerifiedBySensibull) | N/A |
+| 28 | [Ghulam](http://twitter.com/search?q=Ghulam) | N/A |
+| 29 | [EVMs](http://twitter.com/search?q=EVMs) | N/A |
+| 30 | [कपिल मिश्रा](http://twitter.com/search?q=%e0%a4%95%e0%a4%aa%e0%a4%bf%e0%a4%b2+%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 31 | [झारखंड सरकार](http://twitter.com/search?q=%e0%a4%9d%e0%a4%be%e0%a4%b0%e0%a4%96%e0%a4%82%e0%a4%a1+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 32 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
+| 33 | [#Redmi12C](http://twitter.com/search?q=%23Redmi12C) | N/A |
+| 34 | [#RedmiNote12](http://twitter.com/search?q=%23RedmiNote12) | N/A |
+| 35 | [#AnilAntony](http://twitter.com/search?q=%23AnilAntony) | N/A |
+| 36 | [#AKAntony](http://twitter.com/search?q=%23AKAntony) | N/A |
+| 37 | [#SewaSangam2023](http://twitter.com/search?q=%23SewaSangam2023) | N/A |
+| 38 | [#KKRvsRCB](http://twitter.com/search?q=%23KKRvsRCB) | N/A |
+| 39 | [#BholaaNewSongOut](http://twitter.com/search?q=%23BholaaNewSongOut) | N/A |
+| 40 | [#realmenarzoOnAmazonSpecials](http://twitter.com/search?q=%23realmenarzoOnAmazonSpecials) | N/A |
+| 41 | [#GetOutRavi](http://twitter.com/search?q=%23GetOutRavi) | #GetOutRavi is a hashtag used to express support for the Indian student Ravi Kumar, who was detained by US immigration authorities in 2019. The hashtag is used to call for his release and to raise awareness of his case. |
+| 42 | [#LikeCrazy3rdWin](http://twitter.com/search?q=%23LikeCrazy3rdWin) | N/A |
+| 43 | [#RNRavi](http://twitter.com/search?q=%23RNRavi) | N/A |
+| 44 | [#BJPSthapnaDiwas](http://twitter.com/search?q=%23BJPSthapnaDiwas) | N/A |
+| 45 | [#VerifiedBySensibull](http://twitter.com/search?q=%23VerifiedBySensibull) | N/A |
+| 46 | [#ओबीसी_मांगे_शैडो_पोस्ट](http://twitter.com/search?q=%23%e0%a4%93%e0%a4%ac%e0%a5%80%e0%a4%b8%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%87_%e0%a4%b6%e0%a5%88%e0%a4%a1%e0%a5%8b_%e0%a4%aa%e0%a5%8b%e0%a4%b8%e0%a5%8d%e0%a4%9f) | N/A |
+| 47 | [#HyderabadRains](http://twitter.com/search?q=%23HyderabadRains) | N/A |
+| 48 | [#WorldHealthDay2023](http://twitter.com/search?q=%23WorldHealthDay2023) | N/A |
+| 49 | [#ChennaiAirport](http://twitter.com/search?q=%23ChennaiAirport) | N/A |
+| 50 | [#TigerVsPathaan](http://twitter.com/search?q=%23TigerVsPathaan) | N/A |
 
 
 

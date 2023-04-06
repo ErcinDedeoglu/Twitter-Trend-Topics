@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-04-06 12:18:51 UTC`
+📆 Last Updated: `2023-04-06 13:19:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,52 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#YLS2023](http://twitter.com/search?q=%23YLS2023) | N/A |
-| 2 | [#ERASavesLives](http://twitter.com/search?q=%23ERASavesLives) | N/A |
-| 3 | [#m3lon](http://twitter.com/search?q=%23m3lon) | N/A |
-| 4 | [North](http://twitter.com/search?q=North) | N/A |
-| 5 | [Garri](http://twitter.com/search?q=Garri) | N/A |
-| 6 | [#acitypoweredbythesun](http://twitter.com/search?q=%23acitypoweredbythesun) | N/A |
-| 7 | [Soyinka](http://twitter.com/search?q=Soyinka) | N/A |
-| 8 | [IT IS MY TIME AND MY TURN](http://twitter.com/search?q=IT+IS+MY+TIME+AND+MY+TURN) | N/A |
-| 9 | [#Dollar](http://twitter.com/search?q=%23Dollar) | N/A |
+| 2 | [#siddiqahramadhan](http://twitter.com/search?q=%23siddiqahramadhan) | N/A |
+| 3 | [#NauNauSOSApp](http://twitter.com/search?q=%23NauNauSOSApp) | N/A |
+| 4 | [DJ Phil](http://twitter.com/search?q=DJ+Phil) | N/A |
+| 5 | [#ERASavesLives](http://twitter.com/search?q=%23ERASavesLives) | N/A |
+| 6 | [#m3lon](http://twitter.com/search?q=%23m3lon) | N/A |
+| 7 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 8 | [North](http://twitter.com/search?q=North) | N/A |
+| 9 | [KANAGA JNR THE BRAND](http://twitter.com/search?q=KANAGA+JNR+THE+BRAND) | N/A |
 | 10 | [MEDIA ROUNDS WITH YVONNE](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+YVONNE) | N/A |
-| 11 | [Bernard](http://twitter.com/search?q=Bernard) | N/A |
-| 12 | [KANAGA JNR THE BRAND](http://twitter.com/search?q=KANAGA+JNR+THE+BRAND) | N/A |
-| 13 | [Dora](http://twitter.com/search?q=Dora) | N/A |
-| 14 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 15 | [ULTIMATE FAVE YEMI CREGX](http://twitter.com/search?q=ULTIMATE+FAVE+YEMI+CREGX) | N/A |
-| 16 | [Moghalu](http://twitter.com/search?q=Moghalu) | N/A |
-| 17 | [Object](http://twitter.com/search?q=Object) | N/A |
-| 18 | [KHOSI X SUPERSPORT](http://twitter.com/search?q=KHOSI+X+SUPERSPORT) | N/A |
-| 19 | [KHOSI THE HOST](http://twitter.com/search?q=KHOSI+THE+HOST) | N/A |
+| 11 | [Kingsley Moghalu](http://twitter.com/search?q=Kingsley+Moghalu) | N/A |
+| 12 | [IT IS MY TIME AND MY TURN](http://twitter.com/search?q=IT+IS+MY+TIME+AND+MY+TURN) | N/A |
+| 13 | [Bernard](http://twitter.com/search?q=Bernard) | N/A |
+| 14 | [KHOSI THE HOST](http://twitter.com/search?q=KHOSI+THE+HOST) | N/A |
+| 15 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
+| 16 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
+| 17 | [KHOSI X SUPERSPORT](http://twitter.com/search?q=KHOSI+X+SUPERSPORT) | N/A |
+| 18 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
+| 19 | [MEDIA ROUNDS WITH KANAGA](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+KANAGA) | N/A |
 | 20 | [David Hundeyin](http://twitter.com/search?q=David+Hundeyin) | N/A |
-| 21 | [MEDIA ROUNDS WITH KANAGA](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+KANAGA) | N/A |
+| 21 | [ULTIMATE FAVE YEMI CREGX](http://twitter.com/search?q=ULTIMATE+FAVE+YEMI+CREGX) | N/A |
 | 22 | [Fascist](http://twitter.com/search?q=Fascist) | N/A |
-| 23 | [Unlettered](http://twitter.com/search?q=Unlettered) | N/A |
-| 24 | [Sanusi](http://twitter.com/search?q=Sanusi) | N/A |
-| 25 | [Calm Down](http://twitter.com/search?q=Calm+Down) | N/A |
-| 26 | [Nobel Laureate](http://twitter.com/search?q=Nobel+Laureate) | N/A |
-| 27 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
-| 28 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
-| 29 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
-| 30 | [Sowore](http://twitter.com/search?q=Sowore) | N/A |
-| 31 | [World Bank](http://twitter.com/search?q=World+Bank) | N/A |
-| 32 | [Almajiri](http://twitter.com/search?q=Almajiri) | N/A |
-| 33 | [YVONNE GODSWILL](http://twitter.com/search?q=YVONNE+GODSWILL) | N/A |
-| 34 | [Poverty](http://twitter.com/search?q=Poverty) | N/A |
-| 35 | [People's Gazette](http://twitter.com/search?q=People%27s+Gazette) | N/A |
+| 23 | [Dora](http://twitter.com/search?q=Dora) | N/A |
+| 24 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 25 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
+| 26 | [Calm Down](http://twitter.com/search?q=Calm+Down) | N/A |
+| 27 | [World Bank](http://twitter.com/search?q=World+Bank) | N/A |
+| 28 | [Sowore](http://twitter.com/search?q=Sowore) | N/A |
+| 29 | [Mason Mount](http://twitter.com/search?q=Mason+Mount) | Mason Mount is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. He is known for his passing, dribbling, and shooting ability. |
+| 30 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
+| 31 | [Sanusi](http://twitter.com/search?q=Sanusi) | N/A |
+| 32 | [Nobel Laureate](http://twitter.com/search?q=Nobel+Laureate) | N/A |
+| 33 | [US iTunes](http://twitter.com/search?q=US+iTunes) | N/A |
+| 34 | [People's Gazette](http://twitter.com/search?q=People%27s+Gazette) | N/A |
+| 35 | [Almajiri](http://twitter.com/search?q=Almajiri) | N/A |
 | 36 | [Borno](http://twitter.com/search?q=Borno) | N/A |
-| 37 | [Hausas](http://twitter.com/search?q=Hausas) | N/A |
-| 38 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
-| 39 | [Asaba](http://twitter.com/search?q=Asaba) | N/A |
-| 40 | [US iTunes](http://twitter.com/search?q=US+iTunes) | N/A |
-| 41 | [Plateau State](http://twitter.com/search?q=Plateau+State) | N/A |
-| 42 | [Ekweremadu](http://twitter.com/search?q=Ekweremadu) | N/A |
-| 43 | [South South](http://twitter.com/search?q=South+South) | N/A |
-| 44 | [#itelA60](http://twitter.com/search?q=%23itelA60) | N/A |
-| 45 | [#feyaja](http://twitter.com/search?q=%23feyaja) | #Feyaja is a hashtag used on social media to express support for the LGBTQ+ community in Nigeria. It is derived from the Yoruba phrase "Feyi ja," which translates to "Love conquers all." |
-| 46 | [#GangsOfLagosOnPrime](http://twitter.com/search?q=%23GangsOfLagosOnPrime) | N/A |
-| 47 | [#Asake](http://twitter.com/search?q=%23Asake) | N/A |
-| 48 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
-| 49 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 37 | [ekweremadu](http://twitter.com/search?q=ekweremadu) | N/A |
+| 38 | [Asaba](http://twitter.com/search?q=Asaba) | N/A |
+| 39 | [#Dollar](http://twitter.com/search?q=%23Dollar) | N/A |
+| 40 | [#GangsOfLagosOnPrime](http://twitter.com/search?q=%23GangsOfLagosOnPrime) | N/A |
+| 41 | [#Asake](http://twitter.com/search?q=%23Asake) | N/A |
+| 42 | [#feyaja](http://twitter.com/search?q=%23feyaja) | #Feyaja is a hashtag used on social media to express support for the LGBTQ+ community in Nigeria. It is derived from the Yoruba phrase "Feyi ja," which translates to "Love conquers all." |
+| 43 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 44 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 45 | [#BlueAiva](http://twitter.com/search?q=%23BlueAiva) | N/A |
+| 46 | [#BlueDiamonds](http://twitter.com/search?q=%23BlueDiamonds) | N/A |
+| 47 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
 
 
 

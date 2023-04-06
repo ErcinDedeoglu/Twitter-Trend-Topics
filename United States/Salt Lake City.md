@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salt Lake City
 
-📆 Last Updated: `2023-04-06 12:19:07 UTC`
+📆 Last Updated: `2023-04-06 13:19:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 2 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 3 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 4 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 5 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 6 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 7 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 8 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 9 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
-| 10 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 11 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 12 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 3 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 4 | [#MoodPitch](http://twitter.com/search?q=%23MoodPitch) | N/A |
+| 5 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 6 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 8 | [Kevin Na](http://twitter.com/search?q=Kevin+Na) | N/A |
+| 9 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
+| 10 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 11 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 12 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
 | 13 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 14 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
-| 15 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 16 | [#Wordle656](http://twitter.com/search?q=%23Wordle656) | N/A |
-| 17 | [Progress](http://twitter.com/search?q=Progress) | N/A |
-| 18 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 19 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 20 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
-| 21 | [Justice Thomas](http://twitter.com/search?q=Justice+Thomas) | N/A |
-| 22 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 23 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
-| 24 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 25 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 26 | [Anheuser-Busch](http://twitter.com/search?q=Anheuser-Busch) | N/A |
-| 27 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
-| 28 | [Rebekah Jones](http://twitter.com/search?q=Rebekah+Jones) | N/A |
-| 29 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 30 | [Vogue](http://twitter.com/search?q=Vogue) | N/A |
-| 31 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 32 | [iPod](http://twitter.com/search?q=iPod) | N/A |
-| 33 | [Katie](http://twitter.com/search?q=Katie) | N/A |
-| 34 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
-| 35 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 36 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 37 | [Dylan Mulvaney](http://twitter.com/search?q=Dylan+Mulvaney) | N/A |
-| 38 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
-| 39 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
-| 40 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 41 | [Steve Jobs](http://twitter.com/search?q=Steve+Jobs) | N/A |
-| 42 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
-| 43 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
-| 44 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 45 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 46 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 47 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 48 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 49 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 14 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 15 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 16 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 17 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 18 | [Progress](http://twitter.com/search?q=Progress) | N/A |
+| 19 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 20 | [ProPublica](http://twitter.com/search?q=ProPublica) | N/A |
+| 21 | [JO KWON](http://twitter.com/search?q=JO+KWON) | N/A |
+| 22 | [Athleta](http://twitter.com/search?q=Athleta) | N/A |
+| 23 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 24 | [Leonard Leo](http://twitter.com/search?q=Leonard+Leo) | N/A |
+| 25 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 26 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
+| 27 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 28 | [Anheuser-Busch](http://twitter.com/search?q=Anheuser-Busch) | N/A |
+| 29 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
+| 30 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 31 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
+| 32 | [John Roberts](http://twitter.com/search?q=John+Roberts) | N/A |
+| 33 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
+| 34 | [Mikasa](http://twitter.com/search?q=Mikasa) | N/A |
+| 35 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
+| 36 | [Vogue](http://twitter.com/search?q=Vogue) | N/A |
+| 37 | [Uncle Remus](http://twitter.com/search?q=Uncle+Remus) | N/A |
+| 38 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 39 | [Hello Friends](http://twitter.com/search?q=Hello+Friends) | N/A |
+| 40 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 41 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
+| 42 | [iPod](http://twitter.com/search?q=iPod) | N/A |
+| 43 | [Super Frank](http://twitter.com/search?q=Super+Frank) | N/A |
+| 44 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 45 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
+| 46 | [Justices](http://twitter.com/search?q=Justices) | Justices is a term used to refer to judges in the legal system. It is also used to refer to members of the Supreme Court of the United States. Justices are responsible for interpreting and applying laws, as well as ruling on cases brought before them. |
+| 47 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 48 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 49 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
 
 
 

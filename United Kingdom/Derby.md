@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-04-06 12:18:24 UTC`
+📆 Last Updated: `2023-04-06 13:18:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NEU2023](http://twitter.com/search?q=%23NEU2023) | N/A |
-| 2 | [Channel 4](http://twitter.com/search?q=Channel+4) | Channel 4 is a British public-service television broadcaster that began broadcasting in 1982. It is known for its innovative and often controversial programming, including documentaries, comedy, drama, and current affairs. The channel's mission is to provide an alternative to mainstream commercial broadcasting and to produce programmes of the highest quality that reflect the diversity of the UK. |
-| 3 | [#recruitment](http://twitter.com/search?q=%23recruitment) | N/A |
-| 4 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 5 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
-| 6 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 7 | [Conservative MP](http://twitter.com/search?q=Conservative+MP) | N/A |
-| 8 | [Dorset](http://twitter.com/search?q=Dorset) | N/A |
-| 9 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 10 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 11 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 12 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 13 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 14 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 15 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 1 | [#ASongOrMovieForJumping](http://twitter.com/search?q=%23ASongOrMovieForJumping) | N/A |
+| 2 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 3 | [Joanne](http://twitter.com/search?q=Joanne) | N/A |
+| 4 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
+| 5 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
+| 6 | [Channel 4](http://twitter.com/search?q=Channel+4) | Channel 4 is a British public-service television broadcaster that began broadcasting in 1982. It is known for its innovative and often controversial programming, including documentaries, comedy, drama, and current affairs. The channel's mission is to provide an alternative to mainstream commercial broadcasting and to produce programmes of the highest quality that reflect the diversity of the UK. |
+| 7 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 8 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
+| 9 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 10 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 11 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 12 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 13 | [Clapham Junction](http://twitter.com/search?q=Clapham+Junction) | N/A |
+| 14 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 15 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
 | 16 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
-| 17 | [Clapham Junction](http://twitter.com/search?q=Clapham+Junction) | N/A |
-| 18 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 19 | [Daniel Radcliffe](http://twitter.com/search?q=Daniel+Radcliffe) | N/A |
-| 20 | [Benton](http://twitter.com/search?q=Benton) | N/A |
-| 21 | [Don Revie](http://twitter.com/search?q=Don+Revie) | N/A |
-| 22 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
-| 23 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 24 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
-| 25 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
-| 26 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 27 | [Scrooge](http://twitter.com/search?q=Scrooge) | N/A |
-| 28 | [iPod](http://twitter.com/search?q=iPod) | N/A |
-| 29 | [Murrells](http://twitter.com/search?q=Murrells) | N/A |
-| 30 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
-| 31 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
-| 32 | [Joanne](http://twitter.com/search?q=Joanne) | N/A |
-| 33 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
-| 34 | [23rd April](http://twitter.com/search?q=23rd+April) | N/A |
-| 35 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 36 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
-| 37 | [Green Man](http://twitter.com/search?q=Green+Man) | N/A |
-| 38 | [Soyinka](http://twitter.com/search?q=Soyinka) | N/A |
-| 39 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 40 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
-| 41 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 42 | [Michelle Mone](http://twitter.com/search?q=Michelle+Mone) | N/A |
-| 43 | [Sturgeon](http://twitter.com/search?q=Sturgeon) | Sturgeon is a type of large fish that is found in the waters of the Northern Hemisphere. It is an anadromous fish, meaning it spends part of its life in fresh water and part in salt water. Sturgeon are prized for their roe, which is used to make caviar. |
-| 44 | [Thames](http://twitter.com/search?q=Thames) | N/A |
-| 45 | [Sullivan](http://twitter.com/search?q=Sullivan) | N/A |
-| 46 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 47 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
+| 17 | [Daniel Radcliffe](http://twitter.com/search?q=Daniel+Radcliffe) | N/A |
+| 18 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 19 | [Bernard Lee](http://twitter.com/search?q=Bernard+Lee) | N/A |
+| 20 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 21 | [York Minster](http://twitter.com/search?q=York+Minster) | N/A |
+| 22 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 23 | [Mason Mount](http://twitter.com/search?q=Mason+Mount) | Mason Mount is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. He is known for his passing, dribbling, and shooting ability. |
+| 24 | [Podence](http://twitter.com/search?q=Podence) | Podence is a Portuguese word meaning “courage” or “bravery”. It is often used to describe someone who has the courage to take risks and face challenges. |
+| 25 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
+| 26 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 27 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 28 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
+| 29 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 30 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
+| 31 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
+| 32 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
+| 33 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 34 | [Scrooge](http://twitter.com/search?q=Scrooge) | N/A |
+| 35 | [ipod](http://twitter.com/search?q=ipod) | N/A |
+| 36 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
+| 37 | [23rd April](http://twitter.com/search?q=23rd+April) | N/A |
+| 38 | [Lamps](http://twitter.com/search?q=Lamps) | N/A |
+| 39 | [Sullivan](http://twitter.com/search?q=Sullivan) | N/A |
+| 40 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
+| 41 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
+| 42 | [Thames](http://twitter.com/search?q=Thames) | N/A |
+| 43 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
+| 44 | [Murrells](http://twitter.com/search?q=Murrells) | N/A |
+| 45 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
+| 46 | [Mone](http://twitter.com/search?q=Mone) | N/A |
+| 47 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
+| 48 | [MITB](http://twitter.com/search?q=MITB) | N/A |
 
 
 

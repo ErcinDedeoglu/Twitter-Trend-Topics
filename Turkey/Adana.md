@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-04-06 12:18:59 UTC`
+📆 Last Updated: `2023-04-06 13:19:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,51 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [RamazanAbi Sinopta](http://twitter.com/search?q=RamazanAbi+Sinopta) | N/A |
-| 2 | [Bagkura AdaletGerek](http://twitter.com/search?q=Bagkura+AdaletGerek) | N/A |
-| 3 | [CHP İstanbul İl Başkanlığı'na](http://twitter.com/search?q=CHP+%c4%b0stanbul+%c4%b0l+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1%27na) | N/A |
-| 4 | [Sarıgül](http://twitter.com/search?q=Sar%c4%b1g%c3%bcl) | N/A |
-| 5 | [#Tam2AyOldu](http://twitter.com/search?q=%23Tam2AyOldu) | N/A |
-| 6 | [Canan Kaftancıoğlu](http://twitter.com/search?q=Canan+Kaftanc%c4%b1o%c4%9flu) | N/A |
-| 7 | [#Korkmuyoruz](http://twitter.com/search?q=%23Korkmuyoruz) | N/A |
-| 8 | [Sahip Ata Külliyesi](http://twitter.com/search?q=Sahip+Ata+K%c3%bclliyesi) | N/A |
-| 9 | [İstanbul Valiliği](http://twitter.com/search?q=%c4%b0stanbul+Valili%c4%9fi) | N/A |
-| 10 | [Demokrat Parti](http://twitter.com/search?q=Demokrat+Parti) | N/A |
+| 1 | [CHP İstanbul İl Başkanlığı'na](http://twitter.com/search?q=CHP+%c4%b0stanbul+%c4%b0l+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1%27na) | N/A |
+| 2 | [Sarıgül](http://twitter.com/search?q=Sar%c4%b1g%c3%bcl) | N/A |
+| 3 | [Sahip Ata Külliyesi](http://twitter.com/search?q=Sahip+Ata+K%c3%bclliyesi) | N/A |
+| 4 | [#AfraSaraçoğlu](http://twitter.com/search?q=%23AfraSara%c3%a7o%c4%9flu) | N/A |
+| 5 | [İstanbul Valiliği](http://twitter.com/search?q=%c4%b0stanbul+Valili%c4%9fi) | N/A |
+| 6 | [#Tam2AyOldu](http://twitter.com/search?q=%23Tam2AyOldu) | N/A |
+| 7 | [Demokrat Parti](http://twitter.com/search?q=Demokrat+Parti) | N/A |
+| 8 | [Canan Kaftancıoğlu](http://twitter.com/search?q=Canan+Kaftanc%c4%b1o%c4%9flu) | N/A |
+| 9 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
+| 10 | [Cengiz Çandar](http://twitter.com/search?q=Cengiz+%c3%87andar) | N/A |
 | 11 | [Bekçi](http://twitter.com/search?q=Bek%c3%a7i) | N/A |
-| 12 | [Cengiz Çandar](http://twitter.com/search?q=Cengiz+%c3%87andar) | N/A |
-| 13 | [TEM Otoyolu Seyrantepe](http://twitter.com/search?q=TEM+Otoyolu+Seyrantepe) | N/A |
-| 14 | [G E L İ Y O R U Z](http://twitter.com/search?q=G+E+L+%c4%b0+Y+O+R+U+Z) | N/A |
-| 15 | [Anadolu Ajansı'nın 103](http://twitter.com/search?q=Anadolu+Ajans%c4%b1%27n%c4%b1n+103) | N/A |
-| 16 | [Hüsnü Şenlendirici](http://twitter.com/search?q=H%c3%bcsn%c3%bc+%c5%9eenlendirici) | N/A |
-| 17 | [Çeşme](http://twitter.com/search?q=%c3%87e%c5%9fme) | N/A |
-| 18 | [Saadet Partisi](http://twitter.com/search?q=Saadet+Partisi) | N/A |
-| 19 | [Fikri Sağlar](http://twitter.com/search?q=Fikri+Sa%c4%9flar) | N/A |
-| 20 | [Engin Altay](http://twitter.com/search?q=Engin+Altay) | N/A |
-| 21 | [Gelecek Partisi](http://twitter.com/search?q=Gelecek+Partisi) | N/A |
-| 22 | [Teklif](http://twitter.com/search?q=Teklif) | N/A |
-| 23 | [Deva](http://twitter.com/search?q=Deva) | N/A |
-| 24 | [Bağcılar Belediyesi](http://twitter.com/search?q=Ba%c4%9fc%c4%b1lar+Belediyesi) | N/A |
-| 25 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
-| 26 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
-| 27 | [Suudi Arabistan](http://twitter.com/search?q=Suudi+Arabistan) | N/A |
+| 12 | [Emine](http://twitter.com/search?q=Emine) | N/A |
+| 13 | [Anadolu Ajansı'nın 103](http://twitter.com/search?q=Anadolu+Ajans%c4%b1%27n%c4%b1n+103) | N/A |
+| 14 | [TEM Otoyolu Seyrantepe](http://twitter.com/search?q=TEM+Otoyolu+Seyrantepe) | N/A |
+| 15 | [Cengiz Kurtoğlu](http://twitter.com/search?q=Cengiz+Kurto%c4%9flu) | N/A |
+| 16 | [Engin Altay](http://twitter.com/search?q=Engin+Altay) | N/A |
+| 17 | [G E L İ Y O R U Z](http://twitter.com/search?q=G+E+L+%c4%b0+Y+O+R+U+Z) | N/A |
+| 18 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
+| 19 | [Hüsnü Şenlendirici](http://twitter.com/search?q=H%c3%bcsn%c3%bc+%c5%9eenlendirici) | N/A |
+| 20 | [Gelecek Partisi](http://twitter.com/search?q=Gelecek+Partisi) | N/A |
+| 21 | [Çeşme](http://twitter.com/search?q=%c3%87e%c5%9fme) | N/A |
+| 22 | [Bağcılar Belediyesi](http://twitter.com/search?q=Ba%c4%9fc%c4%b1lar+Belediyesi) | N/A |
+| 23 | [Fikri Sağlar](http://twitter.com/search?q=Fikri+Sa%c4%9flar) | N/A |
+| 24 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
+| 25 | [Deva](http://twitter.com/search?q=Deva) | N/A |
+| 26 | [Suudi Arabistan](http://twitter.com/search?q=Suudi+Arabistan) | N/A |
+| 27 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
 | 28 | [Uyuşturucu](http://twitter.com/search?q=Uyu%c5%9fturucu) | N/A |
-| 29 | [Begüm Polat](http://twitter.com/search?q=Beg%c3%bcm+Polat) | N/A |
-| 30 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
-| 31 | [Kuzu](http://twitter.com/search?q=Kuzu) | N/A |
-| 32 | [Başımız](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1z) | N/A |
-| 33 | [Malatya'da](http://twitter.com/search?q=Malatya%27da) | N/A |
+| 29 | [Begüm](http://twitter.com/search?q=Beg%c3%bcm) | N/A |
+| 30 | [Teklif](http://twitter.com/search?q=Teklif) | N/A |
+| 31 | [Başımız](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1z) | N/A |
+| 32 | [Malatya'da](http://twitter.com/search?q=Malatya%27da) | N/A |
+| 33 | [Kuzu](http://twitter.com/search?q=Kuzu) | N/A |
 | 34 | [Sırrı Sakık](http://twitter.com/search?q=S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
-| 35 | [Samimi](http://twitter.com/search?q=Samimi) | N/A |
-| 36 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
+| 35 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
+| 36 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
 | 37 | [Temiz](http://twitter.com/search?q=Temiz) | N/A |
-| 38 | [Nebati](http://twitter.com/search?q=Nebati) | N/A |
-| 39 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
+| 38 | [Samimi](http://twitter.com/search?q=Samimi) | N/A |
+| 39 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
 | 40 | [Vize](http://twitter.com/search?q=Vize) | N/A |
 | 41 | [#5BinKısmiVeABOuyarıyor](http://twitter.com/search?q=%235BinK%c4%b1smiVeABOuyar%c4%b1yor) | N/A |
-| 42 | [#izmir](http://twitter.com/search?q=%23izmir) | N/A |
-| 43 | [#DolarTL](http://twitter.com/search?q=%23DolarTL) | N/A |
-| 44 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 45 | [#BursanınFethi](http://twitter.com/search?q=%23Bursan%c4%b1nFethi) | N/A |
+| 42 | [#Korkmuyoruz](http://twitter.com/search?q=%23Korkmuyoruz) | N/A |
+| 43 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 44 | [#DolarTL](http://twitter.com/search?q=%23DolarTL) | N/A |
+| 45 | [#izmir](http://twitter.com/search?q=%23izmir) | N/A |
 
 
 

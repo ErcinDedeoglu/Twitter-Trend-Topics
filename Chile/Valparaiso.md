@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-06 12:18:30 UTC`
+📆 Last Updated: `2023-04-06 13:18:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,37 +15,43 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 2 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 3 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
-| 4 | [#GobiernoAsesino](http://twitter.com/search?q=%23GobiernoAsesino) | N/A |
-| 5 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
+| 1 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 2 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
+| 3 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 4 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
+| 5 | [#GobiernoAsesino](http://twitter.com/search?q=%23GobiernoAsesino) | N/A |
 | 6 | [#BoricEstaDestruyendoAChile](http://twitter.com/search?q=%23BoricEstaDestruyendoAChile) | N/A |
-| 7 | [Renuncia](http://twitter.com/search?q=Renuncia) | N/A |
-| 8 | [Delirante](http://twitter.com/search?q=Delirante) | N/A |
+| 7 | [Delirante](http://twitter.com/search?q=Delirante) | N/A |
+| 8 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
 | 9 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 10 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 11 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
-| 12 | [Cabo 1](http://twitter.com/search?q=Cabo+1) | N/A |
-| 13 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 14 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 15 | [Asesina](http://twitter.com/search?q=Asesina) | N/A |
-| 16 | [Miserables](http://twitter.com/search?q=Miserables) | N/A |
-| 17 | [Vallejos](http://twitter.com/search?q=Vallejos) | N/A |
-| 18 | [Mentirosa](http://twitter.com/search?q=Mentirosa) | N/A |
-| 19 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
-| 20 | [Asesinos](http://twitter.com/search?q=Asesinos) | N/A |
-| 21 | [Enfermo](http://twitter.com/search?q=Enfermo) | N/A |
-| 22 | [Malditos](http://twitter.com/search?q=Malditos) | N/A |
-| 23 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 24 | [Gatillo Fácil](http://twitter.com/search?q=Gatillo+F%c3%a1cil) | N/A |
-| 25 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 26 | [Santiago Centro](http://twitter.com/search?q=Santiago+Centro) | N/A |
-| 27 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 28 | [#BoricAsesino](http://twitter.com/search?q=%23BoricAsesino) | N/A |
-| 29 | [#EstadoDeExcepcion](http://twitter.com/search?q=%23EstadoDeExcepcion) | N/A |
-| 30 | [#LeyNain_Retamal](http://twitter.com/search?q=%23LeyNain_Retamal) | N/A |
-| 31 | [#BastaYa](http://twitter.com/search?q=%23BastaYa) | N/A |
+| 10 | [Cabo 1](http://twitter.com/search?q=Cabo+1) | N/A |
+| 11 | [Vallejos](http://twitter.com/search?q=Vallejos) | N/A |
+| 12 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 13 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
+| 14 | [Renuncien](http://twitter.com/search?q=Renuncien) | N/A |
+| 15 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 16 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 17 | [Buitre](http://twitter.com/search?q=Buitre) | N/A |
+| 18 | [Asesina](http://twitter.com/search?q=Asesina) | N/A |
+| 19 | [Nain Retamal](http://twitter.com/search?q=Nain+Retamal) | N/A |
+| 20 | [Mentirosa](http://twitter.com/search?q=Mentirosa) | N/A |
+| 21 | [Cínica](http://twitter.com/search?q=C%c3%adnica) | N/A |
+| 22 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
+| 23 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 24 | [Asesinos](http://twitter.com/search?q=Asesinos) | N/A |
+| 25 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
+| 26 | [Malditos](http://twitter.com/search?q=Malditos) | N/A |
+| 27 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 28 | [Váyanse](http://twitter.com/search?q=V%c3%a1yanse) | N/A |
+| 29 | [Enfermo](http://twitter.com/search?q=Enfermo) | N/A |
+| 30 | [FA y PC](http://twitter.com/search?q=FA+y+PC) | N/A |
+| 31 | [#RenunciaBoricYToha](http://twitter.com/search?q=%23RenunciaBoricYToha) | N/A |
+| 32 | [#EstadoDeExcepcion](http://twitter.com/search?q=%23EstadoDeExcepcion) | N/A |
+| 33 | [#BoricAsesino](http://twitter.com/search?q=%23BoricAsesino) | N/A |
+| 34 | [#ChileEstaDeLuto](http://twitter.com/search?q=%23ChileEstaDeLuto) | N/A |
+| 35 | [#GatilloFácil](http://twitter.com/search?q=%23GatilloF%c3%a1cil) | N/A |
+| 36 | [#BastaYa](http://twitter.com/search?q=%23BastaYa) | N/A |
+| 37 | [#FueraComunistasDeChile](http://twitter.com/search?q=%23FueraComunistasDeChile) | N/A |
 
 
 

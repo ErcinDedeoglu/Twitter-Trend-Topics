@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-04-06 12:18:30 UTC`
+📆 Last Updated: `2023-04-06 13:18:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 8 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
 | 9 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
 | 10 | [Alejandra Jaramillo](http://twitter.com/search?q=Alejandra+Jaramillo) | N/A |
-| 11 | [#CopaLibertadores](http://twitter.com/search?q=%23CopaLibertadores) | N/A |
-| 12 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 11 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 12 | [Feliz Cumpleaños](http://twitter.com/search?q=Feliz+Cumplea%c3%b1os) | N/A |
 | 13 | [Piñatares](http://twitter.com/search?q=Pi%c3%b1atares) | N/A |
 | 14 | [Danubio](http://twitter.com/search?q=Danubio) | N/A |
 | 15 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
 | 16 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 17 | [Romario](http://twitter.com/search?q=Romario) | N/A |
-| 18 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
+| 18 | [#CopaLibertadores](http://twitter.com/search?q=%23CopaLibertadores) | N/A |
 | 19 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
 | 20 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 21 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
-| 22 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 23 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 24 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 25 | [gaibor](http://twitter.com/search?q=gaibor) | N/A |
-| 26 | [Auquitas](http://twitter.com/search?q=Auquitas) | N/A |
-| 27 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 21 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 22 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
+| 23 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
+| 24 | [gaibor](http://twitter.com/search?q=gaibor) | N/A |
+| 25 | [auquitas](http://twitter.com/search?q=auquitas) | N/A |
+| 26 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 27 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 28 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 29 | [Cevallos](http://twitter.com/search?q=Cevallos) | N/A |
-| 30 | [Feliz Cumpleaños](http://twitter.com/search?q=Feliz+Cumplea%c3%b1os) | N/A |
-| 31 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 32 | [#ConmebolLibertadores](http://twitter.com/search?q=%23ConmebolLibertadores) | N/A |
-| 33 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 34 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
-| 35 | [rescalvo](http://twitter.com/search?q=rescalvo) | N/A |
-| 36 | [portocarrero](http://twitter.com/search?q=portocarrero) | N/A |
-| 37 | [carabali](http://twitter.com/search?q=carabali) | N/A |
-| 38 | [#Sudamericana](http://twitter.com/search?q=%23Sudamericana) | N/A |
-| 39 | [Tuka](http://twitter.com/search?q=Tuka) | N/A |
-| 40 | [Fabricio Correa](http://twitter.com/search?q=Fabricio+Correa) | N/A |
-| 41 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 42 | [Leguizamon](http://twitter.com/search?q=Leguizamon) | N/A |
-| 43 | [chillogallo](http://twitter.com/search?q=chillogallo) | N/A |
+| 29 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 30 | [Cevallos](http://twitter.com/search?q=Cevallos) | N/A |
+| 31 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
+| 32 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 33 | [#ConmebolLibertadores](http://twitter.com/search?q=%23ConmebolLibertadores) | N/A |
+| 34 | [rescalvo](http://twitter.com/search?q=rescalvo) | N/A |
+| 35 | [portocarrero](http://twitter.com/search?q=portocarrero) | N/A |
+| 36 | [carabali](http://twitter.com/search?q=carabali) | N/A |
+| 37 | [#Sudamericana](http://twitter.com/search?q=%23Sudamericana) | N/A |
+| 38 | [Tuka](http://twitter.com/search?q=Tuka) | N/A |
+| 39 | [Fabricio Correa](http://twitter.com/search?q=Fabricio+Correa) | N/A |
+| 40 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 41 | [Leguizamon](http://twitter.com/search?q=Leguizamon) | N/A |
+| 42 | [chillogallo](http://twitter.com/search?q=chillogallo) | N/A |
+| 43 | [Obras](http://twitter.com/search?q=Obras) | N/A |
 | 44 | [la roca](http://twitter.com/search?q=la+roca) | N/A |
 | 45 | [andreina bravo sayce 2023](http://twitter.com/search?q=andreina+bravo+sayce+2023) | N/A |
 | 46 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
 | 47 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 48 | [Obras](http://twitter.com/search?q=Obras) | N/A |
-| 49 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 50 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 48 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 49 | [Fara](http://twitter.com/search?q=Fara) | N/A |
+| 50 | [Janner](http://twitter.com/search?q=Janner) | N/A |
 
 
 
