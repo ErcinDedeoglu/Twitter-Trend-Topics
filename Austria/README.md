@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-06 06:18:30 UTC`
+📆 Last Updated: `2023-04-06 07:18:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#scrsvr](http://twitter.com/search?q=%23scrsvr) | N/A |
-| 2 | [#fcbscf](http://twitter.com/search?q=%23fcbscf) | N/A |
-| 3 | [#scr2023](http://twitter.com/search?q=%23scr2023) | N/A |
+| 1 | [#SCRSVR](http://twitter.com/search?q=%23SCRSVR) | N/A |
+| 2 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
+| 3 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
 | 4 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
-| 5 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
-| 6 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
-| 7 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 8 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 9 | [Franz](http://twitter.com/search?q=Franz) | N/A |
-| 10 | [Sujets](http://twitter.com/search?q=Sujets) | N/A |
-| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 5 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 6 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 7 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
+| 8 | [#SCR2023](http://twitter.com/search?q=%23SCR2023) | N/A |
+| 9 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
+| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 11 | [Peter](http://twitter.com/search?q=Peter) | N/A |
 | 12 | [Kunst](http://twitter.com/search?q=Kunst) | N/A |
-| 13 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
-| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 16 | [Diskussionen](http://twitter.com/search?q=Diskussionen) | N/A |
-| 17 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 18 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 19 | [Studien](http://twitter.com/search?q=Studien) | N/A |
-| 20 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
-| 21 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
-| 22 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 23 | [Stress](http://twitter.com/search?q=Stress) | N/A |
-| 24 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 25 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
-| 26 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
-| 27 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 28 | [Erkenntnis](http://twitter.com/search?q=Erkenntnis) | N/A |
-| 29 | [Italien](http://twitter.com/search?q=Italien) | N/A |
-| 30 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
-| 31 | [Zeitungen](http://twitter.com/search?q=Zeitungen) | N/A |
-| 32 | [Griff](http://twitter.com/search?q=Griff) | N/A |
-| 33 | [Argument](http://twitter.com/search?q=Argument) | N/A |
-| 34 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
-| 35 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 36 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
+| 13 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
+| 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 15 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 16 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 17 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
+| 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 19 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
+| 20 | [Diskussionen](http://twitter.com/search?q=Diskussionen) | N/A |
+| 21 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 23 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 24 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
+| 25 | [Umwelt](http://twitter.com/search?q=Umwelt) | N/A |
+| 26 | [Sujets](http://twitter.com/search?q=Sujets) | N/A |
+| 27 | [Ärztin](http://twitter.com/search?q=%c3%84rztin) | N/A |
+| 28 | [Argument](http://twitter.com/search?q=Argument) | N/A |
+| 29 | [Stress](http://twitter.com/search?q=Stress) | N/A |
+| 30 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 31 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 32 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 33 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
+| 34 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 35 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 36 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
 | 37 | [Spruch](http://twitter.com/search?q=Spruch) | N/A |
-| 38 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 39 | [Kerl](http://twitter.com/search?q=Kerl) | N/A |
-| 40 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 41 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 42 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 43 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 44 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 45 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
-| 46 | [Posten](http://twitter.com/search?q=Posten) | N/A |
-| 47 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 48 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
-| 49 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 50 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 38 | [Zeitungen](http://twitter.com/search?q=Zeitungen) | N/A |
+| 39 | [Griff](http://twitter.com/search?q=Griff) | N/A |
+| 40 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 41 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
+| 42 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 43 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 44 | [Kerl](http://twitter.com/search?q=Kerl) | N/A |
+| 45 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 46 | [Praxis](http://twitter.com/search?q=Praxis) | N/A |
+| 47 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 48 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
+| 49 | [Posten](http://twitter.com/search?q=Posten) | N/A |
+| 50 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 
 
 

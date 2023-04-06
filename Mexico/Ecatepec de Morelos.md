@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecatepec de Morelos
 
-📆 Last Updated: `2023-04-06 06:17:40 UTC`
+📆 Last Updated: `2023-04-06 07:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,42 @@ This is top 50 for [Mexico](</Mexico>)
 | 3 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 4 | [#BonoAllStar](http://twitter.com/search?q=%23BonoAllStar) | N/A |
 | 5 | [FUERA REY DE LAS GALAS](http://twitter.com/search?q=FUERA+REY+DE+LAS+GALAS) | N/A |
-| 6 | [NO QUEREMOS PERDERTE EMILIO](http://twitter.com/search?q=NO+QUEREMOS+PERDERTE+EMILIO) | N/A |
+| 6 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
 | 7 | [#BLACKPINK_THE_GAME](http://twitter.com/search?q=%23BLACKPINK_THE_GAME) | N/A |
 | 8 | [Asesinato](http://twitter.com/search?q=Asesinato) | N/A |
-| 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 10 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 11 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
-| 12 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
-| 13 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 9 | [NO QUEREMOS PERDERTE EMILIO](http://twitter.com/search?q=NO+QUEREMOS+PERDERTE+EMILIO) | N/A |
+| 10 | [#LunaRosa](http://twitter.com/search?q=%23LunaRosa) | N/A |
+| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 12 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 13 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
 | 14 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
-| 15 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 16 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 15 | [Gael](http://twitter.com/search?q=Gael) | N/A |
+| 16 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
 | 17 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
-| 18 | [Rodel](http://twitter.com/search?q=Rodel) | N/A |
-| 19 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 20 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
-| 21 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
-| 22 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 23 | [Matehuala](http://twitter.com/search?q=Matehuala) | N/A |
+| 18 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 19 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 20 | [Rodel](http://twitter.com/search?q=Rodel) | N/A |
+| 21 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 22 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 23 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
 | 24 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
 | 25 | [San Felipe](http://twitter.com/search?q=San+Felipe) | N/A |
-| 26 | [Regina](http://twitter.com/search?q=Regina) | N/A |
-| 27 | [San Luis Potosí](http://twitter.com/search?q=San+Luis+Potos%c3%ad) | N/A |
-| 28 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
-| 29 | [Loret](http://twitter.com/search?q=Loret) | N/A |
-| 30 | [Luis Quiñones](http://twitter.com/search?q=Luis+Qui%c3%b1ones) | N/A |
-| 31 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 32 | [Brozo](http://twitter.com/search?q=Brozo) | N/A |
-| 33 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 34 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 35 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 26 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 27 | [Regina](http://twitter.com/search?q=Regina) | N/A |
+| 28 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 29 | [San Luis Potosí](http://twitter.com/search?q=San+Luis+Potos%c3%ad) | N/A |
+| 30 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 31 | [Loret](http://twitter.com/search?q=Loret) | N/A |
+| 32 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
+| 33 | [Brozo](http://twitter.com/search?q=Brozo) | N/A |
+| 34 | [Madrazo](http://twitter.com/search?q=Madrazo) | N/A |
+| 35 | [Mang](http://twitter.com/search?q=Mang) | N/A |
 | 36 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
-| 37 | [Libra](http://twitter.com/search?q=Libra) | N/A |
-| 38 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 39 | [Madrazo](http://twitter.com/search?q=Madrazo) | N/A |
-| 40 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
-| 41 | [Nacionalización](http://twitter.com/search?q=Nacionalizaci%c3%b3n) | N/A |
-| 42 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 43 | [#LunaLlena](http://twitter.com/search?q=%23LunaLlena) | N/A |
-| 44 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 45 | [#IntegracionCacher](http://twitter.com/search?q=%23IntegracionCacher) | N/A |
-| 46 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 47 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 48 | [#Concachampions](http://twitter.com/search?q=%23Concachampions) | N/A |
-| 49 | [#Tigres](http://twitter.com/search?q=%23Tigres) | N/A |
+| 37 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 38 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
+| 39 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
+| 40 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 41 | [#IntegracionCacher](http://twitter.com/search?q=%23IntegracionCacher) | N/A |
 
 
 

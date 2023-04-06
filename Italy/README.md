@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-04-06 06:18:33 UTC`
+📆 Last Updated: `2023-04-06 07:18:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#6aprile](http://twitter.com/search?q=%236aprile) | N/A |
-| 2 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
-| 3 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 4 | [#backtoschool](http://twitter.com/search?q=%23backtoschool) | N/A |
-| 5 | [#provareAncora](http://twitter.com/search?q=%23provareAncora) | N/A |
-| 6 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 7 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 8 | [Giovedì Santo](http://twitter.com/search?q=Gioved%c3%ac+Santo) | N/A |
-| 9 | [Buongiorno Ale](http://twitter.com/search?q=Buongiorno+Ale) | N/A |
-| 10 | [Buongiorno Luca](http://twitter.com/search?q=Buongiorno+Luca) | N/A |
-| 11 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 12 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 13 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
-| 14 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 15 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 16 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
-| 17 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 18 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 19 | [Buongiorno Stefania](http://twitter.com/search?q=Buongiorno+Stefania) | N/A |
-| 20 | [Buongiorno Valeria](http://twitter.com/search?q=Buongiorno+Valeria) | N/A |
-| 21 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 22 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
-| 23 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
-| 24 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
-| 25 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 26 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 27 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 28 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 29 | [Buongiorno Gerardina](http://twitter.com/search?q=Buongiorno+Gerardina) | N/A |
-| 30 | [Buongiorno Liliana](http://twitter.com/search?q=Buongiorno+Liliana) | N/A |
-| 31 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 32 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 33 | [Suma](http://twitter.com/search?q=Suma) | N/A |
-| 34 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 35 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 36 | [giulia salemi](http://twitter.com/search?q=giulia+salemi) | N/A |
-| 37 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 38 | [Perin](http://twitter.com/search?q=Perin) | N/A |
-| 39 | [Gennaro](http://twitter.com/search?q=Gennaro) | N/A |
-| 40 | [FORZA PRESIDENTE](http://twitter.com/search?q=FORZA+PRESIDENTE) | N/A |
-| 41 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 42 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 43 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 44 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
-| 45 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 46 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 47 | [Veltroni](http://twitter.com/search?q=Veltroni) | N/A |
-| 48 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
-| 49 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
-| 50 | [Vito](http://twitter.com/search?q=Vito) | N/A |
+| 1 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
+| 2 | [#6aprile](http://twitter.com/search?q=%236aprile) | N/A |
+| 3 | [#backtoschool](http://twitter.com/search?q=%23backtoschool) | N/A |
+| 4 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 5 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 6 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 7 | [#SilvioBerlusconi](http://twitter.com/search?q=%23SilvioBerlusconi) | N/A |
+| 8 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 9 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
+| 10 | [Buongiorno Marco](http://twitter.com/search?q=Buongiorno+Marco) | N/A |
+| 11 | [Giovedì Santo](http://twitter.com/search?q=Gioved%c3%ac+Santo) | N/A |
+| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 13 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 14 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 15 | [Buongiorno Vito](http://twitter.com/search?q=Buongiorno+Vito) | N/A |
+| 16 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
+| 17 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 18 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 19 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
+| 20 | [Buongiorno Angelo](http://twitter.com/search?q=Buongiorno+Angelo) | N/A |
+| 21 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 22 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 23 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
+| 24 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 25 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
+| 26 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 27 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 28 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
+| 29 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
+| 30 | [Buongiorno Stefania](http://twitter.com/search?q=Buongiorno+Stefania) | N/A |
+| 31 | [Suma](http://twitter.com/search?q=Suma) | N/A |
+| 32 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 33 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 34 | [Buongiorno Liliana](http://twitter.com/search?q=Buongiorno+Liliana) | N/A |
+| 35 | [Buongiorno Roberto](http://twitter.com/search?q=Buongiorno+Roberto) | N/A |
+| 36 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
+| 37 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 38 | [Forza Presidente](http://twitter.com/search?q=Forza+Presidente) | N/A |
+| 39 | [Buongiorno Antonella](http://twitter.com/search?q=Buongiorno+Antonella) | N/A |
+| 40 | [Perin](http://twitter.com/search?q=Perin) | N/A |
+| 41 | [Gennaro](http://twitter.com/search?q=Gennaro) | N/A |
+| 42 | [Buongiorno Gerardina](http://twitter.com/search?q=Buongiorno+Gerardina) | N/A |
+| 43 | [Cacciari](http://twitter.com/search?q=Cacciari) | N/A |
+| 44 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 45 | [Veltroni](http://twitter.com/search?q=Veltroni) | N/A |
+| 46 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 47 | [L'Unità](http://twitter.com/search?q=L%27Unit%c3%a0) | N/A |
+| 48 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 49 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
+| 50 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
 
 
 

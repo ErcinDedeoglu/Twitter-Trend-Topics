@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-04-06 06:17:42 UTC`
+📆 Last Updated: `2023-04-06 07:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Chile](</Chile>)
 | ------- | ------------ | ------------ |
 | 1 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
 | 2 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 3 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 4 | [Carabinero](http://twitter.com/search?q=Carabinero) | N/A |
-| 5 | [#RenunciaToha](http://twitter.com/search?q=%23RenunciaToha) | N/A |
-| 6 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
-| 7 | [#EstadoDeExcepcion](http://twitter.com/search?q=%23EstadoDeExcepcion) | N/A |
-| 8 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 9 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
+| 3 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
+| 4 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
+| 5 | [Carabinero](http://twitter.com/search?q=Carabinero) | N/A |
+| 6 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 7 | [#RenunciaToha](http://twitter.com/search?q=%23RenunciaToha) | N/A |
+| 8 | [#BastaYa](http://twitter.com/search?q=%23BastaYa) | N/A |
+| 9 | [#EstadoDeExcepcion](http://twitter.com/search?q=%23EstadoDeExcepcion) | N/A |
 | 10 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 11 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 12 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 13 | [#LibertadoresxCHV](http://twitter.com/search?q=%23LibertadoresxCHV) | N/A |
-| 14 | [#LeyNainRetamal](http://twitter.com/search?q=%23LeyNainRetamal) | N/A |
-| 15 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 16 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 17 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 18 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 19 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 20 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
+| 11 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
+| 12 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 13 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 14 | [#GatilloFacil](http://twitter.com/search?q=%23GatilloFacil) | N/A |
+| 15 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 16 | [Cabo 1](http://twitter.com/search?q=Cabo+1) | N/A |
+| 17 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 18 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 19 | [Q.E.P.D](http://twitter.com/search?q=Q.E.P.D) | N/A |
+| 20 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
 | 21 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
-| 22 | [Yañez](http://twitter.com/search?q=Ya%c3%b1ez) | N/A |
-| 23 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 24 | [Posta Central](http://twitter.com/search?q=Posta+Central) | N/A |
-| 25 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 26 | [Asesinos](http://twitter.com/search?q=Asesinos) | N/A |
-| 27 | [PC y FA](http://twitter.com/search?q=PC+y+FA) | N/A |
-| 28 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
-| 29 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 30 | [Falleció](http://twitter.com/search?q=Falleci%c3%b3) | N/A |
-| 31 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 32 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
-| 33 | [Militares](http://twitter.com/search?q=Militares) | N/A |
-| 34 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 35 | [Enfermo](http://twitter.com/search?q=Enfermo) | N/A |
-| 36 | [Cínica](http://twitter.com/search?q=C%c3%adnica) | N/A |
-| 37 | [Leo Gil](http://twitter.com/search?q=Leo+Gil) | N/A |
-| 38 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 39 | [Santiago Centro](http://twitter.com/search?q=Santiago+Centro) | N/A |
-| 40 | [Comunistas](http://twitter.com/search?q=Comunistas) | N/A |
+| 22 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 23 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
+| 24 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 25 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 26 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
+| 27 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 28 | [Posta Central](http://twitter.com/search?q=Posta+Central) | N/A |
+| 29 | [Falleció](http://twitter.com/search?q=Falleci%c3%b3) | N/A |
+| 30 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
+| 31 | [Asesinos](http://twitter.com/search?q=Asesinos) | N/A |
+| 32 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 33 | [PC y FA](http://twitter.com/search?q=PC+y+FA) | N/A |
+| 34 | [Santiago Centro](http://twitter.com/search?q=Santiago+Centro) | N/A |
+| 35 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
+| 36 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 37 | [Cínica](http://twitter.com/search?q=C%c3%adnica) | N/A |
+| 38 | [Enfermo](http://twitter.com/search?q=Enfermo) | N/A |
+| 39 | [Militares](http://twitter.com/search?q=Militares) | N/A |
+| 40 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
 | 41 | [Malditos](http://twitter.com/search?q=Malditos) | N/A |
-| 42 | [La Pintana](http://twitter.com/search?q=La+Pintana) | N/A |
-| 43 | [Mentirosos](http://twitter.com/search?q=Mentirosos) | N/A |
-| 44 | [Váyanse](http://twitter.com/search?q=V%c3%a1yanse) | N/A |
-| 45 | [Buitre](http://twitter.com/search?q=Buitre) | N/A |
-| 46 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 47 | [Estado de Sitio](http://twitter.com/search?q=Estado+de+Sitio) | N/A |
-| 48 | [Región Metropolitana](http://twitter.com/search?q=Regi%c3%b3n+Metropolitana) | N/A |
-| 49 | [Cierra](http://twitter.com/search?q=Cierra) | N/A |
-| 50 | [Vicho](http://twitter.com/search?q=Vicho) | N/A |
+| 42 | [Comunistas](http://twitter.com/search?q=Comunistas) | N/A |
+| 43 | [Audi](http://twitter.com/search?q=Audi) | N/A |
+| 44 | [Cierra](http://twitter.com/search?q=Cierra) | N/A |
+| 45 | [La Pintana](http://twitter.com/search?q=La+Pintana) | N/A |
+| 46 | [Mentirosos](http://twitter.com/search?q=Mentirosos) | N/A |
+| 47 | [Región Metropolitana](http://twitter.com/search?q=Regi%c3%b3n+Metropolitana) | N/A |
+| 48 | [Acaban](http://twitter.com/search?q=Acaban) | N/A |
+| 49 | [Asesina](http://twitter.com/search?q=Asesina) | N/A |
+| 50 | [Frente Amplio](http://twitter.com/search?q=Frente+Amplio) | N/A |
 
 
 

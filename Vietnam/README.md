@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-04-06 06:18:38 UTC`
+📆 Last Updated: `2023-04-06 07:18:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Vietnam
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#แลกฟอลเทรนด์อิงล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
-| 2 | [#แลกฟอลforเทรนด์อิงฟ้า](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5for%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2) | N/A |
-| 3 | [#แลกฟอลเทรนให้ชาล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
-| 4 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 5 | [#Summerนี้มีD7xBible](http://twitter.com/search?q=%23Summer%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%a1%e0%b8%b5D7xBible) | N/A |
-| 6 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 1 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 2 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 3 | [#แลกฟอลเทรนด์อิงล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
+| 4 | [#แลกฟอลเทรนให้ชาล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
+| 5 | [#แลกฟอลforเทรนด์อิงฟ้า](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5for%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2) | N/A |
+| 6 | [$USDC](http://twitter.com/search?q=%24USDC) | N/A |
 | 7 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 8 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
-| 9 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
-| 10 | [Grim Reaper](http://twitter.com/search?q=Grim+Reaper) | N/A |
-| 11 | [Rose Skull](http://twitter.com/search?q=Rose+Skull) | N/A |
-| 12 | [Flaming Skull](http://twitter.com/search?q=Flaming+Skull) | N/A |
-| 13 | [Tool](http://twitter.com/search?q=Tool) | N/A |
-| 14 | [Cushion Cover](http://twitter.com/search?q=Cushion+Cover) | N/A |
-| 15 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
-| 16 | [Cinco de Mayo Skull](http://twitter.com/search?q=Cinco+de+Mayo+Skull) | N/A |
-| 17 | [Motorcycle Skull](http://twitter.com/search?q=Motorcycle+Skull) | N/A |
-| 18 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
-| 19 | [Punisher Skull](http://twitter.com/search?q=Punisher+Skull) | N/A |
-| 20 | [Flame Skull](http://twitter.com/search?q=Flame+Skull) | N/A |
-| 21 | [Gothic Skull](http://twitter.com/search?q=Gothic+Skull) | N/A |
-| 22 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 23 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 24 | [Hong](http://twitter.com/search?q=Hong) | N/A |
-| 25 | [Happy Easter 2023](http://twitter.com/search?q=Happy+Easter+2023) | N/A |
-| 26 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
-| 27 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
-| 28 | [Flower Skull](http://twitter.com/search?q=Flower+Skull) | N/A |
-| 29 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 30 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 31 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 32 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 33 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 34 | [Calaveras Skull](http://twitter.com/search?q=Calaveras+Skull) | N/A |
-| 35 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 36 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
-| 37 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 38 | [Biết](http://twitter.com/search?q=Bi%e1%ba%bft) | N/A |
-| 39 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 40 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 41 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
-| 42 | [Ngày](http://twitter.com/search?q=Ng%c3%a0y) | N/A |
-| 43 | [TTTT](http://twitter.com/search?q=TTTT) | N/A |
-| 44 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 45 | [Hyuk](http://twitter.com/search?q=Hyuk) | N/A |
-| 46 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 47 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 48 | [ho chi minh city](http://twitter.com/search?q=ho+chi+minh+city) | N/A |
-| 49 | [Người](http://twitter.com/search?q=Ng%c6%b0%e1%bb%9di) | N/A |
-| 50 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 8 | [FLOWER FIRST WIN](http://twitter.com/search?q=FLOWER+FIRST+WIN) | N/A |
+| 9 | [babiu](http://twitter.com/search?q=babiu) | N/A |
+| 10 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 11 | [phượng](http://twitter.com/search?q=ph%c6%b0%e1%bb%a3ng) | N/A |
+| 12 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
+| 13 | [P'Jak](http://twitter.com/search?q=P%27Jak) | N/A |
+| 14 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
+| 15 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
+| 16 | [Tool](http://twitter.com/search?q=Tool) | N/A |
+| 17 | [Rose Skull](http://twitter.com/search?q=Rose+Skull) | N/A |
+| 18 | [Grim Reaper](http://twitter.com/search?q=Grim+Reaper) | N/A |
+| 19 | [Series B](http://twitter.com/search?q=Series+B) | N/A |
+| 20 | [Cushion Cover](http://twitter.com/search?q=Cushion+Cover) | N/A |
+| 21 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
+| 22 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 23 | [Gothic Skull](http://twitter.com/search?q=Gothic+Skull) | N/A |
+| 24 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
+| 25 | [Starknet](http://twitter.com/search?q=Starknet) | N/A |
+| 26 | [Sell](http://twitter.com/search?q=Sell) | N/A |
+| 27 | [Flaming Skull](http://twitter.com/search?q=Flaming+Skull) | N/A |
+| 28 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 29 | [Cinco de Mayo Skull](http://twitter.com/search?q=Cinco+de+Mayo+Skull) | N/A |
+| 30 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
+| 31 | [Christmas Skull](http://twitter.com/search?q=Christmas+Skull) | N/A |
+| 32 | [Punisher Skull](http://twitter.com/search?q=Punisher+Skull) | N/A |
+| 33 | [Motorcycle Skull](http://twitter.com/search?q=Motorcycle+Skull) | N/A |
+| 34 | [Flame Skull](http://twitter.com/search?q=Flame+Skull) | N/A |
+| 35 | [Flower Skull](http://twitter.com/search?q=Flower+Skull) | N/A |
+| 36 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
+| 37 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
+| 38 | [death skull](http://twitter.com/search?q=death+skull) | N/A |
+| 39 | [buồn](http://twitter.com/search?q=bu%e1%bb%93n) | N/A |
+| 40 | [ZkSync](http://twitter.com/search?q=ZkSync) | N/A |
+| 41 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
+| 42 | [Candy Skull](http://twitter.com/search?q=Candy+Skull) | N/A |
+| 43 | [Mexican Skull](http://twitter.com/search?q=Mexican+Skull) | N/A |
+| 44 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 45 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
+| 46 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
+| 47 | [Happy Easter 2023](http://twitter.com/search?q=Happy+Easter+2023) | N/A |
+| 48 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 49 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 50 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
 
 
 
