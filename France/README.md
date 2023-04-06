@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-04-06 18:17:43 UTC`
+📆 Last Updated: `2023-04-06 19:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,48 @@ This is top 50 for France
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#XFF23](http://twitter.com/search?q=%23XFF23) | N/A |
-| 2 | [#manif6avril](http://twitter.com/search?q=%23manif6avril) | N/A |
-| 3 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
-| 4 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
-| 5 | [Rotonde](http://twitter.com/search?q=Rotonde) | N/A |
+| 2 | [#FCATFC](http://twitter.com/search?q=%23FCATFC) | N/A |
+| 3 | [#manif6avril](http://twitter.com/search?q=%23manif6avril) | N/A |
+| 4 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
+| 5 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
 | 6 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 7 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 8 | [#MacronVaCraquer](http://twitter.com/search?q=%23MacronVaCraquer) | N/A |
-| 9 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
-| 10 | [EA Sports FC](http://twitter.com/search?q=EA+Sports+FC) | N/A |
-| 11 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
-| 12 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
-| 13 | [Landa](http://twitter.com/search?q=Landa) | N/A |
-| 14 | [Binet](http://twitter.com/search?q=Binet) | N/A |
-| 15 | [Bolloré](http://twitter.com/search?q=Bollor%c3%a9) | N/A |
-| 16 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
-| 17 | [Grand Paris Express](http://twitter.com/search?q=Grand+Paris+Express) | N/A |
-| 18 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 19 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 20 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
-| 21 | [Johnny Depp](http://twitter.com/search?q=Johnny+Depp) | N/A |
-| 22 | [Roubaix](http://twitter.com/search?q=Roubaix) | N/A |
-| 23 | [France Inter](http://twitter.com/search?q=France+Inter) | N/A |
-| 24 | [Montparnasse](http://twitter.com/search?q=Montparnasse) | N/A |
-| 25 | [CFDT](http://twitter.com/search?q=CFDT) | N/A |
-| 26 | [Shizzle](http://twitter.com/search?q=Shizzle) | N/A |
-| 27 | [Liban](http://twitter.com/search?q=Liban) | N/A |
-| 28 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 29 | [Pékin](http://twitter.com/search?q=P%c3%a9kin) | N/A |
-| 30 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 31 | [Antilles](http://twitter.com/search?q=Antilles) | N/A |
-| 32 | [Invalides](http://twitter.com/search?q=Invalides) | N/A |
-| 33 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 34 | [Bilal](http://twitter.com/search?q=Bilal) | N/A |
-| 35 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
-| 36 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
-| 37 | [#Toulouse](http://twitter.com/search?q=%23Toulouse) | N/A |
-| 38 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
-| 39 | [#ViolencesPoliceres](http://twitter.com/search?q=%23ViolencesPoliceres) | N/A |
-| 40 | [#64ansCestToujoursNon](http://twitter.com/search?q=%2364ansCestToujoursNon) | N/A |
-| 41 | [#FCATFC](http://twitter.com/search?q=%23FCATFC) | N/A |
-| 42 | [#Strasbourg](http://twitter.com/search?q=%23Strasbourg) | N/A |
-| 43 | [#64ansCestNON](http://twitter.com/search?q=%2364ansCestNON) | N/A |
-| 44 | [#jeudiphoto](http://twitter.com/search?q=%23jeudiphoto) | N/A |
-| 45 | [#industrie](http://twitter.com/search?q=%23industrie) | N/A |
-| 46 | [#Brest](http://twitter.com/search?q=%23Brest) | N/A |
-| 47 | [#FIC2023](http://twitter.com/search?q=%23FIC2023) | N/A |
-| 48 | [#entreprises](http://twitter.com/search?q=%23entreprises) | N/A |
-| 49 | [#Tourisme](http://twitter.com/search?q=%23Tourisme) | N/A |
-| 50 | [#JusquauRetrait](http://twitter.com/search?q=%23JusquauRetrait) | N/A |
+| 7 | [#MacronVaCraquer](http://twitter.com/search?q=%23MacronVaCraquer) | N/A |
+| 8 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
+| 9 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 10 | [Rotonde](http://twitter.com/search?q=Rotonde) | N/A |
+| 11 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
+| 12 | [EA Sports FC](http://twitter.com/search?q=EA+Sports+FC) | N/A |
+| 13 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
+| 14 | [Cindy](http://twitter.com/search?q=Cindy) | N/A |
+| 15 | [Fabrice](http://twitter.com/search?q=Fabrice) | N/A |
+| 16 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 17 | [Romane](http://twitter.com/search?q=Romane) | N/A |
+| 18 | [Johnny Depp](http://twitter.com/search?q=Johnny+Depp) | N/A |
+| 19 | [Binet](http://twitter.com/search?q=Binet) | N/A |
+| 20 | [Bolloré](http://twitter.com/search?q=Bollor%c3%a9) | N/A |
+| 21 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
+| 22 | [Hezbollah](http://twitter.com/search?q=Hezbollah) | N/A |
+| 23 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 24 | [Nespresso](http://twitter.com/search?q=Nespresso) | N/A |
+| 25 | [Papou](http://twitter.com/search?q=Papou) | N/A |
+| 26 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
+| 27 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 28 | [Roubaix](http://twitter.com/search?q=Roubaix) | N/A |
+| 29 | [Shizzle](http://twitter.com/search?q=Shizzle) | N/A |
+| 30 | [Liban](http://twitter.com/search?q=Liban) | N/A |
+| 31 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 32 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
+| 33 | [Montparnasse](http://twitter.com/search?q=Montparnasse) | N/A |
+| 34 | [France Inter](http://twitter.com/search?q=France+Inter) | N/A |
+| 35 | [Antilles](http://twitter.com/search?q=Antilles) | N/A |
+| 36 | [Berger](http://twitter.com/search?q=Berger) | N/A |
+| 37 | [#LAA6](http://twitter.com/search?q=%23LAA6) | N/A |
+| 38 | [#hdpros2](http://twitter.com/search?q=%23hdpros2) | N/A |
+| 39 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
+| 40 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
+| 41 | [#Toulouse](http://twitter.com/search?q=%23Toulouse) | N/A |
+| 42 | [#64ansCestToujoursNon](http://twitter.com/search?q=%2364ansCestToujoursNon) | N/A |
+| 43 | [#Strasbourg](http://twitter.com/search?q=%23Strasbourg) | N/A |
 
 
 

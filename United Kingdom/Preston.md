@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-04-06 18:16:58 UTC`
+📆 Last Updated: `2023-04-06 19:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Finalissima](http://twitter.com/search?q=%23Finalissima) | N/A |
-| 2 | [#PresentersInMoviesOrSongs](http://twitter.com/search?q=%23PresentersInMoviesOrSongs) | N/A |
-| 3 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
-| 4 | [Jack Harrison](http://twitter.com/search?q=Jack+Harrison) | N/A |
-| 5 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 6 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
-| 7 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
-| 8 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
-| 9 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 10 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 11 | [Michelle Mone](http://twitter.com/search?q=Michelle+Mone) | N/A |
-| 12 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 13 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 14 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 15 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 16 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 17 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 18 | [Clapham Junction](http://twitter.com/search?q=Clapham+Junction) | N/A |
-| 19 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 20 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
-| 21 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 22 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 23 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 24 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 1 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 2 | [Joanne](http://twitter.com/search?q=Joanne) | N/A |
+| 3 | [#HAF2023](http://twitter.com/search?q=%23HAF2023) | N/A |
+| 4 | [#Finalissima](http://twitter.com/search?q=%23Finalissima) | N/A |
+| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 6 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 7 | [Nora](http://twitter.com/search?q=Nora) | N/A |
+| 8 | [#ENGBRA](http://twitter.com/search?q=%23ENGBRA) | N/A |
+| 9 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
+| 10 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 11 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 12 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 13 | [John Lydon](http://twitter.com/search?q=John+Lydon) | N/A |
+| 14 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 15 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 16 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 17 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 18 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
+| 19 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 20 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
+| 21 | [Clapham Junction](http://twitter.com/search?q=Clapham+Junction) | N/A |
+| 22 | [Savile](http://twitter.com/search?q=Savile) | N/A |
+| 23 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 24 | [Jack Harrison](http://twitter.com/search?q=Jack+Harrison) | N/A |
 | 25 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
 | 26 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 27 | [Chrism Mass](http://twitter.com/search?q=Chrism+Mass) | N/A |
-| 28 | [Super Frank](http://twitter.com/search?q=Super+Frank) | N/A |
-| 29 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 30 | [Daniel Radcliffe](http://twitter.com/search?q=Daniel+Radcliffe) | N/A |
-| 31 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 32 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
-| 33 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 34 | [Windrush](http://twitter.com/search?q=Windrush) | N/A |
-| 35 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
-| 36 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 37 | [Joanne](http://twitter.com/search?q=Joanne) | N/A |
-| 38 | [Steve Bruce](http://twitter.com/search?q=Steve+Bruce) | N/A |
+| 27 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 28 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 29 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 30 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 31 | [Uncle Peter](http://twitter.com/search?q=Uncle+Peter) | N/A |
+| 32 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 33 | [Daniel Radcliffe](http://twitter.com/search?q=Daniel+Radcliffe) | N/A |
+| 34 | [Chrism Mass](http://twitter.com/search?q=Chrism+Mass) | N/A |
+| 35 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 36 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
+| 37 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 38 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
 | 39 | [Woof](http://twitter.com/search?q=Woof) | N/A |
-| 40 | [Hampshire](http://twitter.com/search?q=Hampshire) | N/A |
-| 41 | [Greggs](http://twitter.com/search?q=Greggs) | N/A |
-| 42 | [Surrey](http://twitter.com/search?q=Surrey) | N/A |
-| 43 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
-| 44 | [Savile](http://twitter.com/search?q=Savile) | N/A |
-| 45 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
-| 46 | [Royal Family](http://twitter.com/search?q=Royal+Family) | N/A |
-| 47 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
-| 48 | [Green Man](http://twitter.com/search?q=Green+Man) | N/A |
-| 49 | [Fred West](http://twitter.com/search?q=Fred+West) | N/A |
-| 50 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 40 | [23rd April](http://twitter.com/search?q=23rd+April) | N/A |
+| 41 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 42 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 43 | [#PremierLeagueDarts](http://twitter.com/search?q=%23PremierLeagueDarts) | N/A |
+| 44 | [#SLCasWak](http://twitter.com/search?q=%23SLCasWak) | N/A |
+| 45 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 46 | [#EASportsFC](http://twitter.com/search?q=%23EASportsFC) | N/A |
+| 47 | [#MoodPitch](http://twitter.com/search?q=%23MoodPitch) | N/A |
+| 48 | [#MAFSAUS](http://twitter.com/search?q=%23MAFSAUS) | N/A |
+| 49 | [#KKRvRCB](http://twitter.com/search?q=%23KKRvRCB) | N/A |
 
 
 

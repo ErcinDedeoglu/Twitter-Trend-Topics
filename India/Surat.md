@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-04-06 18:17:30 UTC`
+📆 Last Updated: `2023-04-06 19:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Vi20FANFest](http://twitter.com/search?q=%23Vi20FANFest) | N/A |
+| 1 | [#IPL23](http://twitter.com/search?q=%23IPL23) | N/A |
 | 2 | [#KKRvRCB](http://twitter.com/search?q=%23KKRvRCB) | N/A |
-| 3 | [Lord Shardul](http://twitter.com/search?q=Lord+Shardul) | Lord Shardul is a Hindu deity associated with strength and courage. He is the son of Shiva and Parvati, and is often depicted as a lion or tiger. The name Shardul translates to "tiger" in English. |
-| 4 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
-| 5 | [#MazaarJihad](http://twitter.com/search?q=%23MazaarJihad) | N/A |
-| 6 | [Harshal](http://twitter.com/search?q=Harshal) | N/A |
-| 7 | [Narine](http://twitter.com/search?q=Narine) | N/A |
-| 8 | [Varun](http://twitter.com/search?q=Varun) | N/A |
-| 9 | [BJP Against OBC](http://twitter.com/search?q=BJP+Against+OBC) | N/A |
-| 10 | [Suyash Sharma](http://twitter.com/search?q=Suyash+Sharma) | N/A |
-| 11 | [Wriddhiman S](http://twitter.com/search?q=Wriddhiman+S) | N/A |
-| 12 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 13 | [Haarcb](http://twitter.com/search?q=Haarcb) | N/A |
-| 14 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
-| 15 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
-| 16 | [Eden Gardens](http://twitter.com/search?q=Eden+Gardens) | N/A |
-| 17 | [Rinku](http://twitter.com/search?q=Rinku) | N/A |
-| 18 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 19 | [Willey](http://twitter.com/search?q=Willey) | N/A |
-| 20 | [Neeraj Chopra](http://twitter.com/search?q=Neeraj+Chopra) | N/A |
-| 21 | [Southee](http://twitter.com/search?q=Southee) | N/A |
-| 22 | [Just RCB](http://twitter.com/search?q=Just+RCB) | N/A |
-| 23 | [Mandeep Singh](http://twitter.com/search?q=Mandeep+Singh) | N/A |
-| 24 | [Karn Sharma](http://twitter.com/search?q=Karn+Sharma) | N/A |
-| 25 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
-| 26 | [Mentor](http://twitter.com/search?q=Mentor) | N/A |
-| 27 | [Umesh](http://twitter.com/search?q=Umesh) | N/A |
-| 28 | [Reece Topley](http://twitter.com/search?q=Reece+Topley) | N/A |
-| 29 | [Nitish Rana](http://twitter.com/search?q=Nitish+Rana) | N/A |
-| 30 | [Akash Deep](http://twitter.com/search?q=Akash+Deep) | N/A |
-| 31 | [Riley Meredith](http://twitter.com/search?q=Riley+Meredith) | N/A |
-| 32 | [King Khan](http://twitter.com/search?q=King+Khan) | N/A |
-| 33 | [RCB RCB](http://twitter.com/search?q=RCB+RCB) | N/A |
-| 34 | [Sudeep](http://twitter.com/search?q=Sudeep) | N/A |
-| 35 | [Venkatesh Iyer](http://twitter.com/search?q=Venkatesh+Iyer) | N/A |
-| 36 | [Anil](http://twitter.com/search?q=Anil) | N/A |
-| 37 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 38 | [RAGE OF RAVANASURA](http://twitter.com/search?q=RAGE+OF+RAVANASURA) | N/A |
-| 39 | [Venky](http://twitter.com/search?q=Venky) | N/A |
-| 40 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
-| 41 | [Prakash](http://twitter.com/search?q=Prakash) | N/A |
-| 42 | [#IPL23](http://twitter.com/search?q=%23IPL23) | N/A |
-| 43 | [#IplInBhojpuri](http://twitter.com/search?q=%23IplInBhojpuri) | N/A |
-| 44 | [#AmiKKR](http://twitter.com/search?q=%23AmiKKR) | N/A |
-| 45 | [#1947August16FromTomorrow](http://twitter.com/search?q=%231947August16FromTomorrow) | N/A |
-| 46 | [#ForeignFundingExposed](http://twitter.com/search?q=%23ForeignFundingExposed) | N/A |
-| 47 | [#KolkataKnightRiders](http://twitter.com/search?q=%23KolkataKnightRiders) | N/A |
-| 48 | [#Chokli](http://twitter.com/search?q=%23Chokli) | N/A |
+| 3 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
+| 4 | [#ShardulThakur](http://twitter.com/search?q=%23ShardulThakur) | N/A |
+| 5 | [Chinnaswamy Stadium](http://twitter.com/search?q=Chinnaswamy+Stadium) | N/A |
+| 6 | [Suyash Sharma](http://twitter.com/search?q=Suyash+Sharma) | N/A |
+| 7 | [Wriddhiman S](http://twitter.com/search?q=Wriddhiman+S) | N/A |
+| 8 | [Harshal](http://twitter.com/search?q=Harshal) | N/A |
+| 9 | [Varun](http://twitter.com/search?q=Varun) | N/A |
+| 10 | [Haarcb](http://twitter.com/search?q=Haarcb) | N/A |
+| 11 | [Narine](http://twitter.com/search?q=Narine) | N/A |
+| 12 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
+| 13 | [Eden](http://twitter.com/search?q=Eden) | N/A |
+| 14 | [Just RCB](http://twitter.com/search?q=Just+RCB) | N/A |
+| 15 | [BJP Against OBC](http://twitter.com/search?q=BJP+Against+OBC) | N/A |
+| 16 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 17 | [Anuj Rawat](http://twitter.com/search?q=Anuj+Rawat) | N/A |
+| 18 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
+| 19 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
+| 20 | [Amit M](http://twitter.com/search?q=Amit+M) | N/A |
+| 21 | [Rinku Singh](http://twitter.com/search?q=Rinku+Singh) | N/A |
+| 22 | [Willey](http://twitter.com/search?q=Willey) | N/A |
+| 23 | [Neeraj Chopra](http://twitter.com/search?q=Neeraj+Chopra) | N/A |
+| 24 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 25 | [RCB RCB](http://twitter.com/search?q=RCB+RCB) | N/A |
+| 26 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
+| 27 | [Lomror](http://twitter.com/search?q=Lomror) | N/A |
+| 28 | [RCBians](http://twitter.com/search?q=RCBians) | N/A |
+| 29 | [Mentor](http://twitter.com/search?q=Mentor) | N/A |
+| 30 | [Sterlite Copper](http://twitter.com/search?q=Sterlite+Copper) | N/A |
+| 31 | [Southee](http://twitter.com/search?q=Southee) | N/A |
+| 32 | [Only RCB](http://twitter.com/search?q=Only+RCB) | N/A |
+| 33 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
+| 34 | [Dinesh Karthik](http://twitter.com/search?q=Dinesh+Karthik) | N/A |
+| 35 | [Karn Sharma](http://twitter.com/search?q=Karn+Sharma) | N/A |
+| 36 | [World Health Day](http://twitter.com/search?q=World+Health+Day) | N/A |
+| 37 | [Nitish Rana](http://twitter.com/search?q=Nitish+Rana) | N/A |
+| 38 | [Umesh](http://twitter.com/search?q=Umesh) | N/A |
+| 39 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 40 | [Akash Deep](http://twitter.com/search?q=Akash+Deep) | N/A |
+| 41 | [Anil](http://twitter.com/search?q=Anil) | N/A |
+| 42 | [Mandeep](http://twitter.com/search?q=Mandeep) | N/A |
+| 43 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 44 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 45 | [Reece Topley](http://twitter.com/search?q=Reece+Topley) | N/A |
+| 46 | [AK Antony](http://twitter.com/search?q=AK+Antony) | N/A |
+| 47 | [Prakash](http://twitter.com/search?q=Prakash) | N/A |
+| 48 | [Sudeep](http://twitter.com/search?q=Sudeep) | N/A |
 
 
 

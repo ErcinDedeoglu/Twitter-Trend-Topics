@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-04-06 18:17:01 UTC`
+📆 Last Updated: `2023-04-06 19:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 3 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 4 | [#JuevesSanto](http://twitter.com/search?q=%23JuevesSanto) | N/A |
-| 5 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 6 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 7 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 8 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 9 | [Desarrollo y la Paz](http://twitter.com/search?q=Desarrollo+y+la+Paz) | N/A |
-| 10 | [#SemanaSanta](http://twitter.com/search?q=%23SemanaSanta) | N/A |
-| 11 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
+| 5 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 6 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 7 | [#SemanaSanta](http://twitter.com/search?q=%23SemanaSanta) | N/A |
+| 8 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
+| 9 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 10 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 11 | [5sos](http://twitter.com/search?q=5sos) | N/A |
 | 12 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 13 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 14 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 15 | [#bonoallstar](http://twitter.com/search?q=%23bonoallstar) | N/A |
-| 16 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 17 | [Y MÉXICO](http://twitter.com/search?q=Y+M%c3%89XICO) | N/A |
-| 18 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 19 | [#SUGAxNBA](http://twitter.com/search?q=%23SUGAxNBA) | N/A |
-| 20 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 21 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 22 | [Día Internacional del Deporte](http://twitter.com/search?q=D%c3%ada+Internacional+del+Deporte) | N/A |
+| 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 14 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 15 | [#BonoAllStar](http://twitter.com/search?q=%23BonoAllStar) | N/A |
+| 16 | [Desarrollo y la Paz](http://twitter.com/search?q=Desarrollo+y+la+Paz) | N/A |
+| 17 | [Día Internacional del Deporte](http://twitter.com/search?q=D%c3%ada+Internacional+del+Deporte) | N/A |
+| 18 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 19 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 20 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 21 | [Leonarda](http://twitter.com/search?q=Leonarda) | N/A |
+| 22 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 23 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 24 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 25 | [Circuito Exterior Mexiquense](http://twitter.com/search?q=Circuito+Exterior+Mexiquense) | N/A |
-| 26 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 27 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
-| 28 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
-| 29 | [no queremos perderte emilio](http://twitter.com/search?q=no+queremos+perderte+emilio) | N/A |
-| 30 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 31 | [Leonarda](http://twitter.com/search?q=Leonarda) | N/A |
-| 32 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 33 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 34 | [Asesinato](http://twitter.com/search?q=Asesinato) | N/A |
-| 35 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
-| 36 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 37 | [Leonora Carrington](http://twitter.com/search?q=Leonora+Carrington) | N/A |
-| 38 | [RUMORES IS COMING](http://twitter.com/search?q=RUMORES+IS+COMING) | N/A |
-| 39 | [EA Sports FC](http://twitter.com/search?q=EA+Sports+FC) | N/A |
+| 24 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
+| 25 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 26 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 27 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 28 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 29 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
+| 30 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 31 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
+| 32 | [Matehuala](http://twitter.com/search?q=Matehuala) | N/A |
+| 33 | [RUMORES IS COMING](http://twitter.com/search?q=RUMORES+IS+COMING) | N/A |
+| 34 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
+| 35 | [EA Sports FC](http://twitter.com/search?q=EA+Sports+FC) | N/A |
+| 36 | [Alejandra](http://twitter.com/search?q=Alejandra) | N/A |
+| 37 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 38 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 39 | [Leonora Carrington](http://twitter.com/search?q=Leonora+Carrington) | N/A |
 | 40 | [Nacionalización](http://twitter.com/search?q=Nacionalizaci%c3%b3n) | N/A |
-| 41 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 42 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
-| 43 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 44 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 45 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 46 | [Eucaristía](http://twitter.com/search?q=Eucarist%c3%ada) | N/A |
-| 47 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 48 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 49 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 41 | [Eucaristía](http://twitter.com/search?q=Eucarist%c3%ada) | N/A |
+| 42 | [Mao Ning](http://twitter.com/search?q=Mao+Ning) | N/A |
+| 43 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 44 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 45 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 46 | [Circuito Exterior Mexiquense](http://twitter.com/search?q=Circuito+Exterior+Mexiquense) | N/A |
+| 47 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 48 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
+| 49 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 
 
 

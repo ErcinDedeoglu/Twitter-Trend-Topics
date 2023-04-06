@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-04-06 18:17:41 UTC`
+📆 Last Updated: `2023-04-06 19:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Vi20FANFest](http://twitter.com/search?q=%23Vi20FANFest) | N/A |
-| 2 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 3 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 4 | [#KKRvRCB](http://twitter.com/search?q=%23KKRvRCB) | N/A |
-| 5 | [Lord Shardul](http://twitter.com/search?q=Lord+Shardul) | Lord Shardul is a Hindu deity associated with strength and courage. He is the son of Shiva and Parvati, and is often depicted as a lion or tiger. The name Shardul translates to "tiger" in English. |
-| 6 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
+| 1 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 2 | [#KKRvRCB](http://twitter.com/search?q=%23KKRvRCB) | N/A |
+| 3 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
+| 4 | [#ShardulThakur](http://twitter.com/search?q=%23ShardulThakur) | N/A |
+| 5 | [Chinnaswamy Stadium](http://twitter.com/search?q=Chinnaswamy+Stadium) | N/A |
+| 6 | [#AmiKKR](http://twitter.com/search?q=%23AmiKKR) | N/A |
 | 7 | [#MazaarJihad](http://twitter.com/search?q=%23MazaarJihad) | N/A |
-| 8 | [#IPL23](http://twitter.com/search?q=%23IPL23) | N/A |
-| 9 | [Harshal](http://twitter.com/search?q=Harshal) | N/A |
-| 10 | [Narine](http://twitter.com/search?q=Narine) | N/A |
-| 11 | [Varun](http://twitter.com/search?q=Varun) | N/A |
-| 12 | [BJP Against OBC](http://twitter.com/search?q=BJP+Against+OBC) | N/A |
-| 13 | [Suyash Sharma](http://twitter.com/search?q=Suyash+Sharma) | N/A |
-| 14 | [Wriddhiman S](http://twitter.com/search?q=Wriddhiman+S) | N/A |
-| 15 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 16 | [Haarcb](http://twitter.com/search?q=Haarcb) | N/A |
-| 17 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
-| 18 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
-| 19 | [Eden Gardens](http://twitter.com/search?q=Eden+Gardens) | N/A |
-| 20 | [#IplInBhojpuri](http://twitter.com/search?q=%23IplInBhojpuri) | N/A |
-| 21 | [Rinku](http://twitter.com/search?q=Rinku) | N/A |
-| 22 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 23 | [Willey](http://twitter.com/search?q=Willey) | N/A |
-| 24 | [Neeraj Chopra](http://twitter.com/search?q=Neeraj+Chopra) | N/A |
-| 25 | [Southee](http://twitter.com/search?q=Southee) | N/A |
-| 26 | [Just RCB](http://twitter.com/search?q=Just+RCB) | N/A |
-| 27 | [Mandeep Singh](http://twitter.com/search?q=Mandeep+Singh) | N/A |
-| 28 | [Karn Sharma](http://twitter.com/search?q=Karn+Sharma) | N/A |
-| 29 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
-| 30 | [Mentor](http://twitter.com/search?q=Mentor) | N/A |
-| 31 | [Umesh](http://twitter.com/search?q=Umesh) | N/A |
-| 32 | [Reece Topley](http://twitter.com/search?q=Reece+Topley) | N/A |
-| 33 | [Nitish Rana](http://twitter.com/search?q=Nitish+Rana) | N/A |
-| 34 | [Akash Deep](http://twitter.com/search?q=Akash+Deep) | N/A |
-| 35 | [Riley Meredith](http://twitter.com/search?q=Riley+Meredith) | N/A |
-| 36 | [King Khan](http://twitter.com/search?q=King+Khan) | N/A |
-| 37 | [RCB RCB](http://twitter.com/search?q=RCB+RCB) | N/A |
-| 38 | [Sudeep](http://twitter.com/search?q=Sudeep) | N/A |
-| 39 | [Venkatesh Iyer](http://twitter.com/search?q=Venkatesh+Iyer) | N/A |
-| 40 | [Anil](http://twitter.com/search?q=Anil) | N/A |
-| 41 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 42 | [RAGE OF RAVANASURA](http://twitter.com/search?q=RAGE+OF+RAVANASURA) | N/A |
-| 43 | [Venky](http://twitter.com/search?q=Venky) | N/A |
-| 44 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
-| 45 | [Prakash](http://twitter.com/search?q=Prakash) | N/A |
-| 46 | [#AmiKKR](http://twitter.com/search?q=%23AmiKKR) | N/A |
-| 47 | [#1947August16FromTomorrow](http://twitter.com/search?q=%231947August16FromTomorrow) | N/A |
-| 48 | [#ForeignFundingExposed](http://twitter.com/search?q=%23ForeignFundingExposed) | N/A |
-| 49 | [#KolkataKnightRiders](http://twitter.com/search?q=%23KolkataKnightRiders) | N/A |
-| 50 | [#Chokli](http://twitter.com/search?q=%23Chokli) | N/A |
+| 8 | [Suyash Sharma](http://twitter.com/search?q=Suyash+Sharma) | N/A |
+| 9 | [#viratkholi](http://twitter.com/search?q=%23viratkholi) | N/A |
+| 10 | [Wriddhiman S](http://twitter.com/search?q=Wriddhiman+S) | N/A |
+| 11 | [Harshal](http://twitter.com/search?q=Harshal) | N/A |
+| 12 | [Varun](http://twitter.com/search?q=Varun) | N/A |
+| 13 | [Haarcb](http://twitter.com/search?q=Haarcb) | N/A |
+| 14 | [Narine](http://twitter.com/search?q=Narine) | N/A |
+| 15 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
+| 16 | [Eden](http://twitter.com/search?q=Eden) | N/A |
+| 17 | [Just RCB](http://twitter.com/search?q=Just+RCB) | N/A |
+| 18 | [BJP Against OBC](http://twitter.com/search?q=BJP+Against+OBC) | N/A |
+| 19 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 20 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
+| 21 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
+| 22 | [Amit M](http://twitter.com/search?q=Amit+M) | N/A |
+| 23 | [Rinku Singh](http://twitter.com/search?q=Rinku+Singh) | N/A |
+| 24 | [Anuj Rawat](http://twitter.com/search?q=Anuj+Rawat) | N/A |
+| 25 | [Willey](http://twitter.com/search?q=Willey) | N/A |
+| 26 | [Neeraj Chopra](http://twitter.com/search?q=Neeraj+Chopra) | N/A |
+| 27 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 28 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
+| 29 | [RCB RCB](http://twitter.com/search?q=RCB+RCB) | N/A |
+| 30 | [Lomror](http://twitter.com/search?q=Lomror) | N/A |
+| 31 | [RCBians](http://twitter.com/search?q=RCBians) | N/A |
+| 32 | [Mentor](http://twitter.com/search?q=Mentor) | N/A |
+| 33 | [Sterlite Copper](http://twitter.com/search?q=Sterlite+Copper) | N/A |
+| 34 | [Southee](http://twitter.com/search?q=Southee) | N/A |
+| 35 | [Only RCB](http://twitter.com/search?q=Only+RCB) | N/A |
+| 36 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
+| 37 | [Dinesh Karthik](http://twitter.com/search?q=Dinesh+Karthik) | N/A |
+| 38 | [Karn Sharma](http://twitter.com/search?q=Karn+Sharma) | N/A |
+| 39 | [World Health Day](http://twitter.com/search?q=World+Health+Day) | N/A |
+| 40 | [Nitish Rana](http://twitter.com/search?q=Nitish+Rana) | N/A |
+| 41 | [Umesh](http://twitter.com/search?q=Umesh) | N/A |
+| 42 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 43 | [Akash Deep](http://twitter.com/search?q=Akash+Deep) | N/A |
+| 44 | [Anil](http://twitter.com/search?q=Anil) | N/A |
+| 45 | [Mandeep](http://twitter.com/search?q=Mandeep) | N/A |
+| 46 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 47 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 48 | [Reece Topley](http://twitter.com/search?q=Reece+Topley) | N/A |
+| 49 | [Prakash](http://twitter.com/search?q=Prakash) | N/A |
+| 50 | [Sudeep](http://twitter.com/search?q=Sudeep) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-04-06 18:17:09 UTC`
+📆 Last Updated: `2023-04-06 19:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
-| 2 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 3 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
-| 4 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
-| 5 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 6 | [#firstdates](http://twitter.com/search?q=%23firstdates) | N/A |
-| 7 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 8 | [#Tanzverbot](http://twitter.com/search?q=%23Tanzverbot) | N/A |
-| 9 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 10 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 11 | [#UnsereGenerationUnserJob](http://twitter.com/search?q=%23UnsereGenerationUnserJob) | N/A |
-| 12 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 13 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 14 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 15 | [torchance](http://twitter.com/search?q=torchance) | N/A |
-| 16 | [Falschparker](http://twitter.com/search?q=Falschparker) | N/A |
-| 17 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 18 | [Dream Concert](http://twitter.com/search?q=Dream+Concert) | N/A |
-| 19 | [Worst Concert](http://twitter.com/search?q=Worst+Concert) | N/A |
-| 20 | [Frau Kellermann](http://twitter.com/search?q=Frau+Kellermann) | N/A |
-| 21 | [Feinstaub](http://twitter.com/search?q=Feinstaub) | N/A |
-| 22 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 23 | [Stuttgart](http://twitter.com/search?q=Stuttgart) | N/A |
-| 24 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 25 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 26 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
-| 27 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
-| 28 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
-| 29 | [guten morgen thomas](http://twitter.com/search?q=guten+morgen+thomas) | N/A |
-| 30 | [Stiko](http://twitter.com/search?q=Stiko) | N/A |
-| 31 | [vasektomie](http://twitter.com/search?q=vasektomie) | N/A |
-| 32 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 33 | ['Geflecht'](http://twitter.com/search?q=%27Geflecht%27) | N/A |
-| 34 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
-| 35 | [Flugscham](http://twitter.com/search?q=Flugscham) | N/A |
-| 36 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 37 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 38 | [Selbstzahler](http://twitter.com/search?q=Selbstzahler) | N/A |
+| 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 2 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 3 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
+| 4 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
+| 5 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 6 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
+| 7 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 8 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 9 | [#Tanzverbot](http://twitter.com/search?q=%23Tanzverbot) | N/A |
+| 10 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 11 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 13 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 14 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 15 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
+| 16 | [Nachzüglerinnen](http://twitter.com/search?q=Nachz%c3%bcglerinnen) | N/A |
+| 17 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 18 | [Falschparker](http://twitter.com/search?q=Falschparker) | N/A |
+| 19 | [Models](http://twitter.com/search?q=Models) | N/A |
+| 20 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
+| 21 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 22 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 23 | [Worst Concert](http://twitter.com/search?q=Worst+Concert) | N/A |
+| 24 | [Frau Kellermann](http://twitter.com/search?q=Frau+Kellermann) | N/A |
+| 25 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
+| 26 | [Dream Concert](http://twitter.com/search?q=Dream+Concert) | N/A |
+| 27 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
+| 28 | [Torchance](http://twitter.com/search?q=Torchance) | N/A |
+| 29 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
+| 30 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 31 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 32 | [Kapitulation der Ukraine](http://twitter.com/search?q=Kapitulation+der+Ukraine) | N/A |
+| 33 | [Selbstzahler](http://twitter.com/search?q=Selbstzahler) | N/A |
+| 34 | [Flugscham](http://twitter.com/search?q=Flugscham) | N/A |
+| 35 | [Vasektomie](http://twitter.com/search?q=Vasektomie) | N/A |
+| 36 | ['Geflecht'](http://twitter.com/search?q=%27Geflecht%27) | N/A |
+| 37 | [Flugtaxis](http://twitter.com/search?q=Flugtaxis) | N/A |
+| 38 | [Privatsache](http://twitter.com/search?q=Privatsache) | N/A |
 | 39 | [Geburtsurkunde](http://twitter.com/search?q=Geburtsurkunde) | N/A |
-| 40 | [Privatsache](http://twitter.com/search?q=Privatsache) | N/A |
-| 41 | [Flugtaxis](http://twitter.com/search?q=Flugtaxis) | N/A |
-| 42 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 43 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 44 | [guten morgen andreas](http://twitter.com/search?q=guten+morgen+andreas) | N/A |
-| 45 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 46 | [Wine](http://twitter.com/search?q=Wine) | N/A |
-| 47 | [Icebox](http://twitter.com/search?q=Icebox) | N/A |
-| 48 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 49 | [Liberale Politik](http://twitter.com/search?q=Liberale+Politik) | N/A |
-| 50 | [Petition für die Kampagne](http://twitter.com/search?q=Petition+f%c3%bcr+die+Kampagne) | N/A |
+| 40 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 41 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 42 | [Wine](http://twitter.com/search?q=Wine) | N/A |
+| 43 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 44 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 45 | [macheten](http://twitter.com/search?q=macheten) | N/A |
+| 46 | [Icebox](http://twitter.com/search?q=Icebox) | N/A |
+| 47 | [Möglichkeit 4](http://twitter.com/search?q=M%c3%b6glichkeit+4) | N/A |
+| 48 | [liberale politik](http://twitter.com/search?q=liberale+politik) | N/A |
+| 49 | [Herr Ernst](http://twitter.com/search?q=Herr+Ernst) | N/A |
 
 
 
