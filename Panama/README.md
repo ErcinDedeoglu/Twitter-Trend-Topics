@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-06 09:17:49 UTC`
+📆 Last Updated: `2023-04-06 10:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,8 +33,8 @@ This is top 50 for Panama
 | 16 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 17 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
 | 18 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 19 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 20 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
+| 19 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
+| 20 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 21 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
 | 22 | [La Yeguada](http://twitter.com/search?q=La+Yeguada) | N/A |
 | 23 | [burunga](http://twitter.com/search?q=burunga) | N/A |
@@ -51,7 +51,7 @@ This is top 50 for Panama
 | 34 | [#cats](http://twitter.com/search?q=%23cats) | N/A |
 | 35 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 36 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 37 | [IDAAN](http://twitter.com/search?q=IDAAN) | N/A |
+| 37 | [idaan](http://twitter.com/search?q=idaan) | N/A |
 | 38 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
 | 39 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
 | 40 | [donaciano alarcón](http://twitter.com/search?q=donaciano+alarc%c3%b3n) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Panama
 | 44 | [ronaldo córdoba](http://twitter.com/search?q=ronaldo+c%c3%b3rdoba) | N/A |
 | 45 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
 | 46 | [Empate](http://twitter.com/search?q=Empate) | N/A |
-| 47 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
-| 48 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
-| 49 | [Rómulo](http://twitter.com/search?q=R%c3%b3mulo) | N/A |
-| 50 | [los Andes](http://twitter.com/search?q=los+Andes) | N/A |
+| 47 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
+| 48 | [Rómulo](http://twitter.com/search?q=R%c3%b3mulo) | N/A |
+| 49 | [los Andes](http://twitter.com/search?q=los+Andes) | N/A |
+| 50 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
 
 
 

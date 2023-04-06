@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-04-06 09:17:05 UTC`
+📆 Last Updated: `2023-04-06 10:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,10 +21,10 @@ This is top 50 for [Peru](</Peru>)
 | 4 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
 | 5 | [Barco](http://twitter.com/search?q=Barco) | N/A |
 | 6 | [Carolina Braedt](http://twitter.com/search?q=Carolina+Braedt) | N/A |
-| 7 | [Succar](http://twitter.com/search?q=Succar) | N/A |
-| 8 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
-| 9 | [#ConLaUHastaElFinal](http://twitter.com/search?q=%23ConLaUHastaElFinal) | N/A |
-| 10 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
+| 7 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
+| 8 | [#ConLaUHastaElFinal](http://twitter.com/search?q=%23ConLaUHastaElFinal) | N/A |
+| 9 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
+| 10 | [Succar](http://twitter.com/search?q=Succar) | N/A |
 | 11 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 12 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
 | 13 | [Riveros](http://twitter.com/search?q=Riveros) | N/A |
@@ -53,8 +53,8 @@ This is top 50 for [Peru](</Peru>)
 | 36 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
 | 37 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
 | 38 | [Lora](http://twitter.com/search?q=Lora) | N/A |
-| 39 | [Yotun](http://twitter.com/search?q=Yotun) | N/A |
-| 40 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 39 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 40 | [Yotun](http://twitter.com/search?q=Yotun) | N/A |
 | 41 | [Corozo](http://twitter.com/search?q=Corozo) | N/A |
 | 42 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 43 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
@@ -63,8 +63,8 @@ This is top 50 for [Peru](</Peru>)
 | 46 | [Paranaense](http://twitter.com/search?q=Paranaense) | N/A |
 | 47 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
 | 48 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
-| 49 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 50 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 49 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 50 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
 
 
 

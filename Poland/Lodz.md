@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-04-06 09:17:08 UTC`
+📆 Last Updated: `2023-04-06 10:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Poland](</Poland>)
 | 5 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
 | 6 | [Wielki Czwartek](http://twitter.com/search?q=Wielki+Czwartek) | N/A |
 | 7 | [#PiStoZŁO](http://twitter.com/search?q=%23PiStoZ%c5%81O) | N/A |
-| 8 | [#LovejoyWarsaw](http://twitter.com/search?q=%23LovejoyWarsaw) | N/A |
-| 9 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 10 | [Realu](http://twitter.com/search?q=Realu) | N/A |
-| 11 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 12 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
+| 8 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 9 | [#kksleg](http://twitter.com/search?q=%23kksleg) | N/A |
+| 10 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 11 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
+| 12 | [Realu](http://twitter.com/search?q=Realu) | N/A |
 | 13 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 14 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 15 | [Barcy](http://twitter.com/search?q=Barcy) | N/A |
+| 15 | [Świąt Wielkanocnych](http://twitter.com/search?q=%c5%9awi%c4%85t+Wielkanocnych) | N/A |
 | 16 | [Duda](http://twitter.com/search?q=Duda) | N/A |
-| 17 | [Order Orła Białego](http://twitter.com/search?q=Order+Or%c5%82a+Bia%c5%82ego) | N/A |
-| 18 | [Robert Telus](http://twitter.com/search?q=Robert+Telus) | N/A |
-| 19 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 20 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 21 | [Ukraińców](http://twitter.com/search?q=Ukrai%c5%84c%c3%b3w) | N/A |
-| 22 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 23 | [Judasza](http://twitter.com/search?q=Judasza) | N/A |
-| 24 | [Przewodów](http://twitter.com/search?q=Przewod%c3%b3w) | N/A |
-| 25 | [Świąt Wielkanocnych](http://twitter.com/search?q=%c5%9awi%c4%85t+Wielkanocnych) | N/A |
-| 26 | [Gaviego](http://twitter.com/search?q=Gaviego) | N/A |
+| 17 | [Ukraińców](http://twitter.com/search?q=Ukrai%c5%84c%c3%b3w) | N/A |
+| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 19 | [Order Orła Białego](http://twitter.com/search?q=Order+Or%c5%82a+Bia%c5%82ego) | N/A |
+| 20 | [Judasza](http://twitter.com/search?q=Judasza) | N/A |
+| 21 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 22 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 23 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 24 | [Barcelony](http://twitter.com/search?q=Barcelony) | N/A |
+| 25 | [Przewodów](http://twitter.com/search?q=Przewod%c3%b3w) | N/A |
+| 26 | [Robert Telus](http://twitter.com/search?q=Robert+Telus) | N/A |
 | 27 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 28 | [Barcelony](http://twitter.com/search?q=Barcelony) | N/A |
-| 29 | [Lewym](http://twitter.com/search?q=Lewym) | N/A |
-| 30 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 31 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 28 | [Gaviego](http://twitter.com/search?q=Gaviego) | N/A |
+| 29 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 30 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 31 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
 | 32 | [Janusz Cieszyński](http://twitter.com/search?q=Janusz+Cieszy%c5%84ski) | N/A |
-| 33 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 34 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 35 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
-| 36 | [Katyń](http://twitter.com/search?q=Katy%c5%84) | N/A |
-| 37 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
+| 33 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 34 | [Eucharystii](http://twitter.com/search?q=Eucharystii) | N/A |
+| 35 | [Katyń](http://twitter.com/search?q=Katy%c5%84) | N/A |
+| 36 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 37 | [Triduum Paschalnego](http://twitter.com/search?q=Triduum+Paschalnego) | N/A |
 | 38 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 39 | [Bidenem](http://twitter.com/search?q=Bidenem) | N/A |
-| 40 | [Triduum Paschalnego](http://twitter.com/search?q=Triduum+Paschalnego) | N/A |
-| 41 | [Mateckiego](http://twitter.com/search?q=Mateckiego) | N/A |
-| 42 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
-| 43 | [Eucharystii](http://twitter.com/search?q=Eucharystii) | N/A |
-| 44 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
-| 45 | [Hańba](http://twitter.com/search?q=Ha%c5%84ba) | N/A |
-| 46 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 47 | [kks kalisz](http://twitter.com/search?q=kks+kalisz) | N/A |
-| 48 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
-| 49 | [Bielecki](http://twitter.com/search?q=Bielecki) | N/A |
+| 39 | [Sowa](http://twitter.com/search?q=Sowa) | N/A |
+| 40 | [Mateckiego](http://twitter.com/search?q=Mateckiego) | N/A |
+| 41 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
+| 42 | [Hańba](http://twitter.com/search?q=Ha%c5%84ba) | N/A |
+| 43 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | N/A |
+| 44 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 45 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
+| 46 | [Bidenem](http://twitter.com/search?q=Bidenem) | N/A |
+| 47 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
+| 48 | [bielecki](http://twitter.com/search?q=bielecki) | N/A |
+| 49 | [Kupuje](http://twitter.com/search?q=Kupuje) | N/A |
 
 
 

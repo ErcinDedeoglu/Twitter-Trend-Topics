@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okayama
 
-📆 Last Updated: `2023-04-06 09:17:52 UTC`
+📆 Last Updated: `2023-04-06 10:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ヘルシェイク矢野](http://twitter.com/search?q=%e3%83%98%e3%83%ab%e3%82%b7%e3%82%a7%e3%82%a4%e3%82%af%e7%9f%a2%e9%87%8e) | ヘルシェイク矢野 is a Japanese phrase that translates to "Yano of Hellshake". It is the name of a Japanese rock band formed in the late 1980s. The band's music is a mix of hard rock, punk, and metal. |
-| 2 | [ティアラメンツ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%a9%e3%83%a1%e3%83%b3%e3%83%84) | ティアラメンツ is a Japanese card game similar to the Western game of Go Fish. The name translates to "Tiara Matching" and the goal of the game is to collect sets of cards featuring princesses wearing tiaras. Players take turns asking each other for cards they need to complete their sets, and the first player to collect all four sets wins. |
-| 3 | [かぐや様](http://twitter.com/search?q=%e3%81%8b%e3%81%90%e3%82%84%e6%a7%98) | N/A |
-| 4 | [ムツゴロウさん](http://twitter.com/search?q=%e3%83%a0%e3%83%84%e3%82%b4%e3%83%ad%e3%82%a6%e3%81%95%e3%82%93) | N/A |
-| 5 | [バイトチームコンテスト](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%88%e3%83%81%e3%83%bc%e3%83%a0%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88) | N/A |
-| 6 | [#森且行](http://twitter.com/search?q=%23%e6%a3%ae%e4%b8%94%e8%a1%8c) | N/A |
-| 7 | [ガンダム10](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a010) | N/A |
-| 8 | [中居くん](http://twitter.com/search?q=%e4%b8%ad%e5%b1%85%e3%81%8f%e3%82%93) | 中居くん is a nickname for Japanese actor and singer Masaki Nishikino. It is a combination of his given name, Masaki, and the Japanese honorific suffix “-kun” which is used to refer to young boys or close friends. In English, it can be translated as “Masaki-kun”. |
-| 9 | [#勝利のハチマキ](http://twitter.com/search?q=%23%e5%8b%9d%e5%88%a9%e3%81%ae%e3%83%8f%e3%83%81%e3%83%9e%e3%82%ad) | N/A |
-| 10 | [#いいねかRTで気になった人フォローする](http://twitter.com/search?q=%23%e3%81%84%e3%81%84%e3%81%ad%e3%81%8bRT%e3%81%a7%e6%b0%97%e3%81%ab%e3%81%aa%e3%81%a3%e3%81%9f%e4%ba%ba%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e3%81%99%e3%82%8b) | "#いいねかRTで気になった人フォローする" is a hashtag used on Twitter that means "Follow people who you find interesting by liking or retweeting their posts". |
-| 11 | [#企業公式がお疲れ様を言い合う](http://twitter.com/search?q=%23%e4%bc%81%e6%a5%ad%e5%85%ac%e5%bc%8f%e3%81%8c%e3%81%8a%e7%96%b2%e3%82%8c%e6%a7%98%e3%82%92%e8%a8%80%e3%81%84%e5%90%88%e3%81%86) | N/A |
-| 12 | [#東リベ2プレミアムナイト](http://twitter.com/search?q=%23%e6%9d%b1%e3%83%aa%e3%83%992%e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2%e3%83%a0%e3%83%8a%e3%82%a4%e3%83%88) | N/A |
-| 13 | [濱ちゃん](http://twitter.com/search?q=%e6%bf%b1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 14 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
-| 15 | [まりほー](http://twitter.com/search?q=%e3%81%be%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
-| 16 | [れおほー](http://twitter.com/search?q=%e3%82%8c%e3%81%8a%e3%81%bb%e3%83%bc) | N/A |
-| 17 | [陸自ヘリ](http://twitter.com/search?q=%e9%99%b8%e8%87%aa%e3%83%98%e3%83%aa) | N/A |
-| 18 | [バイトコンテスト](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%88%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88) | N/A |
-| 19 | [カホ実装](http://twitter.com/search?q=%e3%82%ab%e3%83%9b%e5%ae%9f%e8%a3%85) | N/A |
-| 20 | [佐々木朗希](http://twitter.com/search?q=%e4%bd%90%e3%80%85%e6%9c%a8%e6%9c%97%e5%b8%8c) | 佐々木朗希 (Sasaki Akira) is a Japanese name. It is composed of two kanji characters: 佐 (sa) meaning "help" and 木 (ki) meaning "tree"; 朗 (akira) meaning "clear" and 希 (ki) meaning "hope". In English, the name can be translated to mean "Helpful Tree, Clear Hope". |
-| 21 | [書き出し](http://twitter.com/search?q=%e6%9b%b8%e3%81%8d%e5%87%ba%e3%81%97) | N/A |
-| 22 | [武器5つ](http://twitter.com/search?q=%e6%ad%a6%e5%99%a85%e3%81%a4) | N/A |
-| 23 | [親子バッテリー](http://twitter.com/search?q=%e8%a6%aa%e5%ad%90%e3%83%90%e3%83%83%e3%83%86%e3%83%aa%e3%83%bc) | N/A |
-| 24 | [ナイトマーケット](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%83%88%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88) | N/A |
-| 25 | [木村くん](http://twitter.com/search?q=%e6%9c%a8%e6%9d%91%e3%81%8f%e3%82%93) | 木村くん is a nickname for Japanese actor, singer, and songwriter, Kimura Takuya. It is a term of endearment used by his fans. In English, it can be translated to "Mr. Kimura". |
-| 26 | [ゲーム世界](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%a0%e4%b8%96%e7%95%8c) | N/A |
-| 27 | [SMAP](http://twitter.com/search?q=SMAP) | N/A |
-| 28 | [キトカロス](http://twitter.com/search?q=%e3%82%ad%e3%83%88%e3%82%ab%e3%83%ad%e3%82%b9) | N/A |
-| 29 | [ベッドマン](http://twitter.com/search?q=%e3%83%99%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
-| 30 | [朗希コール](http://twitter.com/search?q=%e6%9c%97%e5%b8%8c%e3%82%b3%e3%83%bc%e3%83%ab) | N/A |
-| 31 | [エビライ](http://twitter.com/search?q=%e3%82%a8%e3%83%93%e3%83%a9%e3%82%a4) | N/A |
-| 32 | [マスターデュエル](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%87%e3%83%a5%e3%82%a8%e3%83%ab) | マスターデュエル is a Japanese card game based on the Yu-Gi-Oh! franchise. It is a two-player game where each player uses a deck of cards to battle against their opponent. The goal of the game is to reduce your opponent's life points to zero by using monsters, spells, and traps. In English, it can be translated as "Master Duel". |
-| 33 | [カフェイン](http://twitter.com/search?q=%e3%82%ab%e3%83%95%e3%82%a7%e3%82%a4%e3%83%b3) | N/A |
-| 34 | [宜保ちゃん](http://twitter.com/search?q=%e5%ae%9c%e4%bf%9d%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 35 | [ガンダムX](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0X) | N/A |
-| 36 | [長野スタメン](http://twitter.com/search?q=%e9%95%b7%e9%87%8e%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 37 | [カード勝ち越し](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%89%e5%8b%9d%e3%81%a1%e8%b6%8a%e3%81%97) | N/A |
-| 38 | [宮古島付近](http://twitter.com/search?q=%e5%ae%ae%e5%8f%a4%e5%b3%b6%e4%bb%98%e8%bf%91) | N/A |
-| 39 | [ウルフチャン](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%95%e3%83%81%e3%83%a3%e3%83%b3) | N/A |
-| 40 | [スプラ甲子園](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%a9%e7%94%b2%e5%ad%90%e5%9c%92) | スプラ甲子園 (Splatoon Koshien) is an annual tournament held in Japan for the Nintendo game Splatoon. It is a competition between teams of players who battle each other in the game. The name "Koshien" comes from the famous Japanese high school baseball tournament, Koshien. In English, it translates to "Splatoon Koshien Tournament". |
-| 41 | [lOve in the](http://twitter.com/search?q=lOve+in+the) | N/A |
-| 42 | [激獣神祭](http://twitter.com/search?q=%e6%bf%80%e7%8d%a3%e7%a5%9e%e7%a5%ad) | N/A |
-| 43 | [平良抹消](http://twitter.com/search?q=%e5%b9%b3%e8%89%af%e6%8a%b9%e6%b6%88) | N/A |
-| 44 | [気圧のせい](http://twitter.com/search?q=%e6%b0%97%e5%9c%a7%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
-| 45 | [森くん1着](http://twitter.com/search?q=%e6%a3%ae%e3%81%8f%e3%82%931%e7%9d%80) | N/A |
-| 46 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
-| 47 | [ルルカロス](http://twitter.com/search?q=%e3%83%ab%e3%83%ab%e3%82%ab%e3%83%ad%e3%82%b9) | N/A |
-| 48 | [マーキーさん](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%82%ad%e3%83%bc%e3%81%95%e3%82%93) | N/A |
-| 49 | [夢喰NEON](http://twitter.com/search?q=%e5%a4%a2%e5%96%b0NEON) | N/A |
-| 50 | [ムビチケ39枚](http://twitter.com/search?q=%e3%83%a0%e3%83%93%e3%83%81%e3%82%b139%e6%9e%9a) | N/A |
+| 1 | [バイトチームコンテスト](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%88%e3%83%81%e3%83%bc%e3%83%a0%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88) | N/A |
+| 2 | [#VS魂](http://twitter.com/search?q=%23VS%e9%ad%82) | #VS魂 is a hashtag used by Japanese gamers to express their enthusiasm for playing video games. It translates to "Soul of VS" and is used to show their passion for competing against others in video games. |
+| 3 | [#東リべ2プレミアムナイト](http://twitter.com/search?q=%23%e6%9d%b1%e3%83%aa%e3%81%b92%e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2%e3%83%a0%e3%83%8a%e3%82%a4%e3%83%88) | N/A |
+| 4 | [ヘルシェイク矢野](http://twitter.com/search?q=%e3%83%98%e3%83%ab%e3%82%b7%e3%82%a7%e3%82%a4%e3%82%af%e7%9f%a2%e9%87%8e) | ヘルシェイク矢野 is a Japanese phrase that translates to "Yano of Hellshake". It is the name of a Japanese rock band formed in the late 1980s. The band's music is a mix of hard rock, punk, and metal. |
+| 5 | [ティアラメンツ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%a9%e3%83%a1%e3%83%b3%e3%83%84) | ティアラメンツ is a Japanese card game similar to the Western game of Go Fish. The name translates to "Tiara Matching" and the goal of the game is to collect sets of cards featuring princesses wearing tiaras. Players take turns asking each other for cards they need to complete their sets, and the first player to collect all four sets wins. |
+| 6 | [バイトコンテスト](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%88%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88) | N/A |
+| 7 | [最強リベンジャーズ](http://twitter.com/search?q=%e6%9c%80%e5%bc%b7%e3%83%aa%e3%83%99%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc%e3%82%ba) | N/A |
+| 8 | [陸自ヘリ](http://twitter.com/search?q=%e9%99%b8%e8%87%aa%e3%83%98%e3%83%aa) | N/A |
+| 9 | [ピンクムーン](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%83%a0%e3%83%bc%e3%83%b3) | N/A |
+| 10 | [カリステ](http://twitter.com/search?q=%e3%82%ab%e3%83%aa%e3%82%b9%e3%83%86) | N/A |
+| 11 | [ムツゴロウさん](http://twitter.com/search?q=%e3%83%a0%e3%83%84%e3%82%b4%e3%83%ad%e3%82%a6%e3%81%95%e3%82%93) | N/A |
+| 12 | [ガンダム10](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a010) | N/A |
+| 13 | [ブリンソン](http://twitter.com/search?q=%e3%83%96%e3%83%aa%e3%83%b3%e3%82%bd%e3%83%b3) | N/A |
+| 14 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
+| 15 | [かぐや様](http://twitter.com/search?q=%e3%81%8b%e3%81%90%e3%82%84%e6%a7%98) | N/A |
+| 16 | [中居くん](http://twitter.com/search?q=%e4%b8%ad%e5%b1%85%e3%81%8f%e3%82%93) | 中居くん is a nickname for Japanese actor and singer Masaki Nishikino. It is a combination of his given name, Masaki, and the Japanese honorific suffix “-kun” which is used to refer to young boys or close friends. In English, it can be translated as “Masaki-kun”. |
+| 17 | [市民団体](http://twitter.com/search?q=%e5%b8%82%e6%b0%91%e5%9b%a3%e4%bd%93) | N/A |
+| 18 | [エビライ](http://twitter.com/search?q=%e3%82%a8%e3%83%93%e3%83%a9%e3%82%a4) | N/A |
+| 19 | [宮古島付近](http://twitter.com/search?q=%e5%ae%ae%e5%8f%a4%e5%b3%b6%e4%bb%98%e8%bf%91) | N/A |
+| 20 | [#勝利のハチマキ](http://twitter.com/search?q=%23%e5%8b%9d%e5%88%a9%e3%81%ae%e3%83%8f%e3%83%81%e3%83%9e%e3%82%ad) | N/A |
+| 21 | [#企業公式がお疲れ様を言い合う](http://twitter.com/search?q=%23%e4%bc%81%e6%a5%ad%e5%85%ac%e5%bc%8f%e3%81%8c%e3%81%8a%e7%96%b2%e3%82%8c%e6%a7%98%e3%82%92%e8%a8%80%e3%81%84%e5%90%88%e3%81%86) | N/A |
+| 22 | [#森且行](http://twitter.com/search?q=%23%e6%a3%ae%e4%b8%94%e8%a1%8c) | N/A |
+| 23 | [ベッドマン](http://twitter.com/search?q=%e3%83%99%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
+| 24 | [ビシエド](http://twitter.com/search?q=%e3%83%93%e3%82%b7%e3%82%a8%e3%83%89) | N/A |
+| 25 | [アウトカウント](http://twitter.com/search?q=%e3%82%a2%e3%82%a6%e3%83%88%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88) | N/A |
+| 26 | [武器5つ](http://twitter.com/search?q=%e6%ad%a6%e5%99%a85%e3%81%a4) | N/A |
+| 27 | [濱ちゃん](http://twitter.com/search?q=%e6%bf%b1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 28 | [宜保ちゃん](http://twitter.com/search?q=%e5%ae%9c%e4%bf%9d%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 29 | [空タッチ](http://twitter.com/search?q=%e7%a9%ba%e3%82%bf%e3%83%83%e3%83%81) | N/A |
+| 30 | [ノーゲーム](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%b2%e3%83%bc%e3%83%a0) | N/A |
+| 31 | [ゲーム世界](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%a0%e4%b8%96%e7%95%8c) | N/A |
+| 32 | [カツオさん](http://twitter.com/search?q=%e3%82%ab%e3%83%84%e3%82%aa%e3%81%95%e3%82%93) | N/A |
+| 33 | [lOve in the](http://twitter.com/search?q=lOve+in+the) | N/A |
+| 34 | [カホ実装](http://twitter.com/search?q=%e3%82%ab%e3%83%9b%e5%ae%9f%e8%a3%85) | N/A |
+| 35 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
+| 36 | [バチコン](http://twitter.com/search?q=%e3%83%90%e3%83%81%e3%82%b3%e3%83%b3) | N/A |
+| 37 | [横川くん](http://twitter.com/search?q=%e6%a8%aa%e5%b7%9d%e3%81%8f%e3%82%93) | N/A |
+| 38 | [宮古島周辺](http://twitter.com/search?q=%e5%ae%ae%e5%8f%a4%e5%b3%b6%e5%91%a8%e8%be%ba) | N/A |
+| 39 | [福永くん](http://twitter.com/search?q=%e7%a6%8f%e6%b0%b8%e3%81%8f%e3%82%93) | N/A |
+| 40 | [石川さん](http://twitter.com/search?q=%e7%9f%b3%e5%b7%9d%e3%81%95%e3%82%93) | N/A |
+| 41 | [板東くん](http://twitter.com/search?q=%e6%9d%bf%e6%9d%b1%e3%81%8f%e3%82%93) | 板東くん is a nickname for the Japanese baseball player, Ichiro Suzuki. It translates to "Mr. Boardman" in English, referring to his ability to hit the ball hard and far. |
+| 42 | [小澤くん](http://twitter.com/search?q=%e5%b0%8f%e6%be%a4%e3%81%8f%e3%82%93) | N/A |
+| 43 | [気圧のせい](http://twitter.com/search?q=%e6%b0%97%e5%9c%a7%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
+| 44 | [SMAP](http://twitter.com/search?q=SMAP) | N/A |
+| 45 | [まりほー](http://twitter.com/search?q=%e3%81%be%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
+| 46 | [ガンダムX](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0X) | N/A |
+| 47 | [ナイトマーケット](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%83%88%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88) | N/A |
+| 48 | [レーダー](http://twitter.com/search?q=%e3%83%ac%e3%83%bc%e3%83%80%e3%83%bc) | N/A |
+| 49 | [高橋宏斗](http://twitter.com/search?q=%e9%ab%98%e6%a9%8b%e5%ae%8f%e6%96%97) | N/A |
+| 50 | [書き出し](http://twitter.com/search?q=%e6%9b%b8%e3%81%8d%e5%87%ba%e3%81%97) | N/A |
 
 
 

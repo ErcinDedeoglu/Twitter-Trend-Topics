@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-04-06 09:17:03 UTC`
+📆 Last Updated: `2023-04-06 10:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,56 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 2 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
+| 1 | [#vamoscolocolo](http://twitter.com/search?q=%23vamoscolocolo) | N/A |
+| 2 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
 | 3 | [Carabinero](http://twitter.com/search?q=Carabinero) | N/A |
-| 4 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 5 | [#RenunciaBoric](http://twitter.com/search?q=%23RenunciaBoric) | N/A |
-| 6 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 7 | [Cabo 1](http://twitter.com/search?q=Cabo+1) | N/A |
-| 8 | [#BastaYa](http://twitter.com/search?q=%23BastaYa) | N/A |
-| 9 | [#EstadoDeExcepcion](http://twitter.com/search?q=%23EstadoDeExcepcion) | N/A |
-| 10 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 11 | [#BoricEstaDestruyendoAChile](http://twitter.com/search?q=%23BoricEstaDestruyendoAChile) | N/A |
-| 12 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 13 | [#DestitucionDeBoric](http://twitter.com/search?q=%23DestitucionDeBoric) | N/A |
-| 14 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 15 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
-| 16 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
-| 17 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 18 | [Posta Central](http://twitter.com/search?q=Posta+Central) | N/A |
-| 19 | [Asesinos](http://twitter.com/search?q=Asesinos) | N/A |
-| 20 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
-| 21 | [Falleció](http://twitter.com/search?q=Falleci%c3%b3) | N/A |
-| 22 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 23 | [Malditos](http://twitter.com/search?q=Malditos) | N/A |
-| 24 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 25 | [Militares](http://twitter.com/search?q=Militares) | N/A |
-| 26 | [Cínica](http://twitter.com/search?q=C%c3%adnica) | N/A |
-| 27 | [Enfermo](http://twitter.com/search?q=Enfermo) | N/A |
-| 28 | [Mentirosa](http://twitter.com/search?q=Mentirosa) | N/A |
-| 29 | [#GobiernoAsesino](http://twitter.com/search?q=%23GobiernoAsesino) | N/A |
-| 30 | [#GatilloFacil](http://twitter.com/search?q=%23GatilloFacil) | N/A |
-| 31 | [#BoricAsesino](http://twitter.com/search?q=%23BoricAsesino) | N/A |
-| 32 | [#LeyNain_Retamal](http://twitter.com/search?q=%23LeyNain_Retamal) | N/A |
-| 33 | [#24HorasCentral](http://twitter.com/search?q=%2324HorasCentral) | N/A |
-| 34 | [#FueraBoric](http://twitter.com/search?q=%23FueraBoric) | N/A |
-| 35 | [#hastacuando](http://twitter.com/search?q=%23hastacuando) | N/A |
+| 4 | [Carabinero](http://twitter.com/search?q=Carabinero) | N/A |
+| 5 | [Carabinero](http://twitter.com/search?q=Carabinero) | N/A |
+| 6 | [#LeyNainRetamal](http://twitter.com/search?q=%23LeyNainRetamal) | N/A |
+| 7 | [quinteros](http://twitter.com/search?q=quinteros) | N/A |
+| 8 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 9 | [#GatilloFacil](http://twitter.com/search?q=%23GatilloFacil) | N/A |
+| 10 | [#libertadoresxchv](http://twitter.com/search?q=%23libertadoresxchv) | N/A |
+| 11 | [#larojaportvn](http://twitter.com/search?q=%23larojaportvn) | N/A |
+| 12 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 13 | [Estado de Excepción](http://twitter.com/search?q=Estado+de+Excepci%c3%b3n) | N/A |
+| 14 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
+| 15 | [Posta Central](http://twitter.com/search?q=Posta+Central) | N/A |
+| 16 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 17 | [Santiago Centro](http://twitter.com/search?q=Santiago+Centro) | N/A |
+| 18 | [PC y FA](http://twitter.com/search?q=PC+y+FA) | N/A |
+| 19 | [ROJAS](http://twitter.com/search?q=ROJAS) | N/A |
+| 20 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 21 | [Acaban](http://twitter.com/search?q=Acaban) | N/A |
+| 22 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 23 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
+| 24 | [HASTA CUANDO](http://twitter.com/search?q=HASTA+CUANDO) | N/A |
+| 25 | [Hipócritas](http://twitter.com/search?q=Hip%c3%b3critas) | N/A |
+| 26 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
+| 27 | [pavez](http://twitter.com/search?q=pavez) | N/A |
+| 28 | [Damián](http://twitter.com/search?q=Dami%c3%a1n) | N/A |
+| 29 | [Audi](http://twitter.com/search?q=Audi) | N/A |
+| 30 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 31 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 32 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
+| 33 | [caputto](http://twitter.com/search?q=caputto) | N/A |
+| 34 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 35 | [Comunistas](http://twitter.com/search?q=Comunistas) | N/A |
+| 36 | [leo gil](http://twitter.com/search?q=leo+gil) | N/A |
+| 37 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
+| 38 | [Militares](http://twitter.com/search?q=Militares) | N/A |
+| 39 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 40 | [Malditos](http://twitter.com/search?q=Malditos) | N/A |
+| 41 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 42 | [Falleció](http://twitter.com/search?q=Falleci%c3%b3) | N/A |
+| 43 | [huachipato](http://twitter.com/search?q=huachipato) | N/A |
+| 44 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 45 | [la uf](http://twitter.com/search?q=la+uf) | N/A |
+| 46 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 47 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 48 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 49 | [Cínica](http://twitter.com/search?q=C%c3%adnica) | N/A |
+| 50 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 
 
 
