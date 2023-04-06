@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bristol
 
-📆 Last Updated: `2023-04-06 16:16:41 UTC`
+📆 Last Updated: `2023-04-06 17:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 2 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
-| 3 | [#SWCE](http://twitter.com/search?q=%23SWCE) | N/A |
-| 4 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
-| 5 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
-| 6 | [#jeremyvine](http://twitter.com/search?q=%23jeremyvine) | N/A |
-| 7 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 8 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 9 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 10 | [#PresentersInMoviesOrSongs](http://twitter.com/search?q=%23PresentersInMoviesOrSongs) | N/A |
-| 11 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
-| 12 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 13 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 14 | [Fawziyah Javed](http://twitter.com/search?q=Fawziyah+Javed) | N/A |
+| 2 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
+| 3 | [Sainsbury](http://twitter.com/search?q=Sainsbury) | N/A |
+| 4 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 5 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 6 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 7 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 8 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 9 | [Nora](http://twitter.com/search?q=Nora) | N/A |
+| 10 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 11 | [#PresentersInMoviesOrSongs](http://twitter.com/search?q=%23PresentersInMoviesOrSongs) | N/A |
+| 12 | [#KKRvRCB](http://twitter.com/search?q=%23KKRvRCB) | N/A |
+| 13 | [#MoodPitch](http://twitter.com/search?q=%23MoodPitch) | N/A |
+| 14 | [Clapham Junction](http://twitter.com/search?q=Clapham+Junction) | N/A |
 | 15 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 16 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 17 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 18 | [Clapham Junction](http://twitter.com/search?q=Clapham+Junction) | N/A |
-| 19 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 20 | [Nora](http://twitter.com/search?q=Nora) | N/A |
+| 16 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
+| 17 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 18 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 19 | [Fawziyah Javed](http://twitter.com/search?q=Fawziyah+Javed) | N/A |
+| 20 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
 | 21 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 22 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 23 | [Daniel Radcliffe](http://twitter.com/search?q=Daniel+Radcliffe) | N/A |
-| 24 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
-| 25 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 26 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 27 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
-| 28 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
-| 29 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
-| 30 | [Bernard Lee](http://twitter.com/search?q=Bernard+Lee) | N/A |
-| 31 | [Windrush](http://twitter.com/search?q=Windrush) | N/A |
-| 32 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 33 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
-| 34 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 35 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 36 | [Lamps](http://twitter.com/search?q=Lamps) | N/A |
-| 37 | [Joanne](http://twitter.com/search?q=Joanne) | N/A |
-| 38 | [Podence](http://twitter.com/search?q=Podence) | Podence is a Portuguese word meaning “courage” or “bravery”. It is often used to describe someone who has the courage to take risks and face challenges. |
-| 39 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
-| 40 | [Mason Mount](http://twitter.com/search?q=Mason+Mount) | Mason Mount is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. He is known for his passing, dribbling, and shooting ability. |
-| 41 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
-| 42 | [Sturgeons](http://twitter.com/search?q=Sturgeons) | N/A |
-| 43 | [Surrey](http://twitter.com/search?q=Surrey) | N/A |
-| 44 | [Murrells](http://twitter.com/search?q=Murrells) | N/A |
-| 45 | [Bell](http://twitter.com/search?q=Bell) | N/A |
-| 46 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 47 | [Fred West](http://twitter.com/search?q=Fred+West) | N/A |
-| 48 | [Green Man](http://twitter.com/search?q=Green+Man) | N/A |
-| 49 | [Greggs](http://twitter.com/search?q=Greggs) | N/A |
+| 22 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 23 | [Jack Harrison](http://twitter.com/search?q=Jack+Harrison) | N/A |
+| 24 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 25 | [Daniel Radcliffe](http://twitter.com/search?q=Daniel+Radcliffe) | N/A |
+| 26 | [Chrism Mass](http://twitter.com/search?q=Chrism+Mass) | N/A |
+| 27 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 28 | [Bernard Lee](http://twitter.com/search?q=Bernard+Lee) | N/A |
+| 29 | [Windrush](http://twitter.com/search?q=Windrush) | N/A |
+| 30 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
+| 31 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 32 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
+| 33 | [Joanne](http://twitter.com/search?q=Joanne) | N/A |
+| 34 | [Lamps](http://twitter.com/search?q=Lamps) | N/A |
+| 35 | [Podence](http://twitter.com/search?q=Podence) | Podence is a Portuguese word meaning “courage” or “bravery”. It is often used to describe someone who has the courage to take risks and face challenges. |
+| 36 | [Mason Mount](http://twitter.com/search?q=Mason+Mount) | Mason Mount is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. He is known for his passing, dribbling, and shooting ability. |
+| 37 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 38 | [23rd April](http://twitter.com/search?q=23rd+April) | N/A |
+| 39 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 40 | [Steve Bruce](http://twitter.com/search?q=Steve+Bruce) | N/A |
+| 41 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
+| 42 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 43 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
+| 44 | [County Championship](http://twitter.com/search?q=County+Championship) | N/A |
+| 45 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
+| 46 | [Fred West](http://twitter.com/search?q=Fred+West) | N/A |
+| 47 | [#Finalissima](http://twitter.com/search?q=%23Finalissima) | N/A |
+| 48 | [#fourinabed](http://twitter.com/search?q=%23fourinabed) | N/A |
+| 49 | [#TeamCallaway](http://twitter.com/search?q=%23TeamCallaway) | N/A |
+| 50 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
 
 
 

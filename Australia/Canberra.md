@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-06 16:17:01 UTC`
+📆 Last Updated: `2023-04-06 17:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AFLLionsPies](http://twitter.com/search?q=%23AFLLionsPies) | N/A |
+| 1 | [#afllionspies](http://twitter.com/search?q=%23afllionspies) | N/A |
 | 2 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 3 | [#NRLStormRoosters](http://twitter.com/search?q=%23NRLStormRoosters) | N/A |
 | 4 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
-| 5 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 6 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
+| 5 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
+| 6 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
 | 7 | [Noel Pearson](http://twitter.com/search?q=Noel+Pearson) | N/A |
-| 8 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 9 | [Daicos](http://twitter.com/search?q=Daicos) | N/A |
+| 8 | [#VoiceToParliament](http://twitter.com/search?q=%23VoiceToParliament) | N/A |
+| 9 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 10 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
-| 11 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
-| 12 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
-| 13 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 14 | [Radley](http://twitter.com/search?q=Radley) | N/A |
-| 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 17 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 11 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 12 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 14 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 15 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 17 | [Radley](http://twitter.com/search?q=Radley) | N/A |
 | 18 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
-| 19 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 20 | [HECS](http://twitter.com/search?q=HECS) | N/A |
-| 21 | [Uluru Statement](http://twitter.com/search?q=Uluru+Statement) | N/A |
-| 22 | [Charlie Cameron](http://twitter.com/search?q=Charlie+Cameron) | N/A |
-| 23 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
-| 24 | [Linda Reynolds](http://twitter.com/search?q=Linda+Reynolds) | N/A |
-| 25 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 26 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
-| 27 | [Inland Rail](http://twitter.com/search?q=Inland+Rail) | N/A |
-| 28 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 19 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
+| 20 | [Nick Daicos](http://twitter.com/search?q=Nick+Daicos) | N/A |
+| 21 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
+| 22 | [charlie cameron](http://twitter.com/search?q=charlie+cameron) | N/A |
+| 23 | [Linda Reynolds](http://twitter.com/search?q=Linda+Reynolds) | N/A |
+| 24 | [Uluru Statement](http://twitter.com/search?q=Uluru+Statement) | N/A |
+| 25 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
+| 26 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 27 | [HECS](http://twitter.com/search?q=HECS) | N/A |
+| 28 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
 | 29 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 30 | [Daniher](http://twitter.com/search?q=Daniher) | N/A |
-| 31 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 32 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 33 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 34 | [chris kenny](http://twitter.com/search?q=chris+kenny) | N/A |
-| 35 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 36 | [Tehan](http://twitter.com/search?q=Tehan) | N/A |
-| 37 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 30 | [inland rail](http://twitter.com/search?q=inland+rail) | N/A |
+| 31 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 32 | [Brisbane](http://twitter.com/search?q=Brisbane) | N/A |
+| 33 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 34 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 35 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
+| 36 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 37 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
 | 38 | [zorko](http://twitter.com/search?q=zorko) | N/A |
-| 39 | [Fred Chaney](http://twitter.com/search?q=Fred+Chaney) | N/A |
-| 40 | [senator dodson](http://twitter.com/search?q=senator+dodson) | N/A |
-| 41 | [Canberra Voice](http://twitter.com/search?q=Canberra+Voice) | N/A |
-| 42 | [Bobby Hill](http://twitter.com/search?q=Bobby+Hill) | N/A |
-| 43 | [Grundy](http://twitter.com/search?q=Grundy) | N/A |
-| 44 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 45 | [Bruce Petty](http://twitter.com/search?q=Bruce+Petty) | N/A |
-| 46 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 47 | [nick meaney](http://twitter.com/search?q=nick+meaney) | N/A |
-| 48 | [Voss](http://twitter.com/search?q=Voss) | N/A |
+| 39 | [Canberra Voice](http://twitter.com/search?q=Canberra+Voice) | N/A |
+| 40 | [bobby hill](http://twitter.com/search?q=bobby+hill) | N/A |
+| 41 | [Fred Chaney](http://twitter.com/search?q=Fred+Chaney) | N/A |
+| 42 | [Senator Dodson](http://twitter.com/search?q=Senator+Dodson) | N/A |
+| 43 | [bruce petty](http://twitter.com/search?q=bruce+petty) | N/A |
+| 44 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 45 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
+| 46 | [Passover](http://twitter.com/search?q=Passover) | N/A |
+| 47 | [ryan gosling](http://twitter.com/search?q=ryan+gosling) | N/A |
+| 48 | [nick meaney](http://twitter.com/search?q=nick+meaney) | N/A |
+| 49 | [Munster](http://twitter.com/search?q=Munster) | N/A |
 
 
 

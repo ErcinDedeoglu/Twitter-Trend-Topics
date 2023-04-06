@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-04-06 16:17:27 UTC`
+📆 Last Updated: `2023-04-06 17:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Colombia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 2 | [#JuevesSanto](http://twitter.com/search?q=%23JuevesSanto) | N/A |
-| 3 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 4 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
+| 1 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 3 | [#JuevesSanto](http://twitter.com/search?q=%23JuevesSanto) | N/A |
+| 4 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 | 5 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 6 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
-| 7 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 7 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 8 | [Tatay](http://twitter.com/search?q=Tatay) | N/A |
-| 9 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 10 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
-| 11 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 12 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 13 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 14 | [aldair quintana](http://twitter.com/search?q=aldair+quintana) | N/A |
-| 15 | [Ocampo](http://twitter.com/search?q=Ocampo) | Ocampo is a Spanish surname derived from the Latin word campus, meaning "field". It is most commonly found in Spain and Latin America. In English, it can be translated to mean "of the field". |
-| 16 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
-| 17 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 18 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 19 | [#desafiothebox2023](http://twitter.com/search?q=%23desafiothebox2023) | N/A |
-| 20 | [Salazar](http://twitter.com/search?q=Salazar) | N/A |
-| 21 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 22 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
-| 23 | [#survivorlaisla](http://twitter.com/search?q=%23survivorlaisla) | N/A |
-| 24 | [Jader](http://twitter.com/search?q=Jader) | N/A |
-| 25 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 26 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
-| 27 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
-| 28 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 29 | [Liberland](http://twitter.com/search?q=Liberland) | N/A |
-| 30 | [#anadenadie](http://twitter.com/search?q=%23anadenadie) | N/A |
-| 31 | [Banguero](http://twitter.com/search?q=Banguero) | N/A |
-| 32 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 33 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 34 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 35 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 36 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
-| 37 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 38 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 39 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
-| 40 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 41 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 42 | [Gamma](http://twitter.com/search?q=Gamma) | N/A |
-| 43 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 44 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
-| 45 | [Manizales](http://twitter.com/search?q=Manizales) | N/A |
-| 46 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 47 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 48 | [Vamos Nacional](http://twitter.com/search?q=Vamos+Nacional) | N/A |
-| 49 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 50 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 9 | [#survivorlaisla](http://twitter.com/search?q=%23survivorlaisla) | N/A |
+| 10 | [aldair quintana](http://twitter.com/search?q=aldair+quintana) | N/A |
+| 11 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 12 | [Ocampo](http://twitter.com/search?q=Ocampo) | Ocampo is a Spanish surname derived from the Latin word campus, meaning "field". It is most commonly found in Spain and Latin America. In English, it can be translated to mean "of the field". |
+| 13 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 15 | [Salazar](http://twitter.com/search?q=Salazar) | N/A |
+| 16 | [#EspnF90](http://twitter.com/search?q=%23EspnF90) | N/A |
+| 17 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
+| 18 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
+| 19 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 20 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
+| 21 | [Liberland](http://twitter.com/search?q=Liberland) | N/A |
+| 22 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
+| 23 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 24 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
+| 25 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 26 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
+| 27 | [Jader](http://twitter.com/search?q=Jader) | N/A |
+| 28 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 29 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 30 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
+| 31 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 32 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 33 | [Banguero](http://twitter.com/search?q=Banguero) | N/A |
+| 34 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 35 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 36 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 37 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 38 | [#justiciaes](http://twitter.com/search?q=%23justiciaes) | N/A |
+| 39 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 40 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 41 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 42 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 43 | [Manizales](http://twitter.com/search?q=Manizales) | N/A |
+| 44 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
+| 45 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 46 | [Gamma](http://twitter.com/search?q=Gamma) | N/A |
+| 47 | [Vamos Nacional](http://twitter.com/search?q=Vamos+Nacional) | N/A |
+| 48 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 49 | [LEO CASTRO](http://twitter.com/search?q=LEO+CASTRO) | N/A |
+| 50 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
 
 
 

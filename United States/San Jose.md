@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-04-06 16:17:25 UTC`
+📆 Last Updated: `2023-04-06 17:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 3 | [Katie](http://twitter.com/search?q=Katie) | N/A |
-| 4 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 5 | [Budweiser](http://twitter.com/search?q=Budweiser) | N/A |
+| 1 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 2 | [Katie](http://twitter.com/search?q=Katie) | N/A |
+| 3 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 4 | [Chris Pratt](http://twitter.com/search?q=Chris+Pratt) | N/A |
+| 5 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
 | 6 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 7 | [#MaziOnBitmart](http://twitter.com/search?q=%23MaziOnBitmart) | N/A |
+| 7 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
 | 8 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 9 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 10 | [#MoodPitch](http://twitter.com/search?q=%23MoodPitch) | N/A |
-| 11 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 12 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 13 | [#NationalStudentAthleteDay](http://twitter.com/search?q=%23NationalStudentAthleteDay) | N/A |
-| 14 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
-| 15 | [Kevin Na](http://twitter.com/search?q=Kevin+Na) | N/A |
-| 16 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 9 | [#MaziOnBitmart](http://twitter.com/search?q=%23MaziOnBitmart) | N/A |
+| 10 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 11 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 12 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 13 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 14 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 15 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 16 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
 | 17 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
-| 18 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 18 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
 | 19 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 20 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 21 | [Bohemian Grove](http://twitter.com/search?q=Bohemian+Grove) | N/A |
-| 22 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 23 | [ProPublica](http://twitter.com/search?q=ProPublica) | N/A |
-| 24 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 25 | [Uncle Remus](http://twitter.com/search?q=Uncle+Remus) | N/A |
-| 26 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 27 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
-| 28 | [John Roberts](http://twitter.com/search?q=John+Roberts) | N/A |
-| 29 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 30 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
-| 31 | [Cameron Young](http://twitter.com/search?q=Cameron+Young) | N/A |
-| 32 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 33 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 34 | [Cam Young](http://twitter.com/search?q=Cam+Young) | N/A |
-| 35 | [Ginni](http://twitter.com/search?q=Ginni) | N/A |
-| 36 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 20 | [Bohemian Grove](http://twitter.com/search?q=Bohemian+Grove) | N/A |
+| 21 | [FedNow](http://twitter.com/search?q=FedNow) | N/A |
+| 22 | [Pomerantz](http://twitter.com/search?q=Pomerantz) | N/A |
+| 23 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 24 | [Tim Boyle](http://twitter.com/search?q=Tim+Boyle) | Tim Boyle is a slang term used to describe someone who is overly eager or enthusiastic. It is often used in a humorous way to describe someone who is overly eager to please or impress others. |
+| 25 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 26 | [Kevin Na](http://twitter.com/search?q=Kevin+Na) | N/A |
+| 27 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 28 | [ProPublica](http://twitter.com/search?q=ProPublica) | N/A |
+| 29 | [Uncle Remus](http://twitter.com/search?q=Uncle+Remus) | N/A |
+| 30 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 31 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 32 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 33 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 34 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 35 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 36 | [John Roberts](http://twitter.com/search?q=John+Roberts) | N/A |
 | 37 | [Engine](http://twitter.com/search?q=Engine) | N/A |
-| 38 | [Oakley](http://twitter.com/search?q=Oakley) | N/A |
-| 39 | [CBDQ](http://twitter.com/search?q=CBDQ) | N/A |
-| 40 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
-| 41 | [Justices](http://twitter.com/search?q=Justices) | Justices is a term used to refer to judges in the legal system. It is also used to refer to members of the Supreme Court of the United States. Justices are responsible for interpreting and applying laws, as well as ruling on cases brought before them. |
-| 42 | [Scalia](http://twitter.com/search?q=Scalia) | N/A |
-| 43 | [Icebox](http://twitter.com/search?q=Icebox) | N/A |
-| 44 | [Progress](http://twitter.com/search?q=Progress) | N/A |
-| 45 | [Fed Now](http://twitter.com/search?q=Fed+Now) | N/A |
-| 46 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 47 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
-| 48 | [Athleta](http://twitter.com/search?q=Athleta) | N/A |
-| 49 | [Sotomayor](http://twitter.com/search?q=Sotomayor) | N/A |
-| 50 | [Hagler](http://twitter.com/search?q=Hagler) | N/A |
+| 38 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 39 | [Gruesome Twosome](http://twitter.com/search?q=Gruesome+Twosome) | N/A |
+| 40 | [Icebox](http://twitter.com/search?q=Icebox) | N/A |
+| 41 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
+| 42 | [Tatis](http://twitter.com/search?q=Tatis) | N/A |
+| 43 | [Kavanaugh](http://twitter.com/search?q=Kavanaugh) | N/A |
+| 44 | [Ginni](http://twitter.com/search?q=Ginni) | N/A |
+| 45 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
+| 46 | [Cameron Young](http://twitter.com/search?q=Cameron+Young) | N/A |
+| 47 | [Jamison Battle](http://twitter.com/search?q=Jamison+Battle) | N/A |
+| 48 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 49 | [Justices](http://twitter.com/search?q=Justices) | Justices is a term used to refer to judges in the legal system. It is also used to refer to members of the Supreme Court of the United States. Justices are responsible for interpreting and applying laws, as well as ruling on cases brought before them. |
 
 
 

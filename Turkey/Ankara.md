@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-04-06 16:17:16 UTC`
+📆 Last Updated: `2023-04-06 17:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MaziOnBitmart](http://twitter.com/search?q=%23MaziOnBitmart) | N/A |
-| 2 | [#15RamazanYetimlerGünü](http://twitter.com/search?q=%2315RamazanYetimlerG%c3%bcn%c3%bc) | N/A |
-| 3 | [#SandığaGömülecekler](http://twitter.com/search?q=%23Sand%c4%b1%c4%9faG%c3%b6m%c3%bclecekler) | N/A |
-| 4 | [Güçlü Türkiye](http://twitter.com/search?q=G%c3%bc%c3%a7l%c3%bc+T%c3%bcrkiye) | N/A |
-| 5 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
-| 6 | [#nasılolmalı](http://twitter.com/search?q=%23nas%c4%b1lolmal%c4%b1) | N/A |
-| 7 | [Kızılaya](http://twitter.com/search?q=K%c4%b1z%c4%b1laya) | N/A |
-| 8 | [Sergen Yalçın](http://twitter.com/search?q=Sergen+Yal%c3%a7%c4%b1n) | N/A |
-| 9 | [Van'da 4.1](http://twitter.com/search?q=Van%27da+4.1) | N/A |
-| 10 | [Adana'nın Saimbeyli](http://twitter.com/search?q=Adana%27n%c4%b1n+Saimbeyli) | N/A |
-| 11 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
-| 12 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
-| 13 | [Sarıgül](http://twitter.com/search?q=Sar%c4%b1g%c3%bcl) | N/A |
-| 14 | [Fenerbahçe - Kayserispor](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Kayserispor) | N/A |
-| 15 | [Kiracı](http://twitter.com/search?q=Kirac%c4%b1) | N/A |
-| 16 | [Lübnan](http://twitter.com/search?q=L%c3%bcbnan) | N/A |
-| 17 | [Tuğçe](http://twitter.com/search?q=Tu%c4%9f%c3%a7e) | N/A |
-| 18 | [Emine](http://twitter.com/search?q=Emine) | N/A |
-| 19 | [İstanbul Valiliği](http://twitter.com/search?q=%c4%b0stanbul+Valili%c4%9fi) | N/A |
-| 20 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
-| 21 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
-| 22 | [Cengiz Kurtoğlu](http://twitter.com/search?q=Cengiz+Kurto%c4%9flu) | N/A |
-| 23 | [KORKMUYORUZ](http://twitter.com/search?q=KORKMUYORUZ) | N/A |
-| 24 | [Cengiz Çandar](http://twitter.com/search?q=Cengiz+%c3%87andar) | N/A |
-| 25 | [7 Nisan Cuma](http://twitter.com/search?q=7+Nisan+Cuma) | N/A |
-| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 27 | [CHP İstanbul İl Başkanlığı'na](http://twitter.com/search?q=CHP+%c4%b0stanbul+%c4%b0l+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1%27na) | N/A |
-| 28 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
-| 29 | [Sahip Ata Külliyesi](http://twitter.com/search?q=Sahip+Ata+K%c3%bclliyesi) | N/A |
-| 30 | [Anadolu Ajansı'nın 103](http://twitter.com/search?q=Anadolu+Ajans%c4%b1%27n%c4%b1n+103) | N/A |
-| 31 | [Bekçi](http://twitter.com/search?q=Bek%c3%a7i) | N/A |
-| 32 | [Mekanları](http://twitter.com/search?q=Mekanlar%c4%b1) | N/A |
-| 33 | [Saadet Partisi](http://twitter.com/search?q=Saadet+Partisi) | N/A |
-| 34 | [Demokrat Parti](http://twitter.com/search?q=Demokrat+Parti) | N/A |
-| 35 | [Başımız](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1z) | N/A |
-| 36 | [Öcalan](http://twitter.com/search?q=%c3%96calan) | N/A |
-| 37 | [Begüm](http://twitter.com/search?q=Beg%c3%bcm) | N/A |
-| 38 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
-| 39 | [Canan Kaftancıoğlu](http://twitter.com/search?q=Canan+Kaftanc%c4%b1o%c4%9flu) | N/A |
-| 40 | [İl Başkanlığımıza](http://twitter.com/search?q=%c4%b0l+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1m%c4%b1za) | N/A |
-| 41 | [Deva](http://twitter.com/search?q=Deva) | N/A |
-| 42 | [Kuzu](http://twitter.com/search?q=Kuzu) | N/A |
-| 43 | [Şimşek](http://twitter.com/search?q=%c5%9eim%c5%9fek) | N/A |
-| 44 | [6 Nisan Perşembe](http://twitter.com/search?q=6+Nisan+Per%c5%9fembe) | N/A |
-| 45 | [G E L İ Y O R U Z](http://twitter.com/search?q=G+E+L+%c4%b0+Y+O+R+U+Z) | N/A |
-| 46 | [Gelecek Partisi](http://twitter.com/search?q=Gelecek+Partisi) | N/A |
-| 47 | [fikri sağlar](http://twitter.com/search?q=fikri+sa%c4%9flar) | N/A |
-| 48 | [#saldırı](http://twitter.com/search?q=%23sald%c4%b1r%c4%b1) | N/A |
-| 49 | [#Çantamınİçinde](http://twitter.com/search?q=%23%c3%87antam%c4%b1n%c4%b0%c3%a7inde) | N/A |
+| 1 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
+| 2 | [Emel Uslu Atik](http://twitter.com/search?q=Emel+Uslu+Atik) | N/A |
+| 3 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
+| 4 | [#MaziOnBitmart](http://twitter.com/search?q=%23MaziOnBitmart) | N/A |
+| 5 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 6 | [#tuzkoktu](http://twitter.com/search?q=%23tuzkoktu) | N/A |
+| 7 | [#15RamazanYetimlerGünü](http://twitter.com/search?q=%2315RamazanYetimlerG%c3%bcn%c3%bc) | N/A |
+| 8 | [Güçlü Türkiye](http://twitter.com/search?q=G%c3%bc%c3%a7l%c3%bc+T%c3%bcrkiye) | N/A |
+| 9 | [Sergen Yalçın](http://twitter.com/search?q=Sergen+Yal%c3%a7%c4%b1n) | N/A |
+| 10 | [Kanımızı](http://twitter.com/search?q=Kan%c4%b1m%c4%b1z%c4%b1) | N/A |
+| 11 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 12 | [Alioski](http://twitter.com/search?q=Alioski) | N/A |
+| 13 | [SözümüzSöz OyumuzAffa](http://twitter.com/search?q=S%c3%b6z%c3%bcm%c3%bczS%c3%b6z+OyumuzAffa) | N/A |
+| 14 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 15 | [Adana'nın Saimbeyli](http://twitter.com/search?q=Adana%27n%c4%b1n+Saimbeyli) | N/A |
+| 16 | [Fenerbahçe Opet](http://twitter.com/search?q=Fenerbah%c3%a7e+Opet) | N/A |
+| 17 | [Sarıgül](http://twitter.com/search?q=Sar%c4%b1g%c3%bcl) | N/A |
+| 18 | [Van'da 4.1](http://twitter.com/search?q=Van%27da+4.1) | N/A |
+| 19 | [Fenerbahçe - Kayserispor](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Kayserispor) | N/A |
+| 20 | [Yunanistan](http://twitter.com/search?q=Yunanistan) | N/A |
+| 21 | [Satacak](http://twitter.com/search?q=Satacak) | N/A |
+| 22 | [Vakıfbank](http://twitter.com/search?q=Vak%c4%b1fbank) | N/A |
+| 23 | [Düzenli](http://twitter.com/search?q=D%c3%bczenli) | N/A |
+| 24 | [Gülben Ergen](http://twitter.com/search?q=G%c3%bclben+Ergen) | N/A |
+| 25 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
+| 26 | [Ümmühan Dilbilir](http://twitter.com/search?q=%c3%9cmm%c3%bchan+Dilbilir) | N/A |
+| 27 | [Günahımı](http://twitter.com/search?q=G%c3%bcnah%c4%b1m%c4%b1) | N/A |
+| 28 | [Emine](http://twitter.com/search?q=Emine) | N/A |
+| 29 | [Dilek Altıparmak](http://twitter.com/search?q=Dilek+Alt%c4%b1parmak) | N/A |
+| 30 | [Cengiz Çandar](http://twitter.com/search?q=Cengiz+%c3%87andar) | N/A |
+| 31 | [Tuğçe](http://twitter.com/search?q=Tu%c4%9f%c3%a7e) | N/A |
+| 32 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
+| 33 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
+| 34 | [Kiracı](http://twitter.com/search?q=Kirac%c4%b1) | N/A |
+| 35 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
+| 36 | [Lübnan](http://twitter.com/search?q=L%c3%bcbnan) | N/A |
+| 37 | [İstanbul Valiliği](http://twitter.com/search?q=%c4%b0stanbul+Valili%c4%9fi) | N/A |
+| 38 | [7 Nisan Cuma](http://twitter.com/search?q=7+Nisan+Cuma) | N/A |
+| 39 | [Cengiz Kurtoğlu](http://twitter.com/search?q=Cengiz+Kurto%c4%9flu) | N/A |
+| 40 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
+| 41 | [KORKMUYORUZ](http://twitter.com/search?q=KORKMUYORUZ) | N/A |
+| 42 | [Anadolu Ajansı'nın 103](http://twitter.com/search?q=Anadolu+Ajans%c4%b1%27n%c4%b1n+103) | N/A |
+| 43 | [Cansu](http://twitter.com/search?q=Cansu) | N/A |
+| 44 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 45 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
+| 46 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
+| 47 | [CHP İstanbul İl Başkanlığı'na](http://twitter.com/search?q=CHP+%c4%b0stanbul+%c4%b0l+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1%27na) | N/A |
+| 48 | [Begüm Polat](http://twitter.com/search?q=Beg%c3%bcm+Polat) | N/A |
+| 49 | [Mekanları](http://twitter.com/search?q=Mekanlar%c4%b1) | N/A |
 
 
 

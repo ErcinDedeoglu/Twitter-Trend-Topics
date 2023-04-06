@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-04-06 16:17:00 UTC`
+📆 Last Updated: `2023-04-06 17:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 3 | [Gorengan Harga Mati](http://twitter.com/search?q=Gorengan+Harga+Mati) | N/A |
 | 4 | [#TMSD](http://twitter.com/search?q=%23TMSD) | #TMSD stands for "The Most Significant Digit" and is a term used in mathematics to refer to the digit in a number that has the greatest value. For example, in the number 1234, the most significant digit is 1. |
 | 5 | [#TreasureMakerSelcaDay](http://twitter.com/search?q=%23TreasureMakerSelcaDay) | #TreasureMakerSelcaDay is a hashtag used by fans of the South Korean girl group Treasure to celebrate the group's members on a specific day. The hashtag is used to share photos of the members and show appreciation for them. In English, it translates to "Treasure Member Selfie Day". |
-| 6 | [#TeumeSelcaDay](http://twitter.com/search?q=%23TeumeSelcaDay) | N/A |
-| 7 | [Laporin](http://twitter.com/search?q=Laporin) | N/A |
-| 8 | [Pilihan Zillennial Jateng](http://twitter.com/search?q=Pilihan+Zillennial+Jateng) | N/A |
-| 9 | [BM LAST EVALUATION EP5](http://twitter.com/search?q=BM+LAST+EVALUATION+EP5) | N/A |
-| 10 | [Jepri](http://twitter.com/search?q=Jepri) | N/A |
-| 11 | [YOU DID WELL](http://twitter.com/search?q=YOU+DID+WELL) | N/A |
-| 12 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 13 | [Sariwangi](http://twitter.com/search?q=Sariwangi) | N/A |
-| 14 | [Onic](http://twitter.com/search?q=Onic) | N/A |
-| 15 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 16 | [Kamis Putih](http://twitter.com/search?q=Kamis+Putih) | N/A |
-| 17 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 18 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 19 | [Tabungan BRI Simpedes](http://twitter.com/search?q=Tabungan+BRI+Simpedes) | N/A |
+| 6 | [#LALISAMV600M](http://twitter.com/search?q=%23LALISAMV600M) | N/A |
+| 7 | [BM LAST EVALUATION EP5](http://twitter.com/search?q=BM+LAST+EVALUATION+EP5) | N/A |
+| 8 | [Jepri](http://twitter.com/search?q=Jepri) | N/A |
+| 9 | [Rora](http://twitter.com/search?q=Rora) | Rora is a Japanese term that translates to "lonely" or "isolated." It is often used to describe someone who feels alone or disconnected from the world around them. |
+| 10 | [Laporin](http://twitter.com/search?q=Laporin) | N/A |
+| 11 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 12 | [YOU DID WELL](http://twitter.com/search?q=YOU+DID+WELL) | N/A |
+| 13 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 14 | [Kamis Putih](http://twitter.com/search?q=Kamis+Putih) | N/A |
+| 15 | [Sariwangi](http://twitter.com/search?q=Sariwangi) | N/A |
+| 16 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 17 | [Jumat Agung](http://twitter.com/search?q=Jumat+Agung) | N/A |
+| 18 | [Samperin](http://twitter.com/search?q=Samperin) | N/A |
+| 19 | [UU ITE](http://twitter.com/search?q=UU+ITE) | N/A |
 | 20 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 21 | [UU ITE](http://twitter.com/search?q=UU+ITE) | N/A |
-| 22 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 23 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 24 | [Jumat Agung](http://twitter.com/search?q=Jumat+Agung) | N/A |
-| 25 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 26 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 27 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 28 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
-| 29 | [Aldebaran](http://twitter.com/search?q=Aldebaran) | N/A |
-| 30 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 31 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 32 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 33 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 34 | [Odgj](http://twitter.com/search?q=Odgj) | N/A |
-| 35 | [Polisi](http://twitter.com/search?q=Polisi) | N/A |
+| 21 | [Onic](http://twitter.com/search?q=Onic) | N/A |
+| 22 | [Jefri Nichol](http://twitter.com/search?q=Jefri+Nichol) | N/A |
+| 23 | [Pilihan Zillennial Jateng](http://twitter.com/search?q=Pilihan+Zillennial+Jateng) | N/A |
+| 24 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 25 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
+| 26 | [PSIS](http://twitter.com/search?q=PSIS) | N/A |
+| 27 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 28 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 29 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 30 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 31 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 32 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 33 | [Kingdom](http://twitter.com/search?q=Kingdom) | N/A |
+| 34 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
+| 35 | [Paskah](http://twitter.com/search?q=Paskah) | N/A |
 | 36 | [EXO 11th Anniversary](http://twitter.com/search?q=EXO+11th+Anniversary) | N/A |
-| 37 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 38 | [Adminnya](http://twitter.com/search?q=Adminnya) | N/A |
-| 39 | [Kucingku](http://twitter.com/search?q=Kucingku) | N/A |
-| 40 | [Paskah](http://twitter.com/search?q=Paskah) | N/A |
-| 41 | [Dita](http://twitter.com/search?q=Dita) | N/A |
+| 37 | [Adminnya](http://twitter.com/search?q=Adminnya) | N/A |
+| 38 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 39 | [GOLDEN HOUR MV TEASER](http://twitter.com/search?q=GOLDEN+HOUR+MV+TEASER) | N/A |
+| 40 | [Dita](http://twitter.com/search?q=Dita) | N/A |
+| 41 | [#TeumeSelcaDay](http://twitter.com/search?q=%23TeumeSelcaDay) | N/A |
 | 42 | [#ItsSiwonDay](http://twitter.com/search?q=%23ItsSiwonDay) | N/A |
-| 43 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
-| 44 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
-| 45 | [#태용버블](http://twitter.com/search?q=%23%ed%83%9c%ec%9a%a9%eb%b2%84%eb%b8%94) | N/A |
-| 46 | [#JKT48TheSlapShow](http://twitter.com/search?q=%23JKT48TheSlapShow) | N/A |
-| 47 | [#툥블답장](http://twitter.com/search?q=%23%ed%88%a5%eb%b8%94%eb%8b%b5%ec%9e%a5) | N/A |
-| 48 | [#JIHOON](http://twitter.com/search?q=%23JIHOON) | N/A |
-| 49 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 43 | [#eaJSafeInTheRain](http://twitter.com/search?q=%23eaJSafeInTheRain) | N/A |
+| 44 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
+| 45 | [#JKT48TheSlapShow](http://twitter.com/search?q=%23JKT48TheSlapShow) | N/A |
+| 46 | [#국힙원탑_최수민_생일이래요](http://twitter.com/search?q=%23%ea%b5%ad%ed%9e%99%ec%9b%90%ed%83%91_%ec%b5%9c%ec%88%98%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%9d%b4%eb%9e%98%ec%9a%94) | N/A |
+| 47 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
+| 48 | [#툥블답장](http://twitter.com/search?q=%23%ed%88%a5%eb%b8%94%eb%8b%b5%ec%9e%a5) | N/A |
+| 49 | [#태용버블](http://twitter.com/search?q=%23%ed%83%9c%ec%9a%a9%eb%b2%84%eb%b8%94) | N/A |
 
 
 

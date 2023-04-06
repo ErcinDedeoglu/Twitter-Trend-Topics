@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-04-06 16:16:54 UTC`
+📆 Last Updated: `2023-04-06 17:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,52 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#manif6avril](http://twitter.com/search?q=%23manif6avril) | N/A |
-| 2 | [#XFF23](http://twitter.com/search?q=%23XFF23) | N/A |
+| 1 | [#XFF23](http://twitter.com/search?q=%23XFF23) | N/A |
+| 2 | [#manif6avril](http://twitter.com/search?q=%23manif6avril) | N/A |
 | 3 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
-| 4 | [Rotonde](http://twitter.com/search?q=Rotonde) | N/A |
-| 5 | [#MacronVaCraquer](http://twitter.com/search?q=%23MacronVaCraquer) | N/A |
-| 6 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
-| 7 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
-| 8 | [Sophie Binet](http://twitter.com/search?q=Sophie+Binet) | N/A |
+| 4 | [#MacronVaCraquer](http://twitter.com/search?q=%23MacronVaCraquer) | N/A |
+| 5 | [Rotonde](http://twitter.com/search?q=Rotonde) | N/A |
+| 6 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 7 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
+| 8 | [EA Sports FC](http://twitter.com/search?q=EA+Sports+FC) | N/A |
 | 9 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
-| 10 | [Grand Paris Express](http://twitter.com/search?q=Grand+Paris+Express) | N/A |
-| 11 | [Nespresso](http://twitter.com/search?q=Nespresso) | N/A |
-| 12 | [Thiem](http://twitter.com/search?q=Thiem) | Thiem is a surname of German origin. It is derived from the Old German word "diem" meaning "people". The name is most commonly found in Germany, Austria, and Switzerland. |
-| 13 | [Montparnasse](http://twitter.com/search?q=Montparnasse) | N/A |
+| 10 | [Binet](http://twitter.com/search?q=Binet) | N/A |
+| 11 | [Landa](http://twitter.com/search?q=Landa) | N/A |
+| 12 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
+| 13 | [Nespresso](http://twitter.com/search?q=Nespresso) | N/A |
 | 14 | [Johnny Depp](http://twitter.com/search?q=Johnny+Depp) | N/A |
-| 15 | [Hezbollah](http://twitter.com/search?q=Hezbollah) | N/A |
-| 16 | [CFDT](http://twitter.com/search?q=CFDT) | N/A |
-| 17 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
-| 18 | [G.O.A.T.](http://twitter.com/search?q=G.O.A.T.) | N/A |
-| 19 | [Les 84](http://twitter.com/search?q=Les+84) | N/A |
-| 20 | [Liban](http://twitter.com/search?q=Liban) | N/A |
-| 21 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 22 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 23 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 24 | [Bolloré](http://twitter.com/search?q=Bollor%c3%a9) | N/A |
-| 25 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 26 | [Oden](http://twitter.com/search?q=Oden) | N/A |
-| 27 | [Invalides](http://twitter.com/search?q=Invalides) | N/A |
-| 28 | [France Inter](http://twitter.com/search?q=France+Inter) | N/A |
-| 29 | [Shizzle](http://twitter.com/search?q=Shizzle) | N/A |
-| 30 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
-| 31 | [Bilal](http://twitter.com/search?q=Bilal) | N/A |
-| 32 | [Pékin](http://twitter.com/search?q=P%c3%a9kin) | N/A |
+| 15 | [Grand Paris Express](http://twitter.com/search?q=Grand+Paris+Express) | N/A |
+| 16 | [Hezbollah](http://twitter.com/search?q=Hezbollah) | N/A |
+| 17 | [Sevran](http://twitter.com/search?q=Sevran) | N/A |
+| 18 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 19 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 20 | [Montparnasse](http://twitter.com/search?q=Montparnasse) | N/A |
+| 21 | [Shizzle](http://twitter.com/search?q=Shizzle) | N/A |
+| 22 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 23 | [CFDT](http://twitter.com/search?q=CFDT) | N/A |
+| 24 | [G.O.A.T.](http://twitter.com/search?q=G.O.A.T.) | N/A |
+| 25 | [France Inter](http://twitter.com/search?q=France+Inter) | N/A |
+| 26 | [Antilles](http://twitter.com/search?q=Antilles) | N/A |
+| 27 | [Liban](http://twitter.com/search?q=Liban) | N/A |
+| 28 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
+| 29 | [Invalides](http://twitter.com/search?q=Invalides) | N/A |
+| 30 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 31 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 32 | [Bilal](http://twitter.com/search?q=Bilal) | N/A |
 | 33 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 34 | [Antilles](http://twitter.com/search?q=Antilles) | N/A |
-| 35 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 36 | [Berger](http://twitter.com/search?q=Berger) | N/A |
-| 37 | [#64ansCestToujoursNon](http://twitter.com/search?q=%2364ansCestToujoursNon) | N/A |
-| 38 | [#Toulouse](http://twitter.com/search?q=%23Toulouse) | N/A |
-| 39 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
-| 40 | [#64ansCestNon](http://twitter.com/search?q=%2364ansCestNon) | N/A |
+| 34 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 35 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
+| 36 | [#FamillesNombreuses](http://twitter.com/search?q=%23FamillesNombreuses) | N/A |
+| 37 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
+| 38 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
+| 39 | [#Toulouse](http://twitter.com/search?q=%23Toulouse) | N/A |
+| 40 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
 | 41 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
-| 42 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 43 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
-| 44 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
+| 42 | [#jeudiphoto](http://twitter.com/search?q=%23jeudiphoto) | N/A |
+| 43 | [#64ansCestToujoursNon](http://twitter.com/search?q=%2364ansCestToujoursNon) | N/A |
+| 44 | [#64ansCestNON](http://twitter.com/search?q=%2364ansCestNON) | N/A |
 | 45 | [#Strasbourg](http://twitter.com/search?q=%23Strasbourg) | N/A |
-| 46 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
-| 47 | [#Brest](http://twitter.com/search?q=%23Brest) | N/A |
-| 48 | [#JusquauRetrait](http://twitter.com/search?q=%23JusquauRetrait) | N/A |
+| 46 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
 
 
 
