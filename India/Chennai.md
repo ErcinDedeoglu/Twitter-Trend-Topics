@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-04-06 01:44:58 UTC`
+📆 Last Updated: `2023-04-06 02:30:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,34 +17,51 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#RRvsPBKS](http://twitter.com/search?q=%23RRvsPBKS) | N/A |
 | 2 | [#हनुमान_जन्मोत्सव](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8_%e0%a4%9c%e0%a4%a8%e0%a5%8d%e0%a4%ae%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b8%e0%a4%b5) | N/A |
-| 3 | [#HanumanJayanti](http://twitter.com/search?q=%23HanumanJayanti) | N/A |
+| 3 | [#StoryOfHanumanJi](http://twitter.com/search?q=%23StoryOfHanumanJi) | N/A |
 | 4 | [#BJPSthapnaDiwas](http://twitter.com/search?q=%23BJPSthapnaDiwas) | N/A |
 | 5 | [भारतीय जनता पार्टी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
 | 6 | [Method Of Meditation](http://twitter.com/search?q=Method+Of+Meditation) | N/A |
-| 7 | [राष्ट्र सेवा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%be) | N/A |
-| 8 | [परमेश्वर कबीर](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
-| 9 | [बड़ी पार्टी](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 10 | [कृपा दृष्टि](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%aa%e0%a4%be+%e0%a4%a6%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%bf) | N/A |
-| 11 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 7 | [Muninder Rishi](http://twitter.com/search?q=Muninder+Rishi) | N/A |
+| 8 | [Official App](http://twitter.com/search?q=Official+App) | N/A |
+| 9 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
+| 10 | [परमेश्वर कबीर](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
+| 11 | [बड़ी पार्टी](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
 | 12 | [राम लखन सीता](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b2%e0%a4%96%e0%a4%a8+%e0%a4%b8%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
-| 13 | [श्री बालाजी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%be%e0%a4%b2%e0%a4%be%e0%a4%9c%e0%a5%80) | N/A |
-| 14 | [बालाजी महाराज](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%b2%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
-| 15 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 16 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 17 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 18 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 19 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 20 | [#KeyOfPositivity](http://twitter.com/search?q=%23KeyOfPositivity) | N/A |
-| 21 | [#BJPFoundationDay](http://twitter.com/search?q=%23BJPFoundationDay) | N/A |
-| 22 | [#GodMorningThursday](http://twitter.com/search?q=%23GodMorningThursday) | N/A |
-| 23 | [#AlAqsaUnderAttack](http://twitter.com/search?q=%23AlAqsaUnderAttack) | N/A |
-| 24 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 25 | [#Palestine](http://twitter.com/search?q=%23Palestine) | N/A |
-| 26 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
-| 27 | [#MUNBRE](http://twitter.com/search?q=%23MUNBRE) | N/A |
-| 28 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 29 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 30 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
+| 13 | [राष्ट्र सेवा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%be) | N/A |
+| 14 | [अनन्य भक्त](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
+| 15 | [परम भक्त](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
+| 16 | [संकट मोचन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%9f+%e0%a4%ae%e0%a5%8b%e0%a4%9a%e0%a4%a8) | N/A |
+| 17 | [राष्ट्र निर्माण](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a3) | N/A |
+| 18 | [लाल देह लाली](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%a6%e0%a5%87%e0%a4%b9+%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%80) | N/A |
+| 19 | [चैत्र पूर्णिमा](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3%e0%a4%bf%e0%a4%ae%e0%a4%be) | N/A |
+| 20 | [सुर भूप](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b0+%e0%a4%ad%e0%a5%82%e0%a4%aa) | N/A |
+| 21 | [मोक्ष मार्ग](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%95%e0%a5%8d%e0%a4%b7+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%97) | N/A |
+| 22 | [श्री बालाजी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%be%e0%a4%b2%e0%a4%be%e0%a4%9c%e0%a5%80) | N/A |
+| 23 | [कृपा दृष्टि](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%aa%e0%a4%be+%e0%a4%a6%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%bf) | N/A |
+| 24 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 25 | [मंगल मूरति](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%97%e0%a4%b2+%e0%a4%ae%e0%a5%82%e0%a4%b0%e0%a4%a4%e0%a4%bf) | N/A |
+| 26 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 27 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 28 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 29 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 30 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 31 | [#KeyOfPositivity](http://twitter.com/search?q=%23KeyOfPositivity) | N/A |
+| 32 | [#BJPFoundationDay](http://twitter.com/search?q=%23BJPFoundationDay) | N/A |
+| 33 | [#जय_श्रीराम](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af_%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 34 | [#GodMorningThursday](http://twitter.com/search?q=%23GodMorningThursday) | N/A |
+| 35 | [#स्थापना_दिवस](http://twitter.com/search?q=%23%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%aa%e0%a4%a8%e0%a4%be_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 36 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 37 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 38 | [#JaiBajrangBali](http://twitter.com/search?q=%23JaiBajrangBali) | N/A |
+| 39 | [#MUNBRE](http://twitter.com/search?q=%23MUNBRE) | N/A |
+| 40 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 41 | [#FreePalestine](http://twitter.com/search?q=%23FreePalestine) | N/A |
+| 42 | [#AlAqsaUnderAttack](http://twitter.com/search?q=%23AlAqsaUnderAttack) | N/A |
+| 43 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 44 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 45 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 46 | [#UstaadBhagatSingh](http://twitter.com/search?q=%23UstaadBhagatSingh) | N/A |
+| 47 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
 
 
 

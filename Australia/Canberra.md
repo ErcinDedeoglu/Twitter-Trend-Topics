@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-06 01:44:41 UTC`
+📆 Last Updated: `2023-04-06 02:30:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Australia](</Australia>)
 | 4 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
 | 5 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 6 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 9 | [#NameThisBand](http://twitter.com/search?q=%23NameThisBand) | N/A |
-| 10 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 11 | [Inland Rail](http://twitter.com/search?q=Inland+Rail) | N/A |
-| 12 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 10 | [Inland Rail](http://twitter.com/search?q=Inland+Rail) | N/A |
+| 11 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 12 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
 | 13 | [Uluru Statement](http://twitter.com/search?q=Uluru+Statement) | N/A |
-| 14 | [America](http://twitter.com/search?q=America) | N/A |
-| 15 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
-| 16 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 14 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 15 | [America](http://twitter.com/search?q=America) | N/A |
+| 16 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
 | 17 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 18 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 18 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
 | 19 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 20 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
-| 21 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
-| 22 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
-| 23 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 24 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 25 | [Ann Lesley Smith](http://twitter.com/search?q=Ann+Lesley+Smith) | N/A |
-| 26 | [Passover](http://twitter.com/search?q=Passover) | N/A |
-| 27 | [Canberra Voice](http://twitter.com/search?q=Canberra+Voice) | N/A |
-| 28 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 29 | [Chris Kenny](http://twitter.com/search?q=Chris+Kenny) | N/A |
-| 30 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 31 | [Newspoll](http://twitter.com/search?q=Newspoll) | N/A |
+| 20 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 21 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 22 | [Chris Kenny](http://twitter.com/search?q=Chris+Kenny) | N/A |
+| 23 | [Canberra Voice](http://twitter.com/search?q=Canberra+Voice) | N/A |
+| 24 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 25 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 26 | [Birmingham](http://twitter.com/search?q=Birmingham) | N/A |
+| 27 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 28 | [Passover](http://twitter.com/search?q=Passover) | N/A |
+| 29 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 30 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 31 | [Campbell Newman](http://twitter.com/search?q=Campbell+Newman) | N/A |
 | 32 | [Abbott 2.0](http://twitter.com/search?q=Abbott+2.0) | N/A |
-| 33 | [Campbell Newman](http://twitter.com/search?q=Campbell+Newman) | N/A |
-| 34 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
-| 35 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
-| 36 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 37 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 38 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 39 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
-| 40 | [Narty](http://twitter.com/search?q=Narty) | N/A |
-| 41 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
-| 42 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 43 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 44 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 45 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 46 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 47 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 48 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
+| 33 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 34 | [Newspoll](http://twitter.com/search?q=Newspoll) | N/A |
+| 35 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 36 | [Book Depository](http://twitter.com/search?q=Book+Depository) | N/A |
+| 37 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 38 | [ryan gosling](http://twitter.com/search?q=ryan+gosling) | N/A |
+| 39 | [Bruce Lehrmann](http://twitter.com/search?q=Bruce+Lehrmann) | N/A |
+| 40 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 41 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 42 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 43 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
+| 44 | [Narty](http://twitter.com/search?q=Narty) | N/A |
+| 45 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 46 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 47 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 48 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
 
 
 

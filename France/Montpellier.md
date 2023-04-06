@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-04-06 01:44:32 UTC`
+📆 Last Updated: `2023-04-06 02:29:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [France](</France>)
 | 1 | [#FCNOL](http://twitter.com/search?q=%23FCNOL) | N/A |
 | 2 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 3 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 4 | [Blas](http://twitter.com/search?q=Blas) | N/A |
-| 5 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 4 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 5 | [Blas](http://twitter.com/search?q=Blas) | N/A |
 | 6 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
 | 7 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
 | 8 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
@@ -27,38 +27,30 @@ This is top 50 for [France](</France>)
 | 10 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 11 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 12 | [#CoupeDeFrance](http://twitter.com/search?q=%23CoupeDeFrance) | N/A |
-| 13 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 14 | [Beaujoire](http://twitter.com/search?q=Beaujoire) | N/A |
-| 15 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
-| 16 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 17 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
-| 18 | [G.O.A.T.](http://twitter.com/search?q=G.O.A.T.) | N/A |
-| 19 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 20 | [Pallois](http://twitter.com/search?q=Pallois) | N/A |
-| 21 | [Aulas](http://twitter.com/search?q=Aulas) | N/A |
-| 22 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 23 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 25 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
-| 26 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
-| 27 | [François Civil](http://twitter.com/search?q=Fran%c3%a7ois+Civil) | N/A |
-| 28 | [Nueve](http://twitter.com/search?q=Nueve) | N/A |
-| 29 | [La LDH](http://twitter.com/search?q=La+LDH) | N/A |
-| 30 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 31 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
-| 32 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 33 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 34 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
-| 35 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 36 | [Parcoursup](http://twitter.com/search?q=Parcoursup) | N/A |
-| 37 | [Kombouaré](http://twitter.com/search?q=Kombouar%c3%a9) | N/A |
-| 38 | [Édouard Philippe](http://twitter.com/search?q=%c3%89douard+Philippe) | N/A |
-| 39 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 40 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
-| 41 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 42 | [#FCBRMA](http://twitter.com/search?q=%23FCBRMA) | N/A |
-| 43 | [#TeamOL](http://twitter.com/search?q=%23TeamOL) | N/A |
-| 44 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 13 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
+| 14 | [G.O.A.T.](http://twitter.com/search?q=G.O.A.T.) | N/A |
+| 15 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 16 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 17 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 18 | [Beaujoire](http://twitter.com/search?q=Beaujoire) | N/A |
+| 19 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 20 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 21 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
+| 22 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
+| 23 | [François Civil](http://twitter.com/search?q=Fran%c3%a7ois+Civil) | N/A |
+| 24 | [Nueve](http://twitter.com/search?q=Nueve) | N/A |
+| 25 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 26 | [La LDH](http://twitter.com/search?q=La+LDH) | N/A |
+| 27 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 28 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
+| 29 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
+| 30 | [Classico](http://twitter.com/search?q=Classico) | N/A |
+| 31 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 32 | [Parcoursup](http://twitter.com/search?q=Parcoursup) | N/A |
+| 33 | [Kombouaré](http://twitter.com/search?q=Kombouar%c3%a9) | N/A |
+| 34 | [Édouard Philippe](http://twitter.com/search?q=%c3%89douard+Philippe) | N/A |
+| 35 | [#FCBRMA](http://twitter.com/search?q=%23FCBRMA) | N/A |
+| 36 | [#TeamOL](http://twitter.com/search?q=%23TeamOL) | N/A |
 
 
 

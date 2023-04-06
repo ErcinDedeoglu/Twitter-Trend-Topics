@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-06 01:45:06 UTC`
+📆 Last Updated: `2023-04-06 02:30:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
-| 2 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 3 | [Katie](http://twitter.com/search?q=Katie) | N/A |
-| 4 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 5 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 6 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 7 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 8 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 9 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
-| 10 | [#firevince](http://twitter.com/search?q=%23firevince) | N/A |
-| 11 | [Cuban](http://twitter.com/search?q=Cuban) | N/A |
-| 12 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
-| 13 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 14 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
-| 15 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 16 | [#BarbieTheMovie](http://twitter.com/search?q=%23BarbieTheMovie) | N/A |
-| 17 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 18 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 19 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 20 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 21 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 22 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 23 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 24 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 25 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 26 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 27 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 28 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 29 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 30 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 31 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 32 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
-| 33 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
-| 34 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 35 | [Derozan](http://twitter.com/search?q=Derozan) | N/A |
-| 36 | [Killorn](http://twitter.com/search?q=Killorn) | N/A |
-| 37 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 38 | [All Out](http://twitter.com/search?q=All+Out) | N/A |
-| 39 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 40 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 41 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
-| 42 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 43 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 44 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 45 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
-| 46 | [Jamie Hayter](http://twitter.com/search?q=Jamie+Hayter) | N/A |
-| 47 | [Major League](http://twitter.com/search?q=Major+League) | Major League is a term used to refer to the highest level of professional sports in the United States and Canada. It is typically used to refer to the four major professional sports leagues in North America: Major League Baseball (MLB), the National Basketball Association (NBA), the National Football League (NFL), and the National Hockey League (NHL). |
-| 48 | [Long Island](http://twitter.com/search?q=Long+Island) | N/A |
-| 49 | [Field of Dreams](http://twitter.com/search?q=Field+of+Dreams) | Field of Dreams is a 1989 American fantasy-drama film directed by Phil Alden Robinson, starring Kevin Costner, Amy Madigan, James Earl Jones, Ray Liotta and Burt Lancaster in his final film role. The film's title comes from the line "If you build it, he will come" from the poem "Revelation" by American poet Archibald MacLeish. The phrase refers to the main character's belief that if he builds a baseball field in his cornfield, Shoeless Joe Jackson and other deceased baseball players will come to play on it. The phrase has become an idiom for achieving one's dreams. |
-| 50 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 1 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 2 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 3 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 4 | [Kreider](http://twitter.com/search?q=Kreider) | N/A |
+| 5 | [Katie](http://twitter.com/search?q=Katie) | N/A |
+| 6 | [Motte](http://twitter.com/search?q=Motte) | N/A |
+| 7 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
+| 8 | [Lightning](http://twitter.com/search?q=Lightning) | N/A |
+| 9 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 10 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
+| 11 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 12 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
+| 13 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 14 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 15 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
+| 16 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 17 | [Brunson](http://twitter.com/search?q=Brunson) | Brunson is a surname of English origin. It is derived from the Old English personal name Brun, meaning "brown". The name is most commonly associated with Doyle Brunson, an American professional poker player who has won ten World Series of Poker bracelets. |
+| 18 | [Seder](http://twitter.com/search?q=Seder) | N/A |
+| 19 | [#firevince](http://twitter.com/search?q=%23firevince) | N/A |
+| 20 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 21 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 22 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 23 | [#BarbieTheMovie](http://twitter.com/search?q=%23BarbieTheMovie) | N/A |
+| 24 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 25 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 26 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 27 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 28 | [Many Men](http://twitter.com/search?q=Many+Men) | N/A |
+| 29 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 30 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 31 | [The Gunns](http://twitter.com/search?q=The+Gunns) | N/A |
+| 32 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 33 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 34 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 35 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 36 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 37 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 38 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 39 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 40 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 41 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
+| 42 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 43 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 44 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 45 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 46 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 47 | [All Out](http://twitter.com/search?q=All+Out) | N/A |
+| 48 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 49 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 50 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
 
 
 

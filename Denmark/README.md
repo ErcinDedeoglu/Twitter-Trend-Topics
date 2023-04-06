@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-06 01:45:11 UTC`
+📆 Last Updated: `2023-04-06 02:30:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,13 +38,13 @@ This is top 50 for Denmark
 | 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 23 | [Hele](http://twitter.com/search?q=Hele) | N/A |
-| 24 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 25 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 24 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 25 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 26 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 27 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 28 | [mads](http://twitter.com/search?q=mads) | N/A |
-| 29 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
-| 30 | [Norden](http://twitter.com/search?q=Norden) | N/A |
+| 27 | [Mads](http://twitter.com/search?q=Mads) | N/A |
+| 28 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
+| 29 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 30 | [norden](http://twitter.com/search?q=norden) | N/A |
 | 31 | [kvinder](http://twitter.com/search?q=kvinder) | N/A |
 | 32 | [#dkøko](http://twitter.com/search?q=%23dk%c3%b8ko) | N/A |
 | 33 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |

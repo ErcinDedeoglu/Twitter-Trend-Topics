@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-04-06 01:45:07 UTC`
+📆 Last Updated: `2023-04-06 02:30:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
 | 3 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
 | 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 5 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 6 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 7 | [Wembley Stadium](http://twitter.com/search?q=Wembley+Stadium) | N/A |
-| 8 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 9 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 10 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 11 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 12 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 13 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 14 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 15 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 16 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
-| 17 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 18 | [Killorn](http://twitter.com/search?q=Killorn) | N/A |
-| 19 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
-| 20 | [Derozan](http://twitter.com/search?q=Derozan) | N/A |
-| 21 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 22 | [All Out](http://twitter.com/search?q=All+Out) | N/A |
-| 23 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 24 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 25 | [Sammy Guevara](http://twitter.com/search?q=Sammy+Guevara) | N/A |
-| 26 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
-| 27 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 28 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 29 | [Jamie Hayter](http://twitter.com/search?q=Jamie+Hayter) | N/A |
-| 30 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
-| 31 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
-| 32 | [Major League](http://twitter.com/search?q=Major+League) | Major League is a term used to refer to the highest level of professional sports in the United States and Canada. It is typically used to refer to the four major professional sports leagues in North America: Major League Baseball (MLB), the National Basketball Association (NBA), the National Football League (NFL), and the National Hockey League (NHL). |
-| 33 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 34 | [Field of Dreams](http://twitter.com/search?q=Field+of+Dreams) | Field of Dreams is a 1989 American fantasy-drama film directed by Phil Alden Robinson, starring Kevin Costner, Amy Madigan, James Earl Jones, Ray Liotta and Burt Lancaster in his final film role. The film's title comes from the line "If you build it, he will come" from the poem "Revelation" by American poet Archibald MacLeish. The phrase refers to the main character's belief that if he builds a baseball field in his cornfield, Shoeless Joe Jackson and other deceased baseball players will come to play on it. The phrase has become an idiom for achieving one's dreams. |
-| 35 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 36 | [LMAO CODY](http://twitter.com/search?q=LMAO+CODY) | N/A |
-| 37 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 38 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
-| 39 | [Obi Toppin](http://twitter.com/search?q=Obi+Toppin) | N/A |
-| 40 | [RJ Hampton](http://twitter.com/search?q=RJ+Hampton) | N/A |
-| 41 | [Mrs. Benedict](http://twitter.com/search?q=Mrs.+Benedict) | N/A |
-| 42 | [Bull Durham](http://twitter.com/search?q=Bull+Durham) | N/A |
-| 43 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
-| 44 | [Clint](http://twitter.com/search?q=Clint) | N/A |
-| 45 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
-| 46 | [Komander](http://twitter.com/search?q=Komander) | N/A |
-| 47 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
-| 48 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
-| 49 | [Trocheck](http://twitter.com/search?q=Trocheck) | N/A |
-| 50 | [The Sandlot](http://twitter.com/search?q=The+Sandlot) | N/A |
+| 5 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 6 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 7 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 8 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 9 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 10 | [Many Men](http://twitter.com/search?q=Many+Men) | N/A |
+| 11 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 12 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 13 | [The Gunns](http://twitter.com/search?q=The+Gunns) | N/A |
+| 14 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 15 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 16 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 17 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 18 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 19 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 20 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 21 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 22 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
+| 23 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 24 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 25 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 26 | [All Out](http://twitter.com/search?q=All+Out) | N/A |
+| 27 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 28 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 29 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
+| 30 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 31 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 32 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 33 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
+| 34 | [Killorn](http://twitter.com/search?q=Killorn) | N/A |
+| 35 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
+| 36 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 37 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 38 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 39 | [Major League](http://twitter.com/search?q=Major+League) | Major League is a term used to refer to the highest level of professional sports in the United States and Canada. It is typically used to refer to the four major professional sports leagues in North America: Major League Baseball (MLB), the National Basketball Association (NBA), the National Football League (NFL), and the National Hockey League (NHL). |
+| 40 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 41 | [Bryan Danielson](http://twitter.com/search?q=Bryan+Danielson) | N/A |
+| 42 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 43 | [Ben Harpur](http://twitter.com/search?q=Ben+Harpur) | N/A |
+| 44 | [Field of Dreams](http://twitter.com/search?q=Field+of+Dreams) | Field of Dreams is a 1989 American fantasy-drama film directed by Phil Alden Robinson, starring Kevin Costner, Amy Madigan, James Earl Jones, Ray Liotta and Burt Lancaster in his final film role. The film's title comes from the line "If you build it, he will come" from the poem "Revelation" by American poet Archibald MacLeish. The phrase refers to the main character's belief that if he builds a baseball field in his cornfield, Shoeless Joe Jackson and other deceased baseball players will come to play on it. The phrase has become an idiom for achieving one's dreams. |
+| 45 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 46 | [iPod](http://twitter.com/search?q=iPod) | N/A |
+| 47 | [Jamie Hayter](http://twitter.com/search?q=Jamie+Hayter) | N/A |
+| 48 | [LMAO CODY](http://twitter.com/search?q=LMAO+CODY) | N/A |
+| 49 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 50 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
 
 
 

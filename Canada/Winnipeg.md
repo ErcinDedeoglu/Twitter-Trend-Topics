@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-04-06 01:44:16 UTC`
+📆 Last Updated: `2023-04-06 02:29:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 2 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 3 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 4 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 5 | [Brandon Belt](http://twitter.com/search?q=Brandon+Belt) | Brandon Belt is a professional baseball player who plays for the San Francisco Giants. He is a first baseman and outfielder. The phrase "Brandon Belt" is used to refer to the player himself. |
-| 6 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 7 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 8 | [#GoJetsGo](http://twitter.com/search?q=%23GoJetsGo) | N/A |
-| 9 | [#ChicagoFire](http://twitter.com/search?q=%23ChicagoFire) | N/A |
-| 10 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 11 | [#WomensWorlds](http://twitter.com/search?q=%23WomensWorlds) | N/A |
-| 12 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
-| 13 | [Ritchie](http://twitter.com/search?q=Ritchie) | Ritchie is a unisex name of English origin, derived from the Old English name Richard. It is a diminutive form of Richard, meaning “brave ruler” or “strong leader”. |
-| 14 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 15 | [Andersson](http://twitter.com/search?q=Andersson) | N/A |
-| 16 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 17 | [Galen](http://twitter.com/search?q=Galen) | N/A |
-| 18 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 19 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
-| 20 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 21 | [Renee](http://twitter.com/search?q=Renee) | N/A |
-| 22 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
-| 23 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 24 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
-| 25 | [DTES](http://twitter.com/search?q=DTES) | N/A |
-| 26 | [Game 4](http://twitter.com/search?q=Game+4) | N/A |
-| 27 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 28 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 29 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 30 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 31 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 32 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 33 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
-| 34 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 35 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 36 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 37 | [Seder](http://twitter.com/search?q=Seder) | N/A |
-| 38 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 39 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
-| 40 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 41 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 42 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 43 | [Charest](http://twitter.com/search?q=Charest) | N/A |
-| 44 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
-| 45 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
-| 46 | [#verglas](http://twitter.com/search?q=%23verglas) | N/A |
-| 47 | [#icestorm](http://twitter.com/search?q=%23icestorm) | N/A |
-| 48 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 49 | [#RBCRevealed](http://twitter.com/search?q=%23RBCRevealed) | N/A |
+| 2 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 3 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 4 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 5 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 6 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 7 | [Varsho](http://twitter.com/search?q=Varsho) | Varsho is a Gujarati word that means "year". In English, it can be used to refer to a period of time or an anniversary. |
+| 8 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 9 | [Vladdy](http://twitter.com/search?q=Vladdy) | N/A |
+| 10 | [Brandon Belt](http://twitter.com/search?q=Brandon+Belt) | Brandon Belt is a professional baseball player who plays for the San Francisco Giants. He is a first baseman and outfielder. The phrase "Brandon Belt" is used to refer to the player himself. |
+| 11 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 12 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
+| 13 | [#ChicagoFire](http://twitter.com/search?q=%23ChicagoFire) | N/A |
+| 14 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 15 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
+| 16 | [Andersson](http://twitter.com/search?q=Andersson) | N/A |
+| 17 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
+| 18 | [Precious](http://twitter.com/search?q=Precious) | N/A |
+| 19 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 20 | [Galen](http://twitter.com/search?q=Galen) | N/A |
+| 21 | [#WomensWorlds](http://twitter.com/search?q=%23WomensWorlds) | N/A |
+| 22 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 23 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 24 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 25 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 26 | [Ritchie](http://twitter.com/search?q=Ritchie) | Ritchie is a unisex name of English origin, derived from the Old English name Richard. It is a diminutive form of Richard, meaning “brave ruler” or “strong leader”. |
+| 27 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 28 | [Renee](http://twitter.com/search?q=Renee) | N/A |
+| 29 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
+| 30 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
+| 31 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 32 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 33 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 34 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
+| 35 | [The UCP](http://twitter.com/search?q=The+UCP) | N/A |
+| 36 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 37 | [Game 4](http://twitter.com/search?q=Game+4) | N/A |
+| 38 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 39 | [ryan gosling](http://twitter.com/search?q=ryan+gosling) | N/A |
+| 40 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 41 | [DTES](http://twitter.com/search?q=DTES) | N/A |
+| 42 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 43 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 44 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 45 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 46 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 47 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 48 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
+| 49 | [Seder](http://twitter.com/search?q=Seder) | N/A |
+| 50 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
 
 
 

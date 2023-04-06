@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-04-06 01:44:35 UTC`
+📆 Last Updated: `2023-04-06 02:29:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
-| 2 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 2 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
 | 3 | [#backtoschool](http://twitter.com/search?q=%23backtoschool) | N/A |
-| 4 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 5 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
-| 6 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 7 | [#SilvioBerlusconi](http://twitter.com/search?q=%23SilvioBerlusconi) | N/A |
+| 4 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 5 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 6 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
+| 7 | [#5aprile](http://twitter.com/search?q=%235aprile) | N/A |
 | 8 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 10 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 11 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 12 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 13 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
-| 14 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
-| 15 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 16 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 17 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 18 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 19 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 20 | [Perin](http://twitter.com/search?q=Perin) | N/A |
-| 21 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 22 | [Suma](http://twitter.com/search?q=Suma) | N/A |
-| 23 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
-| 24 | [Valeria Marini](http://twitter.com/search?q=Valeria+Marini) | N/A |
-| 25 | [graziani](http://twitter.com/search?q=graziani) | N/A |
-| 26 | [Forza Presidente](http://twitter.com/search?q=Forza+Presidente) | N/A |
-| 27 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
-| 28 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 29 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 30 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
-| 31 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
-| 32 | [gennaro](http://twitter.com/search?q=gennaro) | N/A |
-| 33 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
-| 34 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 35 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
-| 36 | [bonolis](http://twitter.com/search?q=bonolis) | N/A |
-| 37 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 38 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 39 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 40 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 41 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
-| 42 | [Veltroni](http://twitter.com/search?q=Veltroni) | N/A |
-| 43 | [Pierino](http://twitter.com/search?q=Pierino) | N/A |
-| 44 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 45 | [Marco Mengoni](http://twitter.com/search?q=Marco+Mengoni) | N/A |
-| 46 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 47 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
-| 48 | [Nunzia](http://twitter.com/search?q=Nunzia) | N/A |
-| 49 | [Anto](http://twitter.com/search?q=Anto) | Anto is a shortened form of the name Antonio, which is a male given name of Italian origin. It is derived from the Latin Antonius, which is ultimately derived from the Greek name Antonios. In English, it means "beyond praise" or "priceless". |
-| 50 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 9 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
+| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 11 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 12 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
+| 13 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 14 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
+| 15 | [Perin](http://twitter.com/search?q=Perin) | N/A |
+| 16 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 17 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 18 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 19 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 20 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 21 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 22 | [Forza Presidente](http://twitter.com/search?q=Forza+Presidente) | N/A |
+| 23 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
+| 24 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 25 | [Suma](http://twitter.com/search?q=Suma) | N/A |
+| 26 | [Stadium](http://twitter.com/search?q=Stadium) | N/A |
+| 27 | [Veltroni](http://twitter.com/search?q=Veltroni) | N/A |
+| 28 | [giulia salemi](http://twitter.com/search?q=giulia+salemi) | N/A |
+| 29 | [L'Unità](http://twitter.com/search?q=L%27Unit%c3%a0) | N/A |
+| 30 | [valeria marini](http://twitter.com/search?q=valeria+marini) | N/A |
+| 31 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 32 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 33 | [Vinco](http://twitter.com/search?q=Vinco) | N/A |
+| 34 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 35 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
+| 36 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
+| 37 | [Bugo](http://twitter.com/search?q=Bugo) | N/A |
+| 38 | [Senatore](http://twitter.com/search?q=Senatore) | N/A |
+| 39 | [Ammonito](http://twitter.com/search?q=Ammonito) | N/A |
+| 40 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 41 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
+| 42 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 43 | [gennaro](http://twitter.com/search?q=gennaro) | N/A |
+| 44 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 45 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
+| 46 | [Bonucci](http://twitter.com/search?q=Bonucci) | N/A |
+| 47 | [Mara Sattei](http://twitter.com/search?q=Mara+Sattei) | N/A |
+| 48 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 49 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
+| 50 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
 
 
 

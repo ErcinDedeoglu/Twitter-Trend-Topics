@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-04-06 01:44:51 UTC`
+📆 Last Updated: `2023-04-06 02:30:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,18 +15,18 @@ This is top 50 for [Kenya](</Kenya>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CHELIV](http://twitter.com/search?q=%23CHELIV) | N/A |
+| 1 | [#cheliv](http://twitter.com/search?q=%23cheliv) | N/A |
 | 2 | [#OnlineMidWeekWord](http://twitter.com/search?q=%23OnlineMidWeekWord) | N/A |
 | 3 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
 | 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 5 | [#MUNBRE](http://twitter.com/search?q=%23MUNBRE) | N/A |
 | 6 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 | 7 | [#mainaandkingangi](http://twitter.com/search?q=%23mainaandkingangi) | N/A |
-| 8 | [#mondayglobalword](http://twitter.com/search?q=%23mondayglobalword) | N/A |
+| 8 | [#JKLive](http://twitter.com/search?q=%23JKLive) | N/A |
 | 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 11 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 12 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 10 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 11 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 13 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 14 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 15 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
@@ -55,16 +55,16 @@ This is top 50 for [Kenya](</Kenya>)
 | 38 | [ruto and raila](http://twitter.com/search?q=ruto+and+raila) | N/A |
 | 39 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 40 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 41 | [Parliamentary](http://twitter.com/search?q=Parliamentary) | N/A |
-| 42 | [South Africans](http://twitter.com/search?q=South+Africans) | N/A |
-| 43 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 44 | [shaffie](http://twitter.com/search?q=shaffie) | N/A |
-| 45 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 46 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 47 | [mukumu](http://twitter.com/search?q=mukumu) | N/A |
-| 48 | [NO Handshake](http://twitter.com/search?q=NO+Handshake) | N/A |
-| 49 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 50 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 41 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 42 | [Parliamentary](http://twitter.com/search?q=Parliamentary) | N/A |
+| 43 | [South Africans](http://twitter.com/search?q=South+Africans) | N/A |
+| 44 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 45 | [shaffie](http://twitter.com/search?q=shaffie) | N/A |
+| 46 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 47 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 48 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 49 | [mukumu](http://twitter.com/search?q=mukumu) | N/A |
+| 50 | [NO Handshake](http://twitter.com/search?q=NO+Handshake) | N/A |
 
 
 

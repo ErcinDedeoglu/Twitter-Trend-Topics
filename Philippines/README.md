@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-04-06 01:45:16 UTC`
+📆 Last Updated: `2023-04-06 02:30:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Philippines
 | 2 | [#민규생일은_아름답기를_따뜻하길](http://twitter.com/search?q=%23%eb%af%bc%ea%b7%9c%ec%83%9d%ec%9d%bc%ec%9d%80_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b8%b0%eb%a5%bc_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b8%b8) | N/A |
 | 3 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
 | 4 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 5 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 6 | [#FLOWER1stWin](http://twitter.com/search?q=%23FLOWER1stWin) | N/A |
-| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 8 | [#TheCloudxBecky](http://twitter.com/search?q=%23TheCloudxBecky) | N/A |
-| 9 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 10 | [FLOWER FIRST WIN](http://twitter.com/search?q=FLOWER+FIRST+WIN) | N/A |
-| 11 | [HORI7ON SALAMAT OUT NOW](http://twitter.com/search?q=HORI7ON+SALAMAT+OUT+NOW) | N/A |
-| 12 | [JOSHCULLEN WT PHOTOSHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+PHOTOSHOOT) | N/A |
-| 13 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 14 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 15 | [JISOO FIRST WIN](http://twitter.com/search?q=JISOO+FIRST+WIN) | N/A |
-| 16 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
-| 17 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
-| 18 | [kculture night with ikon](http://twitter.com/search?q=kculture+night+with+ikon) | N/A |
-| 19 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 20 | [BTOB MAY COMEBACK](http://twitter.com/search?q=BTOB+MAY+COMEBACK) | N/A |
-| 21 | [PNVF](http://twitter.com/search?q=PNVF) | N/A |
-| 22 | [one year with still life](http://twitter.com/search?q=one+year+with+still+life) | N/A |
-| 23 | [aljay tc extras questunes](http://twitter.com/search?q=aljay+tc+extras+questunes) | N/A |
-| 24 | [vivoree wish bus debut](http://twitter.com/search?q=vivoree+wish+bus+debut) | N/A |
-| 25 | [look for the mafia svt](http://twitter.com/search?q=look+for+the+mafia+svt) | N/A |
-| 26 | [Newark](http://twitter.com/search?q=Newark) | N/A |
-| 27 | [Manny Jacinto](http://twitter.com/search?q=Manny+Jacinto) | N/A |
-| 28 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 29 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 30 | [PARAISO COMING SOON](http://twitter.com/search?q=PARAISO+COMING+SOON) | N/A |
-| 31 | [Huwebes Santo](http://twitter.com/search?q=Huwebes+Santo) | N/A |
-| 32 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 33 | [shanelle as jayra](http://twitter.com/search?q=shanelle+as+jayra) | N/A |
-| 34 | [two the rescue](http://twitter.com/search?q=two+the+rescue) | N/A |
-| 35 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
-| 36 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 37 | [shanelle agustin](http://twitter.com/search?q=shanelle+agustin) | N/A |
-| 38 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 39 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 40 | [pbbgyo plot thickens](http://twitter.com/search?q=pbbgyo+plot+thickens) | N/A |
-| 41 | [alamat on the road pt](http://twitter.com/search?q=alamat+on+the+road+pt) | N/A |
-| 42 | [AWESOME NIGHT WITH CHA EUNWOO](http://twitter.com/search?q=AWESOME+NIGHT+WITH+CHA+EUNWOO) | N/A |
-| 43 | [Congratulations Jisoo](http://twitter.com/search?q=Congratulations+Jisoo) | N/A |
-| 44 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 45 | [Pinuno](http://twitter.com/search?q=Pinuno) | N/A |
-| 46 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 47 | [Tinig](http://twitter.com/search?q=Tinig) | N/A |
-| 48 | [Jinyoung](http://twitter.com/search?q=Jinyoung) | N/A |
-| 49 | [michael cera](http://twitter.com/search?q=michael+cera) | N/A |
-| 50 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 5 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
+| 6 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
+| 7 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
+| 8 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 10 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 11 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
+| 12 | [one year with still life](http://twitter.com/search?q=one+year+with+still+life) | N/A |
+| 13 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 14 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 15 | [HORI7ON SALAMAT OUT NOW](http://twitter.com/search?q=HORI7ON+SALAMAT+OUT+NOW) | N/A |
+| 16 | [JOSHCULLEN WT PHOTOSHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+PHOTOSHOOT) | N/A |
+| 17 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
+| 18 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 19 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 20 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
+| 21 | [Huwebes Santo](http://twitter.com/search?q=Huwebes+Santo) | N/A |
+| 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 23 | [gigmoto](http://twitter.com/search?q=gigmoto) | N/A |
+| 24 | [THE BLOTTER PAPER D4](http://twitter.com/search?q=THE+BLOTTER+PAPER+D4) | N/A |
+| 25 | [ryan gosling](http://twitter.com/search?q=ryan+gosling) | N/A |
+| 26 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 27 | [jeong jaehyun](http://twitter.com/search?q=jeong+jaehyun) | N/A |
+| 28 | [FLOWER FIRST WIN](http://twitter.com/search?q=FLOWER+FIRST+WIN) | N/A |
+| 29 | [Newark](http://twitter.com/search?q=Newark) | N/A |
+| 30 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 31 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 32 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
+| 33 | [PARAISO COMING SOON](http://twitter.com/search?q=PARAISO+COMING+SOON) | N/A |
+| 34 | [Pinuno](http://twitter.com/search?q=Pinuno) | N/A |
+| 35 | [BTOB MAY COMEBACK](http://twitter.com/search?q=BTOB+MAY+COMEBACK) | N/A |
+| 36 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 37 | [AWESOME NIGHT WITH CHA EUNWOO](http://twitter.com/search?q=AWESOME+NIGHT+WITH+CHA+EUNWOO) | N/A |
+| 38 | [look for the mafia svt](http://twitter.com/search?q=look+for+the+mafia+svt) | N/A |
+| 39 | [Visita Iglesia](http://twitter.com/search?q=Visita+Iglesia) | N/A |
+| 40 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
+| 41 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 42 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 43 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 44 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 45 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 46 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 47 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
+| 48 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 49 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 50 | [Passover](http://twitter.com/search?q=Passover) | N/A |
 
 
 

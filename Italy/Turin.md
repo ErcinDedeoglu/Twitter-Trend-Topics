@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-04-06 01:44:35 UTC`
+📆 Last Updated: `2023-04-06 02:29:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Italy](</Italy>)
 | 5 | [#ilcielostanotte](http://twitter.com/search?q=%23ilcielostanotte) | N/A |
 | 6 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
 | 7 | [#SilvioBerlusconi](http://twitter.com/search?q=%23SilvioBerlusconi) | N/A |
-| 8 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 10 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 11 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
+| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 9 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 10 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
+| 11 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
 | 12 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 13 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
-| 14 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 13 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 14 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
 | 15 | [Massa](http://twitter.com/search?q=Massa) | N/A |
 | 16 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 17 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
 | 18 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
 | 19 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
 | 20 | [Perin](http://twitter.com/search?q=Perin) | N/A |
-| 21 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 22 | [Suma](http://twitter.com/search?q=Suma) | N/A |
-| 23 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
-| 24 | [Valeria Marini](http://twitter.com/search?q=Valeria+Marini) | N/A |
+| 21 | [Suma](http://twitter.com/search?q=Suma) | N/A |
+| 22 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
+| 23 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
+| 24 | [valeria marini](http://twitter.com/search?q=valeria+marini) | N/A |
 | 25 | [graziani](http://twitter.com/search?q=graziani) | N/A |
 | 26 | [Forza Presidente](http://twitter.com/search?q=Forza+Presidente) | N/A |
-| 27 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
+| 27 | [giulia salemi](http://twitter.com/search?q=giulia+salemi) | N/A |
 | 28 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
 | 29 | [Kean](http://twitter.com/search?q=Kean) | N/A |
 | 30 | [Friuli](http://twitter.com/search?q=Friuli) | N/A |
 | 31 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
 | 32 | [gennaro](http://twitter.com/search?q=gennaro) | N/A |
-| 33 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
-| 34 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 35 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
-| 36 | [bonolis](http://twitter.com/search?q=bonolis) | N/A |
-| 37 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 38 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 39 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 40 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 41 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 33 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 34 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
+| 35 | [bonolis](http://twitter.com/search?q=bonolis) | N/A |
+| 36 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 37 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 38 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 39 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 40 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 41 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
 | 42 | [Veltroni](http://twitter.com/search?q=Veltroni) | N/A |
 | 43 | [Pierino](http://twitter.com/search?q=Pierino) | N/A |
 | 44 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 45 | [Marco Mengoni](http://twitter.com/search?q=Marco+Mengoni) | N/A |
-| 46 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 47 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
-| 48 | [Nunzia](http://twitter.com/search?q=Nunzia) | N/A |
-| 49 | [Anto](http://twitter.com/search?q=Anto) | Anto is a shortened form of the name Antonio, which is a male given name of Italian origin. It is derived from the Latin Antonius, which is ultimately derived from the Greek name Antonios. In English, it means "beyond praise" or "priceless". |
-| 50 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 45 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 46 | [Anto](http://twitter.com/search?q=Anto) | Anto is a shortened form of the name Antonio, which is a male given name of Italian origin. It is derived from the Latin Antonius, which is ultimately derived from the Greek name Antonios. In English, it means "beyond praise" or "priceless". |
+| 47 | [Nunzia](http://twitter.com/search?q=Nunzia) | N/A |
+| 48 | [Stupende](http://twitter.com/search?q=Stupende) | N/A |
+| 49 | [Giuly](http://twitter.com/search?q=Giuly) | N/A |
+| 50 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 
 
 

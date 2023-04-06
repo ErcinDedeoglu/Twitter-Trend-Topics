@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-04-06 01:44:17 UTC`
+📆 Last Updated: `2023-04-06 02:29:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 2 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 3 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 4 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 5 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 6 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 7 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
-| 8 | [Brandon Belt](http://twitter.com/search?q=Brandon+Belt) | Brandon Belt is a professional baseball player who plays for the San Francisco Giants. He is a first baseman and outfielder. The phrase "Brandon Belt" is used to refer to the player himself. |
-| 9 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 10 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 11 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 12 | [#ChicagoFire](http://twitter.com/search?q=%23ChicagoFire) | N/A |
+| 1 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 3 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 4 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 5 | [Varsho](http://twitter.com/search?q=Varsho) | Varsho is a Gujarati word that means "year". In English, it can be used to refer to a period of time or an anniversary. |
+| 6 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
+| 7 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 8 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 9 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 10 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 11 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 12 | [Vladdy](http://twitter.com/search?q=Vladdy) | N/A |
 | 13 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
-| 14 | [Ritchie](http://twitter.com/search?q=Ritchie) | Ritchie is a unisex name of English origin, derived from the Old English name Richard. It is a diminutive form of Richard, meaning “brave ruler” or “strong leader”. |
-| 15 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 16 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 17 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 18 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
-| 19 | [Galen](http://twitter.com/search?q=Galen) | N/A |
-| 20 | [Andersson](http://twitter.com/search?q=Andersson) | N/A |
-| 21 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 22 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 23 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
-| 24 | [Nugent](http://twitter.com/search?q=Nugent) | N/A |
-| 25 | [Renee](http://twitter.com/search?q=Renee) | N/A |
-| 26 | [Vladdy](http://twitter.com/search?q=Vladdy) | N/A |
-| 27 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
-| 28 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 29 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 30 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 31 | [Game 4](http://twitter.com/search?q=Game+4) | N/A |
-| 32 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 33 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 34 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
-| 35 | [DTES](http://twitter.com/search?q=DTES) | N/A |
-| 36 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 37 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 38 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 39 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 40 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 41 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 42 | [Dylan Mulvaney](http://twitter.com/search?q=Dylan+Mulvaney) | N/A |
-| 43 | [The UCP](http://twitter.com/search?q=The+UCP) | N/A |
-| 44 | [Seder](http://twitter.com/search?q=Seder) | N/A |
-| 45 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 46 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 47 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
-| 48 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 14 | [#ChicagoFire](http://twitter.com/search?q=%23ChicagoFire) | N/A |
+| 15 | [Brandon Belt](http://twitter.com/search?q=Brandon+Belt) | Brandon Belt is a professional baseball player who plays for the San Francisco Giants. He is a first baseman and outfielder. The phrase "Brandon Belt" is used to refer to the player himself. |
+| 16 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 17 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 18 | [Andersson](http://twitter.com/search?q=Andersson) | N/A |
+| 19 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
+| 20 | [Precious](http://twitter.com/search?q=Precious) | N/A |
+| 21 | [Galen](http://twitter.com/search?q=Galen) | N/A |
+| 22 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 23 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
+| 24 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 25 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 26 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 27 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 28 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 29 | [Ritchie](http://twitter.com/search?q=Ritchie) | Ritchie is a unisex name of English origin, derived from the Old English name Richard. It is a diminutive form of Richard, meaning “brave ruler” or “strong leader”. |
+| 30 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
+| 31 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
+| 32 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 33 | [Renee](http://twitter.com/search?q=Renee) | N/A |
+| 34 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 35 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 36 | [Nugent](http://twitter.com/search?q=Nugent) | N/A |
+| 37 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 38 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 39 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
+| 40 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 41 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 42 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 43 | [Raps](http://twitter.com/search?q=Raps) | N/A |
+| 44 | [Game 4](http://twitter.com/search?q=Game+4) | N/A |
+| 45 | [The UCP](http://twitter.com/search?q=The+UCP) | N/A |
+| 46 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 47 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
+| 48 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 49 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 50 | [ryan gosling](http://twitter.com/search?q=ryan+gosling) | N/A |
 
 
 
