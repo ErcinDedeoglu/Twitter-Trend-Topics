@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-04-06 11:18:11 UTC`
+📆 Last Updated: `2023-04-06 12:19:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Sweden
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
-| 2 | [Glad Påsk](http://twitter.com/search?q=Glad+P%c3%a5sk) | N/A |
-| 3 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 4 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
-| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 1 | [Glad Påsk](http://twitter.com/search?q=Glad+P%c3%a5sk) | N/A |
+| 2 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 5 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
 | 6 | [Nazityskland](http://twitter.com/search?q=Nazityskland) | N/A |
-| 7 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
-| 8 | [Skärholmen](http://twitter.com/search?q=Sk%c3%a4rholmen) | N/A |
-| 9 | [Filipstad](http://twitter.com/search?q=Filipstad) | N/A |
-| 10 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 11 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 12 | [Blåkulla](http://twitter.com/search?q=Bl%c3%a5kulla) | N/A |
-| 13 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 14 | [Namn](http://twitter.com/search?q=Namn) | N/A |
-| 15 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 16 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 18 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 19 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 20 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 21 | [Linde](http://twitter.com/search?q=Linde) | N/A |
-| 22 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 23 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 24 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 7 | [Skärholmen](http://twitter.com/search?q=Sk%c3%a4rholmen) | N/A |
+| 8 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 9 | [Blåkulla](http://twitter.com/search?q=Bl%c3%a5kulla) | N/A |
+| 10 | [Hovet](http://twitter.com/search?q=Hovet) | N/A |
+| 11 | [Bromma](http://twitter.com/search?q=Bromma) | N/A |
+| 12 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 13 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 14 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 15 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
+| 16 | [Kvinnor](http://twitter.com/search?q=Kvinnor) | N/A |
+| 17 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 18 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 19 | [Filipstad](http://twitter.com/search?q=Filipstad) | N/A |
+| 20 | [Sven](http://twitter.com/search?q=Sven) | N/A |
+| 21 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 22 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 23 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 24 | [Förbjud](http://twitter.com/search?q=F%c3%b6rbjud) | N/A |
 | 25 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 26 | [Bromma](http://twitter.com/search?q=Bromma) | N/A |
-| 27 | [kåberger](http://twitter.com/search?q=k%c3%a5berger) | N/A |
-| 28 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 29 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 30 | [hynek pallas](http://twitter.com/search?q=hynek+pallas) | N/A |
-| 31 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 32 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
-| 33 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 34 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 35 | [Rasmus Paludan](http://twitter.com/search?q=Rasmus+Paludan) | Rasmus Paludan is a Danish lawyer and political activist. He is the leader of the far-right political party Stram Kurs (Hard Line). The name Rasmus Paludan is derived from the Danish words for "marsh" and "pond," which together mean "marsh pond." |
-| 36 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
-| 37 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
-| 38 | [liam öhgren](http://twitter.com/search?q=liam+%c3%b6hgren) | N/A |
-| 39 | [$SBB](http://twitter.com/search?q=%24SBB) | N/A |
-| 40 | [stråhle](http://twitter.com/search?q=str%c3%a5hle) | N/A |
-| 41 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 42 | [Kvinnor](http://twitter.com/search?q=Kvinnor) | N/A |
-| 43 | [Förbjud](http://twitter.com/search?q=F%c3%b6rbjud) | N/A |
-| 44 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 45 | [billström](http://twitter.com/search?q=billstr%c3%b6m) | N/A |
-| 46 | [Turkarna](http://twitter.com/search?q=Turkarna) | N/A |
-| 47 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
-| 48 | [President](http://twitter.com/search?q=President) | N/A |
-| 49 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 50 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 26 | [Namn](http://twitter.com/search?q=Namn) | N/A |
+| 27 | [Tegnell](http://twitter.com/search?q=Tegnell) | N/A |
+| 28 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 29 | [kåberger](http://twitter.com/search?q=k%c3%a5berger) | N/A |
+| 30 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 31 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 32 | [Rasmus Paludan](http://twitter.com/search?q=Rasmus+Paludan) | Rasmus Paludan is a Danish lawyer and political activist. He is the leader of the far-right political party Stram Kurs (Hard Line). The name Rasmus Paludan is derived from the Danish words for "marsh" and "pond," which together mean "marsh pond." |
+| 33 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
+| 34 | [#HV71](http://twitter.com/search?q=%23HV71) | N/A |
+| 35 | [#innebandy](http://twitter.com/search?q=%23innebandy) | N/A |
+| 36 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 37 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
+| 38 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 39 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 40 | [linde](http://twitter.com/search?q=linde) | N/A |
+| 41 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
+| 42 | [$SBB](http://twitter.com/search?q=%24SBB) | N/A |
+| 43 | [vattenfall](http://twitter.com/search?q=vattenfall) | N/A |
+| 44 | [carl bildt](http://twitter.com/search?q=carl+bildt) | N/A |
+| 45 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
+| 46 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 47 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 48 | [liam öhgren](http://twitter.com/search?q=liam+%c3%b6hgren) | N/A |
+| 49 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 50 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 
 
 

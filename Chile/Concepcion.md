@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-04-06 11:17:12 UTC`
+📆 Last Updated: `2023-04-06 12:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,42 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 2 | [castillo](http://twitter.com/search?q=castillo) | N/A |
-| 3 | [Carabinero](http://twitter.com/search?q=Carabinero) | N/A |
-| 4 | [#LeyNainRetamal](http://twitter.com/search?q=%23LeyNainRetamal) | N/A |
-| 5 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 6 | [#GobiernoAsesino](http://twitter.com/search?q=%23GobiernoAsesino) | N/A |
-| 7 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
-| 8 | [#GatilloFacil](http://twitter.com/search?q=%23GatilloFacil) | N/A |
-| 9 | [bolados](http://twitter.com/search?q=bolados) | N/A |
-| 10 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
-| 11 | [Posta Central](http://twitter.com/search?q=Posta+Central) | N/A |
-| 12 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 13 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 14 | [Santiago Centro](http://twitter.com/search?q=Santiago+Centro) | N/A |
-| 15 | [PC y FA](http://twitter.com/search?q=PC+y+FA) | N/A |
-| 16 | [Acaban](http://twitter.com/search?q=Acaban) | N/A |
-| 17 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 18 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
-| 19 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 20 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 21 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 22 | [jeyson rojas](http://twitter.com/search?q=jeyson+rojas) | N/A |
-| 23 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 24 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 25 | [Toha](http://twitter.com/search?q=Toha) | N/A |
-| 26 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
-| 27 | [caputto](http://twitter.com/search?q=caputto) | N/A |
-| 28 | [leo gil](http://twitter.com/search?q=leo+gil) | N/A |
-| 29 | [damian pizarro](http://twitter.com/search?q=damian+pizarro) | N/A |
-| 30 | [Comunistas](http://twitter.com/search?q=Comunistas) | N/A |
-| 31 | [Falleció](http://twitter.com/search?q=Falleci%c3%b3) | N/A |
-| 32 | [la uf](http://twitter.com/search?q=la+uf) | N/A |
-| 33 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 34 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 35 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
-| 36 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 37 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 38 | [Malditos](http://twitter.com/search?q=Malditos) | N/A |
-| 39 | [huachipato](http://twitter.com/search?q=huachipato) | N/A |
-| 40 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 41 | [de los santos](http://twitter.com/search?q=de+los+santos) | N/A |
-| 42 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
-| 43 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 44 | [arturo prat](http://twitter.com/search?q=arturo+prat) | N/A |
-| 45 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
-| 46 | [Delirante](http://twitter.com/search?q=Delirante) | N/A |
-| 47 | [Buitre](http://twitter.com/search?q=Buitre) | N/A |
-| 48 | [Condolencias](http://twitter.com/search?q=Condolencias) | N/A |
-| 49 | [Mentirosa](http://twitter.com/search?q=Mentirosa) | N/A |
-| 50 | [Enferma](http://twitter.com/search?q=Enferma) | N/A |
+| 1 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 2 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
+| 3 | [#GobiernoAsesino](http://twitter.com/search?q=%23GobiernoAsesino) | N/A |
+| 4 | [#BoricEstaDestruyendoAChile](http://twitter.com/search?q=%23BoricEstaDestruyendoAChile) | N/A |
+| 5 | [#RenunciaBoricYToha](http://twitter.com/search?q=%23RenunciaBoricYToha) | N/A |
+| 6 | [Delirante](http://twitter.com/search?q=Delirante) | N/A |
+| 7 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
+| 8 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
+| 9 | [#EstadoDeExcepcion](http://twitter.com/search?q=%23EstadoDeExcepcion) | N/A |
+| 10 | [Cabo 1](http://twitter.com/search?q=Cabo+1) | N/A |
+| 11 | [Vallejos](http://twitter.com/search?q=Vallejos) | N/A |
+| 12 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
+| 13 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 14 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 15 | [Renuncien](http://twitter.com/search?q=Renuncien) | N/A |
+| 16 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 17 | [Cínica](http://twitter.com/search?q=C%c3%adnica) | N/A |
+| 18 | [Asesina](http://twitter.com/search?q=Asesina) | N/A |
+| 19 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 20 | [Buitre](http://twitter.com/search?q=Buitre) | N/A |
+| 21 | [Asesinos](http://twitter.com/search?q=Asesinos) | N/A |
+| 22 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
+| 23 | [Mentirosa](http://twitter.com/search?q=Mentirosa) | N/A |
+| 24 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
+| 25 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
+| 26 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 27 | [Malditos](http://twitter.com/search?q=Malditos) | N/A |
+| 28 | [Enfermo](http://twitter.com/search?q=Enfermo) | N/A |
+| 29 | [Santiago Centro](http://twitter.com/search?q=Santiago+Centro) | N/A |
+| 30 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 31 | [#ChileEstaDeLuto](http://twitter.com/search?q=%23ChileEstaDeLuto) | N/A |
+| 32 | [#GatilloFácil](http://twitter.com/search?q=%23GatilloF%c3%a1cil) | N/A |
+| 33 | [#BoricAsesino](http://twitter.com/search?q=%23BoricAsesino) | N/A |
+| 34 | [#leynain_retamal](http://twitter.com/search?q=%23leynain_retamal) | N/A |
+| 35 | [#BastaYa](http://twitter.com/search?q=%23BastaYa) | N/A |
+| 36 | [#FueraComunistasDeChile](http://twitter.com/search?q=%23FueraComunistasDeChile) | N/A |
 
 
 

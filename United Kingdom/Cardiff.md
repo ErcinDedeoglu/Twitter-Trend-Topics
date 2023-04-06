@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-04-06 11:17:04 UTC`
+📆 Last Updated: `2023-04-06 12:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 1 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 2 | [#Easter2023](http://twitter.com/search?q=%23Easter2023) | N/A |
 | 3 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 4 | [#TeamCallaway](http://twitter.com/search?q=%23TeamCallaway) | N/A |
+| 4 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
 | 5 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 6 | [#angrypop](http://twitter.com/search?q=%23angrypop) | N/A |
+| 6 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
 | 7 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 8 | [Clapham Junction](http://twitter.com/search?q=Clapham+Junction) | N/A |
-| 9 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
-| 10 | [Don Revie](http://twitter.com/search?q=Don+Revie) | N/A |
-| 11 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
-| 12 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 13 | [Wembley Stadium](http://twitter.com/search?q=Wembley+Stadium) | N/A |
-| 14 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
-| 15 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
-| 16 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
-| 17 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
-| 18 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
+| 8 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
+| 9 | [Clapham Junction](http://twitter.com/search?q=Clapham+Junction) | N/A |
+| 10 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 11 | [Daniel Radcliffe](http://twitter.com/search?q=Daniel+Radcliffe) | N/A |
+| 12 | [Benton](http://twitter.com/search?q=Benton) | N/A |
+| 13 | [Don Revie](http://twitter.com/search?q=Don+Revie) | N/A |
+| 14 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
+| 15 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 16 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
+| 17 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 18 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
 | 19 | [Scrooge](http://twitter.com/search?q=Scrooge) | N/A |
-| 20 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 21 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 22 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
-| 23 | [iPod](http://twitter.com/search?q=iPod) | N/A |
-| 24 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
-| 25 | [Daniel Radcliffe](http://twitter.com/search?q=Daniel+Radcliffe) | N/A |
-| 26 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
-| 27 | [23rd April](http://twitter.com/search?q=23rd+April) | N/A |
-| 28 | [Headingley](http://twitter.com/search?q=Headingley) | N/A |
-| 29 | [Portland](http://twitter.com/search?q=Portland) | N/A |
-| 30 | [Sullivan](http://twitter.com/search?q=Sullivan) | N/A |
-| 31 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
-| 32 | [Woof](http://twitter.com/search?q=Woof) | N/A |
-| 33 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 34 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
-| 35 | [MITB](http://twitter.com/search?q=MITB) | N/A |
-| 36 | [Pending](http://twitter.com/search?q=Pending) | N/A |
-| 37 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
-| 38 | [Dorset](http://twitter.com/search?q=Dorset) | N/A |
-| 39 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
-| 40 | [michelle mone](http://twitter.com/search?q=michelle+mone) | N/A |
-| 41 | [Murrells](http://twitter.com/search?q=Murrells) | N/A |
-| 42 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
-| 43 | [Conservative MP](http://twitter.com/search?q=Conservative+MP) | N/A |
-| 44 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
-| 45 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 46 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 20 | [iPod](http://twitter.com/search?q=iPod) | N/A |
+| 21 | [Murrells](http://twitter.com/search?q=Murrells) | N/A |
+| 22 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
+| 23 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
+| 24 | [Joanne](http://twitter.com/search?q=Joanne) | N/A |
+| 25 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 26 | [23rd April](http://twitter.com/search?q=23rd+April) | N/A |
+| 27 | [Met Police](http://twitter.com/search?q=Met+Police) | N/A |
+| 28 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
+| 29 | [Green Man](http://twitter.com/search?q=Green+Man) | N/A |
+| 30 | [Soyinka](http://twitter.com/search?q=Soyinka) | N/A |
+| 31 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 32 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
+| 33 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 34 | [Michelle Mone](http://twitter.com/search?q=Michelle+Mone) | N/A |
+| 35 | [Sturgeon](http://twitter.com/search?q=Sturgeon) | Sturgeon is a type of large fish that is found in the waters of the Northern Hemisphere. It is an anadromous fish, meaning it spends part of its life in fresh water and part in salt water. Sturgeon are prized for their roe, which is used to make caviar. |
+| 36 | [Thames](http://twitter.com/search?q=Thames) | N/A |
+| 37 | [Sullivan](http://twitter.com/search?q=Sullivan) | N/A |
+| 38 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
+| 39 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 40 | [Channel 4](http://twitter.com/search?q=Channel+4) | Channel 4 is a British public-service television broadcaster that began broadcasting in 1982. It is known for its innovative and often controversial programming, including documentaries, comedy, drama, and current affairs. The channel's mission is to provide an alternative to mainstream commercial broadcasting and to produce programmes of the highest quality that reflect the diversity of the UK. |
+| 41 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
+| 42 | [Woof](http://twitter.com/search?q=Woof) | N/A |
+| 43 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
+| 44 | [Sainsbury](http://twitter.com/search?q=Sainsbury) | N/A |
+| 45 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
 
 
 

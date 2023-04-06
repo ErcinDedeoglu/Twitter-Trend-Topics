@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-06 11:18:03 UTC`
+📆 Last Updated: `2023-04-06 12:19:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Austria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SCRSVR](http://twitter.com/search?q=%23SCRSVR) | N/A |
-| 2 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
-| 3 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
-| 4 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
-| 5 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
-| 6 | [presserat](http://twitter.com/search?q=presserat) | N/A |
-| 7 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
-| 8 | [Spinat](http://twitter.com/search?q=Spinat) | N/A |
+| 2 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
+| 3 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
+| 4 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
+| 5 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
+| 6 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
+| 7 | [Spinat](http://twitter.com/search?q=Spinat) | N/A |
+| 8 | [Presserat](http://twitter.com/search?q=Presserat) | N/A |
 | 9 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 10 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
-| 11 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 13 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
-| 14 | [Sujets](http://twitter.com/search?q=Sujets) | N/A |
-| 15 | [Viren](http://twitter.com/search?q=Viren) | N/A |
-| 16 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
-| 17 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 18 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
-| 19 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 20 | [Rechtsstaat](http://twitter.com/search?q=Rechtsstaat) | N/A |
-| 21 | [Unrecht](http://twitter.com/search?q=Unrecht) | N/A |
-| 22 | [ArtStyleMimi](http://twitter.com/search?q=ArtStyleMimi) | N/A |
-| 23 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 24 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 25 | [Schutz](http://twitter.com/search?q=Schutz) | N/A |
-| 26 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 27 | [Kommunisten](http://twitter.com/search?q=Kommunisten) | N/A |
-| 28 | [Förderungen](http://twitter.com/search?q=F%c3%b6rderungen) | N/A |
-| 29 | [Ausmaß](http://twitter.com/search?q=Ausma%c3%9f) | N/A |
-| 30 | [Formen](http://twitter.com/search?q=Formen) | N/A |
-| 31 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 32 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
-| 33 | [Hängematte](http://twitter.com/search?q=H%c3%a4ngematte) | N/A |
-| 34 | [Toleranz](http://twitter.com/search?q=Toleranz) | N/A |
-| 35 | [Training](http://twitter.com/search?q=Training) | N/A |
-| 36 | [Bedarf](http://twitter.com/search?q=Bedarf) | N/A |
-| 37 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
-| 38 | [vfgh](http://twitter.com/search?q=vfgh) | N/A |
-| 39 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
-| 40 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 41 | [Theorie](http://twitter.com/search?q=Theorie) | N/A |
-| 42 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 43 | [Walach](http://twitter.com/search?q=Walach) | N/A |
-| 44 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 45 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
-| 46 | [Menschlichkeit](http://twitter.com/search?q=Menschlichkeit) | N/A |
-| 47 | [Vermögenssteuer](http://twitter.com/search?q=Verm%c3%b6genssteuer) | N/A |
-| 48 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 49 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
-| 50 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 10 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
+| 11 | [#SCR2023](http://twitter.com/search?q=%23SCR2023) | N/A |
+| 12 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
+| 13 | [Tests](http://twitter.com/search?q=Tests) | N/A |
+| 14 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
+| 15 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 16 | [Finger](http://twitter.com/search?q=Finger) | N/A |
+| 17 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 18 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 19 | [Praxis](http://twitter.com/search?q=Praxis) | N/A |
+| 20 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 21 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
+| 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 23 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
+| 24 | [Fleisch](http://twitter.com/search?q=Fleisch) | N/A |
+| 25 | [Hängematte](http://twitter.com/search?q=H%c3%a4ngematte) | N/A |
+| 26 | [Trotteln](http://twitter.com/search?q=Trotteln) | N/A |
+| 27 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
+| 28 | [sujets](http://twitter.com/search?q=sujets) | N/A |
+| 29 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
+| 30 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
+| 31 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 32 | [Versteh](http://twitter.com/search?q=Versteh) | N/A |
+| 33 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 34 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 35 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 36 | [Stress](http://twitter.com/search?q=Stress) | N/A |
+| 37 | [Umwelt](http://twitter.com/search?q=Umwelt) | N/A |
+| 38 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 39 | [Organisation](http://twitter.com/search?q=Organisation) | N/A |
+| 40 | [Spruch](http://twitter.com/search?q=Spruch) | N/A |
+| 41 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
+| 42 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 43 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
+| 44 | [Infektion](http://twitter.com/search?q=Infektion) | N/A |
+| 45 | [Beweis](http://twitter.com/search?q=Beweis) | N/A |
+| 46 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 47 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 48 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 49 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 50 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
 
 
 
