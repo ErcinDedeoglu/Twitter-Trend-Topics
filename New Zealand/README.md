@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-06 13:19:32 UTC`
+📆 Last Updated: `2023-04-06 14:18:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,16 +16,16 @@ This is top 50 for New Zealand
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 2 | [#NRLStormRoosters](http://twitter.com/search?q=%23NRLStormRoosters) | N/A |
-| 3 | [Jacinda](http://twitter.com/search?q=Jacinda) | N/A |
-| 4 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 5 | [Kerekere](http://twitter.com/search?q=Kerekere) | N/A |
-| 6 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 8 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 9 | [RBNZ](http://twitter.com/search?q=RBNZ) | N/A |
-| 10 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
-| 11 | [The Greens](http://twitter.com/search?q=The+Greens) | N/A |
+| 2 | [Jacinda](http://twitter.com/search?q=Jacinda) | N/A |
+| 3 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 4 | [Kerekere](http://twitter.com/search?q=Kerekere) | N/A |
+| 5 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 6 | [#NRLStormRoosters](http://twitter.com/search?q=%23NRLStormRoosters) | N/A |
+| 7 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 8 | [RBNZ](http://twitter.com/search?q=RBNZ) | N/A |
+| 9 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
+| 10 | [The Greens](http://twitter.com/search?q=The+Greens) | N/A |
+| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 12 | [ryan fox](http://twitter.com/search?q=ryan+fox) | N/A |
 | 13 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 14 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
@@ -58,13 +58,13 @@ This is top 50 for New Zealand
 | 41 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 42 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 43 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 44 | [Muldoon](http://twitter.com/search?q=Muldoon) | N/A |
-| 45 | [Byron](http://twitter.com/search?q=Byron) | N/A |
-| 46 | [I LOVE](http://twitter.com/search?q=I+LOVE) | N/A |
-| 47 | [Seymour](http://twitter.com/search?q=Seymour) | N/A |
-| 48 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
-| 49 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 50 | [Cyndi Lauper](http://twitter.com/search?q=Cyndi+Lauper) | N/A |
+| 44 | [muldoon](http://twitter.com/search?q=muldoon) | N/A |
+| 45 | [I LOVE](http://twitter.com/search?q=I+LOVE) | N/A |
+| 46 | [Seymour](http://twitter.com/search?q=Seymour) | N/A |
+| 47 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
+| 48 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 49 | [Cyndi Lauper](http://twitter.com/search?q=Cyndi+Lauper) | N/A |
+| 50 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 
 
 

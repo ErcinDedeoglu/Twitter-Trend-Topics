@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-06 13:18:33 UTC`
+📆 Last Updated: `2023-04-06 14:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VS魂](http://twitter.com/search?q=%23VS%e9%ad%82) | #VS魂 is a hashtag used by Japanese gamers to express their enthusiasm for playing video games. It translates to "Soul of VS" and is used to show their passion for competing against others in video games. |
+| 1 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
 | 2 | [どらほー](http://twitter.com/search?q=%e3%81%a9%e3%82%89%e3%81%bb%e3%83%bc) | N/A |
-| 3 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
-| 4 | [雨天コールド](http://twitter.com/search?q=%e9%9b%a8%e5%a4%a9%e3%82%b3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 5 | [ピンクムーン](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%83%a0%e3%83%bc%e3%83%b3) | N/A |
-| 6 | [こいほー](http://twitter.com/search?q=%e3%81%93%e3%81%84%e3%81%bb%e3%83%bc) | N/A |
+| 3 | [おりほー](http://twitter.com/search?q=%e3%81%8a%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
+| 4 | [ピンクムーン](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%83%a0%e3%83%bc%e3%83%b3) | N/A |
+| 5 | [Gorengan Harga Mati](http://twitter.com/search?q=Gorengan+Harga+Mati) | N/A |
+| 6 | [#KobeBumbuAdukNasiUduk](http://twitter.com/search?q=%23KobeBumbuAdukNasiUduk) | N/A |
 | 7 | [エレメント](http://twitter.com/search?q=%e3%82%a8%e3%83%ac%e3%83%a1%e3%83%b3%e3%83%88) | エレメント is a Japanese word that means "element" in English. It is used to refer to the basic components of something, such as the elements of a chemical compound or the elements of a mathematical equation. |
-| 8 | [#LikeCrazy3rdWin](http://twitter.com/search?q=%23LikeCrazy3rdWin) | N/A |
-| 9 | [#AFLLionsPies](http://twitter.com/search?q=%23AFLLionsPies) | N/A |
-| 10 | [新井監督](http://twitter.com/search?q=%e6%96%b0%e4%ba%95%e7%9b%a3%e7%9d%a3) | N/A |
-| 11 | [#生おかゆ](http://twitter.com/search?q=%23%e7%94%9f%e3%81%8a%e3%81%8b%e3%82%86) | N/A |
-| 12 | [#baystars](http://twitter.com/search?q=%23baystars) | N/A |
-| 13 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
-| 14 | [Pilihan Zillennial Jateng](http://twitter.com/search?q=Pilihan+Zillennial+Jateng) | N/A |
-| 15 | [新井さん](http://twitter.com/search?q=%e6%96%b0%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 16 | [バイトチームコンテスト](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%88%e3%83%81%e3%83%bc%e3%83%a0%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88) | N/A |
-| 17 | [ライデル](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%87%e3%83%ab) | N/A |
-| 18 | [ハオビン](http://twitter.com/search?q=%e3%83%8f%e3%82%aa%e3%83%93%e3%83%b3) | N/A |
+| 8 | [Produk Viral](http://twitter.com/search?q=Produk+Viral) | N/A |
+| 9 | [#素のまんま](http://twitter.com/search?q=%23%e7%b4%a0%e3%81%ae%e3%81%be%e3%82%93%e3%81%be) | #素のまんま is a Japanese phrase that literally translates to "as is" or "just as it is". It is used to express that something should remain unchanged or unaltered. |
+| 10 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 11 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
+| 12 | [#THE夜会](http://twitter.com/search?q=%23THE%e5%a4%9c%e4%bc%9a) | #THE夜会 is a Japanese hashtag that translates to “The Night Party”. It is used to refer to events or gatherings that take place at night, such as parties, concerts, and other social activities. |
+| 13 | [#ダウンタウンDX](http://twitter.com/search?q=%23%e3%83%80%e3%82%a6%e3%83%b3%e3%82%bf%e3%82%a6%e3%83%b3DX) | #ダウンタウンDX is a Japanese variety show that has been airing since 1989. It is hosted by the comedy duo Downtown, and features a variety of guests, sketches, and games. The show's name translates to "Downtown Double X" in English. |
+| 14 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 15 | [雨天コールド](http://twitter.com/search?q=%e9%9b%a8%e5%a4%a9%e3%82%b3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
+| 16 | [那須くん](http://twitter.com/search?q=%e9%82%a3%e9%a0%88%e3%81%8f%e3%82%93) | 那須くん is a nickname for the Japanese professional baseball player, Naoyuki Shimizu. It is a combination of his given name and the Japanese honorific suffix “-kun”, which is used to refer to young boys or close friends. In English, it would be translated as “Naoyuki-kun”. |
+| 17 | [こいほー](http://twitter.com/search?q=%e3%81%93%e3%81%84%e3%81%bb%e3%83%bc) | N/A |
+| 18 | [ムロフェス](http://twitter.com/search?q=%e3%83%a0%e3%83%ad%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
 | 19 | [モニタリング](http://twitter.com/search?q=%e3%83%a2%e3%83%8b%e3%82%bf%e3%83%aa%e3%83%b3%e3%82%b0) | モニタリング (monitoring) is the process of collecting and analyzing data to gain insights into a system or process. It is used to identify trends, detect problems, and measure performance. In English, it can also be referred to as surveillance or observation. |
-| 20 | [藤井竜王](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%ab%9c%e7%8e%8b) | N/A |
-| 21 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
-| 22 | [宇田川くん](http://twitter.com/search?q=%e5%ae%87%e7%94%b0%e5%b7%9d%e3%81%8f%e3%82%93) | N/A |
-| 23 | [サンタナ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%82%bf%e3%83%8a) | サンタナ (Santa Na) is a Japanese pop-rock band formed in 2001. The band's name is derived from the Spanish words "santa" (meaning "saint") and "nana" (meaning "song"). The band's music is a mix of rock, pop, and Latin music. In English, their name translates to "Saint Song". |
-| 24 | [RamazanAbi Sinopta](http://twitter.com/search?q=RamazanAbi+Sinopta) | N/A |
-| 25 | [試合成立](http://twitter.com/search?q=%e8%a9%a6%e5%90%88%e6%88%90%e7%ab%8b) | N/A |
-| 26 | [ヘルシェイク矢野](http://twitter.com/search?q=%e3%83%98%e3%83%ab%e3%82%b7%e3%82%a7%e3%82%a4%e3%82%af%e7%9f%a2%e9%87%8e) | ヘルシェイク矢野 is a Japanese phrase that translates to "Yano of Hellshake". It is the name of a Japanese rock band formed in the late 1980s. The band's music is a mix of hard rock, punk, and metal. |
-| 27 | [くっすー](http://twitter.com/search?q=%e3%81%8f%e3%81%a3%e3%81%99%e3%83%bc) | N/A |
-| 28 | [流星王子](http://twitter.com/search?q=%e6%b5%81%e6%98%9f%e7%8e%8b%e5%ad%90) | 流星王子 (Ryuusei Ouji) is a Japanese manga series written and illustrated by Michitsune Nakamura. It follows the story of a young prince from the planet Meteor who comes to Earth in search of his missing father. The English title of the series is "Meteor Prince". |
-| 29 | [Win x Lays](http://twitter.com/search?q=Win+x+Lays) | N/A |
-| 30 | [マツダスタジアム](http://twitter.com/search?q=%e3%83%9e%e3%83%84%e3%83%80%e3%82%b9%e3%82%bf%e3%82%b8%e3%82%a2%e3%83%a0) | N/A |
-| 31 | [ベッドマン](http://twitter.com/search?q=%e3%83%99%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
-| 32 | [市民団体](http://twitter.com/search?q=%e5%b8%82%e6%b0%91%e5%9b%a3%e4%bd%93) | N/A |
-| 33 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 34 | [ヤスアキ](http://twitter.com/search?q=%e3%83%a4%e3%82%b9%e3%82%a2%e3%82%ad) | ヤスアキ is a Japanese phrase meaning "Let's go!" It is often used as an expression of enthusiasm or encouragement. |
-| 35 | [最強リベンジャーズ](http://twitter.com/search?q=%e6%9c%80%e5%bc%b7%e3%83%aa%e3%83%99%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc%e3%82%ba) | N/A |
-| 36 | [高橋宏斗](http://twitter.com/search?q=%e9%ab%98%e6%a9%8b%e5%ae%8f%e6%96%97) | N/A |
-| 37 | [バイトコンテスト](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%88%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88) | N/A |
-| 38 | [第8師団長](http://twitter.com/search?q=%e7%ac%ac8%e5%b8%ab%e5%9b%a3%e9%95%b7) | N/A |
-| 39 | [ちいかわ水族館](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e6%b0%b4%e6%97%8f%e9%a4%a8) | N/A |
-| 40 | [ライマル](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%9e%e3%83%ab) | N/A |
-| 41 | [ティアラメンツ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%a9%e3%83%a1%e3%83%b3%e3%83%84) | ティアラメンツ is a Japanese card game similar to the Western game of Go Fish. The name translates to "Tiara Matching" and the goal of the game is to collect sets of cards featuring princesses wearing tiaras. Players take turns asking each other for cards they need to complete their sets, and the first player to collect all four sets wins. |
-| 42 | [カード勝ち越し](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%89%e5%8b%9d%e3%81%a1%e8%b6%8a%e3%81%97) | N/A |
-| 43 | [髙橋宏斗](http://twitter.com/search?q=%e9%ab%99%e6%a9%8b%e5%ae%8f%e6%96%97) | N/A |
-| 44 | [アーさん](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%81%95%e3%82%93) | N/A |
-| 45 | [陸自ヘリ](http://twitter.com/search?q=%e9%99%b8%e8%87%aa%e3%83%98%e3%83%aa) | N/A |
-| 46 | [まけほー](http://twitter.com/search?q=%e3%81%be%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
-| 47 | [関根くん](http://twitter.com/search?q=%e9%96%a2%e6%a0%b9%e3%81%8f%e3%82%93) | N/A |
-| 48 | [宏斗くん](http://twitter.com/search?q=%e5%ae%8f%e6%96%97%e3%81%8f%e3%82%93) | N/A |
-| 49 | [Tabungan BRI Simpedes](http://twitter.com/search?q=Tabungan+BRI+Simpedes) | N/A |
-| 50 | [本拠地初勝利](http://twitter.com/search?q=%e6%9c%ac%e6%8b%a0%e5%9c%b0%e5%88%9d%e5%8b%9d%e5%88%a9) | N/A |
+| 20 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 21 | [ドクスト](http://twitter.com/search?q=%e3%83%89%e3%82%af%e3%82%b9%e3%83%88) | N/A |
+| 22 | [ジャンハオ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%8f%e3%82%aa) | N/A |
+| 23 | [めめラウ](http://twitter.com/search?q=%e3%82%81%e3%82%81%e3%83%a9%e3%82%a6) | めめラウ is a Japanese slang term that roughly translates to "no way!" or "unbelievable!" It is often used to express disbelief or surprise. |
+| 24 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
+| 25 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 26 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
+| 27 | [ハオビン](http://twitter.com/search?q=%e3%83%8f%e3%82%aa%e3%83%93%e3%83%b3) | N/A |
+| 28 | [ブリティッシュベイクオフ](http://twitter.com/search?q=%e3%83%96%e3%83%aa%e3%83%86%e3%82%a3%e3%83%83%e3%82%b7%e3%83%a5%e3%83%99%e3%82%a4%e3%82%af%e3%82%aa%e3%83%95) | N/A |
+| 29 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 30 | [第8師団長](http://twitter.com/search?q=%e7%ac%ac8%e5%b8%ab%e5%9b%a3%e9%95%b7) | N/A |
+| 31 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
+| 32 | [新井監督](http://twitter.com/search?q=%e6%96%b0%e4%ba%95%e7%9b%a3%e7%9d%a3) | N/A |
+| 33 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 34 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 35 | [嵐ヘリウム事件](http://twitter.com/search?q=%e5%b5%90%e3%83%98%e3%83%aa%e3%82%a6%e3%83%a0%e4%ba%8b%e4%bb%b6) | N/A |
+| 36 | [جنوب لبنان](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 37 | [הסכם הגז](http://twitter.com/search?q=%d7%94%d7%a1%d7%9b%d7%9d+%d7%94%d7%92%d7%96) | N/A |
+| 38 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 39 | [도로공사](http://twitter.com/search?q=%eb%8f%84%eb%a1%9c%ea%b3%b5%ec%82%ac) | N/A |
+| 40 | [陸自ヘリ](http://twitter.com/search?q=%e9%99%b8%e8%87%aa%e3%83%98%e3%83%aa) | N/A |
+| 41 | [連敗ストップ](http://twitter.com/search?q=%e9%80%a3%e6%95%97%e3%82%b9%e3%83%88%e3%83%83%e3%83%97) | N/A |
+| 42 | [SobaCha](http://twitter.com/search?q=SobaCha) | N/A |
+| 43 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
+| 44 | [Great Mistakes](http://twitter.com/search?q=Great+Mistakes) | N/A |
+| 45 | [学校の怪談](http://twitter.com/search?q=%e5%ad%a6%e6%a0%a1%e3%81%ae%e6%80%aa%e8%ab%87) | N/A |
+| 46 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
+| 47 | [Sterlite Copper](http://twitter.com/search?q=Sterlite+Copper) | N/A |
+| 48 | [美和ちゃん](http://twitter.com/search?q=%e7%be%8e%e5%92%8c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 49 | [バイトチームコンテスト](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%88%e3%83%81%e3%83%bc%e3%83%a0%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88) | N/A |
+| 50 | [ベストシーン大賞開催中](http://twitter.com/search?q=%e3%83%99%e3%82%b9%e3%83%88%e3%82%b7%e3%83%bc%e3%83%b3%e5%a4%a7%e8%b3%9e%e9%96%8b%e5%82%ac%e4%b8%ad) | N/A |
 
 
 

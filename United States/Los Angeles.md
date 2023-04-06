@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-04-06 13:19:22 UTC`
+📆 Last Updated: `2023-04-06 14:18:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 3 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 4 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 5 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 4 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 5 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
 | 6 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
 | 7 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 8 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 8 | [#MoodPitch](http://twitter.com/search?q=%23MoodPitch) | N/A |
 | 9 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 10 | [#MoodPitch](http://twitter.com/search?q=%23MoodPitch) | N/A |
-| 11 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 12 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 13 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 14 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 15 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 10 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 11 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
+| 12 | [#NationalStudentAthleteDay](http://twitter.com/search?q=%23NationalStudentAthleteDay) | N/A |
+| 13 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 14 | [Kevin Na](http://twitter.com/search?q=Kevin+Na) | N/A |
+| 15 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
 | 16 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 17 | [Progress](http://twitter.com/search?q=Progress) | N/A |
-| 18 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
-| 19 | [Justice Thomas](http://twitter.com/search?q=Justice+Thomas) | N/A |
-| 20 | [Kevin Na](http://twitter.com/search?q=Kevin+Na) | N/A |
-| 21 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
-| 22 | [Leonard Leo](http://twitter.com/search?q=Leonard+Leo) | N/A |
-| 23 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 24 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
-| 25 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
-| 26 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
-| 27 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 28 | [Anheuser-Busch](http://twitter.com/search?q=Anheuser-Busch) | N/A |
-| 29 | [Eucharist](http://twitter.com/search?q=Eucharist) | N/A |
-| 30 | [Vogue](http://twitter.com/search?q=Vogue) | N/A |
-| 31 | [Hello Friends](http://twitter.com/search?q=Hello+Friends) | N/A |
-| 32 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 33 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
-| 34 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 35 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
-| 36 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 37 | [Jack Daniel](http://twitter.com/search?q=Jack+Daniel) | N/A |
-| 38 | [Rebekah Jones](http://twitter.com/search?q=Rebekah+Jones) | N/A |
-| 39 | [Katie](http://twitter.com/search?q=Katie) | N/A |
-| 40 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 41 | [Dylan Mulvaney](http://twitter.com/search?q=Dylan+Mulvaney) | N/A |
-| 42 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
-| 43 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 44 | [iPod](http://twitter.com/search?q=iPod) | N/A |
-| 45 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 46 | [Bedman](http://twitter.com/search?q=Bedman) | N/A |
-| 47 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 48 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
-| 49 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
-| 50 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 17 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 18 | [#SCOTUS](http://twitter.com/search?q=%23SCOTUS) | N/A |
+| 19 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 20 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 21 | [Uncle Remus](http://twitter.com/search?q=Uncle+Remus) | N/A |
+| 22 | [Progress](http://twitter.com/search?q=Progress) | N/A |
+| 23 | [ProPublica](http://twitter.com/search?q=ProPublica) | N/A |
+| 24 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 25 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 26 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 27 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 28 | [Athleta](http://twitter.com/search?q=Athleta) | N/A |
+| 29 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 30 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 31 | [John Roberts](http://twitter.com/search?q=John+Roberts) | N/A |
+| 32 | [Bohemian Grove](http://twitter.com/search?q=Bohemian+Grove) | N/A |
+| 33 | [Leonard Leo](http://twitter.com/search?q=Leonard+Leo) | N/A |
+| 34 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
+| 35 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 36 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 37 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 38 | [MCOUNTDOWN](http://twitter.com/search?q=MCOUNTDOWN) | N/A |
+| 39 | [Anheuser-Busch](http://twitter.com/search?q=Anheuser-Busch) | N/A |
+| 40 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
+| 41 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
+| 42 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 43 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 44 | [Engine](http://twitter.com/search?q=Engine) | N/A |
+| 45 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 46 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 47 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 48 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
+| 49 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 50 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
 
 
 

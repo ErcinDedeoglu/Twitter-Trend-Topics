@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-04-06 13:18:50 UTC`
+📆 Last Updated: `2023-04-06 14:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
 | 2 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 3 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
-| 4 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 5 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
-| 6 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
-| 7 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 8 | [#FCNVfB](http://twitter.com/search?q=%23FCNVfB) | N/A |
-| 9 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 10 | [osterwochenende](http://twitter.com/search?q=osterwochenende) | N/A |
+| 3 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 4 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
+| 5 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
+| 6 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 7 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
+| 8 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 9 | [#FCNVfB](http://twitter.com/search?q=%23FCNVfB) | N/A |
+| 10 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
 | 11 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 12 | [hummels](http://twitter.com/search?q=hummels) | N/A |
-| 13 | [Dream Concert](http://twitter.com/search?q=Dream+Concert) | N/A |
-| 14 | [First Concert](http://twitter.com/search?q=First+Concert) | N/A |
+| 12 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
+| 13 | [First Concert](http://twitter.com/search?q=First+Concert) | N/A |
+| 14 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
 | 15 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
-| 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 17 | [Frau Kellermann](http://twitter.com/search?q=Frau+Kellermann) | N/A |
-| 18 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 19 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 20 | [Feinstaub](http://twitter.com/search?q=Feinstaub) | N/A |
-| 21 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 22 | [torchance](http://twitter.com/search?q=torchance) | N/A |
-| 23 | [Vasektomie](http://twitter.com/search?q=Vasektomie) | N/A |
-| 24 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 25 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
-| 26 | [Stiko](http://twitter.com/search?q=Stiko) | N/A |
-| 27 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 28 | [Geburtsurkunde](http://twitter.com/search?q=Geburtsurkunde) | N/A |
-| 29 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 30 | [Claudia Neumann](http://twitter.com/search?q=Claudia+Neumann) | N/A |
-| 31 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
-| 32 | [Selbstzahler](http://twitter.com/search?q=Selbstzahler) | N/A |
-| 33 | ['Geflecht'](http://twitter.com/search?q=%27Geflecht%27) | N/A |
+| 16 | [Frau Kellermann](http://twitter.com/search?q=Frau+Kellermann) | N/A |
+| 17 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 18 | [Dream Concert](http://twitter.com/search?q=Dream+Concert) | N/A |
+| 19 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 20 | [torchance](http://twitter.com/search?q=torchance) | N/A |
+| 21 | [Feinstaub](http://twitter.com/search?q=Feinstaub) | N/A |
+| 22 | [Vasektomie](http://twitter.com/search?q=Vasektomie) | N/A |
+| 23 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
+| 24 | [Falschparker](http://twitter.com/search?q=Falschparker) | N/A |
+| 25 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 26 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
+| 27 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 28 | [Claudia Neumann](http://twitter.com/search?q=Claudia+Neumann) | N/A |
+| 29 | [Geburtsurkunde](http://twitter.com/search?q=Geburtsurkunde) | N/A |
+| 30 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
+| 31 | [Stiko](http://twitter.com/search?q=Stiko) | N/A |
+| 32 | ['Geflecht'](http://twitter.com/search?q=%27Geflecht%27) | N/A |
+| 33 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
 | 34 | [Flugscham](http://twitter.com/search?q=Flugscham) | N/A |
-| 35 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 36 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 35 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 36 | [yujin](http://twitter.com/search?q=yujin) | N/A |
 | 37 | [Flugtaxis](http://twitter.com/search?q=Flugtaxis) | N/A |
-| 38 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 39 | [Wäscheschleuder](http://twitter.com/search?q=W%c3%a4scheschleuder) | N/A |
-| 40 | [Murat](http://twitter.com/search?q=Murat) | N/A |
-| 41 | [Streich](http://twitter.com/search?q=Streich) | N/A |
+| 38 | [Wäscheschleuder](http://twitter.com/search?q=W%c3%a4scheschleuder) | N/A |
+| 39 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 40 | [Selbstzahler](http://twitter.com/search?q=Selbstzahler) | N/A |
+| 41 | [Reus](http://twitter.com/search?q=Reus) | N/A |
 | 42 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
 | 43 | [Privatsache](http://twitter.com/search?q=Privatsache) | N/A |
-| 44 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 45 | [Falschparker](http://twitter.com/search?q=Falschparker) | N/A |
-| 46 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
-| 47 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 48 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 49 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 44 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
+| 45 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 46 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 47 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 48 | [Wine](http://twitter.com/search?q=Wine) | N/A |
+| 49 | [Macheten](http://twitter.com/search?q=Macheten) | N/A |
 
 
 

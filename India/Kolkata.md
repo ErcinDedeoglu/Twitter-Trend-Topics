@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kolkata
 
-📆 Last Updated: `2023-04-06 13:19:13 UTC`
+📆 Last Updated: `2023-04-06 14:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DuareSarkar](http://twitter.com/search?q=%23DuareSarkar) | N/A |
-| 2 | [#EgiyeBangla](http://twitter.com/search?q=%23EgiyeBangla) | N/A |
+| 1 | [#EgiyeBangla](http://twitter.com/search?q=%23EgiyeBangla) | N/A |
+| 2 | [#DuareSarkar](http://twitter.com/search?q=%23DuareSarkar) | N/A |
 | 3 | [#Suriya42](http://twitter.com/search?q=%23Suriya42) | N/A |
-| 4 | [#RenukaPanwar1MillionOnIG](http://twitter.com/search?q=%23RenukaPanwar1MillionOnIG) | N/A |
-| 5 | [#BJPBrokerAndLeaker](http://twitter.com/search?q=%23BJPBrokerAndLeaker) | N/A |
-| 6 | [Arunachal Rejects China](http://twitter.com/search?q=Arunachal+Rejects+China) | N/A |
-| 7 | [अनिल एंटनी](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%bf%e0%a4%b2+%e0%a4%8f%e0%a4%82%e0%a4%9f%e0%a4%a8%e0%a5%80) | N/A |
-| 8 | [Rashtriya Sewa Bharati](http://twitter.com/search?q=Rashtriya+Sewa+Bharati) | N/A |
-| 9 | [MKJW SHIELD OF MUNAWAR](http://twitter.com/search?q=MKJW+SHIELD+OF+MUNAWAR) | N/A |
-| 10 | [Syedna Case](http://twitter.com/search?q=Syedna+Case) | N/A |
-| 11 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 12 | [पूर्व रक्षा मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 13 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
-| 14 | [तमिलनाडु पुलिस](http://twitter.com/search?q=%e0%a4%a4%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8%e0%a4%be%e0%a4%a1%e0%a5%81+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 15 | [Eden Gardens](http://twitter.com/search?q=Eden+Gardens) | N/A |
-| 16 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 17 | [Defence](http://twitter.com/search?q=Defence) | N/A |
-| 18 | [विजय चौक](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%9a%e0%a5%8c%e0%a4%95) | N/A |
-| 19 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 20 | [Narzo N55](http://twitter.com/search?q=Narzo+N55) | N/A |
-| 21 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 22 | [Scindia](http://twitter.com/search?q=Scindia) | N/A |
-| 23 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 24 | [जगरनाथ महतो](http://twitter.com/search?q=%e0%a4%9c%e0%a4%97%e0%a4%b0%e0%a4%a8%e0%a4%be%e0%a4%a5+%e0%a4%ae%e0%a4%b9%e0%a4%a4%e0%a5%8b) | N/A |
-| 25 | [Sushant A Game Changer](http://twitter.com/search?q=Sushant+A+Game+Changer) | N/A |
-| 26 | [D-Day](http://twitter.com/search?q=D-Day) | N/A |
-| 27 | [Ghulam](http://twitter.com/search?q=Ghulam) | N/A |
-| 28 | [EVMs](http://twitter.com/search?q=EVMs) | N/A |
-| 29 | [कपिल मिश्रा](http://twitter.com/search?q=%e0%a4%95%e0%a4%aa%e0%a4%bf%e0%a4%b2+%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 30 | [झारखंड सरकार](http://twitter.com/search?q=%e0%a4%9d%e0%a4%be%e0%a4%b0%e0%a4%96%e0%a4%82%e0%a4%a1+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 31 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
-| 32 | [#HanumanBhaktKamalnath](http://twitter.com/search?q=%23HanumanBhaktKamalnath) | N/A |
-| 33 | [#XiaomiFanFestival](http://twitter.com/search?q=%23XiaomiFanFestival) | N/A |
-| 34 | [#Redmi12C](http://twitter.com/search?q=%23Redmi12C) | N/A |
-| 35 | [#RedmiNote12](http://twitter.com/search?q=%23RedmiNote12) | N/A |
-| 36 | [#AnilAntony](http://twitter.com/search?q=%23AnilAntony) | N/A |
-| 37 | [#AKAntony](http://twitter.com/search?q=%23AKAntony) | N/A |
-| 38 | [#SewaSangam2023](http://twitter.com/search?q=%23SewaSangam2023) | N/A |
-| 39 | [#KKRvsRCB](http://twitter.com/search?q=%23KKRvsRCB) | N/A |
-| 40 | [#BholaaNewSongOut](http://twitter.com/search?q=%23BholaaNewSongOut) | N/A |
-| 41 | [#realmenarzoOnAmazonSpecials](http://twitter.com/search?q=%23realmenarzoOnAmazonSpecials) | N/A |
-| 42 | [#GetOutRavi](http://twitter.com/search?q=%23GetOutRavi) | #GetOutRavi is a hashtag used to express support for the Indian student Ravi Kumar, who was detained by US immigration authorities in 2019. The hashtag is used to call for his release and to raise awareness of his case. |
-| 43 | [#LikeCrazy3rdWin](http://twitter.com/search?q=%23LikeCrazy3rdWin) | N/A |
-| 44 | [#RNRavi](http://twitter.com/search?q=%23RNRavi) | N/A |
-| 45 | [#BJPSthapnaDiwas](http://twitter.com/search?q=%23BJPSthapnaDiwas) | N/A |
-| 46 | [#VerifiedBySensibull](http://twitter.com/search?q=%23VerifiedBySensibull) | N/A |
-| 47 | [#ओबीसी_मांगे_शैडो_पोस्ट](http://twitter.com/search?q=%23%e0%a4%93%e0%a4%ac%e0%a5%80%e0%a4%b8%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%87_%e0%a4%b6%e0%a5%88%e0%a4%a1%e0%a5%8b_%e0%a4%aa%e0%a5%8b%e0%a4%b8%e0%a5%8d%e0%a4%9f) | N/A |
-| 48 | [#HyderabadRains](http://twitter.com/search?q=%23HyderabadRains) | N/A |
-| 49 | [#WorldHealthDay2023](http://twitter.com/search?q=%23WorldHealthDay2023) | N/A |
-| 50 | [#ChennaiAirport](http://twitter.com/search?q=%23ChennaiAirport) | N/A |
+| 4 | [#KKRvsRCB](http://twitter.com/search?q=%23KKRvsRCB) | N/A |
+| 5 | [#ForeignFundingExposed](http://twitter.com/search?q=%23ForeignFundingExposed) | N/A |
+| 6 | [Sterlite Copper](http://twitter.com/search?q=Sterlite+Copper) | N/A |
+| 7 | [Eden Gardens](http://twitter.com/search?q=Eden+Gardens) | N/A |
+| 8 | [अनिल एंटनी](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%bf%e0%a4%b2+%e0%a4%8f%e0%a4%82%e0%a4%9f%e0%a4%a8%e0%a5%80) | N/A |
+| 9 | [Update Today](http://twitter.com/search?q=Update+Today) | N/A |
+| 10 | [RAGE OF RAVANASURA](http://twitter.com/search?q=RAGE+OF+RAVANASURA) | N/A |
+| 11 | [Oxfam India](http://twitter.com/search?q=Oxfam+India) | N/A |
+| 12 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 13 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 14 | [Super Frank](http://twitter.com/search?q=Super+Frank) | N/A |
+| 15 | [Syedna Case](http://twitter.com/search?q=Syedna+Case) | N/A |
+| 16 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 17 | [6.71 HD](http://twitter.com/search?q=6.71+HD) | N/A |
+| 18 | [MKJW SHIELD OF MUNAWAR](http://twitter.com/search?q=MKJW+SHIELD+OF+MUNAWAR) | N/A |
+| 19 | [Sudeep](http://twitter.com/search?q=Sudeep) | N/A |
+| 20 | [Sushant A Game Changer](http://twitter.com/search?q=Sushant+A+Game+Changer) | N/A |
+| 21 | [तमिलनाडु पुलिस](http://twitter.com/search?q=%e0%a4%a4%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8%e0%a4%be%e0%a4%a1%e0%a5%81+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 22 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 23 | [Prakash](http://twitter.com/search?q=Prakash) | N/A |
+| 24 | [Padma Shri](http://twitter.com/search?q=Padma+Shri) | Padma Shri is an Indian civilian award given by the Government of India. It is the fourth highest civilian award in India, after the Bharat Ratna, the Padma Vibhushan and the Padma Bhushan. The award is given to recognize distinguished service of a high order to the nation in any field including art, literature, education, science, sports, medicine, social service and public affairs. The literal meaning of Padma Shri in English is "Lotus Honor". |
+| 25 | [Scindia](http://twitter.com/search?q=Scindia) | N/A |
+| 26 | [पूर्व रक्षा मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 27 | [EVMs](http://twitter.com/search?q=EVMs) | N/A |
+| 28 | [परमेश्वर कबीर](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
+| 29 | [विजय चौक](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af+%e0%a4%9a%e0%a5%8c%e0%a4%95) | N/A |
+| 30 | [शिक्षा मंत्री जगरनाथ महतो](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%9c%e0%a4%97%e0%a4%b0%e0%a4%a8%e0%a4%be%e0%a4%a5+%e0%a4%ae%e0%a4%b9%e0%a4%a4%e0%a5%8b) | N/A |
+| 31 | [#RarioPeFanJeetega](http://twitter.com/search?q=%23RarioPeFanJeetega) | N/A |
+| 32 | [#BJPBrokerAndLeaker](http://twitter.com/search?q=%23BJPBrokerAndLeaker) | N/A |
+| 33 | [#AKAntony](http://twitter.com/search?q=%23AKAntony) | N/A |
+| 34 | [#VishwaguruDharmyagya](http://twitter.com/search?q=%23VishwaguruDharmyagya) | N/A |
+| 35 | [#HanumanBhaktKamalnath](http://twitter.com/search?q=%23HanumanBhaktKamalnath) | N/A |
+| 36 | [#GetOutRavi](http://twitter.com/search?q=%23GetOutRavi) | #GetOutRavi is a hashtag used to express support for the Indian student Ravi Kumar, who was detained by US immigration authorities in 2019. The hashtag is used to call for his release and to raise awareness of his case. |
+| 37 | [#renukapanwar1milliononig](http://twitter.com/search?q=%23renukapanwar1milliononig) | N/A |
+| 38 | [#PawanKalyanAtNITWarangal](http://twitter.com/search?q=%23PawanKalyanAtNITWarangal) | N/A |
+| 39 | [#Redmi12C](http://twitter.com/search?q=%23Redmi12C) | N/A |
+| 40 | [#XiaomiFanFestival](http://twitter.com/search?q=%23XiaomiFanFestival) | N/A |
+| 41 | [#RedmiNote12](http://twitter.com/search?q=%23RedmiNote12) | N/A |
+| 42 | [#bholaanewsongout](http://twitter.com/search?q=%23bholaanewsongout) | N/A |
+| 43 | [#BJPSthapnaDiwas](http://twitter.com/search?q=%23BJPSthapnaDiwas) | N/A |
+| 44 | [#GDNaidu](http://twitter.com/search?q=%23GDNaidu) | N/A |
+| 45 | [#AmiKKR](http://twitter.com/search?q=%23AmiKKR) | N/A |
+| 46 | [#RNRavi](http://twitter.com/search?q=%23RNRavi) | N/A |
+| 47 | [#LikeCrazy3rdWin](http://twitter.com/search?q=%23LikeCrazy3rdWin) | N/A |
+| 48 | [#onlinegaming](http://twitter.com/search?q=%23onlinegaming) | N/A |
+| 49 | [#SewaSangam2023](http://twitter.com/search?q=%23SewaSangam2023) | N/A |
+| 50 | [#Desamuduru4KSpecialShows](http://twitter.com/search?q=%23Desamuduru4KSpecialShows) | N/A |
 
 
 

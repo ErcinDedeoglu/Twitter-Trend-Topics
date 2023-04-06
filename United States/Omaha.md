@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Omaha
 
-📆 Last Updated: `2023-04-06 13:19:23 UTC`
+📆 Last Updated: `2023-04-06 14:18:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [United States](</United States>)
 | 3 | [#MoodPitch](http://twitter.com/search?q=%23MoodPitch) | N/A |
 | 4 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
 | 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 6 | [Kevin Na](http://twitter.com/search?q=Kevin+Na) | N/A |
-| 7 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
-| 8 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 9 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 6 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
+| 7 | [Kevin Na](http://twitter.com/search?q=Kevin+Na) | N/A |
+| 8 | [#NationalStudentAthleteDay](http://twitter.com/search?q=%23NationalStudentAthleteDay) | N/A |
+| 9 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
 | 10 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 11 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 12 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 13 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 14 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 15 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 16 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 11 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 12 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 13 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 14 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 15 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 16 | [Uncle Remus](http://twitter.com/search?q=Uncle+Remus) | N/A |
 | 17 | [Progress](http://twitter.com/search?q=Progress) | N/A |
-| 18 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 19 | [ProPublica](http://twitter.com/search?q=ProPublica) | N/A |
-| 20 | [JO KWON](http://twitter.com/search?q=JO+KWON) | N/A |
-| 21 | [Athleta](http://twitter.com/search?q=Athleta) | N/A |
-| 22 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 23 | [Leonard Leo](http://twitter.com/search?q=Leonard+Leo) | N/A |
-| 24 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 25 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
-| 26 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 27 | [Anheuser-Busch](http://twitter.com/search?q=Anheuser-Busch) | N/A |
-| 28 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
-| 29 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
-| 30 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 31 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
-| 32 | [John Roberts](http://twitter.com/search?q=John+Roberts) | N/A |
-| 33 | [Mikasa](http://twitter.com/search?q=Mikasa) | N/A |
-| 34 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
-| 35 | [Vogue](http://twitter.com/search?q=Vogue) | N/A |
-| 36 | [Uncle Remus](http://twitter.com/search?q=Uncle+Remus) | N/A |
-| 37 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 38 | [Hello Friends](http://twitter.com/search?q=Hello+Friends) | N/A |
-| 39 | [Thiem](http://twitter.com/search?q=Thiem) | Thiem is a surname of German origin. It is derived from the Old German word "diem" meaning "people". The name is most commonly found in Germany, Austria, and Switzerland. |
-| 40 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 41 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
-| 42 | [iPod](http://twitter.com/search?q=iPod) | N/A |
-| 43 | [Super Frank](http://twitter.com/search?q=Super+Frank) | N/A |
+| 18 | [ProPublica](http://twitter.com/search?q=ProPublica) | N/A |
+| 19 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 20 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 21 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 22 | [Athleta](http://twitter.com/search?q=Athleta) | N/A |
+| 23 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 24 | [Bohemian Grove](http://twitter.com/search?q=Bohemian+Grove) | N/A |
+| 25 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 26 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 27 | [John Roberts](http://twitter.com/search?q=John+Roberts) | N/A |
+| 28 | [CBDQ](http://twitter.com/search?q=CBDQ) | N/A |
+| 29 | [Leonard Leo](http://twitter.com/search?q=Leonard+Leo) | N/A |
+| 30 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
+| 31 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 32 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 33 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 34 | [MCOUNTDOWN](http://twitter.com/search?q=MCOUNTDOWN) | N/A |
+| 35 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
+| 36 | [Anheuser-Busch](http://twitter.com/search?q=Anheuser-Busch) | N/A |
+| 37 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 38 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
+| 39 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 40 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 41 | [Engine](http://twitter.com/search?q=Engine) | N/A |
+| 42 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 43 | [haruto](http://twitter.com/search?q=haruto) | N/A |
 | 44 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 45 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
-| 46 | [Justices](http://twitter.com/search?q=Justices) | Justices is a term used to refer to judges in the legal system. It is also used to refer to members of the Supreme Court of the United States. Justices are responsible for interpreting and applying laws, as well as ruling on cases brought before them. |
-| 47 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 48 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 49 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 45 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
+| 46 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
+| 47 | [Hagler](http://twitter.com/search?q=Hagler) | N/A |
+| 48 | [Thiem](http://twitter.com/search?q=Thiem) | Thiem is a surname of German origin. It is derived from the Old German word "diem" meaning "people". The name is most commonly found in Germany, Austria, and Switzerland. |
+| 49 | [JO KWON](http://twitter.com/search?q=JO+KWON) | N/A |
 
 
 

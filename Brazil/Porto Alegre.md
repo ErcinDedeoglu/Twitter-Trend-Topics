@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-04-06 13:18:45 UTC`
+📆 Last Updated: `2023-04-06 14:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 2 | [Blumenau](http://twitter.com/search?q=Blumenau) | N/A |
-| 3 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
-| 4 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
-| 5 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 6 | [Evaristo](http://twitter.com/search?q=Evaristo) | N/A |
-| 7 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 8 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 9 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 11 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 12 | [#TodasAsFlores](http://twitter.com/search?q=%23TodasAsFlores) | N/A |
-| 13 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
-| 14 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 15 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 16 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 17 | [FELIPE MELO](http://twitter.com/search?q=FELIPE+MELO) | N/A |
-| 18 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 19 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 20 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 21 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 22 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 23 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
-| 24 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 25 | [#LibertadoresNaESPN](http://twitter.com/search?q=%23LibertadoresNaESPN) | N/A |
-| 26 | [#amagiaacontecenobbb](http://twitter.com/search?q=%23amagiaacontecenobbb) | N/A |
-| 27 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
-| 28 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 29 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
-| 30 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 31 | [Bolívar](http://twitter.com/search?q=Bol%c3%advar) | N/A |
-| 32 | [#foravp](http://twitter.com/search?q=%23foravp) | N/A |
-| 33 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
-| 34 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 35 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 36 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
-| 37 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 38 | [Vitor Mendes](http://twitter.com/search?q=Vitor+Mendes) | N/A |
-| 39 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
-| 40 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
-| 41 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 42 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 43 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 44 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 45 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 46 | [Lomba](http://twitter.com/search?q=Lomba) | N/A |
-| 47 | [Mayke](http://twitter.com/search?q=Mayke) | Mayke is a Dutch name derived from the Latin name Michael, meaning "who is like God?". It is also a variant of the English name Mike. |
-| 48 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
-| 49 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
-| 50 | [Santa Catarina](http://twitter.com/search?q=Santa+Catarina) | N/A |
+| 1 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
+| 2 | [Henrique Dourado](http://twitter.com/search?q=Henrique+Dourado) | N/A |
+| 3 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 4 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 5 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
+| 6 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 7 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 8 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
+| 9 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 10 | [#LikeCrazy3rdWin](http://twitter.com/search?q=%23LikeCrazy3rdWin) | N/A |
+| 11 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 12 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
+| 13 | [#SUGAxNBA](http://twitter.com/search?q=%23SUGAxNBA) | N/A |
+| 14 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
+| 15 | [#30DiasComChiara](http://twitter.com/search?q=%2330DiasComChiara) | N/A |
+| 16 | [HOJE TEM CORINTHIANS](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS) | N/A |
+| 17 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
+| 18 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 19 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 20 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
+| 21 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 22 | [Mikasa](http://twitter.com/search?q=Mikasa) | N/A |
+| 23 | [Phanbin](http://twitter.com/search?q=Phanbin) | N/A |
+| 24 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 25 | [Quinta-feira Santa](http://twitter.com/search?q=Quinta-feira+Santa) | N/A |
+| 26 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 27 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 28 | [Capes](http://twitter.com/search?q=Capes) | N/A |
+| 29 | [Vai Corinthians](http://twitter.com/search?q=Vai+Corinthians) | N/A |
+| 30 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 31 | [Errar](http://twitter.com/search?q=Errar) | N/A |
+| 32 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
+| 33 | [Otávio Guedes](http://twitter.com/search?q=Ot%c3%a1vio+Guedes) | N/A |
+| 34 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 35 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 36 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
+| 37 | [Merval](http://twitter.com/search?q=Merval) | N/A |
+| 38 | [iPod](http://twitter.com/search?q=iPod) | N/A |
+| 39 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 40 | [Bolsonarismo](http://twitter.com/search?q=Bolsonarismo) | Bolsonarismo is a term used to describe the political ideology of Brazilian President Jair Bolsonaro. It is characterized by a combination of right-wing populism, economic liberalism, and social conservatism. In English, it can be translated as "Bolsonaroism". |
+| 41 | [Oruam](http://twitter.com/search?q=Oruam) | N/A |
+| 42 | [Saneamento](http://twitter.com/search?q=Saneamento) | N/A |
+| 43 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
+| 44 | [Impunidade](http://twitter.com/search?q=Impunidade) | N/A |
+| 45 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
+| 46 | [Gabriela Hardt](http://twitter.com/search?q=Gabriela+Hardt) | N/A |
+| 47 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 48 | [Nestlé](http://twitter.com/search?q=Nestl%c3%a9) | N/A |
+| 49 | [mc luanna](http://twitter.com/search?q=mc+luanna) | N/A |
+| 50 | [Petrobras](http://twitter.com/search?q=Petrobras) | N/A |
 
 
 

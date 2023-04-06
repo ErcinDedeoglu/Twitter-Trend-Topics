@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-04-06 13:18:49 UTC`
+📆 Last Updated: `2023-04-06 14:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DirectAN](http://twitter.com/search?q=%23DirectAN) | N/A |
-| 2 | [#manif6avril](http://twitter.com/search?q=%23manif6avril) | N/A |
-| 3 | [#FCNOL](http://twitter.com/search?q=%23FCNOL) | N/A |
-| 4 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
-| 5 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 6 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 7 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 8 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 9 | [G.O.A.T.](http://twitter.com/search?q=G.O.A.T.) | N/A |
-| 10 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 11 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 12 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 13 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 14 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 15 | [Blas](http://twitter.com/search?q=Blas) | N/A |
-| 16 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 17 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
-| 18 | [Sophie Binet](http://twitter.com/search?q=Sophie+Binet) | N/A |
-| 19 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
-| 20 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 21 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
-| 22 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 23 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 24 | [Les 84](http://twitter.com/search?q=Les+84) | N/A |
-| 25 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 26 | [La LDH](http://twitter.com/search?q=La+LDH) | N/A |
-| 27 | [François Civil](http://twitter.com/search?q=Fran%c3%a7ois+Civil) | N/A |
-| 28 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 29 | [Beaujoire](http://twitter.com/search?q=Beaujoire) | N/A |
-| 30 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 31 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 32 | [GARP](http://twitter.com/search?q=GARP) | N/A |
-| 33 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
-| 34 | [Invalides](http://twitter.com/search?q=Invalides) | N/A |
-| 35 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 36 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 37 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 38 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 39 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 40 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 41 | [Julien Maynard](http://twitter.com/search?q=Julien+Maynard) | N/A |
-| 42 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 43 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
-| 44 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
-| 45 | [Pallois](http://twitter.com/search?q=Pallois) | N/A |
-| 46 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 47 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 48 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 49 | [Grève du 6](http://twitter.com/search?q=Gr%c3%a8ve+du+6) | N/A |
-| 50 | [Jeudi Saint](http://twitter.com/search?q=Jeudi+Saint) | N/A |
+| 1 | [#64ansCestNon](http://twitter.com/search?q=%2364ansCestNon) | N/A |
+| 2 | [Liban](http://twitter.com/search?q=Liban) | N/A |
+| 3 | [#Lyon](http://twitter.com/search?q=%23Lyon) | N/A |
+| 4 | [#manif6avril](http://twitter.com/search?q=%23manif6avril) | N/A |
+| 5 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
+| 6 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 7 | [La Rotonde](http://twitter.com/search?q=La+Rotonde) | N/A |
+| 8 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
+| 9 | [Binet](http://twitter.com/search?q=Binet) | N/A |
+| 10 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
+| 11 | [#64ansCestToujoursNon](http://twitter.com/search?q=%2364ansCestToujoursNon) | N/A |
+| 12 | [Nespresso](http://twitter.com/search?q=Nespresso) | N/A |
+| 13 | [Les 84](http://twitter.com/search?q=Les+84) | N/A |
+| 14 | [Thiem](http://twitter.com/search?q=Thiem) | Thiem is a surname of German origin. It is derived from the Old German word "diem" meaning "people". The name is most commonly found in Germany, Austria, and Switzerland. |
+| 15 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 16 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 17 | [CFDT](http://twitter.com/search?q=CFDT) | N/A |
+| 18 | [Invalides](http://twitter.com/search?q=Invalides) | N/A |
+| 19 | [G.O.A.T.](http://twitter.com/search?q=G.O.A.T.) | N/A |
+| 20 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 21 | [Oden](http://twitter.com/search?q=Oden) | N/A |
+| 22 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 23 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 24 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 25 | [Jeudi Saint](http://twitter.com/search?q=Jeudi+Saint) | N/A |
+| 26 | [Antilles](http://twitter.com/search?q=Antilles) | N/A |
+| 27 | [Grève du 6](http://twitter.com/search?q=Gr%c3%a8ve+du+6) | N/A |
+| 28 | [Berger](http://twitter.com/search?q=Berger) | N/A |
+| 29 | [Pékin](http://twitter.com/search?q=P%c3%a9kin) | N/A |
+| 30 | [La LDH](http://twitter.com/search?q=La+LDH) | N/A |
+| 31 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
+| 32 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 33 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 34 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
+| 35 | [EN DIRECT](http://twitter.com/search?q=EN+DIRECT) | N/A |
+| 36 | [Mayotte](http://twitter.com/search?q=Mayotte) | N/A |
+| 37 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
+| 38 | [#Rennes](http://twitter.com/search?q=%23Rennes) | N/A |
+| 39 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
+| 40 | [#JusquauRetrait](http://twitter.com/search?q=%23JusquauRetrait) | N/A |
+| 41 | [#FIC2023](http://twitter.com/search?q=%23FIC2023) | N/A |
+| 42 | [#FCATFC](http://twitter.com/search?q=%23FCATFC) | N/A |
+| 43 | [#EstelleMidi](http://twitter.com/search?q=%23EstelleMidi) | N/A |
+| 44 | [#goentrepreneurs](http://twitter.com/search?q=%23goentrepreneurs) | N/A |
 
 
 

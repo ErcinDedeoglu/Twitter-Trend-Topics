@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-04-06 13:19:05 UTC`
+📆 Last Updated: `2023-04-06 14:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DestinyclinicPrem](http://twitter.com/search?q=%23DestinyclinicPrem) | N/A |
-| 2 | [#แลกฟอลเทรนด์อิงล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
-| 3 | [#แลกฟอลเทรนให้ชาล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
-| 4 | [#แลกฟอลforเทรนด์อิงฟ้า](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5for%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2) | N/A |
-| 5 | [$USDC](http://twitter.com/search?q=%24USDC) | N/A |
-| 6 | [SyncSwap](http://twitter.com/search?q=SyncSwap) | N/A |
-| 7 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
-| 8 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 9 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 1 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
+| 2 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 3 | [#แลกฟอลเทรนด์อิงล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
+| 4 | [#แลกฟอลเทรนให้ชาล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
+| 5 | [#แลกฟอลforเทรนด์อิงฟ้า](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5for%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2) | N/A |
+| 6 | [$USDC](http://twitter.com/search?q=%24USDC) | N/A |
+| 7 | [flower first win](http://twitter.com/search?q=flower+first+win) | N/A |
+| 8 | [SyncSwap](http://twitter.com/search?q=SyncSwap) | N/A |
+| 9 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
 | 10 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
-| 11 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
-| 12 | [cushion cover](http://twitter.com/search?q=cushion+cover) | N/A |
-| 13 | [Tool](http://twitter.com/search?q=Tool) | N/A |
-| 14 | [Grim Reaper](http://twitter.com/search?q=Grim+Reaper) | N/A |
-| 15 | [Rose Skull](http://twitter.com/search?q=Rose+Skull) | N/A |
-| 16 | [Cinco de Mayo Skull](http://twitter.com/search?q=Cinco+de+Mayo+Skull) | N/A |
-| 17 | [Christmas Skull](http://twitter.com/search?q=Christmas+Skull) | N/A |
-| 18 | [Day of The Dead](http://twitter.com/search?q=Day+of+The+Dead) | N/A |
-| 19 | [Happy Easter 2023](http://twitter.com/search?q=Happy+Easter+2023) | N/A |
-| 20 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 21 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
-| 22 | [Punisher Skull](http://twitter.com/search?q=Punisher+Skull) | N/A |
-| 23 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 24 | [Gothic Skull](http://twitter.com/search?q=Gothic+Skull) | N/A |
-| 25 | [Motorcycle Skull](http://twitter.com/search?q=Motorcycle+Skull) | N/A |
-| 26 | [Flame Skull](http://twitter.com/search?q=Flame+Skull) | N/A |
-| 27 | [Flaming Skull](http://twitter.com/search?q=Flaming+Skull) | N/A |
-| 28 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
-| 29 | [Flower Skull](http://twitter.com/search?q=Flower+Skull) | N/A |
-| 30 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |
-| 31 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 32 | [Mexican Skull](http://twitter.com/search?q=Mexican+Skull) | N/A |
-| 33 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 34 | [Nanon](http://twitter.com/search?q=Nanon) | N/A |
-| 35 | [Calaveras Skull](http://twitter.com/search?q=Calaveras+Skull) | N/A |
-| 36 | [Ngày](http://twitter.com/search?q=Ng%c3%a0y) | N/A |
-| 37 | [Đỉnh](http://twitter.com/search?q=%c4%90%e1%bb%89nh) | N/A |
-| 38 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 39 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
-| 40 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
-| 41 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 42 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 43 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
-| 44 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 45 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 46 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 47 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 48 | [đài loan](http://twitter.com/search?q=%c4%91%c3%a0i+loan) | N/A |
-| 49 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
+| 11 | [Tool](http://twitter.com/search?q=Tool) | N/A |
+| 12 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
+| 13 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 14 | [cushion cover](http://twitter.com/search?q=cushion+cover) | N/A |
+| 15 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
+| 16 | [Day of The Dead](http://twitter.com/search?q=Day+of+The+Dead) | N/A |
+| 17 | [cinco de mayo skull](http://twitter.com/search?q=cinco+de+mayo+skull) | N/A |
+| 18 | [Rose Skull](http://twitter.com/search?q=Rose+Skull) | N/A |
+| 19 | [Christmas Skull](http://twitter.com/search?q=Christmas+Skull) | N/A |
+| 20 | [gothic skull](http://twitter.com/search?q=gothic+skull) | N/A |
+| 21 | [Sell](http://twitter.com/search?q=Sell) | N/A |
+| 22 | [Grim Reaper](http://twitter.com/search?q=Grim+Reaper) | N/A |
+| 23 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 24 | [buồn](http://twitter.com/search?q=bu%e1%bb%93n) | N/A |
+| 25 | [Punisher Skull](http://twitter.com/search?q=Punisher+Skull) | N/A |
+| 26 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
+| 27 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 28 | [motorcycle skull](http://twitter.com/search?q=motorcycle+skull) | N/A |
+| 29 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
+| 30 | [Calaveras Skull](http://twitter.com/search?q=Calaveras+Skull) | N/A |
+| 31 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 32 | [Happy Easter 2023](http://twitter.com/search?q=Happy+Easter+2023) | N/A |
+| 33 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
+| 34 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 35 | [flaming skull](http://twitter.com/search?q=flaming+skull) | N/A |
+| 36 | [Flame Skull](http://twitter.com/search?q=Flame+Skull) | N/A |
+| 37 | [ZKsync](http://twitter.com/search?q=ZKsync) | N/A |
+| 38 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 39 | [thành](http://twitter.com/search?q=th%c3%a0nh) | N/A |
+| 40 | [BASE](http://twitter.com/search?q=BASE) | N/A |
+| 41 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 42 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 43 | [Death Skull](http://twitter.com/search?q=Death+Skull) | N/A |
+| 44 | [Taemin](http://twitter.com/search?q=Taemin) | N/A |
+| 45 | [Nanon](http://twitter.com/search?q=Nanon) | N/A |
+| 46 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 47 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 48 | [cháy](http://twitter.com/search?q=ch%c3%a1y) | N/A |
+| 49 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 50 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
 
 
 
