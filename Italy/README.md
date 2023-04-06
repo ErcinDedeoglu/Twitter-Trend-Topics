@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-04-06 02:30:38 UTC`
+📆 Last Updated: `2023-04-06 03:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,16 +31,16 @@ This is top 50 for Italy
 | 14 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
 | 15 | [Massa](http://twitter.com/search?q=Massa) | N/A |
 | 16 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 17 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 18 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 19 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 20 | [Perin](http://twitter.com/search?q=Perin) | N/A |
+| 17 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 18 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 19 | [perin](http://twitter.com/search?q=perin) | N/A |
+| 20 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
 | 21 | [Suma](http://twitter.com/search?q=Suma) | N/A |
 | 22 | [lavinia](http://twitter.com/search?q=lavinia) | N/A |
 | 23 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
 | 24 | [valeria marini](http://twitter.com/search?q=valeria+marini) | N/A |
 | 25 | [graziani](http://twitter.com/search?q=graziani) | N/A |
-| 26 | [Forza Presidente](http://twitter.com/search?q=Forza+Presidente) | N/A |
+| 26 | [forza presidente](http://twitter.com/search?q=forza+presidente) | N/A |
 | 27 | [giulia salemi](http://twitter.com/search?q=giulia+salemi) | N/A |
 | 28 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
 | 29 | [Kean](http://twitter.com/search?q=Kean) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for Italy
 | 32 | [gennaro](http://twitter.com/search?q=gennaro) | N/A |
 | 33 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
 | 34 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
-| 35 | [bonolis](http://twitter.com/search?q=bonolis) | N/A |
-| 36 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 37 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 38 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 39 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 40 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
-| 41 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
+| 35 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 36 | [bonolis](http://twitter.com/search?q=bonolis) | N/A |
+| 37 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 38 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 39 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 40 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 41 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
 | 42 | [Veltroni](http://twitter.com/search?q=Veltroni) | N/A |
-| 43 | [Pierino](http://twitter.com/search?q=Pierino) | N/A |
-| 44 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 45 | [Anto](http://twitter.com/search?q=Anto) | Anto is a shortened form of the name Antonio, which is a male given name of Italian origin. It is derived from the Latin Antonius, which is ultimately derived from the Greek name Antonios. In English, it means "beyond praise" or "priceless". |
+| 43 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
+| 44 | [Pierino](http://twitter.com/search?q=Pierino) | N/A |
+| 45 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
 | 46 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 | 47 | [Nunzia](http://twitter.com/search?q=Nunzia) | N/A |
-| 48 | [Stupende](http://twitter.com/search?q=Stupende) | N/A |
-| 49 | [Giuly](http://twitter.com/search?q=Giuly) | N/A |
-| 50 | [Bellissime](http://twitter.com/search?q=Bellissime) | N/A |
+| 48 | [Giuly](http://twitter.com/search?q=Giuly) | N/A |
+| 49 | [Verona](http://twitter.com/search?q=Verona) | N/A |
+| 50 | [L'Aquila](http://twitter.com/search?q=L%27Aquila) | N/A |
 
 
 

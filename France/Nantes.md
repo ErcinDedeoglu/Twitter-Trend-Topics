@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-04-06 02:29:54 UTC`
+📆 Last Updated: `2023-04-06 03:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,40 +17,54 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#FCNOL](http://twitter.com/search?q=%23FCNOL) | N/A |
 | 2 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 3 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 3 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
 | 4 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 5 | [Blas](http://twitter.com/search?q=Blas) | N/A |
-| 6 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 7 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 8 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 9 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 10 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 11 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 12 | [#CoupeDeFrance](http://twitter.com/search?q=%23CoupeDeFrance) | N/A |
-| 13 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
-| 14 | [G.O.A.T.](http://twitter.com/search?q=G.O.A.T.) | N/A |
-| 15 | [#FCBRMA](http://twitter.com/search?q=%23FCBRMA) | N/A |
-| 16 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 17 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 18 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 19 | [Beaujoire](http://twitter.com/search?q=Beaujoire) | N/A |
-| 20 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 21 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 22 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
-| 23 | [Laurent Blanc](http://twitter.com/search?q=Laurent+Blanc) | N/A |
-| 24 | [François Civil](http://twitter.com/search?q=Fran%c3%a7ois+Civil) | N/A |
-| 25 | [Nueve](http://twitter.com/search?q=Nueve) | N/A |
-| 26 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 27 | [La LDH](http://twitter.com/search?q=La+LDH) | N/A |
-| 28 | [#TeamOL](http://twitter.com/search?q=%23TeamOL) | N/A |
-| 29 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 30 | [Aouar](http://twitter.com/search?q=Aouar) | N/A |
-| 31 | [Pierre Niney](http://twitter.com/search?q=Pierre+Niney) | N/A |
-| 32 | [Classico](http://twitter.com/search?q=Classico) | N/A |
-| 33 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 34 | [Parcoursup](http://twitter.com/search?q=Parcoursup) | N/A |
-| 35 | [Kombouaré](http://twitter.com/search?q=Kombouar%c3%a9) | N/A |
-| 36 | [Édouard Philippe](http://twitter.com/search?q=%c3%89douard+Philippe) | N/A |
+| 5 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 6 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 7 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 8 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 9 | [#FCBRMA](http://twitter.com/search?q=%23FCBRMA) | N/A |
+| 10 | [Blas](http://twitter.com/search?q=Blas) | N/A |
+| 11 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 12 | [#chocobonplan](http://twitter.com/search?q=%23chocobonplan) | N/A |
+| 13 | [#CoupeDeFrance](http://twitter.com/search?q=%23CoupeDeFrance) | N/A |
+| 14 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 15 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 16 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 17 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 18 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 19 | [G.O.A.T.](http://twitter.com/search?q=G.O.A.T.) | N/A |
+| 20 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 21 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 22 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 23 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 24 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 25 | [Beaujoire](http://twitter.com/search?q=Beaujoire) | N/A |
+| 26 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 27 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 28 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
+| 29 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
+| 30 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 31 | [Pallois](http://twitter.com/search?q=Pallois) | N/A |
+| 32 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
+| 33 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 34 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 35 | [François Civil](http://twitter.com/search?q=Fran%c3%a7ois+Civil) | N/A |
+| 36 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 37 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 38 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 40 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 41 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
+| 42 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 43 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 44 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
+| 45 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 46 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 47 | [Baldé](http://twitter.com/search?q=Bald%c3%a9) | N/A |
+| 48 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 49 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 50 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-06 02:30:36 UTC`
+📆 Last Updated: `2023-04-06 03:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -49,14 +49,14 @@ This is top 50 for Denmark
 | 32 | [#dkøko](http://twitter.com/search?q=%23dk%c3%b8ko) | N/A |
 | 33 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
 | 34 | [President](http://twitter.com/search?q=President) | N/A |
-| 35 | [Christiansborg](http://twitter.com/search?q=Christiansborg) | N/A |
+| 35 | [christiansborg](http://twitter.com/search?q=christiansborg) | N/A |
 | 36 | [Michael](http://twitter.com/search?q=Michael) | N/A |
 | 37 | [ekstra bladet](http://twitter.com/search?q=ekstra+bladet) | N/A |
 | 38 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 39 | [Italy](http://twitter.com/search?q=Italy) | N/A |
 | 40 | [Peter](http://twitter.com/search?q=Peter) | N/A |
 | 41 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 42 | [Selvfølgelig](http://twitter.com/search?q=Selvf%c3%b8lgelig) | N/A |
+| 42 | [selvfølgelig](http://twitter.com/search?q=selvf%c3%b8lgelig) | N/A |
 | 43 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
 | 44 | [Norway](http://twitter.com/search?q=Norway) | N/A |
 | 45 | [Doge](http://twitter.com/search?q=Doge) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-06 02:30:35 UTC`
+📆 Last Updated: `2023-04-06 03:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Austria
 | 3 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
 | 4 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
 | 5 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 6 | [#ÖFBCup](http://twitter.com/search?q=%23%c3%96FBCup) | N/A |
+| 6 | [#öfbcup](http://twitter.com/search?q=%23%c3%b6fbcup) | N/A |
 | 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 8 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
 | 9 | [sujets](http://twitter.com/search?q=sujets) | N/A |
@@ -32,7 +32,7 @@ This is top 50 for Austria
 | 15 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 16 | [menschlichkeit](http://twitter.com/search?q=menschlichkeit) | N/A |
 | 17 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 18 | [korrektur](http://twitter.com/search?q=korrektur) | N/A |
+| 18 | [Korrektur](http://twitter.com/search?q=Korrektur) | N/A |
 | 19 | [Vermögenssteuer](http://twitter.com/search?q=Verm%c3%b6genssteuer) | N/A |
 | 20 | [Viren](http://twitter.com/search?q=Viren) | N/A |
 | 21 | [artstylemimi](http://twitter.com/search?q=artstylemimi) | N/A |
@@ -44,18 +44,18 @@ This is top 50 for Austria
 | 27 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
 | 28 | [Balken](http://twitter.com/search?q=Balken) | N/A |
 | 29 | [Militär](http://twitter.com/search?q=Milit%c3%a4r) | N/A |
-| 30 | [Boomer](http://twitter.com/search?q=Boomer) | N/A |
-| 31 | [preisen](http://twitter.com/search?q=preisen) | N/A |
-| 32 | [Terror](http://twitter.com/search?q=Terror) | N/A |
-| 33 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
-| 34 | [klenk](http://twitter.com/search?q=klenk) | N/A |
-| 35 | [Training](http://twitter.com/search?q=Training) | N/A |
-| 36 | [Schatz](http://twitter.com/search?q=Schatz) | N/A |
-| 37 | [abwesenheit](http://twitter.com/search?q=abwesenheit) | N/A |
-| 38 | [Pflicht](http://twitter.com/search?q=Pflicht) | N/A |
-| 39 | [thomas schmid](http://twitter.com/search?q=thomas+schmid) | N/A |
-| 40 | [walach](http://twitter.com/search?q=walach) | N/A |
-| 41 | [Karin](http://twitter.com/search?q=Karin) | N/A |
+| 30 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 31 | [Boomer](http://twitter.com/search?q=Boomer) | N/A |
+| 32 | [preisen](http://twitter.com/search?q=preisen) | N/A |
+| 33 | [Terror](http://twitter.com/search?q=Terror) | N/A |
+| 34 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
+| 35 | [klenk](http://twitter.com/search?q=klenk) | N/A |
+| 36 | [Training](http://twitter.com/search?q=Training) | N/A |
+| 37 | [Schatz](http://twitter.com/search?q=Schatz) | N/A |
+| 38 | [abwesenheit](http://twitter.com/search?q=abwesenheit) | N/A |
+| 39 | [Pflicht](http://twitter.com/search?q=Pflicht) | N/A |
+| 40 | [thomas schmid](http://twitter.com/search?q=thomas+schmid) | N/A |
+| 41 | [Walach](http://twitter.com/search?q=Walach) | N/A |
 | 42 | [schublade](http://twitter.com/search?q=schublade) | N/A |
 | 43 | [Spain](http://twitter.com/search?q=Spain) | N/A |
 | 44 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-06 02:29:53 UTC`
+📆 Last Updated: `2023-04-06 03:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,37 +34,37 @@ This is top 50 for [Austria](</Austria>)
 | 17 | [förderungen](http://twitter.com/search?q=f%c3%b6rderungen) | N/A |
 | 18 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
 | 19 | [Argument](http://twitter.com/search?q=Argument) | N/A |
-| 20 | [Plattform](http://twitter.com/search?q=Plattform) | N/A |
-| 21 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
-| 22 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 23 | [supermarkt](http://twitter.com/search?q=supermarkt) | N/A |
-| 24 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 25 | [schönen tag](http://twitter.com/search?q=sch%c3%b6nen+tag) | N/A |
-| 26 | [Vertrag](http://twitter.com/search?q=Vertrag) | N/A |
-| 27 | [Stress](http://twitter.com/search?q=Stress) | N/A |
-| 28 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 29 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 30 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
-| 31 | [Erkenntnis](http://twitter.com/search?q=Erkenntnis) | N/A |
-| 32 | [inserate](http://twitter.com/search?q=inserate) | N/A |
-| 33 | [Italien](http://twitter.com/search?q=Italien) | N/A |
-| 34 | [Zeitungen](http://twitter.com/search?q=Zeitungen) | N/A |
-| 35 | [Griff](http://twitter.com/search?q=Griff) | N/A |
-| 36 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
-| 37 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 38 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 39 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 40 | [kälte](http://twitter.com/search?q=k%c3%a4lte) | N/A |
-| 41 | [Kerl](http://twitter.com/search?q=Kerl) | N/A |
-| 42 | [forschung](http://twitter.com/search?q=forschung) | N/A |
-| 43 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 44 | [Kindergarten](http://twitter.com/search?q=Kindergarten) | N/A |
-| 45 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 46 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 47 | [Verbrecher](http://twitter.com/search?q=Verbrecher) | N/A |
-| 48 | [Konzept](http://twitter.com/search?q=Konzept) | N/A |
-| 49 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 50 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
+| 20 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
+| 21 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 22 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
+| 23 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 24 | [schönen tag](http://twitter.com/search?q=sch%c3%b6nen+tag) | N/A |
+| 25 | [Vertrag](http://twitter.com/search?q=Vertrag) | N/A |
+| 26 | [Stress](http://twitter.com/search?q=Stress) | N/A |
+| 27 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 28 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 29 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
+| 30 | [Erkenntnis](http://twitter.com/search?q=Erkenntnis) | N/A |
+| 31 | [inserate](http://twitter.com/search?q=inserate) | N/A |
+| 32 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 33 | [Zeitungen](http://twitter.com/search?q=Zeitungen) | N/A |
+| 34 | [Griff](http://twitter.com/search?q=Griff) | N/A |
+| 35 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
+| 36 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 37 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 38 | [Kälte](http://twitter.com/search?q=K%c3%a4lte) | N/A |
+| 39 | [Kerl](http://twitter.com/search?q=Kerl) | N/A |
+| 40 | [forschung](http://twitter.com/search?q=forschung) | N/A |
+| 41 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 42 | [Kindergarten](http://twitter.com/search?q=Kindergarten) | N/A |
+| 43 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 44 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 45 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 46 | [Konzept](http://twitter.com/search?q=Konzept) | N/A |
+| 47 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 48 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
+| 49 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
+| 50 | [Beweis](http://twitter.com/search?q=Beweis) | N/A |
 
 
 

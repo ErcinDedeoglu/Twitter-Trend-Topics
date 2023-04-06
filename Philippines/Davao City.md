@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-06 02:30:10 UTC`
+📆 Last Updated: `2023-04-06 03:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [#민규생일은_아름답기를_따뜻하길](http://twitter.com/search?q=%23%eb%af%bc%ea%b7%9c%ec%83%9d%ec%9d%bc%ec%9d%80_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b8%b0%eb%a5%bc_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b8%b8) | N/A |
 | 3 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
 | 4 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 5 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 6 | [#TheCloudxBecky](http://twitter.com/search?q=%23TheCloudxBecky) | N/A |
-| 7 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 8 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 9 | [FLOWER FIRST WIN](http://twitter.com/search?q=FLOWER+FIRST+WIN) | N/A |
-| 10 | [HORI7ON SALAMAT OUT NOW](http://twitter.com/search?q=HORI7ON+SALAMAT+OUT+NOW) | N/A |
-| 11 | [JOSHCULLEN WT PHOTOSHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+PHOTOSHOOT) | N/A |
-| 12 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 13 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 14 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
-| 15 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
-| 16 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
-| 17 | [KCULTURE NIGHT WITH iKON](http://twitter.com/search?q=KCULTURE+NIGHT+WITH+iKON) | N/A |
-| 18 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 19 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 20 | [Newark](http://twitter.com/search?q=Newark) | N/A |
-| 21 | [BTOB MAY COMEBACK](http://twitter.com/search?q=BTOB+MAY+COMEBACK) | N/A |
-| 22 | [one year with still life](http://twitter.com/search?q=one+year+with+still+life) | N/A |
-| 23 | [aljay tc extras questunes](http://twitter.com/search?q=aljay+tc+extras+questunes) | N/A |
-| 24 | [vivoree wish bus debut](http://twitter.com/search?q=vivoree+wish+bus+debut) | N/A |
-| 25 | [look for the mafia svt](http://twitter.com/search?q=look+for+the+mafia+svt) | N/A |
-| 26 | [PNVF](http://twitter.com/search?q=PNVF) | N/A |
-| 27 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 28 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 29 | [PARAISO COMING SOON](http://twitter.com/search?q=PARAISO+COMING+SOON) | N/A |
-| 30 | [ryan gosling](http://twitter.com/search?q=ryan+gosling) | N/A |
-| 31 | [shanelle as jayra](http://twitter.com/search?q=shanelle+as+jayra) | N/A |
-| 32 | [two the rescue](http://twitter.com/search?q=two+the+rescue) | N/A |
-| 33 | [shanelle agustin](http://twitter.com/search?q=shanelle+agustin) | N/A |
-| 34 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 35 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 36 | [pbbgyo plot thickens](http://twitter.com/search?q=pbbgyo+plot+thickens) | N/A |
-| 37 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
-| 38 | [alamat on the road pt](http://twitter.com/search?q=alamat+on+the+road+pt) | N/A |
-| 39 | [Huwebes Santo](http://twitter.com/search?q=Huwebes+Santo) | N/A |
-| 40 | [AWESOME NIGHT WITH CHA EUNWOO](http://twitter.com/search?q=AWESOME+NIGHT+WITH+CHA+EUNWOO) | N/A |
-| 41 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
-| 42 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 43 | [Pinuno](http://twitter.com/search?q=Pinuno) | N/A |
-| 44 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 45 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 46 | [Jaya](http://twitter.com/search?q=Jaya) | N/A |
-| 47 | [Tinig](http://twitter.com/search?q=Tinig) | N/A |
+| 5 | [#TheCloudxBECKY](http://twitter.com/search?q=%23TheCloudxBECKY) | N/A |
+| 6 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
+| 7 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 9 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 11 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 12 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
+| 13 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 14 | [one year with still life](http://twitter.com/search?q=one+year+with+still+life) | N/A |
+| 15 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 16 | [HORI7ON SALAMAT OUT NOW](http://twitter.com/search?q=HORI7ON+SALAMAT+OUT+NOW) | N/A |
+| 17 | [JOSHCULLEN WT PHOTOSHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+PHOTOSHOOT) | N/A |
+| 18 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 19 | [PEOPLE PT](http://twitter.com/search?q=PEOPLE+PT) | N/A |
+| 20 | [Huwebes Santo](http://twitter.com/search?q=Huwebes+Santo) | N/A |
+| 21 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 22 | [COMEBACK IN JUNE](http://twitter.com/search?q=COMEBACK+IN+JUNE) | N/A |
+| 23 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 24 | [gigmoto](http://twitter.com/search?q=gigmoto) | N/A |
+| 25 | [THE BLOTTER PAPER D4](http://twitter.com/search?q=THE+BLOTTER+PAPER+D4) | N/A |
+| 26 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 27 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 28 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
+| 29 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 30 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 31 | [FLOWER FIRST WIN](http://twitter.com/search?q=FLOWER+FIRST+WIN) | N/A |
+| 32 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 33 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 34 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 35 | [PARAISO COMING SOON](http://twitter.com/search?q=PARAISO+COMING+SOON) | N/A |
+| 36 | [JISOO FIRST WIN](http://twitter.com/search?q=JISOO+FIRST+WIN) | N/A |
+| 37 | [AWESOME NIGHT WITH CHA EUNWOO](http://twitter.com/search?q=AWESOME+NIGHT+WITH+CHA+EUNWOO) | N/A |
+| 38 | [Visita Iglesia](http://twitter.com/search?q=Visita+Iglesia) | N/A |
+| 39 | [look for the mafia svt](http://twitter.com/search?q=look+for+the+mafia+svt) | N/A |
+| 40 | [Jaya](http://twitter.com/search?q=Jaya) | N/A |
+| 41 | [Pagbilao](http://twitter.com/search?q=Pagbilao) | N/A |
+| 42 | [Pins](http://twitter.com/search?q=Pins) | N/A |
+| 43 | [JUNGKOOK OUR EUPHORIA](http://twitter.com/search?q=JUNGKOOK+OUR+EUPHORIA) | N/A |
+| 44 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 45 | [Eucharist](http://twitter.com/search?q=Eucharist) | N/A |
+| 46 | [Newark](http://twitter.com/search?q=Newark) | N/A |
+| 47 | [Passover](http://twitter.com/search?q=Passover) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-04-06 02:30:40 UTC`
+📆 Last Updated: `2023-04-06 03:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,46 +17,50 @@ This is top 50 for Peru
 | ------- | ------------ | ------------ |
 | 1 | [#YDaleU](http://twitter.com/search?q=%23YDaleU) | N/A |
 | 2 | [Barco](http://twitter.com/search?q=Barco) | N/A |
-| 3 | [Succar](http://twitter.com/search?q=Succar) | N/A |
+| 3 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 4 | [Universitario](http://twitter.com/search?q=Universitario) | N/A |
-| 5 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 6 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
+| 5 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
+| 6 | [#ConLaUHastaElFinal](http://twitter.com/search?q=%23ConLaUHastaElFinal) | N/A |
 | 7 | [Fossati](http://twitter.com/search?q=Fossati) | N/A |
-| 8 | [La U](http://twitter.com/search?q=La+U) | N/A |
+| 8 | [Succar](http://twitter.com/search?q=Succar) | N/A |
 | 9 | [Riveros](http://twitter.com/search?q=Riveros) | N/A |
-| 10 | [Quispe](http://twitter.com/search?q=Quispe) | N/A |
-| 11 | [Cabanillas](http://twitter.com/search?q=Cabanillas) | N/A |
-| 12 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 13 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
-| 14 | [Cristal](http://twitter.com/search?q=Cristal) | N/A |
-| 15 | [Paolo Guerrero](http://twitter.com/search?q=Paolo+Guerrero) | Paolo Guerrero is a Peruvian professional footballer who plays as a striker for Brazilian club Internacional and the Peru national team. In English, the name Paolo Guerrero means "warrior". |
-| 16 | [La Plata](http://twitter.com/search?q=La+Plata) | N/A |
-| 17 | [Lora](http://twitter.com/search?q=Lora) | N/A |
-| 18 | [#CopaSudamericana](http://twitter.com/search?q=%23CopaSudamericana) | N/A |
-| 19 | [Carolina Braedt](http://twitter.com/search?q=Carolina+Braedt) | N/A |
-| 20 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 21 | [Morsi](http://twitter.com/search?q=Morsi) | N/A |
-| 22 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 23 | [Urruti](http://twitter.com/search?q=Urruti) | Urruti is a Basque surname. It is derived from the Basque word "urru" which means "wolf". In English, it can be translated to mean "wolf-like". |
-| 24 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 25 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
-| 26 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 10 | [Fonchi](http://twitter.com/search?q=Fonchi) | N/A |
+| 11 | [Cristal](http://twitter.com/search?q=Cristal) | N/A |
+| 12 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
+| 13 | [Quispe](http://twitter.com/search?q=Quispe) | N/A |
+| 14 | [Cabanillas](http://twitter.com/search?q=Cabanillas) | N/A |
+| 15 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 16 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 17 | [Paolo Guerrero](http://twitter.com/search?q=Paolo+Guerrero) | Paolo Guerrero is a Peruvian professional footballer who plays as a striker for Brazilian club Internacional and the Peru national team. In English, the name Paolo Guerrero means "warrior". |
+| 18 | [Morsi](http://twitter.com/search?q=Morsi) | N/A |
+| 19 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
+| 20 | [Yotun](http://twitter.com/search?q=Yotun) | N/A |
+| 21 | [Lora](http://twitter.com/search?q=Lora) | N/A |
+| 22 | [Carolina Braedt](http://twitter.com/search?q=Carolina+Braedt) | N/A |
+| 23 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 24 | [La Plata](http://twitter.com/search?q=La+Plata) | N/A |
+| 25 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 26 | [Javier](http://twitter.com/search?q=Javier) | N/A |
 | 27 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
-| 28 | [Javier](http://twitter.com/search?q=Javier) | N/A |
-| 29 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 30 | [VAMOS CARAJO](http://twitter.com/search?q=VAMOS+CARAJO) | N/A |
-| 31 | [Ramón](http://twitter.com/search?q=Ram%c3%b3n) | N/A |
-| 32 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
-| 33 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 34 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
-| 35 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 36 | [#5deAbril](http://twitter.com/search?q=%235deAbril) | N/A |
-| 37 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 38 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
-| 39 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 40 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 41 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 42 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 28 | [Jerarquía](http://twitter.com/search?q=Jerarqu%c3%ada) | N/A |
+| 29 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
+| 30 | [Alejandro Toledo](http://twitter.com/search?q=Alejandro+Toledo) | N/A |
+| 31 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
+| 32 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 33 | [Urruti](http://twitter.com/search?q=Urruti) | Urruti is a Basque surname. It is derived from the Basque word "urru" which means "wolf". In English, it can be translated to mean "wolf-like". |
+| 34 | [VAMOS CARAJO](http://twitter.com/search?q=VAMOS+CARAJO) | N/A |
+| 35 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 36 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 37 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 38 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
+| 39 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 40 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
+| 41 | [#5deAbril](http://twitter.com/search?q=%235deAbril) | N/A |
+| 42 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 43 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 44 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 45 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 46 | [Shadoune](http://twitter.com/search?q=Shadoune) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-04-06 02:30:00 UTC`
+📆 Last Updated: `2023-04-06 03:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,13 +24,13 @@ This is top 50 for [Sweden](</Sweden>)
 | 7 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
 | 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 9 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 10 | [Glad Påsk](http://twitter.com/search?q=Glad+P%c3%a5sk) | N/A |
+| 10 | [glad påsk](http://twitter.com/search?q=glad+p%c3%a5sk) | N/A |
 | 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 13 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
 | 14 | [Skärholmen](http://twitter.com/search?q=Sk%c3%a4rholmen) | N/A |
 | 15 | [öster](http://twitter.com/search?q=%c3%b6ster) | N/A |
-| 16 | [Vattenfall](http://twitter.com/search?q=Vattenfall) | N/A |
+| 16 | [vattenfall](http://twitter.com/search?q=vattenfall) | N/A |
 | 17 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
 | 18 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
 | 19 | [ann linde](http://twitter.com/search?q=ann+linde) | N/A |
@@ -59,11 +59,11 @@ This is top 50 for [Sweden](</Sweden>)
 | 42 | [färjestad](http://twitter.com/search?q=f%c3%a4rjestad) | N/A |
 | 43 | [leksand](http://twitter.com/search?q=leksand) | N/A |
 | 44 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 45 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 46 | [hovet](http://twitter.com/search?q=hovet) | N/A |
-| 47 | [stråhle](http://twitter.com/search?q=str%c3%a5hle) | N/A |
-| 48 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 49 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 45 | [hovet](http://twitter.com/search?q=hovet) | N/A |
+| 46 | [stråhle](http://twitter.com/search?q=str%c3%a5hle) | N/A |
+| 47 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 48 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 49 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-04-06 02:30:41 UTC`
+📆 Last Updated: `2023-04-06 03:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -55,16 +55,16 @@ This is top 50 for Qatar
 | 38 | [الدول العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 | 39 | [وزارة الثقافة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%ab%d9%82%d8%a7%d9%81%d8%a9) | N/A |
 | 40 | [الاداره العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 41 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
-| 42 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
-| 43 | [عثمان الخميس](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 41 | [عثمان الخميس](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 42 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
+| 43 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
 | 44 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 45 | [علي التوالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d9%84%d9%8a) | N/A |
+| 45 | [لندن](http://twitter.com/search?q=%d9%84%d9%86%d8%af%d9%86) | N/A |
 | 46 | [الخليج](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
 | 47 | [الخيمه الرمضانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d9%85%d9%87+%d8%a7%d9%84%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 48 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
-| 49 | [Doha](http://twitter.com/search?q=Doha) | N/A |
-| 50 | [جاسم](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85) | N/A |
+| 48 | [علي التوالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d9%84%d9%8a) | N/A |
+| 49 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 50 | [Doha](http://twitter.com/search?q=Doha) | N/A |
 
 
 

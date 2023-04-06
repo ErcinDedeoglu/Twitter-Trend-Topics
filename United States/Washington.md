@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Washington
 
-📆 Last Updated: `2023-04-06 02:30:34 UTC`
+📆 Last Updated: `2023-04-06 03:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 3 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 1 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 2 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 4 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 6 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 7 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 8 | [Many Men](http://twitter.com/search?q=Many+Men) | N/A |
-| 9 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 10 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 11 | [The Gunns](http://twitter.com/search?q=The+Gunns) | N/A |
-| 12 | [#WWHL](http://twitter.com/search?q=%23WWHL) | N/A |
-| 13 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 14 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 15 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 16 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 17 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 18 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 19 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 20 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 21 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 22 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 23 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
-| 24 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 25 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 26 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 27 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 28 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 29 | [All Out](http://twitter.com/search?q=All+Out) | N/A |
-| 30 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 31 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 32 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
-| 33 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 34 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 35 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 36 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
-| 37 | [Corey Perry](http://twitter.com/search?q=Corey+Perry) | N/A |
-| 38 | [Killorn](http://twitter.com/search?q=Killorn) | N/A |
+| 5 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 6 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 7 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 8 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 9 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 10 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 11 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 12 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 13 | [#WWHL](http://twitter.com/search?q=%23WWHL) | N/A |
+| 14 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 15 | [Many Men](http://twitter.com/search?q=Many+Men) | N/A |
+| 16 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 17 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 18 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 19 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 20 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 21 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 22 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 23 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 24 | [The Gunns](http://twitter.com/search?q=The+Gunns) | N/A |
+| 25 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
+| 26 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 27 | [iPod](http://twitter.com/search?q=iPod) | N/A |
+| 28 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 29 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 30 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
+| 31 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 32 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 33 | [RFK Jr](http://twitter.com/search?q=RFK+Jr) | N/A |
+| 34 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 35 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 36 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 37 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 38 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
 | 39 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 40 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 41 | [Major League](http://twitter.com/search?q=Major+League) | Major League is a term used to refer to the highest level of professional sports in the United States and Canada. It is typically used to refer to the four major professional sports leagues in North America: Major League Baseball (MLB), the National Basketball Association (NBA), the National Football League (NFL), and the National Hockey League (NHL). |
-| 42 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
-| 43 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 44 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 45 | [Ben Harpur](http://twitter.com/search?q=Ben+Harpur) | N/A |
-| 46 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 47 | [iPod](http://twitter.com/search?q=iPod) | N/A |
-| 48 | [iMessage](http://twitter.com/search?q=iMessage) | N/A |
-| 49 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 50 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
+| 40 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 41 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 42 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
+| 43 | [All Out](http://twitter.com/search?q=All+Out) | N/A |
+| 44 | [Durk](http://twitter.com/search?q=Durk) | N/A |
+| 45 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 46 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 47 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 48 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 49 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 50 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
 
 
 

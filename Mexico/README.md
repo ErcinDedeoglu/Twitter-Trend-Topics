@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-04-06 02:30:39 UTC`
+📆 Last Updated: `2023-04-06 03:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 1 | [#BonoAllStar](http://twitter.com/search?q=%23BonoAllStar) | N/A |
 | 2 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 3 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 5 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 6 | [#PeñitaRespondeme](http://twitter.com/search?q=%23Pe%c3%b1itaRespondeme) | N/A |
-| 7 | [#Tigres](http://twitter.com/search?q=%23Tigres) | N/A |
-| 8 | [#Concachampions](http://twitter.com/search?q=%23Concachampions) | N/A |
-| 9 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 10 | [La Luna](http://twitter.com/search?q=La+Luna) | N/A |
-| 11 | [San Felipe](http://twitter.com/search?q=San+Felipe) | N/A |
-| 12 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 13 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 14 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
-| 15 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 17 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 18 | [ramon](http://twitter.com/search?q=ramon) | N/A |
-| 19 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 20 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 21 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 22 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
-| 23 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 24 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 25 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 26 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 3 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 4 | [#IntegracionCacher](http://twitter.com/search?q=%23IntegracionCacher) | N/A |
+| 5 | [Luis Quiñones](http://twitter.com/search?q=Luis+Qui%c3%b1ones) | N/A |
+| 6 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 7 | [San Felipe](http://twitter.com/search?q=San+Felipe) | N/A |
+| 8 | [#PeñitaRespondeme](http://twitter.com/search?q=%23Pe%c3%b1itaRespondeme) | N/A |
+| 9 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 10 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
+| 11 | [#LunaRosa](http://twitter.com/search?q=%23LunaRosa) | N/A |
+| 12 | [Matehuala](http://twitter.com/search?q=Matehuala) | N/A |
+| 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 14 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 15 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 16 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 17 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
+| 18 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 19 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 20 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 21 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 22 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 23 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 24 | [Ramón](http://twitter.com/search?q=Ram%c3%b3n) | N/A |
+| 25 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 26 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
 | 27 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 28 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
-| 29 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 30 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 31 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 32 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
-| 33 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 34 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
-| 35 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 36 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 37 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 38 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 28 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 29 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
+| 30 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 31 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
+| 32 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 33 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 34 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 35 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 36 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 37 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 38 | [Mexico City](http://twitter.com/search?q=Mexico+City) | N/A |
 | 39 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 40 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 41 | [Mexico City](http://twitter.com/search?q=Mexico+City) | N/A |
-| 42 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 43 | [Cuau](http://twitter.com/search?q=Cuau) | N/A |
-| 44 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 45 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 46 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 47 | [Barbies](http://twitter.com/search?q=Barbies) | N/A |
-| 48 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 49 | [Edson](http://twitter.com/search?q=Edson) | N/A |
-| 50 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 40 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 41 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
+| 42 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 43 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 44 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 45 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 46 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 47 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 48 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 49 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 50 | [#Tigres](http://twitter.com/search?q=%23Tigres) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-04-06 02:30:38 UTC`
+📆 Last Updated: `2023-04-06 03:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,17 +27,17 @@ This is top 50 for Jordan
 | 10 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
 | 11 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
 | 12 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
-| 13 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 14 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 15 | [علي المصلين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a%d9%86) | N/A |
-| 16 | [قوات الاحتلال](http://twitter.com/search?q=%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84) | N/A |
+| 13 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 14 | [علي المصلين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a%d9%86) | N/A |
+| 15 | [قوات الاحتلال](http://twitter.com/search?q=%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84) | N/A |
+| 16 | [15 رمضان](http://twitter.com/search?q=15+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 17 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 18 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 19 | [المصلي القبلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a) | N/A |
-| 20 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 18 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 19 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 20 | [المصلي القبلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a) | N/A |
 | 21 | [الرصاص المطاطي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%b5%d8%a7%d8%b5+%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b7%d9%8a) | N/A |
-| 22 | [علي المعتكفين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%83%d9%81%d9%8a%d9%86) | N/A |
-| 23 | [15 رمضان](http://twitter.com/search?q=15+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 22 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 23 | [علي المعتكفين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b9%d8%aa%d9%83%d9%81%d9%8a%d9%86) | N/A |
 | 24 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
 | 25 | [لوكا](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7) | N/A |
 | 26 | [الوصايه الهاشميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b5%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d9%87%d8%a7%d8%b4%d9%85%d9%8a%d9%87) | N/A |
@@ -52,9 +52,9 @@ This is top 50 for Jordan
 | 35 | [ليفاندوفسكي](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7%d9%86%d8%af%d9%88%d9%81%d8%b3%d9%83%d9%8a) | N/A |
 | 36 | [اسبانيا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
 | 37 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 38 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
-| 39 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
-| 40 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 38 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 39 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
+| 40 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
 | 41 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
 | 42 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
 | 43 | [المسجد القبلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Jordan
 | 47 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
 | 48 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
 | 49 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 50 | [مجلس النواب](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
+| 50 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
 
 
 

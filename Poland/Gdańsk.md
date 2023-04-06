@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-06 02:29:52 UTC`
+📆 Last Updated: `2023-04-06 03:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
 | 2 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
-| 3 | [#LovejoyWarsaw](http://twitter.com/search?q=%23LovejoyWarsaw) | N/A |
-| 4 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
+| 3 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
+| 4 | [#LovejoyWarsaw](http://twitter.com/search?q=%23LovejoyWarsaw) | N/A |
 | 5 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
 | 6 | [#FCBRMA](http://twitter.com/search?q=%23FCBRMA) | N/A |
 | 7 | [#PiSprzegra](http://twitter.com/search?q=%23PiSprzegra) | N/A |
@@ -31,40 +31,40 @@ This is top 50 for [Poland](</Poland>)
 | 14 | [henryk kowalczyk](http://twitter.com/search?q=henryk+kowalczyk) | N/A |
 | 15 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
 | 16 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 17 | [Barcy](http://twitter.com/search?q=Barcy) | N/A |
+| 17 | [barcy](http://twitter.com/search?q=barcy) | N/A |
 | 18 | [Duda](http://twitter.com/search?q=Duda) | N/A |
 | 19 | [Holland](http://twitter.com/search?q=Holland) | N/A |
 | 20 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 21 | [Charleston](http://twitter.com/search?q=Charleston) | N/A |
-| 22 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 23 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
-| 24 | [Przewodów](http://twitter.com/search?q=Przewod%c3%b3w) | N/A |
-| 25 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 26 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 27 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 28 | [Judasza](http://twitter.com/search?q=Judasza) | N/A |
-| 29 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
-| 30 | [jastrzębski węgiel](http://twitter.com/search?q=jastrz%c4%99bski+w%c4%99giel) | N/A |
-| 31 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 32 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 33 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 34 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 35 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
-| 36 | [pani magdo](http://twitter.com/search?q=pani+magdo) | N/A |
-| 37 | [zamku królewskim](http://twitter.com/search?q=zamku+kr%c3%b3lewskim) | N/A |
-| 38 | [pucharu króla](http://twitter.com/search?q=pucharu+kr%c3%b3la) | N/A |
-| 39 | [tvp sport](http://twitter.com/search?q=tvp+sport) | N/A |
-| 40 | [Łęcznej](http://twitter.com/search?q=%c5%81%c4%99cznej) | N/A |
-| 41 | [bartosz salamon](http://twitter.com/search?q=bartosz+salamon) | N/A |
-| 42 | [ziemkiewicz](http://twitter.com/search?q=ziemkiewicz) | N/A |
-| 43 | [bartosiaka](http://twitter.com/search?q=bartosiaka) | N/A |
-| 44 | [lipska](http://twitter.com/search?q=lipska) | N/A |
-| 45 | [jastrzębie](http://twitter.com/search?q=jastrz%c4%99bie) | N/A |
-| 46 | [salamona](http://twitter.com/search?q=salamona) | N/A |
-| 47 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 48 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 49 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 50 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 21 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
+| 22 | [Przewodów](http://twitter.com/search?q=Przewod%c3%b3w) | N/A |
+| 23 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 24 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 25 | [lewym](http://twitter.com/search?q=lewym) | N/A |
+| 26 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 27 | [Judasza](http://twitter.com/search?q=Judasza) | N/A |
+| 28 | [jastrzębski węgiel](http://twitter.com/search?q=jastrz%c4%99bski+w%c4%99giel) | N/A |
+| 29 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 30 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 31 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 32 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
+| 33 | [Barcelony](http://twitter.com/search?q=Barcelony) | N/A |
+| 34 | [pani magdo](http://twitter.com/search?q=pani+magdo) | N/A |
+| 35 | [zamku królewskim](http://twitter.com/search?q=zamku+kr%c3%b3lewskim) | N/A |
+| 36 | [pucharu króla](http://twitter.com/search?q=pucharu+kr%c3%b3la) | N/A |
+| 37 | [tvp sport](http://twitter.com/search?q=tvp+sport) | N/A |
+| 38 | [Łęcznej](http://twitter.com/search?q=%c5%81%c4%99cznej) | N/A |
+| 39 | [bartosz salamon](http://twitter.com/search?q=bartosz+salamon) | N/A |
+| 40 | [ziemkiewicz](http://twitter.com/search?q=ziemkiewicz) | N/A |
+| 41 | [bartosiaka](http://twitter.com/search?q=bartosiaka) | N/A |
+| 42 | [lipska](http://twitter.com/search?q=lipska) | N/A |
+| 43 | [jastrzębie](http://twitter.com/search?q=jastrz%c4%99bie) | N/A |
+| 44 | [salamona](http://twitter.com/search?q=salamona) | N/A |
+| 45 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 46 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 47 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 48 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 49 | [skończy](http://twitter.com/search?q=sko%c5%84czy) | N/A |
+| 50 | [kalisza](http://twitter.com/search?q=kalisza) | N/A |
 
 
 

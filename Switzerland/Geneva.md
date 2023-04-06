@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-06 02:30:00 UTC`
+📆 Last Updated: `2023-04-06 03:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 2 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 3 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
+| 2 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
+| 3 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 4 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 5 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 5 | [#weuro2025](http://twitter.com/search?q=%23weuro2025) | N/A |
 | 6 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 7 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 8 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 7 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 8 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 10 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 11 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 12 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 13 | [Servette](http://twitter.com/search?q=Servette) | N/A |
-| 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 15 | [teilzeit](http://twitter.com/search?q=teilzeit) | N/A |
-| 16 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
-| 17 | [autofahrer](http://twitter.com/search?q=autofahrer) | N/A |
-| 18 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 19 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
-| 20 | [aktionäre](http://twitter.com/search?q=aktion%c3%a4re) | N/A |
-| 21 | [Szenen](http://twitter.com/search?q=Szenen) | N/A |
-| 22 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 23 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 24 | [bâle](http://twitter.com/search?q=b%c3%a2le) | N/A |
-| 25 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 26 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 27 | [Nord](http://twitter.com/search?q=Nord) | N/A |
-| 28 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 29 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 30 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 31 | [Demos](http://twitter.com/search?q=Demos) | N/A |
-| 32 | [schönen tag](http://twitter.com/search?q=sch%c3%b6nen+tag) | N/A |
-| 33 | [Sack](http://twitter.com/search?q=Sack) | N/A |
-| 34 | [spital](http://twitter.com/search?q=spital) | N/A |
-| 35 | [vaud](http://twitter.com/search?q=vaud) | N/A |
-| 36 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 37 | [Biel](http://twitter.com/search?q=Biel) | N/A |
-| 38 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
-| 39 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
-| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 41 | [Rücken](http://twitter.com/search?q=R%c3%bccken) | N/A |
-| 42 | [neuchâtel](http://twitter.com/search?q=neuch%c3%a2tel) | N/A |
-| 43 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
-| 44 | [Centre](http://twitter.com/search?q=Centre) | N/A |
-| 45 | [entscheid](http://twitter.com/search?q=entscheid) | N/A |
-| 46 | [Abfall](http://twitter.com/search?q=Abfall) | N/A |
-| 47 | [austausch](http://twitter.com/search?q=austausch) | N/A |
+| 10 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 11 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 12 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 13 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 14 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
+| 15 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 16 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 17 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 19 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
+| 20 | [fussball](http://twitter.com/search?q=fussball) | N/A |
+| 21 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 22 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 23 | [armee](http://twitter.com/search?q=armee) | N/A |
+| 24 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
+| 25 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 26 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
+| 27 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 28 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 29 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 30 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 31 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 32 | [Sack](http://twitter.com/search?q=Sack) | N/A |
+| 33 | [Familien](http://twitter.com/search?q=Familien) | N/A |
+| 34 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
+| 35 | [spital](http://twitter.com/search?q=spital) | N/A |
+| 36 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
+| 37 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 38 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
+| 39 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 40 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
+| 41 | [Sohn](http://twitter.com/search?q=Sohn) | N/A |
+| 42 | [Regel](http://twitter.com/search?q=Regel) | N/A |
+| 43 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 44 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 45 | [Schwachsinn](http://twitter.com/search?q=Schwachsinn) | N/A |
+| 46 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 47 | [Ticket](http://twitter.com/search?q=Ticket) | N/A |
+| 48 | [Interessen](http://twitter.com/search?q=Interessen) | N/A |
 
 
 

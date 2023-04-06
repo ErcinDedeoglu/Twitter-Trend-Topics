@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-06 02:30:39 UTC`
+📆 Last Updated: `2023-04-06 03:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,8 +41,9 @@ This is top 50 for Latvia
 | 24 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
 | 25 | [Diez](http://twitter.com/search?q=Diez) | N/A |
 | 26 | [nekas](http://twitter.com/search?q=nekas) | N/A |
-| 27 | [noteikti](http://twitter.com/search?q=noteikti) | N/A |
-| 28 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
+| 27 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 28 | [noteikti](http://twitter.com/search?q=noteikti) | N/A |
+| 29 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-06 02:30:00 UTC`
+📆 Last Updated: `2023-04-06 03:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,24 +44,25 @@ This is top 50 for [Latvia](</Latvia>)
 | 27 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 28 | [jūrmalas](http://twitter.com/search?q=j%c5%abrmalas) | N/A |
 | 29 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
-| 30 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 31 | [#1188lv](http://twitter.com/search?q=%231188lv) | N/A |
-| 32 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
-| 33 | [somija](http://twitter.com/search?q=somija) | N/A |
-| 34 | [piemēram](http://twitter.com/search?q=piem%c4%93ram) | N/A |
-| 35 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 36 | [Tiem](http://twitter.com/search?q=Tiem) | N/A |
-| 37 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
-| 38 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 39 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
-| 40 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 41 | [ceru](http://twitter.com/search?q=ceru) | N/A |
+| 30 | [valsts](http://twitter.com/search?q=valsts) | N/A |
+| 31 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 32 | [#1188lv](http://twitter.com/search?q=%231188lv) | N/A |
+| 33 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
+| 34 | [somija](http://twitter.com/search?q=somija) | N/A |
+| 35 | [piemēram](http://twitter.com/search?q=piem%c4%93ram) | N/A |
+| 36 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 37 | [Tiem](http://twitter.com/search?q=Tiem) | N/A |
+| 38 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
+| 39 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
+| 40 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 41 | [Ceru](http://twitter.com/search?q=Ceru) | N/A |
 | 42 | [psrs](http://twitter.com/search?q=psrs) | N/A |
 | 43 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
-| 44 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
-| 45 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
-| 46 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
-| 47 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
+| 44 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
+| 45 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
+| 46 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
+| 47 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
+| 48 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
 
 
 
