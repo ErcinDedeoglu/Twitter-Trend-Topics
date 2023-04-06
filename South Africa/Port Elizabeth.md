@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-04-06 21:17:46 UTC`
+📆 Last Updated: `2023-04-06 22:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 2 | [KHOSI THE HOST](http://twitter.com/search?q=KHOSI+THE+HOST) | N/A |
-| 3 | [#TheWifeShowmax](http://twitter.com/search?q=%23TheWifeShowmax) | N/A |
-| 4 | [#Palmistry](http://twitter.com/search?q=%23Palmistry) | N/A |
-| 5 | [#TropikaZero](http://twitter.com/search?q=%23TropikaZero) | N/A |
+| 2 | [#TheWifeShowmax](http://twitter.com/search?q=%23TheWifeShowmax) | N/A |
+| 3 | [KHOSI THE HOST](http://twitter.com/search?q=KHOSI+THE+HOST) | N/A |
+| 4 | [KHOSI X SUPERSPORT](http://twitter.com/search?q=KHOSI+X+SUPERSPORT) | N/A |
+| 5 | [#Palmistry](http://twitter.com/search?q=%23Palmistry) | N/A |
 | 6 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 7 | [BANKABLE TSATSII](http://twitter.com/search?q=BANKABLE+TSATSII) | N/A |
-| 8 | [#GlennJonesLiveinSATour](http://twitter.com/search?q=%23GlennJonesLiveinSATour) | N/A |
-| 9 | [JUICY JAY CHAPTER 25 PROJECT](http://twitter.com/search?q=JUICY+JAY+CHAPTER+25+PROJECT) | N/A |
-| 10 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
-| 11 | [Berita](http://twitter.com/search?q=Berita) | N/A |
-| 12 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
-| 13 | [Jan van Riebeeck](http://twitter.com/search?q=Jan+van+Riebeeck) | N/A |
-| 14 | [Sasol](http://twitter.com/search?q=Sasol) | N/A |
-| 15 | [Archie](http://twitter.com/search?q=Archie) | N/A |
-| 16 | [Sebokeng](http://twitter.com/search?q=Sebokeng) | N/A |
-| 17 | [Shakes](http://twitter.com/search?q=Shakes) | N/A |
-| 18 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 19 | [NO THABANG NO BUZZ](http://twitter.com/search?q=NO+THABANG+NO+BUZZ) | N/A |
-| 20 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 21 | [Mqhele](http://twitter.com/search?q=Mqhele) | N/A |
-| 22 | [Khama](http://twitter.com/search?q=Khama) | N/A |
-| 23 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 24 | [Solomon Mahlangu](http://twitter.com/search?q=Solomon+Mahlangu) | N/A |
-| 25 | [N1 North](http://twitter.com/search?q=N1+North) | N/A |
-| 26 | [J'Something](http://twitter.com/search?q=J%27Something) | N/A |
-| 27 | [ALPHA MALE THABANG](http://twitter.com/search?q=ALPHA+MALE+THABANG) | N/A |
-| 28 | [Senzo](http://twitter.com/search?q=Senzo) | N/A |
-| 29 | [Moria](http://twitter.com/search?q=Moria) | N/A |
-| 30 | [thanks to nota](http://twitter.com/search?q=thanks+to+nota) | N/A |
-| 31 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 32 | [BLUE AIVA IS HERE](http://twitter.com/search?q=BLUE+AIVA+IS+HERE) | N/A |
-| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 34 | [Durban North](http://twitter.com/search?q=Durban+North) | N/A |
-| 35 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 36 | [nigeria welcomes blue aiva](http://twitter.com/search?q=nigeria+welcomes+blue+aiva) | N/A |
-| 37 | [Qhawe](http://twitter.com/search?q=Qhawe) | N/A |
-| 38 | [iPod](http://twitter.com/search?q=iPod) | N/A |
-| 39 | [Tazz](http://twitter.com/search?q=Tazz) | N/A |
-| 40 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
-| 41 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 42 | [NELISA THE STAR](http://twitter.com/search?q=NELISA+THE+STAR) | N/A |
-| 43 | [beefeater pink strawberry gin](http://twitter.com/search?q=beefeater+pink+strawberry+gin) | N/A |
-| 44 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 45 | [Themba Zwane](http://twitter.com/search?q=Themba+Zwane) | N/A |
-| 46 | [Hlanti](http://twitter.com/search?q=Hlanti) | N/A |
-| 47 | [Guptas](http://twitter.com/search?q=Guptas) | N/A |
-| 48 | [Solomon Kalushi Mahlangu](http://twitter.com/search?q=Solomon+Kalushi+Mahlangu) | N/A |
-| 49 | [Primary](http://twitter.com/search?q=Primary) | N/A |
+| 7 | [#TropikaZero](http://twitter.com/search?q=%23TropikaZero) | N/A |
+| 8 | [BANKABLE TSATSII](http://twitter.com/search?q=BANKABLE+TSATSII) | N/A |
+| 9 | [#PastaWednesdays](http://twitter.com/search?q=%23PastaWednesdays) | N/A |
+| 10 | [JUICY JAY CHAPTER 25 PROJECT](http://twitter.com/search?q=JUICY+JAY+CHAPTER+25+PROJECT) | N/A |
+| 11 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
+| 12 | [Sasol](http://twitter.com/search?q=Sasol) | N/A |
+| 13 | [Berita](http://twitter.com/search?q=Berita) | N/A |
+| 14 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 15 | [Sebokeng](http://twitter.com/search?q=Sebokeng) | N/A |
+| 16 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
+| 17 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 18 | [Jan van Riebeeck](http://twitter.com/search?q=Jan+van+Riebeeck) | N/A |
+| 19 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 20 | [Mqhele](http://twitter.com/search?q=Mqhele) | N/A |
+| 21 | [NO THABANG NO BUZZ](http://twitter.com/search?q=NO+THABANG+NO+BUZZ) | N/A |
+| 22 | [Shakes](http://twitter.com/search?q=Shakes) | N/A |
+| 23 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 24 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 25 | [Khama](http://twitter.com/search?q=Khama) | N/A |
+| 26 | [Primary](http://twitter.com/search?q=Primary) | N/A |
+| 27 | [Shaka](http://twitter.com/search?q=Shaka) | N/A |
+| 28 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 29 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 30 | [Solomon Mahlangu](http://twitter.com/search?q=Solomon+Mahlangu) | N/A |
+| 31 | [LETTER TO KHOSI](http://twitter.com/search?q=LETTER+TO+KHOSI) | N/A |
+| 32 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 33 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 34 | [Nota](http://twitter.com/search?q=Nota) | N/A |
+| 35 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 36 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 37 | [J'Something](http://twitter.com/search?q=J%27Something) | N/A |
+| 38 | [Royal AM](http://twitter.com/search?q=Royal+AM) | N/A |
+| 39 | [BLUE AIVA IS HERE](http://twitter.com/search?q=BLUE+AIVA+IS+HERE) | N/A |
+| 40 | [Mshishi](http://twitter.com/search?q=Mshishi) | N/A |
+| 41 | [Senzo](http://twitter.com/search?q=Senzo) | N/A |
+| 42 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 43 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
+| 44 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 45 | [N1 North](http://twitter.com/search?q=N1+North) | N/A |
+| 46 | [Qhawe](http://twitter.com/search?q=Qhawe) | N/A |
+| 47 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 48 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 49 | [babeile](http://twitter.com/search?q=babeile) | N/A |
 
 
 

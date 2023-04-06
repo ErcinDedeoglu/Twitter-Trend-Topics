@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kitakyushu
 
-📆 Last Updated: `2023-04-06 21:17:35 UTC`
+📆 Last Updated: `2023-04-06 22:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ぼる部屋](http://twitter.com/search?q=%23%e3%81%bc%e3%82%8b%e9%83%a8%e5%b1%8b) | N/A |
-| 2 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
-| 3 | [#VS魂](http://twitter.com/search?q=%23VS%e9%ad%82) | #VS魂 is a hashtag used by Japanese gamers to express their enthusiasm for playing video games. It translates to "Soul of VS" and is used to show their passion for competing against others in video games. |
-| 4 | [#おは戦50407ak](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650407ak) | N/A |
-| 5 | [#サクラミーツ](http://twitter.com/search?q=%23%e3%82%b5%e3%82%af%e3%83%a9%e3%83%9f%e3%83%bc%e3%83%84) | N/A |
-| 6 | [#ユニクロわくわくUTルーレット](http://twitter.com/search?q=%23%e3%83%a6%e3%83%8b%e3%82%af%e3%83%ad%e3%82%8f%e3%81%8f%e3%82%8f%e3%81%8fUT%e3%83%ab%e3%83%bc%e3%83%ac%e3%83%83%e3%83%88) | N/A |
-| 7 | [ガラケー世代](http://twitter.com/search?q=%e3%82%ac%e3%83%a9%e3%82%b1%e3%83%bc%e4%b8%96%e4%bb%a3) | N/A |
-| 8 | [第441回](http://twitter.com/search?q=%e7%ac%ac441%e5%9b%9e) | N/A |
-| 9 | [携帯電話クイズ](http://twitter.com/search?q=%e6%90%ba%e5%b8%af%e9%9b%bb%e8%a9%b1%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
-| 10 | [消しゴムマジック](http://twitter.com/search?q=%e6%b6%88%e3%81%97%e3%82%b4%e3%83%a0%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af) | N/A |
-| 11 | [おうじひろし](http://twitter.com/search?q=%e3%81%8a%e3%81%86%e3%81%98%e3%81%b2%e3%82%8d%e3%81%97) | N/A |
-| 12 | [オオカミ少年](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%ab%e3%83%9f%e5%b0%91%e5%b9%b4) | N/A |
-| 13 | [アイスボックス](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%9c%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 14 | [バインド](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%b3%e3%83%89) | N/A |
-| 15 | [ブリギッテ](http://twitter.com/search?q=%e3%83%96%e3%83%aa%e3%82%ae%e3%83%83%e3%83%86) | N/A |
-| 16 | [元陸自幕僚長](http://twitter.com/search?q=%e5%85%83%e9%99%b8%e8%87%aa%e5%b9%95%e5%83%9a%e9%95%b7) | N/A |
-| 17 | [Wordle 657](http://twitter.com/search?q=Wordle+657) | N/A |
-| 18 | [マスターズ](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba) | マスターズ (Masters) is a term used in Japan to refer to people who have achieved a high level of expertise in a particular field or profession. It is often used to refer to people who have achieved the highest level of mastery in their chosen field, such as martial arts masters, music masters, or business masters. In English, it can be translated as "master" or "expert". |
-| 19 | [前代未聞のこと](http://twitter.com/search?q=%e5%89%8d%e4%bb%a3%e6%9c%aa%e8%81%9e%e3%81%ae%e3%81%93%e3%81%a8) | N/A |
-| 20 | [マーセナリーズ](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
-| 21 | [ヴァイパー](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
-| 22 | [デュナメス](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%83%8a%e3%83%a1%e3%82%b9) | N/A |
-| 23 | [緊迫の防衛省](http://twitter.com/search?q=%e7%b7%8a%e8%bf%ab%e3%81%ae%e9%98%b2%e8%a1%9b%e7%9c%81) | N/A |
+| 2 | [#アメトーーク](http://twitter.com/search?q=%23%e3%82%a2%e3%83%a1%e3%83%88%e3%83%bc%e3%83%bc%e3%82%af) | #アメトーーク is a hashtag used on Twitter in Japan to discuss the popular Japanese variety show, AmeTalk. The English translation of the hashtag is "#AmeTalk". |
+| 3 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
+| 4 | [ピンクムーン](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%83%a0%e3%83%bc%e3%83%b3) | N/A |
+| 5 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
+| 6 | [#おは戦50407ak](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650407ak) | N/A |
+| 7 | [#齊藤なぎさ](http://twitter.com/search?q=%23%e9%bd%8a%e8%97%a4%e3%81%aa%e3%81%8e%e3%81%95) | N/A |
+| 8 | [#おのえ765](http://twitter.com/search?q=%23%e3%81%8a%e3%81%ae%e3%81%88765) | N/A |
+| 9 | [なーたん](http://twitter.com/search?q=%e3%81%aa%e3%83%bc%e3%81%9f%e3%82%93) | なーたん is a nickname for the Japanese name "Natsuki". It is a combination of the first two syllables of the name, and is often used as an affectionate term. In English, it could be translated to something like "Nattie" or "Natty". |
+| 10 | [オオカミ少年](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%ab%e3%83%9f%e5%b0%91%e5%b9%b4) | N/A |
+| 11 | [きんようび](http://twitter.com/search?q=%e3%81%8d%e3%82%93%e3%82%88%e3%81%86%e3%81%b3) | N/A |
+| 12 | [第441回](http://twitter.com/search?q=%e7%ac%ac441%e5%9b%9e) | N/A |
+| 13 | [ガラケー世代](http://twitter.com/search?q=%e3%82%ac%e3%83%a9%e3%82%b1%e3%83%bc%e4%b8%96%e4%bb%a3) | N/A |
+| 14 | [世界保健デー](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e4%bf%9d%e5%81%a5%e3%83%87%e3%83%bc) | N/A |
+| 15 | [元陸自幕僚長](http://twitter.com/search?q=%e5%85%83%e9%99%b8%e8%87%aa%e5%b9%95%e5%83%9a%e9%95%b7) | N/A |
+| 16 | [前代未聞のこと](http://twitter.com/search?q=%e5%89%8d%e4%bb%a3%e6%9c%aa%e8%81%9e%e3%81%ae%e3%81%93%e3%81%a8) | N/A |
+| 17 | [携帯電話クイズ](http://twitter.com/search?q=%e6%90%ba%e5%b8%af%e9%9b%bb%e8%a9%b1%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
+| 18 | [緊迫の防衛省](http://twitter.com/search?q=%e7%b7%8a%e8%bf%ab%e3%81%ae%e9%98%b2%e8%a1%9b%e7%9c%81) | N/A |
+| 19 | [消しゴムマジック](http://twitter.com/search?q=%e6%b6%88%e3%81%97%e3%82%b4%e3%83%a0%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af) | N/A |
+| 20 | [週末金曜日](http://twitter.com/search?q=%e9%80%b1%e6%9c%ab%e9%87%91%e6%9b%9c%e6%97%a5) | N/A |
+| 21 | [マスターズ](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba) | マスターズ (Masters) is a term used in Japan to refer to people who have achieved a high level of expertise in a particular field or profession. It is often used to refer to people who have achieved the highest level of mastery in their chosen field, such as martial arts masters, music masters, or business masters. In English, it can be translated as "master" or "expert". |
+| 22 | [雇用統計](http://twitter.com/search?q=%e9%9b%87%e7%94%a8%e7%b5%b1%e8%a8%88) | 雇用統計 (Koyou Touseki) is a Japanese term that refers to employment statistics. It is used to measure the number of people employed in a certain area or industry, as well as the average wages and other labor market indicators. In English, it can be translated as "Employment Statistics". |
+| 23 | [subtitle](http://twitter.com/search?q=subtitle) | Subtitle is a text that appears on screen to provide additional or interpretive information about the content of a video, film, or television program. It is usually displayed at the bottom of the screen and can be used to translate dialogue into another language, provide a description of the action for viewers who are deaf or hard of hearing, or provide additional context for viewers who may not understand the dialogue. |
 | 24 | [carat盤](http://twitter.com/search?q=carat%e7%9b%a4) | N/A |
-| 25 | [ディシア誕生日](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 26 | [ピンクムーン](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%83%a0%e3%83%bc%e3%83%b3) | N/A |
-| 27 | [撃墜の可能性](http://twitter.com/search?q=%e6%92%83%e5%a2%9c%e3%81%ae%e5%8f%af%e8%83%bd%e6%80%a7) | N/A |
-| 28 | [陸自ヘリ不明](http://twitter.com/search?q=%e9%99%b8%e8%87%aa%e3%83%98%e3%83%aa%e4%b8%8d%e6%98%8e) | N/A |
-| 29 | [スタミュ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%9f%e3%83%a5) | N/A |
-| 30 | [恋人条件](http://twitter.com/search?q=%e6%81%8b%e4%ba%ba%e6%9d%a1%e4%bb%b6) | N/A |
-| 31 | [航空事故](http://twitter.com/search?q=%e8%88%aa%e7%a9%ba%e4%ba%8b%e6%95%85) | N/A |
-| 32 | [フラクチャー](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%82%af%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
-| 33 | [Dr.STONE](http://twitter.com/search?q=Dr.STONE) | N/A |
-| 34 | [救援偽装](http://twitter.com/search?q=%e6%95%91%e6%8f%b4%e5%81%bd%e8%a3%85) | N/A |
-| 35 | [ベッドマン](http://twitter.com/search?q=%e3%83%99%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
-| 36 | [チッケム](http://twitter.com/search?q=%e3%83%81%e3%83%83%e3%82%b1%e3%83%a0) | N/A |
-| 37 | [しあわせの花](http://twitter.com/search?q=%e3%81%97%e3%81%82%e3%82%8f%e3%81%9b%e3%81%ae%e8%8a%b1) | N/A |
-| 38 | [ハンドキャノン](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%83%89%e3%82%ad%e3%83%a3%e3%83%8e%e3%83%b3) | N/A |
-| 39 | [美和子様](http://twitter.com/search?q=%e7%be%8e%e5%92%8c%e5%ad%90%e6%a7%98) | N/A |
-| 40 | [クラスLINE](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b9LINE) | N/A |
-| 41 | [歴代ウルトラ戦士](http://twitter.com/search?q=%e6%ad%b4%e4%bb%a3%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e6%88%a6%e5%a3%ab) | N/A |
-| 42 | [侍ジャパン芸人](http://twitter.com/search?q=%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3%e8%8a%b8%e4%ba%ba) | N/A |
-| 43 | [パスカラ](http://twitter.com/search?q=%e3%83%91%e3%82%b9%e3%82%ab%e3%83%a9) | N/A |
-| 44 | [燃料枯渇](http://twitter.com/search?q=%e7%87%83%e6%96%99%e6%9e%af%e6%b8%87) | N/A |
-| 45 | [ベストシーン大賞開催中](http://twitter.com/search?q=%e3%83%99%e3%82%b9%e3%83%88%e3%82%b7%e3%83%bc%e3%83%b3%e5%a4%a7%e8%b3%9e%e9%96%8b%e5%82%ac%e4%b8%ad) | N/A |
-| 46 | [猿川くん](http://twitter.com/search?q=%e7%8c%bf%e5%b7%9d%e3%81%8f%e3%82%93) | N/A |
-| 47 | [ドクスト](http://twitter.com/search?q=%e3%83%89%e3%82%af%e3%82%b9%e3%83%88) | N/A |
-| 48 | [学校の怪談](http://twitter.com/search?q=%e5%ad%a6%e6%a0%a1%e3%81%ae%e6%80%aa%e8%ab%87) | N/A |
-| 49 | [ラッキー7スカウト](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%82%ad%e3%83%bc7%e3%82%b9%e3%82%ab%e3%82%a6%e3%83%88) | N/A |
+| 25 | [ブリギッテ](http://twitter.com/search?q=%e3%83%96%e3%83%aa%e3%82%ae%e3%83%83%e3%83%86) | N/A |
+| 26 | [陸自ヘリ不明](http://twitter.com/search?q=%e9%99%b8%e8%87%aa%e3%83%98%e3%83%aa%e4%b8%8d%e6%98%8e) | N/A |
+| 27 | [アイスボックス](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%9c%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 28 | [鉄腕アトム](http://twitter.com/search?q=%e9%89%84%e8%85%95%e3%82%a2%e3%83%88%e3%83%a0) | N/A |
+| 29 | [Wordle 657](http://twitter.com/search?q=Wordle+657) | N/A |
+| 30 | [奈緒ちゃん](http://twitter.com/search?q=%e5%a5%88%e7%b7%92%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 31 | [マーセナリーズ](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
+| 32 | [おうじひろし](http://twitter.com/search?q=%e3%81%8a%e3%81%86%e3%81%98%e3%81%b2%e3%82%8d%e3%81%97) | N/A |
+| 33 | [ハンドキャノン](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%83%89%e3%82%ad%e3%83%a3%e3%83%8e%e3%83%b3) | N/A |
+| 34 | [ディシア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2) | ディシア is a Japanese word that means "disease". It is used to refer to any type of illness or medical condition. |
+| 35 | [ハロウィンの花嫁](http://twitter.com/search?q=%e3%83%8f%e3%83%ad%e3%82%a6%e3%82%a3%e3%83%b3%e3%81%ae%e8%8a%b1%e5%ab%81) | N/A |
+| 36 | [キンタマキラキラ金曜日](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%bf%e3%83%9e%e3%82%ad%e3%83%a9%e3%82%ad%e3%83%a9%e9%87%91%e6%9b%9c%e6%97%a5) | N/A |
+| 37 | [ヴァイパー](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
+| 38 | [バインド](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%b3%e3%83%89) | N/A |
+| 39 | [デュナメス](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%83%8a%e3%83%a1%e3%82%b9) | N/A |
+| 40 | [燃料枯渇](http://twitter.com/search?q=%e7%87%83%e6%96%99%e6%9e%af%e6%b8%87) | N/A |
+| 41 | [プリン体](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%b3%e4%bd%93) | N/A |
+| 42 | [歴代ウルトラ戦士](http://twitter.com/search?q=%e6%ad%b4%e4%bb%a3%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e6%88%a6%e5%a3%ab) | N/A |
+| 43 | [航空事故](http://twitter.com/search?q=%e8%88%aa%e7%a9%ba%e4%ba%8b%e6%95%85) | N/A |
+| 44 | [ジンソン](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%82%bd%e3%83%b3) | N/A |
+| 45 | [撃墜の可能性](http://twitter.com/search?q=%e6%92%83%e5%a2%9c%e3%81%ae%e5%8f%af%e8%83%bd%e6%80%a7) | N/A |
+| 46 | [周辺海域](http://twitter.com/search?q=%e5%91%a8%e8%be%ba%e6%b5%b7%e5%9f%9f) | N/A |
+| 47 | [救援偽装](http://twitter.com/search?q=%e6%95%91%e6%8f%b4%e5%81%bd%e8%a3%85) | N/A |
+| 48 | [世論調査](http://twitter.com/search?q=%e4%b8%96%e8%ab%96%e8%aa%bf%e6%9f%bb) | N/A |
+| 49 | [限界煩悩活劇オサム](http://twitter.com/search?q=%e9%99%90%e7%95%8c%e7%85%a9%e6%82%a9%e6%b4%bb%e5%8a%87%e3%82%aa%e3%82%b5%e3%83%a0) | N/A |
 
 
 

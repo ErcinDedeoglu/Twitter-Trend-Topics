@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-04-06 21:18:01 UTC`
+📆 Last Updated: `2023-04-06 22:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 2 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 3 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 1 | [Democratic](http://twitter.com/search?q=Democratic) | N/A |
+| 2 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 3 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
 | 4 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
 | 5 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
 | 6 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 7 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 8 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
-| 9 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 10 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 11 | [#NationalStudentAthleteDay](http://twitter.com/search?q=%23NationalStudentAthleteDay) | N/A |
-| 12 | [#InternationalAceDay](http://twitter.com/search?q=%23InternationalAceDay) | N/A |
-| 13 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 14 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 15 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 16 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
-| 17 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 18 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 19 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 20 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 21 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 22 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
-| 23 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 24 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
-| 25 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 26 | [3 Democrats](http://twitter.com/search?q=3+Democrats) | N/A |
-| 27 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 28 | [KAWS](http://twitter.com/search?q=KAWS) | N/A |
-| 29 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 30 | [Pomerantz](http://twitter.com/search?q=Pomerantz) | N/A |
-| 31 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 7 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 8 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 9 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 10 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 11 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 12 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
+| 13 | [#BreakingNews](http://twitter.com/search?q=%23BreakingNews) | N/A |
+| 14 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
+| 15 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
+| 16 | [#InternationalAceDay](http://twitter.com/search?q=%23InternationalAceDay) | N/A |
+| 17 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 18 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 19 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 20 | [#TNAssembly](http://twitter.com/search?q=%23TNAssembly) | N/A |
+| 21 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 22 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 23 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 24 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 25 | [Gino Bulso](http://twitter.com/search?q=Gino+Bulso) | N/A |
+| 26 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 27 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 28 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 29 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
+| 30 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
+| 31 | [bambam](http://twitter.com/search?q=bambam) | N/A |
 | 32 | [TN Republicans](http://twitter.com/search?q=TN+Republicans) | N/A |
-| 33 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
-| 34 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
-| 35 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
-| 36 | [Brig](http://twitter.com/search?q=Brig) | N/A |
-| 37 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 38 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 39 | [Expelled](http://twitter.com/search?q=Expelled) | N/A |
-| 40 | [George Lucas](http://twitter.com/search?q=George+Lucas) | N/A |
-| 41 | [EDCLV](http://twitter.com/search?q=EDCLV) | N/A |
-| 42 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 43 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 44 | [Jeff Zients](http://twitter.com/search?q=Jeff+Zients) | N/A |
-| 45 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 46 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 47 | [Viktor Hovland](http://twitter.com/search?q=Viktor+Hovland) | N/A |
-| 48 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
-| 49 | [ENCHANTED TV](http://twitter.com/search?q=ENCHANTED+TV) | N/A |
-| 50 | [FedNow](http://twitter.com/search?q=FedNow) | N/A |
+| 33 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 34 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 35 | [3 Democrats](http://twitter.com/search?q=3+Democrats) | N/A |
+| 36 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 37 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
+| 38 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 39 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 40 | [Expelled](http://twitter.com/search?q=Expelled) | N/A |
+| 41 | [Medhi](http://twitter.com/search?q=Medhi) | N/A |
+| 42 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
+| 43 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 44 | [Logan Cooley](http://twitter.com/search?q=Logan+Cooley) | Logan Cooley is a surname of Irish origin. It is derived from the Gaelic phrase "O'Lochain," which means "descendant of the small lake." |
+| 45 | [Miami Herald](http://twitter.com/search?q=Miami+Herald) | N/A |
+| 46 | [George Lucas](http://twitter.com/search?q=George+Lucas) | N/A |
+| 47 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
+| 48 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 49 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
+| 50 | [Knies](http://twitter.com/search?q=Knies) | N/A |
 
 
 

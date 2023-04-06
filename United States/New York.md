@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-06 21:18:04 UTC`
+📆 Last Updated: `2023-04-06 22:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 2 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 3 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 4 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 5 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 6 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 7 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 8 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 9 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 10 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
-| 11 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 12 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 13 | [#NationalStudentAthleteDay](http://twitter.com/search?q=%23NationalStudentAthleteDay) | N/A |
-| 14 | [#InternationalAceDay](http://twitter.com/search?q=%23InternationalAceDay) | N/A |
-| 15 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 16 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 17 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
-| 18 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 19 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 20 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 21 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 22 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 23 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 24 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
-| 25 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 26 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
-| 27 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 28 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 29 | [3 Democrats](http://twitter.com/search?q=3+Democrats) | N/A |
-| 30 | [KAWS](http://twitter.com/search?q=KAWS) | N/A |
-| 31 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 32 | [Pomerantz](http://twitter.com/search?q=Pomerantz) | N/A |
-| 33 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 34 | [TN Republicans](http://twitter.com/search?q=TN+Republicans) | N/A |
-| 35 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
-| 36 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
-| 37 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
-| 38 | [Brig](http://twitter.com/search?q=Brig) | N/A |
-| 39 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 40 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 41 | [Expelled](http://twitter.com/search?q=Expelled) | N/A |
-| 42 | [George Lucas](http://twitter.com/search?q=George+Lucas) | N/A |
-| 43 | [EDCLV](http://twitter.com/search?q=EDCLV) | N/A |
-| 44 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 45 | [Jeff Zients](http://twitter.com/search?q=Jeff+Zients) | N/A |
-| 46 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 47 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 48 | [Viktor Hovland](http://twitter.com/search?q=Viktor+Hovland) | N/A |
-| 49 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
-| 50 | [ENCHANTED TV](http://twitter.com/search?q=ENCHANTED+TV) | N/A |
+| 1 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
+| 2 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 3 | [Democratic](http://twitter.com/search?q=Democratic) | N/A |
+| 4 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 5 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 6 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 7 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 8 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 9 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 10 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
+| 11 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 12 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 13 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 14 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 15 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 16 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 17 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
+| 18 | [#BreakingNews](http://twitter.com/search?q=%23BreakingNews) | N/A |
+| 19 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
+| 20 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
+| 21 | [#InternationalAceDay](http://twitter.com/search?q=%23InternationalAceDay) | N/A |
+| 22 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 23 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 24 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 25 | [#TNAssembly](http://twitter.com/search?q=%23TNAssembly) | N/A |
+| 26 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 27 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 28 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 29 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 30 | [Gino Bulso](http://twitter.com/search?q=Gino+Bulso) | N/A |
+| 31 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 32 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 33 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 34 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
+| 35 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
+| 36 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 37 | [TN Republicans](http://twitter.com/search?q=TN+Republicans) | N/A |
+| 38 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 39 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 40 | [3 Democrats](http://twitter.com/search?q=3+Democrats) | N/A |
+| 41 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 42 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
+| 43 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 44 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 45 | [Expelled](http://twitter.com/search?q=Expelled) | N/A |
+| 46 | [Medhi](http://twitter.com/search?q=Medhi) | N/A |
+| 47 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
+| 48 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 49 | [Logan Cooley](http://twitter.com/search?q=Logan+Cooley) | Logan Cooley is a surname of Irish origin. It is derived from the Gaelic phrase "O'Lochain," which means "descendant of the small lake." |
+| 50 | [Miami Herald](http://twitter.com/search?q=Miami+Herald) | N/A |
 
 
 

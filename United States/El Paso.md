@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-04-06 21:18:01 UTC`
+📆 Last Updated: `2023-04-06 22:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#txlege](http://twitter.com/search?q=%23txlege) | N/A |
-| 2 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 2 | [Texas House](http://twitter.com/search?q=Texas+House) | N/A |
 | 3 | [#txed](http://twitter.com/search?q=%23txed) | N/A |
 | 4 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 5 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 5 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
 | 6 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 7 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 8 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 9 | [Anheuser-Busch](http://twitter.com/search?q=Anheuser-Busch) | N/A |
-| 10 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 11 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 12 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 13 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 14 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
-| 15 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 16 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 17 | [#NationalStudentAthleteDay](http://twitter.com/search?q=%23NationalStudentAthleteDay) | N/A |
-| 18 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 19 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 20 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 21 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 22 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 23 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 24 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 25 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
-| 26 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 27 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
-| 28 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 29 | [3 Democrats](http://twitter.com/search?q=3+Democrats) | N/A |
-| 30 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 31 | [KAWS](http://twitter.com/search?q=KAWS) | N/A |
-| 32 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 33 | [Pomerantz](http://twitter.com/search?q=Pomerantz) | N/A |
-| 34 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 35 | [TN Republicans](http://twitter.com/search?q=TN+Republicans) | N/A |
-| 36 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
-| 37 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
-| 38 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
-| 39 | [Brig](http://twitter.com/search?q=Brig) | N/A |
-| 40 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 41 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 42 | [Expelled](http://twitter.com/search?q=Expelled) | N/A |
-| 43 | [George Lucas](http://twitter.com/search?q=George+Lucas) | N/A |
-| 44 | [EDCLV](http://twitter.com/search?q=EDCLV) | N/A |
-| 45 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 46 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 47 | [Jeff Zients](http://twitter.com/search?q=Jeff+Zients) | N/A |
-| 48 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 49 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 7 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 8 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 9 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
+| 10 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 11 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 12 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 13 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 14 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 15 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 16 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
+| 17 | [#BreakingNews](http://twitter.com/search?q=%23BreakingNews) | N/A |
+| 18 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
+| 19 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
+| 20 | [#InternationalAceDay](http://twitter.com/search?q=%23InternationalAceDay) | N/A |
+| 21 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 22 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 23 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 24 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 25 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 26 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 27 | [Gino Bulso](http://twitter.com/search?q=Gino+Bulso) | N/A |
+| 28 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 29 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 30 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 31 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
+| 32 | [TN Republicans](http://twitter.com/search?q=TN+Republicans) | N/A |
+| 33 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 34 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 35 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
+| 36 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 37 | [3 Democrats](http://twitter.com/search?q=3+Democrats) | N/A |
+| 38 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 39 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 40 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 41 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
+| 42 | [Medhi](http://twitter.com/search?q=Medhi) | N/A |
+| 43 | [Expelled](http://twitter.com/search?q=Expelled) | N/A |
+| 44 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
+| 45 | [Logan Cooley](http://twitter.com/search?q=Logan+Cooley) | Logan Cooley is a surname of Irish origin. It is derived from the Gaelic phrase "O'Lochain," which means "descendant of the small lake." |
+| 46 | [Miami Herald](http://twitter.com/search?q=Miami+Herald) | N/A |
+| 47 | [George Lucas](http://twitter.com/search?q=George+Lucas) | N/A |
+| 48 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
+| 49 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
 
 
 

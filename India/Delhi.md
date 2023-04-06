@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-04-06 21:18:09 UTC`
+📆 Last Updated: `2023-04-06 22:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Vi20FANFest](http://twitter.com/search?q=%23Vi20FANFest) | N/A |
-| 2 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 3 | [#KKRvRCB](http://twitter.com/search?q=%23KKRvRCB) | N/A |
-| 4 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
-| 5 | [#ShardulThakur](http://twitter.com/search?q=%23ShardulThakur) | N/A |
-| 6 | [Chinnaswamy Stadium](http://twitter.com/search?q=Chinnaswamy+Stadium) | N/A |
-| 7 | [#AmiKKR](http://twitter.com/search?q=%23AmiKKR) | N/A |
-| 8 | [#ShahRukhKhan](http://twitter.com/search?q=%23ShahRukhKhan) | N/A |
-| 9 | [Wriddhiman S](http://twitter.com/search?q=Wriddhiman+S) | N/A |
-| 10 | [Suyash Sharma](http://twitter.com/search?q=Suyash+Sharma) | N/A |
-| 11 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 12 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 13 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
-| 14 | [Eden Gardens](http://twitter.com/search?q=Eden+Gardens) | N/A |
-| 15 | [BJP Against OBC](http://twitter.com/search?q=BJP+Against+OBC) | N/A |
-| 16 | [Varun](http://twitter.com/search?q=Varun) | N/A |
-| 17 | [Harshal Patel](http://twitter.com/search?q=Harshal+Patel) | Harshal Patel is an Indian surname. It is derived from the Sanskrit words "harsha" meaning joy and "pati" meaning lord or master. The literal translation of the name is "lord of joy". |
-| 18 | [Narine](http://twitter.com/search?q=Narine) | N/A |
-| 19 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 20 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
-| 21 | [Neeraj Chopra](http://twitter.com/search?q=Neeraj+Chopra) | N/A |
-| 22 | [Rinku](http://twitter.com/search?q=Rinku) | N/A |
-| 23 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
-| 24 | [King Khan](http://twitter.com/search?q=King+Khan) | N/A |
-| 25 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 26 | [Willey](http://twitter.com/search?q=Willey) | N/A |
-| 27 | [Mandeep](http://twitter.com/search?q=Mandeep) | N/A |
-| 28 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
-| 29 | [Anil](http://twitter.com/search?q=Anil) | N/A |
-| 30 | [Rana](http://twitter.com/search?q=Rana) | N/A |
-| 31 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 32 | [Sudeep](http://twitter.com/search?q=Sudeep) | N/A |
-| 33 | [Prakash](http://twitter.com/search?q=Prakash) | N/A |
-| 34 | [Manish Kashyap](http://twitter.com/search?q=Manish+Kashyap) | N/A |
-| 35 | [#MazaarJihad](http://twitter.com/search?q=%23MazaarJihad) | N/A |
-| 36 | [#viratkholi](http://twitter.com/search?q=%23viratkholi) | N/A |
-| 37 | [#haarcb](http://twitter.com/search?q=%23haarcb) | N/A |
-| 38 | [#KolkataKnightRiders](http://twitter.com/search?q=%23KolkataKnightRiders) | N/A |
-| 39 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
-| 40 | [#Ayothi](http://twitter.com/search?q=%23Ayothi) | N/A |
-| 41 | [#FullMoon](http://twitter.com/search?q=%23FullMoon) | N/A |
-| 42 | [#Desamuduru4KCelebrations](http://twitter.com/search?q=%23Desamuduru4KCelebrations) | N/A |
-| 43 | [#GetOutRavi](http://twitter.com/search?q=%23GetOutRavi) | #GetOutRavi is a hashtag used to express support for the Indian student Ravi Kumar, who was detained by US immigration authorities in 2019. The hashtag is used to call for his release and to raise awareness of his case. |
-| 44 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 45 | [#ForeignFundingExposed](http://twitter.com/search?q=%23ForeignFundingExposed) | N/A |
-| 46 | [#SRK𓃵](http://twitter.com/search?q=%23SRK%f0%93%83%b5) | N/A |
-| 47 | [#Meerasim](http://twitter.com/search?q=%23Meerasim) | N/A |
-| 48 | [#YumnaZaidi](http://twitter.com/search?q=%23YumnaZaidi) | N/A |
-| 49 | [#iplinbhojpuri](http://twitter.com/search?q=%23iplinbhojpuri) | N/A |
-| 50 | [#WahajAli](http://twitter.com/search?q=%23WahajAli) | N/A |
+| 1 | [#KKRvRCB](http://twitter.com/search?q=%23KKRvRCB) | N/A |
+| 2 | [#HanumanJayanti](http://twitter.com/search?q=%23HanumanJayanti) | N/A |
+| 3 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 4 | [#BJPSthapnaDiwas](http://twitter.com/search?q=%23BJPSthapnaDiwas) | N/A |
+| 5 | [भारतीय जनता पार्टी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 6 | [#BJPFoundationDay](http://twitter.com/search?q=%23BJPFoundationDay) | N/A |
+| 7 | [Lord Shardul](http://twitter.com/search?q=Lord+Shardul) | Lord Shardul is a Hindu deity associated with strength and courage. He is the son of Shiva and Parvati, and is often depicted as a lion or tiger. The name Shardul translates to "tiger" in English. |
+| 8 | [#MazaarJihad](http://twitter.com/search?q=%23MazaarJihad) | N/A |
+| 9 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
+| 10 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 11 | [Eden Gardens](http://twitter.com/search?q=Eden+Gardens) | N/A |
+| 12 | [Anil Antony](http://twitter.com/search?q=Anil+Antony) | N/A |
+| 13 | [Willey](http://twitter.com/search?q=Willey) | N/A |
+| 14 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 15 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 16 | [Sterlite Copper](http://twitter.com/search?q=Sterlite+Copper) | N/A |
+| 17 | [Sushant A Game Changer](http://twitter.com/search?q=Sushant+A+Game+Changer) | N/A |
+| 18 | [ease it with easemytrip](http://twitter.com/search?q=ease+it+with+easemytrip) | N/A |
+| 19 | [परमेश्वर कबीर](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
+| 20 | [लाल देह लाली](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%a6%e0%a5%87%e0%a4%b9+%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%80) | N/A |
+| 21 | [Harshal](http://twitter.com/search?q=Harshal) | N/A |
+| 22 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
+| 23 | [Narine](http://twitter.com/search?q=Narine) | N/A |
+| 24 | [बड़ी पार्टी](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 25 | [BJP Against OBC](http://twitter.com/search?q=BJP+Against+OBC) | N/A |
+| 26 | [राम लखन सीता](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b2%e0%a4%96%e0%a4%a8+%e0%a4%b8%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
+| 27 | [अनन्य भक्त](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
+| 28 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 29 | [ram kaaj bin kahan vishrama](http://twitter.com/search?q=ram+kaaj+bin+kahan+vishrama) | N/A |
+| 30 | [Suyash Sharma](http://twitter.com/search?q=Suyash+Sharma) | N/A |
+| 31 | [राष्ट्र सेवा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%be) | N/A |
+| 32 | [तमिलनाडु पुलिस](http://twitter.com/search?q=%e0%a4%a4%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8%e0%a4%be%e0%a4%a1%e0%a5%81+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 33 | [Rinku Singh](http://twitter.com/search?q=Rinku+Singh) | N/A |
+| 34 | [syedna case](http://twitter.com/search?q=syedna+case) | N/A |
+| 35 | [राष्ट्र निर्माण](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a3) | N/A |
+| 36 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
+| 37 | [सुर भूप](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b0+%e0%a4%ad%e0%a5%82%e0%a4%aa) | N/A |
+| 38 | [Wriddhiman S](http://twitter.com/search?q=Wriddhiman+S) | N/A |
+| 39 | [संकट मोचन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%9f+%e0%a4%ae%e0%a5%8b%e0%a4%9a%e0%a4%a8) | N/A |
+| 40 | [Chinnaswamy Stadium](http://twitter.com/search?q=Chinnaswamy+Stadium) | N/A |
+| 41 | [Padma Shri](http://twitter.com/search?q=Padma+Shri) | Padma Shri is an Indian civilian award given by the Government of India. It is the fourth highest civilian award in India, after the Bharat Ratna, the Padma Vibhushan and the Padma Bhushan. The award is given to recognize distinguished service of a high order to the nation in any field including art, literature, education, science, sports, medicine, social service and public affairs. The literal meaning of Padma Shri in English is "Lotus Honor". |
+| 42 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 43 | [अनिल एंटनी](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%bf%e0%a4%b2+%e0%a4%8f%e0%a4%82%e0%a4%9f%e0%a4%a8%e0%a5%80) | N/A |
+| 44 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 45 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 46 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 47 | [Varun](http://twitter.com/search?q=Varun) | N/A |
+| 48 | [HaaRCB](http://twitter.com/search?q=HaaRCB) | N/A |
+| 49 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
+| 50 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
 
 
 

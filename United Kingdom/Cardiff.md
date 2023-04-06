@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-04-06 21:17:07 UTC`
+📆 Last Updated: `2023-04-06 22:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#Finalissima](http://twitter.com/search?q=%23Finalissima) | N/A |
 | 2 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
 | 3 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
-| 4 | [#ENGBRA](http://twitter.com/search?q=%23ENGBRA) | N/A |
-| 5 | [Chloe Kelly](http://twitter.com/search?q=Chloe+Kelly) | N/A |
+| 4 | [Chloe Kelly](http://twitter.com/search?q=Chloe+Kelly) | N/A |
+| 5 | [#ENGBRA](http://twitter.com/search?q=%23ENGBRA) | N/A |
 | 6 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 7 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 8 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 9 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 12 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 13 | [Peter Wright](http://twitter.com/search?q=Peter+Wright) | N/A |
-| 14 | [Ella Toone](http://twitter.com/search?q=Ella+Toone) | N/A |
-| 15 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
-| 16 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
-| 17 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 18 | [Sarina Wiegman](http://twitter.com/search?q=Sarina+Wiegman) | N/A |
-| 19 | [Wakey](http://twitter.com/search?q=Wakey) | N/A |
-| 20 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 21 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 22 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 23 | [Leah Williamson](http://twitter.com/search?q=Leah+Williamson) | N/A |
-| 24 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 25 | [John Lydon](http://twitter.com/search?q=John+Lydon) | N/A |
-| 26 | [Wakefield](http://twitter.com/search?q=Wakefield) | N/A |
-| 27 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 28 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 29 | [Clayton](http://twitter.com/search?q=Clayton) | N/A |
-| 30 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 31 | [Saville](http://twitter.com/search?q=Saville) | N/A |
-| 32 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 33 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 34 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 35 | [Nicky](http://twitter.com/search?q=Nicky) | N/A |
-| 36 | [Clapham](http://twitter.com/search?q=Clapham) | N/A |
-| 37 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
-| 38 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 39 | [Season 3](http://twitter.com/search?q=Season+3) | N/A |
-| 40 | [Jack Harrison](http://twitter.com/search?q=Jack+Harrison) | N/A |
-| 41 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 42 | [Joanne](http://twitter.com/search?q=Joanne) | N/A |
-| 43 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 44 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 45 | [#Taskmaster](http://twitter.com/search?q=%23Taskmaster) | N/A |
-| 46 | [#dragonsden](http://twitter.com/search?q=%23dragonsden) | N/A |
-| 47 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 48 | [#FutureFoodStars](http://twitter.com/search?q=%23FutureFoodStars) | N/A |
+| 7 | [Joas](http://twitter.com/search?q=Joas) | N/A |
+| 8 | [Nora](http://twitter.com/search?q=Nora) | N/A |
+| 9 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 10 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 11 | [Peter Wright](http://twitter.com/search?q=Peter+Wright) | N/A |
+| 12 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 13 | [Sarina Wiegman](http://twitter.com/search?q=Sarina+Wiegman) | N/A |
+| 14 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 15 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 16 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
+| 17 | [Leah Williamson](http://twitter.com/search?q=Leah+Williamson) | N/A |
+| 18 | [Wakey](http://twitter.com/search?q=Wakey) | N/A |
+| 19 | [Clayton](http://twitter.com/search?q=Clayton) | N/A |
+| 20 | [Toone](http://twitter.com/search?q=Toone) | N/A |
+| 21 | [Wakefield](http://twitter.com/search?q=Wakefield) | N/A |
+| 22 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 23 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 24 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 25 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
+| 26 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 27 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
+| 28 | [Saville](http://twitter.com/search?q=Saville) | N/A |
+| 29 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 30 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 31 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 32 | [John Lydon](http://twitter.com/search?q=John+Lydon) | N/A |
+| 33 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 34 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 35 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 36 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 37 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
+| 38 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 39 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 40 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
+| 41 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 42 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 43 | [U18s](http://twitter.com/search?q=U18s) | N/A |
+| 44 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 45 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
+| 46 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 48 | [Clapham](http://twitter.com/search?q=Clapham) | N/A |
 
 
 

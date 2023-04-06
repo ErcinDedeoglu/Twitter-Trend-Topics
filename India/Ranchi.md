@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ranchi
 
-📆 Last Updated: `2023-04-06 21:17:53 UTC`
+📆 Last Updated: `2023-04-06 22:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,40 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#KKRvRCB](http://twitter.com/search?q=%23KKRvRCB) | N/A |
 | 2 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
-| 3 | [#ShardulThakur](http://twitter.com/search?q=%23ShardulThakur) | N/A |
+| 3 | [#Vi20FANFest](http://twitter.com/search?q=%23Vi20FANFest) | N/A |
 | 4 | [Chinnaswamy Stadium](http://twitter.com/search?q=Chinnaswamy+Stadium) | N/A |
-| 5 | [#AmiKKR](http://twitter.com/search?q=%23AmiKKR) | N/A |
-| 6 | [#ShahRukhKhan](http://twitter.com/search?q=%23ShahRukhKhan) | N/A |
-| 7 | [Wriddhiman S](http://twitter.com/search?q=Wriddhiman+S) | N/A |
-| 8 | [#MazaarJihad](http://twitter.com/search?q=%23MazaarJihad) | N/A |
-| 9 | [Suyash Sharma](http://twitter.com/search?q=Suyash+Sharma) | N/A |
+| 5 | [Lord Shardul](http://twitter.com/search?q=Lord+Shardul) | Lord Shardul is a Hindu deity associated with strength and courage. He is the son of Shiva and Parvati, and is often depicted as a lion or tiger. The name Shardul translates to "tiger" in English. |
+| 6 | [Wriddhiman S](http://twitter.com/search?q=Wriddhiman+S) | N/A |
+| 7 | [#IPL23](http://twitter.com/search?q=%23IPL23) | N/A |
+| 8 | [#SuyashSharma](http://twitter.com/search?q=%23SuyashSharma) | N/A |
+| 9 | [#MazaarJihad](http://twitter.com/search?q=%23MazaarJihad) | N/A |
 | 10 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 11 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 12 | [Eden Gardens](http://twitter.com/search?q=Eden+Gardens) | N/A |
-| 13 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
-| 14 | [BJP Against OBC](http://twitter.com/search?q=BJP+Against+OBC) | N/A |
-| 15 | [Varun](http://twitter.com/search?q=Varun) | N/A |
+| 11 | [BJP Against OBC](http://twitter.com/search?q=BJP+Against+OBC) | N/A |
+| 12 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
+| 13 | [Varun](http://twitter.com/search?q=Varun) | N/A |
+| 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 15 | [HaaRCB](http://twitter.com/search?q=HaaRCB) | N/A |
 | 16 | [Harshal Patel](http://twitter.com/search?q=Harshal+Patel) | Harshal Patel is an Indian surname. It is derived from the Sanskrit words "harsha" meaning joy and "pati" meaning lord or master. The literal translation of the name is "lord of joy". |
 | 17 | [Narine](http://twitter.com/search?q=Narine) | N/A |
 | 18 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 19 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
-| 20 | [Anuj Rawat](http://twitter.com/search?q=Anuj+Rawat) | N/A |
-| 21 | [Neeraj Chopra](http://twitter.com/search?q=Neeraj+Chopra) | N/A |
-| 22 | [Rinku](http://twitter.com/search?q=Rinku) | N/A |
-| 23 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
-| 24 | [King Khan](http://twitter.com/search?q=King+Khan) | N/A |
-| 25 | [RCB RCB](http://twitter.com/search?q=RCB+RCB) | N/A |
-| 26 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 27 | [Nitish Rana](http://twitter.com/search?q=Nitish+Rana) | N/A |
-| 28 | [Willey](http://twitter.com/search?q=Willey) | N/A |
-| 29 | [Mandeep](http://twitter.com/search?q=Mandeep) | N/A |
-| 30 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
-| 31 | [Anil](http://twitter.com/search?q=Anil) | N/A |
-| 32 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 33 | [Sudeep](http://twitter.com/search?q=Sudeep) | N/A |
-| 34 | [Prakash](http://twitter.com/search?q=Prakash) | N/A |
-| 35 | [Manish Kashyap](http://twitter.com/search?q=Manish+Kashyap) | N/A |
-| 36 | [#viratkholi](http://twitter.com/search?q=%23viratkholi) | N/A |
-| 37 | [#haarcb](http://twitter.com/search?q=%23haarcb) | N/A |
-| 38 | [#KolkataKnightRiders](http://twitter.com/search?q=%23KolkataKnightRiders) | N/A |
-| 39 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
-| 40 | [#Ayothi](http://twitter.com/search?q=%23Ayothi) | N/A |
-| 41 | [#FullMoon](http://twitter.com/search?q=%23FullMoon) | N/A |
-| 42 | [#Desamuduru4KCelebrations](http://twitter.com/search?q=%23Desamuduru4KCelebrations) | N/A |
-| 43 | [#GetOutRavi](http://twitter.com/search?q=%23GetOutRavi) | #GetOutRavi is a hashtag used to express support for the Indian student Ravi Kumar, who was detained by US immigration authorities in 2019. The hashtag is used to call for his release and to raise awareness of his case. |
-| 44 | [#SRK𓃵](http://twitter.com/search?q=%23SRK%f0%93%83%b5) | N/A |
-| 45 | [#KorboLorboJeetbo](http://twitter.com/search?q=%23KorboLorboJeetbo) | N/A |
-| 46 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 47 | [#ForeignFundingExposed](http://twitter.com/search?q=%23ForeignFundingExposed) | N/A |
-| 48 | [#Meerasim](http://twitter.com/search?q=%23Meerasim) | N/A |
-| 49 | [#PawanKalyanAtNITWarangal](http://twitter.com/search?q=%23PawanKalyanAtNITWarangal) | N/A |
+| 19 | [Eden Gardens](http://twitter.com/search?q=Eden+Gardens) | N/A |
+| 20 | [Rinku](http://twitter.com/search?q=Rinku) | N/A |
+| 21 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 22 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
+| 23 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
+| 24 | [#AmiKKR](http://twitter.com/search?q=%23AmiKKR) | N/A |
+| 25 | [#viratkholi](http://twitter.com/search?q=%23viratkholi) | N/A |
+| 26 | [#ShahRukhKhan](http://twitter.com/search?q=%23ShahRukhKhan) | N/A |
+| 27 | [#KolkataKnightRiders](http://twitter.com/search?q=%23KolkataKnightRiders) | N/A |
+| 28 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
+| 29 | [#Ayothi](http://twitter.com/search?q=%23Ayothi) | N/A |
+| 30 | [#FullMoon](http://twitter.com/search?q=%23FullMoon) | N/A |
+| 31 | [#Desamuduru4KCelebrations](http://twitter.com/search?q=%23Desamuduru4KCelebrations) | N/A |
+| 32 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 33 | [#GetOutRavi](http://twitter.com/search?q=%23GetOutRavi) | #GetOutRavi is a hashtag used to express support for the Indian student Ravi Kumar, who was detained by US immigration authorities in 2019. The hashtag is used to call for his release and to raise awareness of his case. |
+| 34 | [#Meerasim](http://twitter.com/search?q=%23Meerasim) | N/A |
+| 35 | [#YumnaZaidi](http://twitter.com/search?q=%23YumnaZaidi) | N/A |
+| 36 | [#RoyalChallengersBangalore](http://twitter.com/search?q=%23RoyalChallengersBangalore) | N/A |
 
 
 

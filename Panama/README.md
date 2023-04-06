@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-06 21:18:17 UTC`
+📆 Last Updated: `2023-04-06 22:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Panama
 | 1 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 2 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
 | 3 | [La Yeguada](http://twitter.com/search?q=La+Yeguada) | N/A |
-| 4 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 6 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 7 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 4 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 5 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 6 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 7 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
 | 8 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 9 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
-| 10 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 11 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 12 | [#cats](http://twitter.com/search?q=%23cats) | N/A |
+| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 10 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 11 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 12 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 13 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 14 | [$0.01 eth](http://twitter.com/search?q=%240.01+eth) | N/A |
-| 15 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 16 | [Copa del Rey](http://twitter.com/search?q=Copa+del+Rey) | N/A |
-| 17 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 18 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 14 | [Copa del Rey](http://twitter.com/search?q=Copa+del+Rey) | N/A |
+| 15 | [$0.01 eth](http://twitter.com/search?q=%240.01+eth) | N/A |
+| 16 | [#cats](http://twitter.com/search?q=%23cats) | N/A |
+| 17 | [Panamericana](http://twitter.com/search?q=Panamericana) | N/A |
+| 18 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
 | 19 | [burunga](http://twitter.com/search?q=burunga) | N/A |
-| 20 | [ronaldo córdoba](http://twitter.com/search?q=ronaldo+c%c3%b3rdoba) | N/A |
-| 21 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 22 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 23 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 20 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 21 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 22 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 23 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
 | 24 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 25 | [#WanderingMind](http://twitter.com/search?q=%23WanderingMind) | N/A |
-| 26 | [#opensea](http://twitter.com/search?q=%23opensea) | N/A |
+| 25 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 26 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 27 | [La Espiga](http://twitter.com/search?q=La+Espiga) | N/A |
-| 28 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 29 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 30 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 31 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 32 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 33 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 34 | [#catlover](http://twitter.com/search?q=%23catlover) | N/A |
-| 35 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 36 | [Darién](http://twitter.com/search?q=Dari%c3%a9n) | N/A |
-| 37 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 38 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 39 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 40 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 41 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 42 | [Empate](http://twitter.com/search?q=Empate) | N/A |
-| 43 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
-| 44 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 45 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 46 | [Mayin](http://twitter.com/search?q=Mayin) | N/A |
-| 47 | [Veraguas](http://twitter.com/search?q=Veraguas) | N/A |
-| 48 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 49 | [Panamá Oeste](http://twitter.com/search?q=Panam%c3%a1+Oeste) | N/A |
-| 50 | [Cambio Democrático](http://twitter.com/search?q=Cambio+Democr%c3%a1tico) | N/A |
+| 28 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 29 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 30 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 31 | [San Miguelito](http://twitter.com/search?q=San+Miguelito) | N/A |
+| 32 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 33 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 34 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 35 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
+| 36 | [ronaldo córdoba](http://twitter.com/search?q=ronaldo+c%c3%b3rdoba) | N/A |
+| 37 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 38 | [Empate](http://twitter.com/search?q=Empate) | N/A |
+| 39 | [#WanderingMind](http://twitter.com/search?q=%23WanderingMind) | N/A |
+| 40 | [#opensea](http://twitter.com/search?q=%23opensea) | N/A |
+| 41 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
+| 42 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 43 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 44 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 45 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 46 | [Juan Diego](http://twitter.com/search?q=Juan+Diego) | N/A |
+| 47 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 48 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 49 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 50 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
 
 
 

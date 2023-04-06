@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-06 21:17:34 UTC`
+📆 Last Updated: `2023-04-06 22:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,52 @@ This is top 50 for [Australia](</Australia>)
 | ------- | ------------ | ------------ |
 | 1 | [#AFLLionsPies](http://twitter.com/search?q=%23AFLLionsPies) | N/A |
 | 2 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 3 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
+| 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 4 | [#NRLStormRoosters](http://twitter.com/search?q=%23NRLStormRoosters) | N/A |
-| 5 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
+| 5 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
 | 6 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 7 | [Noel Pearson](http://twitter.com/search?q=Noel+Pearson) | N/A |
-| 8 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 9 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 7 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
+| 8 | [Noel Pearson](http://twitter.com/search?q=Noel+Pearson) | N/A |
+| 9 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 10 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 11 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 12 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
-| 13 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
-| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 16 | [Radley](http://twitter.com/search?q=Radley) | N/A |
-| 17 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
-| 18 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
-| 19 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 20 | [charlie cameron](http://twitter.com/search?q=charlie+cameron) | N/A |
-| 21 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
+| 11 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 12 | [Daicos](http://twitter.com/search?q=Daicos) | N/A |
+| 13 | [GABBA](http://twitter.com/search?q=GABBA) | N/A |
+| 14 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 15 | [Brisbane](http://twitter.com/search?q=Brisbane) | N/A |
+| 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 17 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 18 | [charlie cameron](http://twitter.com/search?q=charlie+cameron) | N/A |
+| 19 | [Radley](http://twitter.com/search?q=Radley) | N/A |
+| 20 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
+| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 22 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
-| 23 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
-| 24 | [Linda Reynolds](http://twitter.com/search?q=Linda+Reynolds) | N/A |
-| 25 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
-| 26 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 27 | [Nick Daicos](http://twitter.com/search?q=Nick+Daicos) | N/A |
-| 28 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 29 | [Uluru Statement](http://twitter.com/search?q=Uluru+Statement) | N/A |
-| 30 | [HECS](http://twitter.com/search?q=HECS) | N/A |
-| 31 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 32 | [Inland Rail](http://twitter.com/search?q=Inland+Rail) | N/A |
-| 33 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
+| 23 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
+| 24 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 25 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
+| 26 | [HECS](http://twitter.com/search?q=HECS) | N/A |
+| 27 | [Uluru Statement](http://twitter.com/search?q=Uluru+Statement) | N/A |
+| 28 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 29 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
+| 30 | [Linda Reynolds](http://twitter.com/search?q=Linda+Reynolds) | N/A |
+| 31 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 32 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
+| 33 | [Zorko](http://twitter.com/search?q=Zorko) | N/A |
 | 34 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 35 | [zorko](http://twitter.com/search?q=zorko) | N/A |
-| 36 | [bobby hill](http://twitter.com/search?q=bobby+hill) | N/A |
-| 37 | [Fred Chaney](http://twitter.com/search?q=Fred+Chaney) | N/A |
-| 38 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 39 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
-| 40 | [Brisbane](http://twitter.com/search?q=Brisbane) | N/A |
-| 41 | [Senator Dodson](http://twitter.com/search?q=Senator+Dodson) | N/A |
-| 42 | [bruce petty](http://twitter.com/search?q=bruce+petty) | N/A |
-| 43 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 44 | [nick meaney](http://twitter.com/search?q=nick+meaney) | N/A |
-| 45 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 46 | [Canberra Voice](http://twitter.com/search?q=Canberra+Voice) | N/A |
-| 47 | [term 1](http://twitter.com/search?q=term+1) | N/A |
-| 48 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 49 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 35 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 36 | [Inland Rail](http://twitter.com/search?q=Inland+Rail) | N/A |
+| 37 | [Bobby Hill](http://twitter.com/search?q=Bobby+Hill) | N/A |
+| 38 | [Daniher](http://twitter.com/search?q=Daniher) | N/A |
+| 39 | [Tehan](http://twitter.com/search?q=Tehan) | N/A |
+| 40 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 41 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
+| 42 | [Grundy](http://twitter.com/search?q=Grundy) | N/A |
+| 43 | [Fred Chaney](http://twitter.com/search?q=Fred+Chaney) | N/A |
+| 44 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 45 | [Chris Kenny](http://twitter.com/search?q=Chris+Kenny) | N/A |
+| 46 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 47 | [Voss](http://twitter.com/search?q=Voss) | N/A |
+| 48 | [Senator Dodson](http://twitter.com/search?q=Senator+Dodson) | N/A |
 
 
 

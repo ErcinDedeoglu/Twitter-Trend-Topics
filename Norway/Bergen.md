@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-06 21:17:31 UTC`
+📆 Last Updated: `2023-04-06 22:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Norway](</Norway>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 2 | [Viktor Hovland](http://twitter.com/search?q=Viktor+Hovland) | N/A |
-| 3 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 4 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
-| 5 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 2 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 3 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 4 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 5 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 6 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 7 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 7 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
 | 8 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 9 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 10 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 11 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 12 | [#Eliteserien](http://twitter.com/search?q=%23Eliteserien) | N/A |
-| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 14 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 15 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 16 | [tengstedt](http://twitter.com/search?q=tengstedt) | N/A |
-| 17 | [Magnus](http://twitter.com/search?q=Magnus) | N/A |
-| 18 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 19 | [Hoff](http://twitter.com/search?q=Hoff) | N/A |
-| 20 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 21 | [vg-børsen](http://twitter.com/search?q=vg-b%c3%b8rsen) | N/A |
-| 22 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 23 | [lise klaveness](http://twitter.com/search?q=lise+klaveness) | N/A |
-| 24 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 25 | [Sovjetunionen](http://twitter.com/search?q=Sovjetunionen) | N/A |
-| 26 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 27 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 28 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 29 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 30 | [Ålesund](http://twitter.com/search?q=%c3%85lesund) | N/A |
-| 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 32 | [Tromsø](http://twitter.com/search?q=Troms%c3%b8) | N/A |
-| 33 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 34 | [Husker](http://twitter.com/search?q=Husker) | N/A |
-| 35 | [Sarpsborg 08](http://twitter.com/search?q=Sarpsborg+08) | N/A |
-| 36 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 37 | [Sandefjord](http://twitter.com/search?q=Sandefjord) | N/A |
-| 38 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 39 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
-| 40 | [Asker](http://twitter.com/search?q=Asker) | N/A |
-| 41 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 42 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 43 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 44 | [Brannvesenet](http://twitter.com/search?q=Brannvesenet) | N/A |
-| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 46 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 47 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 48 | [Vestlandet](http://twitter.com/search?q=Vestlandet) | N/A |
+| 9 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 10 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
+| 11 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 12 | [tengstedt](http://twitter.com/search?q=tengstedt) | N/A |
+| 13 | [Brannvesenet](http://twitter.com/search?q=Brannvesenet) | N/A |
+| 14 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 15 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 17 | [#Eliteserien](http://twitter.com/search?q=%23Eliteserien) | N/A |
+| 18 | [#ESNgolf](http://twitter.com/search?q=%23ESNgolf) | N/A |
+| 19 | [Støre](http://twitter.com/search?q=St%c3%b8re) | N/A |
+| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 21 | [Sandefjord](http://twitter.com/search?q=Sandefjord) | N/A |
+| 22 | [Hoff](http://twitter.com/search?q=Hoff) | N/A |
+| 23 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 25 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 26 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 27 | [America](http://twitter.com/search?q=America) | N/A |
+| 28 | [London](http://twitter.com/search?q=London) | N/A |
+| 29 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 30 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 31 | [Fikk](http://twitter.com/search?q=Fikk) | N/A |
+| 32 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 33 | [Ålesund](http://twitter.com/search?q=%c3%85lesund) | N/A |
+| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 35 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 36 | [statkraft](http://twitter.com/search?q=statkraft) | N/A |
+| 37 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
+| 38 | [Lykke](http://twitter.com/search?q=Lykke) | N/A |
+| 39 | [Husker](http://twitter.com/search?q=Husker) | N/A |
+| 40 | [Tromsø](http://twitter.com/search?q=Troms%c3%b8) | N/A |
+| 41 | [Heldigvis](http://twitter.com/search?q=Heldigvis) | N/A |
+| 42 | [Sarpsborg 08](http://twitter.com/search?q=Sarpsborg+08) | N/A |
+| 43 | [Asker](http://twitter.com/search?q=Asker) | N/A |
+| 44 | [Syns](http://twitter.com/search?q=Syns) | N/A |
+| 45 | [German](http://twitter.com/search?q=German) | N/A |
+| 46 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 47 | [måtte](http://twitter.com/search?q=m%c3%a5tte) | N/A |
+| 48 | [Sovjetunionen](http://twitter.com/search?q=Sovjetunionen) | N/A |
 
 
 

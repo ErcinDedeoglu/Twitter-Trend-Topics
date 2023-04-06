@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-04-06 21:17:10 UTC`
+📆 Last Updated: `2023-04-06 22:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#Finalissima](http://twitter.com/search?q=%23Finalissima) | N/A |
 | 2 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
 | 3 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
-| 4 | [#ENGBRA](http://twitter.com/search?q=%23ENGBRA) | N/A |
-| 5 | [Chloe Kelly](http://twitter.com/search?q=Chloe+Kelly) | N/A |
+| 4 | [Chloe Kelly](http://twitter.com/search?q=Chloe+Kelly) | N/A |
+| 5 | [#ENGBRA](http://twitter.com/search?q=%23ENGBRA) | N/A |
 | 6 | [#Taskmaster](http://twitter.com/search?q=%23Taskmaster) | N/A |
-| 7 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 8 | [#dragonsden](http://twitter.com/search?q=%23dragonsden) | N/A |
-| 9 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 10 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 11 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 13 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 14 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 15 | [Peter Wright](http://twitter.com/search?q=Peter+Wright) | N/A |
-| 16 | [Ella Toone](http://twitter.com/search?q=Ella+Toone) | N/A |
-| 17 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
-| 18 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
-| 19 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
-| 20 | [Sarina Wiegman](http://twitter.com/search?q=Sarina+Wiegman) | N/A |
+| 7 | [#riseandfall](http://twitter.com/search?q=%23riseandfall) | N/A |
+| 8 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 9 | [Joas](http://twitter.com/search?q=Joas) | N/A |
+| 10 | [Nora](http://twitter.com/search?q=Nora) | N/A |
+| 11 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 12 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 13 | [Peter Wright](http://twitter.com/search?q=Peter+Wright) | N/A |
+| 14 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 15 | [Sarina Wiegman](http://twitter.com/search?q=Sarina+Wiegman) | N/A |
+| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 17 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 18 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
+| 19 | [Leah Williamson](http://twitter.com/search?q=Leah+Williamson) | N/A |
+| 20 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
 | 21 | [Wakey](http://twitter.com/search?q=Wakey) | N/A |
-| 22 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 23 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 24 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 25 | [Leah Williamson](http://twitter.com/search?q=Leah+Williamson) | N/A |
-| 26 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 27 | [John Lydon](http://twitter.com/search?q=John+Lydon) | N/A |
-| 28 | [Wakefield](http://twitter.com/search?q=Wakefield) | N/A |
-| 29 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 30 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 31 | [Clayton](http://twitter.com/search?q=Clayton) | N/A |
-| 32 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 33 | [Saville](http://twitter.com/search?q=Saville) | N/A |
-| 34 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 35 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 36 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 37 | [Nicky](http://twitter.com/search?q=Nicky) | N/A |
-| 38 | [Clapham](http://twitter.com/search?q=Clapham) | N/A |
-| 39 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
-| 40 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 41 | [Season 3](http://twitter.com/search?q=Season+3) | N/A |
-| 42 | [Jack Harrison](http://twitter.com/search?q=Jack+Harrison) | N/A |
-| 43 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 44 | [Joanne](http://twitter.com/search?q=Joanne) | N/A |
-| 45 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 46 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 47 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 48 | [#FutureFoodStars](http://twitter.com/search?q=%23FutureFoodStars) | N/A |
-| 49 | [#SLCasWak](http://twitter.com/search?q=%23SLCasWak) | N/A |
-| 50 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 22 | [Clayton](http://twitter.com/search?q=Clayton) | N/A |
+| 23 | [Toone](http://twitter.com/search?q=Toone) | N/A |
+| 24 | [Wakefield](http://twitter.com/search?q=Wakefield) | N/A |
+| 25 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 26 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 27 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
+| 28 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 29 | [Saville](http://twitter.com/search?q=Saville) | N/A |
+| 30 | [Eddy](http://twitter.com/search?q=Eddy) | N/A |
+| 31 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 32 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 33 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 34 | [John Lydon](http://twitter.com/search?q=John+Lydon) | N/A |
+| 35 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 36 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 37 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 38 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 39 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
+| 40 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 41 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 42 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
+| 43 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 44 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 45 | [U18s](http://twitter.com/search?q=U18s) | N/A |
+| 46 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 47 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
+| 48 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 49 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 50 | [Clapham](http://twitter.com/search?q=Clapham) | N/A |
 
 
 

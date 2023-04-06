@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-06 21:18:11 UTC`
+📆 Last Updated: `2023-04-06 22:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Denmark
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Gorm](http://twitter.com/search?q=Gorm) | N/A |
-| 2 | [#vbfck](http://twitter.com/search?q=%23vbfck) | N/A |
-| 3 | [#dbupokalen](http://twitter.com/search?q=%23dbupokalen) | N/A |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [#vffaab](http://twitter.com/search?q=%23vffaab) | N/A |
-| 6 | [Vejle](http://twitter.com/search?q=Vejle) | N/A |
+| 2 | [Vejle](http://twitter.com/search?q=Vejle) | N/A |
+| 3 | [#SuperAaB](http://twitter.com/search?q=%23SuperAaB) | N/A |
+| 4 | [#Pokalen](http://twitter.com/search?q=%23Pokalen) | N/A |
+| 5 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 6 | [#vbfck](http://twitter.com/search?q=%23vbfck) | N/A |
 | 7 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
-| 8 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 9 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 10 | [#fcklive](http://twitter.com/search?q=%23fcklive) | N/A |
-| 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 12 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
-| 13 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 15 | [Silkeborg](http://twitter.com/search?q=Silkeborg) | N/A |
-| 16 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 17 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 20 | [mitid](http://twitter.com/search?q=mitid) | N/A |
-| 21 | [Sønderjyske](http://twitter.com/search?q=S%c3%b8nderjyske) | N/A |
-| 22 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 23 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 24 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 25 | [$NOMAD](http://twitter.com/search?q=%24NOMAD) | N/A |
-| 26 | [Nordjylland](http://twitter.com/search?q=Nordjylland) | N/A |
-| 27 | [Paludan](http://twitter.com/search?q=Paludan) | N/A |
-| 28 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 29 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 30 | [mette frederiksens](http://twitter.com/search?q=mette+frederiksens) | N/A |
-| 31 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 32 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 33 | [Staten](http://twitter.com/search?q=Staten) | N/A |
-| 34 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 35 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 36 | [forbyd](http://twitter.com/search?q=forbyd) | N/A |
-| 37 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 38 | [Skat](http://twitter.com/search?q=Skat) | N/A |
-| 39 | [Jeps](http://twitter.com/search?q=Jeps) | N/A |
-| 40 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 41 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 42 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 43 | [Horsens](http://twitter.com/search?q=Horsens) | N/A |
-| 44 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 45 | [jesper møller](http://twitter.com/search?q=jesper+m%c3%b8ller) | N/A |
-| 46 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 47 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 48 | [Siger](http://twitter.com/search?q=Siger) | N/A |
-| 49 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 50 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 9 | [Silkeborg](http://twitter.com/search?q=Silkeborg) | N/A |
+| 10 | [Randers](http://twitter.com/search?q=Randers) | N/A |
+| 11 | [#vffaab](http://twitter.com/search?q=%23vffaab) | N/A |
+| 12 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 13 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 14 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 15 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 16 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 17 | [Fedt](http://twitter.com/search?q=Fedt) | N/A |
+| 18 | [Lyngby](http://twitter.com/search?q=Lyngby) | N/A |
+| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 20 | [#fcklive](http://twitter.com/search?q=%23fcklive) | N/A |
+| 21 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 23 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 24 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 25 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 26 | [mitid](http://twitter.com/search?q=mitid) | N/A |
+| 27 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 28 | [århus](http://twitter.com/search?q=%c3%a5rhus) | N/A |
+| 29 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 30 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 31 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 32 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 33 | [Nordjylland](http://twitter.com/search?q=Nordjylland) | N/A |
+| 34 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 35 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
+| 36 | [Brian](http://twitter.com/search?q=Brian) | N/A |
+| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 38 | [Danish](http://twitter.com/search?q=Danish) | N/A |
+| 39 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 40 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 41 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 42 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 43 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 44 | [christiansborg](http://twitter.com/search?q=christiansborg) | N/A |
+| 45 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 46 | [Roskilde](http://twitter.com/search?q=Roskilde) | N/A |
+| 47 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 48 | [ekstra bladet](http://twitter.com/search?q=ekstra+bladet) | N/A |
+| 49 | [Staten](http://twitter.com/search?q=Staten) | N/A |
+| 50 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
 
 
 
