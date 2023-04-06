@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kanpur
 
-📆 Last Updated: `2023-04-06 15:17:45 UTC`
+📆 Last Updated: `2023-04-06 16:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KKRvsRCB](http://twitter.com/search?q=%23KKRvsRCB) | N/A |
-| 2 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 3 | [#RarioPeFanJeetega](http://twitter.com/search?q=%23RarioPeFanJeetega) | N/A |
-| 4 | [Willey](http://twitter.com/search?q=Willey) | N/A |
-| 5 | [#1947August16FromTomorrow](http://twitter.com/search?q=%231947August16FromTomorrow) | N/A |
+| 1 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 2 | [#KKRvRCB](http://twitter.com/search?q=%23KKRvRCB) | N/A |
+| 3 | [Lord Shardul](http://twitter.com/search?q=Lord+Shardul) | Lord Shardul is a Hindu deity associated with strength and courage. He is the son of Shiva and Parvati, and is often depicted as a lion or tiger. The name Shardul translates to "tiger" in English. |
+| 4 | [#MazaarJihad](http://twitter.com/search?q=%23MazaarJihad) | N/A |
+| 5 | [Russell](http://twitter.com/search?q=Russell) | N/A |
 | 6 | [#ForeignFundingExposed](http://twitter.com/search?q=%23ForeignFundingExposed) | N/A |
 | 7 | [Sterlite Copper](http://twitter.com/search?q=Sterlite+Copper) | N/A |
-| 8 | [#Suriya42](http://twitter.com/search?q=%23Suriya42) | N/A |
-| 9 | [Karn Sharma](http://twitter.com/search?q=Karn+Sharma) | N/A |
-| 10 | [Mandeep Singh](http://twitter.com/search?q=Mandeep+Singh) | N/A |
-| 11 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
-| 12 | [Eden Gardens](http://twitter.com/search?q=Eden+Gardens) | N/A |
-| 13 | [Riley Meredith](http://twitter.com/search?q=Riley+Meredith) | N/A |
-| 14 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
-| 15 | [Venkatesh Iyer](http://twitter.com/search?q=Venkatesh+Iyer) | N/A |
-| 16 | [Nitish Rana](http://twitter.com/search?q=Nitish+Rana) | N/A |
-| 17 | [Reece Topley](http://twitter.com/search?q=Reece+Topley) | N/A |
-| 18 | [RAGE OF RAVANASURA](http://twitter.com/search?q=RAGE+OF+RAVANASURA) | N/A |
-| 19 | [Jhye Richardson](http://twitter.com/search?q=Jhye+Richardson) | N/A |
-| 20 | [King Khan](http://twitter.com/search?q=King+Khan) | N/A |
-| 21 | [अनिल एंटनी](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%bf%e0%a4%b2+%e0%a4%8f%e0%a4%82%e0%a4%9f%e0%a4%a8%e0%a5%80) | N/A |
+| 8 | [Willey](http://twitter.com/search?q=Willey) | N/A |
+| 9 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
+| 10 | [#1947August16FromTomorrow](http://twitter.com/search?q=%231947August16FromTomorrow) | N/A |
+| 11 | [Rinku](http://twitter.com/search?q=Rinku) | N/A |
+| 12 | [#Suriya42](http://twitter.com/search?q=%23Suriya42) | N/A |
+| 13 | [Karn Sharma](http://twitter.com/search?q=Karn+Sharma) | N/A |
+| 14 | [BJP Against OBC](http://twitter.com/search?q=BJP+Against+OBC) | N/A |
+| 15 | [Harshal Patel](http://twitter.com/search?q=Harshal+Patel) | Harshal Patel is an Indian surname. It is derived from the Sanskrit words "harsha" meaning joy and "pati" meaning lord or master. The literal translation of the name is "lord of joy". |
+| 16 | [Eden Gardens](http://twitter.com/search?q=Eden+Gardens) | N/A |
+| 17 | [Mandeep Singh](http://twitter.com/search?q=Mandeep+Singh) | N/A |
+| 18 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
+| 19 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
+| 20 | [Akash Deep](http://twitter.com/search?q=Akash+Deep) | N/A |
+| 21 | [Reece Topley](http://twitter.com/search?q=Reece+Topley) | N/A |
 | 22 | [Narine](http://twitter.com/search?q=Narine) | N/A |
-| 23 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 24 | [Sudeep](http://twitter.com/search?q=Sudeep) | N/A |
-| 25 | [Venky](http://twitter.com/search?q=Venky) | N/A |
-| 26 | [Oxfam India](http://twitter.com/search?q=Oxfam+India) | N/A |
-| 27 | [Sidhu](http://twitter.com/search?q=Sidhu) | N/A |
-| 28 | [Super Frank](http://twitter.com/search?q=Super+Frank) | N/A |
-| 29 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 30 | [syedna case](http://twitter.com/search?q=syedna+case) | N/A |
-| 31 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 32 | [6.71 HD](http://twitter.com/search?q=6.71+HD) | N/A |
-| 33 | [World Health Day](http://twitter.com/search?q=World+Health+Day) | N/A |
-| 34 | [Prakash](http://twitter.com/search?q=Prakash) | N/A |
-| 35 | [Sushant A Game Changer](http://twitter.com/search?q=Sushant+A+Game+Changer) | N/A |
-| 36 | [MKJW SHIELD OF MUNAWAR](http://twitter.com/search?q=MKJW+SHIELD+OF+MUNAWAR) | N/A |
-| 37 | [परमेश्वर कबीर](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
-| 38 | [हनुमान मंदिर](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
-| 39 | [तमिलनाडु पुलिस](http://twitter.com/search?q=%e0%a4%a4%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8%e0%a4%be%e0%a4%a1%e0%a5%81+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 40 | [हनुमान भक्त](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
-| 41 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 42 | [Manish Kashyap](http://twitter.com/search?q=Manish+Kashyap) | N/A |
-| 43 | [Padma Shri](http://twitter.com/search?q=Padma+Shri) | Padma Shri is an Indian civilian award given by the Government of India. It is the fourth highest civilian award in India, after the Bharat Ratna, the Padma Vibhushan and the Padma Bhushan. The award is given to recognize distinguished service of a high order to the nation in any field including art, literature, education, science, sports, medicine, social service and public affairs. The literal meaning of Padma Shri in English is "Lotus Honor". |
-| 44 | [पूर्व रक्षा मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 45 | [Jay Hanuman](http://twitter.com/search?q=Jay+Hanuman) | N/A |
-| 46 | [Hanuman Chalisa](http://twitter.com/search?q=Hanuman+Chalisa) | N/A |
-| 47 | [Scindia](http://twitter.com/search?q=Scindia) | N/A |
-| 48 | [सृष्टि रचना](http://twitter.com/search?q=%e0%a4%b8%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%bf+%e0%a4%b0%e0%a4%9a%e0%a4%a8%e0%a4%be) | N/A |
-| 49 | [EVMs](http://twitter.com/search?q=EVMs) | N/A |
+| 23 | [Riley Meredith](http://twitter.com/search?q=Riley+Meredith) | N/A |
+| 24 | [Venkatesh Iyer](http://twitter.com/search?q=Venkatesh+Iyer) | N/A |
+| 25 | [Nitish Rana](http://twitter.com/search?q=Nitish+Rana) | N/A |
+| 26 | [Sudeep](http://twitter.com/search?q=Sudeep) | N/A |
+| 27 | [King Khan](http://twitter.com/search?q=King+Khan) | N/A |
+| 28 | [Prakash](http://twitter.com/search?q=Prakash) | N/A |
+| 29 | [RAGE OF RAVANASURA](http://twitter.com/search?q=RAGE+OF+RAVANASURA) | N/A |
+| 30 | [Venky](http://twitter.com/search?q=Venky) | N/A |
+| 31 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
+| 32 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 33 | [Match 9](http://twitter.com/search?q=Match+9) | N/A |
+| 34 | [अनिल एंटनी](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%bf%e0%a4%b2+%e0%a4%8f%e0%a4%82%e0%a4%9f%e0%a4%a8%e0%a5%80) | N/A |
+| 35 | [Super Frank](http://twitter.com/search?q=Super+Frank) | N/A |
+| 36 | [World Health Day](http://twitter.com/search?q=World+Health+Day) | N/A |
+| 37 | [निर्वाचन क्षेत्र](http://twitter.com/search?q=%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%9a%e0%a4%a8+%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%87%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
+| 38 | [पूजा अर्चना](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%9c%e0%a4%be+%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%9a%e0%a4%a8%e0%a4%be) | N/A |
+| 39 | [MKJW SHIELD OF MUNAWAR](http://twitter.com/search?q=MKJW+SHIELD+OF+MUNAWAR) | N/A |
+| 40 | [पूर्व रक्षा मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 41 | [हनुमान मंदिर](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
+| 42 | [दिव्य दृष्टि](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%bf) | N/A |
+| 43 | [#RarioPeFanJeetega](http://twitter.com/search?q=%23RarioPeFanJeetega) | N/A |
+| 44 | [#GetOutRavi](http://twitter.com/search?q=%23GetOutRavi) | #GetOutRavi is a hashtag used to express support for the Indian student Ravi Kumar, who was detained by US immigration authorities in 2019. The hashtag is used to call for his release and to raise awareness of his case. |
+| 45 | [#IPL23](http://twitter.com/search?q=%23IPL23) | N/A |
+| 46 | [#PawanKalyanAtNITWarangal](http://twitter.com/search?q=%23PawanKalyanAtNITWarangal) | N/A |
+| 47 | [#AmiKKR](http://twitter.com/search?q=%23AmiKKR) | N/A |
+| 48 | [#IPLinHindi](http://twitter.com/search?q=%23IPLinHindi) | N/A |
+| 49 | [#ShahRukhKhan](http://twitter.com/search?q=%23ShahRukhKhan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-04-06 15:17:16 UTC`
+📆 Last Updated: `2023-04-06 16:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
-| 2 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 3 | [#JuevesSanto](http://twitter.com/search?q=%23JuevesSanto) | N/A |
 | 4 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 5 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 | 6 | [Desarrollo y la Paz](http://twitter.com/search?q=Desarrollo+y+la+Paz) | N/A |
-| 7 | [#DeBuenasconMiguel](http://twitter.com/search?q=%23DeBuenasconMiguel) | N/A |
+| 7 | [#timoresponde](http://twitter.com/search?q=%23timoresponde) | N/A |
 | 8 | [Día Internacional del Deporte](http://twitter.com/search?q=D%c3%ada+Internacional+del+Deporte) | N/A |
-| 9 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 9 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
 | 10 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 11 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 12 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
+| 11 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 12 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 13 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 14 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 15 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 16 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
-| 17 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 18 | [#BonoAllStar](http://twitter.com/search?q=%23BonoAllStar) | N/A |
+| 14 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 15 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 16 | [#BonoAllStar](http://twitter.com/search?q=%23BonoAllStar) | N/A |
+| 17 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 18 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 19 | [Eucaristía](http://twitter.com/search?q=Eucarist%c3%ada) | N/A |
-| 20 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 20 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 21 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 22 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 23 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
-| 24 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 25 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
-| 26 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 27 | [no queremos perderte emilio](http://twitter.com/search?q=no+queremos+perderte+emilio) | N/A |
-| 28 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 29 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 30 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 31 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 32 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 33 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 34 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 35 | [Nacionalización](http://twitter.com/search?q=Nacionalizaci%c3%b3n) | N/A |
-| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 37 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 38 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 39 | [El 6](http://twitter.com/search?q=El+6) | N/A |
-| 40 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 41 | [Última Cena](http://twitter.com/search?q=%c3%9altima+Cena) | N/A |
-| 42 | [jorge sánchez](http://twitter.com/search?q=jorge+s%c3%a1nchez) | N/A |
-| 43 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 44 | [Asesinato](http://twitter.com/search?q=Asesinato) | N/A |
-| 45 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 46 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
-| 47 | [Edson](http://twitter.com/search?q=Edson) | N/A |
-| 48 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 49 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
-| 50 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 22 | [Mao Ning](http://twitter.com/search?q=Mao+Ning) | N/A |
+| 23 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 24 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 25 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 26 | [Isaac Asimov](http://twitter.com/search?q=Isaac+Asimov) | N/A |
+| 27 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 28 | [Leonora Carrington](http://twitter.com/search?q=Leonora+Carrington) | N/A |
+| 29 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
+| 30 | [no queremos perderte emilio](http://twitter.com/search?q=no+queremos+perderte+emilio) | N/A |
+| 31 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 32 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
+| 33 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 34 | [El Principito](http://twitter.com/search?q=El+Principito) | N/A |
+| 35 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 36 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 37 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 38 | [Nacionalización](http://twitter.com/search?q=Nacionalizaci%c3%b3n) | N/A |
+| 39 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 40 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
+| 41 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 42 | [Chula Vista](http://twitter.com/search?q=Chula+Vista) | N/A |
+| 43 | [Última Cena](http://twitter.com/search?q=%c3%9altima+Cena) | N/A |
+| 44 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 45 | [Asesinato](http://twitter.com/search?q=Asesinato) | N/A |
+| 46 | [Edson](http://twitter.com/search?q=Edson) | N/A |
+| 47 | [LETRINUS](http://twitter.com/search?q=LETRINUS) | N/A |
+| 48 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 49 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
+| 50 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sagamihara
 
-📆 Last Updated: `2023-04-06 15:17:34 UTC`
+📆 Last Updated: `2023-04-06 16:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#baystars](http://twitter.com/search?q=%23baystars) | N/A |
-| 2 | [まけほー](http://twitter.com/search?q=%e3%81%be%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
-| 3 | [#コアラジ](http://twitter.com/search?q=%23%e3%82%b3%e3%82%a2%e3%83%a9%e3%82%b8) | N/A |
-| 4 | [#関内デビル](http://twitter.com/search?q=%23%e9%96%a2%e5%86%85%e3%83%87%e3%83%93%e3%83%ab) | N/A |
-| 5 | [くっすー](http://twitter.com/search?q=%e3%81%8f%e3%81%a3%e3%81%99%e3%83%bc) | N/A |
-| 6 | [ヤスアキ](http://twitter.com/search?q=%e3%83%a4%e3%82%b9%e3%82%a2%e3%82%ad) | ヤスアキ is a Japanese phrase meaning "Let's go!" It is often used as an expression of enthusiasm or encouragement. |
-| 7 | [関根くん](http://twitter.com/search?q=%e9%96%a2%e6%a0%b9%e3%81%8f%e3%82%93) | N/A |
-| 8 | [アーさん](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%81%95%e3%82%93) | N/A |
-| 9 | [ナイスゲーム](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%82%b9%e3%82%b2%e3%83%bc%e3%83%a0) | ナイスゲーム (naisu geemu) is a Japanese phrase that translates to "nice game" in English. It is typically used as a congratulatory phrase after a game or match has been completed. |
-| 10 | [新井監督](http://twitter.com/search?q=%e6%96%b0%e4%ba%95%e7%9b%a3%e7%9d%a3) | N/A |
-| 11 | [#名人戦](http://twitter.com/search?q=%23%e5%90%8d%e4%ba%ba%e6%88%a6) | N/A |
-| 12 | [相葉くん](http://twitter.com/search?q=%e7%9b%b8%e8%91%89%e3%81%8f%e3%82%93) | 相葉くん is a nickname for Japanese singer and actor Masaki Aiba, who is a member of the popular boy band Arashi. The name roughly translates to "Mr. Aiba" in English. |
-| 13 | [オリックス](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 14 | [カード勝ち越し](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%89%e5%8b%9d%e3%81%a1%e8%b6%8a%e3%81%97) | N/A |
-| 15 | [藤井竜王](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%ab%9c%e7%8e%8b) | N/A |
-| 16 | [バイトコンテスト](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%88%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88) | N/A |
-| 17 | [タトゥー](http://twitter.com/search?q=%e3%82%bf%e3%83%88%e3%82%a5%e3%83%bc) | N/A |
-| 18 | [シュアイボ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%82%a2%e3%82%a4%e3%83%9c) | N/A |
-| 19 | [バイトチームコンテスト](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%88%e3%83%81%e3%83%bc%e3%83%a0%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88) | N/A |
-| 20 | [ミンギュ](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%82%ae%e3%83%a5) | ミンギュ is a type of Korean traditional dance. It is a combination of singing and dancing, and it is usually performed at festivals or special occasions. In English, it can be translated as "folk dance". |
-| 21 | [行方不明](http://twitter.com/search?q=%e8%a1%8c%e6%96%b9%e4%b8%8d%e6%98%8e) | N/A |
-| 22 | [ヘルシェイク矢野](http://twitter.com/search?q=%e3%83%98%e3%83%ab%e3%82%b7%e3%82%a7%e3%82%a4%e3%82%af%e7%9f%a2%e9%87%8e) | ヘルシェイク矢野 is a Japanese phrase that translates to "Yano of Hellshake". It is the name of a Japanese rock band formed in the late 1980s. The band's music is a mix of hard rock, punk, and metal. |
-| 23 | [ランドセル](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%89%e3%82%bb%e3%83%ab) | N/A |
-| 24 | [新井さん](http://twitter.com/search?q=%e6%96%b0%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 25 | [ランパード](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%91%e3%83%bc%e3%83%89) | ランパード (ranpādo) is a Japanese word that refers to a type of traditional Japanese clothing. It is a long, loose-fitting robe with wide sleeves and a sash around the waist. The word comes from the Portuguese word "ramparte," which means "protective wall." In English, it is sometimes referred to as a kimono robe. |
-| 26 | [ピッチクロック](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%83%81%e3%82%af%e3%83%ad%e3%83%83%e3%82%af) | N/A |
-| 27 | [ソフトバンク](http://twitter.com/search?q=%e3%82%bd%e3%83%95%e3%83%88%e3%83%90%e3%83%b3%e3%82%af) | ソフトバンク is a Japanese telecommunications company that provides mobile phone, fixed-line telephone, internet, and IPTV services. In English, it is known as SoftBank. |
-| 28 | [学校生活](http://twitter.com/search?q=%e5%ad%a6%e6%a0%a1%e7%94%9f%e6%b4%bb) | N/A |
-| 29 | [書き出し](http://twitter.com/search?q=%e6%9b%b8%e3%81%8d%e5%87%ba%e3%81%97) | N/A |
-| 30 | [高校生活](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e7%94%9f%e6%b4%bb) | N/A |
-| 31 | [ピンクムーン](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%83%a0%e3%83%bc%e3%83%b3) | N/A |
-| 32 | [どらほー](http://twitter.com/search?q=%e3%81%a9%e3%82%89%e3%81%bb%e3%83%bc) | N/A |
-| 33 | [おりほー](http://twitter.com/search?q=%e3%81%8a%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
-| 34 | [エレメント](http://twitter.com/search?q=%e3%82%a8%e3%83%ac%e3%83%a1%e3%83%b3%e3%83%88) | エレメント is a Japanese word that means "element" in English. It is used to refer to the basic components of something, such as the elements of a chemical compound or the elements of a mathematical equation. |
-| 35 | [デュナメス](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%83%8a%e3%83%a1%e3%82%b9) | N/A |
-| 36 | [チッケム](http://twitter.com/search?q=%e3%83%81%e3%83%83%e3%82%b1%e3%83%a0) | N/A |
-| 37 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
-| 38 | [ドクスト](http://twitter.com/search?q=%e3%83%89%e3%82%af%e3%82%b9%e3%83%88) | N/A |
-| 39 | [侍ジャパン芸人](http://twitter.com/search?q=%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3%e8%8a%b8%e4%ba%ba) | N/A |
-| 40 | [消しゴムマジック](http://twitter.com/search?q=%e6%b6%88%e3%81%97%e3%82%b4%e3%83%a0%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af) | N/A |
-| 41 | [ジャンハオ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%8f%e3%82%aa) | N/A |
-| 42 | [那須くん](http://twitter.com/search?q=%e9%82%a3%e9%a0%88%e3%81%8f%e3%82%93) | 那須くん is a nickname for the Japanese professional baseball player, Naoyuki Shimizu. It is a combination of his given name and the Japanese honorific suffix “-kun”, which is used to refer to young boys or close friends. In English, it would be translated as “Naoyuki-kun”. |
-| 43 | [ムロフェス](http://twitter.com/search?q=%e3%83%a0%e3%83%ad%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 44 | [ドクターストーン](http://twitter.com/search?q=%e3%83%89%e3%82%af%e3%82%bf%e3%83%bc%e3%82%b9%e3%83%88%e3%83%bc%e3%83%b3) | N/A |
-| 45 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 46 | [嵐ヘリウム事件](http://twitter.com/search?q=%e5%b5%90%e3%83%98%e3%83%aa%e3%82%a6%e3%83%a0%e4%ba%8b%e4%bb%b6) | N/A |
-| 47 | [フランソワ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%b3%e3%82%bd%e3%83%af) | N/A |
-| 48 | [学校の怪談](http://twitter.com/search?q=%e5%ad%a6%e6%a0%a1%e3%81%ae%e6%80%aa%e8%ab%87) | N/A |
+| 1 | [#コアラジ](http://twitter.com/search?q=%23%e3%82%b3%e3%82%a2%e3%83%a9%e3%82%b8) | N/A |
+| 2 | [#関内デビル](http://twitter.com/search?q=%23%e9%96%a2%e5%86%85%e3%83%87%e3%83%93%e3%83%ab) | N/A |
+| 3 | [アーさん](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%81%95%e3%82%93) | N/A |
+| 4 | [#VS魂](http://twitter.com/search?q=%23VS%e9%ad%82) | #VS魂 is a hashtag used by Japanese gamers to express their enthusiasm for playing video games. It translates to "Soul of VS" and is used to show their passion for competing against others in video games. |
+| 5 | [降雨コールド](http://twitter.com/search?q=%e9%99%8d%e9%9b%a8%e3%82%b3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
+| 6 | [相葉くん](http://twitter.com/search?q=%e7%9b%b8%e8%91%89%e3%81%8f%e3%82%93) | 相葉くん is a nickname for Japanese singer and actor Masaki Aiba, who is a member of the popular boy band Arashi. The name roughly translates to "Mr. Aiba" in English. |
+| 7 | [陸自ヘリ](http://twitter.com/search?q=%e9%99%b8%e8%87%aa%e3%83%98%e3%83%aa) | N/A |
+| 8 | [リッキー](http://twitter.com/search?q=%e3%83%aa%e3%83%83%e3%82%ad%e3%83%bc) | リッキー (Rikki) is a Japanese given name, usually used for boys. It is derived from the English name Ricky and can be translated to mean "powerful ruler". |
+| 9 | [カード勝ち越し](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%89%e5%8b%9d%e3%81%a1%e8%b6%8a%e3%81%97) | N/A |
+| 10 | [#SOI2023横浜](http://twitter.com/search?q=%23SOI2023%e6%a8%aa%e6%b5%9c) | N/A |
+| 11 | [藤井竜王](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%ab%9c%e7%8e%8b) | N/A |
+| 12 | [タトゥー](http://twitter.com/search?q=%e3%82%bf%e3%83%88%e3%82%a5%e3%83%bc) | N/A |
+| 13 | [バイトチームコンテスト](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%88%e3%83%81%e3%83%bc%e3%83%a0%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88) | N/A |
+| 14 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
+| 15 | [ミンギュ](http://twitter.com/search?q=%e3%83%9f%e3%83%b3%e3%82%ae%e3%83%a5) | ミンギュ is a type of Korean traditional dance. It is a combination of singing and dancing, and it is usually performed at festivals or special occasions. In English, it can be translated as "folk dance". |
+| 16 | [行方不明](http://twitter.com/search?q=%e8%a1%8c%e6%96%b9%e4%b8%8d%e6%98%8e) | N/A |
+| 17 | [ヘルシェイク矢野](http://twitter.com/search?q=%e3%83%98%e3%83%ab%e3%82%b7%e3%82%a7%e3%82%a4%e3%82%af%e7%9f%a2%e9%87%8e) | ヘルシェイク矢野 is a Japanese phrase that translates to "Yano of Hellshake". It is the name of a Japanese rock band formed in the late 1980s. The band's music is a mix of hard rock, punk, and metal. |
+| 18 | [新井さん](http://twitter.com/search?q=%e6%96%b0%e4%ba%95%e3%81%95%e3%82%93) | N/A |
+| 19 | [関根くん](http://twitter.com/search?q=%e9%96%a2%e6%a0%b9%e3%81%8f%e3%82%93) | N/A |
+| 20 | [ピッチクロック](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%83%81%e3%82%af%e3%83%ad%e3%83%83%e3%82%af) | N/A |
+| 21 | [学校生活](http://twitter.com/search?q=%e5%ad%a6%e6%a0%a1%e7%94%9f%e6%b4%bb) | N/A |
+| 22 | [高校生活](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e7%94%9f%e6%b4%bb) | N/A |
+| 23 | [ピンクムーン](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%83%a0%e3%83%bc%e3%83%b3) | N/A |
+| 24 | [第441回](http://twitter.com/search?q=%e7%ac%ac441%e5%9b%9e) | N/A |
+| 25 | [おうじひろし](http://twitter.com/search?q=%e3%81%8a%e3%81%86%e3%81%98%e3%81%b2%e3%82%8d%e3%81%97) | N/A |
+| 26 | [デュナメス](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%83%8a%e3%83%a1%e3%82%b9) | N/A |
+| 27 | [スタミュ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%9f%e3%83%a5) | N/A |
+| 28 | [carat盤](http://twitter.com/search?q=carat%e7%9b%a4) | N/A |
+| 29 | [おりほー](http://twitter.com/search?q=%e3%81%8a%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
+| 30 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
+| 31 | [ドクスト](http://twitter.com/search?q=%e3%83%89%e3%82%af%e3%82%b9%e3%83%88) | N/A |
+| 32 | [チッケム](http://twitter.com/search?q=%e3%83%81%e3%83%83%e3%82%b1%e3%83%a0) | N/A |
+| 33 | [侍ジャパン芸人](http://twitter.com/search?q=%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3%e8%8a%b8%e4%ba%ba) | N/A |
+| 34 | [どらほー](http://twitter.com/search?q=%e3%81%a9%e3%82%89%e3%81%bb%e3%83%bc) | N/A |
+| 35 | [エレメント](http://twitter.com/search?q=%e3%82%a8%e3%83%ac%e3%83%a1%e3%83%b3%e3%83%88) | エレメント is a Japanese word that means "element" in English. It is used to refer to the basic components of something, such as the elements of a chemical compound or the elements of a mathematical equation. |
+| 36 | [消しゴムマジック](http://twitter.com/search?q=%e6%b6%88%e3%81%97%e3%82%b4%e3%83%a0%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af) | N/A |
+| 37 | [アイスボックス](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%9c%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 38 | [ドクターストーン](http://twitter.com/search?q=%e3%83%89%e3%82%af%e3%82%bf%e3%83%bc%e3%82%b9%e3%83%88%e3%83%bc%e3%83%b3) | N/A |
+| 39 | [ムロフェス](http://twitter.com/search?q=%e3%83%a0%e3%83%ad%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 40 | [ジャンハオ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%8f%e3%82%aa) | N/A |
+| 41 | [フランソワ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%b3%e3%82%bd%e3%83%af) | N/A |
+| 42 | [クラスLINE](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b9LINE) | N/A |
+| 43 | [学校の怪談](http://twitter.com/search?q=%e5%ad%a6%e6%a0%a1%e3%81%ae%e6%80%aa%e8%ab%87) | N/A |
+| 44 | [嵐ヘリウム事件](http://twitter.com/search?q=%e5%b5%90%e3%83%98%e3%83%aa%e3%82%a6%e3%83%a0%e4%ba%8b%e4%bb%b6) | N/A |
+| 45 | [那須くん](http://twitter.com/search?q=%e9%82%a3%e9%a0%88%e3%81%8f%e3%82%93) | 那須くん is a nickname for the Japanese professional baseball player, Naoyuki Shimizu. It is a combination of his given name and the Japanese honorific suffix “-kun”, which is used to refer to young boys or close friends. In English, it would be translated as “Naoyuki-kun”. |
+| 46 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 47 | [美和ちゃん](http://twitter.com/search?q=%e7%be%8e%e5%92%8c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 48 | [猿川くん](http://twitter.com/search?q=%e7%8c%bf%e5%b7%9d%e3%81%8f%e3%82%93) | N/A |
 | 49 | [ブリティッシュベイクオフ](http://twitter.com/search?q=%e3%83%96%e3%83%aa%e3%83%86%e3%82%a3%e3%83%83%e3%82%b7%e3%83%a5%e3%83%99%e3%82%a4%e3%82%af%e3%82%aa%e3%83%95) | N/A |
 
 

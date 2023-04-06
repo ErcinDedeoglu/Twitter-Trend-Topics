@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-04-06 15:17:52 UTC`
+📆 Last Updated: `2023-04-06 16:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 3 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 4 | [#MoodPitch](http://twitter.com/search?q=%23MoodPitch) | N/A |
-| 5 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 6 | [Kevin Na](http://twitter.com/search?q=Kevin+Na) | N/A |
-| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 1 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 2 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 3 | [#MaziOnBitmart](http://twitter.com/search?q=%23MaziOnBitmart) | N/A |
+| 4 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 5 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 6 | [#MoodPitch](http://twitter.com/search?q=%23MoodPitch) | N/A |
+| 7 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
 | 8 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
 | 9 | [#NationalStudentAthleteDay](http://twitter.com/search?q=%23NationalStudentAthleteDay) | N/A |
-| 10 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 11 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
-| 12 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
-| 13 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 14 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 15 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 16 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 10 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 11 | [Kevin Na](http://twitter.com/search?q=Kevin+Na) | N/A |
+| 12 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 13 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
+| 14 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 15 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 16 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
 | 17 | [Bohemian Grove](http://twitter.com/search?q=Bohemian+Grove) | N/A |
-| 18 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 19 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 20 | [John Roberts](http://twitter.com/search?q=John+Roberts) | N/A |
-| 21 | [ProPublica](http://twitter.com/search?q=ProPublica) | N/A |
-| 22 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 23 | [Uncle Remus](http://twitter.com/search?q=Uncle+Remus) | N/A |
-| 24 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
-| 25 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 26 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
-| 27 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 28 | [Progress](http://twitter.com/search?q=Progress) | N/A |
-| 29 | [CBDQ](http://twitter.com/search?q=CBDQ) | N/A |
-| 30 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
-| 31 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 32 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 33 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 34 | [Chicken Biscuit](http://twitter.com/search?q=Chicken+Biscuit) | N/A |
-| 35 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
-| 36 | [Athleta](http://twitter.com/search?q=Athleta) | N/A |
-| 37 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 38 | [Leonard Leo](http://twitter.com/search?q=Leonard+Leo) | N/A |
-| 39 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
-| 40 | [Scalia](http://twitter.com/search?q=Scalia) | N/A |
-| 41 | [Mike Weir](http://twitter.com/search?q=Mike+Weir) | N/A |
-| 42 | [Hagler](http://twitter.com/search?q=Hagler) | N/A |
-| 43 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 44 | [Engine](http://twitter.com/search?q=Engine) | N/A |
-| 45 | [JO KWON](http://twitter.com/search?q=JO+KWON) | N/A |
-| 46 | [Anheuser-Busch](http://twitter.com/search?q=Anheuser-Busch) | N/A |
-| 47 | [Justices](http://twitter.com/search?q=Justices) | Justices is a term used to refer to judges in the legal system. It is also used to refer to members of the Supreme Court of the United States. Justices are responsible for interpreting and applying laws, as well as ruling on cases brought before them. |
-| 48 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 49 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 50 | [Thiem](http://twitter.com/search?q=Thiem) | Thiem is a surname of German origin. It is derived from the Old German word "diem" meaning "people". The name is most commonly found in Germany, Austria, and Switzerland. |
+| 18 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 19 | [ProPublica](http://twitter.com/search?q=ProPublica) | N/A |
+| 20 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 21 | [Uncle Remus](http://twitter.com/search?q=Uncle+Remus) | N/A |
+| 22 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 23 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 24 | [John Roberts](http://twitter.com/search?q=John+Roberts) | N/A |
+| 25 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 26 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 27 | [Cameron Young](http://twitter.com/search?q=Cameron+Young) | N/A |
+| 28 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 29 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 30 | [Cam Young](http://twitter.com/search?q=Cam+Young) | N/A |
+| 31 | [Ginni](http://twitter.com/search?q=Ginni) | N/A |
+| 32 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 33 | [Engine](http://twitter.com/search?q=Engine) | N/A |
+| 34 | [Oakley](http://twitter.com/search?q=Oakley) | N/A |
+| 35 | [CBDQ](http://twitter.com/search?q=CBDQ) | N/A |
+| 36 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
+| 37 | [Justices](http://twitter.com/search?q=Justices) | Justices is a term used to refer to judges in the legal system. It is also used to refer to members of the Supreme Court of the United States. Justices are responsible for interpreting and applying laws, as well as ruling on cases brought before them. |
+| 38 | [Scalia](http://twitter.com/search?q=Scalia) | N/A |
+| 39 | [Icebox](http://twitter.com/search?q=Icebox) | N/A |
+| 40 | [Progress](http://twitter.com/search?q=Progress) | N/A |
+| 41 | [Fed Now](http://twitter.com/search?q=Fed+Now) | N/A |
+| 42 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 43 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
+| 44 | [Athleta](http://twitter.com/search?q=Athleta) | N/A |
+| 45 | [Sotomayor](http://twitter.com/search?q=Sotomayor) | N/A |
+| 46 | [Hagler](http://twitter.com/search?q=Hagler) | N/A |
+| 47 | [Pomerantz](http://twitter.com/search?q=Pomerantz) | N/A |
+| 48 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 49 | [Isiah](http://twitter.com/search?q=Isiah) | N/A |
+| 50 | [Chicken Biscuit](http://twitter.com/search?q=Chicken+Biscuit) | N/A |
 
 
 

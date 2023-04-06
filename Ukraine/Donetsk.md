@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Donetsk
 
-📆 Last Updated: `2023-04-06 15:17:30 UTC`
+📆 Last Updated: `2023-04-06 16:16:59 UTC`
 
 🔧 Updated every 1 hour!
 

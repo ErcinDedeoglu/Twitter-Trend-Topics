@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-06 15:17:49 UTC`
+📆 Last Updated: `2023-04-06 16:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,12 +24,12 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 7 | [#NRLStormRoosters](http://twitter.com/search?q=%23NRLStormRoosters) | N/A |
 | 8 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 9 | [Northland](http://twitter.com/search?q=Northland) | N/A |
-| 10 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
-| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 12 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
+| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 11 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
+| 12 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
 | 13 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 14 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 15 | [RBNZ](http://twitter.com/search?q=RBNZ) | N/A |
+| 15 | [rbnz](http://twitter.com/search?q=rbnz) | N/A |
 | 16 | [ryan fox](http://twitter.com/search?q=ryan+fox) | N/A |
 | 17 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
 | 18 | [Kane Williamson](http://twitter.com/search?q=Kane+Williamson) | Kane Williamson is a New Zealand cricketer who is the current captain of the New Zealand national team. He is a right-handed batsman and an occasional off-spin bowler. He has scored over 10,000 runs in international cricket and holds the record for most centuries by a New Zealander in Test cricket. |

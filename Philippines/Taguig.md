@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-04-06 15:17:38 UTC`
+📆 Last Updated: `2023-04-06 16:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [#IWannaStayWithGYU](http://twitter.com/search?q=%23IWannaStayWithGYU) | N/A |
 | 3 | [#민규생일은_아름답기를_따뜻하길](http://twitter.com/search?q=%23%eb%af%bc%ea%b7%9c%ec%83%9d%ec%9d%bc%ec%9d%80_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b8%b0%eb%a5%bc_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b8%b8) | N/A |
 | 4 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 5 | [#SAL2MATsaHORI7ON](http://twitter.com/search?q=%23SAL2MATsaHORI7ON) | N/A |
-| 6 | [2MILYONG PASASALAMAT](http://twitter.com/search?q=2MILYONG+PASASALAMAT) | N/A |
+| 5 | [2MILYONG PASASALAMAT](http://twitter.com/search?q=2MILYONG+PASASALAMAT) | N/A |
+| 6 | [#SAL2MATsaHORI7ON](http://twitter.com/search?q=%23SAL2MATsaHORI7ON) | N/A |
 | 7 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
 | 8 | [#BLACKPINK_THE_GAME](http://twitter.com/search?q=%23BLACKPINK_THE_GAME) | N/A |
-| 9 | [#LikeCrazy3rdWin](http://twitter.com/search?q=%23LikeCrazy3rdWin) | N/A |
-| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 10 | [#NETIZENSREPORT](http://twitter.com/search?q=%23NETIZENSREPORT) | N/A |
 | 11 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
 | 12 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
-| 13 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 14 | [Visita Iglesia](http://twitter.com/search?q=Visita+Iglesia) | N/A |
-| 15 | [She's Dating The Gangster](http://twitter.com/search?q=She%27s+Dating+The+Gangster) | N/A |
-| 16 | [1MILLION SALAMAT SA INYO](http://twitter.com/search?q=1MILLION+SALAMAT+SA+INYO) | N/A |
-| 17 | [Huwebes Santo](http://twitter.com/search?q=Huwebes+Santo) | N/A |
-| 18 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 13 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 14 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
+| 15 | [Visita Iglesia](http://twitter.com/search?q=Visita+Iglesia) | N/A |
+| 16 | [Rora](http://twitter.com/search?q=Rora) | Rora is a Japanese term that translates to "lonely" or "isolated." It is often used to describe someone who feels alone or disconnected from the world around them. |
+| 17 | [1MILLION SALAMAT SA INYO](http://twitter.com/search?q=1MILLION+SALAMAT+SA+INYO) | N/A |
+| 18 | [Huwebes Santo](http://twitter.com/search?q=Huwebes+Santo) | N/A |
 | 19 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
-| 20 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 21 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 22 | [Gatherings for Christians](http://twitter.com/search?q=Gatherings+for+Christians) | N/A |
-| 23 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 24 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 25 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 20 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 21 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 22 | [She's Dating The Gangster](http://twitter.com/search?q=She%27s+Dating+The+Gangster) | N/A |
+| 23 | [Gatherings for Christians](http://twitter.com/search?q=Gatherings+for+Christians) | N/A |
+| 24 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 25 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
 | 26 | [Jaya](http://twitter.com/search?q=Jaya) | N/A |
-| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 28 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 29 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
-| 30 | [yixing](http://twitter.com/search?q=yixing) | N/A |
-| 31 | [GOLDEN HOUR MV TEASER](http://twitter.com/search?q=GOLDEN+HOUR+MV+TEASER) | N/A |
-| 32 | [NBA AMBASSADOR](http://twitter.com/search?q=NBA+AMBASSADOR) | N/A |
-| 33 | [Pagbilao](http://twitter.com/search?q=Pagbilao) | N/A |
-| 34 | [joshcullen wt photoshoot](http://twitter.com/search?q=joshcullen+wt+photoshoot) | N/A |
-| 35 | [MCOUNTDOWN](http://twitter.com/search?q=MCOUNTDOWN) | N/A |
-| 36 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 37 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 38 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 39 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 40 | [MARK SOLO TOMORROW](http://twitter.com/search?q=MARK+SOLO+TOMORROW) | N/A |
-| 41 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 42 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 43 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 44 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 45 | [HERE COMES OUR MIRACLE](http://twitter.com/search?q=HERE+COMES+OUR+MIRACLE) | N/A |
-| 46 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
-| 47 | [alay lakad](http://twitter.com/search?q=alay+lakad) | N/A |
-| 48 | [SDTG](http://twitter.com/search?q=SDTG) | N/A |
-| 49 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 50 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 27 | [BM LAST EVALUATION EP5](http://twitter.com/search?q=BM+LAST+EVALUATION+EP5) | N/A |
+| 28 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 29 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 30 | [GIDDY FIRST MV TEASER](http://twitter.com/search?q=GIDDY+FIRST+MV+TEASER) | N/A |
+| 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 32 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 33 | [yixing](http://twitter.com/search?q=yixing) | N/A |
+| 34 | [GOLDEN HOUR MV TEASER](http://twitter.com/search?q=GOLDEN+HOUR+MV+TEASER) | N/A |
+| 35 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 36 | [Pagbilao](http://twitter.com/search?q=Pagbilao) | N/A |
+| 37 | [Siwon](http://twitter.com/search?q=Siwon) | N/A |
+| 38 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 39 | [Richie](http://twitter.com/search?q=Richie) | N/A |
+| 40 | [NBA Ambassador](http://twitter.com/search?q=NBA+Ambassador) | N/A |
+| 41 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 42 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 43 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 44 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 45 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 46 | [MARK SOLO TOMORROW](http://twitter.com/search?q=MARK+SOLO+TOMORROW) | N/A |
+| 47 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 48 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 49 | [MCOUNTDOWN](http://twitter.com/search?q=MCOUNTDOWN) | N/A |
+| 50 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
 
 
 

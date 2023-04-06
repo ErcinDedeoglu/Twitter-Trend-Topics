@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-04-06 15:17:29 UTC`
+📆 Last Updated: `2023-04-06 16:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,45 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [Macarena](http://twitter.com/search?q=Macarena) | N/A |
 | 2 | [Hermandad](http://twitter.com/search?q=Hermandad) | N/A |
-| 3 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 4 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
-| 5 | [#APOYOROCIO6A](http://twitter.com/search?q=%23APOYOROCIO6A) | N/A |
-| 6 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 7 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
-| 8 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 9 | [Viva la Legión](http://twitter.com/search?q=Viva+la+Legi%c3%b3n) | N/A |
-| 10 | [Bosé](http://twitter.com/search?q=Bos%c3%a9) | N/A |
-| 11 | [Madrugá](http://twitter.com/search?q=Madrug%c3%a1) | N/A |
-| 12 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 3 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
+| 4 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 5 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
+| 6 | [#APOYOROCIO6A](http://twitter.com/search?q=%23APOYOROCIO6A) | N/A |
+| 7 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
+| 8 | [Landa](http://twitter.com/search?q=Landa) | N/A |
+| 9 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 10 | [Mikasa](http://twitter.com/search?q=Mikasa) | N/A |
+| 11 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 12 | [Legión](http://twitter.com/search?q=Legi%c3%b3n) | N/A |
 | 13 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 14 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 15 | [Mikasa](http://twitter.com/search?q=Mikasa) | N/A |
-| 16 | [Josep Piqué](http://twitter.com/search?q=Josep+Piqu%c3%a9) | N/A |
+| 14 | [Madrugá](http://twitter.com/search?q=Madrug%c3%a1) | N/A |
+| 15 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 16 | [Bosé](http://twitter.com/search?q=Bos%c3%a9) | N/A |
 | 17 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 18 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
-| 19 | [#AdaraSv6A](http://twitter.com/search?q=%23AdaraSv6A) | N/A |
-| 20 | [#MotoG73MM](http://twitter.com/search?q=%23MotoG73MM) | N/A |
-| 21 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
-| 22 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 23 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 24 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
-| 25 | [Esperanza](http://twitter.com/search?q=Esperanza) | N/A |
-| 26 | [Estación de Penitencia](http://twitter.com/search?q=Estaci%c3%b3n+de+Penitencia) | N/A |
-| 27 | [El Principito](http://twitter.com/search?q=El+Principito) | N/A |
-| 28 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 29 | [Viva España](http://twitter.com/search?q=Viva+Espa%c3%b1a) | N/A |
-| 30 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 31 | [Amor Fraterno](http://twitter.com/search?q=Amor+Fraterno) | N/A |
-| 32 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 33 | [Avilés](http://twitter.com/search?q=Avil%c3%a9s) | N/A |
-| 34 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 35 | [Primera División](http://twitter.com/search?q=Primera+Divisi%c3%b3n) | N/A |
+| 18 | [#MotoG73MM](http://twitter.com/search?q=%23MotoG73MM) | N/A |
+| 19 | [Josep Piqué](http://twitter.com/search?q=Josep+Piqu%c3%a9) | N/A |
+| 20 | [El Principito](http://twitter.com/search?q=El+Principito) | N/A |
+| 21 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 22 | [#YoMeRebelo6A](http://twitter.com/search?q=%23YoMeRebelo6A) | N/A |
+| 23 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
+| 24 | [Cristo de Mena](http://twitter.com/search?q=Cristo+de+Mena) | N/A |
+| 25 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
+| 26 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 27 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 28 | [Estación de Penitencia](http://twitter.com/search?q=Estaci%c3%b3n+de+Penitencia) | N/A |
+| 29 | [Esperanza](http://twitter.com/search?q=Esperanza) | N/A |
+| 30 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 31 | [Viva España](http://twitter.com/search?q=Viva+Espa%c3%b1a) | N/A |
+| 32 | [Amor Fraterno](http://twitter.com/search?q=Amor+Fraterno) | N/A |
+| 33 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 34 | [Avilés](http://twitter.com/search?q=Avil%c3%a9s) | N/A |
+| 35 | [cofradía](http://twitter.com/search?q=cofrad%c3%ada) | N/A |
 | 36 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
-| 37 | [Feliz Semana Santa](http://twitter.com/search?q=Feliz+Semana+Santa) | N/A |
-| 38 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 39 | [Eucaristía](http://twitter.com/search?q=Eucarist%c3%ada) | N/A |
-| 40 | [Cofradía](http://twitter.com/search?q=Cofrad%c3%ada) | N/A |
-| 41 | [Huerto](http://twitter.com/search?q=Huerto) | N/A |
-| 42 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
-| 43 | [Nazareno](http://twitter.com/search?q=Nazareno) | N/A |
-| 44 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 45 | [txapote](http://twitter.com/search?q=txapote) | N/A |
-| 46 | [#YoMeRebelo6A](http://twitter.com/search?q=%23YoMeRebelo6A) | N/A |
-| 47 | [#torrijas](http://twitter.com/search?q=%23torrijas) | N/A |
+| 37 | [Eucaristía](http://twitter.com/search?q=Eucarist%c3%ada) | N/A |
+| 38 | [Huerto](http://twitter.com/search?q=Huerto) | N/A |
+| 39 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
+| 40 | [Nazareno](http://twitter.com/search?q=Nazareno) | N/A |
+| 41 | [#torrijas](http://twitter.com/search?q=%23torrijas) | N/A |
 
 
 

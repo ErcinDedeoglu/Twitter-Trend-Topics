@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-04-06 15:17:21 UTC`
+📆 Last Updated: `2023-04-06 16:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 2 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
-| 3 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
-| 4 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 5 | [Henrique Dourado](http://twitter.com/search?q=Henrique+Dourado) | N/A |
-| 6 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 7 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 8 | [#CCXP23](http://twitter.com/search?q=%23CCXP23) | N/A |
-| 9 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
-| 10 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 11 | [Tyler Hoechlin](http://twitter.com/search?q=Tyler+Hoechlin) | N/A |
-| 12 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 13 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
-| 14 | [#30DiasComChiara](http://twitter.com/search?q=%2330DiasComChiara) | N/A |
-| 15 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 16 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 17 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
+| 1 | [Guanabara](http://twitter.com/search?q=Guanabara) | N/A |
+| 2 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 3 | [Oruam](http://twitter.com/search?q=Oruam) | N/A |
+| 4 | [#MaziOnBitmart](http://twitter.com/search?q=%23MaziOnBitmart) | N/A |
+| 5 | [CCXP](http://twitter.com/search?q=CCXP) | N/A |
+| 6 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 7 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
+| 8 | [Bilu](http://twitter.com/search?q=Bilu) | Bilu is a Hebrew term that means "to come in" or "to enter." It is often used to refer to the act of immigrating to Israel. |
+| 9 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 10 | [Henrique Dourado](http://twitter.com/search?q=Henrique+Dourado) | N/A |
+| 11 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
+| 12 | [Icebox](http://twitter.com/search?q=Icebox) | N/A |
+| 13 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 14 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
+| 15 | [Tyler Hoechlin](http://twitter.com/search?q=Tyler+Hoechlin) | N/A |
+| 16 | [#G4Bandsports](http://twitter.com/search?q=%23G4Bandsports) | N/A |
+| 17 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
 | 18 | [Banco do Brasil](http://twitter.com/search?q=Banco+do+Brasil) | N/A |
-| 19 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 20 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
-| 21 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 22 | [#LikeCrazy3rdWin](http://twitter.com/search?q=%23LikeCrazy3rdWin) | N/A |
-| 23 | [Rodriguinho](http://twitter.com/search?q=Rodriguinho) | N/A |
+| 19 | [#30DiasComChiara](http://twitter.com/search?q=%2330DiasComChiara) | N/A |
+| 20 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
+| 21 | [Mikasa](http://twitter.com/search?q=Mikasa) | N/A |
+| 22 | [Bruno Mendez](http://twitter.com/search?q=Bruno+Mendez) | N/A |
+| 23 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
 | 24 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
-| 25 | [sampaoli](http://twitter.com/search?q=sampaoli) | N/A |
-| 26 | [Quinta-feira Santa](http://twitter.com/search?q=Quinta-feira+Santa) | N/A |
-| 27 | [Mikasa](http://twitter.com/search?q=Mikasa) | N/A |
-| 28 | [Akainu](http://twitter.com/search?q=Akainu) | N/A |
-| 29 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 30 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
-| 31 | [CAPES](http://twitter.com/search?q=CAPES) | N/A |
-| 32 | [Finalíssima](http://twitter.com/search?q=Final%c3%adssima) | N/A |
-| 33 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
-| 34 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
-| 35 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 36 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 37 | [Errar](http://twitter.com/search?q=Errar) | N/A |
-| 38 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
-| 39 | [Zé Felipe Ret](http://twitter.com/search?q=Z%c3%a9+Felipe+Ret) | N/A |
-| 40 | [paul mescal](http://twitter.com/search?q=paul+mescal) | N/A |
-| 41 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 42 | [Saneamento](http://twitter.com/search?q=Saneamento) | N/A |
-| 43 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 44 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 45 | [iPod](http://twitter.com/search?q=iPod) | N/A |
-| 46 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 47 | [Otávio Guedes](http://twitter.com/search?q=Ot%c3%a1vio+Guedes) | N/A |
-| 48 | [Giuliana Morrone](http://twitter.com/search?q=Giuliana+Morrone) | N/A |
-| 49 | [Impunidade](http://twitter.com/search?q=Impunidade) | N/A |
-| 50 | [Merval](http://twitter.com/search?q=Merval) | N/A |
+| 25 | [Akainu](http://twitter.com/search?q=Akainu) | N/A |
+| 26 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 27 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
+| 28 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 29 | [ryan sp](http://twitter.com/search?q=ryan+sp) | N/A |
+| 30 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 31 | [Balbuena](http://twitter.com/search?q=Balbuena) | Balbuena is a Spanish surname. It is derived from the Latin word balbus, which means stammering or stuttering. In English, the meaning of Balbuena is "stammering" or "stuttering". |
+| 32 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 33 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 34 | [Rodriguinho](http://twitter.com/search?q=Rodriguinho) | N/A |
+| 35 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 36 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 37 | [CAPES](http://twitter.com/search?q=CAPES) | N/A |
+| 38 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
+| 39 | [Koby](http://twitter.com/search?q=Koby) | N/A |
+| 40 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
+| 41 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 42 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 43 | [Finalíssima](http://twitter.com/search?q=Final%c3%adssima) | N/A |
+| 44 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
+| 45 | [Cebola](http://twitter.com/search?q=Cebola) | N/A |
+| 46 | [Errar](http://twitter.com/search?q=Errar) | N/A |
+| 47 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
+| 48 | [Quinta-feira Santa](http://twitter.com/search?q=Quinta-feira+Santa) | N/A |
+| 49 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 50 | [Bluesky](http://twitter.com/search?q=Bluesky) | N/A |
 
 
 

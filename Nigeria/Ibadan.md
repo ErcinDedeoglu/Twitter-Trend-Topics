@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-04-06 15:17:40 UTC`
+📆 Last Updated: `2023-04-06 16:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,49 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [DJ Phil](http://twitter.com/search?q=DJ+Phil) | N/A |
-| 2 | [#itelEggspressions](http://twitter.com/search?q=%23itelEggspressions) | N/A |
-| 3 | [#YLS2023](http://twitter.com/search?q=%23YLS2023) | N/A |
+| 1 | [#itelEggspressions](http://twitter.com/search?q=%23itelEggspressions) | N/A |
+| 2 | [#ThankUHonFaleke](http://twitter.com/search?q=%23ThankUHonFaleke) | N/A |
+| 3 | [DJ Phil](http://twitter.com/search?q=DJ+Phil) | N/A |
 | 4 | [#SiddiqahRamadhan](http://twitter.com/search?q=%23SiddiqahRamadhan) | N/A |
-| 5 | [#NauNauSOSApp](http://twitter.com/search?q=%23NauNauSOSApp) | N/A |
-| 6 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
-| 7 | [KHOSI THE HOST](http://twitter.com/search?q=KHOSI+THE+HOST) | N/A |
-| 8 | [Kingsley Moghalu](http://twitter.com/search?q=Kingsley+Moghalu) | N/A |
-| 9 | [Brother Bernard](http://twitter.com/search?q=Brother+Bernard) | N/A |
-| 10 | [KHOSI X SUPERSPORT](http://twitter.com/search?q=KHOSI+X+SUPERSPORT) | N/A |
-| 11 | [Garri](http://twitter.com/search?q=Garri) | N/A |
+| 5 | [#Dollar](http://twitter.com/search?q=%23Dollar) | N/A |
+| 6 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 7 | [Bernard](http://twitter.com/search?q=Bernard) | N/A |
+| 8 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 9 | [Garri](http://twitter.com/search?q=Garri) | N/A |
+| 10 | [kingsley moghalu](http://twitter.com/search?q=kingsley+moghalu) | N/A |
+| 11 | [KHOSI THE HOST](http://twitter.com/search?q=KHOSI+THE+HOST) | N/A |
 | 12 | [KANAGA JNR THE BRAND](http://twitter.com/search?q=KANAGA+JNR+THE+BRAND) | N/A |
-| 13 | [Osibanjo](http://twitter.com/search?q=Osibanjo) | N/A |
-| 14 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 15 | [MEDIA ROUNDS WITH YVONNE](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+YVONNE) | N/A |
-| 16 | [David Hundeyin](http://twitter.com/search?q=David+Hundeyin) | N/A |
+| 13 | [KHOSI X SUPERSPORT](http://twitter.com/search?q=KHOSI+X+SUPERSPORT) | N/A |
+| 14 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
+| 15 | [Osibanjo](http://twitter.com/search?q=Osibanjo) | N/A |
+| 16 | [MEDIA ROUNDS WITH YVONNE](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+YVONNE) | N/A |
 | 17 | [IT IS MY TIME AND MY TURN](http://twitter.com/search?q=IT+IS+MY+TIME+AND+MY+TURN) | N/A |
-| 18 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
-| 19 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
-| 20 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 21 | [Professors](http://twitter.com/search?q=Professors) | N/A |
-| 22 | [ULTIMATE FAVE YEMI CREGX](http://twitter.com/search?q=ULTIMATE+FAVE+YEMI+CREGX) | N/A |
-| 23 | [Northern Muslim](http://twitter.com/search?q=Northern+Muslim) | N/A |
-| 24 | [Dora](http://twitter.com/search?q=Dora) | N/A |
-| 25 | [World Bank](http://twitter.com/search?q=World+Bank) | N/A |
-| 26 | [YVONNE GODSWILL](http://twitter.com/search?q=YVONNE+GODSWILL) | N/A |
-| 27 | [The North](http://twitter.com/search?q=The+North) | N/A |
-| 28 | [MEDIA ROUNDS WITH KANAGA](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+KANAGA) | N/A |
-| 29 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
-| 30 | [Sowore](http://twitter.com/search?q=Sowore) | N/A |
-| 31 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
-| 32 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 33 | [US iTunes](http://twitter.com/search?q=US+iTunes) | N/A |
+| 18 | [David Hundeyin](http://twitter.com/search?q=David+Hundeyin) | N/A |
+| 19 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
+| 20 | [Prof](http://twitter.com/search?q=Prof) | N/A |
+| 21 | [Esther](http://twitter.com/search?q=Esther) | N/A |
+| 22 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 23 | [ULTIMATE FAVE YEMI CREGX](http://twitter.com/search?q=ULTIMATE+FAVE+YEMI+CREGX) | N/A |
+| 24 | [MEDIA ROUNDS WITH KANAGA](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+KANAGA) | N/A |
+| 25 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 26 | [World Bank](http://twitter.com/search?q=World+Bank) | N/A |
+| 27 | [Northern Muslim](http://twitter.com/search?q=Northern+Muslim) | N/A |
+| 28 | [NYSC](http://twitter.com/search?q=NYSC) | N/A |
+| 29 | [The North](http://twitter.com/search?q=The+North) | N/A |
+| 30 | [Northern Nigeria](http://twitter.com/search?q=Northern+Nigeria) | N/A |
+| 31 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
+| 32 | [Fascist](http://twitter.com/search?q=Fascist) | N/A |
+| 33 | [South West](http://twitter.com/search?q=South+West) | N/A |
 | 34 | [Poverty](http://twitter.com/search?q=Poverty) | N/A |
-| 35 | [Nobel Laureate](http://twitter.com/search?q=Nobel+Laureate) | N/A |
-| 36 | [South East](http://twitter.com/search?q=South+East) | N/A |
-| 37 | [Arewa](http://twitter.com/search?q=Arewa) | N/A |
-| 38 | [Blue Aiva](http://twitter.com/search?q=Blue+Aiva) | N/A |
-| 39 | [#Dollar](http://twitter.com/search?q=%23Dollar) | N/A |
-| 40 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
-| 41 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 42 | [#feyaja](http://twitter.com/search?q=%23feyaja) | #Feyaja is a hashtag used on social media to express support for the LGBTQ+ community in Nigeria. It is derived from the Yoruba phrase "Feyi ja," which translates to "Love conquers all." |
-| 43 | [#erasaveslives](http://twitter.com/search?q=%23erasaveslives) | N/A |
-| 44 | [#Asake](http://twitter.com/search?q=%23Asake) | N/A |
-| 45 | [#FNAFMovie](http://twitter.com/search?q=%23FNAFMovie) | N/A |
-| 46 | [#GangsOfLagosOnPrime](http://twitter.com/search?q=%23GangsOfLagosOnPrime) | N/A |
+| 35 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 36 | [#feyaja](http://twitter.com/search?q=%23feyaja) | #Feyaja is a hashtag used on social media to express support for the LGBTQ+ community in Nigeria. It is derived from the Yoruba phrase "Feyi ja," which translates to "Love conquers all." |
+| 37 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 38 | [#Asake](http://twitter.com/search?q=%23Asake) | N/A |
+| 39 | [#MiddlebeltIsnotNorth](http://twitter.com/search?q=%23MiddlebeltIsnotNorth) | N/A |
+| 40 | [#FNAFMovie](http://twitter.com/search?q=%23FNAFMovie) | N/A |
+| 41 | [#GangsOfLagosOnPrime](http://twitter.com/search?q=%23GangsOfLagosOnPrime) | N/A |
+| 42 | [#m3lon](http://twitter.com/search?q=%23m3lon) | N/A |
+| 43 | [#middleBeltMovement](http://twitter.com/search?q=%23middleBeltMovement) | N/A |
 
 
 

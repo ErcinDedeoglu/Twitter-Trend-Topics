@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-04-06 15:17:13 UTC`
+📆 Last Updated: `2023-04-06 16:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 2 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 3 | [#EmergencyAlerts](http://twitter.com/search?q=%23EmergencyAlerts) | N/A |
-| 4 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
-| 5 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 6 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
-| 7 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
-| 8 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
+| 1 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 2 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
+| 3 | [#SWCE](http://twitter.com/search?q=%23SWCE) | N/A |
+| 4 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
+| 5 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
+| 6 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
+| 7 | [#jeremyvine](http://twitter.com/search?q=%23jeremyvine) | N/A |
+| 8 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 9 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 10 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 11 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 10 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 11 | [#PresentersInMoviesOrSongs](http://twitter.com/search?q=%23PresentersInMoviesOrSongs) | N/A |
 | 12 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 13 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 14 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 15 | [Clapham Junction](http://twitter.com/search?q=Clapham+Junction) | N/A |
+| 13 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 14 | [Fawziyah Javed](http://twitter.com/search?q=Fawziyah+Javed) | N/A |
+| 15 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
 | 16 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 17 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 18 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 19 | [Daniel Radcliffe](http://twitter.com/search?q=Daniel+Radcliffe) | N/A |
-| 20 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
-| 21 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 22 | [Bernard Lee](http://twitter.com/search?q=Bernard+Lee) | N/A |
-| 23 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
-| 24 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
-| 25 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
-| 26 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 27 | [York Minster](http://twitter.com/search?q=York+Minster) | N/A |
-| 28 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
-| 29 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 30 | [windrush](http://twitter.com/search?q=windrush) | N/A |
-| 31 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 32 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
-| 33 | [Podence](http://twitter.com/search?q=Podence) | Podence is a Portuguese word meaning “courage” or “bravery”. It is often used to describe someone who has the courage to take risks and face challenges. |
-| 34 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
-| 35 | [23rd April](http://twitter.com/search?q=23rd+April) | N/A |
-| 36 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 37 | [Mason Mount](http://twitter.com/search?q=Mason+Mount) | Mason Mount is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. He is known for his passing, dribbling, and shooting ability. |
-| 38 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
-| 39 | [Lamps](http://twitter.com/search?q=Lamps) | N/A |
-| 40 | [Joanne](http://twitter.com/search?q=Joanne) | N/A |
-| 41 | [Fred West](http://twitter.com/search?q=Fred+West) | N/A |
-| 42 | [Sturgeons](http://twitter.com/search?q=Sturgeons) | N/A |
+| 17 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
+| 18 | [Clapham Junction](http://twitter.com/search?q=Clapham+Junction) | N/A |
+| 19 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 20 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 21 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 22 | [Daniel Radcliffe](http://twitter.com/search?q=Daniel+Radcliffe) | N/A |
+| 23 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
+| 24 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 25 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 26 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 27 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
+| 28 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 29 | [Bernard Lee](http://twitter.com/search?q=Bernard+Lee) | N/A |
+| 30 | [Windrush](http://twitter.com/search?q=Windrush) | N/A |
+| 31 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 32 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
+| 33 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 34 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 35 | [Lamps](http://twitter.com/search?q=Lamps) | N/A |
+| 36 | [Joanne](http://twitter.com/search?q=Joanne) | N/A |
+| 37 | [Podence](http://twitter.com/search?q=Podence) | Podence is a Portuguese word meaning “courage” or “bravery”. It is often used to describe someone who has the courage to take risks and face challenges. |
+| 38 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
+| 39 | [Mason Mount](http://twitter.com/search?q=Mason+Mount) | Mason Mount is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. He is known for his passing, dribbling, and shooting ability. |
+| 40 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 41 | [Sturgeons](http://twitter.com/search?q=Sturgeons) | N/A |
+| 42 | [Surrey](http://twitter.com/search?q=Surrey) | N/A |
 | 43 | [Bell](http://twitter.com/search?q=Bell) | N/A |
-| 44 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
-| 45 | [Surrey](http://twitter.com/search?q=Surrey) | N/A |
-| 46 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 44 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 45 | [Fred West](http://twitter.com/search?q=Fred+West) | N/A |
+| 46 | [Green Man](http://twitter.com/search?q=Green+Man) | N/A |
 | 47 | [Greggs](http://twitter.com/search?q=Greggs) | N/A |
-| 48 | [Royal Family](http://twitter.com/search?q=Royal+Family) | N/A |
-| 49 | [iPod](http://twitter.com/search?q=iPod) | N/A |
+| 48 | [23rd April](http://twitter.com/search?q=23rd+April) | N/A |
+| 49 | [Rory McIlroy](http://twitter.com/search?q=Rory+McIlroy) | N/A |
 
 
 
