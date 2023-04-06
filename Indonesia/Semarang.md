@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-04-06 00:27:10 UTC`
+📆 Last Updated: `2023-04-06 01:44:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#IWannaStayWithGYU](http://twitter.com/search?q=%23IWannaStayWithGYU) | N/A |
-| 2 | [#ToleransiAgama](http://twitter.com/search?q=%23ToleransiAgama) | N/A |
+| 1 | [#ToleransiAgama](http://twitter.com/search?q=%23ToleransiAgama) | N/A |
+| 2 | [#IWannaStayWithGYU](http://twitter.com/search?q=%23IWannaStayWithGYU) | N/A |
 | 3 | [#민규생일은_아름답기를_따뜻하길](http://twitter.com/search?q=%23%eb%af%bc%ea%b7%9c%ec%83%9d%ec%9d%bc%ec%9d%80_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b8%b0%eb%a5%bc_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b8%b8) | N/A |
-| 4 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
-| 5 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 6 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 7 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 8 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 9 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
-| 10 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 11 | [Islam Haramkan Kezaliman](http://twitter.com/search?q=Islam+Haramkan+Kezaliman) | N/A |
-| 12 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 14 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 15 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 16 | [bang windah](http://twitter.com/search?q=bang+windah) | N/A |
-| 17 | [like it like it cd release](http://twitter.com/search?q=like+it+like+it+cd+release) | N/A |
-| 18 | [Kalau](http://twitter.com/search?q=Kalau) | N/A |
-| 19 | [Newark](http://twitter.com/search?q=Newark) | N/A |
-| 20 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 21 | [Syiah](http://twitter.com/search?q=Syiah) | N/A |
-| 22 | [THE BLOTTER PAPER D4](http://twitter.com/search?q=THE+BLOTTER+PAPER+D4) | N/A |
-| 23 | [Prabowo Selamanya](http://twitter.com/search?q=Prabowo+Selamanya) | N/A |
-| 24 | [Jokowi](http://twitter.com/search?q=Jokowi) | N/A |
-| 25 | [Nabi Muhammad](http://twitter.com/search?q=Nabi+Muhammad) | N/A |
-| 26 | [JUNGKOOK OUR EUPHORIA](http://twitter.com/search?q=JUNGKOOK+OUR+EUPHORIA) | N/A |
-| 27 | [Prabowo Lebih Baik](http://twitter.com/search?q=Prabowo+Lebih+Baik) | Prabowo Lebih Baik is a slogan used by supporters of Indonesian presidential candidate Prabowo Subianto in the 2019 election. It translates to "Prabowo is Better" in English. |
-| 28 | [lee jeno thank you](http://twitter.com/search?q=lee+jeno+thank+you) | N/A |
-| 29 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 30 | [ramadan di lazada](http://twitter.com/search?q=ramadan+di+lazada) | N/A |
+| 4 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 5 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
+| 6 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 7 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 8 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 9 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 10 | [HAECHAN LEE](http://twitter.com/search?q=HAECHAN+LEE) | N/A |
+| 11 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 13 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 14 | [Kamis Putih](http://twitter.com/search?q=Kamis+Putih) | N/A |
+| 15 | [bang windah](http://twitter.com/search?q=bang+windah) | N/A |
+| 16 | [Wak Haji](http://twitter.com/search?q=Wak+Haji) | N/A |
+| 17 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 18 | [like it like it cd release](http://twitter.com/search?q=like+it+like+it+cd+release) | N/A |
+| 19 | [Syiah](http://twitter.com/search?q=Syiah) | N/A |
+| 20 | [Kalau](http://twitter.com/search?q=Kalau) | N/A |
+| 21 | [Prabowo Selamanya](http://twitter.com/search?q=Prabowo+Selamanya) | N/A |
+| 22 | [Jokowi](http://twitter.com/search?q=Jokowi) | N/A |
+| 23 | [THE BLOTTER PAPER D4](http://twitter.com/search?q=THE+BLOTTER+PAPER+D4) | N/A |
+| 24 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 25 | [Prabowo Lebih Baik](http://twitter.com/search?q=Prabowo+Lebih+Baik) | Prabowo Lebih Baik is a slogan used by supporters of Indonesian presidential candidate Prabowo Subianto in the 2019 election. It translates to "Prabowo is Better" in English. |
+| 26 | [lee jeno thank you](http://twitter.com/search?q=lee+jeno+thank+you) | N/A |
+| 27 | [ramadan di lazada](http://twitter.com/search?q=ramadan+di+lazada) | N/A |
+| 28 | [Nabi Muhammad](http://twitter.com/search?q=Nabi+Muhammad) | N/A |
+| 29 | [Injil](http://twitter.com/search?q=Injil) | N/A |
+| 30 | [JUNGKOOK OUR EUPHORIA](http://twitter.com/search?q=JUNGKOOK+OUR+EUPHORIA) | N/A |
 | 31 | [Iyaa](http://twitter.com/search?q=Iyaa) | N/A |
-| 32 | [LOOK FOR THE MAFIA SVT](http://twitter.com/search?q=LOOK+FOR+THE+MAFIA+SVT) | N/A |
-| 33 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 34 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 35 | [Sudah](http://twitter.com/search?q=Sudah) | N/A |
-| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 37 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 38 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 39 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 32 | [look for the mafia svt](http://twitter.com/search?q=look+for+the+mafia+svt) | N/A |
+| 33 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 34 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 35 | [Masjid Berdampingan](http://twitter.com/search?q=Masjid+Berdampingan) | N/A |
+| 36 | [Sudah](http://twitter.com/search?q=Sudah) | N/A |
+| 37 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
+| 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 39 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 | 40 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 41 | [Anthony](http://twitter.com/search?q=Anthony) | N/A |
+| 41 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
 | 42 | [Rahul](http://twitter.com/search?q=Rahul) | N/A |
-| 43 | [jenius qr](http://twitter.com/search?q=jenius+qr) | N/A |
-| 44 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 45 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 46 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 47 | [dua kali lebih murah](http://twitter.com/search?q=dua+kali+lebih+murah) | N/A |
-| 48 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 49 | [Fafa](http://twitter.com/search?q=Fafa) | N/A |
+| 43 | [Bhineka Tunggal Ika](http://twitter.com/search?q=Bhineka+Tunggal+Ika) | N/A |
+| 44 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 45 | [jenius qr](http://twitter.com/search?q=jenius+qr) | N/A |
+| 46 | [Ibrahim](http://twitter.com/search?q=Ibrahim) | N/A |
+| 47 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 48 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 49 | [dua kali lebih murah](http://twitter.com/search?q=dua+kali+lebih+murah) | N/A |
 
 
 

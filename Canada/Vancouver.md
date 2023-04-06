@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-04-06 00:26:50 UTC`
+📆 Last Updated: `2023-04-06 01:44:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 2 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 3 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 4 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 5 | [#GoJetsGo](http://twitter.com/search?q=%23GoJetsGo) | N/A |
-| 6 | [Andersson](http://twitter.com/search?q=Andersson) | N/A |
-| 7 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 8 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 9 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
-| 10 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 11 | [#verglas](http://twitter.com/search?q=%23verglas) | N/A |
-| 12 | [#icestorm](http://twitter.com/search?q=%23icestorm) | N/A |
-| 13 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 14 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
-| 15 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
-| 16 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 17 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 18 | [Game 4](http://twitter.com/search?q=Game+4) | N/A |
-| 19 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 20 | [The UCP](http://twitter.com/search?q=The+UCP) | N/A |
-| 21 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 22 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 23 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 24 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 25 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 26 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 27 | [Seder](http://twitter.com/search?q=Seder) | N/A |
-| 28 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
-| 29 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 30 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 31 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 32 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 33 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
-| 34 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 35 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
-| 36 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 37 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
-| 38 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 39 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
-| 40 | [#WomensWorlds](http://twitter.com/search?q=%23WomensWorlds) | N/A |
-| 41 | [#Montreal](http://twitter.com/search?q=%23Montreal) | N/A |
-| 42 | [#DTES](http://twitter.com/search?q=%23DTES) | N/A |
-| 43 | [#RBCRevealed](http://twitter.com/search?q=%23RBCRevealed) | N/A |
-| 44 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
-| 45 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 46 | [#BarbieTheMovie](http://twitter.com/search?q=%23BarbieTheMovie) | N/A |
-| 47 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 1 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
+| 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 3 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 4 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 5 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 6 | [Brandon Belt](http://twitter.com/search?q=Brandon+Belt) | Brandon Belt is a professional baseball player who plays for the San Francisco Giants. He is a first baseman and outfielder. The phrase "Brandon Belt" is used to refer to the player himself. |
+| 7 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 8 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 9 | [#GoJetsGo](http://twitter.com/search?q=%23GoJetsGo) | N/A |
+| 10 | [#ChicagoFire](http://twitter.com/search?q=%23ChicagoFire) | N/A |
+| 11 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 12 | [#WomensWorlds](http://twitter.com/search?q=%23WomensWorlds) | N/A |
+| 13 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
+| 14 | [Ritchie](http://twitter.com/search?q=Ritchie) | Ritchie is a unisex name of English origin, derived from the Old English name Richard. It is a diminutive form of Richard, meaning “brave ruler” or “strong leader”. |
+| 15 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 16 | [Andersson](http://twitter.com/search?q=Andersson) | N/A |
+| 17 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 18 | [Galen](http://twitter.com/search?q=Galen) | N/A |
+| 19 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 20 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
+| 21 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 22 | [Vladdy](http://twitter.com/search?q=Vladdy) | N/A |
+| 23 | [Renee](http://twitter.com/search?q=Renee) | N/A |
+| 24 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
+| 25 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 26 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 27 | [DTES](http://twitter.com/search?q=DTES) | N/A |
+| 28 | [Game 4](http://twitter.com/search?q=Game+4) | N/A |
+| 29 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 30 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 31 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 32 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 33 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 34 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 35 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
+| 36 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 37 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 38 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 39 | [Seder](http://twitter.com/search?q=Seder) | N/A |
+| 40 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 41 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 42 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 43 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 44 | [Charest](http://twitter.com/search?q=Charest) | N/A |
+| 45 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 46 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
+| 47 | [#verglas](http://twitter.com/search?q=%23verglas) | N/A |
+| 48 | [#icestorm](http://twitter.com/search?q=%23icestorm) | N/A |
+| 49 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 50 | [#RBCRevealed](http://twitter.com/search?q=%23RBCRevealed) | N/A |
 
 
 

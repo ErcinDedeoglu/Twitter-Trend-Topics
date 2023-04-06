@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-04-06 00:27:39 UTC`
+📆 Last Updated: `2023-04-06 01:45:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for Netherlands
 | 12 | [#ajafey](http://twitter.com/search?q=%23ajafey) | N/A |
 | 13 | [Hermans](http://twitter.com/search?q=Hermans) | N/A |
 | 14 | [Baas](http://twitter.com/search?q=Baas) | N/A |
-| 15 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
-| 16 | [Lindhout](http://twitter.com/search?q=Lindhout) | N/A |
-| 17 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
-| 18 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 19 | [Rotterdam](http://twitter.com/search?q=Rotterdam) | N/A |
-| 20 | [Azarkan](http://twitter.com/search?q=Azarkan) | N/A |
-| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 22 | [Arena](http://twitter.com/search?q=Arena) | N/A |
-| 23 | [Mario Been](http://twitter.com/search?q=Mario+Been) | N/A |
-| 24 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 25 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
-| 26 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 27 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
-| 28 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 29 | [Dassen](http://twitter.com/search?q=Dassen) | N/A |
-| 30 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 31 | [Kwakman](http://twitter.com/search?q=Kwakman) | N/A |
-| 32 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
-| 33 | [Ouwehand](http://twitter.com/search?q=Ouwehand) | N/A |
-| 34 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 35 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 36 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 37 | [Roelofarendsveen](http://twitter.com/search?q=Roelofarendsveen) | N/A |
-| 38 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
-| 39 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
-| 40 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
-| 41 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 42 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 43 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 44 | [Ajacied](http://twitter.com/search?q=Ajacied) | N/A |
-| 45 | [Heerma](http://twitter.com/search?q=Heerma) | N/A |
-| 46 | [Sint-Oedenrode](http://twitter.com/search?q=Sint-Oedenrode) | N/A |
-| 47 | [Staken](http://twitter.com/search?q=Staken) | N/A |
-| 48 | [Wedstrijd](http://twitter.com/search?q=Wedstrijd) | N/A |
-| 49 | [Tijdig](http://twitter.com/search?q=Tijdig) | N/A |
-| 50 | [Van Haga](http://twitter.com/search?q=Van+Haga) | N/A |
+| 15 | [Lindhout](http://twitter.com/search?q=Lindhout) | N/A |
+| 16 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
+| 17 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 18 | [Rotterdam](http://twitter.com/search?q=Rotterdam) | N/A |
+| 19 | [Azarkan](http://twitter.com/search?q=Azarkan) | N/A |
+| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 21 | [Mario Been](http://twitter.com/search?q=Mario+Been) | N/A |
+| 22 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 23 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 24 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 25 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 26 | [dassen](http://twitter.com/search?q=dassen) | N/A |
+| 27 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 28 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
+| 29 | [Kwakman](http://twitter.com/search?q=Kwakman) | N/A |
+| 30 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 31 | [Ouwehand](http://twitter.com/search?q=Ouwehand) | N/A |
+| 32 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 33 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 34 | [Roelofarendsveen](http://twitter.com/search?q=Roelofarendsveen) | N/A |
+| 35 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 36 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
+| 37 | [NAVO](http://twitter.com/search?q=NAVO) | N/A |
+| 38 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 39 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 40 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 41 | [Ajacied](http://twitter.com/search?q=Ajacied) | N/A |
+| 42 | [Heerma](http://twitter.com/search?q=Heerma) | N/A |
+| 43 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 44 | [sint-oedenrode](http://twitter.com/search?q=sint-oedenrode) | N/A |
+| 45 | [staken](http://twitter.com/search?q=staken) | N/A |
+| 46 | [wedstrijd](http://twitter.com/search?q=wedstrijd) | N/A |
+| 47 | [Van Haga](http://twitter.com/search?q=Van+Haga) | N/A |
+| 48 | [tijdig](http://twitter.com/search?q=tijdig) | N/A |
+| 49 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 50 | [jahanbakhsh](http://twitter.com/search?q=jahanbakhsh) | N/A |
 
 
 

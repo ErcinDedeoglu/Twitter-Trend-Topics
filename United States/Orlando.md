@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-04-06 00:27:32 UTC`
+📆 Last Updated: `2023-04-06 01:45:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 2 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 3 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 4 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 5 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 6 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 7 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 8 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 9 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 10 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 11 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 12 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 13 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
-| 14 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
-| 15 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
-| 16 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 17 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
-| 18 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
-| 19 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
-| 20 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
-| 21 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 22 | [Switchblade](http://twitter.com/search?q=Switchblade) | N/A |
-| 23 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 24 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
-| 25 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 26 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 27 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
-| 28 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 29 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 30 | [Kaulig](http://twitter.com/search?q=Kaulig) | N/A |
-| 31 | [Field of Dreams](http://twitter.com/search?q=Field+of+Dreams) | Field of Dreams is a 1989 American fantasy-drama film directed by Phil Alden Robinson, starring Kevin Costner, Amy Madigan, James Earl Jones, Ray Liotta and Burt Lancaster in his final film role. The film's title comes from the line "If you build it, he will come" from the poem "Revelation" by American poet Archibald MacLeish. The phrase refers to the main character's belief that if he builds a baseball field in his cornfield, Shoeless Joe Jackson and other deceased baseball players will come to play on it. The phrase has become an idiom for achieving one's dreams. |
-| 32 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
-| 33 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 34 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 35 | [The Sandlot](http://twitter.com/search?q=The+Sandlot) | N/A |
-| 36 | [Chris Jericho](http://twitter.com/search?q=Chris+Jericho) | N/A |
-| 37 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 38 | [Juice Robinson](http://twitter.com/search?q=Juice+Robinson) | N/A |
-| 39 | [Bull Durham](http://twitter.com/search?q=Bull+Durham) | N/A |
-| 40 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 41 | [Seder](http://twitter.com/search?q=Seder) | N/A |
-| 42 | [Best Friends](http://twitter.com/search?q=Best+Friends) | N/A |
-| 43 | [Vanessa Williams](http://twitter.com/search?q=Vanessa+Williams) | N/A |
-| 44 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 45 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
-| 46 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 47 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 48 | [The Natural](http://twitter.com/search?q=The+Natural) | N/A |
-| 49 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 1 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 2 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 3 | [Vasy](http://twitter.com/search?q=Vasy) | N/A |
+| 4 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 5 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 6 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 7 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 8 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 9 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 10 | [#BarbieTheMovie](http://twitter.com/search?q=%23BarbieTheMovie) | N/A |
+| 11 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 12 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 13 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 14 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 15 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 16 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 17 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 18 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 19 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 20 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 21 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 22 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 23 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 24 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 25 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 26 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 27 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 28 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
+| 29 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
+| 30 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 31 | [Derozan](http://twitter.com/search?q=Derozan) | N/A |
+| 32 | [Killorn](http://twitter.com/search?q=Killorn) | N/A |
+| 33 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 34 | [All Out](http://twitter.com/search?q=All+Out) | N/A |
+| 35 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 36 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 37 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
+| 38 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 39 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 40 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 41 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
+| 42 | [Jamie Hayter](http://twitter.com/search?q=Jamie+Hayter) | N/A |
+| 43 | [Major League](http://twitter.com/search?q=Major+League) | Major League is a term used to refer to the highest level of professional sports in the United States and Canada. It is typically used to refer to the four major professional sports leagues in North America: Major League Baseball (MLB), the National Basketball Association (NBA), the National Football League (NFL), and the National Hockey League (NHL). |
+| 44 | [Long Island](http://twitter.com/search?q=Long+Island) | N/A |
+| 45 | [Field of Dreams](http://twitter.com/search?q=Field+of+Dreams) | Field of Dreams is a 1989 American fantasy-drama film directed by Phil Alden Robinson, starring Kevin Costner, Amy Madigan, James Earl Jones, Ray Liotta and Burt Lancaster in his final film role. The film's title comes from the line "If you build it, he will come" from the poem "Revelation" by American poet Archibald MacLeish. The phrase refers to the main character's belief that if he builds a baseball field in his cornfield, Shoeless Joe Jackson and other deceased baseball players will come to play on it. The phrase has become an idiom for achieving one's dreams. |
+| 46 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 47 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 48 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 49 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-04-06 00:27:16 UTC`
+📆 Last Updated: `2023-04-06 01:44:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,40 +30,41 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 13 | [New York](http://twitter.com/search?q=New+York) | N/A |
 | 14 | [Tool](http://twitter.com/search?q=Tool) | N/A |
 | 15 | [đỉnh](http://twitter.com/search?q=%c4%91%e1%bb%89nh) | N/A |
-| 16 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 17 | [Cushion Cover](http://twitter.com/search?q=Cushion+Cover) | N/A |
-| 18 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
-| 19 | [Cinco de Mayo Skull](http://twitter.com/search?q=Cinco+de+Mayo+Skull) | N/A |
-| 20 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
-| 21 | [Rose Skull](http://twitter.com/search?q=Rose+Skull) | N/A |
-| 22 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
-| 23 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 24 | [Motorcycle Skull](http://twitter.com/search?q=Motorcycle+Skull) | N/A |
-| 25 | [Happy Easter 2023](http://twitter.com/search?q=Happy+Easter+2023) | N/A |
-| 26 | [nhật](http://twitter.com/search?q=nh%e1%ba%adt) | N/A |
-| 27 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 28 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
-| 29 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 30 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 31 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 32 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 33 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
-| 34 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 35 | [TTTT](http://twitter.com/search?q=TTTT) | N/A |
-| 36 | [hàng](http://twitter.com/search?q=h%c3%a0ng) | N/A |
-| 37 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 38 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
-| 39 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 40 | [ngày](http://twitter.com/search?q=ng%c3%a0y) | N/A |
-| 41 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 42 | [Hyuk](http://twitter.com/search?q=Hyuk) | N/A |
-| 43 | [ho chi minh city](http://twitter.com/search?q=ho+chi+minh+city) | N/A |
-| 44 | [America](http://twitter.com/search?q=America) | N/A |
-| 45 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 46 | [Bình Dương](http://twitter.com/search?q=B%c3%acnh+D%c6%b0%c6%a1ng) | N/A |
-| 47 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 48 | [#thecloudxbecky](http://twitter.com/search?q=%23thecloudxbecky) | N/A |
-| 49 | [#massage_in_riyadh](http://twitter.com/search?q=%23massage_in_riyadh) | N/A |
+| 16 | [Cushion Cover](http://twitter.com/search?q=Cushion+Cover) | N/A |
+| 17 | [Cinco de Mayo Skull](http://twitter.com/search?q=Cinco+de+Mayo+Skull) | N/A |
+| 18 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
+| 19 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
+| 20 | [Rose Skull](http://twitter.com/search?q=Rose+Skull) | N/A |
+| 21 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
+| 22 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 23 | [Motorcycle Skull](http://twitter.com/search?q=Motorcycle+Skull) | N/A |
+| 24 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 25 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 26 | [Happy Easter 2023](http://twitter.com/search?q=Happy+Easter+2023) | N/A |
+| 27 | [nhật](http://twitter.com/search?q=nh%e1%ba%adt) | N/A |
+| 28 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 29 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 30 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 31 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 32 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
+| 33 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 34 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 35 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
+| 36 | [TTTT](http://twitter.com/search?q=TTTT) | N/A |
+| 37 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
+| 38 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 39 | [hàng](http://twitter.com/search?q=h%c3%a0ng) | N/A |
+| 40 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 41 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
+| 42 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 43 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 44 | [Biết](http://twitter.com/search?q=Bi%e1%ba%bft) | N/A |
+| 45 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 46 | [ngày](http://twitter.com/search?q=ng%c3%a0y) | N/A |
+| 47 | [hyuk](http://twitter.com/search?q=hyuk) | N/A |
+| 48 | [ho chi minh city](http://twitter.com/search?q=ho+chi+minh+city) | N/A |
+| 49 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 50 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
 
 
 

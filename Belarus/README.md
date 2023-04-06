@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-06 00:27:35 UTC`
+📆 Last Updated: `2023-04-06 01:45:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,14 +17,15 @@ This is top 50 for Belarus
 | ------- | ------------ | ------------ |
 | 1 | [#беларусь](http://twitter.com/search?q=%23%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
 | 2 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 3 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
-| 4 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 3 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 4 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
 | 5 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
 | 6 | [в беларуси](http://twitter.com/search?q=%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
 | 7 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
 | 8 | [хэ сюань](http://twitter.com/search?q=%d1%85%d1%8d+%d1%81%d1%8e%d0%b0%d0%bd%d1%8c) | N/A |
-| 9 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
-| 10 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
+| 9 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
+| 10 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
+| 11 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
 
 
 

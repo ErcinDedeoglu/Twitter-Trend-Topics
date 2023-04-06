@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-06 00:27:16 UTC`
+📆 Last Updated: `2023-04-06 01:44:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [#민규생일은_아름답기를_따뜻하길](http://twitter.com/search?q=%23%eb%af%bc%ea%b7%9c%ec%83%9d%ec%9d%bc%ec%9d%80_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b8%b0%eb%a5%bc_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b8%b8) | N/A |
 | 3 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
 | 4 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 5 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
-| 6 | [#루토야_스무살_해피벌스껄](http://twitter.com/search?q=%23%eb%a3%a8%ed%86%a0%ec%95%bc_%ec%8a%a4%eb%ac%b4%ec%82%b4_%ed%95%b4%ed%94%bc%eb%b2%8c%ec%8a%a4%ea%bb%84) | N/A |
+| 5 | [#thecloudxbecky](http://twitter.com/search?q=%23thecloudxbecky) | N/A |
+| 6 | [#EnchanTEENStarHARUTO](http://twitter.com/search?q=%23EnchanTEENStarHARUTO) | N/A |
 | 7 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
 | 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 9 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
-| 10 | [JOSHCULLEN WT PHOTOSHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+PHOTOSHOOT) | N/A |
-| 11 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
-| 12 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 13 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 14 | [JISOO FIRST WIN](http://twitter.com/search?q=JISOO+FIRST+WIN) | N/A |
-| 15 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 16 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
-| 17 | [Huwebes Santo](http://twitter.com/search?q=Huwebes+Santo) | N/A |
-| 18 | [Holy Wednesday](http://twitter.com/search?q=Holy+Wednesday) | N/A |
-| 19 | [KCULTURE NIGHT WITH iKON](http://twitter.com/search?q=KCULTURE+NIGHT+WITH+iKON) | N/A |
-| 20 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 21 | [pnvf](http://twitter.com/search?q=pnvf) | N/A |
-| 22 | [pbbgyo housemates reveal](http://twitter.com/search?q=pbbgyo+housemates+reveal) | N/A |
-| 23 | [BTOB MAY COMEBACK](http://twitter.com/search?q=BTOB+MAY+COMEBACK) | N/A |
-| 24 | [one year with still life](http://twitter.com/search?q=one+year+with+still+life) | N/A |
-| 25 | [aljay tc extras questunes](http://twitter.com/search?q=aljay+tc+extras+questunes) | N/A |
-| 26 | [vivoree wish bus debut](http://twitter.com/search?q=vivoree+wish+bus+debut) | N/A |
-| 27 | [LOOK FOR THE MAFIA SVT](http://twitter.com/search?q=LOOK+FOR+THE+MAFIA+SVT) | N/A |
-| 28 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
-| 29 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
-| 30 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 31 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 32 | [Pinuno](http://twitter.com/search?q=Pinuno) | N/A |
-| 33 | [shanelle as jayra](http://twitter.com/search?q=shanelle+as+jayra) | N/A |
-| 34 | [two the rescue](http://twitter.com/search?q=two+the+rescue) | N/A |
-| 35 | [shanelle agustin](http://twitter.com/search?q=shanelle+agustin) | N/A |
-| 36 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
-| 37 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 38 | [serbisyong bbmsara](http://twitter.com/search?q=serbisyong+bbmsara) | N/A |
-| 39 | [PARAISO COMING SOON](http://twitter.com/search?q=PARAISO+COMING+SOON) | N/A |
-| 40 | [alamat on the road pt](http://twitter.com/search?q=alamat+on+the+road+pt) | N/A |
-| 41 | [Jinyoung](http://twitter.com/search?q=Jinyoung) | N/A |
-| 42 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 43 | [AWESOME NIGHT WITH CHA EUNWOO](http://twitter.com/search?q=AWESOME+NIGHT+WITH+CHA+EUNWOO) | N/A |
-| 44 | [Congratulations Jisoo](http://twitter.com/search?q=Congratulations+Jisoo) | N/A |
-| 45 | [Passover](http://twitter.com/search?q=Passover) | N/A |
-| 46 | [miyerkules santo](http://twitter.com/search?q=miyerkules+santo) | N/A |
-| 47 | [Tinig](http://twitter.com/search?q=Tinig) | N/A |
+| 9 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 10 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
+| 11 | [HORI7ON SALAMAT OUT NOW](http://twitter.com/search?q=HORI7ON+SALAMAT+OUT+NOW) | N/A |
+| 12 | [JOSHCULLEN WT PHOTOSHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+PHOTOSHOOT) | N/A |
+| 13 | [JOSHCULLEN WT PHOTOSHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+PHOTOSHOOT) | N/A |
+| 14 | [FLOWER FIRST WIN](http://twitter.com/search?q=FLOWER+FIRST+WIN) | N/A |
+| 15 | [Huwebes Santo](http://twitter.com/search?q=Huwebes+Santo) | N/A |
+| 16 | [THE BLOTTER PAPER D4](http://twitter.com/search?q=THE+BLOTTER+PAPER+D4) | N/A |
+| 17 | [gigmoto](http://twitter.com/search?q=gigmoto) | N/A |
+| 18 | [Newark](http://twitter.com/search?q=Newark) | N/A |
+| 19 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 20 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 21 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 22 | [jeong jaehyun](http://twitter.com/search?q=jeong+jaehyun) | N/A |
+| 23 | [manny jacinto](http://twitter.com/search?q=manny+jacinto) | N/A |
+| 24 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 25 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 26 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 27 | [Greta Gerwig](http://twitter.com/search?q=Greta+Gerwig) | N/A |
+| 28 | [Moana](http://twitter.com/search?q=Moana) | N/A |
+| 29 | [rufa mae](http://twitter.com/search?q=rufa+mae) | N/A |
+| 30 | [JISOO FIRST WIN](http://twitter.com/search?q=JISOO+FIRST+WIN) | N/A |
+| 31 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
+| 32 | [PARAISO COMING SOON](http://twitter.com/search?q=PARAISO+COMING+SOON) | N/A |
+| 33 | [Pinuno](http://twitter.com/search?q=Pinuno) | N/A |
+| 34 | [BTOB MAY COMEBACK](http://twitter.com/search?q=BTOB+MAY+COMEBACK) | N/A |
+| 35 | [look for the mafia svt](http://twitter.com/search?q=look+for+the+mafia+svt) | N/A |
+| 36 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 37 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 38 | [Catanduanes](http://twitter.com/search?q=Catanduanes) | N/A |
+| 39 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 40 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 41 | [michael cera](http://twitter.com/search?q=michael+cera) | N/A |
+| 42 | [PNVF](http://twitter.com/search?q=PNVF) | N/A |
+| 43 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 44 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 45 | [Bright x Riser](http://twitter.com/search?q=Bright+x+Riser) | N/A |
+| 46 | [Visita Iglesia](http://twitter.com/search?q=Visita+Iglesia) | N/A |
+| 47 | [Emma Mackey](http://twitter.com/search?q=Emma+Mackey) | N/A |
 
 
 

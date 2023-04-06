@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-04-06 00:27:08 UTC`
+📆 Last Updated: `2023-04-06 01:44:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,43 +27,43 @@ This is top 50 for [Sweden](</Sweden>)
 | 10 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
 | 11 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |
 | 12 | [Glad Påsk](http://twitter.com/search?q=Glad+P%c3%a5sk) | N/A |
-| 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 14 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 15 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 16 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 17 | [öster](http://twitter.com/search?q=%c3%b6ster) | N/A |
-| 18 | [Skärholmen](http://twitter.com/search?q=Sk%c3%a4rholmen) | N/A |
-| 19 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 20 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 21 | [Ann Linde](http://twitter.com/search?q=Ann+Linde) | N/A |
+| 15 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 16 | [öster](http://twitter.com/search?q=%c3%b6ster) | N/A |
+| 17 | [Skärholmen](http://twitter.com/search?q=Sk%c3%a4rholmen) | N/A |
+| 18 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 19 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 20 | [ann linde](http://twitter.com/search?q=ann+linde) | N/A |
+| 21 | [Liss](http://twitter.com/search?q=Liss) | N/A |
 | 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 23 | [Liss](http://twitter.com/search?q=Liss) | N/A |
-| 24 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 25 | [nybro](http://twitter.com/search?q=nybro) | N/A |
-| 26 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 27 | [#svpol](http://twitter.com/search?q=%23svpol) | N/A |
-| 28 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 29 | [Kåberger](http://twitter.com/search?q=K%c3%a5berger) | N/A |
-| 30 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 31 | [#HV71](http://twitter.com/search?q=%23HV71) | N/A |
-| 32 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 33 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 34 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
-| 35 | [Turkarna](http://twitter.com/search?q=Turkarna) | N/A |
-| 36 | [rasmus paludan](http://twitter.com/search?q=rasmus+paludan) | N/A |
-| 37 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 38 | [Aktuellt](http://twitter.com/search?q=Aktuellt) | N/A |
-| 39 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 40 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 41 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 42 | [Nazister](http://twitter.com/search?q=Nazister) | N/A |
-| 43 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 44 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 45 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 46 | [bildt](http://twitter.com/search?q=bildt) | N/A |
-| 47 | [Alecta](http://twitter.com/search?q=Alecta) | N/A |
-| 48 | [färjestad](http://twitter.com/search?q=f%c3%a4rjestad) | N/A |
-| 49 | [leksand](http://twitter.com/search?q=leksand) | N/A |
+| 23 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 24 | [nybro](http://twitter.com/search?q=nybro) | N/A |
+| 25 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
+| 26 | [#svpol](http://twitter.com/search?q=%23svpol) | N/A |
+| 27 | [kåberger](http://twitter.com/search?q=k%c3%a5berger) | N/A |
+| 28 | [#hv71](http://twitter.com/search?q=%23hv71) | N/A |
+| 29 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 30 | [Turkarna](http://twitter.com/search?q=Turkarna) | N/A |
+| 31 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 32 | [rasmus paludan](http://twitter.com/search?q=rasmus+paludan) | N/A |
+| 33 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 34 | [aktuellt](http://twitter.com/search?q=aktuellt) | N/A |
+| 35 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 36 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 37 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 38 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 39 | [Sanna Marin](http://twitter.com/search?q=Sanna+Marin) | N/A |
+| 40 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 41 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 42 | [bildt](http://twitter.com/search?q=bildt) | N/A |
+| 43 | [alecta](http://twitter.com/search?q=alecta) | N/A |
+| 44 | [färjestad](http://twitter.com/search?q=f%c3%a4rjestad) | N/A |
+| 45 | [leksand](http://twitter.com/search?q=leksand) | N/A |
+| 46 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 47 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 48 | [Hovet](http://twitter.com/search?q=Hovet) | N/A |
+| 49 | [stråhle](http://twitter.com/search?q=str%c3%a5hle) | N/A |
 
 
 

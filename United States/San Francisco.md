@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-06 00:27:33 UTC`
+📆 Last Updated: `2023-04-06 01:45:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 2 | [#LTBU](http://twitter.com/search?q=%23LTBU) | N/A |
-| 3 | [Renfroe](http://twitter.com/search?q=Renfroe) | N/A |
-| 4 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 5 | [Drury](http://twitter.com/search?q=Drury) | N/A |
-| 6 | [Moore](http://twitter.com/search?q=Moore) | N/A |
-| 7 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 8 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
-| 9 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 10 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 11 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 12 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 13 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 14 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 15 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 16 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 17 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 18 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 19 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
-| 20 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
-| 21 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 22 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
-| 23 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 24 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
-| 25 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 26 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
-| 27 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
-| 28 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
-| 29 | [Switchblade](http://twitter.com/search?q=Switchblade) | N/A |
-| 30 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 31 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 32 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 33 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
-| 34 | [Field of Dreams](http://twitter.com/search?q=Field+of+Dreams) | Field of Dreams is a 1989 American fantasy-drama film directed by Phil Alden Robinson, starring Kevin Costner, Amy Madigan, James Earl Jones, Ray Liotta and Burt Lancaster in his final film role. The film's title comes from the line "If you build it, he will come" from the poem "Revelation" by American poet Archibald MacLeish. The phrase refers to the main character's belief that if he builds a baseball field in his cornfield, Shoeless Joe Jackson and other deceased baseball players will come to play on it. The phrase has become an idiom for achieving one's dreams. |
-| 35 | [Chris Jericho](http://twitter.com/search?q=Chris+Jericho) | N/A |
-| 36 | [Major League](http://twitter.com/search?q=Major+League) | Major League is a term used to refer to the highest level of professional sports in the United States and Canada. It is typically used to refer to the four major professional sports leagues in North America: Major League Baseball (MLB), the National Basketball Association (NBA), the National Football League (NFL), and the National Hockey League (NHL). |
-| 37 | [Kaulig](http://twitter.com/search?q=Kaulig) | N/A |
-| 38 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 39 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
-| 40 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 41 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 42 | [The Sandlot](http://twitter.com/search?q=The+Sandlot) | N/A |
-| 43 | [Mando](http://twitter.com/search?q=Mando) | N/A |
-| 44 | [Juice Robinson](http://twitter.com/search?q=Juice+Robinson) | N/A |
-| 45 | [Best Friends](http://twitter.com/search?q=Best+Friends) | N/A |
-| 46 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
-| 47 | [Bull Durham](http://twitter.com/search?q=Bull+Durham) | N/A |
-| 48 | [Seder](http://twitter.com/search?q=Seder) | N/A |
-| 49 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 1 | [#LTBU](http://twitter.com/search?q=%23LTBU) | N/A |
+| 2 | [#FirstContactDay](http://twitter.com/search?q=%23FirstContactDay) | N/A |
+| 3 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 4 | [Russell Westbrook](http://twitter.com/search?q=Russell+Westbrook) | N/A |
+| 5 | [Seder](http://twitter.com/search?q=Seder) | N/A |
+| 6 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
+| 7 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 8 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 9 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 10 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 11 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
+| 12 | [Libra](http://twitter.com/search?q=Libra) | N/A |
+| 13 | [#BarbieTheMovie](http://twitter.com/search?q=%23BarbieTheMovie) | N/A |
+| 14 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 15 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 16 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 17 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 18 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
+| 19 | [Coors](http://twitter.com/search?q=Coors) | N/A |
+| 20 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 21 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 22 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 23 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 24 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 25 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 26 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 27 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 28 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 29 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 30 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 31 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 32 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
+| 33 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
+| 34 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 35 | [Derozan](http://twitter.com/search?q=Derozan) | N/A |
+| 36 | [Killorn](http://twitter.com/search?q=Killorn) | N/A |
+| 37 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 38 | [All Out](http://twitter.com/search?q=All+Out) | N/A |
+| 39 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 40 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 41 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
+| 42 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 43 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 44 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 45 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
+| 46 | [Jamie Hayter](http://twitter.com/search?q=Jamie+Hayter) | N/A |
+| 47 | [Major League](http://twitter.com/search?q=Major+League) | Major League is a term used to refer to the highest level of professional sports in the United States and Canada. It is typically used to refer to the four major professional sports leagues in North America: Major League Baseball (MLB), the National Basketball Association (NBA), the National Football League (NFL), and the National Hockey League (NHL). |
+| 48 | [Long Island](http://twitter.com/search?q=Long+Island) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-04-06 00:27:06 UTC`
+📆 Last Updated: `2023-04-06 01:44:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 14 | [Rotterdam](http://twitter.com/search?q=Rotterdam) | N/A |
 | 15 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
 | 16 | [Lindhout](http://twitter.com/search?q=Lindhout) | N/A |
-| 17 | [Arne Slot](http://twitter.com/search?q=Arne+Slot) | N/A |
-| 18 | [Arena](http://twitter.com/search?q=Arena) | N/A |
-| 19 | [Mario Been](http://twitter.com/search?q=Mario+Been) | N/A |
-| 20 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 21 | [Kwakman](http://twitter.com/search?q=Kwakman) | N/A |
-| 22 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 23 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
-| 24 | [Hermans](http://twitter.com/search?q=Hermans) | N/A |
-| 25 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
-| 26 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 27 | [Roelofarendsveen](http://twitter.com/search?q=Roelofarendsveen) | N/A |
-| 28 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 29 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 30 | [Mooi](http://twitter.com/search?q=Mooi) | N/A |
-| 31 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 32 | [Ajacieden](http://twitter.com/search?q=Ajacieden) | N/A |
-| 33 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 34 | [Staken](http://twitter.com/search?q=Staken) | N/A |
-| 35 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 36 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 37 | [Dassen](http://twitter.com/search?q=Dassen) | N/A |
-| 38 | [Wedstrijd](http://twitter.com/search?q=Wedstrijd) | N/A |
-| 39 | [Voetbal](http://twitter.com/search?q=Voetbal) | N/A |
-| 40 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 41 | [Heerma](http://twitter.com/search?q=Heerma) | N/A |
-| 42 | [Tijdig](http://twitter.com/search?q=Tijdig) | N/A |
-| 43 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
-| 44 | [teze](http://twitter.com/search?q=teze) | N/A |
-| 45 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
-| 46 | [Wegwezen](http://twitter.com/search?q=Wegwezen) | N/A |
-| 47 | [Levenslang](http://twitter.com/search?q=Levenslang) | N/A |
-| 48 | [Jan Joost](http://twitter.com/search?q=Jan+Joost) | N/A |
-| 49 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 50 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 17 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 18 | [Mario Been](http://twitter.com/search?q=Mario+Been) | N/A |
+| 19 | [Kwakman](http://twitter.com/search?q=Kwakman) | N/A |
+| 20 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 21 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
+| 22 | [Hermans](http://twitter.com/search?q=Hermans) | N/A |
+| 23 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 24 | [Roelofarendsveen](http://twitter.com/search?q=Roelofarendsveen) | N/A |
+| 25 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 26 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 27 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
+| 28 | [Mooi](http://twitter.com/search?q=Mooi) | N/A |
+| 29 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 30 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 31 | [Ajacieden](http://twitter.com/search?q=Ajacieden) | N/A |
+| 32 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 33 | [staken](http://twitter.com/search?q=staken) | N/A |
+| 34 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 35 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 36 | [wedstrijd](http://twitter.com/search?q=wedstrijd) | N/A |
+| 37 | [Voetbal](http://twitter.com/search?q=Voetbal) | N/A |
+| 38 | [Heerma](http://twitter.com/search?q=Heerma) | N/A |
+| 39 | [tijdig](http://twitter.com/search?q=tijdig) | N/A |
+| 40 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
+| 41 | [teze](http://twitter.com/search?q=teze) | N/A |
+| 42 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 43 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
+| 44 | [Wegwezen](http://twitter.com/search?q=Wegwezen) | N/A |
+| 45 | [Levenslang](http://twitter.com/search?q=Levenslang) | N/A |
+| 46 | [jan joost](http://twitter.com/search?q=jan+joost) | N/A |
+| 47 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 48 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 49 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 50 | [Ouwehand](http://twitter.com/search?q=Ouwehand) | N/A |
 
 
 

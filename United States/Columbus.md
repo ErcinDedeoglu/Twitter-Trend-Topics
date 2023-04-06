@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-04-06 00:27:28 UTC`
+📆 Last Updated: `2023-04-06 01:45:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kwan](http://twitter.com/search?q=Kwan) | N/A |
-| 2 | [Hunter Gaddis](http://twitter.com/search?q=Hunter+Gaddis) | N/A |
-| 3 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
-| 4 | [Myles Straw](http://twitter.com/search?q=Myles+Straw) | N/A |
-| 5 | [Josh Bell](http://twitter.com/search?q=Josh+Bell) | N/A |
-| 6 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 7 | [#Guardians](http://twitter.com/search?q=%23Guardians) | N/A |
-| 8 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 1 | [London](http://twitter.com/search?q=London) | N/A |
+| 2 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 3 | [Myles Straw](http://twitter.com/search?q=Myles+Straw) | N/A |
+| 4 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
+| 5 | [#Guardians](http://twitter.com/search?q=%23Guardians) | N/A |
+| 6 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 7 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 8 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
 | 9 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 10 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 11 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 12 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 13 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 14 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 15 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
-| 16 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
-| 17 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
+| 10 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 11 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 12 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 13 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 14 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 15 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 16 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 17 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
 | 18 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 19 | [Joe Harris](http://twitter.com/search?q=Joe+Harris) | N/A |
-| 20 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 21 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
-| 22 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 23 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
-| 24 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
-| 25 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
-| 26 | [Switchblade](http://twitter.com/search?q=Switchblade) | N/A |
-| 27 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 28 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 29 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 30 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
-| 31 | [Field of Dreams](http://twitter.com/search?q=Field+of+Dreams) | Field of Dreams is a 1989 American fantasy-drama film directed by Phil Alden Robinson, starring Kevin Costner, Amy Madigan, James Earl Jones, Ray Liotta and Burt Lancaster in his final film role. The film's title comes from the line "If you build it, he will come" from the poem "Revelation" by American poet Archibald MacLeish. The phrase refers to the main character's belief that if he builds a baseball field in his cornfield, Shoeless Joe Jackson and other deceased baseball players will come to play on it. The phrase has become an idiom for achieving one's dreams. |
-| 32 | [Chris Jericho](http://twitter.com/search?q=Chris+Jericho) | N/A |
-| 33 | [Major League](http://twitter.com/search?q=Major+League) | Major League is a term used to refer to the highest level of professional sports in the United States and Canada. It is typically used to refer to the four major professional sports leagues in North America: Major League Baseball (MLB), the National Basketball Association (NBA), the National Football League (NFL), and the National Hockey League (NHL). |
-| 34 | [Kaulig](http://twitter.com/search?q=Kaulig) | N/A |
-| 35 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 36 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 37 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
-| 38 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 39 | [The Sandlot](http://twitter.com/search?q=The+Sandlot) | N/A |
-| 40 | [Mando](http://twitter.com/search?q=Mando) | N/A |
-| 41 | [Juice Robinson](http://twitter.com/search?q=Juice+Robinson) | N/A |
-| 42 | [Best Friends](http://twitter.com/search?q=Best+Friends) | N/A |
-| 43 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
-| 44 | [Bull Durham](http://twitter.com/search?q=Bull+Durham) | N/A |
-| 45 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 46 | [Seder](http://twitter.com/search?q=Seder) | N/A |
-| 47 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 48 | [Vanessa Williams](http://twitter.com/search?q=Vanessa+Williams) | N/A |
-| 49 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 19 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 20 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 21 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
+| 22 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
+| 23 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 24 | [Derozan](http://twitter.com/search?q=Derozan) | N/A |
+| 25 | [Killorn](http://twitter.com/search?q=Killorn) | N/A |
+| 26 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 27 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 28 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 29 | [All Out](http://twitter.com/search?q=All+Out) | N/A |
+| 30 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
+| 31 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 32 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 33 | [House of Black](http://twitter.com/search?q=House+of+Black) | N/A |
+| 34 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 35 | [Jamie Hayter](http://twitter.com/search?q=Jamie+Hayter) | N/A |
+| 36 | [Major League](http://twitter.com/search?q=Major+League) | Major League is a term used to refer to the highest level of professional sports in the United States and Canada. It is typically used to refer to the four major professional sports leagues in North America: Major League Baseball (MLB), the National Basketball Association (NBA), the National Football League (NFL), and the National Hockey League (NHL). |
+| 37 | [Long Island](http://twitter.com/search?q=Long+Island) | N/A |
+| 38 | [Field of Dreams](http://twitter.com/search?q=Field+of+Dreams) | Field of Dreams is a 1989 American fantasy-drama film directed by Phil Alden Robinson, starring Kevin Costner, Amy Madigan, James Earl Jones, Ray Liotta and Burt Lancaster in his final film role. The film's title comes from the line "If you build it, he will come" from the poem "Revelation" by American poet Archibald MacLeish. The phrase refers to the main character's belief that if he builds a baseball field in his cornfield, Shoeless Joe Jackson and other deceased baseball players will come to play on it. The phrase has become an idiom for achieving one's dreams. |
+| 39 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 40 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 41 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 42 | [LMAO CODY](http://twitter.com/search?q=LMAO+CODY) | N/A |
+| 43 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 44 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
+| 45 | [Obi Toppin](http://twitter.com/search?q=Obi+Toppin) | N/A |
+| 46 | [Clint](http://twitter.com/search?q=Clint) | N/A |
+| 47 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 48 | [Gina](http://twitter.com/search?q=Gina) | N/A |
+| 49 | [Komander](http://twitter.com/search?q=Komander) | N/A |
 
 
 

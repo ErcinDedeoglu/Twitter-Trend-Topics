@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-04-06 00:27:04 UTC`
+📆 Last Updated: `2023-04-06 01:44:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Germany](</Germany>)
 | 8 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 9 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
 | 10 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
-| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 12 | [Streich](http://twitter.com/search?q=Streich) | N/A |
+| 11 | [Streich](http://twitter.com/search?q=Streich) | N/A |
+| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 13 | [Claudia Neumann](http://twitter.com/search?q=Claudia+Neumann) | N/A |
-| 14 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 15 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
-| 16 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
-| 17 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 18 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
-| 19 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 14 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
+| 15 | [Reus](http://twitter.com/search?q=Reus) | N/A |
+| 16 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 17 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 18 | [torchance](http://twitter.com/search?q=torchance) | N/A |
+| 19 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
 | 20 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 21 | [Torchance](http://twitter.com/search?q=Torchance) | N/A |
-| 22 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 23 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 24 | [Brych](http://twitter.com/search?q=Brych) | N/A |
-| 25 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 26 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 27 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 28 | [Torschuss](http://twitter.com/search?q=Torschuss) | N/A |
-| 29 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 30 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 31 | [Dosen](http://twitter.com/search?q=Dosen) | N/A |
-| 32 | [Edin](http://twitter.com/search?q=Edin) | N/A |
-| 33 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 34 | [Leistung](http://twitter.com/search?q=Leistung) | N/A |
-| 35 | [Hänsel und Gretel](http://twitter.com/search?q=H%c3%a4nsel+und+Gretel) | N/A |
-| 36 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
-| 37 | [Frau Kellermann](http://twitter.com/search?q=Frau+Kellermann) | N/A |
-| 38 | [Timo Werner](http://twitter.com/search?q=Timo+Werner) | N/A |
-| 39 | [Flugtaxis](http://twitter.com/search?q=Flugtaxis) | N/A |
-| 40 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 41 | [First Concert](http://twitter.com/search?q=First+Concert) | N/A |
-| 42 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
-| 43 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
-| 44 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 45 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 46 | [Wäscheschleuder](http://twitter.com/search?q=W%c3%a4scheschleuder) | N/A |
-| 47 | [Dream Concert](http://twitter.com/search?q=Dream+Concert) | N/A |
-| 48 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 49 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
-| 50 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 21 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 22 | [brych](http://twitter.com/search?q=brych) | N/A |
+| 23 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 24 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 25 | [torschuss](http://twitter.com/search?q=torschuss) | N/A |
+| 26 | [Edin](http://twitter.com/search?q=Edin) | N/A |
+| 27 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 28 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 29 | [Hänsel und Gretel](http://twitter.com/search?q=H%c3%a4nsel+und+Gretel) | N/A |
+| 30 | [Frau Kellermann](http://twitter.com/search?q=Frau+Kellermann) | N/A |
+| 31 | [Timo Werner](http://twitter.com/search?q=Timo+Werner) | N/A |
+| 32 | [flugtaxis](http://twitter.com/search?q=flugtaxis) | N/A |
+| 33 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 34 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
+| 35 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
+| 36 | [Dosen](http://twitter.com/search?q=Dosen) | N/A |
+| 37 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 38 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 39 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 40 | [Dream Concert](http://twitter.com/search?q=Dream+Concert) | N/A |
+| 41 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 42 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
+| 43 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 44 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 45 | [stadionsprecher](http://twitter.com/search?q=stadionsprecher) | N/A |
+| 46 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 47 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 48 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 49 | [handspiel](http://twitter.com/search?q=handspiel) | N/A |
+| 50 | [Watzke](http://twitter.com/search?q=Watzke) | N/A |
 
 
 
