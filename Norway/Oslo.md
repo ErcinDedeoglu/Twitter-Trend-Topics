@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-04-06 05:17:17 UTC`
+📆 Last Updated: `2023-04-06 06:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for [Norway](</Norway>)
 | 14 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
 | 15 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
 | 16 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 17 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 18 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 19 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 20 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 22 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 23 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 24 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 17 | [VG-børsen](http://twitter.com/search?q=VG-b%c3%b8rsen) | N/A |
+| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 19 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 20 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 21 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 22 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 24 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 25 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 26 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 27 | [forsvaret](http://twitter.com/search?q=forsvaret) | N/A |
+| 27 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
 | 28 | [Italy](http://twitter.com/search?q=Italy) | N/A |
 | 29 | [eliteserien 2023](http://twitter.com/search?q=eliteserien+2023) | N/A |
 | 30 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 31 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 32 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 33 | [sovjetunionen](http://twitter.com/search?q=sovjetunionen) | N/A |
-| 34 | [nnpf](http://twitter.com/search?q=nnpf) | N/A |
-| 35 | [Brannvesenet](http://twitter.com/search?q=Brannvesenet) | N/A |
-| 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 37 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 38 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
-| 39 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 40 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
-| 41 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 42 | [Asker](http://twitter.com/search?q=Asker) | N/A |
-| 43 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 44 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
-| 45 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 46 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 47 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 48 | [storhamar](http://twitter.com/search?q=storhamar) | N/A |
-| 49 | [gardermoen](http://twitter.com/search?q=gardermoen) | N/A |
-| 50 | [#HearUsNiantic](http://twitter.com/search?q=%23HearUsNiantic) | N/A |
+| 31 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 32 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 33 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 34 | [Sovjetunionen](http://twitter.com/search?q=Sovjetunionen) | N/A |
+| 35 | [nnpf](http://twitter.com/search?q=nnpf) | N/A |
+| 36 | [Brannvesenet](http://twitter.com/search?q=Brannvesenet) | N/A |
+| 37 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 38 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 39 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 40 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
+| 41 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 42 | [Dogecoin](http://twitter.com/search?q=Dogecoin) | N/A |
+| 43 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 44 | [Asker](http://twitter.com/search?q=Asker) | N/A |
+| 45 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 46 | [Fortnite](http://twitter.com/search?q=Fortnite) | N/A |
+| 47 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 48 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 49 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 50 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 
 
 

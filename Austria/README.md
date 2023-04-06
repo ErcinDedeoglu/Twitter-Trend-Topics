@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-06 05:17:52 UTC`
+📆 Last Updated: `2023-04-06 06:18:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Austria
 | ------- | ------------ | ------------ |
 | 1 | [#scrsvr](http://twitter.com/search?q=%23scrsvr) | N/A |
 | 2 | [#fcbscf](http://twitter.com/search?q=%23fcbscf) | N/A |
-| 3 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
+| 3 | [#scr2023](http://twitter.com/search?q=%23scr2023) | N/A |
 | 4 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
-| 5 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 6 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 7 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
-| 8 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 9 | [#öfbcup](http://twitter.com/search?q=%23%c3%b6fbcup) | N/A |
-| 10 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
-| 11 | [sujets](http://twitter.com/search?q=sujets) | N/A |
-| 12 | [Franz](http://twitter.com/search?q=Franz) | N/A |
-| 13 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
-| 14 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 15 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 16 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 17 | [Menschlichkeit](http://twitter.com/search?q=Menschlichkeit) | N/A |
-| 18 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 19 | [Posten](http://twitter.com/search?q=Posten) | N/A |
-| 20 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
-| 21 | [Korrektur](http://twitter.com/search?q=Korrektur) | N/A |
-| 22 | [vermögenssteuer](http://twitter.com/search?q=verm%c3%b6genssteuer) | N/A |
-| 23 | [ArtStyleMimi](http://twitter.com/search?q=ArtStyleMimi) | N/A |
-| 24 | [mittelstand](http://twitter.com/search?q=mittelstand) | N/A |
-| 25 | [plakat](http://twitter.com/search?q=plakat) | N/A |
-| 26 | [Kommunisten](http://twitter.com/search?q=Kommunisten) | N/A |
-| 27 | [Förderungen](http://twitter.com/search?q=F%c3%b6rderungen) | N/A |
-| 28 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 29 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
-| 30 | [Balken](http://twitter.com/search?q=Balken) | N/A |
-| 31 | [Militär](http://twitter.com/search?q=Milit%c3%a4r) | N/A |
-| 32 | [Boomer](http://twitter.com/search?q=Boomer) | N/A |
-| 33 | [Preisen](http://twitter.com/search?q=Preisen) | N/A |
-| 34 | [Terror](http://twitter.com/search?q=Terror) | N/A |
-| 35 | [Viren](http://twitter.com/search?q=Viren) | N/A |
-| 36 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
-| 37 | [klenk](http://twitter.com/search?q=klenk) | N/A |
-| 38 | [Training](http://twitter.com/search?q=Training) | N/A |
-| 39 | [Schatz](http://twitter.com/search?q=Schatz) | N/A |
-| 40 | [abwesenheit](http://twitter.com/search?q=abwesenheit) | N/A |
-| 41 | [Aspekt](http://twitter.com/search?q=Aspekt) | N/A |
-| 42 | [Pflicht](http://twitter.com/search?q=Pflicht) | N/A |
-| 43 | [thomas schmid](http://twitter.com/search?q=thomas+schmid) | N/A |
-| 44 | [Walach](http://twitter.com/search?q=Walach) | N/A |
-| 45 | [Schublade](http://twitter.com/search?q=Schublade) | N/A |
-| 46 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 47 | [Kauf](http://twitter.com/search?q=Kauf) | N/A |
-| 48 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 49 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 50 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
+| 5 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
+| 6 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
+| 7 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 8 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 9 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 10 | [Sujets](http://twitter.com/search?q=Sujets) | N/A |
+| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 12 | [Kunst](http://twitter.com/search?q=Kunst) | N/A |
+| 13 | [Eindruck](http://twitter.com/search?q=Eindruck) | N/A |
+| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 16 | [Diskussionen](http://twitter.com/search?q=Diskussionen) | N/A |
+| 17 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 18 | [Virus](http://twitter.com/search?q=Virus) | N/A |
+| 19 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 20 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
+| 21 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
+| 22 | [Kampagne](http://twitter.com/search?q=Kampagne) | N/A |
+| 23 | [Stress](http://twitter.com/search?q=Stress) | N/A |
+| 24 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 25 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
+| 26 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
+| 27 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 28 | [Erkenntnis](http://twitter.com/search?q=Erkenntnis) | N/A |
+| 29 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 30 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
+| 31 | [Zeitungen](http://twitter.com/search?q=Zeitungen) | N/A |
+| 32 | [Griff](http://twitter.com/search?q=Griff) | N/A |
+| 33 | [Argument](http://twitter.com/search?q=Argument) | N/A |
+| 34 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
+| 35 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 36 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
+| 37 | [Spruch](http://twitter.com/search?q=Spruch) | N/A |
+| 38 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 39 | [Kerl](http://twitter.com/search?q=Kerl) | N/A |
+| 40 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 41 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 42 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 43 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 44 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 45 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
+| 46 | [Posten](http://twitter.com/search?q=Posten) | N/A |
+| 47 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 48 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
+| 49 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 50 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-04-06 05:17:12 UTC`
+📆 Last Updated: `2023-04-06 06:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
-| 2 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 3 | [#fcbscf](http://twitter.com/search?q=%23fcbscf) | N/A |
+| 2 | [#fcbscf](http://twitter.com/search?q=%23fcbscf) | N/A |
+| 3 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
 | 4 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
-| 5 | [#fcnvfb](http://twitter.com/search?q=%23fcnvfb) | N/A |
-| 6 | [#LeipzigBVB](http://twitter.com/search?q=%23LeipzigBVB) | N/A |
-| 7 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 8 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 9 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 10 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 11 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 12 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
-| 13 | [Claudia Neumann](http://twitter.com/search?q=Claudia+Neumann) | N/A |
-| 14 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 15 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 16 | [Streich](http://twitter.com/search?q=Streich) | N/A |
-| 17 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 18 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 19 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 20 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 21 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 22 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
-| 23 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 24 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 25 | [torchance](http://twitter.com/search?q=torchance) | N/A |
-| 26 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
-| 27 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 28 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
-| 29 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 30 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 31 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
-| 32 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 33 | [Guten Morgen Swen](http://twitter.com/search?q=Guten+Morgen+Swen) | N/A |
-| 34 | [Wunderschönen](http://twitter.com/search?q=Wundersch%c3%b6nen) | N/A |
-| 35 | [Brych](http://twitter.com/search?q=Brych) | N/A |
-| 36 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
-| 37 | [Timo Werner](http://twitter.com/search?q=Timo+Werner) | N/A |
-| 38 | [Torschuss](http://twitter.com/search?q=Torschuss) | N/A |
-| 39 | [Hänsel und Gretel](http://twitter.com/search?q=H%c3%a4nsel+und+Gretel) | N/A |
-| 40 | [Frau Kellermann](http://twitter.com/search?q=Frau+Kellermann) | N/A |
-| 41 | [Dienstgrad](http://twitter.com/search?q=Dienstgrad) | N/A |
-| 42 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 43 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 44 | [brazzo](http://twitter.com/search?q=brazzo) | N/A |
-| 45 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 46 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 47 | [stadionsprecher](http://twitter.com/search?q=stadionsprecher) | N/A |
-| 48 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 5 | [#LeipzigBVB](http://twitter.com/search?q=%23LeipzigBVB) | N/A |
+| 6 | [#fcnvfb](http://twitter.com/search?q=%23fcnvfb) | N/A |
+| 7 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 8 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
+| 9 | [FREIBURG](http://twitter.com/search?q=FREIBURG) | N/A |
+| 10 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 11 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 12 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 13 | [Moin](http://twitter.com/search?q=Moin) | N/A |
+| 14 | [Letzter Arbeitstag](http://twitter.com/search?q=Letzter+Arbeitstag) | N/A |
+| 15 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 17 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 18 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
+| 19 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 20 | [Reus](http://twitter.com/search?q=Reus) | N/A |
+| 21 | [torchance](http://twitter.com/search?q=torchance) | N/A |
+| 22 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 23 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
+| 24 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 25 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
+| 26 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 27 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
+| 28 | [brazzo](http://twitter.com/search?q=brazzo) | N/A |
+| 29 | [Claudia Neumann](http://twitter.com/search?q=Claudia+Neumann) | N/A |
+| 30 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
+| 31 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
+| 32 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 33 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 34 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 35 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
+| 36 | [Wunderschönen](http://twitter.com/search?q=Wundersch%c3%b6nen) | N/A |
+| 37 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 38 | [Tanzverbot](http://twitter.com/search?q=Tanzverbot) | N/A |
+| 39 | [Streich](http://twitter.com/search?q=Streich) | N/A |
+| 40 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 41 | [Torschuss](http://twitter.com/search?q=Torschuss) | N/A |
+| 42 | [Brych](http://twitter.com/search?q=Brych) | N/A |
+| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 44 | [Hänsel und Gretel](http://twitter.com/search?q=H%c3%a4nsel+und+Gretel) | N/A |
+| 45 | [Edin](http://twitter.com/search?q=Edin) | N/A |
+| 46 | [Kellermann](http://twitter.com/search?q=Kellermann) | N/A |
+| 47 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 48 | [Timo Werner](http://twitter.com/search?q=Timo+Werner) | N/A |
 | 49 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 50 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 50 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 
 
 

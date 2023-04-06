@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracay
 
-📆 Last Updated: `2023-04-06 05:17:04 UTC`
+📆 Last Updated: `2023-04-06 06:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,10 +28,10 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 11 | [#SemanaMayorEnAmor](http://twitter.com/search?q=%23SemanaMayorEnAmor) | N/A |
 | 12 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 13 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 14 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 15 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 16 | [Alfredo Chirinos](http://twitter.com/search?q=Alfredo+Chirinos) | N/A |
-| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 14 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 15 | [Alfredo Chirinos](http://twitter.com/search?q=Alfredo+Chirinos) | N/A |
+| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 17 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
 | 18 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 19 | [Juan Almeida](http://twitter.com/search?q=Juan+Almeida) | N/A |
 | 20 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
@@ -44,26 +44,26 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 27 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
 | 28 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
 | 29 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 30 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 31 | [Amador Bendayan](http://twitter.com/search?q=Amador+Bendayan) | N/A |
-| 32 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 33 | [Mayra Alejandra](http://twitter.com/search?q=Mayra+Alejandra) | N/A |
-| 34 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 35 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 36 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 30 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 31 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 32 | [Amador Bendayan](http://twitter.com/search?q=Amador+Bendayan) | N/A |
+| 33 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 34 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 35 | [Mayra Alejandra](http://twitter.com/search?q=Mayra+Alejandra) | N/A |
+| 36 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 37 | [Rómulo Gallegos](http://twitter.com/search?q=R%c3%b3mulo+Gallegos) | N/A |
 | 38 | [Basílica de Santa Teresa](http://twitter.com/search?q=Bas%c3%adlica+de+Santa+Teresa) | N/A |
-| 39 | [Miriam Ochoa](http://twitter.com/search?q=Miriam+Ochoa) | N/A |
-| 40 | [Andrés Eloy Blanco](http://twitter.com/search?q=Andr%c3%a9s+Eloy+Blanco) | N/A |
-| 41 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 39 | [Andrés Eloy Blanco](http://twitter.com/search?q=Andr%c3%a9s+Eloy+Blanco) | N/A |
+| 40 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 41 | [Mercedes Sosa](http://twitter.com/search?q=Mercedes+Sosa) | N/A |
 | 42 | [Pedro Vargas](http://twitter.com/search?q=Pedro+Vargas) | N/A |
-| 43 | [Mercedes Sosa](http://twitter.com/search?q=Mercedes+Sosa) | N/A |
-| 44 | [César Farías](http://twitter.com/search?q=C%c3%a9sar+Far%c3%adas) | N/A |
-| 45 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
-| 46 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 47 | [Rómulo Otero](http://twitter.com/search?q=R%c3%b3mulo+Otero) | N/A |
-| 48 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 49 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
+| 43 | [César Farías](http://twitter.com/search?q=C%c3%a9sar+Far%c3%adas) | N/A |
+| 44 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
+| 45 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 46 | [Rómulo Otero](http://twitter.com/search?q=R%c3%b3mulo+Otero) | N/A |
+| 47 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 48 | [Julio Jaramillo](http://twitter.com/search?q=Julio+Jaramillo) | N/A |
+| 49 | [Margarita](http://twitter.com/search?q=Margarita) | N/A |
 
 
 

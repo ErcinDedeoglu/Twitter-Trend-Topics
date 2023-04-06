@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-04-06 05:17:40 UTC`
+📆 Last Updated: `2023-04-06 06:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Turkey](</Turkey>)
 | 2 | [#GSvİBFK](http://twitter.com/search?q=%23GSv%c4%b0BFK) | N/A |
 | 3 | [#Kudüs](http://twitter.com/search?q=%23Kud%c3%bcs) | N/A |
 | 4 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 5 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
-| 6 | [#AvukatlarGünü](http://twitter.com/search?q=%23AvukatlarG%c3%bcn%c3%bc) | N/A |
-| 7 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
-| 8 | [Uyuşturucu](http://twitter.com/search?q=Uyu%c5%9fturucu) | N/A |
-| 9 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
-| 10 | [Cumhurbaşkanı Özel](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+%c3%96zel) | N/A |
-| 11 | [Kadir Sağlam](http://twitter.com/search?q=Kadir+Sa%c4%9flam) | N/A |
-| 12 | [yerli güç](http://twitter.com/search?q=yerli+g%c3%bc%c3%a7) | N/A |
-| 13 | [Kaan Ayhan](http://twitter.com/search?q=Kaan+Ayhan) | Kaan Ayhan is a Turkish name. It is composed of two words: Kaan, which means "lord" or "ruler," and Ayhan, which means "moon." In English, the name Kaan Ayhan can be translated to mean "Lord of the Moon." |
-| 14 | [iyikidoğdun erenalan](http://twitter.com/search?q=iyikido%c4%9fdun+erenalan) | N/A |
-| 15 | [OY BEKLEME KEMAL](http://twitter.com/search?q=OY+BEKLEME+KEMAL) | N/A |
-| 16 | [Trabzon](http://twitter.com/search?q=Trabzon) | Trabzon is a city in northeastern Turkey, located on the Black Sea coast. It is the capital of Trabzon Province and one of the oldest cities in the country. The name Trabzon comes from the Greek word “Trapezounta”, which means “table” or “bench”. |
-| 17 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
-| 18 | [denklikteadalet istiyoruz](http://twitter.com/search?q=denklikteadalet+istiyoruz) | N/A |
-| 19 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
-| 20 | [Bağcılar Belediyesi](http://twitter.com/search?q=Ba%c4%9fc%c4%b1lar+Belediyesi) | N/A |
-| 21 | [bagkurucozene iktidarderiz](http://twitter.com/search?q=bagkurucozene+iktidarderiz) | N/A |
-| 22 | [Cengiz Çandar](http://twitter.com/search?q=Cengiz+%c3%87andar) | N/A |
-| 23 | [Koyun](http://twitter.com/search?q=Koyun) | N/A |
-| 24 | [barış alper](http://twitter.com/search?q=bar%c4%b1%c5%9f+alper) | N/A |
-| 25 | [seçiminkilidi yapıkayıt](http://twitter.com/search?q=se%c3%a7iminkilidi+yap%c4%b1kay%c4%b1t) | N/A |
-| 26 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 27 | [Vizeyi](http://twitter.com/search?q=Vizeyi) | N/A |
-| 28 | [Tam 2](http://twitter.com/search?q=Tam+2) | N/A |
+| 5 | [#Persembe](http://twitter.com/search?q=%23Persembe) | #Persembe is a Turkish word meaning Thursday. |
+| 6 | [#Persembe](http://twitter.com/search?q=%23Persembe) | #Persembe is a Turkish word meaning Thursday. |
+| 7 | [Bağcılar Belediyesi](http://twitter.com/search?q=Ba%c4%9fc%c4%b1lar+Belediyesi) | N/A |
+| 8 | [Cengiz Çandar](http://twitter.com/search?q=Cengiz+%c3%87andar) | N/A |
+| 9 | [Okan](http://twitter.com/search?q=Okan) | Okan is a Japanese word that means "mother." It is used as a term of endearment and respect for one's mother. |
+| 10 | [Uyuşturucu](http://twitter.com/search?q=Uyu%c5%9fturucu) | N/A |
+| 11 | [Cumhurbaşkanı Özel](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+%c3%96zel) | N/A |
+| 12 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
+| 13 | [Kadir Sağlam](http://twitter.com/search?q=Kadir+Sa%c4%9flam) | N/A |
+| 14 | [yerli güç](http://twitter.com/search?q=yerli+g%c3%bc%c3%a7) | N/A |
+| 15 | [Kaan Ayhan](http://twitter.com/search?q=Kaan+Ayhan) | Kaan Ayhan is a Turkish name. It is composed of two words: Kaan, which means "lord" or "ruler," and Ayhan, which means "moon." In English, the name Kaan Ayhan can be translated to mean "Lord of the Moon." |
+| 16 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 17 | [OY BEKLEME KEMAL](http://twitter.com/search?q=OY+BEKLEME+KEMAL) | N/A |
+| 18 | [Trabzon](http://twitter.com/search?q=Trabzon) | Trabzon is a city in northeastern Turkey, located on the Black Sea coast. It is the capital of Trabzon Province and one of the oldest cities in the country. The name Trabzon comes from the Greek word “Trapezounta”, which means “table” or “bench”. |
+| 19 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
+| 20 | [Lale](http://twitter.com/search?q=Lale) | N/A |
+| 21 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
+| 22 | [Emre Belözoğlu](http://twitter.com/search?q=Emre+Bel%c3%b6zo%c4%9flu) | N/A |
+| 23 | [bagkurucozene iktidarderiz](http://twitter.com/search?q=bagkurucozene+iktidarderiz) | N/A |
+| 24 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
+| 25 | [Koyun](http://twitter.com/search?q=Koyun) | N/A |
+| 26 | [barış alper](http://twitter.com/search?q=bar%c4%b1%c5%9f+alper) | N/A |
+| 27 | [seçiminkilidi yapıkayıt](http://twitter.com/search?q=se%c3%a7iminkilidi+yap%c4%b1kay%c4%b1t) | N/A |
+| 28 | [Vizeyi](http://twitter.com/search?q=Vizeyi) | N/A |
 | 29 | [Müfettiş Özlükİstiyor](http://twitter.com/search?q=M%c3%bcfetti%c5%9f+%c3%96zl%c3%bck%c4%b0stiyor) | N/A |
-| 30 | [Özgür Yankaya](http://twitter.com/search?q=%c3%96zg%c3%bcr+Yankaya) | N/A |
+| 30 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
 | 31 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
-| 32 | [Hakem](http://twitter.com/search?q=Hakem) | Hakem is an Arabic word meaning "ruler" or "judge". It is used to refer to a person who has authority over a certain area or situation. |
+| 32 | [DenklikteAdalet İstiyoruz](http://twitter.com/search?q=DenklikteAdalet+%c4%b0stiyoruz) | N/A |
 | 33 | [siziseviyoruz aytol](http://twitter.com/search?q=siziseviyoruz+aytol) | N/A |
-| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 34 | [Hakem](http://twitter.com/search?q=Hakem) | Hakem is an Arabic word meaning "ruler" or "judge". It is used to refer to a person who has authority over a certain area or situation. |
 | 35 | [Komutanı Muhammed](http://twitter.com/search?q=Komutan%c4%b1+Muhammed) | N/A |
-| 36 | [PatnosCezaevi Suçİşliyor](http://twitter.com/search?q=PatnosCezaevi+Su%c3%a7%c4%b0%c5%9fliyor) | N/A |
-| 37 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 38 | [İdris Baluken](http://twitter.com/search?q=%c4%b0dris+Baluken) | N/A |
-| 39 | [Nebati](http://twitter.com/search?q=Nebati) | N/A |
-| 40 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 41 | [Operasyon VAR](http://twitter.com/search?q=Operasyon+VAR) | N/A |
-| 42 | [Kasıt VAR](http://twitter.com/search?q=Kas%c4%b1t+VAR) | N/A |
-| 43 | [Sırrı Sakık](http://twitter.com/search?q=S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
-| 44 | [Gününüz](http://twitter.com/search?q=G%c3%bcn%c3%bcn%c3%bcz) | N/A |
-| 45 | [Erman Toroğlu](http://twitter.com/search?q=Erman+Toro%c4%9flu) | N/A |
-| 46 | [Avrupa'ya](http://twitter.com/search?q=Avrupa%27ya) | N/A |
-| 47 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
-| 48 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
-| 49 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
+| 36 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
+| 37 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 38 | [Özgür Yankaya](http://twitter.com/search?q=%c3%96zg%c3%bcr+Yankaya) | N/A |
+| 39 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
+| 40 | [Nebati](http://twitter.com/search?q=Nebati) | N/A |
+| 41 | [PatnosCezaevi Suçİşliyor](http://twitter.com/search?q=PatnosCezaevi+Su%c3%a7%c4%b0%c5%9fliyor) | N/A |
+| 42 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 43 | [Operasyon VAR](http://twitter.com/search?q=Operasyon+VAR) | N/A |
+| 44 | [Sırrı Sakık](http://twitter.com/search?q=S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
+| 45 | [İdris Baluken](http://twitter.com/search?q=%c4%b0dris+Baluken) | N/A |
+| 46 | [Kasıt VAR](http://twitter.com/search?q=Kas%c4%b1t+VAR) | N/A |
+| 47 | [Erman Toroğlu](http://twitter.com/search?q=Erman+Toro%c4%9flu) | N/A |
+| 48 | [Allah'tan](http://twitter.com/search?q=Allah%27tan) | Allah'tan is a Turkish phrase that translates to "from Allah" in English. It is used to express gratitude or appreciation for something that has been given or received. |
+| 49 | [Avrupa'ya](http://twitter.com/search?q=Avrupa%27ya) | N/A |
 | 50 | [Temiz](http://twitter.com/search?q=Temiz) | N/A |
 
 

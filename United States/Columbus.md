@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-04-06 05:17:43 UTC`
+📆 Last Updated: `2023-04-06 06:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 2 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 3 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 4 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 5 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 6 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 7 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 1 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 3 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 4 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 5 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 6 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 7 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
 | 8 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 9 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
+| 9 | [#SUGAxNBA](http://twitter.com/search?q=%23SUGAxNBA) | N/A |
 | 10 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 11 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 12 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 13 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 14 | [Bones Hyland](http://twitter.com/search?q=Bones+Hyland) | N/A |
-| 15 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 16 | [iPod](http://twitter.com/search?q=iPod) | N/A |
-| 17 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 18 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 19 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 20 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 21 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 22 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 23 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
-| 24 | [RFK Jr](http://twitter.com/search?q=RFK+Jr) | N/A |
-| 25 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 26 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 27 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 28 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
-| 29 | [Many Men](http://twitter.com/search?q=Many+Men) | N/A |
-| 30 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 31 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
-| 32 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 11 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 12 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 13 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 14 | [#WWHL](http://twitter.com/search?q=%23WWHL) | N/A |
+| 15 | [iPod](http://twitter.com/search?q=iPod) | N/A |
+| 16 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 17 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 18 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 19 | [Bones Hyland](http://twitter.com/search?q=Bones+Hyland) | N/A |
+| 20 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 21 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 22 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 23 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 24 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 25 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 26 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
+| 27 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 28 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 29 | [RFK Jr](http://twitter.com/search?q=RFK+Jr) | N/A |
+| 30 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 31 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 32 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
 | 33 | [Clips](http://twitter.com/search?q=Clips) | N/A |
-| 34 | [The Gunns](http://twitter.com/search?q=The+Gunns) | N/A |
-| 35 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 36 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 37 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
-| 38 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 39 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 40 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 41 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 42 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
-| 43 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 44 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 45 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 46 | [All Out](http://twitter.com/search?q=All+Out) | N/A |
-| 47 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 48 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 49 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 50 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
+| 34 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 35 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
+| 36 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 37 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 38 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 39 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
+| 40 | [Katie](http://twitter.com/search?q=Katie) | N/A |
+| 41 | [Many Men](http://twitter.com/search?q=Many+Men) | N/A |
+| 42 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 43 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 44 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 45 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 46 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 47 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 48 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 49 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 50 | [Durk](http://twitter.com/search?q=Durk) | N/A |
 
 
 
