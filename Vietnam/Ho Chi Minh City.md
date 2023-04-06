@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-04-06 03:18:04 UTC`
+📆 Last Updated: `2023-04-06 04:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Vietnam](</Vietnam>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 2 | [#spring_sunshine_lew_day](http://twitter.com/search?q=%23spring_sunshine_lew_day) | N/A |
-| 3 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 4 | [#温斗は一輪で絵になるRose](http://twitter.com/search?q=%23%e6%b8%a9%e6%96%97%e3%81%af%e4%b8%80%e8%bc%aa%e3%81%a7%e7%b5%b5%e3%81%ab%e3%81%aa%e3%82%8bRose) | N/A |
-| 5 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 6 | [#GETRISINGTORISER](http://twitter.com/search?q=%23GETRISINGTORISER) | N/A |
-| 7 | [Protector](http://twitter.com/search?q=Protector) | N/A |
-| 8 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
-| 9 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
-| 10 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 11 | [Tool](http://twitter.com/search?q=Tool) | N/A |
-| 12 | [Grim Reaper](http://twitter.com/search?q=Grim+Reaper) | N/A |
-| 13 | [Rose Skull](http://twitter.com/search?q=Rose+Skull) | N/A |
-| 14 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
-| 15 | [Cinco de Mayo Skull](http://twitter.com/search?q=Cinco+de+Mayo+Skull) | N/A |
-| 16 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
-| 17 | [Punisher Skull](http://twitter.com/search?q=Punisher+Skull) | N/A |
-| 18 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
-| 19 | [Cushion Cover](http://twitter.com/search?q=Cushion+Cover) | N/A |
-| 20 | [Motorcycle Skull](http://twitter.com/search?q=Motorcycle+Skull) | N/A |
-| 21 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 22 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 23 | [Hong](http://twitter.com/search?q=Hong) | N/A |
-| 24 | [Happy Easter 2023](http://twitter.com/search?q=Happy+Easter+2023) | N/A |
-| 25 | [Flower Skull](http://twitter.com/search?q=Flower+Skull) | N/A |
-| 26 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 27 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 28 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 29 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
-| 30 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
-| 31 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 33 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
-| 34 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 35 | [TTTT](http://twitter.com/search?q=TTTT) | N/A |
-| 36 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
-| 37 | [Phải](http://twitter.com/search?q=Ph%e1%ba%a3i) | N/A |
-| 38 | [hàng](http://twitter.com/search?q=h%c3%a0ng) | N/A |
-| 39 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 40 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
-| 41 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 42 | [Biết](http://twitter.com/search?q=Bi%e1%ba%bft) | N/A |
-| 43 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 44 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 46 | [Hyuk](http://twitter.com/search?q=Hyuk) | N/A |
-| 47 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 48 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 49 | [ho chi minh city](http://twitter.com/search?q=ho+chi+minh+city) | N/A |
-| 50 | [Ngày](http://twitter.com/search?q=Ng%c3%a0y) | N/A |
+| 2 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 3 | [#AURMEAXBecky](http://twitter.com/search?q=%23AURMEAXBecky) | N/A |
+| 4 | [#spring_sunshine_lew_day](http://twitter.com/search?q=%23spring_sunshine_lew_day) | N/A |
+| 5 | [#FLOWER1stWin](http://twitter.com/search?q=%23FLOWER1stWin) | N/A |
+| 6 | [FLOWER FIRST WIN](http://twitter.com/search?q=FLOWER+FIRST+WIN) | N/A |
+| 7 | [Babiu](http://twitter.com/search?q=Babiu) | N/A |
+| 8 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 9 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
+| 10 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 11 | [phượng](http://twitter.com/search?q=ph%c6%b0%e1%bb%a3ng) | N/A |
+| 12 | [Tool](http://twitter.com/search?q=Tool) | N/A |
+| 13 | [P'Jak](http://twitter.com/search?q=P%27Jak) | N/A |
+| 14 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
+| 15 | [OpenSea Pro](http://twitter.com/search?q=OpenSea+Pro) | N/A |
+| 16 | [2nd concept photo](http://twitter.com/search?q=2nd+concept+photo) | N/A |
+| 17 | [Gothic Skull](http://twitter.com/search?q=Gothic+Skull) | N/A |
+| 18 | [cuối](http://twitter.com/search?q=cu%e1%bb%91i) | N/A |
+| 19 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
+| 20 | [Grim Reaper](http://twitter.com/search?q=Grim+Reaper) | N/A |
+| 21 | [LayerZero](http://twitter.com/search?q=LayerZero) | N/A |
+| 22 | [Series B](http://twitter.com/search?q=Series+B) | N/A |
+| 23 | [Cushion Cover](http://twitter.com/search?q=Cushion+Cover) | N/A |
+| 24 | [Starknet](http://twitter.com/search?q=Starknet) | N/A |
+| 25 | [Candy Skull](http://twitter.com/search?q=Candy+Skull) | N/A |
+| 26 | [Motorcycle Skull](http://twitter.com/search?q=Motorcycle+Skull) | N/A |
+| 27 | [Floral Skull](http://twitter.com/search?q=Floral+Skull) | N/A |
+| 28 | [Sell](http://twitter.com/search?q=Sell) | N/A |
+| 29 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 30 | [Punisher Skull](http://twitter.com/search?q=Punisher+Skull) | N/A |
+| 31 | [Flaming Skull](http://twitter.com/search?q=Flaming+Skull) | N/A |
+| 32 | [Biker Skull](http://twitter.com/search?q=Biker+Skull) | N/A |
+| 33 | [Flower Skull](http://twitter.com/search?q=Flower+Skull) | N/A |
+| 34 | [Cinco de Mayo Skull](http://twitter.com/search?q=Cinco+de+Mayo+Skull) | N/A |
+| 35 | [Christmas Skull](http://twitter.com/search?q=Christmas+Skull) | N/A |
+| 36 | [joong](http://twitter.com/search?q=joong) | N/A |
+| 37 | [Thành](http://twitter.com/search?q=Th%c3%a0nh) | N/A |
+| 38 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 39 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 40 | [Mexican Skull](http://twitter.com/search?q=Mexican+Skull) | N/A |
+| 41 | [Death Skull](http://twitter.com/search?q=Death+Skull) | N/A |
+| 42 | [Flame Skull](http://twitter.com/search?q=Flame+Skull) | N/A |
+| 43 | [buồn](http://twitter.com/search?q=bu%e1%bb%93n) | N/A |
+| 44 | [ZkSync](http://twitter.com/search?q=ZkSync) | N/A |
+| 45 | [Biu Biu](http://twitter.com/search?q=Biu+Biu) | N/A |
+| 46 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 47 | [cùng](http://twitter.com/search?q=c%c3%b9ng) | N/A |
+| 48 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 49 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
+| 50 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-06 03:17:45 UTC`
+📆 Last Updated: `2023-04-06 04:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SCRSVR](http://twitter.com/search?q=%23SCRSVR) | N/A |
-| 2 | [#FCBSCF](http://twitter.com/search?q=%23FCBSCF) | N/A |
+| 2 | [#fcbscf](http://twitter.com/search?q=%23fcbscf) | N/A |
 | 3 | [#SCR2023](http://twitter.com/search?q=%23SCR2023) | N/A |
 | 4 | [#orfreport](http://twitter.com/search?q=%23orfreport) | N/A |
 | 5 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
@@ -35,35 +35,35 @@ This is top 50 for [Austria](</Austria>)
 | 18 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
 | 19 | [Argument](http://twitter.com/search?q=Argument) | N/A |
 | 20 | [Fußball](http://twitter.com/search?q=Fu%c3%9fball) | N/A |
-| 21 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 22 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
-| 23 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 24 | [schönen tag](http://twitter.com/search?q=sch%c3%b6nen+tag) | N/A |
-| 25 | [Vertrag](http://twitter.com/search?q=Vertrag) | N/A |
-| 26 | [Stress](http://twitter.com/search?q=Stress) | N/A |
-| 27 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 28 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 29 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
-| 30 | [Erkenntnis](http://twitter.com/search?q=Erkenntnis) | N/A |
-| 31 | [inserate](http://twitter.com/search?q=inserate) | N/A |
-| 32 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 21 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 22 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 23 | [Vertrag](http://twitter.com/search?q=Vertrag) | N/A |
+| 24 | [Stress](http://twitter.com/search?q=Stress) | N/A |
+| 25 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 26 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
+| 27 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 28 | [Erkenntnis](http://twitter.com/search?q=Erkenntnis) | N/A |
+| 29 | [inserate](http://twitter.com/search?q=inserate) | N/A |
+| 30 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 31 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 32 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
 | 33 | [Zeitungen](http://twitter.com/search?q=Zeitungen) | N/A |
 | 34 | [Griff](http://twitter.com/search?q=Griff) | N/A |
 | 35 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
 | 36 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 37 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 38 | [Kälte](http://twitter.com/search?q=K%c3%a4lte) | N/A |
-| 39 | [Kerl](http://twitter.com/search?q=Kerl) | N/A |
-| 40 | [forschung](http://twitter.com/search?q=forschung) | N/A |
-| 41 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 42 | [Kindergarten](http://twitter.com/search?q=Kindergarten) | N/A |
+| 37 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
+| 38 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 39 | [Kälte](http://twitter.com/search?q=K%c3%a4lte) | N/A |
+| 40 | [Kerl](http://twitter.com/search?q=Kerl) | N/A |
+| 41 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
+| 42 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 43 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
 | 44 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 45 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 46 | [Konzept](http://twitter.com/search?q=Konzept) | N/A |
-| 47 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 48 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
-| 49 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | N/A |
+| 46 | [Bericht](http://twitter.com/search?q=Bericht) | N/A |
+| 47 | [Konzept](http://twitter.com/search?q=Konzept) | N/A |
+| 48 | [wohlstand](http://twitter.com/search?q=wohlstand) | N/A |
+| 49 | [entschuldigung](http://twitter.com/search?q=entschuldigung) | N/A |
 | 50 | [Beweis](http://twitter.com/search?q=Beweis) | N/A |
 
 
