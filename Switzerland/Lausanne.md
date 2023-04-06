@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-06 19:17:11 UTC`
+📆 Last Updated: `2023-04-06 20:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 2 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 3 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
-| 4 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 5 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 6 | [kollektivstrafen](http://twitter.com/search?q=kollektivstrafen) | N/A |
-| 7 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 8 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 9 | [Sascha Ruefer](http://twitter.com/search?q=Sascha+Ruefer) | N/A |
-| 10 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
-| 11 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 12 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
-| 13 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 14 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 15 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 16 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
-| 17 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 18 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 19 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 20 | [#KeremBürsin](http://twitter.com/search?q=%23KeremB%c3%bcrsin) | N/A |
-| 21 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
-| 22 | [Montreux](http://twitter.com/search?q=Montreux) | N/A |
-| 23 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 24 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 25 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 26 | [Skandal](http://twitter.com/search?q=Skandal) | N/A |
-| 27 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 28 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
-| 29 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 30 | [Szenen](http://twitter.com/search?q=Szenen) | N/A |
-| 31 | [Entscheid](http://twitter.com/search?q=Entscheid) | N/A |
-| 32 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
-| 33 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 34 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 35 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 36 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 37 | [Wallis](http://twitter.com/search?q=Wallis) | N/A |
-| 38 | [Schuhe](http://twitter.com/search?q=Schuhe) | N/A |
-| 39 | [Männlichkeit](http://twitter.com/search?q=M%c3%a4nnlichkeit) | N/A |
-| 40 | [Mbabu](http://twitter.com/search?q=Mbabu) | N/A |
-| 41 | [Zuschauer](http://twitter.com/search?q=Zuschauer) | N/A |
-| 42 | [Selbstverständlich](http://twitter.com/search?q=Selbstverst%c3%a4ndlich) | N/A |
-| 43 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 44 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 45 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 46 | [Cardano](http://twitter.com/search?q=Cardano) | N/A |
-| 47 | [Produkt](http://twitter.com/search?q=Produkt) | N/A |
+| 1 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 2 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
+| 3 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 4 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 5 | [Stau](http://twitter.com/search?q=Stau) | N/A |
+| 6 | [#KeremBürsin](http://twitter.com/search?q=%23KeremB%c3%bcrsin) | N/A |
+| 7 | [Interesse](http://twitter.com/search?q=Interesse) | N/A |
+| 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 9 | [Rechtsstaat](http://twitter.com/search?q=Rechtsstaat) | N/A |
+| 10 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 11 | [Sascha Ruefer](http://twitter.com/search?q=Sascha+Ruefer) | N/A |
+| 12 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 13 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 14 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
+| 15 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 16 | [Reaktion](http://twitter.com/search?q=Reaktion) | N/A |
+| 17 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
+| 18 | [Depp](http://twitter.com/search?q=Depp) | N/A |
+| 19 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
+| 20 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
+| 21 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
+| 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 23 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 24 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
+| 25 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 26 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 27 | [Schwachsinn](http://twitter.com/search?q=Schwachsinn) | N/A |
+| 28 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 29 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 30 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 31 | [Skandal](http://twitter.com/search?q=Skandal) | N/A |
+| 32 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 33 | [Behörden](http://twitter.com/search?q=Beh%c3%b6rden) | N/A |
+| 34 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 35 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 36 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 37 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 38 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
+| 39 | [Reise](http://twitter.com/search?q=Reise) | N/A |
+| 40 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
+| 41 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 42 | [Masse](http://twitter.com/search?q=Masse) | N/A |
+| 43 | [Statement](http://twitter.com/search?q=Statement) | N/A |
+| 44 | [Impfungen](http://twitter.com/search?q=Impfungen) | N/A |
+| 45 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 46 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 47 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
 
 
 

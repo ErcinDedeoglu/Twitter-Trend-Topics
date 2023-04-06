@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-06 19:16:56 UTC`
+📆 Last Updated: `2023-04-06 20:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,47 @@ This is top 50 for [Chile](</Chile>)
 | 4 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
 | 5 | [Colegio de Periodistas](http://twitter.com/search?q=Colegio+de+Periodistas) | N/A |
 | 6 | [Cúcuta](http://twitter.com/search?q=C%c3%bacuta) | N/A |
-| 7 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 8 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
-| 9 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
-| 10 | [#ChileEstaDeLuto](http://twitter.com/search?q=%23ChileEstaDeLuto) | N/A |
-| 11 | [SE BUSCAN](http://twitter.com/search?q=SE+BUSCAN) | N/A |
-| 12 | [Despidan](http://twitter.com/search?q=Despidan) | N/A |
-| 13 | [Despido](http://twitter.com/search?q=Despido) | N/A |
+| 7 | [#BoricAsesinoDeCarabineros](http://twitter.com/search?q=%23BoricAsesinoDeCarabineros) | N/A |
+| 8 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
+| 9 | [SE BUSCAN](http://twitter.com/search?q=SE+BUSCAN) | N/A |
+| 10 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
+| 11 | [Bachelet](http://twitter.com/search?q=Bachelet) | N/A |
+| 12 | [Despido](http://twitter.com/search?q=Despido) | N/A |
+| 13 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
 | 14 | [Lapsus](http://twitter.com/search?q=Lapsus) | N/A |
-| 15 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
-| 16 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
-| 17 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
-| 18 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
-| 19 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 20 | [Fuera de la TV](http://twitter.com/search?q=Fuera+de+la+TV) | N/A |
+| 15 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 16 | [Despidan](http://twitter.com/search?q=Despidan) | N/A |
+| 17 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
+| 18 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
+| 19 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
+| 20 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
 | 21 | [Octubrista](http://twitter.com/search?q=Octubrista) | N/A |
-| 22 | [Saquen](http://twitter.com/search?q=Saquen) | N/A |
-| 23 | [Venecos](http://twitter.com/search?q=Venecos) | N/A |
-| 24 | [Hassler](http://twitter.com/search?q=Hassler) | N/A |
-| 25 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
-| 26 | [Luksic](http://twitter.com/search?q=Luksic) | N/A |
-| 27 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
-| 28 | [Aragua](http://twitter.com/search?q=Aragua) | N/A |
-| 29 | [Zurda](http://twitter.com/search?q=Zurda) | N/A |
-| 30 | [Piraña](http://twitter.com/search?q=Pira%c3%b1a) | N/A |
-| 31 | [Karma](http://twitter.com/search?q=Karma) | N/A |
-| 32 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 33 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 34 | [Impresentable](http://twitter.com/search?q=Impresentable) | N/A |
-| 35 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
-| 36 | [Hipócritas](http://twitter.com/search?q=Hip%c3%b3critas) | N/A |
-| 37 | [Irací](http://twitter.com/search?q=Irac%c3%ad) | N/A |
-| 38 | [Gral](http://twitter.com/search?q=Gral) | N/A |
-| 39 | [Delirante](http://twitter.com/search?q=Delirante) | N/A |
-| 40 | [Infeliz](http://twitter.com/search?q=Infeliz) | N/A |
-| 41 | [Hipocresía](http://twitter.com/search?q=Hipocres%c3%ada) | N/A |
-| 42 | [CARA DE RAJA](http://twitter.com/search?q=CARA+DE+RAJA) | N/A |
-| 43 | [Cierra](http://twitter.com/search?q=Cierra) | N/A |
-| 44 | [Alessandri](http://twitter.com/search?q=Alessandri) | N/A |
-| 45 | [Hazte](http://twitter.com/search?q=Hazte) | N/A |
-| 46 | [Mentirosa](http://twitter.com/search?q=Mentirosa) | N/A |
-| 47 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 48 | [Lacras](http://twitter.com/search?q=Lacras) | N/A |
+| 22 | [Plaza Italia](http://twitter.com/search?q=Plaza+Italia) | N/A |
+| 23 | [Saquen](http://twitter.com/search?q=Saquen) | N/A |
+| 24 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 25 | [Hassler](http://twitter.com/search?q=Hassler) | N/A |
+| 26 | [Hipócritas](http://twitter.com/search?q=Hip%c3%b3critas) | N/A |
+| 27 | [Venecos](http://twitter.com/search?q=Venecos) | N/A |
+| 28 | [Error](http://twitter.com/search?q=Error) | N/A |
+| 29 | [Hipocresía](http://twitter.com/search?q=Hipocres%c3%ada) | N/A |
+| 30 | [Martorell](http://twitter.com/search?q=Martorell) | N/A |
+| 31 | [Aragua](http://twitter.com/search?q=Aragua) | N/A |
+| 32 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 33 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
+| 34 | [Gral](http://twitter.com/search?q=Gral) | N/A |
+| 35 | [Cabo 1](http://twitter.com/search?q=Cabo+1) | N/A |
+| 36 | [Impresentable](http://twitter.com/search?q=Impresentable) | N/A |
+| 37 | [Zurda](http://twitter.com/search?q=Zurda) | N/A |
+| 38 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 39 | [Hazte](http://twitter.com/search?q=Hazte) | N/A |
+| 40 | [Mentirosa](http://twitter.com/search?q=Mentirosa) | N/A |
+| 41 | [Rata](http://twitter.com/search?q=Rata) | N/A |
+| 42 | [Buitre](http://twitter.com/search?q=Buitre) | N/A |
+| 43 | [#CaboPalma](http://twitter.com/search?q=%23CaboPalma) | N/A |
+| 44 | [#contigoenlamañana](http://twitter.com/search?q=%23contigoenlama%c3%b1ana) | N/A |
+| 45 | [#ChileEstaDeLuto](http://twitter.com/search?q=%23ChileEstaDeLuto) | N/A |
+| 46 | [#FueraComunistasDeChile](http://twitter.com/search?q=%23FueraComunistasDeChile) | N/A |
+| 47 | [#PrensaBasura](http://twitter.com/search?q=%23PrensaBasura) | N/A |
 
 
 

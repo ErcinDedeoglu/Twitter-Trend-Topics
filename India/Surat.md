@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-04-06 19:17:34 UTC`
+📆 Last Updated: `2023-04-06 20:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#IPL23](http://twitter.com/search?q=%23IPL23) | N/A |
-| 2 | [#KKRvRCB](http://twitter.com/search?q=%23KKRvRCB) | N/A |
-| 3 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
-| 4 | [#ShardulThakur](http://twitter.com/search?q=%23ShardulThakur) | N/A |
+| 1 | [#KKRvRCB](http://twitter.com/search?q=%23KKRvRCB) | N/A |
+| 2 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
+| 3 | [#Shardulthakur](http://twitter.com/search?q=%23Shardulthakur) | N/A |
+| 4 | [#Vi20FANFest](http://twitter.com/search?q=%23Vi20FANFest) | N/A |
 | 5 | [Chinnaswamy Stadium](http://twitter.com/search?q=Chinnaswamy+Stadium) | N/A |
 | 6 | [Suyash Sharma](http://twitter.com/search?q=Suyash+Sharma) | N/A |
 | 7 | [Wriddhiman S](http://twitter.com/search?q=Wriddhiman+S) | N/A |
-| 8 | [Harshal](http://twitter.com/search?q=Harshal) | N/A |
-| 9 | [Varun](http://twitter.com/search?q=Varun) | N/A |
-| 10 | [Haarcb](http://twitter.com/search?q=Haarcb) | N/A |
-| 11 | [Narine](http://twitter.com/search?q=Narine) | N/A |
-| 12 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 13 | [Eden](http://twitter.com/search?q=Eden) | N/A |
-| 14 | [Just RCB](http://twitter.com/search?q=Just+RCB) | N/A |
-| 15 | [BJP Against OBC](http://twitter.com/search?q=BJP+Against+OBC) | N/A |
-| 16 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 17 | [Anuj Rawat](http://twitter.com/search?q=Anuj+Rawat) | N/A |
+| 8 | [Varun](http://twitter.com/search?q=Varun) | N/A |
+| 9 | [BJP Against OBC](http://twitter.com/search?q=BJP+Against+OBC) | N/A |
+| 10 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 11 | [Harshal Patel](http://twitter.com/search?q=Harshal+Patel) | Harshal Patel is an Indian surname. It is derived from the Sanskrit words "harsha" meaning joy and "pati" meaning lord or master. The literal translation of the name is "lord of joy". |
+| 12 | [Haarcb](http://twitter.com/search?q=Haarcb) | N/A |
+| 13 | [Narine](http://twitter.com/search?q=Narine) | N/A |
+| 14 | [Anuj Rawat](http://twitter.com/search?q=Anuj+Rawat) | N/A |
+| 15 | [Eden Gardens](http://twitter.com/search?q=Eden+Gardens) | N/A |
+| 16 | [Just RCB](http://twitter.com/search?q=Just+RCB) | N/A |
+| 17 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
 | 18 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
-| 19 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
-| 20 | [Amit M](http://twitter.com/search?q=Amit+M) | N/A |
-| 21 | [Rinku Singh](http://twitter.com/search?q=Rinku+Singh) | N/A |
+| 19 | [Rinku Singh](http://twitter.com/search?q=Rinku+Singh) | N/A |
+| 20 | [Neeraj Chopra](http://twitter.com/search?q=Neeraj+Chopra) | N/A |
+| 21 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
 | 22 | [Willey](http://twitter.com/search?q=Willey) | N/A |
-| 23 | [Neeraj Chopra](http://twitter.com/search?q=Neeraj+Chopra) | N/A |
-| 24 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 25 | [RCB RCB](http://twitter.com/search?q=RCB+RCB) | N/A |
-| 26 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
-| 27 | [Lomror](http://twitter.com/search?q=Lomror) | N/A |
-| 28 | [RCBians](http://twitter.com/search?q=RCBians) | N/A |
-| 29 | [Mentor](http://twitter.com/search?q=Mentor) | N/A |
-| 30 | [Sterlite Copper](http://twitter.com/search?q=Sterlite+Copper) | N/A |
-| 31 | [Southee](http://twitter.com/search?q=Southee) | N/A |
-| 32 | [Only RCB](http://twitter.com/search?q=Only+RCB) | N/A |
-| 33 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
-| 34 | [Dinesh Karthik](http://twitter.com/search?q=Dinesh+Karthik) | N/A |
-| 35 | [Karn Sharma](http://twitter.com/search?q=Karn+Sharma) | N/A |
-| 36 | [World Health Day](http://twitter.com/search?q=World+Health+Day) | N/A |
-| 37 | [Nitish Rana](http://twitter.com/search?q=Nitish+Rana) | N/A |
-| 38 | [Umesh](http://twitter.com/search?q=Umesh) | N/A |
-| 39 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 40 | [Akash Deep](http://twitter.com/search?q=Akash+Deep) | N/A |
-| 41 | [Anil](http://twitter.com/search?q=Anil) | N/A |
-| 42 | [Mandeep](http://twitter.com/search?q=Mandeep) | N/A |
-| 43 | [Form](http://twitter.com/search?q=Form) | N/A |
-| 44 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 45 | [Reece Topley](http://twitter.com/search?q=Reece+Topley) | N/A |
-| 46 | [AK Antony](http://twitter.com/search?q=AK+Antony) | N/A |
-| 47 | [Prakash](http://twitter.com/search?q=Prakash) | N/A |
-| 48 | [Sudeep](http://twitter.com/search?q=Sudeep) | N/A |
+| 23 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
+| 24 | [Lomror](http://twitter.com/search?q=Lomror) | N/A |
+| 25 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
+| 26 | [Southee](http://twitter.com/search?q=Southee) | N/A |
+| 27 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 28 | [Mentor](http://twitter.com/search?q=Mentor) | N/A |
+| 29 | [Sterlite Copper](http://twitter.com/search?q=Sterlite+Copper) | N/A |
+| 30 | [RCB RCB](http://twitter.com/search?q=RCB+RCB) | N/A |
+| 31 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
+| 32 | [Nitish Rana](http://twitter.com/search?q=Nitish+Rana) | N/A |
+| 33 | [Chokli](http://twitter.com/search?q=Chokli) | N/A |
+| 34 | [Sudeep](http://twitter.com/search?q=Sudeep) | N/A |
+| 35 | [Prakash](http://twitter.com/search?q=Prakash) | N/A |
+| 36 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 37 | [Anil](http://twitter.com/search?q=Anil) | N/A |
+| 38 | [#IPL23](http://twitter.com/search?q=%23IPL23) | N/A |
+| 39 | [#MazaarJihad](http://twitter.com/search?q=%23MazaarJihad) | N/A |
+| 40 | [#AmiKKR](http://twitter.com/search?q=%23AmiKKR) | N/A |
+| 41 | [#viratkholi](http://twitter.com/search?q=%23viratkholi) | N/A |
+| 42 | [#ShahRukhKhan](http://twitter.com/search?q=%23ShahRukhKhan) | N/A |
+| 43 | [#KolkataKnightRiders](http://twitter.com/search?q=%23KolkataKnightRiders) | N/A |
+| 44 | [#Ayothi](http://twitter.com/search?q=%23Ayothi) | N/A |
+| 45 | [#GoodFriday](http://twitter.com/search?q=%23GoodFriday) | N/A |
+| 46 | [#TereBin](http://twitter.com/search?q=%23TereBin) | N/A |
+| 47 | [#SRK𓃵](http://twitter.com/search?q=%23SRK%f0%93%83%b5) | N/A |
+| 48 | [#KingKhan](http://twitter.com/search?q=%23KingKhan) | N/A |
 
 
 

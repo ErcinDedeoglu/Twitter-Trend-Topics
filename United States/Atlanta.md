@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-06 19:17:39 UTC`
+📆 Last Updated: `2023-04-06 20:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,51 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 3 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 1 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 2 | [#TennesseeThree](http://twitter.com/search?q=%23TennesseeThree) | N/A |
+| 3 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
 | 4 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
-| 5 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 6 | [#TennesseeThree](http://twitter.com/search?q=%23TennesseeThree) | N/A |
-| 7 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
-| 8 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 9 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 10 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 11 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 12 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 13 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 14 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 15 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 16 | [Adam Duvall](http://twitter.com/search?q=Adam+Duvall) | N/A |
-| 17 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
-| 18 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 19 | [FedNow](http://twitter.com/search?q=FedNow) | N/A |
-| 20 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 21 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 22 | [Pomerantz](http://twitter.com/search?q=Pomerantz) | N/A |
-| 23 | [Jake Rogers](http://twitter.com/search?q=Jake+Rogers) | N/A |
-| 24 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 25 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 26 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 27 | [KAWS](http://twitter.com/search?q=KAWS) | N/A |
+| 5 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 6 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 7 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
+| 8 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 9 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 10 | [#NationalStudentAthleteDay](http://twitter.com/search?q=%23NationalStudentAthleteDay) | N/A |
+| 11 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 12 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 13 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 14 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
+| 15 | [KAWS](http://twitter.com/search?q=KAWS) | N/A |
+| 16 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 17 | [Rep. Jones](http://twitter.com/search?q=Rep.+Jones) | N/A |
+| 18 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 19 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
+| 20 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 21 | [Pomerantz](http://twitter.com/search?q=Pomerantz) | N/A |
+| 22 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
+| 23 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 24 | [Rebekah Jones](http://twitter.com/search?q=Rebekah+Jones) | N/A |
+| 25 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 26 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
+| 27 | [FedNow](http://twitter.com/search?q=FedNow) | N/A |
 | 28 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 29 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 30 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 31 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
-| 32 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
-| 33 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 34 | [Ryan Nembhard](http://twitter.com/search?q=Ryan+Nembhard) | N/A |
-| 35 | [Tatis](http://twitter.com/search?q=Tatis) | N/A |
-| 36 | [ProPublica](http://twitter.com/search?q=ProPublica) | N/A |
-| 37 | [Uncle Remus](http://twitter.com/search?q=Uncle+Remus) | N/A |
-| 38 | [Bohemian Grove](http://twitter.com/search?q=Bohemian+Grove) | N/A |
-| 39 | [Brig](http://twitter.com/search?q=Brig) | N/A |
-| 40 | [Tim Boyle](http://twitter.com/search?q=Tim+Boyle) | Tim Boyle is a slang term used to describe someone who is overly eager or enthusiastic. It is often used in a humorous way to describe someone who is overly eager to please or impress others. |
-| 41 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 42 | [Conforto](http://twitter.com/search?q=Conforto) | Conforto is a Portuguese word that means comfort or solace. It is often used to describe a feeling of being at ease or contentment. |
-| 43 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 44 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 45 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
-| 46 | [Ginni](http://twitter.com/search?q=Ginni) | N/A |
+| 29 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
+| 30 | [Bulso](http://twitter.com/search?q=Bulso) | N/A |
+| 31 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 32 | [Tennessee House](http://twitter.com/search?q=Tennessee+House) | N/A |
+| 33 | [EDCLV](http://twitter.com/search?q=EDCLV) | N/A |
+| 34 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 35 | [Jake Rogers](http://twitter.com/search?q=Jake+Rogers) | N/A |
+| 36 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 37 | [ProPublica](http://twitter.com/search?q=ProPublica) | N/A |
+| 38 | [George Lucas](http://twitter.com/search?q=George+Lucas) | N/A |
+| 39 | [Ryan Nembhard](http://twitter.com/search?q=Ryan+Nembhard) | N/A |
+| 40 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 41 | [Miami Herald](http://twitter.com/search?q=Miami+Herald) | N/A |
+| 42 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 43 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 44 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
+| 45 | [Wilmer](http://twitter.com/search?q=Wilmer) | N/A |
 
 
 

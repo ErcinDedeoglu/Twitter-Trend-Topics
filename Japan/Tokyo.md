@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-04-06 19:17:17 UTC`
+📆 Last Updated: `2023-04-06 20:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [トレンド1位](http://twitter.com/search?q=%e3%83%88%e3%83%ac%e3%83%b3%e3%83%891%e4%bd%8d) | トレンド1位 is a Japanese phrase that translates to "trending number one". It is used to refer to something that is currently the most popular or talked about topic on social media. |
-| 2 | [#髙木雄也](http://twitter.com/search?q=%23%e9%ab%99%e6%9c%a8%e9%9b%84%e4%b9%9f) | N/A |
-| 3 | [#ねとらぼ調査隊](http://twitter.com/search?q=%23%e3%81%ad%e3%81%a8%e3%82%89%e3%81%bc%e8%aa%bf%e6%9f%bb%e9%9a%8a) | N/A |
-| 4 | [#ウルトラシリーズ](http://twitter.com/search?q=%23%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
-| 5 | [#ウルトラマン](http://twitter.com/search?q=%23%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%9e%e3%83%b3) | N/A |
-| 6 | [唯衣ちゃん](http://twitter.com/search?q=%e5%94%af%e8%a1%a3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 7 | [#櫻坂46](http://twitter.com/search?q=%23%e6%ab%bb%e5%9d%8246) | N/A |
-| 8 | [ネカフェ代](http://twitter.com/search?q=%e3%83%8d%e3%82%ab%e3%83%95%e3%82%a7%e4%bb%a3) | N/A |
-| 9 | [君のため](http://twitter.com/search?q=%e5%90%9b%e3%81%ae%e3%81%9f%e3%82%81) | N/A |
-| 10 | [クソキット](http://twitter.com/search?q=%e3%82%af%e3%82%bd%e3%82%ad%e3%83%83%e3%83%88) | N/A |
-| 11 | [ブリティッシュベイクオフ](http://twitter.com/search?q=%e3%83%96%e3%83%aa%e3%83%86%e3%82%a3%e3%83%83%e3%82%b7%e3%83%a5%e3%83%99%e3%82%a4%e3%82%af%e3%82%aa%e3%83%95) | N/A |
-| 12 | [全員無事](http://twitter.com/search?q=%e5%85%a8%e5%93%a1%e7%84%a1%e4%ba%8b) | N/A |
-| 13 | [月明かり](http://twitter.com/search?q=%e6%9c%88%e6%98%8e%e3%81%8b%e3%82%8a) | N/A |
-| 14 | [ハオビン](http://twitter.com/search?q=%e3%83%8f%e3%82%aa%e3%83%93%e3%83%b3) | N/A |
-| 15 | [かまいたち](http://twitter.com/search?q=%e3%81%8b%e3%81%be%e3%81%84%e3%81%9f%e3%81%a1) | かまいたち is a Japanese word that literally translates to "tortoise shell". It is used to refer to a pattern of small, overlapping circles that resemble the shell of a tortoise. In English, this pattern is sometimes referred to as a "turtleback" or "tortoiseshell" pattern. |
-| 16 | [市民団体](http://twitter.com/search?q=%e5%b8%82%e6%b0%91%e5%9b%a3%e4%bd%93) | N/A |
-| 17 | [めめラウ](http://twitter.com/search?q=%e3%82%81%e3%82%81%e3%83%a9%e3%82%a6) | めめラウ is a Japanese slang term that roughly translates to "no way!" or "unbelievable!" It is often used to express disbelief or surprise. |
-| 18 | [カクテル言葉](http://twitter.com/search?q=%e3%82%ab%e3%82%af%e3%83%86%e3%83%ab%e8%a8%80%e8%91%89) | N/A |
-| 19 | [世論調査](http://twitter.com/search?q=%e4%b8%96%e8%ab%96%e8%aa%bf%e6%9f%bb) | N/A |
-| 20 | [クァンルイ](http://twitter.com/search?q=%e3%82%af%e3%82%a1%e3%83%b3%e3%83%ab%e3%82%a4) | N/A |
-| 21 | [SobaCha](http://twitter.com/search?q=SobaCha) | N/A |
-| 22 | [ファウスト](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a6%e3%82%b9%e3%83%88) | N/A |
-| 23 | [ディライラ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%a9%e3%82%a4%e3%83%a9) | N/A |
-| 24 | [おうじひろし](http://twitter.com/search?q=%e3%81%8a%e3%81%86%e3%81%98%e3%81%b2%e3%82%8d%e3%81%97) | N/A |
-| 25 | [ガラケー世代](http://twitter.com/search?q=%e3%82%ac%e3%83%a9%e3%82%b1%e3%83%bc%e4%b8%96%e4%bb%a3) | N/A |
-| 26 | [消しゴムマジック](http://twitter.com/search?q=%e6%b6%88%e3%81%97%e3%82%b4%e3%83%a0%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af) | N/A |
-| 27 | [第441回](http://twitter.com/search?q=%e7%ac%ac441%e5%9b%9e) | N/A |
-| 28 | [携帯電話クイズ](http://twitter.com/search?q=%e6%90%ba%e5%b8%af%e9%9b%bb%e8%a9%b1%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
-| 29 | [アイスボックス](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%9c%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 30 | [バインド](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%b3%e3%83%89) | N/A |
-| 31 | [デュナメス](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%83%8a%e3%83%a1%e3%82%b9) | N/A |
-| 32 | [スタミュ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%9f%e3%83%a5) | N/A |
-| 33 | [ヴァイパー](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
-| 34 | [ピンクムーン](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%83%a0%e3%83%bc%e3%83%b3) | N/A |
-| 35 | [マーセナリーズ](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
-| 36 | [carat盤](http://twitter.com/search?q=carat%e7%9b%a4) | N/A |
-| 37 | [チッケム](http://twitter.com/search?q=%e3%83%81%e3%83%83%e3%82%b1%e3%83%a0) | N/A |
-| 38 | [撃墜の可能性](http://twitter.com/search?q=%e6%92%83%e5%a2%9c%e3%81%ae%e5%8f%af%e8%83%bd%e6%80%a7) | N/A |
-| 39 | [パスカラ](http://twitter.com/search?q=%e3%83%91%e3%82%b9%e3%82%ab%e3%83%a9) | N/A |
-| 40 | [しあわせの花](http://twitter.com/search?q=%e3%81%97%e3%81%82%e3%82%8f%e3%81%9b%e3%81%ae%e8%8a%b1) | N/A |
-| 41 | [ベッドマン](http://twitter.com/search?q=%e3%83%99%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
-| 42 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
-| 43 | [エレメント](http://twitter.com/search?q=%e3%82%a8%e3%83%ac%e3%83%a1%e3%83%b3%e3%83%88) | エレメント is a Japanese word that means "element" in English. It is used to refer to the basic components of something, such as the elements of a chemical compound or the elements of a mathematical equation. |
-| 44 | [侍ジャパン芸人](http://twitter.com/search?q=%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3%e8%8a%b8%e4%ba%ba) | N/A |
-| 45 | [猿川くん](http://twitter.com/search?q=%e7%8c%bf%e5%b7%9d%e3%81%8f%e3%82%93) | N/A |
-| 46 | [ドクスト](http://twitter.com/search?q=%e3%83%89%e3%82%af%e3%82%b9%e3%83%88) | N/A |
-| 47 | [フラクチャー](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%82%af%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
-| 48 | [ブリギッテ](http://twitter.com/search?q=%e3%83%96%e3%83%aa%e3%82%ae%e3%83%83%e3%83%86) | N/A |
-| 49 | [クラスLINE](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b9LINE) | N/A |
+| 1 | [ピンクムーン](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%83%a0%e3%83%bc%e3%83%b3) | N/A |
+| 2 | [スパチャジャ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%81%e3%83%a3%e3%82%b8%e3%83%a3) | N/A |
+| 3 | [ネカフェ代](http://twitter.com/search?q=%e3%83%8d%e3%82%ab%e3%83%95%e3%82%a7%e4%bb%a3) | N/A |
+| 4 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 5 | [かまいたち](http://twitter.com/search?q=%e3%81%8b%e3%81%be%e3%81%84%e3%81%9f%e3%81%a1) | かまいたち is a Japanese word that literally translates to "tortoise shell". It is used to refer to a pattern of small, overlapping circles that resemble the shell of a tortoise. In English, this pattern is sometimes referred to as a "turtleback" or "tortoiseshell" pattern. |
+| 6 | [クソキット](http://twitter.com/search?q=%e3%82%af%e3%82%bd%e3%82%ad%e3%83%83%e3%83%88) | N/A |
+| 7 | [世論調査](http://twitter.com/search?q=%e4%b8%96%e8%ab%96%e8%aa%bf%e6%9f%bb) | N/A |
+| 8 | [メインスト](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88) | N/A |
+| 9 | [#サクラミーツ](http://twitter.com/search?q=%23%e3%82%b5%e3%82%af%e3%83%a9%e3%83%9f%e3%83%bc%e3%83%84) | N/A |
+| 10 | [#マヂラブANN0](http://twitter.com/search?q=%23%e3%83%9e%e3%83%82%e3%83%a9%e3%83%96ANN0) | N/A |
+| 11 | [#songofjapan](http://twitter.com/search?q=%23songofjapan) | N/A |
+| 12 | [#髙木YOUYAKAI](http://twitter.com/search?q=%23%e9%ab%99%e6%9c%a8YOUYAKAI) | N/A |
+| 13 | [ガラケー世代](http://twitter.com/search?q=%e3%82%ac%e3%83%a9%e3%82%b1%e3%83%bc%e4%b8%96%e4%bb%a3) | N/A |
+| 14 | [第441回](http://twitter.com/search?q=%e7%ac%ac441%e5%9b%9e) | N/A |
+| 15 | [携帯電話クイズ](http://twitter.com/search?q=%e6%90%ba%e5%b8%af%e9%9b%bb%e8%a9%b1%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
+| 16 | [おうじひろし](http://twitter.com/search?q=%e3%81%8a%e3%81%86%e3%81%98%e3%81%b2%e3%82%8d%e3%81%97) | N/A |
+| 17 | [消しゴムマジック](http://twitter.com/search?q=%e6%b6%88%e3%81%97%e3%82%b4%e3%83%a0%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af) | N/A |
+| 18 | [アイスボックス](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%9c%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 19 | [バインド](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%b3%e3%83%89) | N/A |
+| 20 | [デュナメス](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%83%8a%e3%83%a1%e3%82%b9) | N/A |
+| 21 | [ヴァイパー](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%82%a4%e3%83%91%e3%83%bc) | N/A |
+| 22 | [マーセナリーズ](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
+| 23 | [ブリギッテ](http://twitter.com/search?q=%e3%83%96%e3%83%aa%e3%82%ae%e3%83%83%e3%83%86) | N/A |
+| 24 | [CARAT盤](http://twitter.com/search?q=CARAT%e7%9b%a4) | N/A |
+| 25 | [スタミュ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%9f%e3%83%a5) | N/A |
+| 26 | [マスターズ](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba) | マスターズ (Masters) is a term used in Japan to refer to people who have achieved a high level of expertise in a particular field or profession. It is often used to refer to people who have achieved the highest level of mastery in their chosen field, such as martial arts masters, music masters, or business masters. In English, it can be translated as "master" or "expert". |
+| 27 | [Dr.STONE](http://twitter.com/search?q=Dr.STONE) | N/A |
+| 28 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
+| 29 | [パスカラ](http://twitter.com/search?q=%e3%83%91%e3%82%b9%e3%82%ab%e3%83%a9) | N/A |
+| 30 | [アメトーーク](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%88%e3%83%bc%e3%83%bc%e3%82%af) | N/A |
+| 31 | [フラクチャー](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%82%af%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
+| 32 | [チッケム](http://twitter.com/search?q=%e3%83%81%e3%83%83%e3%82%b1%e3%83%a0) | N/A |
+| 33 | [ジンソン](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%82%bd%e3%83%b3) | N/A |
+| 34 | [しあわせの花](http://twitter.com/search?q=%e3%81%97%e3%81%82%e3%82%8f%e3%81%9b%e3%81%ae%e8%8a%b1) | N/A |
+| 35 | [ディシア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2) | ディシア is a Japanese word that means "disease". It is used to refer to any type of illness or medical condition. |
+| 36 | [オオカミ少年](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%ab%e3%83%9f%e5%b0%91%e5%b9%b4) | N/A |
+| 37 | [猿川くん](http://twitter.com/search?q=%e7%8c%bf%e5%b7%9d%e3%81%8f%e3%82%93) | N/A |
+| 38 | [ベッドマン](http://twitter.com/search?q=%e3%83%99%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
+| 39 | [撃墜の可能性](http://twitter.com/search?q=%e6%92%83%e5%a2%9c%e3%81%ae%e5%8f%af%e8%83%bd%e6%80%a7) | N/A |
+| 40 | [クラスLINE](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b9LINE) | N/A |
+| 41 | [航空事故](http://twitter.com/search?q=%e8%88%aa%e7%a9%ba%e4%ba%8b%e6%95%85) | N/A |
+| 42 | [Wordle 657](http://twitter.com/search?q=Wordle+657) | N/A |
+| 43 | [ドクスト](http://twitter.com/search?q=%e3%83%89%e3%82%af%e3%82%b9%e3%83%88) | N/A |
+| 44 | [陸自ヘリ不明](http://twitter.com/search?q=%e9%99%b8%e8%87%aa%e3%83%98%e3%83%aa%e4%b8%8d%e6%98%8e) | N/A |
+| 45 | [恋人条件](http://twitter.com/search?q=%e6%81%8b%e4%ba%ba%e6%9d%a1%e4%bb%b6) | N/A |
+| 46 | [どらほー](http://twitter.com/search?q=%e3%81%a9%e3%82%89%e3%81%bb%e3%83%bc) | N/A |
+| 47 | [ラッキー7スカウト](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%82%ad%e3%83%bc7%e3%82%b9%e3%82%ab%e3%82%a6%e3%83%88) | N/A |
+| 48 | [ガンエボ](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%82%a8%e3%83%9c) | ガンエボ is short for "Gundam Evolution", which is a series of video games based on the popular anime franchise Gundam. The games are action-oriented and feature giant robots fighting each other in a variety of settings. |
+| 49 | [学校の怪談](http://twitter.com/search?q=%e5%ad%a6%e6%a0%a1%e3%81%ae%e6%80%aa%e8%ab%87) | N/A |
 
 
 

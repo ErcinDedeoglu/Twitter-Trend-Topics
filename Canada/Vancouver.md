@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-04-06 19:16:47 UTC`
+📆 Last Updated: `2023-04-06 20:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,43 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 1 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 2 | [#HumboldtStrong](http://twitter.com/search?q=%23HumboldtStrong) | N/A |
-| 3 | [Stations of the Cross](http://twitter.com/search?q=Stations+of+the+Cross) | N/A |
-| 4 | [Kiermaier](http://twitter.com/search?q=Kiermaier) | Kiermaier is a German surname. It is derived from the Old High German words "kirm" (church) and "mar" (famous). The literal translation of the name is "famous in the church". |
-| 5 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 6 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 7 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 8 | [Gurianov](http://twitter.com/search?q=Gurianov) | N/A |
-| 9 | [Matt Chapman](http://twitter.com/search?q=Matt+Chapman) | N/A |
-| 10 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
-| 11 | [#MoodPitch](http://twitter.com/search?q=%23MoodPitch) | N/A |
-| 12 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 13 | [Biggio](http://twitter.com/search?q=Biggio) | N/A |
-| 14 | [Humboldt Broncos](http://twitter.com/search?q=Humboldt+Broncos) | N/A |
-| 15 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 16 | [Science Centre](http://twitter.com/search?q=Science+Centre) | N/A |
-| 17 | [Ontario Place](http://twitter.com/search?q=Ontario+Place) | N/A |
-| 18 | [#longweekend](http://twitter.com/search?q=%23longweekend) | N/A |
-| 19 | [Rogers Centre](http://twitter.com/search?q=Rogers+Centre) | N/A |
-| 20 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 21 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 22 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 23 | [Hydro](http://twitter.com/search?q=Hydro) | N/A |
-| 24 | [Mike Weir](http://twitter.com/search?q=Mike+Weir) | N/A |
-| 25 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 26 | [Coors](http://twitter.com/search?q=Coors) | N/A |
-| 27 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 28 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 29 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 30 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 31 | [Dylan Mulvaney](http://twitter.com/search?q=Dylan+Mulvaney) | N/A |
-| 32 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 33 | [#TartanDay](http://twitter.com/search?q=%23TartanDay) | N/A |
-| 34 | [#verglas](http://twitter.com/search?q=%23verglas) | N/A |
-| 35 | [#Montreal](http://twitter.com/search?q=%23Montreal) | N/A |
-| 36 | [#DefundCBC](http://twitter.com/search?q=%23DefundCBC) | N/A |
-| 37 | [#Budlight](http://twitter.com/search?q=%23Budlight) | N/A |
+| 3 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 4 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 5 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 6 | [#verglas](http://twitter.com/search?q=%23verglas) | N/A |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 8 | [Passover](http://twitter.com/search?q=Passover) | N/A |
+| 9 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 11 | [Galen](http://twitter.com/search?q=Galen) | N/A |
+| 12 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 13 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 14 | [Stations of the Cross](http://twitter.com/search?q=Stations+of+the+Cross) | N/A |
+| 15 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
+| 16 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 17 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 18 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 19 | [Gurianov](http://twitter.com/search?q=Gurianov) | N/A |
+| 20 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 21 | [Science Centre](http://twitter.com/search?q=Science+Centre) | N/A |
+| 22 | [Gausman](http://twitter.com/search?q=Gausman) | N/A |
+| 23 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 24 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 25 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 26 | [Chag Sameach](http://twitter.com/search?q=Chag+Sameach) | N/A |
+| 27 | [Hydro](http://twitter.com/search?q=Hydro) | N/A |
+| 28 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 29 | [Protecting Tenants Act](http://twitter.com/search?q=Protecting+Tenants+Act) | N/A |
+| 30 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
+| 31 | [Coors](http://twitter.com/search?q=Coors) | N/A |
+| 32 | [DTES](http://twitter.com/search?q=DTES) | N/A |
+| 33 | [Belt](http://twitter.com/search?q=Belt) | N/A |
+| 34 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 35 | [Helping Homebuyers](http://twitter.com/search?q=Helping+Homebuyers) | N/A |
+| 36 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 37 | [Chag Pesach Sameach](http://twitter.com/search?q=Chag+Pesach+Sameach) | N/A |
+| 38 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 40 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 41 | [ryan gosling](http://twitter.com/search?q=ryan+gosling) | N/A |
+| 42 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 43 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 44 | [Mike Weir](http://twitter.com/search?q=Mike+Weir) | N/A |
+| 45 | [Rogers Centre](http://twitter.com/search?q=Rogers+Centre) | N/A |
+| 46 | [Varsho](http://twitter.com/search?q=Varsho) | Varsho is a Gujarati word that means "year". In English, it can be used to refer to a period of time or an anniversary. |
+| 47 | [Hastings](http://twitter.com/search?q=Hastings) | N/A |
+| 48 | [Viktor Hovland](http://twitter.com/search?q=Viktor+Hovland) | N/A |
+| 49 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-04-06 19:17:53 UTC`
+📆 Last Updated: `2023-04-06 20:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,48 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#XFF23](http://twitter.com/search?q=%23XFF23) | N/A |
+| 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
 | 2 | [#FCATFC](http://twitter.com/search?q=%23FCATFC) | N/A |
-| 3 | [#manif6avril](http://twitter.com/search?q=%23manif6avril) | N/A |
-| 4 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
-| 5 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
-| 6 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 7 | [#MacronVaCraquer](http://twitter.com/search?q=%23MacronVaCraquer) | N/A |
-| 8 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
-| 9 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 10 | [Rotonde](http://twitter.com/search?q=Rotonde) | N/A |
-| 11 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
-| 12 | [EA Sports FC](http://twitter.com/search?q=EA+Sports+FC) | N/A |
-| 13 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
-| 14 | [Cindy](http://twitter.com/search?q=Cindy) | N/A |
-| 15 | [Fabrice](http://twitter.com/search?q=Fabrice) | N/A |
-| 16 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 17 | [Romane](http://twitter.com/search?q=Romane) | N/A |
-| 18 | [Johnny Depp](http://twitter.com/search?q=Johnny+Depp) | N/A |
-| 19 | [Binet](http://twitter.com/search?q=Binet) | N/A |
-| 20 | [Bolloré](http://twitter.com/search?q=Bollor%c3%a9) | N/A |
-| 21 | [Rothen](http://twitter.com/search?q=Rothen) | N/A |
-| 22 | [Hezbollah](http://twitter.com/search?q=Hezbollah) | N/A |
-| 23 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 24 | [Nespresso](http://twitter.com/search?q=Nespresso) | N/A |
-| 25 | [Papou](http://twitter.com/search?q=Papou) | N/A |
-| 26 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
-| 27 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 28 | [Roubaix](http://twitter.com/search?q=Roubaix) | N/A |
-| 29 | [Shizzle](http://twitter.com/search?q=Shizzle) | N/A |
-| 30 | [Liban](http://twitter.com/search?q=Liban) | N/A |
-| 31 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 32 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
-| 33 | [Montparnasse](http://twitter.com/search?q=Montparnasse) | N/A |
-| 34 | [France Inter](http://twitter.com/search?q=France+Inter) | N/A |
+| 3 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 4 | [#EnvoyeSpecial](http://twitter.com/search?q=%23EnvoyeSpecial) | N/A |
+| 5 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
+| 6 | [#XFF23](http://twitter.com/search?q=%23XFF23) | N/A |
+| 7 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
+| 8 | [Émeline](http://twitter.com/search?q=%c3%89meline) | N/A |
+| 9 | [Bosetti](http://twitter.com/search?q=Bosetti) | N/A |
+| 10 | [Clément](http://twitter.com/search?q=Cl%c3%a9ment) | N/A |
+| 11 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
+| 12 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 13 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
+| 14 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
+| 15 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 16 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
+| 17 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
+| 18 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 19 | [Rotonde](http://twitter.com/search?q=Rotonde) | N/A |
+| 20 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
+| 21 | [Géraldine](http://twitter.com/search?q=G%c3%a9raldine) | N/A |
+| 22 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
+| 23 | [Cindy](http://twitter.com/search?q=Cindy) | N/A |
+| 24 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 25 | [Sophie Binet](http://twitter.com/search?q=Sophie+Binet) | N/A |
+| 26 | [Bolloré](http://twitter.com/search?q=Bollor%c3%a9) | N/A |
+| 27 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
+| 28 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 29 | [La CGT](http://twitter.com/search?q=La+CGT) | N/A |
+| 30 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 31 | [Liban](http://twitter.com/search?q=Liban) | N/A |
+| 32 | [Roubaix](http://twitter.com/search?q=Roubaix) | N/A |
+| 33 | [Johnny Depp](http://twitter.com/search?q=Johnny+Depp) | N/A |
+| 34 | [Shizzle](http://twitter.com/search?q=Shizzle) | N/A |
 | 35 | [Antilles](http://twitter.com/search?q=Antilles) | N/A |
-| 36 | [Berger](http://twitter.com/search?q=Berger) | N/A |
-| 37 | [#LAA6](http://twitter.com/search?q=%23LAA6) | N/A |
-| 38 | [#hdpros2](http://twitter.com/search?q=%23hdpros2) | N/A |
-| 39 | [#ReformesDesRetraites](http://twitter.com/search?q=%23ReformesDesRetraites) | N/A |
-| 40 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
-| 41 | [#Toulouse](http://twitter.com/search?q=%23Toulouse) | N/A |
-| 42 | [#64ansCestToujoursNon](http://twitter.com/search?q=%2364ansCestToujoursNon) | N/A |
-| 43 | [#Strasbourg](http://twitter.com/search?q=%23Strasbourg) | N/A |
+| 36 | [#manif6avril](http://twitter.com/search?q=%23manif6avril) | N/A |
+| 37 | [#LEOMATTEI](http://twitter.com/search?q=%23LEOMATTEI) | N/A |
+| 38 | [#MacronVaCraquer](http://twitter.com/search?q=%23MacronVaCraquer) | N/A |
+| 39 | [#ViolencesPoliceres](http://twitter.com/search?q=%23ViolencesPoliceres) | N/A |
+| 40 | [#Toulouse](http://twitter.com/search?q=%23Toulouse) | N/A |
+| 41 | [#64ansCestToujoursNon](http://twitter.com/search?q=%2364ansCestToujoursNon) | N/A |
+| 42 | [#reformedeseetraites](http://twitter.com/search?q=%23reformedeseetraites) | N/A |
 
 
 

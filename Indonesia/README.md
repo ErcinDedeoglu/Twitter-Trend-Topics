@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-04-06 19:17:54 UTC`
+📆 Last Updated: `2023-04-06 20:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Indonesia
 | ------- | ------------ | ------------ |
 | 1 | [Gorengan Harga Mati](http://twitter.com/search?q=Gorengan+Harga+Mati) | N/A |
 | 2 | [#BigRamadanSaleShopee](http://twitter.com/search?q=%23BigRamadanSaleShopee) | N/A |
-| 3 | [HARI TERAKHIR PROMO PUNCAK](http://twitter.com/search?q=HARI+TERAKHIR+PROMO+PUNCAK) | N/A |
-| 4 | [#KobeBumbuAdukNasiUduk](http://twitter.com/search?q=%23KobeBumbuAdukNasiUduk) | N/A |
-| 5 | [#PedeItuPenting](http://twitter.com/search?q=%23PedeItuPenting) | N/A |
-| 6 | [Produk Viral](http://twitter.com/search?q=Produk+Viral) | N/A |
-| 7 | [#DikenalHandal](http://twitter.com/search?q=%23DikenalHandal) | N/A |
-| 8 | [Tabungan BRI Simpedes](http://twitter.com/search?q=Tabungan+BRI+Simpedes) | N/A |
-| 9 | [Pilihan Zillennial Jateng](http://twitter.com/search?q=Pilihan+Zillennial+Jateng) | N/A |
+| 3 | [Tabungan BRI Simpedes](http://twitter.com/search?q=Tabungan+BRI+Simpedes) | N/A |
+| 4 | [#PedeItuPenting](http://twitter.com/search?q=%23PedeItuPenting) | N/A |
+| 5 | [HARI TERAKHIR PROMO PUNCAK](http://twitter.com/search?q=HARI+TERAKHIR+PROMO+PUNCAK) | N/A |
+| 6 | [#KobeBumbuAdukNasiUduk](http://twitter.com/search?q=%23KobeBumbuAdukNasiUduk) | N/A |
+| 7 | [Pilihan Zillennial Jateng](http://twitter.com/search?q=Pilihan+Zillennial+Jateng) | N/A |
+| 8 | [Produk Viral](http://twitter.com/search?q=Produk+Viral) | N/A |
+| 9 | [#DikenalHandal](http://twitter.com/search?q=%23DikenalHandal) | N/A |
 | 10 | [#FlashSaleAkbarRp1](http://twitter.com/search?q=%23FlashSaleAkbarRp1) | N/A |
 | 11 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
 | 12 | [bersama lebih bermakna](http://twitter.com/search?q=bersama+lebih+bermakna) | N/A |
-| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 14 | [Kamis Putih](http://twitter.com/search?q=Kamis+Putih) | N/A |
-| 15 | [Bagaimana 4](http://twitter.com/search?q=Bagaimana+4) | N/A |
-| 16 | [Repose Meadows](http://twitter.com/search?q=Repose+Meadows) | N/A |
-| 17 | [Prabowo Pilihan Kita](http://twitter.com/search?q=Prabowo+Pilihan+Kita) | N/A |
-| 18 | [AllInPrabowo](http://twitter.com/search?q=AllInPrabowo) | N/A |
-| 19 | [Prabowo Panutanku](http://twitter.com/search?q=Prabowo+Panutanku) | N/A |
-| 20 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 21 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 13 | [Kamis Putih](http://twitter.com/search?q=Kamis+Putih) | N/A |
+| 14 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 15 | [Repose Meadows](http://twitter.com/search?q=Repose+Meadows) | N/A |
+| 16 | [Bagaimana 4](http://twitter.com/search?q=Bagaimana+4) | N/A |
+| 17 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 18 | [majukan terus indonesia](http://twitter.com/search?q=majukan+terus+indonesia) | N/A |
+| 19 | [semangat persatuan prabowo](http://twitter.com/search?q=semangat+persatuan+prabowo) | N/A |
+| 20 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 21 | [Jumat Agung](http://twitter.com/search?q=Jumat+Agung) | N/A |
 | 22 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 23 | [Jumat Agung](http://twitter.com/search?q=Jumat+Agung) | N/A |
-| 24 | [semangat persatuan prabowo](http://twitter.com/search?q=semangat+persatuan+prabowo) | N/A |
-| 25 | [majukan terus indonesia](http://twitter.com/search?q=majukan+terus+indonesia) | N/A |
-| 26 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 27 | [EXO 11th Anniversary](http://twitter.com/search?q=EXO+11th+Anniversary) | N/A |
-| 28 | [BEAUTY MYSTERY BOX](http://twitter.com/search?q=BEAUTY+MYSTERY+BOX) | N/A |
-| 29 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 30 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 31 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 32 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
-| 33 | [50MP Triple Camera](http://twitter.com/search?q=50MP+Triple+Camera) | N/A |
-| 34 | [KEJUTAN PRODUK GRATIS](http://twitter.com/search?q=KEJUTAN+PRODUK+GRATIS) | N/A |
-| 35 | [Madame Gie](http://twitter.com/search?q=Madame+Gie) | N/A |
-| 36 | [Laporin](http://twitter.com/search?q=Laporin) | N/A |
-| 37 | [Sariwangi](http://twitter.com/search?q=Sariwangi) | N/A |
-| 38 | [YOU DID WELL](http://twitter.com/search?q=YOU+DID+WELL) | N/A |
-| 39 | [mini camp](http://twitter.com/search?q=mini+camp) | N/A |
-| 40 | [Selection](http://twitter.com/search?q=Selection) | N/A |
-| 41 | [Laneige](http://twitter.com/search?q=Laneige) | N/A |
-| 42 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
-| 43 | [MARK SOLO TOMORROW](http://twitter.com/search?q=MARK+SOLO+TOMORROW) | N/A |
-| 44 | [Jepri](http://twitter.com/search?q=Jepri) | N/A |
-| 45 | [selamat hari nelayan nasional](http://twitter.com/search?q=selamat+hari+nelayan+nasional) | N/A |
-| 46 | [Underrated](http://twitter.com/search?q=Underrated) | N/A |
-| 47 | [FIFA Forward](http://twitter.com/search?q=FIFA+Forward) | N/A |
-| 48 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 49 | [Onic](http://twitter.com/search?q=Onic) | N/A |
-| 50 | [Dico](http://twitter.com/search?q=Dico) | N/A |
+| 23 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 24 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 25 | [EXO 11th Anniversary](http://twitter.com/search?q=EXO+11th+Anniversary) | N/A |
+| 26 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 27 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
+| 28 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 29 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 30 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
+| 31 | [Laporin](http://twitter.com/search?q=Laporin) | N/A |
+| 32 | [mini camp](http://twitter.com/search?q=mini+camp) | N/A |
+| 33 | [Jepri](http://twitter.com/search?q=Jepri) | N/A |
+| 34 | [BEAUTY MYSTERY BOX](http://twitter.com/search?q=BEAUTY+MYSTERY+BOX) | N/A |
+| 35 | [Sariwangi](http://twitter.com/search?q=Sariwangi) | N/A |
+| 36 | [YOU DID WELL](http://twitter.com/search?q=YOU+DID+WELL) | N/A |
+| 37 | [MARK SOLO TOMORROW](http://twitter.com/search?q=MARK+SOLO+TOMORROW) | N/A |
+| 38 | [selamat hari nelayan nasional](http://twitter.com/search?q=selamat+hari+nelayan+nasional) | N/A |
+| 39 | [BM LAST EVALUATION EP5](http://twitter.com/search?q=BM+LAST+EVALUATION+EP5) | N/A |
+| 40 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 41 | [Madame Gie](http://twitter.com/search?q=Madame+Gie) | N/A |
+| 42 | [KEJUTAN PRODUK GRATIS](http://twitter.com/search?q=KEJUTAN+PRODUK+GRATIS) | N/A |
+| 43 | [Underrated](http://twitter.com/search?q=Underrated) | N/A |
+| 44 | [Dico](http://twitter.com/search?q=Dico) | N/A |
+| 45 | [Laneige](http://twitter.com/search?q=Laneige) | N/A |
+| 46 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 47 | [Onic](http://twitter.com/search?q=Onic) | N/A |
+| 48 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
+| 49 | [islam haramkan kezaliman](http://twitter.com/search?q=islam+haramkan+kezaliman) | N/A |
+| 50 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 
 
 

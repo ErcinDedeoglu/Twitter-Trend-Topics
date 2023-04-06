@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-06 19:17:51 UTC`
+📆 Last Updated: `2023-04-06 20:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Austria
 | ------- | ------------ | ------------ |
 | 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 2 | [#STUASK](http://twitter.com/search?q=%23STUASK) | N/A |
-| 3 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
+| 3 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
 | 4 | [Spinat](http://twitter.com/search?q=Spinat) | N/A |
-| 5 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
-| 6 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 7 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
-| 8 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
-| 9 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
-| 10 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 11 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 12 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 13 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 14 | [#scrsvr](http://twitter.com/search?q=%23scrsvr) | N/A |
-| 15 | [Arbeitszeitverkürzung](http://twitter.com/search?q=Arbeitszeitverk%c3%bcrzung) | N/A |
-| 16 | [Presserat](http://twitter.com/search?q=Presserat) | N/A |
-| 17 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
-| 18 | [Symptome](http://twitter.com/search?q=Symptome) | N/A |
-| 19 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
-| 20 | [Zadic](http://twitter.com/search?q=Zadic) | N/A |
-| 21 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
-| 22 | [Unfassbar](http://twitter.com/search?q=Unfassbar) | N/A |
-| 23 | [Konsequenz](http://twitter.com/search?q=Konsequenz) | N/A |
-| 24 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 25 | [Hängematte](http://twitter.com/search?q=H%c3%a4ngematte) | N/A |
-| 26 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 27 | [Gebäude](http://twitter.com/search?q=Geb%c3%a4ude) | N/A |
-| 28 | [VfGh](http://twitter.com/search?q=VfGh) | N/A |
-| 29 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 30 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 31 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
-| 32 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 33 | [Existenz](http://twitter.com/search?q=Existenz) | N/A |
-| 34 | [ArtStyleMimi](http://twitter.com/search?q=ArtStyleMimi) | N/A |
-| 35 | [Theorie](http://twitter.com/search?q=Theorie) | N/A |
-| 36 | [Bedarf](http://twitter.com/search?q=Bedarf) | N/A |
-| 37 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
-| 38 | [Infektion](http://twitter.com/search?q=Infektion) | N/A |
-| 39 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 40 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 41 | [Formen](http://twitter.com/search?q=Formen) | N/A |
-| 42 | [Favoriten](http://twitter.com/search?q=Favoriten) | N/A |
-| 43 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
-| 44 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
-| 45 | [Rote](http://twitter.com/search?q=Rote) | N/A |
-| 46 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
-| 47 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
-| 48 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
-| 49 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 50 | [Toleranz](http://twitter.com/search?q=Toleranz) | N/A |
+| 5 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
+| 6 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
+| 7 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 8 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
+| 9 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
+| 10 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
+| 11 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
+| 12 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 13 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
+| 14 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
+| 15 | [Tests](http://twitter.com/search?q=Tests) | N/A |
+| 16 | [Kindheit](http://twitter.com/search?q=Kindheit) | N/A |
+| 17 | [Symptome](http://twitter.com/search?q=Symptome) | N/A |
+| 18 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
+| 19 | [Pflege](http://twitter.com/search?q=Pflege) | N/A |
+| 20 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
+| 21 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
+| 22 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
+| 23 | [Finger](http://twitter.com/search?q=Finger) | N/A |
+| 24 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 25 | [Arbeitszeitverkürzung](http://twitter.com/search?q=Arbeitszeitverk%c3%bcrzung) | N/A |
+| 26 | [Krise](http://twitter.com/search?q=Krise) | N/A |
+| 27 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
+| 28 | [VFGH](http://twitter.com/search?q=VFGH) | N/A |
+| 29 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
+| 30 | [Konto](http://twitter.com/search?q=Konto) | N/A |
+| 31 | [Keller](http://twitter.com/search?q=Keller) | N/A |
+| 32 | [Impfungen](http://twitter.com/search?q=Impfungen) | N/A |
+| 33 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
+| 34 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
+| 35 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
+| 36 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 37 | [Pause](http://twitter.com/search?q=Pause) | N/A |
+| 38 | [Hängematte](http://twitter.com/search?q=H%c3%a4ngematte) | N/A |
+| 39 | [Presserat](http://twitter.com/search?q=Presserat) | N/A |
+| 40 | [Zadic](http://twitter.com/search?q=Zadic) | N/A |
+| 41 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 42 | [Arbeitnehmer](http://twitter.com/search?q=Arbeitnehmer) | N/A |
+| 43 | [Fachkräftemangel](http://twitter.com/search?q=Fachkr%c3%a4ftemangel) | N/A |
+| 44 | [Praxis](http://twitter.com/search?q=Praxis) | N/A |
+| 45 | [Verordnungen](http://twitter.com/search?q=Verordnungen) | N/A |
+| 46 | [Ärzte](http://twitter.com/search?q=%c3%84rzte) | N/A |
+| 47 | [Schwester](http://twitter.com/search?q=Schwester) | N/A |
+| 48 | [Behörden](http://twitter.com/search?q=Beh%c3%b6rden) | N/A |
+| 49 | [Teufel](http://twitter.com/search?q=Teufel) | N/A |
+| 50 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-04-06 19:17:39 UTC`
+📆 Last Updated: `2023-04-06 20:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
+| 1 | [#TennesseeThree](http://twitter.com/search?q=%23TennesseeThree) | N/A |
 | 2 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 3 | [#TennesseeThree](http://twitter.com/search?q=%23TennesseeThree) | N/A |
-| 4 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
-| 5 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 6 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 7 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 8 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 9 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 10 | [#NationalStudentAthleteDay](http://twitter.com/search?q=%23NationalStudentAthleteDay) | N/A |
-| 11 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 12 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 13 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 14 | [Adam Duvall](http://twitter.com/search?q=Adam+Duvall) | N/A |
-| 15 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
-| 16 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 17 | [FedNow](http://twitter.com/search?q=FedNow) | N/A |
-| 18 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 19 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 20 | [Pomerantz](http://twitter.com/search?q=Pomerantz) | N/A |
-| 21 | [Jake Rogers](http://twitter.com/search?q=Jake+Rogers) | N/A |
-| 22 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 23 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 24 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 25 | [KAWS](http://twitter.com/search?q=KAWS) | N/A |
-| 26 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 27 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 28 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 29 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
-| 30 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
-| 31 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 32 | [Ryan Nembhard](http://twitter.com/search?q=Ryan+Nembhard) | N/A |
-| 33 | [Tatis](http://twitter.com/search?q=Tatis) | N/A |
+| 3 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
+| 4 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 5 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 6 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
+| 7 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 8 | [#NationalStudentAthleteDay](http://twitter.com/search?q=%23NationalStudentAthleteDay) | N/A |
+| 9 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 10 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 11 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 12 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 13 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
+| 14 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 15 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 16 | [KAWS](http://twitter.com/search?q=KAWS) | N/A |
+| 17 | [Rep. Jones](http://twitter.com/search?q=Rep.+Jones) | N/A |
+| 18 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 19 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
+| 20 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 21 | [Pomerantz](http://twitter.com/search?q=Pomerantz) | N/A |
+| 22 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
+| 23 | [Rebekah Jones](http://twitter.com/search?q=Rebekah+Jones) | N/A |
+| 24 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 25 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 26 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
+| 27 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 28 | [FedNow](http://twitter.com/search?q=FedNow) | N/A |
+| 29 | [Bulso](http://twitter.com/search?q=Bulso) | N/A |
+| 30 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 31 | [Tennessee House](http://twitter.com/search?q=Tennessee+House) | N/A |
+| 32 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
+| 33 | [EDCLV](http://twitter.com/search?q=EDCLV) | N/A |
 | 34 | [ProPublica](http://twitter.com/search?q=ProPublica) | N/A |
-| 35 | [Uncle Remus](http://twitter.com/search?q=Uncle+Remus) | N/A |
-| 36 | [Bohemian Grove](http://twitter.com/search?q=Bohemian+Grove) | N/A |
-| 37 | [Brig](http://twitter.com/search?q=Brig) | N/A |
-| 38 | [Tim Boyle](http://twitter.com/search?q=Tim+Boyle) | Tim Boyle is a slang term used to describe someone who is overly eager or enthusiastic. It is often used in a humorous way to describe someone who is overly eager to please or impress others. |
-| 39 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 40 | [Conforto](http://twitter.com/search?q=Conforto) | Conforto is a Portuguese word that means comfort or solace. It is often used to describe a feeling of being at ease or contentment. |
-| 41 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 42 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 43 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
-| 44 | [Ginni](http://twitter.com/search?q=Ginni) | N/A |
-| 45 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
-| 46 | [Engine](http://twitter.com/search?q=Engine) | N/A |
-| 47 | [Kavanaugh](http://twitter.com/search?q=Kavanaugh) | N/A |
-| 48 | [Icebox](http://twitter.com/search?q=Icebox) | N/A |
-| 49 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 35 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 36 | [George Lucas](http://twitter.com/search?q=George+Lucas) | N/A |
+| 37 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 38 | [Ryan Nembhard](http://twitter.com/search?q=Ryan+Nembhard) | N/A |
+| 39 | [Miami Herald](http://twitter.com/search?q=Miami+Herald) | N/A |
+| 40 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 41 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
+| 42 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 43 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 44 | [Jose Ruiz](http://twitter.com/search?q=Jose+Ruiz) | N/A |
+| 45 | [Jake Rogers](http://twitter.com/search?q=Jake+Rogers) | N/A |
+| 46 | [Wilmer](http://twitter.com/search?q=Wilmer) | N/A |
+| 47 | [Tim Boyle](http://twitter.com/search?q=Tim+Boyle) | Tim Boyle is a slang term used to describe someone who is overly eager or enthusiastic. It is often used in a humorous way to describe someone who is overly eager to please or impress others. |
+| 48 | [Justices](http://twitter.com/search?q=Justices) | Justices is a term used to refer to judges in the legal system. It is also used to refer to members of the Supreme Court of the United States. Justices are responsible for interpreting and applying laws, as well as ruling on cases brought before them. |
+| 49 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 
 
 
