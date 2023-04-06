@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-04-06 17:17:34 UTC`
+📆 Last Updated: `2023-04-06 18:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
-| 2 | [Emel Uslu Atik](http://twitter.com/search?q=Emel+Uslu+Atik) | N/A |
-| 3 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
-| 4 | [#MaziOnBitmart](http://twitter.com/search?q=%23MaziOnBitmart) | N/A |
+| 1 | [Emel Uslu Atik](http://twitter.com/search?q=Emel+Uslu+Atik) | N/A |
+| 2 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
+| 3 | [#MaziOnBitmart](http://twitter.com/search?q=%23MaziOnBitmart) | N/A |
+| 4 | [UstaÖğreticiKırgın](http://twitter.com/search?q=Usta%c3%96%c4%9freticiK%c4%b1rg%c4%b1n) | N/A |
 | 5 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 6 | [#tuzkoktu](http://twitter.com/search?q=%23tuzkoktu) | N/A |
-| 7 | [#15RamazanYetimlerGünü](http://twitter.com/search?q=%2315RamazanYetimlerG%c3%bcn%c3%bc) | N/A |
-| 8 | [#SandığaGömülecekler](http://twitter.com/search?q=%23Sand%c4%b1%c4%9faG%c3%b6m%c3%bclecekler) | N/A |
-| 9 | [Güçlü Türkiye](http://twitter.com/search?q=G%c3%bc%c3%a7l%c3%bc+T%c3%bcrkiye) | N/A |
-| 10 | [Sergen Yalçın](http://twitter.com/search?q=Sergen+Yal%c3%a7%c4%b1n) | N/A |
-| 11 | [Kanımızı](http://twitter.com/search?q=Kan%c4%b1m%c4%b1z%c4%b1) | N/A |
-| 12 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 13 | [Alioski](http://twitter.com/search?q=Alioski) | N/A |
-| 14 | [SözümüzSöz OyumuzAffa](http://twitter.com/search?q=S%c3%b6z%c3%bcm%c3%bczS%c3%b6z+OyumuzAffa) | N/A |
-| 15 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 16 | [Adana'nın Saimbeyli](http://twitter.com/search?q=Adana%27n%c4%b1n+Saimbeyli) | N/A |
-| 17 | [Fenerbahçe Opet](http://twitter.com/search?q=Fenerbah%c3%a7e+Opet) | N/A |
-| 18 | [Sarıgül](http://twitter.com/search?q=Sar%c4%b1g%c3%bcl) | N/A |
-| 19 | [Van'da 4.1](http://twitter.com/search?q=Van%27da+4.1) | N/A |
-| 20 | [Fenerbahçe - Kayserispor](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Kayserispor) | N/A |
-| 21 | [Yunanistan](http://twitter.com/search?q=Yunanistan) | N/A |
-| 22 | [Satacak](http://twitter.com/search?q=Satacak) | N/A |
-| 23 | [Vakıfbank](http://twitter.com/search?q=Vak%c4%b1fbank) | N/A |
-| 24 | [Düzenli](http://twitter.com/search?q=D%c3%bczenli) | N/A |
-| 25 | [Gülben Ergen](http://twitter.com/search?q=G%c3%bclben+Ergen) | N/A |
-| 26 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
-| 27 | [Ümmühan Dilbilir](http://twitter.com/search?q=%c3%9cmm%c3%bchan+Dilbilir) | N/A |
-| 28 | [Günahımı](http://twitter.com/search?q=G%c3%bcnah%c4%b1m%c4%b1) | N/A |
-| 29 | [Emine](http://twitter.com/search?q=Emine) | N/A |
-| 30 | [Dilek Altıparmak](http://twitter.com/search?q=Dilek+Alt%c4%b1parmak) | N/A |
-| 31 | [Cengiz Çandar](http://twitter.com/search?q=Cengiz+%c3%87andar) | N/A |
-| 32 | [Tuğçe](http://twitter.com/search?q=Tu%c4%9f%c3%a7e) | N/A |
-| 33 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
-| 34 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
-| 35 | [Kiracı](http://twitter.com/search?q=Kirac%c4%b1) | N/A |
-| 36 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
-| 37 | [Lübnan](http://twitter.com/search?q=L%c3%bcbnan) | N/A |
-| 38 | [İstanbul Valiliği](http://twitter.com/search?q=%c4%b0stanbul+Valili%c4%9fi) | N/A |
-| 39 | [7 Nisan Cuma](http://twitter.com/search?q=7+Nisan+Cuma) | N/A |
-| 40 | [Cengiz Kurtoğlu](http://twitter.com/search?q=Cengiz+Kurto%c4%9flu) | N/A |
-| 41 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
-| 42 | [KORKMUYORUZ](http://twitter.com/search?q=KORKMUYORUZ) | N/A |
-| 43 | [Anadolu Ajansı'nın 103](http://twitter.com/search?q=Anadolu+Ajans%c4%b1%27n%c4%b1n+103) | N/A |
-| 44 | [Cansu](http://twitter.com/search?q=Cansu) | N/A |
-| 45 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 46 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
-| 47 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
-| 48 | [CHP İstanbul İl Başkanlığı'na](http://twitter.com/search?q=CHP+%c4%b0stanbul+%c4%b0l+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1%27na) | N/A |
-| 49 | [Begüm Polat](http://twitter.com/search?q=Beg%c3%bcm+Polat) | N/A |
-| 50 | [Mekanları](http://twitter.com/search?q=Mekanlar%c4%b1) | N/A |
+| 6 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
+| 7 | [#tuzkoktu](http://twitter.com/search?q=%23tuzkoktu) | N/A |
+| 8 | [#15ramazanyetimlergünü](http://twitter.com/search?q=%2315ramazanyetimlerg%c3%bcn%c3%bc) | N/A |
+| 9 | [#MemurunGozuMecliste](http://twitter.com/search?q=%23MemurunGozuMecliste) | N/A |
+| 10 | [Emre Mor](http://twitter.com/search?q=Emre+Mor) | Emre Mor is a Turkish professional footballer who plays as a winger for Galatasaray. His name is derived from the Turkish words "emre" (meaning "love") and "mor" (meaning "purple"). |
+| 11 | [KamuMüfettişiÖzlükİstiyor](http://twitter.com/search?q=KamuM%c3%bcfetti%c5%9fi%c3%96zl%c3%bck%c4%b0stiyor) | N/A |
+| 12 | [Güçlü Türkiye](http://twitter.com/search?q=G%c3%bc%c3%a7l%c3%bc+T%c3%bcrkiye) | N/A |
+| 13 | [DaimaZirveye YağmurBarış](http://twitter.com/search?q=DaimaZirveye+Ya%c4%9fmurBar%c4%b1%c5%9f) | N/A |
+| 14 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 15 | [SözümüzSöz OyumuzAffa](http://twitter.com/search?q=S%c3%b6z%c3%bcm%c3%bczS%c3%b6z+OyumuzAffa) | N/A |
+| 16 | [Fenerbahçe Opet](http://twitter.com/search?q=Fenerbah%c3%a7e+Opet) | N/A |
+| 17 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
+| 18 | [Sergen Yalçın](http://twitter.com/search?q=Sergen+Yal%c3%a7%c4%b1n) | N/A |
+| 19 | [Fenerbahçe - Kayserispor](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Kayserispor) | N/A |
+| 20 | [Serdar Dursun](http://twitter.com/search?q=Serdar+Dursun) | N/A |
+| 21 | [Alioski](http://twitter.com/search?q=Alioski) | N/A |
+| 22 | [Vakıfbank](http://twitter.com/search?q=Vak%c4%b1fbank) | N/A |
+| 23 | [Cansu](http://twitter.com/search?q=Cansu) | N/A |
+| 24 | [Kanımızı](http://twitter.com/search?q=Kan%c4%b1m%c4%b1z%c4%b1) | N/A |
+| 25 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
+| 26 | [Düzenli](http://twitter.com/search?q=D%c3%bczenli) | N/A |
+| 27 | [Adana'nın Saimbeyli](http://twitter.com/search?q=Adana%27n%c4%b1n+Saimbeyli) | N/A |
+| 28 | [Van'da 4.1](http://twitter.com/search?q=Van%27da+4.1) | N/A |
+| 29 | [Yunanistan](http://twitter.com/search?q=Yunanistan) | N/A |
+| 30 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
+| 31 | [Sarıgül](http://twitter.com/search?q=Sar%c4%b1g%c3%bcl) | N/A |
+| 32 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
+| 33 | [Ümmühan Dilbilir](http://twitter.com/search?q=%c3%9cmm%c3%bchan+Dilbilir) | N/A |
+| 34 | [Başındaki](http://twitter.com/search?q=Ba%c5%9f%c4%b1ndaki) | N/A |
+| 35 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 36 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
+| 37 | [Günahımı](http://twitter.com/search?q=G%c3%bcnah%c4%b1m%c4%b1) | N/A |
+| 38 | [Tuğçe](http://twitter.com/search?q=Tu%c4%9f%c3%a7e) | N/A |
+| 39 | [Emine](http://twitter.com/search?q=Emine) | N/A |
+| 40 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
+| 41 | [Cengiz Çandar](http://twitter.com/search?q=Cengiz+%c3%87andar) | N/A |
+| 42 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
+| 43 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 44 | [Korkmuyoruz](http://twitter.com/search?q=Korkmuyoruz) | N/A |
+| 45 | [7 Nisan Cuma](http://twitter.com/search?q=7+Nisan+Cuma) | N/A |
+| 46 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
+| 47 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
+| 48 | [Başımız](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1z) | N/A |
+| 49 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
+| 50 | [Begüm Polat](http://twitter.com/search?q=Beg%c3%bcm+Polat) | N/A |
 
 
 

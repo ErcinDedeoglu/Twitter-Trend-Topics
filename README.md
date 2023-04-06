@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-06 17:16:47 UTC`
+📆 Last Updated: `2023-04-06 18:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,51 +25,51 @@ This is top 50
 | 3 | [#KKRvRCB](http://twitter.com/search?q=%23KKRvRCB) | N/A |
 | 4 | [#MaziOnBitmart](http://twitter.com/search?q=%23MaziOnBitmart) | N/A |
 | 5 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 6 | [#LALISAMV600M](http://twitter.com/search?q=%23LALISAMV600M) | N/A |
-| 7 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 8 | [Paulina de Allende](http://twitter.com/search?q=Paulina+de+Allende) | N/A |
-| 9 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
-| 10 | [Lord Shardul](http://twitter.com/search?q=Lord+Shardul) | Lord Shardul is a Hindu deity associated with strength and courage. He is the son of Shiva and Parvati, and is often depicted as a lion or tiger. The name Shardul translates to "tiger" in English. |
-| 11 | [امير عيد](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%b9%d9%8a%d8%af) | N/A |
-| 12 | [Emel Uslu Atik](http://twitter.com/search?q=Emel+Uslu+Atik) | N/A |
-| 13 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 14 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
-| 15 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
-| 16 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 17 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
-| 18 | [おうじひろし](http://twitter.com/search?q=%e3%81%8a%e3%81%86%e3%81%98%e3%81%b2%e3%82%8d%e3%81%97) | N/A |
-| 19 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 20 | [Icebox](http://twitter.com/search?q=Icebox) | N/A |
-| 21 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 22 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 23 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
-| 24 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 25 | [第441回](http://twitter.com/search?q=%e7%ac%ac441%e5%9b%9e) | N/A |
-| 26 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 27 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 28 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 29 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 30 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
-| 31 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
-| 32 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
-| 33 | [スタミュ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%9f%e3%83%a5) | N/A |
-| 34 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
-| 35 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 36 | [消しゴムマジック](http://twitter.com/search?q=%e6%b6%88%e3%81%97%e3%82%b4%e3%83%a0%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af) | N/A |
-| 37 | [ピンクムーン](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%83%a0%e3%83%bc%e3%83%b3) | N/A |
-| 38 | [デュナメス](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%83%8a%e3%83%a1%e3%82%b9) | N/A |
-| 39 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 40 | [ガラケー世代](http://twitter.com/search?q=%e3%82%ac%e3%83%a9%e3%82%b1%e3%83%bc%e4%b8%96%e4%bb%a3) | N/A |
-| 41 | [carat盤](http://twitter.com/search?q=carat%e7%9b%a4) | N/A |
-| 42 | [アイスボックス](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%9c%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 43 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 44 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
-| 45 | [バインド](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%b3%e3%83%89) | N/A |
-| 46 | [Produk Viral](http://twitter.com/search?q=Produk+Viral) | N/A |
-| 47 | [Harshal Patel](http://twitter.com/search?q=Harshal+Patel) | Harshal Patel is an Indian surname. It is derived from the Sanskrit words "harsha" meaning joy and "pati" meaning lord or master. The literal translation of the name is "lord of joy". |
-| 48 | [Narine](http://twitter.com/search?q=Narine) | N/A |
-| 49 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
-| 50 | [Guyana](http://twitter.com/search?q=Guyana) | N/A |
+| 6 | [Emel Uslu Atik](http://twitter.com/search?q=Emel+Uslu+Atik) | N/A |
+| 7 | [#LALISAMV600M](http://twitter.com/search?q=%23LALISAMV600M) | N/A |
+| 8 | [#عمرو_سعد](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d9%88_%d8%b3%d8%b9%d8%af) | N/A |
+| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 10 | [Paulina de Allende](http://twitter.com/search?q=Paulina+de+Allende) | N/A |
+| 11 | [Lord Shardul](http://twitter.com/search?q=Lord+Shardul) | Lord Shardul is a Hindu deity associated with strength and courage. He is the son of Shiva and Parvati, and is often depicted as a lion or tiger. The name Shardul translates to "tiger" in English. |
+| 12 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 13 | [امير عيد](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%b9%d9%8a%d8%af) | N/A |
+| 14 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 15 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 16 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
+| 17 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 18 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
+| 19 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
+| 20 | [UstaÖğreticiKırgın](http://twitter.com/search?q=Usta%c3%96%c4%9freticiK%c4%b1rg%c4%b1n) | N/A |
+| 21 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 22 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 23 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 24 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 25 | [Icebox](http://twitter.com/search?q=Icebox) | N/A |
+| 26 | [おうじひろし](http://twitter.com/search?q=%e3%81%8a%e3%81%86%e3%81%98%e3%81%b2%e3%82%8d%e3%81%97) | N/A |
+| 27 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
+| 28 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 29 | [第441回](http://twitter.com/search?q=%e7%ac%ac441%e5%9b%9e) | N/A |
+| 30 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 31 | [KamuMüfettişiÖzlükİstiyor](http://twitter.com/search?q=KamuM%c3%bcfetti%c5%9fi%c3%96zl%c3%bck%c4%b0stiyor) | N/A |
+| 32 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 33 | [Congratulations LISA](http://twitter.com/search?q=Congratulations+LISA) | N/A |
+| 34 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 35 | [Produk Viral](http://twitter.com/search?q=Produk+Viral) | N/A |
+| 36 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 37 | [Emre Mor](http://twitter.com/search?q=Emre+Mor) | Emre Mor is a Turkish professional footballer who plays as a winger for Galatasaray. His name is derived from the Turkish words "emre" (meaning "love") and "mor" (meaning "purple"). |
+| 38 | [スタミュ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%9f%e3%83%a5) | N/A |
+| 39 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 40 | [消しゴムマジック](http://twitter.com/search?q=%e6%b6%88%e3%81%97%e3%82%b4%e3%83%a0%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af) | N/A |
+| 41 | [デュナメス](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%83%8a%e3%83%a1%e3%82%b9) | N/A |
+| 42 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
+| 43 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
+| 44 | [Ana Cristina](http://twitter.com/search?q=Ana+Cristina) | N/A |
+| 45 | [Madureira](http://twitter.com/search?q=Madureira) | Madureira is a neighborhood in Rio de Janeiro, Brazil. It is known for its lively atmosphere and vibrant culture. In English, the name Madureira means "mature tree". |
+| 46 | [Harshal](http://twitter.com/search?q=Harshal) | N/A |
+| 47 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 48 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
+| 49 | [猿川くん](http://twitter.com/search?q=%e7%8c%bf%e5%b7%9d%e3%81%8f%e3%82%93) | N/A |
+| 50 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
 
 
 

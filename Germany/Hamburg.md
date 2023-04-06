@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-04-06 17:17:06 UTC`
+📆 Last Updated: `2023-04-06 18:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
 | 3 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
 | 4 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
-| 5 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 6 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 7 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
-| 8 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 9 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [#Tanzverbot](http://twitter.com/search?q=%23Tanzverbot) | N/A |
-| 12 | [#Tanzverbot](http://twitter.com/search?q=%23Tanzverbot) | N/A |
-| 13 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 14 | [Falschparker](http://twitter.com/search?q=Falschparker) | N/A |
-| 15 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 16 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 17 | [Worst Concert](http://twitter.com/search?q=Worst+Concert) | N/A |
-| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 19 | [Dream Concert](http://twitter.com/search?q=Dream+Concert) | N/A |
-| 20 | [Icebox](http://twitter.com/search?q=Icebox) | N/A |
-| 21 | [Frau Kellermann](http://twitter.com/search?q=Frau+Kellermann) | N/A |
-| 22 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
-| 23 | [torchance](http://twitter.com/search?q=torchance) | N/A |
-| 24 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 25 | [Stuttgart](http://twitter.com/search?q=Stuttgart) | N/A |
-| 26 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 5 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 6 | [#firstdates](http://twitter.com/search?q=%23firstdates) | N/A |
+| 7 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 8 | [#Tanzverbot](http://twitter.com/search?q=%23Tanzverbot) | N/A |
+| 9 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 10 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 11 | [#UnsereGenerationUnserJob](http://twitter.com/search?q=%23UnsereGenerationUnserJob) | N/A |
+| 12 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
+| 13 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 14 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
+| 15 | [torchance](http://twitter.com/search?q=torchance) | N/A |
+| 16 | [Falschparker](http://twitter.com/search?q=Falschparker) | N/A |
+| 17 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
+| 18 | [Dream Concert](http://twitter.com/search?q=Dream+Concert) | N/A |
+| 19 | [Worst Concert](http://twitter.com/search?q=Worst+Concert) | N/A |
+| 20 | [Frau Kellermann](http://twitter.com/search?q=Frau+Kellermann) | N/A |
+| 21 | [Feinstaub](http://twitter.com/search?q=Feinstaub) | N/A |
+| 22 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 23 | [Stuttgart](http://twitter.com/search?q=Stuttgart) | N/A |
+| 24 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 25 | [Moin](http://twitter.com/search?q=Moin) | N/A |
+| 26 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
 | 27 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
-| 28 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
-| 29 | [Vasektomie](http://twitter.com/search?q=Vasektomie) | N/A |
-| 30 | [Flugscham](http://twitter.com/search?q=Flugscham) | N/A |
-| 31 | ['Geflecht'](http://twitter.com/search?q=%27Geflecht%27) | N/A |
-| 32 | [Selbstzahler](http://twitter.com/search?q=Selbstzahler) | N/A |
-| 33 | [Klaus Ernst](http://twitter.com/search?q=Klaus+Ernst) | N/A |
-| 34 | [Geburtsurkunde](http://twitter.com/search?q=Geburtsurkunde) | N/A |
-| 35 | [Privatsache](http://twitter.com/search?q=Privatsache) | N/A |
-| 36 | [Afghanen und Türken](http://twitter.com/search?q=Afghanen+und+T%c3%bcrken) | N/A |
-| 37 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
-| 38 | [Flugtaxis](http://twitter.com/search?q=Flugtaxis) | N/A |
-| 39 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 40 | [EU-Staaten](http://twitter.com/search?q=EU-Staaten) | N/A |
-| 41 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 42 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
-| 43 | [Wine](http://twitter.com/search?q=Wine) | N/A |
-| 44 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 45 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 46 | [Denunziantentum](http://twitter.com/search?q=Denunziantentum) | N/A |
-| 47 | [Almut](http://twitter.com/search?q=Almut) | N/A |
-| 48 | [Feinstaub](http://twitter.com/search?q=Feinstaub) | N/A |
-| 49 | [Macheten](http://twitter.com/search?q=Macheten) | N/A |
-| 50 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 28 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
+| 29 | [guten morgen thomas](http://twitter.com/search?q=guten+morgen+thomas) | N/A |
+| 30 | [Stiko](http://twitter.com/search?q=Stiko) | N/A |
+| 31 | [vasektomie](http://twitter.com/search?q=vasektomie) | N/A |
+| 32 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 33 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
+| 34 | [Flugscham](http://twitter.com/search?q=Flugscham) | N/A |
+| 35 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 36 | ['Geflecht'](http://twitter.com/search?q=%27Geflecht%27) | N/A |
+| 37 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 38 | [Selbstzahler](http://twitter.com/search?q=Selbstzahler) | N/A |
+| 39 | [Geburtsurkunde](http://twitter.com/search?q=Geburtsurkunde) | N/A |
+| 40 | [Privatsache](http://twitter.com/search?q=Privatsache) | N/A |
+| 41 | [Flugtaxis](http://twitter.com/search?q=Flugtaxis) | N/A |
+| 42 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 43 | [Reus](http://twitter.com/search?q=Reus) | N/A |
+| 44 | [guten morgen andreas](http://twitter.com/search?q=guten+morgen+andreas) | N/A |
+| 45 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 46 | [Wine](http://twitter.com/search?q=Wine) | N/A |
+| 47 | [Icebox](http://twitter.com/search?q=Icebox) | N/A |
+| 48 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 49 | [Liberale Politik](http://twitter.com/search?q=Liberale+Politik) | N/A |
+| 50 | [Petition für die Kampagne](http://twitter.com/search?q=Petition+f%c3%bcr+die+Kampagne) | N/A |
 
 
 

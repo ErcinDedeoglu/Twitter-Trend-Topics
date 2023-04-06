@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-04-06 17:17:00 UTC`
+📆 Last Updated: `2023-04-06 18:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [izzo](http://twitter.com/search?q=izzo) | N/A |
-| 2 | [Janones](http://twitter.com/search?q=Janones) | N/A |
-| 3 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 4 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 5 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
-| 6 | [#MaziOnBitmart](http://twitter.com/search?q=%23MaziOnBitmart) | N/A |
-| 7 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 8 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 9 | [Madureira](http://twitter.com/search?q=Madureira) | Madureira is a neighborhood in Rio de Janeiro, Brazil. It is known for its lively atmosphere and vibrant culture. In English, the name Madureira means "mature tree". |
-| 10 | [CCXP](http://twitter.com/search?q=CCXP) | N/A |
-| 11 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
-| 12 | [Macris](http://twitter.com/search?q=Macris) | N/A |
-| 13 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
-| 14 | [Ana Cristina](http://twitter.com/search?q=Ana+Cristina) | N/A |
-| 15 | [Fener](http://twitter.com/search?q=Fener) | N/A |
-| 16 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 17 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 18 | [BBB APOIA ASSÉDIO](http://twitter.com/search?q=BBB+APOIA+ASS%c3%89DIO) | N/A |
+| 1 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
+| 2 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 3 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 4 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 5 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 6 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 7 | [Madureira](http://twitter.com/search?q=Madureira) | Madureira is a neighborhood in Rio de Janeiro, Brazil. It is known for its lively atmosphere and vibrant culture. In English, the name Madureira means "mature tree". |
+| 8 | [Ana Cristina](http://twitter.com/search?q=Ana+Cristina) | N/A |
+| 9 | [CCXP](http://twitter.com/search?q=CCXP) | N/A |
+| 10 | [BBB APOIA ASSÉDIO](http://twitter.com/search?q=BBB+APOIA+ASS%c3%89DIO) | N/A |
+| 11 | [Macris](http://twitter.com/search?q=Macris) | N/A |
+| 12 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
+| 13 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 14 | [Fener](http://twitter.com/search?q=Fener) | N/A |
+| 15 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 16 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
+| 17 | [Cansu](http://twitter.com/search?q=Cansu) | N/A |
+| 18 | [izzo](http://twitter.com/search?q=izzo) | N/A |
 | 19 | [Icebox](http://twitter.com/search?q=Icebox) | N/A |
-| 20 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
+| 20 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
 | 21 | [EA Sports FC](http://twitter.com/search?q=EA+Sports+FC) | N/A |
-| 22 | [Bruno Gaga](http://twitter.com/search?q=Bruno+Gaga) | Bruno Gaga is a term used to describe someone who is a combination of the singer Bruno Mars and the singer Lady Gaga. It is used to describe someone who has the same qualities as both singers, such as having a powerful voice, being able to write catchy songs, and having an energetic stage presence. |
-| 23 | [Fracture](http://twitter.com/search?q=Fracture) | N/A |
-| 24 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
-| 25 | [Bilu](http://twitter.com/search?q=Bilu) | Bilu is a Hebrew term that means "to come in" or "to enter." It is often used to refer to the act of immigrating to Israel. |
+| 22 | [Bilu](http://twitter.com/search?q=Bilu) | Bilu is a Hebrew term that means "to come in" or "to enter." It is often used to refer to the act of immigrating to Israel. |
+| 23 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
+| 24 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 25 | [dj arana](http://twitter.com/search?q=dj+arana) | N/A |
 | 26 | [Diego Abreu](http://twitter.com/search?q=Diego+Abreu) | N/A |
-| 27 | [dj arana](http://twitter.com/search?q=dj+arana) | N/A |
-| 28 | [My Adventures With Superman](http://twitter.com/search?q=My+Adventures+With+Superman) | N/A |
-| 29 | [#G4Bandsports](http://twitter.com/search?q=%23G4Bandsports) | N/A |
-| 30 | [Castan](http://twitter.com/search?q=Castan) | N/A |
-| 31 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 32 | [Ascent](http://twitter.com/search?q=Ascent) | N/A |
-| 33 | [Henrique Dourado](http://twitter.com/search?q=Henrique+Dourado) | N/A |
+| 27 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
+| 28 | [Fracture](http://twitter.com/search?q=Fracture) | N/A |
+| 29 | [#osdonosdabola](http://twitter.com/search?q=%23osdonosdabola) | N/A |
+| 30 | [My Adventures With Superman](http://twitter.com/search?q=My+Adventures+With+Superman) | N/A |
+| 31 | [#G4Bandsports](http://twitter.com/search?q=%23G4Bandsports) | N/A |
+| 32 | [Castan](http://twitter.com/search?q=Castan) | N/A |
+| 33 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
 | 34 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 35 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
-| 36 | [Cacto](http://twitter.com/search?q=Cacto) | N/A |
-| 37 | [Tino Júnior](http://twitter.com/search?q=Tino+J%c3%banior) | N/A |
-| 38 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 39 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
-| 40 | [Tyler Hoechlin](http://twitter.com/search?q=Tyler+Hoechlin) | N/A |
-| 41 | [Bruno Mendez](http://twitter.com/search?q=Bruno+Mendez) | N/A |
-| 42 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
-| 43 | [Praxedes](http://twitter.com/search?q=Praxedes) | N/A |
-| 44 | [Banco do Brasil](http://twitter.com/search?q=Banco+do+Brasil) | N/A |
-| 45 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
-| 46 | [Kappa](http://twitter.com/search?q=Kappa) | N/A |
-| 47 | [Mikasa](http://twitter.com/search?q=Mikasa) | N/A |
-| 48 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 49 | [Akainu](http://twitter.com/search?q=Akainu) | N/A |
-| 50 | [Zé Felipe Ret](http://twitter.com/search?q=Z%c3%a9+Felipe+Ret) | N/A |
+| 35 | [Praxedes](http://twitter.com/search?q=Praxedes) | N/A |
+| 36 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 37 | [Henrique Dourado](http://twitter.com/search?q=Henrique+Dourado) | N/A |
+| 38 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |
+| 39 | [Bali](http://twitter.com/search?q=Bali) | N/A |
+| 40 | [Bruno Mendez](http://twitter.com/search?q=Bruno+Mendez) | N/A |
+| 41 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 42 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
+| 43 | [Kappa](http://twitter.com/search?q=Kappa) | N/A |
+| 44 | [Janones](http://twitter.com/search?q=Janones) | N/A |
+| 45 | [Tyler Hoechlin](http://twitter.com/search?q=Tyler+Hoechlin) | N/A |
+| 46 | [Mikasa](http://twitter.com/search?q=Mikasa) | N/A |
+| 47 | [Cacto](http://twitter.com/search?q=Cacto) | N/A |
+| 48 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 49 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
+| 50 | [Juventude](http://twitter.com/search?q=Juventude) | Juventude is a Portuguese word that translates to "youth" in English. It is often used to refer to the young people of a particular country or region. |
 
 
 

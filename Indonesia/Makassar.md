@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-04-06 17:17:12 UTC`
+📆 Last Updated: `2023-04-06 18:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 1 | [#KobeBumbuAdukNasiUduk](http://twitter.com/search?q=%23KobeBumbuAdukNasiUduk) | N/A |
 | 2 | [Produk Viral](http://twitter.com/search?q=Produk+Viral) | N/A |
 | 3 | [Gorengan Harga Mati](http://twitter.com/search?q=Gorengan+Harga+Mati) | N/A |
-| 4 | [#TMSD](http://twitter.com/search?q=%23TMSD) | #TMSD stands for "The Most Significant Digit" and is a term used in mathematics to refer to the digit in a number that has the greatest value. For example, in the number 1234, the most significant digit is 1. |
+| 4 | [#LALISAMV600M](http://twitter.com/search?q=%23LALISAMV600M) | N/A |
 | 5 | [#TreasureMakerSelcaDay](http://twitter.com/search?q=%23TreasureMakerSelcaDay) | #TreasureMakerSelcaDay is a hashtag used by fans of the South Korean girl group Treasure to celebrate the group's members on a specific day. The hashtag is used to share photos of the members and show appreciation for them. In English, it translates to "Treasure Member Selfie Day". |
-| 6 | [#LALISAMV600M](http://twitter.com/search?q=%23LALISAMV600M) | N/A |
-| 7 | [BM LAST EVALUATION EP5](http://twitter.com/search?q=BM+LAST+EVALUATION+EP5) | N/A |
+| 6 | [BM LAST EVALUATION EP5](http://twitter.com/search?q=BM+LAST+EVALUATION+EP5) | N/A |
+| 7 | [Laporin](http://twitter.com/search?q=Laporin) | N/A |
 | 8 | [Jepri](http://twitter.com/search?q=Jepri) | N/A |
 | 9 | [Rora](http://twitter.com/search?q=Rora) | Rora is a Japanese term that translates to "lonely" or "isolated." It is often used to describe someone who feels alone or disconnected from the world around them. |
-| 10 | [Laporin](http://twitter.com/search?q=Laporin) | N/A |
-| 11 | [YOU DID WELL](http://twitter.com/search?q=YOU+DID+WELL) | N/A |
-| 12 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 13 | [Sariwangi](http://twitter.com/search?q=Sariwangi) | N/A |
-| 14 | [Kamis Putih](http://twitter.com/search?q=Kamis+Putih) | N/A |
-| 15 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 10 | [Sariwangi](http://twitter.com/search?q=Sariwangi) | N/A |
+| 11 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 12 | [Samperin](http://twitter.com/search?q=Samperin) | N/A |
+| 13 | [YOU DID WELL](http://twitter.com/search?q=YOU+DID+WELL) | N/A |
+| 14 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 15 | [Kamis Putih](http://twitter.com/search?q=Kamis+Putih) | N/A |
 | 16 | [Jumat Agung](http://twitter.com/search?q=Jumat+Agung) | N/A |
-| 17 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 18 | [Samperin](http://twitter.com/search?q=Samperin) | N/A |
-| 19 | [UU ITE](http://twitter.com/search?q=UU+ITE) | N/A |
-| 20 | [Onic](http://twitter.com/search?q=Onic) | N/A |
-| 21 | [Jefri Nichol](http://twitter.com/search?q=Jefri+Nichol) | N/A |
-| 22 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 23 | [Pilihan Zillennial Jateng](http://twitter.com/search?q=Pilihan+Zillennial+Jateng) | N/A |
-| 24 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 25 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
-| 26 | [PSIS](http://twitter.com/search?q=PSIS) | N/A |
-| 27 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 28 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 29 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 30 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 31 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 32 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 33 | [Kingdom](http://twitter.com/search?q=Kingdom) | N/A |
-| 34 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
-| 35 | [Paskah](http://twitter.com/search?q=Paskah) | N/A |
-| 36 | [EXO 11th Anniversary](http://twitter.com/search?q=EXO+11th+Anniversary) | N/A |
-| 37 | [Adminnya](http://twitter.com/search?q=Adminnya) | N/A |
-| 38 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 39 | [GOLDEN HOUR MV TEASER](http://twitter.com/search?q=GOLDEN+HOUR+MV+TEASER) | N/A |
-| 40 | [#TeumeSelcaDay](http://twitter.com/search?q=%23TeumeSelcaDay) | N/A |
-| 41 | [#ItsSiwonDay](http://twitter.com/search?q=%23ItsSiwonDay) | N/A |
-| 42 | [#eaJSafeInTheRain](http://twitter.com/search?q=%23eaJSafeInTheRain) | N/A |
-| 43 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
-| 44 | [#JKT48TheSlapShow](http://twitter.com/search?q=%23JKT48TheSlapShow) | N/A |
-| 45 | [#국힙원탑_최수민_생일이래요](http://twitter.com/search?q=%23%ea%b5%ad%ed%9e%99%ec%9b%90%ed%83%91_%ec%b5%9c%ec%88%98%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%9d%b4%eb%9e%98%ec%9a%94) | N/A |
-| 46 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
-| 47 | [#툥블답장](http://twitter.com/search?q=%23%ed%88%a5%eb%b8%94%eb%8b%b5%ec%9e%a5) | N/A |
-| 48 | [#태용버블](http://twitter.com/search?q=%23%ed%83%9c%ec%9a%a9%eb%b2%84%eb%b8%94) | N/A |
-| 49 | [#DikenalHandal](http://twitter.com/search?q=%23DikenalHandal) | N/A |
+| 17 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 18 | [Onic](http://twitter.com/search?q=Onic) | N/A |
+| 19 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 20 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 21 | [UU ITE](http://twitter.com/search?q=UU+ITE) | N/A |
+| 22 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 23 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 24 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 25 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
+| 26 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 27 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
+| 28 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 29 | [Polisi](http://twitter.com/search?q=Polisi) | N/A |
+| 30 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 31 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 32 | [EXO 11th Anniversary](http://twitter.com/search?q=EXO+11th+Anniversary) | N/A |
+| 33 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 34 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
+| 35 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 36 | [#TMSD](http://twitter.com/search?q=%23TMSD) | #TMSD stands for "The Most Significant Digit" and is a term used in mathematics to refer to the digit in a number that has the greatest value. For example, in the number 1234, the most significant digit is 1. |
+| 37 | [#ItsSiwonDay](http://twitter.com/search?q=%23ItsSiwonDay) | N/A |
+| 38 | [#TeumeSelcaDay](http://twitter.com/search?q=%23TeumeSelcaDay) | N/A |
+| 39 | [#eaJSafeInTheRain](http://twitter.com/search?q=%23eaJSafeInTheRain) | N/A |
+| 40 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
+| 41 | [#TheresSomethingSafeInTheRain](http://twitter.com/search?q=%23TheresSomethingSafeInTheRain) | N/A |
+| 42 | [#국힙원탑_최수민_생일이래요](http://twitter.com/search?q=%23%ea%b5%ad%ed%9e%99%ec%9b%90%ed%83%91_%ec%b5%9c%ec%88%98%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%9d%b4%eb%9e%98%ec%9a%94) | N/A |
+| 43 | [#태용버블](http://twitter.com/search?q=%23%ed%83%9c%ec%9a%a9%eb%b2%84%eb%b8%94) | N/A |
+| 44 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
+| 45 | [#싸이커스](http://twitter.com/search?q=%23%ec%8b%b8%ec%9d%b4%ec%bb%a4%ec%8a%a4) | N/A |
+| 46 | [#툥블답장](http://twitter.com/search?q=%23%ed%88%a5%eb%b8%94%eb%8b%b5%ec%9e%a5) | N/A |
+| 47 | [#JIHOON](http://twitter.com/search?q=%23JIHOON) | N/A |
+| 48 | [#xikers](http://twitter.com/search?q=%23xikers) | N/A |
 
 
 

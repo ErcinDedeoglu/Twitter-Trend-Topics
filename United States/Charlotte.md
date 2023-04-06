@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-04-06 17:17:36 UTC`
+📆 Last Updated: `2023-04-06 18:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 2 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 2 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
 | 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 4 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
-| 5 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 4 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 5 | [#Deelance](http://twitter.com/search?q=%23Deelance) | N/A |
 | 6 | [#MaziOnBitmart](http://twitter.com/search?q=%23MaziOnBitmart) | N/A |
-| 7 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 8 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
-| 9 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 10 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 7 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 8 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 9 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 10 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
 | 11 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 12 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 13 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 14 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
+| 12 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 13 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 14 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
 | 15 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 16 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 17 | [Bohemian Grove](http://twitter.com/search?q=Bohemian+Grove) | N/A |
-| 18 | [FedNow](http://twitter.com/search?q=FedNow) | N/A |
-| 19 | [Pomerantz](http://twitter.com/search?q=Pomerantz) | N/A |
-| 20 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 21 | [Tim Boyle](http://twitter.com/search?q=Tim+Boyle) | Tim Boyle is a slang term used to describe someone who is overly eager or enthusiastic. It is often used in a humorous way to describe someone who is overly eager to please or impress others. |
-| 22 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 16 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 17 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
+| 18 | [Bohemian Grove](http://twitter.com/search?q=Bohemian+Grove) | N/A |
+| 19 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 20 | [FedNow](http://twitter.com/search?q=FedNow) | N/A |
+| 21 | [Pomerantz](http://twitter.com/search?q=Pomerantz) | N/A |
+| 22 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
 | 23 | [Kevin Na](http://twitter.com/search?q=Kevin+Na) | N/A |
-| 24 | [ProPublica](http://twitter.com/search?q=ProPublica) | N/A |
-| 25 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 26 | [Uncle Remus](http://twitter.com/search?q=Uncle+Remus) | N/A |
-| 27 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 28 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 29 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
-| 30 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 31 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
-| 32 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 33 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 34 | [John Roberts](http://twitter.com/search?q=John+Roberts) | N/A |
-| 35 | [Engine](http://twitter.com/search?q=Engine) | N/A |
-| 36 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
-| 37 | [Icebox](http://twitter.com/search?q=Icebox) | N/A |
-| 38 | [Gruesome Twosome](http://twitter.com/search?q=Gruesome+Twosome) | N/A |
+| 24 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 25 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 26 | [Tim Boyle](http://twitter.com/search?q=Tim+Boyle) | Tim Boyle is a slang term used to describe someone who is overly eager or enthusiastic. It is often used in a humorous way to describe someone who is overly eager to please or impress others. |
+| 27 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 28 | [Jake Rogers](http://twitter.com/search?q=Jake+Rogers) | N/A |
+| 29 | [ProPublica](http://twitter.com/search?q=ProPublica) | N/A |
+| 30 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
+| 31 | [Uncle Remus](http://twitter.com/search?q=Uncle+Remus) | N/A |
+| 32 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 33 | [Icebox](http://twitter.com/search?q=Icebox) | N/A |
+| 34 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 36 | [Cameron Young](http://twitter.com/search?q=Cameron+Young) | N/A |
+| 37 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
+| 38 | [Engine](http://twitter.com/search?q=Engine) | N/A |
 | 39 | [Kavanaugh](http://twitter.com/search?q=Kavanaugh) | N/A |
-| 40 | [Ginni](http://twitter.com/search?q=Ginni) | N/A |
-| 41 | [Tatis](http://twitter.com/search?q=Tatis) | N/A |
-| 42 | [Cameron Young](http://twitter.com/search?q=Cameron+Young) | N/A |
-| 43 | [Jamison Battle](http://twitter.com/search?q=Jamison+Battle) | N/A |
-| 44 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 45 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
-| 46 | [Justices](http://twitter.com/search?q=Justices) | Justices is a term used to refer to judges in the legal system. It is also used to refer to members of the Supreme Court of the United States. Justices are responsible for interpreting and applying laws, as well as ruling on cases brought before them. |
-| 47 | [Yair](http://twitter.com/search?q=Yair) | N/A |
-| 48 | [Sotomayor](http://twitter.com/search?q=Sotomayor) | N/A |
+| 40 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 41 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 42 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 43 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 44 | [Justices](http://twitter.com/search?q=Justices) | Justices is a term used to refer to judges in the legal system. It is also used to refer to members of the Supreme Court of the United States. Justices are responsible for interpreting and applying laws, as well as ruling on cases brought before them. |
+| 45 | [Ginni](http://twitter.com/search?q=Ginni) | N/A |
+| 46 | [Tatis](http://twitter.com/search?q=Tatis) | N/A |
+| 47 | [Jamison Battle](http://twitter.com/search?q=Jamison+Battle) | N/A |
+| 48 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
 
 
 

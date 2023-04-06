@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-04-06 17:16:53 UTC`
+📆 Last Updated: `2023-04-06 18:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
 | 2 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 3 | [#JuevesSanto](http://twitter.com/search?q=%23JuevesSanto) | N/A |
-| 4 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 5 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 6 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 7 | [#timoresponde](http://twitter.com/search?q=%23timoresponde) | N/A |
-| 8 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 9 | [Desarrollo y la Paz](http://twitter.com/search?q=Desarrollo+y+la+Paz) | N/A |
-| 10 | [Día Internacional del Deporte](http://twitter.com/search?q=D%c3%ada+Internacional+del+Deporte) | N/A |
-| 11 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
-| 12 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 13 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 14 | [#SemanaSanta](http://twitter.com/search?q=%23SemanaSanta) | N/A |
-| 15 | [Y MÉXICO](http://twitter.com/search?q=Y+M%c3%89XICO) | N/A |
-| 16 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 18 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 19 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 20 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 3 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 4 | [#JuevesSanto](http://twitter.com/search?q=%23JuevesSanto) | N/A |
+| 5 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 6 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 7 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 8 | [#SemanaSanta](http://twitter.com/search?q=%23SemanaSanta) | N/A |
+| 9 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
+| 10 | [Desarrollo y la Paz](http://twitter.com/search?q=Desarrollo+y+la+Paz) | N/A |
+| 11 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 12 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 13 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 14 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 15 | [#bonoallstar](http://twitter.com/search?q=%23bonoallstar) | N/A |
+| 16 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 17 | [Y MÉXICO](http://twitter.com/search?q=Y+M%c3%89XICO) | N/A |
+| 18 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 19 | [#SUGAxNBA](http://twitter.com/search?q=%23SUGAxNBA) | N/A |
+| 20 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 21 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 22 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 22 | [Día Internacional del Deporte](http://twitter.com/search?q=D%c3%ada+Internacional+del+Deporte) | N/A |
 | 23 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 24 | [Eucaristía](http://twitter.com/search?q=Eucarist%c3%ada) | N/A |
-| 25 | [Mao Ning](http://twitter.com/search?q=Mao+Ning) | N/A |
-| 26 | [Circuito Exterior Mexiquense](http://twitter.com/search?q=Circuito+Exterior+Mexiquense) | N/A |
-| 27 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 28 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
-| 29 | [EA Sports FC](http://twitter.com/search?q=EA+Sports+FC) | N/A |
-| 30 | [Leonora Carrington](http://twitter.com/search?q=Leonora+Carrington) | N/A |
-| 31 | [no queremos perderte emilio](http://twitter.com/search?q=no+queremos+perderte+emilio) | N/A |
-| 32 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 33 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
-| 34 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 35 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 36 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
-| 37 | [Nacionalización](http://twitter.com/search?q=Nacionalizaci%c3%b3n) | N/A |
-| 38 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 39 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
-| 40 | [RUMORES IS COMING](http://twitter.com/search?q=RUMORES+IS+COMING) | N/A |
-| 41 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 42 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 43 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 44 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 45 | [Jim Ryan](http://twitter.com/search?q=Jim+Ryan) | N/A |
-| 46 | [Fénix](http://twitter.com/search?q=F%c3%a9nix) | N/A |
-| 47 | [Matehuala](http://twitter.com/search?q=Matehuala) | N/A |
-| 48 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
-| 49 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 50 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 24 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 25 | [Circuito Exterior Mexiquense](http://twitter.com/search?q=Circuito+Exterior+Mexiquense) | N/A |
+| 26 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
+| 27 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 28 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
+| 29 | [no queremos perderte emilio](http://twitter.com/search?q=no+queremos+perderte+emilio) | N/A |
+| 30 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 31 | [Leonarda](http://twitter.com/search?q=Leonarda) | N/A |
+| 32 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 33 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 34 | [Asesinato](http://twitter.com/search?q=Asesinato) | N/A |
+| 35 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
+| 36 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 37 | [Leonora Carrington](http://twitter.com/search?q=Leonora+Carrington) | N/A |
+| 38 | [RUMORES IS COMING](http://twitter.com/search?q=RUMORES+IS+COMING) | N/A |
+| 39 | [EA Sports FC](http://twitter.com/search?q=EA+Sports+FC) | N/A |
+| 40 | [Nacionalización](http://twitter.com/search?q=Nacionalizaci%c3%b3n) | N/A |
+| 41 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 42 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
+| 43 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 44 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 45 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
+| 46 | [Eucaristía](http://twitter.com/search?q=Eucarist%c3%ada) | N/A |
+| 47 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 48 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 49 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 50 | [Mao Ning](http://twitter.com/search?q=Mao+Ning) | N/A |
 
 
 
