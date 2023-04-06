@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-04-06 14:18:25 UTC`
+📆 Last Updated: `2023-04-06 15:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GalaxyBuds2](http://twitter.com/search?q=%23GalaxyBuds2) | N/A |
-| 2 | [#MaknaiRamadanSamsung](http://twitter.com/search?q=%23MaknaiRamadanSamsung) | N/A |
-| 3 | [#THRpolpolan](http://twitter.com/search?q=%23THRpolpolan) | N/A |
-| 4 | [#tiketHariRaya](http://twitter.com/search?q=%23tiketHariRaya) | N/A |
-| 5 | [Gorengan Harga Mati](http://twitter.com/search?q=Gorengan+Harga+Mati) | N/A |
-| 6 | [#KobeBumbuAdukNasiUduk](http://twitter.com/search?q=%23KobeBumbuAdukNasiUduk) | N/A |
-| 7 | [Produk Viral](http://twitter.com/search?q=Produk+Viral) | N/A |
-| 8 | [Pilihan Zillennial Jateng](http://twitter.com/search?q=Pilihan+Zillennial+Jateng) | N/A |
+| 1 | [Admin](http://twitter.com/search?q=Admin) | N/A |
+| 2 | [#THRpolpolan](http://twitter.com/search?q=%23THRpolpolan) | N/A |
+| 3 | [#tiketHariRaya](http://twitter.com/search?q=%23tiketHariRaya) | N/A |
+| 4 | [#KobeBumbuAdukNasiUduk](http://twitter.com/search?q=%23KobeBumbuAdukNasiUduk) | N/A |
+| 5 | [Produk Viral](http://twitter.com/search?q=Produk+Viral) | N/A |
+| 6 | [Gorengan Harga Mati](http://twitter.com/search?q=Gorengan+Harga+Mati) | N/A |
+| 7 | [#TMSD](http://twitter.com/search?q=%23TMSD) | #TMSD stands for "The Most Significant Digit" and is a term used in mathematics to refer to the digit in a number that has the greatest value. For example, in the number 1234, the most significant digit is 1. |
+| 8 | [#TreasureMakerSelcaDay](http://twitter.com/search?q=%23TreasureMakerSelcaDay) | #TreasureMakerSelcaDay is a hashtag used by fans of the South Korean girl group Treasure to celebrate the group's members on a specific day. The hashtag is used to share photos of the members and show appreciation for them. In English, it translates to "Treasure Member Selfie Day". |
 | 9 | [Laporin](http://twitter.com/search?q=Laporin) | N/A |
-| 10 | [YOU DID WELL](http://twitter.com/search?q=YOU+DID+WELL) | N/A |
-| 11 | [Sariwangi](http://twitter.com/search?q=Sariwangi) | N/A |
-| 12 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 13 | [Onic](http://twitter.com/search?q=Onic) | N/A |
-| 14 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 15 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 16 | [Tabungan BRI Simpedes](http://twitter.com/search?q=Tabungan+BRI+Simpedes) | N/A |
-| 17 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 18 | [Jepri](http://twitter.com/search?q=Jepri) | N/A |
-| 19 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 20 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 21 | [Kamis Putih](http://twitter.com/search?q=Kamis+Putih) | N/A |
-| 22 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 23 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
-| 24 | [Jumat Agung](http://twitter.com/search?q=Jumat+Agung) | N/A |
-| 25 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 26 | [Dico](http://twitter.com/search?q=Dico) | N/A |
-| 27 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 28 | [UU ITE](http://twitter.com/search?q=UU+ITE) | N/A |
-| 29 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 30 | [Interstellar](http://twitter.com/search?q=Interstellar) | N/A |
-| 31 | [GOLDEN HOUR MV TEASER](http://twitter.com/search?q=GOLDEN+HOUR+MV+TEASER) | N/A |
-| 32 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 33 | [EXO 11th Anniversary](http://twitter.com/search?q=EXO+11th+Anniversary) | N/A |
-| 34 | [Adminnya](http://twitter.com/search?q=Adminnya) | N/A |
-| 35 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 36 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 37 | [MARK SOLO TOMORROW](http://twitter.com/search?q=MARK+SOLO+TOMORROW) | N/A |
-| 38 | [selamat hari nelayan nasional](http://twitter.com/search?q=selamat+hari+nelayan+nasional) | N/A |
-| 39 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 40 | [Repose Meadows](http://twitter.com/search?q=Repose+Meadows) | N/A |
+| 10 | [Pilihan Zillennial Jateng](http://twitter.com/search?q=Pilihan+Zillennial+Jateng) | N/A |
+| 11 | [SPRING PRINCE SIWON DAY](http://twitter.com/search?q=SPRING+PRINCE+SIWON+DAY) | N/A |
+| 12 | [YOU DID WELL](http://twitter.com/search?q=YOU+DID+WELL) | N/A |
+| 13 | [Jepri](http://twitter.com/search?q=Jepri) | N/A |
+| 14 | [Sariwangi](http://twitter.com/search?q=Sariwangi) | N/A |
+| 15 | [Onic](http://twitter.com/search?q=Onic) | N/A |
+| 16 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 17 | [Kamis Putih](http://twitter.com/search?q=Kamis+Putih) | N/A |
+| 18 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 19 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 20 | [Tabungan BRI Simpedes](http://twitter.com/search?q=Tabungan+BRI+Simpedes) | N/A |
+| 21 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 22 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 23 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 24 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 25 | [UU ITE](http://twitter.com/search?q=UU+ITE) | N/A |
+| 26 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 27 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 28 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 29 | [Gibran](http://twitter.com/search?q=Gibran) | N/A |
+| 30 | [Jumat Agung](http://twitter.com/search?q=Jumat+Agung) | N/A |
+| 31 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
+| 32 | [Dico](http://twitter.com/search?q=Dico) | N/A |
+| 33 | [HPBD](http://twitter.com/search?q=HPBD) | N/A |
+| 34 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 35 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 36 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 37 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 38 | [Polisi](http://twitter.com/search?q=Polisi) | N/A |
+| 39 | [EXO 11th Anniversary](http://twitter.com/search?q=EXO+11th+Anniversary) | N/A |
+| 40 | [kucingku](http://twitter.com/search?q=kucingku) | N/A |
 | 41 | [Bagaimana 4](http://twitter.com/search?q=Bagaimana+4) | N/A |
-| 42 | [Hpbd](http://twitter.com/search?q=Hpbd) | N/A |
-| 43 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
-| 44 | [Underrated](http://twitter.com/search?q=Underrated) | N/A |
-| 45 | [Kucingku](http://twitter.com/search?q=Kucingku) | N/A |
-| 46 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
-| 47 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 42 | [Repose Meadows](http://twitter.com/search?q=Repose+Meadows) | N/A |
+| 43 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 44 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
+| 45 | [Dita](http://twitter.com/search?q=Dita) | N/A |
+| 46 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 47 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
 | 48 | [Mudik](http://twitter.com/search?q=Mudik) | N/A |
-| 49 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 49 | [#TeumeSelcaDay](http://twitter.com/search?q=%23TeumeSelcaDay) | N/A |
 
 
 

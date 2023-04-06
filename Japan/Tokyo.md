@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-04-06 14:18:28 UTC`
+📆 Last Updated: `2023-04-06 15:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [ムツゴロウさん](http://twitter.com/search?q=%e3%83%a0%e3%83%84%e3%82%b4%e3%83%ad%e3%82%a6%e3%81%95%e3%82%93) | N/A |
-| 2 | [#菅井友香](http://twitter.com/search?q=%23%e8%8f%85%e4%ba%95%e5%8f%8b%e9%a6%99) | N/A |
-| 3 | [魔法使いの嫁](http://twitter.com/search?q=%e9%ad%94%e6%b3%95%e4%bd%bf%e3%81%84%e3%81%ae%e5%ab%81) | N/A |
-| 4 | [#アンダーライブ東京Day2](http://twitter.com/search?q=%23%e3%82%a2%e3%83%b3%e3%83%80%e3%83%bc%e3%83%a9%e3%82%a4%e3%83%96%e6%9d%b1%e4%ba%acDay2) | N/A |
-| 5 | [久保ちゃん](http://twitter.com/search?q=%e4%b9%85%e4%bf%9d%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 6 | [Black Country](http://twitter.com/search?q=Black+Country) | N/A |
-| 7 | [#バンドリTVLIVE](http://twitter.com/search?q=%23%e3%83%90%e3%83%b3%e3%83%89%e3%83%aaTVLIVE) | N/A |
-| 8 | [ちいかわ水族館](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e6%b0%b4%e6%97%8f%e9%a4%a8) | N/A |
-| 9 | [ヘルシェイク矢野](http://twitter.com/search?q=%e3%83%98%e3%83%ab%e3%82%b7%e3%82%a7%e3%82%a4%e3%82%af%e7%9f%a2%e9%87%8e) | ヘルシェイク矢野 is a Japanese phrase that translates to "Yano of Hellshake". It is the name of a Japanese rock band formed in the late 1980s. The band's music is a mix of hard rock, punk, and metal. |
-| 10 | [ファントム様](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%83%88%e3%83%a0%e6%a7%98) | N/A |
-| 11 | [#おとなりに銀河](http://twitter.com/search?q=%23%e3%81%8a%e3%81%a8%e3%81%aa%e3%82%8a%e3%81%ab%e9%8a%80%e6%b2%b3) | N/A |
-| 12 | [#mp2000](http://twitter.com/search?q=%23mp2000) | N/A |
-| 13 | [ネカフェ代](http://twitter.com/search?q=%e3%83%8d%e3%82%ab%e3%83%95%e3%82%a7%e4%bb%a3) | N/A |
-| 14 | [藤井竜王](http://twitter.com/search?q=%e8%97%a4%e4%ba%95%e7%ab%9c%e7%8e%8b) | N/A |
-| 15 | [NHK政治マガジン](http://twitter.com/search?q=NHK%e6%94%bf%e6%b2%bb%e3%83%9e%e3%82%ac%e3%82%b8%e3%83%b3) | N/A |
-| 16 | [どらほー](http://twitter.com/search?q=%e3%81%a9%e3%82%89%e3%81%bb%e3%83%bc) | N/A |
-| 17 | [おりほー](http://twitter.com/search?q=%e3%81%8a%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
-| 18 | [ピンクムーン](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%83%a0%e3%83%bc%e3%83%b3) | N/A |
-| 19 | [エレメント](http://twitter.com/search?q=%e3%82%a8%e3%83%ac%e3%83%a1%e3%83%b3%e3%83%88) | エレメント is a Japanese word that means "element" in English. It is used to refer to the basic components of something, such as the elements of a chemical compound or the elements of a mathematical equation. |
-| 20 | [那須くん](http://twitter.com/search?q=%e9%82%a3%e9%a0%88%e3%81%8f%e3%82%93) | 那須くん is a nickname for the Japanese professional baseball player, Naoyuki Shimizu. It is a combination of his given name and the Japanese honorific suffix “-kun”, which is used to refer to young boys or close friends. In English, it would be translated as “Naoyuki-kun”. |
-| 21 | [雨天コールド](http://twitter.com/search?q=%e9%9b%a8%e5%a4%a9%e3%82%b3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 22 | [こいほー](http://twitter.com/search?q=%e3%81%93%e3%81%84%e3%81%bb%e3%83%bc) | N/A |
-| 23 | [ドクスト](http://twitter.com/search?q=%e3%83%89%e3%82%af%e3%82%b9%e3%83%88) | N/A |
-| 24 | [ムロフェス](http://twitter.com/search?q=%e3%83%a0%e3%83%ad%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 25 | [めめラウ](http://twitter.com/search?q=%e3%82%81%e3%82%81%e3%83%a9%e3%82%a6) | めめラウ is a Japanese slang term that roughly translates to "no way!" or "unbelievable!" It is often used to express disbelief or surprise. |
-| 26 | [ジャンハオ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%8f%e3%82%aa) | N/A |
-| 27 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 28 | [モニタリング](http://twitter.com/search?q=%e3%83%a2%e3%83%8b%e3%82%bf%e3%83%aa%e3%83%b3%e3%82%b0) | モニタリング (monitoring) is the process of collecting and analyzing data to gain insights into a system or process. It is used to identify trends, detect problems, and measure performance. In English, it can also be referred to as surveillance or observation. |
-| 29 | [ハオビン](http://twitter.com/search?q=%e3%83%8f%e3%82%aa%e3%83%93%e3%83%b3) | N/A |
-| 30 | [ブリティッシュベイクオフ](http://twitter.com/search?q=%e3%83%96%e3%83%aa%e3%83%86%e3%82%a3%e3%83%83%e3%82%b7%e3%83%a5%e3%83%99%e3%82%a4%e3%82%af%e3%82%aa%e3%83%95) | N/A |
-| 31 | [第8師団長](http://twitter.com/search?q=%e7%ac%ac8%e5%b8%ab%e5%9b%a3%e9%95%b7) | N/A |
-| 32 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
-| 33 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
-| 34 | [嵐ヘリウム事件](http://twitter.com/search?q=%e5%b5%90%e3%83%98%e3%83%aa%e3%82%a6%e3%83%a0%e4%ba%8b%e4%bb%b6) | N/A |
-| 35 | [新井監督](http://twitter.com/search?q=%e6%96%b0%e4%ba%95%e7%9b%a3%e7%9d%a3) | N/A |
-| 36 | [美和ちゃん](http://twitter.com/search?q=%e7%be%8e%e5%92%8c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 37 | [陸自ヘリ](http://twitter.com/search?q=%e9%99%b8%e8%87%aa%e3%83%98%e3%83%aa) | N/A |
-| 38 | [Great Mistakes](http://twitter.com/search?q=Great+Mistakes) | N/A |
-| 39 | [SobaCha](http://twitter.com/search?q=SobaCha) | N/A |
+| 2 | [#報道ステーション](http://twitter.com/search?q=%23%e5%a0%b1%e9%81%93%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 3 | [#野口衣織](http://twitter.com/search?q=%23%e9%87%8e%e5%8f%a3%e8%a1%a3%e7%b9%94) | N/A |
+| 4 | [#mp2000](http://twitter.com/search?q=%23mp2000) | N/A |
+| 5 | [#baystars](http://twitter.com/search?q=%23baystars) | N/A |
+| 6 | [坂本雄一](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e9%9b%84%e4%b8%80) | N/A |
+| 7 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
+| 8 | [キムテレと結婚](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%83%86%e3%83%ac%e3%81%a8%e7%b5%90%e5%a9%9a) | N/A |
+| 9 | [Black Country](http://twitter.com/search?q=Black+Country) | N/A |
+| 10 | [新井監督](http://twitter.com/search?q=%e6%96%b0%e4%ba%95%e7%9b%a3%e7%9d%a3) | N/A |
+| 11 | [Cパート](http://twitter.com/search?q=C%e3%83%91%e3%83%bc%e3%83%88) | Cパート is a Japanese term used to refer to a part-time job. In English, it can be translated as "part-time job". |
+| 12 | [どりばぶ主催](http://twitter.com/search?q=%e3%81%a9%e3%82%8a%e3%81%b0%e3%81%b6%e4%b8%bb%e5%82%ac) | N/A |
+| 13 | [#菅井友香](http://twitter.com/search?q=%23%e8%8f%85%e4%ba%95%e5%8f%8b%e9%a6%99) | N/A |
+| 14 | [周辺海域](http://twitter.com/search?q=%e5%91%a8%e8%be%ba%e6%b5%b7%e5%9f%9f) | N/A |
+| 15 | [アーさん](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%81%95%e3%82%93) | N/A |
+| 16 | [マスターズ](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba) | マスターズ (Masters) is a term used in Japan to refer to people who have achieved a high level of expertise in a particular field or profession. It is often used to refer to people who have achieved the highest level of mastery in their chosen field, such as martial arts masters, music masters, or business masters. In English, it can be translated as "master" or "expert". |
+| 17 | [魔法使いの嫁](http://twitter.com/search?q=%e9%ad%94%e6%b3%95%e4%bd%bf%e3%81%84%e3%81%ae%e5%ab%81) | N/A |
+| 18 | [Great Mistakes](http://twitter.com/search?q=Great+Mistakes) | N/A |
+| 19 | [全員無事](http://twitter.com/search?q=%e5%85%a8%e5%93%a1%e7%84%a1%e4%ba%8b) | N/A |
+| 20 | [ランパード](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%91%e3%83%bc%e3%83%89) | ランパード (ranpādo) is a Japanese word that refers to a type of traditional Japanese clothing. It is a long, loose-fitting robe with wide sleeves and a sash around the waist. The word comes from the Portuguese word "ramparte," which means "protective wall." In English, it is sometimes referred to as a kimono robe. |
+| 21 | [ピンクムーン](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%83%a0%e3%83%bc%e3%83%b3) | N/A |
+| 22 | [おりほー](http://twitter.com/search?q=%e3%81%8a%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
+| 23 | [どらほー](http://twitter.com/search?q=%e3%81%a9%e3%82%89%e3%81%bb%e3%83%bc) | N/A |
+| 24 | [エレメント](http://twitter.com/search?q=%e3%82%a8%e3%83%ac%e3%83%a1%e3%83%b3%e3%83%88) | エレメント is a Japanese word that means "element" in English. It is used to refer to the basic components of something, such as the elements of a chemical compound or the elements of a mathematical equation. |
+| 25 | [デュナメス](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%83%8a%e3%83%a1%e3%82%b9) | N/A |
+| 26 | [チッケム](http://twitter.com/search?q=%e3%83%81%e3%83%83%e3%82%b1%e3%83%a0) | N/A |
+| 27 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
+| 28 | [ドクスト](http://twitter.com/search?q=%e3%83%89%e3%82%af%e3%82%b9%e3%83%88) | N/A |
+| 29 | [侍ジャパン芸人](http://twitter.com/search?q=%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3%e8%8a%b8%e4%ba%ba) | N/A |
+| 30 | [消しゴムマジック](http://twitter.com/search?q=%e6%b6%88%e3%81%97%e3%82%b4%e3%83%a0%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af) | N/A |
+| 31 | [ジャンハオ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%8f%e3%82%aa) | N/A |
+| 32 | [那須くん](http://twitter.com/search?q=%e9%82%a3%e9%a0%88%e3%81%8f%e3%82%93) | 那須くん is a nickname for the Japanese professional baseball player, Naoyuki Shimizu. It is a combination of his given name and the Japanese honorific suffix “-kun”, which is used to refer to young boys or close friends. In English, it would be translated as “Naoyuki-kun”. |
+| 33 | [ドクターストーン](http://twitter.com/search?q=%e3%83%89%e3%82%af%e3%82%bf%e3%83%bc%e3%82%b9%e3%83%88%e3%83%bc%e3%83%b3) | N/A |
+| 34 | [ムロフェス](http://twitter.com/search?q=%e3%83%a0%e3%83%ad%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 35 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 36 | [嵐ヘリウム事件](http://twitter.com/search?q=%e5%b5%90%e3%83%98%e3%83%aa%e3%82%a6%e3%83%a0%e4%ba%8b%e4%bb%b6) | N/A |
+| 37 | [CARAT盤](http://twitter.com/search?q=CARAT%e7%9b%a4) | N/A |
+| 38 | [フランソワ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%b3%e3%82%bd%e3%83%af) | N/A |
+| 39 | [ブリティッシュベイクオフ](http://twitter.com/search?q=%e3%83%96%e3%83%aa%e3%83%86%e3%82%a3%e3%83%83%e3%82%b7%e3%83%a5%e3%83%99%e3%82%a4%e3%82%af%e3%82%aa%e3%83%95) | N/A |
 | 40 | [学校の怪談](http://twitter.com/search?q=%e5%ad%a6%e6%a0%a1%e3%81%ae%e6%80%aa%e8%ab%87) | N/A |
-| 41 | [連敗ストップ](http://twitter.com/search?q=%e9%80%a3%e6%95%97%e3%82%b9%e3%83%88%e3%83%83%e3%83%97) | N/A |
-| 42 | [消しゴムマジック](http://twitter.com/search?q=%e6%b6%88%e3%81%97%e3%82%b4%e3%83%a0%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af) | N/A |
-| 43 | [ベストシーン大賞開催中](http://twitter.com/search?q=%e3%83%99%e3%82%b9%e3%83%88%e3%82%b7%e3%83%bc%e3%83%b3%e5%a4%a7%e8%b3%9e%e9%96%8b%e5%82%ac%e4%b8%ad) | N/A |
-| 44 | [追憶セレクション](http://twitter.com/search?q=%e8%bf%bd%e6%86%b6%e3%82%bb%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 45 | [イジョンヒョン](http://twitter.com/search?q=%e3%82%a4%e3%82%b8%e3%83%a7%e3%83%b3%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
-| 46 | [最下位発表](http://twitter.com/search?q=%e6%9c%80%e4%b8%8b%e4%bd%8d%e7%99%ba%e8%a1%a8) | N/A |
-| 47 | [全員無事](http://twitter.com/search?q=%e5%85%a8%e5%93%a1%e7%84%a1%e4%ba%8b) | N/A |
-| 48 | [バイトチームコンテスト](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%88%e3%83%81%e3%83%bc%e3%83%a0%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88) | N/A |
-| 49 | [フジテレビと産経新聞](http://twitter.com/search?q=%e3%83%95%e3%82%b8%e3%83%86%e3%83%ac%e3%83%93%e3%81%a8%e7%94%a3%e7%b5%8c%e6%96%b0%e8%81%9e) | N/A |
-| 50 | [本拠地初勝利](http://twitter.com/search?q=%e6%9c%ac%e6%8b%a0%e5%9c%b0%e5%88%9d%e5%8b%9d%e5%88%a9) | N/A |
+| 41 | [めめラウ](http://twitter.com/search?q=%e3%82%81%e3%82%81%e3%83%a9%e3%82%a6) | めめラウ is a Japanese slang term that roughly translates to "no way!" or "unbelievable!" It is often used to express disbelief or surprise. |
+| 42 | [美和ちゃん](http://twitter.com/search?q=%e7%be%8e%e5%92%8c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 43 | [ハオビン](http://twitter.com/search?q=%e3%83%8f%e3%82%aa%e3%83%93%e3%83%b3) | N/A |
+| 44 | [クラスLINE](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b9LINE) | N/A |
+| 45 | [おうじひろし](http://twitter.com/search?q=%e3%81%8a%e3%81%86%e3%81%98%e3%81%b2%e3%82%8d%e3%81%97) | N/A |
+| 46 | [第8師団長](http://twitter.com/search?q=%e7%ac%ac8%e5%b8%ab%e5%9b%a3%e9%95%b7) | N/A |
+| 47 | [第441回](http://twitter.com/search?q=%e7%ac%ac441%e5%9b%9e) | N/A |
+| 48 | [スタミュ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%9f%e3%83%a5) | N/A |
+| 49 | [すーちゃん](http://twitter.com/search?q=%e3%81%99%e3%83%bc%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 50 | [イジョンヒョン](http://twitter.com/search?q=%e3%82%a4%e3%82%b8%e3%83%a7%e3%83%b3%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-04-06 14:18:17 UTC`
+📆 Last Updated: `2023-04-06 15:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Poland](</Poland>)
 | 2 | [Witek](http://twitter.com/search?q=Witek) | N/A |
 | 3 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
 | 4 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 5 | [#elclasico](http://twitter.com/search?q=%23elclasico) | N/A |
-| 6 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
+| 5 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
+| 6 | [#PiStoZŁO](http://twitter.com/search?q=%23PiStoZ%c5%81O) | N/A |
 | 7 | [Wielki Czwartek](http://twitter.com/search?q=Wielki+Czwartek) | N/A |
-| 8 | [#PiStoZŁO](http://twitter.com/search?q=%23PiStoZ%c5%81O) | N/A |
-| 9 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
-| 10 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 11 | [#LovejoyWarsaw](http://twitter.com/search?q=%23LovejoyWarsaw) | N/A |
+| 8 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
+| 9 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
+| 10 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
+| 11 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
 | 12 | [Świąt Wielkanocnych](http://twitter.com/search?q=%c5%9awi%c4%85t+Wielkanocnych) | N/A |
-| 13 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
-| 14 | [radio szczecin](http://twitter.com/search?q=radio+szczecin) | N/A |
-| 15 | [Order Orła Białego](http://twitter.com/search?q=Order+Or%c5%82a+Bia%c5%82ego) | N/A |
+| 13 | [Radia ZET](http://twitter.com/search?q=Radia+ZET) | N/A |
+| 14 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
+| 15 | [radio szczecin](http://twitter.com/search?q=radio+szczecin) | N/A |
 | 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 17 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 18 | [Ukraińców](http://twitter.com/search?q=Ukrai%c5%84c%c3%b3w) | N/A |
-| 19 | [Radia ZET](http://twitter.com/search?q=Radia+ZET) | N/A |
-| 20 | [Duda](http://twitter.com/search?q=Duda) | N/A |
-| 21 | [Realu](http://twitter.com/search?q=Realu) | N/A |
-| 22 | [Judasza](http://twitter.com/search?q=Judasza) | N/A |
-| 23 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 24 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
+| 17 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
+| 18 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 19 | [order orła białego](http://twitter.com/search?q=order+or%c5%82a+bia%c5%82ego) | N/A |
+| 20 | [Ukraińców](http://twitter.com/search?q=Ukrai%c5%84c%c3%b3w) | N/A |
+| 21 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 22 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 23 | [Glapiński](http://twitter.com/search?q=Glapi%c5%84ski) | N/A |
+| 24 | [judasza](http://twitter.com/search?q=judasza) | N/A |
 | 25 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 26 | [Libanu](http://twitter.com/search?q=Libanu) | N/A |
-| 27 | [Karma](http://twitter.com/search?q=Karma) | N/A |
-| 28 | [Robert Telus](http://twitter.com/search?q=Robert+Telus) | N/A |
+| 26 | [Realu](http://twitter.com/search?q=Realu) | N/A |
+| 27 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 28 | [Janusz Cieszyński](http://twitter.com/search?q=Janusz+Cieszy%c5%84ski) | N/A |
 | 29 | [Przewodów](http://twitter.com/search?q=Przewod%c3%b3w) | N/A |
-| 30 | [Janusz Cieszyński](http://twitter.com/search?q=Janusz+Cieszy%c5%84ski) | N/A |
-| 31 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 32 | [Gierszewski](http://twitter.com/search?q=Gierszewski) | N/A |
-| 33 | [Barcy](http://twitter.com/search?q=Barcy) | N/A |
-| 34 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 35 | [Gruca](http://twitter.com/search?q=Gruca) | N/A |
-| 36 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 37 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 38 | [SZMATA](http://twitter.com/search?q=SZMATA) | N/A |
-| 39 | [Triduum Paschalne](http://twitter.com/search?q=Triduum+Paschalne) | N/A |
-| 40 | [Męża](http://twitter.com/search?q=M%c4%99%c5%bca) | N/A |
-| 41 | [Glapińskiego](http://twitter.com/search?q=Glapi%c5%84skiego) | N/A |
-| 42 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
-| 43 | [Wielkiego Czwartku](http://twitter.com/search?q=Wielkiego+Czwartku) | N/A |
-| 44 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 45 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 46 | [Eucharystii](http://twitter.com/search?q=Eucharystii) | N/A |
-| 47 | [Katyń](http://twitter.com/search?q=Katy%c5%84) | N/A |
+| 30 | [Gruca](http://twitter.com/search?q=Gruca) | N/A |
+| 31 | [Libanu](http://twitter.com/search?q=Libanu) | N/A |
+| 32 | [Barcy](http://twitter.com/search?q=Barcy) | N/A |
+| 33 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 34 | [Triduum Paschalnego](http://twitter.com/search?q=Triduum+Paschalnego) | N/A |
+| 35 | [Robert Telus](http://twitter.com/search?q=Robert+Telus) | N/A |
+| 36 | [wielkiego czwartku](http://twitter.com/search?q=wielkiego+czwartku) | N/A |
+| 37 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
+| 38 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 39 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 40 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 41 | [Gierszewski](http://twitter.com/search?q=Gierszewski) | N/A |
+| 42 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 43 | [Mikołaja](http://twitter.com/search?q=Miko%c5%82aja) | N/A |
+| 44 | [Eucharystii](http://twitter.com/search?q=Eucharystii) | N/A |
+| 45 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 46 | [SZMATA](http://twitter.com/search?q=SZMATA) | N/A |
+| 47 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
 
 
 

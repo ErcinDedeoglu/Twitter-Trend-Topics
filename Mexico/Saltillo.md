@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-04-06 14:18:11 UTC`
+📆 Last Updated: `2023-04-06 15:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Mexico](</Mexico>)
 | 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 4 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 5 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 6 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 7 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 8 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
-| 9 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 10 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 11 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 12 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 13 | [#elclasico](http://twitter.com/search?q=%23elclasico) | N/A |
-| 14 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 15 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 16 | [golden record holder](http://twitter.com/search?q=golden+record+holder) | N/A |
-| 17 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 18 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 19 | [Eucaristía](http://twitter.com/search?q=Eucarist%c3%ada) | N/A |
-| 20 | [Desarrollo y la Paz](http://twitter.com/search?q=Desarrollo+y+la+Paz) | N/A |
-| 21 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 6 | [Desarrollo y la Paz](http://twitter.com/search?q=Desarrollo+y+la+Paz) | N/A |
+| 7 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 8 | [Día Internacional del Deporte](http://twitter.com/search?q=D%c3%ada+Internacional+del+Deporte) | N/A |
+| 9 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
+| 10 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 11 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 12 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
+| 13 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 14 | [Eucaristía](http://twitter.com/search?q=Eucarist%c3%ada) | N/A |
+| 15 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
+| 16 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 17 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 18 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 19 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 20 | [Mao Ning](http://twitter.com/search?q=Mao+Ning) | N/A |
+| 21 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 22 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
-| 23 | [Día Internacional del Deporte](http://twitter.com/search?q=D%c3%ada+Internacional+del+Deporte) | N/A |
-| 24 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
-| 25 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 26 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 27 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 28 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 23 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
+| 24 | [Última Cena](http://twitter.com/search?q=%c3%9altima+Cena) | N/A |
+| 25 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
+| 26 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 27 | [Grotesco](http://twitter.com/search?q=Grotesco) | N/A |
+| 28 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
 | 29 | [no queremos perderte emilio](http://twitter.com/search?q=no+queremos+perderte+emilio) | N/A |
-| 30 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 31 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 32 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 33 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 34 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 35 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 36 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 37 | [Nacionalización](http://twitter.com/search?q=Nacionalizaci%c3%b3n) | N/A |
-| 38 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
-| 39 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 40 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 41 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 42 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 43 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 44 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
-| 45 | [RUMORES IS COMING](http://twitter.com/search?q=RUMORES+IS+COMING) | N/A |
-| 46 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
-| 47 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 48 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 30 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 31 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 32 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 33 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 34 | [Nacionalización](http://twitter.com/search?q=Nacionalizaci%c3%b3n) | N/A |
+| 35 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 36 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 37 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 38 | [El 6](http://twitter.com/search?q=El+6) | N/A |
+| 39 | [Letrinus](http://twitter.com/search?q=Letrinus) | N/A |
+| 40 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 41 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 42 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 43 | [Leonora Carrington](http://twitter.com/search?q=Leonora+Carrington) | N/A |
+| 44 | [El Principito](http://twitter.com/search?q=El+Principito) | N/A |
+| 45 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 46 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 47 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 48 | [Max Steel](http://twitter.com/search?q=Max+Steel) | N/A |
 
 
 

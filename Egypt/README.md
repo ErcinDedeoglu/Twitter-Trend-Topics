@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-04-06 14:18:53 UTC`
+📆 Last Updated: `2023-04-06 15:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Egypt
 | ------- | ------------ | ------------ |
 | 1 | [#جمعيه_رساله](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%8a%d9%87_%d8%b1%d8%b3%d8%a7%d9%84%d9%87) | N/A |
 | 2 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 3 | [#الاقصي_يستغيث](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a_%d9%8a%d8%b3%d8%aa%d8%ba%d9%8a%d8%ab) | N/A |
+| 3 | [#عمرو_سعد](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d9%88_%d8%b3%d8%b9%d8%af) | N/A |
 | 4 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 5 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
-| 6 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
-| 7 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 8 | [#حماده_هلال](http://twitter.com/search?q=%23%d8%ad%d9%85%d8%a7%d8%af%d9%87_%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 9 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
+| 5 | [#الاقصي_يستغيث](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a_%d9%8a%d8%b3%d8%aa%d8%ba%d9%8a%d8%ab) | N/A |
+| 6 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 7 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 8 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 9 | [#حماده_هلال](http://twitter.com/search?q=%23%d8%ad%d9%85%d8%a7%d8%af%d9%87_%d9%87%d9%84%d8%a7%d9%84) | N/A |
 | 10 | [ابو ابراهيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 11 | [#الكلاسيكو](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%b3%d9%8a%d9%83%d9%88) | N/A |
+| 11 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
 | 12 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
-| 13 | [#عمرو_سعد](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d9%88_%d8%b3%d8%b9%d8%af) | N/A |
-| 14 | [الهلال الاحمر الاماراتي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a) | N/A |
-| 15 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
-| 16 | [الرجاء المغربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a) | N/A |
-| 17 | [الوداد](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | الوداد is an Arabic phrase meaning "the lion". It is often used as a metaphor for strength and courage. |
-| 18 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
-| 19 | [احمد بدير](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d8%af%d9%8a%d8%b1) | N/A |
-| 20 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 21 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 22 | [غزل المحله](http://twitter.com/search?q=%d8%ba%d8%b2%d9%84+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%87) | غزل المحله is an Arabic phrase that literally translates to "spinning the shop." It is a phrase used to describe the act of gossiping or talking about someone behind their back. |
-| 23 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 24 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 25 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 26 | [علي الخصوم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d9%85) | N/A |
-| 27 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 28 | [كاس ملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%85%d9%84%d9%83) | N/A |
-| 29 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 30 | [اليوم الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
-| 31 | [خالد العناني](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%86%d9%8a) | N/A |
-| 32 | [فهد العتيبي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a) | فهد العتيبي is a male Arabic name. It is composed of two parts: فهد (Fahd) which means "lynx" or "panther" and العتيبي (al-Atibi) which means "the one from Atiba", a region in Saudi Arabia. In English, the name would be translated as "Fahd of Atiba". |
-| 33 | [محمد فؤاد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%81%d8%a4%d8%a7%d8%af) | N/A |
-| 34 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
-| 35 | [علي المصلين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a%d9%86) | N/A |
-| 36 | [ميسي بكاس العالم](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a+%d8%a8%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 37 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 38 | [رجل المباراه](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87) | N/A |
-| 39 | [الترجي التونسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%ac%d9%8a+%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a) | N/A |
-| 40 | [الجمعيات الاهليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a%d9%87) | N/A |
-| 41 | [مستر كارلو](http://twitter.com/search?q=%d9%85%d8%b3%d8%aa%d8%b1+%d9%83%d8%a7%d8%b1%d9%84%d9%88) | N/A |
-| 42 | [ابو تريكة](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%aa%d8%b1%d9%8a%d9%83%d8%a9) | N/A |
-| 43 | [علي معلول](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%b9%d9%84%d9%88%d9%84) | "علي معلول" is an Arabic phrase that translates to "on the disabled" in English. It is used to refer to someone who is physically or mentally disabled. |
-| 44 | [تراب مصر](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d8%a8+%d9%85%d8%b5%d8%b1) | N/A |
-| 45 | [سيمبا التنزاني](http://twitter.com/search?q=%d8%b3%d9%8a%d9%85%d8%a8%d8%a7+%d8%a7%d9%84%d8%aa%d9%86%d8%b2%d8%a7%d9%86%d9%8a) | N/A |
-| 46 | [المدرب الالماني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a) | N/A |
-| 47 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 48 | [علي المحله](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%87) | N/A |
-| 49 | [مدحت عبد الهادي](http://twitter.com/search?q=%d9%85%d8%af%d8%ad%d8%aa+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%87%d8%a7%d8%af%d9%8a) | N/A |
-| 50 | [تين شوكي](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d8%b4%d9%88%d9%83%d9%8a) | N/A |
+| 13 | [#الفرحه_بتكمل_لما](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d8%b1%d8%ad%d9%87_%d8%a8%d8%aa%d9%83%d9%85%d9%84_%d9%84%d9%85%d8%a7) | N/A |
+| 14 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
+| 15 | [الرجاء المغربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a) | N/A |
+| 16 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 17 | [احمد بدير](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d8%af%d9%8a%d8%b1) | N/A |
+| 18 | [الوداد](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | الوداد is an Arabic phrase meaning "the lion". It is often used as a metaphor for strength and courage. |
+| 19 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 20 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
+| 21 | [غزل المحله](http://twitter.com/search?q=%d8%ba%d8%b2%d9%84+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%87) | غزل المحله is an Arabic phrase that literally translates to "spinning the shop." It is a phrase used to describe the act of gossiping or talking about someone behind their back. |
+| 22 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 23 | [علي الخصوم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d9%85) | N/A |
+| 24 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 25 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 26 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
+| 27 | [علي معلول](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%b9%d9%84%d9%88%d9%84) | "علي معلول" is an Arabic phrase that translates to "on the disabled" in English. It is used to refer to someone who is physically or mentally disabled. |
+| 28 | [اليوم الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
+| 29 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 30 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
+| 31 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
+| 32 | [كاس ملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%85%d9%84%d9%83) | N/A |
+| 33 | [فهد العتيبي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a) | فهد العتيبي is a male Arabic name. It is composed of two parts: فهد (Fahd) which means "lynx" or "panther" and العتيبي (al-Atibi) which means "the one from Atiba", a region in Saudi Arabia. In English, the name would be translated as "Fahd of Atiba". |
+| 34 | [ابو تريكة](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%aa%d8%b1%d9%8a%d9%83%d8%a9) | N/A |
+| 35 | [ميسي بكاس العالم](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a+%d8%a8%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 36 | [مستر كارلو](http://twitter.com/search?q=%d9%85%d8%b3%d8%aa%d8%b1+%d9%83%d8%a7%d8%b1%d9%84%d9%88) | N/A |
+| 37 | [سيمبا التنزاني](http://twitter.com/search?q=%d8%b3%d9%8a%d9%85%d8%a8%d8%a7+%d8%a7%d9%84%d8%aa%d9%86%d8%b2%d8%a7%d9%86%d9%8a) | N/A |
+| 38 | [الجمعيات الاهليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a%d9%87) | N/A |
+| 39 | [علي المحله](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%87) | N/A |
+| 40 | [تراب مصر](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d8%a8+%d9%85%d8%b5%d8%b1) | N/A |
+| 41 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
+| 42 | [الهاتريك](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%a7%d8%aa%d8%b1%d9%8a%d9%83) | N/A |
+| 43 | [بيلد الالمانيه](http://twitter.com/search?q=%d8%a8%d9%8a%d9%84%d8%af+%d8%a7%d9%84%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 44 | [ليبرون](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d8%b1%d9%88%d9%86) | N/A |
+| 45 | [علي المصلين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a%d9%86) | N/A |
+| 46 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 47 | [المدرب الالماني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a) | N/A |
+| 48 | [مدحت عبد الهادي](http://twitter.com/search?q=%d9%85%d8%af%d8%ad%d8%aa+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%87%d8%a7%d8%af%d9%8a) | N/A |
+| 49 | [خالد العناني](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d9%86%d9%8a) | N/A |
+| 50 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
 
 
 

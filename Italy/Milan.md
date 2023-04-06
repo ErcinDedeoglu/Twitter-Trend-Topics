@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-04-06 14:18:21 UTC`
+📆 Last Updated: `2023-04-06 15:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#SilvioBerlusconi](http://twitter.com/search?q=%23SilvioBerlusconi) | N/A |
 | 2 | [#6aprile](http://twitter.com/search?q=%236aprile) | N/A |
-| 3 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 3 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
 | 4 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 5 | [#backtoschool](http://twitter.com/search?q=%23backtoschool) | N/A |
-| 6 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 7 | [#JuveInter](http://twitter.com/search?q=%23JuveInter) | N/A |
-| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 9 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
-| 10 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 5 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 6 | [#backtoschool](http://twitter.com/search?q=%23backtoschool) | N/A |
+| 7 | [#CarbonaraDay](http://twitter.com/search?q=%23CarbonaraDay) | N/A |
+| 8 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 10 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
 | 11 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 12 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 13 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 14 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 15 | [Tribuna Sud](http://twitter.com/search?q=Tribuna+Sud) | N/A |
-| 16 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
-| 17 | [Giovedì Santo](http://twitter.com/search?q=Gioved%c3%ac+Santo) | N/A |
-| 18 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 19 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 20 | [forza presidente](http://twitter.com/search?q=forza+presidente) | N/A |
-| 21 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 23 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 24 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 25 | [Libano](http://twitter.com/search?q=Libano) | N/A |
-| 26 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 27 | [Giudice Sportivo](http://twitter.com/search?q=Giudice+Sportivo) | N/A |
-| 28 | [lazio e salernitana](http://twitter.com/search?q=lazio+e+salernitana) | N/A |
-| 29 | [Senatore](http://twitter.com/search?q=Senatore) | N/A |
-| 30 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 31 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 32 | [Luciano Spalletti](http://twitter.com/search?q=Luciano+Spalletti) | N/A |
-| 33 | [Veltroni](http://twitter.com/search?q=Veltroni) | N/A |
-| 34 | [Bremer](http://twitter.com/search?q=Bremer) | Bremer is a German surname derived from the city of Bremen. In English, it can mean someone from Bremen or a person of German descent. |
-| 35 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
-| 36 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
-| 37 | [Fittipaldi](http://twitter.com/search?q=Fittipaldi) | N/A |
-| 38 | [Stefano Feltri](http://twitter.com/search?q=Stefano+Feltri) | N/A |
-| 39 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 40 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 41 | [Perin](http://twitter.com/search?q=Perin) | N/A |
-| 42 | [Leucemia](http://twitter.com/search?q=Leucemia) | N/A |
-| 43 | [Fabrizio Corona](http://twitter.com/search?q=Fabrizio+Corona) | N/A |
-| 44 | [L'Unità](http://twitter.com/search?q=L%27Unit%c3%a0) | N/A |
-| 45 | [buongiorno giusi](http://twitter.com/search?q=buongiorno+giusi) | N/A |
-| 46 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 47 | [Cacciari](http://twitter.com/search?q=Cacciari) | N/A |
-| 48 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 49 | [Zangrillo](http://twitter.com/search?q=Zangrillo) | N/A |
-| 50 | [Forza Stefano](http://twitter.com/search?q=Forza+Stefano) | N/A |
+| 12 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 13 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 14 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 15 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
+| 16 | [Giovedì Santo](http://twitter.com/search?q=Gioved%c3%ac+Santo) | N/A |
+| 17 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 18 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 19 | [Tribuna Sud](http://twitter.com/search?q=Tribuna+Sud) | N/A |
+| 20 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
+| 21 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 22 | [Emanuel](http://twitter.com/search?q=Emanuel) | N/A |
+| 23 | [buongiorno ale](http://twitter.com/search?q=buongiorno+ale) | N/A |
+| 24 | [Buongiorno Marco](http://twitter.com/search?q=Buongiorno+Marco) | N/A |
+| 25 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
+| 26 | [Forza Presidente](http://twitter.com/search?q=Forza+Presidente) | N/A |
+| 27 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 28 | [buongiorno giusi](http://twitter.com/search?q=buongiorno+giusi) | N/A |
+| 29 | [buongiorno luca](http://twitter.com/search?q=buongiorno+luca) | N/A |
+| 30 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 31 | [buongiorno francesco](http://twitter.com/search?q=buongiorno+francesco) | N/A |
+| 32 | [Giudice Sportivo](http://twitter.com/search?q=Giudice+Sportivo) | N/A |
+| 33 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 34 | [buongiorno vito](http://twitter.com/search?q=buongiorno+vito) | N/A |
+| 35 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 36 | [buongiorno antonio](http://twitter.com/search?q=buongiorno+antonio) | N/A |
+| 37 | [buongiorno silvia](http://twitter.com/search?q=buongiorno+silvia) | N/A |
+| 38 | [buongiorno roberto](http://twitter.com/search?q=buongiorno+roberto) | N/A |
+| 39 | [Stefano Feltri](http://twitter.com/search?q=Stefano+Feltri) | N/A |
+| 40 | [buongiorno emi](http://twitter.com/search?q=buongiorno+emi) | N/A |
+| 41 | [Lazio e Salernitana](http://twitter.com/search?q=Lazio+e+Salernitana) | N/A |
+| 42 | [buongiorno monica](http://twitter.com/search?q=buongiorno+monica) | N/A |
+| 43 | [buongiorno daniele](http://twitter.com/search?q=buongiorno+daniele) | N/A |
+| 44 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 45 | [ADAMO ED](http://twitter.com/search?q=ADAMO+ED) | N/A |
+| 46 | [Libano](http://twitter.com/search?q=Libano) | N/A |
+| 47 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 48 | [Fabrizio Corona](http://twitter.com/search?q=Fabrizio+Corona) | N/A |
+| 49 | [buongiorno michele](http://twitter.com/search?q=buongiorno+michele) | N/A |
+| 50 | [buongiorno liliana](http://twitter.com/search?q=buongiorno+liliana) | N/A |
 
 
 

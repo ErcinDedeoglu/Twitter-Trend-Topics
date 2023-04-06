@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-04-06 14:18:22 UTC`
+📆 Last Updated: `2023-04-06 15:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
-| 2 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 3 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 4 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 5 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 6 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 7 | [Josep Piqué](http://twitter.com/search?q=Josep+Piqu%c3%a9) | N/A |
-| 8 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 9 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 10 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 11 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 12 | [#CopaDelRey](http://twitter.com/search?q=%23CopaDelRey) | #CopaDelRey is the Spanish Cup, an annual football tournament in Spain. In English, it translates to "King's Cup". |
-| 13 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 14 | [#elclasico](http://twitter.com/search?q=%23elclasico) | N/A |
-| 15 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 16 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 17 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 18 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 19 | [#tierradenadie5](http://twitter.com/search?q=%23tierradenadie5) | N/A |
-| 20 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 21 | [Athletic](http://twitter.com/search?q=Athletic) | Athletic is an adjective that describes someone or something that is physically strong, fit, and active. It is often used to describe people who are involved in sports or other physical activities. |
-| 22 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 23 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 24 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 25 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 26 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 27 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 28 | [ana obregón](http://twitter.com/search?q=ana+obreg%c3%b3n) | N/A |
-| 29 | [#MotoG73MM](http://twitter.com/search?q=%23MotoG73MM) | N/A |
-| 30 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 31 | [#APOYOROCIO6A](http://twitter.com/search?q=%23APOYOROCIO6A) | N/A |
-| 32 | [Legión](http://twitter.com/search?q=Legi%c3%b3n) | N/A |
-| 33 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 34 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
-| 35 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
-| 36 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 37 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 38 | [Aless](http://twitter.com/search?q=Aless) | N/A |
-| 39 | [Cristo de Mena](http://twitter.com/search?q=Cristo+de+Mena) | N/A |
-| 40 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 41 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 42 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 43 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
-| 44 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 45 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 46 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 47 | [Amor Fraterno](http://twitter.com/search?q=Amor+Fraterno) | N/A |
-| 48 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 49 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 2 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
+| 3 | [#APOYOROCIO6A](http://twitter.com/search?q=%23APOYOROCIO6A) | N/A |
+| 4 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 5 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 6 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 7 | [Viva la Legión](http://twitter.com/search?q=Viva+la+Legi%c3%b3n) | N/A |
+| 8 | [Bosé](http://twitter.com/search?q=Bos%c3%a9) | N/A |
+| 9 | [Madrugá](http://twitter.com/search?q=Madrug%c3%a1) | N/A |
+| 10 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 11 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 12 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 13 | [Mikasa](http://twitter.com/search?q=Mikasa) | N/A |
+| 14 | [Josep Piqué](http://twitter.com/search?q=Josep+Piqu%c3%a9) | N/A |
+| 15 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 16 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
+| 17 | [#AdaraSv6A](http://twitter.com/search?q=%23AdaraSv6A) | N/A |
+| 18 | [#MotoG73MM](http://twitter.com/search?q=%23MotoG73MM) | N/A |
+| 19 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
+| 20 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
+| 21 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 22 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 23 | [Esperanza](http://twitter.com/search?q=Esperanza) | N/A |
+| 24 | [Estación de Penitencia](http://twitter.com/search?q=Estaci%c3%b3n+de+Penitencia) | N/A |
+| 25 | [El Principito](http://twitter.com/search?q=El+Principito) | N/A |
+| 26 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 27 | [Viva España](http://twitter.com/search?q=Viva+Espa%c3%b1a) | N/A |
+| 28 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 29 | [Amor Fraterno](http://twitter.com/search?q=Amor+Fraterno) | N/A |
+| 30 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 31 | [Avilés](http://twitter.com/search?q=Avil%c3%a9s) | N/A |
+| 32 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 33 | [Primera División](http://twitter.com/search?q=Primera+Divisi%c3%b3n) | N/A |
+| 34 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
+| 35 | [Feliz Semana Santa](http://twitter.com/search?q=Feliz+Semana+Santa) | N/A |
+| 36 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 37 | [Eucaristía](http://twitter.com/search?q=Eucarist%c3%ada) | N/A |
+| 38 | [Cofradía](http://twitter.com/search?q=Cofrad%c3%ada) | N/A |
+| 39 | [Huerto](http://twitter.com/search?q=Huerto) | N/A |
+| 40 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
+| 41 | [Nazareno](http://twitter.com/search?q=Nazareno) | N/A |
+| 42 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 43 | [txapote](http://twitter.com/search?q=txapote) | N/A |
+| 44 | [#YoMeRebelo6A](http://twitter.com/search?q=%23YoMeRebelo6A) | N/A |
+| 45 | [#torrijas](http://twitter.com/search?q=%23torrijas) | N/A |
 
 
 

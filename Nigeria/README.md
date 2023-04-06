@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-04-06 14:18:56 UTC`
+📆 Last Updated: `2023-04-06 15:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,55 @@ This is top 50 for Nigeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [DJ Phil](http://twitter.com/search?q=DJ+Phil) | N/A |
-| 2 | [#SiddiqahRamadhan](http://twitter.com/search?q=%23SiddiqahRamadhan) | N/A |
-| 3 | [#yls2023](http://twitter.com/search?q=%23yls2023) | N/A |
-| 4 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 5 | [#NauNauSOSApp](http://twitter.com/search?q=%23NauNauSOSApp) | N/A |
-| 6 | [#Dollar](http://twitter.com/search?q=%23Dollar) | N/A |
-| 7 | [Kingsley Moghalu](http://twitter.com/search?q=Kingsley+Moghalu) | N/A |
-| 8 | [North](http://twitter.com/search?q=North) | N/A |
-| 9 | [KHOSI THE HOST](http://twitter.com/search?q=KHOSI+THE+HOST) | N/A |
-| 10 | [KANAGA JNR THE BRAND](http://twitter.com/search?q=KANAGA+JNR+THE+BRAND) | N/A |
-| 11 | [Brother Bernard](http://twitter.com/search?q=Brother+Bernard) | N/A |
-| 12 | [KHOSI X SUPERSPORT](http://twitter.com/search?q=KHOSI+X+SUPERSPORT) | N/A |
-| 13 | [IT IS MY TIME AND MY TURN](http://twitter.com/search?q=IT+IS+MY+TIME+AND+MY+TURN) | N/A |
-| 14 | [MEDIA ROUNDS WITH YVONNE](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+YVONNE) | N/A |
-| 15 | [Garri](http://twitter.com/search?q=Garri) | N/A |
-| 16 | [#ERASavesLives](http://twitter.com/search?q=%23ERASavesLives) | N/A |
-| 17 | [Osibanjo](http://twitter.com/search?q=Osibanjo) | N/A |
-| 18 | [David Hundeyin](http://twitter.com/search?q=David+Hundeyin) | N/A |
-| 19 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
-| 20 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 21 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
-| 22 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
+| 2 | [#itelEggspressions](http://twitter.com/search?q=%23itelEggspressions) | N/A |
+| 3 | [#SiddiqahRamadhan](http://twitter.com/search?q=%23SiddiqahRamadhan) | N/A |
+| 4 | [#yls2023](http://twitter.com/search?q=%23yls2023) | N/A |
+| 5 | [#Dollar](http://twitter.com/search?q=%23Dollar) | N/A |
+| 6 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
+| 7 | [#NauNauSOSApp](http://twitter.com/search?q=%23NauNauSOSApp) | N/A |
+| 8 | [KHOSI THE HOST](http://twitter.com/search?q=KHOSI+THE+HOST) | N/A |
+| 9 | [KHOSI X SUPERSPORT](http://twitter.com/search?q=KHOSI+X+SUPERSPORT) | N/A |
+| 10 | [Brother Bernard](http://twitter.com/search?q=Brother+Bernard) | N/A |
+| 11 | [Kingsley Moghalu](http://twitter.com/search?q=Kingsley+Moghalu) | N/A |
+| 12 | [KANAGA JNR THE BRAND](http://twitter.com/search?q=KANAGA+JNR+THE+BRAND) | N/A |
+| 13 | [MEDIA ROUNDS WITH YVONNE](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+YVONNE) | N/A |
+| 14 | [Garri](http://twitter.com/search?q=Garri) | N/A |
+| 15 | [David Hundeyin](http://twitter.com/search?q=David+Hundeyin) | N/A |
+| 16 | [Osibanjo](http://twitter.com/search?q=Osibanjo) | N/A |
+| 17 | [IT IS MY TIME AND MY TURN](http://twitter.com/search?q=IT+IS+MY+TIME+AND+MY+TURN) | N/A |
+| 18 | [Ibinabo](http://twitter.com/search?q=Ibinabo) | N/A |
+| 19 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
+| 20 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
+| 21 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
+| 22 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 23 | [ULTIMATE FAVE YEMI CREGX](http://twitter.com/search?q=ULTIMATE+FAVE+YEMI+CREGX) | N/A |
-| 24 | [MEDIA ROUNDS WITH KANAGA](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+KANAGA) | N/A |
-| 25 | [Fascist](http://twitter.com/search?q=Fascist) | N/A |
-| 26 | [Dora](http://twitter.com/search?q=Dora) | N/A |
-| 27 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 24 | [Northern Muslim](http://twitter.com/search?q=Northern+Muslim) | N/A |
+| 25 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 26 | [MEDIA ROUNDS WITH KANAGA](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+KANAGA) | N/A |
+| 27 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
 | 28 | [World Bank](http://twitter.com/search?q=World+Bank) | N/A |
-| 29 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
-| 30 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 31 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 32 | [YVONNE GODSWILL](http://twitter.com/search?q=YVONNE+GODSWILL) | N/A |
-| 33 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
-| 34 | [Poverty](http://twitter.com/search?q=Poverty) | N/A |
-| 35 | [Sowore](http://twitter.com/search?q=Sowore) | N/A |
-| 36 | [US iTunes](http://twitter.com/search?q=US+iTunes) | N/A |
-| 37 | [Almajiri](http://twitter.com/search?q=Almajiri) | N/A |
-| 38 | [Borno](http://twitter.com/search?q=Borno) | N/A |
-| 39 | [#GangsOfLagosOnPrime](http://twitter.com/search?q=%23GangsOfLagosOnPrime) | N/A |
-| 40 | [#feyaja](http://twitter.com/search?q=%23feyaja) | #Feyaja is a hashtag used on social media to express support for the LGBTQ+ community in Nigeria. It is derived from the Yoruba phrase "Feyi ja," which translates to "Love conquers all." |
-| 41 | [#FNAFMovie](http://twitter.com/search?q=%23FNAFMovie) | N/A |
-| 42 | [#Asake](http://twitter.com/search?q=%23Asake) | N/A |
-| 43 | [#m3lon](http://twitter.com/search?q=%23m3lon) | N/A |
-| 44 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 45 | [#acitypoweredbythesun](http://twitter.com/search?q=%23acitypoweredbythesun) | N/A |
-| 46 | [#BlueAiva](http://twitter.com/search?q=%23BlueAiva) | N/A |
+| 29 | [The North](http://twitter.com/search?q=The+North) | N/A |
+| 30 | [Dora](http://twitter.com/search?q=Dora) | N/A |
+| 31 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 32 | [Fascist](http://twitter.com/search?q=Fascist) | N/A |
+| 33 | [Northern Nigeria](http://twitter.com/search?q=Northern+Nigeria) | N/A |
+| 34 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 35 | [YVONNE GODSWILL](http://twitter.com/search?q=YVONNE+GODSWILL) | N/A |
+| 36 | [South East](http://twitter.com/search?q=South+East) | N/A |
+| 37 | [Poverty](http://twitter.com/search?q=Poverty) | N/A |
+| 38 | [Sowore](http://twitter.com/search?q=Sowore) | N/A |
+| 39 | [us itunes](http://twitter.com/search?q=us+itunes) | N/A |
+| 40 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 41 | [#Asake](http://twitter.com/search?q=%23Asake) | N/A |
+| 42 | [#feyaja](http://twitter.com/search?q=%23feyaja) | #Feyaja is a hashtag used on social media to express support for the LGBTQ+ community in Nigeria. It is derived from the Yoruba phrase "Feyi ja," which translates to "Love conquers all." |
+| 43 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 44 | [#FNAFMovie](http://twitter.com/search?q=%23FNAFMovie) | N/A |
+| 45 | [#ERASavesLives](http://twitter.com/search?q=%23ERASavesLives) | N/A |
+| 46 | [#GangsOfLagosOnPrime](http://twitter.com/search?q=%23GangsOfLagosOnPrime) | N/A |
+| 47 | [#honeymoonby3gar](http://twitter.com/search?q=%23honeymoonby3gar) | N/A |
+| 48 | [#MiddlebeltIsnotNorth](http://twitter.com/search?q=%23MiddlebeltIsnotNorth) | N/A |
+| 49 | [#m3lon](http://twitter.com/search?q=%23m3lon) | N/A |
+| 50 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
 
 
 

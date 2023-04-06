@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-04-06 14:18:15 UTC`
+📆 Last Updated: `2023-04-06 15:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TodasAsFlores](http://twitter.com/search?q=%23TodasAsFlores) | N/A |
-| 2 | [Henrique Dourado](http://twitter.com/search?q=Henrique+Dourado) | N/A |
+| 2 | [Evaristo](http://twitter.com/search?q=Evaristo) | N/A |
 | 3 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
-| 4 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 5 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 6 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
-| 7 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 8 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 9 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
-| 10 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 11 | [#LikeCrazy3rdWin](http://twitter.com/search?q=%23LikeCrazy3rdWin) | N/A |
-| 12 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 13 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
-| 14 | [#SUGAxNBA](http://twitter.com/search?q=%23SUGAxNBA) | N/A |
-| 15 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
-| 16 | [#30DiasComChiara](http://twitter.com/search?q=%2330DiasComChiara) | N/A |
-| 17 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
-| 18 | [HOJE TEM CORINTHIANS](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS) | N/A |
-| 19 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
-| 20 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
-| 21 | [Mikasa](http://twitter.com/search?q=Mikasa) | N/A |
-| 22 | [Phanbin](http://twitter.com/search?q=Phanbin) | N/A |
-| 23 | [Quinta-feira Santa](http://twitter.com/search?q=Quinta-feira+Santa) | N/A |
-| 24 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 25 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 26 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
-| 27 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 28 | [Capes](http://twitter.com/search?q=Capes) | N/A |
-| 29 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 30 | [Errar](http://twitter.com/search?q=Errar) | N/A |
-| 31 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
-| 32 | [Vai Corinthians](http://twitter.com/search?q=Vai+Corinthians) | N/A |
-| 33 | [Otávio Guedes](http://twitter.com/search?q=Ot%c3%a1vio+Guedes) | N/A |
-| 34 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 35 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 36 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
-| 37 | [Merval](http://twitter.com/search?q=Merval) | N/A |
-| 38 | [iPod](http://twitter.com/search?q=iPod) | N/A |
-| 39 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 40 | [Bolsonarismo](http://twitter.com/search?q=Bolsonarismo) | Bolsonarismo is a term used to describe the political ideology of Brazilian President Jair Bolsonaro. It is characterized by a combination of right-wing populism, economic liberalism, and social conservatism. In English, it can be translated as "Bolsonaroism". |
-| 41 | [Oruam](http://twitter.com/search?q=Oruam) | N/A |
-| 42 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
-| 43 | [Saneamento](http://twitter.com/search?q=Saneamento) | N/A |
-| 44 | [AIDS](http://twitter.com/search?q=AIDS) | N/A |
-| 45 | [Impunidade](http://twitter.com/search?q=Impunidade) | N/A |
-| 46 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
-| 47 | [Gabriela Hardt](http://twitter.com/search?q=Gabriela+Hardt) | N/A |
-| 48 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 49 | [mc luanna](http://twitter.com/search?q=mc+luanna) | N/A |
-| 50 | [Nestlé](http://twitter.com/search?q=Nestl%c3%a9) | N/A |
+| 4 | [Henrique Dourado](http://twitter.com/search?q=Henrique+Dourado) | N/A |
+| 5 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 6 | [#CCXP23](http://twitter.com/search?q=%23CCXP23) | N/A |
+| 7 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 8 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 9 | [Florianópolis](http://twitter.com/search?q=Florian%c3%b3polis) | N/A |
+| 10 | [Tyler Hoechlin](http://twitter.com/search?q=Tyler+Hoechlin) | N/A |
+| 11 | [zayn malik](http://twitter.com/search?q=zayn+malik) | N/A |
+| 12 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 13 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 14 | [#30DiasComChiara](http://twitter.com/search?q=%2330DiasComChiara) | N/A |
+| 15 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
+| 16 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
+| 17 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 18 | [Banco do Brasil](http://twitter.com/search?q=Banco+do+Brasil) | N/A |
+| 19 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 20 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 21 | [HOJE TEM CORINTHIANS](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS) | N/A |
+| 22 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 23 | [Rodriguinho](http://twitter.com/search?q=Rodriguinho) | N/A |
+| 24 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 25 | [Quinta-feira Santa](http://twitter.com/search?q=Quinta-feira+Santa) | N/A |
+| 26 | [Koby](http://twitter.com/search?q=Koby) | N/A |
+| 27 | [Mikasa](http://twitter.com/search?q=Mikasa) | N/A |
+| 28 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 29 | [Akainu](http://twitter.com/search?q=Akainu) | N/A |
+| 30 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
+| 31 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 32 | [Park Hanbin](http://twitter.com/search?q=Park+Hanbin) | N/A |
+| 33 | [CAPES](http://twitter.com/search?q=CAPES) | N/A |
+| 34 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 35 | [Finalíssima](http://twitter.com/search?q=Final%c3%adssima) | N/A |
+| 36 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
+| 37 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 38 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 39 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 40 | [Errar](http://twitter.com/search?q=Errar) | N/A |
+| 41 | [iPod](http://twitter.com/search?q=iPod) | N/A |
+| 42 | [Saneamento](http://twitter.com/search?q=Saneamento) | N/A |
+| 43 | [otávio guedes](http://twitter.com/search?q=ot%c3%a1vio+guedes) | N/A |
+| 44 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 45 | [Giuliana Morrone](http://twitter.com/search?q=Giuliana+Morrone) | N/A |
+| 46 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 47 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
+| 48 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 49 | [Patrícia Poeta](http://twitter.com/search?q=Patr%c3%adcia+Poeta) | N/A |
+| 50 | [Merval](http://twitter.com/search?q=Merval) | N/A |
 
 
 

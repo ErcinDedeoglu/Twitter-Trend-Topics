@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-04-06 14:18:45 UTC`
+📆 Last Updated: `2023-04-06 15:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 2 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 3 | [#MoodPitch](http://twitter.com/search?q=%23MoodPitch) | N/A |
-| 4 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 6 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
-| 7 | [#NationalStudentAthleteDay](http://twitter.com/search?q=%23NationalStudentAthleteDay) | N/A |
-| 8 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 9 | [Kevin Na](http://twitter.com/search?q=Kevin+Na) | N/A |
-| 10 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 11 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 12 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 13 | [#SCOTUS](http://twitter.com/search?q=%23SCOTUS) | N/A |
-| 14 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
-| 15 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 16 | [Uncle Remus](http://twitter.com/search?q=Uncle+Remus) | N/A |
-| 17 | [Progress](http://twitter.com/search?q=Progress) | N/A |
-| 18 | [ProPublica](http://twitter.com/search?q=ProPublica) | N/A |
-| 19 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 20 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 21 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 22 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 23 | [Athleta](http://twitter.com/search?q=Athleta) | N/A |
-| 24 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 25 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 26 | [John Roberts](http://twitter.com/search?q=John+Roberts) | N/A |
-| 27 | [Bohemian Grove](http://twitter.com/search?q=Bohemian+Grove) | N/A |
-| 28 | [Leonard Leo](http://twitter.com/search?q=Leonard+Leo) | N/A |
-| 29 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
-| 30 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 31 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 32 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 33 | [MCOUNTDOWN](http://twitter.com/search?q=MCOUNTDOWN) | N/A |
-| 34 | [Anheuser-Busch](http://twitter.com/search?q=Anheuser-Busch) | N/A |
-| 35 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
-| 36 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
-| 37 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 38 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 39 | [Engine](http://twitter.com/search?q=Engine) | N/A |
-| 40 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 41 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 42 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 43 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
-| 44 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 45 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
-| 46 | [Hagler](http://twitter.com/search?q=Hagler) | N/A |
-| 47 | [Thiem](http://twitter.com/search?q=Thiem) | Thiem is a surname of German origin. It is derived from the Old German word "diem" meaning "people". The name is most commonly found in Germany, Austria, and Switzerland. |
-| 48 | [JO KWON](http://twitter.com/search?q=JO+KWON) | N/A |
-| 49 | [Mikasa](http://twitter.com/search?q=Mikasa) | N/A |
+| 1 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 2 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
+| 3 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 4 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 5 | [#MoodPitch](http://twitter.com/search?q=%23MoodPitch) | N/A |
+| 6 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 7 | [Kevin Na](http://twitter.com/search?q=Kevin+Na) | N/A |
+| 8 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 9 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 10 | [#NationalStudentAthleteDay](http://twitter.com/search?q=%23NationalStudentAthleteDay) | N/A |
+| 11 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 12 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
+| 13 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 14 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 15 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 16 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 17 | [Bohemian Grove](http://twitter.com/search?q=Bohemian+Grove) | N/A |
+| 18 | [Tiger Woods](http://twitter.com/search?q=Tiger+Woods) | N/A |
+| 19 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 20 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 21 | [Uncle Remus](http://twitter.com/search?q=Uncle+Remus) | N/A |
+| 22 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 23 | [John Roberts](http://twitter.com/search?q=John+Roberts) | N/A |
+| 24 | [ProPublica](http://twitter.com/search?q=ProPublica) | N/A |
+| 25 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 26 | [Viktor Hovland](http://twitter.com/search?q=Viktor+Hovland) | N/A |
+| 27 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 28 | [Progress](http://twitter.com/search?q=Progress) | N/A |
+| 29 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 30 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 31 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
+| 32 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 33 | [CBDQ](http://twitter.com/search?q=CBDQ) | N/A |
+| 34 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
+| 35 | [Athleta](http://twitter.com/search?q=Athleta) | N/A |
+| 36 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
+| 37 | [Chicken Biscuit](http://twitter.com/search?q=Chicken+Biscuit) | N/A |
+| 38 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 39 | [Leonard Leo](http://twitter.com/search?q=Leonard+Leo) | N/A |
+| 40 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 41 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 42 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 43 | [Scalia](http://twitter.com/search?q=Scalia) | N/A |
+| 44 | [Hagler](http://twitter.com/search?q=Hagler) | N/A |
+| 45 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 46 | [Mike Weir](http://twitter.com/search?q=Mike+Weir) | N/A |
+| 47 | [Anheuser-Busch](http://twitter.com/search?q=Anheuser-Busch) | N/A |
+| 48 | [Engine](http://twitter.com/search?q=Engine) | N/A |
+| 49 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-04-06 14:18:53 UTC`
+📆 Last Updated: `2023-04-06 15:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Chile
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 2 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
-| 3 | [#ChileEstaDeLuto](http://twitter.com/search?q=%23ChileEstaDeLuto) | N/A |
-| 4 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
-| 5 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
-| 6 | [Cúcuta](http://twitter.com/search?q=C%c3%bacuta) | N/A |
-| 7 | [Delirante](http://twitter.com/search?q=Delirante) | N/A |
-| 8 | [#RenunciaToha](http://twitter.com/search?q=%23RenunciaToha) | N/A |
-| 9 | [#SuperAutopiZta](http://twitter.com/search?q=%23SuperAutopiZta) | N/A |
-| 10 | [Venezolano](http://twitter.com/search?q=Venezolano) | N/A |
-| 11 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 12 | [#muchogustomg](http://twitter.com/search?q=%23muchogustomg) | N/A |
-| 13 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 14 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
-| 15 | [Buitre](http://twitter.com/search?q=Buitre) | N/A |
+| 1 | [#ChileEstaDeLuto](http://twitter.com/search?q=%23ChileEstaDeLuto) | N/A |
+| 2 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 3 | [Cúcuta](http://twitter.com/search?q=C%c3%bacuta) | N/A |
+| 4 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
+| 5 | [Paulina de Allende](http://twitter.com/search?q=Paulina+de+Allende) | N/A |
+| 6 | [#muchogusto](http://twitter.com/search?q=%23muchogusto) | N/A |
+| 7 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 8 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
+| 9 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
+| 10 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
+| 11 | [#SuperAutopiZta](http://twitter.com/search?q=%23SuperAutopiZta) | N/A |
+| 12 | [Delirante](http://twitter.com/search?q=Delirante) | N/A |
+| 13 | [#contigoenlamañana](http://twitter.com/search?q=%23contigoenlama%c3%b1ana) | N/A |
+| 14 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
+| 15 | [Aprovechamiento](http://twitter.com/search?q=Aprovechamiento) | N/A |
 | 16 | [Rojo Edwards](http://twitter.com/search?q=Rojo+Edwards) | N/A |
-| 17 | [Aprovechamiento](http://twitter.com/search?q=Aprovechamiento) | N/A |
-| 18 | [Condolencias](http://twitter.com/search?q=Condolencias) | N/A |
-| 19 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 20 | [Renuncien](http://twitter.com/search?q=Renuncien) | N/A |
-| 21 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 22 | [PC y FA](http://twitter.com/search?q=PC+y+FA) | N/A |
-| 23 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 24 | [Cínica](http://twitter.com/search?q=C%c3%adnica) | N/A |
-| 25 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
-| 26 | [Basta](http://twitter.com/search?q=Basta) | N/A |
-| 27 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
-| 28 | [Déjate](http://twitter.com/search?q=D%c3%a9jate) | N/A |
-| 29 | [Gatillo Fácil](http://twitter.com/search?q=Gatillo+F%c3%a1cil) | N/A |
-| 30 | [FA y PC](http://twitter.com/search?q=FA+y+PC) | N/A |
-| 31 | [Todo Chile](http://twitter.com/search?q=Todo+Chile) | N/A |
-| 32 | [Mentirosa](http://twitter.com/search?q=Mentirosa) | N/A |
-| 33 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
-| 34 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 35 | [Lamentable](http://twitter.com/search?q=Lamentable) | N/A |
-| 36 | [Armas](http://twitter.com/search?q=Armas) | N/A |
-| 37 | [Váyanse](http://twitter.com/search?q=V%c3%a1yanse) | N/A |
-| 38 | [Apruebo Dignidad](http://twitter.com/search?q=Apruebo+Dignidad) | N/A |
-| 39 | [Enfermo](http://twitter.com/search?q=Enfermo) | N/A |
-| 40 | [Malditos](http://twitter.com/search?q=Malditos) | N/A |
-| 41 | [Necesitamos](http://twitter.com/search?q=Necesitamos) | N/A |
-| 42 | [#EstadoDeExcepcion](http://twitter.com/search?q=%23EstadoDeExcepcion) | N/A |
-| 43 | [#contigoenlamañana](http://twitter.com/search?q=%23contigoenlama%c3%b1ana) | N/A |
-| 44 | [#BoricEstaDestruyendoAChile](http://twitter.com/search?q=%23BoricEstaDestruyendoAChile) | N/A |
-| 45 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 46 | [#BuenosDiasTVN](http://twitter.com/search?q=%23BuenosDiasTVN) | N/A |
-| 47 | [#LeyNaimRetamal](http://twitter.com/search?q=%23LeyNaimRetamal) | N/A |
-| 48 | [#FueraComunistasDeChile](http://twitter.com/search?q=%23FueraComunistasDeChile) | N/A |
-| 49 | [#ElPeorGobiernoDeLaHistoria](http://twitter.com/search?q=%23ElPeorGobiernoDeLaHistoria) | N/A |
-| 50 | [#NiUnoMenos](http://twitter.com/search?q=%23NiUnoMenos) | N/A |
+| 17 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 18 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 19 | [VALLEJOS](http://twitter.com/search?q=VALLEJOS) | N/A |
+| 20 | [Venecos](http://twitter.com/search?q=Venecos) | N/A |
+| 21 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 22 | [Buitre](http://twitter.com/search?q=Buitre) | N/A |
+| 23 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
+| 24 | [Condolencias](http://twitter.com/search?q=Condolencias) | N/A |
+| 25 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
+| 26 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
+| 27 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 28 | [PC y FA](http://twitter.com/search?q=PC+y+FA) | N/A |
+| 29 | [Renuncien](http://twitter.com/search?q=Renuncien) | N/A |
+| 30 | [Callate](http://twitter.com/search?q=Callate) | N/A |
+| 31 | [FA y PC](http://twitter.com/search?q=FA+y+PC) | N/A |
+| 32 | [Basta](http://twitter.com/search?q=Basta) | N/A |
+| 33 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
+| 34 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
+| 35 | [Que Dios](http://twitter.com/search?q=Que+Dios) | N/A |
+| 36 | [Mentirosa](http://twitter.com/search?q=Mentirosa) | N/A |
+| 37 | [Cínica](http://twitter.com/search?q=C%c3%adnica) | N/A |
+| 38 | [Todo Chile](http://twitter.com/search?q=Todo+Chile) | N/A |
+| 39 | [Apruebo Dignidad](http://twitter.com/search?q=Apruebo+Dignidad) | N/A |
+| 40 | [Váyanse](http://twitter.com/search?q=V%c3%a1yanse) | N/A |
+| 41 | [Lamentable](http://twitter.com/search?q=Lamentable) | N/A |
+| 42 | [Déjate](http://twitter.com/search?q=D%c3%a9jate) | N/A |
+| 43 | [Militares](http://twitter.com/search?q=Militares) | N/A |
+| 44 | [Armas](http://twitter.com/search?q=Armas) | N/A |
+| 45 | [Maldita](http://twitter.com/search?q=Maldita) | N/A |
+| 46 | [GATILLO FACIL](http://twitter.com/search?q=GATILLO+FACIL) | N/A |
+| 47 | [#RenunciaBoric](http://twitter.com/search?q=%23RenunciaBoric) | N/A |
+| 48 | [#EstadoDeExcepcion](http://twitter.com/search?q=%23EstadoDeExcepcion) | N/A |
+| 49 | [#TuDia13](http://twitter.com/search?q=%23TuDia13) | N/A |
+| 50 | [#BuenosDiasTVN](http://twitter.com/search?q=%23BuenosDiasTVN) | N/A |
 
 
 
