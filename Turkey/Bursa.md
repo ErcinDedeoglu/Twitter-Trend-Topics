@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-04-06 10:17:21 UTC`
+📆 Last Updated: `2023-04-06 11:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,52 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bagkura AdaletGerek](http://twitter.com/search?q=Bagkura+AdaletGerek) | N/A |
-| 2 | [CHP İstanbul İl Başkanlığı'na](http://twitter.com/search?q=CHP+%c4%b0stanbul+%c4%b0l+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1%27na) | N/A |
-| 3 | [#Tam2AyOldu](http://twitter.com/search?q=%23Tam2AyOldu) | N/A |
-| 4 | [Canan Kaftancıoğlu](http://twitter.com/search?q=Canan+Kaftanc%c4%b1o%c4%9flu) | N/A |
-| 5 | [Cengiz Çandar](http://twitter.com/search?q=Cengiz+%c3%87andar) | N/A |
-| 6 | [#DolarTL](http://twitter.com/search?q=%23DolarTL) | N/A |
-| 7 | [#5BinKısmiVeABOuyarıyor](http://twitter.com/search?q=%235BinK%c4%b1smiVeABOuyar%c4%b1yor) | N/A |
-| 8 | [Bekçidir](http://twitter.com/search?q=Bek%c3%a7idir) | N/A |
-| 9 | [#izmir](http://twitter.com/search?q=%23izmir) | N/A |
-| 10 | [Sahip Ata Külliyesi](http://twitter.com/search?q=Sahip+Ata+K%c3%bclliyesi) | N/A |
+| 1 | [RamazanAbi Sinopta](http://twitter.com/search?q=RamazanAbi+Sinopta) | N/A |
+| 2 | [Bagkura AdaletGerek](http://twitter.com/search?q=Bagkura+AdaletGerek) | N/A |
+| 3 | [CHP İstanbul İl Başkanlığı'na](http://twitter.com/search?q=CHP+%c4%b0stanbul+%c4%b0l+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1%27na) | N/A |
+| 4 | [#Tam2AyOldu](http://twitter.com/search?q=%23Tam2AyOldu) | N/A |
+| 5 | [Sarıgül](http://twitter.com/search?q=Sar%c4%b1g%c3%bcl) | N/A |
+| 6 | [Canan Kaftancıoğlu](http://twitter.com/search?q=Canan+Kaftanc%c4%b1o%c4%9flu) | N/A |
+| 7 | [Sahip Ata Külliyesi](http://twitter.com/search?q=Sahip+Ata+K%c3%bclliyesi) | N/A |
+| 8 | [Cengiz Çandar](http://twitter.com/search?q=Cengiz+%c3%87andar) | N/A |
+| 9 | [#5BinKısmiVeABOuyarıyor](http://twitter.com/search?q=%235BinK%c4%b1smiVeABOuyar%c4%b1yor) | N/A |
+| 10 | [Bekçidir](http://twitter.com/search?q=Bek%c3%a7idir) | N/A |
 | 11 | [Demokrat Parti](http://twitter.com/search?q=Demokrat+Parti) | N/A |
 | 12 | [Fikri Sağlar](http://twitter.com/search?q=Fikri+Sa%c4%9flar) | N/A |
-| 13 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
-| 14 | [Bağcılar Belediyesi](http://twitter.com/search?q=Ba%c4%9fc%c4%b1lar+Belediyesi) | N/A |
-| 15 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
-| 16 | [G E L İ Y O R U Z](http://twitter.com/search?q=G+E+L+%c4%b0+Y+O+R+U+Z) | N/A |
-| 17 | [Anadolu Ajansı'nın 103](http://twitter.com/search?q=Anadolu+Ajans%c4%b1%27n%c4%b1n+103) | N/A |
-| 18 | [Uyuşturucu](http://twitter.com/search?q=Uyu%c5%9fturucu) | N/A |
-| 19 | [Çeşme](http://twitter.com/search?q=%c3%87e%c5%9fme) | N/A |
-| 20 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
-| 21 | [Teklif](http://twitter.com/search?q=Teklif) | N/A |
-| 22 | [Gelecek Partisi](http://twitter.com/search?q=Gelecek+Partisi) | N/A |
-| 23 | [Deva](http://twitter.com/search?q=Deva) | N/A |
-| 24 | [Suudi Arabistan](http://twitter.com/search?q=Suudi+Arabistan) | N/A |
-| 25 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
-| 26 | [Begüm Polat](http://twitter.com/search?q=Beg%c3%bcm+Polat) | N/A |
-| 27 | [Malatya'da](http://twitter.com/search?q=Malatya%27da) | N/A |
-| 28 | [Sırrı Sakık](http://twitter.com/search?q=S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
-| 29 | [Temiz](http://twitter.com/search?q=Temiz) | N/A |
-| 30 | [Nebati](http://twitter.com/search?q=Nebati) | N/A |
-| 31 | [Başımız](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1z) | N/A |
-| 32 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
-| 33 | [Operasyon VAR](http://twitter.com/search?q=Operasyon+VAR) | N/A |
-| 34 | [Vize](http://twitter.com/search?q=Vize) | N/A |
-| 35 | [Komutanı Muhammed](http://twitter.com/search?q=Komutan%c4%b1+Muhammed) | N/A |
-| 36 | [#Korkmuyoruz](http://twitter.com/search?q=%23Korkmuyoruz) | N/A |
-| 37 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
-| 38 | [#BursanınFethi](http://twitter.com/search?q=%23Bursan%c4%b1nFethi) | N/A |
-| 39 | [#GururumuzBayKemal](http://twitter.com/search?q=%23GururumuzBayKemal) | N/A |
-| 40 | [#CVKMD](http://twitter.com/search?q=%23CVKMD) | N/A |
-| 41 | [#YıldızıdırParlayacak](http://twitter.com/search?q=%23Y%c4%b1ld%c4%b1z%c4%b1d%c4%b1rParlayacak) | N/A |
-| 42 | [#KOPOL](http://twitter.com/search?q=%23KOPOL) | N/A |
-| 43 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 13 | [Anadolu Ajansı'nın 103](http://twitter.com/search?q=Anadolu+Ajans%c4%b1%27n%c4%b1n+103) | N/A |
+| 14 | [G E L İ Y O R U Z](http://twitter.com/search?q=G+E+L+%c4%b0+Y+O+R+U+Z) | N/A |
+| 15 | [Mehmet Şimşek](http://twitter.com/search?q=Mehmet+%c5%9eim%c5%9fek) | Mehmet Şimşek is a Turkish given name. It is composed of the given name Mehmet, which is derived from the Arabic name Muhammad, and the surname Şimşek, which means "lightning" in Turkish. In English, it can be translated to mean "Lightning of Muhammad". |
+| 16 | [Korkmuyoruz](http://twitter.com/search?q=Korkmuyoruz) | N/A |
+| 17 | [Uyuşturucu](http://twitter.com/search?q=Uyu%c5%9fturucu) | N/A |
+| 18 | [Bağcılar Belediyesi](http://twitter.com/search?q=Ba%c4%9fc%c4%b1lar+Belediyesi) | N/A |
+| 19 | [Engin Altay](http://twitter.com/search?q=Engin+Altay) | N/A |
+| 20 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
+| 21 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
+| 22 | [Hüsnü Şenlendirici](http://twitter.com/search?q=H%c3%bcsn%c3%bc+%c5%9eenlendirici) | N/A |
+| 23 | [Gelecek Partisi](http://twitter.com/search?q=Gelecek+Partisi) | N/A |
+| 24 | [Çeşme](http://twitter.com/search?q=%c3%87e%c5%9fme) | N/A |
+| 25 | [Teklif](http://twitter.com/search?q=Teklif) | N/A |
+| 26 | [Deva](http://twitter.com/search?q=Deva) | N/A |
+| 27 | [Begüm Polat](http://twitter.com/search?q=Beg%c3%bcm+Polat) | N/A |
+| 28 | [Suudi Arabistan](http://twitter.com/search?q=Suudi+Arabistan) | N/A |
+| 29 | [Sırrı Sakık](http://twitter.com/search?q=S%c4%b1rr%c4%b1+Sak%c4%b1k) | N/A |
+| 30 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 31 | [Samimi](http://twitter.com/search?q=Samimi) | N/A |
+| 32 | [Temiz](http://twitter.com/search?q=Temiz) | N/A |
+| 33 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 34 | [Başımız](http://twitter.com/search?q=Ba%c5%9f%c4%b1m%c4%b1z) | N/A |
+| 35 | [Operasyon VAR](http://twitter.com/search?q=Operasyon+VAR) | N/A |
+| 36 | [Vize](http://twitter.com/search?q=Vize) | N/A |
+| 37 | [#izmir](http://twitter.com/search?q=%23izmir) | N/A |
+| 38 | [#DolarTL](http://twitter.com/search?q=%23DolarTL) | N/A |
+| 39 | [#BursanınFethi](http://twitter.com/search?q=%23Bursan%c4%b1nFethi) | N/A |
+| 40 | [#Persembe](http://twitter.com/search?q=%23Persembe) | #Persembe is a Turkish word meaning Thursday. |
+| 41 | [#GururumuzBayKemal](http://twitter.com/search?q=%23GururumuzBayKemal) | N/A |
+| 42 | [#CanımızaOkudunAKP](http://twitter.com/search?q=%23Can%c4%b1m%c4%b1zaOkudunAKP) | N/A |
+| 43 | [#YıldızıdırParlayacak](http://twitter.com/search?q=%23Y%c4%b1ld%c4%b1z%c4%b1d%c4%b1rParlayacak) | N/A |
 | 44 | [#ÖldürülenGazetecilerGünü](http://twitter.com/search?q=%23%c3%96ld%c3%bcr%c3%bclenGazetecilerG%c3%bcn%c3%bc) | N/A |
 | 45 | [#GeliyorGelmekteOlan](http://twitter.com/search?q=%23GeliyorGelmekteOlan) | N/A |
-| 46 | [#StajAlınTerimizdir](http://twitter.com/search?q=%23StajAl%c4%b1nTerimizdir) | N/A |
-| 47 | [#RedmiNote12Serisi](http://twitter.com/search?q=%23RedmiNote12Serisi) | N/A |
+| 46 | [#CVKMD](http://twitter.com/search?q=%23CVKMD) | N/A |
 
 
 

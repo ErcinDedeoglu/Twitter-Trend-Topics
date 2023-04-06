@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-04-06 10:17:27 UTC`
+📆 Last Updated: `2023-04-06 11:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
 | 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 3 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 4 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 6 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 7 | [#SUGAxNBA](http://twitter.com/search?q=%23SUGAxNBA) | N/A |
-| 8 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 9 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 3 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 4 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 6 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 7 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 8 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
+| 9 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 10 | [#Wordle656](http://twitter.com/search?q=%23Wordle656) | N/A |
-| 11 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 12 | [Progress](http://twitter.com/search?q=Progress) | N/A |
-| 13 | [#DesantisKidnapping](http://twitter.com/search?q=%23DesantisKidnapping) | N/A |
-| 14 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
-| 15 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 16 | [iPod](http://twitter.com/search?q=iPod) | N/A |
-| 17 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 18 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
-| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 20 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
-| 21 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 22 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
-| 23 | [RFK Jr](http://twitter.com/search?q=RFK+Jr) | N/A |
-| 24 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 25 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 26 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 27 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 28 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 29 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
-| 30 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
-| 31 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 32 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
-| 33 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 34 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 35 | [Rebekah Jones](http://twitter.com/search?q=Rebekah+Jones) | N/A |
-| 36 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 37 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 38 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 39 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 40 | [Durk](http://twitter.com/search?q=Durk) | N/A |
-| 41 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 42 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 43 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
-| 44 | [Bones Hyland](http://twitter.com/search?q=Bones+Hyland) | N/A |
-| 45 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 46 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 47 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 48 | [Rubi Rose](http://twitter.com/search?q=Rubi+Rose) | N/A |
-| 49 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 50 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 11 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 12 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 13 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
+| 14 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 15 | [#SUGAxNBA](http://twitter.com/search?q=%23SUGAxNBA) | N/A |
+| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 17 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 18 | [Progress](http://twitter.com/search?q=Progress) | N/A |
+| 19 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 20 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 21 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 22 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 23 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
+| 24 | [iPod](http://twitter.com/search?q=iPod) | N/A |
+| 25 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 26 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 27 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
+| 28 | [anheuser-busch](http://twitter.com/search?q=anheuser-busch) | N/A |
+| 29 | [RFK Jr.](http://twitter.com/search?q=RFK+Jr.) | N/A |
+| 30 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
+| 31 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 32 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 33 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 34 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 35 | [Piers](http://twitter.com/search?q=Piers) | Piers is a type of structure built out into a body of water, such as a river or ocean, to provide access for boats and other vessels. It can also refer to a landing stage or wharf. The word comes from the Old French "piere," meaning "pillar." |
+| 36 | [FNAF](http://twitter.com/search?q=FNAF) | N/A |
+| 37 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 38 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
+| 39 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
+| 40 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 41 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 42 | [Rebekah Jones](http://twitter.com/search?q=Rebekah+Jones) | N/A |
+| 43 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 44 | [Dylan Mulvaney](http://twitter.com/search?q=Dylan+Mulvaney) | N/A |
+| 45 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 46 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 47 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 48 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 49 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 50 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
 
 
 

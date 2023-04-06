@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-04-06 10:17:36 UTC`
+📆 Last Updated: `2023-04-06 11:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for Netherlands
 | 8 | [#knvbbeker](http://twitter.com/search?q=%23knvbbeker) | N/A |
 | 9 | [Bokito](http://twitter.com/search?q=Bokito) | N/A |
 | 10 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
-| 11 | [#spapsv](http://twitter.com/search?q=%23spapsv) | N/A |
+| 11 | [#ajafey](http://twitter.com/search?q=%23ajafey) | N/A |
 | 12 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
-| 13 | [Bloemendaal](http://twitter.com/search?q=Bloemendaal) | N/A |
+| 13 | [Lindhout](http://twitter.com/search?q=Lindhout) | N/A |
 | 14 | [Hermans](http://twitter.com/search?q=Hermans) | N/A |
-| 15 | [Lindhout](http://twitter.com/search?q=Lindhout) | N/A |
-| 16 | [Baas](http://twitter.com/search?q=Baas) | N/A |
-| 17 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 18 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
-| 19 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 20 | [Azarkan](http://twitter.com/search?q=Azarkan) | N/A |
-| 21 | [Rotterdam](http://twitter.com/search?q=Rotterdam) | N/A |
-| 22 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
-| 23 | [kwakman](http://twitter.com/search?q=kwakman) | N/A |
+| 15 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 16 | [Bloemendaal](http://twitter.com/search?q=Bloemendaal) | N/A |
+| 17 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
+| 18 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 19 | [Azarkan](http://twitter.com/search?q=Azarkan) | N/A |
+| 20 | [VPRO](http://twitter.com/search?q=VPRO) | N/A |
+| 21 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 22 | [kwakman](http://twitter.com/search?q=kwakman) | N/A |
+| 23 | [Rotterdam](http://twitter.com/search?q=Rotterdam) | N/A |
 | 24 | [Arena](http://twitter.com/search?q=Arena) | N/A |
-| 25 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 26 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 25 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 26 | [Baas](http://twitter.com/search?q=Baas) | N/A |
 | 27 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 28 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 29 | [Mario Been](http://twitter.com/search?q=Mario+Been) | N/A |
-| 30 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 31 | [Wouke](http://twitter.com/search?q=Wouke) | N/A |
-| 32 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 33 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
-| 34 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
-| 35 | [Roelofarendsveen](http://twitter.com/search?q=Roelofarendsveen) | N/A |
-| 36 | [Knol](http://twitter.com/search?q=Knol) | N/A |
-| 37 | [Witte Donderdag](http://twitter.com/search?q=Witte+Donderdag) | N/A |
-| 38 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 39 | [Dassen](http://twitter.com/search?q=Dassen) | N/A |
-| 40 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 41 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 42 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 43 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 44 | [Van Ooijen](http://twitter.com/search?q=Van+Ooijen) | N/A |
-| 45 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 46 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
-| 47 | [staken](http://twitter.com/search?q=staken) | N/A |
-| 48 | [Jan van Halst](http://twitter.com/search?q=Jan+van+Halst) | N/A |
-| 49 | [Edwin Evers](http://twitter.com/search?q=Edwin+Evers) | N/A |
-| 50 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 28 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 29 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 30 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 31 | [mario been](http://twitter.com/search?q=mario+been) | N/A |
+| 32 | [Wouke](http://twitter.com/search?q=Wouke) | N/A |
+| 33 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 34 | [Ooijen](http://twitter.com/search?q=Ooijen) | N/A |
+| 35 | [Ouwehand](http://twitter.com/search?q=Ouwehand) | N/A |
+| 36 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
+| 37 | [Roelofarendsveen](http://twitter.com/search?q=Roelofarendsveen) | N/A |
+| 38 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 39 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
+| 40 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 41 | [Knol](http://twitter.com/search?q=Knol) | N/A |
+| 42 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
+| 43 | [Dassen](http://twitter.com/search?q=Dassen) | N/A |
+| 44 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 45 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 46 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 47 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 48 | [Staken](http://twitter.com/search?q=Staken) | N/A |
+| 49 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 50 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
 
 
 

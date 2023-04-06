@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-04-06 10:16:59 UTC`
+📆 Last Updated: `2023-04-06 11:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 6 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
 | 7 | [John de Wolf](http://twitter.com/search?q=John+de+Wolf) | N/A |
 | 8 | [#knvbbeker](http://twitter.com/search?q=%23knvbbeker) | N/A |
-| 9 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
-| 10 | [#spapsv](http://twitter.com/search?q=%23spapsv) | N/A |
-| 11 | [Bokito](http://twitter.com/search?q=Bokito) | N/A |
+| 9 | [Bokito](http://twitter.com/search?q=Bokito) | N/A |
+| 10 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
+| 11 | [#ajafey](http://twitter.com/search?q=%23ajafey) | N/A |
 | 12 | [Spakenburg](http://twitter.com/search?q=Spakenburg) | N/A |
-| 13 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 14 | [Goeiemorgen](http://twitter.com/search?q=Goeiemorgen) | N/A |
-| 15 | [Lindhout](http://twitter.com/search?q=Lindhout) | N/A |
-| 16 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
-| 17 | [Arena](http://twitter.com/search?q=Arena) | N/A |
-| 18 | [Rotterdam](http://twitter.com/search?q=Rotterdam) | N/A |
-| 19 | [kwakman](http://twitter.com/search?q=kwakman) | N/A |
-| 20 | [Bloemendaal](http://twitter.com/search?q=Bloemendaal) | N/A |
-| 21 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 22 | [Hermans](http://twitter.com/search?q=Hermans) | N/A |
-| 23 | [Mario Been](http://twitter.com/search?q=Mario+Been) | N/A |
-| 24 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 25 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 26 | [Witte Donderdag](http://twitter.com/search?q=Witte+Donderdag) | N/A |
-| 27 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
-| 28 | [Wouke](http://twitter.com/search?q=Wouke) | N/A |
-| 29 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 30 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 31 | [Roelofarendsveen](http://twitter.com/search?q=Roelofarendsveen) | N/A |
-| 32 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 33 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 34 | [teze](http://twitter.com/search?q=teze) | N/A |
-| 35 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 36 | [Ajacieden](http://twitter.com/search?q=Ajacieden) | N/A |
-| 37 | [Staken](http://twitter.com/search?q=Staken) | N/A |
-| 38 | [Voetbal](http://twitter.com/search?q=Voetbal) | N/A |
-| 39 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 40 | [Perez](http://twitter.com/search?q=Perez) | N/A |
-| 41 | [Wedstrijd](http://twitter.com/search?q=Wedstrijd) | N/A |
-| 42 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 43 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 44 | [Slot](http://twitter.com/search?q=Slot) | N/A |
-| 45 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
-| 46 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 47 | [Jan van Halst](http://twitter.com/search?q=Jan+van+Halst) | N/A |
-| 48 | [Azarkan](http://twitter.com/search?q=Azarkan) | N/A |
-| 49 | [Heerma](http://twitter.com/search?q=Heerma) | N/A |
-| 50 | [Esther Ouwehand](http://twitter.com/search?q=Esther+Ouwehand) | N/A |
+| 13 | [Lindhout](http://twitter.com/search?q=Lindhout) | N/A |
+| 14 | [Hermans](http://twitter.com/search?q=Hermans) | N/A |
+| 15 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 16 | [Bloemendaal](http://twitter.com/search?q=Bloemendaal) | N/A |
+| 17 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
+| 18 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 19 | [Azarkan](http://twitter.com/search?q=Azarkan) | N/A |
+| 20 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 21 | [kwakman](http://twitter.com/search?q=kwakman) | N/A |
+| 22 | [Rotterdam](http://twitter.com/search?q=Rotterdam) | N/A |
+| 23 | [VPRO](http://twitter.com/search?q=VPRO) | N/A |
+| 24 | [Baas](http://twitter.com/search?q=Baas) | N/A |
+| 25 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 26 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 27 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 28 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 29 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 30 | [mario been](http://twitter.com/search?q=mario+been) | N/A |
+| 31 | [Wouke](http://twitter.com/search?q=Wouke) | N/A |
+| 32 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 33 | [Ooijen](http://twitter.com/search?q=Ooijen) | N/A |
+| 34 | [Roelofarendsveen](http://twitter.com/search?q=Roelofarendsveen) | N/A |
+| 35 | [Ouwehand](http://twitter.com/search?q=Ouwehand) | N/A |
+| 36 | [Witte Donderdag](http://twitter.com/search?q=Witte+Donderdag) | N/A |
+| 37 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 38 | [Schiphol](http://twitter.com/search?q=Schiphol) | N/A |
+| 39 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
+| 40 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 41 | [Knol](http://twitter.com/search?q=Knol) | N/A |
+| 42 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
+| 43 | [Dassen](http://twitter.com/search?q=Dassen) | N/A |
+| 44 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 45 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 46 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 47 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 48 | [Staken](http://twitter.com/search?q=Staken) | N/A |
+| 49 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 50 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
 
 
 

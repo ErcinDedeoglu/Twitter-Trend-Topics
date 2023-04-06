@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-04-06 10:17:04 UTC`
+📆 Last Updated: `2023-04-06 11:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AFLLionsPies](http://twitter.com/search?q=%23AFLLionsPies) | N/A |
-| 2 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 3 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
-| 4 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 5 | [Noel Pearson](http://twitter.com/search?q=Noel+Pearson) | N/A |
-| 6 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
+| 2 | [#NRLStormRoosters](http://twitter.com/search?q=%23NRLStormRoosters) | N/A |
+| 3 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 4 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
+| 5 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
+| 6 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
 | 7 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
-| 8 | [#VoiceToParliament](http://twitter.com/search?q=%23VoiceToParliament) | N/A |
-| 9 | [#NRLStormRoosters](http://twitter.com/search?q=%23NRLStormRoosters) | N/A |
-| 10 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 8 | [Noel Pearson](http://twitter.com/search?q=Noel+Pearson) | N/A |
+| 9 | [Radley](http://twitter.com/search?q=Radley) | N/A |
+| 10 | [#VoiceToParliament](http://twitter.com/search?q=%23VoiceToParliament) | N/A |
 | 11 | [Nick Daicos](http://twitter.com/search?q=Nick+Daicos) | N/A |
-| 12 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
-| 13 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
-| 14 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 15 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 16 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
-| 17 | [Bobby Hill](http://twitter.com/search?q=Bobby+Hill) | N/A |
-| 18 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 19 | [HECS](http://twitter.com/search?q=HECS) | N/A |
-| 20 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
-| 21 | [Uluru Statement](http://twitter.com/search?q=Uluru+Statement) | N/A |
-| 22 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 23 | [Zorko](http://twitter.com/search?q=Zorko) | N/A |
-| 24 | [Inland Rail](http://twitter.com/search?q=Inland+Rail) | N/A |
-| 25 | [Linda Reynolds](http://twitter.com/search?q=Linda+Reynolds) | N/A |
-| 26 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 27 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
-| 28 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 29 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
-| 30 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 31 | [Bruce Petty](http://twitter.com/search?q=Bruce+Petty) | N/A |
-| 32 | [Fred Chaney](http://twitter.com/search?q=Fred+Chaney) | N/A |
-| 33 | [Canberra Voice](http://twitter.com/search?q=Canberra+Voice) | N/A |
-| 34 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 35 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 36 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 37 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
-| 38 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 39 | [Voss](http://twitter.com/search?q=Voss) | N/A |
-| 40 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 41 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
-| 42 | [Chris Kenny](http://twitter.com/search?q=Chris+Kenny) | N/A |
-| 43 | [Tehan](http://twitter.com/search?q=Tehan) | N/A |
-| 44 | [Term 1](http://twitter.com/search?q=Term+1) | N/A |
-| 45 | [Newspoll](http://twitter.com/search?q=Newspoll) | N/A |
-| 46 | [Round 4](http://twitter.com/search?q=Round+4) | N/A |
+| 12 | [Bobby Hill](http://twitter.com/search?q=Bobby+Hill) | N/A |
+| 13 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 14 | [Zorko](http://twitter.com/search?q=Zorko) | N/A |
+| 15 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 16 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 17 | [Nick Meaney](http://twitter.com/search?q=Nick+Meaney) | N/A |
+| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 19 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 20 | [Australians](http://twitter.com/search?q=Australians) | N/A |
+| 21 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
+| 22 | [Coates](http://twitter.com/search?q=Coates) | N/A |
+| 23 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 25 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 26 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
+| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 28 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
+| 29 | [Uluru Statement](http://twitter.com/search?q=Uluru+Statement) | N/A |
+| 30 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
+| 31 | [HECS](http://twitter.com/search?q=HECS) | N/A |
+| 32 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 33 | [Linda Reynolds](http://twitter.com/search?q=Linda+Reynolds) | N/A |
+| 34 | [inland rail](http://twitter.com/search?q=inland+rail) | N/A |
+| 35 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
+| 36 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
+| 37 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 38 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
+| 39 | [Senator Dodson](http://twitter.com/search?q=Senator+Dodson) | N/A |
+| 40 | [Daniher](http://twitter.com/search?q=Daniher) | N/A |
+| 41 | [Fred Chaney](http://twitter.com/search?q=Fred+Chaney) | N/A |
+| 42 | [Dan Andrews](http://twitter.com/search?q=Dan+Andrews) | N/A |
+| 43 | [Bruce Petty](http://twitter.com/search?q=Bruce+Petty) | N/A |
+| 44 | [Canberra Voice](http://twitter.com/search?q=Canberra+Voice) | N/A |
+| 45 | [Hipwood](http://twitter.com/search?q=Hipwood) | N/A |
+| 46 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
 | 47 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 48 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
-| 49 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 50 | [Sheed](http://twitter.com/search?q=Sheed) | N/A |
+| 48 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 49 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 50 | [Tehan](http://twitter.com/search?q=Tehan) | N/A |
 
 
 

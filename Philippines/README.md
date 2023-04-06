@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-04-06 10:17:37 UTC`
+📆 Last Updated: `2023-04-06 11:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Philippines
 | 2 | [#민규생일은_아름답기를_따뜻하길](http://twitter.com/search?q=%23%eb%af%bc%ea%b7%9c%ec%83%9d%ec%9d%bc%ec%9d%80_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b8%b0%eb%a5%bc_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b8%b8) | N/A |
 | 3 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
 | 4 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 5 | [#BLACKPINK_THE_GAME](http://twitter.com/search?q=%23BLACKPINK_THE_GAME) | N/A |
-| 6 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
-| 7 | [#SUGAxNBA](http://twitter.com/search?q=%23SUGAxNBA) | N/A |
-| 8 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 9 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
-| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 11 | [#HORI7ON_Salamat_MV](http://twitter.com/search?q=%23HORI7ON_Salamat_MV) | N/A |
-| 12 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 13 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 14 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 15 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 16 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 17 | [1MILLION SALAMAT SA INYO](http://twitter.com/search?q=1MILLION+SALAMAT+SA+INYO) | N/A |
-| 18 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
-| 19 | [GOLDEN HOUR MV TEASER](http://twitter.com/search?q=GOLDEN+HOUR+MV+TEASER) | N/A |
-| 20 | [GOLDEN HOUR MV TEASER](http://twitter.com/search?q=GOLDEN+HOUR+MV+TEASER) | N/A |
-| 21 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 22 | [Huwebes Santo](http://twitter.com/search?q=Huwebes+Santo) | N/A |
-| 23 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 24 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 25 | [Visita Iglesia](http://twitter.com/search?q=Visita+Iglesia) | N/A |
-| 26 | [Jaya](http://twitter.com/search?q=Jaya) | N/A |
-| 27 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 28 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 29 | [HORI7ON SALAMAT OUT NOW](http://twitter.com/search?q=HORI7ON+SALAMAT+OUT+NOW) | N/A |
-| 30 | [Pagbilao](http://twitter.com/search?q=Pagbilao) | N/A |
-| 31 | [Marie Claire](http://twitter.com/search?q=Marie+Claire) | N/A |
-| 32 | [Mang](http://twitter.com/search?q=Mang) | N/A |
-| 33 | [JOSHCULLEN WT PHOTOSHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+PHOTOSHOOT) | N/A |
-| 34 | [iPod](http://twitter.com/search?q=iPod) | N/A |
-| 35 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 36 | [COMEBACK IN JUNE](http://twitter.com/search?q=COMEBACK+IN+JUNE) | N/A |
-| 37 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 38 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 39 | [ryan gosling](http://twitter.com/search?q=ryan+gosling) | N/A |
-| 40 | [wonpil](http://twitter.com/search?q=wonpil) | N/A |
-| 41 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 42 | [Mashi](http://twitter.com/search?q=Mashi) | N/A |
-| 43 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 44 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 45 | [FLOWER FIRST WIN](http://twitter.com/search?q=FLOWER+FIRST+WIN) | N/A |
-| 46 | [Eucharist](http://twitter.com/search?q=Eucharist) | N/A |
-| 47 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 48 | [JUNGKOOK OUR EUPHORIA](http://twitter.com/search?q=JUNGKOOK+OUR+EUPHORIA) | N/A |
-| 49 | [People Pt](http://twitter.com/search?q=People+Pt) | N/A |
-| 50 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 5 | [#LikeCrazy3rdWin](http://twitter.com/search?q=%23LikeCrazy3rdWin) | N/A |
+| 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 7 | [#BLACKPINK_THE_GAME](http://twitter.com/search?q=%23BLACKPINK_THE_GAME) | N/A |
+| 8 | [#flower1stwin](http://twitter.com/search?q=%23flower1stwin) | N/A |
+| 9 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 10 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
+| 11 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
+| 12 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 13 | [FLOWER FIRST WIN](http://twitter.com/search?q=FLOWER+FIRST+WIN) | N/A |
+| 14 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 15 | [joshcullen wt photoshoot](http://twitter.com/search?q=joshcullen+wt+photoshoot) | N/A |
+| 16 | [HORI7ON SALAMAT OUT NOW](http://twitter.com/search?q=HORI7ON+SALAMAT+OUT+NOW) | N/A |
+| 17 | [Mang](http://twitter.com/search?q=Mang) | N/A |
+| 18 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
+| 19 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 20 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 21 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 22 | [Gatherings for Christians](http://twitter.com/search?q=Gatherings+for+Christians) | N/A |
+| 23 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 24 | [JISOO FIRST WIN](http://twitter.com/search?q=JISOO+FIRST+WIN) | N/A |
+| 25 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
+| 26 | [1MILLION SALAMAT SA INYO](http://twitter.com/search?q=1MILLION+SALAMAT+SA+INYO) | N/A |
+| 27 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 28 | [huwebes santo](http://twitter.com/search?q=huwebes+santo) | N/A |
+| 29 | [Visita Iglesia](http://twitter.com/search?q=Visita+Iglesia) | N/A |
+| 30 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 31 | [MARK SOLO TOMORROW](http://twitter.com/search?q=MARK+SOLO+TOMORROW) | N/A |
+| 32 | [one year with still life](http://twitter.com/search?q=one+year+with+still+life) | N/A |
+| 33 | [aljay tc extras questunes](http://twitter.com/search?q=aljay+tc+extras+questunes) | N/A |
+| 34 | [VIVOREE WISH BUS DEBUT](http://twitter.com/search?q=VIVOREE+WISH+BUS+DEBUT) | N/A |
+| 35 | [look for the mafia svt](http://twitter.com/search?q=look+for+the+mafia+svt) | N/A |
+| 36 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 37 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 38 | [mashi](http://twitter.com/search?q=mashi) | N/A |
+| 39 | [Jaya](http://twitter.com/search?q=Jaya) | N/A |
+| 40 | [love for humanity](http://twitter.com/search?q=love+for+humanity) | N/A |
+| 41 | [NBA Ambassador](http://twitter.com/search?q=NBA+Ambassador) | N/A |
+| 42 | [The Eve](http://twitter.com/search?q=The+Eve) | N/A |
+| 43 | [Pagbilao](http://twitter.com/search?q=Pagbilao) | N/A |
+| 44 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 45 | [Ryan Gosling](http://twitter.com/search?q=Ryan+Gosling) | N/A |
+| 46 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
+| 47 | [Marie Claire](http://twitter.com/search?q=Marie+Claire) | N/A |
+| 48 | [Wonpil](http://twitter.com/search?q=Wonpil) | N/A |
+| 49 | [Holy Wednesday](http://twitter.com/search?q=Holy+Wednesday) | N/A |
+| 50 | [COMEBACK IN JUNE](http://twitter.com/search?q=COMEBACK+IN+JUNE) | N/A |
 
 
 

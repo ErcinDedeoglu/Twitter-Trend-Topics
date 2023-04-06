@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-04-06 10:17:38 UTC`
+📆 Last Updated: `2023-04-06 11:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for United Kingdom
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 2 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 3 | [#TeamCallaway](http://twitter.com/search?q=%23TeamCallaway) | N/A |
-| 4 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 5 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 4 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 5 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
 | 6 | [#angrypop](http://twitter.com/search?q=%23angrypop) | N/A |
-| 7 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 8 | [#ASongOrMovieForJumping](http://twitter.com/search?q=%23ASongOrMovieForJumping) | N/A |
-| 9 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 10 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 11 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 12 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 13 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
-| 14 | [Don Revie](http://twitter.com/search?q=Don+Revie) | N/A |
-| 15 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
-| 16 | [Morning Steve](http://twitter.com/search?q=Morning+Steve) | N/A |
-| 17 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
-| 18 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 19 | [Scrooge](http://twitter.com/search?q=Scrooge) | N/A |
-| 20 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 21 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
-| 22 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
-| 23 | [23rd April](http://twitter.com/search?q=23rd+April) | N/A |
-| 24 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
-| 25 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
-| 26 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 8 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 9 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 10 | [Clapham Junction](http://twitter.com/search?q=Clapham+Junction) | N/A |
+| 11 | [Don Revie](http://twitter.com/search?q=Don+Revie) | N/A |
+| 12 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
+| 13 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
+| 14 | [Wembley Stadium](http://twitter.com/search?q=Wembley+Stadium) | N/A |
+| 15 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 16 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 17 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 18 | [Frank Lampard](http://twitter.com/search?q=Frank+Lampard) | Frank Lampard is an English professional football manager and former player who is the current manager of Premier League club Chelsea. He is widely regarded as one of the greatest midfielders of his generation, and as one of the greatest players in the history of English football. |
+| 19 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
+| 20 | [Scrooge](http://twitter.com/search?q=Scrooge) | N/A |
+| 21 | [Daniel Radcliffe](http://twitter.com/search?q=Daniel+Radcliffe) | N/A |
+| 22 | [iPod](http://twitter.com/search?q=iPod) | N/A |
+| 23 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 24 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
+| 25 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
+| 26 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
 | 27 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
-| 28 | [Donkey](http://twitter.com/search?q=Donkey) | N/A |
-| 29 | [iPod](http://twitter.com/search?q=iPod) | N/A |
-| 30 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 31 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 32 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 33 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
-| 34 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
-| 35 | [Thames](http://twitter.com/search?q=Thames) | N/A |
-| 36 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
-| 37 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
-| 38 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 39 | [Tory MP](http://twitter.com/search?q=Tory+MP) | N/A |
-| 40 | [Woof](http://twitter.com/search?q=Woof) | N/A |
-| 41 | [Channel 4](http://twitter.com/search?q=Channel+4) | Channel 4 is a British public-service television broadcaster that began broadcasting in 1982. It is known for its innovative and often controversial programming, including documentaries, comedy, drama, and current affairs. The channel's mission is to provide an alternative to mainstream commercial broadcasting and to produce programmes of the highest quality that reflect the diversity of the UK. |
-| 42 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
+| 28 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
+| 29 | [23rd April](http://twitter.com/search?q=23rd+April) | N/A |
+| 30 | [Headingley](http://twitter.com/search?q=Headingley) | N/A |
+| 31 | [Portland](http://twitter.com/search?q=Portland) | N/A |
+| 32 | [Daily Quordle 437](http://twitter.com/search?q=Daily+Quordle+437) | N/A |
+| 33 | [Sullivan](http://twitter.com/search?q=Sullivan) | N/A |
+| 34 | [Woof](http://twitter.com/search?q=Woof) | N/A |
+| 35 | [MITB](http://twitter.com/search?q=MITB) | N/A |
+| 36 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 37 | [morning karen](http://twitter.com/search?q=morning+karen) | N/A |
+| 38 | [Murrells](http://twitter.com/search?q=Murrells) | N/A |
+| 39 | [Pending](http://twitter.com/search?q=Pending) | N/A |
+| 40 | [Nick Brown](http://twitter.com/search?q=Nick+Brown) | N/A |
+| 41 | [Dorset](http://twitter.com/search?q=Dorset) | N/A |
+| 42 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
 | 43 | [Michelle Mone](http://twitter.com/search?q=Michelle+Mone) | N/A |
-| 44 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 45 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 46 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
-| 47 | [Dorset](http://twitter.com/search?q=Dorset) | N/A |
-| 48 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
-| 49 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
-| 50 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 44 | [Green Man](http://twitter.com/search?q=Green+Man) | N/A |
+| 45 | [Voter ID](http://twitter.com/search?q=Voter+ID) | N/A |
+| 46 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
+| 47 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 48 | [#EmergencyAlerts](http://twitter.com/search?q=%23EmergencyAlerts) | N/A |
+| 49 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 50 | [#ASongOrMovieForJumping](http://twitter.com/search?q=%23ASongOrMovieForJumping) | N/A |
 
 
 

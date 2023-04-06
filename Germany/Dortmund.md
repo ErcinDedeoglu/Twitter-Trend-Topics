@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-04-06 10:16:57 UTC`
+📆 Last Updated: `2023-04-06 11:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Germany](</Germany>)
 | 6 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
 | 7 | [#LeipzigBVB](http://twitter.com/search?q=%23LeipzigBVB) | N/A |
 | 8 | [#FCNVfB](http://twitter.com/search?q=%23FCNVfB) | N/A |
-| 9 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 9 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
 | 10 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 11 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 11 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
 | 12 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 13 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 14 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 15 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
-| 16 | [torchance](http://twitter.com/search?q=torchance) | N/A |
+| 13 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 14 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
+| 15 | [Worst Concert](http://twitter.com/search?q=Worst+Concert) | N/A |
+| 16 | [Dream Concert](http://twitter.com/search?q=Dream+Concert) | N/A |
 | 17 | [Freiburg](http://twitter.com/search?q=Freiburg) | N/A |
-| 18 | [Worst Concert](http://twitter.com/search?q=Worst+Concert) | N/A |
-| 19 | [Dream Concert](http://twitter.com/search?q=Dream+Concert) | N/A |
-| 20 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 21 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 22 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 23 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 24 | [Frau Kellermann](http://twitter.com/search?q=Frau+Kellermann) | N/A |
-| 25 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 26 | [Claudia Neumann](http://twitter.com/search?q=Claudia+Neumann) | N/A |
-| 27 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
-| 28 | [Geburtsurkunde](http://twitter.com/search?q=Geburtsurkunde) | N/A |
-| 29 | [Vasektomie](http://twitter.com/search?q=Vasektomie) | N/A |
+| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 19 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 20 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 21 | [Frau Kellermann](http://twitter.com/search?q=Frau+Kellermann) | N/A |
+| 22 | [torchance](http://twitter.com/search?q=torchance) | N/A |
+| 23 | [Vasektomie](http://twitter.com/search?q=Vasektomie) | N/A |
+| 24 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 25 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 26 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 27 | [Geburtsurkunde](http://twitter.com/search?q=Geburtsurkunde) | N/A |
+| 28 | [Claudia Neumann](http://twitter.com/search?q=Claudia+Neumann) | N/A |
+| 29 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
 | 30 | ['Geflecht'](http://twitter.com/search?q=%27Geflecht%27) | N/A |
-| 31 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
-| 32 | [Torschuss](http://twitter.com/search?q=Torschuss) | N/A |
-| 33 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
-| 34 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 35 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 36 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 37 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
-| 38 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
-| 39 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 40 | [Hänsel und Gretel](http://twitter.com/search?q=H%c3%a4nsel+und+Gretel) | N/A |
-| 41 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 42 | [Flugscham](http://twitter.com/search?q=Flugscham) | N/A |
-| 43 | [Wäscheschleuder](http://twitter.com/search?q=W%c3%a4scheschleuder) | N/A |
-| 44 | [letzter arbeitstag](http://twitter.com/search?q=letzter+arbeitstag) | N/A |
-| 45 | [felix brych](http://twitter.com/search?q=felix+brych) | N/A |
-| 46 | [KEEP HOPE ALIVE](http://twitter.com/search?q=KEEP+HOPE+ALIVE) | N/A |
-| 47 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
-| 48 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
-| 49 | [Privatsache](http://twitter.com/search?q=Privatsache) | N/A |
-| 50 | [Liberale Politik](http://twitter.com/search?q=Liberale+Politik) | N/A |
+| 31 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
+| 32 | [Streich](http://twitter.com/search?q=Streich) | N/A |
+| 33 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 34 | [Flugtaxis](http://twitter.com/search?q=Flugtaxis) | N/A |
+| 35 | [torschuss](http://twitter.com/search?q=torschuss) | N/A |
+| 36 | [Flugscham](http://twitter.com/search?q=Flugscham) | N/A |
+| 37 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 38 | [Wäscheschleuder](http://twitter.com/search?q=W%c3%a4scheschleuder) | N/A |
+| 39 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 40 | [Generationenverantwortung](http://twitter.com/search?q=Generationenverantwortung) | N/A |
+| 41 | [Hänsel und Gretel](http://twitter.com/search?q=H%c3%a4nsel+und+Gretel) | N/A |
+| 42 | [Reus](http://twitter.com/search?q=Reus) | N/A |
+| 43 | [Özcan](http://twitter.com/search?q=%c3%96zcan) | N/A |
+| 44 | [Liberale Politik](http://twitter.com/search?q=Liberale+Politik) | N/A |
+| 45 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
+| 46 | [Kobel](http://twitter.com/search?q=Kobel) | N/A |
+| 47 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 48 | [Privatsache](http://twitter.com/search?q=Privatsache) | N/A |
+| 49 | [KEEP HOPE ALIVE](http://twitter.com/search?q=KEEP+HOPE+ALIVE) | N/A |
+| 50 | [Brych](http://twitter.com/search?q=Brych) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-04-06 10:17:39 UTC`
+📆 Last Updated: `2023-04-06 11:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ukraine
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#philosophy](http://twitter.com/search?q=%23philosophy) | N/A |
-| 2 | [Раночку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
-| 3 | [Гааге](http://twitter.com/search?q=%d0%93%d0%b0%d0%b0%d0%b3%d0%b5) | N/A |
+| 1 | [#Philosophy](http://twitter.com/search?q=%23Philosophy) | N/A |
+| 2 | [#モニタリング](http://twitter.com/search?q=%23%e3%83%a2%e3%83%8b%e3%82%bf%e3%83%aa%e3%83%b3%e3%82%b0) | #モニタリング is a Japanese hashtag that translates to "monitoring" in English. It is used to refer to the process of observing and tracking various data points in order to gain insights into a system or process. |
+| 3 | [#sarcasm](http://twitter.com/search?q=%23sarcasm) | N/A |
 | 4 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 5 | [#Ukraine️](http://twitter.com/search?q=%23Ukraine%ef%b8%8f) | N/A |
-| 6 | [#sarcasm](http://twitter.com/search?q=%23sarcasm) | N/A |
-| 7 | [Финляндия](http://twitter.com/search?q=%d0%a4%d0%b8%d0%bd%d0%bb%d1%8f%d0%bd%d0%b4%d0%b8%d1%8f) | N/A |
-| 8 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 9 | [Мариуполь](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d0%b8%d1%83%d0%bf%d0%be%d0%bb%d1%8c) | N/A |
-| 10 | [#Finland](http://twitter.com/search?q=%23Finland) | N/A |
-| 11 | [Трампа](http://twitter.com/search?q=%d0%a2%d1%80%d0%b0%d0%bc%d0%bf%d0%b0) | N/A |
-| 12 | [chatgpt](http://twitter.com/search?q=chatgpt) | N/A |
-| 13 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
-| 14 | [Донбасс](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81) | N/A |
-| 15 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 16 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 17 | [Какое](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%be%d0%b5) | N/A |
-| 18 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 19 | [Донецк](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b5%d1%86%d0%ba) | N/A |
-| 20 | [Клас](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81) | N/A |
-| 21 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 22 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
-| 23 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 24 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 25 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 26 | [Sending](http://twitter.com/search?q=Sending) | N/A |
-| 27 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 28 | [чекаю](http://twitter.com/search?q=%d1%87%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
-| 29 | [Гойда](http://twitter.com/search?q=%d0%93%d0%be%d0%b9%d0%b4%d0%b0) | N/A |
-| 30 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 31 | [Donetsk](http://twitter.com/search?q=Donetsk) | N/A |
-| 32 | [Странно](http://twitter.com/search?q=%d0%a1%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
-| 33 | [Красота](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
-| 34 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 35 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 36 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
-| 37 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 38 | [маск](http://twitter.com/search?q=%d0%bc%d0%b0%d1%81%d0%ba) | N/A |
-| 39 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
-| 40 | [XBYX](http://twitter.com/search?q=XBYX) | N/A |
-| 41 | [Порошенко](http://twitter.com/search?q=%d0%9f%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
-| 42 | [European](http://twitter.com/search?q=European) | N/A |
-| 43 | [Alliance](http://twitter.com/search?q=Alliance) | N/A |
-| 44 | [Хаха](http://twitter.com/search?q=%d0%a5%d0%b0%d1%85%d0%b0) | N/A |
-| 45 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 46 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
-| 47 | [Гитлера](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
-| 48 | [Буде](http://twitter.com/search?q=%d0%91%d1%83%d0%b4%d0%b5) | N/A |
-| 49 | [Путину](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%83) | N/A |
-| 50 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 5 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
+| 6 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 7 | [Maria Lvova-Belova](http://twitter.com/search?q=Maria+Lvova-Belova) | N/A |
+| 8 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
+| 9 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 10 | [Раночку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
+| 11 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 12 | [Volodymyr Zelenskyy](http://twitter.com/search?q=Volodymyr+Zelenskyy) | N/A |
+| 13 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 14 | [бахмуте](http://twitter.com/search?q=%d0%b1%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b5) | N/A |
+| 15 | [Клас](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81) | N/A |
+| 16 | [Смешно](http://twitter.com/search?q=%d0%a1%d0%bc%d0%b5%d1%88%d0%bd%d0%be) | N/A |
+| 17 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 18 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 19 | [Woohoo](http://twitter.com/search?q=Woohoo) | N/A |
+| 20 | [Трампа](http://twitter.com/search?q=%d0%a2%d1%80%d0%b0%d0%bc%d0%bf%d0%b0) | N/A |
+| 21 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 22 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 23 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 24 | [гарнюня](http://twitter.com/search?q=%d0%b3%d0%b0%d1%80%d0%bd%d1%8e%d0%bd%d1%8f) | N/A |
+| 25 | [молоко](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%be%d0%ba%d0%be) | N/A |
+| 26 | [Донецк](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b5%d1%86%d0%ba) | N/A |
+| 27 | [Kramatorsk](http://twitter.com/search?q=Kramatorsk) | N/A |
+| 28 | [Польше](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
+| 29 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 30 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 31 | [Путиным](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%8b%d0%bc) | N/A |
+| 32 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
+| 33 | [Беларусь](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 34 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 35 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
+| 36 | [Ленина](http://twitter.com/search?q=%d0%9b%d0%b5%d0%bd%d0%b8%d0%bd%d0%b0) | N/A |
+| 37 | [Veggies Farm](http://twitter.com/search?q=Veggies+Farm) | N/A |
+| 38 | [Гааге](http://twitter.com/search?q=%d0%93%d0%b0%d0%b0%d0%b3%d0%b5) | N/A |
+| 39 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 40 | [Финляндии](http://twitter.com/search?q=%d0%a4%d0%b8%d0%bd%d0%bb%d1%8f%d0%bd%d0%b4%d0%b8%d0%b8) | N/A |
+| 41 | [в россии](http://twitter.com/search?q=%d0%b2+%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 42 | [Brussels](http://twitter.com/search?q=Brussels) | N/A |
+| 43 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 44 | [Херсон](http://twitter.com/search?q=%d0%a5%d0%b5%d1%80%d1%81%d0%be%d0%bd) | N/A |
+| 45 | [🇺🇦](http://twitter.com/search?q=%f0%9f%87%ba%f0%9f%87%a6) | N/A |
+| 46 | [Татарского](http://twitter.com/search?q=%d0%a2%d0%b0%d1%82%d0%b0%d1%80%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 47 | [чекаю](http://twitter.com/search?q=%d1%87%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
+| 48 | [Гитлер](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80) | N/A |
+| 49 | [Байден](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
+| 50 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 
 
 
