@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-04-07 11:17:11 UTC`
+📆 Last Updated: `2023-04-07 12:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,29 +17,29 @@ This is top 50 for Ecuador
 | ------- | ------------ | ------------ |
 | 1 | [Don Alfonso](http://twitter.com/search?q=Don+Alfonso) | N/A |
 | 2 | [Monteros](http://twitter.com/search?q=Monteros) | N/A |
-| 3 | [#FelizCumpleRafael](http://twitter.com/search?q=%23FelizCumpleRafael) | N/A |
-| 4 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
+| 3 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
+| 4 | [#FelizCumpleRafael](http://twitter.com/search?q=%23FelizCumpleRafael) | N/A |
 | 5 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 6 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 7 | [Alejandra Jaramillo](http://twitter.com/search?q=Alejandra+Jaramillo) | N/A |
+| 6 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
+| 7 | [alejandra jaramillo](http://twitter.com/search?q=alejandra+jaramillo) | N/A |
 | 8 | [mar en premios rem](http://twitter.com/search?q=mar+en+premios+rem) | N/A |
-| 9 | [Televistazo](http://twitter.com/search?q=Televistazo) | N/A |
-| 10 | [Ecuavisa](http://twitter.com/search?q=Ecuavisa) | N/A |
-| 11 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 12 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 13 | [quitumbe](http://twitter.com/search?q=quitumbe) | N/A |
+| 9 | [Ecuavisa](http://twitter.com/search?q=Ecuavisa) | N/A |
+| 10 | [Televistazo](http://twitter.com/search?q=Televistazo) | N/A |
+| 11 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 12 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 13 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 14 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 15 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 15 | [Quitumbe](http://twitter.com/search?q=Quitumbe) | N/A |
 | 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 17 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
-| 18 | [andreina nominada x heat](http://twitter.com/search?q=andreina+nominada+x+heat) | N/A |
-| 19 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
-| 20 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
+| 18 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 19 | [andreina nominada x heat](http://twitter.com/search?q=andreina+nominada+x+heat) | N/A |
+| 20 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
 | 21 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 22 | [Feliz Cumpleaños](http://twitter.com/search?q=Feliz+Cumplea%c3%b1os) | N/A |
-| 23 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
-| 24 | [díaz](http://twitter.com/search?q=d%c3%adaz) | N/A |
-| 25 | [VelASCO](http://twitter.com/search?q=VelASCO) | N/A |
+| 22 | [feliz cumpleaños](http://twitter.com/search?q=feliz+cumplea%c3%b1os) | N/A |
+| 23 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
+| 24 | [Cristo del Consuelo](http://twitter.com/search?q=Cristo+del+Consuelo) | N/A |
+| 25 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
 | 26 | [río Pita](http://twitter.com/search?q=r%c3%ado+Pita) | N/A |
 | 27 | [Piñatares](http://twitter.com/search?q=Pi%c3%b1atares) | N/A |
 | 28 | [titi ortiz](http://twitter.com/search?q=titi+ortiz) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for Ecuador
 | 30 | [carabali](http://twitter.com/search?q=carabali) | N/A |
 | 31 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 | 32 | [erick castillo](http://twitter.com/search?q=erick+castillo) | N/A |
-| 33 | [tsáchilas](http://twitter.com/search?q=ts%c3%a1chilas) | N/A |
-| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 35 | [desarrollo y la paz](http://twitter.com/search?q=desarrollo+y+la+paz) | N/A |
-| 36 | [Isaías](http://twitter.com/search?q=Isa%c3%adas) | N/A |
-| 37 | [día internacional del deporte](http://twitter.com/search?q=d%c3%ada+internacional+del+deporte) | N/A |
-| 38 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 39 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
-| 40 | [Valle de Los Chillos](http://twitter.com/search?q=Valle+de+Los+Chillos) | N/A |
-| 41 | [Nirvana](http://twitter.com/search?q=Nirvana) | N/A |
-| 42 | [2 OUT TODAY](http://twitter.com/search?q=2+OUT+TODAY) | N/A |
-| 43 | [san josé de zapata](http://twitter.com/search?q=san+jos%c3%a9+de+zapata) | N/A |
-| 44 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 45 | [fabricio correa](http://twitter.com/search?q=fabricio+correa) | N/A |
-| 46 | [este 6](http://twitter.com/search?q=este+6) | N/A |
-| 47 | [portocarrero](http://twitter.com/search?q=portocarrero) | N/A |
-| 48 | [Danubio](http://twitter.com/search?q=Danubio) | N/A |
-| 49 | [San Rafael](http://twitter.com/search?q=San+Rafael) | N/A |
-| 50 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
+| 33 | [Desarrollo y la Paz](http://twitter.com/search?q=Desarrollo+y+la+Paz) | N/A |
+| 34 | [Terrorismo](http://twitter.com/search?q=Terrorismo) | N/A |
+| 35 | [Isaías](http://twitter.com/search?q=Isa%c3%adas) | N/A |
+| 36 | [Día Internacional del Deporte](http://twitter.com/search?q=D%c3%ada+Internacional+del+Deporte) | N/A |
+| 37 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 38 | [emelec](http://twitter.com/search?q=emelec) | N/A |
+| 39 | [Valle de Los Chillos](http://twitter.com/search?q=Valle+de+Los+Chillos) | N/A |
+| 40 | [2 OUT TODAY](http://twitter.com/search?q=2+OUT+TODAY) | N/A |
+| 41 | [san josé de zapata](http://twitter.com/search?q=san+jos%c3%a9+de+zapata) | N/A |
+| 42 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 43 | [fabricio correa](http://twitter.com/search?q=fabricio+correa) | N/A |
+| 44 | [este 6](http://twitter.com/search?q=este+6) | N/A |
+| 45 | [portocarrero](http://twitter.com/search?q=portocarrero) | N/A |
+| 46 | [Danubio](http://twitter.com/search?q=Danubio) | N/A |
+| 47 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
+| 48 | [macará](http://twitter.com/search?q=macar%c3%a1) | N/A |
+| 49 | [pelirroja](http://twitter.com/search?q=pelirroja) | N/A |
+| 50 | [Posta](http://twitter.com/search?q=Posta) | N/A |
 
 
 

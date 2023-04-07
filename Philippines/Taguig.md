@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-04-07 11:16:49 UTC`
+📆 Last Updated: `2023-04-07 12:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,46 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 2 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 3 | [#JISOOwithYOUNGJI](http://twitter.com/search?q=%23JISOOwithYOUNGJI) | N/A |
-| 4 | [#마크가_말아주는_골든아워](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%ea%b0%80_%eb%a7%90%ec%95%84%ec%a3%bc%eb%8a%94_%ea%b3%a8%eb%93%a0%ec%95%84%ec%9b%8c) | N/A |
-| 5 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 6 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 7 | [#LikeCrazy4thWin](http://twitter.com/search?q=%23LikeCrazy4thWin) | N/A |
-| 8 | [#PLUUS_1MViews](http://twitter.com/search?q=%23PLUUS_1MViews) | N/A |
-| 9 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 10 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 11 | [DJ SUGA](http://twitter.com/search?q=DJ+SUGA) | N/A |
-| 12 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
-| 13 | [#NCTLAB](http://twitter.com/search?q=%23NCTLAB) | N/A |
-| 14 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
-| 15 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 16 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 17 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 18 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 19 | [Biyernes Santo](http://twitter.com/search?q=Biyernes+Santo) | N/A |
-| 20 | [Apink](http://twitter.com/search?q=Apink) | N/A |
-| 21 | [Binignit](http://twitter.com/search?q=Binignit) | N/A |
-| 22 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 23 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 24 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 25 | [Baeksang](http://twitter.com/search?q=Baeksang) | N/A |
-| 26 | [park jihoon](http://twitter.com/search?q=park+jihoon) | N/A |
-| 27 | [#LeeDaIn](http://twitter.com/search?q=%23LeeDaIn) | N/A |
-| 28 | [#JENLISA](http://twitter.com/search?q=%23JENLISA) | N/A |
-| 29 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
-| 30 | [#weareoneEXO](http://twitter.com/search?q=%23weareoneEXO) | N/A |
-| 31 | [#NCT127](http://twitter.com/search?q=%23NCT127) | N/A |
-| 32 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
-| 33 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 34 | [#TheJuansEscapeRoom](http://twitter.com/search?q=%23TheJuansEscapeRoom) | N/A |
-| 35 | [#FreenBecky](http://twitter.com/search?q=%23FreenBecky) | N/A |
+| 1 | [#NETIZENSREPORT](http://twitter.com/search?q=%23NETIZENSREPORT) | N/A |
+| 2 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 3 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 4 | [#JISOOwithYOUNGJI](http://twitter.com/search?q=%23JISOOwithYOUNGJI) | N/A |
+| 5 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
+| 6 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 7 | [#마크가_말아주는_골든아워](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%ea%b0%80_%eb%a7%90%ec%95%84%ec%a3%bc%eb%8a%94_%ea%b3%a8%eb%93%a0%ec%95%84%ec%9b%8c) | N/A |
+| 8 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
+| 9 | [#JinnysKitchenEp7](http://twitter.com/search?q=%23JinnysKitchenEp7) | N/A |
+| 10 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 11 | [The Inner Man](http://twitter.com/search?q=The+Inner+Man) | N/A |
+| 12 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 13 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 14 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 15 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
+| 16 | [DJ SUGA](http://twitter.com/search?q=DJ+SUGA) | N/A |
+| 17 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
+| 18 | [Jenlisa](http://twitter.com/search?q=Jenlisa) | N/A |
+| 19 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 20 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 21 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 22 | [Biyernes Santo](http://twitter.com/search?q=Biyernes+Santo) | N/A |
+| 23 | [Binignit](http://twitter.com/search?q=Binignit) | N/A |
+| 24 | [Apink](http://twitter.com/search?q=Apink) | N/A |
+| 25 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 26 | [Hesus](http://twitter.com/search?q=Hesus) | N/A |
+| 27 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 28 | [#TaehyungOnJinnysKitchen](http://twitter.com/search?q=%23TaehyungOnJinnysKitchen) | N/A |
+| 29 | [#LikeCrazy4thWin](http://twitter.com/search?q=%23LikeCrazy4thWin) | N/A |
+| 30 | [#PLUUS_1MViews](http://twitter.com/search?q=%23PLUUS_1MViews) | N/A |
+| 31 | [#LeeDaIn](http://twitter.com/search?q=%23LeeDaIn) | N/A |
+| 32 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 33 | [#weareoneEXO](http://twitter.com/search?q=%23weareoneEXO) | N/A |
+| 34 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
+| 35 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
 | 36 | [#MHMA2023FELIPSUSON](http://twitter.com/search?q=%23MHMA2023FELIPSUSON) | N/A |
-| 37 | [#DONBELLEmpire](http://twitter.com/search?q=%23DONBELLEmpire) | N/A |
-| 38 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 39 | [#NETIZENSREPORT](http://twitter.com/search?q=%23NETIZENSREPORT) | N/A |
-| 40 | [#HORI7ON_with_us](http://twitter.com/search?q=%23HORI7ON_with_us) | N/A |
-| 41 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
-| 42 | [#AgustDxIU](http://twitter.com/search?q=%23AgustDxIU) | N/A |
-| 43 | [#beckysangles](http://twitter.com/search?q=%23beckysangles) | N/A |
+| 37 | [#TheJuansEscapeRoom](http://twitter.com/search?q=%23TheJuansEscapeRoom) | N/A |
+| 38 | [#DONBELLEmpire](http://twitter.com/search?q=%23DONBELLEmpire) | N/A |
+| 39 | [#HORI7ON_with_us](http://twitter.com/search?q=%23HORI7ON_with_us) | N/A |
+| 40 | [#beckysangles](http://twitter.com/search?q=%23beckysangles) | N/A |
 
 
 

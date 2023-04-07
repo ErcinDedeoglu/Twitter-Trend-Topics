@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-04-07 11:17:04 UTC`
+📆 Last Updated: `2023-04-07 12:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 2 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 3 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 4 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 5 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 6 | [#Wordle657](http://twitter.com/search?q=%23Wordle657) | N/A |
-| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 8 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
-| 9 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
-| 10 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 11 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
-| 12 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
-| 13 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 14 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 15 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 16 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 17 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 1 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 2 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 4 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
+| 5 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
+| 6 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 7 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
+| 8 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 9 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
+| 10 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 11 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 13 | [Hera](http://twitter.com/search?q=Hera) | N/A |
+| 14 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 15 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 16 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 17 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
 | 18 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 19 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
-| 20 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 21 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 22 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 23 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 24 | [Jenner](http://twitter.com/search?q=Jenner) | N/A |
-| 25 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 26 | [Farmer](http://twitter.com/search?q=Farmer) | N/A |
-| 27 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
-| 28 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 29 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 30 | [Effie](http://twitter.com/search?q=Effie) | N/A |
-| 31 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
-| 32 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 33 | [Neil](http://twitter.com/search?q=Neil) | N/A |
-| 34 | [Easter Weekend](http://twitter.com/search?q=Easter+Weekend) | N/A |
-| 35 | [Jesus is Lord](http://twitter.com/search?q=Jesus+is+Lord) | N/A |
-| 36 | [Bulma](http://twitter.com/search?q=Bulma) | N/A |
-| 37 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
-| 38 | [Insurrectionists](http://twitter.com/search?q=Insurrectionists) | N/A |
-| 39 | [Mercenaries](http://twitter.com/search?q=Mercenaries) | N/A |
-| 40 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 41 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
-| 42 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 43 | [Racists](http://twitter.com/search?q=Racists) | N/A |
-| 44 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
-| 45 | [Motley Crue](http://twitter.com/search?q=Motley+Crue) | N/A |
-| 46 | [John Lewis](http://twitter.com/search?q=John+Lewis) | N/A |
-| 47 | [Scott Walker](http://twitter.com/search?q=Scott+Walker) | N/A |
-| 48 | [Klan](http://twitter.com/search?q=Klan) | N/A |
-| 49 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
-| 50 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 19 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 20 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 21 | [Old Republic](http://twitter.com/search?q=Old+Republic) | N/A |
+| 22 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
+| 23 | [Saving Women's Sports](http://twitter.com/search?q=Saving+Women%27s+Sports) | N/A |
+| 24 | [Jedi Order](http://twitter.com/search?q=Jedi+Order) | N/A |
+| 25 | [San Francisco State](http://twitter.com/search?q=San+Francisco+State) | N/A |
+| 26 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 27 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
+| 28 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
+| 29 | [Happy Home Opener](http://twitter.com/search?q=Happy+Home+Opener) | N/A |
+| 30 | [Billie Holiday](http://twitter.com/search?q=Billie+Holiday) | N/A |
+| 31 | [Farmer](http://twitter.com/search?q=Farmer) | N/A |
+| 32 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 33 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 34 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 35 | [Lucasfilm](http://twitter.com/search?q=Lucasfilm) | N/A |
+| 36 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 37 | [Jenner](http://twitter.com/search?q=Jenner) | N/A |
+| 38 | [Calvary](http://twitter.com/search?q=Calvary) | N/A |
+| 39 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
+| 40 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 41 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 42 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 43 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
+| 44 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
+| 45 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 46 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 47 | [But He](http://twitter.com/search?q=But+He) | N/A |
+| 48 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
+| 49 | [Billions](http://twitter.com/search?q=Billions) | N/A |
+| 50 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
 
 
 

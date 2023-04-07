@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-04-07 11:17:07 UTC`
+📆 Last Updated: `2023-04-07 12:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [#dbacks](http://twitter.com/search?q=%23dbacks) | N/A |
 | 4 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
 | 5 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 6 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 7 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 8 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 9 | [#Wordle657](http://twitter.com/search?q=%23Wordle657) | N/A |
-| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
-| 12 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
-| 13 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
-| 14 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
-| 15 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 16 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 17 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 18 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 19 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 20 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 21 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
-| 22 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 23 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 24 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 25 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 26 | [Jenner](http://twitter.com/search?q=Jenner) | N/A |
-| 27 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 28 | [Farmer](http://twitter.com/search?q=Farmer) | N/A |
-| 29 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
-| 30 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 31 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 32 | [Effie](http://twitter.com/search?q=Effie) | N/A |
-| 33 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
-| 34 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 35 | [Neil](http://twitter.com/search?q=Neil) | N/A |
-| 36 | [Easter Weekend](http://twitter.com/search?q=Easter+Weekend) | N/A |
-| 37 | [Jesus is Lord](http://twitter.com/search?q=Jesus+is+Lord) | N/A |
-| 38 | [Bulma](http://twitter.com/search?q=Bulma) | N/A |
-| 39 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
-| 40 | [Insurrectionists](http://twitter.com/search?q=Insurrectionists) | N/A |
-| 41 | [Mercenaries](http://twitter.com/search?q=Mercenaries) | N/A |
-| 42 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 43 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
-| 44 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 45 | [Racists](http://twitter.com/search?q=Racists) | N/A |
-| 46 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
-| 47 | [Motley Crue](http://twitter.com/search?q=Motley+Crue) | N/A |
-| 48 | [John Lewis](http://twitter.com/search?q=John+Lewis) | N/A |
-| 49 | [Scott Walker](http://twitter.com/search?q=Scott+Walker) | N/A |
-| 50 | [Klan](http://twitter.com/search?q=Klan) | N/A |
+| 6 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
+| 7 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
+| 8 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 9 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
+| 10 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
+| 11 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 12 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 13 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 14 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 15 | [Hera](http://twitter.com/search?q=Hera) | N/A |
+| 16 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 17 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 18 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 19 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 20 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 21 | [Old Republic](http://twitter.com/search?q=Old+Republic) | N/A |
+| 22 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 23 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
+| 24 | [Saving Women's Sports](http://twitter.com/search?q=Saving+Women%27s+Sports) | N/A |
+| 25 | [Jedi Order](http://twitter.com/search?q=Jedi+Order) | N/A |
+| 26 | [San Francisco State](http://twitter.com/search?q=San+Francisco+State) | N/A |
+| 27 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 28 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
+| 29 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
+| 30 | [Happy Home Opener](http://twitter.com/search?q=Happy+Home+Opener) | N/A |
+| 31 | [Farmer](http://twitter.com/search?q=Farmer) | N/A |
+| 32 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 33 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 34 | [Billie Holiday](http://twitter.com/search?q=Billie+Holiday) | N/A |
+| 35 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 36 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 37 | [Jenner](http://twitter.com/search?q=Jenner) | N/A |
+| 38 | [Lucasfilm](http://twitter.com/search?q=Lucasfilm) | N/A |
+| 39 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
+| 40 | [SOMI](http://twitter.com/search?q=SOMI) | N/A |
+| 41 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 42 | [Calvary](http://twitter.com/search?q=Calvary) | N/A |
+| 43 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
+| 44 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
+| 45 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 46 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
+| 47 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 48 | [But He](http://twitter.com/search?q=But+He) | N/A |
+| 49 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 50 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
 
 
 

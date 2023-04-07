@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-04-07 11:16:44 UTC`
+📆 Last Updated: `2023-04-07 12:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
-| 2 | [#NRLCowboysDolphins](http://twitter.com/search?q=%23NRLCowboysDolphins) | N/A |
-| 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 4 | [#AFLNorthBlues](http://twitter.com/search?q=%23AFLNorthBlues) | N/A |
-| 5 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 6 | [#NRLBulldogsSouths](http://twitter.com/search?q=%23NRLBulldogsSouths) | N/A |
-| 7 | [#AFLLionsPies](http://twitter.com/search?q=%23AFLLionsPies) | N/A |
+| 1 | [#NRLCowboysDolphins](http://twitter.com/search?q=%23NRLCowboysDolphins) | N/A |
+| 2 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 3 | [#AFLNorthBlues](http://twitter.com/search?q=%23AFLNorthBlues) | N/A |
+| 4 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 5 | [#NRLBulldogsSouths](http://twitter.com/search?q=%23NRLBulldogsSouths) | N/A |
+| 6 | [#AFLLionsPies](http://twitter.com/search?q=%23AFLLionsPies) | N/A |
+| 7 | [#redvbru](http://twitter.com/search?q=%23redvbru) | N/A |
 | 8 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 9 | [#REDvBRU](http://twitter.com/search?q=%23REDvBRU) | N/A |
-| 10 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 9 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 10 | [NDIS](http://twitter.com/search?q=NDIS) | N/A |
 | 11 | [Noel Pearson](http://twitter.com/search?q=Noel+Pearson) | N/A |
-| 12 | [NDIS](http://twitter.com/search?q=NDIS) | N/A |
-| 13 | [Zurhaar](http://twitter.com/search?q=Zurhaar) | N/A |
-| 14 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
-| 15 | [Isaako](http://twitter.com/search?q=Isaako) | N/A |
-| 16 | [mckay](http://twitter.com/search?q=mckay) | N/A |
-| 17 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
-| 18 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 19 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 20 | [Daicos](http://twitter.com/search?q=Daicos) | N/A |
-| 21 | [Canberra Voice](http://twitter.com/search?q=Canberra+Voice) | N/A |
+| 12 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
+| 13 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
+| 14 | [Wayne Bennett](http://twitter.com/search?q=Wayne+Bennett) | N/A |
+| 15 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 16 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 17 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 18 | [Daicos](http://twitter.com/search?q=Daicos) | N/A |
+| 19 | [Hammer](http://twitter.com/search?q=Hammer) | N/A |
+| 20 | [Canberra Voice](http://twitter.com/search?q=Canberra+Voice) | N/A |
+| 21 | [Sheezel](http://twitter.com/search?q=Sheezel) | N/A |
 | 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 23 | [Curnow](http://twitter.com/search?q=Curnow) | N/A |
-| 24 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
-| 25 | [Sheezel](http://twitter.com/search?q=Sheezel) | N/A |
+| 23 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 24 | [McKay](http://twitter.com/search?q=McKay) | N/A |
+| 25 | [Cripps](http://twitter.com/search?q=Cripps) | N/A |
 | 26 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 27 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
-| 28 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
-| 29 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
-| 30 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 31 | [Bethany](http://twitter.com/search?q=Bethany) | N/A |
-| 32 | [Umpires](http://twitter.com/search?q=Umpires) | N/A |
-| 33 | [Josh Reynolds](http://twitter.com/search?q=Josh+Reynolds) | N/A |
-| 34 | [Drinkwater](http://twitter.com/search?q=Drinkwater) | N/A |
-| 35 | [Acres](http://twitter.com/search?q=Acres) | N/A |
-| 36 | [McGovern](http://twitter.com/search?q=McGovern) | N/A |
-| 37 | [Marvel Stadium](http://twitter.com/search?q=Marvel+Stadium) | N/A |
-| 38 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
-| 39 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 40 | [Radley](http://twitter.com/search?q=Radley) | N/A |
-| 41 | [Fisher](http://twitter.com/search?q=Fisher) | N/A |
+| 27 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
+| 28 | [Australians](http://twitter.com/search?q=Australians) | N/A |
+| 29 | [Charlie Curnow](http://twitter.com/search?q=Charlie+Curnow) | N/A |
+| 30 | [Isaako](http://twitter.com/search?q=Isaako) | N/A |
+| 31 | [Zurhaar](http://twitter.com/search?q=Zurhaar) | N/A |
+| 32 | [Bethany](http://twitter.com/search?q=Bethany) | N/A |
+| 33 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
+| 34 | [Brenton Speed](http://twitter.com/search?q=Brenton+Speed) | N/A |
+| 35 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
+| 36 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 37 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 38 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 39 | [Holmes](http://twitter.com/search?q=Holmes) | N/A |
+| 40 | [Cows](http://twitter.com/search?q=Cows) | N/A |
+| 41 | [Radley](http://twitter.com/search?q=Radley) | N/A |
 | 42 | [James Morrow](http://twitter.com/search?q=James+Morrow) | N/A |
-| 43 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
-| 44 | [Marxism](http://twitter.com/search?q=Marxism) | N/A |
-| 45 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 46 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
-| 47 | [Campbell Graham](http://twitter.com/search?q=Campbell+Graham) | N/A |
-| 48 | [Burton](http://twitter.com/search?q=Burton) | N/A |
-| 49 | [Ralphy](http://twitter.com/search?q=Ralphy) | N/A |
-| 50 | [Cody Walker](http://twitter.com/search?q=Cody+Walker) | N/A |
+| 43 | [Brumbies](http://twitter.com/search?q=Brumbies) | N/A |
+| 44 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 45 | [Drinkwater](http://twitter.com/search?q=Drinkwater) | N/A |
+| 46 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 47 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 48 | [Fisher](http://twitter.com/search?q=Fisher) | N/A |
+| 49 | [Burton](http://twitter.com/search?q=Burton) | N/A |
+| 50 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
 
 
 

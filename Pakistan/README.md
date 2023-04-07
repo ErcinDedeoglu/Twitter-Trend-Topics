@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-04-07 11:17:15 UTC`
+📆 Last Updated: `2023-04-07 12:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,50 @@ This is top 50 for Pakistan
 | 4 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 5 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
 | 6 | [#JummahMubarak](http://twitter.com/search?q=%23JummahMubarak) | N/A |
-| 7 | [Aleem Dar](http://twitter.com/search?q=Aleem+Dar) | Aleem Dar is a Pakistani cricket umpire. The name Aleem Dar is derived from the Arabic word for “knowledgeable” or “wise”. In English, Aleem Dar means “wise one” or “learned one”. |
-| 8 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 9 | [Gulzar Imam](http://twitter.com/search?q=Gulzar+Imam) | N/A |
-| 10 | [Shaheen shah afridi](http://twitter.com/search?q=Shaheen+shah+afridi) | N/A |
-| 11 | [Hezbollah](http://twitter.com/search?q=Hezbollah) | N/A |
-| 12 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
-| 13 | [Zionists](http://twitter.com/search?q=Zionists) | N/A |
-| 14 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
-| 15 | [Blessed Friday](http://twitter.com/search?q=Blessed+Friday) | N/A |
-| 16 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
-| 17 | [Twitter Form](http://twitter.com/search?q=Twitter+Form) | N/A |
-| 18 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 19 | [Isreal](http://twitter.com/search?q=Isreal) | N/A |
-| 20 | [Khilafah](http://twitter.com/search?q=Khilafah) | N/A |
-| 21 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 7 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 8 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 9 | [Rehan bhai](http://twitter.com/search?q=Rehan+bhai) | N/A |
+| 10 | [Justice Athar Minallah](http://twitter.com/search?q=Justice+Athar+Minallah) | N/A |
+| 11 | [Aleem Dar](http://twitter.com/search?q=Aleem+Dar) | Aleem Dar is a Pakistani cricket umpire. The name Aleem Dar is derived from the Arabic word for “knowledgeable” or “wise”. In English, Aleem Dar means “wise one” or “learned one”. |
+| 12 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 13 | [Gulzar Imam](http://twitter.com/search?q=Gulzar+Imam) | N/A |
+| 14 | [BOL News](http://twitter.com/search?q=BOL+News) | N/A |
+| 15 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 16 | [Bandial](http://twitter.com/search?q=Bandial) | N/A |
+| 17 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 18 | [Blessed Friday](http://twitter.com/search?q=Blessed+Friday) | N/A |
+| 19 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
+| 20 | [Twitter Form](http://twitter.com/search?q=Twitter+Form) | N/A |
+| 21 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
 | 22 | [daewoo](http://twitter.com/search?q=daewoo) | N/A |
-| 23 | [Iris](http://twitter.com/search?q=Iris) | N/A |
-| 24 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 25 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 26 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
-| 27 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 28 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 29 | [Political](http://twitter.com/search?q=Political) | N/A |
-| 30 | [Bestie](http://twitter.com/search?q=Bestie) | N/A |
-| 31 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 32 | [National Security Committee](http://twitter.com/search?q=National+Security+Committee) | N/A |
-| 33 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
-| 34 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 35 | [Surah](http://twitter.com/search?q=Surah) | N/A |
+| 23 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
+| 24 | [Political](http://twitter.com/search?q=Political) | N/A |
+| 25 | [Iris](http://twitter.com/search?q=Iris) | N/A |
+| 26 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 27 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 28 | [Sialkot](http://twitter.com/search?q=Sialkot) | N/A |
+| 29 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
+| 30 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 31 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 32 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 33 | [Roza](http://twitter.com/search?q=Roza) | N/A |
+| 34 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
+| 35 | [quetta](http://twitter.com/search?q=quetta) | N/A |
 | 36 | [Confirm](http://twitter.com/search?q=Confirm) | N/A |
-| 37 | [HMU in DM](http://twitter.com/search?q=HMU+in+DM) | N/A |
-| 38 | [Shop Now](http://twitter.com/search?q=Shop+Now) | N/A |
-| 39 | [Sialkot](http://twitter.com/search?q=Sialkot) | N/A |
-| 40 | [My God](http://twitter.com/search?q=My+God) | N/A |
-| 41 | [Salam](http://twitter.com/search?q=Salam) | N/A |
-| 42 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
-| 43 | [Muhammad](http://twitter.com/search?q=Muhammad) | N/A |
-| 44 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 45 | [#Palestine](http://twitter.com/search?q=%23Palestine) | N/A |
-| 46 | [#Palestine](http://twitter.com/search?q=%23Palestine) | N/A |
-| 47 | [#AlAqsaCallsMuslimArmies](http://twitter.com/search?q=%23AlAqsaCallsMuslimArmies) | N/A |
-| 48 | [#OneElectionDay](http://twitter.com/search?q=%23OneElectionDay) | N/A |
-| 49 | [#الیکشن_تو_ہوگا](http://twitter.com/search?q=%23%d8%a7%d9%84%db%8c%da%a9%d8%b4%d9%86_%d8%aa%d9%88_%db%81%d9%88%da%af%d8%a7) | N/A |
+| 37 | [hmu in dm](http://twitter.com/search?q=hmu+in+dm) | N/A |
+| 38 | [Constitutional](http://twitter.com/search?q=Constitutional) | N/A |
+| 39 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
+| 40 | [Muhammad](http://twitter.com/search?q=Muhammad) | N/A |
+| 41 | [ma sha allah](http://twitter.com/search?q=ma+sha+allah) | N/A |
+| 42 | [Hyderabad](http://twitter.com/search?q=Hyderabad) | N/A |
+| 43 | [Bhutto](http://twitter.com/search?q=Bhutto) | N/A |
+| 44 | [Shameless](http://twitter.com/search?q=Shameless) | N/A |
+| 45 | [#OneElectionDay](http://twitter.com/search?q=%23OneElectionDay) | N/A |
+| 46 | [#AlAqsaCallsMuslimArmies](http://twitter.com/search?q=%23AlAqsaCallsMuslimArmies) | N/A |
+| 47 | [#الیکشن_تو_ہوگا](http://twitter.com/search?q=%23%d8%a7%d9%84%db%8c%da%a9%d8%b4%d9%86_%d8%aa%d9%88_%db%81%d9%88%da%af%d8%a7) | N/A |
+| 48 | [#ParliamentRejects](http://twitter.com/search?q=%23ParliamentRejects) | N/A |
+| 49 | [#عمران_خان_جواب_دو](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86_%d8%ac%d9%88%d8%a7%d8%a8_%d8%af%d9%88) | N/A |
+| 50 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
 
 
 
