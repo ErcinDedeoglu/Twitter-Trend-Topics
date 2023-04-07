@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tijuana
 
-📆 Last Updated: `2023-04-07 17:16:53 UTC`
+📆 Last Updated: `2023-04-07 18:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
-| 2 | [#DíaMundialDeLaSalud](http://twitter.com/search?q=%23D%c3%adaMundialDeLaSalud) | N/A |
-| 3 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 4 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 5 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
+| 1 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 2 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 3 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
+| 4 | [#DíaMundialDeLaSalud](http://twitter.com/search?q=%23D%c3%adaMundialDeLaSalud) | N/A |
+| 5 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
 | 6 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 7 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 8 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 9 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 10 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 12 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 13 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 14 | [Candreva](http://twitter.com/search?q=Candreva) | N/A |
-| 15 | [Central de Abastos](http://twitter.com/search?q=Central+de+Abastos) | N/A |
-| 16 | [Inter de Milán](http://twitter.com/search?q=Inter+de+Mil%c3%a1n) | N/A |
-| 17 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 18 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 19 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 20 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 21 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 22 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 23 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 24 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 25 | [2 OUT TODAY](http://twitter.com/search?q=2+OUT+TODAY) | N/A |
-| 26 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
-| 27 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
-| 28 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 29 | [Coliseo de Roma](http://twitter.com/search?q=Coliseo+de+Roma) | N/A |
-| 30 | [Matehuala](http://twitter.com/search?q=Matehuala) | N/A |
-| 31 | [Caprice](http://twitter.com/search?q=Caprice) | N/A |
-| 32 | [Antonio Tarín](http://twitter.com/search?q=Antonio+Tar%c3%adn) | N/A |
-| 33 | [El 7](http://twitter.com/search?q=El+7) | N/A |
-| 34 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 35 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 36 | [Rey Skywalker](http://twitter.com/search?q=Rey+Skywalker) | N/A |
-| 37 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
-| 38 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
-| 39 | [Desarrollo y La Paz](http://twitter.com/search?q=Desarrollo+y+La+Paz) | N/A |
-| 40 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 41 | [Royo](http://twitter.com/search?q=Royo) | N/A |
-| 42 | [Hoy 7](http://twitter.com/search?q=Hoy+7) | N/A |
-| 43 | [día internacional del deporte](http://twitter.com/search?q=d%c3%ada+internacional+del+deporte) | N/A |
-| 44 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 45 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 46 | [San Luis Potosí](http://twitter.com/search?q=San+Luis+Potos%c3%ad) | N/A |
-| 47 | [Gabriela Mistral](http://twitter.com/search?q=Gabriela+Mistral) | N/A |
-| 48 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
-| 49 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 50 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 7 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 8 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 9 | [Inter de Milán](http://twitter.com/search?q=Inter+de+Mil%c3%a1n) | N/A |
+| 10 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 11 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 12 | [Candreva](http://twitter.com/search?q=Candreva) | N/A |
+| 13 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
+| 14 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 15 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 16 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 17 | [El 7](http://twitter.com/search?q=El+7) | N/A |
+| 18 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 19 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 20 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 21 | [Catedral](http://twitter.com/search?q=Catedral) | N/A |
+| 22 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 23 | [Filoni](http://twitter.com/search?q=Filoni) | N/A |
+| 24 | [Gabriela Mistral](http://twitter.com/search?q=Gabriela+Mistral) | N/A |
+| 25 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 26 | [Dresser](http://twitter.com/search?q=Dresser) | N/A |
+| 27 | [Rollo](http://twitter.com/search?q=Rollo) | N/A |
+| 28 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 29 | [Jorge Campos](http://twitter.com/search?q=Jorge+Campos) | N/A |
+| 30 | [Iztapalapa](http://twitter.com/search?q=Iztapalapa) | N/A |
+| 31 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
+| 32 | [Centro Histórico](http://twitter.com/search?q=Centro+Hist%c3%b3rico) | N/A |
+| 33 | [Matehuala](http://twitter.com/search?q=Matehuala) | N/A |
+| 34 | [Fentanilo](http://twitter.com/search?q=Fentanilo) | N/A |
+| 35 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
+| 36 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
+| 37 | [#ViaCrucis](http://twitter.com/search?q=%23ViaCrucis) | N/A |
+| 38 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
+| 39 | [#IndianaJones](http://twitter.com/search?q=%23IndianaJones) | N/A |
+| 40 | [#SerieA](http://twitter.com/search?q=%23SerieA) | N/A |
+| 41 | [#따뜻한_봄이_오는게_종현인가봐](http://twitter.com/search?q=%23%eb%94%b0%eb%9c%bb%ed%95%9c_%eb%b4%84%ec%9d%b4_%ec%98%a4%eb%8a%94%ea%b2%8c_%ec%a2%85%ed%98%84%ec%9d%b8%ea%b0%80%eb%b4%90) | N/A |
+| 42 | [#DisneyPlus](http://twitter.com/search?q=%23DisneyPlus) | N/A |
+| 43 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 44 | [#ConDelfinaNiAlaEsquina](http://twitter.com/search?q=%23ConDelfinaNiAlaEsquina) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-04-07 17:16:48 UTC`
+📆 Last Updated: `2023-04-07 18:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Clarke](http://twitter.com/search?q=Clarke) | N/A |
-| 2 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
-| 3 | [#utmp](http://twitter.com/search?q=%23utmp) | N/A |
-| 4 | [Ajayi](http://twitter.com/search?q=Ajayi) | N/A |
-| 5 | [#SCFC](http://twitter.com/search?q=%23SCFC) | N/A |
-| 6 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
-| 7 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
-| 8 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 9 | [Cardiff](http://twitter.com/search?q=Cardiff) | Cardiff is the capital and largest city of Wales. It is located in the south of the country, on the coast of the Bristol Channel. The name Cardiff comes from the Welsh language and means "fort on the river Taff". |
-| 10 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 11 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
-| 12 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 13 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
-| 14 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 15 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
-| 16 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 17 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 18 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
-| 19 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
-| 20 | [Moore](http://twitter.com/search?q=Moore) | N/A |
-| 21 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
-| 22 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 23 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
-| 24 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
-| 25 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 26 | [Morrell](http://twitter.com/search?q=Morrell) | N/A |
-| 27 | [Stockdale](http://twitter.com/search?q=Stockdale) | N/A |
-| 28 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
-| 29 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
-| 30 | [League 1](http://twitter.com/search?q=League+1) | N/A |
-| 31 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 32 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
-| 33 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 34 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
-| 35 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 36 | [Ipswich](http://twitter.com/search?q=Ipswich) | N/A |
-| 37 | [Joe Shorrocks](http://twitter.com/search?q=Joe+Shorrocks) | N/A |
-| 38 | [League One](http://twitter.com/search?q=League+One) | N/A |
-| 39 | [Town](http://twitter.com/search?q=Town) | N/A |
-| 40 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
-| 41 | [Bachmann](http://twitter.com/search?q=Bachmann) | N/A |
-| 42 | [Onto Monday](http://twitter.com/search?q=Onto+Monday) | N/A |
-| 43 | [Byers](http://twitter.com/search?q=Byers) | N/A |
-| 44 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 45 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
-| 46 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
-| 47 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 1 | [#TOTP](http://twitter.com/search?q=%23TOTP) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that uses a unique code generated by an algorithm to authenticate a user. The code is typically valid for only a short period of time, usually 30 seconds or less. |
+| 2 | [Clarke](http://twitter.com/search?q=Clarke) | N/A |
+| 3 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 4 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 5 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
+| 6 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 7 | [Hugill](http://twitter.com/search?q=Hugill) | N/A |
+| 8 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 9 | [#UTMP](http://twitter.com/search?q=%23UTMP) | N/A |
+| 10 | [Scott Munn](http://twitter.com/search?q=Scott+Munn) | N/A |
+| 11 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
+| 12 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 13 | [Sheffield Wednesday](http://twitter.com/search?q=Sheffield+Wednesday) | Sheffield Wednesday is a professional football club based in Sheffield, England. The club was founded in 1867 and currently plays in the English Football League Championship. The name "Wednesday" comes from the fact that the club was founded on a Wednesday. |
+| 14 | [Swansea](http://twitter.com/search?q=Swansea) | N/A |
+| 15 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
+| 16 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 17 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
+| 18 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 19 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 20 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 21 | [Moore](http://twitter.com/search?q=Moore) | N/A |
+| 22 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
+| 23 | [Warnock](http://twitter.com/search?q=Warnock) | N/A |
+| 24 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
+| 25 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
+| 26 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
+| 27 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 28 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 29 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
+| 30 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 31 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 32 | [Hume](http://twitter.com/search?q=Hume) | N/A |
+| 33 | [Ipswich](http://twitter.com/search?q=Ipswich) | N/A |
+| 34 | [Stockdale](http://twitter.com/search?q=Stockdale) | N/A |
+| 35 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 36 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
+| 37 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 38 | [Pozzo](http://twitter.com/search?q=Pozzo) | N/A |
+| 39 | [Gooch](http://twitter.com/search?q=Gooch) | N/A |
+| 40 | [League One](http://twitter.com/search?q=League+One) | N/A |
+| 41 | [Morrell](http://twitter.com/search?q=Morrell) | N/A |
+| 42 | [Shorrocks](http://twitter.com/search?q=Shorrocks) | N/A |
+| 43 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
+| 44 | [League 1](http://twitter.com/search?q=League+1) | N/A |
+| 45 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 46 | [Unsworth](http://twitter.com/search?q=Unsworth) | N/A |
+| 47 | [Onto Monday](http://twitter.com/search?q=Onto+Monday) | N/A |
 
 
 

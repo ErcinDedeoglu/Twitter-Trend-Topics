@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-04-07 17:17:35 UTC`
+📆 Last Updated: `2023-04-07 18:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Chile
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FranjaElectoral](http://twitter.com/search?q=%23FranjaElectoral) | N/A |
-| 2 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 3 | [#Los10MandamientosEnTVN](http://twitter.com/search?q=%23Los10MandamientosEnTVN) | N/A |
-| 4 | [#ElPartidoMasAustral](http://twitter.com/search?q=%23ElPartidoMasAustral) | N/A |
-| 5 | [Bories](http://twitter.com/search?q=Bories) | N/A |
-| 6 | [Mega](http://twitter.com/search?q=Mega) | N/A |
+| 1 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 2 | [Bories](http://twitter.com/search?q=Bories) | N/A |
+| 3 | [#ElPartidoMásAustral](http://twitter.com/search?q=%23ElPartidoM%c3%a1sAustral) | N/A |
+| 4 | [#FranjaElectoral](http://twitter.com/search?q=%23FranjaElectoral) | N/A |
+| 5 | [Mega](http://twitter.com/search?q=Mega) | N/A |
+| 6 | [Paulina de Allende](http://twitter.com/search?q=Paulina+de+Allende) | N/A |
 | 7 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 8 | [Paulina de Allende](http://twitter.com/search?q=Paulina+de+Allende) | N/A |
-| 9 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
-| 10 | [Gabriela Mistral](http://twitter.com/search?q=Gabriela+Mistral) | N/A |
-| 11 | [Puerto Natales](http://twitter.com/search?q=Puerto+Natales) | N/A |
-| 12 | [#ChileSeguro](http://twitter.com/search?q=%23ChileSeguro) | N/A |
-| 13 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
+| 8 | [#Los10MandamientosEnTVN](http://twitter.com/search?q=%23Los10MandamientosEnTVN) | N/A |
+| 9 | [Puerto Natales](http://twitter.com/search?q=Puerto+Natales) | N/A |
+| 10 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
+| 11 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
+| 12 | [#CHVNoticias](http://twitter.com/search?q=%23CHVNoticias) | N/A |
+| 13 | [Gabriela Mistral](http://twitter.com/search?q=Gabriela+Mistral) | N/A |
 | 14 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
 | 15 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 16 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 17 | [Cúcuta](http://twitter.com/search?q=C%c3%bacuta) | N/A |
-| 18 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
-| 19 | [Día Mundial de la Salud](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Salud) | N/A |
-| 20 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 21 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 22 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 23 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 24 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
-| 25 | [Moisés](http://twitter.com/search?q=Mois%c3%a9s) | N/A |
-| 26 | [Sepu](http://twitter.com/search?q=Sepu) | N/A |
-| 27 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 28 | [Roberto Cox](http://twitter.com/search?q=Roberto+Cox) | N/A |
-| 29 | [Colegio de Periodistas](http://twitter.com/search?q=Colegio+de+Periodistas) | N/A |
-| 30 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
-| 31 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
-| 32 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
-| 33 | [Premio Nobel](http://twitter.com/search?q=Premio+Nobel) | N/A |
-| 34 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 35 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 36 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
+| 16 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
+| 17 | [Puerto Montt](http://twitter.com/search?q=Puerto+Montt) | N/A |
+| 18 | [Cúcuta](http://twitter.com/search?q=C%c3%bacuta) | N/A |
+| 19 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 20 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 21 | [Hipócritas](http://twitter.com/search?q=Hip%c3%b3critas) | N/A |
+| 22 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 23 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 24 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 25 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
+| 26 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
+| 27 | [Colegio de Periodistas](http://twitter.com/search?q=Colegio+de+Periodistas) | N/A |
+| 28 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
+| 29 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
+| 30 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 31 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
+| 32 | [Yañez](http://twitter.com/search?q=Ya%c3%b1ez) | N/A |
+| 33 | [Involuntario](http://twitter.com/search?q=Involuntario) | N/A |
+| 34 | [Moisés](http://twitter.com/search?q=Mois%c3%a9s) | N/A |
+| 35 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
+| 36 | [Roberto Cox](http://twitter.com/search?q=Roberto+Cox) | N/A |
 | 37 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 38 | [Involuntario](http://twitter.com/search?q=Involuntario) | N/A |
-| 39 | [Puerto Montt](http://twitter.com/search?q=Puerto+Montt) | N/A |
-| 40 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 38 | [Mirna Schindler](http://twitter.com/search?q=Mirna+Schindler) | N/A |
+| 39 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 40 | [Hipocresía](http://twitter.com/search?q=Hipocres%c3%ada) | N/A |
 | 41 | [Ben Hur](http://twitter.com/search?q=Ben+Hur) | N/A |
-| 42 | [Diego Ibañez](http://twitter.com/search?q=Diego+Iba%c3%b1ez) | N/A |
+| 42 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
 | 43 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 44 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 45 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
-| 46 | [Estado de Excepción](http://twitter.com/search?q=Estado+de+Excepci%c3%b3n) | N/A |
-| 47 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
-| 48 | [Mirna Schindler](http://twitter.com/search?q=Mirna+Schindler) | N/A |
-| 49 | [Bachelet](http://twitter.com/search?q=Bachelet) | N/A |
-| 50 | [Hipocresía](http://twitter.com/search?q=Hipocres%c3%ada) | N/A |
+| 44 | [Bachelet](http://twitter.com/search?q=Bachelet) | N/A |
+| 45 | [Error](http://twitter.com/search?q=Error) | N/A |
+| 46 | [Diego Ibañez](http://twitter.com/search?q=Diego+Iba%c3%b1ez) | N/A |
+| 47 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 48 | [Viña del Mar](http://twitter.com/search?q=Vi%c3%b1a+del+Mar) | N/A |
+| 49 | [Matta](http://twitter.com/search?q=Matta) | N/A |
+| 50 | [Neme](http://twitter.com/search?q=Neme) | N/A |
 
 
 

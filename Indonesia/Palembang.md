@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-04-07 17:17:06 UTC`
+📆 Last Updated: `2023-04-07 18:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 10 | [MELODY OF SCENTS D1](http://twitter.com/search?q=MELODY+OF+SCENTS+D1) | N/A |
 | 11 | [yixing](http://twitter.com/search?q=yixing) | N/A |
 | 12 | [Iklan Ponds Men](http://twitter.com/search?q=Iklan+Ponds+Men) | N/A |
-| 13 | [Alea](http://twitter.com/search?q=Alea) | N/A |
-| 14 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 15 | [EXO-L](http://twitter.com/search?q=EXO-L) | N/A |
-| 16 | [Peterpan](http://twitter.com/search?q=Peterpan) | N/A |
-| 17 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 18 | [Moon Knight](http://twitter.com/search?q=Moon+Knight) | N/A |
-| 19 | [SUNWOO](http://twitter.com/search?q=SUNWOO) | N/A |
-| 20 | [Onic](http://twitter.com/search?q=Onic) | N/A |
-| 21 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 22 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 23 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
-| 24 | [SHOPEE BIG RAMADAN SALE](http://twitter.com/search?q=SHOPEE+BIG+RAMADAN+SALE) | N/A |
-| 25 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 26 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 27 | [Evos](http://twitter.com/search?q=Evos) | N/A |
-| 28 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
-| 29 | [Yoona](http://twitter.com/search?q=Yoona) | N/A |
+| 13 | [Peterpan](http://twitter.com/search?q=Peterpan) | N/A |
+| 14 | [EXO-L](http://twitter.com/search?q=EXO-L) | N/A |
+| 15 | [Alea](http://twitter.com/search?q=Alea) | N/A |
+| 16 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 17 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
+| 18 | [Loki](http://twitter.com/search?q=Loki) | N/A |
+| 19 | [jjong](http://twitter.com/search?q=jjong) | N/A |
+| 20 | [Moon Knight](http://twitter.com/search?q=Moon+Knight) | N/A |
+| 21 | [Nuzulul Qur'an](http://twitter.com/search?q=Nuzulul+Qur%27an) | N/A |
+| 22 | [SUNWOO](http://twitter.com/search?q=SUNWOO) | N/A |
+| 23 | [Onic](http://twitter.com/search?q=Onic) | N/A |
+| 24 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 25 | [SHOPEE BIG RAMADAN SALE](http://twitter.com/search?q=SHOPEE+BIG+RAMADAN+SALE) | N/A |
+| 26 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 27 | [BEAUTY MYSTERY BOX](http://twitter.com/search?q=BEAUTY+MYSTERY+BOX) | N/A |
+| 28 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 29 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
 | 30 | [Jan Ethes](http://twitter.com/search?q=Jan+Ethes) | N/A |
-| 31 | [Sepupu](http://twitter.com/search?q=Sepupu) | N/A |
-| 32 | [#따뜻한_봄이_오는게_종현인가봐](http://twitter.com/search?q=%23%eb%94%b0%eb%9c%bb%ed%95%9c_%eb%b4%84%ec%9d%b4_%ec%98%a4%eb%8a%94%ea%b2%8c_%ec%a2%85%ed%98%84%ec%9d%b8%ea%b0%80%eb%b4%90) | N/A |
+| 31 | [#따뜻한_봄이_오는게_종현인가봐](http://twitter.com/search?q=%23%eb%94%b0%eb%9c%bb%ed%95%9c_%eb%b4%84%ec%9d%b4_%ec%98%a4%eb%8a%94%ea%b2%8c_%ec%a2%85%ed%98%84%ec%9d%b8%ea%b0%80%eb%b4%90) | N/A |
+| 32 | [#aBossandaBabeEP6](http://twitter.com/search?q=%23aBossandaBabeEP6) | N/A |
 | 33 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
-| 34 | [#aBossandaBabeEP6](http://twitter.com/search?q=%23aBossandaBabeEP6) | N/A |
-| 35 | [#LAY11thDebutAnniv](http://twitter.com/search?q=%23LAY11thDebutAnniv) | N/A |
-| 36 | [#DOJAEJUNG_TheoryOfLove](http://twitter.com/search?q=%23DOJAEJUNG_TheoryOfLove) | N/A |
-| 37 | [#JONGHYUN](http://twitter.com/search?q=%23JONGHYUN) | N/A |
-| 38 | [#YumeLokalIntro](http://twitter.com/search?q=%23YumeLokalIntro) | N/A |
-| 39 | [#TaxiDriver2Ep13](http://twitter.com/search?q=%23TaxiDriver2Ep13) | N/A |
+| 34 | [#LAY11thDebutAnniv](http://twitter.com/search?q=%23LAY11thDebutAnniv) | N/A |
+| 35 | [#DOJAEJUNG_TheoryOfLove](http://twitter.com/search?q=%23DOJAEJUNG_TheoryOfLove) | N/A |
+| 36 | [#TaxiDriver2Ep13](http://twitter.com/search?q=%23TaxiDriver2Ep13) | N/A |
+| 37 | [#YumeLokalIntro](http://twitter.com/search?q=%23YumeLokalIntro) | N/A |
+| 38 | [#WhatsUpBIU](http://twitter.com/search?q=%23WhatsUpBIU) | N/A |
+| 39 | [#SHINee](http://twitter.com/search?q=%23SHINee) | N/A |
 | 40 | [#LeeSeungGi](http://twitter.com/search?q=%23LeeSeungGi) | N/A |
-| 41 | [#WhatsUpBIU](http://twitter.com/search?q=%23WhatsUpBIU) | N/A |
-| 42 | [#SHINee](http://twitter.com/search?q=%23SHINee) | N/A |
-| 43 | [#nuzululquran](http://twitter.com/search?q=%23nuzululquran) | N/A |
-| 44 | [#AnterajaAdel](http://twitter.com/search?q=%23AnterajaAdel) | N/A |
-| 45 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
-| 46 | [#PerthChimon](http://twitter.com/search?q=%23PerthChimon) | N/A |
-| 47 | [#HariIniBelanjadiShopee](http://twitter.com/search?q=%23HariIniBelanjadiShopee) | N/A |
-| 48 | [#PromoGajianTerbesar](http://twitter.com/search?q=%23PromoGajianTerbesar) | N/A |
-| 49 | [#JinnysKitchenEp7](http://twitter.com/search?q=%23JinnysKitchenEp7) | N/A |
-| 50 | [#GratisOngkirSuperDahsyat](http://twitter.com/search?q=%23GratisOngkirSuperDahsyat) | N/A |
+| 41 | [#AnterajaAdel](http://twitter.com/search?q=%23AnterajaAdel) | N/A |
+| 42 | [#JISOOwithYOUNGJI](http://twitter.com/search?q=%23JISOOwithYOUNGJI) | N/A |
+| 43 | [#PerthChimon](http://twitter.com/search?q=%23PerthChimon) | N/A |
+| 44 | [#PromoGajianTerbesar](http://twitter.com/search?q=%23PromoGajianTerbesar) | N/A |
+| 45 | [#GratisOngkirSuperDahsyat](http://twitter.com/search?q=%23GratisOngkirSuperDahsyat) | N/A |
+| 46 | [#HariIniBelanjadiShopee](http://twitter.com/search?q=%23HariIniBelanjadiShopee) | N/A |
+| 47 | [#SECRET_NUMBER](http://twitter.com/search?q=%23SECRET_NUMBER) | N/A |
+| 48 | [#PakaiMolis](http://twitter.com/search?q=%23PakaiMolis) | N/A |
+| 49 | [#LeeDaIn](http://twitter.com/search?q=%23LeeDaIn) | N/A |
+| 50 | [#D1_EXOAnniversary](http://twitter.com/search?q=%23D1_EXOAnniversary) | N/A |
 
 
 

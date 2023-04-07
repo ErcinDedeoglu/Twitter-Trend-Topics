@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-04-07 17:17:27 UTC`
+📆 Last Updated: `2023-04-07 18:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 2 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 3 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 4 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 5 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
-| 6 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 1 | [TEMU](http://twitter.com/search?q=TEMU) | N/A |
+| 2 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 4 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 5 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 6 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
 | 7 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 8 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 9 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 10 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
+| 8 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 9 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 11 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 12 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 13 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 14 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 15 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 16 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 17 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
-| 18 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 19 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 20 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
-| 21 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 22 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 23 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 24 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
-| 25 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 26 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
-| 27 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
-| 28 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
-| 29 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
-| 30 | [John Boyega](http://twitter.com/search?q=John+Boyega) | N/A |
-| 31 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 32 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 33 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 12 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
+| 13 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 14 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
+| 15 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 16 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 17 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 18 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
+| 19 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
+| 20 | [Laura Loomer](http://twitter.com/search?q=Laura+Loomer) | N/A |
+| 21 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 22 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 23 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 24 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 25 | [Edward Cabrera](http://twitter.com/search?q=Edward+Cabrera) | N/A |
+| 26 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
+| 27 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 28 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 29 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 30 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 31 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
+| 32 | [Hera](http://twitter.com/search?q=Hera) | N/A |
+| 33 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
 | 34 | [Advised](http://twitter.com/search?q=Advised) | N/A |
-| 35 | [Tiny Desk](http://twitter.com/search?q=Tiny+Desk) | N/A |
-| 36 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 37 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
-| 38 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
-| 39 | [SFSU](http://twitter.com/search?q=SFSU) | N/A |
-| 40 | [Sheriff Billy Woods](http://twitter.com/search?q=Sheriff+Billy+Woods) | N/A |
-| 41 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
-| 42 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
-| 43 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 44 | [Old Republic](http://twitter.com/search?q=Old+Republic) | N/A |
-| 45 | [Chopper](http://twitter.com/search?q=Chopper) | N/A |
-| 46 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
-| 47 | [Ben Solo](http://twitter.com/search?q=Ben+Solo) | N/A |
-| 48 | [Jalen Cook](http://twitter.com/search?q=Jalen+Cook) | N/A |
-| 49 | [Rise of Skywalker](http://twitter.com/search?q=Rise+of+Skywalker) | N/A |
-| 50 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 35 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
+| 36 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
+| 37 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
+| 38 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
+| 39 | [jjong](http://twitter.com/search?q=jjong) | N/A |
+| 40 | [Nido](http://twitter.com/search?q=Nido) | N/A |
+| 41 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 42 | [Vogelbach](http://twitter.com/search?q=Vogelbach) | N/A |
+| 43 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 44 | [Tiny Desk](http://twitter.com/search?q=Tiny+Desk) | N/A |
+| 45 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
+| 46 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
+| 47 | [Sol Blume](http://twitter.com/search?q=Sol+Blume) | N/A |
+| 48 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
+| 49 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 50 | [John Boyega](http://twitter.com/search?q=John+Boyega) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-07 17:17:41 UTC`
+📆 Last Updated: `2023-04-07 18:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Switzerland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 2 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 3 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 4 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 2 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 3 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
+| 4 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
 | 5 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 6 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 7 | [Gotthard](http://twitter.com/search?q=Gotthard) | N/A |
-| 8 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 6 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 7 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
+| 8 | [Gotthard](http://twitter.com/search?q=Gotthard) | N/A |
 | 9 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
 | 10 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
 | 11 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
 | 12 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 13 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 14 | [Tessin](http://twitter.com/search?q=Tessin) | N/A |
-| 15 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 16 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
-| 17 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
-| 18 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 19 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 20 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
-| 21 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 22 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 23 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 24 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 25 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
+| 13 | [#SalernitanaInter](http://twitter.com/search?q=%23SalernitanaInter) | N/A |
+| 14 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 15 | [Tessin](http://twitter.com/search?q=Tessin) | N/A |
+| 16 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 17 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
+| 18 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 19 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 20 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
+| 21 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 22 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 23 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 24 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
+| 25 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
 | 26 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
 | 27 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 28 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
+| 28 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
 | 29 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
 | 30 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
-| 31 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
-| 32 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 33 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
-| 34 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 31 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 32 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
+| 33 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 34 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
 | 35 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 36 | [Montreux](http://twitter.com/search?q=Montreux) | N/A |
-| 37 | [Generation](http://twitter.com/search?q=Generation) | N/A |
-| 38 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 39 | [Zeitpunkt](http://twitter.com/search?q=Zeitpunkt) | N/A |
-| 40 | [Granit](http://twitter.com/search?q=Granit) | N/A |
-| 41 | [Oliven](http://twitter.com/search?q=Oliven) | N/A |
-| 42 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 43 | [Zweifel](http://twitter.com/search?q=Zweifel) | N/A |
-| 44 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 45 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
-| 46 | [Statistik](http://twitter.com/search?q=Statistik) | N/A |
-| 47 | [Nerven](http://twitter.com/search?q=Nerven) | N/A |
-| 48 | [Christ](http://twitter.com/search?q=Christ) | N/A |
-| 49 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 50 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 36 | [Generation](http://twitter.com/search?q=Generation) | N/A |
+| 37 | [Granit](http://twitter.com/search?q=Granit) | N/A |
+| 38 | [Zeitpunkt](http://twitter.com/search?q=Zeitpunkt) | N/A |
+| 39 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 40 | [Oliven](http://twitter.com/search?q=Oliven) | N/A |
+| 41 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 42 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 43 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
+| 44 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
+| 45 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 46 | [Montreux](http://twitter.com/search?q=Montreux) | N/A |
+| 47 | [Statistik](http://twitter.com/search?q=Statistik) | N/A |
+| 48 | [Nerven](http://twitter.com/search?q=Nerven) | N/A |
+| 49 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 50 | [Christ](http://twitter.com/search?q=Christ) | N/A |
 
 
 
