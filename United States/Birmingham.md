@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-04-07 01:43:10 UTC`
+📆 Last Updated: `2023-04-07 02:29:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Masters](http://twitter.com/search?q=Masters) | N/A |
 | 2 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 3 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 4 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 5 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 6 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 7 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 8 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 9 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 10 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 11 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 12 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 13 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 3 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 4 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 5 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
+| 6 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 7 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 8 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 9 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 10 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 11 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 12 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 13 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
 | 14 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
-| 15 | [Seamus Casey](http://twitter.com/search?q=Seamus+Casey) | N/A |
-| 16 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 17 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
-| 18 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 19 | [#BreakingNews](http://twitter.com/search?q=%23BreakingNews) | N/A |
-| 20 | [#RestaurantImpossible](http://twitter.com/search?q=%23RestaurantImpossible) | N/A |
+| 15 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 16 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
+| 17 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 18 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 19 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 20 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
 | 21 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 22 | [Matt Carpenter](http://twitter.com/search?q=Matt+Carpenter) | N/A |
-| 23 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
-| 24 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
-| 25 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 26 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
-| 27 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 28 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
-| 29 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 30 | [New South](http://twitter.com/search?q=New+South) | N/A |
-| 31 | [Coyle](http://twitter.com/search?q=Coyle) | N/A |
-| 32 | [#GOPFascists](http://twitter.com/search?q=%23GOPFascists) | N/A |
-| 33 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 34 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 35 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 36 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
-| 37 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
-| 38 | [Luetge](http://twitter.com/search?q=Luetge) | N/A |
-| 39 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 40 | [Timo](http://twitter.com/search?q=Timo) | N/A |
-| 41 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 42 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
-| 43 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 44 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 45 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 46 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 47 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
-| 48 | [kylie jenner](http://twitter.com/search?q=kylie+jenner) | N/A |
-| 49 | [Reps](http://twitter.com/search?q=Reps) | N/A |
+| 22 | [Ethan Petry](http://twitter.com/search?q=Ethan+Petry) | N/A |
+| 23 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 24 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 25 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 26 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 27 | [New South](http://twitter.com/search?q=New+South) | N/A |
+| 28 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
+| 29 | [Tim Hill](http://twitter.com/search?q=Tim+Hill) | N/A |
+| 30 | [Seamus Casey](http://twitter.com/search?q=Seamus+Casey) | N/A |
+| 31 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
+| 32 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
+| 33 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 34 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
+| 35 | [Matt Carpenter](http://twitter.com/search?q=Matt+Carpenter) | N/A |
+| 36 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
+| 37 | [Skenes](http://twitter.com/search?q=Skenes) | N/A |
+| 38 | [kylie jenner](http://twitter.com/search?q=kylie+jenner) | N/A |
+| 39 | [Coyle](http://twitter.com/search?q=Coyle) | N/A |
+| 40 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
+| 41 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 42 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
+| 43 | [Black Democrats](http://twitter.com/search?q=Black+Democrats) | N/A |
+| 44 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 45 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 46 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 47 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 48 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 49 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
 
 
 

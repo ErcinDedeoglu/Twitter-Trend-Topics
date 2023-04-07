@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-04-07 01:43:12 UTC`
+📆 Last Updated: `2023-04-07 02:29:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 2 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 3 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 4 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 5 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 6 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 2 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 3 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 4 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
+| 5 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 6 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
 | 7 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 8 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 9 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 10 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 11 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 12 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 13 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
-| 14 | [Seamus Casey](http://twitter.com/search?q=Seamus+Casey) | N/A |
-| 15 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 16 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
-| 17 | [#BreakingNews](http://twitter.com/search?q=%23BreakingNews) | N/A |
+| 8 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 9 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 10 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 11 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 12 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 13 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 14 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
+| 15 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 16 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 17 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 18 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 19 | [#RestaurantImpossible](http://twitter.com/search?q=%23RestaurantImpossible) | N/A |
-| 20 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 21 | [Matt Carpenter](http://twitter.com/search?q=Matt+Carpenter) | N/A |
-| 22 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
-| 23 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
-| 24 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 25 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
-| 26 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 27 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
-| 28 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 29 | [Coyle](http://twitter.com/search?q=Coyle) | N/A |
-| 30 | [New South](http://twitter.com/search?q=New+South) | N/A |
-| 31 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 32 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 33 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 34 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
-| 35 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
-| 36 | [Luetge](http://twitter.com/search?q=Luetge) | N/A |
-| 37 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 38 | [Timo](http://twitter.com/search?q=Timo) | N/A |
-| 39 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 40 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 41 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 42 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 43 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 44 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
-| 45 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
-| 46 | [kylie jenner](http://twitter.com/search?q=kylie+jenner) | N/A |
-| 47 | [Reps](http://twitter.com/search?q=Reps) | N/A |
-| 48 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 19 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 20 | [Ethan Petry](http://twitter.com/search?q=Ethan+Petry) | N/A |
+| 21 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 22 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 23 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 24 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 25 | [New South](http://twitter.com/search?q=New+South) | N/A |
+| 26 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
+| 27 | [Tim Hill](http://twitter.com/search?q=Tim+Hill) | N/A |
+| 28 | [Seamus Casey](http://twitter.com/search?q=Seamus+Casey) | N/A |
+| 29 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
+| 30 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
+| 31 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 32 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
+| 33 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
+| 34 | [kylie jenner](http://twitter.com/search?q=kylie+jenner) | N/A |
+| 35 | [Matt Carpenter](http://twitter.com/search?q=Matt+Carpenter) | N/A |
+| 36 | [Coyle](http://twitter.com/search?q=Coyle) | N/A |
+| 37 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
+| 38 | [Skenes](http://twitter.com/search?q=Skenes) | N/A |
+| 39 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 40 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
+| 41 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 42 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 43 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 44 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 45 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
+| 46 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 47 | [Adam Fantilli](http://twitter.com/search?q=Adam+Fantilli) | N/A |
+| 48 | [Luetge](http://twitter.com/search?q=Luetge) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-04-07 01:42:30 UTC`
+📆 Last Updated: `2023-04-07 02:28:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,43 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mega](http://twitter.com/search?q=Mega) | N/A |
-| 2 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 3 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 4 | [Plaza Italia](http://twitter.com/search?q=Plaza+Italia) | N/A |
-| 5 | [#cacerolazo](http://twitter.com/search?q=%23cacerolazo) | N/A |
-| 6 | [Salazar](http://twitter.com/search?q=Salazar) | N/A |
-| 7 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 8 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 9 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
-| 10 | [Colegio de Periodistas](http://twitter.com/search?q=Colegio+de+Periodistas) | N/A |
-| 11 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 12 | [#CaboPalma](http://twitter.com/search?q=%23CaboPalma) | N/A |
+| 1 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 2 | [Mega](http://twitter.com/search?q=Mega) | N/A |
+| 3 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 4 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 5 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 6 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
+| 7 | [Salazar](http://twitter.com/search?q=Salazar) | N/A |
+| 8 | [#cacerolazo](http://twitter.com/search?q=%23cacerolazo) | N/A |
+| 9 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
+| 10 | [Plaza Italia](http://twitter.com/search?q=Plaza+Italia) | N/A |
+| 11 | [Neme](http://twitter.com/search?q=Neme) | N/A |
+| 12 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
 | 13 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
 | 14 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
-| 15 | [Notable](http://twitter.com/search?q=Notable) | N/A |
+| 15 | [#CaboPalma](http://twitter.com/search?q=%23CaboPalma) | N/A |
 | 16 | [Plaza Baquedano](http://twitter.com/search?q=Plaza+Baquedano) | N/A |
-| 17 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
-| 18 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
-| 19 | [Presidente de la República](http://twitter.com/search?q=Presidente+de+la+Rep%c3%bablica) | N/A |
+| 17 | [Notable](http://twitter.com/search?q=Notable) | N/A |
+| 18 | [Colegio de Periodistas](http://twitter.com/search?q=Colegio+de+Periodistas) | N/A |
+| 19 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
 | 20 | [Octubristas](http://twitter.com/search?q=Octubristas) | N/A |
-| 21 | [#BoricAsesinoDeCarabineros](http://twitter.com/search?q=%23BoricAsesinoDeCarabineros) | N/A |
-| 22 | [Vodanovic](http://twitter.com/search?q=Vodanovic) | N/A |
-| 23 | [Karma](http://twitter.com/search?q=Karma) | N/A |
-| 24 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 25 | [Octubrismo](http://twitter.com/search?q=Octubrismo) | N/A |
-| 26 | [Chao](http://twitter.com/search?q=Chao) | N/A |
-| 27 | [Error](http://twitter.com/search?q=Error) | N/A |
-| 28 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
-| 29 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
-| 30 | [Piraña](http://twitter.com/search?q=Pira%c3%b1a) | N/A |
-| 31 | [#CarabineroBaleado](http://twitter.com/search?q=%23CarabineroBaleado) | N/A |
-| 32 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
-| 33 | [Alcaldesa](http://twitter.com/search?q=Alcaldesa) | N/A |
-| 34 | [SE BUSCAN](http://twitter.com/search?q=SE+BUSCAN) | N/A |
-| 35 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 36 | [#Piñera](http://twitter.com/search?q=%23Pi%c3%b1era) | N/A |
+| 21 | [Error](http://twitter.com/search?q=Error) | N/A |
+| 22 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
+| 23 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 24 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 25 | [#NiUnCarabineroMenos](http://twitter.com/search?q=%23NiUnCarabineroMenos) | N/A |
+| 26 | [Vodanovic](http://twitter.com/search?q=Vodanovic) | N/A |
+| 27 | [Presidente de la República](http://twitter.com/search?q=Presidente+de+la+Rep%c3%bablica) | N/A |
+| 28 | [Fuera Boric](http://twitter.com/search?q=Fuera+Boric) | N/A |
+| 29 | [Chao](http://twitter.com/search?q=Chao) | N/A |
+| 30 | [Octubrismo](http://twitter.com/search?q=Octubrismo) | N/A |
+| 31 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
+| 32 | [Piraña](http://twitter.com/search?q=Pira%c3%b1a) | N/A |
+| 33 | [#CarabineroBaleado](http://twitter.com/search?q=%23CarabineroBaleado) | N/A |
+| 34 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
+| 35 | [Apareció](http://twitter.com/search?q=Apareci%c3%b3) | N/A |
+| 36 | [Alcaldesa](http://twitter.com/search?q=Alcaldesa) | N/A |
+| 37 | [SE BUSCAN](http://twitter.com/search?q=SE+BUSCAN) | N/A |
 
 
 

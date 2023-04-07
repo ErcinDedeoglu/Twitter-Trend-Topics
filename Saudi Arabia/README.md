@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saudi Arabia
 
-📆 Last Updated: `2023-04-07 01:43:26 UTC`
+📆 Last Updated: `2023-04-07 02:29:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Saudi Arabia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#فوازير_غازي_الذيابي8](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a8) | N/A |
-| 2 | [#تفوق_المملكه_بالذكاء_الاصطناعي](http://twitter.com/search?q=%23%d8%aa%d9%81%d9%88%d9%82_%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87_%d8%a8%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1_%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
-| 3 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
-| 4 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
-| 5 | [#عطرك_الاول](http://twitter.com/search?q=%23%d8%b9%d8%b7%d8%b1%d9%83_%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 1 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
+| 2 | [#عطرك_الاول](http://twitter.com/search?q=%23%d8%b9%d8%b7%d8%b1%d9%83_%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 3 | [#فوازير_غازي_الذيابي8](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a8) | N/A |
+| 4 | [#بطاقاتنا_تفوز2](http://twitter.com/search?q=%23%d8%a8%d8%b7%d8%a7%d9%82%d8%a7%d8%aa%d9%86%d8%a7_%d8%aa%d9%81%d9%88%d8%b22) | N/A |
+| 5 | [#تفوق_المملكه_بالذكاء_الاصطناعي](http://twitter.com/search?q=%23%d8%aa%d9%81%d9%88%d9%82_%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87_%d8%a8%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1_%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
 | 6 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
-| 7 | [مشروع القديه](http://twitter.com/search?q=%d9%85%d8%b4%d8%b1%d9%88%d8%b9+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d9%87) | N/A |
-| 8 | [سعد بن معاذ رضي](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a8%d9%86+%d9%85%d8%b9%d8%a7%d8%b0+%d8%b1%d8%b6%d9%8a) | N/A |
-| 9 | [١٦ رمضان](http://twitter.com/search?q=%d9%a1%d9%a6+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 10 | [الذكاء الاصطناعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
-| 11 | [طريق برنامج](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac) | N/A |
-| 12 | [16 رمضان](http://twitter.com/search?q=16+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 13 | [الحروف العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d9%88%d9%81+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 14 | [خالد بن فهد](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a8%d9%86+%d9%81%d9%87%d8%af) | N/A |
-| 15 | [ثالث جمعه](http://twitter.com/search?q=%d8%ab%d8%a7%d9%84%d8%ab+%d8%ac%d9%85%d8%b9%d9%87) | N/A |
-| 16 | [البيت الاتحادي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af%d9%8a) | N/A |
-| 17 | [الجمعه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
-| 18 | [اليوم الجمعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
-| 19 | [التحول الرقمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%88%d9%84+%d8%a7%d9%84%d8%b1%d9%82%d9%85%d9%8a) | N/A |
-| 20 | [علي الجدار](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d8%af%d8%a7%d8%b1) | N/A |
-| 21 | [الوعي المجتمعي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b9%d9%8a+%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9%d9%8a) | N/A |
-| 22 | [علي المدرب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8) | N/A |
-| 23 | [فيكتور سيموس](http://twitter.com/search?q=%d9%81%d9%8a%d9%83%d8%aa%d9%88%d8%b1+%d8%b3%d9%8a%d9%85%d9%88%d8%b3) | N/A |
-| 24 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
-| 25 | [سوزا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b2%d8%a7) | N/A |
-| 26 | [عمار تقي](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d8%b1+%d8%aa%d9%82%d9%8a) | N/A |
-| 27 | [ناصر الفهد](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d9%81%d9%87%d8%af) | N/A |
-| 28 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 29 | [يابو ناصر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 30 | [قمر الليله](http://twitter.com/search?q=%d9%82%d9%85%d8%b1+%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87) | N/A |
-| 31 | [فيلم باربي](http://twitter.com/search?q=%d9%81%d9%8a%d9%84%d9%85+%d8%a8%d8%a7%d8%b1%d8%a8%d9%8a) | N/A |
-| 32 | [الاستثمار الامثل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d9%85%d8%ab%d9%84) | N/A |
-| 33 | [نور القمر](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d9%82%d9%85%d8%b1) | N/A |
-| 34 | [بندر](http://twitter.com/search?q=%d8%a8%d9%86%d8%af%d8%b1) | N/A |
-| 35 | [مشعل النامي](http://twitter.com/search?q=%d9%85%d8%b4%d8%b9%d9%84+%d8%a7%d9%84%d9%86%d8%a7%d9%85%d9%8a) | N/A |
-| 36 | [والشباب](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
-| 37 | [#بطاقاتنا_تفوز2](http://twitter.com/search?q=%23%d8%a8%d8%b7%d8%a7%d9%82%d8%a7%d8%aa%d9%86%d8%a7_%d8%aa%d9%81%d9%88%d8%b22) | N/A |
-| 38 | [#تاليسكا_طار_ل2026](http://twitter.com/search?q=%23%d8%aa%d8%a7%d9%84%d9%8a%d8%b3%d9%83%d8%a7_%d8%b7%d8%a7%d8%b1_%d9%842026) | N/A |
-| 39 | [#عيديات_الماجد_للعود](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af%d9%8a%d8%a7%d8%aa_%d8%a7%d9%84%d9%85%d8%a7%d8%ac%d8%af_%d9%84%d9%84%d8%b9%d9%88%d8%af) | N/A |
-| 40 | [#غزه_تحت_القصف](http://twitter.com/search?q=%23%d8%ba%d8%b2%d9%87_%d8%aa%d8%ad%d8%aa_%d8%a7%d9%84%d9%82%d8%b5%d9%81) | N/A |
-| 41 | [#مسابقه_طرق_الرياض16](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b616) | N/A |
-| 42 | [#وقف_حياه_كريمه١٥](http://twitter.com/search?q=%23%d9%88%d9%82%d9%81_%d8%ad%d9%8a%d8%a7%d9%87_%d9%83%d8%b1%d9%8a%d9%85%d9%87%d9%a1%d9%a5) | N/A |
-| 43 | [#مسابقه_المربع_نت16](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa16) | N/A |
-| 44 | [#المربع_الاخير15](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b115) | N/A |
-| 45 | [#رمضان_مع_ابوفهد7](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af7) | N/A |
-| 46 | [#الرياض_الان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
-| 47 | [#الروشن15](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8615) | N/A |
-| 48 | [#عطر_الكلام_مع_الانماء7](http://twitter.com/search?q=%23%d8%b9%d8%b7%d8%b1_%d8%a7%d9%84%d9%83%d9%84%d8%a7%d9%85_%d9%85%d8%b9_%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a17) | N/A |
-| 49 | [#فوازير_AlinmaPay](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_AlinmaPay) | N/A |
-| 50 | [#زد_رصيدك73](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8373) | N/A |
+| 7 | [١٦ رمضان](http://twitter.com/search?q=%d9%a1%d9%a6+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 8 | [مشروع القديه](http://twitter.com/search?q=%d9%85%d8%b4%d8%b1%d9%88%d8%b9+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d9%87) | N/A |
+| 9 | [ثالث جمعه](http://twitter.com/search?q=%d8%ab%d8%a7%d9%84%d8%ab+%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 10 | [سعد بن معاذ رضي](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a8%d9%86+%d9%85%d8%b9%d8%a7%d8%b0+%d8%b1%d8%b6%d9%8a) | N/A |
+| 11 | [16 رمضان](http://twitter.com/search?q=16+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 12 | [الذكاء الاصطناعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
+| 13 | [طريق برنامج](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac) | N/A |
+| 14 | [الحروف العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d9%88%d9%81+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 15 | [البيت الاتحادي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af%d9%8a) | N/A |
+| 16 | [خالد بن فهد](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a8%d9%86+%d9%81%d9%87%d8%af) | N/A |
+| 17 | [علي الجدار](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d8%af%d8%a7%d8%b1) | N/A |
+| 18 | [علي المدرب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8) | N/A |
+| 19 | [الوعي المجتمعي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b9%d9%8a+%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9%d9%8a) | N/A |
+| 20 | [عمار تقي](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d8%b1+%d8%aa%d9%82%d9%8a) | N/A |
+| 21 | [سوزا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b2%d8%a7) | N/A |
+| 22 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
+| 23 | [ناصر الفهد](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d9%81%d9%87%d8%af) | N/A |
+| 24 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 25 | [قمر الليله](http://twitter.com/search?q=%d9%82%d9%85%d8%b1+%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87) | N/A |
+| 26 | [فيلم باربي](http://twitter.com/search?q=%d9%81%d9%8a%d9%84%d9%85+%d8%a8%d8%a7%d8%b1%d8%a8%d9%8a) | N/A |
+| 27 | [الاستثمار الامثل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d9%85%d8%ab%d9%84) | N/A |
+| 28 | [نور القمر](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d9%82%d9%85%d8%b1) | N/A |
+| 29 | [مشعل النامي](http://twitter.com/search?q=%d9%85%d8%b4%d8%b9%d9%84+%d8%a7%d9%84%d9%86%d8%a7%d9%85%d9%8a) | N/A |
+| 30 | [بندر](http://twitter.com/search?q=%d8%a8%d9%86%d8%af%d8%b1) | N/A |
+| 31 | [#عيديات_الماجد_للعود](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af%d9%8a%d8%a7%d8%aa_%d8%a7%d9%84%d9%85%d8%a7%d8%ac%d8%af_%d9%84%d9%84%d8%b9%d9%88%d8%af) | N/A |
+| 32 | [#غزه_تحت_القصف](http://twitter.com/search?q=%23%d8%ba%d8%b2%d9%87_%d8%aa%d8%ad%d8%aa_%d8%a7%d9%84%d9%82%d8%b5%d9%81) | N/A |
+| 33 | [#وقف_حياه_كريمه١٥](http://twitter.com/search?q=%23%d9%88%d9%82%d9%81_%d8%ad%d9%8a%d8%a7%d9%87_%d9%83%d8%b1%d9%8a%d9%85%d9%87%d9%a1%d9%a5) | N/A |
+| 34 | [#مسابقه_طرق_الرياض16](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b616) | N/A |
+| 35 | [#تاليسكا_طار_ل2026](http://twitter.com/search?q=%23%d8%aa%d8%a7%d9%84%d9%8a%d8%b3%d9%83%d8%a7_%d8%b7%d8%a7%d8%b1_%d9%842026) | N/A |
+| 36 | [#مسابقه_المربع_نت16](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa16) | N/A |
+| 37 | [#الرياض_الان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
+| 38 | [#رمضان_مع_ابوفهد7](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af7) | N/A |
+| 39 | [#الروشن15](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8615) | N/A |
+| 40 | [#المربع_الاخير15](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b115) | N/A |
+| 41 | [#عطر_الكلام_مع_الانماء7](http://twitter.com/search?q=%23%d8%b9%d8%b7%d8%b1_%d8%a7%d9%84%d9%83%d9%84%d8%a7%d9%85_%d9%85%d8%b9_%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a17) | N/A |
+| 42 | [#الاثنين_فل_يا_اهلاويه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86_%d9%81%d9%84_%d9%8a%d8%a7_%d8%a7%d9%87%d9%84%d8%a7%d9%88%d9%8a%d9%87) | N/A |
+| 43 | [#رمضان16](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%8616) | N/A |
+| 44 | [#الهلال_الشباب](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
+| 45 | [#تساهيل](http://twitter.com/search?q=%23%d8%aa%d8%b3%d8%a7%d9%87%d9%8a%d9%84) | N/A |
+| 46 | [#زد_رصيدك73](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8373) | N/A |
+| 47 | [#فوازير_AlinmaPay](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_AlinmaPay) | N/A |
+| 48 | [#مليون_الحرم3](http://twitter.com/search?q=%23%d9%85%d9%84%d9%8a%d9%88%d9%86_%d8%a7%d9%84%d8%ad%d8%b1%d9%853) | N/A |
+| 49 | [#بيضه_بن_قاسم](http://twitter.com/search?q=%23%d8%a8%d9%8a%d8%b6%d9%87_%d8%a8%d9%86_%d9%82%d8%a7%d8%b3%d9%85) | N/A |
+| 50 | [#عمار_تقي_في_ليوان_المديفر](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%a7%d8%b1_%d8%aa%d9%82%d9%8a_%d9%81%d9%8a_%d9%84%d9%8a%d9%88%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%81%d8%b1) | N/A |
 
 
 

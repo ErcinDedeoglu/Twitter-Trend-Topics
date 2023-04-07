@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-04-07 01:42:24 UTC`
+📆 Last Updated: `2023-04-07 02:28:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 3 | [#Finalissima](http://twitter.com/search?q=%23Finalissima) | N/A |
-| 4 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
-| 5 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 6 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
-| 7 | [Chloe Kelly](http://twitter.com/search?q=Chloe+Kelly) | N/A |
-| 8 | [#ENGBRA](http://twitter.com/search?q=%23ENGBRA) | N/A |
-| 9 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 10 | [#NFHOPE](http://twitter.com/search?q=%23NFHOPE) | N/A |
-| 11 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 12 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 13 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 14 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 15 | [Wembley Park](http://twitter.com/search?q=Wembley+Park) | N/A |
-| 16 | [Joas](http://twitter.com/search?q=Joas) | N/A |
-| 17 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 18 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 19 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 20 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 21 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 22 | [Peter Wright](http://twitter.com/search?q=Peter+Wright) | N/A |
-| 23 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 24 | [Saville](http://twitter.com/search?q=Saville) | N/A |
-| 25 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 26 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 27 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
-| 28 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 29 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 30 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 31 | [McIlroy](http://twitter.com/search?q=McIlroy) | N/A |
-| 32 | [Dylan Mulvaney](http://twitter.com/search?q=Dylan+Mulvaney) | N/A |
-| 33 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
-| 34 | [#Taskmaster](http://twitter.com/search?q=%23Taskmaster) | N/A |
-| 35 | [#riseandfall](http://twitter.com/search?q=%23riseandfall) | N/A |
-| 36 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 37 | [#FullMoon](http://twitter.com/search?q=%23FullMoon) | N/A |
-| 38 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 39 | [#FutureFoodStars](http://twitter.com/search?q=%23FutureFoodStars) | N/A |
-| 40 | [#MAFSAUS](http://twitter.com/search?q=%23MAFSAUS) | N/A |
-| 41 | [#FreePalestine](http://twitter.com/search?q=%23FreePalestine) | N/A |
-| 42 | [#GoodFriday](http://twitter.com/search?q=%23GoodFriday) | N/A |
-| 43 | [#StarWarsCelebration2023](http://twitter.com/search?q=%23StarWarsCelebration2023) | N/A |
+| 1 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 2 | [#Finalissima](http://twitter.com/search?q=%23Finalissima) | N/A |
+| 3 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
+| 4 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 5 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 6 | [#ENGBRA](http://twitter.com/search?q=%23ENGBRA) | N/A |
+| 7 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 8 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 9 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
+| 10 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 12 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 13 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
+| 14 | [Nora](http://twitter.com/search?q=Nora) | N/A |
+| 15 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 16 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
+| 17 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 18 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 20 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
+| 21 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 22 | [Chloe Kelly](http://twitter.com/search?q=Chloe+Kelly) | N/A |
+| 23 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 26 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
+| 27 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
+| 28 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 30 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 31 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 32 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 33 | [Passover](http://twitter.com/search?q=Passover) | N/A |
+| 34 | [Clapham Junction](http://twitter.com/search?q=Clapham+Junction) | N/A |
+| 35 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 36 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 37 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 38 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 39 | [Lamps](http://twitter.com/search?q=Lamps) | N/A |
+| 40 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 41 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 42 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 43 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
+| 44 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
+| 45 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 46 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
+| 47 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 48 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 49 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 50 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-04-07 01:42:42 UTC`
+📆 Last Updated: `2023-04-07 02:28:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#thepassion](http://twitter.com/search?q=%23thepassion) | N/A |
 | 2 | [#feyaja](http://twitter.com/search?q=%23feyaja) | #Feyaja is a hashtag used on social media to express support for the LGBTQ+ community in Nigeria. It is derived from the Yoruba phrase "Feyi ja," which translates to "Love conquers all." |
-| 3 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 4 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 5 | [#verkiezingsdebat](http://twitter.com/search?q=%23verkiezingsdebat) | N/A |
+| 3 | [#feyaja](http://twitter.com/search?q=%23feyaja) | #Feyaja is a hashtag used on social media to express support for the LGBTQ+ community in Nigeria. It is derived from the Yoruba phrase "Feyi ja," which translates to "Love conquers all." |
+| 4 | [#verkiezingsdebat](http://twitter.com/search?q=%23verkiezingsdebat) | N/A |
+| 5 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
 | 6 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
 | 7 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
-| 8 | [#spapsv](http://twitter.com/search?q=%23spapsv) | N/A |
-| 9 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 10 | [Buddy](http://twitter.com/search?q=Buddy) | N/A |
+| 8 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 9 | [Bokito](http://twitter.com/search?q=Bokito) | N/A |
+| 10 | [5sos](http://twitter.com/search?q=5sos) | N/A |
 | 11 | [#knvbbeker](http://twitter.com/search?q=%23knvbbeker) | N/A |
-| 12 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 13 | [Bokito](http://twitter.com/search?q=Bokito) | N/A |
+| 12 | [John de Wolf](http://twitter.com/search?q=John+de+Wolf) | N/A |
+| 13 | [Buddy](http://twitter.com/search?q=Buddy) | N/A |
 | 14 | [Jezus](http://twitter.com/search?q=Jezus) | N/A |
-| 15 | [John de Wolf](http://twitter.com/search?q=John+de+Wolf) | N/A |
-| 16 | [goeiemorgen](http://twitter.com/search?q=goeiemorgen) | N/A |
-| 17 | [Enzo Knol](http://twitter.com/search?q=Enzo+Knol) | N/A |
-| 18 | [Marlijn](http://twitter.com/search?q=Marlijn) | N/A |
-| 19 | [Bloemendaal](http://twitter.com/search?q=Bloemendaal) | N/A |
-| 20 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 21 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
+| 15 | [Enzo Knol](http://twitter.com/search?q=Enzo+Knol) | N/A |
+| 16 | [marlijn](http://twitter.com/search?q=marlijn) | N/A |
+| 17 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
+| 18 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 19 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 20 | [bloemendaal](http://twitter.com/search?q=bloemendaal) | N/A |
+| 21 | [berghuis](http://twitter.com/search?q=berghuis) | N/A |
 | 22 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 23 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 24 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 25 | [goedemorgen lex](http://twitter.com/search?q=goedemorgen+lex) | N/A |
-| 26 | [goedemorgen hans](http://twitter.com/search?q=goedemorgen+hans) | N/A |
-| 27 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 28 | [Arena](http://twitter.com/search?q=Arena) | N/A |
-| 29 | [goedemorgen anita](http://twitter.com/search?q=goedemorgen+anita) | N/A |
-| 30 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
-| 31 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 32 | [Rotterdam](http://twitter.com/search?q=Rotterdam) | N/A |
-| 33 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 34 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 35 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
-| 36 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
-| 37 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 38 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
-| 39 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 40 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
-| 41 | [lindhout](http://twitter.com/search?q=lindhout) | N/A |
-| 42 | [fvd'er van houwelingen](http://twitter.com/search?q=fvd%27er+van+houwelingen) | N/A |
-| 43 | [goedemorgen renaatje](http://twitter.com/search?q=goedemorgen+renaatje) | N/A |
-| 44 | [Soundos](http://twitter.com/search?q=Soundos) | N/A |
-| 45 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 46 | [Paasweekend](http://twitter.com/search?q=Paasweekend) | N/A |
-| 47 | [Harlingen](http://twitter.com/search?q=Harlingen) | N/A |
-| 48 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
-| 49 | [mogge](http://twitter.com/search?q=mogge) | N/A |
-| 50 | [van ooijen](http://twitter.com/search?q=van+ooijen) | N/A |
+| 23 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 24 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 25 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 26 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
+| 27 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 28 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 29 | [Rotterdam](http://twitter.com/search?q=Rotterdam) | N/A |
+| 30 | [Bergkamp](http://twitter.com/search?q=Bergkamp) | N/A |
+| 31 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 32 | [Paasweekend](http://twitter.com/search?q=Paasweekend) | N/A |
+| 33 | [Harlingen](http://twitter.com/search?q=Harlingen) | N/A |
+| 34 | [Soundos](http://twitter.com/search?q=Soundos) | N/A |
+| 35 | [fvd'er van houwelingen](http://twitter.com/search?q=fvd%27er+van+houwelingen) | N/A |
+| 36 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
+| 37 | [lindhout](http://twitter.com/search?q=lindhout) | N/A |
+| 38 | [Pilatus](http://twitter.com/search?q=Pilatus) | N/A |
+| 39 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 40 | [Goede Vrijdag](http://twitter.com/search?q=Goede+Vrijdag) | N/A |
+| 41 | [van ooijen](http://twitter.com/search?q=van+ooijen) | N/A |
+| 42 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 43 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
+| 44 | [Cora](http://twitter.com/search?q=Cora) | N/A |
+| 45 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 46 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
+| 47 | [Wouke](http://twitter.com/search?q=Wouke) | N/A |
+| 48 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 49 | [vpro](http://twitter.com/search?q=vpro) | N/A |
+| 50 | [jan van halst](http://twitter.com/search?q=jan+van+halst) | N/A |
 
 
 

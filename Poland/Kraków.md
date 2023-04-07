@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-04-07 01:42:36 UTC`
+📆 Last Updated: `2023-04-07 02:28:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Poland](</Poland>)
 | 3 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
 | 4 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
 | 5 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
-| 6 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 7 | [Wielki Czwartek](http://twitter.com/search?q=Wielki+Czwartek) | N/A |
+| 6 | [Wielki Czwartek](http://twitter.com/search?q=Wielki+Czwartek) | N/A |
+| 7 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
 | 8 | [#PistoZlo](http://twitter.com/search?q=%23PistoZlo) | N/A |
-| 9 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
-| 10 | [#fcbrma](http://twitter.com/search?q=%23fcbrma) | N/A |
-| 11 | [#śląpia](http://twitter.com/search?q=%23%c5%9bl%c4%85pia) | N/A |
-| 12 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 13 | [Radio Zet](http://twitter.com/search?q=Radio+Zet) | N/A |
-| 14 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 15 | [Świąt Wielkanocnych](http://twitter.com/search?q=%c5%9awi%c4%85t+Wielkanocnych) | N/A |
-| 16 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
-| 17 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 18 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
-| 19 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 20 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 21 | [Bednorz](http://twitter.com/search?q=Bednorz) | N/A |
-| 22 | [Klubowy GOAT](http://twitter.com/search?q=Klubowy+GOAT) | N/A |
-| 23 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 24 | [gruca](http://twitter.com/search?q=gruca) | N/A |
-| 25 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 26 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
-| 27 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
-| 28 | [Comfort](http://twitter.com/search?q=Comfort) | N/A |
-| 29 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
-| 30 | [Libanu](http://twitter.com/search?q=Libanu) | N/A |
-| 31 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 32 | [Cieszyński](http://twitter.com/search?q=Cieszy%c5%84ski) | N/A |
-| 33 | [benzemy](http://twitter.com/search?q=benzemy) | N/A |
-| 34 | [Vuko](http://twitter.com/search?q=Vuko) | N/A |
-| 35 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
-| 36 | [mateckiego](http://twitter.com/search?q=mateckiego) | N/A |
-| 37 | [robert telus](http://twitter.com/search?q=robert+telus) | N/A |
-| 38 | [Turynie](http://twitter.com/search?q=Turynie) | N/A |
-| 39 | [Eucharystii](http://twitter.com/search?q=Eucharystii) | N/A |
-| 40 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 41 | [radia szczecin](http://twitter.com/search?q=radia+szczecin) | N/A |
-| 42 | [gierszewski](http://twitter.com/search?q=gierszewski) | N/A |
-| 43 | [kłeczek](http://twitter.com/search?q=k%c5%82eczek) | N/A |
-| 44 | [Ukrainie](http://twitter.com/search?q=Ukrainie) | N/A |
-| 45 | [podbeskidzie](http://twitter.com/search?q=podbeskidzie) | N/A |
-| 46 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 47 | [Święta](http://twitter.com/search?q=%c5%9awi%c4%99ta) | N/A |
-| 48 | [Ukraińców](http://twitter.com/search?q=Ukrai%c5%84c%c3%b3w) | N/A |
-| 49 | [KGHM](http://twitter.com/search?q=KGHM) | N/A |
-| 50 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
+| 9 | [#śląpia](http://twitter.com/search?q=%23%c5%9bl%c4%85pia) | N/A |
+| 10 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
+| 11 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
+| 12 | [#fcbrma](http://twitter.com/search?q=%23fcbrma) | N/A |
+| 13 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
+| 14 | [Radio Zet](http://twitter.com/search?q=Radio+Zet) | N/A |
+| 15 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 16 | [Świąt Wielkanocnych](http://twitter.com/search?q=%c5%9awi%c4%85t+Wielkanocnych) | N/A |
+| 17 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
+| 18 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 19 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 20 | [Bednorz](http://twitter.com/search?q=Bednorz) | N/A |
+| 21 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 22 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 23 | [gruca](http://twitter.com/search?q=gruca) | N/A |
+| 24 | [Comfort](http://twitter.com/search?q=Comfort) | N/A |
+| 25 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
+| 26 | [Vuko](http://twitter.com/search?q=Vuko) | N/A |
+| 27 | [ZAKSA](http://twitter.com/search?q=ZAKSA) | N/A |
+| 28 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
+| 29 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 30 | [Klubowy GOAT](http://twitter.com/search?q=Klubowy+GOAT) | N/A |
+| 31 | [janusz cieszyński](http://twitter.com/search?q=janusz+cieszy%c5%84ski) | N/A |
+| 32 | [Libanu](http://twitter.com/search?q=Libanu) | N/A |
+| 33 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 34 | [robert telus](http://twitter.com/search?q=robert+telus) | N/A |
+| 35 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
+| 36 | [Ukrainie](http://twitter.com/search?q=Ukrainie) | N/A |
+| 37 | [radia szczecin](http://twitter.com/search?q=radia+szczecin) | N/A |
+| 38 | [turynie](http://twitter.com/search?q=turynie) | N/A |
+| 39 | [orderem orła białego](http://twitter.com/search?q=orderem+or%c5%82a+bia%c5%82ego) | N/A |
+| 40 | [gierszewski](http://twitter.com/search?q=gierszewski) | N/A |
+| 41 | [kłeczek](http://twitter.com/search?q=k%c5%82eczek) | N/A |
+| 42 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
+| 43 | [Witka](http://twitter.com/search?q=Witka) | N/A |
+| 44 | [podbeskidzie](http://twitter.com/search?q=podbeskidzie) | N/A |
+| 45 | [Święta](http://twitter.com/search?q=%c5%9awi%c4%99ta) | N/A |
+| 46 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 47 | [Sirci](http://twitter.com/search?q=Sirci) | N/A |
+| 48 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 49 | [Eucharystii](http://twitter.com/search?q=Eucharystii) | N/A |
+| 50 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 
 
 

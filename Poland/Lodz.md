@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-04-07 01:42:36 UTC`
+📆 Last Updated: `2023-04-07 02:28:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Poland](</Poland>)
 | 6 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
 | 7 | [Wielki Czwartek](http://twitter.com/search?q=Wielki+Czwartek) | N/A |
 | 8 | [#PistoZlo](http://twitter.com/search?q=%23PistoZlo) | N/A |
-| 9 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
-| 10 | [#fcbrma](http://twitter.com/search?q=%23fcbrma) | N/A |
+| 9 | [#śląpia](http://twitter.com/search?q=%23%c5%9bl%c4%85pia) | N/A |
+| 10 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
 | 11 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 12 | [Radio Zet](http://twitter.com/search?q=Radio+Zet) | N/A |
-| 13 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 14 | [Świąt Wielkanocnych](http://twitter.com/search?q=%c5%9awi%c4%85t+Wielkanocnych) | N/A |
-| 15 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
-| 16 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 17 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
-| 18 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 19 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 20 | [Bednorz](http://twitter.com/search?q=Bednorz) | N/A |
-| 21 | [Klubowy GOAT](http://twitter.com/search?q=Klubowy+GOAT) | N/A |
-| 22 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 23 | [gruca](http://twitter.com/search?q=gruca) | N/A |
-| 24 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 25 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
-| 26 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
-| 27 | [Comfort](http://twitter.com/search?q=Comfort) | N/A |
-| 28 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
-| 29 | [Libanu](http://twitter.com/search?q=Libanu) | N/A |
-| 30 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 31 | [Cieszyński](http://twitter.com/search?q=Cieszy%c5%84ski) | N/A |
-| 32 | [benzemy](http://twitter.com/search?q=benzemy) | N/A |
-| 33 | [Vuko](http://twitter.com/search?q=Vuko) | N/A |
-| 34 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
-| 35 | [mateckiego](http://twitter.com/search?q=mateckiego) | N/A |
-| 36 | [robert telus](http://twitter.com/search?q=robert+telus) | N/A |
-| 37 | [Turynie](http://twitter.com/search?q=Turynie) | N/A |
-| 38 | [Eucharystii](http://twitter.com/search?q=Eucharystii) | N/A |
-| 39 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 40 | [radia szczecin](http://twitter.com/search?q=radia+szczecin) | N/A |
-| 41 | [gierszewski](http://twitter.com/search?q=gierszewski) | N/A |
-| 42 | [kłeczek](http://twitter.com/search?q=k%c5%82eczek) | N/A |
-| 43 | [Ukrainie](http://twitter.com/search?q=Ukrainie) | N/A |
-| 44 | [podbeskidzie](http://twitter.com/search?q=podbeskidzie) | N/A |
-| 45 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 46 | [Święta](http://twitter.com/search?q=%c5%9awi%c4%99ta) | N/A |
-| 47 | [Ukraińców](http://twitter.com/search?q=Ukrai%c5%84c%c3%b3w) | N/A |
-| 48 | [KGHM](http://twitter.com/search?q=KGHM) | N/A |
-| 49 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
+| 12 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
+| 13 | [Radio Zet](http://twitter.com/search?q=Radio+Zet) | N/A |
+| 14 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 15 | [Świąt Wielkanocnych](http://twitter.com/search?q=%c5%9awi%c4%85t+Wielkanocnych) | N/A |
+| 16 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
+| 17 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 18 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 19 | [Bednorz](http://twitter.com/search?q=Bednorz) | N/A |
+| 20 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 21 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 22 | [gruca](http://twitter.com/search?q=gruca) | N/A |
+| 23 | [Comfort](http://twitter.com/search?q=Comfort) | N/A |
+| 24 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
+| 25 | [Vuko](http://twitter.com/search?q=Vuko) | N/A |
+| 26 | [ZAKSA](http://twitter.com/search?q=ZAKSA) | N/A |
+| 27 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
+| 28 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 29 | [Klubowy GOAT](http://twitter.com/search?q=Klubowy+GOAT) | N/A |
+| 30 | [janusz cieszyński](http://twitter.com/search?q=janusz+cieszy%c5%84ski) | N/A |
+| 31 | [Libanu](http://twitter.com/search?q=Libanu) | N/A |
+| 32 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 33 | [robert telus](http://twitter.com/search?q=robert+telus) | N/A |
+| 34 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
+| 35 | [Ukrainie](http://twitter.com/search?q=Ukrainie) | N/A |
+| 36 | [radia szczecin](http://twitter.com/search?q=radia+szczecin) | N/A |
+| 37 | [turynie](http://twitter.com/search?q=turynie) | N/A |
+| 38 | [orderem orła białego](http://twitter.com/search?q=orderem+or%c5%82a+bia%c5%82ego) | N/A |
+| 39 | [gierszewski](http://twitter.com/search?q=gierszewski) | N/A |
+| 40 | [kłeczek](http://twitter.com/search?q=k%c5%82eczek) | N/A |
+| 41 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
+| 42 | [Witka](http://twitter.com/search?q=Witka) | N/A |
+| 43 | [podbeskidzie](http://twitter.com/search?q=podbeskidzie) | N/A |
+| 44 | [Święta](http://twitter.com/search?q=%c5%9awi%c4%99ta) | N/A |
+| 45 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 46 | [Sirci](http://twitter.com/search?q=Sirci) | N/A |
+| 47 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 48 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 49 | [Wielkiego Czwartku](http://twitter.com/search?q=Wielkiego+Czwartku) | N/A |
 
 
 

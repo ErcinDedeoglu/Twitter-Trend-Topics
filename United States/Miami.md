@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-04-07 01:43:14 UTC`
+📆 Last Updated: `2023-04-07 02:29:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 2 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 3 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 4 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
-| 5 | [Suggs](http://twitter.com/search?q=Suggs) | Suggs is a nickname for the English singer, songwriter, and musician Graham McPherson, who is best known as the lead singer of the ska/pop band Madness. The name Suggs comes from his childhood nickname, which was given to him by his grandmother. |
+| 2 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 3 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
+| 4 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 5 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
 | 6 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 7 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 7 | [Suggs](http://twitter.com/search?q=Suggs) | Suggs is a nickname for the English singer, songwriter, and musician Graham McPherson, who is best known as the lead singer of the ska/pop band Madness. The name Suggs comes from his childhood nickname, which was given to him by his grandmother. |
 | 8 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 9 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 10 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 11 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 13 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 14 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 9 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 10 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 11 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 12 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 13 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 14 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
 | 15 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 16 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 17 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 18 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 19 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 20 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 21 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 22 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 23 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 16 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
+| 17 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 18 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 19 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 20 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 21 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 22 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 23 | [Snell](http://twitter.com/search?q=Snell) | N/A |
 | 24 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 25 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 26 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
-| 27 | [Seamus Casey](http://twitter.com/search?q=Seamus+Casey) | N/A |
-| 28 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 29 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
-| 30 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 31 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 32 | [Matt Carpenter](http://twitter.com/search?q=Matt+Carpenter) | N/A |
-| 33 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
-| 34 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
-| 35 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 36 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
-| 37 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 38 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
-| 39 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 40 | [Coyle](http://twitter.com/search?q=Coyle) | N/A |
-| 41 | [New South](http://twitter.com/search?q=New+South) | N/A |
-| 42 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 43 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 44 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 45 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
-| 46 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
-| 47 | [Luetge](http://twitter.com/search?q=Luetge) | N/A |
-| 48 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 49 | [Timo](http://twitter.com/search?q=Timo) | N/A |
+| 25 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 26 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 27 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 28 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 29 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 30 | [Ethan Petry](http://twitter.com/search?q=Ethan+Petry) | N/A |
+| 31 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 32 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 33 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 34 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 35 | [New South](http://twitter.com/search?q=New+South) | N/A |
+| 36 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
+| 37 | [Tim Hill](http://twitter.com/search?q=Tim+Hill) | N/A |
+| 38 | [Seamus Casey](http://twitter.com/search?q=Seamus+Casey) | N/A |
+| 39 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
+| 40 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
+| 41 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 42 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
+| 43 | [Matt Carpenter](http://twitter.com/search?q=Matt+Carpenter) | N/A |
+| 44 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
+| 45 | [Skenes](http://twitter.com/search?q=Skenes) | N/A |
+| 46 | [kylie jenner](http://twitter.com/search?q=kylie+jenner) | N/A |
+| 47 | [Coyle](http://twitter.com/search?q=Coyle) | N/A |
+| 48 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
+| 49 | [Carina](http://twitter.com/search?q=Carina) | N/A |
 
 
 

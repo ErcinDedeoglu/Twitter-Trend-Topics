@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-07 01:43:09 UTC`
+📆 Last Updated: `2023-04-07 02:29:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
-| 2 | [#Braves](http://twitter.com/search?q=%23Braves) | N/A |
-| 3 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 1 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 2 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 3 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
 | 4 | [Harris](http://twitter.com/search?q=Harris) | N/A |
-| 5 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 5 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
 | 6 | [Democratic](http://twitter.com/search?q=Democratic) | N/A |
-| 7 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 8 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 7 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 8 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
 | 9 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 10 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 11 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 12 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 13 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 14 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 15 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 16 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 17 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 18 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 19 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 20 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
-| 21 | [Seamus Casey](http://twitter.com/search?q=Seamus+Casey) | N/A |
-| 22 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 23 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
-| 24 | [#BreakingNews](http://twitter.com/search?q=%23BreakingNews) | N/A |
+| 10 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
+| 11 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 12 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 13 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 14 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 15 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 16 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 17 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 18 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 19 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 20 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
+| 21 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 22 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
+| 23 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 24 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 25 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
 | 26 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 27 | [Matt Carpenter](http://twitter.com/search?q=Matt+Carpenter) | N/A |
-| 28 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
-| 29 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
-| 30 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 31 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
-| 32 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 33 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
-| 34 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 35 | [Coyle](http://twitter.com/search?q=Coyle) | N/A |
-| 36 | [New South](http://twitter.com/search?q=New+South) | N/A |
-| 37 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 38 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 39 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 40 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
-| 41 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
-| 42 | [Luetge](http://twitter.com/search?q=Luetge) | N/A |
-| 43 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 44 | [Timo](http://twitter.com/search?q=Timo) | N/A |
-| 45 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 46 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
-| 47 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 48 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 49 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 50 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
+| 27 | [Ethan Petry](http://twitter.com/search?q=Ethan+Petry) | N/A |
+| 28 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 29 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 30 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 31 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 32 | [New South](http://twitter.com/search?q=New+South) | N/A |
+| 33 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
+| 34 | [Tim Hill](http://twitter.com/search?q=Tim+Hill) | N/A |
+| 35 | [Seamus Casey](http://twitter.com/search?q=Seamus+Casey) | N/A |
+| 36 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
+| 37 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
+| 38 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 39 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
+| 40 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
+| 41 | [kylie jenner](http://twitter.com/search?q=kylie+jenner) | N/A |
+| 42 | [Matt Carpenter](http://twitter.com/search?q=Matt+Carpenter) | N/A |
+| 43 | [Coyle](http://twitter.com/search?q=Coyle) | N/A |
+| 44 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
+| 45 | [Skenes](http://twitter.com/search?q=Skenes) | N/A |
+| 46 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 47 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
+| 48 | [Black Democrats](http://twitter.com/search?q=Black+Democrats) | N/A |
+| 49 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 50 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
 
 
 
