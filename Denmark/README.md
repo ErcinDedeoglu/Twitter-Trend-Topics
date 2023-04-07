@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-07 00:26:56 UTC`
+📆 Last Updated: `2023-04-07 01:43:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,18 +17,18 @@ This is top 50 for Denmark
 | ------- | ------------ | ------------ |
 | 1 | [gorm](http://twitter.com/search?q=gorm) | N/A |
 | 2 | [Vejle](http://twitter.com/search?q=Vejle) | N/A |
-| 3 | [#SuperAaB](http://twitter.com/search?q=%23SuperAaB) | N/A |
-| 4 | [#Pokalen](http://twitter.com/search?q=%23Pokalen) | N/A |
+| 3 | [#superaab](http://twitter.com/search?q=%23superaab) | N/A |
+| 4 | [#pokalen](http://twitter.com/search?q=%23pokalen) | N/A |
 | 5 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 6 | [#vbfck](http://twitter.com/search?q=%23vbfck) | N/A |
 | 7 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
 | 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 9 | [Randers](http://twitter.com/search?q=Randers) | N/A |
+| 9 | [randers](http://twitter.com/search?q=randers) | N/A |
 | 10 | [#vffaab](http://twitter.com/search?q=%23vffaab) | N/A |
-| 11 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 12 | [Silkeborg](http://twitter.com/search?q=Silkeborg) | N/A |
-| 13 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 14 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 11 | [Silkeborg](http://twitter.com/search?q=Silkeborg) | N/A |
+| 12 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 13 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 14 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 15 | [fedt](http://twitter.com/search?q=fedt) | N/A |
 | 16 | [lyngby](http://twitter.com/search?q=lyngby) | N/A |
 | 17 | [Mario](http://twitter.com/search?q=Mario) | N/A |

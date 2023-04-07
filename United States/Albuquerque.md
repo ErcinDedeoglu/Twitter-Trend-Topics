@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-04-07 00:26:46 UTC`
+📆 Last Updated: `2023-04-07 01:43:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
 | 2 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 3 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 4 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 5 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 6 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 7 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 8 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 9 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 10 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
-| 11 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 12 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
-| 13 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 14 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 15 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 16 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 17 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 18 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 19 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
-| 20 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 21 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 3 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 4 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 5 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 6 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 7 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 8 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 9 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 10 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 11 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 12 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 13 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
+| 14 | [Seamus Casey](http://twitter.com/search?q=Seamus+Casey) | N/A |
+| 15 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 16 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
+| 17 | [#BreakingNews](http://twitter.com/search?q=%23BreakingNews) | N/A |
+| 18 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 19 | [#RestaurantImpossible](http://twitter.com/search?q=%23RestaurantImpossible) | N/A |
+| 20 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 21 | [Matt Carpenter](http://twitter.com/search?q=Matt+Carpenter) | N/A |
 | 22 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
-| 23 | [#TNAssembly](http://twitter.com/search?q=%23TNAssembly) | N/A |
-| 24 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 25 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
-| 26 | [#GOPFascists](http://twitter.com/search?q=%23GOPFascists) | N/A |
-| 27 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 28 | [#RestaurantImpossible](http://twitter.com/search?q=%23RestaurantImpossible) | N/A |
-| 29 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 30 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
-| 31 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
-| 32 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
-| 33 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 34 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 35 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 36 | [Skenes](http://twitter.com/search?q=Skenes) | N/A |
-| 37 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 38 | [Rep Johnson](http://twitter.com/search?q=Rep+Johnson) | N/A |
-| 39 | [Expelled](http://twitter.com/search?q=Expelled) | N/A |
-| 40 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 41 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
-| 42 | [Two Black](http://twitter.com/search?q=Two+Black) | N/A |
-| 43 | [Andrew Farmer](http://twitter.com/search?q=Andrew+Farmer) | N/A |
-| 44 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 45 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 46 | [TN Republicans](http://twitter.com/search?q=TN+Republicans) | N/A |
-| 47 | [Jalen Suggs](http://twitter.com/search?q=Jalen+Suggs) | N/A |
-| 48 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
-| 49 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 23 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
+| 24 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 25 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
+| 26 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 27 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
+| 28 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 29 | [Coyle](http://twitter.com/search?q=Coyle) | N/A |
+| 30 | [New South](http://twitter.com/search?q=New+South) | N/A |
+| 31 | [#GOPFascists](http://twitter.com/search?q=%23GOPFascists) | N/A |
+| 32 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 33 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 34 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 35 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
+| 36 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
+| 37 | [Luetge](http://twitter.com/search?q=Luetge) | N/A |
+| 38 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 39 | [Timo](http://twitter.com/search?q=Timo) | N/A |
+| 40 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 41 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 42 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 43 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 44 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 45 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
+| 46 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
+| 47 | [kylie jenner](http://twitter.com/search?q=kylie+jenner) | N/A |
+| 48 | [Reps](http://twitter.com/search?q=Reps) | N/A |
+| 49 | [Jake Cronenworth](http://twitter.com/search?q=Jake+Cronenworth) | N/A |
 
 
 

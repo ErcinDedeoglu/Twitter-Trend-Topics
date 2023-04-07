@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-07 00:26:19 UTC`
+📆 Last Updated: `2023-04-07 01:42:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,19 +20,19 @@ This is top 50 for [Austria](</Austria>)
 | 3 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
 | 4 | [Spinat](http://twitter.com/search?q=Spinat) | N/A |
 | 5 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
-| 6 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
-| 7 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 8 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 9 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 10 | [#rblBVB](http://twitter.com/search?q=%23rblBVB) | N/A |
-| 11 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 12 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
-| 13 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
+| 6 | [mahrer](http://twitter.com/search?q=mahrer) | N/A |
+| 7 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 8 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 9 | [#rblBVB](http://twitter.com/search?q=%23rblBVB) | N/A |
+| 10 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 11 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
+| 12 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
+| 13 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
 | 14 | [Symptome](http://twitter.com/search?q=Symptome) | N/A |
 | 15 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
 | 16 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 17 | [#SCRSVR](http://twitter.com/search?q=%23SCRSVR) | N/A |
-| 18 | [Arbeitszeitverkürzung](http://twitter.com/search?q=Arbeitszeitverk%c3%bcrzung) | N/A |
+| 17 | [#scrsvr](http://twitter.com/search?q=%23scrsvr) | N/A |
+| 18 | [arbeitszeitverkürzung](http://twitter.com/search?q=arbeitszeitverk%c3%bcrzung) | N/A |
 | 19 | [Pflege](http://twitter.com/search?q=Pflege) | N/A |
 | 20 | [Tests](http://twitter.com/search?q=Tests) | N/A |
 | 21 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
@@ -47,7 +47,7 @@ This is top 50 for [Austria](</Austria>)
 | 30 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
 | 31 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
 | 32 | [Impfungen](http://twitter.com/search?q=Impfungen) | N/A |
-| 33 | [Presserat](http://twitter.com/search?q=Presserat) | N/A |
+| 33 | [presserat](http://twitter.com/search?q=presserat) | N/A |
 | 34 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 35 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
 | 36 | [hängematte](http://twitter.com/search?q=h%c3%a4ngematte) | N/A |

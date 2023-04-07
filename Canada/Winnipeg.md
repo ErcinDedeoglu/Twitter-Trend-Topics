@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-04-07 00:26:06 UTC`
+📆 Last Updated: `2023-04-07 01:42:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,47 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 2 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 3 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 4 | [#HumboldtStrong](http://twitter.com/search?q=%23HumboldtStrong) | N/A |
-| 5 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 6 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 7 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
-| 8 | [#MoodPitch](http://twitter.com/search?q=%23MoodPitch) | N/A |
-| 9 | [#verglas](http://twitter.com/search?q=%23verglas) | N/A |
-| 10 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 11 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 12 | [Stations of the Cross](http://twitter.com/search?q=Stations+of+the+Cross) | N/A |
-| 13 | [Galen](http://twitter.com/search?q=Galen) | N/A |
-| 14 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 15 | [Passover](http://twitter.com/search?q=Passover) | N/A |
-| 16 | [Travis Tritt](http://twitter.com/search?q=Travis+Tritt) | N/A |
-| 17 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
-| 18 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 19 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 20 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 21 | [Gurianov](http://twitter.com/search?q=Gurianov) | N/A |
-| 22 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 23 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 24 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
-| 25 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
-| 26 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
-| 27 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 28 | [Richards](http://twitter.com/search?q=Richards) | Richards is a surname of English origin. It is derived from the given name Richard, which means "strong ruler". |
-| 29 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 30 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 31 | [Hydro](http://twitter.com/search?q=Hydro) | N/A |
-| 32 | [Coors](http://twitter.com/search?q=Coors) | N/A |
-| 33 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 34 | [Kid Rock](http://twitter.com/search?q=Kid+Rock) | Kid Rock is the stage name of American singer-songwriter Robert James Ritchie. He is known for his blend of hip hop, rap, and rock music. His music often contains themes of American patriotism and working-class life. |
-| 35 | [Science Centre](http://twitter.com/search?q=Science+Centre) | N/A |
-| 36 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 37 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 38 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
-| 39 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 40 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 41 | [Rogers Centre](http://twitter.com/search?q=Rogers+Centre) | N/A |
-| 42 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 43 | [Jack Daniels](http://twitter.com/search?q=Jack+Daniels) | N/A |
-| 44 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 45 | [Mayza](http://twitter.com/search?q=Mayza) | N/A |
-| 46 | [DTES](http://twitter.com/search?q=DTES) | N/A |
-| 47 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 48 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 49 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 1 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 2 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
+| 3 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 4 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 5 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
+| 6 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 8 | [Armia](http://twitter.com/search?q=Armia) | N/A |
+| 9 | [#TORvsBOS](http://twitter.com/search?q=%23TORvsBOS) | N/A |
+| 10 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 11 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
+| 12 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
+| 13 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 14 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 15 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 16 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 17 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 18 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 19 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 20 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 21 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 22 | [Richards](http://twitter.com/search?q=Richards) | Richards is a surname of English origin. It is derived from the given name Richard, which means "strong ruler". |
+| 23 | [Stations of the Cross](http://twitter.com/search?q=Stations+of+the+Cross) | N/A |
+| 24 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 25 | [#OHLPlayoffs](http://twitter.com/search?q=%23OHLPlayoffs) | N/A |
+| 26 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 27 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 28 | [Gurianov](http://twitter.com/search?q=Gurianov) | N/A |
+| 29 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 30 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 31 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 32 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 33 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 34 | [Hydro](http://twitter.com/search?q=Hydro) | N/A |
+| 35 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 36 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 37 | [Sussex](http://twitter.com/search?q=Sussex) | N/A |
+| 38 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 39 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 40 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 41 | [#GoodFriday](http://twitter.com/search?q=%23GoodFriday) | N/A |
 
 
 

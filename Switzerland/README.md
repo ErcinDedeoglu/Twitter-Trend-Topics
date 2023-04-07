@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-07 00:27:01 UTC`
+📆 Last Updated: `2023-04-07 01:43:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for Switzerland
 | 6 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 7 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
 | 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 9 | [Ruefer](http://twitter.com/search?q=Ruefer) | N/A |
+| 9 | [ruefer](http://twitter.com/search?q=ruefer) | N/A |
 | 10 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
 | 11 | [#KeremBürsin](http://twitter.com/search?q=%23KeremB%c3%bcrsin) | N/A |
 | 12 | [Rechtsstaat](http://twitter.com/search?q=Rechtsstaat) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for Switzerland
 | 21 | [London](http://twitter.com/search?q=London) | N/A |
 | 22 | [Humor](http://twitter.com/search?q=Humor) | N/A |
 | 23 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
-| 24 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 25 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 26 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
-| 27 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 28 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 29 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
-| 30 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 31 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 32 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
-| 33 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 34 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 35 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
-| 36 | [Behörden](http://twitter.com/search?q=Beh%c3%b6rden) | N/A |
-| 37 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
+| 24 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 25 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 26 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 27 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
+| 28 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 29 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 30 | [weltwoche](http://twitter.com/search?q=weltwoche) | N/A |
+| 31 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 32 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 33 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
+| 34 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 35 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 36 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
+| 37 | [Behörden](http://twitter.com/search?q=Beh%c3%b6rden) | N/A |
 | 38 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 39 | [Weise](http://twitter.com/search?q=Weise) | N/A |
-| 40 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 41 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 42 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 43 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 44 | [Schwachsinn](http://twitter.com/search?q=Schwachsinn) | N/A |
-| 45 | [Montreux](http://twitter.com/search?q=Montreux) | N/A |
-| 46 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 47 | [Statement](http://twitter.com/search?q=Statement) | N/A |
-| 48 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 49 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 50 | [Impfungen](http://twitter.com/search?q=Impfungen) | N/A |
+| 39 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 40 | [Weise](http://twitter.com/search?q=Weise) | N/A |
+| 41 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 42 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 43 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 44 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 45 | [Schwachsinn](http://twitter.com/search?q=Schwachsinn) | N/A |
+| 46 | [Montreux](http://twitter.com/search?q=Montreux) | N/A |
+| 47 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
+| 48 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 49 | [Statement](http://twitter.com/search?q=Statement) | N/A |
+| 50 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
 
 
 

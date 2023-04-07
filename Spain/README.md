@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-07 00:27:01 UTC`
+📆 Last Updated: `2023-04-07 01:43:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,43 +22,37 @@ This is top 50 for Spain
 | 5 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
 | 6 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
 | 7 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
-| 8 | [Bollo](http://twitter.com/search?q=Bollo) | N/A |
-| 9 | [#LoQueDebePasar](http://twitter.com/search?q=%23LoQueDebePasar) | N/A |
-| 10 | [#LaCazaGuadiana](http://twitter.com/search?q=%23LaCazaGuadiana) | N/A |
-| 11 | [#LaMadrugáCSur](http://twitter.com/search?q=%23LaMadrug%c3%a1CSur) | N/A |
-| 12 | [#Horizonte](http://twitter.com/search?q=%23Horizonte) | N/A |
-| 13 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 14 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
-| 15 | [Macarena](http://twitter.com/search?q=Macarena) | N/A |
-| 16 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 17 | [Arelys](http://twitter.com/search?q=Arelys) | N/A |
-| 18 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |
-| 19 | [Gran Poder](http://twitter.com/search?q=Gran+Poder) | N/A |
-| 20 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 21 | [Esperanza](http://twitter.com/search?q=Esperanza) | N/A |
-| 22 | [ENCHANTED TV](http://twitter.com/search?q=ENCHANTED+TV) | N/A |
-| 23 | [Triana](http://twitter.com/search?q=Triana) | N/A |
+| 8 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 9 | [Madrugá](http://twitter.com/search?q=Madrug%c3%a1) | N/A |
+| 10 | [#LoQueDebePasar](http://twitter.com/search?q=%23LoQueDebePasar) | N/A |
+| 11 | [#LaCazaGuadiana](http://twitter.com/search?q=%23LaCazaGuadiana) | N/A |
+| 12 | [Bollo](http://twitter.com/search?q=Bollo) | N/A |
+| 13 | [#Horizonte](http://twitter.com/search?q=%23Horizonte) | N/A |
+| 14 | [Esperanza de Triana](http://twitter.com/search?q=Esperanza+de+Triana) | N/A |
+| 15 | [Tres Caídas](http://twitter.com/search?q=Tres+Ca%c3%addas) | N/A |
+| 16 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 17 | [Gran Poder](http://twitter.com/search?q=Gran+Poder) | N/A |
+| 18 | [Macarena](http://twitter.com/search?q=Macarena) | N/A |
+| 19 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
+| 20 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 21 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |
+| 22 | [Arelys](http://twitter.com/search?q=Arelys) | N/A |
+| 23 | [Pureza](http://twitter.com/search?q=Pureza) | N/A |
 | 24 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 25 | [Ataman](http://twitter.com/search?q=Ataman) | N/A |
-| 26 | [Zalgiris](http://twitter.com/search?q=Zalgiris) | N/A |
-| 27 | [Nazareno](http://twitter.com/search?q=Nazareno) | N/A |
-| 28 | [Efes](http://twitter.com/search?q=Efes) | N/A |
-| 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 30 | [Angelito](http://twitter.com/search?q=Angelito) | N/A |
-| 31 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
-| 32 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 33 | [En Francia](http://twitter.com/search?q=En+Francia) | N/A |
-| 34 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 35 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
-| 36 | [Carrera Oficial](http://twitter.com/search?q=Carrera+Oficial) | N/A |
-| 37 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
-| 38 | [#APOYOROCIO7A](http://twitter.com/search?q=%23APOYOROCIO7A) | N/A |
-| 39 | [#Titanic](http://twitter.com/search?q=%23Titanic) | N/A |
-| 40 | [#SSantaSevilla2023](http://twitter.com/search?q=%23SSantaSevilla2023) | N/A |
-| 41 | [#Finalissima](http://twitter.com/search?q=%23Finalissima) | N/A |
-| 42 | [#SemanaSantaTM](http://twitter.com/search?q=%23SemanaSantaTM) | N/A |
-| 43 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
-| 44 | [#SSanta101tv](http://twitter.com/search?q=%23SSanta101tv) | N/A |
+| 25 | [Nazareno](http://twitter.com/search?q=Nazareno) | N/A |
+| 26 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 27 | [Campana](http://twitter.com/search?q=Campana) | N/A |
+| 28 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 29 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
+| 30 | [En Francia](http://twitter.com/search?q=En+Francia) | N/A |
+| 31 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 32 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
+| 33 | [#APOYOROCIO7A](http://twitter.com/search?q=%23APOYOROCIO7A) | N/A |
+| 34 | [#SSantaSevilla2023](http://twitter.com/search?q=%23SSantaSevilla2023) | N/A |
+| 35 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
+| 36 | [#SemanaSantaTM](http://twitter.com/search?q=%23SemanaSantaTM) | N/A |
+| 37 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
+| 38 | [#SSanta101tv](http://twitter.com/search?q=%23SSanta101tv) | N/A |
 
 
 

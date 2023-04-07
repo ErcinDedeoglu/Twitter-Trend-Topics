@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-04-07 00:26:50 UTC`
+📆 Last Updated: `2023-04-07 01:43:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bulso](http://twitter.com/search?q=Bulso) | N/A |
-| 2 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 3 | [Reps](http://twitter.com/search?q=Reps) | N/A |
-| 4 | [#TNLeg](http://twitter.com/search?q=%23TNLeg) | N/A |
-| 5 | [Democratic](http://twitter.com/search?q=Democratic) | N/A |
-| 6 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
-| 7 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 8 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 9 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 10 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 11 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 12 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 13 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 14 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 15 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 16 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
-| 17 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 18 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
+| 1 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 2 | [Bulso](http://twitter.com/search?q=Bulso) | N/A |
+| 3 | [#TNLeg](http://twitter.com/search?q=%23TNLeg) | N/A |
+| 4 | [Democratic](http://twitter.com/search?q=Democratic) | N/A |
+| 5 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 6 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 7 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 8 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 9 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 10 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 11 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 12 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 13 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 14 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 15 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 16 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 17 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
+| 18 | [Seamus Casey](http://twitter.com/search?q=Seamus+Casey) | N/A |
 | 19 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 20 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 21 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 22 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 23 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 24 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 25 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
-| 26 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 27 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 28 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
-| 29 | [#TNAssembly](http://twitter.com/search?q=%23TNAssembly) | N/A |
-| 30 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 31 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
-| 32 | [#GOPFascists](http://twitter.com/search?q=%23GOPFascists) | N/A |
-| 33 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 34 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 35 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
-| 36 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
-| 37 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
-| 38 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 39 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 40 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 41 | [Skenes](http://twitter.com/search?q=Skenes) | N/A |
-| 42 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 43 | [Expelled](http://twitter.com/search?q=Expelled) | N/A |
-| 44 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 45 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
-| 46 | [Andrew Farmer](http://twitter.com/search?q=Andrew+Farmer) | N/A |
-| 47 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 48 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 49 | [Jalen Suggs](http://twitter.com/search?q=Jalen+Suggs) | N/A |
-| 50 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
+| 20 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
+| 21 | [#BreakingNews](http://twitter.com/search?q=%23BreakingNews) | N/A |
+| 22 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 23 | [#RestaurantImpossible](http://twitter.com/search?q=%23RestaurantImpossible) | N/A |
+| 24 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 25 | [Matt Carpenter](http://twitter.com/search?q=Matt+Carpenter) | N/A |
+| 26 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
+| 27 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
+| 28 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 29 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
+| 30 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 31 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
+| 32 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 33 | [Coyle](http://twitter.com/search?q=Coyle) | N/A |
+| 34 | [New South](http://twitter.com/search?q=New+South) | N/A |
+| 35 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 36 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 37 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 38 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
+| 39 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
+| 40 | [Luetge](http://twitter.com/search?q=Luetge) | N/A |
+| 41 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 42 | [Timo](http://twitter.com/search?q=Timo) | N/A |
+| 43 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 44 | [Fleury](http://twitter.com/search?q=Fleury) | N/A |
+| 45 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 46 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 47 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 48 | [Cozens](http://twitter.com/search?q=Cozens) | N/A |
+| 49 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
+| 50 | [kylie jenner](http://twitter.com/search?q=kylie+jenner) | N/A |
 
 
 

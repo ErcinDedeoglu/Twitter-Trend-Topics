@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-07 00:26:26 UTC`
+📆 Last Updated: `2023-04-07 01:42:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,39 +30,39 @@ This is top 50 for [Norway](</Norway>)
 | 13 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
 | 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 15 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 16 | [#Eliteserien](http://twitter.com/search?q=%23Eliteserien) | N/A |
-| 17 | [#esngolf](http://twitter.com/search?q=%23esngolf) | N/A |
-| 18 | [Støre](http://twitter.com/search?q=St%c3%b8re) | N/A |
+| 16 | [Støre](http://twitter.com/search?q=St%c3%b8re) | N/A |
+| 17 | [#eliteserien](http://twitter.com/search?q=%23eliteserien) | N/A |
+| 18 | [#esngolf](http://twitter.com/search?q=%23esngolf) | N/A |
 | 19 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 20 | [Hoff](http://twitter.com/search?q=Hoff) | N/A |
 | 21 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
 | 22 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 23 | [London](http://twitter.com/search?q=London) | N/A |
-| 24 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 25 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 26 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 27 | [fikk](http://twitter.com/search?q=fikk) | N/A |
-| 28 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 29 | [Ålesund](http://twitter.com/search?q=%c3%85lesund) | N/A |
-| 30 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 31 | [statkraft](http://twitter.com/search?q=statkraft) | N/A |
-| 32 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
-| 33 | [Lykke](http://twitter.com/search?q=Lykke) | N/A |
-| 34 | [Husker](http://twitter.com/search?q=Husker) | N/A |
-| 35 | [Sarpsborg 08](http://twitter.com/search?q=Sarpsborg+08) | N/A |
-| 36 | [Asker](http://twitter.com/search?q=Asker) | N/A |
-| 37 | [Syns](http://twitter.com/search?q=Syns) | N/A |
-| 38 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 39 | [Måtte](http://twitter.com/search?q=M%c3%a5tte) | N/A |
-| 40 | [Sovjetunionen](http://twitter.com/search?q=Sovjetunionen) | N/A |
-| 41 | [Scandinavia](http://twitter.com/search?q=Scandinavia) | N/A |
-| 42 | [Vesten](http://twitter.com/search?q=Vesten) | N/A |
-| 43 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 44 | [Molde](http://twitter.com/search?q=Molde) | N/A |
-| 45 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 46 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 47 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 48 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 23 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 24 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 25 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 26 | [fikk](http://twitter.com/search?q=fikk) | N/A |
+| 27 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 28 | [ålesund](http://twitter.com/search?q=%c3%a5lesund) | N/A |
+| 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 30 | [London](http://twitter.com/search?q=London) | N/A |
+| 31 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
+| 32 | [lykke](http://twitter.com/search?q=lykke) | N/A |
+| 33 | [Husker](http://twitter.com/search?q=Husker) | N/A |
+| 34 | [sarpsborg 08](http://twitter.com/search?q=sarpsborg+08) | N/A |
+| 35 | [Asker](http://twitter.com/search?q=Asker) | N/A |
+| 36 | [Syns](http://twitter.com/search?q=Syns) | N/A |
+| 37 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 38 | [Måtte](http://twitter.com/search?q=M%c3%a5tte) | N/A |
+| 39 | [sovjetunionen](http://twitter.com/search?q=sovjetunionen) | N/A |
+| 40 | [Scandinavia](http://twitter.com/search?q=Scandinavia) | N/A |
+| 41 | [Vesten](http://twitter.com/search?q=Vesten) | N/A |
+| 42 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 43 | [Molde](http://twitter.com/search?q=Molde) | N/A |
+| 44 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 45 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 46 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 47 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 48 | [God Påske](http://twitter.com/search?q=God+P%c3%a5ske) | N/A |
 
 
 

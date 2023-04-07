@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-04-07 00:26:52 UTC`
+📆 Last Updated: `2023-04-07 01:43:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Roseville](http://twitter.com/search?q=Roseville) | N/A |
 | 2 | [Braves](http://twitter.com/search?q=Braves) | N/A |
 | 3 | [Jim Crow](http://twitter.com/search?q=Jim+Crow) | N/A |
-| 4 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 5 | [Democratic](http://twitter.com/search?q=Democratic) | N/A |
-| 6 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 7 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
-| 8 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
-| 9 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 4 | [Democratic](http://twitter.com/search?q=Democratic) | N/A |
+| 5 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 6 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 8 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
+| 9 | [Uranus](http://twitter.com/search?q=Uranus) | N/A |
 | 10 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 11 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 12 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
-| 13 | [#MoodPitch](http://twitter.com/search?q=%23MoodPitch) | N/A |
-| 14 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
-| 15 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 16 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 17 | [Tatis](http://twitter.com/search?q=Tatis) | N/A |
-| 18 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 19 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 20 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 21 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 22 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 23 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 24 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 25 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 26 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 27 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 28 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 29 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
+| 11 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 12 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 13 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 14 | [#SCOTUS](http://twitter.com/search?q=%23SCOTUS) | N/A |
+| 15 | [#MoodPitch](http://twitter.com/search?q=%23MoodPitch) | N/A |
+| 16 | [Clifford](http://twitter.com/search?q=Clifford) | N/A |
+| 17 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 18 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 19 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 20 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 21 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 22 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 23 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 24 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 25 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 26 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 27 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 28 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 29 | [Seamus Casey](http://twitter.com/search?q=Seamus+Casey) | N/A |
 | 30 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 31 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 32 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 33 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 34 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 35 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 36 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
-| 37 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 38 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
-| 39 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 40 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 41 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
-| 42 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 43 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
-| 44 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 45 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
-| 46 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
-| 47 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 48 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 49 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
+| 31 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
+| 32 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 33 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 34 | [Matt Carpenter](http://twitter.com/search?q=Matt+Carpenter) | N/A |
+| 35 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
+| 36 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
+| 37 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 38 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
+| 39 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 40 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
+| 41 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 42 | [New South](http://twitter.com/search?q=New+South) | N/A |
+| 43 | [Coyle](http://twitter.com/search?q=Coyle) | N/A |
+| 44 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
+| 45 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 46 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 47 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
+| 48 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
+| 49 | [Luetge](http://twitter.com/search?q=Luetge) | N/A |
+| 50 | [Justins](http://twitter.com/search?q=Justins) | N/A |
 
 
 

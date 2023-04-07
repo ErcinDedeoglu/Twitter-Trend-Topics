@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-07 00:26:34 UTC`
+📆 Last Updated: `2023-04-07 01:42:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [Philippines](</Philippines>)
 | 3 | [#IWannaStayWithGYU](http://twitter.com/search?q=%23IWannaStayWithGYU) | N/A |
 | 4 | [#민규생일은_아름답기를_따뜻하길](http://twitter.com/search?q=%23%eb%af%bc%ea%b7%9c%ec%83%9d%ec%9d%bc%ec%9d%80_%ec%95%84%eb%a6%84%eb%8b%b5%ea%b8%b0%eb%a5%bc_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b8%b8) | N/A |
 | 5 | [#MONEY800MYTViews](http://twitter.com/search?q=%23MONEY800MYTViews) | N/A |
-| 6 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 7 | [#LALISAMV600M](http://twitter.com/search?q=%23LALISAMV600M) | N/A |
+| 6 | [#FELIPSUSON](http://twitter.com/search?q=%23FELIPSUSON) | N/A |
+| 7 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
 | 8 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 9 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 11 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
-| 12 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 9 | [Baeksang](http://twitter.com/search?q=Baeksang) | N/A |
+| 10 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 11 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 13 | [Visita Iglesia](http://twitter.com/search?q=Visita+Iglesia) | N/A |
-| 14 | [Biyernes Santo](http://twitter.com/search?q=Biyernes+Santo) | N/A |
-| 15 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 16 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
-| 17 | [1million salamat sa inyo](http://twitter.com/search?q=1million+salamat+sa+inyo) | N/A |
-| 18 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 19 | [2MILYONG PASASALAMAT](http://twitter.com/search?q=2MILYONG+PASASALAMAT) | N/A |
-| 20 | [she's dating the gangster](http://twitter.com/search?q=she%27s+dating+the+gangster) | N/A |
-| 21 | [huwebes santo](http://twitter.com/search?q=huwebes+santo) | N/A |
-| 22 | [Holy Friday](http://twitter.com/search?q=Holy+Friday) | N/A |
-| 23 | [Jaya](http://twitter.com/search?q=Jaya) | N/A |
-| 24 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 25 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 26 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
-| 27 | [GOLDEN HOUR MV TEASER](http://twitter.com/search?q=GOLDEN+HOUR+MV+TEASER) | N/A |
-| 28 | [Rora](http://twitter.com/search?q=Rora) | Rora is a Japanese term that translates to "lonely" or "isolated." It is often used to describe someone who feels alone or disconnected from the world around them. |
-| 29 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 30 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
-| 31 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 32 | [NBA Ambassador](http://twitter.com/search?q=NBA+Ambassador) | N/A |
-| 33 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 34 | [SKRR DAY WITH WATANABAE](http://twitter.com/search?q=SKRR+DAY+WITH+WATANABAE) | N/A |
-| 35 | [MARK SOLO TOMORROW](http://twitter.com/search?q=MARK+SOLO+TOMORROW) | N/A |
-| 36 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
-| 37 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 38 | [Alay Lakad](http://twitter.com/search?q=Alay+Lakad) | N/A |
-| 39 | [BM LAST EVALUATION EP5](http://twitter.com/search?q=BM+LAST+EVALUATION+EP5) | N/A |
-| 40 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 41 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 42 | [Siwon](http://twitter.com/search?q=Siwon) | N/A |
-| 43 | [For God](http://twitter.com/search?q=For+God) | N/A |
-| 44 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 14 | [NLEX](http://twitter.com/search?q=NLEX) | N/A |
+| 15 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 16 | [Na PD](http://twitter.com/search?q=Na+PD) | N/A |
+| 17 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 18 | [Biyernes Santo](http://twitter.com/search?q=Biyernes+Santo) | N/A |
+| 19 | [1million salamat sa inyo](http://twitter.com/search?q=1million+salamat+sa+inyo) | N/A |
+| 20 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 21 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 22 | [2MILYONG PASASALAMAT](http://twitter.com/search?q=2MILYONG+PASASALAMAT) | N/A |
+| 23 | [she's dating the gangster](http://twitter.com/search?q=she%27s+dating+the+gangster) | N/A |
+| 24 | [huwebes santo](http://twitter.com/search?q=huwebes+santo) | N/A |
+| 25 | [GOLDEN HOUR MV TEASER](http://twitter.com/search?q=GOLDEN+HOUR+MV+TEASER) | N/A |
+| 26 | [Holy Friday](http://twitter.com/search?q=Holy+Friday) | N/A |
+| 27 | [riki](http://twitter.com/search?q=riki) | N/A |
+| 28 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 29 | [Jaya](http://twitter.com/search?q=Jaya) | N/A |
+| 30 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
+| 31 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 32 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
+| 33 | [Rora](http://twitter.com/search?q=Rora) | Rora is a Japanese term that translates to "lonely" or "isolated." It is often used to describe someone who feels alone or disconnected from the world around them. |
+| 34 | [NBA Ambassador](http://twitter.com/search?q=NBA+Ambassador) | N/A |
+| 35 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 36 | [skrr day with watanabae](http://twitter.com/search?q=skrr+day+with+watanabae) | N/A |
+| 37 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 38 | [MARK SOLO TOMORROW](http://twitter.com/search?q=MARK+SOLO+TOMORROW) | N/A |
+| 39 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 40 | [Alay Lakad](http://twitter.com/search?q=Alay+Lakad) | N/A |
+| 41 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 42 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
+| 43 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 44 | [AGUST D X IU IS COMING](http://twitter.com/search?q=AGUST+D+X+IU+IS+COMING) | N/A |
 | 45 | [hori7on salamat out now](http://twitter.com/search?q=hori7on+salamat+out+now) | N/A |
-| 46 | [jungkook our euphoria](http://twitter.com/search?q=jungkook+our+euphoria) | N/A |
-| 47 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 46 | [Calvary](http://twitter.com/search?q=Calvary) | N/A |
+| 47 | [jungkook our euphoria](http://twitter.com/search?q=jungkook+our+euphoria) | N/A |
 | 48 | [Sunoo](http://twitter.com/search?q=Sunoo) | N/A |
 
 

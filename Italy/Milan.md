@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-04-07 00:26:23 UTC`
+📆 Last Updated: `2023-04-07 01:42:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,22 +24,22 @@ This is top 50 for [Italy](</Italy>)
 | 7 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
 | 8 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
 | 9 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 10 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 10 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
 | 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 12 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 13 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 14 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 15 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
+| 12 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 13 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 14 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
+| 15 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
 | 16 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 17 | [Raimondo](http://twitter.com/search?q=Raimondo) | Raimondo is an Italian given name derived from the Germanic name Raginmund, which means "wise protector". It is also a surname. |
+| 17 | [Maya](http://twitter.com/search?q=Maya) | N/A |
 | 18 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
-| 19 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 20 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 21 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 22 | [buongiorno ale](http://twitter.com/search?q=buongiorno+ale) | N/A |
-| 23 | [buongiorno marco](http://twitter.com/search?q=buongiorno+marco) | N/A |
-| 24 | [Stefano Feltri](http://twitter.com/search?q=Stefano+Feltri) | N/A |
-| 25 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
+| 19 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 20 | [Raimondo](http://twitter.com/search?q=Raimondo) | Raimondo is an Italian given name derived from the Germanic name Raginmund, which means "wise protector". It is also a surname. |
+| 21 | [buongiorno ale](http://twitter.com/search?q=buongiorno+ale) | N/A |
+| 22 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 23 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 24 | [buongiorno marco](http://twitter.com/search?q=buongiorno+marco) | N/A |
+| 25 | [Stefano Feltri](http://twitter.com/search?q=Stefano+Feltri) | N/A |
 | 26 | [Libano](http://twitter.com/search?q=Libano) | N/A |
 | 27 | [buongiorno giusi](http://twitter.com/search?q=buongiorno+giusi) | N/A |
 | 28 | [Todaro](http://twitter.com/search?q=Todaro) | Todaro is an Italian surname. It is derived from the Latin word "todarius," which means "hunter." The name is most commonly found in the regions of Sicily and Calabria. In English, it can be translated to mean "hunter." |
@@ -56,15 +56,15 @@ This is top 50 for [Italy](</Italy>)
 | 39 | [buongiorno roberto](http://twitter.com/search?q=buongiorno+roberto) | N/A |
 | 40 | [Fabrizio Corona](http://twitter.com/search?q=Fabrizio+Corona) | N/A |
 | 41 | [buongiorno emi](http://twitter.com/search?q=buongiorno+emi) | N/A |
-| 42 | [buongiorno monica](http://twitter.com/search?q=buongiorno+monica) | N/A |
-| 43 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 44 | [Investcorp](http://twitter.com/search?q=Investcorp) | N/A |
-| 45 | [buongiorno daniele](http://twitter.com/search?q=buongiorno+daniele) | N/A |
-| 46 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 47 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 48 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
-| 49 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
-| 50 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 42 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 43 | [buongiorno monica](http://twitter.com/search?q=buongiorno+monica) | N/A |
+| 44 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 45 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 46 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
+| 47 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
+| 48 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 49 | [Victoria Cabello](http://twitter.com/search?q=Victoria+Cabello) | N/A |
+| 50 | [Piantedosi](http://twitter.com/search?q=Piantedosi) | N/A |
 
 
 
