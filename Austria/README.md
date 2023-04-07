@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-07 08:18:05 UTC`
+📆 Last Updated: `2023-04-07 09:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Austria
 | 5 | [Spinat](http://twitter.com/search?q=Spinat) | N/A |
 | 6 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
 | 7 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
-| 8 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 9 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 10 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 11 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 12 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 13 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
-| 14 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 15 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
-| 16 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
-| 17 | [Symptome](http://twitter.com/search?q=Symptome) | N/A |
-| 18 | [#scrsvr](http://twitter.com/search?q=%23scrsvr) | N/A |
-| 19 | [arbeitszeitverkürzung](http://twitter.com/search?q=arbeitszeitverk%c3%bcrzung) | N/A |
-| 20 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 21 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
-| 22 | [Krise](http://twitter.com/search?q=Krise) | N/A |
-| 23 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
-| 24 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
-| 25 | [Dienst](http://twitter.com/search?q=Dienst) | N/A |
-| 26 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
-| 27 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 28 | [Tests](http://twitter.com/search?q=Tests) | N/A |
-| 29 | [#oefbcup](http://twitter.com/search?q=%23oefbcup) | N/A |
-| 30 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
-| 31 | [Zadic](http://twitter.com/search?q=Zadic) | N/A |
-| 32 | [Schwester](http://twitter.com/search?q=Schwester) | N/A |
-| 33 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
-| 34 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
-| 35 | [Planeten](http://twitter.com/search?q=Planeten) | N/A |
-| 36 | [Zustimmung](http://twitter.com/search?q=Zustimmung) | N/A |
-| 37 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 38 | [Pflege](http://twitter.com/search?q=Pflege) | N/A |
-| 39 | [Argument](http://twitter.com/search?q=Argument) | N/A |
-| 40 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
-| 41 | [Petra](http://twitter.com/search?q=Petra) | N/A |
-| 42 | [VfGH](http://twitter.com/search?q=VfGH) | N/A |
-| 43 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
-| 44 | [Keller](http://twitter.com/search?q=Keller) | N/A |
-| 45 | [Gehälter](http://twitter.com/search?q=Geh%c3%a4lter) | N/A |
+| 8 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 9 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
+| 10 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 11 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
+| 12 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
+| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 14 | [Symptome](http://twitter.com/search?q=Symptome) | N/A |
+| 15 | [#scrsvr](http://twitter.com/search?q=%23scrsvr) | N/A |
+| 16 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
+| 17 | [Krise](http://twitter.com/search?q=Krise) | N/A |
+| 18 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
+| 19 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 20 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 21 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
+| 22 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 23 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
+| 24 | [Zadic](http://twitter.com/search?q=Zadic) | N/A |
+| 25 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
+| 26 | [#Weltgesundheitstag](http://twitter.com/search?q=%23Weltgesundheitstag) | N/A |
+| 27 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 28 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 29 | [Dienst](http://twitter.com/search?q=Dienst) | N/A |
+| 30 | [Schwester](http://twitter.com/search?q=Schwester) | N/A |
+| 31 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
+| 32 | [Planeten](http://twitter.com/search?q=Planeten) | N/A |
+| 33 | [Pflege](http://twitter.com/search?q=Pflege) | N/A |
+| 34 | [Zustimmung](http://twitter.com/search?q=Zustimmung) | N/A |
+| 35 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
+| 36 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 37 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 38 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
+| 39 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 40 | [Argument](http://twitter.com/search?q=Argument) | N/A |
+| 41 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
+| 42 | [Petra](http://twitter.com/search?q=Petra) | N/A |
+| 43 | [VfGH](http://twitter.com/search?q=VfGH) | N/A |
+| 44 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
+| 45 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
 | 46 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
-| 47 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
-| 48 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
-| 49 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 50 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
+| 47 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
+| 48 | [Keller](http://twitter.com/search?q=Keller) | N/A |
+| 49 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 50 | [Gehälter](http://twitter.com/search?q=Geh%c3%a4lter) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-04-07 08:17:25 UTC`
+📆 Last Updated: `2023-04-07 09:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 2 | [#JuevesSanto](http://twitter.com/search?q=%23JuevesSanto) | N/A |
-| 3 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 4 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 1 | [#JuevesSanto](http://twitter.com/search?q=%23JuevesSanto) | N/A |
+| 2 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 3 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 4 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
 | 5 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 6 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 | 7 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
-| 8 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 9 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 8 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 9 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 10 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 11 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 11 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
 | 12 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
-| 13 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 14 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 13 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 14 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
 | 15 | [Escasez](http://twitter.com/search?q=Escasez) | N/A |
-| 16 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
+| 16 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
 | 17 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
-| 18 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 19 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
+| 18 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
+| 19 | [Asia](http://twitter.com/search?q=Asia) | N/A |
 | 20 | [Liberland](http://twitter.com/search?q=Liberland) | N/A |
 | 21 | [Tatay](http://twitter.com/search?q=Tatay) | N/A |
 | 22 | [Guzmán](http://twitter.com/search?q=Guzm%c3%a1n) | N/A |
 | 23 | [Ocampo](http://twitter.com/search?q=Ocampo) | Ocampo is a Spanish surname derived from the Latin word campus, meaning "field". It is most commonly found in Spain and Latin America. In English, it can be translated to mean "of the field". |
 | 24 | [banguero](http://twitter.com/search?q=banguero) | N/A |
-| 25 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 26 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 27 | [Herazo](http://twitter.com/search?q=Herazo) | N/A |
-| 28 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
-| 29 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 25 | [herazo](http://twitter.com/search?q=herazo) | N/A |
+| 26 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
+| 27 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 28 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 29 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
 | 30 | [Manizales](http://twitter.com/search?q=Manizales) | N/A |
 | 31 | [Dijon](http://twitter.com/search?q=Dijon) | N/A |
 | 32 | [dorlan pabón](http://twitter.com/search?q=dorlan+pab%c3%b3n) | N/A |
 | 33 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
 | 34 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
-| 35 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 36 | [Eucaristía](http://twitter.com/search?q=Eucarist%c3%ada) | N/A |
-| 37 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 38 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 39 | [Miguel Ángel](http://twitter.com/search?q=Miguel+%c3%81ngel) | N/A |
-| 40 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 41 | [Jader](http://twitter.com/search?q=Jader) | N/A |
-| 42 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 43 | [Deportes Tolima](http://twitter.com/search?q=Deportes+Tolima) | N/A |
-| 44 | [aldair quintana](http://twitter.com/search?q=aldair+quintana) | N/A |
-| 45 | [Puerto Cabello](http://twitter.com/search?q=Puerto+Cabello) | N/A |
-| 46 | [Guyana](http://twitter.com/search?q=Guyana) | N/A |
-| 47 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
-| 48 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 35 | [Eucaristía](http://twitter.com/search?q=Eucarist%c3%ada) | N/A |
+| 36 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 37 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
+| 38 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 39 | [Jader](http://twitter.com/search?q=Jader) | N/A |
+| 40 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 41 | [Deportes Tolima](http://twitter.com/search?q=Deportes+Tolima) | N/A |
+| 42 | [aldair quintana](http://twitter.com/search?q=aldair+quintana) | N/A |
+| 43 | [Puerto Cabello](http://twitter.com/search?q=Puerto+Cabello) | N/A |
+| 44 | [Guyana](http://twitter.com/search?q=Guyana) | N/A |
+| 45 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
+| 46 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 47 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 48 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 49 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
 
 
 

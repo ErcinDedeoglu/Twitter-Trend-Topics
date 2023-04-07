@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-04-07 08:17:30 UTC`
+📆 Last Updated: `2023-04-07 09:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
 | 2 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 3 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
-| 4 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
+| 3 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
+| 4 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
 | 5 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
 | 6 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
-| 7 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 8 | [Świąt Wielkanocnych](http://twitter.com/search?q=%c5%9awi%c4%85t+Wielkanocnych) | N/A |
-| 9 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 7 | [Świąt Wielkanocnych](http://twitter.com/search?q=%c5%9awi%c4%85t+Wielkanocnych) | N/A |
+| 8 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 9 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
 | 10 | [#PiStoZŁO](http://twitter.com/search?q=%23PiStoZ%c5%81O) | N/A |
-| 11 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
-| 12 | [Albanii](http://twitter.com/search?q=Albanii) | N/A |
-| 13 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
-| 14 | [Wielki Czwartek](http://twitter.com/search?q=Wielki+Czwartek) | N/A |
-| 15 | [Radio Zet](http://twitter.com/search?q=Radio+Zet) | N/A |
-| 16 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
-| 17 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 18 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 19 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
-| 20 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 21 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 22 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
-| 23 | [Masturbacja](http://twitter.com/search?q=Masturbacja) | N/A |
-| 24 | [Gladiator](http://twitter.com/search?q=Gladiator) | Gladiator is a 2000 historical epic film directed by Ridley Scott. It stars Russell Crowe as the fictional character Maximus Decimus Meridius, a Roman general who is betrayed and enslaved, and then fights in the gladiatorial arena to gain his freedom. The term "gladiator" refers to a professional fighter in ancient Rome who fought against other gladiators or wild animals for the entertainment of the public. |
-| 25 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 11 | [#minęła8](http://twitter.com/search?q=%23min%c4%99%c5%82a8) | N/A |
+| 12 | [#fcbrma](http://twitter.com/search?q=%23fcbrma) | N/A |
+| 13 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
+| 14 | [Radio Zet](http://twitter.com/search?q=Radio+Zet) | N/A |
+| 15 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 16 | [Wielki Czwartek](http://twitter.com/search?q=Wielki+Czwartek) | N/A |
+| 17 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
+| 18 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
+| 19 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
+| 20 | [Albanii](http://twitter.com/search?q=Albanii) | N/A |
+| 21 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
+| 22 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 23 | [Wielkiego Piątku](http://twitter.com/search?q=Wielkiego+Pi%c4%85tku) | N/A |
+| 24 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 25 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
 | 26 | [Cieszyński](http://twitter.com/search?q=Cieszy%c5%84ski) | N/A |
 | 27 | [5sos](http://twitter.com/search?q=5sos) | N/A |
 | 28 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
-| 29 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 30 | [Vuko](http://twitter.com/search?q=Vuko) | N/A |
-| 31 | [Bednorz](http://twitter.com/search?q=Bednorz) | N/A |
-| 32 | [zełenskim](http://twitter.com/search?q=ze%c5%82enskim) | N/A |
-| 33 | [Karma](http://twitter.com/search?q=Karma) | N/A |
-| 34 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
-| 35 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 36 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
-| 37 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 38 | [Libanu](http://twitter.com/search?q=Libanu) | N/A |
-| 39 | [gierszewski](http://twitter.com/search?q=gierszewski) | N/A |
-| 40 | [Ukrainie](http://twitter.com/search?q=Ukrainie) | N/A |
-| 41 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
-| 42 | [KGHM](http://twitter.com/search?q=KGHM) | N/A |
-| 43 | [Kłeczek](http://twitter.com/search?q=K%c5%82eczek) | N/A |
-| 44 | [Gruca](http://twitter.com/search?q=Gruca) | N/A |
-| 45 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 46 | [Cześć Aniu](http://twitter.com/search?q=Cze%c5%9b%c4%87+Aniu) | N/A |
-| 47 | [david smith](http://twitter.com/search?q=david+smith) | N/A |
-| 48 | [Eucharystii](http://twitter.com/search?q=Eucharystii) | N/A |
-| 49 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 50 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
+| 29 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
+| 30 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 31 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 32 | [Vuko](http://twitter.com/search?q=Vuko) | N/A |
+| 33 | [Bednorz](http://twitter.com/search?q=Bednorz) | N/A |
+| 34 | [zełenskim](http://twitter.com/search?q=ze%c5%82enskim) | N/A |
+| 35 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
+| 36 | [Libanu](http://twitter.com/search?q=Libanu) | N/A |
+| 37 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 38 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
+| 39 | [Pani Wando](http://twitter.com/search?q=Pani+Wando) | N/A |
+| 40 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
+| 41 | [Klubowy GOAT](http://twitter.com/search?q=Klubowy+GOAT) | N/A |
+| 42 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
+| 43 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 44 | [Kupuje](http://twitter.com/search?q=Kupuje) | N/A |
+| 45 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 46 | [Eucharystii](http://twitter.com/search?q=Eucharystii) | N/A |
+| 47 | [Gruca](http://twitter.com/search?q=Gruca) | N/A |
+| 48 | [Cześć Aniu](http://twitter.com/search?q=Cze%c5%9b%c4%87+Aniu) | N/A |
+| 49 | [KGHM](http://twitter.com/search?q=KGHM) | N/A |
+| 50 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
 
 
 

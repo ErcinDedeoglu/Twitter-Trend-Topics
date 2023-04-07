@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-04-07 08:18:00 UTC`
+📆 Last Updated: `2023-04-07 09:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
 | 3 | [#Preds](http://twitter.com/search?q=%23Preds) | N/A |
 | 4 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 5 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 6 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
-| 7 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 8 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 9 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 10 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 11 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 5 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 6 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 7 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
+| 8 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 9 | [#PowerBook2](http://twitter.com/search?q=%23PowerBook2) | N/A |
+| 10 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 11 | [somi](http://twitter.com/search?q=somi) | N/A |
 | 12 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 13 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 14 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 15 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 16 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 17 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
-| 18 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 19 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 13 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 14 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 15 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
+| 16 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 17 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 18 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 19 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
 | 20 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 21 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 22 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 21 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 22 | [Bandcamp Friday](http://twitter.com/search?q=Bandcamp+Friday) | N/A |
 | 23 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
 | 24 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
-| 25 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
-| 26 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
-| 27 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
+| 25 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
+| 26 | [ot12](http://twitter.com/search?q=ot12) | N/A |
+| 27 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
 | 28 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
 | 29 | [ARCIA](http://twitter.com/search?q=ARCIA) | N/A |
-| 30 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 31 | [ot12](http://twitter.com/search?q=ot12) | N/A |
-| 32 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 33 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 34 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
-| 35 | [Bruce Brown](http://twitter.com/search?q=Bruce+Brown) | N/A |
-| 36 | [Whitman](http://twitter.com/search?q=Whitman) | N/A |
-| 37 | [Bandcamp Friday](http://twitter.com/search?q=Bandcamp+Friday) | N/A |
-| 38 | [Mercenaries](http://twitter.com/search?q=Mercenaries) | N/A |
-| 39 | [Evan Phillips](http://twitter.com/search?q=Evan+Phillips) | N/A |
-| 40 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 41 | [Sremm 4 Life](http://twitter.com/search?q=Sremm+4+Life) | N/A |
-| 42 | [Jenner](http://twitter.com/search?q=Jenner) | N/A |
-| 43 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 44 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 45 | [Phil Bickford](http://twitter.com/search?q=Phil+Bickford) | N/A |
-| 46 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 47 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 48 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 49 | [Farmer](http://twitter.com/search?q=Farmer) | N/A |
-| 50 | [Ellie Goulding](http://twitter.com/search?q=Ellie+Goulding) | N/A |
+| 30 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 31 | [Mercenaries](http://twitter.com/search?q=Mercenaries) | N/A |
+| 32 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
+| 33 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 34 | [Jenner](http://twitter.com/search?q=Jenner) | N/A |
+| 35 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 36 | [Farmer](http://twitter.com/search?q=Farmer) | N/A |
+| 37 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 38 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 39 | [Hunk](http://twitter.com/search?q=Hunk) | N/A |
+| 40 | [Ellie Goulding](http://twitter.com/search?q=Ellie+Goulding) | N/A |
+| 41 | [Bruce Brown](http://twitter.com/search?q=Bruce+Brown) | N/A |
+| 42 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 43 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 44 | [Scott Walker](http://twitter.com/search?q=Scott+Walker) | N/A |
+| 45 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 46 | [Jesus is Lord](http://twitter.com/search?q=Jesus+is+Lord) | N/A |
+| 47 | [New South](http://twitter.com/search?q=New+South) | N/A |
+| 48 | [Senku](http://twitter.com/search?q=Senku) | N/A |
+| 49 | [Vaush](http://twitter.com/search?q=Vaush) | N/A |
+| 50 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
 
 
 

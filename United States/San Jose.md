@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-04-07 08:18:03 UTC`
+📆 Last Updated: `2023-04-07 09:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 2 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 3 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 6 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 7 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 8 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
-| 9 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 10 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 11 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 12 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 13 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 1 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 2 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 3 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 4 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 5 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 6 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 7 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
+| 8 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 9 | [#PowerBook2](http://twitter.com/search?q=%23PowerBook2) | N/A |
+| 10 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 11 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 12 | [#마크가_말아주는_골든아워](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%ea%b0%80_%eb%a7%90%ec%95%84%ec%a3%bc%eb%8a%94_%ea%b3%a8%eb%93%a0%ec%95%84%ec%9b%8c) | N/A |
+| 13 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
 | 14 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 15 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 16 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 17 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 18 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 19 | [#NFHOPE](http://twitter.com/search?q=%23NFHOPE) | N/A |
-| 20 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
-| 21 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 22 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 23 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 24 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 25 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 26 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
-| 27 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
-| 28 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
-| 29 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
-| 30 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
-| 31 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 32 | [ARCIA](http://twitter.com/search?q=ARCIA) | N/A |
-| 33 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 34 | [ot12](http://twitter.com/search?q=ot12) | N/A |
-| 35 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 36 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 37 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
-| 38 | [Bruce Brown](http://twitter.com/search?q=Bruce+Brown) | N/A |
-| 39 | [Whitman](http://twitter.com/search?q=Whitman) | N/A |
-| 40 | [Bandcamp Friday](http://twitter.com/search?q=Bandcamp+Friday) | N/A |
-| 41 | [Mercenaries](http://twitter.com/search?q=Mercenaries) | N/A |
-| 42 | [Evan Phillips](http://twitter.com/search?q=Evan+Phillips) | N/A |
-| 43 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 44 | [Sremm 4 Life](http://twitter.com/search?q=Sremm+4+Life) | N/A |
-| 45 | [Jenner](http://twitter.com/search?q=Jenner) | N/A |
-| 46 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 47 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 48 | [Phil Bickford](http://twitter.com/search?q=Phil+Bickford) | N/A |
-| 49 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 15 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 16 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
+| 17 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 18 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 19 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 20 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 21 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 22 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 23 | [Bandcamp Friday](http://twitter.com/search?q=Bandcamp+Friday) | N/A |
+| 24 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
+| 25 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
+| 26 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
+| 27 | [ot12](http://twitter.com/search?q=ot12) | N/A |
+| 28 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 29 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 30 | [ARCIA](http://twitter.com/search?q=ARCIA) | N/A |
+| 31 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 32 | [Mercenaries](http://twitter.com/search?q=Mercenaries) | N/A |
+| 33 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
+| 34 | [Jenner](http://twitter.com/search?q=Jenner) | N/A |
+| 35 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 36 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 37 | [Farmer](http://twitter.com/search?q=Farmer) | N/A |
+| 38 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 39 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 40 | [Hunk](http://twitter.com/search?q=Hunk) | N/A |
+| 41 | [Ellie Goulding](http://twitter.com/search?q=Ellie+Goulding) | N/A |
+| 42 | [Bruce Brown](http://twitter.com/search?q=Bruce+Brown) | N/A |
+| 43 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 44 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 45 | [Scott Walker](http://twitter.com/search?q=Scott+Walker) | N/A |
+| 46 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 47 | [Jesus is Lord](http://twitter.com/search?q=Jesus+is+Lord) | N/A |
+| 48 | [New South](http://twitter.com/search?q=New+South) | N/A |
+| 49 | [Senku](http://twitter.com/search?q=Senku) | N/A |
 
 
 

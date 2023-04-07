@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-04-07 08:17:33 UTC`
+📆 Last Updated: `2023-04-07 09:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Germany](</Germany>)
 | 6 | [#Tanzverbot](http://twitter.com/search?q=%23Tanzverbot) | N/A |
 | 7 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
 | 8 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 9 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 10 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
+| 9 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
+| 10 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
 | 11 | [#rblBVB](http://twitter.com/search?q=%23rblBVB) | N/A |
-| 12 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 12 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 13 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 14 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
-| 15 | [Huber](http://twitter.com/search?q=Huber) | N/A |
-| 16 | [Bauhaus](http://twitter.com/search?q=Bauhaus) | N/A |
+| 14 | [Huber](http://twitter.com/search?q=Huber) | N/A |
+| 15 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 16 | [Falschparker](http://twitter.com/search?q=Falschparker) | N/A |
 | 17 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 18 | [Falschparker](http://twitter.com/search?q=Falschparker) | N/A |
-| 19 | [Neandertaler](http://twitter.com/search?q=Neandertaler) | N/A |
-| 20 | [Christen](http://twitter.com/search?q=Christen) | N/A |
-| 21 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 22 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 23 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 24 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
-| 25 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
-| 26 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 27 | [Moin Thomas](http://twitter.com/search?q=Moin+Thomas) | N/A |
-| 28 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 29 | [Feinstaub](http://twitter.com/search?q=Feinstaub) | N/A |
+| 18 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
+| 19 | [Christen](http://twitter.com/search?q=Christen) | N/A |
+| 20 | [Pesto](http://twitter.com/search?q=Pesto) | N/A |
+| 21 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 22 | [Bauhaus](http://twitter.com/search?q=Bauhaus) | N/A |
+| 23 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 24 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 25 | [Neandertaler](http://twitter.com/search?q=Neandertaler) | N/A |
+| 26 | [Feinstaub](http://twitter.com/search?q=Feinstaub) | N/A |
+| 27 | [Brian](http://twitter.com/search?q=Brian) | N/A |
+| 28 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 29 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
 | 30 | [Kapitulation der Ukraine](http://twitter.com/search?q=Kapitulation+der+Ukraine) | N/A |
-| 31 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
-| 32 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 33 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 34 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 35 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
-| 36 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 38 | [Kellermann](http://twitter.com/search?q=Kellermann) | N/A |
-| 39 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 40 | [Guten Morgen Twitter](http://twitter.com/search?q=Guten+Morgen+Twitter) | N/A |
-| 41 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
-| 42 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 43 | [Dream Concert](http://twitter.com/search?q=Dream+Concert) | N/A |
-| 44 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
-| 45 | [Worst Concert](http://twitter.com/search?q=Worst+Concert) | N/A |
-| 46 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
+| 31 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 32 | [Denunziation](http://twitter.com/search?q=Denunziation) | N/A |
+| 33 | [Moin](http://twitter.com/search?q=Moin) | N/A |
+| 34 | [Tanzen](http://twitter.com/search?q=Tanzen) | N/A |
+| 35 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 36 | [Dream Concert](http://twitter.com/search?q=Dream+Concert) | N/A |
+| 37 | [Worst Concert](http://twitter.com/search?q=Worst+Concert) | N/A |
+| 38 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 39 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 40 | [Kellermann](http://twitter.com/search?q=Kellermann) | N/A |
+| 41 | [Ballweg](http://twitter.com/search?q=Ballweg) | N/A |
+| 42 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
+| 43 | [Kaiserschnitt](http://twitter.com/search?q=Kaiserschnitt) | N/A |
+| 44 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
+| 45 | [Bus und Bahn](http://twitter.com/search?q=Bus+und+Bahn) | N/A |
+| 46 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 47 | [Vergewaltigung](http://twitter.com/search?q=Vergewaltigung) | N/A |
-| 48 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 49 | [Kaiserschnitt](http://twitter.com/search?q=Kaiserschnitt) | N/A |
-| 50 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 48 | ['geflecht'](http://twitter.com/search?q=%27geflecht%27) | N/A |
+| 49 | [Ringe](http://twitter.com/search?q=Ringe) | N/A |
+| 50 | [Pfeffer](http://twitter.com/search?q=Pfeffer) | N/A |
 
 
 

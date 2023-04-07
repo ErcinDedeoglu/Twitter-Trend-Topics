@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-07 08:18:06 UTC`
+📆 Last Updated: `2023-04-07 09:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for Dominican Republic
 | 5 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 6 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
 | 7 | [#SS2023](http://twitter.com/search?q=%23SS2023) | N/A |
-| 8 | [El Seibo](http://twitter.com/search?q=El+Seibo) | N/A |
+| 8 | [el seibo](http://twitter.com/search?q=el+seibo) | N/A |
 | 9 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
 | 10 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
 | 11 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
@@ -46,25 +46,25 @@ This is top 50 for Dominican Republic
 | 29 | [Judas](http://twitter.com/search?q=Judas) | N/A |
 | 30 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 31 | [el coe](http://twitter.com/search?q=el+coe) | N/A |
-| 32 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 33 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
-| 34 | [villa faro](http://twitter.com/search?q=villa+faro) | N/A |
-| 35 | [euri](http://twitter.com/search?q=euri) | N/A |
-| 36 | [Señor Jesucristo](http://twitter.com/search?q=Se%c3%b1or+Jesucristo) | N/A |
-| 37 | [Río San Juan](http://twitter.com/search?q=R%c3%ado+San+Juan) | N/A |
-| 38 | [Semana Mayor](http://twitter.com/search?q=Semana+Mayor) | N/A |
-| 39 | [luisin](http://twitter.com/search?q=luisin) | N/A |
-| 40 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 41 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 42 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
-| 43 | [Hanley](http://twitter.com/search?q=Hanley) | N/A |
-| 44 | [nagua](http://twitter.com/search?q=nagua) | N/A |
-| 45 | [Vladimir Guerrero Jr.](http://twitter.com/search?q=Vladimir+Guerrero+Jr.) | N/A |
-| 46 | [Jaime David](http://twitter.com/search?q=Jaime+David) | N/A |
-| 47 | [san pedro de macorís](http://twitter.com/search?q=san+pedro+de+macor%c3%ads) | N/A |
-| 48 | [el penco](http://twitter.com/search?q=el+penco) | N/A |
-| 49 | [Samaná](http://twitter.com/search?q=Saman%c3%a1) | N/A |
-| 50 | [Triduo Pascual](http://twitter.com/search?q=Triduo+Pascual) | N/A |
+| 32 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
+| 33 | [villa faro](http://twitter.com/search?q=villa+faro) | N/A |
+| 34 | [euri](http://twitter.com/search?q=euri) | N/A |
+| 35 | [Río San Juan](http://twitter.com/search?q=R%c3%ado+San+Juan) | N/A |
+| 36 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 37 | [Semana Mayor](http://twitter.com/search?q=Semana+Mayor) | N/A |
+| 38 | [luisin](http://twitter.com/search?q=luisin) | N/A |
+| 39 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
+| 40 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 41 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
+| 42 | [Hanley](http://twitter.com/search?q=Hanley) | N/A |
+| 43 | [nagua](http://twitter.com/search?q=nagua) | N/A |
+| 44 | [Vladimir Guerrero Jr.](http://twitter.com/search?q=Vladimir+Guerrero+Jr.) | N/A |
+| 45 | [jaime david](http://twitter.com/search?q=jaime+david) | N/A |
+| 46 | [san pedro de macorís](http://twitter.com/search?q=san+pedro+de+macor%c3%ads) | N/A |
+| 47 | [el penco](http://twitter.com/search?q=el+penco) | N/A |
+| 48 | [Samaná](http://twitter.com/search?q=Saman%c3%a1) | N/A |
+| 49 | [Triduo Pascual](http://twitter.com/search?q=Triduo+Pascual) | N/A |
+| 50 | [los lakers](http://twitter.com/search?q=los+lakers) | N/A |
 
 
 

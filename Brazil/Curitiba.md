@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-04-07 08:17:27 UTC`
+📆 Last Updated: `2023-04-07 09:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 2 | [Libertad](http://twitter.com/search?q=Libertad) | N/A |
-| 3 | [Henrique](http://twitter.com/search?q=Henrique) | N/A |
-| 4 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 5 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
-| 6 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 7 | [ESTAMOS COM VOCE BRUNA](http://twitter.com/search?q=ESTAMOS+COM+VOCE+BRUNA) | N/A |
-| 8 | [#AgustDxIU](http://twitter.com/search?q=%23AgustDxIU) | N/A |
-| 9 | [Mimada](http://twitter.com/search?q=Mimada) | N/A |
-| 10 | [kylie](http://twitter.com/search?q=kylie) | N/A |
-| 11 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 12 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 13 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 14 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
-| 15 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 16 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 17 | [SEM CHORO](http://twitter.com/search?q=SEM+CHORO) | N/A |
-| 18 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
-| 19 | [Erison](http://twitter.com/search?q=Erison) | N/A |
-| 20 | [julia alvarenga](http://twitter.com/search?q=julia+alvarenga) | N/A |
-| 21 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 22 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 23 | [#ForaBrunaGriphao](http://twitter.com/search?q=%23ForaBrunaGriphao) | N/A |
-| 24 | [Labrinth](http://twitter.com/search?q=Labrinth) | N/A |
-| 25 | [arboleda](http://twitter.com/search?q=arboleda) | N/A |
-| 26 | [Ásia](http://twitter.com/search?q=%c3%81sia) | N/A |
-| 27 | [Timothée](http://twitter.com/search?q=Timoth%c3%a9e) | N/A |
-| 28 | [Mimadinha](http://twitter.com/search?q=Mimadinha) | N/A |
-| 29 | [Big Fone](http://twitter.com/search?q=Big+Fone) | Big Fone is a slang term used to refer to a large, expensive mobile phone. It is often used to describe a phone that is seen as being luxurious or ostentatious. |
-| 30 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 31 | [Adnet](http://twitter.com/search?q=Adnet) | N/A |
-| 32 | [Sexta-feira Santa](http://twitter.com/search?q=Sexta-feira+Santa) | N/A |
-| 33 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 34 | [Tchê Tchê](http://twitter.com/search?q=Tch%c3%aa+Tch%c3%aa) | N/A |
-| 35 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 36 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 37 | [Domitila e Fred](http://twitter.com/search?q=Domitila+e+Fred) | N/A |
-| 38 | [Ellie Goulding](http://twitter.com/search?q=Ellie+Goulding) | N/A |
-| 39 | [Raluca](http://twitter.com/search?q=Raluca) | N/A |
-| 40 | [Tiquinho](http://twitter.com/search?q=Tiquinho) | N/A |
-| 41 | [Beraldo](http://twitter.com/search?q=Beraldo) | N/A |
-| 42 | [Michel](http://twitter.com/search?q=Michel) | N/A |
-| 43 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 44 | [Chay](http://twitter.com/search?q=Chay) | N/A |
-| 45 | [São Paulo Futebol Clube](http://twitter.com/search?q=S%c3%a3o+Paulo+Futebol+Clube) | N/A |
-| 46 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
-| 47 | [#provadolíder](http://twitter.com/search?q=%23provadol%c3%adder) | N/A |
+| 1 | [Henrique](http://twitter.com/search?q=Henrique) | N/A |
+| 2 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 3 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 4 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
+| 5 | [RENATO AUGUSTO](http://twitter.com/search?q=RENATO+AUGUSTO) | N/A |
+| 6 | [BALBUENA](http://twitter.com/search?q=BALBUENA) | N/A |
+| 7 | [#MaziOnBitmart](http://twitter.com/search?q=%23MaziOnBitmart) | N/A |
+| 8 | [Blumenau](http://twitter.com/search?q=Blumenau) | N/A |
+| 9 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 10 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 11 | [#deelance](http://twitter.com/search?q=%23deelance) | N/A |
+| 12 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 13 | [ROGER GUEDES](http://twitter.com/search?q=ROGER+GUEDES) | Roger Guedes is a Brazilian footballer who currently plays for Palmeiras. He is a versatile player who can play as a forward, winger, or attacking midfielder. His name in English translates to "strong warrior". |
+| 14 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 15 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 16 | [Evaristo](http://twitter.com/search?q=Evaristo) | N/A |
+| 17 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
+| 18 | [#libertadoresnoparamount](http://twitter.com/search?q=%23libertadoresnoparamount) | N/A |
+| 19 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 20 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
+| 21 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
+| 22 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
+| 23 | [#voleinosportv](http://twitter.com/search?q=%23voleinosportv) | N/A |
+| 24 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 25 | [Erison](http://twitter.com/search?q=Erison) | N/A |
+| 26 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 27 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
+| 28 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 29 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 30 | [GABRIEL PIRES](http://twitter.com/search?q=GABRIEL+PIRES) | N/A |
+| 31 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 32 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 33 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 34 | [arboleda](http://twitter.com/search?q=arboleda) | N/A |
+| 35 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 36 | [LUIS CASTRO](http://twitter.com/search?q=LUIS+CASTRO) | N/A |
+| 37 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
+| 38 | [alan franco](http://twitter.com/search?q=alan+franco) | N/A |
+| 39 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 40 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 41 | [kylie](http://twitter.com/search?q=kylie) | N/A |
+| 42 | [David](http://twitter.com/search?q=David) | N/A |
+| 43 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 44 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 45 | [andressa alves](http://twitter.com/search?q=andressa+alves) | N/A |
+| 46 | [Barletta](http://twitter.com/search?q=Barletta) | N/A |
+| 47 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 48 | [EL TORO](http://twitter.com/search?q=EL+TORO) | N/A |
+| 49 | [brtt no fluxo](http://twitter.com/search?q=brtt+no+fluxo) | N/A |
+| 50 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 
 
 
