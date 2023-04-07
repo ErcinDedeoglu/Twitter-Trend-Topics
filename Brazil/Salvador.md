@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-04-07 19:17:01 UTC`
+📆 Last Updated: `2023-04-07 20:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
 | 2 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
-| 3 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 4 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 5 | [#PortuguêsNaESPN](http://twitter.com/search?q=%23Portugu%c3%aasNaESPN) | N/A |
-| 6 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 7 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 8 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 9 | [BBB SEM TRANSPARÊNCIA](http://twitter.com/search?q=BBB+SEM+TRANSPAR%c3%8aNCIA) | N/A |
-| 10 | [Arcor](http://twitter.com/search?q=Arcor) | N/A |
-| 11 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
-| 12 | [Sexta-feira Santa](http://twitter.com/search?q=Sexta-feira+Santa) | N/A |
-| 13 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
-| 14 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 3 | [Abra o Spotify](http://twitter.com/search?q=Abra+o+Spotify) | N/A |
+| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 5 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
+| 6 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 7 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 8 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
+| 9 | [#PortuguêsNaESPN](http://twitter.com/search?q=%23Portugu%c3%aasNaESPN) | N/A |
+| 10 | [#FridayOnlineWord](http://twitter.com/search?q=%23FridayOnlineWord) | N/A |
+| 11 | [Arcor](http://twitter.com/search?q=Arcor) | N/A |
+| 12 | [Comandante Hamilton](http://twitter.com/search?q=Comandante+Hamilton) | N/A |
+| 13 | [Luciano Juba](http://twitter.com/search?q=Luciano+Juba) | N/A |
+| 14 | [#ItalianoNaESPN](http://twitter.com/search?q=%23ItalianoNaESPN) | N/A |
 | 15 | [Correios](http://twitter.com/search?q=Correios) | N/A |
-| 16 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 17 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 18 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 19 | [Bernadete](http://twitter.com/search?q=Bernadete) | N/A |
-| 20 | [#DiadoJornalista](http://twitter.com/search?q=%23DiadoJornalista) | N/A |
-| 21 | [Lecce](http://twitter.com/search?q=Lecce) | N/A |
-| 22 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 23 | [Voto](http://twitter.com/search?q=Voto) | N/A |
-| 24 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 25 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
-| 26 | [POSTE OS SEUS 4 MAINS](http://twitter.com/search?q=POSTE+OS+SEUS+4+MAINS) | N/A |
-| 27 | [Cracolândia](http://twitter.com/search?q=Cracol%c3%a2ndia) | N/A |
-| 28 | [Candreva](http://twitter.com/search?q=Candreva) | N/A |
-| 29 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 30 | [jonghyun](http://twitter.com/search?q=jonghyun) | N/A |
-| 31 | [Gonçalo Ramos](http://twitter.com/search?q=Gon%c3%a7alo+Ramos) | N/A |
-| 32 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
-| 33 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
-| 34 | [Toy Story 4](http://twitter.com/search?q=Toy+Story+4) | N/A |
-| 35 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 36 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 37 | [Genshin Impact](http://twitter.com/search?q=Genshin+Impact) | N/A |
-| 38 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
-| 39 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 40 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 41 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 42 | [Leo Dias](http://twitter.com/search?q=Leo+Dias) | N/A |
-| 43 | [Resposta Histórica](http://twitter.com/search?q=Resposta+Hist%c3%b3rica) | N/A |
-| 44 | [Ilegalmente](http://twitter.com/search?q=Ilegalmente) | N/A |
-| 45 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 46 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
-| 47 | [Pântano](http://twitter.com/search?q=P%c3%a2ntano) | N/A |
-| 48 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 49 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 50 | [Peixe](http://twitter.com/search?q=Peixe) | N/A |
+| 16 | [Pedro Coelho](http://twitter.com/search?q=Pedro+Coelho) | N/A |
+| 17 | [POSTE OS SEUS 4 MAINS](http://twitter.com/search?q=POSTE+OS+SEUS+4+MAINS) | N/A |
+| 18 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 19 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
+| 20 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 21 | [Cracolândia](http://twitter.com/search?q=Cracol%c3%a2ndia) | N/A |
+| 22 | [Genshin Impact](http://twitter.com/search?q=Genshin+Impact) | N/A |
+| 23 | [BBB SEM TRANSPARÊNCIA](http://twitter.com/search?q=BBB+SEM+TRANSPAR%c3%8aNCIA) | N/A |
+| 24 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
+| 25 | [Sexta-feira Santa](http://twitter.com/search?q=Sexta-feira+Santa) | N/A |
+| 26 | [Bernadete](http://twitter.com/search?q=Bernadete) | N/A |
+| 27 | [Voto](http://twitter.com/search?q=Voto) | N/A |
+| 28 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
+| 29 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 30 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 31 | [Lecce](http://twitter.com/search?q=Lecce) | N/A |
+| 32 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 33 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 34 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 35 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 36 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
+| 37 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
+| 38 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 39 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
+| 40 | [Toy Story 4](http://twitter.com/search?q=Toy+Story+4) | N/A |
+| 41 | [Caribe](http://twitter.com/search?q=Caribe) | N/A |
+| 42 | [Injustamente](http://twitter.com/search?q=Injustamente) | N/A |
+| 43 | [Tortuguita](http://twitter.com/search?q=Tortuguita) | N/A |
+| 44 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 45 | [Bacalhau](http://twitter.com/search?q=Bacalhau) | N/A |
+| 46 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 47 | [Resposta Histórica](http://twitter.com/search?q=Resposta+Hist%c3%b3rica) | N/A |
+| 48 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 49 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 50 | [Ilegalmente](http://twitter.com/search?q=Ilegalmente) | N/A |
 
 
 

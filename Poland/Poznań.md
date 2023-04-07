@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-04-07 19:17:03 UTC`
+📆 Last Updated: `2023-04-07 20:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 2 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 3 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
-| 4 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
+| 2 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
+| 3 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
+| 4 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
 | 5 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
 | 6 | [Świąt Wielkanocnych](http://twitter.com/search?q=%c5%9awi%c4%85t+Wielkanocnych) | N/A |
-| 7 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 8 | [#Forum](http://twitter.com/search?q=%23Forum) | N/A |
+| 7 | [#Forum](http://twitter.com/search?q=%23Forum) | N/A |
+| 8 | [#wloskarobota](http://twitter.com/search?q=%23wloskarobota) | N/A |
 | 9 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
-| 10 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
-| 11 | [#włoskarobota](http://twitter.com/search?q=%23w%c5%82oskarobota) | N/A |
-| 12 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
-| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 14 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 15 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
-| 16 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
-| 17 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
-| 18 | [#PistoZlo](http://twitter.com/search?q=%23PistoZlo) | N/A |
+| 10 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
+| 11 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
+| 12 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
+| 13 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 14 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
+| 15 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 16 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
+| 17 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 18 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
 | 19 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
-| 20 | [Bugaj](http://twitter.com/search?q=Bugaj) | N/A |
-| 21 | [Radio Zet](http://twitter.com/search?q=Radio+Zet) | N/A |
-| 22 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
+| 20 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
+| 21 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
+| 22 | [Radio ZET](http://twitter.com/search?q=Radio+ZET) | N/A |
 | 23 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
 | 24 | [KRRiT](http://twitter.com/search?q=KRRiT) | N/A |
 | 25 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
 | 26 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
 | 27 | [Klubowy GOAT](http://twitter.com/search?q=Klubowy+GOAT) | N/A |
-| 28 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
-| 29 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
+| 28 | [Bugaj](http://twitter.com/search?q=Bugaj) | N/A |
+| 29 | [Wielkiego Piątku](http://twitter.com/search?q=Wielkiego+Pi%c4%85tku) | N/A |
 | 30 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
-| 31 | [Wielkiego Piątku](http://twitter.com/search?q=Wielkiego+Pi%c4%85tku) | N/A |
-| 32 | [Wielki Czwartek](http://twitter.com/search?q=Wielki+Czwartek) | N/A |
-| 33 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 34 | [T-64](http://twitter.com/search?q=T-64) | N/A |
-| 35 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
-| 36 | [Droga Krzyżowa](http://twitter.com/search?q=Droga+Krzy%c5%bcowa) | N/A |
-| 37 | [Murem](http://twitter.com/search?q=Murem) | N/A |
-| 38 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 39 | [Politechniki Łódzkiej](http://twitter.com/search?q=Politechniki+%c5%81%c3%b3dzkiej) | N/A |
-| 40 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
-| 41 | [Potrafisz Polsko](http://twitter.com/search?q=Potrafisz+Polsko) | N/A |
-| 42 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
-| 43 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 44 | [vuko](http://twitter.com/search?q=vuko) | N/A |
-| 45 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 46 | [Interu](http://twitter.com/search?q=Interu) | N/A |
-| 47 | [Paweł Walenia](http://twitter.com/search?q=Pawe%c5%82+Walenia) | N/A |
-| 48 | [Cieszyński](http://twitter.com/search?q=Cieszy%c5%84ski) | N/A |
-| 49 | [MSWiA](http://twitter.com/search?q=MSWiA) | N/A |
-| 50 | [Witkowa](http://twitter.com/search?q=Witkowa) | N/A |
+| 31 | [Milanu](http://twitter.com/search?q=Milanu) | N/A |
+| 32 | [Lisić](http://twitter.com/search?q=Lisi%c4%87) | N/A |
+| 33 | [Wielki Czwartek](http://twitter.com/search?q=Wielki+Czwartek) | N/A |
+| 34 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
+| 35 | [Droga Krzyżowa](http://twitter.com/search?q=Droga+Krzy%c5%bcowa) | N/A |
+| 36 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 37 | [Bastia](http://twitter.com/search?q=Bastia) | N/A |
+| 38 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
+| 39 | [T-64](http://twitter.com/search?q=T-64) | N/A |
+| 40 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 41 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 42 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
+| 43 | [Murem](http://twitter.com/search?q=Murem) | N/A |
+| 44 | [Politechniki Łódzkiej](http://twitter.com/search?q=Politechniki+%c5%81%c3%b3dzkiej) | N/A |
+| 45 | [Potrafisz Polsko](http://twitter.com/search?q=Potrafisz+Polsko) | N/A |
+| 46 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
+| 47 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
+| 48 | [Schetyna](http://twitter.com/search?q=Schetyna) | N/A |
+| 49 | [vuko](http://twitter.com/search?q=vuko) | N/A |
+| 50 | [Lecce](http://twitter.com/search?q=Lecce) | N/A |
 
 
 

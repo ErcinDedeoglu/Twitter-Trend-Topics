@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kitakyushu
 
-📆 Last Updated: `2023-04-07 19:17:13 UTC`
+📆 Last Updated: `2023-04-07 20:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Japan](</Japan>)
 | ------- | ------------ | ------------ |
 | 1 | [#nitkc対面式2023](http://twitter.com/search?q=%23nitkc%e5%af%be%e9%9d%a2%e5%bc%8f2023) | N/A |
 | 2 | [#Mステ](http://twitter.com/search?q=%23M%e3%82%b9%e3%83%86) | #Mステ is an abbreviation for Music Station, a popular Japanese music show that has been airing since 1986. It is broadcast on the TV Asahi network and features performances from popular Japanese artists. The show also includes interviews with the artists and other segments. In English, #Mステ translates to Music Station. |
-| 3 | [#jojo_anime](http://twitter.com/search?q=%23jojo_anime) | N/A |
-| 4 | [#フロイニ](http://twitter.com/search?q=%23%e3%83%95%e3%83%ad%e3%82%a4%e3%83%8b) | #フロイニ is a hashtag used on social media in Japan. It is a combination of the words "flower" and "nyan" (the Japanese word for meow), and it is used to express appreciation for flowers and plants. In English, it could be translated as "#FlowerMeow". |
-| 5 | [エンポリオ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%9d%e3%83%aa%e3%82%aa) | N/A |
-| 6 | [虫さん結婚](http://twitter.com/search?q=%e8%99%ab%e3%81%95%e3%82%93%e7%b5%90%e5%a9%9a) | N/A |
-| 7 | [#江戸前エルフ](http://twitter.com/search?q=%23%e6%b1%9f%e6%88%b8%e5%89%8d%e3%82%a8%e3%83%ab%e3%83%95) | N/A |
-| 8 | [ジョジョ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%82%b8%e3%83%a7) | N/A |
-| 9 | [ストーンオーシャン](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%bc%e3%83%b3%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3) | N/A |
-| 10 | [クロノスタシス](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%83%8e%e3%82%b9%e3%82%bf%e3%82%b7%e3%82%b9) | N/A |
-| 11 | [エンディング](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | エンディング (ending) is a term used in Japanese media to refer to the conclusion of a story, film, or television show. In English, it is often referred to as the "climax" or "resolution". |
-| 12 | [マッシュル](http://twitter.com/search?q=%e3%83%9e%e3%83%83%e3%82%b7%e3%83%a5%e3%83%ab) | N/A |
-| 13 | [学校のリーダーズ](http://twitter.com/search?q=%e5%ad%a6%e6%a0%a1%e3%81%ae%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%e3%82%ba) | N/A |
-| 14 | [コナンくん](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%8f%e3%82%93) | コナンくん is a nickname for the fictional character Conan Edogawa from the manga and anime series Detective Conan. In English, it can be translated to "Conan-kun". |
-| 15 | [特殊OP](http://twitter.com/search?q=%e7%89%b9%e6%ae%8aOP) | N/A |
-| 16 | [Roundabout](http://twitter.com/search?q=Roundabout) | N/A |
-| 17 | [安室さん](http://twitter.com/search?q=%e5%ae%89%e5%ae%a4%e3%81%95%e3%82%93) | N/A |
-| 18 | [マヤちゃん](http://twitter.com/search?q=%e3%83%9e%e3%83%a4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 19 | [第442回](http://twitter.com/search?q=%e7%ac%ac442%e5%9b%9e) | N/A |
-| 20 | [オトナブルー](http://twitter.com/search?q=%e3%82%aa%e3%83%88%e3%83%8a%e3%83%96%e3%83%ab%e3%83%bc) | N/A |
-| 21 | [THE FIRST TAKE](http://twitter.com/search?q=THE+FIRST+TAKE) | The First Take is a phrase used to describe the initial recording of a song or performance. It is often used to refer to the first attempt at recording a song, which is usually considered to be the best take. The phrase can also be used to refer to any initial attempt at something, such as the first draft of a paper or the first try at a new skill. |
-| 22 | [魔法少女マジカル](http://twitter.com/search?q=%e9%ad%94%e6%b3%95%e5%b0%91%e5%a5%b3%e3%83%9e%e3%82%b8%e3%82%ab%e3%83%ab) | N/A |
-| 23 | [全国一斉クイズ](http://twitter.com/search?q=%e5%85%a8%e5%9b%bd%e4%b8%80%e6%96%89%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
-| 24 | [コナンの映画](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%ae%e6%98%a0%e7%94%bb) | N/A |
-| 25 | [オチョア](http://twitter.com/search?q=%e3%82%aa%e3%83%81%e3%83%a7%e3%82%a2) | オチョア is a Japanese onomatopoeia that describes the sound of something being crushed or broken. In English, it could be translated as "crunch" or "crack". |
+| 3 | [#三四郎ANN0](http://twitter.com/search?q=%23%e4%b8%89%e5%9b%9b%e9%83%8eANN0) | N/A |
+| 4 | [#jojo_anime](http://twitter.com/search?q=%23jojo_anime) | N/A |
+| 5 | [#紫咲シオン](http://twitter.com/search?q=%23%e7%b4%ab%e5%92%b2%e3%82%b7%e3%82%aa%e3%83%b3) | N/A |
+| 6 | [APEX鯖落ち](http://twitter.com/search?q=APEX%e9%af%96%e8%90%bd%e3%81%a1) | N/A |
+| 7 | [エンポリオ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%9d%e3%83%aa%e3%82%aa) | N/A |
+| 8 | [虫さん結婚](http://twitter.com/search?q=%e8%99%ab%e3%81%95%e3%82%93%e7%b5%90%e5%a9%9a) | N/A |
+| 9 | [ジョジョ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%82%b8%e3%83%a7) | N/A |
+| 10 | [レビッチ](http://twitter.com/search?q=%e3%83%ac%e3%83%93%e3%83%83%e3%83%81) | N/A |
+| 11 | [ストーンオーシャン](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%bc%e3%83%b3%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3) | N/A |
+| 12 | [学校のリーダーズ](http://twitter.com/search?q=%e5%ad%a6%e6%a0%a1%e3%81%ae%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%e3%82%ba) | N/A |
+| 13 | [クロノスタシス](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%83%8e%e3%82%b9%e3%82%bf%e3%82%b7%e3%82%b9) | N/A |
+| 14 | [エンディング](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | エンディング (ending) is a term used in Japanese media to refer to the conclusion of a story, film, or television show. In English, it is often referred to as the "climax" or "resolution". |
+| 15 | [マッシュル](http://twitter.com/search?q=%e3%83%9e%e3%83%83%e3%82%b7%e3%83%a5%e3%83%ab) | N/A |
+| 16 | [ALGS延期](http://twitter.com/search?q=ALGS%e5%bb%b6%e6%9c%9f) | N/A |
+| 17 | [エペ鯖落ち](http://twitter.com/search?q=%e3%82%a8%e3%83%9a%e9%af%96%e8%90%bd%e3%81%a1) | N/A |
+| 18 | [特殊OP](http://twitter.com/search?q=%e7%89%b9%e6%ae%8aOP) | N/A |
+| 19 | [オトナブルー](http://twitter.com/search?q=%e3%82%aa%e3%83%88%e3%83%8a%e3%83%96%e3%83%ab%e3%83%bc) | N/A |
+| 20 | [Roundabout](http://twitter.com/search?q=Roundabout) | N/A |
+| 21 | [コナンくん](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%8f%e3%82%93) | コナンくん is a nickname for the fictional character Conan Edogawa from the manga and anime series Detective Conan. In English, it can be translated to "Conan-kun". |
+| 22 | [第442回](http://twitter.com/search?q=%e7%ac%ac442%e5%9b%9e) | N/A |
+| 23 | [THE FIRST TAKE](http://twitter.com/search?q=THE+FIRST+TAKE) | The First Take is a phrase used to describe the initial recording of a song or performance. It is often used to refer to the first attempt at recording a song, which is usually considered to be the best take. The phrase can also be used to refer to any initial attempt at something, such as the first draft of a paper or the first try at a new skill. |
+| 24 | [マヤちゃん](http://twitter.com/search?q=%e3%83%9e%e3%83%a4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 25 | [安室さん](http://twitter.com/search?q=%e5%ae%89%e5%ae%a4%e3%81%95%e3%82%93) | N/A |
 | 26 | [プッチ神父](http://twitter.com/search?q=%e3%83%97%e3%83%83%e3%83%81%e7%a5%9e%e7%88%b6) | N/A |
-| 27 | [ゼルダの伝説](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e3%81%ae%e4%bc%9d%e8%aa%ac) | N/A |
-| 28 | [ミラクルキュート](http://twitter.com/search?q=%e3%83%9f%e3%83%a9%e3%82%af%e3%83%ab%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%88) | N/A |
-| 29 | [ノーカット](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%ab%e3%83%83%e3%83%88) | N/A |
+| 27 | [オチョア](http://twitter.com/search?q=%e3%82%aa%e3%83%81%e3%83%a7%e3%82%a2) | オチョア is a Japanese onomatopoeia that describes the sound of something being crushed or broken. In English, it could be translated as "crunch" or "crack". |
+| 28 | [魔法少女マジカル](http://twitter.com/search?q=%e9%ad%94%e6%b3%95%e5%b0%91%e5%a5%b3%e3%83%9e%e3%82%b8%e3%82%ab%e3%83%ab) | N/A |
+| 29 | [投票テーマ](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e3%83%86%e3%83%bc%e3%83%9e) | N/A |
 | 30 | [プリキュア楽曲総選挙](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2%e6%a5%bd%e6%9b%b2%e7%b7%8f%e9%81%b8%e6%8c%99) | N/A |
-| 31 | [投票テーマ](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e3%83%86%e3%83%bc%e3%83%9e) | N/A |
-| 32 | [ロシア語](http://twitter.com/search?q=%e3%83%ad%e3%82%b7%e3%82%a2%e8%aa%9e) | N/A |
+| 31 | [コナンの映画](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%ae%e6%98%a0%e7%94%bb) | N/A |
+| 32 | [ミラクルキュート](http://twitter.com/search?q=%e3%83%9f%e3%83%a9%e3%82%af%e3%83%ab%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%88) | N/A |
 | 33 | [碇ゲンドウ](http://twitter.com/search?q=%e7%a2%87%e3%82%b2%e3%83%b3%e3%83%89%e3%82%a6) | N/A |
-| 34 | [りょうくん](http://twitter.com/search?q=%e3%82%8a%e3%82%87%e3%81%86%e3%81%8f%e3%82%93) | N/A |
-| 35 | [ポジティ](http://twitter.com/search?q=%e3%83%9d%e3%82%b8%e3%83%86%e3%82%a3) | N/A |
-| 36 | [ワイルド](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%83%ab%e3%83%89) | N/A |
-| 37 | [プラーミャ](http://twitter.com/search?q=%e3%83%97%e3%83%a9%e3%83%bc%e3%83%9f%e3%83%a3) | N/A |
-| 38 | [アソーカ](http://twitter.com/search?q=%e3%82%a2%e3%82%bd%e3%83%bc%e3%82%ab) | N/A |
+| 34 | [全国一斉クイズ](http://twitter.com/search?q=%e5%85%a8%e5%9b%bd%e4%b8%80%e6%96%89%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
+| 35 | [ゼルダの伝説](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e3%81%ae%e4%bc%9d%e8%aa%ac) | N/A |
+| 36 | [シオンちゃん](http://twitter.com/search?q=%e3%82%b7%e3%82%aa%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 37 | [ロシア語](http://twitter.com/search?q=%e3%83%ad%e3%82%b7%e3%82%a2%e8%aa%9e) | N/A |
+| 38 | [りょうくん](http://twitter.com/search?q=%e3%82%8a%e3%82%87%e3%81%86%e3%81%8f%e3%82%93) | N/A |
 | 39 | [スターウォーズ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%ba) | N/A |
-| 40 | [NANDE](http://twitter.com/search?q=NANDE) | N/A |
-| 41 | [EDカット](http://twitter.com/search?q=ED%e3%82%ab%e3%83%83%e3%83%88) | N/A |
-| 42 | [Jamppi](http://twitter.com/search?q=Jamppi) | N/A |
-| 43 | [哀ちゃん](http://twitter.com/search?q=%e5%93%80%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 44 | [風見さん](http://twitter.com/search?q=%e9%a2%a8%e8%a6%8b%e3%81%95%e3%82%93) | N/A |
-| 45 | [インテル](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%86%e3%83%ab) | N/A |
-| 46 | [降谷さん](http://twitter.com/search?q=%e9%99%8d%e8%b0%b7%e3%81%95%e3%82%93) | N/A |
-| 47 | [僕の名前](http://twitter.com/search?q=%e5%83%95%e3%81%ae%e5%90%8d%e5%89%8d) | N/A |
-| 48 | [高木刑事](http://twitter.com/search?q=%e9%ab%98%e6%9c%a8%e5%88%91%e4%ba%8b) | N/A |
-| 49 | [地球先生](http://twitter.com/search?q=%e5%9c%b0%e7%90%83%e5%85%88%e7%94%9f) | N/A |
-| 50 | [勿怪の森](http://twitter.com/search?q=%e5%8b%bf%e6%80%aa%e3%81%ae%e6%a3%ae) | N/A |
+| 40 | [インテル](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%86%e3%83%ab) | N/A |
+| 41 | [ポジティ](http://twitter.com/search?q=%e3%83%9d%e3%82%b8%e3%83%86%e3%82%a3) | N/A |
+| 42 | [ワイルド](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%83%ab%e3%83%89) | N/A |
+| 43 | [ジョンくん](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%81%8f%e3%82%93) | N/A |
+| 44 | [NANDE](http://twitter.com/search?q=NANDE) | N/A |
+| 45 | [プラーミャ](http://twitter.com/search?q=%e3%83%97%e3%83%a9%e3%83%bc%e3%83%9f%e3%83%a3) | N/A |
+| 46 | [風見さん](http://twitter.com/search?q=%e9%a2%a8%e8%a6%8b%e3%81%95%e3%82%93) | N/A |
+| 47 | [減刑署名](http://twitter.com/search?q=%e6%b8%9b%e5%88%91%e7%bd%b2%e5%90%8d) | N/A |
+| 48 | [僕の名前](http://twitter.com/search?q=%e5%83%95%e3%81%ae%e5%90%8d%e5%89%8d) | N/A |
+| 49 | [勿怪の森](http://twitter.com/search?q=%e5%8b%bf%e6%80%aa%e3%81%ae%e6%a3%ae) | N/A |
+| 50 | [アソーカ](http://twitter.com/search?q=%e3%82%a2%e3%82%bd%e3%83%bc%e3%82%ab) | N/A |
 
 
 

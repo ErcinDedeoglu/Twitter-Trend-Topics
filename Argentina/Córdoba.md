@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-04-07 19:17:02 UTC`
+📆 Last Updated: `2023-04-07 20:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,55 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 2 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 3 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 4 | [#CortaPorLozano](http://twitter.com/search?q=%23CortaPorLozano) | N/A |
-| 5 | [Havanna](http://twitter.com/search?q=Havanna) | N/A |
-| 6 | [Dosogas](http://twitter.com/search?q=Dosogas) | N/A |
-| 7 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 8 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 9 | [#DiaMundialdelaSalud](http://twitter.com/search?q=%23DiaMundialdelaSalud) | N/A |
-| 10 | [Ruckauf](http://twitter.com/search?q=Ruckauf) | N/A |
-| 11 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 12 | [Viral](http://twitter.com/search?q=Viral) | N/A |
-| 13 | [yao cabrera](http://twitter.com/search?q=yao+cabrera) | N/A |
-| 14 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 15 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 16 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 17 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
-| 18 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 19 | [Rusher](http://twitter.com/search?q=Rusher) | N/A |
-| 20 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
-| 21 | [#TorneoProyeccion](http://twitter.com/search?q=%23TorneoProyeccion) | N/A |
-| 22 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
-| 23 | [Vía Crucis](http://twitter.com/search?q=V%c3%ada+Crucis) | N/A |
-| 24 | [Trueno](http://twitter.com/search?q=Trueno) | N/A |
-| 25 | [Vicente](http://twitter.com/search?q=Vicente) | N/A |
-| 26 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 27 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 28 | [Pumper Nic](http://twitter.com/search?q=Pumper+Nic) | N/A |
-| 29 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 30 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 31 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
-| 32 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 33 | [Exceso](http://twitter.com/search?q=Exceso) | N/A |
-| 34 | [maria becerra](http://twitter.com/search?q=maria+becerra) | N/A |
-| 35 | [Ofelia](http://twitter.com/search?q=Ofelia) | N/A |
-| 36 | [Casa Tía](http://twitter.com/search?q=Casa+T%c3%ada) | N/A |
-| 37 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
-| 38 | [#Reserva](http://twitter.com/search?q=%23Reserva) | N/A |
-| 39 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 1 | [Roncaglia](http://twitter.com/search?q=Roncaglia) | Roncaglia is a type of Italian folk dance that originated in the region of Emilia-Romagna. It is a lively, fast-paced dance that involves couples dancing in a circle and performing intricate steps and turns. The name Roncaglia comes from the Italian word for "round," as the dance is traditionally performed in a circular formation. In English, Roncaglia means "round dance." |
+| 2 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 3 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
+| 4 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 5 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 6 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
+| 7 | [Rusher](http://twitter.com/search?q=Rusher) | N/A |
+| 8 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 9 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 11 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 12 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 13 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
+| 14 | [Berni](http://twitter.com/search?q=Berni) | N/A |
+| 15 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 16 | [Langoni](http://twitter.com/search?q=Langoni) | Langoni is a type of traditional Indian clothing worn by women in some parts of India. It is a long, loose-fitting garment that is usually made from cotton or silk and is often decorated with intricate embroidery. The word "langoni" comes from the Hindi language and translates to "loose clothing". |
+| 17 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 18 | [Día Mundial de la Salud](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Salud) | N/A |
+| 19 | [Ruckauf](http://twitter.com/search?q=Ruckauf) | N/A |
+| 20 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 21 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
+| 22 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 23 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 24 | [Echeverri](http://twitter.com/search?q=Echeverri) | N/A |
+| 25 | [#AgusYCamiEnTwitch](http://twitter.com/search?q=%23AgusYCamiEnTwitch) | N/A |
+| 26 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 27 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 28 | [UTOI](http://twitter.com/search?q=UTOI) | N/A |
+| 29 | [Figal](http://twitter.com/search?q=Figal) | N/A |
+| 30 | [Trueno](http://twitter.com/search?q=Trueno) | N/A |
+| 31 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
+| 32 | [Casa Tía](http://twitter.com/search?q=Casa+T%c3%ada) | N/A |
+| 33 | [Freijo](http://twitter.com/search?q=Freijo) | N/A |
+| 34 | [Oscar Romero](http://twitter.com/search?q=Oscar+Romero) | N/A |
+| 35 | [Havanna](http://twitter.com/search?q=Havanna) | N/A |
+| 36 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 37 | [CABA](http://twitter.com/search?q=CABA) | N/A |
+| 38 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 39 | [Sampaio](http://twitter.com/search?q=Sampaio) | N/A |
+| 40 | [Vía Crucis](http://twitter.com/search?q=V%c3%ada+Crucis) | N/A |
+| 41 | [Equi](http://twitter.com/search?q=Equi) | Equi is a Latin word meaning "equal" or "equally". It is often used in legal and financial contexts to refer to a situation where two parties have equal rights or obligations. |
+| 42 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 43 | [Barrientos](http://twitter.com/search?q=Barrientos) | N/A |
+| 44 | [Ruberto](http://twitter.com/search?q=Ruberto) | N/A |
+| 45 | [Pumper Nic](http://twitter.com/search?q=Pumper+Nic) | N/A |
+| 46 | [Vicuña](http://twitter.com/search?q=Vicu%c3%b1a) | N/A |
+| 47 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
+| 48 | [vamos boca](http://twitter.com/search?q=vamos+boca) | N/A |
+| 49 | [Cecilia Roth](http://twitter.com/search?q=Cecilia+Roth) | N/A |
 
 
 

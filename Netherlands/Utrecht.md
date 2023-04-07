@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-04-07 19:17:08 UTC`
+📆 Last Updated: `2023-04-07 20:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#groutr](http://twitter.com/search?q=%23groutr) | N/A |
-| 2 | [Goede Vrijdag](http://twitter.com/search?q=Goede+Vrijdag) | N/A |
-| 3 | [#deverraders](http://twitter.com/search?q=%23deverraders) | N/A |
+| 2 | [#deverraders](http://twitter.com/search?q=%23deverraders) | N/A |
+| 3 | [Goede Vrijdag](http://twitter.com/search?q=Goede+Vrijdag) | N/A |
 | 4 | [#thepassion](http://twitter.com/search?q=%23thepassion) | N/A |
-| 5 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
+| 5 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
 | 6 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 7 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 8 | [#hlf8](http://twitter.com/search?q=%23hlf8) | N/A |
+| 7 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
+| 8 | [#2voor12](http://twitter.com/search?q=%232voor12) | N/A |
 | 9 | [Enzo Knol](http://twitter.com/search?q=Enzo+Knol) | N/A |
 | 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [Beau](http://twitter.com/search?q=Beau) | N/A |
-| 12 | [Jezus](http://twitter.com/search?q=Jezus) | N/A |
+| 11 | [Jezus](http://twitter.com/search?q=Jezus) | N/A |
+| 12 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
 | 13 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 14 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
-| 15 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 16 | [Proost](http://twitter.com/search?q=Proost) | N/A |
-| 17 | [MANC](http://twitter.com/search?q=MANC) | N/A |
-| 18 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 19 | [goeiemorgen](http://twitter.com/search?q=goeiemorgen) | N/A |
-| 20 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
+| 14 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 15 | [FC Groningen](http://twitter.com/search?q=FC+Groningen) | N/A |
+| 16 | [FC Eindhoven](http://twitter.com/search?q=FC+Eindhoven) | N/A |
+| 17 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 18 | [FC Dordrecht](http://twitter.com/search?q=FC+Dordrecht) | N/A |
+| 19 | [MANC](http://twitter.com/search?q=MANC) | N/A |
+| 20 | [goeiemorgen](http://twitter.com/search?q=goeiemorgen) | N/A |
 | 21 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
 | 22 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 23 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 24 | [Jong PSV](http://twitter.com/search?q=Jong+PSV) | N/A |
-| 25 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 26 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
-| 27 | [Bokito](http://twitter.com/search?q=Bokito) | N/A |
-| 28 | [FC Eindhoven](http://twitter.com/search?q=FC+Eindhoven) | N/A |
-| 29 | [mogge](http://twitter.com/search?q=mogge) | N/A |
-| 30 | [Lekker](http://twitter.com/search?q=Lekker) | N/A |
-| 31 | [C. Willem II](http://twitter.com/search?q=C.+Willem+II) | N/A |
-| 32 | [Bloemendaal](http://twitter.com/search?q=Bloemendaal) | N/A |
-| 33 | [Rinus](http://twitter.com/search?q=Rinus) | N/A |
-| 34 | [Buddy](http://twitter.com/search?q=Buddy) | N/A |
+| 23 | [Jong PSV](http://twitter.com/search?q=Jong+PSV) | N/A |
+| 24 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 25 | [Heracles](http://twitter.com/search?q=Heracles) | N/A |
+| 26 | [NVWA](http://twitter.com/search?q=NVWA) | N/A |
+| 27 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 28 | [Proost](http://twitter.com/search?q=Proost) | N/A |
+| 29 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
+| 30 | [Rinus](http://twitter.com/search?q=Rinus) | N/A |
+| 31 | [Bokito](http://twitter.com/search?q=Bokito) | N/A |
+| 32 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 33 | [Helmond](http://twitter.com/search?q=Helmond) | N/A |
+| 34 | [Judas](http://twitter.com/search?q=Judas) | N/A |
 | 35 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 36 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 37 | [Duco](http://twitter.com/search?q=Duco) | N/A |
-| 38 | [FC Groningen](http://twitter.com/search?q=FC+Groningen) | N/A |
-| 39 | [FC Utrecht](http://twitter.com/search?q=FC+Utrecht) | N/A |
+| 36 | [Buddy](http://twitter.com/search?q=Buddy) | N/A |
+| 37 | [Bloemendaal](http://twitter.com/search?q=Bloemendaal) | N/A |
+| 38 | [Telstar](http://twitter.com/search?q=Telstar) | N/A |
+| 39 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
 | 40 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 41 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 42 | [Smakelijk](http://twitter.com/search?q=Smakelijk) | N/A |
-| 43 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
-| 44 | [Soundos](http://twitter.com/search?q=Soundos) | N/A |
-| 45 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
-| 46 | [Helmond](http://twitter.com/search?q=Helmond) | N/A |
-| 47 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 48 | [Andries](http://twitter.com/search?q=Andries) | N/A |
-| 49 | [Twents](http://twitter.com/search?q=Twents) | N/A |
-| 50 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 41 | [Smakelijk](http://twitter.com/search?q=Smakelijk) | N/A |
+| 42 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
+| 43 | [Soundos](http://twitter.com/search?q=Soundos) | N/A |
+| 44 | [Hoorn](http://twitter.com/search?q=Hoorn) | N/A |
+| 45 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 46 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
+| 47 | [Lekker](http://twitter.com/search?q=Lekker) | N/A |
+| 48 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 49 | [Euroborg](http://twitter.com/search?q=Euroborg) | N/A |
+| 50 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 
 
 

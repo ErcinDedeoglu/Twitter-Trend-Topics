@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-04-07 19:17:20 UTC`
+📆 Last Updated: `2023-04-07 20:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,38 +19,40 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 2 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 | 3 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
 | 4 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 5 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 6 | [#ZEbetNG](http://twitter.com/search?q=%23ZEbetNG) | N/A |
-| 7 | [Datti](http://twitter.com/search?q=Datti) | N/A |
-| 8 | [#DLER2023](http://twitter.com/search?q=%23DLER2023) | N/A |
-| 9 | [Toyin Abraham](http://twitter.com/search?q=Toyin+Abraham) | N/A |
-| 10 | [Robbery](http://twitter.com/search?q=Robbery) | N/A |
-| 11 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 12 | [Soyinka](http://twitter.com/search?q=Soyinka) | N/A |
-| 13 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
-| 14 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
-| 15 | [Tobi Bakre](http://twitter.com/search?q=Tobi+Bakre) | N/A |
-| 16 | [Tomi Arayomi](http://twitter.com/search?q=Tomi+Arayomi) | N/A |
-| 17 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
-| 18 | [Inter Milan](http://twitter.com/search?q=Inter+Milan) | N/A |
-| 19 | [Apology](http://twitter.com/search?q=Apology) | N/A |
-| 20 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 21 | [Debate](http://twitter.com/search?q=Debate) | N/A |
-| 22 | [PROJECT 24 CHALLENGE](http://twitter.com/search?q=PROJECT+24+CHALLENGE) | N/A |
-| 23 | [#Agbadovolution](http://twitter.com/search?q=%23Agbadovolution) | N/A |
-| 24 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 25 | [Gimba](http://twitter.com/search?q=Gimba) | N/A |
-| 26 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 27 | [Nobel laureate](http://twitter.com/search?q=Nobel+laureate) | N/A |
-| 28 | [Kwankwaso](http://twitter.com/search?q=Kwankwaso) | N/A |
-| 29 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
-| 30 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 31 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 32 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 33 | [Adichie](http://twitter.com/search?q=Adichie) | N/A |
-| 34 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 35 | [#EasterWeekend](http://twitter.com/search?q=%23EasterWeekend) | N/A |
-| 36 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
+| 5 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 6 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 7 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 8 | [Toyin Abraham](http://twitter.com/search?q=Toyin+Abraham) | N/A |
+| 9 | [Datti](http://twitter.com/search?q=Datti) | N/A |
+| 10 | [#ZEbetNG](http://twitter.com/search?q=%23ZEbetNG) | N/A |
+| 11 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
+| 12 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 13 | [#DLER2023](http://twitter.com/search?q=%23DLER2023) | N/A |
+| 14 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 15 | [Robbery](http://twitter.com/search?q=Robbery) | N/A |
+| 16 | [Tobi Bakre](http://twitter.com/search?q=Tobi+Bakre) | N/A |
+| 17 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
+| 18 | [Soyinka](http://twitter.com/search?q=Soyinka) | N/A |
+| 19 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
+| 20 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 21 | [Cameroon](http://twitter.com/search?q=Cameroon) | N/A |
+| 22 | [Tomi Arayomi](http://twitter.com/search?q=Tomi+Arayomi) | N/A |
+| 23 | [PROJECT 24 CHALLENGE](http://twitter.com/search?q=PROJECT+24+CHALLENGE) | N/A |
+| 24 | [Apology](http://twitter.com/search?q=Apology) | N/A |
+| 25 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 26 | [Debate](http://twitter.com/search?q=Debate) | N/A |
+| 27 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
+| 28 | [Gimba](http://twitter.com/search?q=Gimba) | N/A |
+| 29 | [Nobel laureate](http://twitter.com/search?q=Nobel+laureate) | N/A |
+| 30 | [Kwankwaso](http://twitter.com/search?q=Kwankwaso) | N/A |
+| 31 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
+| 32 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 33 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 34 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 35 | [#BeautyTukura](http://twitter.com/search?q=%23BeautyTukura) | N/A |
+| 36 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 37 | [#Agbadovolution](http://twitter.com/search?q=%23Agbadovolution) | N/A |
+| 38 | [#EasterWeekend](http://twitter.com/search?q=%23EasterWeekend) | N/A |
 
 
 

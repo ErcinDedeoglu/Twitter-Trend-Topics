@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-04-07 19:17:40 UTC`
+📆 Last Updated: `2023-04-07 20:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Chile
 | ------- | ------------ | ------------ |
 | 1 | [#JesusDeNazarethEnTVN](http://twitter.com/search?q=%23JesusDeNazarethEnTVN) | N/A |
 | 2 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 3 | [#ElPartidoMásAustral](http://twitter.com/search?q=%23ElPartidoM%c3%a1sAustral) | N/A |
-| 4 | [Bories](http://twitter.com/search?q=Bories) | N/A |
-| 5 | [Mega](http://twitter.com/search?q=Mega) | N/A |
-| 6 | [Paulina de Allende](http://twitter.com/search?q=Paulina+de+Allende) | N/A |
+| 3 | [Pinilla](http://twitter.com/search?q=Pinilla) | N/A |
+| 4 | [Mega](http://twitter.com/search?q=Mega) | N/A |
+| 5 | [Paulina de Allende](http://twitter.com/search?q=Paulina+de+Allende) | N/A |
+| 6 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
 | 7 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 8 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 9 | [#Los10MandamientosEnTVN](http://twitter.com/search?q=%23Los10MandamientosEnTVN) | N/A |
-| 10 | [#FranjaElectoral](http://twitter.com/search?q=%23FranjaElectoral) | N/A |
-| 11 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
-| 12 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
-| 13 | [Puerto Natales](http://twitter.com/search?q=Puerto+Natales) | N/A |
+| 8 | [Gala](http://twitter.com/search?q=Gala) | N/A |
+| 9 | [Bories](http://twitter.com/search?q=Bories) | N/A |
+| 10 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
+| 11 | [#ElPartidoMásAustral](http://twitter.com/search?q=%23ElPartidoM%c3%a1sAustral) | N/A |
+| 12 | [Puerto Natales](http://twitter.com/search?q=Puerto+Natales) | N/A |
+| 13 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
 | 14 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
-| 15 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 15 | [#FranjaElectoral](http://twitter.com/search?q=%23FranjaElectoral) | N/A |
 | 16 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
-| 17 | [Gabriela Mistral](http://twitter.com/search?q=Gabriela+Mistral) | N/A |
-| 18 | [Jona](http://twitter.com/search?q=Jona) | N/A |
-| 19 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 20 | [Cúcuta](http://twitter.com/search?q=C%c3%bacuta) | N/A |
-| 21 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 22 | [Deportes Concepción](http://twitter.com/search?q=Deportes+Concepci%c3%b3n) | N/A |
-| 23 | [Hipócritas](http://twitter.com/search?q=Hip%c3%b3critas) | N/A |
-| 24 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 25 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
-| 26 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 27 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 28 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
-| 29 | [Chile Seguro](http://twitter.com/search?q=Chile+Seguro) | N/A |
-| 30 | [Colegio de Periodistas](http://twitter.com/search?q=Colegio+de+Periodistas) | N/A |
-| 31 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
-| 32 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 33 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
-| 34 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
-| 35 | [Moisés](http://twitter.com/search?q=Mois%c3%a9s) | N/A |
-| 36 | [Yañez](http://twitter.com/search?q=Ya%c3%b1ez) | N/A |
-| 37 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
-| 38 | [Involuntario](http://twitter.com/search?q=Involuntario) | N/A |
-| 39 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 40 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 41 | [Hipocresía](http://twitter.com/search?q=Hipocres%c3%ada) | N/A |
-| 42 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
-| 43 | [Merluzo](http://twitter.com/search?q=Merluzo) | N/A |
-| 44 | [Diego Ibañez](http://twitter.com/search?q=Diego+Iba%c3%b1ez) | N/A |
-| 45 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 46 | [Matta](http://twitter.com/search?q=Matta) | N/A |
-| 47 | [Mirna Schindler](http://twitter.com/search?q=Mirna+Schindler) | N/A |
-| 48 | [Error](http://twitter.com/search?q=Error) | N/A |
-| 49 | [Bachelet](http://twitter.com/search?q=Bachelet) | N/A |
-| 50 | [Viña del Mar](http://twitter.com/search?q=Vi%c3%b1a+del+Mar) | N/A |
+| 17 | [#Los10MandamientosEnTVN](http://twitter.com/search?q=%23Los10MandamientosEnTVN) | N/A |
+| 18 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 19 | [Gabriela Mistral](http://twitter.com/search?q=Gabriela+Mistral) | N/A |
+| 20 | [Jona](http://twitter.com/search?q=Jona) | N/A |
+| 21 | [Isla](http://twitter.com/search?q=Isla) | N/A |
+| 22 | [Puerto Montt](http://twitter.com/search?q=Puerto+Montt) | N/A |
+| 23 | [Cúcuta](http://twitter.com/search?q=C%c3%bacuta) | N/A |
+| 24 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 25 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 26 | [Deportes Concepción](http://twitter.com/search?q=Deportes+Concepci%c3%b3n) | N/A |
+| 27 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 28 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
+| 29 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
+| 30 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 31 | [Hipócritas](http://twitter.com/search?q=Hip%c3%b3critas) | N/A |
+| 32 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 33 | [Colegio de Periodistas](http://twitter.com/search?q=Colegio+de+Periodistas) | N/A |
+| 34 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 35 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
+| 36 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
+| 37 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
+| 38 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
+| 39 | [Involuntario](http://twitter.com/search?q=Involuntario) | N/A |
+| 40 | [Yañez](http://twitter.com/search?q=Ya%c3%b1ez) | N/A |
+| 41 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 42 | [Hipocresía](http://twitter.com/search?q=Hipocres%c3%ada) | N/A |
+| 43 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
+| 44 | [Merluzo](http://twitter.com/search?q=Merluzo) | N/A |
+| 45 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 46 | [Diego Ibañez](http://twitter.com/search?q=Diego+Iba%c3%b1ez) | N/A |
+| 47 | [Matta](http://twitter.com/search?q=Matta) | N/A |
+| 48 | [Mirna Schindler](http://twitter.com/search?q=Mirna+Schindler) | N/A |
+| 49 | [Vial](http://twitter.com/search?q=Vial) | N/A |
+| 50 | [Guaidó](http://twitter.com/search?q=Guaid%c3%b3) | N/A |
 
 
 

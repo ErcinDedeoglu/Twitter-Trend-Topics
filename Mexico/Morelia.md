@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Morelia
 
-📆 Last Updated: `2023-04-07 19:16:57 UTC`
+📆 Last Updated: `2023-04-07 20:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,52 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
 | 2 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
 | 3 | [#DíaMundialDeLaSalud](http://twitter.com/search?q=%23D%c3%adaMundialDeLaSalud) | N/A |
-| 4 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 5 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
+| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 5 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
 | 6 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 7 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
-| 8 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 9 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 10 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
-| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 12 | [Viacrucis](http://twitter.com/search?q=Viacrucis) | N/A |
-| 13 | [Inter de Milán](http://twitter.com/search?q=Inter+de+Mil%c3%a1n) | N/A |
-| 14 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 15 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 16 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 17 | [Farnesio de Bernal](http://twitter.com/search?q=Farnesio+de+Bernal) | N/A |
-| 18 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 7 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 8 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
+| 9 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 10 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 11 | [Inter de Milán](http://twitter.com/search?q=Inter+de+Mil%c3%a1n) | N/A |
+| 12 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 13 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
+| 14 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 15 | [Farnesio de Bernal](http://twitter.com/search?q=Farnesio+de+Bernal) | N/A |
+| 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 17 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 18 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
 | 19 | [Antonio Tarín](http://twitter.com/search?q=Antonio+Tar%c3%adn) | N/A |
-| 20 | [Candreva](http://twitter.com/search?q=Candreva) | N/A |
-| 21 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 22 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 23 | [El 7](http://twitter.com/search?q=El+7) | N/A |
-| 24 | [Procesión](http://twitter.com/search?q=Procesi%c3%b3n) | N/A |
-| 25 | [Catedral](http://twitter.com/search?q=Catedral) | N/A |
-| 26 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 20 | [Martinoli](http://twitter.com/search?q=Martinoli) | N/A |
+| 21 | [Dresser](http://twitter.com/search?q=Dresser) | N/A |
+| 22 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 23 | [Iztapalapa](http://twitter.com/search?q=Iztapalapa) | N/A |
+| 24 | [El 7](http://twitter.com/search?q=El+7) | N/A |
+| 25 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 26 | [Procesión](http://twitter.com/search?q=Procesi%c3%b3n) | N/A |
 | 27 | [Filoni](http://twitter.com/search?q=Filoni) | N/A |
-| 28 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 29 | [Gabriela Mistral](http://twitter.com/search?q=Gabriela+Mistral) | N/A |
-| 30 | [Dresser](http://twitter.com/search?q=Dresser) | N/A |
-| 31 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 32 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 33 | [Iztapalapa](http://twitter.com/search?q=Iztapalapa) | N/A |
-| 34 | [Rollo](http://twitter.com/search?q=Rollo) | N/A |
-| 35 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 36 | [kylie](http://twitter.com/search?q=kylie) | N/A |
-| 37 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 38 | [Jorge Campos](http://twitter.com/search?q=Jorge+Campos) | N/A |
-| 39 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
+| 28 | [Gabriela Mistral](http://twitter.com/search?q=Gabriela+Mistral) | N/A |
+| 29 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 30 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 31 | [Catedral](http://twitter.com/search?q=Catedral) | N/A |
+| 32 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 33 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 34 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 35 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 36 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 37 | [Barbies](http://twitter.com/search?q=Barbies) | N/A |
+| 38 | [Aristegui](http://twitter.com/search?q=Aristegui) | N/A |
+| 39 | [Centro Histórico](http://twitter.com/search?q=Centro+Hist%c3%b3rico) | N/A |
 | 40 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
-| 41 | [Centro Histórico](http://twitter.com/search?q=Centro+Hist%c3%b3rico) | N/A |
-| 42 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
+| 41 | [#ViaCrucis](http://twitter.com/search?q=%23ViaCrucis) | N/A |
+| 42 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
 | 43 | [#SerieA](http://twitter.com/search?q=%23SerieA) | N/A |
-| 44 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
-| 45 | [#IndianaJones](http://twitter.com/search?q=%23IndianaJones) | N/A |
-| 46 | [#따뜻한_봄이_오는게_종현인가봐](http://twitter.com/search?q=%23%eb%94%b0%eb%9c%bb%ed%95%9c_%eb%b4%84%ec%9d%b4_%ec%98%a4%eb%8a%94%ea%b2%8c_%ec%a2%85%ed%98%84%ec%9d%b8%ea%b0%80%eb%b4%90) | N/A |
-| 47 | [#DisneyPlus](http://twitter.com/search?q=%23DisneyPlus) | N/A |
-| 48 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 44 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
+| 45 | [#SoyObradoristaSiguemeYteSigo](http://twitter.com/search?q=%23SoyObradoristaSiguemeYteSigo) | N/A |
+| 46 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
+| 47 | [#IndianaJones](http://twitter.com/search?q=%23IndianaJones) | N/A |
+| 48 | [#따뜻한_봄이_오는게_종현인가봐](http://twitter.com/search?q=%23%eb%94%b0%eb%9c%bb%ed%95%9c_%eb%b4%84%ec%9d%b4_%ec%98%a4%eb%8a%94%ea%b2%8c_%ec%a2%85%ed%98%84%ec%9d%b8%ea%b0%80%eb%b4%90) | N/A |
+| 49 | [#DisneyPlus](http://twitter.com/search?q=%23DisneyPlus) | N/A |
 
 
 

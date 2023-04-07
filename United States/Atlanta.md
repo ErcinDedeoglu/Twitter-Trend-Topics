@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-07 19:17:31 UTC`
+📆 Last Updated: `2023-04-07 20:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 2 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 5 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 6 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 7 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 8 | [TOSTADA](http://twitter.com/search?q=TOSTADA) | N/A |
-| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 10 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 11 | [Laura Loomer](http://twitter.com/search?q=Laura+Loomer) | N/A |
-| 12 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 13 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 14 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
-| 15 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 16 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
-| 17 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 18 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 19 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 20 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 21 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
-| 22 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 23 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 24 | [Edward Cabrera](http://twitter.com/search?q=Edward+Cabrera) | N/A |
-| 25 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
-| 26 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 27 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 28 | [Nido](http://twitter.com/search?q=Nido) | N/A |
-| 29 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 30 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 31 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 32 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
-| 33 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 34 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 35 | [Tylor Megill](http://twitter.com/search?q=Tylor+Megill) | N/A |
-| 36 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
-| 37 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 38 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 39 | [Vogelbach](http://twitter.com/search?q=Vogelbach) | N/A |
-| 40 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
-| 41 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
-| 42 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
-| 43 | [Advised](http://twitter.com/search?q=Advised) | N/A |
-| 44 | [Sol Blume](http://twitter.com/search?q=Sol+Blume) | N/A |
-| 45 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 46 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 47 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 48 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
-| 49 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
-| 50 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 4 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 5 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
+| 6 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 7 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 8 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
+| 9 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
+| 10 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 11 | [Loomer](http://twitter.com/search?q=Loomer) | N/A |
+| 12 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 14 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 15 | [Tostada](http://twitter.com/search?q=Tostada) | N/A |
+| 16 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
+| 17 | [Big Jeff](http://twitter.com/search?q=Big+Jeff) | N/A |
+| 18 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
+| 19 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 20 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
+| 21 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 22 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 23 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 24 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 25 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
+| 26 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
+| 27 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 28 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 29 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
+| 30 | [Jeffery Simmons](http://twitter.com/search?q=Jeffery+Simmons) | N/A |
+| 31 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 32 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 33 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 34 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
+| 35 | [Garrett Cooper](http://twitter.com/search?q=Garrett+Cooper) | N/A |
+| 36 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 37 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 38 | [Edward Cabrera](http://twitter.com/search?q=Edward+Cabrera) | N/A |
+| 39 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 40 | [Tylor Megill](http://twitter.com/search?q=Tylor+Megill) | N/A |
+| 41 | [Rodon](http://twitter.com/search?q=Rodon) | N/A |
+| 42 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 43 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 44 | [Pusha T](http://twitter.com/search?q=Pusha+T) | N/A |
+| 45 | [Adam Frazier](http://twitter.com/search?q=Adam+Frazier) | N/A |
+| 46 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 47 | [Starling Marte](http://twitter.com/search?q=Starling+Marte) | N/A |
+| 48 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
+| 49 | [Gavin Guidry](http://twitter.com/search?q=Gavin+Guidry) | N/A |
+| 50 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
 
 
 

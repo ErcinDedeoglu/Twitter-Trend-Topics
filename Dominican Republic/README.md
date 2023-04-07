@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-07 19:17:41 UTC`
+📆 Last Updated: `2023-04-07 20:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for Dominican Republic
 | 14 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
 | 15 | [Seibo](http://twitter.com/search?q=Seibo) | N/A |
 | 16 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 17 | [Arajet](http://twitter.com/search?q=Arajet) | N/A |
+| 17 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
 | 18 | [cristiano](http://twitter.com/search?q=cristiano) | N/A |
-| 19 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 20 | [Luisin](http://twitter.com/search?q=Luisin) | N/A |
-| 21 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 22 | [día nacional del psicólogo](http://twitter.com/search?q=d%c3%ada+nacional+del+psic%c3%b3logo) | N/A |
-| 23 | [La 42](http://twitter.com/search?q=La+42) | N/A |
-| 24 | [Jarabacoa](http://twitter.com/search?q=Jarabacoa) | N/A |
-| 25 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 26 | [#ConcienciaPorLaVida](http://twitter.com/search?q=%23ConcienciaPorLaVida) | N/A |
-| 27 | [Vudú](http://twitter.com/search?q=Vud%c3%ba) | N/A |
-| 28 | [villa faro](http://twitter.com/search?q=villa+faro) | N/A |
-| 29 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 30 | [Río San Juan](http://twitter.com/search?q=R%c3%ado+San+Juan) | N/A |
-| 31 | [Haitiano](http://twitter.com/search?q=Haitiano) | N/A |
-| 32 | [Triduo Pascual](http://twitter.com/search?q=Triduo+Pascual) | N/A |
-| 33 | [Hanley](http://twitter.com/search?q=Hanley) | N/A |
-| 34 | [Tatis](http://twitter.com/search?q=Tatis) | N/A |
+| 19 | [Luisin](http://twitter.com/search?q=Luisin) | N/A |
+| 20 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 21 | [día nacional del psicólogo](http://twitter.com/search?q=d%c3%ada+nacional+del+psic%c3%b3logo) | N/A |
+| 22 | [Jarabacoa](http://twitter.com/search?q=Jarabacoa) | N/A |
+| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 24 | [#ConcienciaPorLaVida](http://twitter.com/search?q=%23ConcienciaPorLaVida) | N/A |
+| 25 | [Vudú](http://twitter.com/search?q=Vud%c3%ba) | N/A |
+| 26 | [villa faro](http://twitter.com/search?q=villa+faro) | N/A |
+| 27 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 28 | [Arajet](http://twitter.com/search?q=Arajet) | N/A |
+| 29 | [Haitiano](http://twitter.com/search?q=Haitiano) | N/A |
+| 30 | [Triduo Pascual](http://twitter.com/search?q=Triduo+Pascual) | N/A |
+| 31 | [Hanley](http://twitter.com/search?q=Hanley) | N/A |
+| 32 | [Tatis](http://twitter.com/search?q=Tatis) | N/A |
+| 33 | [La 42](http://twitter.com/search?q=La+42) | N/A |
+| 34 | [Río San Juan](http://twitter.com/search?q=R%c3%ado+San+Juan) | N/A |
 | 35 | [Aila](http://twitter.com/search?q=Aila) | N/A |
 | 36 | [Líbano](http://twitter.com/search?q=L%c3%adbano) | N/A |
-| 37 | [#SS23](http://twitter.com/search?q=%23SS23) | N/A |
+| 37 | [#ss23](http://twitter.com/search?q=%23ss23) | N/A |
 | 38 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
 | 39 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
 | 40 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 41 | [jaime david](http://twitter.com/search?q=jaime+david) | N/A |
-| 42 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
-| 43 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 41 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 42 | [Jaime David](http://twitter.com/search?q=Jaime+David) | N/A |
+| 43 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
 | 44 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 45 | [Lambon](http://twitter.com/search?q=Lambon) | N/A |
-| 46 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 47 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 48 | [Euri](http://twitter.com/search?q=Euri) | N/A |
-| 49 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 50 | [Con Dios](http://twitter.com/search?q=Con+Dios) | N/A |
+| 45 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 46 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 47 | [Euri](http://twitter.com/search?q=Euri) | N/A |
+| 48 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 49 | [El COE](http://twitter.com/search?q=El+COE) | N/A |
+| 50 | [Sony](http://twitter.com/search?q=Sony) | N/A |
 
 
 

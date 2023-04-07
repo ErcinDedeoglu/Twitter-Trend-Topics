@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-04-07 19:17:30 UTC`
+📆 Last Updated: `2023-04-07 20:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [BayKemal 35YaşınUmudu](http://twitter.com/search?q=BayKemal+35Ya%c5%9f%c4%b1nUmudu) | N/A |
 | 2 | [Adayımız Özdemir](http://twitter.com/search?q=Aday%c4%b1m%c4%b1z+%c3%96zdemir) | N/A |
-| 3 | [Ulusal Risk Kalkanı](http://twitter.com/search?q=Ulusal+Risk+Kalkan%c4%b1) | N/A |
-| 4 | [Kupa](http://twitter.com/search?q=Kupa) | N/A |
-| 5 | [ElifMeltem Demir](http://twitter.com/search?q=ElifMeltem+Demir) | N/A |
-| 6 | [BirSözDe İİBFyeBayKemal](http://twitter.com/search?q=BirS%c3%b6zDe+%c4%b0%c4%b0BFyeBayKemal) | N/A |
-| 7 | [#YaliÇapkini](http://twitter.com/search?q=%23Yali%c3%87apkini) | #YaliÇapkini is a Turkish phrase that translates to "Let's go to the beach!" It is often used as an invitation to spend time at the beach with friends or family. |
-| 8 | [#ÖğretmenizSusmuyoruz](http://twitter.com/search?q=%23%c3%96%c4%9fretmenizSusmuyoruz) | N/A |
-| 9 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
-| 10 | [GSBtümTayinlerOlumlu](http://twitter.com/search?q=GSBt%c3%bcmTayinlerOlumlu) | N/A |
-| 11 | [#OyumZolgenSMAya](http://twitter.com/search?q=%23OyumZolgenSMAya) | N/A |
-| 12 | [Yerli Güç](http://twitter.com/search?q=Yerli+G%c3%bc%c3%a7) | N/A |
-| 13 | [#SÖZİNFKORUMADA](http://twitter.com/search?q=%23S%c3%96Z%c4%b0NFKORUMADA) | N/A |
-| 14 | [#TFFİstifa](http://twitter.com/search?q=%23TFF%c4%b0stifa) | N/A |
-| 15 | [TolgaKandemir](http://twitter.com/search?q=TolgaKandemir) | N/A |
-| 16 | [AybükeÇangal](http://twitter.com/search?q=Ayb%c3%bcke%c3%87angal) | N/A |
-| 17 | [DenetimliSerbestlik Haktır](http://twitter.com/search?q=DenetimliSerbestlik+Hakt%c4%b1r) | N/A |
-| 18 | [AyTol](http://twitter.com/search?q=AyTol) | N/A |
-| 19 | [KADINLAR MECLİSE](http://twitter.com/search?q=KADINLAR+MECL%c4%b0SE) | N/A |
-| 20 | [ReisTaşerona SözünüzVar](http://twitter.com/search?q=ReisTa%c5%9ferona+S%c3%b6z%c3%bcn%c3%bczVar) | N/A |
-| 21 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 22 | [PFDK'ya](http://twitter.com/search?q=PFDK%27ya) | N/A |
-| 23 | [Abidin](http://twitter.com/search?q=Abidin) | N/A |
-| 24 | [Onurlu](http://twitter.com/search?q=Onurlu) | N/A |
-| 25 | [Osayi](http://twitter.com/search?q=Osayi) | Osayi is a Nigerian name that means "God's gift". It is derived from the Yoruba language. |
-| 26 | [Demokratik Sol Parti](http://twitter.com/search?q=Demokratik+Sol+Parti) | N/A |
-| 27 | [Egzoz](http://twitter.com/search?q=Egzoz) | N/A |
-| 28 | [İfakat](http://twitter.com/search?q=%c4%b0fakat) | N/A |
-| 29 | [Önder Aksakal](http://twitter.com/search?q=%c3%96nder+Aksakal) | N/A |
-| 30 | [Onur İste](http://twitter.com/search?q=Onur+%c4%b0ste) | N/A |
-| 31 | [Kazım](http://twitter.com/search?q=Kaz%c4%b1m) | Kazım is a Turkish name, derived from the Arabic name Kazim. It means "one who controls his anger". |
-| 32 | [Halis](http://twitter.com/search?q=Halis) | Halis is a Turkish word meaning "gentle" or "kind". It is often used to describe someone who is considerate and caring. |
-| 33 | [MertRamazan İbrahimSelime](http://twitter.com/search?q=MertRamazan+%c4%b0brahimSelime) | N/A |
-| 34 | [İdam](http://twitter.com/search?q=%c4%b0dam) | N/A |
-| 35 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 36 | [Varank](http://twitter.com/search?q=Varank) | N/A |
-| 37 | [Ceza](http://twitter.com/search?q=Ceza) | N/A |
-| 38 | [Destici](http://twitter.com/search?q=Destici) | N/A |
-| 39 | [Karaoğlan](http://twitter.com/search?q=Karao%c4%9flan) | N/A |
-| 40 | [Deva](http://twitter.com/search?q=Deva) | N/A |
-| 41 | [Kısas](http://twitter.com/search?q=K%c4%b1sas) | N/A |
-| 42 | [DSP'ye](http://twitter.com/search?q=DSP%27ye) | N/A |
-| 43 | [BugünGünlerden YalıÇapkını](http://twitter.com/search?q=Bug%c3%bcnG%c3%bcnlerden+Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | N/A |
-| 44 | [Şeytana](http://twitter.com/search?q=%c5%9eeytana) | N/A |
-| 45 | [Photoshoplu Miting](http://twitter.com/search?q=Photoshoplu+Miting) | N/A |
-| 46 | [Market](http://twitter.com/search?q=Market) | N/A |
-| 47 | [Yanındayız](http://twitter.com/search?q=Yan%c4%b1nday%c4%b1z) | N/A |
-| 48 | [Europower Enerji](http://twitter.com/search?q=Europower+Enerji) | N/A |
-| 49 | [HER ŞEY ÇOK PAHALI](http://twitter.com/search?q=HER+%c5%9eEY+%c3%87OK+PAHALI) | N/A |
-| 50 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 3 | [Bahçeli](http://twitter.com/search?q=Bah%c3%a7eli) | N/A |
+| 4 | [Ulusal Risk Kalkanı](http://twitter.com/search?q=Ulusal+Risk+Kalkan%c4%b1) | N/A |
+| 5 | [Kupa](http://twitter.com/search?q=Kupa) | N/A |
+| 6 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
+| 7 | [HER ŞEY ÇOK PAHALI](http://twitter.com/search?q=HER+%c5%9eEY+%c3%87OK+PAHALI) | N/A |
+| 8 | [Market](http://twitter.com/search?q=Market) | N/A |
+| 9 | [ElifMeltem Demir](http://twitter.com/search?q=ElifMeltem+Demir) | N/A |
+| 10 | [#TFFistifa](http://twitter.com/search?q=%23TFFistifa) | N/A |
+| 11 | [#BuNeYamanÇelişki](http://twitter.com/search?q=%23BuNeYaman%c3%87eli%c5%9fki) | N/A |
+| 12 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 13 | [#YaliÇapkini](http://twitter.com/search?q=%23Yali%c3%87apkini) | #YaliÇapkini is a Turkish phrase that translates to "Let's go to the beach!" It is often used as an invitation to spend time at the beach with friends or family. |
+| 14 | [#KızılcıkŞerbeti](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbeti) | N/A |
+| 15 | [AppleVS Voscreen](http://twitter.com/search?q=AppleVS+Voscreen) | N/A |
+| 16 | [GSBtümTayinlerOlumlu](http://twitter.com/search?q=GSBt%c3%bcmTayinlerOlumlu) | N/A |
+| 17 | [BirSözDe İİBFyeBayKemal](http://twitter.com/search?q=BirS%c3%b6zDe+%c4%b0%c4%b0BFyeBayKemal) | N/A |
+| 18 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
+| 19 | [DenetimliSerbestlik Haktır](http://twitter.com/search?q=DenetimliSerbestlik+Hakt%c4%b1r) | N/A |
+| 20 | [KUTLU YÜRÜYÜŞ](http://twitter.com/search?q=KUTLU+Y%c3%9cR%c3%9cY%c3%9c%c5%9e) | N/A |
+| 21 | [KADINLAR MECLİSE](http://twitter.com/search?q=KADINLAR+MECL%c4%b0SE) | N/A |
+| 22 | [ReisTaşerona SözünüzVar](http://twitter.com/search?q=ReisTa%c5%9ferona+S%c3%b6z%c3%bcn%c3%bczVar) | N/A |
+| 23 | [TolgaKandemir](http://twitter.com/search?q=TolgaKandemir) | N/A |
+| 24 | [AybükeÇangal](http://twitter.com/search?q=Ayb%c3%bcke%c3%87angal) | N/A |
+| 25 | [AyTol](http://twitter.com/search?q=AyTol) | N/A |
+| 26 | [Yerli Güç](http://twitter.com/search?q=Yerli+G%c3%bc%c3%a7) | N/A |
+| 27 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 28 | [Ifakat](http://twitter.com/search?q=Ifakat) | N/A |
+| 29 | [Muhammet Demir](http://twitter.com/search?q=Muhammet+Demir) | N/A |
+| 30 | [Abidin](http://twitter.com/search?q=Abidin) | N/A |
+| 31 | [S O R U M L U S U N U Z](http://twitter.com/search?q=S+O+R+U+M+L+U+S+U+N+U+Z) | N/A |
+| 32 | [Kıvılcım](http://twitter.com/search?q=K%c4%b1v%c4%b1lc%c4%b1m) | N/A |
+| 33 | [Saffet](http://twitter.com/search?q=Saffet) | N/A |
+| 34 | [PFDK](http://twitter.com/search?q=PFDK) | N/A |
+| 35 | [Nursema](http://twitter.com/search?q=Nursema) | N/A |
+| 36 | [Haji Wright](http://twitter.com/search?q=Haji+Wright) | N/A |
+| 37 | [Osayi](http://twitter.com/search?q=Osayi) | Osayi is a Nigerian name that means "God's gift". It is derived from the Yoruba language. |
+| 38 | [Egzoz](http://twitter.com/search?q=Egzoz) | N/A |
+| 39 | [Samsunspor](http://twitter.com/search?q=Samsunspor) | N/A |
+| 40 | [Mazlum Kobani](http://twitter.com/search?q=Mazlum+Kobani) | N/A |
+| 41 | [Kazım](http://twitter.com/search?q=Kaz%c4%b1m) | Kazım is a Turkish name, derived from the Arabic name Kazim. It means "one who controls his anger". |
+| 42 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
+| 43 | [Önder Aksakal](http://twitter.com/search?q=%c3%96nder+Aksakal) | N/A |
+| 44 | [Halis](http://twitter.com/search?q=Halis) | Halis is a Turkish word meaning "gentle" or "kind". It is often used to describe someone who is considerate and caring. |
+| 45 | [Onurlu](http://twitter.com/search?q=Onurlu) | N/A |
+| 46 | [Mustafa](http://twitter.com/search?q=Mustafa) | N/A |
+| 47 | [Selvi Kılıçdaroğlu](http://twitter.com/search?q=Selvi+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 48 | [Demokratik Sol Parti](http://twitter.com/search?q=Demokratik+Sol+Parti) | N/A |
+| 49 | [Burun](http://twitter.com/search?q=Burun) | N/A |
+| 50 | [Varank](http://twitter.com/search?q=Varank) | N/A |
 
 
 
