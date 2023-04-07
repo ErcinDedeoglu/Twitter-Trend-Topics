@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-04-07 06:16:39 UTC`
+📆 Last Updated: `2023-04-07 07:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,38 +17,37 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
 | 2 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 3 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
-| 4 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 5 | [SOLO UN BESO OUT NOW](http://twitter.com/search?q=SOLO+UN+BESO+OUT+NOW) | N/A |
-| 6 | [2 OUT TODAY](http://twitter.com/search?q=2+OUT+TODAY) | N/A |
-| 7 | [Central de Abastos](http://twitter.com/search?q=Central+de+Abastos) | N/A |
-| 8 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
-| 9 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 10 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 11 | [Atlante](http://twitter.com/search?q=Atlante) | N/A |
-| 12 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
-| 13 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
-| 14 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
-| 15 | [BÉSENME EMINENAS](http://twitter.com/search?q=B%c3%89SENME+EMINENAS) | N/A |
-| 16 | [México-Toluca](http://twitter.com/search?q=M%c3%a9xico-Toluca) | N/A |
-| 17 | [Gael](http://twitter.com/search?q=Gael) | N/A |
-| 18 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 3 | [SOLO UN BESO OUT NOW](http://twitter.com/search?q=SOLO+UN+BESO+OUT+NOW) | N/A |
+| 4 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
+| 5 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 6 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 7 | [2 OUT TODAY](http://twitter.com/search?q=2+OUT+TODAY) | N/A |
+| 8 | [Central de Abastos](http://twitter.com/search?q=Central+de+Abastos) | N/A |
+| 9 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 10 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
+| 11 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 12 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
+| 13 | [Atlante](http://twitter.com/search?q=Atlante) | N/A |
+| 14 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
+| 15 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 16 | [BÉSENME EMINENAS](http://twitter.com/search?q=B%c3%89SENME+EMINENAS) | N/A |
+| 17 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
+| 18 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
 | 19 | [Mario Bros](http://twitter.com/search?q=Mario+Bros) | N/A |
-| 20 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
-| 21 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 20 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 21 | [Chayanne](http://twitter.com/search?q=Chayanne) | N/A |
 | 22 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 23 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 24 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 25 | [Juana](http://twitter.com/search?q=Juana) | N/A |
-| 26 | [#AutomovilAllStar](http://twitter.com/search?q=%23AutomovilAllStar) | N/A |
-| 27 | [#incendio](http://twitter.com/search?q=%23incendio) | N/A |
-| 28 | [#Iztapalapa](http://twitter.com/search?q=%23Iztapalapa) | N/A |
-| 29 | [#EsPorChivas](http://twitter.com/search?q=%23EsPorChivas) | N/A |
-| 30 | [#LunaRosa](http://twitter.com/search?q=%23LunaRosa) | N/A |
-| 31 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
-| 32 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
-| 33 | [#IntegracionKenini](http://twitter.com/search?q=%23IntegracionKenini) | N/A |
-| 34 | [#FreenBecky](http://twitter.com/search?q=%23FreenBecky) | N/A |
+| 23 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 24 | [Gael](http://twitter.com/search?q=Gael) | N/A |
+| 25 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 26 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 27 | [#AutomóvilAllStar](http://twitter.com/search?q=%23Autom%c3%b3vilAllStar) | N/A |
+| 28 | [#incendio](http://twitter.com/search?q=%23incendio) | N/A |
+| 29 | [#Iztapalapa](http://twitter.com/search?q=%23Iztapalapa) | N/A |
+| 30 | [#EsPorChivas](http://twitter.com/search?q=%23EsPorChivas) | N/A |
+| 31 | [#LunaRosa](http://twitter.com/search?q=%23LunaRosa) | N/A |
+| 32 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 33 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
 
 
 

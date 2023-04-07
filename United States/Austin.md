@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-04-07 06:17:11 UTC`
+📆 Last Updated: `2023-04-07 07:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 2 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
 | 3 | [#PorVida](http://twitter.com/search?q=%23PorVida) | N/A |
-| 4 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 5 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
-| 6 | [Texas House](http://twitter.com/search?q=Texas+House) | N/A |
-| 7 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 8 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 9 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 10 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 11 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 12 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
-| 13 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 14 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 15 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 16 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 17 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 18 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
-| 19 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 20 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 4 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 5 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 6 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 7 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 8 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 9 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 10 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 11 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 12 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 13 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 14 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 15 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 16 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
+| 17 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
+| 18 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 19 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 20 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
 | 21 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 22 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 23 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 24 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 25 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
-| 26 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
-| 27 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
-| 28 | [yachty](http://twitter.com/search?q=yachty) | Yachty is a slang term used to describe someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who has an extravagant lifestyle. |
-| 29 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 30 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
-| 31 | [Bruce Brown](http://twitter.com/search?q=Bruce+Brown) | N/A |
-| 32 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 33 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 34 | [ot12](http://twitter.com/search?q=ot12) | N/A |
-| 35 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 36 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
-| 37 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 38 | [Evan Phillips](http://twitter.com/search?q=Evan+Phillips) | N/A |
-| 39 | [Bickford](http://twitter.com/search?q=Bickford) | N/A |
-| 40 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 41 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
-| 42 | [Christian Braun](http://twitter.com/search?q=Christian+Braun) | N/A |
-| 43 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
-| 44 | [Sremm 4 Life](http://twitter.com/search?q=Sremm+4+Life) | N/A |
-| 45 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 46 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
-| 47 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 48 | [Whitman](http://twitter.com/search?q=Whitman) | N/A |
-| 49 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 50 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 22 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 23 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 24 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
+| 25 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
+| 26 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
+| 27 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
+| 28 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 29 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
+| 30 | [ot12](http://twitter.com/search?q=ot12) | N/A |
+| 31 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
+| 32 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
+| 33 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
+| 34 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 35 | [Bruce Brown](http://twitter.com/search?q=Bruce+Brown) | N/A |
+| 36 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 37 | [Whitman](http://twitter.com/search?q=Whitman) | N/A |
+| 38 | [Bickford](http://twitter.com/search?q=Bickford) | N/A |
+| 39 | [Evan Phillips](http://twitter.com/search?q=Evan+Phillips) | N/A |
+| 40 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 41 | [Sremm 4 Life](http://twitter.com/search?q=Sremm+4+Life) | N/A |
+| 42 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 43 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 44 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 45 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 46 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 47 | [Money Trees](http://twitter.com/search?q=Money+Trees) | N/A |
+| 48 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 49 | [Mercenaries](http://twitter.com/search?q=Mercenaries) | N/A |
+| 50 | [Racism](http://twitter.com/search?q=Racism) | N/A |
 
 
 

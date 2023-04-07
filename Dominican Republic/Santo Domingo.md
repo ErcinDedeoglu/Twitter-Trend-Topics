@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-04-07 06:16:37 UTC`
+📆 Last Updated: `2023-04-07 07:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -51,12 +51,12 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 34 | [Villa Faro](http://twitter.com/search?q=Villa+Faro) | N/A |
 | 35 | [Euri](http://twitter.com/search?q=Euri) | N/A |
 | 36 | [Señor Jesucristo](http://twitter.com/search?q=Se%c3%b1or+Jesucristo) | N/A |
-| 37 | [Semana Mayor](http://twitter.com/search?q=Semana+Mayor) | N/A |
-| 38 | [Luisin](http://twitter.com/search?q=Luisin) | N/A |
-| 39 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 40 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 41 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
-| 42 | [Río San Juan](http://twitter.com/search?q=R%c3%ado+San+Juan) | N/A |
+| 37 | [Río San Juan](http://twitter.com/search?q=R%c3%ado+San+Juan) | N/A |
+| 38 | [Semana Mayor](http://twitter.com/search?q=Semana+Mayor) | N/A |
+| 39 | [Luisin](http://twitter.com/search?q=Luisin) | N/A |
+| 40 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
+| 41 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 42 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
 | 43 | [Hanley](http://twitter.com/search?q=Hanley) | N/A |
 | 44 | [Nagua](http://twitter.com/search?q=Nagua) | N/A |
 | 45 | [Vladimir Guerrero Jr.](http://twitter.com/search?q=Vladimir+Guerrero+Jr.) | N/A |

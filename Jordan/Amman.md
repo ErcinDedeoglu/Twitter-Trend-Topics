@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-04-07 06:17:04 UTC`
+📆 Last Updated: `2023-04-07 07:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,19 +19,19 @@ This is top 50 for [Jordan](</Jordan>)
 | 2 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
 | 3 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
 | 4 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
-| 5 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 5 | [#غزه_تقاوم](http://twitter.com/search?q=%23%d8%ba%d8%b2%d9%87_%d8%aa%d9%82%d8%a7%d9%88%d9%85) | N/A |
 | 6 | [#المسجد_الاقصي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af_%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
-| 7 | [#غزه_تقاوم](http://twitter.com/search?q=%23%d8%ba%d8%b2%d9%87_%d8%aa%d9%82%d8%a7%d9%88%d9%85) | N/A |
+| 7 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
 | 8 | [علي قطاع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%b7%d8%a7%d8%b9) | N/A |
-| 9 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 10 | [الوصايه الهاشميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b5%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d9%87%d8%a7%d8%b4%d9%85%d9%8a%d9%87) | N/A |
-| 11 | [#GazaUnderAttack](http://twitter.com/search?q=%23GazaUnderAttack) | N/A |
-| 12 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 13 | [ابو ابراهيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 14 | [١٥ رمضان](http://twitter.com/search?q=%d9%a1%d9%a5+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 15 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 16 | [عيد الفطر](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b7%d8%b1) | N/A |
-| 17 | [الجمعه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 9 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 10 | [ابو ابراهيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 11 | [١٥ رمضان](http://twitter.com/search?q=%d9%a1%d9%a5+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 12 | [#GazaUnderAttack](http://twitter.com/search?q=%23GazaUnderAttack) | N/A |
+| 13 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 14 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
+| 15 | [عيد الفطر](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b7%d8%b1) | N/A |
+| 16 | [الجمعه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 17 | [الوصايه الهاشميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b5%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d9%87%d8%a7%d8%b4%d9%85%d9%8a%d9%87) | N/A |
 | 18 | [#الكلاسيكو](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%b3%d9%8a%d9%83%d9%88) | N/A |
 | 19 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
 | 20 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
@@ -46,14 +46,14 @@ This is top 50 for [Jordan](</Jordan>)
 | 29 | [المقدسات الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%af%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
 | 30 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
 | 31 | [الناقل الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d9%82%d9%84+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 32 | [الكيان الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
-| 33 | [الجمعه الموافق](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%81%d9%82) | N/A |
-| 34 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 35 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 36 | [بشر الخصاونه](http://twitter.com/search?q=%d8%a8%d8%b4%d8%b1+%d8%a7%d9%84%d8%ae%d8%b5%d8%a7%d9%88%d9%86%d9%87) | N/A |
-| 37 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 38 | [علي بن أبي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a3%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
-| 39 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 32 | [الجمعه الموافق](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%81%d9%82) | N/A |
+| 33 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
+| 34 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 35 | [بشر الخصاونه](http://twitter.com/search?q=%d8%a8%d8%b4%d8%b1+%d8%a7%d9%84%d8%ae%d8%b5%d8%a7%d9%88%d9%86%d9%87) | N/A |
+| 36 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 37 | [علي بن أبي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a3%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 38 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 39 | [الكيان الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
 | 40 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
 | 41 | [محمود عباس](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
 | 42 | [بناء علي](http://twitter.com/search?q=%d8%a8%d9%86%d8%a7%d8%a1+%d8%b9%d9%84%d9%8a) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [Jordan](</Jordan>)
 | 47 | [وسط البلد](http://twitter.com/search?q=%d9%88%d8%b3%d8%b7+%d8%a7%d9%84%d8%a8%d9%84%d8%af) | N/A |
 | 48 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
 | 49 | [علي المصلين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a%d9%86) | N/A |
-| 50 | [الجامعه الاردنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a%d9%87) | N/A |
+| 50 | [الموسم الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
 
 
 

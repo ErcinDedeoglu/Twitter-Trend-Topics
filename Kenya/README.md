@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-04-07 06:17:23 UTC`
+📆 Last Updated: `2023-04-07 07:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Kenya
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 2 | [#GoodFriday](http://twitter.com/search?q=%23GoodFriday) | N/A |
-| 3 | [#PaySiiToMpesa](http://twitter.com/search?q=%23PaySiiToMpesa) | N/A |
-| 4 | [#MaishaConcertFriday](http://twitter.com/search?q=%23MaishaConcertFriday) | N/A |
-| 5 | [#ThursdayGlobalSermon](http://twitter.com/search?q=%23ThursdayGlobalSermon) | N/A |
-| 6 | [PaySii App](http://twitter.com/search?q=PaySii+App) | N/A |
-| 7 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 8 | [Tiko Green](http://twitter.com/search?q=Tiko+Green) | N/A |
-| 9 | [#WinForKenya](http://twitter.com/search?q=%23WinForKenya) | N/A |
-| 10 | [Kambas](http://twitter.com/search?q=Kambas) | N/A |
-| 11 | [Tejohn Catalyst](http://twitter.com/search?q=Tejohn+Catalyst) | N/A |
-| 12 | [Tongaren](http://twitter.com/search?q=Tongaren) | N/A |
-| 13 | [bedigitallyfit na robisearch](http://twitter.com/search?q=bedigitallyfit+na+robisearch) | N/A |
-| 14 | [promo code subz24](http://twitter.com/search?q=promo+code+subz24) | N/A |
-| 15 | [naiyare noonkipa](http://twitter.com/search?q=naiyare+noonkipa) | N/A |
-| 16 | [nation epaper discounted](http://twitter.com/search?q=nation+epaper+discounted) | N/A |
-| 17 | [bodaboda safety](http://twitter.com/search?q=bodaboda+safety) | N/A |
-| 18 | [Babu](http://twitter.com/search?q=Babu) | N/A |
-| 19 | [Congratulations Ian](http://twitter.com/search?q=Congratulations+Ian) | N/A |
-| 20 | [Sabina Chege](http://twitter.com/search?q=Sabina+Chege) | N/A |
-| 21 | [mama dollar](http://twitter.com/search?q=mama+dollar) | N/A |
-| 22 | [Kalonzo](http://twitter.com/search?q=Kalonzo) | N/A |
-| 23 | [Moses Kuria](http://twitter.com/search?q=Moses+Kuria) | N/A |
-| 24 | [Brother Bernard](http://twitter.com/search?q=Brother+Bernard) | N/A |
-| 25 | [SRHR](http://twitter.com/search?q=SRHR) | N/A |
-| 26 | [CITAM](http://twitter.com/search?q=CITAM) | N/A |
-| 27 | [Kwale County](http://twitter.com/search?q=Kwale+County) | N/A |
-| 28 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 29 | [Winnie Odinga](http://twitter.com/search?q=Winnie+Odinga) | N/A |
-| 30 | [Azimio PG](http://twitter.com/search?q=Azimio+PG) | N/A |
-| 31 | [MCAs](http://twitter.com/search?q=MCAs) | N/A |
+| 3 | [#ThursdayGlobalSermon](http://twitter.com/search?q=%23ThursdayGlobalSermon) | N/A |
+| 4 | [Kambas](http://twitter.com/search?q=Kambas) | N/A |
+| 5 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 6 | [Tejohn Catalyst](http://twitter.com/search?q=Tejohn+Catalyst) | N/A |
+| 7 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 8 | [Tongaren](http://twitter.com/search?q=Tongaren) | N/A |
+| 9 | [#DjFatxo](http://twitter.com/search?q=%23DjFatxo) | N/A |
+| 10 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 11 | [Babu](http://twitter.com/search?q=Babu) | N/A |
+| 12 | [Tiko Green](http://twitter.com/search?q=Tiko+Green) | N/A |
+| 13 | [naiyare noonkipa](http://twitter.com/search?q=naiyare+noonkipa) | N/A |
+| 14 | [Kalonzo](http://twitter.com/search?q=Kalonzo) | N/A |
+| 15 | [bodaboda safety](http://twitter.com/search?q=bodaboda+safety) | N/A |
+| 16 | [Sabina Chege](http://twitter.com/search?q=Sabina+Chege) | N/A |
+| 17 | [mama dollar](http://twitter.com/search?q=mama+dollar) | N/A |
+| 18 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 19 | [Moses Kuria](http://twitter.com/search?q=Moses+Kuria) | N/A |
+| 20 | [SRHR](http://twitter.com/search?q=SRHR) | N/A |
+| 21 | [Brother Benard](http://twitter.com/search?q=Brother+Benard) | N/A |
+| 22 | [CITAM](http://twitter.com/search?q=CITAM) | N/A |
+| 23 | [Kwale County](http://twitter.com/search?q=Kwale+County) | N/A |
+| 24 | [PaySii App](http://twitter.com/search?q=PaySii+App) | N/A |
+| 25 | [Azimio PG](http://twitter.com/search?q=Azimio+PG) | N/A |
+| 26 | [Winnie Odinga](http://twitter.com/search?q=Winnie+Odinga) | N/A |
+| 27 | [MCAs](http://twitter.com/search?q=MCAs) | N/A |
+| 28 | [KHOSI X SUPERSPORT](http://twitter.com/search?q=KHOSI+X+SUPERSPORT) | N/A |
+| 29 | [obrien and okwiri](http://twitter.com/search?q=obrien+and+okwiri) | N/A |
+| 30 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 31 | [KHOSI THE HOST](http://twitter.com/search?q=KHOSI+THE+HOST) | N/A |
 | 32 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 33 | [KHOSI X SUPERSPORT](http://twitter.com/search?q=KHOSI+X+SUPERSPORT) | N/A |
-| 34 | [obrien and okwiri](http://twitter.com/search?q=obrien+and+okwiri) | N/A |
-| 35 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 36 | [KHOSI THE HOST](http://twitter.com/search?q=KHOSI+THE+HOST) | N/A |
-| 37 | [Luos](http://twitter.com/search?q=Luos) | N/A |
-| 38 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 39 | [Machakos golf club](http://twitter.com/search?q=Machakos+golf+club) | N/A |
-| 40 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
-| 41 | [edge fiesta](http://twitter.com/search?q=edge+fiesta) | N/A |
-| 42 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 43 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 45 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 46 | [Unleash](http://twitter.com/search?q=Unleash) | N/A |
-| 47 | [Lamps](http://twitter.com/search?q=Lamps) | N/A |
-| 48 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 49 | [Prison](http://twitter.com/search?q=Prison) | N/A |
-| 50 | [Ragnar](http://twitter.com/search?q=Ragnar) | N/A |
+| 33 | [Luos](http://twitter.com/search?q=Luos) | N/A |
+| 34 | [Machakos golf club](http://twitter.com/search?q=Machakos+golf+club) | N/A |
+| 35 | [Last Supper](http://twitter.com/search?q=Last+Supper) | N/A |
+| 36 | [edge fiesta](http://twitter.com/search?q=edge+fiesta) | N/A |
+| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 38 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 39 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 40 | [Unleash](http://twitter.com/search?q=Unleash) | N/A |
+| 41 | [Prison](http://twitter.com/search?q=Prison) | N/A |
+| 42 | [Ragnar](http://twitter.com/search?q=Ragnar) | N/A |
+| 43 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 44 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 45 | [Botswana](http://twitter.com/search?q=Botswana) | N/A |
+| 46 | [Happy Holidays](http://twitter.com/search?q=Happy+Holidays) | Happy Holidays is a greeting used to wish someone a joyous and festive holiday season. It is typically used during the winter holidays, such as Christmas, Hanukkah, Kwanzaa, and New Year's. |
+| 47 | [Kalenjin](http://twitter.com/search?q=Kalenjin) | N/A |
+| 48 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 49 | [Blacklist](http://twitter.com/search?q=Blacklist) | Blacklist is a list of people, organizations, or countries that are being denied a particular privilege, service, or mobility. It is commonly used to refer to a list of people who are not allowed to enter a certain country or region due to security concerns. It can also refer to a list of companies or individuals who have been banned from doing business with a particular organization. |
+| 50 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
 
 
 

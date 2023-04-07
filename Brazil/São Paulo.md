@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-04-07 06:16:42 UTC`
+📆 Last Updated: `2023-04-07 07:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bruninha](http://twitter.com/search?q=Bruninha) | N/A |
-| 2 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 3 | [Rogério](http://twitter.com/search?q=Rog%c3%a9rio) | N/A |
-| 4 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 1 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 2 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 3 | [Bruninha](http://twitter.com/search?q=Bruninha) | N/A |
+| 4 | [Rogério](http://twitter.com/search?q=Rog%c3%a9rio) | N/A |
 | 5 | [Cantillo](http://twitter.com/search?q=Cantillo) | N/A |
-| 6 | [Michel](http://twitter.com/search?q=Michel) | N/A |
-| 7 | [Calleri](http://twitter.com/search?q=Calleri) | Calleri is a Spanish surname. It is derived from the Latin word "calerius," which means "strong" or "brave." In English, the meaning of the name Calleri is "strong and brave." |
-| 8 | [Tricolor](http://twitter.com/search?q=Tricolor) | N/A |
-| 9 | [Calvo](http://twitter.com/search?q=Calvo) | N/A |
-| 10 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 11 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
-| 12 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 13 | [ESTAMOS COM VOCE BRUNA](http://twitter.com/search?q=ESTAMOS+COM+VOCE+BRUNA) | N/A |
-| 14 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
-| 15 | [kylie](http://twitter.com/search?q=kylie) | N/A |
-| 16 | [Mimada](http://twitter.com/search?q=Mimada) | N/A |
-| 17 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 18 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 19 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
-| 20 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 21 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 22 | [Luís Castro](http://twitter.com/search?q=Lu%c3%ads+Castro) | N/A |
-| 23 | [SEM CHORO](http://twitter.com/search?q=SEM+CHORO) | N/A |
-| 24 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
-| 25 | [Erison](http://twitter.com/search?q=Erison) | N/A |
-| 26 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 27 | [Sarah e Alface](http://twitter.com/search?q=Sarah+e+Alface) | N/A |
-| 28 | [#BBB233](http://twitter.com/search?q=%23BBB233) | N/A |
-| 29 | [Arboleda](http://twitter.com/search?q=Arboleda) | Arboleda is a Spanish word that translates to "grove" or "woodland" in English. It is used to refer to a small area of trees, usually in a park or garden. |
-| 30 | [Bruna e Larissa](http://twitter.com/search?q=Bruna+e+Larissa) | N/A |
-| 31 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 32 | [Gabriel Pires](http://twitter.com/search?q=Gabriel+Pires) | Gabriel Pires is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
-| 33 | [Labrinth](http://twitter.com/search?q=Labrinth) | N/A |
-| 34 | [Big Fone](http://twitter.com/search?q=Big+Fone) | Big Fone is a slang term used to refer to a large, expensive mobile phone. It is often used to describe a phone that is seen as being luxurious or ostentatious. |
-| 35 | [Adnet](http://twitter.com/search?q=Adnet) | N/A |
-| 36 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 37 | [EL TORO](http://twitter.com/search?q=EL+TORO) | N/A |
-| 38 | [julia alvarenga](http://twitter.com/search?q=julia+alvarenga) | N/A |
-| 39 | [Timothee](http://twitter.com/search?q=Timothee) | N/A |
-| 40 | [Mimadinha](http://twitter.com/search?q=Mimadinha) | N/A |
-| 41 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
+| 6 | [Calleri](http://twitter.com/search?q=Calleri) | Calleri is a Spanish surname. It is derived from the Latin word "calerius," which means "strong" or "brave." In English, the meaning of the name Calleri is "strong and brave." |
+| 7 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 8 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 9 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
+| 10 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 11 | [ESTAMOS COM VOCE BRUNA](http://twitter.com/search?q=ESTAMOS+COM+VOCE+BRUNA) | N/A |
+| 12 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
+| 13 | [kylie](http://twitter.com/search?q=kylie) | N/A |
+| 14 | [Mimada](http://twitter.com/search?q=Mimada) | N/A |
+| 15 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 16 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 17 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
+| 18 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 19 | [Luís Castro](http://twitter.com/search?q=Lu%c3%ads+Castro) | N/A |
+| 20 | [SEM CHORO](http://twitter.com/search?q=SEM+CHORO) | N/A |
+| 21 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
+| 22 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 23 | [Erison](http://twitter.com/search?q=Erison) | N/A |
+| 24 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 25 | [Sarah e Alface](http://twitter.com/search?q=Sarah+e+Alface) | N/A |
+| 26 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 27 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 28 | [julia alvarenga](http://twitter.com/search?q=julia+alvarenga) | N/A |
+| 29 | [Gabriel Pires](http://twitter.com/search?q=Gabriel+Pires) | Gabriel Pires is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
+| 30 | [#ForaBrunaGriphao](http://twitter.com/search?q=%23ForaBrunaGriphao) | N/A |
+| 31 | [Labrinth](http://twitter.com/search?q=Labrinth) | N/A |
+| 32 | [arboleda](http://twitter.com/search?q=arboleda) | N/A |
+| 33 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 34 | [EL TORO](http://twitter.com/search?q=EL+TORO) | N/A |
+| 35 | [Timothée](http://twitter.com/search?q=Timoth%c3%a9e) | N/A |
+| 36 | [Mimadinha](http://twitter.com/search?q=Mimadinha) | N/A |
+| 37 | [Big Fone](http://twitter.com/search?q=Big+Fone) | Big Fone is a slang term used to refer to a large, expensive mobile phone. It is often used to describe a phone that is seen as being luxurious or ostentatious. |
+| 38 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 39 | [Adnet](http://twitter.com/search?q=Adnet) | N/A |
+| 40 | [David](http://twitter.com/search?q=David) | N/A |
+| 41 | [Higher Than Heaven](http://twitter.com/search?q=Higher+Than+Heaven) | N/A |
 | 42 | [Ásia](http://twitter.com/search?q=%c3%81sia) | N/A |
-| 43 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 44 | [Tchê Tchê](http://twitter.com/search?q=Tch%c3%aa+Tch%c3%aa) | N/A |
-| 45 | [David](http://twitter.com/search?q=David) | N/A |
-| 46 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 47 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
-| 48 | [Higher Than Heaven](http://twitter.com/search?q=Higher+Than+Heaven) | N/A |
-| 49 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 50 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 43 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 44 | [niki](http://twitter.com/search?q=niki) | N/A |
+| 45 | [Se o Alface](http://twitter.com/search?q=Se+o+Alface) | N/A |
+| 46 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 47 | [Tchê Tchê](http://twitter.com/search?q=Tch%c3%aa+Tch%c3%aa) | N/A |
+| 48 | [Never Felt So Alone](http://twitter.com/search?q=Never+Felt+So+Alone) | N/A |
+| 49 | [Aline e Amanda](http://twitter.com/search?q=Aline+e+Amanda) | N/A |
+| 50 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
 
 
 
