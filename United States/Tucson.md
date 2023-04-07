@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-04-07 09:17:29 UTC`
+📆 Last Updated: `2023-04-07 10:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 2 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 3 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
-| 4 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
-| 5 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 6 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 2 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 3 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 4 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 5 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
+| 6 | [#마크가_말아주는_골든아워](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%ea%b0%80_%eb%a7%90%ec%95%84%ec%a3%bc%eb%8a%94_%ea%b3%a8%eb%93%a0%ec%95%84%ec%9b%8c) | N/A |
 | 7 | [#PowerBook2](http://twitter.com/search?q=%23PowerBook2) | N/A |
-| 8 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 9 | [#마크가_말아주는_골든아워](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%ea%b0%80_%eb%a7%90%ec%95%84%ec%a3%bc%eb%8a%94_%ea%b3%a8%eb%93%a0%ec%95%84%ec%9b%8c) | N/A |
-| 10 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 11 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 12 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 13 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 14 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
-| 15 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 16 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 8 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 9 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 10 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 11 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 12 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 13 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 14 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 15 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
+| 16 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
 | 17 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 18 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 19 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 20 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 21 | [Bandcamp Friday](http://twitter.com/search?q=Bandcamp+Friday) | N/A |
-| 22 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
-| 23 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
-| 24 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
-| 25 | [ot12](http://twitter.com/search?q=ot12) | N/A |
-| 26 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 27 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 28 | [ARCIA](http://twitter.com/search?q=ARCIA) | N/A |
-| 29 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
-| 30 | [Mercenaries](http://twitter.com/search?q=Mercenaries) | N/A |
-| 31 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
-| 32 | [Jenner](http://twitter.com/search?q=Jenner) | N/A |
-| 33 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 34 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 35 | [Farmer](http://twitter.com/search?q=Farmer) | N/A |
-| 36 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 37 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 38 | [Hunk](http://twitter.com/search?q=Hunk) | N/A |
-| 39 | [Ellie Goulding](http://twitter.com/search?q=Ellie+Goulding) | N/A |
-| 40 | [Bruce Brown](http://twitter.com/search?q=Bruce+Brown) | N/A |
-| 41 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 42 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 43 | [Scott Walker](http://twitter.com/search?q=Scott+Walker) | N/A |
-| 44 | [Jesus is Lord](http://twitter.com/search?q=Jesus+is+Lord) | N/A |
-| 45 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 46 | [New South](http://twitter.com/search?q=New+South) | N/A |
-| 47 | [Senku](http://twitter.com/search?q=Senku) | N/A |
-| 48 | [Vaush](http://twitter.com/search?q=Vaush) | N/A |
-| 49 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 18 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 19 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
+| 20 | [Effie](http://twitter.com/search?q=Effie) | N/A |
+| 21 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 22 | [Bandcamp Friday](http://twitter.com/search?q=Bandcamp+Friday) | N/A |
+| 23 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
+| 24 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 25 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
+| 26 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
+| 27 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 28 | [ot12](http://twitter.com/search?q=ot12) | N/A |
+| 29 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 30 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
+| 31 | [Mercenaries](http://twitter.com/search?q=Mercenaries) | N/A |
+| 32 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 33 | [Farmer](http://twitter.com/search?q=Farmer) | N/A |
+| 34 | [Jesus is Lord](http://twitter.com/search?q=Jesus+is+Lord) | N/A |
+| 35 | [Insurrectionists](http://twitter.com/search?q=Insurrectionists) | N/A |
+| 36 | [Jenner](http://twitter.com/search?q=Jenner) | N/A |
+| 37 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 38 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 39 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 40 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 41 | [Hunk](http://twitter.com/search?q=Hunk) | N/A |
+| 42 | [Ellie Goulding](http://twitter.com/search?q=Ellie+Goulding) | N/A |
+| 43 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
+| 44 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 45 | [Vaush](http://twitter.com/search?q=Vaush) | N/A |
+| 46 | [Racists](http://twitter.com/search?q=Racists) | N/A |
+| 47 | [Scott Walker](http://twitter.com/search?q=Scott+Walker) | N/A |
+| 48 | [Bulma](http://twitter.com/search?q=Bulma) | N/A |
+| 49 | [ARCIA](http://twitter.com/search?q=ARCIA) | N/A |
 
 
 

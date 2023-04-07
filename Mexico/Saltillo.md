@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-04-07 09:16:44 UTC`
+📆 Last Updated: `2023-04-07 10:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,47 @@ This is top 50 for [Mexico](</Mexico>)
 | 5 | [#JuevesSanto](http://twitter.com/search?q=%23JuevesSanto) | N/A |
 | 6 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 7 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 8 | [#IntegracionKenini](http://twitter.com/search?q=%23IntegracionKenini) | N/A |
-| 9 | [Central de Abastos](http://twitter.com/search?q=Central+de+Abastos) | N/A |
-| 10 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 8 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
+| 9 | [GOLDEN HOUR OUT NOW](http://twitter.com/search?q=GOLDEN+HOUR+OUT+NOW) | N/A |
+| 10 | [Central de Abastos](http://twitter.com/search?q=Central+de+Abastos) | N/A |
 | 11 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 13 | [2 OUT TODAY](http://twitter.com/search?q=2+OUT+TODAY) | N/A |
+| 12 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 14 | [SOLO UN BESO OUT NOW](http://twitter.com/search?q=SOLO+UN+BESO+OUT+NOW) | N/A |
-| 15 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 16 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
-| 17 | [Desarrollo y la Paz](http://twitter.com/search?q=Desarrollo+y+la+Paz) | N/A |
-| 18 | [Día Internacional del Deporte](http://twitter.com/search?q=D%c3%ada+Internacional+del+Deporte) | N/A |
-| 19 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 15 | [2 OUT TODAY](http://twitter.com/search?q=2+OUT+TODAY) | N/A |
+| 16 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 17 | [Latinus](http://twitter.com/search?q=Latinus) | N/A |
+| 18 | [desarrollo y la paz](http://twitter.com/search?q=desarrollo+y+la+paz) | N/A |
+| 19 | [día internacional del deporte](http://twitter.com/search?q=d%c3%ada+internacional+del+deporte) | N/A |
 | 20 | [Meade](http://twitter.com/search?q=Meade) | N/A |
 | 21 | [Matehuala](http://twitter.com/search?q=Matehuala) | N/A |
 | 22 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 23 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 24 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
+| 23 | [Deer Park](http://twitter.com/search?q=Deer+Park) | Deer Park is a term used to refer to a park or area of land where deer are kept. It is usually a large, enclosed area with plenty of trees and vegetation for the deer to graze on. The term can also be used to refer to an area where deer hunting is allowed. |
+| 24 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 | 25 | [San Luis Potosí](http://twitter.com/search?q=San+Luis+Potos%c3%ad) | N/A |
 | 26 | [Asia](http://twitter.com/search?q=Asia) | N/A |
 | 27 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 28 | [Kenia](http://twitter.com/search?q=Kenia) | Kenia is the name of a country in East Africa. It is bordered by Tanzania, Uganda, South Sudan, Ethiopia, and Somalia. The official name of the country is the Republic of Kenya. The meaning of Kenia in English is "burning" or "place of the open-faced spear". |
 | 29 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
-| 30 | [Eucaristía](http://twitter.com/search?q=Eucarist%c3%ada) | N/A |
+| 30 | [eucaristía](http://twitter.com/search?q=eucarist%c3%ada) | N/A |
 | 31 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 | 32 | [rumores is coming](http://twitter.com/search?q=rumores+is+coming) | N/A |
-| 33 | [BÉSENME EMINENAS](http://twitter.com/search?q=B%c3%89SENME+EMINENAS) | N/A |
-| 34 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
-| 35 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 33 | [bésenme eminenas](http://twitter.com/search?q=b%c3%a9senme+eminenas) | N/A |
+| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 35 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
 | 36 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 37 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
+| 37 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
 | 38 | [Asesinato](http://twitter.com/search?q=Asesinato) | N/A |
-| 39 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 40 | [Leonora Carrington](http://twitter.com/search?q=Leonora+Carrington) | N/A |
-| 41 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 42 | [El Principito](http://twitter.com/search?q=El+Principito) | N/A |
-| 43 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 44 | [México-Toluca](http://twitter.com/search?q=M%c3%a9xico-Toluca) | N/A |
-| 45 | [Manuel Turizo](http://twitter.com/search?q=Manuel+Turizo) | N/A |
+| 39 | [Leonora Carrington](http://twitter.com/search?q=Leonora+Carrington) | N/A |
+| 40 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 41 | [El Principito](http://twitter.com/search?q=El+Principito) | N/A |
+| 42 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 43 | [México-Toluca](http://twitter.com/search?q=M%c3%a9xico-Toluca) | N/A |
+| 44 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 45 | [Mao Ning](http://twitter.com/search?q=Mao+Ning) | N/A |
 | 46 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 47 | [Mao Ning](http://twitter.com/search?q=Mao+Ning) | N/A |
-| 48 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 49 | [Líbano](http://twitter.com/search?q=L%c3%adbano) | N/A |
+| 47 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
+| 48 | [Líbano](http://twitter.com/search?q=L%c3%adbano) | N/A |
 
 
 

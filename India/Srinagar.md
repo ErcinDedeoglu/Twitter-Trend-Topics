@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-04-07 09:17:16 UTC`
+📆 Last Updated: `2023-04-07 10:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
 | 2 | [#GoodFriday](http://twitter.com/search?q=%23GoodFriday) | N/A |
-| 3 | [#MP_की_अर्थव्यवस्था_दोगुनी](http://twitter.com/search?q=%23MP_%e0%a4%95%e0%a5%80_%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%b5%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be_%e0%a4%a6%e0%a5%8b%e0%a4%97%e0%a5%81%e0%a4%a8%e0%a5%80) | N/A |
+| 3 | [AHMEDABAD WELCOMES INDRESHJI](http://twitter.com/search?q=AHMEDABAD+WELCOMES+INDRESHJI) | N/A |
 | 4 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
 | 5 | [AnemiaMukt Bharat By Gowani](http://twitter.com/search?q=AnemiaMukt+Bharat+By+Gowani) | N/A |
-| 6 | [Surya Conclave](http://twitter.com/search?q=Surya+Conclave) | N/A |
-| 7 | [समर सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%b0+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 6 | [#MP_की_अर्थव्यवस्था_दोगुनी](http://twitter.com/search?q=%23MP_%e0%a4%95%e0%a5%80_%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%b5%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be_%e0%a4%a6%e0%a5%8b%e0%a4%97%e0%a5%81%e0%a4%a8%e0%a5%80) | N/A |
+| 7 | [Surya Conclave](http://twitter.com/search?q=Surya+Conclave) | N/A |
 | 8 | [NDTV DETTOL BSI SPECIAL](http://twitter.com/search?q=NDTV+DETTOL+BSI+SPECIAL) | N/A |
-| 9 | [आंध्र प्रदेश](http://twitter.com/search?q=%e0%a4%86%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 10 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 11 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
+| 9 | [समर सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%b0+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 10 | [आंध्र प्रदेश](http://twitter.com/search?q=%e0%a4%86%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 11 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
 | 12 | [Sushant Nemesis Of Bollywood](http://twitter.com/search?q=Sushant+Nemesis+Of+Bollywood) | N/A |
-| 13 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 14 | [Madhya Pradesh](http://twitter.com/search?q=Madhya+Pradesh) | N/A |
-| 15 | [GSDP](http://twitter.com/search?q=GSDP) | N/A |
-| 16 | [Wayne Parnell](http://twitter.com/search?q=Wayne+Parnell) | N/A |
+| 13 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 14 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
+| 15 | [Madhya Pradesh](http://twitter.com/search?q=Madhya+Pradesh) | N/A |
+| 16 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
 | 17 | [Republic of China](http://twitter.com/search?q=Republic+of+China) | N/A |
-| 18 | [ईसा मसीह](http://twitter.com/search?q=%e0%a4%88%e0%a4%b8%e0%a4%be+%e0%a4%ae%e0%a4%b8%e0%a5%80%e0%a4%b9) | N/A |
-| 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 20 | [SSC CGL 2023](http://twitter.com/search?q=SSC+CGL+2023) | N/A |
-| 21 | [BRING IT ON](http://twitter.com/search?q=BRING+IT+ON) | N/A |
-| 22 | [Andhra Pradesh](http://twitter.com/search?q=Andhra+Pradesh) | N/A |
-| 23 | [आयुष्मान कार्ड](http://twitter.com/search?q=%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 24 | [Dil Se](http://twitter.com/search?q=Dil+Se) | N/A |
-| 25 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 26 | [पवित्र बाइबल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ac%e0%a4%be%e0%a4%87%e0%a4%ac%e0%a4%b2) | N/A |
-| 27 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 28 | [Ae Ajnabi](http://twitter.com/search?q=Ae+Ajnabi) | N/A |
-| 29 | [Amul](http://twitter.com/search?q=Amul) | N/A |
-| 30 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 31 | [#MissionSwacchtaAurPaani](http://twitter.com/search?q=%23MissionSwacchtaAurPaani) | N/A |
-| 32 | [#ReadyForSuperMarioBros](http://twitter.com/search?q=%23ReadyForSuperMarioBros) | N/A |
-| 33 | [#KiranKumarReddy](http://twitter.com/search?q=%23KiranKumarReddy) | N/A |
-| 34 | [#healthylifestyle](http://twitter.com/search?q=%23healthylifestyle) | N/A |
-| 35 | [#SSC_CGL_AGE_RECKONING_1_JAN](http://twitter.com/search?q=%23SSC_CGL_AGE_RECKONING_1_JAN) | N/A |
-| 36 | [#DictatorRavi](http://twitter.com/search?q=%23DictatorRavi) | N/A |
-| 37 | [#GanjaOdhuBro](http://twitter.com/search?q=%23GanjaOdhuBro) | N/A |
-| 38 | [#FactsAboutJesus](http://twitter.com/search?q=%23FactsAboutJesus) | N/A |
-| 39 | [#healthcare](http://twitter.com/search?q=%23healthcare) | N/A |
-| 40 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 41 | [#GobackModi](http://twitter.com/search?q=%23GobackModi) | N/A |
-| 42 | [#healthiswealth](http://twitter.com/search?q=%23healthiswealth) | N/A |
-| 43 | [#LSGvsSRH](http://twitter.com/search?q=%23LSGvsSRH) | N/A |
-| 44 | [#ManishSisodia](http://twitter.com/search?q=%23ManishSisodia) | N/A |
-| 45 | [#EasterWeekend](http://twitter.com/search?q=%23EasterWeekend) | N/A |
-| 46 | [#akankshadubey](http://twitter.com/search?q=%23akankshadubey) | N/A |
-| 47 | [#JagananneMaaBhavishyathu](http://twitter.com/search?q=%23JagananneMaaBhavishyathu) | N/A |
+| 18 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 19 | [Wayne Parnell](http://twitter.com/search?q=Wayne+Parnell) | N/A |
+| 20 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 21 | [GSDP](http://twitter.com/search?q=GSDP) | N/A |
+| 22 | [ईसा मसीह](http://twitter.com/search?q=%e0%a4%88%e0%a4%b8%e0%a4%be+%e0%a4%ae%e0%a4%b8%e0%a5%80%e0%a4%b9) | N/A |
+| 23 | [SSC CGL 2023](http://twitter.com/search?q=SSC+CGL+2023) | N/A |
+| 24 | [Andhra Pradesh](http://twitter.com/search?q=Andhra+Pradesh) | N/A |
+| 25 | [केंद्रीय स्वास्थ्य मंत्री](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 26 | [BRING IT ON](http://twitter.com/search?q=BRING+IT+ON) | N/A |
+| 27 | [आयुष्मान कार्ड](http://twitter.com/search?q=%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 28 | [Dil Se](http://twitter.com/search?q=Dil+Se) | N/A |
+| 29 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 30 | [पवित्र बाइबल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ac%e0%a4%be%e0%a4%87%e0%a4%ac%e0%a4%b2) | N/A |
+| 31 | [Amul](http://twitter.com/search?q=Amul) | N/A |
+| 32 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 33 | [उमर खालिद](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a4%b0+%e0%a4%96%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%a6) | N/A |
+| 34 | [#MissionSwacchtaAurPaani](http://twitter.com/search?q=%23MissionSwacchtaAurPaani) | N/A |
+| 35 | [#KiranKumarReddy](http://twitter.com/search?q=%23KiranKumarReddy) | N/A |
+| 36 | [#WhereisPushpa](http://twitter.com/search?q=%23WhereisPushpa) | N/A |
+| 37 | [#healthylifestyle](http://twitter.com/search?q=%23healthylifestyle) | N/A |
+| 38 | [#PushpaTheRule](http://twitter.com/search?q=%23PushpaTheRule) | N/A |
+| 39 | [#DictatorRavi](http://twitter.com/search?q=%23DictatorRavi) | N/A |
+| 40 | [#GobackModi](http://twitter.com/search?q=%23GobackModi) | N/A |
+| 41 | [#SSC_CGL_AGE_RECKONING_1_JAN](http://twitter.com/search?q=%23SSC_CGL_AGE_RECKONING_1_JAN) | N/A |
+| 42 | [#healthcare](http://twitter.com/search?q=%23healthcare) | N/A |
+| 43 | [#GanjaOdhuBro](http://twitter.com/search?q=%23GanjaOdhuBro) | N/A |
+| 44 | [#JagananneMaaBhavishyathu](http://twitter.com/search?q=%23JagananneMaaBhavishyathu) | N/A |
+| 45 | [#FactsAboutJesus](http://twitter.com/search?q=%23FactsAboutJesus) | N/A |
+| 46 | [#healthiswealth](http://twitter.com/search?q=%23healthiswealth) | N/A |
+| 47 | [#LSGvsSRH](http://twitter.com/search?q=%23LSGvsSRH) | N/A |
 
 
 

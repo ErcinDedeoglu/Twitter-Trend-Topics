@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-04-07 09:16:45 UTC`
+📆 Last Updated: `2023-04-07 10:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for [Colombia](</Colombia>)
 | 8 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
 | 9 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 10 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 11 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 11 | [#AgustDxIU](http://twitter.com/search?q=%23AgustDxIU) | N/A |
 | 12 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
 | 13 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
 | 14 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
@@ -34,7 +34,7 @@ This is top 50 for [Colombia](</Colombia>)
 | 17 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
 | 18 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
 | 19 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 20 | [Liberland](http://twitter.com/search?q=Liberland) | N/A |
+| 20 | [liberland](http://twitter.com/search?q=liberland) | N/A |
 | 21 | [Tatay](http://twitter.com/search?q=Tatay) | N/A |
 | 22 | [Guzmán](http://twitter.com/search?q=Guzm%c3%a1n) | N/A |
 | 23 | [Ocampo](http://twitter.com/search?q=Ocampo) | Ocampo is a Spanish surname derived from the Latin word campus, meaning "field". It is most commonly found in Spain and Latin America. In English, it can be translated to mean "of the field". |
@@ -49,21 +49,21 @@ This is top 50 for [Colombia](</Colombia>)
 | 32 | [dorlan pabón](http://twitter.com/search?q=dorlan+pab%c3%b3n) | N/A |
 | 33 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
 | 34 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
-| 35 | [Eucaristía](http://twitter.com/search?q=Eucarist%c3%ada) | N/A |
+| 35 | [eucaristía](http://twitter.com/search?q=eucarist%c3%ada) | N/A |
 | 36 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
 | 37 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 38 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 39 | [Jader](http://twitter.com/search?q=Jader) | N/A |
-| 40 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 41 | [Deportes Tolima](http://twitter.com/search?q=Deportes+Tolima) | N/A |
-| 42 | [aldair quintana](http://twitter.com/search?q=aldair+quintana) | N/A |
-| 43 | [Puerto Cabello](http://twitter.com/search?q=Puerto+Cabello) | N/A |
-| 44 | [Guyana](http://twitter.com/search?q=Guyana) | N/A |
-| 45 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
-| 46 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 47 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 48 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 49 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 38 | [Jader](http://twitter.com/search?q=Jader) | N/A |
+| 39 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 40 | [Deportes Tolima](http://twitter.com/search?q=Deportes+Tolima) | N/A |
+| 41 | [aldair quintana](http://twitter.com/search?q=aldair+quintana) | N/A |
+| 42 | [Puerto Cabello](http://twitter.com/search?q=Puerto+Cabello) | N/A |
+| 43 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 44 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 45 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 46 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 47 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
+| 48 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
+| 49 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
 
 
 

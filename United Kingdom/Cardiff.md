@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-04-07 09:16:38 UTC`
+📆 Last Updated: `2023-04-07 10:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
 | 4 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 5 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 6 | [Lucy Powell](http://twitter.com/search?q=Lucy+Powell) | N/A |
-| 7 | [Andrew Castle](http://twitter.com/search?q=Andrew+Castle) | N/A |
-| 8 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
-| 9 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
-| 10 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
-| 11 | [Naga](http://twitter.com/search?q=Naga) | N/A |
-| 12 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 13 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
-| 14 | [Jimmy Saville](http://twitter.com/search?q=Jimmy+Saville) | N/A |
-| 15 | [Gutter](http://twitter.com/search?q=Gutter) | N/A |
-| 16 | [Hot Cross Buns](http://twitter.com/search?q=Hot+Cross+Buns) | N/A |
+| 5 | [CHOO CHOO](http://twitter.com/search?q=CHOO+CHOO) | N/A |
+| 6 | [#StarWarsCelebration2023](http://twitter.com/search?q=%23StarWarsCelebration2023) | N/A |
+| 7 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
+| 8 | [Lucy Powell](http://twitter.com/search?q=Lucy+Powell) | N/A |
+| 9 | [Andrew Castle](http://twitter.com/search?q=Andrew+Castle) | N/A |
+| 10 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 11 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 12 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
+| 13 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 14 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
+| 15 | [Naga](http://twitter.com/search?q=Naga) | N/A |
+| 16 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
 | 17 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 18 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 19 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 20 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 21 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 22 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
-| 23 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 24 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 25 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 26 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 27 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 28 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
-| 29 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 30 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 31 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 32 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 33 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
-| 34 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
-| 35 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 36 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 37 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
-| 38 | [#Lorraine](http://twitter.com/search?q=%23Lorraine) | N/A |
-| 39 | [#ToriesOut274](http://twitter.com/search?q=%23ToriesOut274) | N/A |
-| 40 | [#SWCE2023](http://twitter.com/search?q=%23SWCE2023) | N/A |
-| 41 | [#Wordle657](http://twitter.com/search?q=%23Wordle657) | N/A |
-| 42 | [#GFA25](http://twitter.com/search?q=%23GFA25) | N/A |
-| 43 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 44 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 45 | [#COYH](http://twitter.com/search?q=%23COYH) | N/A |
-| 46 | [#TeamCallaway](http://twitter.com/search?q=%23TeamCallaway) | N/A |
-| 47 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
-| 48 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 18 | [Great Friday](http://twitter.com/search?q=Great+Friday) | N/A |
+| 19 | [Derby Day](http://twitter.com/search?q=Derby+Day) | Derby Day is a term used to refer to the day of a major horse race, usually the Kentucky Derby in the United States. It is a day of celebration and excitement, with people gathering to watch the race and place bets on their favorite horses. The phrase can also be used more generally to refer to any day when a major horse race takes place. |
+| 20 | [Saville](http://twitter.com/search?q=Saville) | N/A |
+| 21 | [Gutter](http://twitter.com/search?q=Gutter) | N/A |
+| 22 | [The Labour Party](http://twitter.com/search?q=The+Labour+Party) | N/A |
+| 23 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
+| 24 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
+| 25 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 26 | [North Wales](http://twitter.com/search?q=North+Wales) | N/A |
+| 27 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 28 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 29 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 30 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 31 | [Luton](http://twitter.com/search?q=Luton) | N/A |
+| 32 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 33 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 34 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
+| 35 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 36 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
+| 37 | [#InternationalBeaverDay](http://twitter.com/search?q=%23InternationalBeaverDay) | N/A |
+| 38 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 39 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
+| 40 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 41 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
+| 42 | [#SWCE2023](http://twitter.com/search?q=%23SWCE2023) | N/A |
+| 43 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 44 | [#GFA25](http://twitter.com/search?q=%23GFA25) | N/A |
+| 45 | [#ASongOrMovieForAnythingGood](http://twitter.com/search?q=%23ASongOrMovieForAnythingGood) | N/A |
+| 46 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
+| 47 | [#fridaymusicfun](http://twitter.com/search?q=%23fridaymusicfun) | N/A |
+| 48 | [#FallFriday](http://twitter.com/search?q=%23FallFriday) | N/A |
 
 
 

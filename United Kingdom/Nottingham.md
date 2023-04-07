@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nottingham
 
-📆 Last Updated: `2023-04-07 09:16:40 UTC`
+📆 Last Updated: `2023-04-07 10:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gutter](http://twitter.com/search?q=Gutter) | N/A |
-| 2 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 3 | [#Millwall](http://twitter.com/search?q=%23Millwall) | N/A |
+| 1 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
+| 2 | [Gutter](http://twitter.com/search?q=Gutter) | N/A |
+| 3 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
 | 4 | [#ToriesBrokeBritain](http://twitter.com/search?q=%23ToriesBrokeBritain) | N/A |
-| 5 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 7 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 8 | [Lucy Powell](http://twitter.com/search?q=Lucy+Powell) | N/A |
-| 9 | [Andrew Castle](http://twitter.com/search?q=Andrew+Castle) | N/A |
-| 10 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
-| 11 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
-| 12 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
-| 13 | [Naga](http://twitter.com/search?q=Naga) | N/A |
-| 14 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 15 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
-| 16 | [Jimmy Saville](http://twitter.com/search?q=Jimmy+Saville) | N/A |
-| 17 | [Hot Cross Buns](http://twitter.com/search?q=Hot+Cross+Buns) | N/A |
-| 18 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 19 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 20 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 21 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 22 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
-| 23 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 24 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 25 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 26 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 27 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 28 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
-| 29 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 30 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 31 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 32 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 33 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 34 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 35 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
-| 36 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
-| 37 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 38 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 39 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
-| 40 | [#Lorraine](http://twitter.com/search?q=%23Lorraine) | N/A |
-| 41 | [#ToriesOut274](http://twitter.com/search?q=%23ToriesOut274) | N/A |
-| 42 | [#SWCE2023](http://twitter.com/search?q=%23SWCE2023) | N/A |
-| 43 | [#Wordle657](http://twitter.com/search?q=%23Wordle657) | N/A |
-| 44 | [#GFA25](http://twitter.com/search?q=%23GFA25) | N/A |
-| 45 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 46 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 47 | [#COYH](http://twitter.com/search?q=%23COYH) | N/A |
-| 48 | [#TeamCallaway](http://twitter.com/search?q=%23TeamCallaway) | N/A |
+| 5 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 6 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 8 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 9 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 10 | [CHOO CHOO](http://twitter.com/search?q=CHOO+CHOO) | N/A |
+| 11 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
+| 12 | [Lucy Powell](http://twitter.com/search?q=Lucy+Powell) | N/A |
+| 13 | [Andrew Castle](http://twitter.com/search?q=Andrew+Castle) | N/A |
+| 14 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 15 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 16 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
+| 17 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 18 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
+| 19 | [Naga](http://twitter.com/search?q=Naga) | N/A |
+| 20 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 21 | [Great Friday](http://twitter.com/search?q=Great+Friday) | N/A |
+| 22 | [Derby Day](http://twitter.com/search?q=Derby+Day) | Derby Day is a term used to refer to the day of a major horse race, usually the Kentucky Derby in the United States. It is a day of celebration and excitement, with people gathering to watch the race and place bets on their favorite horses. The phrase can also be used more generally to refer to any day when a major horse race takes place. |
+| 23 | [Saville](http://twitter.com/search?q=Saville) | N/A |
+| 24 | [The Labour Party](http://twitter.com/search?q=The+Labour+Party) | N/A |
+| 25 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
+| 26 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
+| 27 | [North Wales](http://twitter.com/search?q=North+Wales) | N/A |
+| 28 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 29 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 30 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 31 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 32 | [Luton](http://twitter.com/search?q=Luton) | N/A |
+| 33 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 34 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 35 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
+| 36 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 37 | [#StarWarsCelebration2023](http://twitter.com/search?q=%23StarWarsCelebration2023) | N/A |
+| 38 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
+| 39 | [#InternationalBeaverDay](http://twitter.com/search?q=%23InternationalBeaverDay) | N/A |
+| 40 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 41 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
+| 42 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 43 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
+| 44 | [#SWCE2023](http://twitter.com/search?q=%23SWCE2023) | N/A |
+| 45 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 46 | [#GFA25](http://twitter.com/search?q=%23GFA25) | N/A |
+| 47 | [#ASongOrMovieForAnythingGood](http://twitter.com/search?q=%23ASongOrMovieForAnythingGood) | N/A |
+| 48 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
 
 
 

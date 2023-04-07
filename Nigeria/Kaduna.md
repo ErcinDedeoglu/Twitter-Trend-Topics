@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-04-07 09:17:08 UTC`
+📆 Last Updated: `2023-04-07 10:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 2 | [Disturbing U](http://twitter.com/search?q=Disturbing+U) | N/A |
-| 3 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 4 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
+| 2 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 3 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 4 | [Disturbing U](http://twitter.com/search?q=Disturbing+U) | N/A |
 | 5 | [#Easter](http://twitter.com/search?q=%23Easter) | N/A |
-| 6 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 7 | [Julius Abure](http://twitter.com/search?q=Julius+Abure) | N/A |
-| 8 | [#thepassion](http://twitter.com/search?q=%23thepassion) | N/A |
-| 9 | [#FamilyFeudNigeria](http://twitter.com/search?q=%23FamilyFeudNigeria) | N/A |
-| 10 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 11 | [US President](http://twitter.com/search?q=US+President) | N/A |
-| 12 | [I HAVE MY EVIDENCE](http://twitter.com/search?q=I+HAVE+MY+EVIDENCE) | "I HAVE MY EVIDENCE" is a phrase used to indicate that one has the proof or facts needed to support a claim or argument. It implies that the speaker is confident in their position and has the necessary evidence to back it up. |
-| 13 | [THE LORD HAS VISITED ME](http://twitter.com/search?q=THE+LORD+HAS+VISITED+ME) | N/A |
-| 14 | [Bayo](http://twitter.com/search?q=Bayo) | N/A |
+| 6 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
+| 7 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
+| 8 | [#FamilyFeudNigeria](http://twitter.com/search?q=%23FamilyFeudNigeria) | N/A |
+| 9 | [#thepassion](http://twitter.com/search?q=%23thepassion) | N/A |
+| 10 | [Congratulations Mayor](http://twitter.com/search?q=Congratulations+Mayor) | N/A |
+| 11 | [Julius Abure](http://twitter.com/search?q=Julius+Abure) | N/A |
+| 12 | [THE LORD HAS VISITED ME](http://twitter.com/search?q=THE+LORD+HAS+VISITED+ME) | N/A |
+| 13 | [I HAVE MY EVIDENCE](http://twitter.com/search?q=I+HAVE+MY+EVIDENCE) | "I HAVE MY EVIDENCE" is a phrase used to indicate that one has the proof or facts needed to support a claim or argument. It implies that the speaker is confident in their position and has the necessary evidence to back it up. |
+| 14 | [YVONNE THE BRAND](http://twitter.com/search?q=YVONNE+THE+BRAND) | N/A |
 | 15 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
-| 16 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
-| 17 | [Lamidi Apapa](http://twitter.com/search?q=Lamidi+Apapa) | N/A |
-| 18 | [Robben](http://twitter.com/search?q=Robben) | N/A |
-| 19 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 20 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 21 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 22 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 23 | [Cross](http://twitter.com/search?q=Cross) | N/A |
-| 24 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 25 | [Geoffrey Onyeama](http://twitter.com/search?q=Geoffrey+Onyeama) | N/A |
-| 26 | [Tinubu and APC](http://twitter.com/search?q=Tinubu+and+APC) | N/A |
-| 27 | [Medical](http://twitter.com/search?q=Medical) | N/A |
-| 28 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 29 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 30 | [Ojukwu](http://twitter.com/search?q=Ojukwu) | N/A |
-| 31 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 32 | [ASUU](http://twitter.com/search?q=ASUU) | N/A |
-| 33 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
-| 34 | [#OccupyINECNOW](http://twitter.com/search?q=%23OccupyINECNOW) | N/A |
-| 35 | [#TheFaceOfGod](http://twitter.com/search?q=%23TheFaceOfGod) | N/A |
-| 36 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
-| 37 | [#Jesus](http://twitter.com/search?q=%23Jesus) | N/A |
-| 38 | [#Dollar](http://twitter.com/search?q=%23Dollar) | N/A |
-| 39 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 40 | [#NFHOPE](http://twitter.com/search?q=%23NFHOPE) | N/A |
-| 41 | [#ConfamCollabo](http://twitter.com/search?q=%23ConfamCollabo) | N/A |
+| 16 | [Bayo](http://twitter.com/search?q=Bayo) | N/A |
+| 17 | [US President](http://twitter.com/search?q=US+President) | N/A |
+| 18 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 19 | [Robben](http://twitter.com/search?q=Robben) | N/A |
+| 20 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
+| 21 | [Lamidi Apapa](http://twitter.com/search?q=Lamidi+Apapa) | N/A |
+| 22 | [Mera Na](http://twitter.com/search?q=Mera+Na) | N/A |
+| 23 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 24 | [VERIFIED PHYNA](http://twitter.com/search?q=VERIFIED+PHYNA) | N/A |
+| 25 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 26 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 27 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 28 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 29 | [Cross](http://twitter.com/search?q=Cross) | N/A |
+| 30 | [Hausas](http://twitter.com/search?q=Hausas) | N/A |
+| 31 | [Brown](http://twitter.com/search?q=Brown) | N/A |
+| 32 | [Medical](http://twitter.com/search?q=Medical) | N/A |
+| 33 | [PHYNA NEW SKIT](http://twitter.com/search?q=PHYNA+NEW+SKIT) | N/A |
+| 34 | [Geoffrey Onyeama](http://twitter.com/search?q=Geoffrey+Onyeama) | N/A |
+| 35 | [Groovy](http://twitter.com/search?q=Groovy) | N/A |
+| 36 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 37 | [Tinubu and APC](http://twitter.com/search?q=Tinubu+and+APC) | N/A |
+| 38 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 39 | [Ojukwu](http://twitter.com/search?q=Ojukwu) | N/A |
+| 40 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 41 | [ASUU](http://twitter.com/search?q=ASUU) | N/A |
+| 42 | [#TheFaceOfGod](http://twitter.com/search?q=%23TheFaceOfGod) | N/A |
+| 43 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 44 | [#Jesus](http://twitter.com/search?q=%23Jesus) | N/A |
+| 45 | [#OccupyINECNOW](http://twitter.com/search?q=%23OccupyINECNOW) | N/A |
+| 46 | [#Dollar](http://twitter.com/search?q=%23Dollar) | N/A |
+| 47 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 48 | [#NFHOPE](http://twitter.com/search?q=%23NFHOPE) | N/A |
+| 49 | [#ConfamCollabo](http://twitter.com/search?q=%23ConfamCollabo) | N/A |
 
 
 

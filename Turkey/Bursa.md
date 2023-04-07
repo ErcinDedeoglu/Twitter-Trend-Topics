@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-04-07 09:17:19 UTC`
+📆 Last Updated: `2023-04-07 10:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,44 +21,49 @@ This is top 50 for [Turkey](</Turkey>)
 | 4 | [#Bingöl](http://twitter.com/search?q=%23Bing%c3%b6l) | N/A |
 | 5 | [#DünyaSağlıkGünü](http://twitter.com/search?q=%23D%c3%bcnyaSa%c4%9fl%c4%b1kG%c3%bcn%c3%bc) | N/A |
 | 6 | [HER ŞEY ÇOK PAHALI](http://twitter.com/search?q=HER+%c5%9eEY+%c3%87OK+PAHALI) | N/A |
-| 7 | [Gözaltına](http://twitter.com/search?q=G%c3%b6zalt%c4%b1na) | N/A |
-| 8 | [#EYTtamÇıkmadı](http://twitter.com/search?q=%23EYTtam%c3%87%c4%b1kmad%c4%b1) | N/A |
-| 9 | [Doğan Öz](http://twitter.com/search?q=Do%c4%9fan+%c3%96z) | N/A |
-| 10 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
-| 11 | [Binali Yıldırım](http://twitter.com/search?q=Binali+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
-| 12 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
-| 13 | [Bakan Soylu](http://twitter.com/search?q=Bakan+Soylu) | N/A |
-| 14 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 15 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
-| 16 | [Filistin](http://twitter.com/search?q=Filistin) | N/A |
-| 17 | [Günaydınnnnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnnnn) | N/A |
-| 18 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
-| 19 | [GİDİCİSİN KEMAL](http://twitter.com/search?q=G%c4%b0D%c4%b0C%c4%b0S%c4%b0N+KEMAL) | N/A |
-| 20 | [Yozgat](http://twitter.com/search?q=Yozgat) | N/A |
-| 21 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
-| 22 | [Sarıgül](http://twitter.com/search?q=Sar%c4%b1g%c3%bcl) | N/A |
-| 23 | [İkizler](http://twitter.com/search?q=%c4%b0kizler) | N/A |
-| 24 | [Osmaniye](http://twitter.com/search?q=Osmaniye) | N/A |
-| 25 | [Ya Rabbi](http://twitter.com/search?q=Ya+Rabbi) | N/A |
-| 26 | [Selahattin](http://twitter.com/search?q=Selahattin) | N/A |
-| 27 | [#TekDavamStaj](http://twitter.com/search?q=%23TekDavamStaj) | N/A |
-| 28 | [#MilletKararVerecek](http://twitter.com/search?q=%23MilletKararVerecek) | N/A |
-| 29 | [#ZamGeldi](http://twitter.com/search?q=%23ZamGeldi) | N/A |
-| 30 | [#HesabınıSoracağız](http://twitter.com/search?q=%23Hesab%c4%b1n%c4%b1Soraca%c4%9f%c4%b1z) | N/A |
-| 31 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
-| 32 | [#AklınYoluBir](http://twitter.com/search?q=%23Akl%c4%b1nYoluBir) | N/A |
-| 33 | [#Gazze](http://twitter.com/search?q=%23Gazze) | N/A |
-| 34 | [#ekgyo](http://twitter.com/search?q=%23ekgyo) | N/A |
-| 35 | [#aksen](http://twitter.com/search?q=%23aksen) | N/A |
-| 36 | [#AfranınSerumu](http://twitter.com/search?q=%23Afran%c4%b1nSerumu) | N/A |
-| 37 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 38 | [#bursa](http://twitter.com/search?q=%23bursa) | N/A |
-| 39 | [#Lübnan](http://twitter.com/search?q=%23L%c3%bcbnan) | N/A |
-| 40 | [#6subat2023](http://twitter.com/search?q=%236subat2023) | N/A |
-| 41 | [#gesan](http://twitter.com/search?q=%23gesan) | N/A |
-| 42 | [#KudusBizimdir](http://twitter.com/search?q=%23KudusBizimdir) | N/A |
-| 43 | [#DolarTL](http://twitter.com/search?q=%23DolarTL) | N/A |
-| 44 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
+| 7 | [#EYTtamÇıkmadı](http://twitter.com/search?q=%23EYTtam%c3%87%c4%b1kmad%c4%b1) | N/A |
+| 8 | [AK Parti'den DSP'ye](http://twitter.com/search?q=AK+Parti%27den+DSP%27ye) | N/A |
+| 9 | [Lavrov](http://twitter.com/search?q=Lavrov) | N/A |
+| 10 | [Doğan Öz](http://twitter.com/search?q=Do%c4%9fan+%c3%96z) | N/A |
+| 11 | [Gözaltına](http://twitter.com/search?q=G%c3%b6zalt%c4%b1na) | N/A |
+| 12 | [Binali Yıldırım](http://twitter.com/search?q=Binali+Y%c4%b1ld%c4%b1r%c4%b1m) | N/A |
+| 13 | [Çavuşoğlu](http://twitter.com/search?q=%c3%87avu%c5%9fo%c4%9flu) | N/A |
+| 14 | [Market](http://twitter.com/search?q=Market) | N/A |
+| 15 | [Bakan Soylu](http://twitter.com/search?q=Bakan+Soylu) | N/A |
+| 16 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
+| 17 | [Sticker](http://twitter.com/search?q=Sticker) | N/A |
+| 18 | [Pahalı](http://twitter.com/search?q=Pahal%c4%b1) | N/A |
+| 19 | [Yılmaz Güney](http://twitter.com/search?q=Y%c4%b1lmaz+G%c3%bcney) | N/A |
+| 20 | [Günaydınnnnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnnnn) | N/A |
+| 21 | [8 Nisan Cumartesi](http://twitter.com/search?q=8+Nisan+Cumartesi) | N/A |
+| 22 | [Gazze'ye](http://twitter.com/search?q=Gazze%27ye) | N/A |
+| 23 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
+| 24 | [Yozgat](http://twitter.com/search?q=Yozgat) | N/A |
+| 25 | [GİDİCİSİN KEMAL](http://twitter.com/search?q=G%c4%b0D%c4%b0C%c4%b0S%c4%b0N+KEMAL) | N/A |
+| 26 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
+| 27 | [Sarıgül](http://twitter.com/search?q=Sar%c4%b1g%c3%bcl) | N/A |
+| 28 | [Filistin'e](http://twitter.com/search?q=Filistin%27e) | N/A |
+| 29 | [Selahattin](http://twitter.com/search?q=Selahattin) | N/A |
+| 30 | [#MilletKararVerecek](http://twitter.com/search?q=%23MilletKararVerecek) | N/A |
+| 31 | [#TekDavamStaj](http://twitter.com/search?q=%23TekDavamStaj) | N/A |
+| 32 | [#AfRam](http://twitter.com/search?q=%23AfRam) | N/A |
+| 33 | [#DepremiUnutmaUnutturma](http://twitter.com/search?q=%23DepremiUnutmaUnutturma) | N/A |
+| 34 | [#CumamızMubarekOlsun](http://twitter.com/search?q=%23Cumam%c4%b1zMubarekOlsun) | N/A |
+| 35 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 36 | [#ZamGeldi](http://twitter.com/search?q=%23ZamGeldi) | N/A |
+| 37 | [#AklınYoluBir](http://twitter.com/search?q=%23Akl%c4%b1nYoluBir) | N/A |
+| 38 | [#aksen](http://twitter.com/search?q=%23aksen) | N/A |
+| 39 | [#bursa](http://twitter.com/search?q=%23bursa) | N/A |
+| 40 | [#ekgyo](http://twitter.com/search?q=%23ekgyo) | N/A |
+| 41 | [#AfranınSerumu](http://twitter.com/search?q=%23Afran%c4%b1nSerumu) | N/A |
+| 42 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 43 | [#kozaa](http://twitter.com/search?q=%23kozaa) | N/A |
+| 44 | [#6subat2023](http://twitter.com/search?q=%236subat2023) | N/A |
+| 45 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
+| 46 | [#AfraSaraçoğlu](http://twitter.com/search?q=%23AfraSara%c3%a7o%c4%9flu) | N/A |
+| 47 | [#gesan](http://twitter.com/search?q=%23gesan) | N/A |
+| 48 | [#Lübnan](http://twitter.com/search?q=%23L%c3%bcbnan) | N/A |
+| 49 | [#GazaUnderAttack](http://twitter.com/search?q=%23GazaUnderAttack) | N/A |
 
 
 
