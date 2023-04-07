@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-04-07 18:17:36 UTC`
+📆 Last Updated: `2023-04-07 19:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,42 +17,54 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
 | 2 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 3 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
-| 4 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 5 | [#weareoneEXO](http://twitter.com/search?q=%23weareoneEXO) | N/A |
-| 6 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 7 | [#MHMA2023JOSHCULLENSANTOS](http://twitter.com/search?q=%23MHMA2023JOSHCULLENSANTOS) | N/A |
-| 8 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
+| 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 4 | [#NETIZENSREPORT](http://twitter.com/search?q=%23NETIZENSREPORT) | N/A |
+| 5 | [#MHMA2023](http://twitter.com/search?q=%23MHMA2023) | N/A |
+| 6 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 7 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
+| 8 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
 | 9 | [RRADISH FOR PPOP](http://twitter.com/search?q=RRADISH+FOR+PPOP) | N/A |
-| 10 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 11 | [UNANG KA1ARAWAN](http://twitter.com/search?q=UNANG+KA1ARAWAN) | N/A |
-| 12 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 13 | [DID NI-KI JUST](http://twitter.com/search?q=DID+NI-KI+JUST) | N/A |
-| 14 | [yixing](http://twitter.com/search?q=yixing) | N/A |
-| 15 | [WE LOVE YOU FREEN](http://twitter.com/search?q=WE+LOVE+YOU+FREEN) | N/A |
-| 16 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 17 | [MY EXO](http://twitter.com/search?q=MY+EXO) | N/A |
+| 10 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 11 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 12 | [Biyernes Santo](http://twitter.com/search?q=Biyernes+Santo) | N/A |
+| 13 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 14 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 15 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
+| 16 | [jjong](http://twitter.com/search?q=jjong) | N/A |
+| 17 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
 | 18 | [riki](http://twitter.com/search?q=riki) | N/A |
-| 19 | [EXO-L](http://twitter.com/search?q=EXO-L) | N/A |
-| 20 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 21 | [SUNWOO](http://twitter.com/search?q=SUNWOO) | N/A |
-| 22 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
-| 23 | [Enhypen](http://twitter.com/search?q=Enhypen) | N/A |
-| 24 | [#따뜻한_봄이_오는게_종현인가봐](http://twitter.com/search?q=%23%eb%94%b0%eb%9c%bb%ed%95%9c_%eb%b4%84%ec%9d%b4_%ec%98%a4%eb%8a%94%ea%b2%8c_%ec%a2%85%ed%98%84%ec%9d%b8%ea%b0%80%eb%b4%90) | N/A |
-| 25 | [#IStandWithHARUTO](http://twitter.com/search?q=%23IStandWithHARUTO) | N/A |
-| 26 | [#DebutRRADIshTogether](http://twitter.com/search?q=%23DebutRRADIshTogether) | N/A |
-| 27 | [#1stKAIAversary](http://twitter.com/search?q=%231stKAIAversary) | N/A |
-| 28 | [#BLINKSelcaDay](http://twitter.com/search?q=%23BLINKSelcaDay) | N/A |
-| 29 | [#aBossandaBabeEP6](http://twitter.com/search?q=%23aBossandaBabeEP6) | N/A |
-| 30 | [#LAY11thDebutAnniv](http://twitter.com/search?q=%23LAY11thDebutAnniv) | N/A |
-| 31 | [#NETIZENSREPORT](http://twitter.com/search?q=%23NETIZENSREPORT) | N/A |
-| 32 | [#ThankYouFreen](http://twitter.com/search?q=%23ThankYouFreen) | N/A |
-| 33 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
-| 34 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
-| 35 | [#ShowmeloveTheseriesEP6](http://twitter.com/search?q=%23ShowmeloveTheseriesEP6) | N/A |
-| 36 | [#FxckMyLife](http://twitter.com/search?q=%23FxckMyLife) | N/A |
-| 37 | [#JinnysKitchenEp7](http://twitter.com/search?q=%23JinnysKitchenEp7) | N/A |
-| 38 | [#TaehyungOnJinnysKitchen](http://twitter.com/search?q=%23TaehyungOnJinnysKitchen) | N/A |
+| 19 | [MALIGAYANG UNANG KA1ARAWAN](http://twitter.com/search?q=MALIGAYANG+UNANG+KA1ARAWAN) | N/A |
+| 20 | [DID NI-KI JUST](http://twitter.com/search?q=DID+NI-KI+JUST) | N/A |
+| 21 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 22 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 23 | [yixing](http://twitter.com/search?q=yixing) | N/A |
+| 24 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 25 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
+| 26 | [Congratulations LISA](http://twitter.com/search?q=Congratulations+LISA) | N/A |
+| 27 | [2milyong pasasalamat](http://twitter.com/search?q=2milyong+pasasalamat) | N/A |
+| 28 | [Baeksang](http://twitter.com/search?q=Baeksang) | N/A |
+| 29 | [WE LOVE YOU FREEN](http://twitter.com/search?q=WE+LOVE+YOU+FREEN) | N/A |
+| 30 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
+| 31 | [PARK JIHOON](http://twitter.com/search?q=PARK+JIHOON) | N/A |
+| 32 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 33 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
+| 34 | [Little Women](http://twitter.com/search?q=Little+Women) | N/A |
+| 35 | [Binignit](http://twitter.com/search?q=Binignit) | N/A |
+| 36 | [EXO SARANGHAJA](http://twitter.com/search?q=EXO+SARANGHAJA) | N/A |
+| 37 | [MELODY OF SCENTS D1](http://twitter.com/search?q=MELODY+OF+SCENTS+D1) | N/A |
+| 38 | [My Liberation Notes](http://twitter.com/search?q=My+Liberation+Notes) | N/A |
+| 39 | [EXO-L](http://twitter.com/search?q=EXO-L) | N/A |
+| 40 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 41 | [Holy Friday](http://twitter.com/search?q=Holy+Friday) | N/A |
+| 42 | [TAEHYUNG TAEHYUNG](http://twitter.com/search?q=TAEHYUNG+TAEHYUNG) | N/A |
+| 43 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 44 | [luhan](http://twitter.com/search?q=luhan) | N/A |
+| 45 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
+| 46 | [MAHAL NA MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+NA+MAHAL+KO+KAYO) | N/A |
+| 47 | [SUNWOO](http://twitter.com/search?q=SUNWOO) | N/A |
+| 48 | [MY HOME](http://twitter.com/search?q=MY+HOME) | N/A |
+| 49 | [Abyss](http://twitter.com/search?q=Abyss) | N/A |
+| 50 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-04-07 18:17:29 UTC`
+📆 Last Updated: `2023-04-07 19:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,48 @@ This is top 50 for [Sweden](</Sweden>)
 | 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 4 | [Mora](http://twitter.com/search?q=Mora) | N/A |
 | 5 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 6 | [#modose](http://twitter.com/search?q=%23modose) | N/A |
-| 7 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
-| 8 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 6 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
+| 7 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 8 | [Modo](http://twitter.com/search?q=Modo) | N/A |
 | 9 | [Eskilstuna](http://twitter.com/search?q=Eskilstuna) | N/A |
 | 10 | [#GAIS](http://twitter.com/search?q=%23GAIS) | N/A |
 | 11 | [Drottninggatan](http://twitter.com/search?q=Drottninggatan) | N/A |
 | 12 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
-| 13 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 14 | [Blåkulla](http://twitter.com/search?q=Bl%c3%a5kulla) | N/A |
-| 15 | [Institutet](http://twitter.com/search?q=Institutet) | N/A |
+| 13 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 14 | [Institutet](http://twitter.com/search?q=Institutet) | N/A |
+| 15 | [Blåkulla](http://twitter.com/search?q=Bl%c3%a5kulla) | N/A |
 | 16 | [Värmland](http://twitter.com/search?q=V%c3%a4rmland) | N/A |
-| 17 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 18 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
+| 17 | [Brunnsparken](http://twitter.com/search?q=Brunnsparken) | N/A |
+| 18 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 19 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
-| 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 21 | [Brunnsparken](http://twitter.com/search?q=Brunnsparken) | N/A |
-| 22 | [carlén](http://twitter.com/search?q=carl%c3%a9n) | N/A |
-| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 24 | [Busch](http://twitter.com/search?q=Busch) | N/A |
-| 25 | [Carl Bildt](http://twitter.com/search?q=Carl+Bildt) | N/A |
-| 26 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
-| 27 | [Långfredag](http://twitter.com/search?q=L%c3%a5ngfredag) | N/A |
-| 28 | [Filippa](http://twitter.com/search?q=Filippa) | N/A |
-| 29 | [SvFF](http://twitter.com/search?q=SvFF) | N/A |
-| 30 | [Universal](http://twitter.com/search?q=Universal) | N/A |
-| 31 | [hovet](http://twitter.com/search?q=hovet) | N/A |
-| 32 | [Akilov](http://twitter.com/search?q=Akilov) | N/A |
-| 33 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 34 | [Rasism](http://twitter.com/search?q=Rasism) | N/A |
-| 35 | [Håkan](http://twitter.com/search?q=H%c3%a5kan) | N/A |
-| 36 | [Özz Nujen](http://twitter.com/search?q=%c3%96zz+Nujen) | N/A |
-| 37 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 38 | [Abbe](http://twitter.com/search?q=Abbe) | N/A |
-| 39 | [Brage](http://twitter.com/search?q=Brage) | N/A |
-| 40 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 41 | [Mannerheim](http://twitter.com/search?q=Mannerheim) | N/A |
-| 42 | [Emil](http://twitter.com/search?q=Emil) | N/A |
-| 43 | [Snygg](http://twitter.com/search?q=Snygg) | N/A |
-| 44 | [Ingerö](http://twitter.com/search?q=Inger%c3%b6) | N/A |
-| 45 | [bedrövligt](http://twitter.com/search?q=bedr%c3%b6vligt) | N/A |
-| 46 | [#björklöven](http://twitter.com/search?q=%23bj%c3%b6rkl%c3%b6ven) | N/A |
-| 47 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
-| 48 | [Gurra](http://twitter.com/search?q=Gurra) | N/A |
+| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 21 | [Busch](http://twitter.com/search?q=Busch) | N/A |
+| 22 | [Carl Bildt](http://twitter.com/search?q=Carl+Bildt) | N/A |
+| 23 | [Akilov](http://twitter.com/search?q=Akilov) | N/A |
+| 24 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
+| 25 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
+| 26 | [Långfredag](http://twitter.com/search?q=L%c3%a5ngfredag) | N/A |
+| 27 | [Filippa](http://twitter.com/search?q=Filippa) | N/A |
+| 28 | [SvFF](http://twitter.com/search?q=SvFF) | N/A |
+| 29 | [Rasism](http://twitter.com/search?q=Rasism) | N/A |
+| 30 | [Håkan](http://twitter.com/search?q=H%c3%a5kan) | N/A |
+| 31 | [Özz Nujen](http://twitter.com/search?q=%c3%96zz+Nujen) | N/A |
+| 32 | [Abbe](http://twitter.com/search?q=Abbe) | N/A |
+| 33 | [Brage](http://twitter.com/search?q=Brage) | N/A |
+| 34 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 35 | [Mannerheim](http://twitter.com/search?q=Mannerheim) | N/A |
+| 36 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 37 | [Snygg](http://twitter.com/search?q=Snygg) | N/A |
+| 38 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 39 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
+| 40 | [Emil](http://twitter.com/search?q=Emil) | N/A |
+| 41 | [Gurra](http://twitter.com/search?q=Gurra) | N/A |
+| 42 | [Räcker](http://twitter.com/search?q=R%c3%a4cker) | N/A |
+| 43 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 44 | [Universal](http://twitter.com/search?q=Universal) | N/A |
+| 45 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 46 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 47 | [Ribbenvik](http://twitter.com/search?q=Ribbenvik) | N/A |
 
 
 

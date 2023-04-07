@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-04-07 18:17:50 UTC`
+📆 Last Updated: `2023-04-07 19:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 2 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 3 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 4 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 5 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 6 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 7 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 1 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
+| 2 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 4 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 5 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 6 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
+| 7 | [TOSTADA](http://twitter.com/search?q=TOSTADA) | N/A |
 | 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 9 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 10 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
-| 11 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 12 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
-| 13 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 14 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 15 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 16 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 17 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
-| 18 | [Laura Loomer](http://twitter.com/search?q=Laura+Loomer) | N/A |
-| 19 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 20 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 21 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 22 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 10 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 11 | [Laura Loomer](http://twitter.com/search?q=Laura+Loomer) | N/A |
+| 12 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 13 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
+| 14 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 15 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
+| 16 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 17 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 18 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 19 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
+| 20 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 21 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
+| 22 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
 | 23 | [Edward Cabrera](http://twitter.com/search?q=Edward+Cabrera) | N/A |
-| 24 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
+| 24 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
 | 25 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 26 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 27 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 28 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
-| 29 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 30 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 31 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
-| 32 | [Advised](http://twitter.com/search?q=Advised) | N/A |
-| 33 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
-| 34 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
-| 35 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
-| 36 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
-| 37 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 38 | [Nido](http://twitter.com/search?q=Nido) | N/A |
-| 39 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
-| 40 | [Vogelbach](http://twitter.com/search?q=Vogelbach) | N/A |
-| 41 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 42 | [Tiny Desk](http://twitter.com/search?q=Tiny+Desk) | N/A |
-| 43 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
-| 44 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
-| 45 | [Sol Blume](http://twitter.com/search?q=Sol+Blume) | N/A |
-| 46 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
-| 47 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 48 | [John Boyega](http://twitter.com/search?q=John+Boyega) | N/A |
-| 49 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 26 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 27 | [Nido](http://twitter.com/search?q=Nido) | N/A |
+| 28 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 29 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 30 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 31 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
+| 32 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 33 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 34 | [Tylor Megill](http://twitter.com/search?q=Tylor+Megill) | N/A |
+| 35 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
+| 36 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 37 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 38 | [Vogelbach](http://twitter.com/search?q=Vogelbach) | N/A |
+| 39 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
+| 40 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
+| 41 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
+| 42 | [Advised](http://twitter.com/search?q=Advised) | N/A |
+| 43 | [Sol Blume](http://twitter.com/search?q=Sol+Blume) | N/A |
+| 44 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 45 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 46 | [Hera](http://twitter.com/search?q=Hera) | N/A |
+| 47 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
+| 48 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
+| 49 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
 
 
 

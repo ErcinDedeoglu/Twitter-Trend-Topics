@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-04-07 18:17:28 UTC`
+📆 Last Updated: `2023-04-07 19:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,42 +17,49 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
 | 2 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 3 | [#indigotelegram](http://twitter.com/search?q=%23indigotelegram) | N/A |
-| 4 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 5 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
-| 6 | [#PanteraRosa60](http://twitter.com/search?q=%23PanteraRosa60) | N/A |
-| 7 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
-| 8 | [Ben Hur](http://twitter.com/search?q=Ben+Hur) | N/A |
-| 9 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
-| 10 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 11 | [#LugoTenerife](http://twitter.com/search?q=%23LugoTenerife) | N/A |
-| 12 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 13 | [Rey Skywalker](http://twitter.com/search?q=Rey+Skywalker) | N/A |
-| 14 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 15 | [Vicks Vaporub](http://twitter.com/search?q=Vicks+Vaporub) | N/A |
-| 16 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
-| 17 | [#PrePartyES23](http://twitter.com/search?q=%23PrePartyES23) | N/A |
-| 18 | [Filoni](http://twitter.com/search?q=Filoni) | N/A |
-| 19 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 20 | [Santo Entierro](http://twitter.com/search?q=Santo+Entierro) | N/A |
-| 21 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 22 | [Indy](http://twitter.com/search?q=Indy) | N/A |
-| 23 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 24 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 25 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 26 | [The Mandalorian](http://twitter.com/search?q=The+Mandalorian) | N/A |
-| 27 | [Soledad](http://twitter.com/search?q=Soledad) | N/A |
-| 28 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 29 | [#Ashoka](http://twitter.com/search?q=%23Ashoka) | N/A |
-| 30 | [#DiaMundialdelaSalud](http://twitter.com/search?q=%23DiaMundialdelaSalud) | N/A |
-| 31 | [#KenanEnRedBull](http://twitter.com/search?q=%23KenanEnRedBull) | N/A |
-| 32 | [#SSanta7TV](http://twitter.com/search?q=%23SSanta7TV) | N/A |
-| 33 | [#YoMeRebelo7A](http://twitter.com/search?q=%23YoMeRebelo7A) | N/A |
-| 34 | [#Del40al1CocaCola](http://twitter.com/search?q=%23Del40al1CocaCola) | N/A |
-| 35 | [#AdvanceWarsEnGAME](http://twitter.com/search?q=%23AdvanceWarsEnGAME) | N/A |
-| 36 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
-| 37 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
-| 38 | [#APOYOROCIO7A](http://twitter.com/search?q=%23APOYOROCIO7A) | N/A |
+| 3 | [Ramis](http://twitter.com/search?q=Ramis) | N/A |
+| 4 | [#SevillaFCCelta](http://twitter.com/search?q=%23SevillaFCCelta) | N/A |
+| 5 | [#indigotelegram](http://twitter.com/search?q=%23indigotelegram) | N/A |
+| 6 | [#LugoTenerife](http://twitter.com/search?q=%23LugoTenerife) | N/A |
+| 7 | [Garcés](http://twitter.com/search?q=Garc%c3%a9s) | N/A |
+| 8 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 9 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
+| 10 | [Suso](http://twitter.com/search?q=Suso) | Suso is a Spanish nickname for the given name Jesús. It is derived from the Latin name Iesus, which is the Greek version of the Hebrew name Joshua. In English, Suso would be translated to "Jesus". |
+| 11 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 12 | [#PanteraRosa60](http://twitter.com/search?q=%23PanteraRosa60) | N/A |
+| 13 | [Ben-Hur](http://twitter.com/search?q=Ben-Hur) | N/A |
+| 14 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
+| 15 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
+| 16 | [Vicks Vaporub](http://twitter.com/search?q=Vicks+Vaporub) | N/A |
+| 17 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 18 | [El Cachorro](http://twitter.com/search?q=El+Cachorro) | N/A |
+| 19 | [Santo Entierro](http://twitter.com/search?q=Santo+Entierro) | N/A |
+| 20 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 21 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 22 | [Rey Skywalker](http://twitter.com/search?q=Rey+Skywalker) | N/A |
+| 23 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 24 | [Filoni](http://twitter.com/search?q=Filoni) | N/A |
+| 25 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
+| 26 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 27 | [Indy](http://twitter.com/search?q=Indy) | N/A |
+| 28 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 29 | [Hera](http://twitter.com/search?q=Hera) | N/A |
+| 30 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 31 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 32 | [The Mandalorian](http://twitter.com/search?q=The+Mandalorian) | N/A |
+| 33 | [Soledad](http://twitter.com/search?q=Soledad) | N/A |
+| 34 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 35 | [#PrePartyES](http://twitter.com/search?q=%23PrePartyES) | N/A |
+| 36 | [#VCTEMEA](http://twitter.com/search?q=%23VCTEMEA) | N/A |
+| 37 | [#CrisPorta7A](http://twitter.com/search?q=%23CrisPorta7A) | N/A |
+| 38 | [#KenanEnRedBull](http://twitter.com/search?q=%23KenanEnRedBull) | N/A |
+| 39 | [#SemanaSantaTM](http://twitter.com/search?q=%23SemanaSantaTM) | N/A |
+| 40 | [#DiaMundialdelaSalud](http://twitter.com/search?q=%23DiaMundialdelaSalud) | N/A |
+| 41 | [#YoMeRebelo7A](http://twitter.com/search?q=%23YoMeRebelo7A) | N/A |
+| 42 | [#SSanta7TV](http://twitter.com/search?q=%23SSanta7TV) | N/A |
+| 43 | [#AdvanceWarsEnGAME](http://twitter.com/search?q=%23AdvanceWarsEnGAME) | N/A |
+| 44 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
+| 45 | [#APOYOROCIO7A](http://twitter.com/search?q=%23APOYOROCIO7A) | N/A |
 
 
 

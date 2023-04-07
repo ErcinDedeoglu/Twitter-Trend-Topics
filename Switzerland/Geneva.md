@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-07 18:17:28 UTC`
+📆 Last Updated: `2023-04-07 19:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,11 +18,11 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [Stau](http://twitter.com/search?q=Stau) | N/A |
 | 2 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
 | 3 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 4 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 5 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 4 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 5 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
 | 6 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 7 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 8 | [Gotthard](http://twitter.com/search?q=Gotthard) | N/A |
+| 7 | [Gotthard](http://twitter.com/search?q=Gotthard) | N/A |
+| 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 9 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
 | 10 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
 | 11 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
@@ -32,37 +32,37 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 15 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
 | 16 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
 | 17 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 18 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
-| 19 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 20 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 21 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 22 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
-| 23 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
-| 24 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
+| 18 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 19 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 20 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 21 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 22 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 23 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
+| 24 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
 | 25 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 26 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
-| 27 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
-| 28 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
-| 29 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 26 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
+| 27 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
+| 28 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 29 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
 | 30 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
-| 31 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 32 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
-| 33 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 31 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
+| 32 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 33 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 34 | [Generation](http://twitter.com/search?q=Generation) | N/A |
 | 35 | [Granit](http://twitter.com/search?q=Granit) | N/A |
-| 36 | [Zeitpunkt](http://twitter.com/search?q=Zeitpunkt) | N/A |
-| 37 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 36 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 37 | [Zeitpunkt](http://twitter.com/search?q=Zeitpunkt) | N/A |
 | 38 | [Oliven](http://twitter.com/search?q=Oliven) | N/A |
-| 39 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 39 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
 | 40 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 41 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 42 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
-| 43 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
-| 44 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 45 | [Montreux](http://twitter.com/search?q=Montreux) | N/A |
-| 46 | [Statistik](http://twitter.com/search?q=Statistik) | N/A |
-| 47 | [Nerven](http://twitter.com/search?q=Nerven) | N/A |
-| 48 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 41 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
+| 42 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
+| 43 | [Montreux](http://twitter.com/search?q=Montreux) | N/A |
+| 44 | [Statistik](http://twitter.com/search?q=Statistik) | N/A |
+| 45 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 46 | [Christ](http://twitter.com/search?q=Christ) | N/A |
+| 47 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 48 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
 
 
 

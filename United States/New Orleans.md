@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Orleans
 
-📆 Last Updated: `2023-04-07 18:17:53 UTC`
+📆 Last Updated: `2023-04-07 19:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 2 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 3 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 4 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 5 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 6 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 7 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 9 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 10 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
+| 2 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 3 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 4 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 5 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
+| 6 | [TOSTADA](http://twitter.com/search?q=TOSTADA) | N/A |
+| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 8 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 9 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 10 | [Laura Loomer](http://twitter.com/search?q=Laura+Loomer) | N/A |
 | 11 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
 | 12 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
-| 13 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 14 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 15 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 16 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
-| 17 | [Laura Loomer](http://twitter.com/search?q=Laura+Loomer) | N/A |
-| 18 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 19 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 20 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 21 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 22 | [Edward Cabrera](http://twitter.com/search?q=Edward+Cabrera) | N/A |
-| 23 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
-| 24 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 25 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 26 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 27 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
-| 28 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 29 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 30 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
-| 31 | [Advised](http://twitter.com/search?q=Advised) | N/A |
-| 32 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
-| 33 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
-| 34 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
-| 35 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
-| 36 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 37 | [Nido](http://twitter.com/search?q=Nido) | N/A |
-| 38 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
-| 39 | [Vogelbach](http://twitter.com/search?q=Vogelbach) | N/A |
-| 40 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 41 | [Tiny Desk](http://twitter.com/search?q=Tiny+Desk) | N/A |
-| 42 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
-| 43 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
-| 44 | [Sol Blume](http://twitter.com/search?q=Sol+Blume) | N/A |
-| 45 | [Edwin Diaz](http://twitter.com/search?q=Edwin+Diaz) | N/A |
-| 46 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
-| 47 | [John Boyega](http://twitter.com/search?q=John+Boyega) | N/A |
-| 48 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 49 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
+| 13 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 14 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
+| 15 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 16 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 17 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
+| 18 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 19 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
+| 20 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 21 | [Edward Cabrera](http://twitter.com/search?q=Edward+Cabrera) | N/A |
+| 22 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
+| 23 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 24 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 25 | [Nido](http://twitter.com/search?q=Nido) | N/A |
+| 26 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 27 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 28 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 29 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
+| 30 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 31 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 32 | [Tylor Megill](http://twitter.com/search?q=Tylor+Megill) | N/A |
+| 33 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
+| 34 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 35 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 36 | [Vogelbach](http://twitter.com/search?q=Vogelbach) | N/A |
+| 37 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
+| 38 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
+| 39 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
+| 40 | [Advised](http://twitter.com/search?q=Advised) | N/A |
+| 41 | [Sol Blume](http://twitter.com/search?q=Sol+Blume) | N/A |
+| 42 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 43 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 44 | [Hera](http://twitter.com/search?q=Hera) | N/A |
+| 45 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
+| 46 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 47 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
+| 48 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 49 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
 
 
 
