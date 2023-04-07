@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-04-07 20:17:46 UTC`
+📆 Last Updated: `2023-04-07 21:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 2 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 3 | [#Messmer](http://twitter.com/search?q=%23Messmer) | N/A |
-| 4 | [#RCLRCSA](http://twitter.com/search?q=%23RCLRCSA) | N/A |
-| 5 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 6 | [#FRACOL](http://twitter.com/search?q=%23FRACOL) | N/A |
-| 7 | [#Sampeyton](http://twitter.com/search?q=%23Sampeyton) | N/A |
-| 8 | [Grigny](http://twitter.com/search?q=Grigny) | N/A |
-| 9 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 10 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 11 | [Edwy Plenel](http://twitter.com/search?q=Edwy+Plenel) | N/A |
-| 12 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 13 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 14 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 15 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 16 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 17 | [Mashle](http://twitter.com/search?q=Mashle) | N/A |
-| 18 | [Bollaert](http://twitter.com/search?q=Bollaert) | N/A |
-| 19 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
-| 20 | [Maïwenn](http://twitter.com/search?q=Ma%c3%afwenn) | N/A |
-| 21 | [Colombie](http://twitter.com/search?q=Colombie) | N/A |
-| 22 | [Futuroscope](http://twitter.com/search?q=Futuroscope) | N/A |
-| 23 | [Thiem](http://twitter.com/search?q=Thiem) | Thiem is a surname of German origin. It is derived from the Old German word "diem" meaning "people". The name is most commonly found in Germany, Austria, and Switzerland. |
-| 24 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 25 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
-| 26 | [Sasuke](http://twitter.com/search?q=Sasuke) | N/A |
-| 27 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
-| 28 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
-| 29 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 30 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 31 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 32 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 33 | [Pirouette](http://twitter.com/search?q=Pirouette) | N/A |
-| 34 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 35 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 36 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 37 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 38 | [#SCAvASM](http://twitter.com/search?q=%23SCAvASM) | N/A |
-| 39 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 40 | [#ARES14](http://twitter.com/search?q=%23ARES14) | N/A |
-| 41 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
-| 42 | [#RCLens](http://twitter.com/search?q=%23RCLens) | N/A |
-| 43 | [#VCTEMEA](http://twitter.com/search?q=%23VCTEMEA) | N/A |
-| 44 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
-| 45 | [#MusicBankParis2023](http://twitter.com/search?q=%23MusicBankParis2023) | N/A |
-| 46 | [#congresPCF](http://twitter.com/search?q=%23congresPCF) | N/A |
-| 47 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 48 | [#IndianaJones](http://twitter.com/search?q=%23IndianaJones) | N/A |
-| 49 | [#GA2023](http://twitter.com/search?q=%23GA2023) | N/A |
+| 1 | [#congresPCF](http://twitter.com/search?q=%23congresPCF) | N/A |
+| 2 | [#RCLRCSA](http://twitter.com/search?q=%23RCLRCSA) | N/A |
+| 3 | [#FRACOL](http://twitter.com/search?q=%23FRACOL) | N/A |
+| 4 | [#Messmer](http://twitter.com/search?q=%23Messmer) | N/A |
+| 5 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
+| 6 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 8 | [Le Sommer](http://twitter.com/search?q=Le+Sommer) | N/A |
+| 9 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
+| 12 | [Diacre](http://twitter.com/search?q=Diacre) | N/A |
+| 13 | [Gameiro](http://twitter.com/search?q=Gameiro) | N/A |
+| 14 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 15 | [Sels](http://twitter.com/search?q=Sels) | N/A |
+| 16 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 17 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 18 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 19 | [Bollaert](http://twitter.com/search?q=Bollaert) | N/A |
+| 20 | [Eugénie](http://twitter.com/search?q=Eug%c3%a9nie) | N/A |
+| 21 | [Plenel](http://twitter.com/search?q=Plenel) | N/A |
+| 22 | [Lensois](http://twitter.com/search?q=Lensois) | N/A |
+| 23 | [Grigny](http://twitter.com/search?q=Grigny) | N/A |
+| 24 | [Delphine](http://twitter.com/search?q=Delphine) | N/A |
+| 25 | [Colombie](http://twitter.com/search?q=Colombie) | N/A |
+| 26 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 27 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 28 | [Mashle](http://twitter.com/search?q=Mashle) | N/A |
+| 29 | [Bleues](http://twitter.com/search?q=Bleues) | N/A |
+| 30 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 31 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 32 | [Maïwenn](http://twitter.com/search?q=Ma%c3%afwenn) | N/A |
+| 33 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 34 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 35 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
+| 36 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
+| 37 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 38 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
+| 39 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 40 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 41 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 42 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
+| 43 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
+| 44 | [Sasuke](http://twitter.com/search?q=Sasuke) | N/A |
+| 45 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 46 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 47 | [#FASPACE](http://twitter.com/search?q=%23FASPACE) | N/A |
+| 48 | [#SCAvASM](http://twitter.com/search?q=%23SCAvASM) | N/A |
+| 49 | [#Sampeyton](http://twitter.com/search?q=%23Sampeyton) | N/A |
 
 
 

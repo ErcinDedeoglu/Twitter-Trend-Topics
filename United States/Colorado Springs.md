@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colorado Springs
 
-📆 Last Updated: `2023-04-07 20:18:23 UTC`
+📆 Last Updated: `2023-04-07 21:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 2 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 4 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
-| 5 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 6 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 7 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 8 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 5 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 6 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
+| 7 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
+| 8 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
 | 9 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 10 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 11 | [Loomer](http://twitter.com/search?q=Loomer) | N/A |
-| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 13 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 14 | [Tostada](http://twitter.com/search?q=Tostada) | N/A |
-| 15 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
-| 16 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
-| 17 | [Big Jeff](http://twitter.com/search?q=Big+Jeff) | N/A |
-| 18 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 10 | [Franchy](http://twitter.com/search?q=Franchy) | N/A |
+| 11 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
+| 12 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
+| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 14 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 15 | [Laura Loomer](http://twitter.com/search?q=Laura+Loomer) | N/A |
+| 16 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 17 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 18 | [Big Jeff](http://twitter.com/search?q=Big+Jeff) | N/A |
 | 19 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
-| 20 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 21 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 22 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 23 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 24 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
-| 25 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 26 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
-| 27 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
-| 28 | [Jeffery Simmons](http://twitter.com/search?q=Jeffery+Simmons) | N/A |
-| 29 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 30 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 31 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 32 | [Nick Fuentes](http://twitter.com/search?q=Nick+Fuentes) | N/A |
-| 33 | [Garrett Cooper](http://twitter.com/search?q=Garrett+Cooper) | N/A |
-| 34 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 35 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 36 | [Edward Cabrera](http://twitter.com/search?q=Edward+Cabrera) | N/A |
-| 37 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 38 | [Tylor Megill](http://twitter.com/search?q=Tylor+Megill) | N/A |
-| 39 | [Rodon](http://twitter.com/search?q=Rodon) | N/A |
-| 40 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 41 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 20 | [Cutch](http://twitter.com/search?q=Cutch) | Cutch is a slang term for cocaine. It is derived from the word "cocaine" and is often used to refer to the drug in a casual or informal setting. |
+| 21 | [BRYSON TILLER](http://twitter.com/search?q=BRYSON+TILLER) | N/A |
+| 22 | [Tostada](http://twitter.com/search?q=Tostada) | N/A |
+| 23 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 24 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 25 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 26 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 27 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
+| 28 | [Jake Burger](http://twitter.com/search?q=Jake+Burger) | N/A |
+| 29 | [#LetsGoBucs](http://twitter.com/search?q=%23LetsGoBucs) | N/A |
+| 30 | [Ian Hamilton](http://twitter.com/search?q=Ian+Hamilton) | N/A |
+| 31 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
+| 32 | [Oswaldo](http://twitter.com/search?q=Oswaldo) | N/A |
+| 33 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 34 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 35 | [Richie James](http://twitter.com/search?q=Richie+James) | Richie James is a nickname given to the American football player Richie James Jr., who currently plays for the San Francisco 49ers. The name is derived from his first and last names. In English, it means "Richie James Junior". |
+| 36 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 37 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
+| 38 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
+| 39 | [Josh Bell](http://twitter.com/search?q=Josh+Bell) | N/A |
+| 40 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 41 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
 | 42 | [Pusha T](http://twitter.com/search?q=Pusha+T) | N/A |
-| 43 | [Adam Frazier](http://twitter.com/search?q=Adam+Frazier) | N/A |
-| 44 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 45 | [Starling Marte](http://twitter.com/search?q=Starling+Marte) | N/A |
-| 46 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
-| 47 | [Gavin Guidry](http://twitter.com/search?q=Gavin+Guidry) | N/A |
-| 48 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 49 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 43 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
+| 44 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 45 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
+| 46 | [CUBS WIN](http://twitter.com/search?q=CUBS+WIN) | N/A |
+| 47 | [sam levinson](http://twitter.com/search?q=sam+levinson) | N/A |
+| 48 | [Fulmer](http://twitter.com/search?q=Fulmer) | N/A |
+| 49 | [Dick Mountain](http://twitter.com/search?q=Dick+Mountain) | N/A |
 
 
 

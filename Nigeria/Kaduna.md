@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-04-07 20:18:06 UTC`
+📆 Last Updated: `2023-04-07 21:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
-| 2 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 3 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 4 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
-| 5 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 6 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 7 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 8 | [Toyin Abraham](http://twitter.com/search?q=Toyin+Abraham) | N/A |
-| 9 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 2 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 3 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
+| 4 | [Soyinka](http://twitter.com/search?q=Soyinka) | N/A |
+| 5 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 6 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 7 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 8 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
+| 9 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
 | 10 | [Datti](http://twitter.com/search?q=Datti) | N/A |
-| 11 | [#ZEbetNG](http://twitter.com/search?q=%23ZEbetNG) | N/A |
-| 12 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
-| 13 | [#DLER2023](http://twitter.com/search?q=%23DLER2023) | N/A |
-| 14 | [Tobi Bakre](http://twitter.com/search?q=Tobi+Bakre) | N/A |
-| 15 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
-| 16 | [Robbery](http://twitter.com/search?q=Robbery) | N/A |
-| 17 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
-| 18 | [Soyinka](http://twitter.com/search?q=Soyinka) | N/A |
-| 19 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
-| 20 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 21 | [Cameroon](http://twitter.com/search?q=Cameroon) | N/A |
-| 22 | [Tomi Arayomi](http://twitter.com/search?q=Tomi+Arayomi) | N/A |
-| 23 | [PROJECT 24 CHALLENGE](http://twitter.com/search?q=PROJECT+24+CHALLENGE) | N/A |
-| 24 | [#BeautyTukura](http://twitter.com/search?q=%23BeautyTukura) | N/A |
-| 25 | [Apology](http://twitter.com/search?q=Apology) | N/A |
-| 26 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 27 | [Debate](http://twitter.com/search?q=Debate) | N/A |
-| 28 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
-| 29 | [Gimba](http://twitter.com/search?q=Gimba) | N/A |
-| 30 | [Nobel laureate](http://twitter.com/search?q=Nobel+laureate) | N/A |
-| 31 | [Kwankwaso](http://twitter.com/search?q=Kwankwaso) | N/A |
-| 32 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
-| 33 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 34 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 35 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 36 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 37 | [#Agbadovolution](http://twitter.com/search?q=%23Agbadovolution) | N/A |
-| 38 | [#EasterWeekend](http://twitter.com/search?q=%23EasterWeekend) | N/A |
+| 11 | [#TheFaceOfGod](http://twitter.com/search?q=%23TheFaceOfGod) | N/A |
+| 12 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 13 | [#leksydx9iceholymichael](http://twitter.com/search?q=%23leksydx9iceholymichael) | N/A |
+| 14 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
+| 15 | [#thepassion](http://twitter.com/search?q=%23thepassion) | N/A |
+| 16 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 17 | [#m3lonep](http://twitter.com/search?q=%23m3lonep) | N/A |
+| 18 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 19 | [Toyin Abraham](http://twitter.com/search?q=Toyin+Abraham) | N/A |
+| 20 | [Julius Abure](http://twitter.com/search?q=Julius+Abure) | N/A |
+| 21 | [North](http://twitter.com/search?q=North) | N/A |
+| 22 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 23 | [Brother Bernard](http://twitter.com/search?q=Brother+Bernard) | N/A |
+| 24 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 25 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 26 | [Robben](http://twitter.com/search?q=Robben) | N/A |
+| 27 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 28 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
+| 29 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 30 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 31 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 32 | [Tobi Bakre](http://twitter.com/search?q=Tobi+Bakre) | N/A |
+| 33 | [Lamidi Apapa](http://twitter.com/search?q=Lamidi+Apapa) | N/A |
+| 34 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
+| 35 | [KHOSI X SUPERSPORT](http://twitter.com/search?q=KHOSI+X+SUPERSPORT) | N/A |
+| 36 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 37 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 38 | [Middlesbrough](http://twitter.com/search?q=Middlesbrough) | N/A |
+| 39 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 40 | [PROJECT 24 CHALLENGE](http://twitter.com/search?q=PROJECT+24+CHALLENGE) | N/A |
+| 41 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 42 | [Jesus Christ](http://twitter.com/search?q=Jesus+Christ) | N/A |
+| 43 | [Disturbing U](http://twitter.com/search?q=Disturbing+U) | N/A |
+| 44 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
+| 45 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 46 | [I HAVE MY EVIDENCE](http://twitter.com/search?q=I+HAVE+MY+EVIDENCE) | "I HAVE MY EVIDENCE" is a phrase used to indicate that one has the proof or facts needed to support a claim or argument. It implies that the speaker is confident in their position and has the necessary evidence to back it up. |
+| 47 | [Zamfara](http://twitter.com/search?q=Zamfara) | N/A |
+| 48 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
+| 49 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
 
 
 

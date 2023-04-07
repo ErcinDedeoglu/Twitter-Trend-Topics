@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-04-07 20:17:41 UTC`
+📆 Last Updated: `2023-04-07 21:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 2 | [Vasco da Gama](http://twitter.com/search?q=Vasco+da+Gama) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery. The phrase "Vasco da Gama" is used to refer to his achievements and legacy. In English, it means "the navigator from Gama". |
-| 3 | [Strogonoff](http://twitter.com/search?q=Strogonoff) | N/A |
-| 4 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
-| 5 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 6 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 7 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
-| 8 | [Oxalá](http://twitter.com/search?q=Oxal%c3%a1) | N/A |
-| 9 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
-| 10 | [Abra o Spotify](http://twitter.com/search?q=Abra+o+Spotify) | N/A |
-| 11 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 12 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 13 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 14 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 15 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
-| 16 | [#PortuguêsNaESPN](http://twitter.com/search?q=%23Portugu%c3%aasNaESPN) | N/A |
-| 17 | [#FridayOnlineWord](http://twitter.com/search?q=%23FridayOnlineWord) | N/A |
-| 18 | [Arcor](http://twitter.com/search?q=Arcor) | N/A |
-| 19 | [Luciano Juba](http://twitter.com/search?q=Luciano+Juba) | N/A |
-| 20 | [Comandante Hamilton](http://twitter.com/search?q=Comandante+Hamilton) | N/A |
+| 2 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 3 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
+| 4 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 5 | [Strogonoff](http://twitter.com/search?q=Strogonoff) | N/A |
+| 6 | [Vasco da Gama](http://twitter.com/search?q=Vasco+da+Gama) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery. The phrase "Vasco da Gama" is used to refer to his achievements and legacy. In English, it means "the navigator from Gama". |
+| 7 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
+| 8 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 9 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 12 | [Abra o Spotify](http://twitter.com/search?q=Abra+o+Spotify) | N/A |
+| 13 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 14 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
+| 15 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 16 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 17 | [Luciano Juba](http://twitter.com/search?q=Luciano+Juba) | N/A |
+| 18 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 19 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
+| 20 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
 | 21 | [#ItalianoNaESPN](http://twitter.com/search?q=%23ItalianoNaESPN) | N/A |
-| 22 | [Correios](http://twitter.com/search?q=Correios) | N/A |
-| 23 | [Pedro Coelho](http://twitter.com/search?q=Pedro+Coelho) | N/A |
-| 24 | [POSTE OS SEUS 4 MAINS](http://twitter.com/search?q=POSTE+OS+SEUS+4+MAINS) | N/A |
-| 25 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 26 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
-| 27 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
-| 28 | [Cracolândia](http://twitter.com/search?q=Cracol%c3%a2ndia) | N/A |
-| 29 | [Genshin Impact](http://twitter.com/search?q=Genshin+Impact) | N/A |
-| 30 | [BBB SEM TRANSPARÊNCIA](http://twitter.com/search?q=BBB+SEM+TRANSPAR%c3%8aNCIA) | N/A |
-| 31 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
-| 32 | [Sexta-feira Santa](http://twitter.com/search?q=Sexta-feira+Santa) | N/A |
-| 33 | [Bernadete](http://twitter.com/search?q=Bernadete) | N/A |
-| 34 | [Voto](http://twitter.com/search?q=Voto) | N/A |
-| 35 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
-| 36 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 37 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 38 | [Lecce](http://twitter.com/search?q=Lecce) | N/A |
-| 39 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 40 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 41 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 42 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 43 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
-| 44 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
-| 45 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 46 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
-| 47 | [Toy Story 4](http://twitter.com/search?q=Toy+Story+4) | N/A |
-| 48 | [Caribe](http://twitter.com/search?q=Caribe) | N/A |
-| 49 | [Injustamente](http://twitter.com/search?q=Injustamente) | N/A |
-| 50 | [Tortuguita](http://twitter.com/search?q=Tortuguita) | N/A |
+| 22 | [O Jungkook](http://twitter.com/search?q=O+Jungkook) | N/A |
+| 23 | [Arcor](http://twitter.com/search?q=Arcor) | N/A |
+| 24 | [#FridayOnlineWord](http://twitter.com/search?q=%23FridayOnlineWord) | N/A |
+| 25 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 26 | [Vagner Love](http://twitter.com/search?q=Vagner+Love) | N/A |
+| 27 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
+| 28 | [#PortuguêsNaESPN](http://twitter.com/search?q=%23Portugu%c3%aasNaESPN) | N/A |
+| 29 | [Cracolândia](http://twitter.com/search?q=Cracol%c3%a2ndia) | N/A |
+| 30 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 31 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 32 | [Pedro Coelho](http://twitter.com/search?q=Pedro+Coelho) | N/A |
+| 33 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
+| 34 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 35 | [Correios](http://twitter.com/search?q=Correios) | N/A |
+| 36 | [POSTE OS SEUS 4 MAINS](http://twitter.com/search?q=POSTE+OS+SEUS+4+MAINS) | N/A |
+| 37 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
+| 38 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 39 | [Genshin Impact](http://twitter.com/search?q=Genshin+Impact) | N/A |
+| 40 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 41 | [Jornalista](http://twitter.com/search?q=Jornalista) | N/A |
+| 42 | [Dove](http://twitter.com/search?q=Dove) | N/A |
+| 43 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
+| 44 | [Comandante Hamilton](http://twitter.com/search?q=Comandante+Hamilton) | N/A |
+| 45 | [BBB SEM TRANSPARÊNCIA](http://twitter.com/search?q=BBB+SEM+TRANSPAR%c3%8aNCIA) | N/A |
+| 46 | [Praça das Artes](http://twitter.com/search?q=Pra%c3%a7a+das+Artes) | N/A |
+| 47 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 48 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
+| 49 | [Caribe](http://twitter.com/search?q=Caribe) | N/A |
+| 50 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
 
 
 

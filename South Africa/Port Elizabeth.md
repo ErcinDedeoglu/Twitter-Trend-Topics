@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-04-07 20:18:08 UTC`
+📆 Last Updated: `2023-04-07 21:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [#URChannelO](http://twitter.com/search?q=%23URChannelO) | N/A |
 | 2 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 4 | [Guptas](http://twitter.com/search?q=Guptas) | N/A |
-| 5 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
-| 6 | [Black Motion](http://twitter.com/search?q=Black+Motion) | Black Motion is a South African music duo consisting of DJ Murdah and Thabo "Smol" Mabogwane. They are known for their production of house music, Afro-house, and Afro-fusion. The name "Black Motion" is derived from the duo's mission to create music that celebrates African culture and heritage. |
-| 7 | [Lamola](http://twitter.com/search?q=Lamola) | N/A |
-| 8 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 9 | [KHOSI GOES INTERNATIONAL](http://twitter.com/search?q=KHOSI+GOES+INTERNATIONAL) | N/A |
-| 10 | [#RHOGQ](http://twitter.com/search?q=%23RHOGQ) | N/A |
-| 11 | [#TelkomWeekendBundles](http://twitter.com/search?q=%23TelkomWeekendBundles) | N/A |
-| 12 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 13 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 14 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 15 | [TSATSII WENDY MADIBA](http://twitter.com/search?q=TSATSII+WENDY+MADIBA) | N/A |
-| 16 | [Mamzobe](http://twitter.com/search?q=Mamzobe) | N/A |
-| 17 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 18 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 19 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
-| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 21 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 22 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 23 | [THABANG GOFUNDME FRIDAY](http://twitter.com/search?q=THABANG+GOFUNDME+FRIDAY) | N/A |
-| 24 | [TS Galaxy](http://twitter.com/search?q=TS+Galaxy) | N/A |
-| 25 | [Nobuntu](http://twitter.com/search?q=Nobuntu) | N/A |
-| 26 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
-| 27 | [Vanuatu](http://twitter.com/search?q=Vanuatu) | N/A |
-| 28 | [Moonchild](http://twitter.com/search?q=Moonchild) | N/A |
-| 29 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
-| 30 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 31 | [The UAE](http://twitter.com/search?q=The+UAE) | N/A |
-| 32 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 33 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 34 | [Bushiri](http://twitter.com/search?q=Bushiri) | N/A |
-| 35 | [Mr Smeg](http://twitter.com/search?q=Mr+Smeg) | N/A |
-| 36 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 37 | [Nqobile](http://twitter.com/search?q=Nqobile) | N/A |
-| 38 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 39 | [Shakes](http://twitter.com/search?q=Shakes) | N/A |
-| 40 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 41 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 42 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 43 | [Musa](http://twitter.com/search?q=Musa) | N/A |
-| 44 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 3 | [Guptas](http://twitter.com/search?q=Guptas) | N/A |
+| 4 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 5 | [Block 4](http://twitter.com/search?q=Block+4) | N/A |
+| 6 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 7 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 10 | [Lamola](http://twitter.com/search?q=Lamola) | N/A |
+| 11 | [KHOSI GOES INTERNATIONAL](http://twitter.com/search?q=KHOSI+GOES+INTERNATIONAL) | N/A |
+| 12 | [#UmkhokhaTheCurse](http://twitter.com/search?q=%23UmkhokhaTheCurse) | N/A |
+| 13 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
+| 14 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 16 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 17 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 18 | [Black Motion](http://twitter.com/search?q=Black+Motion) | Black Motion is a South African music duo consisting of DJ Murdah and Thabo "Smol" Mabogwane. They are known for their production of house music, Afro-house, and Afro-fusion. The name "Black Motion" is derived from the duo's mission to create music that celebrates African culture and heritage. |
+| 19 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 20 | [Shimza](http://twitter.com/search?q=Shimza) | N/A |
+| 21 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 22 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 23 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 24 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 25 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 26 | [TSATSII WENDY MADIBA](http://twitter.com/search?q=TSATSII+WENDY+MADIBA) | N/A |
+| 27 | [THABANG GOFUNDME FRIDAY](http://twitter.com/search?q=THABANG+GOFUNDME+FRIDAY) | N/A |
+| 28 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 29 | [Nobuntu](http://twitter.com/search?q=Nobuntu) | N/A |
+| 30 | [Vanuatu](http://twitter.com/search?q=Vanuatu) | N/A |
+| 31 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 32 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
+| 33 | [Moonchild](http://twitter.com/search?q=Moonchild) | N/A |
+| 34 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
+| 35 | [Mamzobe](http://twitter.com/search?q=Mamzobe) | N/A |
+| 36 | [Bushiri](http://twitter.com/search?q=Bushiri) | N/A |
+| 37 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 38 | [The UAE](http://twitter.com/search?q=The+UAE) | N/A |
+| 39 | [Mr Smeg](http://twitter.com/search?q=Mr+Smeg) | N/A |
+| 40 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 41 | [Nqobile](http://twitter.com/search?q=Nqobile) | N/A |
+| 42 | [Restore](http://twitter.com/search?q=Restore) | N/A |
+| 43 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 44 | [TS Galaxy](http://twitter.com/search?q=TS+Galaxy) | N/A |
 | 45 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 46 | [Cape Town Spurs](http://twitter.com/search?q=Cape+Town+Spurs) | N/A |
-| 47 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 48 | [Lady Du](http://twitter.com/search?q=Lady+Du) | N/A |
-| 49 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 46 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
+| 47 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 48 | [Shakes](http://twitter.com/search?q=Shakes) | N/A |
+| 49 | [Musa](http://twitter.com/search?q=Musa) | N/A |
 
 
 

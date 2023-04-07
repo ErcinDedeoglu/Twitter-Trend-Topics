@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-04-07 20:18:33 UTC`
+📆 Last Updated: `2023-04-07 21:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Chile
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JesusDeNazarethEnTVN](http://twitter.com/search?q=%23JesusDeNazarethEnTVN) | N/A |
-| 2 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 3 | [Pinilla](http://twitter.com/search?q=Pinilla) | N/A |
-| 4 | [Mega](http://twitter.com/search?q=Mega) | N/A |
-| 5 | [Paulina de Allende](http://twitter.com/search?q=Paulina+de+Allende) | N/A |
-| 6 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 7 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 8 | [Gala](http://twitter.com/search?q=Gala) | N/A |
-| 9 | [Bories](http://twitter.com/search?q=Bories) | N/A |
-| 10 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
-| 11 | [#ElPartidoMásAustral](http://twitter.com/search?q=%23ElPartidoM%c3%a1sAustral) | N/A |
-| 12 | [Puerto Natales](http://twitter.com/search?q=Puerto+Natales) | N/A |
-| 13 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
-| 14 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
-| 15 | [#FranjaElectoral](http://twitter.com/search?q=%23FranjaElectoral) | N/A |
-| 16 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
-| 17 | [#Los10MandamientosEnTVN](http://twitter.com/search?q=%23Los10MandamientosEnTVN) | N/A |
-| 18 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 19 | [Gabriela Mistral](http://twitter.com/search?q=Gabriela+Mistral) | N/A |
-| 20 | [Jona](http://twitter.com/search?q=Jona) | N/A |
-| 21 | [Isla](http://twitter.com/search?q=Isla) | N/A |
-| 22 | [Puerto Montt](http://twitter.com/search?q=Puerto+Montt) | N/A |
-| 23 | [Cúcuta](http://twitter.com/search?q=C%c3%bacuta) | N/A |
-| 24 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 25 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 26 | [Deportes Concepción](http://twitter.com/search?q=Deportes+Concepci%c3%b3n) | N/A |
-| 27 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 28 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
-| 29 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 5 | [Pinilla](http://twitter.com/search?q=Pinilla) | N/A |
+| 6 | [Mega](http://twitter.com/search?q=Mega) | N/A |
+| 7 | [Gala](http://twitter.com/search?q=Gala) | N/A |
+| 8 | [Paulina de Allende](http://twitter.com/search?q=Paulina+de+Allende) | N/A |
+| 9 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 10 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 11 | [#ClasicoPenquista](http://twitter.com/search?q=%23ClasicoPenquista) | N/A |
+| 12 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
+| 13 | [#ElPartidoMásAustral](http://twitter.com/search?q=%23ElPartidoM%c3%a1sAustral) | N/A |
+| 14 | [Bories](http://twitter.com/search?q=Bories) | N/A |
+| 15 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
+| 16 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 17 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 18 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
+| 19 | [#JuegoDeIlusiones](http://twitter.com/search?q=%23JuegoDeIlusiones) | N/A |
+| 20 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 21 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
+| 22 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 23 | [Isla](http://twitter.com/search?q=Isla) | N/A |
+| 24 | [Gabriela Mistral](http://twitter.com/search?q=Gabriela+Mistral) | N/A |
+| 25 | [Vial](http://twitter.com/search?q=Vial) | N/A |
+| 26 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 27 | [Deportes Concepción](http://twitter.com/search?q=Deportes+Concepci%c3%b3n) | N/A |
+| 28 | [Cúcuta](http://twitter.com/search?q=C%c3%bacuta) | N/A |
+| 29 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
 | 30 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 31 | [Hipócritas](http://twitter.com/search?q=Hip%c3%b3critas) | N/A |
-| 32 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 33 | [Colegio de Periodistas](http://twitter.com/search?q=Colegio+de+Periodistas) | N/A |
-| 34 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 35 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
-| 36 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
-| 37 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
-| 38 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
-| 39 | [Involuntario](http://twitter.com/search?q=Involuntario) | N/A |
-| 40 | [Yañez](http://twitter.com/search?q=Ya%c3%b1ez) | N/A |
-| 41 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 42 | [Hipocresía](http://twitter.com/search?q=Hipocres%c3%ada) | N/A |
-| 43 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 44 | [Merluzo](http://twitter.com/search?q=Merluzo) | N/A |
-| 45 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 46 | [Diego Ibañez](http://twitter.com/search?q=Diego+Iba%c3%b1ez) | N/A |
-| 47 | [Matta](http://twitter.com/search?q=Matta) | N/A |
-| 48 | [Mirna Schindler](http://twitter.com/search?q=Mirna+Schindler) | N/A |
-| 49 | [Vial](http://twitter.com/search?q=Vial) | N/A |
-| 50 | [Guaidó](http://twitter.com/search?q=Guaid%c3%b3) | N/A |
+| 31 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 32 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 33 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
+| 34 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
+| 35 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
+| 36 | [Puerto Natales](http://twitter.com/search?q=Puerto+Natales) | N/A |
+| 37 | [Hipócritas](http://twitter.com/search?q=Hip%c3%b3critas) | N/A |
+| 38 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 39 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 40 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
+| 41 | [Colegio de Periodistas](http://twitter.com/search?q=Colegio+de+Periodistas) | N/A |
+| 42 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
+| 43 | [Robert Powell](http://twitter.com/search?q=Robert+Powell) | N/A |
+| 44 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
+| 45 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
+| 46 | [Yañez](http://twitter.com/search?q=Ya%c3%b1ez) | N/A |
+| 47 | [Merluzo](http://twitter.com/search?q=Merluzo) | N/A |
+| 48 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 49 | [Hipocresía](http://twitter.com/search?q=Hipocres%c3%ada) | N/A |
+| 50 | [Involuntario](http://twitter.com/search?q=Involuntario) | N/A |
 
 
 

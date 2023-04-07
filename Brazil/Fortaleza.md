@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-04-07 20:17:42 UTC`
+📆 Last Updated: `2023-04-07 21:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
-| 2 | [Abra o Spotify](http://twitter.com/search?q=Abra+o+Spotify) | N/A |
-| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 4 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 5 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 6 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 7 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
-| 8 | [#PortuguêsNaESPN](http://twitter.com/search?q=%23Portugu%c3%aasNaESPN) | N/A |
-| 9 | [#FridayOnlineWord](http://twitter.com/search?q=%23FridayOnlineWord) | N/A |
-| 10 | [Arcor](http://twitter.com/search?q=Arcor) | N/A |
-| 11 | [Luciano Juba](http://twitter.com/search?q=Luciano+Juba) | N/A |
-| 12 | [Comandante Hamilton](http://twitter.com/search?q=Comandante+Hamilton) | N/A |
+| 1 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 3 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 4 | [Abra o Spotify](http://twitter.com/search?q=Abra+o+Spotify) | N/A |
+| 5 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 6 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
+| 7 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 8 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 9 | [Luciano Juba](http://twitter.com/search?q=Luciano+Juba) | N/A |
+| 10 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 11 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
+| 12 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
 | 13 | [#ItalianoNaESPN](http://twitter.com/search?q=%23ItalianoNaESPN) | N/A |
-| 14 | [Correios](http://twitter.com/search?q=Correios) | N/A |
-| 15 | [Pedro Coelho](http://twitter.com/search?q=Pedro+Coelho) | N/A |
-| 16 | [POSTE OS SEUS 4 MAINS](http://twitter.com/search?q=POSTE+OS+SEUS+4+MAINS) | N/A |
-| 17 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 18 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
-| 19 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
-| 20 | [Cracolândia](http://twitter.com/search?q=Cracol%c3%a2ndia) | N/A |
-| 21 | [Genshin Impact](http://twitter.com/search?q=Genshin+Impact) | N/A |
-| 22 | [BBB SEM TRANSPARÊNCIA](http://twitter.com/search?q=BBB+SEM+TRANSPAR%c3%8aNCIA) | N/A |
-| 23 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
-| 24 | [Sexta-feira Santa](http://twitter.com/search?q=Sexta-feira+Santa) | N/A |
-| 25 | [Bernadete](http://twitter.com/search?q=Bernadete) | N/A |
-| 26 | [Voto](http://twitter.com/search?q=Voto) | N/A |
-| 27 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
-| 28 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 29 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 30 | [Lecce](http://twitter.com/search?q=Lecce) | N/A |
-| 31 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 32 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 33 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 34 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 35 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
-| 36 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
-| 37 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 38 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
-| 39 | [Toy Story 4](http://twitter.com/search?q=Toy+Story+4) | N/A |
-| 40 | [Caribe](http://twitter.com/search?q=Caribe) | N/A |
-| 41 | [Injustamente](http://twitter.com/search?q=Injustamente) | N/A |
-| 42 | [Tortuguita](http://twitter.com/search?q=Tortuguita) | N/A |
-| 43 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 44 | [Bacalhau](http://twitter.com/search?q=Bacalhau) | N/A |
-| 45 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 46 | [Resposta Histórica](http://twitter.com/search?q=Resposta+Hist%c3%b3rica) | N/A |
-| 47 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 48 | [Ilegalmente](http://twitter.com/search?q=Ilegalmente) | N/A |
-| 49 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 50 | [Pântano](http://twitter.com/search?q=P%c3%a2ntano) | N/A |
+| 14 | [O Jungkook](http://twitter.com/search?q=O+Jungkook) | N/A |
+| 15 | [#FridayOnlineWord](http://twitter.com/search?q=%23FridayOnlineWord) | N/A |
+| 16 | [Arcor](http://twitter.com/search?q=Arcor) | N/A |
+| 17 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 18 | [Vagner Love](http://twitter.com/search?q=Vagner+Love) | N/A |
+| 19 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
+| 20 | [#PortuguêsNaESPN](http://twitter.com/search?q=%23Portugu%c3%aasNaESPN) | N/A |
+| 21 | [Cracolândia](http://twitter.com/search?q=Cracol%c3%a2ndia) | N/A |
+| 22 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 23 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 24 | [Pedro Coelho](http://twitter.com/search?q=Pedro+Coelho) | N/A |
+| 25 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
+| 26 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 27 | [Correios](http://twitter.com/search?q=Correios) | N/A |
+| 28 | [POSTE OS SEUS 4 MAINS](http://twitter.com/search?q=POSTE+OS+SEUS+4+MAINS) | N/A |
+| 29 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
+| 30 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 31 | [Genshin Impact](http://twitter.com/search?q=Genshin+Impact) | N/A |
+| 32 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 33 | [Jornalista](http://twitter.com/search?q=Jornalista) | N/A |
+| 34 | [Dove](http://twitter.com/search?q=Dove) | N/A |
+| 35 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
+| 36 | [Comandante Hamilton](http://twitter.com/search?q=Comandante+Hamilton) | N/A |
+| 37 | [BBB SEM TRANSPARÊNCIA](http://twitter.com/search?q=BBB+SEM+TRANSPAR%c3%8aNCIA) | N/A |
+| 38 | [Praça das Artes](http://twitter.com/search?q=Pra%c3%a7a+das+Artes) | N/A |
+| 39 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 40 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
+| 41 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
+| 42 | [Voto](http://twitter.com/search?q=Voto) | N/A |
+| 43 | [Caribe](http://twitter.com/search?q=Caribe) | N/A |
+| 44 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 45 | [Brazilian](http://twitter.com/search?q=Brazilian) | N/A |
+| 46 | [Lecce](http://twitter.com/search?q=Lecce) | N/A |
+| 47 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
+| 48 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 49 | [Injustamente](http://twitter.com/search?q=Injustamente) | N/A |
+| 50 | [Celta](http://twitter.com/search?q=Celta) | Celta is an acronym for Certificate in English Language Teaching to Adults. It is a qualification for teaching English as a foreign language to adults. It is offered by Cambridge Assessment English and accredited by Ofqual, the UK government's regulator of qualifications, examinations and assessments. |
 
 
 

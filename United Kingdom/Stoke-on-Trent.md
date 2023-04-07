@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-04-07 20:17:33 UTC`
+📆 Last Updated: `2023-04-07 21:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 2 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 3 | [#ycfc](http://twitter.com/search?q=%23ycfc) | N/A |
-| 4 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
-| 5 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
-| 6 | [#PUSB](http://twitter.com/search?q=%23PUSB) | N/A |
-| 7 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
-| 8 | [Crawley](http://twitter.com/search?q=Crawley) | N/A |
-| 9 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
-| 10 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
-| 11 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 12 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 13 | [#SLWIGSTH](http://twitter.com/search?q=%23SLWIGSTH) | N/A |
-| 14 | [#CreweAlex](http://twitter.com/search?q=%23CreweAlex) | N/A |
-| 15 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
-| 16 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
-| 17 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
-| 18 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
-| 19 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 20 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
-| 21 | [Jack Clarke](http://twitter.com/search?q=Jack+Clarke) | N/A |
-| 22 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 23 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 24 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
-| 25 | [Humphrey](http://twitter.com/search?q=Humphrey) | N/A |
-| 26 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 27 | [Ekwah](http://twitter.com/search?q=Ekwah) | N/A |
-| 28 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
-| 29 | [Let Loose](http://twitter.com/search?q=Let+Loose) | N/A |
-| 30 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 31 | [Wet Wet Wet](http://twitter.com/search?q=Wet+Wet+Wet) | N/A |
-| 32 | [McNair](http://twitter.com/search?q=McNair) | N/A |
-| 33 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
-| 34 | [Middlesbrough](http://twitter.com/search?q=Middlesbrough) | N/A |
-| 35 | [Big Country](http://twitter.com/search?q=Big+Country) | N/A |
-| 36 | [Boro](http://twitter.com/search?q=Boro) | N/A |
-| 37 | [Shed Seven](http://twitter.com/search?q=Shed+Seven) | N/A |
-| 38 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 39 | [Ashley Barnes](http://twitter.com/search?q=Ashley+Barnes) | N/A |
-| 40 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 41 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 42 | [Gooch](http://twitter.com/search?q=Gooch) | N/A |
-| 43 | [Moore](http://twitter.com/search?q=Moore) | N/A |
-| 44 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 45 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
-| 46 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
-| 47 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 48 | [Onto Monday](http://twitter.com/search?q=Onto+Monday) | N/A |
-| 49 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 50 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
+| 1 | [Ashley Barnes](http://twitter.com/search?q=Ashley+Barnes) | N/A |
+| 2 | [Championship](http://twitter.com/search?q=Championship) | N/A |
+| 3 | [McIlroy](http://twitter.com/search?q=McIlroy) | N/A |
+| 4 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 5 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 6 | [Morrell](http://twitter.com/search?q=Morrell) | N/A |
+| 7 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
+| 8 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 9 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 10 | [League One](http://twitter.com/search?q=League+One) | N/A |
+| 11 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
+| 12 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 13 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 14 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 15 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 16 | [Crawley](http://twitter.com/search?q=Crawley) | N/A |
+| 17 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
+| 18 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 19 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
+| 20 | [#GTFC](http://twitter.com/search?q=%23GTFC) | N/A |
+| 21 | [Stockdale](http://twitter.com/search?q=Stockdale) | N/A |
+| 22 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 23 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
+| 24 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
+| 25 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
+| 26 | [#pufc](http://twitter.com/search?q=%23pufc) | N/A |
+| 27 | [#STFC](http://twitter.com/search?q=%23STFC) | N/A |
+| 28 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 29 | [#IndianaJones](http://twitter.com/search?q=%23IndianaJones) | N/A |
+| 30 | [Celebration](http://twitter.com/search?q=Celebration) | N/A |
+| 31 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 32 | [Vincent Kompany](http://twitter.com/search?q=Vincent+Kompany) | N/A |
+| 33 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 35 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
+| 36 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 37 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
+| 38 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
+| 39 | [Independence for Wales](http://twitter.com/search?q=Independence+for+Wales) | N/A |
+| 40 | [McNair](http://twitter.com/search?q=McNair) | N/A |
+| 41 | [Connor Roberts](http://twitter.com/search?q=Connor+Roberts) | N/A |
+| 42 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 43 | [Humphrey](http://twitter.com/search?q=Humphrey) | N/A |
+| 44 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 45 | [Jack Clarke](http://twitter.com/search?q=Jack+Clarke) | N/A |
+| 46 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 47 | [Middlesbrough](http://twitter.com/search?q=Middlesbrough) | N/A |
+| 48 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
+| 49 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 50 | [Ekwah](http://twitter.com/search?q=Ekwah) | N/A |
 
 
 
