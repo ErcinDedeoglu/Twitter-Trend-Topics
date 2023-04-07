@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sagamihara
 
-📆 Last Updated: `2023-04-07 12:17:26 UTC`
+📆 Last Updated: `2023-04-07 13:18:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#swallows](http://twitter.com/search?q=%23swallows) | N/A |
-| 2 | [#umore847](http://twitter.com/search?q=%23umore847) | N/A |
-| 3 | [サタニック](http://twitter.com/search?q=%e3%82%b5%e3%82%bf%e3%83%8b%e3%83%83%e3%82%af) | N/A |
-| 4 | [#ポテトといえばミニストップ](http://twitter.com/search?q=%23%e3%83%9d%e3%83%86%e3%83%88%e3%81%a8%e3%81%84%e3%81%88%e3%81%b0%e3%83%9f%e3%83%8b%e3%82%b9%e3%83%88%e3%83%83%e3%83%97) | "#ポテトといえばミニストップ" is a hashtag used on social media in Japan. It translates to "When you think of potatoes, you think of Ministop". It is used to refer to the convenience store chain Ministop, which is known for its potato snacks. |
-| 5 | [Chapter II](http://twitter.com/search?q=Chapter+II) | N/A |
-| 6 | [#carp](http://twitter.com/search?q=%23carp) | N/A |
-| 7 | [ずぶ濡れ](http://twitter.com/search?q=%e3%81%9a%e3%81%b6%e6%bf%a1%e3%82%8c) | N/A |
-| 8 | [土砂降り](http://twitter.com/search?q=%e5%9c%9f%e7%a0%82%e9%99%8d%e3%82%8a) | 土砂降り is a Japanese phrase that literally translates to "heavy rain with mud and sand". It is used to describe a heavy rainstorm that is accompanied by strong winds and large amounts of mud and sand. In English, it could be translated as "a torrential downpour". |
-| 9 | [びしょ濡れ](http://twitter.com/search?q=%e3%81%b3%e3%81%97%e3%82%87%e6%bf%a1%e3%82%8c) | N/A |
-| 10 | [ハッチポッチステーション](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%81%e3%83%9d%e3%83%83%e3%83%81%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 11 | [深海少女](http://twitter.com/search?q=%e6%b7%b1%e6%b5%b7%e5%b0%91%e5%a5%b3) | N/A |
-| 12 | [雨天中止](http://twitter.com/search?q=%e9%9b%a8%e5%a4%a9%e4%b8%ad%e6%ad%a2) | N/A |
-| 13 | [ゲッツー](http://twitter.com/search?q=%e3%82%b2%e3%83%83%e3%83%84%e3%83%bc) | N/A |
-| 14 | [ミッキー](http://twitter.com/search?q=%e3%83%9f%e3%83%83%e3%82%ad%e3%83%bc) | N/A |
-| 15 | [プレミア公開](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2%e5%85%ac%e9%96%8b) | N/A |
-| 16 | [気圧のせい](http://twitter.com/search?q=%e6%b0%97%e5%9c%a7%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
-| 17 | [メタモンレイド](http://twitter.com/search?q=%e3%83%a1%e3%82%bf%e3%83%a2%e3%83%b3%e3%83%ac%e3%82%a4%e3%83%89) | N/A |
-| 18 | [雇用統計](http://twitter.com/search?q=%e9%9b%87%e7%94%a8%e7%b5%b1%e8%a8%88) | 雇用統計 (Koyou Touseki) is a Japanese term that refers to employment statistics. It is used to measure the number of people employed in a certain area or industry, as well as the average wages and other labor market indicators. In English, it can be translated as "Employment Statistics". |
-| 19 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
-| 20 | [トロフィー](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc) | N/A |
-| 21 | [社会保険料](http://twitter.com/search?q=%e7%a4%be%e4%bc%9a%e4%bf%9d%e9%99%ba%e6%96%99) | N/A |
-| 22 | [NANDE](http://twitter.com/search?q=NANDE) | N/A |
-| 23 | [キンプリ](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%83%97%e3%83%aa) | N/A |
-| 24 | [aiko](http://twitter.com/search?q=aiko) | Aiko is a Japanese female given name meaning "beloved child". |
-| 25 | [鍵垢貫通](http://twitter.com/search?q=%e9%8d%b5%e5%9e%a2%e8%b2%ab%e9%80%9a) | N/A |
-| 26 | [BUCK](http://twitter.com/search?q=BUCK) | N/A |
-| 27 | [ジェシー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b7%e3%83%bc) | ジェシー is a Japanese name, and it is usually written in katakana. It is the same as the English name Jessie, and it means "God's gracious gift". |
-| 28 | [飛鳥ちゃん](http://twitter.com/search?q=%e9%a3%9b%e9%b3%a5%e3%81%a1%e3%82%83%e3%82%93) | 飛鳥ちゃん is a nickname for the Japanese actress Asuka Kudo. It is derived from her given name, which can be translated to "flying bird" in English. |
-| 29 | [ストプリ](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%97%e3%83%aa) | N/A |
-| 30 | [サンタナ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%82%bf%e3%83%8a) | サンタナ (Santa Na) is a Japanese pop-rock band formed in 2001. The band's name is derived from the Spanish words "santa" (meaning "saint") and "nana" (meaning "song"). The band's music is a mix of rock, pop, and Latin music. In English, their name translates to "Saint Song". |
-| 31 | [コナンくん](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%8f%e3%82%93) | コナンくん is a nickname for the fictional character Conan Edogawa from the manga and anime series Detective Conan. In English, it can be translated to "Conan-kun". |
-| 32 | [山田哲人](http://twitter.com/search?q=%e5%b1%b1%e7%94%b0%e5%93%b2%e4%ba%ba) | N/A |
-| 33 | [碇ゲンドウ](http://twitter.com/search?q=%e7%a2%87%e3%82%b2%e3%83%b3%e3%83%89%e3%82%a6) | N/A |
-| 34 | [SixTONES最高](http://twitter.com/search?q=SixTONES%e6%9c%80%e9%ab%98) | N/A |
-| 35 | [投票テーマ](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e3%83%86%e3%83%bc%e3%83%9e) | N/A |
-| 36 | [ターリー](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%83%aa%e3%83%bc) | N/A |
-| 37 | [結束バンドの結束バンド](http://twitter.com/search?q=%e7%b5%90%e6%9d%9f%e3%83%90%e3%83%b3%e3%83%89%e3%81%ae%e7%b5%90%e6%9d%9f%e3%83%90%e3%83%b3%e3%83%89) | N/A |
-| 38 | [ビーバー](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
-| 39 | [ぽんちゃん](http://twitter.com/search?q=%e3%81%bd%e3%82%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 40 | [沸騰ワード](http://twitter.com/search?q=%e6%b2%b8%e9%a8%b0%e3%83%af%e3%83%bc%e3%83%89) | 沸騰ワード is a Japanese term that refers to words or phrases that are trending on social media. It literally translates to "boiling word" and is used to describe topics that are generating a lot of buzz online. In English, it could be referred to as a "buzzword". |
-| 41 | [ライアン](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%82%a2%e3%83%b3) | ライアン is a Japanese given name, derived from the Irish name Ryan. It is usually written in katakana and can be translated to mean "little king" or "illustrious". |
-| 42 | [安室さん](http://twitter.com/search?q=%e5%ae%89%e5%ae%a4%e3%81%95%e3%82%93) | N/A |
-| 43 | [宝塚受験](http://twitter.com/search?q=%e5%ae%9d%e5%a1%9a%e5%8f%97%e9%a8%93) | N/A |
-| 44 | [けいかちゃん](http://twitter.com/search?q=%e3%81%91%e3%81%84%e3%81%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 45 | [コナンの映画](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%ae%e6%98%a0%e7%94%bb) | N/A |
-| 46 | [海ちゃん](http://twitter.com/search?q=%e6%b5%b7%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 47 | [佐藤刑事](http://twitter.com/search?q=%e4%bd%90%e8%97%a4%e5%88%91%e4%ba%8b) | N/A |
-| 48 | [紫耀くん](http://twitter.com/search?q=%e7%b4%ab%e8%80%80%e3%81%8f%e3%82%93) | 紫耀くん is a character from the Japanese manga series, "Kuroko's Basketball". His real name is Aomine Daiki and he is known for his powerful and aggressive style of play. In English, his name translates to "Purple Glare". |
-| 49 | [ハロ嫁待機](http://twitter.com/search?q=%e3%83%8f%e3%83%ad%e5%ab%81%e5%be%85%e6%a9%9f) | N/A |
+| 1 | [#齋藤飛鳥卒業コンサート](http://twitter.com/search?q=%23%e9%bd%8b%e8%97%a4%e9%a3%9b%e9%b3%a5%e5%8d%92%e6%a5%ad%e3%82%b3%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%88) | N/A |
+| 2 | [沸騰ワード](http://twitter.com/search?q=%e6%b2%b8%e9%a8%b0%e3%83%af%e3%83%bc%e3%83%89) | 沸騰ワード is a Japanese term that refers to words or phrases that are trending on social media. It literally translates to "boiling word" and is used to describe topics that are generating a lot of buzz online. In English, it could be referred to as a "buzzword". |
+| 3 | [#乃木坂46](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%8246) | N/A |
+| 4 | [#umore847](http://twitter.com/search?q=%23umore847) | N/A |
+| 5 | [#林瑠奈](http://twitter.com/search?q=%23%e6%9e%97%e7%91%a0%e5%a5%88) | N/A |
+| 6 | [ヒョンジン](http://twitter.com/search?q=%e3%83%92%e3%83%a7%e3%83%b3%e3%82%b8%e3%83%b3) | N/A |
+| 7 | [佐藤さん](http://twitter.com/search?q=%e4%bd%90%e8%97%a4%e3%81%95%e3%82%93) | N/A |
+| 8 | [ガラケー](http://twitter.com/search?q=%e3%82%ac%e3%83%a9%e3%82%b1%e3%83%bc) | N/A |
+| 9 | [宮城くん](http://twitter.com/search?q=%e5%ae%ae%e5%9f%8e%e3%81%8f%e3%82%93) | 宮城くん is a nickname given to people from Miyagi Prefecture in Japan. It is derived from the prefecture's name, which literally translates to "shrine city". In English, it can be translated as "Miyagi-kun". |
+| 10 | [北斗くん](http://twitter.com/search?q=%e5%8c%97%e6%96%97%e3%81%8f%e3%82%93) | 北斗くん is a Japanese manga series written and illustrated by Fujiko Fujio. It follows the adventures of a young boy named Kitarō, who has supernatural powers and uses them to protect humanity from evil forces. The title translates to "North Star Boy" in English. |
+| 11 | [雇用統計](http://twitter.com/search?q=%e9%9b%87%e7%94%a8%e7%b5%b1%e8%a8%88) | 雇用統計 (Koyou Touseki) is a Japanese term that refers to employment statistics. It is used to measure the number of people employed in a certain area or industry, as well as the average wages and other labor market indicators. In English, it can be translated as "Employment Statistics". |
+| 12 | [#阪神タイガース](http://twitter.com/search?q=%23%e9%98%aa%e7%a5%9e%e3%82%bf%e3%82%a4%e3%82%ac%e3%83%bc%e3%82%b9) | N/A |
+| 13 | [ずぶ濡れ](http://twitter.com/search?q=%e3%81%9a%e3%81%b6%e6%bf%a1%e3%82%8c) | N/A |
+| 14 | [青柳さん](http://twitter.com/search?q=%e9%9d%92%e6%9f%b3%e3%81%95%e3%82%93) | N/A |
+| 15 | [スターウォーズ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%ba) | N/A |
+| 16 | [海ちゃん](http://twitter.com/search?q=%e6%b5%b7%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 17 | [びしょ濡れ](http://twitter.com/search?q=%e3%81%b3%e3%81%97%e3%82%87%e6%bf%a1%e3%82%8c) | N/A |
+| 18 | [ビーディ](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%87%e3%82%a3) | N/A |
+| 19 | [Vlog](http://twitter.com/search?q=Vlog) | Vlog is short for video blog and it refers to a type of blog that consists of videos. It is a form of online media where people can share their thoughts, opinions, and experiences through video content. Vlogs are typically posted on social media platforms such as YouTube, Instagram, and TikTok. |
+| 20 | [BUCK](http://twitter.com/search?q=BUCK) | N/A |
+| 21 | [全国一斉クイズ](http://twitter.com/search?q=%e5%85%a8%e5%9b%bd%e4%b8%80%e6%96%89%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
+| 22 | [コナンくん](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%8f%e3%82%93) | コナンくん is a nickname for the fictional character Conan Edogawa from the manga and anime series Detective Conan. In English, it can be translated to "Conan-kun". |
+| 23 | [安室さん](http://twitter.com/search?q=%e5%ae%89%e5%ae%a4%e3%81%95%e3%82%93) | N/A |
+| 24 | [NANDE](http://twitter.com/search?q=NANDE) | N/A |
+| 25 | [ゼルダの伝説](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e3%81%ae%e4%bc%9d%e8%aa%ac) | N/A |
+| 26 | [すわほー](http://twitter.com/search?q=%e3%81%99%e3%82%8f%e3%81%bb%e3%83%bc) | N/A |
+| 27 | [おっちゃん](http://twitter.com/search?q=%e3%81%8a%e3%81%a3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 28 | [ぽんちゃん](http://twitter.com/search?q=%e3%81%bd%e3%82%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 29 | [ワイルド](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%83%ab%e3%83%89) | N/A |
+| 30 | [ストプリ](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%97%e3%83%aa) | N/A |
+| 31 | [風見さん](http://twitter.com/search?q=%e9%a2%a8%e8%a6%8b%e3%81%95%e3%82%93) | N/A |
+| 32 | [高木刑事](http://twitter.com/search?q=%e9%ab%98%e6%9c%a8%e5%88%91%e4%ba%8b) | N/A |
+| 33 | [柴犬とドーベルマン](http://twitter.com/search?q=%e6%9f%b4%e7%8a%ac%e3%81%a8%e3%83%89%e3%83%bc%e3%83%99%e3%83%ab%e3%83%9e%e3%83%b3) | N/A |
+| 34 | [ロシア語](http://twitter.com/search?q=%e3%83%ad%e3%82%b7%e3%82%a2%e8%aa%9e) | N/A |
+| 35 | [キンプリ](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%83%97%e3%83%aa) | N/A |
+| 36 | [シーンカット](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%83%b3%e3%82%ab%e3%83%83%e3%83%88) | シーンカット is a Japanese term used to describe a transition between two scenes in a movie or television show. It is the equivalent of the English term "scene cut" and is used to indicate when the camera switches from one scene to another. |
+| 37 | [佐藤刑事](http://twitter.com/search?q=%e4%bd%90%e8%97%a4%e5%88%91%e4%ba%8b) | N/A |
+| 38 | [降谷さん](http://twitter.com/search?q=%e9%99%8d%e8%b0%b7%e3%81%95%e3%82%93) | N/A |
+| 39 | [警察学校組](http://twitter.com/search?q=%e8%ad%a6%e5%af%9f%e5%ad%a6%e6%a0%a1%e7%b5%84) | 警察学校組 (Keisatsugakkō-gumi) is a Japanese term that refers to a group of police officers who have graduated from the same police academy. The literal translation of the term is "Police Academy Group". |
+| 40 | [ジェシー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b7%e3%83%bc) | ジェシー is a Japanese name, and it is usually written in katakana. It is the same as the English name Jessie, and it means "God's gracious gift". |
+| 41 | [白鳥警部](http://twitter.com/search?q=%e7%99%bd%e9%b3%a5%e8%ad%a6%e9%83%a8) | N/A |
+| 42 | [こいほー](http://twitter.com/search?q=%e3%81%93%e3%81%84%e3%81%bb%e3%83%bc) | N/A |
+| 43 | [指パッチン](http://twitter.com/search?q=%e6%8c%87%e3%83%91%e3%83%83%e3%83%81%e3%83%b3) | N/A |
+| 44 | [コナンの映画](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%ae%e6%98%a0%e7%94%bb) | N/A |
+| 45 | [松田刑事](http://twitter.com/search?q=%e6%9d%be%e7%94%b0%e5%88%91%e4%ba%8b) | N/A |
+| 46 | [哀ちゃん](http://twitter.com/search?q=%e5%93%80%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 47 | [鍵垢貫通](http://twitter.com/search?q=%e9%8d%b5%e5%9e%a2%e8%b2%ab%e9%80%9a) | N/A |
+| 48 | [ビーズリー](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%82%ba%e3%83%aa%e3%83%bc) | N/A |
+| 49 | [松田さん](http://twitter.com/search?q=%e6%9d%be%e7%94%b0%e3%81%95%e3%82%93) | N/A |
 
 
 

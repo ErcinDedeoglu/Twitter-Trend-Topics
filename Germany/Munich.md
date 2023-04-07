@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-04-07 12:17:18 UTC`
+📆 Last Updated: `2023-04-07 13:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,36 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
 | 2 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 3 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 4 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 5 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
-| 6 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 7 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 8 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
-| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 10 | [Christen](http://twitter.com/search?q=Christen) | N/A |
-| 11 | [Tanzverbot](http://twitter.com/search?q=Tanzverbot) | N/A |
-| 12 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 13 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
-| 14 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 15 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 16 | [Fisch](http://twitter.com/search?q=Fisch) | N/A |
-| 17 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 18 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 19 | [#Weltgesundheitstag](http://twitter.com/search?q=%23Weltgesundheitstag) | N/A |
-| 20 | [Pesto](http://twitter.com/search?q=Pesto) | N/A |
-| 21 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 22 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 23 | [Falschparker](http://twitter.com/search?q=Falschparker) | N/A |
-| 24 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 25 | [#Huber](http://twitter.com/search?q=%23Huber) | N/A |
-| 26 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
-| 27 | [Bibel](http://twitter.com/search?q=Bibel) | N/A |
-| 28 | [Nächstenliebe](http://twitter.com/search?q=N%c3%a4chstenliebe) | N/A |
-| 29 | [Tanzen](http://twitter.com/search?q=Tanzen) | N/A |
-| 30 | [Faeser](http://twitter.com/search?q=Faeser) | N/A |
-| 31 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
-| 32 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 3 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 4 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 5 | [#Tanzverbot](http://twitter.com/search?q=%23Tanzverbot) | N/A |
+| 6 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 7 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 9 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 10 | [#lanz](http://twitter.com/search?q=%23lanz) | N/A |
+| 11 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 12 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
+| 13 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
+| 14 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
+| 15 | [Falschparker](http://twitter.com/search?q=Falschparker) | N/A |
+| 16 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 17 | [#Huber](http://twitter.com/search?q=%23Huber) | N/A |
+| 18 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 19 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 20 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
+| 21 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
+| 22 | [Bjarne Mädel](http://twitter.com/search?q=Bjarne+M%c3%a4del) | N/A |
+| 23 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 24 | [Brian](http://twitter.com/search?q=Brian) | N/A |
+| 25 | [Tanzen](http://twitter.com/search?q=Tanzen) | N/A |
+| 26 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 27 | [Harald Lesch](http://twitter.com/search?q=Harald+Lesch) | N/A |
+| 28 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 29 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 30 | [freiheitsenergie](http://twitter.com/search?q=freiheitsenergie) | N/A |
+| 31 | [Tempolimit](http://twitter.com/search?q=Tempolimit) | N/A |
+| 32 | [Worst Concert](http://twitter.com/search?q=Worst+Concert) | N/A |
+| 33 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 34 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
+| 35 | [Ernie](http://twitter.com/search?q=Ernie) | N/A |
+| 36 | [Bauhaus](http://twitter.com/search?q=Bauhaus) | N/A |
+| 37 | [Miss Marple](http://twitter.com/search?q=Miss+Marple) | N/A |
+| 38 | [Berliner Luft](http://twitter.com/search?q=Berliner+Luft) | N/A |
+| 39 | [Fisch](http://twitter.com/search?q=Fisch) | N/A |
+| 40 | [Dream Concert](http://twitter.com/search?q=Dream+Concert) | N/A |
+| 41 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 42 | [Auferstehung](http://twitter.com/search?q=Auferstehung) | N/A |
+| 43 | [Generationenverantwortung](http://twitter.com/search?q=Generationenverantwortung) | N/A |
+| 44 | [Kapitulation der Ukraine](http://twitter.com/search?q=Kapitulation+der+Ukraine) | N/A |
+| 45 | [mario film](http://twitter.com/search?q=mario+film) | N/A |
+| 46 | [Urlaubstage](http://twitter.com/search?q=Urlaubstage) | N/A |
+| 47 | [Nächstenliebe](http://twitter.com/search?q=N%c3%a4chstenliebe) | N/A |
+| 48 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 49 | [Kellermann](http://twitter.com/search?q=Kellermann) | N/A |
+| 50 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
 
 
 

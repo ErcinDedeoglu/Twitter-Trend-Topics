@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-04-07 12:17:06 UTC`
+📆 Last Updated: `2023-04-07 13:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Andor](http://twitter.com/search?q=%23Andor) | N/A |
-| 2 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 3 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
-| 4 | [Lucasfilm](http://twitter.com/search?q=Lucasfilm) | N/A |
-| 5 | [#rufc](http://twitter.com/search?q=%23rufc) | N/A |
-| 6 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 7 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 8 | [Hull](http://twitter.com/search?q=Hull) | N/A |
-| 9 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 10 | [#ToriesOut274](http://twitter.com/search?q=%23ToriesOut274) | N/A |
-| 11 | [Gutter](http://twitter.com/search?q=Gutter) | N/A |
-| 12 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 13 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 14 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 15 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 16 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 17 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 18 | [CHOO CHOO](http://twitter.com/search?q=CHOO+CHOO) | N/A |
-| 19 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 20 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | Michael Oliver is a British actor and comedian. He is best known for his roles in the television series The Comic Strip Presents, The Young Ones, and Bottom. He has also appeared in films such as The Princess Bride, Hot Fuzz, and Shaun of the Dead. |
+| 1 | [Tony Smith](http://twitter.com/search?q=Tony+Smith) | N/A |
+| 2 | [North Wales](http://twitter.com/search?q=North+Wales) | N/A |
+| 3 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
+| 4 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
+| 5 | [Albion](http://twitter.com/search?q=Albion) | N/A |
+| 6 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
+| 7 | [Gutter](http://twitter.com/search?q=Gutter) | N/A |
+| 8 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
+| 9 | [telford](http://twitter.com/search?q=telford) | N/A |
+| 10 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 11 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 12 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 14 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
+| 15 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 16 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
+| 17 | [#SLHulHKR](http://twitter.com/search?q=%23SLHulHKR) | N/A |
+| 18 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 19 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 20 | [Hera](http://twitter.com/search?q=Hera) | N/A |
 | 21 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 22 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 23 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 24 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
-| 25 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
-| 26 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 27 | [Luton](http://twitter.com/search?q=Luton) | N/A |
-| 28 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 29 | [Kathleen Kennedy](http://twitter.com/search?q=Kathleen+Kennedy) | N/A |
-| 30 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 31 | [Lucy Powell](http://twitter.com/search?q=Lucy+Powell) | N/A |
-| 32 | [king of kings](http://twitter.com/search?q=king+of+kings) | N/A |
-| 33 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 34 | [Andrew Castle](http://twitter.com/search?q=Andrew+Castle) | N/A |
-| 35 | [Savile](http://twitter.com/search?q=Savile) | N/A |
-| 36 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 37 | [North Wales](http://twitter.com/search?q=North+Wales) | N/A |
-| 38 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 39 | [Great Friday](http://twitter.com/search?q=Great+Friday) | N/A |
-| 40 | [Derby Day](http://twitter.com/search?q=Derby+Day) | Derby Day is a term used to refer to the day of a major horse race, usually the Kentucky Derby in the United States. It is a day of celebration and excitement, with people gathering to watch the race and place bets on their favorite horses. The phrase can also be used more generally to refer to any day when a major horse race takes place. |
-| 41 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 42 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
-| 43 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 44 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
-| 45 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 46 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
-| 47 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 48 | [Hot Cross Buns](http://twitter.com/search?q=Hot+Cross+Buns) | N/A |
-| 49 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
-| 50 | [New Elite](http://twitter.com/search?q=New+Elite) | N/A |
+| 22 | [Ajayi](http://twitter.com/search?q=Ajayi) | N/A |
+| 23 | [Hull FC](http://twitter.com/search?q=Hull+FC) | N/A |
+| 24 | [Hugill](http://twitter.com/search?q=Hugill) | N/A |
+| 25 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 26 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 27 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
+| 28 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
+| 29 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 30 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 31 | [Luton](http://twitter.com/search?q=Luton) | N/A |
+| 32 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | Michael Oliver is a British actor and comedian. He is best known for his roles in the television series The Comic Strip Presents, The Young Ones, and Bottom. He has also appeared in films such as The Princess Bride, Hot Fuzz, and Shaun of the Dead. |
+| 33 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
+| 34 | [CHOO CHOO](http://twitter.com/search?q=CHOO+CHOO) | N/A |
+| 35 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
+| 36 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 37 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
+| 38 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
+| 39 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
+| 40 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
+| 41 | [Skeleton Crew](http://twitter.com/search?q=Skeleton+Crew) | N/A |
+| 42 | [Iwata](http://twitter.com/search?q=Iwata) | N/A |
+| 43 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 44 | [Lucasfilm](http://twitter.com/search?q=Lucasfilm) | N/A |
+| 45 | [Walk of Witness](http://twitter.com/search?q=Walk+of+Witness) | N/A |
+| 46 | [Kathleen Kennedy](http://twitter.com/search?q=Kathleen+Kennedy) | N/A |
+| 47 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
+| 48 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 49 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 50 | [Savile](http://twitter.com/search?q=Savile) | N/A |
 
 
 

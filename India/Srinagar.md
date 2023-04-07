@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-04-07 12:17:38 UTC`
+📆 Last Updated: `2023-04-07 13:18:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [India](</India>)
 | 2 | [#HappyBirthdayAlluArjun](http://twitter.com/search?q=%23HappyBirthdayAlluArjun) | N/A |
 | 3 | [#SpiderverseOnJune2nd](http://twitter.com/search?q=%23SpiderverseOnJune2nd) | N/A |
 | 4 | [#cricketmatlabMyfab11](http://twitter.com/search?q=%23cricketmatlabMyfab11) | N/A |
-| 5 | [Surya Conclave](http://twitter.com/search?q=Surya+Conclave) | N/A |
-| 6 | [Username](http://twitter.com/search?q=Username) | N/A |
-| 7 | [समर सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%b0+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 5 | [CBTF By Amit Majithia](http://twitter.com/search?q=CBTF+By+Amit+Majithia) | N/A |
+| 6 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
+| 7 | [First Look](http://twitter.com/search?q=First+Look) | N/A |
 | 8 | [पल्लवी पटेल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%b5%e0%a5%80+%e0%a4%aa%e0%a4%9f%e0%a5%87%e0%a4%b2) | N/A |
-| 9 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 9 | [BhAAi](http://twitter.com/search?q=BhAAi) | N/A |
 | 10 | [हिंदू महासभा](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 11 | [Persian](http://twitter.com/search?q=Persian) | N/A |
-| 12 | [आंध्र प्रदेश](http://twitter.com/search?q=%e0%a4%86%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 13 | [Republic of China](http://twitter.com/search?q=Republic+of+China) | N/A |
-| 14 | [Sushant Nemesis Of Bollywood](http://twitter.com/search?q=Sushant+Nemesis+Of+Bollywood) | N/A |
-| 15 | [Wayne Parnell](http://twitter.com/search?q=Wayne+Parnell) | N/A |
-| 16 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 17 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 18 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 19 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
-| 20 | [केंद्रीय स्वास्थ्य मंत्री](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 21 | [SSC CGL 2023](http://twitter.com/search?q=SSC+CGL+2023) | N/A |
-| 22 | [ईसा मसीह](http://twitter.com/search?q=%e0%a4%88%e0%a4%b8%e0%a4%be+%e0%a4%ae%e0%a4%b8%e0%a5%80%e0%a4%b9) | N/A |
-| 23 | [Andhra Pradesh](http://twitter.com/search?q=Andhra+Pradesh) | N/A |
-| 24 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 25 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 26 | [आयुष्मान कार्ड](http://twitter.com/search?q=%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 27 | [उमर खालिद](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a4%b0+%e0%a4%96%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%a6) | N/A |
-| 28 | [सलमान खान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 29 | [कर्नाटक चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 30 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 31 | [#Sukumar](http://twitter.com/search?q=%23Sukumar) | N/A |
-| 32 | [#GoodFriday](http://twitter.com/search?q=%23GoodFriday) | N/A |
-| 33 | [#FahadhFaasil](http://twitter.com/search?q=%23FahadhFaasil) | N/A |
-| 34 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 35 | [#GobackModi](http://twitter.com/search?q=%23GobackModi) | N/A |
-| 36 | [#LSGvSRH](http://twitter.com/search?q=%23LSGvSRH) | N/A |
-| 37 | [#KiranKumarReddy](http://twitter.com/search?q=%23KiranKumarReddy) | N/A |
-| 38 | [#healthylifestyle](http://twitter.com/search?q=%23healthylifestyle) | N/A |
-| 39 | [#Coronavirus](http://twitter.com/search?q=%23Coronavirus) | N/A |
-| 40 | [#MIvsCSK](http://twitter.com/search?q=%23MIvsCSK) | N/A |
-| 41 | [#MP_की_अर्थव्यवस्था_दोगुनी](http://twitter.com/search?q=%23MP_%e0%a4%95%e0%a5%80_%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%b5%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be_%e0%a4%a6%e0%a5%8b%e0%a4%97%e0%a5%81%e0%a4%a8%e0%a5%80) | N/A |
-| 42 | [#DictatorRavi](http://twitter.com/search?q=%23DictatorRavi) | N/A |
-| 43 | [#ACKOForTheFans](http://twitter.com/search?q=%23ACKOForTheFans) | N/A |
-| 44 | [#healthcare](http://twitter.com/search?q=%23healthcare) | N/A |
-| 45 | [#FactsAboutJesus](http://twitter.com/search?q=%23FactsAboutJesus) | N/A |
-| 46 | [#MansukhMandaviya](http://twitter.com/search?q=%23MansukhMandaviya) | N/A |
-| 47 | [#JagananneMaaBhavishyathu](http://twitter.com/search?q=%23JagananneMaaBhavishyathu) | N/A |
+| 11 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
+| 12 | [republic of china](http://twitter.com/search?q=republic+of+china) | N/A |
+| 13 | [Username](http://twitter.com/search?q=Username) | N/A |
+| 14 | [Amul](http://twitter.com/search?q=Amul) | N/A |
+| 15 | [Advance](http://twitter.com/search?q=Advance) | N/A |
+| 16 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 17 | [आयुष्मान कार्ड](http://twitter.com/search?q=%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 18 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 19 | [Persian](http://twitter.com/search?q=Persian) | N/A |
+| 20 | [आंध्र प्रदेश](http://twitter.com/search?q=%e0%a4%86%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 21 | [उमर खालिद](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a4%b0+%e0%a4%96%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%a6) | N/A |
+| 22 | [समर सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%b0+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 23 | [ईसा मसीह](http://twitter.com/search?q=%e0%a4%88%e0%a4%b8%e0%a4%be+%e0%a4%ae%e0%a4%b8%e0%a5%80%e0%a4%b9) | N/A |
+| 24 | [Sushant Nemesis Of Bollywood](http://twitter.com/search?q=Sushant+Nemesis+Of+Bollywood) | N/A |
+| 25 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 26 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 27 | [केंद्रीय स्वास्थ्य मंत्री](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 28 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 29 | [मोहन भागवत](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
+| 30 | [Andhra Pradesh](http://twitter.com/search?q=Andhra+Pradesh) | N/A |
+| 31 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 32 | [#SewaBharati](http://twitter.com/search?q=%23SewaBharati) | N/A |
+| 33 | [#Vanakkam_Modi](http://twitter.com/search?q=%23Vanakkam_Modi) | N/A |
+| 34 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 35 | [#Sukumar](http://twitter.com/search?q=%23Sukumar) | N/A |
+| 36 | [#LSGvsSRH](http://twitter.com/search?q=%23LSGvsSRH) | N/A |
+| 37 | [#JinnysKitchenEp7](http://twitter.com/search?q=%23JinnysKitchenEp7) | N/A |
+| 38 | [#FahadhFaasil](http://twitter.com/search?q=%23FahadhFaasil) | N/A |
+| 39 | [#GoodFriday](http://twitter.com/search?q=%23GoodFriday) | N/A |
+| 40 | [#GobackModi](http://twitter.com/search?q=%23GobackModi) | N/A |
+| 41 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
+| 42 | [#TaehyungOnJinnysKitchen](http://twitter.com/search?q=%23TaehyungOnJinnysKitchen) | N/A |
+| 43 | [#KiranKumarReddy](http://twitter.com/search?q=%23KiranKumarReddy) | N/A |
+| 44 | [#MIvsCSK](http://twitter.com/search?q=%23MIvsCSK) | N/A |
+| 45 | [#healthylifestyle](http://twitter.com/search?q=%23healthylifestyle) | N/A |
+| 46 | [#SaveNandini](http://twitter.com/search?q=%23SaveNandini) | N/A |
+| 47 | [#Coronavirus](http://twitter.com/search?q=%23Coronavirus) | N/A |
 
 
 

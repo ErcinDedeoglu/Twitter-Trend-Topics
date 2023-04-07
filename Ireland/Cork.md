@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-04-07 12:17:15 UTC`
+📆 Last Updated: `2023-04-07 13:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Ireland](</Ireland>)
 | 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 4 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 5 | [#TLC8](http://twitter.com/search?q=%23TLC8) | N/A |
+| 4 | [#TLC8](http://twitter.com/search?q=%23TLC8) | N/A |
+| 5 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
 | 6 | [Swords](http://twitter.com/search?q=Swords) | N/A |
 | 7 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 8 | [holy thursday](http://twitter.com/search?q=holy+thursday) | N/A |
-| 9 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 10 | [Lorcan Tucker](http://twitter.com/search?q=Lorcan+Tucker) | N/A |
+| 8 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 9 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 10 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
 | 11 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 12 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 13 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 12 | [lorcan tucker](http://twitter.com/search?q=lorcan+tucker) | N/A |
+| 13 | [seamus power](http://twitter.com/search?q=seamus+power) | N/A |
 | 14 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 15 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 16 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 17 | [Shamrock Rovers](http://twitter.com/search?q=Shamrock+Rovers) | N/A |
-| 18 | [Jane](http://twitter.com/search?q=Jane) | N/A |
-| 19 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
-| 20 | [seamus power](http://twitter.com/search?q=seamus+power) | N/A |
-| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 22 | [Aer Lingus](http://twitter.com/search?q=Aer+Lingus) | N/A |
-| 23 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 24 | [Rory McIlroy](http://twitter.com/search?q=Rory+McIlroy) | N/A |
-| 25 | [gaza](http://twitter.com/search?q=gaza) | N/A |
-| 26 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
-| 27 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 28 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 29 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
-| 30 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
-| 31 | [Oriel Park](http://twitter.com/search?q=Oriel+Park) | N/A |
-| 32 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 33 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 34 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 35 | [Bertie Ahern](http://twitter.com/search?q=Bertie+Ahern) | N/A |
-| 36 | [Great Friday](http://twitter.com/search?q=Great+Friday) | N/A |
-| 37 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 38 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 39 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
-| 40 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 41 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 42 | [Stations of the Cross](http://twitter.com/search?q=Stations+of+the+Cross) | N/A |
-| 43 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
-| 44 | [Molly](http://twitter.com/search?q=Molly) | N/A |
-| 45 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 46 | [Ross Lahive](http://twitter.com/search?q=Ross+Lahive) | N/A |
-| 47 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 48 | [mctominay](http://twitter.com/search?q=mctominay) | N/A |
+| 15 | [Great Friday](http://twitter.com/search?q=Great+Friday) | N/A |
+| 16 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
+| 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 18 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 19 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 20 | [McIlroy](http://twitter.com/search?q=McIlroy) | N/A |
+| 21 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
+| 22 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 23 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 24 | [Aer Lingus](http://twitter.com/search?q=Aer+Lingus) | N/A |
+| 25 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 26 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
+| 27 | [Belfast Agreement](http://twitter.com/search?q=Belfast+Agreement) | N/A |
+| 28 | [mcverry](http://twitter.com/search?q=mcverry) | N/A |
+| 29 | [Ross Lahive](http://twitter.com/search?q=Ross+Lahive) | N/A |
+| 30 | [Stations of the Cross](http://twitter.com/search?q=Stations+of+the+Cross) | N/A |
+| 31 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 32 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 34 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 35 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 36 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 37 | [Oriel Park](http://twitter.com/search?q=Oriel+Park) | N/A |
+| 38 | [Dublin Derby](http://twitter.com/search?q=Dublin+Derby) | N/A |
+| 39 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 40 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 41 | [Island](http://twitter.com/search?q=Island) | N/A |
+| 42 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
+| 43 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 44 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 45 | [Juno Dawson](http://twitter.com/search?q=Juno+Dawson) | N/A |
+| 46 | [dalymount park](http://twitter.com/search?q=dalymount+park) | N/A |
+| 47 | [Tallaght](http://twitter.com/search?q=Tallaght) | N/A |
+| 48 | [Theo](http://twitter.com/search?q=Theo) | N/A |
 
 
 

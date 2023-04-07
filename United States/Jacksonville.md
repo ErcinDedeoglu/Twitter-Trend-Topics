@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-04-07 12:17:45 UTC`
+📆 Last Updated: `2023-04-07 13:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 2 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 4 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
-| 5 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
-| 6 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 1 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 2 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 3 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 4 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 5 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
+| 6 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
 | 7 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
-| 8 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 9 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 10 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 11 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 13 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 14 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 15 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 16 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 17 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 18 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 19 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 20 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 21 | [Old Republic](http://twitter.com/search?q=Old+Republic) | N/A |
-| 22 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
-| 23 | [Saving Women's Sports](http://twitter.com/search?q=Saving+Women%27s+Sports) | N/A |
-| 24 | [Jedi Order](http://twitter.com/search?q=Jedi+Order) | N/A |
-| 25 | [San Francisco State](http://twitter.com/search?q=San+Francisco+State) | N/A |
-| 26 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 27 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
-| 28 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
-| 29 | [Happy Home Opener](http://twitter.com/search?q=Happy+Home+Opener) | N/A |
-| 30 | [Billie Holiday](http://twitter.com/search?q=Billie+Holiday) | N/A |
-| 31 | [Farmer](http://twitter.com/search?q=Farmer) | N/A |
-| 32 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 33 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 34 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 35 | [Lucasfilm](http://twitter.com/search?q=Lucasfilm) | N/A |
-| 36 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 37 | [Jenner](http://twitter.com/search?q=Jenner) | N/A |
-| 38 | [Calvary](http://twitter.com/search?q=Calvary) | N/A |
-| 39 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
-| 40 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 41 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 42 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 43 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
-| 44 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
-| 45 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 46 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 47 | [But He](http://twitter.com/search?q=But+He) | N/A |
-| 48 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 49 | [Billions](http://twitter.com/search?q=Billions) | N/A |
-| 50 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 8 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 9 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 10 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 11 | [Hera](http://twitter.com/search?q=Hera) | N/A |
+| 12 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 14 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
+| 15 | [#IndianaJones](http://twitter.com/search?q=%23IndianaJones) | N/A |
+| 16 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 17 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 18 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
+| 19 | [Jedi Order](http://twitter.com/search?q=Jedi+Order) | N/A |
+| 20 | [Rey Skywalker](http://twitter.com/search?q=Rey+Skywalker) | N/A |
+| 21 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 22 | [Old Republic](http://twitter.com/search?q=Old+Republic) | N/A |
+| 23 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 24 | [Teaser Trailer](http://twitter.com/search?q=Teaser+Trailer) | N/A |
+| 25 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
+| 26 | [Happy Home Opener](http://twitter.com/search?q=Happy+Home+Opener) | N/A |
+| 27 | [Great Friday](http://twitter.com/search?q=Great+Friday) | N/A |
+| 28 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 29 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 30 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 31 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
+| 32 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
+| 33 | [Mandoverse](http://twitter.com/search?q=Mandoverse) | N/A |
+| 34 | [San Francisco State](http://twitter.com/search?q=San+Francisco+State) | N/A |
+| 35 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
+| 36 | [Saving Women's Sports](http://twitter.com/search?q=Saving+Women%27s+Sports) | N/A |
+| 37 | [John Boyega](http://twitter.com/search?q=John+Boyega) | N/A |
+| 38 | [Lucasfilm](http://twitter.com/search?q=Lucasfilm) | N/A |
+| 39 | [Dial of Destiny](http://twitter.com/search?q=Dial+of+Destiny) | N/A |
+| 40 | [Billie Holiday](http://twitter.com/search?q=Billie+Holiday) | N/A |
+| 41 | [TROS](http://twitter.com/search?q=TROS) | N/A |
+| 42 | [Chopper](http://twitter.com/search?q=Chopper) | N/A |
+| 43 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 44 | [Farmer](http://twitter.com/search?q=Farmer) | N/A |
+| 45 | [Ben Solo](http://twitter.com/search?q=Ben+Solo) | N/A |
+| 46 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 47 | [SFSU](http://twitter.com/search?q=SFSU) | N/A |
+| 48 | [Skeleton Crew](http://twitter.com/search?q=Skeleton+Crew) | N/A |
+| 49 | [Calvary](http://twitter.com/search?q=Calvary) | N/A |
+| 50 | [Neil](http://twitter.com/search?q=Neil) | N/A |
 
 
 

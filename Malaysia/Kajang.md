@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kajang
 
-📆 Last Updated: `2023-04-07 12:17:28 UTC`
+📆 Last Updated: `2023-04-07 13:18:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Malaysia](</Malaysia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
-| 2 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
-| 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 2 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 3 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
 | 4 | [#마크가_말아주는_골든아워](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%ea%b0%80_%eb%a7%90%ec%95%84%ec%a3%bc%eb%8a%94_%ea%b3%a8%eb%93%a0%ec%95%84%ec%9b%8c) | N/A |
 | 5 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
 | 6 | [#THEDREAMSHOW2_in_KUALALUMPUR](http://twitter.com/search?q=%23THEDREAMSHOW2_in_KUALALUMPUR) | N/A |
-| 7 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 8 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 9 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
-| 10 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 11 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 12 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 13 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 14 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 7 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
+| 8 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
+| 9 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 10 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
+| 11 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 12 | [MACC](http://twitter.com/search?q=MACC) | N/A |
+| 13 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 14 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
 | 15 | [Super Frank](http://twitter.com/search?q=Super+Frank) | N/A |
-| 16 | [MACC](http://twitter.com/search?q=MACC) | N/A |
-| 17 | [Congratulations LISA](http://twitter.com/search?q=Congratulations+LISA) | N/A |
-| 18 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 19 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 20 | [chatgpt analysis](http://twitter.com/search?q=chatgpt+analysis) | N/A |
-| 21 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 22 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 23 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 24 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 25 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 26 | [kylie](http://twitter.com/search?q=kylie) | N/A |
-| 27 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 29 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
-| 30 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 16 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 17 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 18 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 19 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
+| 20 | [kylie](http://twitter.com/search?q=kylie) | N/A |
+| 21 | [THE WORDS MALAYSIAN CZENNIES](http://twitter.com/search?q=THE+WORDS+MALAYSIAN+CZENNIES) | N/A |
+| 22 | [chatgpt analysis](http://twitter.com/search?q=chatgpt+analysis) | N/A |
+| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 24 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 25 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 26 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 27 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
+| 28 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 29 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
+| 30 | [kim hye](http://twitter.com/search?q=kim+hye) | N/A |
 | 31 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 32 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 33 | [THE WORDS MALAYSIAN CZENNIES](http://twitter.com/search?q=THE+WORDS+MALAYSIAN+CZENNIES) | N/A |
-| 34 | [Youngjae](http://twitter.com/search?q=Youngjae) | N/A |
-| 35 | [InshaAllah](http://twitter.com/search?q=InshaAllah) | N/A |
-| 36 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 37 | [Kim hye](http://twitter.com/search?q=Kim+hye) | N/A |
-| 38 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 39 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 40 | [taeil](http://twitter.com/search?q=taeil) | N/A |
-| 41 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 42 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
-| 43 | [my go](http://twitter.com/search?q=my+go) | N/A |
-| 44 | [Nazlan](http://twitter.com/search?q=Nazlan) | N/A |
-| 45 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 46 | [Meow](http://twitter.com/search?q=Meow) | N/A |
-| 47 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
-| 48 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 49 | [Wise](http://twitter.com/search?q=Wise) | N/A |
-| 50 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
+| 32 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 33 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 34 | [Nazlan](http://twitter.com/search?q=Nazlan) | N/A |
+| 35 | [Wise](http://twitter.com/search?q=Wise) | N/A |
+| 36 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 37 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
+| 38 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 39 | [Frankie](http://twitter.com/search?q=Frankie) | N/A |
+| 40 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
+| 41 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 42 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
+| 43 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 44 | [Yunhyeong](http://twitter.com/search?q=Yunhyeong) | Yunhyeong is a Korean given name, and it means "righteousness" in English. |
+| 45 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 46 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 47 | [naeun](http://twitter.com/search?q=naeun) | N/A |
+| 48 | [UMNO](http://twitter.com/search?q=UMNO) | N/A |
+| 49 | [Thanks for the GA](http://twitter.com/search?q=Thanks+for+the+GA) | N/A |
+| 50 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
 
 
 

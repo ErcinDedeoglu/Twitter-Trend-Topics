@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chiba
 
-📆 Last Updated: `2023-04-07 12:17:24 UTC`
+📆 Last Updated: `2023-04-07 13:18:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#swallows](http://twitter.com/search?q=%23swallows) | N/A |
-| 2 | [#lovefighters](http://twitter.com/search?q=%23lovefighters) | N/A |
-| 3 | [#あなたに1番似合うガンダム](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ab1%e7%95%aa%e4%bc%bc%e5%90%88%e3%81%86%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0) | N/A |
-| 4 | [選挙カー](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%82%ab%e3%83%bc) | N/A |
-| 5 | [消しゴムマジック](http://twitter.com/search?q=%e6%b6%88%e3%81%97%e3%82%b4%e3%83%a0%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af) | N/A |
-| 6 | [#Mステ](http://twitter.com/search?q=%23M%e3%82%b9%e3%83%86) | #Mステ is an abbreviation for Music Station, a popular Japanese music show that has been airing since 1986. It is broadcast on the TV Asahi network and features performances from popular Japanese artists. The show also includes interviews with the artists and other segments. In English, #Mステ translates to Music Station. |
-| 7 | [NANDE](http://twitter.com/search?q=NANDE) | N/A |
-| 8 | [キンプリ](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%83%97%e3%83%aa) | N/A |
-| 9 | [aiko](http://twitter.com/search?q=aiko) | Aiko is a Japanese female given name meaning "beloved child". |
-| 10 | [鍵垢貫通](http://twitter.com/search?q=%e9%8d%b5%e5%9e%a2%e8%b2%ab%e9%80%9a) | N/A |
-| 11 | [BUCK](http://twitter.com/search?q=BUCK) | N/A |
-| 12 | [ジェシー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b7%e3%83%bc) | ジェシー is a Japanese name, and it is usually written in katakana. It is the same as the English name Jessie, and it means "God's gracious gift". |
-| 13 | [ストプリ](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%97%e3%83%aa) | N/A |
-| 14 | [飛鳥ちゃん](http://twitter.com/search?q=%e9%a3%9b%e9%b3%a5%e3%81%a1%e3%82%83%e3%82%93) | 飛鳥ちゃん is a nickname for the Japanese actress Asuka Kudo. It is derived from her given name, which can be translated to "flying bird" in English. |
-| 15 | [コナンくん](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%8f%e3%82%93) | コナンくん is a nickname for the fictional character Conan Edogawa from the manga and anime series Detective Conan. In English, it can be translated to "Conan-kun". |
-| 16 | [サンタナ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%82%bf%e3%83%8a) | サンタナ (Santa Na) is a Japanese pop-rock band formed in 2001. The band's name is derived from the Spanish words "santa" (meaning "saint") and "nana" (meaning "song"). The band's music is a mix of rock, pop, and Latin music. In English, their name translates to "Saint Song". |
-| 17 | [山田哲人](http://twitter.com/search?q=%e5%b1%b1%e7%94%b0%e5%93%b2%e4%ba%ba) | N/A |
-| 18 | [碇ゲンドウ](http://twitter.com/search?q=%e7%a2%87%e3%82%b2%e3%83%b3%e3%83%89%e3%82%a6) | N/A |
-| 19 | [投票テーマ](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e3%83%86%e3%83%bc%e3%83%9e) | N/A |
+| 1 | [宮城くん](http://twitter.com/search?q=%e5%ae%ae%e5%9f%8e%e3%81%8f%e3%82%93) | 宮城くん is a nickname given to people from Miyagi Prefecture in Japan. It is derived from the prefecture's name, which literally translates to "shrine city". In English, it can be translated as "Miyagi-kun". |
+| 2 | [ビーディ](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%87%e3%82%a3) | N/A |
+| 3 | [#乃木坂46](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%8246) | N/A |
+| 4 | [ガラケー](http://twitter.com/search?q=%e3%82%ac%e3%83%a9%e3%82%b1%e3%83%bc) | N/A |
+| 5 | [選挙カー](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%82%ab%e3%83%bc) | N/A |
+| 6 | [#lovefighters](http://twitter.com/search?q=%23lovefighters) | N/A |
+| 7 | [気圧のせい](http://twitter.com/search?q=%e6%b0%97%e5%9c%a7%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
+| 8 | [#Mステ](http://twitter.com/search?q=%23M%e3%82%b9%e3%83%86) | #Mステ is an abbreviation for Music Station, a popular Japanese music show that has been airing since 1986. It is broadcast on the TV Asahi network and features performances from popular Japanese artists. The show also includes interviews with the artists and other segments. In English, #Mステ translates to Music Station. |
+| 9 | [#ハロウィンの花嫁](http://twitter.com/search?q=%23%e3%83%8f%e3%83%ad%e3%82%a6%e3%82%a3%e3%83%b3%e3%81%ae%e8%8a%b1%e5%ab%81) | N/A |
+| 10 | [#知の試練](http://twitter.com/search?q=%23%e7%9f%a5%e3%81%ae%e8%a9%a6%e7%b7%b4) | N/A |
+| 11 | [全国一斉クイズ](http://twitter.com/search?q=%e5%85%a8%e5%9b%bd%e4%b8%80%e6%96%89%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
+| 12 | [BUCK](http://twitter.com/search?q=BUCK) | N/A |
+| 13 | [ゼルダの伝説](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e3%81%ae%e4%bc%9d%e8%aa%ac) | N/A |
+| 14 | [コナンくん](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%8f%e3%82%93) | コナンくん is a nickname for the fictional character Conan Edogawa from the manga and anime series Detective Conan. In English, it can be translated to "Conan-kun". |
+| 15 | [安室さん](http://twitter.com/search?q=%e5%ae%89%e5%ae%a4%e3%81%95%e3%82%93) | N/A |
+| 16 | [NANDE](http://twitter.com/search?q=NANDE) | N/A |
+| 17 | [ワイルド](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%83%ab%e3%83%89) | N/A |
+| 18 | [すわほー](http://twitter.com/search?q=%e3%81%99%e3%82%8f%e3%81%bb%e3%83%bc) | N/A |
+| 19 | [おっちゃん](http://twitter.com/search?q=%e3%81%8a%e3%81%a3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 | 20 | [ぽんちゃん](http://twitter.com/search?q=%e3%81%bd%e3%82%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 21 | [SixTONES最高](http://twitter.com/search?q=SixTONES%e6%9c%80%e9%ab%98) | N/A |
-| 22 | [安室さん](http://twitter.com/search?q=%e5%ae%89%e5%ae%a4%e3%81%95%e3%82%93) | N/A |
-| 23 | [ビーバー](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
-| 24 | [結束バンドの結束バンド](http://twitter.com/search?q=%e7%b5%90%e6%9d%9f%e3%83%90%e3%83%b3%e3%83%89%e3%81%ae%e7%b5%90%e6%9d%9f%e3%83%90%e3%83%b3%e3%83%89) | N/A |
-| 25 | [ターリー](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%83%aa%e3%83%bc) | N/A |
-| 26 | [ライアン](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%82%a2%e3%83%b3) | ライアン is a Japanese given name, derived from the Irish name Ryan. It is usually written in katakana and can be translated to mean "little king" or "illustrious". |
-| 27 | [コナンの映画](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%ae%e6%98%a0%e7%94%bb) | N/A |
-| 28 | [宝塚受験](http://twitter.com/search?q=%e5%ae%9d%e5%a1%9a%e5%8f%97%e9%a8%93) | N/A |
-| 29 | [佐藤刑事](http://twitter.com/search?q=%e4%bd%90%e8%97%a4%e5%88%91%e4%ba%8b) | N/A |
-| 30 | [けいかちゃん](http://twitter.com/search?q=%e3%81%91%e3%81%84%e3%81%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 31 | [紫耀くん](http://twitter.com/search?q=%e7%b4%ab%e8%80%80%e3%81%8f%e3%82%93) | 紫耀くん is a character from the Japanese manga series, "Kuroko's Basketball". His real name is Aomine Daiki and he is known for his powerful and aggressive style of play. In English, his name translates to "Purple Glare". |
-| 32 | [海ちゃん](http://twitter.com/search?q=%e6%b5%b7%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 33 | [青柳さん](http://twitter.com/search?q=%e9%9d%92%e6%9f%b3%e3%81%95%e3%82%93) | N/A |
-| 34 | [あっちゃん](http://twitter.com/search?q=%e3%81%82%e3%81%a3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 35 | [TOP4](http://twitter.com/search?q=TOP4) | TOP4 is an acronym that stands for the top four teams in a particular competition or tournament. It is used to refer to the four teams that have achieved the highest ranking in a given event. |
-| 36 | [哀ちゃん](http://twitter.com/search?q=%e5%93%80%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 37 | [比嘉さん](http://twitter.com/search?q=%e6%af%94%e5%98%89%e3%81%95%e3%82%93) | N/A |
-| 38 | [ハロ嫁待機](http://twitter.com/search?q=%e3%83%8f%e3%83%ad%e5%ab%81%e5%be%85%e6%a9%9f) | N/A |
-| 39 | [サークル貫通](http://twitter.com/search?q=%e3%82%b5%e3%83%bc%e3%82%af%e3%83%ab%e8%b2%ab%e9%80%9a) | N/A |
-| 40 | [ジンペイ](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%83%9a%e3%82%a4) | N/A |
-| 41 | [ハロ嫁リアタイ](http://twitter.com/search?q=%e3%83%8f%e3%83%ad%e5%ab%81%e3%83%aa%e3%82%a2%e3%82%bf%e3%82%a4) | N/A |
-| 42 | [ビーディ](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%87%e3%82%a3) | N/A |
-| 43 | [高木刑事](http://twitter.com/search?q=%e9%ab%98%e6%9c%a8%e5%88%91%e4%ba%8b) | N/A |
-| 44 | [宮城くん](http://twitter.com/search?q=%e5%ae%ae%e5%9f%8e%e3%81%8f%e3%82%93) | 宮城くん is a nickname given to people from Miyagi Prefecture in Japan. It is derived from the prefecture's name, which literally translates to "shrine city". In English, it can be translated as "Miyagi-kun". |
-| 45 | [乃木坂ちゃん](http://twitter.com/search?q=%e4%b9%83%e6%9c%a8%e5%9d%82%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 46 | [長尾くん](http://twitter.com/search?q=%e9%95%b7%e5%b0%be%e3%81%8f%e3%82%93) | 長尾くん (Nagao-kun) is a Japanese manga series written and illustrated by Takashi Fukutani. It follows the story of Nagao, a high school student who is struggling to find his place in the world. The title of the series is a play on words, as "nagao" can mean both "long tail" and "long life". In English, it could be translated as "Long Tail Boy". |
-| 47 | [め組のひと](http://twitter.com/search?q=%e3%82%81%e7%b5%84%e3%81%ae%e3%81%b2%e3%81%a8) | N/A |
-| 48 | [モブおじアクスタ](http://twitter.com/search?q=%e3%83%a2%e3%83%96%e3%81%8a%e3%81%98%e3%82%a2%e3%82%af%e3%82%b9%e3%82%bf) | N/A |
-| 49 | [ビーズリー](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%82%ba%e3%83%aa%e3%83%bc) | N/A |
+| 21 | [ストプリ](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%97%e3%83%aa) | N/A |
+| 22 | [風見さん](http://twitter.com/search?q=%e9%a2%a8%e8%a6%8b%e3%81%95%e3%82%93) | N/A |
+| 23 | [ロシア語](http://twitter.com/search?q=%e3%83%ad%e3%82%b7%e3%82%a2%e8%aa%9e) | N/A |
+| 24 | [高木刑事](http://twitter.com/search?q=%e9%ab%98%e6%9c%a8%e5%88%91%e4%ba%8b) | N/A |
+| 25 | [柴犬とドーベルマン](http://twitter.com/search?q=%e6%9f%b4%e7%8a%ac%e3%81%a8%e3%83%89%e3%83%bc%e3%83%99%e3%83%ab%e3%83%9e%e3%83%b3) | N/A |
+| 26 | [キンプリ](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%83%97%e3%83%aa) | N/A |
+| 27 | [シーンカット](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%83%b3%e3%82%ab%e3%83%83%e3%83%88) | シーンカット is a Japanese term used to describe a transition between two scenes in a movie or television show. It is the equivalent of the English term "scene cut" and is used to indicate when the camera switches from one scene to another. |
+| 28 | [佐藤刑事](http://twitter.com/search?q=%e4%bd%90%e8%97%a4%e5%88%91%e4%ba%8b) | N/A |
+| 29 | [降谷さん](http://twitter.com/search?q=%e9%99%8d%e8%b0%b7%e3%81%95%e3%82%93) | N/A |
+| 30 | [警察学校組](http://twitter.com/search?q=%e8%ad%a6%e5%af%9f%e5%ad%a6%e6%a0%a1%e7%b5%84) | 警察学校組 (Keisatsugakkō-gumi) is a Japanese term that refers to a group of police officers who have graduated from the same police academy. The literal translation of the term is "Police Academy Group". |
+| 31 | [ジェシー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b7%e3%83%bc) | ジェシー is a Japanese name, and it is usually written in katakana. It is the same as the English name Jessie, and it means "God's gracious gift". |
+| 32 | [白鳥警部](http://twitter.com/search?q=%e7%99%bd%e9%b3%a5%e8%ad%a6%e9%83%a8) | N/A |
+| 33 | [指パッチン](http://twitter.com/search?q=%e6%8c%87%e3%83%91%e3%83%83%e3%83%81%e3%83%b3) | N/A |
+| 34 | [こいほー](http://twitter.com/search?q=%e3%81%93%e3%81%84%e3%81%bb%e3%83%bc) | N/A |
+| 35 | [コナンの映画](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%ae%e6%98%a0%e7%94%bb) | N/A |
+| 36 | [松田刑事](http://twitter.com/search?q=%e6%9d%be%e7%94%b0%e5%88%91%e4%ba%8b) | N/A |
+| 37 | [哀ちゃん](http://twitter.com/search?q=%e5%93%80%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 38 | [鍵垢貫通](http://twitter.com/search?q=%e9%8d%b5%e5%9e%a2%e8%b2%ab%e9%80%9a) | N/A |
+| 39 | [ビーズリー](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%82%ba%e3%83%aa%e3%83%bc) | N/A |
+| 40 | [松田さん](http://twitter.com/search?q=%e6%9d%be%e7%94%b0%e3%81%95%e3%82%93) | N/A |
+| 41 | [aiko](http://twitter.com/search?q=aiko) | Aiko is a Japanese female given name meaning "beloved child". |
+| 42 | [マツケンサンバさん](http://twitter.com/search?q=%e3%83%9e%e3%83%84%e3%82%b1%e3%83%b3%e3%82%b5%e3%83%b3%e3%83%90%e3%81%95%e3%82%93) | N/A |
+| 43 | [マフティー](http://twitter.com/search?q=%e3%83%9e%e3%83%95%e3%83%86%e3%82%a3%e3%83%bc) | マフティー (Mafutii) is a type of Japanese snack food made from wheat flour, sugar, and vegetable oil. It is similar to a cookie or biscuit, but has a softer texture. The name comes from the Japanese words "mafu" (まふ) meaning "soft" and "tei" (てい) meaning "cake". In English, it can be translated as "soft cake". |
+| 44 | [コナン君](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e5%90%9b) | N/A |
+| 45 | [松田陣平](http://twitter.com/search?q=%e6%9d%be%e7%94%b0%e9%99%a3%e5%b9%b3) | N/A |
+| 46 | [櫻井さん](http://twitter.com/search?q=%e6%ab%bb%e4%ba%95%e3%81%95%e3%82%93) | 櫻井さん is a Japanese honorific used to refer to someone with the surname Sakurai. It is similar to the English honorific "Mr. Sakurai". |
+| 47 | [千葉刑事](http://twitter.com/search?q=%e5%8d%83%e8%91%89%e5%88%91%e4%ba%8b) | N/A |
+| 48 | [ノーカット](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%ab%e3%83%83%e3%83%88) | N/A |
+| 49 | [バクチク](http://twitter.com/search?q=%e3%83%90%e3%82%af%e3%83%81%e3%82%af) | N/A |
+| 50 | [フォルテクロスロックマン](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ab%e3%83%86%e3%82%af%e3%83%ad%e3%82%b9%e3%83%ad%e3%83%83%e3%82%af%e3%83%9e%e3%83%b3) | N/A |
 
 
 

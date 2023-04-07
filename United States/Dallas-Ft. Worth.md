@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-04-07 12:17:44 UTC`
+📆 Last Updated: `2023-04-07 13:19:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
+| 1 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
 | 2 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 3 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
-| 4 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
-| 5 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 6 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 7 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
-| 8 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 9 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 12 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 13 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 14 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 15 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 16 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 17 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 18 | [Old Republic](http://twitter.com/search?q=Old+Republic) | N/A |
-| 19 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 20 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
-| 21 | [Jedi Order](http://twitter.com/search?q=Jedi+Order) | N/A |
-| 22 | [San Francisco State](http://twitter.com/search?q=San+Francisco+State) | N/A |
-| 23 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 24 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
-| 25 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
+| 4 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 5 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
+| 6 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 7 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 8 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 9 | [Hera](http://twitter.com/search?q=Hera) | N/A |
+| 10 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 11 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 12 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
+| 13 | [#IndianaJones](http://twitter.com/search?q=%23IndianaJones) | N/A |
+| 14 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 15 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 16 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 17 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
+| 18 | [Jedi Order](http://twitter.com/search?q=Jedi+Order) | N/A |
+| 19 | [Rey Skywalker](http://twitter.com/search?q=Rey+Skywalker) | N/A |
+| 20 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 21 | [Old Republic](http://twitter.com/search?q=Old+Republic) | N/A |
+| 22 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 23 | [Teaser Trailer](http://twitter.com/search?q=Teaser+Trailer) | N/A |
+| 24 | [Dawn of the Jedi](http://twitter.com/search?q=Dawn+of+the+Jedi) | N/A |
+| 25 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
 | 26 | [Happy Home Opener](http://twitter.com/search?q=Happy+Home+Opener) | N/A |
-| 27 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 28 | [Farmer](http://twitter.com/search?q=Farmer) | N/A |
-| 29 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 30 | [Billie Holiday](http://twitter.com/search?q=Billie+Holiday) | N/A |
-| 31 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 32 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 33 | [Jenner](http://twitter.com/search?q=Jenner) | N/A |
-| 34 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
-| 35 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 36 | [Lucasfilm](http://twitter.com/search?q=Lucasfilm) | N/A |
-| 37 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 38 | [Calvary](http://twitter.com/search?q=Calvary) | N/A |
-| 39 | [Tyson](http://twitter.com/search?q=Tyson) | N/A |
-| 40 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 41 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
-| 42 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
-| 43 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 44 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 45 | [But He](http://twitter.com/search?q=But+He) | N/A |
-| 46 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 47 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 48 | [Neil](http://twitter.com/search?q=Neil) | N/A |
-| 49 | [Billions](http://twitter.com/search?q=Billions) | N/A |
-| 50 | [Motley Crue](http://twitter.com/search?q=Motley+Crue) | N/A |
+| 27 | [Great Friday](http://twitter.com/search?q=Great+Friday) | N/A |
+| 28 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 29 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 30 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 31 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
+| 32 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
+| 33 | [Mandoverse](http://twitter.com/search?q=Mandoverse) | N/A |
+| 34 | [San Francisco State](http://twitter.com/search?q=San+Francisco+State) | N/A |
+| 35 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
+| 36 | [Saving Women's Sports](http://twitter.com/search?q=Saving+Women%27s+Sports) | N/A |
+| 37 | [John Boyega](http://twitter.com/search?q=John+Boyega) | N/A |
+| 38 | [Lucasfilm](http://twitter.com/search?q=Lucasfilm) | N/A |
+| 39 | [Dial of Destiny](http://twitter.com/search?q=Dial+of+Destiny) | N/A |
+| 40 | [Billie Holiday](http://twitter.com/search?q=Billie+Holiday) | N/A |
+| 41 | [TROS](http://twitter.com/search?q=TROS) | N/A |
+| 42 | [Chopper](http://twitter.com/search?q=Chopper) | N/A |
+| 43 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 44 | [Farmer](http://twitter.com/search?q=Farmer) | N/A |
+| 45 | [Ben Solo](http://twitter.com/search?q=Ben+Solo) | N/A |
+| 46 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 47 | [Skeleton Crew](http://twitter.com/search?q=Skeleton+Crew) | N/A |
+| 48 | [SFSU](http://twitter.com/search?q=SFSU) | N/A |
+| 49 | [Calvary](http://twitter.com/search?q=Calvary) | N/A |
+| 50 | [Neil](http://twitter.com/search?q=Neil) | N/A |
 
 
 
