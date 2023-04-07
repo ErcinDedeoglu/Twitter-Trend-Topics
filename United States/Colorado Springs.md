@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colorado Springs
 
-📆 Last Updated: `2023-04-07 02:29:17 UTC`
+📆 Last Updated: `2023-04-07 03:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Rockies](http://twitter.com/search?q=%23Rockies) | N/A |
-| 2 | [Coors Field](http://twitter.com/search?q=Coors+Field) | N/A |
-| 3 | [Colorado Springs](http://twitter.com/search?q=Colorado+Springs) | N/A |
-| 4 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 5 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
-| 6 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 7 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
-| 8 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 9 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 10 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 11 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 12 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 13 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 14 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 15 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 16 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 17 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
-| 18 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 19 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 20 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 21 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 22 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 23 | [Ethan Petry](http://twitter.com/search?q=Ethan+Petry) | N/A |
-| 24 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 25 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 26 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 27 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 28 | [New South](http://twitter.com/search?q=New+South) | N/A |
-| 29 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
-| 30 | [Tim Hill](http://twitter.com/search?q=Tim+Hill) | N/A |
-| 31 | [Seamus Casey](http://twitter.com/search?q=Seamus+Casey) | N/A |
-| 32 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
-| 33 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
-| 34 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 35 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
-| 36 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
-| 37 | [kylie jenner](http://twitter.com/search?q=kylie+jenner) | N/A |
-| 38 | [Matt Carpenter](http://twitter.com/search?q=Matt+Carpenter) | N/A |
-| 39 | [Coyle](http://twitter.com/search?q=Coyle) | N/A |
-| 40 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
-| 41 | [Skenes](http://twitter.com/search?q=Skenes) | N/A |
-| 42 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 43 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
-| 44 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 45 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 46 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 47 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 48 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
-| 49 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 1 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 2 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 3 | [Coors Field](http://twitter.com/search?q=Coors+Field) | N/A |
+| 4 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 5 | [Colorado Springs](http://twitter.com/search?q=Colorado+Springs) | N/A |
+| 6 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 7 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 8 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 9 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
+| 10 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 11 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 12 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 13 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 14 | [#criticalrolespoilers](http://twitter.com/search?q=%23criticalrolespoilers) | N/A |
+| 15 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 16 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 17 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
+| 18 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 19 | [#JeremyRenner](http://twitter.com/search?q=%23JeremyRenner) | N/A |
+| 20 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 21 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 22 | [#Isles](http://twitter.com/search?q=%23Isles) | N/A |
+| 23 | [Crismatt](http://twitter.com/search?q=Crismatt) | N/A |
+| 24 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 25 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 26 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 27 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 28 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 29 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 30 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 31 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 32 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
+| 33 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 34 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
+| 35 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 36 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 37 | [New South](http://twitter.com/search?q=New+South) | N/A |
+| 38 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 39 | [Petry](http://twitter.com/search?q=Petry) | N/A |
+| 40 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 41 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
+| 42 | [Tim Hill](http://twitter.com/search?q=Tim+Hill) | N/A |
+| 43 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
+| 44 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 45 | [Bobcats](http://twitter.com/search?q=Bobcats) | N/A |
+| 46 | [Blue Coats](http://twitter.com/search?q=Blue+Coats) | N/A |
+| 47 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
+| 48 | [FRIDA](http://twitter.com/search?q=FRIDA) | N/A |
+| 49 | [MacEwen](http://twitter.com/search?q=MacEwen) | N/A |
 
 
 

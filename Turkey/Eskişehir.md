@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-04-07 02:29:14 UTC`
+📆 Last Updated: `2023-04-07 03:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,45 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Gazze](http://twitter.com/search?q=%23Gazze) | N/A |
-| 2 | [#HayırlıCumalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Cumalar) | #HayırlıCumalar is a Turkish phrase that translates to "Good Fridays" in English. It is typically used as a greeting or blessing on Fridays, wishing someone a good and blessed day. |
-| 3 | [#FilistindeZulümVar](http://twitter.com/search?q=%23FilistindeZul%c3%bcmVar) | N/A |
-| 4 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 5 | [GİDİCİSİN KEMAL](http://twitter.com/search?q=G%c4%b0D%c4%b0C%c4%b0S%c4%b0N+KEMAL) | N/A |
-| 6 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 7 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 8 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
-| 9 | [Osmaniye](http://twitter.com/search?q=Osmaniye) | N/A |
-| 10 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
-| 11 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
-| 12 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
-| 13 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
-| 14 | [Serdar Dursun](http://twitter.com/search?q=Serdar+Dursun) | N/A |
-| 15 | [Burası Fenerbahçe](http://twitter.com/search?q=Buras%c4%b1+Fenerbah%c3%a7e) | N/A |
-| 16 | [Yozgat](http://twitter.com/search?q=Yozgat) | N/A |
-| 17 | [SözümüzSöz OyumuzAffa](http://twitter.com/search?q=S%c3%b6z%c3%bcm%c3%bczS%c3%b6z+OyumuzAffa) | N/A |
-| 18 | [İkizler](http://twitter.com/search?q=%c4%b0kizler) | N/A |
-| 19 | [SON DAKİKA](http://twitter.com/search?q=SON+DAK%c4%b0KA) | SON Dakika is a Turkish phrase that translates to "last minute" in English. It is used to refer to news or events that have just happened or are happening at the last minute. |
-| 20 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
-| 21 | [Olcay](http://twitter.com/search?q=Olcay) | N/A |
-| 22 | [Bilge Yılmaz](http://twitter.com/search?q=Bilge+Y%c4%b1lmaz) | N/A |
-| 23 | [Ergin](http://twitter.com/search?q=Ergin) | N/A |
+| 2 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 3 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 4 | [#FilistindeZulümVar](http://twitter.com/search?q=%23FilistindeZul%c3%bcmVar) | N/A |
+| 5 | [#Lübnan](http://twitter.com/search?q=%23L%c3%bcbnan) | N/A |
+| 6 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
+| 7 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
+| 8 | [GİDİCİSİN KEMAL](http://twitter.com/search?q=G%c4%b0D%c4%b0C%c4%b0S%c4%b0N+KEMAL) | N/A |
+| 9 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
+| 10 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
+| 11 | [Doğu Türkistan](http://twitter.com/search?q=Do%c4%9fu+T%c3%bcrkistan) | N/A |
+| 12 | [Ey Rabbimiz](http://twitter.com/search?q=Ey+Rabbimiz) | N/A |
+| 13 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
+| 14 | [Ya Rab](http://twitter.com/search?q=Ya+Rab) | N/A |
+| 15 | [Yozgat](http://twitter.com/search?q=Yozgat) | N/A |
+| 16 | [Olcay Kılavuz](http://twitter.com/search?q=Olcay+K%c4%b1lavuz) | N/A |
+| 17 | [Osmaniye](http://twitter.com/search?q=Osmaniye) | N/A |
+| 18 | [Yahudi](http://twitter.com/search?q=Yahudi) | N/A |
+| 19 | [Burası Fenerbahçe](http://twitter.com/search?q=Buras%c4%b1+Fenerbah%c3%a7e) | N/A |
+| 20 | [SözümüzSöz OyumuzAffa](http://twitter.com/search?q=S%c3%b6z%c3%bcm%c3%bczS%c3%b6z+OyumuzAffa) | N/A |
+| 21 | [İkizler](http://twitter.com/search?q=%c4%b0kizler) | N/A |
+| 22 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 23 | [Kızılaya](http://twitter.com/search?q=K%c4%b1z%c4%b1laya) | N/A |
 | 24 | [Taraftar](http://twitter.com/search?q=Taraftar) | N/A |
-| 25 | [MEMURA ACİL ZAM](http://twitter.com/search?q=MEMURA+AC%c4%b0L+ZAM) | N/A |
-| 26 | [Efes](http://twitter.com/search?q=Efes) | N/A |
-| 27 | [Ya Rab](http://twitter.com/search?q=Ya+Rab) | N/A |
+| 25 | [Fenerbahçe Spor Kulübü](http://twitter.com/search?q=Fenerbah%c3%a7e+Spor+Kul%c3%bcb%c3%bc) | N/A |
+| 26 | [Ergin](http://twitter.com/search?q=Ergin) | N/A |
+| 27 | [Efes](http://twitter.com/search?q=Efes) | N/A |
 | 28 | [Mardin](http://twitter.com/search?q=Mardin) | N/A |
-| 29 | [Özgür Özel](http://twitter.com/search?q=%c3%96zg%c3%bcr+%c3%96zel) | Özgür Özel is a Turkish name meaning "free and special." It is a combination of the Turkish words "özgür," meaning free, and "özel," meaning special. |
-| 30 | [Hayri](http://twitter.com/search?q=Hayri) | N/A |
-| 31 | [Çağdaş](http://twitter.com/search?q=%c3%87a%c4%9fda%c5%9f) | N/A |
-| 32 | [Süreyya](http://twitter.com/search?q=S%c3%bcreyya) | N/A |
-| 33 | [#Lübnan](http://twitter.com/search?q=%23L%c3%bcbnan) | N/A |
-| 34 | [#TekDavamStaj](http://twitter.com/search?q=%23TekDavamStaj) | N/A |
-| 35 | [#Palestine](http://twitter.com/search?q=%23Palestine) | N/A |
-| 36 | [#KudusBizimdir](http://twitter.com/search?q=%23KudusBizimdir) | N/A |
-| 37 | [#CamdakiKız](http://twitter.com/search?q=%23CamdakiK%c4%b1z) | N/A |
-| 38 | [#survivor2023](http://twitter.com/search?q=%23survivor2023) | N/A |
-| 39 | [#MemurunGozuMecliste](http://twitter.com/search?q=%23MemurunGozuMecliste) | N/A |
-| 40 | [#eupwr](http://twitter.com/search?q=%23eupwr) | N/A |
-| 41 | [#YüzYıllıkMucize](http://twitter.com/search?q=%23Y%c3%bczY%c4%b1ll%c4%b1kMucize) | N/A |
-| 42 | [#milletvekili](http://twitter.com/search?q=%23milletvekili) | N/A |
-| 43 | [#KHKlıAdaylarMeclise](http://twitter.com/search?q=%23KHKl%c4%b1AdaylarMeclise) | N/A |
-| 44 | [#taksim](http://twitter.com/search?q=%23taksim) | N/A |
-| 45 | [#DolarTL](http://twitter.com/search?q=%23DolarTL) | N/A |
-| 46 | [#Gülcemal](http://twitter.com/search?q=%23G%c3%bclcemal) | N/A |
+| 29 | [Serdar Dursun](http://twitter.com/search?q=Serdar+Dursun) | N/A |
+| 30 | [#Kudüs](http://twitter.com/search?q=%23Kud%c3%bcs) | N/A |
+| 31 | [#TekDavamStaj](http://twitter.com/search?q=%23TekDavamStaj) | N/A |
+| 32 | [#Palestine](http://twitter.com/search?q=%23Palestine) | N/A |
+| 33 | [#kuduesislamındır](http://twitter.com/search?q=%23kuduesislam%c4%b1nd%c4%b1r) | N/A |
+| 34 | [#milletvekili](http://twitter.com/search?q=%23milletvekili) | N/A |
+| 35 | [#MemurunGozuMecliste](http://twitter.com/search?q=%23MemurunGozuMecliste) | N/A |
+| 36 | [#mescidiaksayasahipcik](http://twitter.com/search?q=%23mescidiaksayasahipcik) | N/A |
+| 37 | [#yüzyıllıkmucize](http://twitter.com/search?q=%23y%c3%bczy%c4%b1ll%c4%b1kmucize) | N/A |
+| 38 | [#eupwr](http://twitter.com/search?q=%23eupwr) | N/A |
+| 39 | [#KudueseSahipCık](http://twitter.com/search?q=%23KudueseSahipC%c4%b1k) | N/A |
+| 40 | [#CamdakiKız](http://twitter.com/search?q=%23CamdakiK%c4%b1z) | N/A |
 
 
 

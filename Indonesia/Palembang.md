@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-04-07 02:28:53 UTC`
+📆 Last Updated: `2023-04-07 03:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,48 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 4 | [#BigRamadanSaleShopee](http://twitter.com/search?q=%23BigRamadanSaleShopee) | N/A |
 | 5 | [#wafatisaalmasih](http://twitter.com/search?q=%23wafatisaalmasih) | N/A |
 | 6 | [#KobeBumbuAdukNasiUduk](http://twitter.com/search?q=%23KobeBumbuAdukNasiUduk) | N/A |
-| 7 | [HARI TERAKHIR PROMO PUNCAK](http://twitter.com/search?q=HARI+TERAKHIR+PROMO+PUNCAK) | N/A |
-| 8 | [Produk Viral](http://twitter.com/search?q=Produk+Viral) | N/A |
-| 9 | [#PedeItuPenting](http://twitter.com/search?q=%23PedeItuPenting) | N/A |
-| 10 | [Tabungan BRI Simpedes](http://twitter.com/search?q=Tabungan+BRI+Simpedes) | N/A |
-| 11 | [Pilihan Zillennial Jateng](http://twitter.com/search?q=Pilihan+Zillennial+Jateng) | N/A |
-| 12 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
+| 7 | [Produk Viral](http://twitter.com/search?q=Produk+Viral) | N/A |
+| 8 | [HARI TERAKHIR PROMO PUNCAK](http://twitter.com/search?q=HARI+TERAKHIR+PROMO+PUNCAK) | N/A |
+| 9 | [Tabungan BRI Simpedes](http://twitter.com/search?q=Tabungan+BRI+Simpedes) | N/A |
+| 10 | [Pilihan Zillennial Jateng](http://twitter.com/search?q=Pilihan+Zillennial+Jateng) | N/A |
+| 11 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
+| 12 | [Na PD](http://twitter.com/search?q=Na+PD) | N/A |
 | 13 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 14 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 15 | [bersama lebih bermakna](http://twitter.com/search?q=bersama+lebih+bermakna) | N/A |
-| 16 | [Dibonceng](http://twitter.com/search?q=Dibonceng) | N/A |
-| 17 | [Na PD](http://twitter.com/search?q=Na+PD) | N/A |
-| 18 | [Kamis Putih](http://twitter.com/search?q=Kamis+Putih) | N/A |
-| 19 | [Baeksang](http://twitter.com/search?q=Baeksang) | N/A |
-| 20 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 21 | [Yesus Kristus](http://twitter.com/search?q=Yesus+Kristus) | N/A |
-| 22 | [Yesus Kristus](http://twitter.com/search?q=Yesus+Kristus) | N/A |
-| 23 | [Jangan Lupa Dakwah](http://twitter.com/search?q=Jangan+Lupa+Dakwah) | N/A |
-| 24 | [repose meadows](http://twitter.com/search?q=repose+meadows) | N/A |
-| 25 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 14 | [bersama lebih bermakna](http://twitter.com/search?q=bersama+lebih+bermakna) | N/A |
+| 15 | [Baeksang](http://twitter.com/search?q=Baeksang) | N/A |
+| 16 | [Kamis Putih](http://twitter.com/search?q=Kamis+Putih) | N/A |
+| 17 | [Dibonceng](http://twitter.com/search?q=Dibonceng) | N/A |
+| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 19 | [Yesus Kristus](http://twitter.com/search?q=Yesus+Kristus) | N/A |
+| 20 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 21 | [PEOPLE PT2 IS COMING](http://twitter.com/search?q=PEOPLE+PT2+IS+COMING) | N/A |
+| 22 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 23 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 24 | [majukan terus indonesia](http://twitter.com/search?q=majukan+terus+indonesia) | N/A |
+| 25 | [semangat persatuan prabowo](http://twitter.com/search?q=semangat+persatuan+prabowo) | N/A |
 | 26 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 27 | [bagaimana 4](http://twitter.com/search?q=bagaimana+4) | N/A |
-| 28 | [PEOPLE PT2 IS COMING](http://twitter.com/search?q=PEOPLE+PT2+IS+COMING) | N/A |
-| 29 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 30 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 31 | [EXO 11th Anniversary](http://twitter.com/search?q=EXO+11th+Anniversary) | N/A |
-| 32 | [semangat persatuan prabowo](http://twitter.com/search?q=semangat+persatuan+prabowo) | N/A |
-| 33 | [majukan terus indonesia](http://twitter.com/search?q=majukan+terus+indonesia) | N/A |
-| 34 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 35 | [Our Blues](http://twitter.com/search?q=Our+Blues) | N/A |
-| 36 | [PEOPLE PT 2 FT IU](http://twitter.com/search?q=PEOPLE+PT+2+FT+IU) | N/A |
-| 37 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 38 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
-| 39 | [BEAUTY MYSTERY BOX](http://twitter.com/search?q=BEAUTY+MYSTERY+BOX) | N/A |
-| 40 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 41 | [AGUST D X IU IS COMING](http://twitter.com/search?q=AGUST+D+X+IU+IS+COMING) | N/A |
-| 42 | [Mini Camp](http://twitter.com/search?q=Mini+Camp) | N/A |
-| 43 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 44 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
-| 45 | [Madame Gie](http://twitter.com/search?q=Madame+Gie) | N/A |
-| 46 | [KEJUTAN PRODUK GRATIS](http://twitter.com/search?q=KEJUTAN+PRODUK+GRATIS) | N/A |
-| 47 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 48 | [SPRING PRINCE SIWON DAY](http://twitter.com/search?q=SPRING+PRINCE+SIWON+DAY) | N/A |
-| 49 | [Welkin x2](http://twitter.com/search?q=Welkin+x2) | N/A |
-| 50 | [Laneige](http://twitter.com/search?q=Laneige) | N/A |
+| 27 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
+| 28 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 29 | [EXO 11th Anniversary](http://twitter.com/search?q=EXO+11th+Anniversary) | N/A |
+| 30 | [Repose Meadows](http://twitter.com/search?q=Repose+Meadows) | N/A |
+| 31 | [Bagaimana 4](http://twitter.com/search?q=Bagaimana+4) | N/A |
+| 32 | [Jangan Lupa Dakwah](http://twitter.com/search?q=Jangan+Lupa+Dakwah) | N/A |
+| 33 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 34 | [kylie](http://twitter.com/search?q=kylie) | N/A |
+| 35 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
+| 36 | [Libur](http://twitter.com/search?q=Libur) | N/A |
+| 37 | [Hari Kesehatan Sedunia](http://twitter.com/search?q=Hari+Kesehatan+Sedunia) | N/A |
+| 38 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
+| 39 | [Mini Camp](http://twitter.com/search?q=Mini+Camp) | N/A |
+| 40 | [BEAUTY MYSTERY BOX](http://twitter.com/search?q=BEAUTY+MYSTERY+BOX) | N/A |
+| 41 | [Lee Sung Min](http://twitter.com/search?q=Lee+Sung+Min) | N/A |
+| 42 | [Our Blues](http://twitter.com/search?q=Our+Blues) | N/A |
+| 43 | [PEOPLE PT 2 FT IU](http://twitter.com/search?q=PEOPLE+PT+2+FT+IU) | N/A |
+| 44 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 45 | [KEJUTAN PRODUK GRATIS](http://twitter.com/search?q=KEJUTAN+PRODUK+GRATIS) | N/A |
+| 46 | [Little Women](http://twitter.com/search?q=Little+Women) | N/A |
+| 47 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
+| 48 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
 
 
 

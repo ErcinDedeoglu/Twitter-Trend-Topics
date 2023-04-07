@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Orleans
 
-📆 Last Updated: `2023-04-07 02:29:20 UTC`
+📆 Last Updated: `2023-04-07 03:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 2 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 3 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
-| 4 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 5 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
-| 6 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 7 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 8 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 9 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 10 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 11 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 12 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 13 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 14 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 15 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 16 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
-| 17 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 18 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 19 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 20 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 21 | [Ethan Petry](http://twitter.com/search?q=Ethan+Petry) | N/A |
-| 22 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 23 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 24 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 25 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 26 | [New South](http://twitter.com/search?q=New+South) | N/A |
-| 27 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
-| 28 | [Tim Hill](http://twitter.com/search?q=Tim+Hill) | N/A |
-| 29 | [Seamus Casey](http://twitter.com/search?q=Seamus+Casey) | N/A |
-| 30 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
-| 31 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
-| 32 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 33 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
-| 34 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
-| 35 | [kylie jenner](http://twitter.com/search?q=kylie+jenner) | N/A |
-| 36 | [Matt Carpenter](http://twitter.com/search?q=Matt+Carpenter) | N/A |
-| 37 | [Coyle](http://twitter.com/search?q=Coyle) | N/A |
-| 38 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
-| 39 | [Skenes](http://twitter.com/search?q=Skenes) | N/A |
-| 40 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 41 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
-| 42 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 43 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 44 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
-| 45 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 46 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 47 | [Jeff Carter](http://twitter.com/search?q=Jeff+Carter) | N/A |
-| 48 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 49 | [Adam Fantilli](http://twitter.com/search?q=Adam+Fantilli) | N/A |
+| 1 | [Skenes](http://twitter.com/search?q=Skenes) | N/A |
+| 2 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 3 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 4 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 5 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 6 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 7 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
+| 8 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 9 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 10 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 11 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 12 | [#criticalrolespoilers](http://twitter.com/search?q=%23criticalrolespoilers) | N/A |
+| 13 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 14 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 15 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
+| 16 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 17 | [#JeremyRenner](http://twitter.com/search?q=%23JeremyRenner) | N/A |
+| 18 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 19 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 20 | [Crismatt](http://twitter.com/search?q=Crismatt) | N/A |
+| 21 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 22 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 23 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 24 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 25 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 26 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 27 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
+| 28 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 29 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 30 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 31 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
+| 32 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 33 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 34 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 35 | [New South](http://twitter.com/search?q=New+South) | N/A |
+| 36 | [Petry](http://twitter.com/search?q=Petry) | N/A |
+| 37 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 38 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
+| 39 | [Tim Hill](http://twitter.com/search?q=Tim+Hill) | N/A |
+| 40 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
+| 41 | [Bobcats](http://twitter.com/search?q=Bobcats) | N/A |
+| 42 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 43 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
+| 44 | [Blue Coats](http://twitter.com/search?q=Blue+Coats) | N/A |
+| 45 | [FRIDA](http://twitter.com/search?q=FRIDA) | N/A |
+| 46 | [MacEwen](http://twitter.com/search?q=MacEwen) | N/A |
+| 47 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
+| 48 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 49 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
 
 
 

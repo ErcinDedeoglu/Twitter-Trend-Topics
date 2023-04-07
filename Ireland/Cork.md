@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-04-07 02:28:43 UTC`
+📆 Last Updated: `2023-04-07 03:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Ireland](</Ireland>)
 | 2 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 4 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 5 | [Swords](http://twitter.com/search?q=Swords) | N/A |
-| 6 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
-| 7 | [#MUNBRE](http://twitter.com/search?q=%23MUNBRE) | N/A |
-| 8 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 5 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 6 | [Swords](http://twitter.com/search?q=Swords) | N/A |
+| 7 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 8 | [Nora](http://twitter.com/search?q=Nora) | N/A |
 | 9 | [#DBFreebie](http://twitter.com/search?q=%23DBFreebie) | N/A |
-| 10 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 11 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 12 | [McIlroy](http://twitter.com/search?q=McIlroy) | N/A |
-| 13 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 14 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 15 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
-| 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 17 | [Lorcan Tucker](http://twitter.com/search?q=Lorcan+Tucker) | N/A |
-| 18 | [seamus power](http://twitter.com/search?q=seamus+power) | N/A |
-| 19 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 20 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 21 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 22 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 23 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 24 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 25 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 26 | [Aer lingus](http://twitter.com/search?q=Aer+lingus) | N/A |
-| 27 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
-| 28 | [Citizens](http://twitter.com/search?q=Citizens) | N/A |
-| 29 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
-| 30 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 31 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 32 | [mcverry](http://twitter.com/search?q=mcverry) | N/A |
-| 33 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 35 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 36 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 37 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 38 | [Shane Lowry](http://twitter.com/search?q=Shane+Lowry) | N/A |
-| 39 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 40 | [Arabs](http://twitter.com/search?q=Arabs) | N/A |
-| 41 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 42 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 43 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
-| 44 | [Hang](http://twitter.com/search?q=Hang) | N/A |
-| 45 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
-| 46 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 47 | [Mosque](http://twitter.com/search?q=Mosque) | N/A |
-| 48 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 10 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 11 | [#teamcallaway](http://twitter.com/search?q=%23teamcallaway) | N/A |
+| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 13 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 14 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 15 | [McIlroy](http://twitter.com/search?q=McIlroy) | N/A |
+| 16 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 17 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 18 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 19 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 20 | [Lorcan Tucker](http://twitter.com/search?q=Lorcan+Tucker) | N/A |
+| 21 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 22 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 23 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 24 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
+| 25 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 26 | [seamus power](http://twitter.com/search?q=seamus+power) | N/A |
+| 27 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 28 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 29 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
+| 30 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 31 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 32 | [Aer lingus](http://twitter.com/search?q=Aer+lingus) | N/A |
+| 33 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 34 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
+| 35 | [Killarney](http://twitter.com/search?q=Killarney) | N/A |
+| 36 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 37 | [league of ireland](http://twitter.com/search?q=league+of+ireland) | N/A |
+| 38 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 39 | [Citizens](http://twitter.com/search?q=Citizens) | N/A |
+| 40 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 41 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 42 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 43 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
+| 44 | [Fascists](http://twitter.com/search?q=Fascists) | N/A |
+| 45 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 46 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 47 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 48 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 
 
 

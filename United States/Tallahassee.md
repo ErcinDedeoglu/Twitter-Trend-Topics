@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-04-07 02:29:24 UTC`
+📆 Last Updated: `2023-04-07 03:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 2 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 3 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 4 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 5 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
-| 6 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 7 | [Suggs](http://twitter.com/search?q=Suggs) | Suggs is a nickname for the English singer, songwriter, and musician Graham McPherson, who is best known as the lead singer of the ska/pop band Madness. The name Suggs comes from his childhood nickname, which was given to him by his grandmother. |
-| 8 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 9 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 10 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 11 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 12 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 13 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 14 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
-| 15 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 16 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
-| 17 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 18 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 19 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 20 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 21 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 22 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 23 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 24 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 25 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 26 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 27 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 28 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 29 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 30 | [Ethan Petry](http://twitter.com/search?q=Ethan+Petry) | N/A |
-| 31 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 32 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 33 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 34 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 35 | [New South](http://twitter.com/search?q=New+South) | N/A |
-| 36 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
-| 37 | [Tim Hill](http://twitter.com/search?q=Tim+Hill) | N/A |
-| 38 | [Seamus Casey](http://twitter.com/search?q=Seamus+Casey) | N/A |
-| 39 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
-| 40 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
-| 41 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 42 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
-| 43 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
-| 44 | [kylie jenner](http://twitter.com/search?q=kylie+jenner) | N/A |
-| 45 | [Matt Carpenter](http://twitter.com/search?q=Matt+Carpenter) | N/A |
-| 46 | [Coyle](http://twitter.com/search?q=Coyle) | N/A |
-| 47 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
-| 48 | [Skenes](http://twitter.com/search?q=Skenes) | N/A |
-| 49 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 2 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 3 | [Alex Lyon](http://twitter.com/search?q=Alex+Lyon) | N/A |
+| 4 | [#HEATCulture](http://twitter.com/search?q=%23HEATCulture) | N/A |
+| 5 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
+| 6 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 7 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 8 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 9 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
+| 10 | [Jose](http://twitter.com/search?q=Jose) | N/A |
+| 11 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
+| 12 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 13 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 14 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 15 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 16 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 17 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
+| 18 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 19 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 20 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 21 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 22 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 23 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 24 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 25 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 26 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 27 | [Crismatt](http://twitter.com/search?q=Crismatt) | N/A |
+| 28 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 29 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 30 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 31 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 32 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 33 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 34 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
+| 35 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 36 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 37 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 38 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
+| 39 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 40 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 41 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 42 | [New South](http://twitter.com/search?q=New+South) | N/A |
+| 43 | [Petry](http://twitter.com/search?q=Petry) | N/A |
+| 44 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 45 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
+| 46 | [Tim Hill](http://twitter.com/search?q=Tim+Hill) | N/A |
+| 47 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
+| 48 | [Bobcats](http://twitter.com/search?q=Bobcats) | N/A |
+| 49 | [Strider](http://twitter.com/search?q=Strider) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Alexandria
 
-📆 Last Updated: `2023-04-07 02:29:03 UTC`
+📆 Last Updated: `2023-04-07 03:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Egypt](</Egypt>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [شيرين الطحان](http://twitter.com/search?q=%d8%b4%d9%8a%d8%b1%d9%8a%d9%86+%d8%a7%d9%84%d8%b7%d8%ad%d8%a7%d9%86) | N/A |
+| 1 | [#شيرين_الطحان](http://twitter.com/search?q=%23%d8%b4%d9%8a%d8%b1%d9%8a%d9%86_%d8%a7%d9%84%d8%b7%d8%ad%d8%a7%d9%86) | N/A |
 | 2 | [#غزه_تحت_القصف](http://twitter.com/search?q=%23%d8%ba%d8%b2%d9%87_%d8%aa%d8%ad%d8%aa_%d8%a7%d9%84%d9%82%d8%b5%d9%81) | N/A |
 | 3 | [١٦ رمضان](http://twitter.com/search?q=%d9%a1%d9%a6+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 4 | [امير عيد](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%b9%d9%8a%d8%af) | N/A |
-| 5 | [#مصطفي_شعبان](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b7%d9%81%d9%8a_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 6 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
-| 7 | [محمد فؤاد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%81%d8%a4%d8%a7%d8%af) | N/A |
-| 8 | [#عمرو_سعد](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d9%88_%d8%b3%d8%b9%d8%af) | N/A |
-| 9 | [#اطردوا_مرتضي_بره_الزمالك](http://twitter.com/search?q=%23%d8%a7%d8%b7%d8%b1%d8%af%d9%88%d8%a7_%d9%85%d8%b1%d8%aa%d8%b6%d9%8a_%d8%a8%d8%b1%d9%87_%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | N/A |
-| 10 | [#كبير_العيله](http://twitter.com/search?q=%23%d9%83%d8%a8%d9%8a%d8%b1_%d8%a7%d9%84%d8%b9%d9%8a%d9%84%d9%87) | N/A |
-| 11 | [16 رمضان](http://twitter.com/search?q=16+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 12 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 13 | [مرض السرطان](http://twitter.com/search?q=%d9%85%d8%b1%d8%b6+%d8%a7%d9%84%d8%b3%d8%b1%d8%b7%d8%a7%d9%86) | N/A |
-| 14 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
-| 15 | [الجمعه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
-| 16 | [الهرشه السابعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b1%d8%b4%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
+| 5 | [#عمرو_سعد](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d9%88_%d8%b3%d8%b9%d8%af) | N/A |
+| 6 | [#كبير_العيله](http://twitter.com/search?q=%23%d9%83%d8%a8%d9%8a%d8%b1_%d8%a7%d9%84%d8%b9%d9%8a%d9%84%d9%87) | N/A |
+| 7 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 8 | [#مصطفي_شعبان](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b7%d9%81%d9%8a_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 9 | [محمد فؤاد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%81%d8%a4%d8%a7%d8%af) | N/A |
+| 10 | [16 رمضان](http://twitter.com/search?q=16+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 11 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 12 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 13 | [الجمعه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 14 | [مرض السرطان](http://twitter.com/search?q=%d9%85%d8%b1%d8%b6+%d8%a7%d9%84%d8%b3%d8%b1%d8%b7%d8%a7%d9%86) | N/A |
+| 15 | [الحلقه الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
+| 16 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
 | 17 | [الاكل المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%83%d9%84+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
 | 18 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
-| 19 | [الحلقه الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
-| 20 | [الفتره الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%aa%d8%b1%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
-| 21 | [احمد بدير](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d8%af%d9%8a%d8%b1) | N/A |
-| 22 | [ماجد الكدواني](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d8%a7%d9%84%d9%83%d8%af%d9%88%d8%a7%d9%86%d9%8a) | N/A |
-| 23 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 24 | [ثالث جمعه](http://twitter.com/search?q=%d8%ab%d8%a7%d9%84%d8%ab+%d8%ac%d9%85%d8%b9%d9%87) | N/A |
-| 25 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
-| 26 | [كاس مصر](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%85%d8%b5%d8%b1) | N/A |
-| 27 | [الشوط الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 28 | [الفنانة](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%86%d8%a7%d9%86%d8%a9) | N/A |
-| 29 | [اجانب](http://twitter.com/search?q=%d8%a7%d8%ac%d8%a7%d9%86%d8%a8) | N/A |
-| 30 | [دوري السوبر](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1) | N/A |
-| 31 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 32 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
+| 19 | [الهرشه السابعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b1%d8%b4%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
+| 20 | [اجانب](http://twitter.com/search?q=%d8%a7%d8%ac%d8%a7%d9%86%d8%a8) | N/A |
+| 21 | [ماجد الكدواني](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d8%a7%d9%84%d9%83%d8%af%d9%88%d8%a7%d9%86%d9%8a) | N/A |
+| 22 | [احمد بدير](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d8%af%d9%8a%d8%b1) | N/A |
+| 23 | [كاس مصر](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%85%d8%b5%d8%b1) | N/A |
+| 24 | [الفنانة](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%86%d8%a7%d9%86%d8%a9) | N/A |
+| 25 | [ثالث جمعه](http://twitter.com/search?q=%d8%ab%d8%a7%d9%84%d8%ab+%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 26 | [دوري السوبر](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1) | N/A |
+| 27 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 28 | [سبورتنج](http://twitter.com/search?q=%d8%b3%d8%a8%d9%88%d8%b1%d8%aa%d9%86%d8%ac) | N/A |
+| 29 | [الكوارتر الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%a7%d8%b1%d8%aa%d8%b1+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 30 | [احمد امين](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%85%d9%8a%d9%86) | N/A |
+| 31 | [علي قطاع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%b7%d8%a7%d8%b9) | N/A |
+| 32 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
 | 33 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
 | 34 | [الاسره المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
-| 35 | [سبورتنج](http://twitter.com/search?q=%d8%b3%d8%a8%d9%88%d8%b1%d8%aa%d9%86%d8%ac) | N/A |
-| 36 | [علي قطاع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%b7%d8%a7%d8%b9) | N/A |
-| 37 | [الكوارتر الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%a7%d8%b1%d8%aa%d8%b1+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 38 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
-| 39 | [الثبات الانفعالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
-| 40 | [وليد مهساس](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d9%85%d9%87%d8%b3%d8%a7%d8%b3) | N/A |
-| 41 | [المدينه الرياضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d9%87) | N/A |
-| 42 | [احمد امين](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%85%d9%8a%d9%86) | N/A |
-| 43 | [جنود ربك](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%af+%d8%b1%d8%a8%d9%83) | N/A |
-| 44 | [علي معلول](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%b9%d9%84%d9%88%d9%84) | "علي معلول" is an Arabic phrase that translates to "on the disabled" in English. It is used to refer to someone who is physically or mentally disabled. |
-| 45 | [جعفر العمده](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d8%af%d9%87) | N/A |
-| 46 | [ابو ابراهيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 35 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
+| 36 | [الفتره الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%aa%d8%b1%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
+| 37 | [الشوط الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 38 | [الثبات الانفعالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%86%d9%81%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
+| 39 | [علي معلول](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%b9%d9%84%d9%88%d9%84) | "علي معلول" is an Arabic phrase that translates to "on the disabled" in English. It is used to refer to someone who is physically or mentally disabled. |
+| 40 | [المدينه الرياضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d9%87) | N/A |
+| 41 | [جنود ربك](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%af+%d8%b1%d8%a8%d9%83) | N/A |
+| 42 | [جعفر العمده](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d8%af%d9%87) | N/A |
+| 43 | [ابو ابراهيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 44 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
+| 45 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
+| 46 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
 | 47 | [تراب مصر](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d8%a8+%d9%85%d8%b5%d8%b1) | N/A |
-| 48 | [الرجاء المغربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%ac%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a) | N/A |
-| 49 | [الحكام المصريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
-| 50 | [احمد مرعي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d9%85%d8%b1%d8%b9%d9%8a) | N/A |
+| 48 | [الرياضه المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
+| 49 | [وليد مهساس](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d9%85%d9%87%d8%b3%d8%a7%d8%b3) | N/A |
+| 50 | [الحكام المصريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
 
 
 

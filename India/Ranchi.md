@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ranchi
 
-📆 Last Updated: `2023-04-07 02:29:10 UTC`
+📆 Last Updated: `2023-04-07 03:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,39 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FactsAboutJesus](http://twitter.com/search?q=%23FactsAboutJesus) | N/A |
-| 2 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
-| 3 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 4 | [#KKRvRCB](http://twitter.com/search?q=%23KKRvRCB) | N/A |
-| 5 | [#GoodFriday](http://twitter.com/search?q=%23GoodFriday) | N/A |
-| 6 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 7 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 8 | [भारतीय जनता पार्टी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 9 | [Lord Shardul](http://twitter.com/search?q=Lord+Shardul) | Lord Shardul is a Hindu deity associated with strength and courage. He is the son of Shiva and Parvati, and is often depicted as a lion or tiger. The name Shardul translates to "tiger" in English. |
+| 2 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 3 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
+| 4 | [#GoodFriday](http://twitter.com/search?q=%23GoodFriday) | N/A |
+| 5 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
+| 6 | [#HealthTreasure](http://twitter.com/search?q=%23HealthTreasure) | N/A |
+| 7 | [Nirogi Kaya](http://twitter.com/search?q=Nirogi+Kaya) | N/A |
+| 8 | [Svasthya Suraksha](http://twitter.com/search?q=Svasthya+Suraksha) | N/A |
+| 9 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
 | 10 | [ईसा मसीह](http://twitter.com/search?q=%e0%a4%88%e0%a4%b8%e0%a4%be+%e0%a4%ae%e0%a4%b8%e0%a5%80%e0%a4%b9) | N/A |
-| 11 | [Holy Bible](http://twitter.com/search?q=Holy+Bible) | N/A |
-| 12 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 13 | [Sushant Nemesis Of Bollywood](http://twitter.com/search?q=Sushant+Nemesis+Of+Bollywood) | N/A |
-| 14 | [पवित्र बाइबल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ac%e0%a4%be%e0%a4%87%e0%a4%ac%e0%a4%b2) | N/A |
-| 15 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 16 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
-| 17 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
-| 18 | [Eden Gardens](http://twitter.com/search?q=Eden+Gardens) | N/A |
-| 19 | [sterlite copper](http://twitter.com/search?q=sterlite+copper) | N/A |
-| 20 | [Guru Siyag Siddhayoga](http://twitter.com/search?q=Guru+Siyag+Siddhayoga) | N/A |
-| 21 | [Kalki Avatar Guru Siyag](http://twitter.com/search?q=Kalki+Avatar+Guru+Siyag) | N/A |
-| 22 | [पंडित रविशंकर](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%a4+%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0) | N/A |
-| 23 | [Anil Antony](http://twitter.com/search?q=Anil+Antony) | N/A |
-| 24 | [Willey](http://twitter.com/search?q=Willey) | N/A |
-| 25 | [Sushant A Game Changer](http://twitter.com/search?q=Sushant+A+Game+Changer) | N/A |
-| 26 | [परमेश्वर कबीर](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
-| 27 | [AK Antony](http://twitter.com/search?q=AK+Antony) | N/A |
-| 28 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 29 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 30 | [Suyash Sharma](http://twitter.com/search?q=Suyash+Sharma) | N/A |
-| 31 | [राम लखन सीता](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b2%e0%a4%96%e0%a4%a8+%e0%a4%b8%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
-| 32 | [लाल देह लाली](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%a6%e0%a5%87%e0%a4%b9+%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%80) | N/A |
-| 33 | [ram kaaj bin kahan vishrama](http://twitter.com/search?q=ram+kaaj+bin+kahan+vishrama) | N/A |
-| 34 | [तमिलनाडु पुलिस](http://twitter.com/search?q=%e0%a4%a4%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8%e0%a4%be%e0%a4%a1%e0%a5%81+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 35 | [Wriddhiman S](http://twitter.com/search?q=Wriddhiman+S) | N/A |
-| 36 | [राष्ट्र निर्माण](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a3) | N/A |
-| 37 | [bjp against obc](http://twitter.com/search?q=bjp+against+obc) | N/A |
-| 38 | [Rinku Singh](http://twitter.com/search?q=Rinku+Singh) | N/A |
-| 39 | [प्रभु भक्ति](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 40 | [सुर भूप](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b0+%e0%a4%ad%e0%a5%82%e0%a4%aa) | N/A |
-| 41 | [श्री कृष्ण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
-| 42 | [अनन्य भक्त](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
-| 43 | [Chinnaswamy Stadium](http://twitter.com/search?q=Chinnaswamy+Stadium) | N/A |
-| 44 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 45 | [मोक्ष मार्ग](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%95%e0%a5%8d%e0%a4%b7+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%97) | N/A |
-| 46 | [अनिल एंटनी](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%bf%e0%a4%b2+%e0%a4%8f%e0%a4%82%e0%a4%9f%e0%a4%a8%e0%a5%80) | N/A |
-| 47 | [राष्ट्र सेवा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%be) | N/A |
-| 48 | [परम भक्त](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
-| 49 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 50 | [बड़ी पार्टी](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 11 | [Sushant Nemesis Of Bollywood](http://twitter.com/search?q=Sushant+Nemesis+Of+Bollywood) | N/A |
+| 12 | [Holy Bible](http://twitter.com/search?q=Holy+Bible) | N/A |
+| 13 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
+| 14 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 15 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
+| 16 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
+| 17 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 18 | [Sant Rampal Ji Maharaj](http://twitter.com/search?q=Sant+Rampal+Ji+Maharaj) | Sant Rampal Ji Maharaj is a spiritual leader and founder of the Satlok Ashram in Hisar, India. He is a proponent of the ancient Indian spiritual tradition known as Sant Mat, which emphasizes meditation and devotion to God. The literal translation of Sant Rampal Ji Maharaj in English is "Holy Saint Rampal the Great". |
+| 19 | [Manish](http://twitter.com/search?q=Manish) | N/A |
+| 20 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
+| 21 | [कबीर परमेश्वर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | कबीर परमेश्वर is a phrase in Hindi which translates to "Kabir, the Supreme Lord". It is a reference to the 15th-century Indian mystic poet and saint, Kabir. The phrase is often used as an invocation or prayer to invoke the blessings of Kabir. |
+| 22 | [#विश्व_स्वास्थ्य_दिवस](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5_%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 23 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 24 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 25 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 26 | [#Ravanasura](http://twitter.com/search?q=%23Ravanasura) | N/A |
+| 27 | [#GodMorningFriday](http://twitter.com/search?q=%23GodMorningFriday) | N/A |
+| 28 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
+| 29 | [#HealthyLiving](http://twitter.com/search?q=%23HealthyLiving) | N/A |
+| 30 | [#EasterWeekend](http://twitter.com/search?q=%23EasterWeekend) | N/A |
+| 31 | [#GazaUnderAttack](http://twitter.com/search?q=%23GazaUnderAttack) | N/A |
+| 32 | [#HolyWeek](http://twitter.com/search?q=%23HolyWeek) | N/A |
+| 33 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
+| 34 | [#RaviTeja](http://twitter.com/search?q=%23RaviTeja) | N/A |
 
 
 
