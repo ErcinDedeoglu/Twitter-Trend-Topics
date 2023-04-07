@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kobe
 
-📆 Last Updated: `2023-04-07 04:17:24 UTC`
+📆 Last Updated: `2023-04-07 05:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [クラス替え](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b9%e6%9b%bf%e3%81%88) | N/A |
-| 2 | [選挙カー](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%82%ab%e3%83%bc) | N/A |
-| 3 | [あと半日](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e5%8d%8a%e6%97%a5) | あと半日 is a Japanese phrase that translates to "half a day left" in English. It is used to express that there is only a short amount of time remaining before something is due or finished. |
-| 4 | [亀甲縛り](http://twitter.com/search?q=%e4%ba%80%e7%94%b2%e7%b8%9b%e3%82%8a) | 亀甲縛り (Kikkou Shibari) is a type of Japanese rope bondage. It is a decorative form of bondage that involves wrapping the body in intricate patterns using thin rope. The purpose of this type of bondage is to create an aesthetically pleasing pattern on the body, rather than to restrict movement or cause pain. In English, it can be translated as "turtle shell bondage". |
-| 5 | [#あなたを美少年化](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%82%92%e7%be%8e%e5%b0%91%e5%b9%b4%e5%8c%96) | N/A |
-| 6 | [#あなたに1番似合うガンダム](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ab1%e7%95%aa%e4%bc%bc%e5%90%88%e3%81%86%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0) | N/A |
+| 2 | [#朝ドラらんまん](http://twitter.com/search?q=%23%e6%9c%9d%e3%83%89%e3%83%a9%e3%82%89%e3%82%93%e3%81%be%e3%82%93) | N/A |
+| 3 | [選挙カー](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%82%ab%e3%83%bc) | N/A |
+| 4 | [#あなたを美少年化](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%82%92%e7%be%8e%e5%b0%91%e5%b9%b4%e5%8c%96) | N/A |
+| 5 | [#あなたに1番似合うガンダム](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ab1%e7%95%aa%e4%bc%bc%e5%90%88%e3%81%86%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0) | N/A |
+| 6 | [あと半日](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e5%8d%8a%e6%97%a5) | あと半日 is a Japanese phrase that translates to "half a day left" in English. It is used to express that there is only a short amount of time remaining before something is due or finished. |
 | 7 | [ブルーアイズマウンテン](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%82%a2%e3%82%a4%e3%82%ba%e3%83%9e%e3%82%a6%e3%83%b3%e3%83%86%e3%83%b3) | N/A |
-| 8 | [空想委員会](http://twitter.com/search?q=%e7%a9%ba%e6%83%b3%e5%a7%94%e5%93%a1%e4%bc%9a) | N/A |
-| 9 | [キラーポテト](http://twitter.com/search?q=%e3%82%ad%e3%83%a9%e3%83%bc%e3%83%9d%e3%83%86%e3%83%88) | N/A |
-| 10 | [#みんなの手話](http://twitter.com/search?q=%23%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e6%89%8b%e8%a9%b1) | N/A |
-| 11 | [SHOCKアクスタ](http://twitter.com/search?q=SHOCK%e3%82%a2%e3%82%af%e3%82%b9%e3%82%bf) | N/A |
-| 12 | [メタモンレイド](http://twitter.com/search?q=%e3%83%a1%e3%82%bf%e3%83%a2%e3%83%b3%e3%83%ac%e3%82%a4%e3%83%89) | N/A |
-| 13 | [#ジンジン神宮寺](http://twitter.com/search?q=%23%e3%82%b8%e3%83%b3%e3%82%b8%e3%83%b3%e7%a5%9e%e5%ae%ae%e5%af%ba) | N/A |
-| 14 | [オデッセイ](http://twitter.com/search?q=%e3%82%aa%e3%83%87%e3%83%83%e3%82%bb%e3%82%a4) | N/A |
-| 15 | [ディシア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2) | ディシア is a Japanese word that means "disease". It is used to refer to any type of illness or medical condition. |
-| 16 | [デュエリスト狩りパンケーキ](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%82%a8%e3%83%aa%e3%82%b9%e3%83%88%e7%8b%a9%e3%82%8a%e3%83%91%e3%83%b3%e3%82%b1%e3%83%bc%e3%82%ad) | N/A |
-| 17 | [ハロウィンの花嫁](http://twitter.com/search?q=%e3%83%8f%e3%83%ad%e3%82%a6%e3%82%a3%e3%83%b3%e3%81%ae%e8%8a%b1%e5%ab%81) | N/A |
-| 18 | [#ドスパラで欲しいもの](http://twitter.com/search?q=%23%e3%83%89%e3%82%b9%e3%83%91%e3%83%a9%e3%81%a7%e6%ac%b2%e3%81%97%e3%81%84%e3%82%82%e3%81%ae) | N/A |
-| 19 | [消しゴムマジック](http://twitter.com/search?q=%e6%b6%88%e3%81%97%e3%82%b4%e3%83%a0%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af) | N/A |
-| 20 | [公衆トイレ](http://twitter.com/search?q=%e5%85%ac%e8%a1%86%e3%83%88%e3%82%a4%e3%83%ac) | N/A |
-| 21 | [フジロック](http://twitter.com/search?q=%e3%83%95%e3%82%b8%e3%83%ad%e3%83%83%e3%82%af) | フジロック is a popular Japanese music festival held annually in Naeba Ski Resort, Niigata Prefecture. The festival was first held in 1997 and has since become one of the largest music festivals in Japan, attracting over 100,000 people each year. In English, "フジロック" translates to "Fuji Rock Festival". |
-| 22 | [地図ケーキ](http://twitter.com/search?q=%e5%9c%b0%e5%9b%b3%e3%82%b1%e3%83%bc%e3%82%ad) | N/A |
-| 23 | [風強すぎ](http://twitter.com/search?q=%e9%a2%a8%e5%bc%b7%e3%81%99%e3%81%8e) | 風強すぎ is a Japanese phrase that literally translates to "the wind is too strong". It is used to describe a situation where the wind is blowing very hard. |
-| 24 | [にゃんこ男子](http://twitter.com/search?q=%e3%81%ab%e3%82%83%e3%82%93%e3%81%93%e7%94%b7%e5%ad%90) | N/A |
-| 25 | [気分屋スキンシップ](http://twitter.com/search?q=%e6%b0%97%e5%88%86%e5%b1%8b%e3%82%b9%e3%82%ad%e3%83%b3%e3%82%b7%e3%83%83%e3%83%97) | N/A |
-| 26 | [ハッチポッチステーション](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%81%e3%83%9d%e3%83%83%e3%83%81%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 27 | [坂本慎太郎](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e6%85%8e%e5%a4%aa%e9%83%8e) | N/A |
-| 28 | [ターン1](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%83%b31) | N/A |
-| 29 | [ミレニアムタワー](http://twitter.com/search?q=%e3%83%9f%e3%83%ac%e3%83%8b%e3%82%a2%e3%83%a0%e3%82%bf%e3%83%af%e3%83%bc) | N/A |
-| 30 | [土砂降り](http://twitter.com/search?q=%e5%9c%9f%e7%a0%82%e9%99%8d%e3%82%8a) | 土砂降り is a Japanese phrase that literally translates to "heavy rain with mud and sand". It is used to describe a heavy rainstorm that is accompanied by strong winds and large amounts of mud and sand. In English, it could be translated as "a torrential downpour". |
-| 31 | [中国生産](http://twitter.com/search?q=%e4%b8%ad%e5%9b%bd%e7%94%9f%e7%94%a3) | N/A |
-| 32 | [三浦委員長](http://twitter.com/search?q=%e4%b8%89%e6%b5%a6%e5%a7%94%e5%93%a1%e9%95%b7) | N/A |
-| 33 | [紐と金具](http://twitter.com/search?q=%e7%b4%90%e3%81%a8%e9%87%91%e5%85%b7) | N/A |
-| 34 | [Yves Tumor](http://twitter.com/search?q=Yves+Tumor) | N/A |
-| 35 | [チョコペン](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%9a%e3%83%b3) | N/A |
-| 36 | [マッチングアプリ婚](http://twitter.com/search?q=%e3%83%9e%e3%83%83%e3%83%81%e3%83%b3%e3%82%b0%e3%82%a2%e3%83%97%e3%83%aa%e5%a9%9a) | N/A |
-| 37 | [陸自ヘリ事故](http://twitter.com/search?q=%e9%99%b8%e8%87%aa%e3%83%98%e3%83%aa%e4%ba%8b%e6%95%85) | N/A |
-| 38 | [歌舞伎町タワー](http://twitter.com/search?q=%e6%ad%8c%e8%88%9e%e4%bc%8e%e7%94%ba%e3%82%bf%e3%83%af%e3%83%bc) | N/A |
-| 39 | [てらしー](http://twitter.com/search?q=%e3%81%a6%e3%82%89%e3%81%97%e3%83%bc) | N/A |
-| 40 | [北海道別海町](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e5%88%a5%e6%b5%b7%e7%94%ba) | N/A |
-| 41 | [美幌町の観光施設](http://twitter.com/search?q=%e7%be%8e%e5%b9%8c%e7%94%ba%e3%81%ae%e8%a6%b3%e5%85%89%e6%96%bd%e8%a8%ad) | N/A |
-| 42 | [ローランド](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89) | ローランド is a Japanese given name. It is derived from the Germanic name Roland, which means "famous land". In English, it can be translated to mean "famous land". |
-| 43 | [雨のせい](http://twitter.com/search?q=%e9%9b%a8%e3%81%ae%e3%81%9b%e3%81%84) | 雨のせい is a Japanese phrase that literally translates to "because of the rain." It is used to express the idea that something has happened or been caused by the rain. For example, if someone was late for an appointment, they might say "雨のせいで遅れました" ("I was late because of the rain"). |
-| 44 | [ポリコレ要素](http://twitter.com/search?q=%e3%83%9d%e3%83%aa%e3%82%b3%e3%83%ac%e8%a6%81%e7%b4%a0) | N/A |
-| 45 | [効果破壊](http://twitter.com/search?q=%e5%8a%b9%e6%9e%9c%e7%a0%b4%e5%a3%8a) | N/A |
-| 46 | [ゲームの歴史](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%ae%e6%ad%b4%e5%8f%b2) | N/A |
-| 47 | [デビフラ](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%95%e3%83%a9) | N/A |
-| 48 | [オタク男子](http://twitter.com/search?q=%e3%82%aa%e3%82%bf%e3%82%af%e7%94%b7%e5%ad%90) | N/A |
-| 49 | [真面目男子](http://twitter.com/search?q=%e7%9c%9f%e9%9d%a2%e7%9b%ae%e7%94%b7%e5%ad%90) | N/A |
+| 8 | [亀甲縛り](http://twitter.com/search?q=%e4%ba%80%e7%94%b2%e7%b8%9b%e3%82%8a) | 亀甲縛り (Kikkou Shibari) is a type of Japanese rope bondage. It is a decorative form of bondage that involves wrapping the body in intricate patterns using thin rope. The purpose of this type of bondage is to create an aesthetically pleasing pattern on the body, rather than to restrict movement or cause pain. In English, it can be translated as "turtle shell bondage". |
+| 9 | [空想委員会](http://twitter.com/search?q=%e7%a9%ba%e6%83%b3%e5%a7%94%e5%93%a1%e4%bc%9a) | N/A |
+| 10 | [ディシア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b7%e3%82%a2) | ディシア is a Japanese word that means "disease". It is used to refer to any type of illness or medical condition. |
+| 11 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
+| 12 | [デュエリスト狩りパンケーキ](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%82%a8%e3%83%aa%e3%82%b9%e3%83%88%e7%8b%a9%e3%82%8a%e3%83%91%e3%83%b3%e3%82%b1%e3%83%bc%e3%82%ad) | N/A |
+| 13 | [キラーポテト](http://twitter.com/search?q=%e3%82%ad%e3%83%a9%e3%83%bc%e3%83%9d%e3%83%86%e3%83%88) | N/A |
+| 14 | [SHOCKアクスタ](http://twitter.com/search?q=SHOCK%e3%82%a2%e3%82%af%e3%82%b9%e3%82%bf) | N/A |
+| 15 | [オンバーン](http://twitter.com/search?q=%e3%82%aa%e3%83%b3%e3%83%90%e3%83%bc%e3%83%b3) | オンバーン is a Japanese word that means "onboard" or "on board". It is used to describe the process of getting on a vehicle, such as a train or airplane. |
+| 16 | [七聖召喚](http://twitter.com/search?q=%e4%b8%83%e8%81%96%e5%8f%ac%e5%96%9a) | N/A |
+| 17 | [メタモンレイド](http://twitter.com/search?q=%e3%83%a1%e3%82%bf%e3%83%a2%e3%83%b3%e3%83%ac%e3%82%a4%e3%83%89) | N/A |
+| 18 | [にゃんこ男子](http://twitter.com/search?q=%e3%81%ab%e3%82%83%e3%82%93%e3%81%93%e7%94%b7%e5%ad%90) | N/A |
+| 19 | [気分屋スキンシップ](http://twitter.com/search?q=%e6%b0%97%e5%88%86%e5%b1%8b%e3%82%b9%e3%82%ad%e3%83%b3%e3%82%b7%e3%83%83%e3%83%97) | N/A |
+| 20 | [サワロ先生](http://twitter.com/search?q=%e3%82%b5%e3%83%af%e3%83%ad%e5%85%88%e7%94%9f) | N/A |
+| 21 | [オデッセイ](http://twitter.com/search?q=%e3%82%aa%e3%83%87%e3%83%83%e3%82%bb%e3%82%a4) | N/A |
+| 22 | [IUちゃん](http://twitter.com/search?q=IU%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 23 | [地図ケーキ](http://twitter.com/search?q=%e5%9c%b0%e5%9b%b3%e3%82%b1%e3%83%bc%e3%82%ad) | N/A |
+| 24 | [ガルアワ](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%82%a2%e3%83%af) | N/A |
+| 25 | [ハロウィンの花嫁](http://twitter.com/search?q=%e3%83%8f%e3%83%ad%e3%82%a6%e3%82%a3%e3%83%b3%e3%81%ae%e8%8a%b1%e5%ab%81) | N/A |
+| 26 | [チョコペン](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%9a%e3%83%b3) | N/A |
+| 27 | [消しゴムマジック](http://twitter.com/search?q=%e6%b6%88%e3%81%97%e3%82%b4%e3%83%a0%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af) | N/A |
+| 28 | [ポリコレ要素](http://twitter.com/search?q=%e3%83%9d%e3%83%aa%e3%82%b3%e3%83%ac%e8%a6%81%e7%b4%a0) | N/A |
+| 29 | [注意書きだらけの児童公園](http://twitter.com/search?q=%e6%b3%a8%e6%84%8f%e6%9b%b8%e3%81%8d%e3%81%a0%e3%82%89%e3%81%91%e3%81%ae%e5%85%90%e7%ab%a5%e5%85%ac%e5%9c%92) | N/A |
+| 30 | [マッチングアプリ婚](http://twitter.com/search?q=%e3%83%9e%e3%83%83%e3%83%81%e3%83%b3%e3%82%b0%e3%82%a2%e3%83%97%e3%83%aa%e5%a9%9a) | N/A |
+| 31 | [深海少女](http://twitter.com/search?q=%e6%b7%b1%e6%b5%b7%e5%b0%91%e5%a5%b3) | N/A |
+| 32 | [フジロック](http://twitter.com/search?q=%e3%83%95%e3%82%b8%e3%83%ad%e3%83%83%e3%82%af) | フジロック is a popular Japanese music festival held annually in Naeba Ski Resort, Niigata Prefecture. The festival was first held in 1997 and has since become one of the largest music festivals in Japan, attracting over 100,000 people each year. In English, "フジロック" translates to "Fuji Rock Festival". |
+| 33 | [ゲームの歴史](http://twitter.com/search?q=%e3%82%b2%e3%83%bc%e3%83%a0%e3%81%ae%e6%ad%b4%e5%8f%b2) | N/A |
+| 34 | [三浦委員長](http://twitter.com/search?q=%e4%b8%89%e6%b5%a6%e5%a7%94%e5%93%a1%e9%95%b7) | N/A |
+| 35 | [公衆トイレ](http://twitter.com/search?q=%e5%85%ac%e8%a1%86%e3%83%88%e3%82%a4%e3%83%ac) | N/A |
+| 36 | [坂本慎太郎](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e6%85%8e%e5%a4%aa%e9%83%8e) | N/A |
+| 37 | [オタク男子](http://twitter.com/search?q=%e3%82%aa%e3%82%bf%e3%82%af%e7%94%b7%e5%ad%90) | N/A |
+| 38 | [サワガナイ](http://twitter.com/search?q=%e3%82%b5%e3%83%af%e3%82%ac%e3%83%8a%e3%82%a4) | N/A |
+| 39 | [高橋名人](http://twitter.com/search?q=%e9%ab%98%e6%a9%8b%e5%90%8d%e4%ba%ba) | N/A |
+| 40 | [ボールアテルナ](http://twitter.com/search?q=%e3%83%9c%e3%83%bc%e3%83%ab%e3%82%a2%e3%83%86%e3%83%ab%e3%83%8a) | N/A |
+| 41 | [土砂降り](http://twitter.com/search?q=%e5%9c%9f%e7%a0%82%e9%99%8d%e3%82%8a) | 土砂降り is a Japanese phrase that literally translates to "heavy rain with mud and sand". It is used to describe a heavy rainstorm that is accompanied by strong winds and large amounts of mud and sand. In English, it could be translated as "a torrential downpour". |
+| 42 | [真面目男子](http://twitter.com/search?q=%e7%9c%9f%e9%9d%a2%e7%9b%ae%e7%94%b7%e5%ad%90) | N/A |
+| 43 | [堀越先生](http://twitter.com/search?q=%e5%a0%80%e8%b6%8a%e5%85%88%e7%94%9f) | N/A |
+| 44 | [雨のせい](http://twitter.com/search?q=%e9%9b%a8%e3%81%ae%e3%81%9b%e3%81%84) | 雨のせい is a Japanese phrase that literally translates to "because of the rain." It is used to express the idea that something has happened or been caused by the rain. For example, if someone was late for an appointment, they might say "雨のせいで遅れました" ("I was late because of the rain"). |
+| 45 | [わんこ男子](http://twitter.com/search?q=%e3%82%8f%e3%82%93%e3%81%93%e7%94%b7%e5%ad%90) | N/A |
+| 46 | [ハッチポッチステーション](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%81%e3%83%9d%e3%83%83%e3%83%81%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 47 | [ターン1](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%83%b31) | N/A |
+| 48 | [浜田防衛相](http://twitter.com/search?q=%e6%b5%9c%e7%94%b0%e9%98%b2%e8%a1%9b%e7%9b%b8) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-04-07 04:17:09 UTC`
+📆 Last Updated: `2023-04-07 05:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,55 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 2 | [#HijosDelDesierto](http://twitter.com/search?q=%23HijosDelDesierto) | N/A |
-| 3 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 4 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
-| 5 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 6 | [Notable](http://twitter.com/search?q=Notable) | N/A |
-| 7 | [#NiUnCarabineroMenos](http://twitter.com/search?q=%23NiUnCarabineroMenos) | N/A |
-| 8 | [#100Indecisos](http://twitter.com/search?q=%23100Indecisos) | N/A |
-| 9 | [Diego Ibañez](http://twitter.com/search?q=Diego+Iba%c3%b1ez) | N/A |
-| 10 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
-| 11 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 12 | [Mega](http://twitter.com/search?q=Mega) | N/A |
-| 13 | [Involuntario](http://twitter.com/search?q=Involuntario) | N/A |
-| 14 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 15 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 16 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
-| 17 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 18 | [Paulina](http://twitter.com/search?q=Paulina) | N/A |
-| 19 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
-| 20 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
-| 21 | [Viva Chile](http://twitter.com/search?q=Viva+Chile) | N/A |
-| 22 | [Error](http://twitter.com/search?q=Error) | N/A |
-| 23 | [Pancho](http://twitter.com/search?q=Pancho) | N/A |
-| 24 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 25 | [Plaza Baquedano](http://twitter.com/search?q=Plaza+Baquedano) | N/A |
-| 26 | [Moneda](http://twitter.com/search?q=Moneda) | N/A |
-| 27 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 28 | [Unidad](http://twitter.com/search?q=Unidad) | N/A |
-| 29 | [colegio de periodistas](http://twitter.com/search?q=colegio+de+periodistas) | N/A |
-| 30 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
-| 31 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
-| 32 | [Octubristas](http://twitter.com/search?q=Octubristas) | N/A |
-| 33 | [Karma](http://twitter.com/search?q=Karma) | N/A |
-| 34 | [Presidente de la República](http://twitter.com/search?q=Presidente+de+la+Rep%c3%bablica) | N/A |
-| 35 | [Chao](http://twitter.com/search?q=Chao) | N/A |
-| 36 | [#AlmaNegraTVN](http://twitter.com/search?q=%23AlmaNegraTVN) | N/A |
-| 37 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 38 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 39 | [#cacerolazo](http://twitter.com/search?q=%23cacerolazo) | N/A |
-| 40 | [#BoricConSangreEnlasManos](http://twitter.com/search?q=%23BoricConSangreEnlasManos) | N/A |
-| 41 | [#PlazaItalia](http://twitter.com/search?q=%23PlazaItalia) | N/A |
-| 42 | [#CaboPalma](http://twitter.com/search?q=%23CaboPalma) | N/A |
-| 43 | [#BoricAsesino](http://twitter.com/search?q=%23BoricAsesino) | N/A |
+| 1 | [Notable](http://twitter.com/search?q=Notable) | N/A |
+| 2 | [#100Indecisos](http://twitter.com/search?q=%23100Indecisos) | N/A |
+| 3 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 4 | [Paulina de Allende](http://twitter.com/search?q=Paulina+de+Allende) | N/A |
+| 5 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 6 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 7 | [Mega](http://twitter.com/search?q=Mega) | N/A |
+| 8 | [#AlmaNegraTVN](http://twitter.com/search?q=%23AlmaNegraTVN) | N/A |
+| 9 | [#TheVoiceCHV](http://twitter.com/search?q=%23TheVoiceCHV) | N/A |
+| 10 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
+| 11 | [Viña del Mar](http://twitter.com/search?q=Vi%c3%b1a+del+Mar) | N/A |
+| 12 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 13 | [Cúcuta](http://twitter.com/search?q=C%c3%bacuta) | N/A |
+| 14 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 15 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
+| 16 | [Diego Ibañez](http://twitter.com/search?q=Diego+Iba%c3%b1ez) | N/A |
+| 17 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 18 | [Colegio de Periodistas](http://twitter.com/search?q=Colegio+de+Periodistas) | N/A |
+| 19 | [Involuntario](http://twitter.com/search?q=Involuntario) | N/A |
+| 20 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
+| 21 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 22 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
+| 23 | [Estado de Excepción](http://twitter.com/search?q=Estado+de+Excepci%c3%b3n) | N/A |
+| 24 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 25 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 26 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
+| 27 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 28 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 29 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
+| 30 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
+| 31 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
+| 32 | [2 OUT TODAY](http://twitter.com/search?q=2+OUT+TODAY) | N/A |
+| 33 | [Plaza Italia](http://twitter.com/search?q=Plaza+Italia) | N/A |
+| 34 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
+| 35 | [BOLADOS](http://twitter.com/search?q=BOLADOS) | N/A |
+| 36 | [Pitu Contreras](http://twitter.com/search?q=Pitu+Contreras) | N/A |
+| 37 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
+| 38 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 39 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
+| 40 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 41 | [Delirante](http://twitter.com/search?q=Delirante) | N/A |
+| 42 | [Hipocresía](http://twitter.com/search?q=Hipocres%c3%ada) | N/A |
+| 43 | [Buitre](http://twitter.com/search?q=Buitre) | N/A |
+| 44 | [SE BUSCAN](http://twitter.com/search?q=SE+BUSCAN) | N/A |
+| 45 | [Audi](http://twitter.com/search?q=Audi) | N/A |
+| 46 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
+| 47 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
+| 48 | [Mirna Schindler](http://twitter.com/search?q=Mirna+Schindler) | N/A |
+| 49 | [Neme](http://twitter.com/search?q=Neme) | N/A |
 
 
 

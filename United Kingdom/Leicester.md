@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-04-07 04:17:05 UTC`
+📆 Last Updated: `2023-04-07 05:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,48 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 3 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
 | 4 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
 | 5 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 6 | [#ENGBRA](http://twitter.com/search?q=%23ENGBRA) | N/A |
-| 7 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 6 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 7 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
 | 8 | [Theo](http://twitter.com/search?q=Theo) | N/A |
 | 9 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 10 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 11 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 12 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 13 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
-| 14 | [#InternationalAsexualityDay](http://twitter.com/search?q=%23InternationalAsexualityDay) | N/A |
+| 10 | [Mary Earps](http://twitter.com/search?q=Mary+Earps) | N/A |
+| 11 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 12 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 13 | [Nora](http://twitter.com/search?q=Nora) | N/A |
+| 14 | [5sos](http://twitter.com/search?q=5sos) | N/A |
 | 15 | [Scott Benton](http://twitter.com/search?q=Scott+Benton) | N/A |
-| 16 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 17 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 16 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 17 | [Chloe Kelly](http://twitter.com/search?q=Chloe+Kelly) | N/A |
 | 18 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 19 | [Chloe Kelly](http://twitter.com/search?q=Chloe+Kelly) | N/A |
-| 20 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
-| 21 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 19 | [Police Scotland](http://twitter.com/search?q=Police+Scotland) | N/A |
+| 20 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 21 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
 | 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 23 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 24 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
-| 25 | [Sarah Vine](http://twitter.com/search?q=Sarah+Vine) | N/A |
-| 26 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 28 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
-| 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 30 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
-| 31 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
-| 32 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 33 | [Clapham Junction](http://twitter.com/search?q=Clapham+Junction) | N/A |
-| 34 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 35 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 36 | [Passover](http://twitter.com/search?q=Passover) | N/A |
-| 37 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 38 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 39 | [Lamps](http://twitter.com/search?q=Lamps) | N/A |
-| 40 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 41 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 42 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 43 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
-| 44 | [Equality Act](http://twitter.com/search?q=Equality+Act) | N/A |
-| 45 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 46 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 47 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 48 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 49 | [Ella Toone](http://twitter.com/search?q=Ella+Toone) | N/A |
+| 23 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
+| 24 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 25 | [sarah vine](http://twitter.com/search?q=sarah+vine) | N/A |
+| 26 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 27 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 28 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
+| 29 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 30 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 31 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 32 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
+| 33 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 34 | [Clapham Junction](http://twitter.com/search?q=Clapham+Junction) | N/A |
+| 35 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 36 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 37 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 38 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 39 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 40 | [Passover](http://twitter.com/search?q=Passover) | N/A |
+| 41 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 42 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 43 | [Lamps](http://twitter.com/search?q=Lamps) | N/A |
+| 44 | [peter wright](http://twitter.com/search?q=peter+wright) | N/A |
+| 45 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 46 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 47 | [Al Aqsa](http://twitter.com/search?q=Al+Aqsa) | N/A |
 
 
 

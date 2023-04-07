@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-04-07 04:17:31 UTC`
+📆 Last Updated: `2023-04-07 05:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 2 | [KHOSI X SUPERSPORT](http://twitter.com/search?q=KHOSI+X+SUPERSPORT) | N/A |
+| 2 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 3 | [#TheWifeShowmax](http://twitter.com/search?q=%23TheWifeShowmax) | N/A |
-| 4 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 5 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 6 | [#TropikaZero](http://twitter.com/search?q=%23TropikaZero) | N/A |
-| 7 | [BANKABLE TSATSII](http://twitter.com/search?q=BANKABLE+TSATSII) | N/A |
-| 8 | [#pastawednesdays](http://twitter.com/search?q=%23pastawednesdays) | N/A |
-| 9 | [#ItsWithin](http://twitter.com/search?q=%23ItsWithin) | N/A |
-| 10 | [top babe tsatsii](http://twitter.com/search?q=top+babe+tsatsii) | N/A |
-| 11 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
-| 12 | [Berita](http://twitter.com/search?q=Berita) | N/A |
-| 13 | [JUICY JAY CHAPTER 25 PROJECT](http://twitter.com/search?q=JUICY+JAY+CHAPTER+25+PROJECT) | N/A |
-| 14 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
-| 15 | [Archie](http://twitter.com/search?q=Archie) | N/A |
-| 16 | [no thabang no buzz](http://twitter.com/search?q=no+thabang+no+buzz) | N/A |
-| 17 | [Mqhele](http://twitter.com/search?q=Mqhele) | N/A |
-| 18 | [Jan van Riebeeck](http://twitter.com/search?q=Jan+van+Riebeeck) | N/A |
-| 19 | [Sebokeng](http://twitter.com/search?q=Sebokeng) | N/A |
-| 20 | [solomon mahlangu](http://twitter.com/search?q=solomon+mahlangu) | N/A |
-| 21 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 22 | [alpha male thabang](http://twitter.com/search?q=alpha+male+thabang) | N/A |
-| 23 | [j'something](http://twitter.com/search?q=j%27something) | N/A |
-| 24 | [Senzo](http://twitter.com/search?q=Senzo) | N/A |
-| 25 | [thanks to nota](http://twitter.com/search?q=thanks+to+nota) | N/A |
-| 26 | [blue aiva is here](http://twitter.com/search?q=blue+aiva+is+here) | N/A |
-| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 28 | [Tazz](http://twitter.com/search?q=Tazz) | N/A |
-| 29 | [durban north](http://twitter.com/search?q=durban+north) | N/A |
-| 30 | [crypto guy](http://twitter.com/search?q=crypto+guy) | N/A |
-| 31 | [nigeria welcomes blue aiva](http://twitter.com/search?q=nigeria+welcomes+blue+aiva) | N/A |
-| 32 | [Sasol](http://twitter.com/search?q=Sasol) | N/A |
-| 33 | [Shakes](http://twitter.com/search?q=Shakes) | N/A |
-| 34 | [iPod](http://twitter.com/search?q=iPod) | N/A |
-| 35 | [Moria](http://twitter.com/search?q=Moria) | N/A |
-| 36 | [Khama](http://twitter.com/search?q=Khama) | N/A |
-| 37 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
-| 38 | [nelisa the star](http://twitter.com/search?q=nelisa+the+star) | N/A |
-| 39 | [beefeater pink strawberry gin](http://twitter.com/search?q=beefeater+pink+strawberry+gin) | N/A |
-| 40 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 41 | [hlanti](http://twitter.com/search?q=hlanti) | N/A |
-| 42 | [N1 North](http://twitter.com/search?q=N1+North) | N/A |
-| 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 44 | [Primary](http://twitter.com/search?q=Primary) | N/A |
-| 45 | [solomon kalushi mahlangu](http://twitter.com/search?q=solomon+kalushi+mahlangu) | N/A |
-| 46 | [Guptas](http://twitter.com/search?q=Guptas) | N/A |
-| 47 | [media rounds with yvonne](http://twitter.com/search?q=media+rounds+with+yvonne) | N/A |
-| 48 | [Mshishi](http://twitter.com/search?q=Mshishi) | N/A |
-| 49 | [babeile](http://twitter.com/search?q=babeile) | N/A |
+| 4 | [KHOSI THE HOST](http://twitter.com/search?q=KHOSI+THE+HOST) | N/A |
+| 5 | [KHOSI X SUPERSPORT](http://twitter.com/search?q=KHOSI+X+SUPERSPORT) | N/A |
+| 6 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 7 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 8 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 9 | [#TropikaZero](http://twitter.com/search?q=%23TropikaZero) | N/A |
+| 10 | [BANKABLE TSATSII](http://twitter.com/search?q=BANKABLE+TSATSII) | N/A |
+| 11 | [Berita](http://twitter.com/search?q=Berita) | N/A |
+| 12 | [Guptas](http://twitter.com/search?q=Guptas) | N/A |
+| 13 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 14 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 15 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
+| 16 | [JUICY JAY CHAPTER 25 PROJECT](http://twitter.com/search?q=JUICY+JAY+CHAPTER+25+PROJECT) | N/A |
+| 17 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 18 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 19 | [Primary](http://twitter.com/search?q=Primary) | N/A |
+| 20 | [Mqhele](http://twitter.com/search?q=Mqhele) | N/A |
+| 21 | [Sasol](http://twitter.com/search?q=Sasol) | N/A |
+| 22 | [Sebokeng](http://twitter.com/search?q=Sebokeng) | N/A |
+| 23 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 24 | [Jan van Riebeeck](http://twitter.com/search?q=Jan+van+Riebeeck) | N/A |
+| 25 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 26 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
+| 27 | [NO THABANG NO BUZZ](http://twitter.com/search?q=NO+THABANG+NO+BUZZ) | N/A |
+| 28 | [Nota](http://twitter.com/search?q=Nota) | N/A |
+| 29 | [j'something](http://twitter.com/search?q=j%27something) | N/A |
+| 30 | [royal am](http://twitter.com/search?q=royal+am) | N/A |
+| 31 | [Mshishi](http://twitter.com/search?q=Mshishi) | N/A |
+| 32 | [Senzo](http://twitter.com/search?q=Senzo) | N/A |
+| 33 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
+| 34 | [Shaka](http://twitter.com/search?q=Shaka) | N/A |
+| 35 | [nigeria welcomes blue aiva](http://twitter.com/search?q=nigeria+welcomes+blue+aiva) | N/A |
+| 36 | [blue aiva is here](http://twitter.com/search?q=blue+aiva+is+here) | N/A |
+| 37 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 38 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 39 | [Shakes](http://twitter.com/search?q=Shakes) | N/A |
+| 40 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 41 | [babeile](http://twitter.com/search?q=babeile) | N/A |
+| 42 | [Solomon Mahlangu](http://twitter.com/search?q=Solomon+Mahlangu) | N/A |
+| 43 | [beefeater pink strawberry gin](http://twitter.com/search?q=beefeater+pink+strawberry+gin) | N/A |
+| 44 | [Qhawe](http://twitter.com/search?q=Qhawe) | N/A |
+| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 46 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 47 | [hlanti](http://twitter.com/search?q=hlanti) | N/A |
+| 48 | [iPod](http://twitter.com/search?q=iPod) | N/A |
+| 49 | [ALPHA MALE THABANG](http://twitter.com/search?q=ALPHA+MALE+THABANG) | N/A |
 
 
 

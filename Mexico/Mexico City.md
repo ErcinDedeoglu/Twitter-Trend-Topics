@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-04-07 04:17:07 UTC`
+📆 Last Updated: `2023-04-07 05:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,45 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 2 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 3 | [Central de Abastos](http://twitter.com/search?q=Central+de+Abastos) | N/A |
+| 1 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 2 | [San Luis Potosí](http://twitter.com/search?q=San+Luis+Potos%c3%ad) | N/A |
+| 3 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
 | 4 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 5 | [#incendio](http://twitter.com/search?q=%23incendio) | N/A |
-| 6 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
-| 7 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 8 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 9 | [BÉSENME EMINENAS](http://twitter.com/search?q=B%c3%89SENME+EMINENAS) | N/A |
-| 10 | [México-Toluca](http://twitter.com/search?q=M%c3%a9xico-Toluca) | N/A |
-| 11 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 12 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 13 | [Barry](http://twitter.com/search?q=Barry) | N/A |
+| 5 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
+| 6 | [Central de Abastos](http://twitter.com/search?q=Central+de+Abastos) | N/A |
+| 7 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 8 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
+| 9 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 10 | [#incendio](http://twitter.com/search?q=%23incendio) | N/A |
+| 11 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 12 | [Atlante](http://twitter.com/search?q=Atlante) | N/A |
+| 13 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
 | 14 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
-| 15 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
-| 16 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 17 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 18 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 15 | [BÉSENME EMINENAS](http://twitter.com/search?q=B%c3%89SENME+EMINENAS) | N/A |
+| 16 | [México-Toluca](http://twitter.com/search?q=M%c3%a9xico-Toluca) | N/A |
+| 17 | [Barry](http://twitter.com/search?q=Barry) | N/A |
+| 18 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
 | 19 | [Gael](http://twitter.com/search?q=Gael) | N/A |
-| 20 | [Foolish](http://twitter.com/search?q=Foolish) | N/A |
-| 21 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 22 | [San Luis Potosí](http://twitter.com/search?q=San+Luis+Potos%c3%ad) | N/A |
-| 23 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 24 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 25 | [Juana](http://twitter.com/search?q=Juana) | N/A |
-| 26 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 27 | [Matehuala](http://twitter.com/search?q=Matehuala) | N/A |
+| 20 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 21 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
+| 22 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
+| 23 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 24 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 25 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 26 | [Foolish](http://twitter.com/search?q=Foolish) | N/A |
+| 27 | [Jose](http://twitter.com/search?q=Jose) | N/A |
 | 28 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 29 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 30 | [#AutomóvilAllStar](http://twitter.com/search?q=%23Autom%c3%b3vilAllStar) | N/A |
-| 31 | [#Iztapalapa](http://twitter.com/search?q=%23Iztapalapa) | N/A |
-| 32 | [#reto4elementos](http://twitter.com/search?q=%23reto4elementos) | N/A |
+| 29 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 30 | [Juana](http://twitter.com/search?q=Juana) | N/A |
+| 31 | [#AutomovilAllStar](http://twitter.com/search?q=%23AutomovilAllStar) | N/A |
+| 32 | [#Iztapalapa](http://twitter.com/search?q=%23Iztapalapa) | N/A |
 | 33 | [#EsPorChivas](http://twitter.com/search?q=%23EsPorChivas) | N/A |
-| 34 | [#integracionkenini](http://twitter.com/search?q=%23integracionkenini) | N/A |
-| 35 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
-| 36 | [#LunaRosa](http://twitter.com/search?q=%23LunaRosa) | N/A |
-| 37 | [#JuevesSanto](http://twitter.com/search?q=%23JuevesSanto) | N/A |
+| 34 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 35 | [#LunaRosa](http://twitter.com/search?q=%23LunaRosa) | N/A |
+| 36 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
+| 37 | [#IntegracionKenini](http://twitter.com/search?q=%23IntegracionKenini) | N/A |
 | 38 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
-| 39 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
+| 39 | [#FreenBecky](http://twitter.com/search?q=%23FreenBecky) | N/A |
 
 
 

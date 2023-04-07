@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-04-07 04:17:29 UTC`
+📆 Last Updated: `2023-04-07 05:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,45 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MONEY800MYTViews](http://twitter.com/search?q=%23MONEY800MYTViews) | N/A |
-| 2 | [#DestinyclinicPrem](http://twitter.com/search?q=%23DestinyclinicPrem) | N/A |
-| 3 | [#LALISAMV600M](http://twitter.com/search?q=%23LALISAMV600M) | N/A |
-| 4 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
-| 5 | [GROUP CONCEPT PHOTO](http://twitter.com/search?q=GROUP+CONCEPT+PHOTO) | N/A |
-| 6 | [Car Seat Covers](http://twitter.com/search?q=Car+Seat+Covers) | N/A |
-| 7 | [Car Seat Cover](http://twitter.com/search?q=Car+Seat+Cover) | N/A |
-| 8 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 9 | [engfa welcome ceremony 2023](http://twitter.com/search?q=engfa+welcome+ceremony+2023) | N/A |
-| 10 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
-| 11 | [$USDC](http://twitter.com/search?q=%24USDC) | N/A |
-| 12 | [Cinco de Mayo Skull](http://twitter.com/search?q=Cinco+de+Mayo+Skull) | N/A |
-| 13 | [4pcs Flaming](http://twitter.com/search?q=4pcs+Flaming) | N/A |
-| 14 | [Sell](http://twitter.com/search?q=Sell) | N/A |
+| 1 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 2 | [#AgustDxIU](http://twitter.com/search?q=%23AgustDxIU) | N/A |
+| 3 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 4 | [#DestinyclinicPrem](http://twitter.com/search?q=%23DestinyclinicPrem) | N/A |
+| 5 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
+| 6 | [group concept photo](http://twitter.com/search?q=group+concept+photo) | N/A |
+| 7 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 8 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 9 | [Car Seat Cover](http://twitter.com/search?q=Car+Seat+Cover) | N/A |
+| 10 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 11 | [ENGFA Welcome Ceremony 2023](http://twitter.com/search?q=ENGFA+Welcome+Ceremony+2023) | N/A |
+| 12 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
+| 13 | [Skeleton](http://twitter.com/search?q=Skeleton) | N/A |
+| 14 | [$USDC](http://twitter.com/search?q=%24USDC) | N/A |
 | 15 | [Candy Skull Rug](http://twitter.com/search?q=Candy+Skull+Rug) | N/A |
-| 16 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 17 | [SyncSwap](http://twitter.com/search?q=SyncSwap) | N/A |
-| 18 | [Day of The Dead](http://twitter.com/search?q=Day+of+The+Dead) | N/A |
-| 19 | [Cuộc](http://twitter.com/search?q=Cu%e1%bb%99c) | N/A |
-| 20 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
-| 21 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
-| 22 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 23 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 24 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 16 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 17 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
+| 18 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 19 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 20 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 21 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
+| 22 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
+| 23 | [Motorcycle Skull](http://twitter.com/search?q=Motorcycle+Skull) | N/A |
+| 24 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
 | 25 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
-| 26 | [Người](http://twitter.com/search?q=Ng%c6%b0%e1%bb%9di) | N/A |
-| 27 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
-| 28 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
-| 29 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
-| 30 | [#TEMPEST_폭풍전야_D10](http://twitter.com/search?q=%23TEMPEST_%ed%8f%ad%ed%92%8d%ec%a0%84%ec%95%bc_D10) | N/A |
-| 31 | [#Summerนี้มีD7xBible](http://twitter.com/search?q=%23Summer%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%a1%e0%b8%b5D7xBible) | N/A |
-| 32 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 33 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 34 | [#MissGrandThailand2023](http://twitter.com/search?q=%23MissGrandThailand2023) | N/A |
-| 35 | [#BitgetExposed](http://twitter.com/search?q=%23BitgetExposed) | N/A |
-| 36 | [#แลกฟอลเทรนด์อิงล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
+| 26 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 27 | [SyncSwap](http://twitter.com/search?q=SyncSwap) | N/A |
+| 28 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 29 | [Hàn Quốc](http://twitter.com/search?q=H%c3%a0n+Qu%e1%bb%91c) | N/A |
+| 30 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 31 | [#LALISAMV600M](http://twitter.com/search?q=%23LALISAMV600M) | N/A |
+| 32 | [#MONEY800MYTViews](http://twitter.com/search?q=%23MONEY800MYTViews) | N/A |
+| 33 | [#tempest_폭풍전야_d10](http://twitter.com/search?q=%23tempest_%ed%8f%ad%ed%92%8d%ec%a0%84%ec%95%bc_d10) | N/A |
+| 34 | [#Summerนี้มีD7xBible](http://twitter.com/search?q=%23Summer%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%a1%e0%b8%b5D7xBible) | N/A |
+| 35 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
+| 36 | [#BitgetExposed](http://twitter.com/search?q=%23BitgetExposed) | N/A |
+| 37 | [#MissGrandThailand2023](http://twitter.com/search?q=%23MissGrandThailand2023) | N/A |
+| 38 | [#แลกฟอลเทรนด์อิงล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
+| 39 | [#แลกฟอลforเทรนด์อิงฟ้า](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5for%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2) | N/A |
 
 
 

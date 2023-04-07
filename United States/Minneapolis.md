@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-04-07 04:17:43 UTC`
+📆 Last Updated: `2023-04-07 05:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
 | 2 | [#SkiUMah](http://twitter.com/search?q=%23SkiUMah) | N/A |
-| 3 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 4 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 5 | [NBA X NICKI](http://twitter.com/search?q=NBA+X+NICKI) | N/A |
-| 6 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 5 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 6 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 | 7 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 8 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 9 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 10 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 11 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
-| 12 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 13 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
-| 14 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 15 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
-| 16 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
-| 17 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
-| 18 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 19 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
-| 20 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 21 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 22 | [YOONGIS](http://twitter.com/search?q=YOONGIS) | YOONGIS is a Korean slang term that is used to describe someone who is attractive, cool, and stylish. It can also be used to describe someone who is fashionable or trendy. In English, it could be translated as "stylish" or "trendy". |
-| 23 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
-| 24 | [Christian Braun](http://twitter.com/search?q=Christian+Braun) | N/A |
-| 25 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 26 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 27 | [ot12](http://twitter.com/search?q=ot12) | N/A |
-| 28 | [Bruce Brown](http://twitter.com/search?q=Bruce+Brown) | N/A |
-| 29 | [Crismatt](http://twitter.com/search?q=Crismatt) | N/A |
-| 30 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 31 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 32 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 33 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 34 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 35 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 36 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
-| 37 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 38 | [DeAndre Jordan](http://twitter.com/search?q=DeAndre+Jordan) | N/A |
-| 39 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 40 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
-| 41 | [New South](http://twitter.com/search?q=New+South) | N/A |
-| 42 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 43 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 44 | [Aaron Wiggins](http://twitter.com/search?q=Aaron+Wiggins) | N/A |
-| 45 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 46 | [Ethan Petry](http://twitter.com/search?q=Ethan+Petry) | N/A |
-| 47 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
-| 48 | [THE LYRICS](http://twitter.com/search?q=THE+LYRICS) | N/A |
-| 49 | [Freddie Freeman](http://twitter.com/search?q=Freddie+Freeman) | N/A |
-| 50 | [Ish Smith](http://twitter.com/search?q=Ish+Smith) | N/A |
+| 8 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 9 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
+| 10 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 11 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 12 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 13 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 14 | [#wafflehouse](http://twitter.com/search?q=%23wafflehouse) | N/A |
+| 15 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 16 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 17 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
+| 18 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 19 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 20 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
+| 21 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
+| 22 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
+| 23 | [Bruce Brown](http://twitter.com/search?q=Bruce+Brown) | N/A |
+| 24 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 25 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 26 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
+| 27 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 28 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
+| 29 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 30 | [ot12](http://twitter.com/search?q=ot12) | N/A |
+| 31 | [Evan Phillips](http://twitter.com/search?q=Evan+Phillips) | N/A |
+| 32 | [Bickford](http://twitter.com/search?q=Bickford) | N/A |
+| 33 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 34 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
+| 35 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 36 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 37 | [Christian Braun](http://twitter.com/search?q=Christian+Braun) | N/A |
+| 38 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 39 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 40 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 41 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 42 | [Ben Meyers](http://twitter.com/search?q=Ben+Meyers) | N/A |
+| 43 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 44 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 45 | [Scott Walker](http://twitter.com/search?q=Scott+Walker) | N/A |
+| 46 | [THE LYRICS](http://twitter.com/search?q=THE+LYRICS) | N/A |
+| 47 | [Crismatt](http://twitter.com/search?q=Crismatt) | N/A |
+| 48 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 49 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 50 | [DeAndre Jordan](http://twitter.com/search?q=DeAndre+Jordan) | N/A |
 
 
 
