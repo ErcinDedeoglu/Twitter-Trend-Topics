@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-04-07 14:17:28 UTC`
+📆 Last Updated: `2023-04-07 15:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,47 @@ This is top 50 for [Brazil](</Brazil>)
 | 4 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
 | 5 | [Arboleda](http://twitter.com/search?q=Arboleda) | Arboleda is a Spanish word that translates to "grove" or "woodland" in English. It is used to refer to a small area of trees, usually in a park or garden. |
 | 6 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 7 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 8 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 7 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 8 | [bambam](http://twitter.com/search?q=bambam) | N/A |
 | 9 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 10 | [Bolsonarista](http://twitter.com/search?q=Bolsonarista) | N/A |
+| 10 | [quaresma](http://twitter.com/search?q=quaresma) | N/A |
 | 11 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 | 12 | [Sexta-feira Santa](http://twitter.com/search?q=Sexta-feira+Santa) | N/A |
-| 13 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
-| 14 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 15 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
-| 16 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 17 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
-| 18 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 19 | [#diadojornalista](http://twitter.com/search?q=%23diadojornalista) | N/A |
-| 20 | [Dia Mundial da Saúde](http://twitter.com/search?q=Dia+Mundial+da+Sa%c3%bade) | N/A |
-| 21 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 22 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 23 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 24 | [Correios](http://twitter.com/search?q=Correios) | N/A |
-| 25 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
-| 26 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 27 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 28 | [Sexta-feira da Paixão](http://twitter.com/search?q=Sexta-feira+da+Paix%c3%a3o) | N/A |
-| 29 | [Canjica](http://twitter.com/search?q=Canjica) | N/A |
-| 30 | [#JISOOwithYOUNGJI](http://twitter.com/search?q=%23JISOOwithYOUNGJI) | N/A |
-| 31 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
-| 32 | [Oxalá](http://twitter.com/search?q=Oxal%c3%a1) | N/A |
-| 33 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
-| 34 | [kylie](http://twitter.com/search?q=kylie) | N/A |
-| 35 | [jisoo no prepare](http://twitter.com/search?q=jisoo+no+prepare) | N/A |
-| 36 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
-| 37 | [#Jesus](http://twitter.com/search?q=%23Jesus) | N/A |
-| 38 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 39 | [Sasori](http://twitter.com/search?q=Sasori) | N/A |
-| 40 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 41 | [Nadja](http://twitter.com/search?q=Nadja) | N/A |
-| 42 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
+| 13 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 14 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
+| 15 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
+| 16 | [#diadojornalista](http://twitter.com/search?q=%23diadojornalista) | N/A |
+| 17 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 18 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 19 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 20 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 21 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 22 | [Dia Mundial da Saúde](http://twitter.com/search?q=Dia+Mundial+da+Sa%c3%bade) | N/A |
+| 23 | [Hera](http://twitter.com/search?q=Hera) | N/A |
+| 24 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 25 | [Correios](http://twitter.com/search?q=Correios) | N/A |
+| 26 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 27 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
+| 28 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 29 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 30 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
+| 31 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
+| 32 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 33 | [Youngji](http://twitter.com/search?q=Youngji) | N/A |
+| 34 | [Canjica](http://twitter.com/search?q=Canjica) | N/A |
+| 35 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 36 | [Sexta-feira da Paixão](http://twitter.com/search?q=Sexta-feira+da+Paix%c3%a3o) | N/A |
+| 37 | [kylie](http://twitter.com/search?q=kylie) | N/A |
+| 38 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
+| 39 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 40 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 41 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
+| 42 | [Oxalá](http://twitter.com/search?q=Oxal%c3%a1) | N/A |
 | 43 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 44 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 45 | [Mimada](http://twitter.com/search?q=Mimada) | N/A |
-| 46 | [yoon](http://twitter.com/search?q=yoon) | N/A |
-| 47 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 48 | [niki](http://twitter.com/search?q=niki) | N/A |
-| 49 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
+| 44 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
+| 45 | [QUE HONRA SER](http://twitter.com/search?q=QUE+HONRA+SER) | N/A |
+| 46 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
+| 47 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
 
 
 

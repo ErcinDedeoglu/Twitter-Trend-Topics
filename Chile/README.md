@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-04-07 14:18:15 UTC`
+📆 Last Updated: `2023-04-07 15:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Chile
 | 2 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
 | 3 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
 | 4 | [Paulina de Allende](http://twitter.com/search?q=Paulina+de+Allende) | N/A |
-| 5 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
-| 6 | [#Los10MandamientosEnTVN](http://twitter.com/search?q=%23Los10MandamientosEnTVN) | N/A |
+| 5 | [#Los10MandamientosEnTVN](http://twitter.com/search?q=%23Los10MandamientosEnTVN) | N/A |
+| 6 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
 | 7 | [Gabriela Mistral](http://twitter.com/search?q=Gabriela+Mistral) | N/A |
-| 8 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
-| 9 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
-| 10 | [#100Indecisos](http://twitter.com/search?q=%23100Indecisos) | N/A |
-| 11 | [#CHVNoticias](http://twitter.com/search?q=%23CHVNoticias) | N/A |
-| 12 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 13 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 14 | [Cúcuta](http://twitter.com/search?q=C%c3%bacuta) | N/A |
-| 15 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 16 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 17 | [Sepu](http://twitter.com/search?q=Sepu) | N/A |
-| 18 | [Colegio de Periodistas](http://twitter.com/search?q=Colegio+de+Periodistas) | N/A |
-| 19 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
+| 8 | [#CHVNoticias](http://twitter.com/search?q=%23CHVNoticias) | N/A |
+| 9 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
+| 10 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
+| 11 | [#100Indecisos](http://twitter.com/search?q=%23100Indecisos) | N/A |
+| 12 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 13 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
+| 14 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 15 | [Cúcuta](http://twitter.com/search?q=C%c3%bacuta) | N/A |
+| 16 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
+| 17 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 18 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 19 | [Colegio de Periodistas](http://twitter.com/search?q=Colegio+de+Periodistas) | N/A |
 | 20 | [Vlado Mirosevic](http://twitter.com/search?q=Vlado+Mirosevic) | N/A |
 | 21 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
-| 22 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
-| 23 | [estado de excepción](http://twitter.com/search?q=estado+de+excepci%c3%b3n) | N/A |
-| 24 | [bolados](http://twitter.com/search?q=bolados) | N/A |
-| 25 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 22 | [Sepu](http://twitter.com/search?q=Sepu) | N/A |
+| 23 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
+| 24 | [Estado de Excepción](http://twitter.com/search?q=Estado+de+Excepci%c3%b3n) | N/A |
+| 25 | [bolados](http://twitter.com/search?q=bolados) | N/A |
 | 26 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
-| 27 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 28 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
-| 29 | [Rubilar](http://twitter.com/search?q=Rubilar) | N/A |
-| 30 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
-| 31 | [Roberto Cox](http://twitter.com/search?q=Roberto+Cox) | N/A |
-| 32 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
-| 33 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 34 | [Funcionario de la PDI](http://twitter.com/search?q=Funcionario+de+la+PDI) | N/A |
-| 35 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
-| 36 | [Involuntario](http://twitter.com/search?q=Involuntario) | N/A |
-| 37 | [Diego Ibañez](http://twitter.com/search?q=Diego+Iba%c3%b1ez) | N/A |
+| 27 | [Premio Nobel de Literatura](http://twitter.com/search?q=Premio+Nobel+de+Literatura) | N/A |
+| 28 | [Funcionario de la PDI](http://twitter.com/search?q=Funcionario+de+la+PDI) | N/A |
+| 29 | [Roberto Cox](http://twitter.com/search?q=Roberto+Cox) | N/A |
+| 30 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
+| 31 | [rubilar](http://twitter.com/search?q=rubilar) | N/A |
+| 32 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 33 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 34 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
+| 35 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 36 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
+| 37 | [Judas](http://twitter.com/search?q=Judas) | N/A |
 | 38 | [Mirna Schindler](http://twitter.com/search?q=Mirna+Schindler) | N/A |
-| 39 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 40 | [plaza Italia](http://twitter.com/search?q=plaza+Italia) | N/A |
-| 41 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 42 | [Bachelet](http://twitter.com/search?q=Bachelet) | N/A |
+| 39 | [Involuntario](http://twitter.com/search?q=Involuntario) | N/A |
+| 40 | [Karadima](http://twitter.com/search?q=Karadima) | N/A |
+| 41 | [Diego Ibañez](http://twitter.com/search?q=Diego+Iba%c3%b1ez) | N/A |
+| 42 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
 | 43 | [Hipocresía](http://twitter.com/search?q=Hipocres%c3%ada) | N/A |
-| 44 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
-| 45 | [SE BUSCAN](http://twitter.com/search?q=SE+BUSCAN) | N/A |
-| 46 | [Banderas](http://twitter.com/search?q=Banderas) | N/A |
-| 47 | [Buitre](http://twitter.com/search?q=Buitre) | N/A |
-| 48 | [Delirante](http://twitter.com/search?q=Delirante) | N/A |
-| 49 | [Aprovechamiento](http://twitter.com/search?q=Aprovechamiento) | N/A |
-| 50 | [Octubrista](http://twitter.com/search?q=Octubrista) | N/A |
+| 44 | [Audi](http://twitter.com/search?q=Audi) | N/A |
+| 45 | [Bachelet](http://twitter.com/search?q=Bachelet) | N/A |
+| 46 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 47 | [Delirante](http://twitter.com/search?q=Delirante) | N/A |
+| 48 | [La Moneda](http://twitter.com/search?q=La+Moneda) | N/A |
+| 49 | [Vicuña](http://twitter.com/search?q=Vicu%c3%b1a) | N/A |
+| 50 | [SE BUSCAN](http://twitter.com/search?q=SE+BUSCAN) | N/A |
 
 
 

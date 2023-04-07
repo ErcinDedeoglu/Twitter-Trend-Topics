@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-04-07 14:18:23 UTC`
+📆 Last Updated: `2023-04-07 15:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,43 @@ This is top 50 for Vietnam
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WhatsUpBIU](http://twitter.com/search?q=%23WhatsUpBIU) | N/A |
-| 2 | [#ShowmeloveTheseriesEP6](http://twitter.com/search?q=%23ShowmeloveTheseriesEP6) | N/A |
-| 3 | [#XinchaoPondPhuwin](http://twitter.com/search?q=%23XinchaoPondPhuwin) | N/A |
-| 4 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
-| 5 | [#BKEX](http://twitter.com/search?q=%23BKEX) | N/A |
+| 1 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
+| 2 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 3 | [#WhatsUpBIU](http://twitter.com/search?q=%23WhatsUpBIU) | N/A |
+| 4 | [#ShowmeloveTheseriesEP6](http://twitter.com/search?q=%23ShowmeloveTheseriesEP6) | N/A |
+| 5 | [#XinchaoPondPhuwin](http://twitter.com/search?q=%23XinchaoPondPhuwin) | N/A |
 | 6 | [group concept photo](http://twitter.com/search?q=group+concept+photo) | N/A |
 | 7 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 8 | [Car Seat Covers](http://twitter.com/search?q=Car+Seat+Covers) | N/A |
+| 8 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
 | 9 | [Nguyên](http://twitter.com/search?q=Nguy%c3%aan) | N/A |
-| 10 | [4pcs Flaming](http://twitter.com/search?q=4pcs+Flaming) | N/A |
-| 11 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 12 | [5 brk](http://twitter.com/search?q=5+brk) | N/A |
-| 13 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 14 | [Gothic](http://twitter.com/search?q=Gothic) | N/A |
+| 10 | [Skull Car Seat Cover](http://twitter.com/search?q=Skull+Car+Seat+Cover) | N/A |
+| 11 | [4pcs Flaming](http://twitter.com/search?q=4pcs+Flaming) | N/A |
+| 12 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 13 | [5 brk](http://twitter.com/search?q=5+brk) | N/A |
+| 14 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 15 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
-| 16 | [Mexican Skull](http://twitter.com/search?q=Mexican+Skull) | N/A |
-| 17 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
-| 18 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
-| 19 | [engfa welcome ceremony 2023](http://twitter.com/search?q=engfa+welcome+ceremony+2023) | N/A |
-| 20 | [Cuộc](http://twitter.com/search?q=Cu%e1%bb%99c) | N/A |
-| 21 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 22 | [Day of The Dead](http://twitter.com/search?q=Day+of+The+Dead) | N/A |
-| 23 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 24 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 25 | [Đừng](http://twitter.com/search?q=%c4%90%e1%bb%abng) | N/A |
-| 26 | [Thấy](http://twitter.com/search?q=Th%e1%ba%a5y) | N/A |
-| 27 | [#WAXL](http://twitter.com/search?q=%23WAXL) | N/A |
-| 28 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 29 | [#LALISAMV600M](http://twitter.com/search?q=%23LALISAMV600M) | N/A |
-| 30 | [#MONEY800MYTViews](http://twitter.com/search?q=%23MONEY800MYTViews) | N/A |
-| 31 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
-| 32 | [#AgustDxIU](http://twitter.com/search?q=%23AgustDxIU) | N/A |
-| 33 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 34 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 35 | [#ปอนด์ภูวินทร์](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%a0%e0%b8%b9%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c) | N/A |
-| 36 | [#MHMA2023](http://twitter.com/search?q=%23MHMA2023) | N/A |
-| 37 | [#NETIZENSREPORT](http://twitter.com/search?q=%23NETIZENSREPORT) | N/A |
-| 38 | [#ppnaravit](http://twitter.com/search?q=%23ppnaravit) | N/A |
-| 39 | [#แลกฟอลforเทรนด์อิงฟ้า](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5for%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2) | N/A |
-| 40 | [#แลกฟอลเทรนให้ชาล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
-| 41 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 42 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 16 | [Gothic](http://twitter.com/search?q=Gothic) | N/A |
+| 17 | [Skeleton](http://twitter.com/search?q=Skeleton) | N/A |
+| 18 | [Skeleton](http://twitter.com/search?q=Skeleton) | N/A |
+| 19 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
+| 20 | [Mexican Skull](http://twitter.com/search?q=Mexican+Skull) | N/A |
+| 21 | [Cuộc](http://twitter.com/search?q=Cu%e1%bb%99c) | N/A |
+| 22 | [chấm](http://twitter.com/search?q=ch%e1%ba%a5m) | N/A |
+| 23 | [Candy Skull Rug](http://twitter.com/search?q=Candy+Skull+Rug) | N/A |
+| 24 | [Thấy](http://twitter.com/search?q=Th%e1%ba%a5y) | N/A |
+| 25 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 26 | [Thằng](http://twitter.com/search?q=Th%e1%ba%b1ng) | N/A |
+| 27 | [Đừng](http://twitter.com/search?q=%c4%90%e1%bb%abng) | N/A |
+| 28 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
+| 29 | [#BKEX](http://twitter.com/search?q=%23BKEX) | N/A |
+| 30 | [#WAXL](http://twitter.com/search?q=%23WAXL) | N/A |
+| 31 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 32 | [#LALISAMV600M](http://twitter.com/search?q=%23LALISAMV600M) | N/A |
+| 33 | [#MONEY800MYTViews](http://twitter.com/search?q=%23MONEY800MYTViews) | N/A |
+| 34 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
+| 35 | [#AgustDxIU](http://twitter.com/search?q=%23AgustDxIU) | N/A |
+| 36 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
+| 37 | [#ppnaravit](http://twitter.com/search?q=%23ppnaravit) | N/A |
 
 
 
