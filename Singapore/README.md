@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-04-07 22:17:42 UTC`
+📆 Last Updated: `2023-04-07 23:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,9 +25,9 @@ This is top 50 for Singapore
 | 8 | [#TREASUREINSG](http://twitter.com/search?q=%23TREASUREINSG) | N/A |
 | 9 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 10 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 11 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
-| 12 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 13 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 11 | [jonghyun](http://twitter.com/search?q=jonghyun) | N/A |
+| 12 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 13 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 14 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
 | 15 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
 | 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
@@ -42,19 +42,19 @@ This is top 50 for Singapore
 | 25 | [keita](http://twitter.com/search?q=keita) | N/A |
 | 26 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
 | 27 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 28 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 29 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 30 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 31 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 32 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 33 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 34 | [Thai](http://twitter.com/search?q=Thai) | N/A |
-| 35 | [Lily](http://twitter.com/search?q=Lily) | N/A |
-| 36 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 37 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 38 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 39 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 40 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 28 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 29 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 30 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 31 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 32 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 33 | [Thai](http://twitter.com/search?q=Thai) | N/A |
+| 34 | [Lily](http://twitter.com/search?q=Lily) | N/A |
+| 35 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 36 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 38 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 39 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 40 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
 | 41 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
 | 42 | [Apink](http://twitter.com/search?q=Apink) | N/A |
 | 43 | [Manila](http://twitter.com/search?q=Manila) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Singapore
 | 47 | [Josh](http://twitter.com/search?q=Josh) | N/A |
 | 48 | [Bali](http://twitter.com/search?q=Bali) | N/A |
 | 49 | [Myanmar](http://twitter.com/search?q=Myanmar) | N/A |
-| 50 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 50 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 
 
 

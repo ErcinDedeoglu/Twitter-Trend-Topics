@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-04-07 22:17:28 UTC`
+📆 Last Updated: `2023-04-07 23:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cease](http://twitter.com/search?q=Cease) | N/A |
-| 2 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 3 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 4 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 8 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
-| 9 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 10 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 11 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 12 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 1 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
+| 2 | [Cease](http://twitter.com/search?q=Cease) | N/A |
+| 3 | [Luis Robert](http://twitter.com/search?q=Luis+Robert) | N/A |
+| 4 | [The Sox](http://twitter.com/search?q=The+Sox) | N/A |
+| 5 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 6 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 7 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 11 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 12 | [#LetsGoBucs](http://twitter.com/search?q=%23LetsGoBucs) | N/A |
 | 13 | [Boone](http://twitter.com/search?q=Boone) | N/A |
-| 14 | [Sonny Gray](http://twitter.com/search?q=Sonny+Gray) | N/A |
-| 15 | [#LetsGoBucs](http://twitter.com/search?q=%23LetsGoBucs) | N/A |
-| 16 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
-| 17 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
-| 18 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
-| 19 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 20 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
-| 21 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 22 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 23 | [Oswaldo](http://twitter.com/search?q=Oswaldo) | N/A |
-| 24 | [Loomer](http://twitter.com/search?q=Loomer) | N/A |
-| 25 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 26 | [Richie James](http://twitter.com/search?q=Richie+James) | Richie James is a nickname given to the American football player Richie James Jr., who currently plays for the San Francisco 49ers. The name is derived from his first and last names. In English, it means "Richie James Junior". |
-| 27 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 28 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
-| 29 | [Diekman](http://twitter.com/search?q=Diekman) | N/A |
-| 30 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
-| 31 | [Cutch](http://twitter.com/search?q=Cutch) | Cutch is a slang term for cocaine. It is derived from the word "cocaine" and is often used to refer to the drug in a casual or informal setting. |
-| 32 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
-| 33 | [Civale](http://twitter.com/search?q=Civale) | N/A |
-| 34 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 35 | [Ian Hamilton](http://twitter.com/search?q=Ian+Hamilton) | N/A |
-| 36 | [Big Jeff](http://twitter.com/search?q=Big+Jeff) | N/A |
-| 37 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
-| 38 | [Tostada](http://twitter.com/search?q=Tostada) | N/A |
-| 39 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 40 | [#Pirates](http://twitter.com/search?q=%23Pirates) | N/A |
-| 41 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 42 | [Trevino](http://twitter.com/search?q=Trevino) | N/A |
-| 43 | [Pusha T](http://twitter.com/search?q=Pusha+T) | N/A |
-| 44 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 45 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 46 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 47 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 48 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 49 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 50 | [BRYSON TILLER](http://twitter.com/search?q=BRYSON+TILLER) | N/A |
+| 14 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 15 | [Stanek](http://twitter.com/search?q=Stanek) | N/A |
+| 16 | [#MNTwins](http://twitter.com/search?q=%23MNTwins) | N/A |
+| 17 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
+| 18 | [Sonny Gray](http://twitter.com/search?q=Sonny+Gray) | N/A |
+| 19 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 20 | [#RaiseIt](http://twitter.com/search?q=%23RaiseIt) | N/A |
+| 21 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 22 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
+| 23 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 24 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 25 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
+| 26 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 27 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
+| 28 | [Connor Joe](http://twitter.com/search?q=Connor+Joe) | N/A |
+| 29 | [Maldy](http://twitter.com/search?q=Maldy) | N/A |
+| 30 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
+| 31 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 32 | [Loomer](http://twitter.com/search?q=Loomer) | N/A |
+| 33 | [Kyle Farmer](http://twitter.com/search?q=Kyle+Farmer) | N/A |
+| 34 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
+| 35 | [Raise the Jolly Roger](http://twitter.com/search?q=Raise+the+Jolly+Roger) | N/A |
+| 36 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 37 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
+| 38 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
+| 39 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 40 | [Richie James](http://twitter.com/search?q=Richie+James) | Richie James is a nickname given to the American football player Richie James Jr., who currently plays for the San Francisco 49ers. The name is derived from his first and last names. In English, it means "Richie James Junior". |
+| 41 | [Cutch](http://twitter.com/search?q=Cutch) | Cutch is a slang term for cocaine. It is derived from the word "cocaine" and is often used to refer to the drug in a casual or informal setting. |
+| 42 | [Matthew Kacsmaryk](http://twitter.com/search?q=Matthew+Kacsmaryk) | N/A |
+| 43 | [Oswaldo](http://twitter.com/search?q=Oswaldo) | N/A |
+| 44 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 45 | [Diekman](http://twitter.com/search?q=Diekman) | N/A |
+| 46 | [Slovenian](http://twitter.com/search?q=Slovenian) | N/A |
+| 47 | [Jim Jones](http://twitter.com/search?q=Jim+Jones) | N/A |
+| 48 | [Trevino](http://twitter.com/search?q=Trevino) | N/A |
+| 49 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
+| 50 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
 
 
 

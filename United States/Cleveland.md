@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-04-07 22:17:29 UTC`
+📆 Last Updated: `2023-04-07 23:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Guardians](http://twitter.com/search?q=%23Guardians) | N/A |
-| 2 | [Myles Straw](http://twitter.com/search?q=Myles+Straw) | N/A |
-| 3 | [John Adams](http://twitter.com/search?q=John+Adams) | John Adams is the second President of the United States, serving from 1797 to 1801. He was a leader of the American Revolution and a major figure in the early history of the United States. The phrase "John Adams" is often used to refer to his legacy as a Founding Father of the United States. |
-| 4 | [Progressive Field](http://twitter.com/search?q=Progressive+Field) | N/A |
-| 5 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 6 | [Mixon](http://twitter.com/search?q=Mixon) | Mixon is a surname of English origin. It is derived from the Old English words mige, meaning "son of" and sunu, meaning "son". The name was originally given to the son of a man named Mige or Mig. |
-| 7 | [#Cleveland](http://twitter.com/search?q=%23Cleveland) | N/A |
-| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 10 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 11 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
-| 12 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 13 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 14 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 15 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 16 | [Boone](http://twitter.com/search?q=Boone) | N/A |
-| 17 | [Sonny Gray](http://twitter.com/search?q=Sonny+Gray) | N/A |
-| 18 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
-| 19 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
-| 20 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
-| 21 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 22 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
+| 1 | [Josh Bell](http://twitter.com/search?q=Josh+Bell) | N/A |
+| 2 | [#Guardians](http://twitter.com/search?q=%23Guardians) | N/A |
+| 3 | [Myles Straw](http://twitter.com/search?q=Myles+Straw) | N/A |
+| 4 | [John Adams](http://twitter.com/search?q=John+Adams) | John Adams is the second President of the United States, serving from 1797 to 1801. He was a leader of the American Revolution and a major figure in the early history of the United States. The phrase "John Adams" is often used to refer to his legacy as a Founding Father of the United States. |
+| 5 | [Progressive Field](http://twitter.com/search?q=Progressive+Field) | N/A |
+| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 8 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 9 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 10 | [#LetsGoBucs](http://twitter.com/search?q=%23LetsGoBucs) | N/A |
+| 11 | [Boone](http://twitter.com/search?q=Boone) | N/A |
+| 12 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 13 | [Stanek](http://twitter.com/search?q=Stanek) | N/A |
+| 14 | [#MNTwins](http://twitter.com/search?q=%23MNTwins) | N/A |
+| 15 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
+| 16 | [Sonny Gray](http://twitter.com/search?q=Sonny+Gray) | N/A |
+| 17 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 18 | [#RaiseIt](http://twitter.com/search?q=%23RaiseIt) | N/A |
+| 19 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 20 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
+| 21 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 22 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
 | 23 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 24 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 25 | [Loomer](http://twitter.com/search?q=Loomer) | N/A |
-| 26 | [Oswaldo](http://twitter.com/search?q=Oswaldo) | N/A |
-| 27 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 28 | [Richie James](http://twitter.com/search?q=Richie+James) | Richie James is a nickname given to the American football player Richie James Jr., who currently plays for the San Francisco 49ers. The name is derived from his first and last names. In English, it means "Richie James Junior". |
-| 29 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 30 | [Diekman](http://twitter.com/search?q=Diekman) | N/A |
-| 31 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
-| 32 | [Cutch](http://twitter.com/search?q=Cutch) | Cutch is a slang term for cocaine. It is derived from the word "cocaine" and is often used to refer to the drug in a casual or informal setting. |
-| 33 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
-| 34 | [Civale](http://twitter.com/search?q=Civale) | N/A |
-| 35 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 36 | [Ian Hamilton](http://twitter.com/search?q=Ian+Hamilton) | N/A |
-| 37 | [Big Jeff](http://twitter.com/search?q=Big+Jeff) | N/A |
-| 38 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
-| 39 | [Tostada](http://twitter.com/search?q=Tostada) | N/A |
-| 40 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 24 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
+| 25 | [Connor Joe](http://twitter.com/search?q=Connor+Joe) | N/A |
+| 26 | [Maldy](http://twitter.com/search?q=Maldy) | N/A |
+| 27 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
+| 28 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 29 | [Kyle Farmer](http://twitter.com/search?q=Kyle+Farmer) | N/A |
+| 30 | [Loomer](http://twitter.com/search?q=Loomer) | N/A |
+| 31 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
+| 32 | [Raise the Jolly Roger](http://twitter.com/search?q=Raise+the+Jolly+Roger) | N/A |
+| 33 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 34 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
+| 35 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
+| 36 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 37 | [Richie James](http://twitter.com/search?q=Richie+James) | Richie James is a nickname given to the American football player Richie James Jr., who currently plays for the San Francisco 49ers. The name is derived from his first and last names. In English, it means "Richie James Junior". |
+| 38 | [Cutch](http://twitter.com/search?q=Cutch) | Cutch is a slang term for cocaine. It is derived from the word "cocaine" and is often used to refer to the drug in a casual or informal setting. |
+| 39 | [Matthew Kacsmaryk](http://twitter.com/search?q=Matthew+Kacsmaryk) | N/A |
+| 40 | [Oswaldo](http://twitter.com/search?q=Oswaldo) | N/A |
 | 41 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 42 | [Trevino](http://twitter.com/search?q=Trevino) | N/A |
-| 43 | [Pusha T](http://twitter.com/search?q=Pusha+T) | N/A |
-| 44 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 45 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 46 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 47 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 48 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 49 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 50 | [BRYSON TILLER](http://twitter.com/search?q=BRYSON+TILLER) | N/A |
+| 42 | [Diekman](http://twitter.com/search?q=Diekman) | N/A |
+| 43 | [Slovenian](http://twitter.com/search?q=Slovenian) | N/A |
+| 44 | [Jim Jones](http://twitter.com/search?q=Jim+Jones) | N/A |
+| 45 | [Trevino](http://twitter.com/search?q=Trevino) | N/A |
+| 46 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
+| 47 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
+| 48 | [Tostada](http://twitter.com/search?q=Tostada) | N/A |
+| 49 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 50 | [Dubon](http://twitter.com/search?q=Dubon) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-04-07 22:17:15 UTC`
+📆 Last Updated: `2023-04-07 23:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Philippines](</Philippines>)
 | 7 | [#MHMA2023](http://twitter.com/search?q=%23MHMA2023) | N/A |
 | 8 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
 | 9 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
-| 10 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 11 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 12 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
+| 10 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
+| 11 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
+| 12 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 13 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 14 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 14 | [jonghyun](http://twitter.com/search?q=jonghyun) | N/A |
 | 15 | [Biyernes Santo](http://twitter.com/search?q=Biyernes+Santo) | N/A |
-| 16 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 17 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
-| 18 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 19 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
-| 20 | [MALIGAYANG UNANG KA1ARAWAN](http://twitter.com/search?q=MALIGAYANG+UNANG+KA1ARAWAN) | N/A |
-| 21 | [RRADISH FOR PPOP](http://twitter.com/search?q=RRADISH+FOR+PPOP) | N/A |
-| 22 | [riki](http://twitter.com/search?q=riki) | N/A |
-| 23 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 24 | [DID NI-KI JUST](http://twitter.com/search?q=DID+NI-KI+JUST) | N/A |
-| 25 | [yixing](http://twitter.com/search?q=yixing) | N/A |
-| 26 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
-| 27 | [Congratulations LISA](http://twitter.com/search?q=Congratulations+LISA) | N/A |
-| 28 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 29 | [2milyong pasasalamat](http://twitter.com/search?q=2milyong+pasasalamat) | N/A |
+| 16 | [jjong](http://twitter.com/search?q=jjong) | N/A |
+| 17 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 18 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
+| 19 | [RRADISH FOR PPOP](http://twitter.com/search?q=RRADISH+FOR+PPOP) | N/A |
+| 20 | [riki](http://twitter.com/search?q=riki) | N/A |
+| 21 | [yixing](http://twitter.com/search?q=yixing) | N/A |
+| 22 | [DID NI-KI JUST](http://twitter.com/search?q=DID+NI-KI+JUST) | N/A |
+| 23 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
+| 24 | [Congratulations LISA](http://twitter.com/search?q=Congratulations+LISA) | N/A |
+| 25 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 26 | [2milyong pasasalamat](http://twitter.com/search?q=2milyong+pasasalamat) | N/A |
+| 27 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 28 | [MALIGAYANG UNANG KA1ARAWAN](http://twitter.com/search?q=MALIGAYANG+UNANG+KA1ARAWAN) | N/A |
+| 29 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
 | 30 | [Baeksang](http://twitter.com/search?q=Baeksang) | N/A |
-| 31 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 32 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 33 | [WE LOVE YOU FREEN](http://twitter.com/search?q=WE+LOVE+YOU+FREEN) | N/A |
-| 34 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
-| 35 | [PARK JIHOON](http://twitter.com/search?q=PARK+JIHOON) | N/A |
-| 36 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 37 | [binignit](http://twitter.com/search?q=binignit) | N/A |
-| 38 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 39 | [MELODY OF SCENTS D1](http://twitter.com/search?q=MELODY+OF+SCENTS+D1) | N/A |
-| 40 | [My Liberation Notes](http://twitter.com/search?q=My+Liberation+Notes) | N/A |
-| 41 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 42 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 43 | [Little Women](http://twitter.com/search?q=Little+Women) | N/A |
-| 44 | [EXO-L](http://twitter.com/search?q=EXO-L) | N/A |
-| 45 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 46 | [TAEHYUNG TAEHYUNG](http://twitter.com/search?q=TAEHYUNG+TAEHYUNG) | N/A |
-| 47 | [EXO SARANGHAJA](http://twitter.com/search?q=EXO+SARANGHAJA) | N/A |
-| 48 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 49 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
-| 50 | [Caitlyn](http://twitter.com/search?q=Caitlyn) | Caitlyn is a female given name of Irish origin. It is a variant of the name Caitlin, which is derived from the Irish name Caitlín, meaning "pure" or "untainted". |
+| 31 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 32 | [WE LOVE YOU FREEN](http://twitter.com/search?q=WE+LOVE+YOU+FREEN) | N/A |
+| 33 | [park jihoon](http://twitter.com/search?q=park+jihoon) | N/A |
+| 34 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
+| 35 | [binignit](http://twitter.com/search?q=binignit) | N/A |
+| 36 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 37 | [MELODY OF SCENTS D1](http://twitter.com/search?q=MELODY+OF+SCENTS+D1) | N/A |
+| 38 | [My Liberation Notes](http://twitter.com/search?q=My+Liberation+Notes) | N/A |
+| 39 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 40 | [Little Women](http://twitter.com/search?q=Little+Women) | N/A |
+| 41 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
+| 42 | [EXO-L](http://twitter.com/search?q=EXO-L) | N/A |
+| 43 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 44 | [EXO SARANGHAJA](http://twitter.com/search?q=EXO+SARANGHAJA) | N/A |
+| 45 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 46 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 47 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 48 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 49 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 50 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 
 
 

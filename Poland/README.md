@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-04-07 22:17:41 UTC`
+📆 Last Updated: `2023-04-07 23:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Poland
 | 2 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
 | 3 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
 | 4 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
-| 5 | [#wloskarobota](http://twitter.com/search?q=%23wloskarobota) | N/A |
-| 6 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
+| 5 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
+| 6 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
 | 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 9 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
-| 10 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
-| 11 | [#ARES14](http://twitter.com/search?q=%23ARES14) | N/A |
-| 12 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
-| 13 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
-| 14 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 15 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
-| 16 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 17 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
-| 18 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
-| 19 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 20 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
-| 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 22 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 23 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 24 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
-| 25 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
-| 26 | [Radio Zet](http://twitter.com/search?q=Radio+Zet) | N/A |
-| 27 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 28 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 29 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
-| 30 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 31 | [Klubowy GOAT](http://twitter.com/search?q=Klubowy+GOAT) | N/A |
-| 32 | [KRRiT](http://twitter.com/search?q=KRRiT) | N/A |
-| 33 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
-| 34 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 35 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
-| 36 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 37 | [Droga Krzyżowa](http://twitter.com/search?q=Droga+Krzy%c5%bcowa) | N/A |
-| 38 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 39 | [ZAKSA](http://twitter.com/search?q=ZAKSA) | N/A |
-| 40 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
-| 41 | [Bugaj](http://twitter.com/search?q=Bugaj) | N/A |
+| 8 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
+| 9 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
+| 10 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 11 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
+| 12 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
+| 13 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 14 | [#włoskarobota](http://twitter.com/search?q=%23w%c5%82oskarobota) | N/A |
+| 15 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
+| 16 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
+| 17 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
+| 18 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 19 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 21 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 22 | [#PiStoZŁO](http://twitter.com/search?q=%23PiStoZ%c5%81O) | N/A |
+| 23 | [#ksiazkowemole](http://twitter.com/search?q=%23ksiazkowemole) | N/A |
+| 24 | [Radio Zet](http://twitter.com/search?q=Radio+Zet) | N/A |
+| 25 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
+| 26 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 27 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 28 | [Klubowy GOAT](http://twitter.com/search?q=Klubowy+GOAT) | N/A |
+| 29 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
+| 30 | [KRRiT](http://twitter.com/search?q=KRRiT) | N/A |
+| 31 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 32 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 33 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 34 | [Droga Krzyżowa](http://twitter.com/search?q=Droga+Krzy%c5%bcowa) | N/A |
+| 35 | [ZAKSA](http://twitter.com/search?q=ZAKSA) | N/A |
+| 36 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
+| 37 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
+| 38 | [Bugaj](http://twitter.com/search?q=Bugaj) | N/A |
+| 39 | [vuko](http://twitter.com/search?q=vuko) | N/A |
+| 40 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 41 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
 | 42 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
-| 43 | [vuko](http://twitter.com/search?q=vuko) | N/A |
-| 44 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 45 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
-| 46 | [Koloseum](http://twitter.com/search?q=Koloseum) | N/A |
-| 47 | [Murem](http://twitter.com/search?q=Murem) | N/A |
-| 48 | [T-64](http://twitter.com/search?q=T-64) | N/A |
-| 49 | [MSWiA](http://twitter.com/search?q=MSWiA) | N/A |
-| 50 | [Potrafisz Polsko](http://twitter.com/search?q=Potrafisz+Polsko) | N/A |
+| 43 | [Murem](http://twitter.com/search?q=Murem) | N/A |
+| 44 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
+| 45 | [T-64](http://twitter.com/search?q=T-64) | N/A |
+| 46 | [MSWiA](http://twitter.com/search?q=MSWiA) | N/A |
+| 47 | [Koloseum](http://twitter.com/search?q=Koloseum) | N/A |
+| 48 | [Potrafisz Polsko](http://twitter.com/search?q=Potrafisz+Polsko) | N/A |
+| 49 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 50 | [Męki Pańskiej](http://twitter.com/search?q=M%c4%99ki+Pa%c5%84skiej) | N/A |
 
 
 

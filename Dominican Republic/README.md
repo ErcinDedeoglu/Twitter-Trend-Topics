@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-07 22:17:37 UTC`
+📆 Last Updated: `2023-04-07 23:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,26 +27,26 @@ This is top 50 for Dominican Republic
 | 10 | [Día Mundial de la Salud](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Salud) | N/A |
 | 11 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
 | 12 | [#SS2023](http://twitter.com/search?q=%23SS2023) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Seibo](http://twitter.com/search?q=Seibo) | N/A |
+| 13 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
+| 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 15 | [Boca Chica](http://twitter.com/search?q=Boca+Chica) | N/A |
-| 16 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
-| 17 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 18 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 19 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 20 | [cristiano](http://twitter.com/search?q=cristiano) | N/A |
-| 21 | [Vía Crucis](http://twitter.com/search?q=V%c3%ada+Crucis) | N/A |
-| 22 | [luisin](http://twitter.com/search?q=luisin) | N/A |
-| 23 | [Jarabacoa](http://twitter.com/search?q=Jarabacoa) | N/A |
-| 24 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 25 | [día nacional del psicólogo](http://twitter.com/search?q=d%c3%ada+nacional+del+psic%c3%b3logo) | N/A |
-| 26 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 27 | [Siete Palabras](http://twitter.com/search?q=Siete+Palabras) | N/A |
-| 28 | [vudú](http://twitter.com/search?q=vud%c3%ba) | N/A |
-| 29 | [#ConcienciaPorLaVida](http://twitter.com/search?q=%23ConcienciaPorLaVida) | N/A |
-| 30 | [villa faro](http://twitter.com/search?q=villa+faro) | N/A |
+| 16 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 17 | [Siete Palabras](http://twitter.com/search?q=Siete+Palabras) | N/A |
+| 18 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 19 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [cristiano](http://twitter.com/search?q=cristiano) | N/A |
+| 22 | [Seibo](http://twitter.com/search?q=Seibo) | N/A |
+| 23 | [Vía Crucis](http://twitter.com/search?q=V%c3%ada+Crucis) | N/A |
+| 24 | [Luisin](http://twitter.com/search?q=Luisin) | N/A |
+| 25 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 26 | [día nacional del psicólogo](http://twitter.com/search?q=d%c3%ada+nacional+del+psic%c3%b3logo) | N/A |
+| 27 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 28 | [Jarabacoa](http://twitter.com/search?q=Jarabacoa) | N/A |
+| 29 | [villa faro](http://twitter.com/search?q=villa+faro) | N/A |
+| 30 | [#ConcienciaPorLaVida](http://twitter.com/search?q=%23ConcienciaPorLaVida) | N/A |
 | 31 | [Arajet](http://twitter.com/search?q=Arajet) | N/A |
-| 32 | [Haitiano](http://twitter.com/search?q=Haitiano) | N/A |
+| 32 | [San Pedro de Macorís](http://twitter.com/search?q=San+Pedro+de+Macor%c3%ads) | N/A |
 | 33 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
 | 34 | [Hanley](http://twitter.com/search?q=Hanley) | N/A |
 | 35 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Dominican Republic
 | 39 | [Aila](http://twitter.com/search?q=Aila) | N/A |
 | 40 | [Líbano](http://twitter.com/search?q=L%c3%adbano) | N/A |
 | 41 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
-| 42 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 43 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 44 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
-| 45 | [San Pedro de Macorís](http://twitter.com/search?q=San+Pedro+de+Macor%c3%ads) | N/A |
-| 46 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 47 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
-| 48 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 49 | [Hato Mayor](http://twitter.com/search?q=Hato+Mayor) | N/A |
-| 50 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 42 | [Hato Mayor](http://twitter.com/search?q=Hato+Mayor) | N/A |
+| 43 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 44 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 45 | [Haitiano](http://twitter.com/search?q=Haitiano) | N/A |
+| 46 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 47 | [Vudú](http://twitter.com/search?q=Vud%c3%ba) | N/A |
+| 48 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 49 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 50 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
 
 
 
