@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-07 07:17:13 UTC`
+📆 Last Updated: `2023-04-07 08:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,20 +16,21 @@ This is top 50 for Belarus
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#корольишут](http://twitter.com/search?q=%23%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8c%d0%b8%d1%88%d1%83%d1%82) | N/A |
-| 2 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
-| 3 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
-| 4 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 2 | [#Беларусь](http://twitter.com/search?q=%23%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 3 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
+| 4 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
 | 5 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
-| 6 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
-| 7 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 8 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
-| 9 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 10 | [Дзякуй](http://twitter.com/search?q=%d0%94%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |
+| 6 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
+| 7 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
+| 8 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 9 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
+| 10 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
 | 11 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
-| 12 | [Минске](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | N/A |
-| 13 | [#Беларусь](http://twitter.com/search?q=%23%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
-| 14 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 15 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
+| 12 | [Дзякуй](http://twitter.com/search?q=%d0%94%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |
+| 13 | [Минске](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | N/A |
+| 14 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 15 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 16 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
 
 
 

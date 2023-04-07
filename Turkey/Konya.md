@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-04-07 07:17:04 UTC`
+📆 Last Updated: `2023-04-07 08:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,31 +17,40 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#MahirAkkoyunSerbestBırakılsın](http://twitter.com/search?q=%23MahirAkkoyunSerbestB%c4%b1rak%c4%b1ls%c4%b1n) | N/A |
 | 2 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 3 | [#DünyaSağlıkGünü](http://twitter.com/search?q=%23D%c3%bcnyaSa%c4%9fl%c4%b1kG%c3%bcn%c3%bc) | N/A |
-| 4 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
+| 3 | [ERDOĞAN SAYESİNDE](http://twitter.com/search?q=ERDO%c4%9eAN+SAYES%c4%b0NDE) | N/A |
+| 4 | [#DünyaSağlıkGünü](http://twitter.com/search?q=%23D%c3%bcnyaSa%c4%9fl%c4%b1kG%c3%bcn%c3%bc) | N/A |
 | 5 | [#TekDavamStaj](http://twitter.com/search?q=%23TekDavamStaj) | N/A |
-| 6 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 7 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
-| 8 | [GİDİCİSİN KEMAL](http://twitter.com/search?q=G%c4%b0D%c4%b0C%c4%b0S%c4%b0N+KEMAL) | N/A |
-| 9 | [Selahattin](http://twitter.com/search?q=Selahattin) | N/A |
-| 10 | [Mustafa Sarıgül](http://twitter.com/search?q=Mustafa+Sar%c4%b1g%c3%bcl) | N/A |
-| 11 | [Osmaniye](http://twitter.com/search?q=Osmaniye) | N/A |
-| 12 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
-| 13 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 14 | [#HesabınıSoracağız](http://twitter.com/search?q=%23Hesab%c4%b1n%c4%b1Soraca%c4%9f%c4%b1z) | N/A |
-| 15 | [#Gazze](http://twitter.com/search?q=%23Gazze) | N/A |
-| 16 | [#AklınYoluBir](http://twitter.com/search?q=%23Akl%c4%b1nYoluBir) | N/A |
-| 17 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 18 | [#Lübnan](http://twitter.com/search?q=%23L%c3%bcbnan) | N/A |
-| 19 | [#guenaydin](http://twitter.com/search?q=%23guenaydin) | N/A |
-| 20 | [#DolarTL](http://twitter.com/search?q=%23DolarTL) | N/A |
-| 21 | [#KudusBizimdir](http://twitter.com/search?q=%23KudusBizimdir) | N/A |
-| 22 | [#FilistindeZulümVar](http://twitter.com/search?q=%23FilistindeZul%c3%bcmVar) | N/A |
+| 6 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
+| 7 | [#HesabınıSoracağız](http://twitter.com/search?q=%23Hesab%c4%b1n%c4%b1Soraca%c4%9f%c4%b1z) | N/A |
+| 8 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
+| 9 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 10 | [Günaydınnnnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnnnn) | N/A |
+| 11 | [Filistin](http://twitter.com/search?q=Filistin) | N/A |
+| 12 | [Saadet](http://twitter.com/search?q=Saadet) | N/A |
+| 13 | [GİDİCİSİN KEMAL](http://twitter.com/search?q=G%c4%b0D%c4%b0C%c4%b0S%c4%b0N+KEMAL) | N/A |
+| 14 | [Yozgat](http://twitter.com/search?q=Yozgat) | N/A |
+| 15 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
+| 16 | [Sarıgül](http://twitter.com/search?q=Sar%c4%b1g%c3%bcl) | N/A |
+| 17 | [İkizler](http://twitter.com/search?q=%c4%b0kizler) | N/A |
+| 18 | [Osmaniye](http://twitter.com/search?q=Osmaniye) | N/A |
+| 19 | [Ya Rabbi](http://twitter.com/search?q=Ya+Rabbi) | N/A |
+| 20 | [Selahattin](http://twitter.com/search?q=Selahattin) | N/A |
+| 21 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
+| 22 | [#AklınYoluBir](http://twitter.com/search?q=%23Akl%c4%b1nYoluBir) | N/A |
 | 23 | [#ZamGeldi](http://twitter.com/search?q=%23ZamGeldi) | N/A |
-| 24 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
-| 25 | [#Palestine](http://twitter.com/search?q=%23Palestine) | N/A |
-| 26 | [#Milletvekili](http://twitter.com/search?q=%23Milletvekili) | N/A |
-| 27 | [#EUPWR](http://twitter.com/search?q=%23EUPWR) | N/A |
+| 24 | [#Gazze](http://twitter.com/search?q=%23Gazze) | N/A |
+| 25 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 26 | [#Lübnan](http://twitter.com/search?q=%23L%c3%bcbnan) | N/A |
+| 27 | [#guenaydin](http://twitter.com/search?q=%23guenaydin) | N/A |
+| 28 | [#bursa](http://twitter.com/search?q=%23bursa) | N/A |
+| 29 | [#DolarTL](http://twitter.com/search?q=%23DolarTL) | N/A |
+| 30 | [#gesan](http://twitter.com/search?q=%23gesan) | N/A |
+| 31 | [#kudus](http://twitter.com/search?q=%23kudus) | N/A |
+| 32 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
+| 33 | [#Palestine](http://twitter.com/search?q=%23Palestine) | N/A |
+| 34 | [#6subat2023](http://twitter.com/search?q=%236subat2023) | N/A |
+| 35 | [#Milletvekili](http://twitter.com/search?q=%23Milletvekili) | N/A |
+| 36 | [#EUPWR](http://twitter.com/search?q=%23EUPWR) | N/A |
 
 
 

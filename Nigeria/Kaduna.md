@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-04-07 07:16:54 UTC`
+📆 Last Updated: `2023-04-07 08:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 2 | [Julius Abure](http://twitter.com/search?q=Julius+Abure) | N/A |
-| 3 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
-| 4 | [Soyinka](http://twitter.com/search?q=Soyinka) | N/A |
-| 5 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 6 | [North](http://twitter.com/search?q=North) | N/A |
+| 2 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
+| 3 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
+| 4 | [Julius Abure](http://twitter.com/search?q=Julius+Abure) | N/A |
+| 5 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 6 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
 | 7 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 8 | [Brother Bernard](http://twitter.com/search?q=Brother+Bernard) | N/A |
-| 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 10 | [#hornygirlsonspace](http://twitter.com/search?q=%23hornygirlsonspace) | N/A |
-| 11 | [#thepassion](http://twitter.com/search?q=%23thepassion) | N/A |
-| 12 | [#erasaveslives](http://twitter.com/search?q=%23erasaveslives) | N/A |
-| 13 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 8 | [North](http://twitter.com/search?q=North) | N/A |
+| 9 | [Brother Bernard](http://twitter.com/search?q=Brother+Bernard) | N/A |
+| 10 | [Disturbing U](http://twitter.com/search?q=Disturbing+U) | N/A |
+| 11 | [I HAVE MY EVIDENCE](http://twitter.com/search?q=I+HAVE+MY+EVIDENCE) | "I HAVE MY EVIDENCE" is a phrase used to indicate that one has the proof or facts needed to support a claim or argument. It implies that the speaker is confident in their position and has the necessary evidence to back it up. |
+| 12 | [#hornygirlsonspace](http://twitter.com/search?q=%23hornygirlsonspace) | N/A |
+| 13 | [#erasaveslives](http://twitter.com/search?q=%23erasaveslives) | N/A |
 | 14 | [dj phil](http://twitter.com/search?q=dj+phil) | N/A |
-| 15 | [#m3lon](http://twitter.com/search?q=%23m3lon) | N/A |
-| 16 | [#NigeriaFarmers](http://twitter.com/search?q=%23NigeriaFarmers) | N/A |
-| 17 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
-| 18 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 19 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
-| 20 | [Lamidi Apapa](http://twitter.com/search?q=Lamidi+Apapa) | N/A |
-| 21 | [KANAGA JNR THE BRAND](http://twitter.com/search?q=KANAGA+JNR+THE+BRAND) | N/A |
-| 22 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 23 | [Jesus Christ](http://twitter.com/search?q=Jesus+Christ) | N/A |
-| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [US President](http://twitter.com/search?q=US+President) | N/A |
-| 26 | [Mixlr](http://twitter.com/search?q=Mixlr) | N/A |
-| 27 | [Mera Na](http://twitter.com/search?q=Mera+Na) | N/A |
-| 28 | [KHOSI THE HOST](http://twitter.com/search?q=KHOSI+THE+HOST) | N/A |
-| 29 | [welcome home kanaga jnr](http://twitter.com/search?q=welcome+home+kanaga+jnr) | N/A |
-| 30 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
-| 31 | [KHOSI X SUPERSPORT](http://twitter.com/search?q=KHOSI+X+SUPERSPORT) | N/A |
-| 32 | [YVONNE GODSWILL](http://twitter.com/search?q=YVONNE+GODSWILL) | N/A |
-| 33 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 34 | [Datti](http://twitter.com/search?q=Datti) | N/A |
-| 35 | [Geoffrey Onyeama](http://twitter.com/search?q=Geoffrey+Onyeama) | N/A |
-| 36 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
-| 37 | [Moghalu](http://twitter.com/search?q=Moghalu) | N/A |
-| 38 | [David Hundeyin](http://twitter.com/search?q=David+Hundeyin) | N/A |
-| 39 | [MEDIA ROUNDS WITH YVONNE](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+YVONNE) | N/A |
-| 40 | [Fascist](http://twitter.com/search?q=Fascist) | N/A |
-| 41 | [O the God](http://twitter.com/search?q=O+the+God) | N/A |
-| 42 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
-| 43 | [Robben](http://twitter.com/search?q=Robben) | N/A |
-| 44 | [MEDIA ROUNDS WITH KANAGA](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+KANAGA) | N/A |
+| 15 | [THE LORD HAS VISITED ME](http://twitter.com/search?q=THE+LORD+HAS+VISITED+ME) | N/A |
+| 16 | [#OccupyINECNOW](http://twitter.com/search?q=%23OccupyINECNOW) | N/A |
+| 17 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 18 | [#m3lon](http://twitter.com/search?q=%23m3lon) | N/A |
+| 19 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 20 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 21 | [Lamidi Apapa](http://twitter.com/search?q=Lamidi+Apapa) | N/A |
+| 22 | [US President](http://twitter.com/search?q=US+President) | N/A |
+| 23 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
+| 24 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
+| 25 | [KANAGA JNR THE BRAND](http://twitter.com/search?q=KANAGA+JNR+THE+BRAND) | N/A |
+| 26 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 29 | [Mixlr](http://twitter.com/search?q=Mixlr) | N/A |
+| 30 | [Namibia](http://twitter.com/search?q=Namibia) | N/A |
+| 31 | [KHOSI THE HOST](http://twitter.com/search?q=KHOSI+THE+HOST) | N/A |
+| 32 | [welcome home kanaga jnr](http://twitter.com/search?q=welcome+home+kanaga+jnr) | N/A |
+| 33 | [KHOSI X SUPERSPORT](http://twitter.com/search?q=KHOSI+X+SUPERSPORT) | N/A |
+| 34 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 35 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
+| 36 | [Geoffrey Onyeama](http://twitter.com/search?q=Geoffrey+Onyeama) | N/A |
+| 37 | [Robben](http://twitter.com/search?q=Robben) | N/A |
+| 38 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
+| 39 | [David Hundeyin](http://twitter.com/search?q=David+Hundeyin) | N/A |
+| 40 | [Datti](http://twitter.com/search?q=Datti) | N/A |
+| 41 | [MEDIA ROUNDS WITH YVONNE](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+YVONNE) | N/A |
+| 42 | [Moghalu](http://twitter.com/search?q=Moghalu) | N/A |
+| 43 | [Indigo](http://twitter.com/search?q=Indigo) | N/A |
+| 44 | [Fascist](http://twitter.com/search?q=Fascist) | N/A |
 | 45 | [IT IS MY TIME AND MY TURN](http://twitter.com/search?q=IT+IS+MY+TIME+AND+MY+TURN) | N/A |
-| 46 | [Sowore](http://twitter.com/search?q=Sowore) | N/A |
-| 47 | [Plateau](http://twitter.com/search?q=Plateau) | N/A |
-| 48 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
-| 49 | [TIKTOK WITH PHYNA](http://twitter.com/search?q=TIKTOK+WITH+PHYNA) | N/A |
+| 46 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 47 | [Mera Na](http://twitter.com/search?q=Mera+Na) | N/A |
+| 48 | [MEDIA ROUNDS WITH KANAGA](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+KANAGA) | N/A |
+| 49 | [Sowore](http://twitter.com/search?q=Sowore) | N/A |
 
 
 

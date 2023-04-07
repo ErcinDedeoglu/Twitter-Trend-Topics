@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-07 07:16:37 UTC`
+📆 Last Updated: `2023-04-07 08:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
 | 2 | [Witek](http://twitter.com/search?q=Witek) | N/A |
 | 3 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
-| 4 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
-| 5 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
-| 6 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
-| 7 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
-| 8 | [#Minęła8](http://twitter.com/search?q=%23Min%c4%99%c5%82a8) | N/A |
-| 9 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 10 | [Wielki Czwartek](http://twitter.com/search?q=Wielki+Czwartek) | N/A |
-| 11 | [Świąt Wielkanocnych](http://twitter.com/search?q=%c5%9awi%c4%85t+Wielkanocnych) | N/A |
-| 12 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
-| 13 | [Radio Zet](http://twitter.com/search?q=Radio+Zet) | N/A |
-| 14 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
-| 15 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 16 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 17 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
-| 18 | [Albanii](http://twitter.com/search?q=Albanii) | N/A |
+| 4 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
+| 5 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
+| 6 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
+| 7 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 8 | [Świąt Wielkanocnych](http://twitter.com/search?q=%c5%9awi%c4%85t+Wielkanocnych) | N/A |
+| 9 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 10 | [#PiStoZŁO](http://twitter.com/search?q=%23PiStoZ%c5%81O) | N/A |
+| 11 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
+| 12 | [Albanii](http://twitter.com/search?q=Albanii) | N/A |
+| 13 | [Wielki Czwartek](http://twitter.com/search?q=Wielki+Czwartek) | N/A |
+| 14 | [Radio Zet](http://twitter.com/search?q=Radio+Zet) | N/A |
+| 15 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
+| 16 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
+| 17 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
+| 18 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
 | 19 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 20 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 21 | [Bednorz](http://twitter.com/search?q=Bednorz) | N/A |
-| 22 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 23 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
-| 24 | [Cieszyński](http://twitter.com/search?q=Cieszy%c5%84ski) | N/A |
-| 25 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 20 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 21 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
+| 22 | [Masturbacja](http://twitter.com/search?q=Masturbacja) | N/A |
+| 23 | [Gladiator](http://twitter.com/search?q=Gladiator) | Gladiator is a 2000 historical epic film directed by Ridley Scott. It stars Russell Crowe as the fictional character Maximus Decimus Meridius, a Roman general who is betrayed and enslaved, and then fights in the gladiatorial arena to gain his freedom. The term "gladiator" refers to a professional fighter in ancient Rome who fought against other gladiators or wild animals for the entertainment of the public. |
+| 24 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 25 | [Cieszyński](http://twitter.com/search?q=Cieszy%c5%84ski) | N/A |
 | 26 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 27 | [Krzyża](http://twitter.com/search?q=Krzy%c5%bca) | N/A |
-| 28 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 27 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
+| 28 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
 | 29 | [Vuko](http://twitter.com/search?q=Vuko) | N/A |
-| 30 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 31 | [zełenskim](http://twitter.com/search?q=ze%c5%82enskim) | N/A |
-| 32 | [Karma](http://twitter.com/search?q=Karma) | N/A |
-| 33 | [Libanu](http://twitter.com/search?q=Libanu) | N/A |
-| 34 | [turynie](http://twitter.com/search?q=turynie) | N/A |
-| 35 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
-| 36 | [Zbyszku](http://twitter.com/search?q=Zbyszku) | N/A |
+| 30 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 31 | [Bednorz](http://twitter.com/search?q=Bednorz) | N/A |
+| 32 | [zełenskim](http://twitter.com/search?q=ze%c5%82enskim) | N/A |
+| 33 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 34 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
+| 35 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 36 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
 | 37 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 38 | [Gruca](http://twitter.com/search?q=Gruca) | N/A |
-| 39 | [KGHM](http://twitter.com/search?q=KGHM) | N/A |
-| 40 | [gierszewski](http://twitter.com/search?q=gierszewski) | N/A |
-| 41 | [Ukrainie](http://twitter.com/search?q=Ukrainie) | N/A |
-| 42 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 43 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
+| 38 | [Libanu](http://twitter.com/search?q=Libanu) | N/A |
+| 39 | [gierszewski](http://twitter.com/search?q=gierszewski) | N/A |
+| 40 | [Ukrainie](http://twitter.com/search?q=Ukrainie) | N/A |
+| 41 | [Zełenskiego](http://twitter.com/search?q=Ze%c5%82enskiego) | N/A |
+| 42 | [KGHM](http://twitter.com/search?q=KGHM) | N/A |
+| 43 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
 | 44 | [Kłeczek](http://twitter.com/search?q=K%c5%82eczek) | N/A |
-| 45 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 46 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
-| 47 | [Sirci](http://twitter.com/search?q=Sirci) | N/A |
-| 48 | [Aniu](http://twitter.com/search?q=Aniu) | N/A |
-| 49 | [Eucharystii](http://twitter.com/search?q=Eucharystii) | N/A |
+| 45 | [Gruca](http://twitter.com/search?q=Gruca) | N/A |
+| 46 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 47 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 48 | [Sirci](http://twitter.com/search?q=Sirci) | N/A |
+| 49 | [Cześć Aniu](http://twitter.com/search?q=Cze%c5%9b%c4%87+Aniu) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-04-07 07:16:42 UTC`
+📆 Last Updated: `2023-04-07 08:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [#7aprile](http://twitter.com/search?q=%237aprile) | N/A |
 | 2 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
 | 3 | [#corvispace](http://twitter.com/search?q=%23corvispace) | N/A |
-| 4 | [#venerdisanto](http://twitter.com/search?q=%23venerdisanto) | N/A |
-| 5 | [#SilvioBerlusconi](http://twitter.com/search?q=%23SilvioBerlusconi) | N/A |
-| 6 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 7 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 8 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 10 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 11 | [Buongiorno Sergio](http://twitter.com/search?q=Buongiorno+Sergio) | N/A |
-| 12 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 4 | [#SilvioBerlusconi](http://twitter.com/search?q=%23SilvioBerlusconi) | N/A |
+| 5 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
+| 6 | [Venerdì Santo](http://twitter.com/search?q=Venerd%c3%ac+Santo) | N/A |
+| 7 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 8 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 9 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 10 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 12 | [Asia](http://twitter.com/search?q=Asia) | N/A |
 | 13 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
-| 14 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 15 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 14 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
+| 15 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
 | 16 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
-| 17 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
-| 18 | [Raimondo](http://twitter.com/search?q=Raimondo) | Raimondo is an Italian given name derived from the Germanic name Raginmund, which means "wise protector". It is also a surname. |
-| 19 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 20 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
-| 21 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
-| 22 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 23 | [Buongiorno Luca](http://twitter.com/search?q=Buongiorno+Luca) | N/A |
-| 24 | [Libano](http://twitter.com/search?q=Libano) | N/A |
-| 25 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 26 | [Stefano Feltri](http://twitter.com/search?q=Stefano+Feltri) | N/A |
-| 27 | [tribuna sud](http://twitter.com/search?q=tribuna+sud) | N/A |
-| 28 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 29 | [Ettore](http://twitter.com/search?q=Ettore) | N/A |
-| 30 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 31 | [Todaro](http://twitter.com/search?q=Todaro) | Todaro is an Italian surname. It is derived from the Latin word "todarius," which means "hunter." The name is most commonly found in the regions of Sicily and Calabria. In English, it can be translated to mean "hunter." |
-| 32 | [Gerardina](http://twitter.com/search?q=Gerardina) | N/A |
-| 33 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
-| 34 | [FORZA PRESIDENTE](http://twitter.com/search?q=FORZA+PRESIDENTE) | N/A |
+| 17 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
+| 18 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 19 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 20 | [Raimondo](http://twitter.com/search?q=Raimondo) | Raimondo is an Italian given name derived from the Germanic name Raginmund, which means "wise protector". It is also a surname. |
+| 21 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 22 | [Libano](http://twitter.com/search?q=Libano) | N/A |
+| 23 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 24 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 25 | [Tribuna Sud](http://twitter.com/search?q=Tribuna+Sud) | N/A |
+| 26 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 27 | [Todaro](http://twitter.com/search?q=Todaro) | Todaro is an Italian surname. It is derived from the Latin word "todarius," which means "hunter." The name is most commonly found in the regions of Sicily and Calabria. In English, it can be translated to mean "hunter." |
+| 28 | [Stefano Feltri](http://twitter.com/search?q=Stefano+Feltri) | N/A |
+| 29 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 30 | [Buongiorno Ettore](http://twitter.com/search?q=Buongiorno+Ettore) | N/A |
+| 31 | [Ave Maria](http://twitter.com/search?q=Ave+Maria) | N/A |
+| 32 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 33 | [Gerardina](http://twitter.com/search?q=Gerardina) | N/A |
+| 34 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
 | 35 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 36 | [L'Aquila](http://twitter.com/search?q=L%27Aquila) | N/A |
-| 37 | [rocchi](http://twitter.com/search?q=rocchi) | N/A |
-| 38 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 39 | [Croce](http://twitter.com/search?q=Croce) | N/A |
-| 40 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 41 | [Ave Maria](http://twitter.com/search?q=Ave+Maria) | N/A |
-| 42 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
-| 43 | [Fabrizio Corona](http://twitter.com/search?q=Fabrizio+Corona) | N/A |
-| 44 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 45 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 46 | [Gasparri](http://twitter.com/search?q=Gasparri) | N/A |
-| 47 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 48 | [Pobega](http://twitter.com/search?q=Pobega) | N/A |
-| 49 | [Buongiorno Antonella](http://twitter.com/search?q=Buongiorno+Antonella) | N/A |
-| 50 | [baccin](http://twitter.com/search?q=baccin) | N/A |
+| 36 | [FORZA PRESIDENTE](http://twitter.com/search?q=FORZA+PRESIDENTE) | N/A |
+| 37 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 38 | [Il 7](http://twitter.com/search?q=Il+7) | N/A |
+| 39 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 40 | [L'Aquila](http://twitter.com/search?q=L%27Aquila) | N/A |
+| 41 | [Buongiorno Vito](http://twitter.com/search?q=Buongiorno+Vito) | N/A |
+| 42 | [Gesù](http://twitter.com/search?q=Ges%c3%b9) | N/A |
+| 43 | [Buongiorno Daniele](http://twitter.com/search?q=Buongiorno+Daniele) | N/A |
+| 44 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
+| 45 | [Pobega](http://twitter.com/search?q=Pobega) | N/A |
+| 46 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
+| 47 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 48 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 49 | [Fabrizio Corona](http://twitter.com/search?q=Fabrizio+Corona) | N/A |
+| 50 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
 
 
 

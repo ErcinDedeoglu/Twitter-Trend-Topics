@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-04-07 07:16:42 UTC`
+📆 Last Updated: `2023-04-07 08:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 4 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
 | 5 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
 | 6 | [#spapsv](http://twitter.com/search?q=%23spapsv) | N/A |
-| 7 | [#verkiezingsdebat](http://twitter.com/search?q=%23verkiezingsdebat) | N/A |
-| 8 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 9 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 7 | [Paasweekend](http://twitter.com/search?q=Paasweekend) | N/A |
+| 8 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
+| 9 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
 | 10 | [Jezus](http://twitter.com/search?q=Jezus) | N/A |
 | 11 | [Enzo Knol](http://twitter.com/search?q=Enzo+Knol) | N/A |
-| 12 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 13 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 14 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 15 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
+| 12 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 13 | [#verkiezingsdebat](http://twitter.com/search?q=%23verkiezingsdebat) | N/A |
+| 14 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
+| 15 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
 | 16 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 17 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 18 | [Paasweekend](http://twitter.com/search?q=Paasweekend) | N/A |
-| 19 | [marlijn](http://twitter.com/search?q=marlijn) | N/A |
-| 20 | [Bokito](http://twitter.com/search?q=Bokito) | N/A |
-| 21 | [Buddy](http://twitter.com/search?q=Buddy) | N/A |
-| 22 | [John de Wolf](http://twitter.com/search?q=John+de+Wolf) | N/A |
-| 23 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 24 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 25 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 26 | [Lisette](http://twitter.com/search?q=Lisette) | N/A |
-| 27 | [KNVB](http://twitter.com/search?q=KNVB) | N/A |
-| 28 | [Bloemendaal](http://twitter.com/search?q=Bloemendaal) | N/A |
-| 29 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 30 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 31 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 32 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
-| 33 | [Arena](http://twitter.com/search?q=Arena) | N/A |
-| 34 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 35 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
-| 36 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
-| 37 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 38 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
-| 39 | [lindhout](http://twitter.com/search?q=lindhout) | N/A |
-| 40 | [Soundos](http://twitter.com/search?q=Soundos) | N/A |
-| 41 | [fvd'er van houwelingen](http://twitter.com/search?q=fvd%27er+van+houwelingen) | N/A |
-| 42 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
-| 43 | [Sander](http://twitter.com/search?q=Sander) | N/A |
-| 44 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 45 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 46 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 47 | [Gouda](http://twitter.com/search?q=Gouda) | N/A |
-| 48 | [Rotterdam](http://twitter.com/search?q=Rotterdam) | N/A |
-| 49 | [Dave](http://twitter.com/search?q=Dave) | N/A |
-| 50 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 17 | [Buddy](http://twitter.com/search?q=Buddy) | N/A |
+| 18 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
+| 19 | [Bokito](http://twitter.com/search?q=Bokito) | N/A |
+| 20 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 21 | [Andries](http://twitter.com/search?q=Andries) | N/A |
+| 22 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 23 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 24 | [John de Wolf](http://twitter.com/search?q=John+de+Wolf) | N/A |
+| 25 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 26 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 27 | [Bloemendaal](http://twitter.com/search?q=Bloemendaal) | N/A |
+| 28 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 29 | [Marlijn](http://twitter.com/search?q=Marlijn) | N/A |
+| 30 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
+| 31 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
+| 32 | [Gouda](http://twitter.com/search?q=Gouda) | N/A |
+| 33 | [KNVB](http://twitter.com/search?q=KNVB) | N/A |
+| 34 | [Sander](http://twitter.com/search?q=Sander) | N/A |
+| 35 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 36 | [Soundos](http://twitter.com/search?q=Soundos) | N/A |
+| 37 | [lindhout](http://twitter.com/search?q=lindhout) | N/A |
+| 38 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 39 | [Stijn](http://twitter.com/search?q=Stijn) | N/A |
+| 40 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 41 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 42 | [fvd'er van houwelingen](http://twitter.com/search?q=fvd%27er+van+houwelingen) | N/A |
+| 43 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 44 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
+| 45 | [Lisette](http://twitter.com/search?q=Lisette) | N/A |
+| 46 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
+| 47 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 48 | [Arena](http://twitter.com/search?q=Arena) | N/A |
+| 49 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 50 | [Pepijn](http://twitter.com/search?q=Pepijn) | N/A |
 
 
 
