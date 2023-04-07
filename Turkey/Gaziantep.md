@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-04-07 03:17:09 UTC`
+📆 Last Updated: `2023-04-07 04:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,45 +17,34 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#SandığaGömülecekler](http://twitter.com/search?q=%23Sand%c4%b1%c4%9faG%c3%b6m%c3%bclecekler) | N/A |
 | 2 | [#Gazze](http://twitter.com/search?q=%23Gazze) | N/A |
-| 3 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 4 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 3 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 4 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
 | 5 | [#FilistindeZulümVar](http://twitter.com/search?q=%23FilistindeZul%c3%bcmVar) | N/A |
 | 6 | [#Lübnan](http://twitter.com/search?q=%23L%c3%bcbnan) | N/A |
-| 7 | [#Kudüs](http://twitter.com/search?q=%23Kud%c3%bcs) | N/A |
-| 8 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
-| 9 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
-| 10 | [GİDİCİSİN KEMAL](http://twitter.com/search?q=G%c4%b0D%c4%b0C%c4%b0S%c4%b0N+KEMAL) | N/A |
+| 7 | [#TekDavamStaj](http://twitter.com/search?q=%23TekDavamStaj) | N/A |
+| 8 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
+| 9 | [GİDİCİSİN KEMAL](http://twitter.com/search?q=G%c4%b0D%c4%b0C%c4%b0S%c4%b0N+KEMAL) | N/A |
+| 10 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
 | 11 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
-| 12 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 13 | [Doğu Türkistan](http://twitter.com/search?q=Do%c4%9fu+T%c3%bcrkistan) | N/A |
-| 14 | [Ey Rabbimiz](http://twitter.com/search?q=Ey+Rabbimiz) | N/A |
-| 15 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
-| 16 | [Ya Rab](http://twitter.com/search?q=Ya+Rab) | N/A |
-| 17 | [Yozgat](http://twitter.com/search?q=Yozgat) | N/A |
-| 18 | [Olcay Kılavuz](http://twitter.com/search?q=Olcay+K%c4%b1lavuz) | N/A |
-| 19 | [Osmaniye](http://twitter.com/search?q=Osmaniye) | N/A |
-| 20 | [Yahudi](http://twitter.com/search?q=Yahudi) | N/A |
-| 21 | [Burası Fenerbahçe](http://twitter.com/search?q=Buras%c4%b1+Fenerbah%c3%a7e) | N/A |
-| 22 | [SözümüzSöz OyumuzAffa](http://twitter.com/search?q=S%c3%b6z%c3%bcm%c3%bczS%c3%b6z+OyumuzAffa) | N/A |
-| 23 | [İkizler](http://twitter.com/search?q=%c4%b0kizler) | N/A |
-| 24 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
-| 25 | [Kızılaya](http://twitter.com/search?q=K%c4%b1z%c4%b1laya) | N/A |
-| 26 | [Taraftar](http://twitter.com/search?q=Taraftar) | N/A |
-| 27 | [Fenerbahçe Spor Kulübü](http://twitter.com/search?q=Fenerbah%c3%a7e+Spor+Kul%c3%bcb%c3%bc) | N/A |
-| 28 | [Ergin](http://twitter.com/search?q=Ergin) | N/A |
-| 29 | [Efes](http://twitter.com/search?q=Efes) | N/A |
-| 30 | [Mardin](http://twitter.com/search?q=Mardin) | N/A |
-| 31 | [Serdar Dursun](http://twitter.com/search?q=Serdar+Dursun) | N/A |
-| 32 | [#TekDavamStaj](http://twitter.com/search?q=%23TekDavamStaj) | N/A |
-| 33 | [#Palestine](http://twitter.com/search?q=%23Palestine) | N/A |
-| 34 | [#kuduesislamındır](http://twitter.com/search?q=%23kuduesislam%c4%b1nd%c4%b1r) | N/A |
-| 35 | [#milletvekili](http://twitter.com/search?q=%23milletvekili) | N/A |
-| 36 | [#MemurunGozuMecliste](http://twitter.com/search?q=%23MemurunGozuMecliste) | N/A |
-| 37 | [#mescidiaksayasahipcik](http://twitter.com/search?q=%23mescidiaksayasahipcik) | N/A |
-| 38 | [#yüzyıllıkmucize](http://twitter.com/search?q=%23y%c3%bczy%c4%b1ll%c4%b1kmucize) | N/A |
-| 39 | [#eupwr](http://twitter.com/search?q=%23eupwr) | N/A |
-| 40 | [#KudueseSahipCık](http://twitter.com/search?q=%23KudueseSahipC%c4%b1k) | N/A |
-| 41 | [#CamdakiKız](http://twitter.com/search?q=%23CamdakiK%c4%b1z) | N/A |
+| 12 | [Zalimler](http://twitter.com/search?q=Zalimler) | N/A |
+| 13 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
+| 14 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
+| 15 | [Osmaniye](http://twitter.com/search?q=Osmaniye) | N/A |
+| 16 | [Doğu Türkistan](http://twitter.com/search?q=Do%c4%9fu+T%c3%bcrkistan) | N/A |
+| 17 | [SözümüzSöz OyumuzAffa](http://twitter.com/search?q=S%c3%b6z%c3%bcm%c3%bczS%c3%b6z+OyumuzAffa) | N/A |
+| 18 | [Ya Rab](http://twitter.com/search?q=Ya+Rab) | N/A |
+| 19 | [SON DAKİKA](http://twitter.com/search?q=SON+DAK%c4%b0KA) | SON Dakika is a Turkish phrase that translates to "last minute" in English. It is used to refer to news or events that have just happened or are happening at the last minute. |
+| 20 | [İkizler](http://twitter.com/search?q=%c4%b0kizler) | N/A |
+| 21 | [Taraftar](http://twitter.com/search?q=Taraftar) | N/A |
+| 22 | [Kanı](http://twitter.com/search?q=Kan%c4%b1) | N/A |
+| 23 | [#KudusBizimdir](http://twitter.com/search?q=%23KudusBizimdir) | N/A |
+| 24 | [#Palestine](http://twitter.com/search?q=%23Palestine) | N/A |
+| 25 | [#milletvekili](http://twitter.com/search?q=%23milletvekili) | N/A |
+| 26 | [#mescidiaksayasahipcik](http://twitter.com/search?q=%23mescidiaksayasahipcik) | N/A |
+| 27 | [#kuduesislamındır](http://twitter.com/search?q=%23kuduesislam%c4%b1nd%c4%b1r) | N/A |
+| 28 | [#eupwr](http://twitter.com/search?q=%23eupwr) | N/A |
+| 29 | [#CamdakiKız](http://twitter.com/search?q=%23CamdakiK%c4%b1z) | N/A |
+| 30 | [#MescidiAksadakatliamvar](http://twitter.com/search?q=%23MescidiAksadakatliamvar) | N/A |
 
 
 

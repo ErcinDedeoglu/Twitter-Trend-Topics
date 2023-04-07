@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-04-07 03:16:38 UTC`
+📆 Last Updated: `2023-04-07 04:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,47 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Central de Abastos](http://twitter.com/search?q=Central+de+Abastos) | N/A |
-| 2 | [#incendio](http://twitter.com/search?q=%23incendio) | N/A |
-| 3 | [#Iztapalapa](http://twitter.com/search?q=%23Iztapalapa) | N/A |
-| 4 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 5 | [AGUST D X IU IS COMING](http://twitter.com/search?q=AGUST+D+X+IU+IS+COMING) | N/A |
-| 6 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 7 | [2 OUT TODAY](http://twitter.com/search?q=2+OUT+TODAY) | N/A |
-| 8 | [#EsPorChivas](http://twitter.com/search?q=%23EsPorChivas) | N/A |
-| 9 | [#integracionkenini](http://twitter.com/search?q=%23integracionkenini) | N/A |
-| 10 | [BÉSENME EMINENAS](http://twitter.com/search?q=B%c3%89SENME+EMINENAS) | N/A |
-| 11 | [México-Toluca](http://twitter.com/search?q=M%c3%a9xico-Toluca) | N/A |
-| 12 | [Barry](http://twitter.com/search?q=Barry) | N/A |
-| 13 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 14 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 15 | [Foolish](http://twitter.com/search?q=Foolish) | N/A |
-| 16 | [La Marquesa](http://twitter.com/search?q=La+Marquesa) | N/A |
-| 17 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 18 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 19 | [Kenia](http://twitter.com/search?q=Kenia) | Kenia is the name of a country in East Africa. It is bordered by Tanzania, Uganda, South Sudan, Ethiopia, and Somalia. The official name of the country is the Republic of Kenya. The meaning of Kenia in English is "burning" or "place of the open-faced spear". |
-| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 21 | [Jose](http://twitter.com/search?q=Jose) | N/A |
-| 22 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 23 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
-| 24 | [San Luis Potosí](http://twitter.com/search?q=San+Luis+Potos%c3%ad) | N/A |
-| 25 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 26 | [Torreón](http://twitter.com/search?q=Torre%c3%b3n) | N/A |
-| 27 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 28 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 29 | [Matehuala](http://twitter.com/search?q=Matehuala) | N/A |
-| 30 | [Juana](http://twitter.com/search?q=Juana) | N/A |
-| 31 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 32 | [La Jornada](http://twitter.com/search?q=La+Jornada) | N/A |
-| 33 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 34 | [#AutomóvilAllStar](http://twitter.com/search?q=%23Autom%c3%b3vilAllStar) | N/A |
-| 35 | [#JuevesSanto](http://twitter.com/search?q=%23JuevesSanto) | N/A |
-| 36 | [#DragonBallZ](http://twitter.com/search?q=%23DragonBallZ) | N/A |
-| 37 | [#LunaRosa](http://twitter.com/search?q=%23LunaRosa) | N/A |
-| 38 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
-| 39 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
-| 40 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
+| 1 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 2 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 3 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 4 | [Central de Abastos](http://twitter.com/search?q=Central+de+Abastos) | N/A |
+| 5 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
+| 6 | [#incendio](http://twitter.com/search?q=%23incendio) | N/A |
+| 7 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 8 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 9 | [BÉSENME EMINENAS](http://twitter.com/search?q=B%c3%89SENME+EMINENAS) | N/A |
+| 10 | [México-Toluca](http://twitter.com/search?q=M%c3%a9xico-Toluca) | N/A |
+| 11 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 12 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 13 | [Barry](http://twitter.com/search?q=Barry) | N/A |
+| 14 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
+| 15 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
+| 16 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
+| 17 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 18 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 19 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 20 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 21 | [Gael](http://twitter.com/search?q=Gael) | N/A |
+| 22 | [Mario Bros](http://twitter.com/search?q=Mario+Bros) | N/A |
+| 23 | [Foolish](http://twitter.com/search?q=Foolish) | N/A |
+| 24 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 25 | [San Luis Potosí](http://twitter.com/search?q=San+Luis+Potos%c3%ad) | N/A |
+| 26 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 27 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 28 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 29 | [Juana](http://twitter.com/search?q=Juana) | N/A |
+| 30 | [Matehuala](http://twitter.com/search?q=Matehuala) | N/A |
+| 31 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 32 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 33 | [#AutomóvilAllStar](http://twitter.com/search?q=%23Autom%c3%b3vilAllStar) | N/A |
+| 34 | [#Iztapalapa](http://twitter.com/search?q=%23Iztapalapa) | N/A |
+| 35 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 36 | [#EsPorChivas](http://twitter.com/search?q=%23EsPorChivas) | N/A |
+| 37 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
+| 38 | [#integracionkenini](http://twitter.com/search?q=%23integracionkenini) | N/A |
+| 39 | [#LunaRosa](http://twitter.com/search?q=%23LunaRosa) | N/A |
+| 40 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
+| 41 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-04-07 03:17:13 UTC`
+📆 Last Updated: `2023-04-07 04:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Preds](http://twitter.com/search?q=%23Preds) | N/A |
-| 2 | [#Smashville](http://twitter.com/search?q=%23Smashville) | N/A |
-| 3 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 4 | [Reps](http://twitter.com/search?q=Reps) | N/A |
-| 5 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 6 | [#TNLeg](http://twitter.com/search?q=%23TNLeg) | N/A |
-| 7 | [Democratic](http://twitter.com/search?q=Democratic) | N/A |
-| 8 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 9 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 2 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 3 | [#Smashville](http://twitter.com/search?q=%23Smashville) | N/A |
+| 4 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 5 | [Reps](http://twitter.com/search?q=Reps) | N/A |
+| 6 | [Democratic](http://twitter.com/search?q=Democratic) | N/A |
+| 7 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 8 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 9 | [NBA X NICKI](http://twitter.com/search?q=NBA+X+NICKI) | N/A |
 | 10 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 11 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
-| 12 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 11 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 12 | [Braves](http://twitter.com/search?q=Braves) | N/A |
 | 13 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 14 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 15 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
-| 16 | [#criticalrolespoilers](http://twitter.com/search?q=%23criticalrolespoilers) | N/A |
-| 17 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 18 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 19 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 20 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 21 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
-| 22 | [Crismatt](http://twitter.com/search?q=Crismatt) | N/A |
-| 23 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 24 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 25 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 26 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 27 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 28 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 29 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 30 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 31 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
-| 32 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 33 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
-| 34 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 35 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 36 | [New South](http://twitter.com/search?q=New+South) | N/A |
-| 37 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 38 | [Petry](http://twitter.com/search?q=Petry) | N/A |
-| 39 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 40 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
-| 41 | [Tim Hill](http://twitter.com/search?q=Tim+Hill) | N/A |
-| 42 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
-| 43 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 44 | [Bobcats](http://twitter.com/search?q=Bobcats) | N/A |
-| 45 | [Blue Coats](http://twitter.com/search?q=Blue+Coats) | N/A |
-| 46 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
-| 47 | [FRIDA](http://twitter.com/search?q=FRIDA) | N/A |
-| 48 | [MacEwen](http://twitter.com/search?q=MacEwen) | N/A |
-| 49 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
-| 50 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 14 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 15 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
+| 16 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 17 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 18 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 19 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
+| 20 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
+| 21 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 22 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
+| 23 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 24 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 25 | [YOONGIS](http://twitter.com/search?q=YOONGIS) | YOONGIS is a Korean slang term that is used to describe someone who is attractive, cool, and stylish. It can also be used to describe someone who is fashionable or trendy. In English, it could be translated as "stylish" or "trendy". |
+| 26 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 27 | [Christian Braun](http://twitter.com/search?q=Christian+Braun) | N/A |
+| 28 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 29 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 30 | [ot12](http://twitter.com/search?q=ot12) | N/A |
+| 31 | [Bruce Brown](http://twitter.com/search?q=Bruce+Brown) | N/A |
+| 32 | [Crismatt](http://twitter.com/search?q=Crismatt) | N/A |
+| 33 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 34 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 35 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 36 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 37 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 38 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 39 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
+| 40 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 41 | [DeAndre Jordan](http://twitter.com/search?q=DeAndre+Jordan) | N/A |
+| 42 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 43 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
+| 44 | [New South](http://twitter.com/search?q=New+South) | N/A |
+| 45 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 46 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 47 | [Aaron Wiggins](http://twitter.com/search?q=Aaron+Wiggins) | N/A |
+| 48 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 49 | [Ethan Petry](http://twitter.com/search?q=Ethan+Petry) | N/A |
+| 50 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
 
 
 

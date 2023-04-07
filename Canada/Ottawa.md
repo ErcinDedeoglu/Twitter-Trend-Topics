@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-04-07 03:16:31 UTC`
+📆 Last Updated: `2023-04-07 04:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 2 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
-| 3 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
-| 4 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 5 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 6 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 7 | [Sportsnet](http://twitter.com/search?q=Sportsnet) | N/A |
-| 8 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 9 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 10 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 11 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 12 | [Joel Armia](http://twitter.com/search?q=Joel+Armia) | N/A |
-| 13 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 14 | [Shane Wright](http://twitter.com/search?q=Shane+Wright) | Shane Wright is a phrase used to describe someone who is highly successful and ambitious. It is often used to describe someone who has achieved great success in their chosen field, whether it be business, sports, or any other endeavor. The phrase can also be used to describe someone who is determined and driven to reach their goals. |
-| 15 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
-| 16 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
-| 17 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
-| 18 | [#TORvsBOS](http://twitter.com/search?q=%23TORvsBOS) | N/A |
-| 19 | [Kampf](http://twitter.com/search?q=Kampf) | N/A |
-| 20 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 21 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 22 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 23 | [DJ Smith](http://twitter.com/search?q=DJ+Smith) | N/A |
-| 24 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 25 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 26 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 27 | [Kitchener](http://twitter.com/search?q=Kitchener) | N/A |
-| 28 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 29 | [Jenn](http://twitter.com/search?q=Jenn) | N/A |
-| 30 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 31 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 32 | [Willy](http://twitter.com/search?q=Willy) | N/A |
-| 33 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 34 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 35 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 36 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
-| 37 | [Suzuki](http://twitter.com/search?q=Suzuki) | N/A |
-| 38 | [#OHLPlayoffs](http://twitter.com/search?q=%23OHLPlayoffs) | N/A |
-| 39 | [Lightning](http://twitter.com/search?q=Lightning) | N/A |
-| 40 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 41 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 42 | [Stations of the Cross](http://twitter.com/search?q=Stations+of+the+Cross) | N/A |
-| 43 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 44 | [Sussex](http://twitter.com/search?q=Sussex) | N/A |
-| 45 | [Gurianov](http://twitter.com/search?q=Gurianov) | N/A |
-| 46 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 47 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 48 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 49 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 1 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
+| 2 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 3 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 4 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
+| 5 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 6 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 7 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 8 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 9 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 10 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 11 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 12 | [Hirose](http://twitter.com/search?q=Hirose) | N/A |
+| 13 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 14 | [Joel Armia](http://twitter.com/search?q=Joel+Armia) | N/A |
+| 15 | [Shane Wright](http://twitter.com/search?q=Shane+Wright) | Shane Wright is a phrase used to describe someone who is highly successful and ambitious. It is often used to describe someone who has achieved great success in their chosen field, whether it be business, sports, or any other endeavor. The phrase can also be used to describe someone who is determined and driven to reach their goals. |
+| 16 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 17 | [Lafferty](http://twitter.com/search?q=Lafferty) | Lafferty is a Scottish surname derived from the Gaelic name Mac an Leifheartaigh, meaning "son of the follower of St. Laverty". It is most commonly found in County Donegal, Ireland. In English, it can be translated to mean "son of the follower of St. Laverty". |
+| 18 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 19 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 20 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 21 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 22 | [Kampf](http://twitter.com/search?q=Kampf) | N/A |
+| 23 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 24 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
+| 25 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 26 | [DJ Smith](http://twitter.com/search?q=DJ+Smith) | N/A |
+| 27 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 28 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 29 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 30 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 31 | [#sunset](http://twitter.com/search?q=%23sunset) | N/A |
+| 32 | [Kitchener](http://twitter.com/search?q=Kitchener) | N/A |
+| 33 | [Jenn](http://twitter.com/search?q=Jenn) | N/A |
+| 34 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 35 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 36 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 37 | [Windsor](http://twitter.com/search?q=Windsor) | N/A |
+| 38 | [Lightning](http://twitter.com/search?q=Lightning) | N/A |
+| 39 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 40 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 41 | [Stations of the Cross](http://twitter.com/search?q=Stations+of+the+Cross) | N/A |
+| 42 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
+| 43 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 44 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 45 | [Sussex](http://twitter.com/search?q=Sussex) | N/A |
+| 46 | [Gurianov](http://twitter.com/search?q=Gurianov) | N/A |
+| 47 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 48 | [#OHLPlayoffs](http://twitter.com/search?q=%23OHLPlayoffs) | N/A |
+| 49 | [#GoodFriday](http://twitter.com/search?q=%23GoodFriday) | N/A |
+| 50 | [#WMCC2023](http://twitter.com/search?q=%23WMCC2023) | N/A |
 
 
 

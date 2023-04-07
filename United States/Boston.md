@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-04-07 03:17:10 UTC`
+📆 Last Updated: `2023-04-07 04:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pasta](http://twitter.com/search?q=Pasta) | N/A |
-| 2 | [The Bruins](http://twitter.com/search?q=The+Bruins) | N/A |
-| 3 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 4 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 5 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 6 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 7 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 8 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 9 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
-| 10 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 1 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 2 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 3 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 4 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 5 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 6 | [NBA X NICKI](http://twitter.com/search?q=NBA+X+NICKI) | N/A |
+| 7 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 8 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 9 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 10 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
 | 11 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 12 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 13 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
-| 14 | [#criticalrolespoilers](http://twitter.com/search?q=%23criticalrolespoilers) | N/A |
-| 15 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 16 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 17 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
-| 18 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 19 | [#JeremyRenner](http://twitter.com/search?q=%23JeremyRenner) | N/A |
-| 20 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 21 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
-| 22 | [#Isles](http://twitter.com/search?q=%23Isles) | N/A |
-| 23 | [Crismatt](http://twitter.com/search?q=Crismatt) | N/A |
-| 24 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 25 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 26 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 27 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 28 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 29 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 30 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
-| 31 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 32 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 33 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 34 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
-| 35 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 36 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
-| 37 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 38 | [New South](http://twitter.com/search?q=New+South) | N/A |
-| 39 | [Petry](http://twitter.com/search?q=Petry) | N/A |
-| 40 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
-| 41 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 42 | [Tim Hill](http://twitter.com/search?q=Tim+Hill) | N/A |
-| 43 | [Bobcats](http://twitter.com/search?q=Bobcats) | N/A |
-| 44 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
-| 45 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 46 | [Blue Coats](http://twitter.com/search?q=Blue+Coats) | N/A |
-| 47 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
-| 48 | [FRIDA](http://twitter.com/search?q=FRIDA) | N/A |
-| 49 | [MacEwen](http://twitter.com/search?q=MacEwen) | N/A |
-| 50 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
+| 12 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 13 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
+| 14 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
+| 15 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 16 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 17 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 18 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
+| 19 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
+| 20 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 21 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
+| 22 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 23 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 24 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 25 | [YOONGIS](http://twitter.com/search?q=YOONGIS) | YOONGIS is a Korean slang term that is used to describe someone who is attractive, cool, and stylish. It can also be used to describe someone who is fashionable or trendy. In English, it could be translated as "stylish" or "trendy". |
+| 26 | [Christian Braun](http://twitter.com/search?q=Christian+Braun) | N/A |
+| 27 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 28 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 29 | [ot12](http://twitter.com/search?q=ot12) | N/A |
+| 30 | [Crismatt](http://twitter.com/search?q=Crismatt) | N/A |
+| 31 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 32 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 33 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 34 | [Bruce Brown](http://twitter.com/search?q=Bruce+Brown) | N/A |
+| 35 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 36 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 37 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 38 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 39 | [DeAndre Jordan](http://twitter.com/search?q=DeAndre+Jordan) | N/A |
+| 40 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 41 | [New South](http://twitter.com/search?q=New+South) | N/A |
+| 42 | [Nabil](http://twitter.com/search?q=Nabil) | N/A |
+| 43 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 44 | [Aaron Wiggins](http://twitter.com/search?q=Aaron+Wiggins) | N/A |
+| 45 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 46 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 47 | [Ethan Petry](http://twitter.com/search?q=Ethan+Petry) | N/A |
+| 48 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
+| 49 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
+| 50 | [THE LYRICS](http://twitter.com/search?q=THE+LYRICS) | N/A |
 
 
 

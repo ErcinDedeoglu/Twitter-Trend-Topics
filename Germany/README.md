@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-04-07 03:17:20 UTC`
+📆 Last Updated: `2023-04-07 04:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Germany
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 2 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 2 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
 | 3 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
 | 4 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 5 | [#rblBVB](http://twitter.com/search?q=%23rblBVB) | N/A |
-| 6 | [#Tanzverbot](http://twitter.com/search?q=%23Tanzverbot) | N/A |
-| 7 | [gründonnerstag](http://twitter.com/search?q=gr%c3%bcndonnerstag) | N/A |
-| 8 | [ostertage](http://twitter.com/search?q=ostertage) | N/A |
-| 9 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 5 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 6 | [#RBLBVB](http://twitter.com/search?q=%23RBLBVB) | N/A |
+| 7 | [#AgustDxIU](http://twitter.com/search?q=%23AgustDxIU) | N/A |
+| 8 | [gründonnerstag](http://twitter.com/search?q=gr%c3%bcndonnerstag) | N/A |
+| 9 | [Anya](http://twitter.com/search?q=Anya) | N/A |
 | 10 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 11 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 12 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 13 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
-| 14 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 15 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 16 | [Huber](http://twitter.com/search?q=Huber) | N/A |
-| 17 | [Falschparker](http://twitter.com/search?q=Falschparker) | N/A |
+| 11 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 12 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 13 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 14 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 15 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 16 | [Falschparker](http://twitter.com/search?q=Falschparker) | N/A |
+| 17 | [Huber](http://twitter.com/search?q=Huber) | N/A |
 | 18 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 19 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 20 | [dream concert](http://twitter.com/search?q=dream+concert) | N/A |
-| 21 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 22 | [moin](http://twitter.com/search?q=moin) | N/A |
-| 23 | [Worst Concert](http://twitter.com/search?q=Worst+Concert) | N/A |
-| 24 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 25 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
-| 26 | [guten morgen thomas](http://twitter.com/search?q=guten+morgen+thomas) | N/A |
-| 27 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 28 | [Feinstaub](http://twitter.com/search?q=Feinstaub) | N/A |
-| 29 | [Kapitulation der Ukraine](http://twitter.com/search?q=Kapitulation+der+Ukraine) | N/A |
-| 30 | [Frau Kellermann](http://twitter.com/search?q=Frau+Kellermann) | N/A |
-| 31 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 32 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 33 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
-| 34 | [harald lesch](http://twitter.com/search?q=harald+lesch) | N/A |
-| 35 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 36 | [selbstzahler](http://twitter.com/search?q=selbstzahler) | N/A |
-| 37 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 38 | [privatsache](http://twitter.com/search?q=privatsache) | N/A |
-| 39 | [Hummels](http://twitter.com/search?q=Hummels) | N/A |
-| 40 | [Ballweg](http://twitter.com/search?q=Ballweg) | N/A |
-| 41 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 42 | [Stiko](http://twitter.com/search?q=Stiko) | N/A |
-| 43 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 44 | [vasektomie](http://twitter.com/search?q=vasektomie) | N/A |
-| 45 | [Flugscham](http://twitter.com/search?q=Flugscham) | N/A |
-| 46 | ['geflecht'](http://twitter.com/search?q=%27geflecht%27) | N/A |
-| 47 | [Murat](http://twitter.com/search?q=Murat) | N/A |
-| 48 | [Generationenverantwortung](http://twitter.com/search?q=Generationenverantwortung) | N/A |
-| 49 | [Pfeffer](http://twitter.com/search?q=Pfeffer) | N/A |
-| 50 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
+| 19 | [Worst Concert](http://twitter.com/search?q=Worst+Concert) | N/A |
+| 20 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 21 | [dream concert](http://twitter.com/search?q=dream+concert) | N/A |
+| 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 23 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
+| 24 | [Kapitulation der Ukraine](http://twitter.com/search?q=Kapitulation+der+Ukraine) | N/A |
+| 25 | [frau kellermann](http://twitter.com/search?q=frau+kellermann) | N/A |
+| 26 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
+| 27 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 28 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 29 | [hummels](http://twitter.com/search?q=hummels) | N/A |
+| 30 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 31 | [selbstzahler](http://twitter.com/search?q=selbstzahler) | N/A |
+| 32 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 33 | [Oberleutnant](http://twitter.com/search?q=Oberleutnant) | N/A |
+| 34 | [privatsache](http://twitter.com/search?q=privatsache) | N/A |
+| 35 | ['geflecht'](http://twitter.com/search?q=%27geflecht%27) | N/A |
+| 36 | [Icebox](http://twitter.com/search?q=Icebox) | N/A |
+| 37 | [vasektomie](http://twitter.com/search?q=vasektomie) | N/A |
+| 38 | [Harald Lesch](http://twitter.com/search?q=Harald+Lesch) | N/A |
+| 39 | [flugscham](http://twitter.com/search?q=flugscham) | N/A |
+| 40 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 41 | [Geburtsurkunde](http://twitter.com/search?q=Geburtsurkunde) | N/A |
+| 42 | [möglichkeit 4](http://twitter.com/search?q=m%c3%b6glichkeit+4) | N/A |
+| 43 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 44 | [Wine](http://twitter.com/search?q=Wine) | N/A |
+| 45 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 46 | [langes wochenende](http://twitter.com/search?q=langes+wochenende) | N/A |
+| 47 | [Generationenverantwortung](http://twitter.com/search?q=Generationenverantwortung) | N/A |
+| 48 | [YOONGIS](http://twitter.com/search?q=YOONGIS) | YOONGIS is a Korean slang term that is used to describe someone who is attractive, cool, and stylish. It can also be used to describe someone who is fashionable or trendy. In English, it could be translated as "stylish" or "trendy". |
+| 49 | [Klaus Ernst](http://twitter.com/search?q=Klaus+Ernst) | N/A |
+| 50 | [Murat](http://twitter.com/search?q=Murat) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bekasi
 
-📆 Last Updated: `2023-04-07 03:16:51 UTC`
+📆 Last Updated: `2023-04-07 04:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,37 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Jumat Agung](http://twitter.com/search?q=Jumat+Agung) | N/A |
-| 2 | [#GoodFriday](http://twitter.com/search?q=%23GoodFriday) | N/A |
-| 3 | [Gorengan Harga Mati](http://twitter.com/search?q=Gorengan+Harga+Mati) | N/A |
-| 4 | [#BigRamadanSaleShopee](http://twitter.com/search?q=%23BigRamadanSaleShopee) | N/A |
-| 5 | [#KobeBumbuAdukNasiUduk](http://twitter.com/search?q=%23KobeBumbuAdukNasiUduk) | N/A |
-| 6 | [#wafatisaalmasih](http://twitter.com/search?q=%23wafatisaalmasih) | N/A |
-| 7 | [#toleransiagama](http://twitter.com/search?q=%23toleransiagama) | N/A |
-| 8 | [Produk Viral](http://twitter.com/search?q=Produk+Viral) | N/A |
-| 9 | [HARI TERAKHIR PROMO PUNCAK](http://twitter.com/search?q=HARI+TERAKHIR+PROMO+PUNCAK) | N/A |
-| 10 | [Tabungan BRI Simpedes](http://twitter.com/search?q=Tabungan+BRI+Simpedes) | N/A |
-| 11 | [Pilihan Zillennial Jateng](http://twitter.com/search?q=Pilihan+Zillennial+Jateng) | N/A |
-| 12 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
-| 13 | [Na PD](http://twitter.com/search?q=Na+PD) | N/A |
-| 14 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 15 | [bersama lebih bermakna](http://twitter.com/search?q=bersama+lebih+bermakna) | N/A |
-| 16 | [Baeksang](http://twitter.com/search?q=Baeksang) | N/A |
-| 17 | [Kamis Putih](http://twitter.com/search?q=Kamis+Putih) | N/A |
-| 18 | [Dibonceng](http://twitter.com/search?q=Dibonceng) | N/A |
-| 19 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 20 | [Yesus Kristus](http://twitter.com/search?q=Yesus+Kristus) | N/A |
-| 21 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 22 | [PEOPLE PT2 IS COMING](http://twitter.com/search?q=PEOPLE+PT2+IS+COMING) | N/A |
-| 23 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 24 | [majukan terus indonesia](http://twitter.com/search?q=majukan+terus+indonesia) | N/A |
-| 25 | [semangat persatuan prabowo](http://twitter.com/search?q=semangat+persatuan+prabowo) | N/A |
-| 26 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 27 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 28 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 29 | [EXO 11th Anniversary](http://twitter.com/search?q=EXO+11th+Anniversary) | N/A |
-| 30 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 31 | [Repose Meadows](http://twitter.com/search?q=Repose+Meadows) | N/A |
-| 32 | [Bagaimana 4](http://twitter.com/search?q=Bagaimana+4) | N/A |
-| 33 | [Jangan Lupa Dakwah](http://twitter.com/search?q=Jangan+Lupa+Dakwah) | N/A |
-| 34 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 35 | [kylie](http://twitter.com/search?q=kylie) | N/A |
-| 36 | [Guanlin](http://twitter.com/search?q=Guanlin) | N/A |
-| 37 | [Libur](http://twitter.com/search?q=Libur) | N/A |
-| 38 | [Hari Kesehatan Sedunia](http://twitter.com/search?q=Hari+Kesehatan+Sedunia) | N/A |
-| 39 | [haechan lee thank you](http://twitter.com/search?q=haechan+lee+thank+you) | N/A |
-| 40 | [Mini Camp](http://twitter.com/search?q=Mini+Camp) | N/A |
-| 41 | [BEAUTY MYSTERY BOX](http://twitter.com/search?q=BEAUTY+MYSTERY+BOX) | N/A |
-| 42 | [Lee Sung Min](http://twitter.com/search?q=Lee+Sung+Min) | N/A |
-| 43 | [Our Blues](http://twitter.com/search?q=Our+Blues) | N/A |
-| 44 | [PEOPLE PT 2 FT IU](http://twitter.com/search?q=PEOPLE+PT+2+FT+IU) | N/A |
-| 45 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 46 | [KEJUTAN PRODUK GRATIS](http://twitter.com/search?q=KEJUTAN+PRODUK+GRATIS) | N/A |
-| 47 | [Little Women](http://twitter.com/search?q=Little+Women) | N/A |
-| 48 | [The Glory](http://twitter.com/search?q=The+Glory) | N/A |
-| 49 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 2 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 3 | [#AgustDxIU](http://twitter.com/search?q=%23AgustDxIU) | N/A |
+| 4 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 5 | [AGUST D OFFICIAL DEBUT](http://twitter.com/search?q=AGUST+D+OFFICIAL+DEBUT) | N/A |
+| 6 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
+| 7 | [Isa Almasih](http://twitter.com/search?q=Isa+Almasih) | N/A |
+| 8 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 9 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
+| 10 | [Na PD](http://twitter.com/search?q=Na+PD) | N/A |
+| 11 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
+| 12 | [Baeksang](http://twitter.com/search?q=Baeksang) | N/A |
+| 13 | [Yesus Kristus](http://twitter.com/search?q=Yesus+Kristus) | N/A |
+| 14 | [Dibonceng](http://twitter.com/search?q=Dibonceng) | N/A |
+| 15 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 16 | [Semoga Tuhan](http://twitter.com/search?q=Semoga+Tuhan) | N/A |
+| 17 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
+| 18 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 19 | [Libur](http://twitter.com/search?q=Libur) | N/A |
+| 20 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 21 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 22 | [Katolik](http://twitter.com/search?q=Katolik) | N/A |
+| 23 | [Gereja](http://twitter.com/search?q=Gereja) | N/A |
+| 24 | [EXO 11th Anniversary](http://twitter.com/search?q=EXO+11th+Anniversary) | N/A |
+| 25 | [#MONEY800MYTViews](http://twitter.com/search?q=%23MONEY800MYTViews) | N/A |
+| 26 | [#LALISAMV600M](http://twitter.com/search?q=%23LALISAMV600M) | N/A |
+| 27 | [#Paskah](http://twitter.com/search?q=%23Paskah) | N/A |
+| 28 | [#RamadhanDay16](http://twitter.com/search?q=%23RamadhanDay16) | N/A |
+| 29 | [#BreakingNews](http://twitter.com/search?q=%23BreakingNews) | N/A |
+| 30 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
+| 31 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
+| 32 | [#ShopeeSyantik](http://twitter.com/search?q=%23ShopeeSyantik) | N/A |
 
 
 
