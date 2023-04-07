@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-04-07 16:17:33 UTC`
+📆 Last Updated: `2023-04-07 17:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,44 @@ This is top 50 for [Philippines](</Philippines>)
 | 3 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
 | 4 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
 | 5 | [#weareoneEXO](http://twitter.com/search?q=%23weareoneEXO) | N/A |
-| 6 | [#따뜻한_봄이_오는게_종현인가봐](http://twitter.com/search?q=%23%eb%94%b0%eb%9c%bb%ed%95%9c_%eb%b4%84%ec%9d%b4_%ec%98%a4%eb%8a%94%ea%b2%8c_%ec%a2%85%ed%98%84%ec%9d%b8%ea%b0%80%eb%b4%90) | N/A |
-| 7 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 8 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
-| 9 | [RRADISH FOR PPOP](http://twitter.com/search?q=RRADISH+FOR+PPOP) | N/A |
-| 10 | [DID NI-KI JUST](http://twitter.com/search?q=DID+NI-KI+JUST) | N/A |
-| 11 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 12 | [WE LOVE YOU FREEN](http://twitter.com/search?q=WE+LOVE+YOU+FREEN) | N/A |
-| 13 | [MELODY OF SCENTS D1](http://twitter.com/search?q=MELODY+OF+SCENTS+D1) | N/A |
-| 14 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 15 | [riki](http://twitter.com/search?q=riki) | N/A |
-| 16 | [yixing](http://twitter.com/search?q=yixing) | N/A |
-| 17 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 18 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
-| 19 | [SUNWOO](http://twitter.com/search?q=SUNWOO) | N/A |
-| 20 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 21 | [EXO-L](http://twitter.com/search?q=EXO-L) | N/A |
-| 22 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 23 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 24 | [Intramuros](http://twitter.com/search?q=Intramuros) | N/A |
+| 6 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 7 | [#따뜻한_봄이_오는게_종현인가봐](http://twitter.com/search?q=%23%eb%94%b0%eb%9c%bb%ed%95%9c_%eb%b4%84%ec%9d%b4_%ec%98%a4%eb%8a%94%ea%b2%8c_%ec%a2%85%ed%98%84%ec%9d%b8%ea%b0%80%eb%b4%90) | N/A |
+| 8 | [RRADISH FOR PPOP](http://twitter.com/search?q=RRADISH+FOR+PPOP) | N/A |
+| 9 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
+| 10 | [jjong](http://twitter.com/search?q=jjong) | N/A |
+| 11 | [UNANG KA1ARAWAN](http://twitter.com/search?q=UNANG+KA1ARAWAN) | N/A |
+| 12 | [DID NI-KI JUST](http://twitter.com/search?q=DID+NI-KI+JUST) | N/A |
+| 13 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 14 | [yixing](http://twitter.com/search?q=yixing) | N/A |
+| 15 | [MELODY OF SCENTS D1](http://twitter.com/search?q=MELODY+OF+SCENTS+D1) | N/A |
+| 16 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 17 | [WE LOVE YOU FREEN](http://twitter.com/search?q=WE+LOVE+YOU+FREEN) | N/A |
+| 18 | [riki](http://twitter.com/search?q=riki) | N/A |
+| 19 | [MY EXO](http://twitter.com/search?q=MY+EXO) | N/A |
+| 20 | [EXO-L](http://twitter.com/search?q=EXO-L) | N/A |
+| 21 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
+| 22 | [SUNWOO](http://twitter.com/search?q=SUNWOO) | N/A |
+| 23 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
+| 24 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 | 25 | [Enhypen](http://twitter.com/search?q=Enhypen) | N/A |
 | 26 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 27 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
+| 27 | [#DebutRRADIshTogether](http://twitter.com/search?q=%23DebutRRADIshTogether) | N/A |
 | 28 | [#IStandWithHARUTO](http://twitter.com/search?q=%23IStandWithHARUTO) | N/A |
-| 29 | [#JOHNPAULONASE](http://twitter.com/search?q=%23JOHNPAULONASE) | N/A |
-| 30 | [#DebutRRADIshTogether](http://twitter.com/search?q=%23DebutRRADIshTogether) | N/A |
-| 31 | [#BLINKSelcaDay](http://twitter.com/search?q=%23BLINKSelcaDay) | N/A |
-| 32 | [#aBossandaBabeEP6](http://twitter.com/search?q=%23aBossandaBabeEP6) | N/A |
-| 33 | [#LAY11thDebutAnniv](http://twitter.com/search?q=%23LAY11thDebutAnniv) | N/A |
-| 34 | [#ThankYouFreen](http://twitter.com/search?q=%23ThankYouFreen) | N/A |
-| 35 | [#DOJAEJUNG_TheoryOfLove](http://twitter.com/search?q=%23DOJAEJUNG_TheoryOfLove) | N/A |
-| 36 | [#NETIZENSREPORT](http://twitter.com/search?q=%23NETIZENSREPORT) | N/A |
-| 37 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
-| 38 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
+| 29 | [#MHMA2023JOHNPAULONASE](http://twitter.com/search?q=%23MHMA2023JOHNPAULONASE) | N/A |
+| 30 | [#BLINKSelcaDay](http://twitter.com/search?q=%23BLINKSelcaDay) | N/A |
+| 31 | [#1stKAIAversary](http://twitter.com/search?q=%231stKAIAversary) | N/A |
+| 32 | [#LAY11thDebutAnniv](http://twitter.com/search?q=%23LAY11thDebutAnniv) | N/A |
+| 33 | [#aBossandaBabeEP6](http://twitter.com/search?q=%23aBossandaBabeEP6) | N/A |
+| 34 | [#NETIZENSREPORT](http://twitter.com/search?q=%23NETIZENSREPORT) | N/A |
+| 35 | [#ThankYouFreen](http://twitter.com/search?q=%23ThankYouFreen) | N/A |
+| 36 | [#DOJAEJUNG_TheoryOfLove](http://twitter.com/search?q=%23DOJAEJUNG_TheoryOfLove) | N/A |
+| 37 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
+| 38 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
 | 39 | [#ShowmeloveTheseriesEP6](http://twitter.com/search?q=%23ShowmeloveTheseriesEP6) | N/A |
-| 40 | [#JinnysKitchenEp7](http://twitter.com/search?q=%23JinnysKitchenEp7) | N/A |
-| 41 | [#OnTheGround](http://twitter.com/search?q=%23OnTheGround) | N/A |
-| 42 | [#FxckMyLife](http://twitter.com/search?q=%23FxckMyLife) | N/A |
-| 43 | [#TaehyungOnJinnysKitchen](http://twitter.com/search?q=%23TaehyungOnJinnysKitchen) | N/A |
-| 44 | [#마크가_말아주는_골든아워](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%ea%b0%80_%eb%a7%90%ec%95%84%ec%a3%bc%eb%8a%94_%ea%b3%a8%eb%93%a0%ec%95%84%ec%9b%8c) | N/A |
-| 45 | [#PLUUS_1MViews](http://twitter.com/search?q=%23PLUUS_1MViews) | N/A |
-| 46 | [#LeeDaIn](http://twitter.com/search?q=%23LeeDaIn) | N/A |
-| 47 | [#LeeSeungGi](http://twitter.com/search?q=%23LeeSeungGi) | N/A |
-| 48 | [#LikeCrazy4thWin](http://twitter.com/search?q=%23LikeCrazy4thWin) | N/A |
+| 40 | [#FxckMyLife](http://twitter.com/search?q=%23FxckMyLife) | N/A |
+| 41 | [#JinnysKitchenEp7](http://twitter.com/search?q=%23JinnysKitchenEp7) | N/A |
+| 42 | [#TaehyungOnJinnysKitchen](http://twitter.com/search?q=%23TaehyungOnJinnysKitchen) | N/A |
+| 43 | [#MARK_GoldenHour](http://twitter.com/search?q=%23MARK_GoldenHour) | N/A |
 
 
 

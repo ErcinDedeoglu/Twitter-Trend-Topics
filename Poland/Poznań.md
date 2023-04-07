@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-04-07 16:17:17 UTC`
+📆 Last Updated: `2023-04-07 17:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Poland](</Poland>)
 | 4 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
 | 5 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
 | 6 | [Świąt Wielkanocnych](http://twitter.com/search?q=%c5%9awi%c4%85t+Wielkanocnych) | N/A |
-| 7 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
-| 8 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 9 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
+| 7 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
+| 8 | [#włoskarobota](http://twitter.com/search?q=%23w%c5%82oskarobota) | N/A |
+| 9 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
 | 10 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
-| 11 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 12 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 13 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 14 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
-| 15 | [#PistoZlo](http://twitter.com/search?q=%23PistoZlo) | N/A |
-| 16 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
-| 17 | [Radio ZET](http://twitter.com/search?q=Radio+ZET) | N/A |
-| 18 | [Oskar Szafarowicz](http://twitter.com/search?q=Oskar+Szafarowicz) | N/A |
-| 19 | [hieny](http://twitter.com/search?q=hieny) | N/A |
-| 20 | [lichocka](http://twitter.com/search?q=lichocka) | N/A |
-| 21 | [Pani Dagmaro](http://twitter.com/search?q=Pani+Dagmaro) | N/A |
-| 22 | [KRRiT](http://twitter.com/search?q=KRRiT) | N/A |
-| 23 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
-| 24 | [Wielki Czwartek](http://twitter.com/search?q=Wielki+Czwartek) | N/A |
-| 25 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 26 | [Klubowy GOAT](http://twitter.com/search?q=Klubowy+GOAT) | N/A |
-| 27 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
-| 28 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 29 | [wielkiego piątku](http://twitter.com/search?q=wielkiego+pi%c4%85tku) | N/A |
-| 30 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
-| 31 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
+| 11 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
+| 12 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 13 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
+| 14 | [#softenmeagainwatt](http://twitter.com/search?q=%23softenmeagainwatt) | N/A |
+| 15 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 16 | [#PiStoZŁO](http://twitter.com/search?q=%23PiStoZ%c5%81O) | N/A |
+| 17 | [Bugaj](http://twitter.com/search?q=Bugaj) | N/A |
+| 18 | [Radio ZET](http://twitter.com/search?q=Radio+ZET) | N/A |
+| 19 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
+| 20 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
+| 21 | [T-64](http://twitter.com/search?q=T-64) | N/A |
+| 22 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
+| 23 | [Pani Dagmaro](http://twitter.com/search?q=Pani+Dagmaro) | N/A |
+| 24 | [KRRiT](http://twitter.com/search?q=KRRiT) | N/A |
+| 25 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
+| 26 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 27 | [Klubowy GOAT](http://twitter.com/search?q=Klubowy+GOAT) | N/A |
+| 28 | [Jemenu](http://twitter.com/search?q=Jemenu) | N/A |
+| 29 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
+| 30 | [Wielki Czwartek](http://twitter.com/search?q=Wielki+Czwartek) | N/A |
+| 31 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
 | 32 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 33 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
-| 34 | [Potrafisz Polsko](http://twitter.com/search?q=Potrafisz+Polsko) | N/A |
-| 35 | [Politechniki Łódzkiej](http://twitter.com/search?q=Politechniki+%c5%81%c3%b3dzkiej) | N/A |
+| 33 | [Wielkiego Piątku](http://twitter.com/search?q=Wielkiego+Pi%c4%85tku) | N/A |
+| 34 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
+| 35 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
 | 36 | [Murem](http://twitter.com/search?q=Murem) | N/A |
-| 37 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 38 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 39 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
-| 40 | [MSWiA](http://twitter.com/search?q=MSWiA) | N/A |
-| 41 | [Walenia](http://twitter.com/search?q=Walenia) | N/A |
-| 42 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
-| 43 | [Dagmara](http://twitter.com/search?q=Dagmara) | N/A |
-| 44 | [libanu](http://twitter.com/search?q=libanu) | N/A |
-| 45 | [eucharystii](http://twitter.com/search?q=eucharystii) | N/A |
-| 46 | [Lichockiej](http://twitter.com/search?q=Lichockiej) | N/A |
-| 47 | [Trzymaj](http://twitter.com/search?q=Trzymaj) | N/A |
-| 48 | [vuko](http://twitter.com/search?q=vuko) | N/A |
-| 49 | [Witkowa](http://twitter.com/search?q=Witkowa) | N/A |
-| 50 | [gruca](http://twitter.com/search?q=gruca) | N/A |
+| 37 | [Potrafisz Polsko](http://twitter.com/search?q=Potrafisz+Polsko) | N/A |
+| 38 | [Kukiza](http://twitter.com/search?q=Kukiza) | N/A |
+| 39 | [Interu](http://twitter.com/search?q=Interu) | N/A |
+| 40 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
+| 41 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
+| 42 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
+| 43 | [MSWiA](http://twitter.com/search?q=MSWiA) | N/A |
+| 44 | [eucharystii](http://twitter.com/search?q=eucharystii) | N/A |
+| 45 | [Lichockiej](http://twitter.com/search?q=Lichockiej) | N/A |
+| 46 | [Politechniki Łódzkiej](http://twitter.com/search?q=Politechniki+%c5%81%c3%b3dzkiej) | N/A |
+| 47 | [vuko](http://twitter.com/search?q=vuko) | N/A |
+| 48 | [Paweł Walenia](http://twitter.com/search?q=Pawe%c5%82+Walenia) | N/A |
+| 49 | [gruca](http://twitter.com/search?q=gruca) | N/A |
+| 50 | [Świrski](http://twitter.com/search?q=%c5%9awirski) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-04-07 16:17:05 UTC`
+📆 Last Updated: `2023-04-07 17:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
-| 2 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
-| 3 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
-| 4 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 5 | [Cardiff](http://twitter.com/search?q=Cardiff) | Cardiff is the capital and largest city of Wales. It is located in the south of the country, on the coast of the Bristol Channel. The name Cardiff comes from the Welsh language and means "fort on the river Taff". |
+| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 2 | [Clarke](http://twitter.com/search?q=Clarke) | N/A |
+| 3 | [Andy Carroll](http://twitter.com/search?q=Andy+Carroll) | Andy Carroll is an English professional footballer who plays as a striker for Premier League club Newcastle United. He is known for his aerial ability, physicality, and heading accuracy. |
+| 4 | [#utmp](http://twitter.com/search?q=%23utmp) | N/A |
+| 5 | [Ajayi](http://twitter.com/search?q=Ajayi) | N/A |
 | 6 | [#SCFC](http://twitter.com/search?q=%23SCFC) | N/A |
-| 7 | [Swansea](http://twitter.com/search?q=Swansea) | N/A |
-| 8 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
-| 9 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
-| 10 | [Lingfield](http://twitter.com/search?q=Lingfield) | N/A |
-| 11 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
-| 12 | [#EasterWeekend](http://twitter.com/search?q=%23EasterWeekend) | N/A |
-| 13 | [#twitterclarets](http://twitter.com/search?q=%23twitterclarets) | N/A |
-| 14 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 15 | [kick off](http://twitter.com/search?q=kick+off) | N/A |
-| 16 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 17 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 18 | [#YesSWC2023](http://twitter.com/search?q=%23YesSWC2023) | N/A |
-| 19 | [Boro](http://twitter.com/search?q=Boro) | N/A |
-| 20 | [Albion](http://twitter.com/search?q=Albion) | N/A |
-| 21 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 22 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 23 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
-| 24 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 25 | [Moore](http://twitter.com/search?q=Moore) | N/A |
-| 26 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
-| 27 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 7 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
+| 8 | [#tufc](http://twitter.com/search?q=%23tufc) | N/A |
+| 9 | [#SWCE](http://twitter.com/search?q=%23SWCE) | N/A |
+| 10 | [Stoke](http://twitter.com/search?q=Stoke) | N/A |
+| 11 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
+| 12 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 13 | [Cardiff](http://twitter.com/search?q=Cardiff) | Cardiff is the capital and largest city of Wales. It is located in the south of the country, on the coast of the Bristol Channel. The name Cardiff comes from the Welsh language and means "fort on the river Taff". |
+| 14 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 15 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
+| 16 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 17 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
+| 18 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 19 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
+| 20 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 21 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
+| 22 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 23 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 24 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 25 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
+| 26 | [Moore](http://twitter.com/search?q=Moore) | N/A |
+| 27 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
 | 28 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 29 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 29 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
 | 30 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
-| 31 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
-| 32 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 33 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
-| 34 | [Morrell](http://twitter.com/search?q=Morrell) | N/A |
-| 35 | [Town](http://twitter.com/search?q=Town) | N/A |
-| 36 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
-| 37 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 38 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 39 | [Ipswich](http://twitter.com/search?q=Ipswich) | N/A |
+| 31 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 32 | [Morrell](http://twitter.com/search?q=Morrell) | N/A |
+| 33 | [Stockdale](http://twitter.com/search?q=Stockdale) | N/A |
+| 34 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
+| 35 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 36 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
+| 37 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 38 | [League 1](http://twitter.com/search?q=League+1) | N/A |
+| 39 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
 | 40 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 41 | [League 1](http://twitter.com/search?q=League+1) | N/A |
-| 42 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 43 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 44 | [Stockdale](http://twitter.com/search?q=Stockdale) | N/A |
-| 45 | [Bachmann](http://twitter.com/search?q=Bachmann) | N/A |
-| 46 | [Hamer](http://twitter.com/search?q=Hamer) | N/A |
-| 47 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 48 | [Wickham](http://twitter.com/search?q=Wickham) | N/A |
-| 49 | [Hugill](http://twitter.com/search?q=Hugill) | N/A |
-| 50 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
+| 41 | [Ipswich](http://twitter.com/search?q=Ipswich) | N/A |
+| 42 | [Joe Shorrocks](http://twitter.com/search?q=Joe+Shorrocks) | N/A |
+| 43 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 44 | [Town](http://twitter.com/search?q=Town) | N/A |
+| 45 | [League One](http://twitter.com/search?q=League+One) | N/A |
+| 46 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
+| 47 | [Bachmann](http://twitter.com/search?q=Bachmann) | N/A |
+| 48 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 49 | [Onto Monday](http://twitter.com/search?q=Onto+Monday) | N/A |
+| 50 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
 
 
 

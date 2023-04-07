@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seville
 
-📆 Last Updated: `2023-04-07 16:17:23 UTC`
+📆 Last Updated: `2023-04-07 17:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,48 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Madrugá](http://twitter.com/search?q=Madrug%c3%a1) | N/A |
-| 2 | [Esperanza](http://twitter.com/search?q=Esperanza) | N/A |
-| 3 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 4 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 1 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 2 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 3 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 4 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
 | 5 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
 | 6 | [#PanteraRosa60](http://twitter.com/search?q=%23PanteraRosa60) | N/A |
-| 7 | [#FiestaT5](http://twitter.com/search?q=%23FiestaT5) | N/A |
+| 7 | [Ben Hur](http://twitter.com/search?q=Ben+Hur) | N/A |
 | 8 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
-| 9 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 10 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 9 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 10 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
 | 11 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 12 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 13 | [Ben Hur](http://twitter.com/search?q=Ben+Hur) | N/A |
-| 14 | [Filoni](http://twitter.com/search?q=Filoni) | N/A |
-| 15 | [Rey Skywalker](http://twitter.com/search?q=Rey+Skywalker) | N/A |
-| 16 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 17 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
-| 18 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 19 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 12 | [Filoni](http://twitter.com/search?q=Filoni) | N/A |
+| 13 | [Rey Skywalker](http://twitter.com/search?q=Rey+Skywalker) | N/A |
+| 14 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 15 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 16 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
+| 17 | [Indy](http://twitter.com/search?q=Indy) | N/A |
+| 18 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 19 | [#LugoTenerife](http://twitter.com/search?q=%23LugoTenerife) | N/A |
 | 20 | [#DiaMundialdelaSalud](http://twitter.com/search?q=%23DiaMundialdelaSalud) | N/A |
-| 21 | [Indy](http://twitter.com/search?q=Indy) | N/A |
-| 22 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
-| 23 | [#KenanEnRedBull](http://twitter.com/search?q=%23KenanEnRedBull) | N/A |
-| 24 | [#AdvanceWarsEnGAME](http://twitter.com/search?q=%23AdvanceWarsEnGAME) | N/A |
-| 25 | [Clone Wars](http://twitter.com/search?q=Clone+Wars) | N/A |
+| 21 | [Hera](http://twitter.com/search?q=Hera) | N/A |
+| 22 | [#KenanEnRedBull](http://twitter.com/search?q=%23KenanEnRedBull) | N/A |
+| 23 | [Santo Entierro](http://twitter.com/search?q=Santo+Entierro) | N/A |
+| 24 | [Clone Wars](http://twitter.com/search?q=Clone+Wars) | N/A |
+| 25 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 26 | [kylie](http://twitter.com/search?q=kylie) | N/A |
-| 27 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 28 | [The Mandalorian](http://twitter.com/search?q=The+Mandalorian) | N/A |
-| 29 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 30 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 31 | [Soledad](http://twitter.com/search?q=Soledad) | N/A |
-| 32 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 33 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 34 | [Biblia](http://twitter.com/search?q=Biblia) | N/A |
-| 35 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 36 | [Toño](http://twitter.com/search?q=To%c3%b1o) | N/A |
-| 37 | [Vía Crucis](http://twitter.com/search?q=V%c3%ada+Crucis) | N/A |
-| 38 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 39 | [Orgullo](http://twitter.com/search?q=Orgullo) | N/A |
-| 40 | [#APOYOROCIO7A](http://twitter.com/search?q=%23APOYOROCIO7A) | N/A |
+| 27 | [The Mandalorian](http://twitter.com/search?q=The+Mandalorian) | N/A |
+| 28 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 29 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 30 | [Soledad](http://twitter.com/search?q=Soledad) | N/A |
+| 31 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 32 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 33 | [Biblia](http://twitter.com/search?q=Biblia) | N/A |
+| 34 | [Brian](http://twitter.com/search?q=Brian) | N/A |
+| 35 | [Vía Crucis](http://twitter.com/search?q=V%c3%ada+Crucis) | N/A |
+| 36 | [#AdvanceWarsEnGAME](http://twitter.com/search?q=%23AdvanceWarsEnGAME) | N/A |
+| 37 | [#PrePartyES23](http://twitter.com/search?q=%23PrePartyES23) | N/A |
+| 38 | [#YoMeRebelo7A](http://twitter.com/search?q=%23YoMeRebelo7A) | N/A |
+| 39 | [#APOYOROCIO7A](http://twitter.com/search?q=%23APOYOROCIO7A) | N/A |
+| 40 | [#Del40al1CocaCola](http://twitter.com/search?q=%23Del40al1CocaCola) | N/A |
 | 41 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
-| 42 | [#YoMeRebelo7A](http://twitter.com/search?q=%23YoMeRebelo7A) | N/A |
-| 43 | [#PrePartyES23](http://twitter.com/search?q=%23PrePartyES23) | N/A |
-| 44 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
-| 45 | [#LosMartian](http://twitter.com/search?q=%23LosMartian) | N/A |
+| 42 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
 
 
 

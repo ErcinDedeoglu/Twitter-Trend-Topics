@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-04-07 16:17:18 UTC`
+📆 Last Updated: `2023-04-07 17:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 1 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
 | 2 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 3 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 4 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 5 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 6 | [#CombiParfait](http://twitter.com/search?q=%23CombiParfait) | N/A |
-| 7 | [#congresPCF](http://twitter.com/search?q=%23congresPCF) | N/A |
-| 8 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 9 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 10 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
-| 11 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
-| 12 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 13 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 14 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
-| 15 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 16 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 17 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
-| 18 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 19 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 20 | [Futuroscope](http://twitter.com/search?q=Futuroscope) | N/A |
-| 21 | [Palpatine](http://twitter.com/search?q=Palpatine) | N/A |
-| 22 | [Paris-Roubaix](http://twitter.com/search?q=Paris-Roubaix) | N/A |
-| 23 | [Vendredi Saint](http://twitter.com/search?q=Vendredi+Saint) | N/A |
-| 24 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 25 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
-| 26 | [Didi](http://twitter.com/search?q=Didi) | N/A |
-| 27 | [Olive](http://twitter.com/search?q=Olive) | N/A |
-| 28 | [Crimée](http://twitter.com/search?q=Crim%c3%a9e) | N/A |
-| 29 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
-| 30 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 31 | [Rodez](http://twitter.com/search?q=Rodez) | Rodez is a city in the south of France. It is the capital of the Aveyron department in the Occitanie region. The name Rodez comes from the Latin word "rodetum", which means "a place surrounded by oaks". In English, Rodez can be translated to mean "oak-surrounded place". |
-| 32 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 33 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 34 | [François Hollande](http://twitter.com/search?q=Fran%c3%a7ois+Hollande) | N/A |
-| 35 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 36 | [Pirouette](http://twitter.com/search?q=Pirouette) | N/A |
-| 37 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 38 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
-| 39 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
-| 40 | [Benjamin Epps](http://twitter.com/search?q=Benjamin+Epps) | N/A |
-| 41 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
-| 42 | [#MelanieDaCruz](http://twitter.com/search?q=%23MelanieDaCruz) | N/A |
-| 43 | [#journeemondialedelasante](http://twitter.com/search?q=%23journeemondialedelasante) | N/A |
-| 44 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 45 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
+| 3 | [#Sampeyton](http://twitter.com/search?q=%23Sampeyton) | N/A |
+| 4 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 5 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 6 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 7 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
+| 8 | [Grigny](http://twitter.com/search?q=Grigny) | N/A |
+| 9 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 10 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 11 | [#CombiParfait](http://twitter.com/search?q=%23CombiParfait) | N/A |
+| 12 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 13 | [Scoring](http://twitter.com/search?q=Scoring) | N/A |
+| 14 | [Hamdallah](http://twitter.com/search?q=Hamdallah) | N/A |
+| 15 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 16 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
+| 17 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 18 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
+| 19 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 20 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 21 | [Futuroscope](http://twitter.com/search?q=Futuroscope) | N/A |
+| 22 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 23 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 24 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 25 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 26 | [Palpatine](http://twitter.com/search?q=Palpatine) | N/A |
+| 27 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 28 | [Sasuke](http://twitter.com/search?q=Sasuke) | N/A |
+| 29 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 30 | [Vendredi Saint](http://twitter.com/search?q=Vendredi+Saint) | N/A |
+| 31 | [Paris-Roubaix](http://twitter.com/search?q=Paris-Roubaix) | N/A |
+| 32 | [Pirouette](http://twitter.com/search?q=Pirouette) | N/A |
+| 33 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 34 | [Olive](http://twitter.com/search?q=Olive) | N/A |
+| 35 | [Crimée](http://twitter.com/search?q=Crim%c3%a9e) | N/A |
+| 36 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 37 | [Rodez](http://twitter.com/search?q=Rodez) | Rodez is a city in the south of France. It is the capital of the Aveyron department in the Occitanie region. The name Rodez comes from the Latin word "rodetum", which means "a place surrounded by oaks". In English, Rodez can be translated to mean "oak-surrounded place". |
+| 38 | [François Hollande](http://twitter.com/search?q=Fran%c3%a7ois+Hollande) | N/A |
+| 39 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
+| 40 | [#congresPCF](http://twitter.com/search?q=%23congresPCF) | N/A |
+| 41 | [#IndianaJones](http://twitter.com/search?q=%23IndianaJones) | N/A |
+| 42 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
+| 43 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 44 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
+| 45 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
 | 46 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 47 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 48 | [#RegionTour](http://twitter.com/search?q=%23RegionTour) | N/A |
-| 49 | [#GA2023](http://twitter.com/search?q=%23GA2023) | N/A |
+| 47 | [#journeemondialedelasante](http://twitter.com/search?q=%23journeemondialedelasante) | N/A |
+| 48 | [#RCLRCSA](http://twitter.com/search?q=%23RCLRCSA) | N/A |
+| 49 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
 
 
 

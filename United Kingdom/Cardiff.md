@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-04-07 16:17:06 UTC`
+📆 Last Updated: `2023-04-07 17:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 2 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
+| 1 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
+| 2 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
 | 3 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
-| 4 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 5 | [#htafc](http://twitter.com/search?q=%23htafc) | N/A |
-| 6 | [#pafc](http://twitter.com/search?q=%23pafc) | N/A |
-| 7 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
-| 8 | [Moore](http://twitter.com/search?q=Moore) | N/A |
-| 9 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 10 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 11 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 12 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
-| 13 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
-| 14 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
+| 4 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 5 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 6 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 7 | [#htafc](http://twitter.com/search?q=%23htafc) | N/A |
+| 8 | [#watfordfc](http://twitter.com/search?q=%23watfordfc) | N/A |
+| 9 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
+| 10 | [Moore](http://twitter.com/search?q=Moore) | N/A |
+| 11 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
+| 12 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 13 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
+| 14 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
 | 15 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
 | 16 | [Morrell](http://twitter.com/search?q=Morrell) | N/A |
-| 17 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
-| 18 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 19 | [Town](http://twitter.com/search?q=Town) | N/A |
-| 20 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 21 | [Ipswich](http://twitter.com/search?q=Ipswich) | N/A |
-| 22 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 23 | [League 1](http://twitter.com/search?q=League+1) | N/A |
-| 24 | [Hugill](http://twitter.com/search?q=Hugill) | N/A |
-| 25 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
-| 26 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 27 | [Stockdale](http://twitter.com/search?q=Stockdale) | N/A |
-| 28 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 29 | [Wickham](http://twitter.com/search?q=Wickham) | N/A |
-| 30 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
-| 31 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 32 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
-| 33 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
-| 34 | [Scott Munn](http://twitter.com/search?q=Scott+Munn) | N/A |
-| 35 | [Houghton](http://twitter.com/search?q=Houghton) | N/A |
-| 36 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
-| 37 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 38 | [Iwata](http://twitter.com/search?q=Iwata) | N/A |
-| 39 | [Wilks](http://twitter.com/search?q=Wilks) | Wilks is a unit of measurement used in strength sports such as powerlifting and weightlifting. It is a measure of an athlete's strength relative to their bodyweight, and is calculated by multiplying the athlete's total weight lifted by a coefficient. The Wilks coefficient is based on gender, age, and bodyweight. |
-| 40 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
-| 41 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 42 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 43 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 44 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
-| 45 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 46 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
-| 47 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 48 | [Hull](http://twitter.com/search?q=Hull) | N/A |
+| 17 | [Stockdale](http://twitter.com/search?q=Stockdale) | N/A |
+| 18 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
+| 19 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 20 | [League 1](http://twitter.com/search?q=League+1) | N/A |
+| 21 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 22 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
+| 23 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
+| 24 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 25 | [Ipswich](http://twitter.com/search?q=Ipswich) | N/A |
+| 26 | [Joe Shorrocks](http://twitter.com/search?q=Joe+Shorrocks) | N/A |
+| 27 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 28 | [Town](http://twitter.com/search?q=Town) | N/A |
+| 29 | [League One](http://twitter.com/search?q=League+One) | N/A |
+| 30 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
+| 31 | [Bachmann](http://twitter.com/search?q=Bachmann) | N/A |
+| 32 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 33 | [Onto Monday](http://twitter.com/search?q=Onto+Monday) | N/A |
+| 34 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 35 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
+| 36 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 37 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
+| 38 | [Fisher](http://twitter.com/search?q=Fisher) | N/A |
+| 39 | [Unsworth](http://twitter.com/search?q=Unsworth) | N/A |
+| 40 | [Pozzo](http://twitter.com/search?q=Pozzo) | N/A |
+| 41 | [Hamer](http://twitter.com/search?q=Hamer) | N/A |
+| 42 | [Blackpool](http://twitter.com/search?q=Blackpool) | Blackpool is a seaside resort town in Lancashire, England. It is known for its beaches, amusement parks, and nightlife. The name Blackpool comes from the dark-colored soil in the area, which was said to resemble a pool of black water. |
+| 43 | [Saints](http://twitter.com/search?q=Saints) | Saints are people who have been recognized for their holiness or piety and are usually venerated by members of a religious faith. In Christianity, saints are typically regarded as those who have attained the highest level of spiritual perfection and have been canonized by the church. The term is also used to refer to individuals who have been recognized for their exemplary lives or deeds. |
+| 44 | [Wilks](http://twitter.com/search?q=Wilks) | Wilks is a unit of measurement used in strength sports such as powerlifting and weightlifting. It is a measure of an athlete's strength relative to their bodyweight, and is calculated by multiplying the athlete's total weight lifted by a coefficient. The Wilks coefficient is based on gender, age, and bodyweight. |
+| 45 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 46 | [Hartlepool](http://twitter.com/search?q=Hartlepool) | N/A |
+| 47 | [Hugill](http://twitter.com/search?q=Hugill) | N/A |
+| 48 | [jjong](http://twitter.com/search?q=jjong) | N/A |
 
 
 

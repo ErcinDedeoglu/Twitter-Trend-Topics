@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-04-07 16:17:14 UTC`
+📆 Last Updated: `2023-04-07 17:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Black](http://twitter.com/search?q=Black) | N/A |
 | 2 | [BBB SEM TRANSPARÊNCIA](http://twitter.com/search?q=BBB+SEM+TRANSPAR%c3%8aNCIA) | N/A |
-| 3 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 4 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 3 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 4 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
 | 5 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 6 | [Sexta-feira Santa](http://twitter.com/search?q=Sexta-feira+Santa) | N/A |
-| 7 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 8 | [#diadojornalista](http://twitter.com/search?q=%23diadojornalista) | N/A |
-| 9 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 6 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 7 | [Sexta-feira Santa](http://twitter.com/search?q=Sexta-feira+Santa) | N/A |
+| 8 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 9 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
 | 10 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 11 | [#따뜻한_봄이_오는게_종현인가봐](http://twitter.com/search?q=%23%eb%94%b0%eb%9c%bb%ed%95%9c_%eb%b4%84%ec%9d%b4_%ec%98%a4%eb%8a%94%ea%b2%8c_%ec%a2%85%ed%98%84%ec%9d%b8%ea%b0%80%eb%b4%90) | N/A |
-| 12 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
-| 13 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
-| 14 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 15 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 16 | [Manipulação](http://twitter.com/search?q=Manipula%c3%a7%c3%a3o) | N/A |
-| 17 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 18 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 19 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
-| 20 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
-| 21 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 22 | [Correios](http://twitter.com/search?q=Correios) | N/A |
+| 11 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 12 | [#DiadoJornalista](http://twitter.com/search?q=%23DiadoJornalista) | N/A |
+| 13 | [#HAPPY_JJONG_DAY](http://twitter.com/search?q=%23HAPPY_JJONG_DAY) | N/A |
+| 14 | [#따뜻한_봄이_오는게_종현인가봐](http://twitter.com/search?q=%23%eb%94%b0%eb%9c%bb%ed%95%9c_%eb%b4%84%ec%9d%b4_%ec%98%a4%eb%8a%94%ea%b2%8c_%ec%a2%85%ed%98%84%ec%9d%b8%ea%b0%80%eb%b4%90) | N/A |
+| 15 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
+| 16 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
+| 17 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 18 | [Correios](http://twitter.com/search?q=Correios) | N/A |
+| 19 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
+| 20 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 21 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 22 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
 | 23 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 24 | [Dia Mundial da Saúde](http://twitter.com/search?q=Dia+Mundial+da+Sa%c3%bade) | N/A |
-| 25 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 26 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 27 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 28 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
-| 29 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 30 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
-| 31 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 32 | [Never Felt So Alone](http://twitter.com/search?q=Never+Felt+So+Alone) | N/A |
-| 33 | [kylie](http://twitter.com/search?q=kylie) | N/A |
-| 34 | [Europeu](http://twitter.com/search?q=Europeu) | N/A |
-| 35 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 24 | [Manipulação](http://twitter.com/search?q=Manipula%c3%a7%c3%a3o) | N/A |
+| 25 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 26 | [Never Felt So Alone](http://twitter.com/search?q=Never+Felt+So+Alone) | N/A |
+| 27 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 28 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 29 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
+| 30 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 31 | [Europeu](http://twitter.com/search?q=Europeu) | N/A |
+| 32 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 33 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 34 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 35 | [Travis](http://twitter.com/search?q=Travis) | N/A |
 | 36 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 37 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 38 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
-| 39 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 40 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 41 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 42 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 43 | [Geromel](http://twitter.com/search?q=Geromel) | N/A |
-| 44 | [Canjica](http://twitter.com/search?q=Canjica) | N/A |
-| 45 | [Camarão](http://twitter.com/search?q=Camar%c3%a3o) | N/A |
-| 46 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
-| 47 | [Resposta Histórica](http://twitter.com/search?q=Resposta+Hist%c3%b3rica) | N/A |
+| 37 | [kylie](http://twitter.com/search?q=kylie) | N/A |
+| 38 | [O Boninho](http://twitter.com/search?q=O+Boninho) | N/A |
+| 39 | [Dia Mundial da Saúde](http://twitter.com/search?q=Dia+Mundial+da+Sa%c3%bade) | N/A |
+| 40 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
+| 41 | [Resposta Histórica](http://twitter.com/search?q=Resposta+Hist%c3%b3rica) | N/A |
+| 42 | [Bacalhau](http://twitter.com/search?q=Bacalhau) | N/A |
+| 43 | [Hera](http://twitter.com/search?q=Hera) | N/A |
+| 44 | [Milão](http://twitter.com/search?q=Mil%c3%a3o) | N/A |
+| 45 | [Fullmetal](http://twitter.com/search?q=Fullmetal) | N/A |
+| 46 | [Camarão](http://twitter.com/search?q=Camar%c3%a3o) | N/A |
+| 47 | [Palpatine](http://twitter.com/search?q=Palpatine) | N/A |
 
 
 

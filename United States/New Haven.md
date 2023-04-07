@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-04-07 16:17:50 UTC`
+📆 Last Updated: `2023-04-07 17:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [United States](</United States>)
 | 2 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 | 3 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
 | 4 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
-| 5 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 6 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 7 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 8 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
-| 9 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 10 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 11 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
-| 12 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 13 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 14 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
-| 15 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 16 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 5 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 6 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 7 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 8 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 9 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
+| 10 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 11 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 12 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 13 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
+| 14 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 15 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
+| 16 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
 | 17 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 18 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 19 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
-| 20 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
-| 21 | [Sheriff Billy Woods](http://twitter.com/search?q=Sheriff+Billy+Woods) | N/A |
-| 22 | [John Boyega](http://twitter.com/search?q=John+Boyega) | N/A |
-| 23 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 24 | [Tiny Desk](http://twitter.com/search?q=Tiny+Desk) | N/A |
+| 18 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
+| 19 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 20 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 21 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 22 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
+| 23 | [Hera](http://twitter.com/search?q=Hera) | N/A |
+| 24 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
 | 25 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
-| 26 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 27 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
-| 28 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
-| 29 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 30 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
-| 31 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 32 | [SFSU](http://twitter.com/search?q=SFSU) | N/A |
-| 33 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
-| 34 | [Old Republic](http://twitter.com/search?q=Old+Republic) | N/A |
-| 35 | [Chopper](http://twitter.com/search?q=Chopper) | N/A |
-| 36 | [Ben Solo](http://twitter.com/search?q=Ben+Solo) | N/A |
-| 37 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 38 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
-| 39 | [Great Friday](http://twitter.com/search?q=Great+Friday) | N/A |
-| 40 | [Lucasfilm](http://twitter.com/search?q=Lucasfilm) | N/A |
-| 41 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 42 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 43 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 44 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 45 | [Dial of Destiny](http://twitter.com/search?q=Dial+of+Destiny) | N/A |
+| 26 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 27 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
+| 28 | [John Boyega](http://twitter.com/search?q=John+Boyega) | N/A |
+| 29 | [jjong](http://twitter.com/search?q=jjong) | N/A |
+| 30 | [Juwan](http://twitter.com/search?q=Juwan) | N/A |
+| 31 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 32 | [Advised](http://twitter.com/search?q=Advised) | N/A |
+| 33 | [Tiny Desk](http://twitter.com/search?q=Tiny+Desk) | N/A |
+| 34 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 35 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
+| 36 | [Swamp Thing](http://twitter.com/search?q=Swamp+Thing) | Swamp Thing is a fictional character and superhero appearing in American comic books published by DC Comics. The character first appeared in House of Secrets #92 (July 1971) and was created by Len Wein and Bernie Wrightson. He is a humanoid/plant elemental creature, originally known as Alec Holland, who resembles an anthropomorphic mound of vegetable matter. He fights to protect his swamp home, the environment, and humanity from various supernatural or terrorist threats. |
+| 37 | [SFSU](http://twitter.com/search?q=SFSU) | N/A |
+| 38 | [Sheriff Billy Woods](http://twitter.com/search?q=Sheriff+Billy+Woods) | N/A |
+| 39 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
+| 40 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
+| 41 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 42 | [Chopper](http://twitter.com/search?q=Chopper) | N/A |
+| 43 | [Old Republic](http://twitter.com/search?q=Old+Republic) | N/A |
+| 44 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
+| 45 | [Ben Solo](http://twitter.com/search?q=Ben+Solo) | N/A |
 | 46 | [Jalen Cook](http://twitter.com/search?q=Jalen+Cook) | N/A |
-| 47 | [TROS](http://twitter.com/search?q=TROS) | N/A |
-| 48 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 47 | [Rise of Skywalker](http://twitter.com/search?q=Rise+of+Skywalker) | N/A |
+| 48 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
 
 
 

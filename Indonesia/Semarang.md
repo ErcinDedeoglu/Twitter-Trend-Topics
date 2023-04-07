@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-04-07 16:17:26 UTC`
+📆 Last Updated: `2023-04-07 17:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 3 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
 | 4 | [#weareoneEXO](http://twitter.com/search?q=%23weareoneEXO) | N/A |
 | 5 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 6 | [Iklan Ponds Men](http://twitter.com/search?q=Iklan+Ponds+Men) | N/A |
-| 7 | [Selamat 11](http://twitter.com/search?q=Selamat+11) | N/A |
-| 8 | [MELODY OF SCENTS D1](http://twitter.com/search?q=MELODY+OF+SCENTS+D1) | N/A |
-| 9 | [EXO SARANGHAJA](http://twitter.com/search?q=EXO+SARANGHAJA) | N/A |
-| 10 | [Akrab](http://twitter.com/search?q=Akrab) | N/A |
-| 11 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 12 | [EXO-L](http://twitter.com/search?q=EXO-L) | N/A |
-| 13 | [SUNWOO](http://twitter.com/search?q=SUNWOO) | N/A |
-| 14 | [Peterpan](http://twitter.com/search?q=Peterpan) | N/A |
-| 15 | [Onic](http://twitter.com/search?q=Onic) | N/A |
-| 16 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 17 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 18 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
-| 19 | [Nuzulul Qur'an](http://twitter.com/search?q=Nuzulul+Qur%27an) | N/A |
-| 20 | [NT RRQ](http://twitter.com/search?q=NT+RRQ) | N/A |
+| 6 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 7 | [Akrab](http://twitter.com/search?q=Akrab) | N/A |
+| 8 | [Selamat 11](http://twitter.com/search?q=Selamat+11) | N/A |
+| 9 | [MELODY OF SCENTS D1](http://twitter.com/search?q=MELODY+OF+SCENTS+D1) | N/A |
+| 10 | [yixing](http://twitter.com/search?q=yixing) | N/A |
+| 11 | [Iklan Ponds Men](http://twitter.com/search?q=Iklan+Ponds+Men) | N/A |
+| 12 | [Alea](http://twitter.com/search?q=Alea) | N/A |
+| 13 | [jjong](http://twitter.com/search?q=jjong) | N/A |
+| 14 | [EXO-L](http://twitter.com/search?q=EXO-L) | N/A |
+| 15 | [Peterpan](http://twitter.com/search?q=Peterpan) | N/A |
+| 16 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 17 | [Moon Knight](http://twitter.com/search?q=Moon+Knight) | N/A |
+| 18 | [SUNWOO](http://twitter.com/search?q=SUNWOO) | N/A |
+| 19 | [Onic](http://twitter.com/search?q=Onic) | N/A |
+| 20 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
 | 21 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 22 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 22 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
 | 23 | [SHOPEE BIG RAMADAN SALE](http://twitter.com/search?q=SHOPEE+BIG+RAMADAN+SALE) | N/A |
-| 24 | [Evos](http://twitter.com/search?q=Evos) | N/A |
-| 25 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
-| 26 | [JEONG JAEHYUN](http://twitter.com/search?q=JEONG+JAEHYUN) | N/A |
-| 27 | [Yoona](http://twitter.com/search?q=Yoona) | N/A |
-| 28 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 24 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 25 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 26 | [Evos](http://twitter.com/search?q=Evos) | N/A |
+| 27 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
+| 28 | [Yoona](http://twitter.com/search?q=Yoona) | N/A |
 | 29 | [Jan Ethes](http://twitter.com/search?q=Jan+Ethes) | N/A |
 | 30 | [Sepupu](http://twitter.com/search?q=Sepupu) | N/A |
-| 31 | [Dita](http://twitter.com/search?q=Dita) | N/A |
-| 32 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
-| 33 | [#따뜻한_봄이_오는게_종현인가봐](http://twitter.com/search?q=%23%eb%94%b0%eb%9c%bb%ed%95%9c_%eb%b4%84%ec%9d%b4_%ec%98%a4%eb%8a%94%ea%b2%8c_%ec%a2%85%ed%98%84%ec%9d%b8%ea%b0%80%eb%b4%90) | N/A |
-| 34 | [#IStandWithHARUTO](http://twitter.com/search?q=%23IStandWithHARUTO) | N/A |
-| 35 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
+| 31 | [#IStandWithHARUTO](http://twitter.com/search?q=%23IStandWithHARUTO) | N/A |
+| 32 | [#따뜻한_봄이_오는게_종현인가봐](http://twitter.com/search?q=%23%eb%94%b0%eb%9c%bb%ed%95%9c_%eb%b4%84%ec%9d%b4_%ec%98%a4%eb%8a%94%ea%b2%8c_%ec%a2%85%ed%98%84%ec%9d%b8%ea%b0%80%eb%b4%90) | N/A |
+| 33 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
+| 34 | [#aBossandaBabeEP6](http://twitter.com/search?q=%23aBossandaBabeEP6) | N/A |
+| 35 | [#LAY11thDebutAnniv](http://twitter.com/search?q=%23LAY11thDebutAnniv) | N/A |
 | 36 | [#DOJAEJUNG_TheoryOfLove](http://twitter.com/search?q=%23DOJAEJUNG_TheoryOfLove) | N/A |
-| 37 | [#aBossandaBabeEP6](http://twitter.com/search?q=%23aBossandaBabeEP6) | N/A |
-| 38 | [#LAY11thDebutAnniv](http://twitter.com/search?q=%23LAY11thDebutAnniv) | N/A |
-| 39 | [#JONGHYUN](http://twitter.com/search?q=%23JONGHYUN) | N/A |
-| 40 | [#YumeLokalIntro](http://twitter.com/search?q=%23YumeLokalIntro) | N/A |
-| 41 | [#LeeSeungGi](http://twitter.com/search?q=%23LeeSeungGi) | N/A |
-| 42 | [#WhatsUpBIU](http://twitter.com/search?q=%23WhatsUpBIU) | N/A |
-| 43 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
-| 44 | [#TaxiDriver2Ep13](http://twitter.com/search?q=%23TaxiDriver2Ep13) | N/A |
-| 45 | [#SHINee](http://twitter.com/search?q=%23SHINee) | N/A |
-| 46 | [#AnterajaAdel](http://twitter.com/search?q=%23AnterajaAdel) | N/A |
-| 47 | [#마크가_말아주는_골든아워](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%ea%b0%80_%eb%a7%90%ec%95%84%ec%a3%bc%eb%8a%94_%ea%b3%a8%eb%93%a0%ec%95%84%ec%9b%8c) | N/A |
-| 48 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
-| 49 | [#TaehyungOnJinnysKitchen](http://twitter.com/search?q=%23TaehyungOnJinnysKitchen) | N/A |
+| 37 | [#JONGHYUN](http://twitter.com/search?q=%23JONGHYUN) | N/A |
+| 38 | [#YumeLokalIntro](http://twitter.com/search?q=%23YumeLokalIntro) | N/A |
+| 39 | [#TaxiDriver2Ep13](http://twitter.com/search?q=%23TaxiDriver2Ep13) | N/A |
+| 40 | [#LeeSeungGi](http://twitter.com/search?q=%23LeeSeungGi) | N/A |
+| 41 | [#WhatsUpBIU](http://twitter.com/search?q=%23WhatsUpBIU) | N/A |
+| 42 | [#SHINee](http://twitter.com/search?q=%23SHINee) | N/A |
+| 43 | [#nuzululquran](http://twitter.com/search?q=%23nuzululquran) | N/A |
+| 44 | [#AnterajaAdel](http://twitter.com/search?q=%23AnterajaAdel) | N/A |
+| 45 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
+| 46 | [#PerthChimon](http://twitter.com/search?q=%23PerthChimon) | N/A |
+| 47 | [#HariIniBelanjadiShopee](http://twitter.com/search?q=%23HariIniBelanjadiShopee) | N/A |
+| 48 | [#PromoGajianTerbesar](http://twitter.com/search?q=%23PromoGajianTerbesar) | N/A |
+| 49 | [#JinnysKitchenEp7](http://twitter.com/search?q=%23JinnysKitchenEp7) | N/A |
 
 
 

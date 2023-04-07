@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-07 16:17:24 UTC`
+📆 Last Updated: `2023-04-07 17:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Norway](</Norway>)
 | 1 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 4 | [Viktor Hovland](http://twitter.com/search?q=Viktor+Hovland) | N/A |
-| 5 | [Masters](http://twitter.com/search?q=Masters) | N/A |
-| 6 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
-| 7 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 8 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 9 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 4 | [Masters](http://twitter.com/search?q=Masters) | N/A |
+| 5 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
+| 6 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 7 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 8 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 9 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 | 10 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 13 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 14 | [Lillestrøm](http://twitter.com/search?q=Lillestr%c3%b8m) | N/A |
-| 15 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 16 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 17 | [Åråsen](http://twitter.com/search?q=%c3%85r%c3%a5sen) | N/A |
-| 18 | [#NarkoTwitter](http://twitter.com/search?q=%23NarkoTwitter) | N/A |
-| 19 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 20 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 21 | [Tengstedt](http://twitter.com/search?q=Tengstedt) | N/A |
-| 22 | [SARPSBORG 08](http://twitter.com/search?q=SARPSBORG+08) | N/A |
-| 23 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 24 | [Moss](http://twitter.com/search?q=Moss) | N/A |
-| 25 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
-| 26 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 27 | [støre](http://twitter.com/search?q=st%c3%b8re) | N/A |
-| 28 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 29 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 30 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 31 | [Alltid](http://twitter.com/search?q=Alltid) | N/A |
-| 32 | [Vesten](http://twitter.com/search?q=Vesten) | N/A |
-| 33 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 34 | [London](http://twitter.com/search?q=London) | N/A |
-| 35 | [OBOS](http://twitter.com/search?q=OBOS) | N/A |
-| 36 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 37 | [Scandinavia](http://twitter.com/search?q=Scandinavia) | N/A |
-| 38 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 39 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 40 | [Sovjetunionen](http://twitter.com/search?q=Sovjetunionen) | N/A |
-| 41 | [Bærum](http://twitter.com/search?q=B%c3%a6rum) | N/A |
-| 42 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 12 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 13 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 14 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 15 | [Lillestrøm](http://twitter.com/search?q=Lillestr%c3%b8m) | N/A |
+| 16 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 17 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 18 | [Åråsen](http://twitter.com/search?q=%c3%85r%c3%a5sen) | N/A |
+| 19 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 20 | [Tengstedt](http://twitter.com/search?q=Tengstedt) | N/A |
+| 21 | [SARPSBORG 08](http://twitter.com/search?q=SARPSBORG+08) | N/A |
+| 22 | [Alltid](http://twitter.com/search?q=Alltid) | N/A |
+| 23 | [#twitch](http://twitter.com/search?q=%23twitch) | N/A |
+| 24 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 25 | [Moss](http://twitter.com/search?q=Moss) | N/A |
+| 26 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 27 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 28 | [#narkotwitter](http://twitter.com/search?q=%23narkotwitter) | N/A |
+| 29 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 30 | [støre](http://twitter.com/search?q=st%c3%b8re) | N/A |
+| 31 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 32 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 33 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 34 | [Håper](http://twitter.com/search?q=H%c3%a5per) | N/A |
+| 35 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 36 | [London](http://twitter.com/search?q=London) | N/A |
+| 37 | [Bærum](http://twitter.com/search?q=B%c3%a6rum) | N/A |
+| 38 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 39 | [OBOS](http://twitter.com/search?q=OBOS) | N/A |
+| 40 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 41 | [Vesten](http://twitter.com/search?q=Vesten) | N/A |
+| 42 | [Sovjetunionen](http://twitter.com/search?q=Sovjetunionen) | N/A |
 | 43 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 44 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
-| 45 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 46 | [God Påske](http://twitter.com/search?q=God+P%c3%a5ske) | N/A |
-| 47 | [#Eliteserien](http://twitter.com/search?q=%23Eliteserien) | N/A |
-| 48 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 49 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
+| 44 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
+| 45 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
+| 46 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 47 | [God Påske](http://twitter.com/search?q=God+P%c3%a5ske) | N/A |
+| 48 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 49 | [WWII](http://twitter.com/search?q=WWII) | N/A |
 
 
 
