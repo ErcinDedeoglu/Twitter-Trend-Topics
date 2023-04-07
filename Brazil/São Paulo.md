@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-04-07 15:17:19 UTC`
+📆 Last Updated: `2023-04-07 16:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 2 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 3 | [Erison](http://twitter.com/search?q=Erison) | N/A |
-| 4 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 5 | [Arboleda](http://twitter.com/search?q=Arboleda) | Arboleda is a Spanish word that translates to "grove" or "woodland" in English. It is used to refer to a small area of trees, usually in a park or garden. |
-| 6 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 7 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 8 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 9 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 10 | [quaresma](http://twitter.com/search?q=quaresma) | N/A |
-| 11 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 12 | [Sexta-feira Santa](http://twitter.com/search?q=Sexta-feira+Santa) | N/A |
-| 13 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 14 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
-| 15 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 16 | [#diadojornalista](http://twitter.com/search?q=%23diadojornalista) | N/A |
-| 17 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 18 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
-| 19 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 20 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 21 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 22 | [Dia Mundial da Saúde](http://twitter.com/search?q=Dia+Mundial+da+Sa%c3%bade) | N/A |
-| 23 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 24 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 25 | [Correios](http://twitter.com/search?q=Correios) | N/A |
-| 26 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 27 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
-| 28 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 29 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 30 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
-| 31 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
-| 32 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 33 | [Youngji](http://twitter.com/search?q=Youngji) | N/A |
-| 34 | [Canjica](http://twitter.com/search?q=Canjica) | N/A |
-| 35 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 36 | [Sexta-feira da Paixão](http://twitter.com/search?q=Sexta-feira+da+Paix%c3%a3o) | N/A |
+| 1 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
+| 2 | [quaresma](http://twitter.com/search?q=quaresma) | N/A |
+| 3 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 4 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 5 | [Bruna Griphao](http://twitter.com/search?q=Bruna+Griphao) | N/A |
+| 6 | [BBB SEM TRANSPARÊNCIA](http://twitter.com/search?q=BBB+SEM+TRANSPAR%c3%8aNCIA) | N/A |
+| 7 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 8 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 9 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
+| 10 | [Sexta-feira Santa](http://twitter.com/search?q=Sexta-feira+Santa) | N/A |
+| 11 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 12 | [#diadojornalista](http://twitter.com/search?q=%23diadojornalista) | N/A |
+| 13 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 14 | [#따뜻한_봄이_오는게_종현인가봐](http://twitter.com/search?q=%23%eb%94%b0%eb%9c%bb%ed%95%9c_%eb%b4%84%ec%9d%b4_%ec%98%a4%eb%8a%94%ea%b2%8c_%ec%a2%85%ed%98%84%ec%9d%b8%ea%b0%80%eb%b4%90) | N/A |
+| 15 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 16 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
+| 17 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
+| 18 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 19 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 20 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 21 | [Manipulação](http://twitter.com/search?q=Manipula%c3%a7%c3%a3o) | N/A |
+| 22 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
+| 23 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 24 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
+| 25 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 26 | [Correios](http://twitter.com/search?q=Correios) | N/A |
+| 27 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 28 | [Dia Mundial da Saúde](http://twitter.com/search?q=Dia+Mundial+da+Sa%c3%bade) | N/A |
+| 29 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 30 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 31 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 32 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
+| 33 | [Hera](http://twitter.com/search?q=Hera) | N/A |
+| 34 | [Never Felt So Alone](http://twitter.com/search?q=Never+Felt+So+Alone) | N/A |
+| 35 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
+| 36 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
 | 37 | [kylie](http://twitter.com/search?q=kylie) | N/A |
-| 38 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
-| 39 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 40 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
-| 41 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
-| 42 | [Oxalá](http://twitter.com/search?q=Oxal%c3%a1) | N/A |
-| 43 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 44 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
-| 45 | [QUE HONRA SER](http://twitter.com/search?q=QUE+HONRA+SER) | N/A |
-| 46 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
-| 47 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
+| 38 | [Europeu](http://twitter.com/search?q=Europeu) | N/A |
+| 39 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 40 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 41 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 42 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
+| 43 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
+| 44 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 45 | [Camarão](http://twitter.com/search?q=Camar%c3%a3o) | N/A |
+| 46 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 47 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 48 | [Geromel](http://twitter.com/search?q=Geromel) | N/A |
+| 49 | [Canjica](http://twitter.com/search?q=Canjica) | N/A |
+| 50 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
 
 
 

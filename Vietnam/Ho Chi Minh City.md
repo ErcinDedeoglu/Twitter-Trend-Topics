@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-04-07 15:17:42 UTC`
+📆 Last Updated: `2023-04-07 16:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,41 +17,43 @@ This is top 50 for [Vietnam](</Vietnam>)
 | ------- | ------------ | ------------ |
 | 1 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
 | 2 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 3 | [#WhatsUpBIU](http://twitter.com/search?q=%23WhatsUpBIU) | N/A |
+| 3 | [BKEX UID](http://twitter.com/search?q=BKEX+UID) | N/A |
 | 4 | [#ShowmeloveTheseriesEP6](http://twitter.com/search?q=%23ShowmeloveTheseriesEP6) | N/A |
 | 5 | [#XinchaoPondPhuwin](http://twitter.com/search?q=%23XinchaoPondPhuwin) | N/A |
-| 6 | [group concept photo](http://twitter.com/search?q=group+concept+photo) | N/A |
-| 7 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 8 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 9 | [Nguyên](http://twitter.com/search?q=Nguy%c3%aan) | N/A |
-| 10 | [4pcs Flaming](http://twitter.com/search?q=4pcs+Flaming) | N/A |
-| 11 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 12 | [5 brk](http://twitter.com/search?q=5+brk) | N/A |
-| 13 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 14 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
-| 15 | [Gothic](http://twitter.com/search?q=Gothic) | N/A |
-| 16 | [Skeleton](http://twitter.com/search?q=Skeleton) | N/A |
-| 17 | [Skeleton](http://twitter.com/search?q=Skeleton) | N/A |
-| 18 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 19 | [Mexican Skull](http://twitter.com/search?q=Mexican+Skull) | N/A |
+| 6 | [#WhatsUpBIU](http://twitter.com/search?q=%23WhatsUpBIU) | N/A |
+| 7 | [group concept photo](http://twitter.com/search?q=group+concept+photo) | N/A |
+| 8 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 9 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 10 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
+| 11 | [Nguyên](http://twitter.com/search?q=Nguy%c3%aan) | N/A |
+| 12 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 13 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 14 | [JISOO NO PREPARE](http://twitter.com/search?q=JISOO+NO+PREPARE) | N/A |
+| 15 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 16 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
+| 17 | [5 brk](http://twitter.com/search?q=5+brk) | N/A |
+| 18 | [4pcs Flaming](http://twitter.com/search?q=4pcs+Flaming) | N/A |
+| 19 | [Gothic](http://twitter.com/search?q=Gothic) | N/A |
 | 20 | [Cuộc](http://twitter.com/search?q=Cu%e1%bb%99c) | N/A |
-| 21 | [chấm](http://twitter.com/search?q=ch%e1%ba%a5m) | N/A |
-| 22 | [Candy Skull Rug](http://twitter.com/search?q=Candy+Skull+Rug) | N/A |
-| 23 | [Thấy](http://twitter.com/search?q=Th%e1%ba%a5y) | N/A |
-| 24 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 25 | [Thằng](http://twitter.com/search?q=Th%e1%ba%b1ng) | N/A |
-| 26 | [Đừng](http://twitter.com/search?q=%c4%90%e1%bb%abng) | N/A |
-| 27 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
-| 28 | [#BKEX](http://twitter.com/search?q=%23BKEX) | N/A |
-| 29 | [#WAXL](http://twitter.com/search?q=%23WAXL) | N/A |
-| 30 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 31 | [#LALISAMV600M](http://twitter.com/search?q=%23LALISAMV600M) | N/A |
-| 32 | [#MONEY800MYTViews](http://twitter.com/search?q=%23MONEY800MYTViews) | N/A |
-| 33 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
-| 34 | [#AgustDxIU](http://twitter.com/search?q=%23AgustDxIU) | N/A |
-| 35 | [#BuildIsBack](http://twitter.com/search?q=%23BuildIsBack) | N/A |
-| 36 | [#ppnaravit](http://twitter.com/search?q=%23ppnaravit) | N/A |
-| 37 | [#phuwintang](http://twitter.com/search?q=%23phuwintang) | N/A |
+| 21 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
+| 22 | [christmas skull](http://twitter.com/search?q=christmas+skull) | N/A |
+| 23 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
+| 24 | [Skeleton](http://twitter.com/search?q=Skeleton) | N/A |
+| 25 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
+| 26 | [Mexican Skull](http://twitter.com/search?q=Mexican+Skull) | N/A |
+| 27 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 28 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 29 | [Thằng](http://twitter.com/search?q=Th%e1%ba%b1ng) | N/A |
+| 30 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 31 | [Thấy](http://twitter.com/search?q=Th%e1%ba%a5y) | N/A |
+| 32 | [đừng](http://twitter.com/search?q=%c4%91%e1%bb%abng) | N/A |
+| 33 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
+| 34 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
+| 35 | [#WAXL](http://twitter.com/search?q=%23WAXL) | N/A |
+| 36 | [#LALISAMV600M](http://twitter.com/search?q=%23LALISAMV600M) | N/A |
+| 37 | [#MONEY800MYTViews](http://twitter.com/search?q=%23MONEY800MYTViews) | N/A |
+| 38 | [#massage_in_kuwait](http://twitter.com/search?q=%23massage_in_kuwait) | N/A |
+| 39 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
 
 
 

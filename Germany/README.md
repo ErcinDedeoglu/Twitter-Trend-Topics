@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-04-07 15:18:10 UTC`
+📆 Last Updated: `2023-04-07 16:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Germany
 | 2 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
 | 3 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
 | 4 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 5 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 5 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 6 | [#Tanzverbot](http://twitter.com/search?q=%23Tanzverbot) | N/A |
 | 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 8 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 9 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 10 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 11 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 8 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 9 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 10 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 11 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 12 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
-| 13 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 13 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
 | 14 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
-| 15 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 16 | [Falschparker](http://twitter.com/search?q=Falschparker) | N/A |
-| 17 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 18 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 19 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
-| 20 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
-| 21 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 22 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 23 | [Tanzen](http://twitter.com/search?q=Tanzen) | N/A |
-| 24 | [Harald Lesch](http://twitter.com/search?q=Harald+Lesch) | N/A |
-| 25 | [Berliner Luft](http://twitter.com/search?q=Berliner+Luft) | N/A |
-| 26 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 27 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 28 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 29 | [Miss Marple](http://twitter.com/search?q=Miss+Marple) | N/A |
-| 30 | [Messerverbot](http://twitter.com/search?q=Messerverbot) | N/A |
-| 31 | [Bjarne Mädel](http://twitter.com/search?q=Bjarne+M%c3%a4del) | N/A |
-| 32 | [First Concert](http://twitter.com/search?q=First+Concert) | N/A |
-| 33 | [Gebote](http://twitter.com/search?q=Gebote) | N/A |
-| 34 | [Bauhaus](http://twitter.com/search?q=Bauhaus) | N/A |
-| 35 | [DUDE I'M A NUN](http://twitter.com/search?q=DUDE+I%27M+A+NUN) | N/A |
-| 36 | [Fisch](http://twitter.com/search?q=Fisch) | N/A |
-| 37 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 38 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 39 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
-| 40 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 41 | [Nächstenliebe](http://twitter.com/search?q=N%c3%a4chstenliebe) | N/A |
-| 42 | [Lawrow](http://twitter.com/search?q=Lawrow) | N/A |
-| 43 | [Osterhasen](http://twitter.com/search?q=Osterhasen) | N/A |
-| 44 | [Denunziation](http://twitter.com/search?q=Denunziation) | N/A |
-| 45 | [Dream Concert](http://twitter.com/search?q=Dream+Concert) | N/A |
-| 46 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 47 | [Osterzeit](http://twitter.com/search?q=Osterzeit) | N/A |
-| 48 | [Ernie](http://twitter.com/search?q=Ernie) | N/A |
-| 49 | [Auferstehung](http://twitter.com/search?q=Auferstehung) | N/A |
-| 50 | [Kapitulation der Ukraine](http://twitter.com/search?q=Kapitulation+der+Ukraine) | N/A |
+| 15 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 16 | [Huber](http://twitter.com/search?q=Huber) | N/A |
+| 17 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 18 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 19 | [Falschparker](http://twitter.com/search?q=Falschparker) | N/A |
+| 20 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 21 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
+| 22 | [Brian](http://twitter.com/search?q=Brian) | N/A |
+| 23 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
+| 24 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 25 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
+| 26 | [Tanzen](http://twitter.com/search?q=Tanzen) | N/A |
+| 27 | [Berliner Luft](http://twitter.com/search?q=Berliner+Luft) | N/A |
+| 28 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
+| 29 | [moin](http://twitter.com/search?q=moin) | N/A |
+| 30 | [Denunziation](http://twitter.com/search?q=Denunziation) | N/A |
+| 31 | [Harald Lesch](http://twitter.com/search?q=Harald+Lesch) | N/A |
+| 32 | [Nächstenliebe](http://twitter.com/search?q=N%c3%a4chstenliebe) | N/A |
+| 33 | [Fisch](http://twitter.com/search?q=Fisch) | N/A |
+| 34 | [Atheist](http://twitter.com/search?q=Atheist) | N/A |
+| 35 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 36 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
+| 37 | [Gottesdienst](http://twitter.com/search?q=Gottesdienst) | N/A |
+| 38 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 39 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 40 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 41 | [jjong](http://twitter.com/search?q=jjong) | N/A |
+| 42 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 43 | [guten morgen thomas](http://twitter.com/search?q=guten+morgen+thomas) | N/A |
+| 44 | [Miss Marple](http://twitter.com/search?q=Miss+Marple) | N/A |
+| 45 | [Bjarne Mädel](http://twitter.com/search?q=Bjarne+M%c3%a4del) | N/A |
+| 46 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 47 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 48 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 49 | [feinstaub](http://twitter.com/search?q=feinstaub) | N/A |
+| 50 | [Gebote](http://twitter.com/search?q=Gebote) | N/A |
 
 
 

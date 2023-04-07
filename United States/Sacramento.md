@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-04-07 15:18:04 UTC`
+📆 Last Updated: `2023-04-07 16:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 2 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 3 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 4 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 5 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 6 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
-| 7 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 9 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 10 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 11 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 12 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 13 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
-| 14 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 15 | [Sheriff Billy Woods](http://twitter.com/search?q=Sheriff+Billy+Woods) | N/A |
-| 16 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 17 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
-| 18 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 19 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 20 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
-| 21 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 22 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 23 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
-| 24 | [John Boyega](http://twitter.com/search?q=John+Boyega) | N/A |
-| 25 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 26 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
-| 27 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
-| 28 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
-| 29 | [Tiny Desk](http://twitter.com/search?q=Tiny+Desk) | N/A |
-| 30 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
-| 31 | [Old Republic](http://twitter.com/search?q=Old+Republic) | N/A |
+| 1 | [Indy](http://twitter.com/search?q=Indy) | N/A |
+| 2 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 3 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 4 | [Justice Thomas](http://twitter.com/search?q=Justice+Thomas) | N/A |
+| 5 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
+| 6 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 7 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 8 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 9 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 10 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
+| 11 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 12 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 13 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 14 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
+| 15 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
+| 16 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 17 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 18 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
+| 19 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 20 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 21 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
+| 22 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 23 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 24 | [Hera](http://twitter.com/search?q=Hera) | N/A |
+| 25 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 26 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
+| 27 | [Sheriff Billy Woods](http://twitter.com/search?q=Sheriff+Billy+Woods) | N/A |
+| 28 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
+| 29 | [jjong](http://twitter.com/search?q=jjong) | N/A |
+| 30 | [John Boyega](http://twitter.com/search?q=John+Boyega) | N/A |
+| 31 | [Tiny Desk](http://twitter.com/search?q=Tiny+Desk) | N/A |
 | 32 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
-| 33 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 34 | [Great Friday](http://twitter.com/search?q=Great+Friday) | N/A |
-| 35 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
-| 36 | [SFSU](http://twitter.com/search?q=SFSU) | N/A |
-| 37 | [Chopper](http://twitter.com/search?q=Chopper) | N/A |
-| 38 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 39 | [Ben Solo](http://twitter.com/search?q=Ben+Solo) | N/A |
-| 40 | [TROS](http://twitter.com/search?q=TROS) | N/A |
-| 41 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 42 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 43 | [Allbright](http://twitter.com/search?q=Allbright) | N/A |
-| 44 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 45 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 46 | [Teaser Trailer](http://twitter.com/search?q=Teaser+Trailer) | N/A |
-| 47 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 48 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
-| 49 | [Happy Home Opener](http://twitter.com/search?q=Happy+Home+Opener) | N/A |
+| 33 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 34 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
+| 35 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 36 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 37 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 38 | [SFSU](http://twitter.com/search?q=SFSU) | N/A |
+| 39 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
+| 40 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
+| 41 | [Old Republic](http://twitter.com/search?q=Old+Republic) | N/A |
+| 42 | [Chopper](http://twitter.com/search?q=Chopper) | N/A |
+| 43 | [Ben Solo](http://twitter.com/search?q=Ben+Solo) | N/A |
+| 44 | [Joe Mixon](http://twitter.com/search?q=Joe+Mixon) | Joe Mixon is an American football running back for the Cincinnati Bengals of the National Football League (NFL). He was drafted by the Bengals in the second round of the 2017 NFL Draft. Mixon is known for his powerful running style and ability to break tackles. |
+| 45 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 46 | [Great Friday](http://twitter.com/search?q=Great+Friday) | N/A |
+| 47 | [Lucasfilm](http://twitter.com/search?q=Lucasfilm) | N/A |
+| 48 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 49 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
 
 
 

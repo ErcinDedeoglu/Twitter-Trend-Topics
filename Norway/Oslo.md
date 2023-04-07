@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-04-07 15:17:30 UTC`
+📆 Last Updated: `2023-04-07 16:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 3 | [Viktor](http://twitter.com/search?q=Viktor) | N/A |
-| 4 | [Frankrike](http://twitter.com/search?q=Frankrike) | N/A |
-| 5 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 6 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 7 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 8 | [Åråsen](http://twitter.com/search?q=%c3%85r%c3%a5sen) | N/A |
-| 9 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 11 | [Super Mario](http://twitter.com/search?q=Super+Mario) | N/A |
-| 12 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 13 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 14 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 15 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 16 | [tengstedt](http://twitter.com/search?q=tengstedt) | N/A |
-| 17 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 18 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
-| 19 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 20 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 21 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 22 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 23 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 24 | [#Eliteserien](http://twitter.com/search?q=%23Eliteserien) | N/A |
-| 25 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 26 | [OBOS](http://twitter.com/search?q=OBOS) | N/A |
-| 27 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 28 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 29 | [Sovjetunionen](http://twitter.com/search?q=Sovjetunionen) | N/A |
-| 30 | [Sarpsborg 08](http://twitter.com/search?q=Sarpsborg+08) | N/A |
-| 31 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |
-| 32 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 33 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 34 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 35 | [Aaah](http://twitter.com/search?q=Aaah) | N/A |
-| 36 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 37 | [Tigray](http://twitter.com/search?q=Tigray) | N/A |
-| 38 | [Husker](http://twitter.com/search?q=Husker) | N/A |
-| 39 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 40 | [The Gathering](http://twitter.com/search?q=The+Gathering) | N/A |
-| 41 | [aafk](http://twitter.com/search?q=aafk) | N/A |
-| 42 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
-| 43 | [#esngolf](http://twitter.com/search?q=%23esngolf) | N/A |
-| 44 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 45 | [Håper](http://twitter.com/search?q=H%c3%a5per) | N/A |
-| 46 | [Magnus](http://twitter.com/search?q=Magnus) | N/A |
-| 47 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 48 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 49 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 1 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 4 | [Viktor Hovland](http://twitter.com/search?q=Viktor+Hovland) | N/A |
+| 5 | [Masters](http://twitter.com/search?q=Masters) | N/A |
+| 6 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
+| 7 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 8 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 9 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 10 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 13 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 14 | [Lillestrøm](http://twitter.com/search?q=Lillestr%c3%b8m) | N/A |
+| 15 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 16 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 17 | [Åråsen](http://twitter.com/search?q=%c3%85r%c3%a5sen) | N/A |
+| 18 | [#NarkoTwitter](http://twitter.com/search?q=%23NarkoTwitter) | N/A |
+| 19 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 20 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 21 | [Tengstedt](http://twitter.com/search?q=Tengstedt) | N/A |
+| 22 | [SARPSBORG 08](http://twitter.com/search?q=SARPSBORG+08) | N/A |
+| 23 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 24 | [Moss](http://twitter.com/search?q=Moss) | N/A |
+| 25 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 26 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 27 | [støre](http://twitter.com/search?q=st%c3%b8re) | N/A |
+| 28 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 29 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 30 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 31 | [Alltid](http://twitter.com/search?q=Alltid) | N/A |
+| 32 | [Vesten](http://twitter.com/search?q=Vesten) | N/A |
+| 33 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 34 | [London](http://twitter.com/search?q=London) | N/A |
+| 35 | [OBOS](http://twitter.com/search?q=OBOS) | N/A |
+| 36 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 37 | [Scandinavia](http://twitter.com/search?q=Scandinavia) | N/A |
+| 38 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 39 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 40 | [Sovjetunionen](http://twitter.com/search?q=Sovjetunionen) | N/A |
+| 41 | [Bærum](http://twitter.com/search?q=B%c3%a6rum) | N/A |
+| 42 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 43 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 44 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
+| 45 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 46 | [God Påske](http://twitter.com/search?q=God+P%c3%a5ske) | N/A |
+| 47 | [#Eliteserien](http://twitter.com/search?q=%23Eliteserien) | N/A |
+| 48 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 49 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
+| 50 | [WWII](http://twitter.com/search?q=WWII) | N/A |
 
 
 

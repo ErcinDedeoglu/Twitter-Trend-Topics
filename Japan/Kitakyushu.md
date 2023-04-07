@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kitakyushu
 
-📆 Last Updated: `2023-04-07 15:17:34 UTC`
+📆 Last Updated: `2023-04-07 16:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#nitkc対面式2023](http://twitter.com/search?q=%23nitkc%e5%af%be%e9%9d%a2%e5%bc%8f2023) | N/A |
-| 2 | [ナンバーショット](http://twitter.com/search?q=%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%83%e3%83%88) | N/A |
-| 3 | [ナンショ](http://twitter.com/search?q=%e3%83%8a%e3%83%b3%e3%82%b7%e3%83%a7) | N/A |
-| 4 | [雇用統計](http://twitter.com/search?q=%e9%9b%87%e7%94%a8%e7%b5%b1%e8%a8%88) | 雇用統計 (Koyou Touseki) is a Japanese term that refers to employment statistics. It is used to measure the number of people employed in a certain area or industry, as well as the average wages and other labor market indicators. In English, it can be translated as "Employment Statistics". |
-| 5 | [#あなたを美少年化](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%82%92%e7%be%8e%e5%b0%91%e5%b9%b4%e5%8c%96) | N/A |
-| 6 | [#ハロウィンの花嫁](http://twitter.com/search?q=%23%e3%83%8f%e3%83%ad%e3%82%a6%e3%82%a3%e3%83%b3%e3%81%ae%e8%8a%b1%e5%ab%81) | N/A |
-| 7 | [#脱力タイムズ](http://twitter.com/search?q=%23%e8%84%b1%e5%8a%9b%e3%82%bf%e3%82%a4%e3%83%a0%e3%82%ba) | #脱力タイムズ is a Japanese hashtag that translates to "Relaxation Times". It is used to tag posts related to taking a break from work or school, relaxing, and enjoying leisure activities. |
-| 8 | [虫さん結婚](http://twitter.com/search?q=%e8%99%ab%e3%81%95%e3%82%93%e7%b5%90%e5%a9%9a) | N/A |
-| 9 | [クロノスタシス](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%83%8e%e3%82%b9%e3%82%bf%e3%82%b7%e3%82%b9) | N/A |
-| 10 | [コナンくん](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%8f%e3%82%93) | コナンくん is a nickname for the fictional character Conan Edogawa from the manga and anime series Detective Conan. In English, it can be translated to "Conan-kun". |
-| 11 | [#Mステ](http://twitter.com/search?q=%23M%e3%82%b9%e3%83%86) | #Mステ is an abbreviation for Music Station, a popular Japanese music show that has been airing since 1986. It is broadcast on the TV Asahi network and features performances from popular Japanese artists. The show also includes interviews with the artists and other segments. In English, #Mステ translates to Music Station. |
-| 12 | [安室さん](http://twitter.com/search?q=%e5%ae%89%e5%ae%a4%e3%81%95%e3%82%93) | N/A |
-| 13 | [全国一斉クイズ](http://twitter.com/search?q=%e5%85%a8%e5%9b%bd%e4%b8%80%e6%96%89%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
-| 14 | [ゼルダの伝説](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e3%81%ae%e4%bc%9d%e8%aa%ac) | N/A |
-| 15 | [コナンの映画](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%ae%e6%98%a0%e7%94%bb) | N/A |
-| 16 | [エンディングカット](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0%e3%82%ab%e3%83%83%e3%83%88) | N/A |
-| 17 | [ロシア語](http://twitter.com/search?q=%e3%83%ad%e3%82%b7%e3%82%a2%e8%aa%9e) | N/A |
-| 18 | [ワイルド](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%83%ab%e3%83%89) | N/A |
-| 19 | [風見さん](http://twitter.com/search?q=%e9%a2%a8%e8%a6%8b%e3%81%95%e3%82%93) | N/A |
-| 20 | [ノーカット](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%ab%e3%83%83%e3%83%88) | N/A |
-| 21 | [高木刑事](http://twitter.com/search?q=%e9%ab%98%e6%9c%a8%e5%88%91%e4%ba%8b) | N/A |
-| 22 | [プラーミャ](http://twitter.com/search?q=%e3%83%97%e3%83%a9%e3%83%bc%e3%83%9f%e3%83%a3) | N/A |
-| 23 | [降谷さん](http://twitter.com/search?q=%e9%99%8d%e8%b0%b7%e3%81%95%e3%82%93) | N/A |
-| 24 | [NANDE](http://twitter.com/search?q=NANDE) | N/A |
-| 25 | [BUCK](http://twitter.com/search?q=BUCK) | N/A |
-| 26 | [哀ちゃん](http://twitter.com/search?q=%e5%93%80%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 27 | [シーンカット](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%83%b3%e3%82%ab%e3%83%83%e3%83%88) | シーンカット is a Japanese term used to describe a transition between two scenes in a movie or television show. It is the equivalent of the English term "scene cut" and is used to indicate when the camera switches from one scene to another. |
-| 28 | [佐藤刑事](http://twitter.com/search?q=%e4%bd%90%e8%97%a4%e5%88%91%e4%ba%8b) | N/A |
-| 29 | [警察学校組](http://twitter.com/search?q=%e8%ad%a6%e5%af%9f%e5%ad%a6%e6%a0%a1%e7%b5%84) | 警察学校組 (Keisatsugakkō-gumi) is a Japanese term that refers to a group of police officers who have graduated from the same police academy. The literal translation of the term is "Police Academy Group". |
-| 30 | [コナン君](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e5%90%9b) | N/A |
-| 31 | [EDカット](http://twitter.com/search?q=ED%e3%82%ab%e3%83%83%e3%83%88) | N/A |
-| 32 | [学校のリーダーズ](http://twitter.com/search?q=%e5%ad%a6%e6%a0%a1%e3%81%ae%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%e3%82%ba) | N/A |
-| 33 | [エレニカさん](http://twitter.com/search?q=%e3%82%a8%e3%83%ac%e3%83%8b%e3%82%ab%e3%81%95%e3%82%93) | N/A |
-| 34 | [しょっぴー](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%81%a3%e3%81%b4%e3%83%bc) | N/A |
-| 35 | [漆黒の追跡者](http://twitter.com/search?q=%e6%bc%86%e9%bb%92%e3%81%ae%e8%bf%bd%e8%b7%a1%e8%80%85) | N/A |
-| 36 | [ストプリ](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%97%e3%83%aa) | N/A |
-| 37 | [マヤちゃん](http://twitter.com/search?q=%e3%83%9e%e3%83%a4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 38 | [あさこさん](http://twitter.com/search?q=%e3%81%82%e3%81%95%e3%81%93%e3%81%95%e3%82%93) | N/A |
-| 39 | [ミラクルキュート](http://twitter.com/search?q=%e3%83%9f%e3%83%a9%e3%82%af%e3%83%ab%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%88) | N/A |
-| 40 | [オトナブルー](http://twitter.com/search?q=%e3%82%aa%e3%83%88%e3%83%8a%e3%83%96%e3%83%ab%e3%83%bc) | N/A |
-| 41 | [ぽんちゃん](http://twitter.com/search?q=%e3%81%bd%e3%82%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 42 | [おっちゃん](http://twitter.com/search?q=%e3%81%8a%e3%81%a3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 43 | [りょうくん](http://twitter.com/search?q=%e3%82%8a%e3%82%87%e3%81%86%e3%81%8f%e3%82%93) | N/A |
-| 44 | [すわほー](http://twitter.com/search?q=%e3%81%99%e3%82%8f%e3%81%bb%e3%83%bc) | N/A |
-| 45 | [Hulu](http://twitter.com/search?q=Hulu) | N/A |
-| 46 | [柴犬とドーベルマン](http://twitter.com/search?q=%e6%9f%b4%e7%8a%ac%e3%81%a8%e3%83%89%e3%83%bc%e3%83%99%e3%83%ab%e3%83%9e%e3%83%b3) | N/A |
-| 47 | [そこカット](http://twitter.com/search?q=%e3%81%9d%e3%81%93%e3%82%ab%e3%83%83%e3%83%88) | N/A |
-| 48 | [村中さん](http://twitter.com/search?q=%e6%9d%91%e4%b8%ad%e3%81%95%e3%82%93) | N/A |
-| 49 | [キンプリ](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%83%97%e3%83%aa) | N/A |
-| 50 | [風見カット](http://twitter.com/search?q=%e9%a2%a8%e8%a6%8b%e3%82%ab%e3%83%83%e3%83%88) | N/A |
+| 2 | [ジェシー](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%b7%e3%83%bc) | ジェシー is a Japanese name, and it is usually written in katakana. It is the same as the English name Jessie, and it means "God's gracious gift". |
+| 3 | [#SixTONES_ABARERO](http://twitter.com/search?q=%23SixTONES_ABARERO) | N/A |
+| 4 | [インライ](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%a9%e3%82%a4) | インライ (inrai) is a Japanese word that means "inside" or "interior". It is often used to refer to the inside of a building or room. |
+| 5 | [消しゴムマジック](http://twitter.com/search?q=%e6%b6%88%e3%81%97%e3%82%b4%e3%83%a0%e3%83%9e%e3%82%b8%e3%83%83%e3%82%af) | N/A |
+| 6 | [#jojo_anime](http://twitter.com/search?q=%23jojo_anime) | N/A |
+| 7 | [虫さん結婚](http://twitter.com/search?q=%e8%99%ab%e3%81%95%e3%82%93%e7%b5%90%e5%a9%9a) | N/A |
+| 8 | [#ハロウィンの花嫁](http://twitter.com/search?q=%23%e3%83%8f%e3%83%ad%e3%82%a6%e3%82%a3%e3%83%b3%e3%81%ae%e8%8a%b1%e5%ab%81) | N/A |
+| 9 | [エンポリオ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%9d%e3%83%aa%e3%82%aa) | N/A |
+| 10 | [#脱力タイムズ](http://twitter.com/search?q=%23%e8%84%b1%e5%8a%9b%e3%82%bf%e3%82%a4%e3%83%a0%e3%82%ba) | #脱力タイムズ is a Japanese hashtag that translates to "Relaxation Times". It is used to tag posts related to taking a break from work or school, relaxing, and enjoying leisure activities. |
+| 11 | [クロノスタシス](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%83%8e%e3%82%b9%e3%82%bf%e3%82%b7%e3%82%b9) | N/A |
+| 12 | [コナンくん](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%8f%e3%82%93) | コナンくん is a nickname for the fictional character Conan Edogawa from the manga and anime series Detective Conan. In English, it can be translated to "Conan-kun". |
+| 13 | [エンディング](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | エンディング (ending) is a term used in Japanese media to refer to the conclusion of a story, film, or television show. In English, it is often referred to as the "climax" or "resolution". |
+| 14 | [安室さん](http://twitter.com/search?q=%e5%ae%89%e5%ae%a4%e3%81%95%e3%82%93) | N/A |
+| 15 | [マッシュル](http://twitter.com/search?q=%e3%83%9e%e3%83%83%e3%82%b7%e3%83%a5%e3%83%ab) | N/A |
+| 16 | [全国一斉クイズ](http://twitter.com/search?q=%e5%85%a8%e5%9b%bd%e4%b8%80%e6%96%89%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
+| 17 | [ゼルダの伝説](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e3%81%ae%e4%bc%9d%e8%aa%ac) | N/A |
+| 18 | [コナンの映画](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%ae%e6%98%a0%e7%94%bb) | N/A |
+| 19 | [特殊OP](http://twitter.com/search?q=%e7%89%b9%e6%ae%8aOP) | N/A |
+| 20 | [マヤちゃん](http://twitter.com/search?q=%e3%83%9e%e3%83%a4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 21 | [ロシア語](http://twitter.com/search?q=%e3%83%ad%e3%82%b7%e3%82%a2%e8%aa%9e) | N/A |
+| 22 | [ストーンオーシャン](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%bc%e3%83%b3%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3) | N/A |
+| 23 | [Roundabout](http://twitter.com/search?q=Roundabout) | N/A |
+| 24 | [学校のリーダーズ](http://twitter.com/search?q=%e5%ad%a6%e6%a0%a1%e3%81%ae%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%e3%82%ba) | N/A |
+| 25 | [ノーカット](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%ab%e3%83%83%e3%83%88) | N/A |
+| 26 | [風見さん](http://twitter.com/search?q=%e9%a2%a8%e8%a6%8b%e3%81%95%e3%82%93) | N/A |
+| 27 | [ワイルド](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%83%ab%e3%83%89) | N/A |
+| 28 | [プラーミャ](http://twitter.com/search?q=%e3%83%97%e3%83%a9%e3%83%bc%e3%83%9f%e3%83%a3) | N/A |
+| 29 | [高木刑事](http://twitter.com/search?q=%e9%ab%98%e6%9c%a8%e5%88%91%e4%ba%8b) | N/A |
+| 30 | [NANDE](http://twitter.com/search?q=NANDE) | N/A |
+| 31 | [降谷さん](http://twitter.com/search?q=%e9%99%8d%e8%b0%b7%e3%81%95%e3%82%93) | N/A |
+| 32 | [ミラクルキュート](http://twitter.com/search?q=%e3%83%9f%e3%83%a9%e3%82%af%e3%83%ab%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%88) | N/A |
+| 33 | [哀ちゃん](http://twitter.com/search?q=%e5%93%80%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 34 | [オトナブルー](http://twitter.com/search?q=%e3%82%aa%e3%83%88%e3%83%8a%e3%83%96%e3%83%ab%e3%83%bc) | N/A |
+| 35 | [Buck](http://twitter.com/search?q=Buck) | N/A |
+| 36 | [シーンカット](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%83%b3%e3%82%ab%e3%83%83%e3%83%88) | シーンカット is a Japanese term used to describe a transition between two scenes in a movie or television show. It is the equivalent of the English term "scene cut" and is used to indicate when the camera switches from one scene to another. |
+| 37 | [りょうくん](http://twitter.com/search?q=%e3%82%8a%e3%82%87%e3%81%86%e3%81%8f%e3%82%93) | N/A |
+| 38 | [第442回](http://twitter.com/search?q=%e7%ac%ac442%e5%9b%9e) | N/A |
+| 39 | [EDカット](http://twitter.com/search?q=ED%e3%82%ab%e3%83%83%e3%83%88) | N/A |
+| 40 | [しょっぴー](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%81%a3%e3%81%b4%e3%83%bc) | N/A |
+| 41 | [佐藤刑事](http://twitter.com/search?q=%e4%bd%90%e8%97%a4%e5%88%91%e4%ba%8b) | N/A |
+| 42 | [THE FIRST TAKE](http://twitter.com/search?q=THE+FIRST+TAKE) | The First Take is a phrase used to describe the initial recording of a song or performance. It is often used to refer to the first attempt at recording a song, which is usually considered to be the best take. The phrase can also be used to refer to any initial attempt at something, such as the first draft of a paper or the first try at a new skill. |
+| 43 | [警察学校組](http://twitter.com/search?q=%e8%ad%a6%e5%af%9f%e5%ad%a6%e6%a0%a1%e7%b5%84) | 警察学校組 (Keisatsugakkō-gumi) is a Japanese term that refers to a group of police officers who have graduated from the same police academy. The literal translation of the term is "Police Academy Group". |
+| 44 | [コナン君](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e5%90%9b) | N/A |
+| 45 | [ジョジョ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%82%b8%e3%83%a7) | N/A |
+| 46 | [エレニカさん](http://twitter.com/search?q=%e3%82%a8%e3%83%ac%e3%83%8b%e3%82%ab%e3%81%95%e3%82%93) | N/A |
+| 47 | [あさこさん](http://twitter.com/search?q=%e3%81%82%e3%81%95%e3%81%93%e3%81%95%e3%82%93) | N/A |
+| 48 | [漆黒の追跡者](http://twitter.com/search?q=%e6%bc%86%e9%bb%92%e3%81%ae%e8%bf%bd%e8%b7%a1%e8%80%85) | N/A |
+| 49 | [ストプリ](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%97%e3%83%aa) | N/A |
+| 50 | [プリキュア楽曲総選挙](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2%e6%a5%bd%e6%9b%b2%e7%b7%8f%e9%81%b8%e6%8c%99) | N/A |
 
 
 

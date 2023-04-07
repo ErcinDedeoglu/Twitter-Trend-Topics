@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-04-07 15:17:52 UTC`
+📆 Last Updated: `2023-04-07 16:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Pushpa2TheRule](http://twitter.com/search?q=%23Pushpa2TheRule) | N/A |
-| 2 | [#Vanakkam_Modi](http://twitter.com/search?q=%23Vanakkam_Modi) | N/A |
-| 3 | [#LSGvsSRH](http://twitter.com/search?q=%23LSGvsSRH) | N/A |
-| 4 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 5 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 6 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 7 | [Lakshmipathy B](http://twitter.com/search?q=Lakshmipathy+B) | N/A |
-| 8 | [Modani China Saga](http://twitter.com/search?q=Modani+China+Saga) | N/A |
-| 9 | [krunal pandya](http://twitter.com/search?q=krunal+pandya) | N/A |
-| 10 | [Manohar Lal Antyodaya](http://twitter.com/search?q=Manohar+Lal+Antyodaya) | N/A |
-| 11 | [8M FANMILY OF SHIVANGI](http://twitter.com/search?q=8M+FANMILY+OF+SHIVANGI) | N/A |
-| 12 | [Amit Mishra](http://twitter.com/search?q=Amit+Mishra) | N/A |
-| 13 | [Klassen](http://twitter.com/search?q=Klassen) | N/A |
-| 14 | [Sharad Pawar](http://twitter.com/search?q=Sharad+Pawar) | N/A |
-| 15 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
-| 16 | [First Look](http://twitter.com/search?q=First+Look) | N/A |
-| 17 | [शरद पवार](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b0%e0%a4%a6+%e0%a4%aa%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 18 | [Sunrisers Hyderabad](http://twitter.com/search?q=Sunrisers+Hyderabad) | N/A |
-| 19 | [Aiden Markram](http://twitter.com/search?q=Aiden+Markram) | N/A |
-| 20 | [abhishek sharma](http://twitter.com/search?q=abhishek+sharma) | N/A |
-| 21 | [Jansen](http://twitter.com/search?q=Jansen) | Jansen is a Dutch surname derived from the given name Jan. It is the most common surname in the Netherlands, and it is also found in Belgium, Germany, France, and other countries. In English, it means "son of Jan". |
-| 22 | [Lucknow Super Giants](http://twitter.com/search?q=Lucknow+Super+Giants) | N/A |
-| 23 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 24 | [Amul](http://twitter.com/search?q=Amul) | N/A |
-| 25 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
-| 26 | [BhAAi](http://twitter.com/search?q=BhAAi) | N/A |
-| 27 | [Babur](http://twitter.com/search?q=Babur) | N/A |
-| 28 | [Republic Of China](http://twitter.com/search?q=Republic+Of+China) | N/A |
-| 29 | [हिंदू महासभा](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 30 | [ईसा मसीह](http://twitter.com/search?q=%e0%a4%88%e0%a4%b8%e0%a4%be+%e0%a4%ae%e0%a4%b8%e0%a5%80%e0%a4%b9) | N/A |
-| 31 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
-| 32 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 33 | [Kiran Kumar Reddy](http://twitter.com/search?q=Kiran+Kumar+Reddy) | N/A |
-| 34 | [आंध्र प्रदेश](http://twitter.com/search?q=%e0%a4%86%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 35 | [Advance](http://twitter.com/search?q=Advance) | N/A |
-| 36 | [Sushant Nemesis Of Bollywood](http://twitter.com/search?q=Sushant+Nemesis+Of+Bollywood) | N/A |
+| 1 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 2 | [#GoodFriday](http://twitter.com/search?q=%23GoodFriday) | N/A |
+| 3 | [#Vanakkam_Modi](http://twitter.com/search?q=%23Vanakkam_Modi) | N/A |
+| 4 | [#lsgvsrh](http://twitter.com/search?q=%23lsgvsrh) | N/A |
+| 5 | [#Pushpa2TheRule](http://twitter.com/search?q=%23Pushpa2TheRule) | N/A |
+| 6 | [Amit Mishra](http://twitter.com/search?q=Amit+Mishra) | N/A |
+| 7 | [PRIYANKA GRACING PINKVILLA](http://twitter.com/search?q=PRIYANKA+GRACING+PINKVILLA) | N/A |
+| 8 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 9 | [Lakshmipathy B](http://twitter.com/search?q=Lakshmipathy+B) | N/A |
+| 10 | [Sundar](http://twitter.com/search?q=Sundar) | N/A |
+| 11 | [शरद पवार](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b0%e0%a4%a6+%e0%a4%aa%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 12 | [Modani China Saga](http://twitter.com/search?q=Modani+China+Saga) | N/A |
+| 13 | [Krunal Pandya](http://twitter.com/search?q=Krunal+Pandya) | N/A |
+| 14 | [Lucknow](http://twitter.com/search?q=Lucknow) | N/A |
+| 15 | [Markande](http://twitter.com/search?q=Markande) | N/A |
+| 16 | [Sharad Pawar](http://twitter.com/search?q=Sharad+Pawar) | N/A |
+| 17 | [नम्रता सिंह](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 18 | [Abdul Samad](http://twitter.com/search?q=Abdul+Samad) | N/A |
+| 19 | [manohar lal antyodaya](http://twitter.com/search?q=manohar+lal+antyodaya) | N/A |
+| 20 | [8M FANMILY OF SHIVANGI](http://twitter.com/search?q=8M+FANMILY+OF+SHIVANGI) | N/A |
+| 21 | [Tripathi](http://twitter.com/search?q=Tripathi) | Tripathi is a surname of Indian origin, derived from the Sanskrit word 'Tripathi', which means 'lord of three rivers'. It is commonly used by people belonging to the Brahmin caste. |
+| 22 | [Pitch](http://twitter.com/search?q=Pitch) | N/A |
+| 23 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 24 | [Klassen](http://twitter.com/search?q=Klassen) | N/A |
+| 25 | [Markram](http://twitter.com/search?q=Markram) | N/A |
+| 26 | [first look](http://twitter.com/search?q=first+look) | N/A |
+| 27 | [Abhishek Sharma](http://twitter.com/search?q=Abhishek+Sharma) | N/A |
+| 28 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
+| 29 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 30 | [BhAAi](http://twitter.com/search?q=BhAAi) | N/A |
+| 31 | [हिंदू महासभा](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 32 | [Republic of China](http://twitter.com/search?q=Republic+of+China) | N/A |
+| 33 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
+| 34 | [Amul](http://twitter.com/search?q=Amul) | N/A |
+| 35 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 36 | [उमर खालिद](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a4%b0+%e0%a4%96%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%a6) | N/A |
 | 37 | [आयुष्मान कार्ड](http://twitter.com/search?q=%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 38 | [उमर खालिद](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a4%b0+%e0%a4%96%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%a6) | N/A |
-| 39 | [समर सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%b0+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 40 | [पवित्र बाइबल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ac%e0%a4%be%e0%a4%87%e0%a4%ac%e0%a4%b2) | N/A |
-| 41 | [Icon Star](http://twitter.com/search?q=Icon+Star) | N/A |
-| 42 | [भारतीय जनता](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be) | N/A |
-| 43 | [Christ](http://twitter.com/search?q=Christ) | N/A |
-| 44 | [#HappyBirthdayAlluArjun](http://twitter.com/search?q=%23HappyBirthdayAlluArjun) | N/A |
-| 45 | [#cricketmatlabMyfab11](http://twitter.com/search?q=%23cricketmatlabMyfab11) | N/A |
-| 46 | [#DeeLanceCoin](http://twitter.com/search?q=%23DeeLanceCoin) | N/A |
-| 47 | [#spiderverseonjune2nd](http://twitter.com/search?q=%23spiderverseonjune2nd) | N/A |
-| 48 | [#GobackModi](http://twitter.com/search?q=%23GobackModi) | N/A |
-| 49 | [#SewaBharati](http://twitter.com/search?q=%23SewaBharati) | N/A |
+| 38 | [पवित्र बाइबल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ac%e0%a4%be%e0%a4%87%e0%a4%ac%e0%a4%b2) | N/A |
+| 39 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
+| 40 | [#aadujeevitham](http://twitter.com/search?q=%23aadujeevitham) | N/A |
+| 41 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 42 | [#HappyBirthdayAlluArjun](http://twitter.com/search?q=%23HappyBirthdayAlluArjun) | N/A |
+| 43 | [#GobackModi](http://twitter.com/search?q=%23GobackModi) | N/A |
+| 44 | [#DeeLanceCoin](http://twitter.com/search?q=%23DeeLanceCoin) | N/A |
+| 45 | [#PrithvirajSukumaran](http://twitter.com/search?q=%23PrithvirajSukumaran) | N/A |
+| 46 | [#cricketmatlabMyfab11](http://twitter.com/search?q=%23cricketmatlabMyfab11) | N/A |
+| 47 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
+| 48 | [#SunrisersHyderabad](http://twitter.com/search?q=%23SunrisersHyderabad) | N/A |
+| 49 | [#MIvsCSK](http://twitter.com/search?q=%23MIvsCSK) | N/A |
 
 
 
