@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-04-07 10:16:48 UTC`
+📆 Last Updated: `2023-04-07 11:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,49 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 2 | [#manif6avril](http://twitter.com/search?q=%23manif6avril) | N/A |
-| 3 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
-| 4 | [#XFF23](http://twitter.com/search?q=%23XFF23) | N/A |
-| 5 | [#ElClasico](http://twitter.com/search?q=%23ElClasico) | #ElClasico is a term used to refer to the football (soccer) match between two of the biggest clubs in Spain, Real Madrid and FC Barcelona. It is one of the most highly anticipated matches in world football and is considered to be one of the greatest rivalries in sport. In English, it translates to "The Classic". |
-| 6 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 7 | [#ONEPIECE1080](http://twitter.com/search?q=%23ONEPIECE1080) | N/A |
-| 8 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 9 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 10 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 11 | [Brice Caron](http://twitter.com/search?q=Brice+Caron) | N/A |
-| 12 | [G.O.A.T.](http://twitter.com/search?q=G.O.A.T.) | N/A |
-| 13 | [Vendredi Saint](http://twitter.com/search?q=Vendredi+Saint) | N/A |
-| 14 | [Annecy](http://twitter.com/search?q=Annecy) | N/A |
-| 15 | [Émeline](http://twitter.com/search?q=%c3%89meline) | N/A |
-| 16 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
-| 17 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 18 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
-| 19 | [Rotonde](http://twitter.com/search?q=Rotonde) | N/A |
-| 20 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
-| 21 | [Laylow](http://twitter.com/search?q=Laylow) | N/A |
-| 22 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 23 | [Kourou](http://twitter.com/search?q=Kourou) | N/A |
-| 24 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 25 | [Clément](http://twitter.com/search?q=Cl%c3%a9ment) | N/A |
-| 26 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
-| 27 | [Melvin de Paris](http://twitter.com/search?q=Melvin+de+Paris) | N/A |
-| 28 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
-| 29 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 30 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 31 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
-| 32 | [benjamin epps](http://twitter.com/search?q=benjamin+epps) | N/A |
-| 33 | [Binet](http://twitter.com/search?q=Binet) | N/A |
-| 34 | [Coupe de France](http://twitter.com/search?q=Coupe+de+France) | N/A |
-| 35 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 36 | [Jok'air](http://twitter.com/search?q=Jok%27air) | N/A |
-| 37 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 38 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 39 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
-| 40 | [Soprano](http://twitter.com/search?q=Soprano) | N/A |
-| 41 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 42 | [Akainu](http://twitter.com/search?q=Akainu) | N/A |
-| 43 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 44 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 45 | [Olive & Tom](http://twitter.com/search?q=Olive+%26+Tom) | N/A |
-| 46 | [Liban](http://twitter.com/search?q=Liban) | N/A |
-| 47 | [La LDH](http://twitter.com/search?q=La+LDH) | N/A |
-| 48 | [so la lune](http://twitter.com/search?q=so+la+lune) | N/A |
-| 49 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
-| 50 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 2 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 3 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 4 | [#Hommage](http://twitter.com/search?q=%23Hommage) | N/A |
+| 5 | [Brice CARON](http://twitter.com/search?q=Brice+CARON) | N/A |
+| 6 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
+| 7 | [Kourou](http://twitter.com/search?q=Kourou) | N/A |
+| 8 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 9 | [Didi](http://twitter.com/search?q=Didi) | N/A |
+| 10 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 11 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 12 | [Depp](http://twitter.com/search?q=Depp) | N/A |
+| 13 | [Foot 2](http://twitter.com/search?q=Foot+2) | N/A |
+| 14 | [Crimée](http://twitter.com/search?q=Crim%c3%a9e) | N/A |
+| 15 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
+| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 17 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
+| 18 | [Olive](http://twitter.com/search?q=Olive) | N/A |
+| 19 | [Benjamin Epps](http://twitter.com/search?q=Benjamin+Epps) | N/A |
+| 20 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 21 | [Inazuma](http://twitter.com/search?q=Inazuma) | N/A |
+| 22 | [Aulas](http://twitter.com/search?q=Aulas) | N/A |
+| 23 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
+| 24 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
+| 25 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 26 | [Alsace](http://twitter.com/search?q=Alsace) | N/A |
+| 27 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
+| 28 | [#JournéeMondialeDeLaSanté](http://twitter.com/search?q=%23Journ%c3%a9eMondialeDeLaSant%c3%a9) | N/A |
+| 29 | [#VendrediSaint](http://twitter.com/search?q=%23VendrediSaint) | N/A |
+| 30 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 31 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
+| 32 | [#SantéPourTous](http://twitter.com/search?q=%23Sant%c3%a9PourTous) | N/A |
+| 33 | [#Webisland](http://twitter.com/search?q=%23Webisland) | N/A |
+| 34 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
+| 35 | [#RCLRCSA](http://twitter.com/search?q=%23RCLRCSA) | N/A |
+| 36 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
+| 37 | [#MusicBankParis2023](http://twitter.com/search?q=%23MusicBankParis2023) | N/A |
+| 38 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
+| 39 | [#MacronEnChine](http://twitter.com/search?q=%23MacronEnChine) | N/A |
+| 40 | [#ViolencesPoliceres](http://twitter.com/search?q=%23ViolencesPoliceres) | N/A |
+| 41 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 42 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 43 | [#SOP2023](http://twitter.com/search?q=%23SOP2023) | N/A |
+| 44 | [#FIC2023](http://twitter.com/search?q=%23FIC2023) | N/A |
 
 
 

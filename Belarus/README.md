@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-07 10:17:25 UTC`
+📆 Last Updated: `2023-04-07 11:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,18 +19,20 @@ This is top 50 for Belarus
 | 2 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
 | 3 | [#Беларусь](http://twitter.com/search?q=%23%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
 | 4 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
-| 5 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
-| 6 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 7 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 8 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
-| 9 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
+| 5 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
+| 6 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
+| 7 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 8 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
+| 9 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
 | 10 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
 | 11 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
 | 12 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
 | 13 | [Минске](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | N/A |
-| 14 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 15 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 16 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
+| 14 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 15 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
+| 16 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 17 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 18 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
 
 
 

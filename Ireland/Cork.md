@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-04-07 10:16:47 UTC`
+📆 Last Updated: `2023-04-07 11:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Ireland](</Ireland>)
 | ------- | ------------ | ------------ |
 | 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 4 | [#TLC8](http://twitter.com/search?q=%23TLC8) | N/A |
+| 3 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 4 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
 | 5 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
 | 6 | [Swords](http://twitter.com/search?q=Swords) | N/A |
-| 7 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
-| 8 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 9 | [Shamrock Rovers](http://twitter.com/search?q=Shamrock+Rovers) | N/A |
-| 10 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 11 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 12 | [Lorcan Tucker](http://twitter.com/search?q=Lorcan+Tucker) | N/A |
+| 7 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 8 | [Holy Thursday](http://twitter.com/search?q=Holy+Thursday) | N/A |
+| 9 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 10 | [Shamrock Rovers](http://twitter.com/search?q=Shamrock+Rovers) | N/A |
+| 11 | [Lorcan Tucker](http://twitter.com/search?q=Lorcan+Tucker) | N/A |
+| 12 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
 | 13 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 15 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
-| 16 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 17 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 18 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 19 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 20 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 21 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 22 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 14 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 15 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 16 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 17 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 18 | [Jane](http://twitter.com/search?q=Jane) | N/A |
+| 19 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 20 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 21 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 22 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
 | 23 | [seamus power](http://twitter.com/search?q=seamus+power) | N/A |
-| 24 | [Jane](http://twitter.com/search?q=Jane) | N/A |
-| 25 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 26 | [Aer Lingus](http://twitter.com/search?q=Aer+Lingus) | N/A |
+| 24 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 25 | [Aer Lingus](http://twitter.com/search?q=Aer+Lingus) | N/A |
+| 26 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 27 | [Rory McIlroy](http://twitter.com/search?q=Rory+McIlroy) | N/A |
 | 28 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 29 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
-| 30 | [Fascists](http://twitter.com/search?q=Fascists) | N/A |
-| 31 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
-| 32 | [Citizens](http://twitter.com/search?q=Citizens) | N/A |
-| 33 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 34 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 36 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 37 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
-| 38 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 39 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 40 | [Bertie Ahern](http://twitter.com/search?q=Bertie+Ahern) | N/A |
-| 41 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 42 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 43 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
-| 44 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
-| 45 | [Molly](http://twitter.com/search?q=Molly) | N/A |
-| 46 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 47 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 29 | [Peter Kay](http://twitter.com/search?q=Peter+Kay) | N/A |
+| 30 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 31 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 32 | [Oriel Park](http://twitter.com/search?q=Oriel+Park) | N/A |
+| 33 | [Far Right](http://twitter.com/search?q=Far+Right) | N/A |
+| 34 | [Belfast](http://twitter.com/search?q=Belfast) | N/A |
+| 35 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 36 | [Bertie Ahern](http://twitter.com/search?q=Bertie+Ahern) | N/A |
+| 37 | [Great Friday](http://twitter.com/search?q=Great+Friday) | N/A |
+| 38 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 39 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
+| 40 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
+| 41 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 42 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 43 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 44 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
+| 45 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 46 | [Molly](http://twitter.com/search?q=Molly) | N/A |
+| 47 | [Andy](http://twitter.com/search?q=Andy) | N/A |
 | 48 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
 
 

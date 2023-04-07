@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-07 10:17:20 UTC`
+📆 Last Updated: `2023-04-07 11:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 2 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 4 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
-| 5 | [#마크가_말아주는_골든아워](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%ea%b0%80_%eb%a7%90%ec%95%84%ec%a3%bc%eb%8a%94_%ea%b3%a8%eb%93%a0%ec%95%84%ec%9b%8c) | N/A |
-| 6 | [#PowerBook2](http://twitter.com/search?q=%23PowerBook2) | N/A |
-| 7 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
-| 8 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 9 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 10 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 11 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 12 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 13 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 14 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
-| 15 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 16 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 17 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 18 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 19 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 20 | [Bandcamp Friday](http://twitter.com/search?q=Bandcamp+Friday) | N/A |
-| 21 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
-| 22 | [Racism](http://twitter.com/search?q=Racism) | N/A |
-| 23 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
-| 24 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
-| 25 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 26 | [ot12](http://twitter.com/search?q=ot12) | N/A |
-| 27 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
-| 28 | [Mercenaries](http://twitter.com/search?q=Mercenaries) | N/A |
-| 29 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 30 | [Farmer](http://twitter.com/search?q=Farmer) | N/A |
-| 31 | [Jesus is Lord](http://twitter.com/search?q=Jesus+is+Lord) | N/A |
-| 32 | [Insurrectionists](http://twitter.com/search?q=Insurrectionists) | N/A |
-| 33 | [Jenner](http://twitter.com/search?q=Jenner) | N/A |
-| 34 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 35 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 36 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
-| 37 | [Hunk](http://twitter.com/search?q=Hunk) | N/A |
-| 38 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 39 | [Ellie Goulding](http://twitter.com/search?q=Ellie+Goulding) | N/A |
-| 40 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
-| 41 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 42 | [Vaush](http://twitter.com/search?q=Vaush) | N/A |
-| 43 | [Racists](http://twitter.com/search?q=Racists) | N/A |
-| 44 | [Scott Walker](http://twitter.com/search?q=Scott+Walker) | N/A |
-| 45 | [Bulma](http://twitter.com/search?q=Bulma) | N/A |
-| 46 | [ARCIA](http://twitter.com/search?q=ARCIA) | N/A |
-| 47 | [Expelled](http://twitter.com/search?q=Expelled) | N/A |
-| 48 | [Klan](http://twitter.com/search?q=Klan) | N/A |
-| 49 | [John Lewis](http://twitter.com/search?q=John+Lewis) | N/A |
-| 50 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
+| 2 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 3 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 4 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 5 | [#Wordle657](http://twitter.com/search?q=%23Wordle657) | N/A |
+| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 7 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
+| 8 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
+| 9 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 10 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
+| 11 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
+| 12 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 13 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
+| 14 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 15 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 16 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 17 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 18 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
+| 19 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 20 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 21 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 22 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 23 | [Jenner](http://twitter.com/search?q=Jenner) | N/A |
+| 24 | [Racism](http://twitter.com/search?q=Racism) | N/A |
+| 25 | [Farmer](http://twitter.com/search?q=Farmer) | N/A |
+| 26 | [Pearson](http://twitter.com/search?q=Pearson) | N/A |
+| 27 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 28 | [Effie](http://twitter.com/search?q=Effie) | N/A |
+| 29 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
+| 30 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 31 | [Mick](http://twitter.com/search?q=Mick) | N/A |
+| 32 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 33 | [Easter Weekend](http://twitter.com/search?q=Easter+Weekend) | N/A |
+| 34 | [Jesus is Lord](http://twitter.com/search?q=Jesus+is+Lord) | N/A |
+| 35 | [Bulma](http://twitter.com/search?q=Bulma) | N/A |
+| 36 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
+| 37 | [Insurrectionists](http://twitter.com/search?q=Insurrectionists) | N/A |
+| 38 | [Mercenaries](http://twitter.com/search?q=Mercenaries) | N/A |
+| 39 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 40 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
+| 41 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 42 | [Racists](http://twitter.com/search?q=Racists) | N/A |
+| 43 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 44 | [Motley Crue](http://twitter.com/search?q=Motley+Crue) | N/A |
+| 45 | [John Lewis](http://twitter.com/search?q=John+Lewis) | N/A |
+| 46 | [Scott Walker](http://twitter.com/search?q=Scott+Walker) | N/A |
+| 47 | [Klan](http://twitter.com/search?q=Klan) | N/A |
+| 48 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
+| 49 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 50 | [Hunk](http://twitter.com/search?q=Hunk) | N/A |
 
 
 

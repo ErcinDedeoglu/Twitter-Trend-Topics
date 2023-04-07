@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-07 10:16:47 UTC`
+📆 Last Updated: `2023-04-07 11:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Poland](</Poland>)
 | 2 | [Witek](http://twitter.com/search?q=Witek) | N/A |
 | 3 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
 | 4 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
-| 5 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
-| 6 | [Świąt Wielkanocnych](http://twitter.com/search?q=%c5%9awi%c4%85t+Wielkanocnych) | N/A |
-| 7 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
-| 8 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 9 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
-| 10 | [#PiStoZŁO](http://twitter.com/search?q=%23PiStoZ%c5%81O) | N/A |
-| 11 | [#fcbrma](http://twitter.com/search?q=%23fcbrma) | N/A |
-| 12 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 13 | [Radio Zet](http://twitter.com/search?q=Radio+Zet) | N/A |
-| 14 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
-| 15 | [Wielki Czwartek](http://twitter.com/search?q=Wielki+Czwartek) | N/A |
-| 16 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 17 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
-| 18 | [Lichockiej](http://twitter.com/search?q=Lichockiej) | N/A |
+| 5 | [Świąt Wielkanocnych](http://twitter.com/search?q=%c5%9awi%c4%85t+Wielkanocnych) | N/A |
+| 6 | [#mojkumpelWA](http://twitter.com/search?q=%23mojkumpelWA) | N/A |
+| 7 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
+| 8 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
+| 9 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 10 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
+| 11 | [#PistoZlo](http://twitter.com/search?q=%23PistoZlo) | N/A |
+| 12 | [Radio Zet](http://twitter.com/search?q=Radio+Zet) | N/A |
+| 13 | [Wielki Czwartek](http://twitter.com/search?q=Wielki+Czwartek) | N/A |
+| 14 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 15 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
+| 16 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 17 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
+| 18 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
 | 19 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 20 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 21 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
+| 20 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
+| 21 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
 | 22 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 23 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
-| 24 | [Yoongiego](http://twitter.com/search?q=Yoongiego) | N/A |
+| 23 | [Wielkiego Piątku](http://twitter.com/search?q=Wielkiego+Pi%c4%85tku) | N/A |
+| 24 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
 | 25 | [KRRiT](http://twitter.com/search?q=KRRiT) | N/A |
-| 26 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 27 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
-| 28 | [Wielkiego Piątku](http://twitter.com/search?q=Wielkiego+Pi%c4%85tku) | N/A |
-| 29 | [Cieszyński](http://twitter.com/search?q=Cieszy%c5%84ski) | N/A |
-| 30 | [Klubowy GOAT](http://twitter.com/search?q=Klubowy+GOAT) | N/A |
-| 31 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 32 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
-| 33 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 34 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
-| 35 | [zełenskim](http://twitter.com/search?q=ze%c5%82enskim) | N/A |
-| 36 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
-| 37 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 38 | [Radio Szczecin](http://twitter.com/search?q=Radio+Szczecin) | N/A |
-| 39 | [Azji](http://twitter.com/search?q=Azji) | N/A |
-| 40 | [Libanu](http://twitter.com/search?q=Libanu) | N/A |
-| 41 | [Bednorz](http://twitter.com/search?q=Bednorz) | N/A |
-| 42 | [KGHM](http://twitter.com/search?q=KGHM) | N/A |
-| 43 | [Kupuje](http://twitter.com/search?q=Kupuje) | N/A |
-| 44 | [Karma](http://twitter.com/search?q=Karma) | N/A |
-| 45 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
-| 46 | [Vuko](http://twitter.com/search?q=Vuko) | N/A |
-| 47 | [Eucharystii](http://twitter.com/search?q=Eucharystii) | N/A |
-| 48 | [Albanii](http://twitter.com/search?q=Albanii) | N/A |
-| 49 | [Pani Wandy](http://twitter.com/search?q=Pani+Wandy) | N/A |
+| 26 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
+| 27 | [Klubowy GOAT](http://twitter.com/search?q=Klubowy+GOAT) | N/A |
+| 28 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 29 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
+| 30 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
+| 31 | [Lichockiej](http://twitter.com/search?q=Lichockiej) | N/A |
+| 32 | [zełenskim](http://twitter.com/search?q=ze%c5%82enskim) | N/A |
+| 33 | [Cieszyński](http://twitter.com/search?q=Cieszy%c5%84ski) | N/A |
+| 34 | [Łodzi](http://twitter.com/search?q=%c5%81odzi) | N/A |
+| 35 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 36 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
+| 37 | [Yoongiego](http://twitter.com/search?q=Yoongiego) | N/A |
+| 38 | [Bednorz](http://twitter.com/search?q=Bednorz) | N/A |
+| 39 | [KGHM](http://twitter.com/search?q=KGHM) | N/A |
+| 40 | [Vuko](http://twitter.com/search?q=Vuko) | N/A |
+| 41 | [Libanu](http://twitter.com/search?q=Libanu) | N/A |
+| 42 | [Eucharystii](http://twitter.com/search?q=Eucharystii) | N/A |
+| 43 | [radio szczecin](http://twitter.com/search?q=radio+szczecin) | N/A |
+| 44 | [Palikota](http://twitter.com/search?q=Palikota) | N/A |
+| 45 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 46 | [MSWiA](http://twitter.com/search?q=MSWiA) | N/A |
+| 47 | [Gruca](http://twitter.com/search?q=Gruca) | N/A |
+| 48 | [Comfort](http://twitter.com/search?q=Comfort) | N/A |
+| 49 | [Witkowa](http://twitter.com/search?q=Witkowa) | N/A |
 
 
 

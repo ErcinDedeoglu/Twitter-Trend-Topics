@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-04-07 10:16:45 UTC`
+📆 Last Updated: `2023-04-07 11:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Brazil](</Brazil>)
 | 2 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
 | 3 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
 | 4 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
-| 5 | [RENATO AUGUSTO](http://twitter.com/search?q=RENATO+AUGUSTO) | N/A |
-| 6 | [BALBUENA](http://twitter.com/search?q=BALBUENA) | N/A |
+| 5 | [BALBUENA](http://twitter.com/search?q=BALBUENA) | N/A |
+| 6 | [RENATO AUGUSTO](http://twitter.com/search?q=RENATO+AUGUSTO) | N/A |
 | 7 | [#MaziOnBitmart](http://twitter.com/search?q=%23MaziOnBitmart) | N/A |
 | 8 | [Blumenau](http://twitter.com/search?q=Blumenau) | N/A |
 | 9 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 10 | [#deelance](http://twitter.com/search?q=%23deelance) | N/A |
-| 11 | [ROGER GUEDES](http://twitter.com/search?q=ROGER+GUEDES) | Roger Guedes is a Brazilian footballer who currently plays for Palmeiras. He is a versatile player who can play as a forward, winger, or attacking midfielder. His name in English translates to "strong warrior". |
-| 12 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 13 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 14 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 10 | [ROGER GUEDES](http://twitter.com/search?q=ROGER+GUEDES) | Roger Guedes is a Brazilian footballer who currently plays for Palmeiras. He is a versatile player who can play as a forward, winger, or attacking midfielder. His name in English translates to "strong warrior". |
+| 11 | [Sexta-feira Santa](http://twitter.com/search?q=Sexta-feira+Santa) | N/A |
+| 12 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 13 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 14 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
 | 15 | [Evaristo](http://twitter.com/search?q=Evaristo) | N/A |
-| 16 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 17 | [#libertadoresnoparamount](http://twitter.com/search?q=%23libertadoresnoparamount) | N/A |
-| 18 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 16 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 17 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
+| 18 | [#provadolider](http://twitter.com/search?q=%23provadolider) | N/A |
 | 19 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 20 | [#provadolider](http://twitter.com/search?q=%23provadolider) | N/A |
-| 21 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
-| 22 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 23 | [Erison](http://twitter.com/search?q=Erison) | N/A |
-| 24 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 25 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 26 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 27 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 28 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
-| 29 | [GABRIEL PIRES](http://twitter.com/search?q=GABRIEL+PIRES) | N/A |
-| 30 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 20 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 21 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
+| 22 | [nestor](http://twitter.com/search?q=nestor) | N/A |
+| 23 | [#网赚项目](http://twitter.com/search?q=%23%e7%bd%91%e8%b5%9a%e9%a1%b9%e7%9b%ae) | N/A |
+| 24 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 25 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 26 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 27 | [Erison](http://twitter.com/search?q=Erison) | N/A |
+| 28 | [GABRIEL PIRES](http://twitter.com/search?q=GABRIEL+PIRES) | N/A |
+| 29 | [Jailson](http://twitter.com/search?q=Jailson) | Jailson is a Portuguese name derived from the Latin name Iacobus, which means "supplanter". It is also a variant of the English name Jacob. |
+| 30 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
 | 31 | [bambam](http://twitter.com/search?q=bambam) | N/A |
 | 32 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 33 | [arboleda](http://twitter.com/search?q=arboleda) | N/A |
-| 34 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 35 | [alan franco](http://twitter.com/search?q=alan+franco) | N/A |
-| 36 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
-| 37 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
-| 38 | [kylie](http://twitter.com/search?q=kylie) | N/A |
-| 39 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 33 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 34 | [ARBOLEDA](http://twitter.com/search?q=ARBOLEDA) | N/A |
+| 35 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 36 | [Alan Franco](http://twitter.com/search?q=Alan+Franco) | Alan Franco is a Spanish name. It is derived from the Latin name Alanius, which means "from Alania" (an ancient region in the Caucasus). In English, Alan Franco means "from Alania". |
+| 37 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
+| 38 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
+| 39 | [kylie](http://twitter.com/search?q=kylie) | N/A |
 | 40 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 41 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 42 | [David](http://twitter.com/search?q=David) | N/A |
+| 41 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 42 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 43 | [andressa alves](http://twitter.com/search?q=andressa+alves) | N/A |
-| 44 | [Sexta-feira Santa](http://twitter.com/search?q=Sexta-feira+Santa) | N/A |
-| 45 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 44 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 45 | [David](http://twitter.com/search?q=David) | N/A |
 | 46 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 47 | [BARLETTA](http://twitter.com/search?q=BARLETTA) | N/A |
+| 47 | [brtt no fluxo](http://twitter.com/search?q=brtt+no+fluxo) | N/A |
 | 48 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 49 | [EL TORO](http://twitter.com/search?q=EL+TORO) | N/A |
-| 50 | [brtt no fluxo](http://twitter.com/search?q=brtt+no+fluxo) | N/A |
+| 49 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 50 | [BARLETTA](http://twitter.com/search?q=BARLETTA) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-07 10:16:54 UTC`
+📆 Last Updated: `2023-04-07 11:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 2 | [Stau](http://twitter.com/search?q=Stau) | N/A |
+| 1 | [Stau](http://twitter.com/search?q=Stau) | N/A |
+| 2 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
 | 3 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 4 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 5 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
-| 6 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 8 | [Gotthard](http://twitter.com/search?q=Gotthard) | N/A |
-| 9 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 10 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 11 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 12 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 13 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 14 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 15 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
-| 16 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 17 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
+| 4 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 5 | [#who75](http://twitter.com/search?q=%23who75) | N/A |
+| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 7 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 8 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 9 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 10 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 11 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 12 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 13 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
+| 14 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 15 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 16 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 17 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 18 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 19 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
-| 20 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
-| 21 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 22 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
+| 19 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
+| 20 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 21 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
+| 22 | [Tessin](http://twitter.com/search?q=Tessin) | N/A |
 | 23 | [Granit](http://twitter.com/search?q=Granit) | N/A |
 | 24 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 25 | [Oliven](http://twitter.com/search?q=Oliven) | N/A |
-| 26 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
-| 27 | [Interesse](http://twitter.com/search?q=Interesse) | N/A |
-| 28 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
-| 29 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
-| 30 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
-| 31 | [Sascha Ruefer](http://twitter.com/search?q=Sascha+Ruefer) | N/A |
-| 32 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 33 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 34 | [Statistik](http://twitter.com/search?q=Statistik) | N/A |
-| 35 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 36 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 25 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 26 | [Interesse](http://twitter.com/search?q=Interesse) | N/A |
+| 27 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
+| 28 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 29 | [Sascha Ruefer](http://twitter.com/search?q=Sascha+Ruefer) | N/A |
+| 30 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 31 | [oliven](http://twitter.com/search?q=oliven) | N/A |
+| 32 | [Statistik](http://twitter.com/search?q=Statistik) | N/A |
+| 33 | [Solange](http://twitter.com/search?q=Solange) | N/A |
+| 34 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 35 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 36 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
 | 37 | [Depp](http://twitter.com/search?q=Depp) | N/A |
-| 38 | [Schuhe](http://twitter.com/search?q=Schuhe) | N/A |
-| 39 | [London](http://twitter.com/search?q=London) | N/A |
-| 40 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 41 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 38 | [London](http://twitter.com/search?q=London) | N/A |
+| 39 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
+| 40 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
+| 41 | [Schuhe](http://twitter.com/search?q=Schuhe) | N/A |
 | 42 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 43 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
-| 44 | [Generation](http://twitter.com/search?q=Generation) | N/A |
-| 45 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
-| 46 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 47 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 48 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 43 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 44 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
+| 45 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 46 | [Generation](http://twitter.com/search?q=Generation) | N/A |
+| 47 | [sekte](http://twitter.com/search?q=sekte) | N/A |
+| 48 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
 
 
 

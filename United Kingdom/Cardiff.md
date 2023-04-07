@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-04-07 10:16:36 UTC`
+📆 Last Updated: `2023-04-07 11:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
 | 4 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 5 | [CHOO CHOO](http://twitter.com/search?q=CHOO+CHOO) | N/A |
-| 6 | [#StarWarsCelebration2023](http://twitter.com/search?q=%23StarWarsCelebration2023) | N/A |
-| 7 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
-| 8 | [Lucy Powell](http://twitter.com/search?q=Lucy+Powell) | N/A |
-| 9 | [Andrew Castle](http://twitter.com/search?q=Andrew+Castle) | N/A |
-| 10 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 11 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 12 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
-| 13 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 14 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
-| 15 | [Naga](http://twitter.com/search?q=Naga) | N/A |
-| 16 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 17 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 18 | [Great Friday](http://twitter.com/search?q=Great+Friday) | N/A |
-| 19 | [Derby Day](http://twitter.com/search?q=Derby+Day) | Derby Day is a term used to refer to the day of a major horse race, usually the Kentucky Derby in the United States. It is a day of celebration and excitement, with people gathering to watch the race and place bets on their favorite horses. The phrase can also be used more generally to refer to any day when a major horse race takes place. |
-| 20 | [Saville](http://twitter.com/search?q=Saville) | N/A |
-| 21 | [Gutter](http://twitter.com/search?q=Gutter) | N/A |
-| 22 | [The Labour Party](http://twitter.com/search?q=The+Labour+Party) | N/A |
-| 23 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
-| 24 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
-| 25 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 5 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
+| 6 | [CHOO CHOO](http://twitter.com/search?q=CHOO+CHOO) | N/A |
+| 7 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
+| 8 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | Michael Oliver is a British actor and comedian. He is best known for his roles in the television series The Comic Strip Presents, The Young Ones, and Bottom. He has also appeared in films such as The Princess Bride, Hot Fuzz, and Shaun of the Dead. |
+| 9 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
+| 10 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 11 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 12 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 13 | [Andrew Castle](http://twitter.com/search?q=Andrew+Castle) | N/A |
+| 14 | [Lucy Powell](http://twitter.com/search?q=Lucy+Powell) | N/A |
+| 15 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
+| 16 | [King of Kings](http://twitter.com/search?q=King+of+Kings) | N/A |
+| 17 | [Kathleen Kennedy](http://twitter.com/search?q=Kathleen+Kennedy) | N/A |
+| 18 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 19 | [Luton](http://twitter.com/search?q=Luton) | N/A |
+| 20 | [Lucasfilm](http://twitter.com/search?q=Lucasfilm) | N/A |
+| 21 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
+| 22 | [Savile](http://twitter.com/search?q=Savile) | N/A |
+| 23 | [Great Friday](http://twitter.com/search?q=Great+Friday) | N/A |
+| 24 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 25 | [Derby Day](http://twitter.com/search?q=Derby+Day) | Derby Day is a term used to refer to the day of a major horse race, usually the Kentucky Derby in the United States. It is a day of celebration and excitement, with people gathering to watch the race and place bets on their favorite horses. The phrase can also be used more generally to refer to any day when a major horse race takes place. |
 | 26 | [North Wales](http://twitter.com/search?q=North+Wales) | N/A |
-| 27 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 28 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 29 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 30 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 31 | [Luton](http://twitter.com/search?q=Luton) | N/A |
-| 32 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 33 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 34 | [Salmond](http://twitter.com/search?q=Salmond) | N/A |
-| 35 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 36 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 37 | [#InternationalBeaverDay](http://twitter.com/search?q=%23InternationalBeaverDay) | N/A |
-| 38 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 39 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 40 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 41 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
-| 42 | [#SWCE2023](http://twitter.com/search?q=%23SWCE2023) | N/A |
-| 43 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 44 | [#GFA25](http://twitter.com/search?q=%23GFA25) | N/A |
-| 45 | [#ASongOrMovieForAnythingGood](http://twitter.com/search?q=%23ASongOrMovieForAnythingGood) | N/A |
-| 46 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
-| 47 | [#fridaymusicfun](http://twitter.com/search?q=%23fridaymusicfun) | N/A |
-| 48 | [#FallFriday](http://twitter.com/search?q=%23FallFriday) | N/A |
+| 27 | [Gutter](http://twitter.com/search?q=Gutter) | N/A |
+| 28 | [The Labour Party](http://twitter.com/search?q=The+Labour+Party) | N/A |
+| 29 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 30 | [Hot Cross Buns](http://twitter.com/search?q=Hot+Cross+Buns) | N/A |
+| 31 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
+| 32 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 33 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
+| 34 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
+| 35 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 36 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 37 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 38 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 39 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
+| 40 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 41 | [Rochdale](http://twitter.com/search?q=Rochdale) | N/A |
+| 42 | [Telford](http://twitter.com/search?q=Telford) | N/A |
+| 43 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
+| 44 | [#InternationalBeaverDay](http://twitter.com/search?q=%23InternationalBeaverDay) | N/A |
+| 45 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 46 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
+| 47 | [#Andor](http://twitter.com/search?q=%23Andor) | N/A |
+| 48 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
 
 
 
