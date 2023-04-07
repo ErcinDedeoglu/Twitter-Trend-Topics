@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-04-06 23:17:19 UTC`
+📆 Last Updated: `2023-04-07 00:26:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#txlege](http://twitter.com/search?q=%23txlege) | N/A |
 | 2 | [Texas House](http://twitter.com/search?q=Texas+House) | N/A |
-| 3 | [#txed](http://twitter.com/search?q=%23txed) | N/A |
-| 4 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 5 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 6 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 7 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 8 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 9 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 10 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 11 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 12 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
-| 13 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 14 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
-| 15 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 16 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 17 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 18 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
-| 19 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
-| 20 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 21 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 22 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
-| 23 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 24 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 25 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 26 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 27 | [John Kirby](http://twitter.com/search?q=John+Kirby) | N/A |
-| 28 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 29 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 30 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
-| 31 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 32 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 33 | [Andrew Farmer](http://twitter.com/search?q=Andrew+Farmer) | N/A |
-| 34 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 35 | [Rep. Johnson](http://twitter.com/search?q=Rep.+Johnson) | N/A |
-| 36 | [TN Republicans](http://twitter.com/search?q=TN+Republicans) | N/A |
-| 37 | [3 Democrats](http://twitter.com/search?q=3+Democrats) | N/A |
-| 38 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 39 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
-| 40 | [Coors Field](http://twitter.com/search?q=Coors+Field) | N/A |
-| 41 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 42 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 43 | [Expel](http://twitter.com/search?q=Expel) | N/A |
-| 44 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 45 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 46 | [Charlie Kirk](http://twitter.com/search?q=Charlie+Kirk) | Charlie Kirk is the founder and executive director of Turning Point USA, a conservative non-profit organization that promotes free market principles and limited government. The organization's mission is to educate students about the importance of fiscal responsibility, free markets, and limited government. |
-| 47 | [George Lucas](http://twitter.com/search?q=George+Lucas) | N/A |
-| 48 | [Gino Bulso](http://twitter.com/search?q=Gino+Bulso) | N/A |
-| 49 | [Kim Petras](http://twitter.com/search?q=Kim+Petras) | Kim Petras is a German singer-songwriter and pop star. She is known for her catchy pop songs and her gender transition from male to female at a young age. The name Kim Petras is derived from her given name, Tim Petras. |
-| 50 | [Medhi](http://twitter.com/search?q=Medhi) | N/A |
+| 3 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 4 | [The GOP](http://twitter.com/search?q=The+GOP) | The GOP stands for the Grand Old Party, which is the nickname for the Republican Party in the United States. |
+| 5 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 6 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 7 | [#txed](http://twitter.com/search?q=%23txed) | N/A |
+| 8 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 9 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 10 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 11 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 12 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
+| 13 | [Gloria Johnson](http://twitter.com/search?q=Gloria+Johnson) | N/A |
+| 14 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 15 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 16 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
+| 17 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 18 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 19 | [TN House](http://twitter.com/search?q=TN+House) | N/A |
+| 20 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 21 | [#FrozenFour](http://twitter.com/search?q=%23FrozenFour) | N/A |
+| 22 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 23 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 24 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 25 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 26 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 27 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 28 | [Title IX](http://twitter.com/search?q=Title+IX) | N/A |
+| 29 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 30 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 31 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
+| 32 | [#TNAssembly](http://twitter.com/search?q=%23TNAssembly) | N/A |
+| 33 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 34 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
+| 35 | [Danny Green](http://twitter.com/search?q=Danny+Green) | N/A |
+| 36 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 37 | [Cole Anthony](http://twitter.com/search?q=Cole+Anthony) | Cole Anthony is a basketball player from the United States. He currently plays for the Orlando Magic of the National Basketball Association (NBA). His name is derived from his father, former NBA player Greg Anthony. The name Cole means "victor" or "triumphant" in English. |
+| 38 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
+| 39 | [2 Black](http://twitter.com/search?q=2+Black) | N/A |
+| 40 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 41 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 42 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
+| 43 | [Skenes](http://twitter.com/search?q=Skenes) | N/A |
+| 44 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 45 | [Rep Johnson](http://twitter.com/search?q=Rep+Johnson) | N/A |
+| 46 | [Expelled](http://twitter.com/search?q=Expelled) | N/A |
+| 47 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 48 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
+| 49 | [Two Black](http://twitter.com/search?q=Two+Black) | N/A |
+| 50 | [Andrew Farmer](http://twitter.com/search?q=Andrew+Farmer) | N/A |
 
 
 

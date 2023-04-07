@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-06 23:16:56 UTC`
+📆 Last Updated: `2023-04-07 00:26:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 3 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 4 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
+| 1 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 2 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
+| 3 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 4 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
 | 5 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 6 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
+| 6 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 7 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
 | 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 9 | [Ruefer](http://twitter.com/search?q=Ruefer) | N/A |
@@ -40,9 +40,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 23 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 24 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
 | 25 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 26 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
-| 27 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 28 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 26 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 27 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
+| 28 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 | 29 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 30 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
 | 31 | [Messer](http://twitter.com/search?q=Messer) | N/A |
@@ -58,11 +58,11 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 41 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
 | 42 | [Schwachsinn](http://twitter.com/search?q=Schwachsinn) | N/A |
 | 43 | [Montreux](http://twitter.com/search?q=Montreux) | N/A |
-| 44 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
-| 45 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 46 | [Masse](http://twitter.com/search?q=Masse) | N/A |
-| 47 | [Statement](http://twitter.com/search?q=Statement) | N/A |
-| 48 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 44 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 45 | [Statement](http://twitter.com/search?q=Statement) | N/A |
+| 46 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 47 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 48 | [Impfungen](http://twitter.com/search?q=Impfungen) | N/A |
 
 
 

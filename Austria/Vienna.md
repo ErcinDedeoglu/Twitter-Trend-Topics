@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-06 23:16:49 UTC`
+📆 Last Updated: `2023-04-07 00:26:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,29 +17,29 @@ This is top 50 for [Austria](</Austria>)
 | ------- | ------------ | ------------ |
 | 1 | [#STUASK](http://twitter.com/search?q=%23STUASK) | N/A |
 | 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 3 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 4 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
-| 5 | [Spinat](http://twitter.com/search?q=Spinat) | N/A |
-| 6 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
-| 7 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
+| 3 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
+| 4 | [Spinat](http://twitter.com/search?q=Spinat) | N/A |
+| 5 | [Gründonnerstag](http://twitter.com/search?q=Gr%c3%bcndonnerstag) | N/A |
+| 6 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
+| 7 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
 | 8 | [5sos](http://twitter.com/search?q=5sos) | N/A |
 | 9 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
 | 10 | [#rblBVB](http://twitter.com/search?q=%23rblBVB) | N/A |
 | 11 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 12 | [Tests](http://twitter.com/search?q=Tests) | N/A |
-| 13 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
-| 14 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
-| 15 | [Symptome](http://twitter.com/search?q=Symptome) | N/A |
-| 16 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
-| 17 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 18 | [#SCRSVR](http://twitter.com/search?q=%23SCRSVR) | N/A |
-| 19 | [Arbeitszeitverkürzung](http://twitter.com/search?q=Arbeitszeitverk%c3%bcrzung) | N/A |
-| 20 | [Pflege](http://twitter.com/search?q=Pflege) | N/A |
-| 21 | [Krise](http://twitter.com/search?q=Krise) | N/A |
-| 22 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
+| 12 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
+| 13 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
+| 14 | [Symptome](http://twitter.com/search?q=Symptome) | N/A |
+| 15 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
+| 16 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
+| 17 | [#SCRSVR](http://twitter.com/search?q=%23SCRSVR) | N/A |
+| 18 | [Arbeitszeitverkürzung](http://twitter.com/search?q=Arbeitszeitverk%c3%bcrzung) | N/A |
+| 19 | [Pflege](http://twitter.com/search?q=Pflege) | N/A |
+| 20 | [Tests](http://twitter.com/search?q=Tests) | N/A |
+| 21 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
+| 22 | [Krise](http://twitter.com/search?q=Krise) | N/A |
 | 23 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
 | 24 | [Forderung](http://twitter.com/search?q=Forderung) | N/A |
-| 25 | [VFGH](http://twitter.com/search?q=VFGH) | N/A |
+| 25 | [vfgh](http://twitter.com/search?q=vfgh) | N/A |
 | 26 | [Kindheit](http://twitter.com/search?q=Kindheit) | N/A |
 | 27 | [Rauch](http://twitter.com/search?q=Rauch) | N/A |
 | 28 | [Konto](http://twitter.com/search?q=Konto) | N/A |

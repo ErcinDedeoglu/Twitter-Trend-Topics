@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-04-06 23:17:08 UTC`
+📆 Last Updated: `2023-04-07 00:26:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,41 +29,41 @@ This is top 50 for [South Africa](</South Africa>)
 | 12 | [JUICY JAY CHAPTER 25 PROJECT](http://twitter.com/search?q=JUICY+JAY+CHAPTER+25+PROJECT) | N/A |
 | 13 | [Berita](http://twitter.com/search?q=Berita) | N/A |
 | 14 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 15 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
+| 15 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
 | 16 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 17 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 18 | [Jan van Riebeeck](http://twitter.com/search?q=Jan+van+Riebeeck) | N/A |
+| 17 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
+| 18 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
 | 19 | [Sebokeng](http://twitter.com/search?q=Sebokeng) | N/A |
-| 20 | [Mqhele](http://twitter.com/search?q=Mqhele) | N/A |
-| 21 | [Shakes](http://twitter.com/search?q=Shakes) | N/A |
-| 22 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 20 | [Jan van Riebeeck](http://twitter.com/search?q=Jan+van+Riebeeck) | N/A |
+| 21 | [Mqhele](http://twitter.com/search?q=Mqhele) | N/A |
+| 22 | [Khama](http://twitter.com/search?q=Khama) | N/A |
 | 23 | [NO THABANG NO BUZZ](http://twitter.com/search?q=NO+THABANG+NO+BUZZ) | N/A |
-| 24 | [Khama](http://twitter.com/search?q=Khama) | N/A |
-| 25 | [Primary](http://twitter.com/search?q=Primary) | N/A |
+| 24 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 25 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 26 | [Solomon Mahlangu](http://twitter.com/search?q=Solomon+Mahlangu) | N/A |
-| 27 | [LETTER TO KHOSI](http://twitter.com/search?q=LETTER+TO+KHOSI) | N/A |
-| 28 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 29 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 30 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 31 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 32 | [Nota](http://twitter.com/search?q=Nota) | N/A |
+| 27 | [Primary](http://twitter.com/search?q=Primary) | N/A |
+| 28 | [letter to khosi](http://twitter.com/search?q=letter+to+khosi) | N/A |
+| 29 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 30 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 31 | [Nota](http://twitter.com/search?q=Nota) | N/A |
+| 32 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 33 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
 | 34 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 35 | [ALPHA MALE THABANG](http://twitter.com/search?q=ALPHA+MALE+THABANG) | N/A |
 | 36 | [J'Something](http://twitter.com/search?q=J%27Something) | N/A |
-| 37 | [Royal AM](http://twitter.com/search?q=Royal+AM) | N/A |
-| 38 | [BLUE AIVA IS HERE](http://twitter.com/search?q=BLUE+AIVA+IS+HERE) | N/A |
-| 39 | [Mshishi](http://twitter.com/search?q=Mshishi) | N/A |
-| 40 | [Senzo](http://twitter.com/search?q=Senzo) | N/A |
-| 41 | [Shaka](http://twitter.com/search?q=Shaka) | N/A |
-| 42 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 43 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
-| 44 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 45 | [N1 North](http://twitter.com/search?q=N1+North) | N/A |
-| 46 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 47 | [Tazz](http://twitter.com/search?q=Tazz) | N/A |
-| 48 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 49 | [Qhawe](http://twitter.com/search?q=Qhawe) | N/A |
+| 37 | [royal am](http://twitter.com/search?q=royal+am) | N/A |
+| 38 | [Senzo](http://twitter.com/search?q=Senzo) | N/A |
+| 39 | [Shaka](http://twitter.com/search?q=Shaka) | N/A |
+| 40 | [Mshishi](http://twitter.com/search?q=Mshishi) | N/A |
+| 41 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
+| 42 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 43 | [n1 north](http://twitter.com/search?q=n1+north) | N/A |
+| 44 | [nigeria welcomes blue aiva](http://twitter.com/search?q=nigeria+welcomes+blue+aiva) | N/A |
+| 45 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 46 | [Tazz](http://twitter.com/search?q=Tazz) | N/A |
+| 47 | [Shakes](http://twitter.com/search?q=Shakes) | N/A |
+| 48 | [Qhawe](http://twitter.com/search?q=Qhawe) | N/A |
+| 49 | [Melita](http://twitter.com/search?q=Melita) | N/A |
 
 
 

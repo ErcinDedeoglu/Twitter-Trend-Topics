@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-06 23:17:33 UTC`
+📆 Last Updated: `2023-04-07 00:27:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,11 +15,11 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 2 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 3 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 4 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 5 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
+| 1 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 2 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
+| 3 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 4 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
+| 5 | [Stau](http://twitter.com/search?q=Stau) | N/A |
 | 6 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 7 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
 | 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
@@ -42,9 +42,9 @@ This is top 50 for Switzerland
 | 25 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
 | 26 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
 | 27 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 28 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
-| 29 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 30 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 28 | [Wahnsinn](http://twitter.com/search?q=Wahnsinn) | N/A |
+| 29 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
+| 30 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 | 31 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 32 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
 | 33 | [Messer](http://twitter.com/search?q=Messer) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Switzerland
 | 43 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
 | 44 | [Schwachsinn](http://twitter.com/search?q=Schwachsinn) | N/A |
 | 45 | [Montreux](http://twitter.com/search?q=Montreux) | N/A |
-| 46 | [Mühe](http://twitter.com/search?q=M%c3%bche) | N/A |
-| 47 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 48 | [Masse](http://twitter.com/search?q=Masse) | N/A |
-| 49 | [Statement](http://twitter.com/search?q=Statement) | N/A |
-| 50 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 46 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 47 | [Statement](http://twitter.com/search?q=Statement) | N/A |
+| 48 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 49 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 50 | [Impfungen](http://twitter.com/search?q=Impfungen) | N/A |
 
 
 

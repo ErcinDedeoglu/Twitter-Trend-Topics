@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-04-06 23:17:29 UTC`
+📆 Last Updated: `2023-04-07 00:26:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
-| 2 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
-| 3 | [#corvispace](http://twitter.com/search?q=%23corvispace) | N/A |
-| 4 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
-| 5 | [#SilvioBerlusconi](http://twitter.com/search?q=%23SilvioBerlusconi) | N/A |
-| 6 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 7 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 1 | [#corvispace](http://twitter.com/search?q=%23corvispace) | N/A |
+| 2 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
+| 3 | [#PECHINOEXPRESS](http://twitter.com/search?q=%23PECHINOEXPRESS) | N/A |
+| 4 | [#SilvioBerlusconi](http://twitter.com/search?q=%23SilvioBerlusconi) | N/A |
+| 5 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
+| 6 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 7 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
 | 8 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 9 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 10 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 9 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 10 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
 | 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 12 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 12 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
 | 13 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 14 | [Raimondo](http://twitter.com/search?q=Raimondo) | Raimondo is an Italian given name derived from the Germanic name Raginmund, which means "wise protector". It is also a surname. |
-| 15 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 16 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 17 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 18 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
-| 19 | [Todaro](http://twitter.com/search?q=Todaro) | Todaro is an Italian surname. It is derived from the Latin word "todarius," which means "hunter." The name is most commonly found in the regions of Sicily and Calabria. In English, it can be translated to mean "hunter." |
+| 14 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 15 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
+| 16 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 17 | [Raimondo](http://twitter.com/search?q=Raimondo) | Raimondo is an Italian given name derived from the Germanic name Raginmund, which means "wise protector". It is also a surname. |
+| 18 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 19 | [Maya](http://twitter.com/search?q=Maya) | N/A |
 | 20 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
 | 21 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 22 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
-| 23 | [buongiorno ale](http://twitter.com/search?q=buongiorno+ale) | N/A |
-| 24 | [La Pellegrini](http://twitter.com/search?q=La+Pellegrini) | N/A |
-| 25 | [buongiorno marco](http://twitter.com/search?q=buongiorno+marco) | N/A |
-| 26 | [NOVELLI SPOSI](http://twitter.com/search?q=NOVELLI+SPOSI) | N/A |
-| 27 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 28 | [Stefano Feltri](http://twitter.com/search?q=Stefano+Feltri) | N/A |
-| 29 | [Libano](http://twitter.com/search?q=Libano) | N/A |
-| 30 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
-| 31 | [Forza Presidente](http://twitter.com/search?q=Forza+Presidente) | N/A |
-| 32 | [buongiorno giusi](http://twitter.com/search?q=buongiorno+giusi) | N/A |
-| 33 | [Borgonovo](http://twitter.com/search?q=Borgonovo) | N/A |
-| 34 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 35 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 36 | [Tribuna Sud](http://twitter.com/search?q=Tribuna+Sud) | N/A |
-| 37 | [buongiorno luca](http://twitter.com/search?q=buongiorno+luca) | N/A |
-| 38 | [buongiorno giuseppe](http://twitter.com/search?q=buongiorno+giuseppe) | N/A |
-| 39 | [buongiorno francesco](http://twitter.com/search?q=buongiorno+francesco) | N/A |
-| 40 | [buongiorno vito](http://twitter.com/search?q=buongiorno+vito) | N/A |
-| 41 | [buongiorno antonio](http://twitter.com/search?q=buongiorno+antonio) | N/A |
-| 42 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 43 | [buongiorno silvia](http://twitter.com/search?q=buongiorno+silvia) | N/A |
-| 44 | [buongiorno roberto](http://twitter.com/search?q=buongiorno+roberto) | N/A |
-| 45 | [Fabrizio Corona](http://twitter.com/search?q=Fabrizio+Corona) | N/A |
-| 46 | [buongiorno emi](http://twitter.com/search?q=buongiorno+emi) | N/A |
-| 47 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 48 | [buongiorno monica](http://twitter.com/search?q=buongiorno+monica) | N/A |
-| 49 | [Investcorp](http://twitter.com/search?q=Investcorp) | N/A |
-| 50 | [buongiorno daniele](http://twitter.com/search?q=buongiorno+daniele) | N/A |
+| 22 | [buongiorno ale](http://twitter.com/search?q=buongiorno+ale) | N/A |
+| 23 | [buongiorno marco](http://twitter.com/search?q=buongiorno+marco) | N/A |
+| 24 | [Stefano Feltri](http://twitter.com/search?q=Stefano+Feltri) | N/A |
+| 25 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
+| 26 | [Libano](http://twitter.com/search?q=Libano) | N/A |
+| 27 | [buongiorno giusi](http://twitter.com/search?q=buongiorno+giusi) | N/A |
+| 28 | [Todaro](http://twitter.com/search?q=Todaro) | Todaro is an Italian surname. It is derived from the Latin word "todarius," which means "hunter." The name is most commonly found in the regions of Sicily and Calabria. In English, it can be translated to mean "hunter." |
+| 29 | [Tribuna Sud](http://twitter.com/search?q=Tribuna+Sud) | N/A |
+| 30 | [buongiorno luca](http://twitter.com/search?q=buongiorno+luca) | N/A |
+| 31 | [buongiorno giuseppe](http://twitter.com/search?q=buongiorno+giuseppe) | N/A |
+| 32 | [buongiorno francesco](http://twitter.com/search?q=buongiorno+francesco) | N/A |
+| 33 | [buongiorno vito](http://twitter.com/search?q=buongiorno+vito) | N/A |
+| 34 | [Forza Presidente](http://twitter.com/search?q=Forza+Presidente) | N/A |
+| 35 | [buongiorno antonio](http://twitter.com/search?q=buongiorno+antonio) | N/A |
+| 36 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 37 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 38 | [buongiorno silvia](http://twitter.com/search?q=buongiorno+silvia) | N/A |
+| 39 | [buongiorno roberto](http://twitter.com/search?q=buongiorno+roberto) | N/A |
+| 40 | [Fabrizio Corona](http://twitter.com/search?q=Fabrizio+Corona) | N/A |
+| 41 | [buongiorno emi](http://twitter.com/search?q=buongiorno+emi) | N/A |
+| 42 | [buongiorno monica](http://twitter.com/search?q=buongiorno+monica) | N/A |
+| 43 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 44 | [Investcorp](http://twitter.com/search?q=Investcorp) | N/A |
+| 45 | [buongiorno daniele](http://twitter.com/search?q=buongiorno+daniele) | N/A |
+| 46 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 47 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 48 | [Rocchi](http://twitter.com/search?q=Rocchi) | N/A |
+| 49 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
+| 50 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
 
 
 

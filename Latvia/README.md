@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-06 23:17:30 UTC`
+📆 Last Updated: `2023-04-07 00:26:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,31 +19,31 @@ This is top 50 for Latvia
 | 2 | [sarkandaugavas](http://twitter.com/search?q=sarkandaugavas) | N/A |
 | 3 | [kariņš](http://twitter.com/search?q=kari%c5%86%c5%a1) | N/A |
 | 4 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
-| 5 | [putinam](http://twitter.com/search?q=putinam) | N/A |
-| 6 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
-| 7 | [Pirms](http://twitter.com/search?q=Pirms) | N/A |
-| 8 | [ukrainai](http://twitter.com/search?q=ukrainai) | N/A |
+| 5 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
+| 6 | [Pirms](http://twitter.com/search?q=Pirms) | N/A |
+| 7 | [ukrainai](http://twitter.com/search?q=ukrainai) | N/A |
+| 8 | [Putinu](http://twitter.com/search?q=Putinu) | N/A |
 | 9 | [Laikam](http://twitter.com/search?q=Laikam) | N/A |
 | 10 | [Latvijas](http://twitter.com/search?q=Latvijas) | N/A |
 | 11 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 | 12 | [Inga](http://twitter.com/search?q=Inga) | N/A |
 | 13 | [#ēnudiena2023](http://twitter.com/search?q=%23%c4%93nudiena2023) | N/A |
-| 14 | [Tvaika](http://twitter.com/search?q=Tvaika) | N/A |
+| 14 | [tvaika](http://twitter.com/search?q=tvaika) | N/A |
 | 15 | [Igaunijas](http://twitter.com/search?q=Igaunijas) | N/A |
 | 16 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
-| 17 | [Starp](http://twitter.com/search?q=Starp) | N/A |
+| 17 | [starp](http://twitter.com/search?q=starp) | N/A |
 | 18 | [polijas](http://twitter.com/search?q=polijas) | N/A |
 | 19 | [rīgai](http://twitter.com/search?q=r%c4%abgai) | N/A |
-| 20 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
+| 20 | [neviens](http://twitter.com/search?q=neviens) | N/A |
 | 21 | [precīzi](http://twitter.com/search?q=prec%c4%abzi) | N/A |
 | 22 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
 | 23 | [Kādā](http://twitter.com/search?q=K%c4%81d%c4%81) | N/A |
 | 24 | [iespējams](http://twitter.com/search?q=iesp%c4%93jams) | N/A |
 | 25 | [Diez](http://twitter.com/search?q=Diez) | N/A |
 | 26 | [Šķiet](http://twitter.com/search?q=%c5%a0%c4%b7iet) | N/A |
-| 27 | [Saeimā](http://twitter.com/search?q=Saeim%c4%81) | N/A |
+| 27 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
 | 28 | [Levits](http://twitter.com/search?q=Levits) | N/A |
-| 29 | [Dievs](http://twitter.com/search?q=Dievs) | N/A |
+| 29 | [dievs](http://twitter.com/search?q=dievs) | N/A |
 | 30 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
 | 31 | [labdien](http://twitter.com/search?q=labdien) | N/A |
 | 32 | [atceros](http://twitter.com/search?q=atceros) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Latvia
 | 47 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
 | 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 49 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
-| 50 | [Vienotības](http://twitter.com/search?q=Vienot%c4%abbas) | N/A |
+| 50 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | N/A |
 
 
 

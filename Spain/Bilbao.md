@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-04-06 23:16:54 UTC`
+📆 Last Updated: `2023-04-07 00:26:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,49 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [#SVGala6](http://twitter.com/search?q=%23SVGala6) | N/A |
 | 2 | [Adara](http://twitter.com/search?q=Adara) | N/A |
-| 3 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
-| 4 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
-| 5 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
-| 6 | [Bollo](http://twitter.com/search?q=Bollo) | N/A |
-| 7 | [#LaCazaGuadiana](http://twitter.com/search?q=%23LaCazaGuadiana) | N/A |
-| 8 | [#LoQueDebePasar](http://twitter.com/search?q=%23LoQueDebePasar) | N/A |
-| 9 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
-| 10 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 11 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
+| 3 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
+| 4 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
+| 5 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
+| 6 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
+| 7 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
+| 8 | [Bollo](http://twitter.com/search?q=Bollo) | N/A |
+| 9 | [#LoQueDebePasar](http://twitter.com/search?q=%23LoQueDebePasar) | N/A |
+| 10 | [#LaCazaGuadiana](http://twitter.com/search?q=%23LaCazaGuadiana) | N/A |
+| 11 | [#LaMadrugáCSur](http://twitter.com/search?q=%23LaMadrug%c3%a1CSur) | N/A |
 | 12 | [#Horizonte](http://twitter.com/search?q=%23Horizonte) | N/A |
-| 13 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
+| 13 | [Artur](http://twitter.com/search?q=Artur) | N/A |
 | 14 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
 | 15 | [Tongo](http://twitter.com/search?q=Tongo) | N/A |
-| 16 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |
-| 17 | [Madrugá](http://twitter.com/search?q=Madrug%c3%a1) | N/A |
-| 18 | [Arelys](http://twitter.com/search?q=Arelys) | N/A |
-| 19 | [ENCHANTED TV](http://twitter.com/search?q=ENCHANTED+TV) | N/A |
-| 20 | [Ataman](http://twitter.com/search?q=Ataman) | N/A |
-| 21 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 22 | [Zalgiris](http://twitter.com/search?q=Zalgiris) | N/A |
-| 23 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
-| 24 | [Gran Poder](http://twitter.com/search?q=Gran+Poder) | N/A |
-| 25 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 26 | [Macarena](http://twitter.com/search?q=Macarena) | N/A |
-| 27 | [Virgen del Valle](http://twitter.com/search?q=Virgen+del+Valle) | N/A |
+| 16 | [Macarena](http://twitter.com/search?q=Macarena) | N/A |
+| 17 | [Arelys](http://twitter.com/search?q=Arelys) | N/A |
+| 18 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |
+| 19 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 20 | [Esperanza](http://twitter.com/search?q=Esperanza) | N/A |
+| 21 | [ENCHANTED TV](http://twitter.com/search?q=ENCHANTED+TV) | N/A |
+| 22 | [Gran Poder](http://twitter.com/search?q=Gran+Poder) | N/A |
+| 23 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 24 | [Ataman](http://twitter.com/search?q=Ataman) | N/A |
+| 25 | [Zalgiris](http://twitter.com/search?q=Zalgiris) | N/A |
+| 26 | [Triana](http://twitter.com/search?q=Triana) | N/A |
+| 27 | [Nazareno](http://twitter.com/search?q=Nazareno) | N/A |
 | 28 | [Efes](http://twitter.com/search?q=Efes) | N/A |
-| 29 | [Angelito](http://twitter.com/search?q=Angelito) | N/A |
-| 30 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 31 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 32 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
-| 33 | [Esperanza](http://twitter.com/search?q=Esperanza) | N/A |
-| 34 | [En Francia](http://twitter.com/search?q=En+Francia) | N/A |
-| 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 36 | [Nazareno](http://twitter.com/search?q=Nazareno) | N/A |
-| 37 | [BlackRock](http://twitter.com/search?q=BlackRock) | N/A |
-| 38 | [Triana](http://twitter.com/search?q=Triana) | N/A |
-| 39 | [Mario Bros](http://twitter.com/search?q=Mario+Bros) | N/A |
-| 40 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
-| 41 | [Carrera Oficial](http://twitter.com/search?q=Carrera+Oficial) | N/A |
-| 42 | [Primera División](http://twitter.com/search?q=Primera+Divisi%c3%b3n) | N/A |
-| 43 | [#Titanic](http://twitter.com/search?q=%23Titanic) | N/A |
-| 44 | [#Finalissima](http://twitter.com/search?q=%23Finalissima) | N/A |
-| 45 | [#EuroLeague](http://twitter.com/search?q=%23EuroLeague) | N/A |
-| 46 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
-| 47 | [#SemanaSantaTM](http://twitter.com/search?q=%23SemanaSantaTM) | N/A |
-| 48 | [#APOYOROCIO6A](http://twitter.com/search?q=%23APOYOROCIO6A) | N/A |
-| 49 | [#SSantaSevilla2023](http://twitter.com/search?q=%23SSantaSevilla2023) | N/A |
+| 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 30 | [Angelito](http://twitter.com/search?q=Angelito) | N/A |
+| 31 | [Rocío Carrasco](http://twitter.com/search?q=Roc%c3%ado+Carrasco) | N/A |
+| 32 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 33 | [En Francia](http://twitter.com/search?q=En+Francia) | N/A |
+| 34 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 35 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 36 | [Carrera Oficial](http://twitter.com/search?q=Carrera+Oficial) | N/A |
+| 37 | [Primera División](http://twitter.com/search?q=Primera+Divisi%c3%b3n) | N/A |
+| 38 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
+| 39 | [#APOYOROCIO7A](http://twitter.com/search?q=%23APOYOROCIO7A) | N/A |
+| 40 | [#Titanic](http://twitter.com/search?q=%23Titanic) | N/A |
+| 41 | [#SSantaSevilla2023](http://twitter.com/search?q=%23SSantaSevilla2023) | N/A |
+| 42 | [#Finalissima](http://twitter.com/search?q=%23Finalissima) | N/A |
+| 43 | [#SemanaSantaTM](http://twitter.com/search?q=%23SemanaSantaTM) | N/A |
+| 44 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
+| 45 | [#SSanta101tv](http://twitter.com/search?q=%23SSanta101tv) | N/A |
 
 
 
