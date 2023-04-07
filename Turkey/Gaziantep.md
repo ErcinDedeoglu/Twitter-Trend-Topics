@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-04-07 05:17:32 UTC`
+📆 Last Updated: `2023-04-07 06:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,27 +15,29 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SandığaGömülecekler](http://twitter.com/search?q=%23Sand%c4%b1%c4%9faG%c3%b6m%c3%bclecekler) | N/A |
-| 2 | [#Gazze](http://twitter.com/search?q=%23Gazze) | N/A |
-| 3 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 4 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 5 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
-| 6 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 7 | [#FilistindeZulümVar](http://twitter.com/search?q=%23FilistindeZul%c3%bcmVar) | N/A |
-| 8 | [GİDİCİSİN KEMAL](http://twitter.com/search?q=G%c4%b0D%c4%b0C%c4%b0S%c4%b0N+KEMAL) | N/A |
+| 1 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 2 | [#MahirAkkoyunSerbestBırakılsın](http://twitter.com/search?q=%23MahirAkkoyunSerbestB%c4%b1rak%c4%b1ls%c4%b1n) | N/A |
+| 3 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
+| 4 | [#Gazze](http://twitter.com/search?q=%23Gazze) | N/A |
+| 5 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 6 | [#TekDavamStaj](http://twitter.com/search?q=%23TekDavamStaj) | N/A |
+| 7 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
+| 8 | [7 Nisan](http://twitter.com/search?q=7+Nisan) | N/A |
 | 9 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
-| 10 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 11 | [Zalimler](http://twitter.com/search?q=Zalimler) | N/A |
-| 12 | [Osmaniye](http://twitter.com/search?q=Osmaniye) | N/A |
+| 10 | [Osmaniye](http://twitter.com/search?q=Osmaniye) | N/A |
+| 11 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
+| 12 | [GİDİCİSİN KEMAL](http://twitter.com/search?q=G%c4%b0D%c4%b0C%c4%b0S%c4%b0N+KEMAL) | N/A |
 | 13 | [Yahudi](http://twitter.com/search?q=Yahudi) | N/A |
 | 14 | [Ya Rab](http://twitter.com/search?q=Ya+Rab) | N/A |
-| 15 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
-| 16 | [#TekDavamStaj](http://twitter.com/search?q=%23TekDavamStaj) | N/A |
+| 15 | [#DünyaSağlıkGünü](http://twitter.com/search?q=%23D%c3%bcnyaSa%c4%9fl%c4%b1kG%c3%bcn%c3%bc) | N/A |
+| 16 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
 | 17 | [#Lübnan](http://twitter.com/search?q=%23L%c3%bcbnan) | N/A |
-| 18 | [#KudusBizimdir](http://twitter.com/search?q=%23KudusBizimdir) | N/A |
-| 19 | [#Palestine](http://twitter.com/search?q=%23Palestine) | N/A |
-| 20 | [#milletvekili](http://twitter.com/search?q=%23milletvekili) | N/A |
-| 21 | [#MescidiAksadakatliamvar](http://twitter.com/search?q=%23MescidiAksadakatliamvar) | N/A |
+| 18 | [#FilistindeZulümVar](http://twitter.com/search?q=%23FilistindeZul%c3%bcmVar) | N/A |
+| 19 | [#KudusBizimdir](http://twitter.com/search?q=%23KudusBizimdir) | N/A |
+| 20 | [#DolarTL](http://twitter.com/search?q=%23DolarTL) | N/A |
+| 21 | [#FreePalestine](http://twitter.com/search?q=%23FreePalestine) | N/A |
+| 22 | [#Milletvekili](http://twitter.com/search?q=%23Milletvekili) | N/A |
+| 23 | [#mescidiaksayasahipcik](http://twitter.com/search?q=%23mescidiaksayasahipcik) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-04-07 05:17:36 UTC`
+📆 Last Updated: `2023-04-07 06:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TimeToHunt](http://twitter.com/search?q=%23TimeToHunt) | N/A |
-| 2 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 3 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 4 | [#HEATCulture](http://twitter.com/search?q=%23HEATCulture) | N/A |
-| 5 | [Alex Lyon](http://twitter.com/search?q=Alex+Lyon) | N/A |
-| 6 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 7 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 8 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 9 | [BILLIONS](http://twitter.com/search?q=BILLIONS) | N/A |
-| 10 | [Lightning](http://twitter.com/search?q=Lightning) | N/A |
-| 11 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
-| 12 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 13 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 14 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 15 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 16 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 17 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 18 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
-| 19 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 20 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 21 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 22 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 23 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
-| 24 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 25 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
-| 26 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 27 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 28 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
-| 29 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
-| 30 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
-| 31 | [Bruce Brown](http://twitter.com/search?q=Bruce+Brown) | N/A |
-| 32 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 33 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 1 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 2 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 4 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 5 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 6 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 7 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 8 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 9 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 10 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 11 | [#PowerBook2](http://twitter.com/search?q=%23PowerBook2) | N/A |
+| 12 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 13 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 14 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 15 | [Search & Rescue](http://twitter.com/search?q=Search+%26+Rescue) | N/A |
+| 16 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
+| 17 | [yoongis](http://twitter.com/search?q=yoongis) | Yoongis is a Korean name meaning "eternal" or "forever". |
+| 18 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 19 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 20 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 21 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 22 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
+| 23 | [Dustin May](http://twitter.com/search?q=Dustin+May) | N/A |
+| 24 | [Mikko](http://twitter.com/search?q=Mikko) | N/A |
+| 25 | [yachty](http://twitter.com/search?q=yachty) | Yachty is a slang term used to describe someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who has an extravagant lifestyle. |
+| 26 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 27 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
+| 28 | [Bruce Brown](http://twitter.com/search?q=Bruce+Brown) | N/A |
+| 29 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
+| 30 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
+| 31 | [ot12](http://twitter.com/search?q=ot12) | N/A |
+| 32 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 33 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
 | 34 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 35 | [Rae Sremmurd](http://twitter.com/search?q=Rae+Sremmurd) | N/A |
-| 36 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
-| 37 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 38 | [Bickford](http://twitter.com/search?q=Bickford) | N/A |
-| 39 | [ot12](http://twitter.com/search?q=ot12) | N/A |
-| 40 | [Evan Phillips](http://twitter.com/search?q=Evan+Phillips) | N/A |
-| 41 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 42 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
-| 43 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 44 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
-| 45 | [Christian Braun](http://twitter.com/search?q=Christian+Braun) | N/A |
-| 46 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 35 | [Evan Phillips](http://twitter.com/search?q=Evan+Phillips) | N/A |
+| 36 | [Bickford](http://twitter.com/search?q=Bickford) | N/A |
+| 37 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
+| 38 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 39 | [Christian Braun](http://twitter.com/search?q=Christian+Braun) | N/A |
+| 40 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 41 | [Sremm 4 Life](http://twitter.com/search?q=Sremm+4+Life) | N/A |
+| 42 | [Justins](http://twitter.com/search?q=Justins) | N/A |
+| 43 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 44 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 45 | [Whitman](http://twitter.com/search?q=Whitman) | N/A |
+| 46 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
 | 47 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 48 | [Justins](http://twitter.com/search?q=Justins) | N/A |
-| 49 | [Ben Meyers](http://twitter.com/search?q=Ben+Meyers) | N/A |
-| 50 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 48 | [Ben Meyers](http://twitter.com/search?q=Ben+Meyers) | N/A |
+| 49 | [Money Trees](http://twitter.com/search?q=Money+Trees) | N/A |
+| 50 | [TN GOP](http://twitter.com/search?q=TN+GOP) | N/A |
 
 
 

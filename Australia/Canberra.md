@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-07 05:17:17 UTC`
+📆 Last Updated: `2023-04-07 06:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 2 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 3 | [#AFLLionsPies](http://twitter.com/search?q=%23AFLLionsPies) | N/A |
-| 4 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 5 | [#NRLStormRoosters](http://twitter.com/search?q=%23NRLStormRoosters) | N/A |
-| 6 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
+| 4 | [#NRLBulldogsSouths](http://twitter.com/search?q=%23NRLBulldogsSouths) | N/A |
+| 5 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 6 | [#AFLNorthBlues](http://twitter.com/search?q=%23AFLNorthBlues) | N/A |
 | 7 | [Noel Pearson](http://twitter.com/search?q=Noel+Pearson) | N/A |
-| 8 | [#VoteYes](http://twitter.com/search?q=%23VoteYes) | N/A |
+| 8 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
 | 9 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 10 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 11 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 10 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 11 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
 | 12 | [Daicos](http://twitter.com/search?q=Daicos) | N/A |
-| 13 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
-| 14 | [Karalee Rocks](http://twitter.com/search?q=Karalee+Rocks) | N/A |
-| 15 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
+| 13 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
+| 14 | [Aboriginal](http://twitter.com/search?q=Aboriginal) | N/A |
+| 15 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
 | 16 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
-| 17 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
-| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 19 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
-| 20 | [Canberra Voice](http://twitter.com/search?q=Canberra+Voice) | N/A |
-| 21 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 22 | [Radley](http://twitter.com/search?q=Radley) | N/A |
-| 23 | [HECS](http://twitter.com/search?q=HECS) | N/A |
-| 24 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
-| 25 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 26 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 27 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 28 | [James Morrow](http://twitter.com/search?q=James+Morrow) | N/A |
-| 29 | [Brisbane](http://twitter.com/search?q=Brisbane) | N/A |
-| 30 | [Linda Reynolds](http://twitter.com/search?q=Linda+Reynolds) | N/A |
-| 31 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 32 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 33 | [Charlie Cameron](http://twitter.com/search?q=Charlie+Cameron) | N/A |
-| 34 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 35 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 36 | [Fred Chaney](http://twitter.com/search?q=Fred+Chaney) | N/A |
-| 37 | [Uluru Statement](http://twitter.com/search?q=Uluru+Statement) | N/A |
-| 38 | [Tehan](http://twitter.com/search?q=Tehan) | N/A |
-| 39 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 40 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 41 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
-| 42 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
-| 43 | [Lehrmann](http://twitter.com/search?q=Lehrmann) | N/A |
-| 44 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
-| 45 | [senator dodson](http://twitter.com/search?q=senator+dodson) | N/A |
-| 46 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 47 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 48 | [Bethany](http://twitter.com/search?q=Bethany) | N/A |
+| 17 | [Marcia Langton](http://twitter.com/search?q=Marcia+Langton) | N/A |
+| 18 | [Canberra Voice](http://twitter.com/search?q=Canberra+Voice) | N/A |
+| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 20 | [HECS](http://twitter.com/search?q=HECS) | N/A |
+| 21 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 22 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 23 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 24 | [Radley](http://twitter.com/search?q=Radley) | N/A |
+| 25 | [First Nations](http://twitter.com/search?q=First+Nations) | N/A |
+| 26 | [James Morrow](http://twitter.com/search?q=James+Morrow) | N/A |
+| 27 | [Brisbane](http://twitter.com/search?q=Brisbane) | N/A |
+| 28 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 29 | [Charlie Cameron](http://twitter.com/search?q=Charlie+Cameron) | N/A |
+| 30 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 31 | [Uluru Statement](http://twitter.com/search?q=Uluru+Statement) | N/A |
+| 32 | [Linda Reynolds](http://twitter.com/search?q=Linda+Reynolds) | N/A |
+| 33 | [Fred Chaney](http://twitter.com/search?q=Fred+Chaney) | N/A |
+| 34 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 35 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
+| 36 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 37 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
+| 38 | [Bethany](http://twitter.com/search?q=Bethany) | N/A |
+| 39 | [Lehrmann](http://twitter.com/search?q=Lehrmann) | N/A |
+| 40 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
+| 41 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 42 | [senator dodson](http://twitter.com/search?q=senator+dodson) | N/A |
+| 43 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 44 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 45 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 46 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 47 | [Tehan](http://twitter.com/search?q=Tehan) | N/A |
+| 48 | [Grundy](http://twitter.com/search?q=Grundy) | N/A |
 
 
 

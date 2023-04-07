@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-04-07 05:17:15 UTC`
+📆 Last Updated: `2023-04-07 06:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,10 +15,10 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 2 | [Viktor](http://twitter.com/search?q=Viktor) | N/A |
-| 3 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 4 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 1 | [Viktor](http://twitter.com/search?q=Viktor) | N/A |
+| 2 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 3 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 4 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 5 | [Brannvesenet](http://twitter.com/search?q=Brannvesenet) | N/A |
 | 6 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
 | 7 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
@@ -46,25 +46,25 @@ This is top 50 for [Norway](</Norway>)
 | 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 30 | [London](http://twitter.com/search?q=London) | N/A |
 | 31 | [LYKKE](http://twitter.com/search?q=LYKKE) | N/A |
-| 32 | [Husker](http://twitter.com/search?q=Husker) | N/A |
-| 33 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 34 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 35 | [sarpsborg 08](http://twitter.com/search?q=sarpsborg+08) | N/A |
-| 36 | [Asker](http://twitter.com/search?q=Asker) | N/A |
-| 37 | [syns](http://twitter.com/search?q=syns) | N/A |
-| 38 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 39 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
-| 40 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 41 | [måtte](http://twitter.com/search?q=m%c3%a5tte) | N/A |
-| 42 | [sovjetunionen](http://twitter.com/search?q=sovjetunionen) | N/A |
-| 43 | [Scandinavia](http://twitter.com/search?q=Scandinavia) | N/A |
-| 44 | [vesten](http://twitter.com/search?q=vesten) | N/A |
-| 45 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 46 | [molde](http://twitter.com/search?q=molde) | N/A |
-| 47 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 48 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
-| 49 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 50 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 32 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 33 | [sarpsborg 08](http://twitter.com/search?q=sarpsborg+08) | N/A |
+| 34 | [Asker](http://twitter.com/search?q=Asker) | N/A |
+| 35 | [syns](http://twitter.com/search?q=syns) | N/A |
+| 36 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 37 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 38 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
+| 39 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 40 | [måtte](http://twitter.com/search?q=m%c3%a5tte) | N/A |
+| 41 | [sovjetunionen](http://twitter.com/search?q=sovjetunionen) | N/A |
+| 42 | [Scandinavia](http://twitter.com/search?q=Scandinavia) | N/A |
+| 43 | [vesten](http://twitter.com/search?q=vesten) | N/A |
+| 44 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 45 | [Molde](http://twitter.com/search?q=Molde) | N/A |
+| 46 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 47 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 49 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 50 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 
 
 

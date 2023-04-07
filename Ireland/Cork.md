@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-04-07 05:17:08 UTC`
+📆 Last Updated: `2023-04-07 06:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,31 +24,31 @@ This is top 50 for [Ireland](</Ireland>)
 | 7 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 8 | [Nora](http://twitter.com/search?q=Nora) | N/A |
 | 9 | [#dbfreebie](http://twitter.com/search?q=%23dbfreebie) | N/A |
-| 10 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 11 | [#teamcallaway](http://twitter.com/search?q=%23teamcallaway) | N/A |
-| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 13 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 14 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 15 | [McIlroy](http://twitter.com/search?q=McIlroy) | N/A |
-| 16 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 17 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
-| 18 | [Lorcan Tucker](http://twitter.com/search?q=Lorcan+Tucker) | N/A |
-| 19 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
-| 20 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 21 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 22 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 23 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
-| 24 | [peter kay](http://twitter.com/search?q=peter+kay) | N/A |
-| 25 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 26 | [seamus power](http://twitter.com/search?q=seamus+power) | N/A |
-| 27 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 28 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 29 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
-| 30 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 31 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 32 | [Aer lingus](http://twitter.com/search?q=Aer+lingus) | N/A |
-| 33 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 34 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
+| 10 | [#teamcallaway](http://twitter.com/search?q=%23teamcallaway) | N/A |
+| 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 12 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 13 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 14 | [Mcilroy](http://twitter.com/search?q=Mcilroy) | N/A |
+| 15 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 16 | [Lorcan Tucker](http://twitter.com/search?q=Lorcan+Tucker) | N/A |
+| 17 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 18 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 19 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 20 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 21 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 22 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 23 | [peter kay](http://twitter.com/search?q=peter+kay) | N/A |
+| 24 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 25 | [seamus power](http://twitter.com/search?q=seamus+power) | N/A |
+| 26 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 27 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 28 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
+| 29 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 30 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 31 | [Aer lingus](http://twitter.com/search?q=Aer+lingus) | N/A |
+| 32 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 33 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 34 | [dundalk](http://twitter.com/search?q=dundalk) | N/A |
 | 35 | [Killarney](http://twitter.com/search?q=Killarney) | N/A |
 | 36 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 37 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
@@ -56,12 +56,12 @@ This is top 50 for [Ireland](</Ireland>)
 | 39 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 40 | [Citizens](http://twitter.com/search?q=Citizens) | N/A |
 | 41 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 42 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 43 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 44 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
-| 45 | [Fascists](http://twitter.com/search?q=Fascists) | N/A |
-| 46 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 47 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 42 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 43 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
+| 44 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 45 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 46 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 47 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
 | 48 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-04-07 05:17:44 UTC`
+📆 Last Updated: `2023-04-07 06:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,36 +23,43 @@ This is top 50 for Indonesia
 | 6 | [#LengkapiCintadanKebaikan](http://twitter.com/search?q=%23LengkapiCintadanKebaikan) | N/A |
 | 7 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 8 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 9 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
-| 10 | [Na PD](http://twitter.com/search?q=Na+PD) | N/A |
+| 9 | [Na PD](http://twitter.com/search?q=Na+PD) | N/A |
+| 10 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
 | 11 | [Isa Almasih](http://twitter.com/search?q=Isa+Almasih) | N/A |
 | 12 | [Baeksang](http://twitter.com/search?q=Baeksang) | N/A |
-| 13 | [Yesus Kristus](http://twitter.com/search?q=Yesus+Kristus) | N/A |
-| 14 | [Little Women](http://twitter.com/search?q=Little+Women) | N/A |
-| 15 | [Dibonceng](http://twitter.com/search?q=Dibonceng) | N/A |
-| 16 | [Semoga Tuhan](http://twitter.com/search?q=Semoga+Tuhan) | N/A |
-| 17 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 18 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 19 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 20 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 21 | [Libur](http://twitter.com/search?q=Libur) | N/A |
-| 22 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 23 | [Katolik](http://twitter.com/search?q=Katolik) | N/A |
-| 24 | [Gereja](http://twitter.com/search?q=Gereja) | N/A |
-| 25 | [EXO 11th Anniversary](http://twitter.com/search?q=EXO+11th+Anniversary) | N/A |
-| 26 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
-| 27 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
-| 28 | [#MONEY800MYTViews](http://twitter.com/search?q=%23MONEY800MYTViews) | N/A |
-| 29 | [#BreakingNews](http://twitter.com/search?q=%23BreakingNews) | N/A |
-| 30 | [#Paskah](http://twitter.com/search?q=%23Paskah) | N/A |
-| 31 | [#LALISAMV600M](http://twitter.com/search?q=%23LALISAMV600M) | N/A |
-| 32 | [#RamadhanDay16](http://twitter.com/search?q=%23RamadhanDay16) | N/A |
-| 33 | [#TemanPemilih](http://twitter.com/search?q=%23TemanPemilih) | N/A |
-| 34 | [#illustration](http://twitter.com/search?q=%23illustration) | N/A |
-| 35 | [#KPUMelayani](http://twitter.com/search?q=%23KPUMelayani) | N/A |
-| 36 | [#ShopeeSyantik](http://twitter.com/search?q=%23ShopeeSyantik) | N/A |
-| 37 | [#BangkitBersamaET](http://twitter.com/search?q=%23BangkitBersamaET) | N/A |
-| 38 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
+| 13 | [Hari Kesehatan Sedunia](http://twitter.com/search?q=Hari+Kesehatan+Sedunia) | N/A |
+| 14 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 15 | [kylie](http://twitter.com/search?q=kylie) | N/A |
+| 16 | [Hijau](http://twitter.com/search?q=Hijau) | N/A |
+| 17 | [Little Women](http://twitter.com/search?q=Little+Women) | N/A |
+| 18 | [Yesus Kristus](http://twitter.com/search?q=Yesus+Kristus) | N/A |
+| 19 | [Dibonceng](http://twitter.com/search?q=Dibonceng) | N/A |
+| 20 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
+| 21 | [Kakek](http://twitter.com/search?q=Kakek) | N/A |
+| 22 | [Semoga Tuhan](http://twitter.com/search?q=Semoga+Tuhan) | N/A |
+| 23 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 24 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 25 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 26 | [Paskah](http://twitter.com/search?q=Paskah) | N/A |
+| 27 | [Libur](http://twitter.com/search?q=Libur) | N/A |
+| 28 | [Iris](http://twitter.com/search?q=Iris) | N/A |
+| 29 | [EXO 11th Anniversary](http://twitter.com/search?q=EXO+11th+Anniversary) | N/A |
+| 30 | [Gereja](http://twitter.com/search?q=Gereja) | N/A |
+| 31 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
+| 32 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
+| 33 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
+| 34 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
+| 35 | [#D1_EXOAnniversary](http://twitter.com/search?q=%23D1_EXOAnniversary) | N/A |
+| 36 | [#weareoneEXO](http://twitter.com/search?q=%23weareoneEXO) | N/A |
+| 37 | [#MONEY800MYTViews](http://twitter.com/search?q=%23MONEY800MYTViews) | N/A |
+| 38 | [#beckysangels](http://twitter.com/search?q=%23beckysangels) | N/A |
+| 39 | [#BreakingNews](http://twitter.com/search?q=%23BreakingNews) | N/A |
+| 40 | [#LALISAMV600M](http://twitter.com/search?q=%23LALISAMV600M) | N/A |
+| 41 | [#ShopeeSyantik](http://twitter.com/search?q=%23ShopeeSyantik) | N/A |
+| 42 | [#TemanPemilih](http://twitter.com/search?q=%23TemanPemilih) | N/A |
+| 43 | [#KPUMelayani](http://twitter.com/search?q=%23KPUMelayani) | N/A |
+| 44 | [#BangkitBersamaET](http://twitter.com/search?q=%23BangkitBersamaET) | N/A |
+| 45 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
 
 
 

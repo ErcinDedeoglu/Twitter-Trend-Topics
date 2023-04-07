@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-04-07 05:17:11 UTC`
+📆 Last Updated: `2023-04-07 06:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
-| 2 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 3 | [#7aprile](http://twitter.com/search?q=%237aprile) | N/A |
-| 4 | [#corvispace](http://twitter.com/search?q=%23corvispace) | N/A |
-| 5 | [#PECHINOEXPRESS](http://twitter.com/search?q=%23PECHINOEXPRESS) | N/A |
-| 6 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 7 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 8 | [Venerdì Santo](http://twitter.com/search?q=Venerd%c3%ac+Santo) | N/A |
+| 1 | [#7aprile](http://twitter.com/search?q=%237aprile) | N/A |
+| 2 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
+| 3 | [#corvispace](http://twitter.com/search?q=%23corvispace) | N/A |
+| 4 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 5 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
+| 6 | [Venerdì Santo](http://twitter.com/search?q=Venerd%c3%ac+Santo) | N/A |
+| 7 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 8 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
 | 9 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 10 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 12 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 13 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 14 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
-| 15 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
-| 16 | [raimondo](http://twitter.com/search?q=raimondo) | N/A |
-| 17 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 18 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 19 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 20 | [Stefano Feltri](http://twitter.com/search?q=Stefano+Feltri) | N/A |
-| 21 | [Libano](http://twitter.com/search?q=Libano) | N/A |
-| 22 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 23 | [Todaro](http://twitter.com/search?q=Todaro) | Todaro is an Italian surname. It is derived from the Latin word "todarius," which means "hunter." The name is most commonly found in the regions of Sicily and Calabria. In English, it can be translated to mean "hunter." |
-| 24 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
-| 25 | [tribuna sud](http://twitter.com/search?q=tribuna+sud) | N/A |
-| 26 | [L'Aquila](http://twitter.com/search?q=L%27Aquila) | N/A |
-| 27 | [fabrizio corona](http://twitter.com/search?q=fabrizio+corona) | N/A |
-| 28 | [FORZA PRESIDENTE](http://twitter.com/search?q=FORZA+PRESIDENTE) | N/A |
-| 29 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 30 | [rocchi](http://twitter.com/search?q=rocchi) | N/A |
-| 31 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 32 | [rebic](http://twitter.com/search?q=rebic) | N/A |
-| 33 | [victoria cabello](http://twitter.com/search?q=victoria+cabello) | N/A |
-| 34 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 35 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 36 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 37 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 38 | [Montagnier](http://twitter.com/search?q=Montagnier) | N/A |
-| 39 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
-| 40 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 41 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 42 | [Baccin](http://twitter.com/search?q=Baccin) | N/A |
-| 43 | [Gasparri](http://twitter.com/search?q=Gasparri) | N/A |
-| 44 | [Piantedosi](http://twitter.com/search?q=Piantedosi) | N/A |
-| 45 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 46 | [Buongiorno Regina](http://twitter.com/search?q=Buongiorno+Regina) | N/A |
-| 47 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 48 | [Ave Maria](http://twitter.com/search?q=Ave+Maria) | N/A |
-| 49 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 50 | [Buongiorno Marco](http://twitter.com/search?q=Buongiorno+Marco) | N/A |
+| 10 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
+| 11 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 13 | [Riformista](http://twitter.com/search?q=Riformista) | N/A |
+| 14 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 15 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 16 | [Buongiorno Sergio](http://twitter.com/search?q=Buongiorno+Sergio) | N/A |
+| 17 | [Raimondo](http://twitter.com/search?q=Raimondo) | Raimondo is an Italian given name derived from the Germanic name Raginmund, which means "wise protector". It is also a surname. |
+| 18 | [MATTIA](http://twitter.com/search?q=MATTIA) | N/A |
+| 19 | [Buongiorno Ettore](http://twitter.com/search?q=Buongiorno+Ettore) | N/A |
+| 20 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 21 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
+| 22 | [Regina](http://twitter.com/search?q=Regina) | N/A |
+| 23 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
+| 24 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 25 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 26 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 27 | [Libano](http://twitter.com/search?q=Libano) | N/A |
+| 28 | [Stefano Feltri](http://twitter.com/search?q=Stefano+Feltri) | N/A |
+| 29 | [tribuna sud](http://twitter.com/search?q=tribuna+sud) | N/A |
+| 30 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 31 | [Todaro](http://twitter.com/search?q=Todaro) | Todaro is an Italian surname. It is derived from the Latin word "todarius," which means "hunter." The name is most commonly found in the regions of Sicily and Calabria. In English, it can be translated to mean "hunter." |
+| 32 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 33 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 34 | [FORZA PRESIDENTE](http://twitter.com/search?q=FORZA+PRESIDENTE) | N/A |
+| 35 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 36 | [Buongiorno Roby](http://twitter.com/search?q=Buongiorno+Roby) | N/A |
+| 37 | [rocchi](http://twitter.com/search?q=rocchi) | N/A |
+| 38 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 39 | [Montagnier](http://twitter.com/search?q=Montagnier) | N/A |
+| 40 | [victoria cabello](http://twitter.com/search?q=victoria+cabello) | N/A |
+| 41 | [Vauro](http://twitter.com/search?q=Vauro) | N/A |
+| 42 | [Buongiorno Valentina](http://twitter.com/search?q=Buongiorno+Valentina) | N/A |
+| 43 | [Buongiorno Gerardina](http://twitter.com/search?q=Buongiorno+Gerardina) | N/A |
+| 44 | [Fabrizio Corona](http://twitter.com/search?q=Fabrizio+Corona) | N/A |
+| 45 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 46 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 47 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 48 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 49 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 50 | [Ave Maria](http://twitter.com/search?q=Ave+Maria) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-04-07 05:17:00 UTC`
+📆 Last Updated: `2023-04-07 06:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,23 +23,23 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 6 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
 | 7 | [#SS2023](http://twitter.com/search?q=%23SS2023) | N/A |
 | 8 | [El Seibo](http://twitter.com/search?q=El+Seibo) | N/A |
-| 9 | [#concienciaporlavida](http://twitter.com/search?q=%23concienciaporlavida) | N/A |
-| 10 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 11 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 12 | [Jarabacoa](http://twitter.com/search?q=Jarabacoa) | N/A |
-| 13 | [Arajet](http://twitter.com/search?q=Arajet) | N/A |
-| 14 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 15 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
-| 16 | [Terrenas](http://twitter.com/search?q=Terrenas) | N/A |
-| 17 | [Líbano](http://twitter.com/search?q=L%c3%adbano) | N/A |
-| 18 | [Tatis](http://twitter.com/search?q=Tatis) | N/A |
-| 19 | [Boca Chica](http://twitter.com/search?q=Boca+Chica) | N/A |
-| 20 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
-| 21 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 22 | [#diadelperiodista](http://twitter.com/search?q=%23diadelperiodista) | N/A |
-| 23 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
-| 24 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 25 | [Digesett](http://twitter.com/search?q=Digesett) | N/A |
+| 9 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 10 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 11 | [Arajet](http://twitter.com/search?q=Arajet) | N/A |
+| 12 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 13 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
+| 14 | [Terrenas](http://twitter.com/search?q=Terrenas) | N/A |
+| 15 | [Líbano](http://twitter.com/search?q=L%c3%adbano) | N/A |
+| 16 | [#ConcienciaPorLaVida](http://twitter.com/search?q=%23ConcienciaPorLaVida) | N/A |
+| 17 | [Tatis](http://twitter.com/search?q=Tatis) | N/A |
+| 18 | [Boca Chica](http://twitter.com/search?q=Boca+Chica) | N/A |
+| 19 | [Andrés García](http://twitter.com/search?q=Andr%c3%a9s+Garc%c3%ada) | N/A |
+| 20 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 21 | [#diadelperiodista](http://twitter.com/search?q=%23diadelperiodista) | N/A |
+| 22 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 23 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 24 | [digesett](http://twitter.com/search?q=digesett) | N/A |
+| 25 | [Jarabacoa](http://twitter.com/search?q=Jarabacoa) | N/A |
 | 26 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
 | 27 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 28 | [día nacional del psicólogo](http://twitter.com/search?q=d%c3%ada+nacional+del+psic%c3%b3logo) | N/A |
@@ -62,8 +62,8 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 45 | [Vladimir Guerrero Jr.](http://twitter.com/search?q=Vladimir+Guerrero+Jr.) | N/A |
 | 46 | [Jaime David](http://twitter.com/search?q=Jaime+David) | N/A |
 | 47 | [san pedro de macorís](http://twitter.com/search?q=san+pedro+de+macor%c3%ads) | N/A |
-| 48 | [Samaná](http://twitter.com/search?q=Saman%c3%a1) | N/A |
-| 49 | [el penco](http://twitter.com/search?q=el+penco) | N/A |
+| 48 | [el penco](http://twitter.com/search?q=el+penco) | N/A |
+| 49 | [Samaná](http://twitter.com/search?q=Saman%c3%a1) | N/A |
 | 50 | [Triduo Pascual](http://twitter.com/search?q=Triduo+Pascual) | N/A |
 
 
