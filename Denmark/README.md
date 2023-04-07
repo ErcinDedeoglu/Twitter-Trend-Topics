@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-07 21:17:46 UTC`
+📆 Last Updated: `2023-04-07 22:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,32 +15,32 @@ This is top 50 for Denmark
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#vbfck](http://twitter.com/search?q=%23vbfck) | N/A |
-| 2 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 3 | [#dbupokalen](http://twitter.com/search?q=%23dbupokalen) | N/A |
+| 1 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 2 | [#dbupokalen](http://twitter.com/search?q=%23dbupokalen) | N/A |
+| 3 | [vejle](http://twitter.com/search?q=vejle) | N/A |
 | 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 6 | [vejle](http://twitter.com/search?q=vejle) | N/A |
-| 7 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 8 | [Gorm](http://twitter.com/search?q=Gorm) | N/A |
-| 9 | [#superaab](http://twitter.com/search?q=%23superaab) | N/A |
-| 10 | [Parken](http://twitter.com/search?q=Parken) | N/A |
-| 11 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 12 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 13 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 14 | [Fedt](http://twitter.com/search?q=Fedt) | N/A |
-| 15 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 16 | [#VTuberUprising](http://twitter.com/search?q=%23VTuberUprising) | N/A |
-| 17 | [Langfredag](http://twitter.com/search?q=Langfredag) | N/A |
-| 18 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 19 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 20 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 21 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 22 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 23 | [Randers](http://twitter.com/search?q=Randers) | N/A |
-| 24 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 25 | [enhedslisten](http://twitter.com/search?q=enhedslisten) | N/A |
-| 26 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
+| 5 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 6 | [Gorm](http://twitter.com/search?q=Gorm) | N/A |
+| 7 | [#superaab](http://twitter.com/search?q=%23superaab) | N/A |
+| 8 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 9 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 10 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 12 | [Fedt](http://twitter.com/search?q=Fedt) | N/A |
+| 13 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 14 | [#VTuberUprising](http://twitter.com/search?q=%23VTuberUprising) | N/A |
+| 15 | [Langfredag](http://twitter.com/search?q=Langfredag) | N/A |
+| 16 | [#twitterhjerne](http://twitter.com/search?q=%23twitterhjerne) | N/A |
+| 17 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 18 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 19 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 20 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 21 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 22 | [Randers](http://twitter.com/search?q=Randers) | N/A |
+| 23 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 24 | [enhedslisten](http://twitter.com/search?q=enhedslisten) | N/A |
+| 25 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
+| 26 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 28 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
 | 29 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for Denmark
 | 32 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 33 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
 | 34 | [Østrig](http://twitter.com/search?q=%c3%98strig) | N/A |
-| 35 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 35 | [Parken](http://twitter.com/search?q=Parken) | N/A |
 | 36 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
 | 37 | [Kæft](http://twitter.com/search?q=K%c3%a6ft) | N/A |
 | 38 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 39 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 40 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 41 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 42 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 43 | [Heldigvis](http://twitter.com/search?q=Heldigvis) | N/A |
-| 44 | [Påske](http://twitter.com/search?q=P%c3%a5ske) | N/A |
-| 45 | [Hvilket](http://twitter.com/search?q=Hvilket) | N/A |
-| 46 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 47 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 48 | [Farum](http://twitter.com/search?q=Farum) | N/A |
-| 49 | [Siger](http://twitter.com/search?q=Siger) | N/A |
-| 50 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 39 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 40 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 41 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 42 | [Heldigvis](http://twitter.com/search?q=Heldigvis) | N/A |
+| 43 | [påske](http://twitter.com/search?q=p%c3%a5ske) | N/A |
+| 44 | [hvilket](http://twitter.com/search?q=hvilket) | N/A |
+| 45 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
+| 46 | [farum](http://twitter.com/search?q=farum) | N/A |
+| 47 | [Siger](http://twitter.com/search?q=Siger) | N/A |
+| 48 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 49 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 50 | [Silkeborg](http://twitter.com/search?q=Silkeborg) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-07 21:17:43 UTC`
+📆 Last Updated: `2023-04-07 22:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
 | 2 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 3 | [Sol Blume](http://twitter.com/search?q=Sol+Blume) | N/A |
-| 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 5 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
-| 6 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 7 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 8 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 9 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 10 | [SFSU](http://twitter.com/search?q=SFSU) | N/A |
-| 11 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 12 | [Clone Wars](http://twitter.com/search?q=Clone+Wars) | N/A |
-| 13 | [LAPD](http://twitter.com/search?q=LAPD) | N/A |
-| 14 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
-| 15 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
-| 16 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 17 | [Dreamhack](http://twitter.com/search?q=Dreamhack) | N/A |
-| 18 | [Indy](http://twitter.com/search?q=Indy) | N/A |
-| 19 | [Crow](http://twitter.com/search?q=Crow) | N/A |
-| 20 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 21 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 22 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 25 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 26 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
-| 27 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
-| 28 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 29 | [Franchy](http://twitter.com/search?q=Franchy) | N/A |
-| 30 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
-| 31 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
-| 32 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 33 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 34 | [Laura Loomer](http://twitter.com/search?q=Laura+Loomer) | N/A |
-| 35 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 36 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 37 | [Big Jeff](http://twitter.com/search?q=Big+Jeff) | N/A |
-| 38 | [Cutch](http://twitter.com/search?q=Cutch) | Cutch is a slang term for cocaine. It is derived from the word "cocaine" and is often used to refer to the drug in a casual or informal setting. |
-| 39 | [BRYSON TILLER](http://twitter.com/search?q=BRYSON+TILLER) | N/A |
-| 40 | [Tostada](http://twitter.com/search?q=Tostada) | N/A |
-| 41 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 42 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 43 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 44 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 45 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
-| 46 | [Jake Burger](http://twitter.com/search?q=Jake+Burger) | N/A |
-| 47 | [Ian Hamilton](http://twitter.com/search?q=Ian+Hamilton) | N/A |
-| 48 | [Richie James](http://twitter.com/search?q=Richie+James) | Richie James is a nickname given to the American football player Richie James Jr., who currently plays for the San Francisco 49ers. The name is derived from his first and last names. In English, it means "Richie James Junior". |
-| 49 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 50 | [Oswaldo](http://twitter.com/search?q=Oswaldo) | N/A |
+| 3 | [#pursuit](http://twitter.com/search?q=%23pursuit) | N/A |
+| 4 | [Sol Blume](http://twitter.com/search?q=Sol+Blume) | N/A |
+| 5 | [SFSU](http://twitter.com/search?q=SFSU) | N/A |
+| 6 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 7 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 8 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 9 | [Masters](http://twitter.com/search?q=Masters) | N/A |
+| 10 | [Twitter Files](http://twitter.com/search?q=Twitter+Files) | N/A |
+| 11 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
+| 12 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 13 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 14 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
+| 15 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
+| 16 | [LAPD](http://twitter.com/search?q=LAPD) | N/A |
+| 17 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
+| 18 | [Dreamhack](http://twitter.com/search?q=Dreamhack) | N/A |
+| 19 | [Indy](http://twitter.com/search?q=Indy) | N/A |
+| 20 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 21 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 22 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 23 | [Crow](http://twitter.com/search?q=Crow) | N/A |
+| 24 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 27 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 28 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
+| 29 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 30 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 31 | [Boone](http://twitter.com/search?q=Boone) | N/A |
+| 32 | [Sonny Gray](http://twitter.com/search?q=Sonny+Gray) | N/A |
+| 33 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
+| 34 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
+| 35 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
+| 36 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 37 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
+| 38 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 39 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 40 | [Oswaldo](http://twitter.com/search?q=Oswaldo) | N/A |
+| 41 | [Loomer](http://twitter.com/search?q=Loomer) | N/A |
+| 42 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 43 | [Richie James](http://twitter.com/search?q=Richie+James) | Richie James is a nickname given to the American football player Richie James Jr., who currently plays for the San Francisco 49ers. The name is derived from his first and last names. In English, it means "Richie James Junior". |
+| 44 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 45 | [Diekman](http://twitter.com/search?q=Diekman) | N/A |
+| 46 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
+| 47 | [Cutch](http://twitter.com/search?q=Cutch) | Cutch is a slang term for cocaine. It is derived from the word "cocaine" and is often used to refer to the drug in a casual or informal setting. |
+| 48 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
+| 49 | [Civale](http://twitter.com/search?q=Civale) | N/A |
+| 50 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
 
 
 

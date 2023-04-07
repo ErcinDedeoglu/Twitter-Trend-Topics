@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-04-07 21:17:34 UTC`
+📆 Last Updated: `2023-04-07 22:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [#HappyBirthdayAlluArjun](http://twitter.com/search?q=%23HappyBirthdayAlluArjun) | N/A |
-| 3 | [#Vanakkam_Modi](http://twitter.com/search?q=%23Vanakkam_Modi) | N/A |
-| 4 | [#LSGvsSRH](http://twitter.com/search?q=%23LSGvsSRH) | N/A |
-| 5 | [#Aadujeevitham](http://twitter.com/search?q=%23Aadujeevitham) | N/A |
-| 6 | [#GobackModi](http://twitter.com/search?q=%23GobackModi) | N/A |
-| 7 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 8 | [Delhi & Rajasthan](http://twitter.com/search?q=Delhi+%26+Rajasthan) | N/A |
-| 9 | [शरद पवार](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b0%e0%a4%a6+%e0%a4%aa%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 10 | [TEJASSWI AT PV STYLEICONS](http://twitter.com/search?q=TEJASSWI+AT+PV+STYLEICONS) | N/A |
-| 11 | [Happy Birthday Anna](http://twitter.com/search?q=Happy+Birthday+Anna) | N/A |
-| 12 | [Sharad Pawar](http://twitter.com/search?q=Sharad+Pawar) | N/A |
-| 13 | [Naman O](http://twitter.com/search?q=Naman+O) | N/A |
-| 14 | [STYLISH KARAN AT PINKVILLA](http://twitter.com/search?q=STYLISH+KARAN+AT+PINKVILLA) | N/A |
-| 15 | [Greece](http://twitter.com/search?q=Greece) | N/A |
-| 16 | [Vineet K](http://twitter.com/search?q=Vineet+K) | N/A |
-| 17 | [Lakshmipathy B](http://twitter.com/search?q=Lakshmipathy+B) | N/A |
-| 18 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 19 | [Lucknow](http://twitter.com/search?q=Lucknow) | N/A |
-| 20 | [Chinnaswamy Stadium](http://twitter.com/search?q=Chinnaswamy+Stadium) | N/A |
-| 21 | [Amit Mishra](http://twitter.com/search?q=Amit+Mishra) | N/A |
-| 22 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 23 | [Icon Star](http://twitter.com/search?q=Icon+Star) | N/A |
-| 24 | [Wankhede](http://twitter.com/search?q=Wankhede) | N/A |
-| 25 | [#MIvsCSK](http://twitter.com/search?q=%23MIvsCSK) | N/A |
-| 26 | [#Pushpa2TheRule](http://twitter.com/search?q=%23Pushpa2TheRule) | N/A |
-| 27 | [#PrithvirajSukumaran](http://twitter.com/search?q=%23PrithvirajSukumaran) | N/A |
-| 28 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 29 | [#KrunalPandya](http://twitter.com/search?q=%23KrunalPandya) | N/A |
-| 30 | [#Blessy](http://twitter.com/search?q=%23Blessy) | N/A |
-| 31 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 32 | [#PinkvillaStyleIcons](http://twitter.com/search?q=%23PinkvillaStyleIcons) | N/A |
-| 33 | [#SunrisersHyderabad](http://twitter.com/search?q=%23SunrisersHyderabad) | N/A |
-| 34 | [#UPPSC](http://twitter.com/search?q=%23UPPSC) | N/A |
-| 35 | [#HBDAkhilAkkineni](http://twitter.com/search?q=%23HBDAkhilAkkineni) | N/A |
-| 36 | [#KLRahul](http://twitter.com/search?q=%23KLRahul) | N/A |
-| 37 | [#Vi20FANFest](http://twitter.com/search?q=%23Vi20FANFest) | N/A |
-| 38 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
-| 39 | [#KKundrraSquad](http://twitter.com/search?q=%23KKundrraSquad) | N/A |
-| 40 | [#AGENT](http://twitter.com/search?q=%23AGENT) | N/A |
-| 41 | [#Ayothi](http://twitter.com/search?q=%23Ayothi) | N/A |
-| 42 | [#PriyankaChaharChoudhary](http://twitter.com/search?q=%23PriyankaChaharChoudhary) | N/A |
-| 43 | [#fairytale](http://twitter.com/search?q=%23fairytale) | N/A |
-| 44 | [#OrangeFireIdhi](http://twitter.com/search?q=%23OrangeFireIdhi) | N/A |
+| 1 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 2 | [#GoodFriday](http://twitter.com/search?q=%23GoodFriday) | N/A |
+| 3 | [#PushpaTheRule](http://twitter.com/search?q=%23PushpaTheRule) | N/A |
+| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 5 | [#HappyBirthdayAlluArjun](http://twitter.com/search?q=%23HappyBirthdayAlluArjun) | N/A |
+| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [#LSGvsSRH](http://twitter.com/search?q=%23LSGvsSRH) | N/A |
+| 8 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
+| 9 | [मनीष कश्यप](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%aa) | N/A |
+| 10 | [ईसा मसीह](http://twitter.com/search?q=%e0%a4%88%e0%a4%b8%e0%a4%be+%e0%a4%ae%e0%a4%b8%e0%a5%80%e0%a4%b9) | N/A |
+| 11 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 12 | [Sushant Nemesis Of Bollywood](http://twitter.com/search?q=Sushant+Nemesis+Of+Bollywood) | N/A |
+| 13 | [समर सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%b0+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 14 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 15 | [ndtv dettol bsi special](http://twitter.com/search?q=ndtv+dettol+bsi+special) | N/A |
+| 16 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 17 | [हनुमान जयंती](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 18 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 20 | [शरद पवार](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b0%e0%a4%a6+%e0%a4%aa%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 21 | [Chinnaswamy Stadium](http://twitter.com/search?q=Chinnaswamy+Stadium) | N/A |
+| 22 | [Sharad Pawar](http://twitter.com/search?q=Sharad+Pawar) | N/A |
+| 23 | [ahmedabad welcomes indreshji](http://twitter.com/search?q=ahmedabad+welcomes+indreshji) | N/A |
+| 24 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 25 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 26 | [Amit Mishra](http://twitter.com/search?q=Amit+Mishra) | N/A |
+| 27 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 28 | [nirogi kaya](http://twitter.com/search?q=nirogi+kaya) | N/A |
+| 29 | [svasthya suraksha](http://twitter.com/search?q=svasthya+suraksha) | N/A |
+| 30 | [Krunal Pandya](http://twitter.com/search?q=Krunal+Pandya) | N/A |
+| 31 | [Lakshmipathy B](http://twitter.com/search?q=Lakshmipathy+B) | N/A |
+| 32 | [Delhi & Rajasthan](http://twitter.com/search?q=Delhi+%26+Rajasthan) | N/A |
+| 33 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 34 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 35 | [उमर खालिद](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a4%b0+%e0%a4%96%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%a6) | N/A |
+| 36 | [भारतीय जनता पार्टी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 37 | [Naman O](http://twitter.com/search?q=Naman+O) | N/A |
+| 38 | [Super Stylish Charming Diva](http://twitter.com/search?q=Super+Stylish+Charming+Diva) | N/A |
+| 39 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 40 | [Raval](http://twitter.com/search?q=Raval) | N/A |
+| 41 | [ASIM RIAZ NALLA](http://twitter.com/search?q=ASIM+RIAZ+NALLA) | N/A |
+| 42 | [Mughals](http://twitter.com/search?q=Mughals) | N/A |
+| 43 | [HAPPY BIRTHDAY NISHANT](http://twitter.com/search?q=HAPPY+BIRTHDAY+NISHANT) | N/A |
+| 44 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 45 | [SHAME ON KRSNA FANS](http://twitter.com/search?q=SHAME+ON+KRSNA+FANS) | N/A |
+| 46 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
+| 47 | [Bunny Anna](http://twitter.com/search?q=Bunny+Anna) | N/A |
+| 48 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 49 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
+| 50 | [Vineet K](http://twitter.com/search?q=Vineet+K) | N/A |
 
 
 

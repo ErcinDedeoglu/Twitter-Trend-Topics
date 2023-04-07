@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-04-07 21:17:37 UTC`
+📆 Last Updated: `2023-04-07 22:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
 | 2 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
 | 3 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 4 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 4 | [The Masters](http://twitter.com/search?q=The+Masters) | N/A |
 | 5 | [Silas](http://twitter.com/search?q=Silas) | N/A |
 | 6 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 7 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 7 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
 | 8 | [#GigEm](http://twitter.com/search?q=%23GigEm) | N/A |
-| 9 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 12 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 13 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 14 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
-| 15 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
+| 11 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 12 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
+| 13 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 14 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 15 | [Substack](http://twitter.com/search?q=Substack) | N/A |
 | 16 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 17 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 18 | [Franchy](http://twitter.com/search?q=Franchy) | N/A |
-| 19 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
-| 20 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
-| 21 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 22 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 23 | [Laura Loomer](http://twitter.com/search?q=Laura+Loomer) | N/A |
-| 24 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 25 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 26 | [Big Jeff](http://twitter.com/search?q=Big+Jeff) | N/A |
-| 27 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
-| 28 | [Cutch](http://twitter.com/search?q=Cutch) | Cutch is a slang term for cocaine. It is derived from the word "cocaine" and is often used to refer to the drug in a casual or informal setting. |
-| 29 | [Tostada](http://twitter.com/search?q=Tostada) | N/A |
-| 30 | [BRYSON TILLER](http://twitter.com/search?q=BRYSON+TILLER) | N/A |
-| 31 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
-| 32 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 33 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 34 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 35 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
-| 36 | [Jake Burger](http://twitter.com/search?q=Jake+Burger) | N/A |
-| 37 | [Ian Hamilton](http://twitter.com/search?q=Ian+Hamilton) | N/A |
-| 38 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 39 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 40 | [Oswaldo](http://twitter.com/search?q=Oswaldo) | N/A |
-| 41 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 42 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 43 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 44 | [Richie James](http://twitter.com/search?q=Richie+James) | Richie James is a nickname given to the American football player Richie James Jr., who currently plays for the San Francisco 49ers. The name is derived from his first and last names. In English, it means "Richie James Junior". |
-| 45 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
-| 46 | [Josh Bell](http://twitter.com/search?q=Josh+Bell) | N/A |
-| 47 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 48 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
-| 49 | [Pusha T](http://twitter.com/search?q=Pusha+T) | N/A |
-| 50 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
+| 17 | [Boone](http://twitter.com/search?q=Boone) | N/A |
+| 18 | [Sonny Gray](http://twitter.com/search?q=Sonny+Gray) | N/A |
+| 19 | [#LetsGoBucs](http://twitter.com/search?q=%23LetsGoBucs) | N/A |
+| 20 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
+| 21 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
+| 22 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
+| 23 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 24 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
+| 25 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 26 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 27 | [Oswaldo](http://twitter.com/search?q=Oswaldo) | N/A |
+| 28 | [Loomer](http://twitter.com/search?q=Loomer) | N/A |
+| 29 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 30 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 31 | [Richie James](http://twitter.com/search?q=Richie+James) | Richie James is a nickname given to the American football player Richie James Jr., who currently plays for the San Francisco 49ers. The name is derived from his first and last names. In English, it means "Richie James Junior". |
+| 32 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
+| 33 | [Diekman](http://twitter.com/search?q=Diekman) | N/A |
+| 34 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
+| 35 | [Cutch](http://twitter.com/search?q=Cutch) | Cutch is a slang term for cocaine. It is derived from the word "cocaine" and is often used to refer to the drug in a casual or informal setting. |
+| 36 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
+| 37 | [Civale](http://twitter.com/search?q=Civale) | N/A |
+| 38 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 39 | [Ian Hamilton](http://twitter.com/search?q=Ian+Hamilton) | N/A |
+| 40 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
+| 41 | [Tostada](http://twitter.com/search?q=Tostada) | N/A |
+| 42 | [Travis Kelce](http://twitter.com/search?q=Travis+Kelce) | N/A |
+| 43 | [Big Jeff](http://twitter.com/search?q=Big+Jeff) | N/A |
+| 44 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 45 | [Pusha T](http://twitter.com/search?q=Pusha+T) | N/A |
+| 46 | [Trevino](http://twitter.com/search?q=Trevino) | N/A |
+| 47 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 48 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 49 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 50 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
 
 
 

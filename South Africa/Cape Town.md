@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-04-07 21:17:28 UTC`
+📆 Last Updated: `2023-04-07 22:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [South Africa](</South Africa>)
 | 5 | [Block 4](http://twitter.com/search?q=Block+4) | N/A |
 | 6 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
 | 7 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
-| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 9 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 10 | [Lamola](http://twitter.com/search?q=Lamola) | N/A |
+| 8 | [Lyle Foster](http://twitter.com/search?q=Lyle+Foster) | Lyle Foster is a name of English origin. It is derived from the Old English words "līg" meaning "meadow" and "fōstor" meaning "nurturer". The name can be interpreted to mean someone who nurtures or cares for a meadow. |
+| 9 | [Lamola](http://twitter.com/search?q=Lamola) | N/A |
+| 10 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
 | 11 | [KHOSI GOES INTERNATIONAL](http://twitter.com/search?q=KHOSI+GOES+INTERNATIONAL) | N/A |
-| 12 | [#UmkhokhaTheCurse](http://twitter.com/search?q=%23UmkhokhaTheCurse) | N/A |
-| 13 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 14 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 16 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 17 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 18 | [Black Motion](http://twitter.com/search?q=Black+Motion) | Black Motion is a South African music duo consisting of DJ Murdah and Thabo "Smol" Mabogwane. They are known for their production of house music, Afro-house, and Afro-fusion. The name "Black Motion" is derived from the duo's mission to create music that celebrates African culture and heritage. |
-| 19 | [#TropikaZero](http://twitter.com/search?q=%23TropikaZero) | N/A |
-| 20 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 12 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
+| 13 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 14 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 15 | [Vincent Kompany](http://twitter.com/search?q=Vincent+Kompany) | N/A |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 18 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 19 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
+| 20 | [#TropikaZero](http://twitter.com/search?q=%23TropikaZero) | N/A |
 | 21 | [Shimza](http://twitter.com/search?q=Shimza) | N/A |
 | 22 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 23 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 24 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 25 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 26 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 27 | [TSATSII WENDY MADIBA](http://twitter.com/search?q=TSATSII+WENDY+MADIBA) | N/A |
-| 28 | [THABANG GOFUNDME FRIDAY](http://twitter.com/search?q=THABANG+GOFUNDME+FRIDAY) | N/A |
-| 29 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 30 | [Nobuntu](http://twitter.com/search?q=Nobuntu) | N/A |
-| 31 | [Vanuatu](http://twitter.com/search?q=Vanuatu) | N/A |
-| 32 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 33 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
+| 23 | [Black Motion](http://twitter.com/search?q=Black+Motion) | Black Motion is a South African music duo consisting of DJ Murdah and Thabo "Smol" Mabogwane. They are known for their production of house music, Afro-house, and Afro-fusion. The name "Black Motion" is derived from the duo's mission to create music that celebrates African culture and heritage. |
+| 24 | [#PodcastAndChill](http://twitter.com/search?q=%23PodcastAndChill) | N/A |
+| 25 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 26 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 27 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 28 | [TSATSII WENDY MADIBA](http://twitter.com/search?q=TSATSII+WENDY+MADIBA) | N/A |
+| 29 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 30 | [THABANG GOFUNDME FRIDAY](http://twitter.com/search?q=THABANG+GOFUNDME+FRIDAY) | N/A |
+| 31 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 32 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
+| 33 | [Vanuatu](http://twitter.com/search?q=Vanuatu) | N/A |
 | 34 | [Moonchild](http://twitter.com/search?q=Moonchild) | N/A |
 | 35 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
 | 36 | [Mamzobe](http://twitter.com/search?q=Mamzobe) | N/A |
-| 37 | [Bushiri](http://twitter.com/search?q=Bushiri) | N/A |
-| 38 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 39 | [The UAE](http://twitter.com/search?q=The+UAE) | N/A |
-| 40 | [Mr Smeg](http://twitter.com/search?q=Mr+Smeg) | N/A |
-| 41 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 42 | [Nqobile](http://twitter.com/search?q=Nqobile) | N/A |
-| 43 | [Restore](http://twitter.com/search?q=Restore) | N/A |
-| 44 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 45 | [TS Galaxy](http://twitter.com/search?q=TS+Galaxy) | N/A |
-| 46 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 47 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
-| 48 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 49 | [Shakes](http://twitter.com/search?q=Shakes) | N/A |
-| 50 | [Musa](http://twitter.com/search?q=Musa) | N/A |
+| 37 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 38 | [The UAE](http://twitter.com/search?q=The+UAE) | N/A |
+| 39 | [Bushiri](http://twitter.com/search?q=Bushiri) | N/A |
+| 40 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 41 | [Mr Smeg](http://twitter.com/search?q=Mr+Smeg) | N/A |
+| 42 | [Restore](http://twitter.com/search?q=Restore) | N/A |
+| 43 | [TS Galaxy](http://twitter.com/search?q=TS+Galaxy) | N/A |
+| 44 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 45 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 46 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
+| 47 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 48 | [Musa](http://twitter.com/search?q=Musa) | N/A |
+| 49 | [Miraleng](http://twitter.com/search?q=Miraleng) | N/A |
+| 50 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 
 
 

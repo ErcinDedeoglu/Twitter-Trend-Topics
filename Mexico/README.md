@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-04-07 21:17:48 UTC`
+📆 Last Updated: `2023-04-07 22:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 3 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
 | 4 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
-| 5 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 6 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 5 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 6 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
 | 7 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
 | 8 | [#DíaMundialDeLaSalud](http://twitter.com/search?q=%23D%c3%adaMundialDeLaSalud) | N/A |
 | 9 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 10 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 10 | [Orinoco](http://twitter.com/search?q=Orinoco) | N/A |
 | 11 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 12 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 13 | [Orinoco](http://twitter.com/search?q=Orinoco) | N/A |
-| 14 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 15 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 16 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 17 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
-| 18 | [#ViaCrucis](http://twitter.com/search?q=%23ViaCrucis) | N/A |
-| 19 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 20 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 21 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 12 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 13 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 14 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
+| 15 | [#ViaCrucis](http://twitter.com/search?q=%23ViaCrucis) | N/A |
+| 16 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 17 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 18 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 19 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 21 | [Farnesio de Bernal](http://twitter.com/search?q=Farnesio+de+Bernal) | N/A |
 | 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 23 | [Farnesio de Bernal](http://twitter.com/search?q=Farnesio+de+Bernal) | N/A |
+| 23 | [Iztapalapa](http://twitter.com/search?q=Iztapalapa) | N/A |
 | 24 | [Tostada](http://twitter.com/search?q=Tostada) | N/A |
-| 25 | [Lecce](http://twitter.com/search?q=Lecce) | N/A |
-| 26 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 27 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
-| 28 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 29 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 30 | [Burger Boy](http://twitter.com/search?q=Burger+Boy) | N/A |
-| 31 | [Martinoli](http://twitter.com/search?q=Martinoli) | N/A |
-| 32 | [Antonio Tarín](http://twitter.com/search?q=Antonio+Tar%c3%adn) | N/A |
+| 25 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 26 | [Lecce](http://twitter.com/search?q=Lecce) | N/A |
+| 27 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 28 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 29 | [Burger Boy](http://twitter.com/search?q=Burger+Boy) | N/A |
+| 30 | [Martinoli](http://twitter.com/search?q=Martinoli) | N/A |
+| 31 | [#SerieA](http://twitter.com/search?q=%23SerieA) | N/A |
+| 32 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
 | 33 | [Dresser](http://twitter.com/search?q=Dresser) | N/A |
-| 34 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 35 | [Iztapalapa](http://twitter.com/search?q=Iztapalapa) | N/A |
-| 36 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 37 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 38 | [Procesión](http://twitter.com/search?q=Procesi%c3%b3n) | N/A |
-| 39 | [El 7](http://twitter.com/search?q=El+7) | N/A |
-| 40 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 41 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
-| 42 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 43 | [Catedral](http://twitter.com/search?q=Catedral) | N/A |
-| 44 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 45 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 46 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 47 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 48 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 49 | [Barbies](http://twitter.com/search?q=Barbies) | N/A |
-| 50 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 34 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 35 | [Antonio Tarín](http://twitter.com/search?q=Antonio+Tar%c3%adn) | N/A |
+| 36 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 37 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 38 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 39 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 40 | [El 7](http://twitter.com/search?q=El+7) | N/A |
+| 41 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 42 | [Procesión del Silencio](http://twitter.com/search?q=Procesi%c3%b3n+del+Silencio) | N/A |
+| 43 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
+| 44 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 45 | [Catedral](http://twitter.com/search?q=Catedral) | N/A |
+| 46 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 47 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 48 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 49 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 50 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
 
 
 

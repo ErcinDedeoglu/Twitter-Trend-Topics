@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-04-07 21:17:08 UTC`
+📆 Last Updated: `2023-04-07 22:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 2 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 3 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 4 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 6 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 7 | [Abra o Spotify](http://twitter.com/search?q=Abra+o+Spotify) | N/A |
+| 2 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 5 | [Abra o Spotify](http://twitter.com/search?q=Abra+o+Spotify) | N/A |
+| 6 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
+| 7 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
 | 8 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 9 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
-| 10 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 11 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 9 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
+| 10 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
+| 11 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
 | 12 | [Luciano Juba](http://twitter.com/search?q=Luciano+Juba) | N/A |
-| 13 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 14 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 15 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
-| 16 | [#ItalianoNaESPN](http://twitter.com/search?q=%23ItalianoNaESPN) | N/A |
-| 17 | [O Jungkook](http://twitter.com/search?q=O+Jungkook) | N/A |
+| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 14 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 15 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 16 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 17 | [jhope](http://twitter.com/search?q=jhope) | N/A |
 | 18 | [Arcor](http://twitter.com/search?q=Arcor) | N/A |
-| 19 | [#FridayOnlineWord](http://twitter.com/search?q=%23FridayOnlineWord) | N/A |
-| 20 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 21 | [Vagner Love](http://twitter.com/search?q=Vagner+Love) | N/A |
-| 22 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
-| 23 | [#PortuguêsNaESPN](http://twitter.com/search?q=%23Portugu%c3%aasNaESPN) | N/A |
-| 24 | [Cracolândia](http://twitter.com/search?q=Cracol%c3%a2ndia) | N/A |
-| 25 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 26 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 27 | [Pedro Coelho](http://twitter.com/search?q=Pedro+Coelho) | N/A |
-| 28 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
-| 29 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 30 | [Correios](http://twitter.com/search?q=Correios) | N/A |
-| 31 | [POSTE OS SEUS 4 MAINS](http://twitter.com/search?q=POSTE+OS+SEUS+4+MAINS) | N/A |
-| 32 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
-| 33 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 34 | [Genshin Impact](http://twitter.com/search?q=Genshin+Impact) | N/A |
-| 35 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 36 | [Jornalista](http://twitter.com/search?q=Jornalista) | N/A |
-| 37 | [Dove](http://twitter.com/search?q=Dove) | N/A |
-| 38 | [Sifu](http://twitter.com/search?q=Sifu) | N/A |
-| 39 | [Comandante Hamilton](http://twitter.com/search?q=Comandante+Hamilton) | N/A |
-| 40 | [BBB SEM TRANSPARÊNCIA](http://twitter.com/search?q=BBB+SEM+TRANSPAR%c3%8aNCIA) | N/A |
-| 41 | [Praça das Artes](http://twitter.com/search?q=Pra%c3%a7a+das+Artes) | N/A |
-| 42 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
-| 43 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
-| 44 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
-| 45 | [Voto](http://twitter.com/search?q=Voto) | N/A |
-| 46 | [Caribe](http://twitter.com/search?q=Caribe) | N/A |
-| 47 | [Brazilian](http://twitter.com/search?q=Brazilian) | N/A |
-| 48 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 49 | [Lecce](http://twitter.com/search?q=Lecce) | N/A |
-| 50 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
+| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 20 | [Vagner Love](http://twitter.com/search?q=Vagner+Love) | N/A |
+| 21 | [Thaísa](http://twitter.com/search?q=Tha%c3%adsa) | N/A |
+| 22 | [Matheus Vargas](http://twitter.com/search?q=Matheus+Vargas) | N/A |
+| 23 | [Cracolândia](http://twitter.com/search?q=Cracol%c3%a2ndia) | N/A |
+| 24 | [#ItalianoNaESPN](http://twitter.com/search?q=%23ItalianoNaESPN) | N/A |
+| 25 | [#FridayOnlineWord](http://twitter.com/search?q=%23FridayOnlineWord) | N/A |
+| 26 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 27 | [Daroit](http://twitter.com/search?q=Daroit) | N/A |
+| 28 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
+| 29 | [Correios](http://twitter.com/search?q=Correios) | N/A |
+| 30 | [M.I.A.](http://twitter.com/search?q=M.I.A.) | N/A |
+| 31 | [SPORT CLUB DO RECIFE](http://twitter.com/search?q=SPORT+CLUB+DO+RECIFE) | Sport Club do Recife is a Brazilian professional football club based in the city of Recife, in the state of Pernambuco. The club was founded in 1905 and is one of the oldest and most successful clubs in Brazil, having won four national championships and three Copa do Brasil titles. The literal translation of Sport Club do Recife into English is "Recife Sports Club". |
+| 32 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 33 | [Dove](http://twitter.com/search?q=Dove) | N/A |
+| 34 | [Caribe](http://twitter.com/search?q=Caribe) | N/A |
+| 35 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 36 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 37 | [#SegueOFluxo](http://twitter.com/search?q=%23SegueOFluxo) | N/A |
+| 38 | [POSTE OS SEUS 4 MAINS](http://twitter.com/search?q=POSTE+OS+SEUS+4+MAINS) | N/A |
+| 39 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 40 | [Genshin Impact](http://twitter.com/search?q=Genshin+Impact) | N/A |
+| 41 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
+| 42 | [Praça das Artes](http://twitter.com/search?q=Pra%c3%a7a+das+Artes) | N/A |
+| 43 | [Pedro Coelho](http://twitter.com/search?q=Pedro+Coelho) | N/A |
+| 44 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 45 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
+| 46 | [Jornalista](http://twitter.com/search?q=Jornalista) | N/A |
+| 47 | [Michelle Bolsonaro](http://twitter.com/search?q=Michelle+Bolsonaro) | Michelle Bolsonaro is the wife of Brazilian President Jair Bolsonaro. She is a former schoolteacher and has been an active supporter of her husband's political career. In English, Michelle Bolsonaro means Michelle Bolsonaro, the wife of the Brazilian President. |
+| 48 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 49 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 50 | [Versions Of Me](http://twitter.com/search?q=Versions+Of+Me) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-04-07 21:17:21 UTC`
+📆 Last Updated: `2023-04-07 22:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Mステ](http://twitter.com/search?q=%23M%e3%82%b9%e3%83%86) | #Mステ is an abbreviation for Music Station, a popular Japanese music show that has been airing since 1986. It is broadcast on the TV Asahi network and features performances from popular Japanese artists. The show also includes interviews with the artists and other segments. In English, #Mステ translates to Music Station. |
-| 2 | [#ハロウィンの花嫁](http://twitter.com/search?q=%23%e3%83%8f%e3%83%ad%e3%82%a6%e3%82%a3%e3%83%b3%e3%81%ae%e8%8a%b1%e5%ab%81) | N/A |
-| 3 | [ウェザーリポート](http://twitter.com/search?q=%e3%82%a6%e3%82%a7%e3%82%b6%e3%83%bc%e3%83%aa%e3%83%9d%e3%83%bc%e3%83%88) | N/A |
-| 4 | [虫眼鏡結婚](http://twitter.com/search?q=%e8%99%ab%e7%9c%bc%e9%8f%a1%e7%b5%90%e5%a9%9a) | N/A |
-| 5 | [哀ちゃん](http://twitter.com/search?q=%e5%93%80%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 6 | [降谷さん](http://twitter.com/search?q=%e9%99%8d%e8%b0%b7%e3%81%95%e3%82%93) | N/A |
-| 7 | [#カワイスギクライシス](http://twitter.com/search?q=%23%e3%82%ab%e3%83%af%e3%82%a4%e3%82%b9%e3%82%ae%e3%82%af%e3%83%a9%e3%82%a4%e3%82%b7%e3%82%b9) | N/A |
-| 8 | [#感謝祭23春アーチェリー優勝者予想](http://twitter.com/search?q=%23%e6%84%9f%e8%ac%9d%e7%a5%ad23%e6%98%a5%e3%82%a2%e3%83%bc%e3%83%81%e3%82%a7%e3%83%aa%e3%83%bc%e5%84%aa%e5%8b%9d%e8%80%85%e4%ba%88%e6%83%b3) | N/A |
-| 9 | [警察学校組](http://twitter.com/search?q=%e8%ad%a6%e5%af%9f%e5%ad%a6%e6%a0%a1%e7%b5%84) | 警察学校組 (Keisatsugakkō-gumi) is a Japanese term that refers to a group of police officers who have graduated from the same police academy. The literal translation of the term is "Police Academy Group". |
-| 10 | [#スクフェス2](http://twitter.com/search?q=%23%e3%82%b9%e3%82%af%e3%83%95%e3%82%a7%e3%82%b92) | #スクフェス2 is a hashtag used to refer to the mobile game, Love Live! School Idol Festival 2nd Vision. The game is a rhythm and adventure game based on the popular anime series, Love Live! School Idol Project. In English, the hashtag translates to "Love Live! School Idol Festival 2nd Vision". |
-| 11 | [ストプリ](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%97%e3%83%aa) | N/A |
-| 12 | [風見さん](http://twitter.com/search?q=%e9%a2%a8%e8%a6%8b%e3%81%95%e3%82%93) | N/A |
-| 13 | [阪神牝馬S](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e7%89%9d%e9%a6%acS) | N/A |
-| 14 | [マンダロリアン](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%83%80%e3%83%ad%e3%83%aa%e3%82%a2%e3%83%b3) | N/A |
-| 15 | [Hulu](http://twitter.com/search?q=Hulu) | N/A |
-| 16 | [使用期限](http://twitter.com/search?q=%e4%bd%bf%e7%94%a8%e6%9c%9f%e9%99%90) | N/A |
-| 17 | [しょっぴー](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%81%a3%e3%81%b4%e3%83%bc) | N/A |
-| 18 | [東海オンエア](http://twitter.com/search?q=%e6%9d%b1%e6%b5%b7%e3%82%aa%e3%83%b3%e3%82%a8%e3%82%a2) | 東海オンエア is a Japanese radio program that airs on the Tokyo FM station. The name translates to "Tokai On Air" in English. It is a music program that features popular music from Japan and around the world. |
-| 19 | [TOP4](http://twitter.com/search?q=TOP4) | TOP4 is an acronym that stands for the top four teams in a particular competition or tournament. It is used to refer to the four teams that have achieved the highest ranking in a given event. |
-| 20 | [ベストシーン大賞開催中](http://twitter.com/search?q=%e3%83%99%e3%82%b9%e3%83%88%e3%82%b7%e3%83%bc%e3%83%b3%e5%a4%a7%e8%b3%9e%e9%96%8b%e5%82%ac%e4%b8%ad) | N/A |
-| 21 | [光と闇の遺産](http://twitter.com/search?q=%e5%85%89%e3%81%a8%e9%97%87%e3%81%ae%e9%81%ba%e7%94%a3) | N/A |
-| 22 | [ファーストテイク](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%bc%e3%82%b9%e3%83%88%e3%83%86%e3%82%a4%e3%82%af) | ファーストテイク (Fāsuto Teiku) is a Japanese phrase that literally translates to "first take." It is used to refer to the first attempt at doing something, such as the first take of a film or recording. It can also be used to refer to the first try at a task or activity. |
-| 23 | [テテとホビ](http://twitter.com/search?q=%e3%83%86%e3%83%86%e3%81%a8%e3%83%9b%e3%83%93) | N/A |
-| 24 | [グクの家](http://twitter.com/search?q=%e3%82%b0%e3%82%af%e3%81%ae%e5%ae%b6) | N/A |
-| 25 | [APEX鯖落ち](http://twitter.com/search?q=APEX%e9%af%96%e8%90%bd%e3%81%a1) | N/A |
-| 26 | [レビッチ](http://twitter.com/search?q=%e3%83%ac%e3%83%93%e3%83%83%e3%83%81) | N/A |
-| 27 | [エンポリオ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%9d%e3%83%aa%e3%82%aa) | N/A |
-| 28 | [虫さん結婚](http://twitter.com/search?q=%e8%99%ab%e3%81%95%e3%82%93%e7%b5%90%e5%a9%9a) | N/A |
-| 29 | [洗濯カゴ](http://twitter.com/search?q=%e6%b4%97%e6%bf%af%e3%82%ab%e3%82%b4) | N/A |
-| 30 | [フロレンツィ](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%ac%e3%83%b3%e3%83%84%e3%82%a3) | N/A |
-| 31 | [ホビたん](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%9f%e3%82%93) | N/A |
-| 32 | [ジョジョ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%82%b8%e3%83%a7) | N/A |
+| 2 | [#とき止め](http://twitter.com/search?q=%23%e3%81%a8%e3%81%8d%e6%ad%a2%e3%82%81) | N/A |
+| 3 | [#バディゴル](http://twitter.com/search?q=%23%e3%83%90%e3%83%87%e3%82%a3%e3%82%b4%e3%83%ab) | N/A |
+| 4 | [インテル](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%86%e3%83%ab) | N/A |
+| 5 | [投票テーマ](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e3%83%86%e3%83%bc%e3%83%9e) | N/A |
+| 6 | [#トニカクカワイイ](http://twitter.com/search?q=%23%e3%83%88%e3%83%8b%e3%82%ab%e3%82%af%e3%82%ab%e3%83%af%e3%82%a4%e3%82%a4) | N/A |
+| 7 | [安室さん](http://twitter.com/search?q=%e5%ae%89%e5%ae%a4%e3%81%95%e3%82%93) | N/A |
+| 8 | [ジョンヒョン](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
+| 9 | [りょうくん](http://twitter.com/search?q=%e3%82%8a%e3%82%87%e3%81%86%e3%81%8f%e3%82%93) | N/A |
+| 10 | [ミラクルキュート](http://twitter.com/search?q=%e3%83%9f%e3%83%a9%e3%82%af%e3%83%ab%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%88) | N/A |
+| 11 | [ドルチェモア](http://twitter.com/search?q=%e3%83%89%e3%83%ab%e3%83%81%e3%82%a7%e3%83%a2%e3%82%a2) | N/A |
+| 12 | [スターウォーズ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%ba) | N/A |
+| 13 | [虫眼鏡結婚](http://twitter.com/search?q=%e8%99%ab%e7%9c%bc%e9%8f%a1%e7%b5%90%e5%a9%9a) | N/A |
+| 14 | [シガテラ](http://twitter.com/search?q=%e3%82%b7%e3%82%ac%e3%83%86%e3%83%a9) | N/A |
+| 15 | [僕の名前](http://twitter.com/search?q=%e5%83%95%e3%81%ae%e5%90%8d%e5%89%8d) | N/A |
+| 16 | [#クールドジ男子](http://twitter.com/search?q=%23%e3%82%af%e3%83%bc%e3%83%ab%e3%83%89%e3%82%b8%e7%94%b7%e5%ad%90) | N/A |
+| 17 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 18 | [アソーカ](http://twitter.com/search?q=%e3%82%a2%e3%82%bd%e3%83%bc%e3%82%ab) | N/A |
+| 19 | [ベストシーン大賞開催中](http://twitter.com/search?q=%e3%83%99%e3%82%b9%e3%83%88%e3%82%b7%e3%83%bc%e3%83%b3%e5%a4%a7%e8%b3%9e%e9%96%8b%e5%82%ac%e4%b8%ad) | N/A |
+| 20 | [カワイスギクライシス](http://twitter.com/search?q=%e3%82%ab%e3%83%af%e3%82%a4%e3%82%b9%e3%82%ae%e3%82%af%e3%83%a9%e3%82%a4%e3%82%b7%e3%82%b9) | N/A |
+| 21 | [ニュージーランド](http://twitter.com/search?q=%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 22 | [風見さん](http://twitter.com/search?q=%e9%a2%a8%e8%a6%8b%e3%81%95%e3%82%93) | N/A |
+| 23 | [降谷さん](http://twitter.com/search?q=%e9%99%8d%e8%b0%b7%e3%81%95%e3%82%93) | N/A |
+| 24 | [しょっぴー](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%81%a3%e3%81%b4%e3%83%bc) | N/A |
+| 25 | [東海オンエア](http://twitter.com/search?q=%e6%9d%b1%e6%b5%b7%e3%82%aa%e3%83%b3%e3%82%a8%e3%82%a2) | 東海オンエア is a Japanese radio program that airs on the Tokyo FM station. The name translates to "Tokai On Air" in English. It is a music program that features popular music from Japan and around the world. |
+| 26 | [TOP4](http://twitter.com/search?q=TOP4) | TOP4 is an acronym that stands for the top four teams in a particular competition or tournament. It is used to refer to the four teams that have achieved the highest ranking in a given event. |
+| 27 | [花鳥風月](http://twitter.com/search?q=%e8%8a%b1%e9%b3%a5%e9%a2%a8%e6%9c%88) | N/A |
+| 28 | [洗濯カゴ](http://twitter.com/search?q=%e6%b4%97%e6%bf%af%e3%82%ab%e3%82%b4) | N/A |
+| 29 | [グクの家](http://twitter.com/search?q=%e3%82%b0%e3%82%af%e3%81%ae%e5%ae%b6) | N/A |
+| 30 | [春の踊り](http://twitter.com/search?q=%e6%98%a5%e3%81%ae%e8%b8%8a%e3%82%8a) | N/A |
+| 31 | [テテとホビ](http://twitter.com/search?q=%e3%83%86%e3%83%86%e3%81%a8%e3%83%9b%e3%83%93) | N/A |
+| 32 | [ズムサタ](http://twitter.com/search?q=%e3%82%ba%e3%83%a0%e3%82%b5%e3%82%bf) | N/A |
 | 33 | [ALGS延期](http://twitter.com/search?q=ALGS%e5%bb%b6%e6%9c%9f) | N/A |
-| 34 | [第442回](http://twitter.com/search?q=%e7%ac%ac442%e5%9b%9e) | N/A |
-| 35 | [ストーンオーシャン](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%bc%e3%83%b3%e3%82%aa%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%b3) | N/A |
-| 36 | [学校のリーダーズ](http://twitter.com/search?q=%e5%ad%a6%e6%a0%a1%e3%81%ae%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%e3%82%ba) | N/A |
-| 37 | [エンディング](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | エンディング (ending) is a term used in Japanese media to refer to the conclusion of a story, film, or television show. In English, it is often referred to as the "climax" or "resolution". |
-| 38 | [ヤーマン](http://twitter.com/search?q=%e3%83%a4%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
-| 39 | [エペ鯖落ち](http://twitter.com/search?q=%e3%82%a8%e3%83%9a%e9%af%96%e8%90%bd%e3%81%a1) | N/A |
-| 40 | [マヤちゃん](http://twitter.com/search?q=%e3%83%9e%e3%83%a4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 41 | [マッシュル](http://twitter.com/search?q=%e3%83%9e%e3%83%83%e3%82%b7%e3%83%a5%e3%83%ab) | N/A |
-| 42 | [別人の住民票発行](http://twitter.com/search?q=%e5%88%a5%e4%ba%ba%e3%81%ae%e4%bd%8f%e6%b0%91%e7%a5%a8%e7%99%ba%e8%a1%8c) | N/A |
-| 43 | [クロノスタシス](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%83%8e%e3%82%b9%e3%82%bf%e3%82%b7%e3%82%b9) | N/A |
-| 44 | [オトナブルー](http://twitter.com/search?q=%e3%82%aa%e3%83%88%e3%83%8a%e3%83%96%e3%83%ab%e3%83%bc) | N/A |
-| 45 | [特殊OP](http://twitter.com/search?q=%e7%89%b9%e6%ae%8aOP) | N/A |
-| 46 | [コナンくん](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%8f%e3%82%93) | コナンくん is a nickname for the fictional character Conan Edogawa from the manga and anime series Detective Conan. In English, it can be translated to "Conan-kun". |
-| 47 | [計10枚確認](http://twitter.com/search?q=%e8%a8%8810%e6%9e%9a%e7%a2%ba%e8%aa%8d) | N/A |
-| 48 | [THE FIRST TAKE](http://twitter.com/search?q=THE+FIRST+TAKE) | The First Take is a phrase used to describe the initial recording of a song or performance. It is often used to refer to the first attempt at recording a song, which is usually considered to be the best take. The phrase can also be used to refer to any initial attempt at something, such as the first draft of a paper or the first try at a new skill. |
-| 49 | [Roundabout](http://twitter.com/search?q=Roundabout) | N/A |
-| 50 | [マスターズ](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba) | マスターズ (Masters) is a term used in Japan to refer to people who have achieved a high level of expertise in a particular field or profession. It is often used to refer to people who have achieved the highest level of mastery in their chosen field, such as martial arts masters, music masters, or business masters. In English, it can be translated as "master" or "expert". |
+| 34 | [ホビたん](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%9f%e3%82%93) | N/A |
+| 35 | [別人の住民票発行](http://twitter.com/search?q=%e5%88%a5%e4%ba%ba%e3%81%ae%e4%bd%8f%e6%b0%91%e7%a5%a8%e7%99%ba%e8%a1%8c) | N/A |
+| 36 | [虫さん結婚](http://twitter.com/search?q=%e8%99%ab%e3%81%95%e3%82%93%e7%b5%90%e5%a9%9a) | N/A |
+| 37 | [ホビとテテ](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%a8%e3%83%86%e3%83%86) | N/A |
+| 38 | [ホビヒョン](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
+| 39 | [計10枚確認](http://twitter.com/search?q=%e8%a8%8810%e6%9e%9a%e7%a2%ba%e8%aa%8d) | N/A |
+| 40 | [レビッチ](http://twitter.com/search?q=%e3%83%ac%e3%83%93%e3%83%83%e3%83%81) | N/A |
+| 41 | [第442回](http://twitter.com/search?q=%e7%ac%ac442%e5%9b%9e) | N/A |
+| 42 | [お釈迦様の誕生日](http://twitter.com/search?q=%e3%81%8a%e9%87%88%e8%bf%a6%e6%a7%98%e3%81%ae%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
+| 43 | [全員怪我](http://twitter.com/search?q=%e5%85%a8%e5%93%a1%e6%80%aa%e6%88%91) | N/A |
+| 44 | [江戸前エルフ](http://twitter.com/search?q=%e6%b1%9f%e6%88%b8%e5%89%8d%e3%82%a8%e3%83%ab%e3%83%95) | N/A |
+| 45 | [ホビの髪](http://twitter.com/search?q=%e3%83%9b%e3%83%93%e3%81%ae%e9%ab%aa) | N/A |
+| 46 | [APEX鯖落ち](http://twitter.com/search?q=APEX%e9%af%96%e8%90%bd%e3%81%a1) | N/A |
+| 47 | [フロレンツィ](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%ac%e3%83%b3%e3%83%84%e3%82%a3) | N/A |
+| 48 | [エンポリオ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%9d%e3%83%aa%e3%82%aa) | N/A |
+| 49 | [洗濯かご](http://twitter.com/search?q=%e6%b4%97%e6%bf%af%e3%81%8b%e3%81%94) | N/A |
+| 50 | [選挙戦最終日](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e6%88%a6%e6%9c%80%e7%b5%82%e6%97%a5) | N/A |
 
 
 
