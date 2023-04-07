@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Soweto
 
-📆 Last Updated: `2023-04-07 13:18:50 UTC`
+📆 Last Updated: `2023-04-07 14:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [South Africa](</South Africa>)
 | 2 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 4 | [Guptas](http://twitter.com/search?q=Guptas) | N/A |
-| 5 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
-| 6 | [Lamola](http://twitter.com/search?q=Lamola) | N/A |
-| 7 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 8 | [#TropikaZero](http://twitter.com/search?q=%23TropikaZero) | N/A |
-| 9 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 10 | [khosi x supersport](http://twitter.com/search?q=khosi+x+supersport) | N/A |
-| 11 | [KHOSI THE HOST](http://twitter.com/search?q=KHOSI+THE+HOST) | N/A |
-| 12 | [#TCIF](http://twitter.com/search?q=%23TCIF) | N/A |
-| 13 | [KHOSI GOES INTERNATIONAL](http://twitter.com/search?q=KHOSI+GOES+INTERNATIONAL) | N/A |
-| 14 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 15 | [#PastaWednesdays](http://twitter.com/search?q=%23PastaWednesdays) | N/A |
-| 16 | [#TheWifeShowmax](http://twitter.com/search?q=%23TheWifeShowmax) | N/A |
-| 17 | [BANKABLE TSATSII](http://twitter.com/search?q=BANKABLE+TSATSII) | N/A |
-| 18 | [TSATSII WENDY MADIBA](http://twitter.com/search?q=TSATSII+WENDY+MADIBA) | N/A |
-| 19 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 20 | [KING KHOSI THE BRAND](http://twitter.com/search?q=KING+KHOSI+THE+BRAND) | N/A |
-| 21 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 22 | [Cashout](http://twitter.com/search?q=Cashout) | N/A |
-| 23 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 24 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 25 | [Moonchild](http://twitter.com/search?q=Moonchild) | N/A |
-| 26 | [Shakes](http://twitter.com/search?q=Shakes) | N/A |
-| 27 | [Bushiri](http://twitter.com/search?q=Bushiri) | N/A |
-| 28 | [Lady Du](http://twitter.com/search?q=Lady+Du) | N/A |
-| 29 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
-| 30 | [Vanuatu](http://twitter.com/search?q=Vanuatu) | N/A |
-| 31 | [The UAE](http://twitter.com/search?q=The+UAE) | N/A |
-| 32 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 33 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 34 | [Jan van Riebeeck](http://twitter.com/search?q=Jan+van+Riebeeck) | N/A |
-| 35 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 36 | [THABANG GOFUNDME FRIDAY](http://twitter.com/search?q=THABANG+GOFUNDME+FRIDAY) | N/A |
-| 37 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 38 | [Mqhele](http://twitter.com/search?q=Mqhele) | N/A |
-| 39 | [SAICA](http://twitter.com/search?q=SAICA) | N/A |
-| 40 | [Smeg](http://twitter.com/search?q=Smeg) | N/A |
-| 41 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 42 | [Moria](http://twitter.com/search?q=Moria) | N/A |
-| 43 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 44 | [sebokeng](http://twitter.com/search?q=sebokeng) | N/A |
-| 45 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
-| 46 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 47 | [JUICY JAY CHAPTER 25 PROJECT](http://twitter.com/search?q=JUICY+JAY+CHAPTER+25+PROJECT) | N/A |
-| 48 | [THABANG VALUES TBANGERS](http://twitter.com/search?q=THABANG+VALUES+TBANGERS) | N/A |
-| 49 | [CONGRATULATIONS THEMBABROLY](http://twitter.com/search?q=CONGRATULATIONS+THEMBABROLY) | N/A |
-| 50 | [Berita](http://twitter.com/search?q=Berita) | N/A |
+| 5 | [lamola](http://twitter.com/search?q=lamola) | N/A |
+| 6 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 7 | [#TropikaZero](http://twitter.com/search?q=%23TropikaZero) | N/A |
+| 8 | [khosi x supersport](http://twitter.com/search?q=khosi+x+supersport) | N/A |
+| 9 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 10 | [#TCIF](http://twitter.com/search?q=%23TCIF) | N/A |
+| 11 | [dubai](http://twitter.com/search?q=dubai) | N/A |
+| 12 | [#TheWifeShowmax](http://twitter.com/search?q=%23TheWifeShowmax) | N/A |
+| 13 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 14 | [BANKABLE TSATSII](http://twitter.com/search?q=BANKABLE+TSATSII) | N/A |
+| 15 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 16 | [#PastaWednesdays](http://twitter.com/search?q=%23PastaWednesdays) | N/A |
+| 17 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 18 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 19 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 20 | [Moonchild](http://twitter.com/search?q=Moonchild) | N/A |
+| 21 | [Vanuatu](http://twitter.com/search?q=Vanuatu) | N/A |
+| 22 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
+| 23 | [Shakes](http://twitter.com/search?q=Shakes) | N/A |
+| 24 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 25 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
+| 26 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 27 | [lady du](http://twitter.com/search?q=lady+du) | N/A |
+| 28 | [The UAE](http://twitter.com/search?q=The+UAE) | N/A |
+| 29 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 30 | [THABANG GOFUNDME FRIDAY](http://twitter.com/search?q=THABANG+GOFUNDME+FRIDAY) | N/A |
+| 31 | [Jan Van Riebeeck](http://twitter.com/search?q=Jan+Van+Riebeeck) | N/A |
+| 32 | [Smeg](http://twitter.com/search?q=Smeg) | N/A |
+| 33 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 34 | [Mqhele](http://twitter.com/search?q=Mqhele) | N/A |
+| 35 | [SAICA](http://twitter.com/search?q=SAICA) | N/A |
+| 36 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 37 | [Moria](http://twitter.com/search?q=Moria) | N/A |
+| 38 | [Bushiri](http://twitter.com/search?q=Bushiri) | N/A |
+| 39 | [sebokeng](http://twitter.com/search?q=sebokeng) | N/A |
+| 40 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 41 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 42 | [JUICY JAY CHAPTER 25 PROJECT](http://twitter.com/search?q=JUICY+JAY+CHAPTER+25+PROJECT) | N/A |
+| 43 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 44 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 45 | [CONGRATULATIONS THEMBABROLY](http://twitter.com/search?q=CONGRATULATIONS+THEMBABROLY) | N/A |
+| 46 | [Berita](http://twitter.com/search?q=Berita) | N/A |
+| 47 | [thembabroly the star](http://twitter.com/search?q=thembabroly+the+star) | N/A |
+| 48 | [Artwork Sounds](http://twitter.com/search?q=Artwork+Sounds) | N/A |
+| 49 | [Rajesh](http://twitter.com/search?q=Rajesh) | N/A |
+| 50 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 
 
 

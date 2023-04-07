@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hull
 
-📆 Last Updated: `2023-04-07 13:18:16 UTC`
+📆 Last Updated: `2023-04-07 14:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [North Wales](http://twitter.com/search?q=North+Wales) | N/A |
-| 2 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
-| 3 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 4 | [Albion](http://twitter.com/search?q=Albion) | N/A |
-| 5 | [Gutter](http://twitter.com/search?q=Gutter) | N/A |
-| 6 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
-| 7 | [telford](http://twitter.com/search?q=telford) | N/A |
-| 8 | [Sean Dyche](http://twitter.com/search?q=Sean+Dyche) | Sean Dyche is the name of the current manager of English Premier League football club Burnley. The name is a combination of his first and last names. The meaning in English is simply the name of the manager. |
-| 9 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
-| 12 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 13 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
-| 14 | [#SLHulHKR](http://twitter.com/search?q=%23SLHulHKR) | N/A |
-| 15 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 16 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 17 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 18 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 19 | [Ajayi](http://twitter.com/search?q=Ajayi) | N/A |
-| 20 | [Hugill](http://twitter.com/search?q=Hugill) | N/A |
-| 21 | [Hull FC](http://twitter.com/search?q=Hull+FC) | N/A |
-| 22 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 23 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 24 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
-| 25 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 26 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
-| 27 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 28 | [Luton](http://twitter.com/search?q=Luton) | N/A |
-| 29 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | Michael Oliver is a British actor and comedian. He is best known for his roles in the television series The Comic Strip Presents, The Young Ones, and Bottom. He has also appeared in films such as The Princess Bride, Hot Fuzz, and Shaun of the Dead. |
-| 30 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
-| 31 | [CHOO CHOO](http://twitter.com/search?q=CHOO+CHOO) | N/A |
-| 32 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
-| 33 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 34 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
-| 35 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
-| 36 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
-| 37 | [Skeleton Crew](http://twitter.com/search?q=Skeleton+Crew) | N/A |
-| 38 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
-| 39 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 40 | [Lucasfilm](http://twitter.com/search?q=Lucasfilm) | N/A |
-| 41 | [Iwata](http://twitter.com/search?q=Iwata) | N/A |
-| 42 | [Walk of Witness](http://twitter.com/search?q=Walk+of+Witness) | N/A |
-| 43 | [Kathleen Kennedy](http://twitter.com/search?q=Kathleen+Kennedy) | N/A |
-| 44 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
-| 45 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 46 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 47 | [Savile](http://twitter.com/search?q=Savile) | N/A |
-| 48 | [King of Kings](http://twitter.com/search?q=King+of+Kings) | N/A |
-| 49 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 1 | [#SWCE](http://twitter.com/search?q=%23SWCE) | N/A |
+| 2 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
+| 3 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
+| 4 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 5 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
+| 6 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 7 | [Gutter](http://twitter.com/search?q=Gutter) | N/A |
+| 8 | [Lucy Powell](http://twitter.com/search?q=Lucy+Powell) | N/A |
+| 9 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 10 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 11 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 12 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
+| 13 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 14 | [Cross](http://twitter.com/search?q=Cross) | N/A |
+| 15 | [The Labour Party](http://twitter.com/search?q=The+Labour+Party) | N/A |
+| 16 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 17 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 18 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
+| 19 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 20 | [Ryan Moore](http://twitter.com/search?q=Ryan+Moore) | N/A |
+| 21 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 22 | [Hugill](http://twitter.com/search?q=Hugill) | N/A |
+| 23 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 24 | [Ajayi](http://twitter.com/search?q=Ajayi) | N/A |
+| 25 | [Hera](http://twitter.com/search?q=Hera) | N/A |
+| 26 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
+| 27 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 28 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 29 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
+| 30 | [Hull FC](http://twitter.com/search?q=Hull+FC) | N/A |
+| 31 | [Scott Munn](http://twitter.com/search?q=Scott+Munn) | N/A |
+| 32 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 33 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 34 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 35 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
+| 36 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 37 | [Bartley](http://twitter.com/search?q=Bartley) | N/A |
+| 38 | [Iwata](http://twitter.com/search?q=Iwata) | N/A |
+| 39 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
+| 40 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | Michael Oliver is a British actor and comedian. He is best known for his roles in the television series The Comic Strip Presents, The Young Ones, and Bottom. He has also appeared in films such as The Princess Bride, Hot Fuzz, and Shaun of the Dead. |
+| 41 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
+| 42 | [THE BERG](http://twitter.com/search?q=THE+BERG) | N/A |
+| 43 | [Tony Smith](http://twitter.com/search?q=Tony+Smith) | N/A |
+| 44 | [Albion](http://twitter.com/search?q=Albion) | N/A |
+| 45 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
+| 46 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
+| 47 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 48 | [CHOO CHOO](http://twitter.com/search?q=CHOO+CHOO) | N/A |
+| 49 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
 
 
 

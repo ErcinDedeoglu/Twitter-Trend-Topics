@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-04-07 13:19:18 UTC`
+📆 Last Updated: `2023-04-07 14:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Nigeria
 | ------- | ------------ | ------------ |
 | 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 2 | [#NLPIbdadantoday](http://twitter.com/search?q=%23NLPIbdadantoday) | N/A |
-| 3 | [#thatsourkindofenergy](http://twitter.com/search?q=%23thatsourkindofenergy) | N/A |
-| 4 | [#BodyAndSoulAlbum](http://twitter.com/search?q=%23BodyAndSoulAlbum) | N/A |
-| 5 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
-| 6 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 7 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 3 | [#TheRidesOn](http://twitter.com/search?q=%23TheRidesOn) | N/A |
+| 4 | [Datti](http://twitter.com/search?q=Datti) | N/A |
+| 5 | [#BodyAndSoulAlbum](http://twitter.com/search?q=%23BodyAndSoulAlbum) | N/A |
+| 6 | [Soyinka](http://twitter.com/search?q=Soyinka) | N/A |
+| 7 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
 | 8 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
-| 9 | [Datti](http://twitter.com/search?q=Datti) | N/A |
-| 10 | [#TheRidesOn](http://twitter.com/search?q=%23TheRidesOn) | N/A |
-| 11 | [Soyinka](http://twitter.com/search?q=Soyinka) | N/A |
-| 12 | [YVONNE THE BRAND](http://twitter.com/search?q=YVONNE+THE+BRAND) | N/A |
+| 9 | [#ThatsOurKindOfEnergy](http://twitter.com/search?q=%23ThatsOurKindOfEnergy) | N/A |
+| 10 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 11 | [Tomi Arayomi](http://twitter.com/search?q=Tomi+Arayomi) | N/A |
+| 12 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
 | 13 | [Toyin Abraham](http://twitter.com/search?q=Toyin+Abraham) | N/A |
-| 14 | [Robben](http://twitter.com/search?q=Robben) | N/A |
-| 15 | [I HAVE MY EVIDENCE](http://twitter.com/search?q=I+HAVE+MY+EVIDENCE) | "I HAVE MY EVIDENCE" is a phrase used to indicate that one has the proof or facts needed to support a claim or argument. It implies that the speaker is confident in their position and has the necessary evidence to back it up. |
-| 16 | [Jesus Christ](http://twitter.com/search?q=Jesus+Christ) | N/A |
-| 17 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
-| 18 | [Disturbing U](http://twitter.com/search?q=Disturbing+U) | N/A |
-| 19 | [Congratulations Mayor](http://twitter.com/search?q=Congratulations+Mayor) | N/A |
-| 20 | [bayo](http://twitter.com/search?q=bayo) | N/A |
-| 21 | [TG OMORI](http://twitter.com/search?q=TG+OMORI) | N/A |
-| 22 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 23 | [UK and US](http://twitter.com/search?q=UK+and+US) | N/A |
-| 24 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 25 | [THE LORD HAS VISITED ME](http://twitter.com/search?q=THE+LORD+HAS+VISITED+ME) | N/A |
-| 26 | [Calvary](http://twitter.com/search?q=Calvary) | N/A |
-| 27 | [Mera Na](http://twitter.com/search?q=Mera+Na) | N/A |
-| 28 | [Landlord](http://twitter.com/search?q=Landlord) | N/A |
-| 29 | [Prof.](http://twitter.com/search?q=Prof.) | N/A |
-| 30 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 31 | [VERIFIED PHYNA](http://twitter.com/search?q=VERIFIED+PHYNA) | N/A |
-| 32 | [Cross](http://twitter.com/search?q=Cross) | N/A |
-| 33 | [Lamidi Apapa](http://twitter.com/search?q=Lamidi+Apapa) | N/A |
-| 34 | [Julius Abure](http://twitter.com/search?q=Julius+Abure) | N/A |
-| 35 | [Hausas](http://twitter.com/search?q=Hausas) | N/A |
-| 36 | [US President](http://twitter.com/search?q=US+President) | N/A |
-| 37 | [Babalawo](http://twitter.com/search?q=Babalawo) | N/A |
-| 38 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 39 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
-| 40 | [Ojukwu](http://twitter.com/search?q=Ojukwu) | N/A |
-| 41 | [Medical](http://twitter.com/search?q=Medical) | N/A |
-| 42 | [NASS](http://twitter.com/search?q=NASS) | N/A |
-| 43 | [#Easter](http://twitter.com/search?q=%23Easter) | N/A |
-| 44 | [#thepassion](http://twitter.com/search?q=%23thepassion) | N/A |
-| 45 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 46 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 47 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 48 | [#TalkYourTalk](http://twitter.com/search?q=%23TalkYourTalk) | N/A |
-| 49 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 50 | [#FamilyFeudNigeria](http://twitter.com/search?q=%23FamilyFeudNigeria) | N/A |
+| 14 | [Debate](http://twitter.com/search?q=Debate) | N/A |
+| 15 | [Robben](http://twitter.com/search?q=Robben) | N/A |
+| 16 | [YVONNE THE BRAND](http://twitter.com/search?q=YVONNE+THE+BRAND) | N/A |
+| 17 | [I HAVE MY EVIDENCE](http://twitter.com/search?q=I+HAVE+MY+EVIDENCE) | "I HAVE MY EVIDENCE" is a phrase used to indicate that one has the proof or facts needed to support a claim or argument. It implies that the speaker is confident in their position and has the necessary evidence to back it up. |
+| 18 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
+| 19 | [Tobi Bakre](http://twitter.com/search?q=Tobi+Bakre) | N/A |
+| 20 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 21 | [Jesus Christ](http://twitter.com/search?q=Jesus+Christ) | N/A |
+| 22 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
+| 23 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
+| 24 | [Bayo](http://twitter.com/search?q=Bayo) | N/A |
+| 25 | [TG OMORI](http://twitter.com/search?q=TG+OMORI) | N/A |
+| 26 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 27 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 28 | [UK and US](http://twitter.com/search?q=UK+and+US) | N/A |
+| 29 | [Congratulations Mayor](http://twitter.com/search?q=Congratulations+Mayor) | N/A |
+| 30 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 31 | [Calvary](http://twitter.com/search?q=Calvary) | N/A |
+| 32 | [Mera Na](http://twitter.com/search?q=Mera+Na) | N/A |
+| 33 | [Landlord](http://twitter.com/search?q=Landlord) | N/A |
+| 34 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 35 | [Nobel laureate](http://twitter.com/search?q=Nobel+laureate) | N/A |
+| 36 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 37 | [Cross](http://twitter.com/search?q=Cross) | N/A |
+| 38 | [VERIFIED PHYNA](http://twitter.com/search?q=VERIFIED+PHYNA) | N/A |
+| 39 | [Blue Aiva](http://twitter.com/search?q=Blue+Aiva) | N/A |
+| 40 | [Lamidi Apapa](http://twitter.com/search?q=Lamidi+Apapa) | N/A |
+| 41 | [Hausas](http://twitter.com/search?q=Hausas) | N/A |
+| 42 | [Babalawo](http://twitter.com/search?q=Babalawo) | N/A |
+| 43 | [Julius Abure](http://twitter.com/search?q=Julius+Abure) | N/A |
+| 44 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
+| 45 | [Ojukwu](http://twitter.com/search?q=Ojukwu) | N/A |
+| 46 | [#Easter](http://twitter.com/search?q=%23Easter) | N/A |
+| 47 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 48 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
+| 49 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 50 | [#TalkYourTalk](http://twitter.com/search?q=%23TalkYourTalk) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-04-07 13:18:30 UTC`
+📆 Last Updated: `2023-04-07 14:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 2 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 1 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 2 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
 | 3 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
-| 4 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 4 | [#congresPCF](http://twitter.com/search?q=%23congresPCF) | N/A |
 | 5 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
 | 6 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 7 | [#IndianaJones](http://twitter.com/search?q=%23IndianaJones) | N/A |
+| 7 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
 | 8 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
-| 9 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 10 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
-| 11 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 12 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 13 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
-| 14 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
+| 9 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 10 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 11 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 12 | [Filoni](http://twitter.com/search?q=Filoni) | N/A |
+| 13 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 14 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
 | 15 | [Didi Stone](http://twitter.com/search?q=Didi+Stone) | N/A |
-| 16 | [Vendredi Saint](http://twitter.com/search?q=Vendredi+Saint) | N/A |
-| 17 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 18 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 19 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 20 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 21 | [Olive](http://twitter.com/search?q=Olive) | N/A |
-| 22 | [Brice CARON](http://twitter.com/search?q=Brice+CARON) | N/A |
-| 23 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
-| 24 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 25 | [Crimée](http://twitter.com/search?q=Crim%c3%a9e) | N/A |
-| 26 | [Foot 2](http://twitter.com/search?q=Foot+2) | N/A |
-| 27 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
-| 28 | [Alsace](http://twitter.com/search?q=Alsace) | N/A |
-| 29 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
-| 30 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 16 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 17 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 18 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 19 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 20 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 21 | [Vendredi Saint](http://twitter.com/search?q=Vendredi+Saint) | N/A |
+| 22 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 23 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
+| 24 | [Olive](http://twitter.com/search?q=Olive) | N/A |
+| 25 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
+| 26 | [Rodez](http://twitter.com/search?q=Rodez) | Rodez is a city in the south of France. It is the capital of the Aveyron department in the Occitanie region. The name Rodez comes from the Latin word "rodetum", which means "a place surrounded by oaks". In English, Rodez can be translated to mean "oak-surrounded place". |
+| 27 | [Brice CARON](http://twitter.com/search?q=Brice+CARON) | N/A |
+| 28 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 29 | [Inazuma Eleven](http://twitter.com/search?q=Inazuma+Eleven) | N/A |
+| 30 | [Crimée](http://twitter.com/search?q=Crim%c3%a9e) | N/A |
 | 31 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 32 | [Benjamin Epps](http://twitter.com/search?q=Benjamin+Epps) | N/A |
-| 33 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
-| 34 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
-| 35 | [Civitas](http://twitter.com/search?q=Civitas) | N/A |
-| 36 | [Aulas](http://twitter.com/search?q=Aulas) | N/A |
-| 37 | [Pirouette](http://twitter.com/search?q=Pirouette) | N/A |
-| 38 | [François Hollande](http://twitter.com/search?q=Fran%c3%a7ois+Hollande) | N/A |
-| 39 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 40 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
-| 41 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 42 | [#JournéeMondialeDeLaSanté](http://twitter.com/search?q=%23Journ%c3%a9eMondialeDeLaSant%c3%a9) | N/A |
-| 43 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 44 | [#Hommage](http://twitter.com/search?q=%23Hommage) | N/A |
-| 45 | [#GA2023](http://twitter.com/search?q=%23GA2023) | N/A |
-| 46 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 47 | [#OGCNPSG](http://twitter.com/search?q=%23OGCNPSG) | N/A |
-| 48 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
+| 32 | [Foot 2](http://twitter.com/search?q=Foot+2) | N/A |
+| 33 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
+| 34 | [Pirouette](http://twitter.com/search?q=Pirouette) | N/A |
+| 35 | [Ursula](http://twitter.com/search?q=Ursula) | N/A |
+| 36 | [Benjamin Epps](http://twitter.com/search?q=Benjamin+Epps) | N/A |
+| 37 | [Alsace](http://twitter.com/search?q=Alsace) | N/A |
+| 38 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
+| 39 | [Moselle](http://twitter.com/search?q=Moselle) | N/A |
+| 40 | [#IndianaJones](http://twitter.com/search?q=%23IndianaJones) | N/A |
+| 41 | [#JournéeMondialeDeLaSanté](http://twitter.com/search?q=%23Journ%c3%a9eMondialeDeLaSant%c3%a9) | N/A |
+| 42 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 43 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 44 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 45 | [#RCLRCSA](http://twitter.com/search?q=%23RCLRCSA) | N/A |
+| 46 | [#GA2023](http://twitter.com/search?q=%23GA2023) | N/A |
+| 47 | [#hommage](http://twitter.com/search?q=%23hommage) | N/A |
 
 
 

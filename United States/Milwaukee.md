@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-04-07 13:19:07 UTC`
+📆 Last Updated: `2023-04-07 14:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 2 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 3 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
-| 4 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 5 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
-| 6 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 7 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 8 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 9 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 10 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 11 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 12 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 13 | [#IndianaJones](http://twitter.com/search?q=%23IndianaJones) | N/A |
-| 14 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 15 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 16 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
-| 17 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
-| 18 | [Jedi Order](http://twitter.com/search?q=Jedi+Order) | N/A |
-| 19 | [Rey Skywalker](http://twitter.com/search?q=Rey+Skywalker) | N/A |
-| 20 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 21 | [Old Republic](http://twitter.com/search?q=Old+Republic) | N/A |
-| 22 | [Teaser Trailer](http://twitter.com/search?q=Teaser+Trailer) | N/A |
-| 23 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 24 | [Dawn of the Jedi](http://twitter.com/search?q=Dawn+of+the+Jedi) | N/A |
-| 25 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
-| 26 | [happy home opener](http://twitter.com/search?q=happy+home+opener) | N/A |
-| 27 | [Great Friday](http://twitter.com/search?q=Great+Friday) | N/A |
+| 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 2 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
+| 3 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 4 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 5 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 6 | [Sheriff Billy Woods](http://twitter.com/search?q=Sheriff+Billy+Woods) | N/A |
+| 7 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 8 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
+| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 10 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 11 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
+| 12 | [Hera](http://twitter.com/search?q=Hera) | N/A |
+| 13 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 14 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
+| 15 | [#IndianaJones](http://twitter.com/search?q=%23IndianaJones) | N/A |
+| 16 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 17 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 18 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 19 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
+| 20 | [Old Republic](http://twitter.com/search?q=Old+Republic) | N/A |
+| 21 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 22 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
+| 23 | [Great Friday](http://twitter.com/search?q=Great+Friday) | N/A |
+| 24 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
+| 25 | [Happy Home Opener](http://twitter.com/search?q=Happy+Home+Opener) | N/A |
+| 26 | [John Boyega](http://twitter.com/search?q=John+Boyega) | N/A |
+| 27 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
 | 28 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 29 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 30 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 31 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
-| 32 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
-| 33 | [Mandoverse](http://twitter.com/search?q=Mandoverse) | N/A |
-| 34 | [San Francisco State](http://twitter.com/search?q=San+Francisco+State) | N/A |
-| 35 | [Daily Quordle 438](http://twitter.com/search?q=Daily+Quordle+438) | N/A |
-| 36 | [Saving Women's Sports](http://twitter.com/search?q=Saving+Women%27s+Sports) | N/A |
-| 37 | [John Boyega](http://twitter.com/search?q=John+Boyega) | N/A |
-| 38 | [Billie Holiday](http://twitter.com/search?q=Billie+Holiday) | N/A |
-| 39 | [Lucasfilm](http://twitter.com/search?q=Lucasfilm) | N/A |
-| 40 | [Dial of Destiny](http://twitter.com/search?q=Dial+of+Destiny) | N/A |
-| 41 | [TROS](http://twitter.com/search?q=TROS) | N/A |
-| 42 | [Chopper](http://twitter.com/search?q=Chopper) | N/A |
-| 43 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 44 | [Farmer](http://twitter.com/search?q=Farmer) | N/A |
-| 45 | [Ben Solo](http://twitter.com/search?q=Ben+Solo) | N/A |
-| 46 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 47 | [Skeleton Crew](http://twitter.com/search?q=Skeleton+Crew) | N/A |
-| 48 | [SFSU](http://twitter.com/search?q=SFSU) | N/A |
-| 49 | [Calvary](http://twitter.com/search?q=Calvary) | N/A |
+| 29 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 30 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
+| 31 | [Marion County](http://twitter.com/search?q=Marion+County) | N/A |
+| 32 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 33 | [Teaser Trailer](http://twitter.com/search?q=Teaser+Trailer) | N/A |
+| 34 | [TROS](http://twitter.com/search?q=TROS) | N/A |
+| 35 | [Chopper](http://twitter.com/search?q=Chopper) | N/A |
+| 36 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 37 | [Ben Solo](http://twitter.com/search?q=Ben+Solo) | N/A |
+| 38 | [Lucasfilm](http://twitter.com/search?q=Lucasfilm) | N/A |
+| 39 | [Dial of Destiny](http://twitter.com/search?q=Dial+of+Destiny) | N/A |
+| 40 | [Sharmeen Obaid](http://twitter.com/search?q=Sharmeen+Obaid) | N/A |
+| 41 | [Billie Holiday](http://twitter.com/search?q=Billie+Holiday) | N/A |
+| 42 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
+| 43 | [SFSU](http://twitter.com/search?q=SFSU) | N/A |
+| 44 | [Mandoverse](http://twitter.com/search?q=Mandoverse) | N/A |
+| 45 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
+| 46 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 47 | [Ben Allbright](http://twitter.com/search?q=Ben+Allbright) | N/A |
+| 48 | [Farmer](http://twitter.com/search?q=Farmer) | N/A |
+| 49 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
 
 
 

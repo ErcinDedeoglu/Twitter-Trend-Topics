@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-04-07 13:18:38 UTC`
+📆 Last Updated: `2023-04-07 14:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Iklan Ponds Men](http://twitter.com/search?q=Iklan+Ponds+Men) | N/A |
-| 2 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
-| 3 | [#마크가_말아주는_골든아워](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%ea%b0%80_%eb%a7%90%ec%95%84%ec%a3%bc%eb%8a%94_%ea%b3%a8%eb%93%a0%ec%95%84%ec%9b%8c) | N/A |
-| 4 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
-| 5 | [#JinnysKitchenEp7](http://twitter.com/search?q=%23JinnysKitchenEp7) | N/A |
-| 6 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
-| 7 | [NT RRQ](http://twitter.com/search?q=NT+RRQ) | N/A |
-| 8 | [#LeeSeungGi](http://twitter.com/search?q=%23LeeSeungGi) | N/A |
-| 9 | [GG EVOS](http://twitter.com/search?q=GG+EVOS) | N/A |
-| 10 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
-| 11 | [JEONG JAEHYUN](http://twitter.com/search?q=JEONG+JAEHYUN) | N/A |
-| 12 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 2 | [#IStandWithHARUTO](http://twitter.com/search?q=%23IStandWithHARUTO) | N/A |
+| 3 | [WE WILL STAY HARUTO](http://twitter.com/search?q=WE+WILL+STAY+HARUTO) | N/A |
+| 4 | [#WhatsUpBIU](http://twitter.com/search?q=%23WhatsUpBIU) | N/A |
+| 5 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
+| 6 | [#마크가_말아주는_골든아워](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%ea%b0%80_%eb%a7%90%ec%95%84%ec%a3%bc%eb%8a%94_%ea%b3%a8%eb%93%a0%ec%95%84%ec%9b%8c) | N/A |
+| 7 | [#LeeSeungGi](http://twitter.com/search?q=%23LeeSeungGi) | N/A |
+| 8 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
+| 9 | [NT RRQ](http://twitter.com/search?q=NT+RRQ) | N/A |
+| 10 | [GG EVOS](http://twitter.com/search?q=GG+EVOS) | N/A |
+| 11 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 12 | [Nuzulul Qur'an](http://twitter.com/search?q=Nuzulul+Qur%27an) | N/A |
 | 13 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 14 | [SHOPEE BIG RAMADAN SALE](http://twitter.com/search?q=SHOPEE+BIG+RAMADAN+SALE) | N/A |
-| 15 | [Gordon Ramsay](http://twitter.com/search?q=Gordon+Ramsay) | N/A |
-| 16 | [JISOO NO PREPARE](http://twitter.com/search?q=JISOO+NO+PREPARE) | N/A |
-| 17 | [Happy Wedding](http://twitter.com/search?q=Happy+Wedding) | N/A |
-| 18 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
-| 19 | [Jumat Agung](http://twitter.com/search?q=Jumat+Agung) | N/A |
+| 14 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 15 | [Happy Wedding](http://twitter.com/search?q=Happy+Wedding) | N/A |
+| 16 | [shopee big ramadan sale](http://twitter.com/search?q=shopee+big+ramadan+sale) | N/A |
+| 17 | [JISOO NO PREPARE](http://twitter.com/search?q=JISOO+NO+PREPARE) | N/A |
+| 18 | [Onic](http://twitter.com/search?q=Onic) | N/A |
+| 19 | [Ginny](http://twitter.com/search?q=Ginny) | Ginny is a nickname for the given name Virginia. It is derived from the Latin word virgo, meaning "maiden" or "virgin". |
 | 20 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 21 | [Nuzulul Qur'an](http://twitter.com/search?q=Nuzulul+Qur%27an) | N/A |
-| 22 | [Skylar](http://twitter.com/search?q=Skylar) | N/A |
+| 21 | [JEONG JAEHYUN](http://twitter.com/search?q=JEONG+JAEHYUN) | N/A |
+| 22 | [winwin](http://twitter.com/search?q=winwin) | N/A |
 | 23 | [Jan Ethes](http://twitter.com/search?q=Jan+Ethes) | N/A |
-| 24 | [Onic](http://twitter.com/search?q=Onic) | N/A |
-| 25 | [NCT LAB](http://twitter.com/search?q=NCT+LAB) | N/A |
-| 26 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 27 | [Sepupu](http://twitter.com/search?q=Sepupu) | N/A |
-| 28 | [Dita](http://twitter.com/search?q=Dita) | N/A |
-| 29 | [Pharmaton](http://twitter.com/search?q=Pharmaton) | N/A |
+| 24 | [Sepupu](http://twitter.com/search?q=Sepupu) | N/A |
+| 25 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 26 | [Dita](http://twitter.com/search?q=Dita) | N/A |
+| 27 | [Hpbd](http://twitter.com/search?q=Hpbd) | N/A |
+| 28 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 29 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
 | 30 | [Katolik](http://twitter.com/search?q=Katolik) | N/A |
-| 31 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 32 | [Hpbd](http://twitter.com/search?q=Hpbd) | N/A |
-| 33 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 34 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
-| 35 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 36 | [Isa Almasih](http://twitter.com/search?q=Isa+Almasih) | N/A |
-| 37 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 38 | [Baeksang](http://twitter.com/search?q=Baeksang) | N/A |
-| 39 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 40 | [Madame Gie](http://twitter.com/search?q=Madame+Gie) | N/A |
-| 41 | [#likeitlikeit_fanmeeting](http://twitter.com/search?q=%23likeitlikeit_fanmeeting) | N/A |
-| 42 | [#SECRET_NUMBER](http://twitter.com/search?q=%23SECRET_NUMBER) | N/A |
-| 43 | [#JISOOwithYOUNGJI](http://twitter.com/search?q=%23JISOOwithYOUNGJI) | N/A |
-| 44 | [#TaehyungOnJinnysKitchen](http://twitter.com/search?q=%23TaehyungOnJinnysKitchen) | N/A |
-| 45 | [#LikeCrazy4thWin](http://twitter.com/search?q=%23LikeCrazy4thWin) | N/A |
-| 46 | [#LeeDaIn](http://twitter.com/search?q=%23LeeDaIn) | N/A |
-| 47 | [#OPPOReno8T5G](http://twitter.com/search?q=%23OPPOReno8T5G) | N/A |
-| 48 | [#PromoGajianTerbesar](http://twitter.com/search?q=%23PromoGajianTerbesar) | N/A |
-| 49 | [#GratisOngkirSuperDahsyat](http://twitter.com/search?q=%23GratisOngkirSuperDahsyat) | N/A |
-| 50 | [#HariIniBelanjadiShopee](http://twitter.com/search?q=%23HariIniBelanjadiShopee) | N/A |
+| 31 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
+| 32 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 33 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
+| 34 | [#JinnysKitchenEp7](http://twitter.com/search?q=%23JinnysKitchenEp7) | N/A |
+| 35 | [#JISOOwithYOUNGJI](http://twitter.com/search?q=%23JISOOwithYOUNGJI) | N/A |
+| 36 | [#TaehyungOnJinnysKitchen](http://twitter.com/search?q=%23TaehyungOnJinnysKitchen) | N/A |
+| 37 | [#SECRET_NUMBER](http://twitter.com/search?q=%23SECRET_NUMBER) | N/A |
+| 38 | [#LIKEITLIKEIT_Fanmeeting](http://twitter.com/search?q=%23LIKEITLIKEIT_Fanmeeting) | N/A |
+| 39 | [#LeeDaIn](http://twitter.com/search?q=%23LeeDaIn) | N/A |
+| 40 | [#PromoGajianTerbesar](http://twitter.com/search?q=%23PromoGajianTerbesar) | N/A |
+| 41 | [#GratisOngkirSuperDahsyat](http://twitter.com/search?q=%23GratisOngkirSuperDahsyat) | N/A |
+| 42 | [#HariIniBelanjadiShopee](http://twitter.com/search?q=%23HariIniBelanjadiShopee) | N/A |
+| 43 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
+| 44 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
+| 45 | [#EXOCLOCK](http://twitter.com/search?q=%23EXOCLOCK) | N/A |
+| 46 | [#weareoneEXO](http://twitter.com/search?q=%23weareoneEXO) | N/A |
+| 47 | [#LikeCrazy4thWin](http://twitter.com/search?q=%23LikeCrazy4thWin) | N/A |
+| 48 | [#JumatBerkah](http://twitter.com/search?q=%23JumatBerkah) | N/A |
+| 49 | [#PakaiMolis](http://twitter.com/search?q=%23PakaiMolis) | N/A |
+| 50 | [#srchafreen](http://twitter.com/search?q=%23srchafreen) | N/A |
 
 
 

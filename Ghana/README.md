@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-04-07 13:19:15 UTC`
+📆 Last Updated: `2023-04-07 14:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Ghana
 | 2 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 3 | [GOD IS HERE](http://twitter.com/search?q=GOD+IS+HERE) | N/A |
 | 4 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 5 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
-| 6 | [#thepassion](http://twitter.com/search?q=%23thepassion) | N/A |
-| 7 | [#kalyjayspace](http://twitter.com/search?q=%23kalyjayspace) | N/A |
-| 8 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 5 | [#GamePlan](http://twitter.com/search?q=%23GamePlan) | N/A |
+| 6 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
+| 7 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 8 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 9 | [#Dollar](http://twitter.com/search?q=%23Dollar) | N/A |
-| 10 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 11 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 12 | [#sparkitupgh](http://twitter.com/search?q=%23sparkitupgh) | N/A |
-| 13 | [The 10%](http://twitter.com/search?q=The+10%25) | N/A |
-| 14 | [Twene Jonas](http://twitter.com/search?q=Twene+Jonas) | N/A |
-| 15 | [Engineer](http://twitter.com/search?q=Engineer) | N/A |
-| 16 | [R2bees](http://twitter.com/search?q=R2bees) | N/A |
-| 17 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 18 | [Esther](http://twitter.com/search?q=Esther) | N/A |
-| 19 | [khosi x supersport](http://twitter.com/search?q=khosi+x+supersport) | N/A |
-| 20 | [KHOSI THE HOST](http://twitter.com/search?q=KHOSI+THE+HOST) | N/A |
+| 10 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 11 | [#sparkitupgh](http://twitter.com/search?q=%23sparkitupgh) | N/A |
+| 12 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
+| 13 | [twene jonas](http://twitter.com/search?q=twene+jonas) | N/A |
+| 14 | [khosi goes international](http://twitter.com/search?q=khosi+goes+international) | N/A |
+| 15 | [R2bees](http://twitter.com/search?q=R2bees) | N/A |
+| 16 | [Engineer](http://twitter.com/search?q=Engineer) | N/A |
+| 17 | [The 10%](http://twitter.com/search?q=The+10%25) | N/A |
+| 18 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 19 | [Esther](http://twitter.com/search?q=Esther) | N/A |
+| 20 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 21 | [Addo D](http://twitter.com/search?q=Addo+D) | N/A |
 | 22 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 23 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 24 | [KHOSI GOES INTERNATIONAL](http://twitter.com/search?q=KHOSI+GOES+INTERNATIONAL) | N/A |
-| 25 | [Zone](http://twitter.com/search?q=Zone) | N/A |
-| 26 | [Maureen](http://twitter.com/search?q=Maureen) | N/A |
-| 27 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
-| 28 | [Betting](http://twitter.com/search?q=Betting) | N/A |
-| 29 | [Prof.](http://twitter.com/search?q=Prof.) | N/A |
-| 30 | [Phyna](http://twitter.com/search?q=Phyna) | N/A |
-| 31 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 32 | [Nana Addo](http://twitter.com/search?q=Nana+Addo) | N/A |
-| 33 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 34 | [Gormiti](http://twitter.com/search?q=Gormiti) | N/A |
-| 35 | [Super Frankie](http://twitter.com/search?q=Super+Frankie) | N/A |
-| 36 | [Lamps](http://twitter.com/search?q=Lamps) | N/A |
-| 37 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 38 | [BANKABLE TSATSII](http://twitter.com/search?q=BANKABLE+TSATSII) | N/A |
-| 39 | [Government](http://twitter.com/search?q=Government) | N/A |
-| 40 | [Mason Mount](http://twitter.com/search?q=Mason+Mount) | Mason Mount is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. He is known for his passing, dribbling, and shooting ability. |
+| 23 | [Maureen](http://twitter.com/search?q=Maureen) | N/A |
+| 24 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
+| 25 | [ZONE](http://twitter.com/search?q=ZONE) | N/A |
+| 26 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 27 | [Prof.](http://twitter.com/search?q=Prof.) | N/A |
+| 28 | [Phyna](http://twitter.com/search?q=Phyna) | N/A |
+| 29 | [Gormiti](http://twitter.com/search?q=Gormiti) | N/A |
+| 30 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
+| 31 | [super frankie](http://twitter.com/search?q=super+frankie) | N/A |
+| 32 | [Lamps](http://twitter.com/search?q=Lamps) | N/A |
+| 33 | [BANKABLE TSATSII](http://twitter.com/search?q=BANKABLE+TSATSII) | N/A |
+| 34 | [Mason Mount](http://twitter.com/search?q=Mason+Mount) | Mason Mount is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. He is known for his passing, dribbling, and shooting ability. |
+| 35 | [Wole Soyinka](http://twitter.com/search?q=Wole+Soyinka) | N/A |
+| 36 | [Gov't](http://twitter.com/search?q=Gov%27t) | N/A |
+| 37 | [Boxer](http://twitter.com/search?q=Boxer) | N/A |
+| 38 | [Blacko](http://twitter.com/search?q=Blacko) | N/A |
+| 39 | [Lazy](http://twitter.com/search?q=Lazy) | N/A |
+| 40 | [Nana Addo](http://twitter.com/search?q=Nana+Addo) | N/A |
 | 41 | [Mahama](http://twitter.com/search?q=Mahama) | N/A |
-| 42 | [Gov't](http://twitter.com/search?q=Gov%27t) | N/A |
-| 43 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 44 | [Boxer](http://twitter.com/search?q=Boxer) | N/A |
-| 45 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 42 | [MEDIA ROUNDS WITH YVONNE](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+YVONNE) | N/A |
+| 43 | [Betting](http://twitter.com/search?q=Betting) | N/A |
+| 44 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 45 | [Bawumia](http://twitter.com/search?q=Bawumia) | N/A |
 | 46 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 47 | [Blacko](http://twitter.com/search?q=Blacko) | N/A |
-| 48 | [Lazy](http://twitter.com/search?q=Lazy) | N/A |
-| 49 | [Amaarae](http://twitter.com/search?q=Amaarae) | N/A |
-| 50 | [media rounds with yvonne](http://twitter.com/search?q=media+rounds+with+yvonne) | N/A |
+| 47 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 48 | [Isaiah](http://twitter.com/search?q=Isaiah) | N/A |
+| 49 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 50 | [Government](http://twitter.com/search?q=Government) | N/A |
 
 
 

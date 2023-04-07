@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-04-07 13:18:18 UTC`
+📆 Last Updated: `2023-04-07 14:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
-| 4 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
-| 5 | [#SLHulHKR](http://twitter.com/search?q=%23SLHulHKR) | N/A |
-| 6 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 7 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 8 | [Hera](http://twitter.com/search?q=Hera) | N/A |
-| 9 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 10 | [Ajayi](http://twitter.com/search?q=Ajayi) | N/A |
-| 11 | [Hull FC](http://twitter.com/search?q=Hull+FC) | N/A |
-| 12 | [Hugill](http://twitter.com/search?q=Hugill) | N/A |
-| 13 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 14 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 15 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 16 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
+| 4 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 5 | [Ryan Moore](http://twitter.com/search?q=Ryan+Moore) | N/A |
+| 6 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 7 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 8 | [Hugill](http://twitter.com/search?q=Hugill) | N/A |
+| 9 | [#SLHulHKR](http://twitter.com/search?q=%23SLHulHKR) | N/A |
+| 10 | [#rufc](http://twitter.com/search?q=%23rufc) | N/A |
+| 11 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 12 | [Ajayi](http://twitter.com/search?q=Ajayi) | N/A |
+| 13 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
+| 14 | [Hera](http://twitter.com/search?q=Hera) | N/A |
+| 15 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 16 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
 | 17 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 18 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
-| 19 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 20 | [Luton](http://twitter.com/search?q=Luton) | N/A |
-| 21 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
-| 22 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | Michael Oliver is a British actor and comedian. He is best known for his roles in the television series The Comic Strip Presents, The Young Ones, and Bottom. He has also appeared in films such as The Princess Bride, Hot Fuzz, and Shaun of the Dead. |
-| 23 | [Mooy](http://twitter.com/search?q=Mooy) | Mooy is a slang term used in the Philippines to describe someone who is cool, stylish, or attractive. It can also be used to describe something that is impressive or noteworthy. In English, it could be translated as "awesome" or "amazing". |
-| 24 | [CHOO CHOO](http://twitter.com/search?q=CHOO+CHOO) | N/A |
-| 25 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
-| 26 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 27 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
-| 28 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
-| 29 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
-| 30 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
-| 31 | [Skeleton Crew](http://twitter.com/search?q=Skeleton+Crew) | N/A |
-| 32 | [Iwata](http://twitter.com/search?q=Iwata) | N/A |
-| 33 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 34 | [Lucasfilm](http://twitter.com/search?q=Lucasfilm) | N/A |
-| 35 | [Walk of Witness](http://twitter.com/search?q=Walk+of+Witness) | N/A |
-| 36 | [Kathleen Kennedy](http://twitter.com/search?q=Kathleen+Kennedy) | N/A |
-| 37 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
-| 38 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 39 | [North Wales](http://twitter.com/search?q=North+Wales) | N/A |
-| 40 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 41 | [Savile](http://twitter.com/search?q=Savile) | N/A |
-| 42 | [King of Kings](http://twitter.com/search?q=King+of+Kings) | N/A |
-| 43 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
-| 44 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
-| 45 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 46 | [Lucy Powell](http://twitter.com/search?q=Lucy+Powell) | N/A |
-| 47 | [Andrew Castle](http://twitter.com/search?q=Andrew+Castle) | N/A |
-| 48 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
-| 49 | [Great Friday](http://twitter.com/search?q=Great+Friday) | N/A |
-| 50 | [Lee Anderson](http://twitter.com/search?q=Lee+Anderson) | N/A |
+| 18 | [Hull FC](http://twitter.com/search?q=Hull+FC) | N/A |
+| 19 | [Scott Munn](http://twitter.com/search?q=Scott+Munn) | N/A |
+| 20 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 21 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 22 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 23 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 24 | [Heir to the Empire](http://twitter.com/search?q=Heir+to+the+Empire) | N/A |
+| 25 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 26 | [Bartley](http://twitter.com/search?q=Bartley) | N/A |
+| 27 | [Iwata](http://twitter.com/search?q=Iwata) | N/A |
+| 28 | [Hatate](http://twitter.com/search?q=Hatate) | N/A |
+| 29 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | Michael Oliver is a British actor and comedian. He is best known for his roles in the television series The Comic Strip Presents, The Young Ones, and Bottom. He has also appeared in films such as The Princess Bride, Hot Fuzz, and Shaun of the Dead. |
+| 30 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
+| 31 | [THE BERG](http://twitter.com/search?q=THE+BERG) | N/A |
+| 32 | [Tony Smith](http://twitter.com/search?q=Tony+Smith) | N/A |
+| 33 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
+| 34 | [Albion](http://twitter.com/search?q=Albion) | N/A |
+| 35 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
+| 36 | [The Acolyte](http://twitter.com/search?q=The+Acolyte) | N/A |
+| 37 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
+| 38 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 39 | [CHOO CHOO](http://twitter.com/search?q=CHOO+CHOO) | N/A |
+| 40 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
+| 41 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
+| 42 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 43 | [Dave Filoni](http://twitter.com/search?q=Dave+Filoni) | N/A |
+| 44 | [Lucasfilm](http://twitter.com/search?q=Lucasfilm) | N/A |
+| 45 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
+| 46 | [Lingfield](http://twitter.com/search?q=Lingfield) | N/A |
+| 47 | [Skeleton Crew](http://twitter.com/search?q=Skeleton+Crew) | N/A |
+| 48 | [Dike](http://twitter.com/search?q=Dike) | N/A |
+| 49 | [Bramall Lane](http://twitter.com/search?q=Bramall+Lane) | N/A |
+| 50 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
 
 
 
