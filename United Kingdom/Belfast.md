@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-04-08 06:16:49 UTC`
+📆 Last Updated: `2023-04-08 07:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 4 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 5 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 6 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
-| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 8 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
-| 9 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 10 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
-| 11 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 12 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
-| 13 | [Hull](http://twitter.com/search?q=Hull) | N/A |
-| 14 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
-| 15 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 16 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 17 | [Vincent Kompany](http://twitter.com/search?q=Vincent+Kompany) | N/A |
-| 18 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
-| 19 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
-| 20 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 21 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 22 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 23 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 24 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 25 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 26 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 27 | [jack clarke](http://twitter.com/search?q=jack+clarke) | N/A |
-| 28 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 29 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 4 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 5 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 6 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 7 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 8 | [#HolySaturday](http://twitter.com/search?q=%23HolySaturday) | N/A |
+| 9 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
+| 10 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 11 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
+| 12 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
+| 13 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
+| 14 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
+| 15 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
+| 16 | [Hull](http://twitter.com/search?q=Hull) | N/A |
+| 17 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 18 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
+| 19 | [Vincent Kompany](http://twitter.com/search?q=Vincent+Kompany) | N/A |
+| 20 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 21 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 22 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 23 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
+| 24 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 25 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
+| 26 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 27 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 28 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 30 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
-| 31 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 32 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 33 | [Saville](http://twitter.com/search?q=Saville) | N/A |
-| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 35 | [hugill](http://twitter.com/search?q=hugill) | N/A |
-| 36 | [McNair](http://twitter.com/search?q=McNair) | N/A |
-| 37 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 38 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 39 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 40 | [Independence for Wales](http://twitter.com/search?q=Independence+for+Wales) | N/A |
-| 41 | [Boro](http://twitter.com/search?q=Boro) | N/A |
-| 42 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 43 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 44 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 45 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 46 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 47 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
-| 48 | [Iwata](http://twitter.com/search?q=Iwata) | N/A |
-| 49 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 50 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 31 | [Saville](http://twitter.com/search?q=Saville) | N/A |
+| 32 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 33 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 34 | [hugill](http://twitter.com/search?q=hugill) | N/A |
+| 35 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 36 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 37 | [Jack Clarke](http://twitter.com/search?q=Jack+Clarke) | N/A |
+| 38 | [McNair](http://twitter.com/search?q=McNair) | N/A |
+| 39 | [Independence for Wales](http://twitter.com/search?q=Independence+for+Wales) | N/A |
+| 40 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 41 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 42 | [Baby Dog](http://twitter.com/search?q=Baby+Dog) | N/A |
+| 43 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 44 | [Glasgow Celtic](http://twitter.com/search?q=Glasgow+Celtic) | N/A |
+| 45 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 46 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
+| 47 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
+| 48 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 49 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 50 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 
 
 

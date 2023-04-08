@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-04-08 06:16:59 UTC`
+📆 Last Updated: `2023-04-08 07:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 2 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 3 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 4 | [#RCLRCSA](http://twitter.com/search?q=%23RCLRCSA) | N/A |
-| 5 | [#messmer](http://twitter.com/search?q=%23messmer) | N/A |
-| 6 | [#FRACOL](http://twitter.com/search?q=%23FRACOL) | N/A |
-| 7 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 8 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 9 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 10 | [CNEWS](http://twitter.com/search?q=CNEWS) | N/A |
-| 11 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 12 | [G.O.A.T.](http://twitter.com/search?q=G.O.A.T.) | N/A |
+| 1 | [#MrR4bb1tLeGOAT](http://twitter.com/search?q=%23MrR4bb1tLeGOAT) | N/A |
+| 2 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
+| 3 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 4 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 5 | [#RCLRCSA](http://twitter.com/search?q=%23RCLRCSA) | N/A |
+| 6 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 7 | [#FRACOL](http://twitter.com/search?q=%23FRACOL) | N/A |
+| 8 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 9 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 10 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 11 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
+| 12 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 13 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
-| 14 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 14 | [Vendredi Saint](http://twitter.com/search?q=Vendredi+Saint) | N/A |
 | 15 | [Rotonde](http://twitter.com/search?q=Rotonde) | N/A |
-| 16 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 17 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 18 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 19 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 20 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 21 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
-| 22 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 23 | [Grigny](http://twitter.com/search?q=Grigny) | N/A |
-| 24 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 25 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 26 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 16 | [Charles Biétry](http://twitter.com/search?q=Charles+Bi%c3%a9try) | N/A |
+| 17 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 18 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 19 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 20 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 21 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 22 | [Grigny](http://twitter.com/search?q=Grigny) | N/A |
+| 23 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
+| 24 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 25 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 26 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
 | 27 | [brice caron](http://twitter.com/search?q=brice+caron) | N/A |
-| 28 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
-| 29 | [Le Sommer](http://twitter.com/search?q=Le+Sommer) | N/A |
-| 30 | [Pablo Picasso](http://twitter.com/search?q=Pablo+Picasso) | N/A |
-| 31 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
-| 32 | [Mashle](http://twitter.com/search?q=Mashle) | N/A |
-| 33 | [Olive](http://twitter.com/search?q=Olive) | N/A |
-| 34 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 35 | [benjamin epps](http://twitter.com/search?q=benjamin+epps) | N/A |
-| 36 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 37 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 38 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 39 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
-| 40 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 41 | [Edwy Plenel](http://twitter.com/search?q=Edwy+Plenel) | N/A |
-| 42 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
-| 43 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 44 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 45 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
-| 46 | [Denise](http://twitter.com/search?q=Denise) | N/A |
-| 47 | [Maïwenn](http://twitter.com/search?q=Ma%c3%afwenn) | N/A |
-| 48 | [Didi Stone](http://twitter.com/search?q=Didi+Stone) | N/A |
+| 28 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 29 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 30 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
+| 31 | [Lyla](http://twitter.com/search?q=Lyla) | N/A |
+| 32 | [Le Sommer](http://twitter.com/search?q=Le+Sommer) | N/A |
+| 33 | [Edwy Plenel](http://twitter.com/search?q=Edwy+Plenel) | N/A |
+| 34 | [Olive](http://twitter.com/search?q=Olive) | N/A |
+| 35 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 36 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 37 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
+| 38 | [benjamin epps](http://twitter.com/search?q=benjamin+epps) | N/A |
+| 39 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
+| 40 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 41 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 42 | [Mashle](http://twitter.com/search?q=Mashle) | N/A |
+| 43 | [Maïwenn](http://twitter.com/search?q=Ma%c3%afwenn) | N/A |
+| 44 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 45 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
+| 46 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 47 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
+| 48 | [Crimée](http://twitter.com/search?q=Crim%c3%a9e) | N/A |
 
 
 

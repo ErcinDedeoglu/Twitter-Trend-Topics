@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-08 06:16:45 UTC`
+📆 Last Updated: `2023-04-08 07:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#モンスト](http://twitter.com/search?q=%23%e3%83%a2%e3%83%b3%e3%82%b9%e3%83%88) | #モンスト is a hashtag used on social media platforms such as Twitter and Instagram to refer to the mobile game Monster Strike. The English translation of the hashtag is "Monster Strike". |
-| 2 | [#TBSドラコレ](http://twitter.com/search?q=%23TBS%e3%83%89%e3%83%a9%e3%82%b3%e3%83%ac) | N/A |
-| 3 | [ユニコーンライオン](http://twitter.com/search?q=%e3%83%a6%e3%83%8b%e3%82%b3%e3%83%bc%e3%83%b3%e3%83%a9%e3%82%a4%e3%82%aa%e3%83%b3) | N/A |
-| 4 | [アルモンテ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%a2%e3%83%b3%e3%83%86) | N/A |
-| 5 | [メモリー](http://twitter.com/search?q=%e3%83%a1%e3%83%a2%e3%83%aa%e3%83%bc) | N/A |
-| 6 | [#キンプる](http://twitter.com/search?q=%23%e3%82%ad%e3%83%b3%e3%83%97%e3%82%8b) | #キンプる is a Japanese hashtag that is used to express enthusiasm or excitement. It is derived from the phrase "kinpuru," which roughly translates to "let's go for it!" or "let's do it!" in English. |
-| 7 | [#GobackModi](http://twitter.com/search?q=%23GobackModi) | N/A |
-| 8 | [Get Wildの日](http://twitter.com/search?q=Get+Wild%e3%81%ae%e6%97%a5) | N/A |
-| 9 | [コピー本](http://twitter.com/search?q=%e3%82%b3%e3%83%94%e3%83%bc%e6%9c%ac) | N/A |
-| 10 | [中綴じホチキス](http://twitter.com/search?q=%e4%b8%ad%e7%b6%b4%e3%81%98%e3%83%9b%e3%83%81%e3%82%ad%e3%82%b9) | N/A |
-| 11 | [#SFormula](http://twitter.com/search?q=%23SFormula) | N/A |
-| 12 | [スタメン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 13 | [ドバイオナー](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4%e3%82%aa%e3%83%8a%e3%83%bc) | N/A |
-| 14 | [ガゼルマン](http://twitter.com/search?q=%e3%82%ac%e3%82%bc%e3%83%ab%e3%83%9e%e3%83%b3) | N/A |
-| 15 | [ワンバン](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%90%e3%83%b3) | N/A |
-| 16 | [涌井さん](http://twitter.com/search?q=%e6%b6%8c%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 17 | [期日前投票](http://twitter.com/search?q=%e6%9c%9f%e6%97%a5%e5%89%8d%e6%8a%95%e7%a5%a8) | N/A |
-| 18 | [ハギノピリナ](http://twitter.com/search?q=%e3%83%8f%e3%82%ae%e3%83%8e%e3%83%94%e3%83%aa%e3%83%8a) | N/A |
-| 19 | [山本雄大](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e9%9b%84%e5%a4%a7) | N/A |
-| 20 | [ピーターズ](http://twitter.com/search?q=%e3%83%94%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%ba) | N/A |
-| 21 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 22 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
-| 23 | [確定演出](http://twitter.com/search?q=%e7%a2%ba%e5%ae%9a%e6%bc%94%e5%87%ba) | 確定演出 (Kakutei Enshu) is a Japanese phrase that means "confirmed performance". It is used to refer to a performance that has been officially scheduled and confirmed. |
-| 24 | [コラボキャラ](http://twitter.com/search?q=%e3%82%b3%e3%83%a9%e3%83%9c%e3%82%ad%e3%83%a3%e3%83%a9) | N/A |
-| 25 | [デビッドソン](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%83%e3%83%89%e3%82%bd%e3%83%b3) | N/A |
-| 26 | [アオラキ](http://twitter.com/search?q=%e3%82%a2%e3%82%aa%e3%83%a9%e3%82%ad) | N/A |
-| 27 | [尾仲くん](http://twitter.com/search?q=%e5%b0%be%e4%bb%b2%e3%81%8f%e3%82%93) | N/A |
-| 28 | [ファウスト](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a6%e3%82%b9%e3%83%88) | N/A |
-| 29 | [ノイジー](http://twitter.com/search?q=%e3%83%8e%e3%82%a4%e3%82%b8%e3%83%bc) | N/A |
-| 30 | [मंगल पांडे](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%97%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%82%e0%a4%a1%e0%a5%87) | N/A |
-| 31 | [サンドバル](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%89%e3%83%90%e3%83%ab) | N/A |
-| 32 | [花まつり](http://twitter.com/search?q=%e8%8a%b1%e3%81%be%e3%81%a4%e3%82%8a) | N/A |
-| 33 | [高橋光成](http://twitter.com/search?q=%e9%ab%98%e6%a9%8b%e5%85%89%e6%88%90) | N/A |
-| 34 | [ヴェルディ](http://twitter.com/search?q=%e3%83%b4%e3%82%a7%e3%83%ab%e3%83%87%e3%82%a3) | N/A |
-| 35 | [ボールデッド](http://twitter.com/search?q=%e3%83%9c%e3%83%bc%e3%83%ab%e3%83%87%e3%83%83%e3%83%89) | N/A |
-| 36 | [ドルチェモア](http://twitter.com/search?q=%e3%83%89%e3%83%ab%e3%83%81%e3%82%a7%e3%83%a2%e3%82%a2) | N/A |
-| 37 | [グリフィン](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%95%e3%82%a3%e3%83%b3) | N/A |
-| 38 | [選挙カー](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%82%ab%e3%83%bc) | N/A |
-| 39 | [エンゼルスの中継ぎ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%bc%e3%83%ab%e3%82%b9%e3%81%ae%e4%b8%ad%e7%b6%99%e3%81%8e) | N/A |
-| 40 | [阪神牝馬S](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e7%89%9d%e9%a6%acS) | N/A |
-| 41 | [ピンハイ](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%83%8f%e3%82%a4) | ピンハイ is a Japanese phrase that literally translates to "high-pitched." It is used to describe a person's voice when they are speaking in an overly loud or excited manner. |
-| 42 | [ノーゴール](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%b4%e3%83%bc%e3%83%ab) | N/A |
-| 43 | [University of Oklahoma](http://twitter.com/search?q=University+of+Oklahoma) | N/A |
-| 44 | [ウインシャーロット](http://twitter.com/search?q=%e3%82%a6%e3%82%a4%e3%83%b3%e3%82%b7%e3%83%a3%e3%83%bc%e3%83%ad%e3%83%83%e3%83%88) | N/A |
-| 45 | [石川昂弥](http://twitter.com/search?q=%e7%9f%b3%e5%b7%9d%e6%98%82%e5%bc%a5) | 石川昂弥 is a Japanese name. It is composed of two characters: 石 (ishi) meaning "stone" and 川 (kawa) meaning "river"; 昂 (taka) meaning "high" and 弥 (ya) meaning "to increase". In English, it can be translated to mean "increasingly high stone river". |
-| 46 | [ニュージーランド](http://twitter.com/search?q=%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 47 | [ワンバウンド](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%90%e3%82%a6%e3%83%b3%e3%83%89) | N/A |
-| 48 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
-| 49 | [ルージュスティリア](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%82%b8%e3%83%a5%e3%82%b9%e3%83%86%e3%82%a3%e3%83%aa%e3%82%a2) | N/A |
-| 50 | [ハーゲット](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%82%b2%e3%83%83%e3%83%88) | N/A |
+| 1 | [エエヤン](http://twitter.com/search?q=%e3%82%a8%e3%82%a8%e3%83%a4%e3%83%b3) | N/A |
+| 2 | [ドルチェモア](http://twitter.com/search?q=%e3%83%89%e3%83%ab%e3%83%81%e3%82%a7%e3%83%a2%e3%82%a2) | N/A |
+| 3 | [サウンドビバーチェ](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%83%b3%e3%83%89%e3%83%93%e3%83%90%e3%83%bc%e3%83%81%e3%82%a7) | N/A |
+| 4 | [ガゼルマン](http://twitter.com/search?q=%e3%82%ac%e3%82%bc%e3%83%ab%e3%83%9e%e3%83%b3) | N/A |
+| 5 | [れおほー](http://twitter.com/search?q=%e3%82%8c%e3%81%8a%e3%81%bb%e3%83%bc) | N/A |
+| 6 | [守備妨害](http://twitter.com/search?q=%e5%ae%88%e5%82%99%e5%a6%a8%e5%ae%b3) | N/A |
+| 7 | [阪神牝馬S](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e7%89%9d%e9%a6%acS) | N/A |
+| 8 | [#モンスト](http://twitter.com/search?q=%23%e3%83%a2%e3%83%b3%e3%82%b9%e3%83%88) | #モンスト is a hashtag used on social media platforms such as Twitter and Instagram to refer to the mobile game Monster Strike. The English translation of the hashtag is "Monster Strike". |
+| 9 | [ニュージーランド](http://twitter.com/search?q=%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 10 | [#SFormula](http://twitter.com/search?q=%23SFormula) | N/A |
+| 11 | [ウインシャーロット](http://twitter.com/search?q=%e3%82%a6%e3%82%a4%e3%83%b3%e3%82%b7%e3%83%a3%e3%83%bc%e3%83%ad%e3%83%83%e3%83%88) | N/A |
+| 12 | [サブライムアンセム](http://twitter.com/search?q=%e3%82%b5%e3%83%96%e3%83%a9%e3%82%a4%e3%83%a0%e3%82%a2%e3%83%b3%e3%82%bb%e3%83%a0) | N/A |
+| 13 | [ユニコーンライオン](http://twitter.com/search?q=%e3%83%a6%e3%83%8b%e3%82%b3%e3%83%bc%e3%83%b3%e3%83%a9%e3%82%a4%e3%82%aa%e3%83%b3) | N/A |
+| 14 | [ウンブライル](http://twitter.com/search?q=%e3%82%a6%e3%83%b3%e3%83%96%e3%83%a9%e3%82%a4%e3%83%ab) | N/A |
+| 15 | [Get Wildの日](http://twitter.com/search?q=Get+Wild%e3%81%ae%e6%97%a5) | N/A |
+| 16 | [ピンハイ](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%83%8f%e3%82%a4) | ピンハイ is a Japanese phrase that literally translates to "high-pitched." It is used to describe a person's voice when they are speaking in an overly loud or excited manner. |
+| 17 | [#TBSドラコレ](http://twitter.com/search?q=%23TBS%e3%83%89%e3%83%a9%e3%82%b3%e3%83%ac) | N/A |
+| 18 | [#spulse](http://twitter.com/search?q=%23spulse) | N/A |
+| 19 | [モリアーナ](http://twitter.com/search?q=%e3%83%a2%e3%83%aa%e3%82%a2%e3%83%bc%e3%83%8a) | N/A |
+| 20 | [アルモンテ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%a2%e3%83%b3%e3%83%86) | N/A |
+| 21 | [ママコチャ](http://twitter.com/search?q=%e3%83%9e%e3%83%9e%e3%82%b3%e3%83%81%e3%83%a3) | N/A |
+| 22 | [ルージュスティリア](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%82%b8%e3%83%a5%e3%82%b9%e3%83%86%e3%82%a3%e3%83%aa%e3%82%a2) | N/A |
+| 23 | [涌井さん](http://twitter.com/search?q=%e6%b6%8c%e4%ba%95%e3%81%95%e3%82%93) | N/A |
+| 24 | [コピー本](http://twitter.com/search?q=%e3%82%b3%e3%83%94%e3%83%bc%e6%9c%ac) | N/A |
+| 25 | [シャンパンカラー](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%b3%e3%83%91%e3%83%b3%e3%82%ab%e3%83%a9%e3%83%bc) | シャンパンカラー (shanpankara) is a Japanese term for a light, champagne-like color. It is often used to describe clothing, accessories, and other items that have a pale yellow or beige hue. In English, it can be translated as "champagne color". |
+| 26 | [#GobackModi](http://twitter.com/search?q=%23GobackModi) | N/A |
+| 27 | [コスタボニータ](http://twitter.com/search?q=%e3%82%b3%e3%82%b9%e3%82%bf%e3%83%9c%e3%83%8b%e3%83%bc%e3%82%bf) | N/A |
+| 28 | [プロ初ホームラン](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e5%88%9d%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
+| 29 | [メモリー](http://twitter.com/search?q=%e3%83%a1%e3%83%a2%e3%83%aa%e3%83%bc) | N/A |
+| 30 | [中綴じホチキス](http://twitter.com/search?q=%e4%b8%ad%e7%b6%b4%e3%81%98%e3%83%9b%e3%83%81%e3%82%ad%e3%82%b9) | N/A |
+| 31 | [高橋光成](http://twitter.com/search?q=%e9%ab%98%e6%a9%8b%e5%85%89%e6%88%90) | N/A |
+| 32 | [スタメン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
+| 33 | [坂本ホームラン](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
+| 34 | [期日前投票](http://twitter.com/search?q=%e6%9c%9f%e6%97%a5%e5%89%8d%e6%8a%95%e7%a5%a8) | N/A |
+| 35 | [エスコバー](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%82%b3%e3%83%90%e3%83%bc) | N/A |
+| 36 | [エスパルス](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%83%91%e3%83%ab%e3%82%b9) | N/A |
+| 37 | [ペイトン](http://twitter.com/search?q=%e3%83%9a%e3%82%a4%e3%83%88%e3%83%b3) | N/A |
+| 38 | [イズジョーノキセキ](http://twitter.com/search?q=%e3%82%a4%e3%82%ba%e3%82%b8%e3%83%a7%e3%83%bc%e3%83%8e%e3%82%ad%e3%82%bb%e3%82%ad) | イズジョーノキセキ is a phrase from the Japanese manga series "Kimi no Na wa" (Your Name). It translates to "This is my miracle". It is a phrase used by the main character, Taki, to express his feelings of joy and amazement at the events that have taken place in his life. |
+| 39 | [山本雄大](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e9%9b%84%e5%a4%a7) | N/A |
+| 40 | [ドバイオナー](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4%e3%82%aa%e3%83%8a%e3%83%bc) | N/A |
+| 41 | [グリフィン](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%95%e3%82%a3%e3%83%b3) | N/A |
+| 42 | [スクイズ](http://twitter.com/search?q=%e3%82%b9%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
+| 43 | [ヴェルディ](http://twitter.com/search?q=%e3%83%b4%e3%82%a7%e3%83%ab%e3%83%87%e3%82%a3) | N/A |
+| 44 | [オセフン](http://twitter.com/search?q=%e3%82%aa%e3%82%bb%e3%83%95%e3%83%b3) | N/A |
+| 45 | [龍空ホームラン](http://twitter.com/search?q=%e9%be%8d%e7%a9%ba%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
+| 46 | [リューク](http://twitter.com/search?q=%e3%83%aa%e3%83%a5%e3%83%bc%e3%82%af) | N/A |
+| 47 | [アンドヴァラナウト](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%89%e3%83%b4%e3%82%a1%e3%83%a9%e3%83%8a%e3%82%a6%e3%83%88) | アンドヴァラナウト is a Japanese phrase that translates to "And Vanquished". It is used to express the feeling of being defeated or overwhelmed. |
+| 48 | [メイクアスナッチ](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%82%af%e3%82%a2%e3%82%b9%e3%83%8a%e3%83%83%e3%83%81) | メイクアスナッチ (Make As-Natch) is a Japanese term used to describe the process of making something look as natural as possible. It is often used in the context of makeup, where it refers to techniques that make the makeup look as if it was not applied at all. |
+| 49 | [チーム1号](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e3%83%a01%e5%8f%b7) | N/A |
+| 50 | [りゅーく](http://twitter.com/search?q=%e3%82%8a%e3%82%85%e3%83%bc%e3%81%8f) | N/A |
 
 
 
