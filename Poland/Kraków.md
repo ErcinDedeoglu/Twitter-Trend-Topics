@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-04-08 05:17:21 UTC`
+📆 Last Updated: `2023-04-08 06:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [Witek](http://twitter.com/search?q=Witek) | N/A |
 | 2 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
 | 3 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
-| 4 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
-| 5 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
-| 6 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 7 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
-| 8 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
-| 9 | [nawalnego](http://twitter.com/search?q=nawalnego) | N/A |
-| 10 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 11 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
-| 12 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
-| 13 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
-| 14 | [#pistozlo](http://twitter.com/search?q=%23pistozlo) | N/A |
-| 15 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 16 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
+| 4 | [#WielkaSobota](http://twitter.com/search?q=%23WielkaSobota) | N/A |
+| 5 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
+| 6 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
+| 7 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
+| 8 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
+| 9 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
+| 10 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
+| 11 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
+| 12 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 13 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
+| 14 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
+| 15 | [Wielkiej Soboty](http://twitter.com/search?q=Wielkiej+Soboty) | N/A |
+| 16 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
 | 17 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
 | 18 | [#ksiazkowemole](http://twitter.com/search?q=%23ksiazkowemole) | N/A |
-| 19 | [radio zet](http://twitter.com/search?q=radio+zet) | N/A |
-| 20 | [#mojkumpelwa](http://twitter.com/search?q=%23mojkumpelwa) | N/A |
-| 21 | [klubowy goat](http://twitter.com/search?q=klubowy+goat) | N/A |
-| 22 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 24 | [krrit](http://twitter.com/search?q=krrit) | N/A |
-| 25 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
-| 26 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
-| 27 | [Wielkiego Piątku](http://twitter.com/search?q=Wielkiego+Pi%c4%85tku) | N/A |
-| 28 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 29 | [witkowej](http://twitter.com/search?q=witkowej) | N/A |
-| 30 | [Wielka Sobota](http://twitter.com/search?q=Wielka+Sobota) | N/A |
-| 31 | [bugaj](http://twitter.com/search?q=bugaj) | N/A |
-| 32 | [vuko](http://twitter.com/search?q=vuko) | N/A |
-| 33 | [HIENY](http://twitter.com/search?q=HIENY) | N/A |
-| 34 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 35 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
-| 36 | [koloseum](http://twitter.com/search?q=koloseum) | N/A |
-| 37 | [t-64](http://twitter.com/search?q=t-64) | N/A |
-| 38 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 39 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 40 | [MSWiA](http://twitter.com/search?q=MSWiA) | N/A |
-| 41 | [politechniki łódzkiej](http://twitter.com/search?q=politechniki+%c5%82%c3%b3dzkiej) | N/A |
-| 42 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
-| 43 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 44 | [bednorz](http://twitter.com/search?q=bednorz) | N/A |
-| 45 | [wielki czwartek](http://twitter.com/search?q=wielki+czwartek) | N/A |
-| 46 | [empoli](http://twitter.com/search?q=empoli) | N/A |
-| 47 | [paweł walenia](http://twitter.com/search?q=pawe%c5%82+walenia) | N/A |
-| 48 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 49 | [murem](http://twitter.com/search?q=murem) | N/A |
-| 50 | [pani wando](http://twitter.com/search?q=pani+wando) | N/A |
+| 19 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
+| 20 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 21 | [#mojkumpelwa](http://twitter.com/search?q=%23mojkumpelwa) | N/A |
+| 22 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
+| 23 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 24 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
+| 25 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 26 | [klubowy goat](http://twitter.com/search?q=klubowy+goat) | N/A |
+| 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 28 | [Radio Zet](http://twitter.com/search?q=Radio+Zet) | N/A |
+| 29 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
+| 30 | [Wielkiego Piątku](http://twitter.com/search?q=Wielkiego+Pi%c4%85tku) | N/A |
+| 31 | [zaksa](http://twitter.com/search?q=zaksa) | N/A |
+| 32 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 33 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 34 | [KRRiT](http://twitter.com/search?q=KRRiT) | N/A |
+| 35 | [bugaj](http://twitter.com/search?q=bugaj) | N/A |
+| 36 | [Droga Krzyżowa](http://twitter.com/search?q=Droga+Krzy%c5%bcowa) | N/A |
+| 37 | [vuko](http://twitter.com/search?q=vuko) | N/A |
+| 38 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
+| 39 | [bartosiak](http://twitter.com/search?q=bartosiak) | N/A |
+| 40 | [murem](http://twitter.com/search?q=murem) | N/A |
+| 41 | [Hipokryzja](http://twitter.com/search?q=Hipokryzja) | N/A |
+| 42 | [T-64](http://twitter.com/search?q=T-64) | N/A |
+| 43 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 44 | [Grzesiu](http://twitter.com/search?q=Grzesiu) | N/A |
+| 45 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
+| 46 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
+| 47 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
+| 48 | [MSWiA](http://twitter.com/search?q=MSWiA) | N/A |
+| 49 | [Jemenu](http://twitter.com/search?q=Jemenu) | N/A |
+| 50 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-04-08 05:17:40 UTC`
+📆 Last Updated: `2023-04-08 06:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 2 | [Soyinka](http://twitter.com/search?q=Soyinka) | N/A |
-| 3 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
+| 2 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
+| 3 | [Soyinka](http://twitter.com/search?q=Soyinka) | N/A |
 | 4 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
 | 5 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 6 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 7 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 8 | [Datti](http://twitter.com/search?q=Datti) | N/A |
-| 9 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 10 | [#RamadanDay17](http://twitter.com/search?q=%23RamadanDay17) | N/A |
-| 11 | [#thefaceofgod](http://twitter.com/search?q=%23thefaceofgod) | N/A |
-| 12 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 13 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 14 | [#thepassion](http://twitter.com/search?q=%23thepassion) | N/A |
-| 15 | [Toyin Abraham](http://twitter.com/search?q=Toyin+Abraham) | N/A |
-| 16 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
-| 17 | [Brother Bernard](http://twitter.com/search?q=Brother+Bernard) | N/A |
-| 18 | [Tobi Bakre](http://twitter.com/search?q=Tobi+Bakre) | N/A |
-| 19 | [Julius Abure](http://twitter.com/search?q=Julius+Abure) | N/A |
-| 20 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 7 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
+| 8 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 9 | [Datti](http://twitter.com/search?q=Datti) | N/A |
+| 10 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 11 | [Loyalty](http://twitter.com/search?q=Loyalty) | N/A |
+| 12 | [#thefaceofgod](http://twitter.com/search?q=%23thefaceofgod) | N/A |
+| 13 | [#RamadanDay17](http://twitter.com/search?q=%23RamadanDay17) | N/A |
+| 14 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 15 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 16 | [Toyin Abraham](http://twitter.com/search?q=Toyin+Abraham) | N/A |
+| 17 | [#m3lonep](http://twitter.com/search?q=%23m3lonep) | N/A |
+| 18 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
+| 19 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 20 | [Tobi Bakre](http://twitter.com/search?q=Tobi+Bakre) | N/A |
 | 21 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 23 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 24 | [Robben](http://twitter.com/search?q=Robben) | N/A |
-| 25 | [North](http://twitter.com/search?q=North) | N/A |
-| 26 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 27 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 28 | [Lamidi Apapa](http://twitter.com/search?q=Lamidi+Apapa) | N/A |
-| 29 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 30 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 31 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 32 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
-| 33 | [Loyalty](http://twitter.com/search?q=Loyalty) | N/A |
-| 34 | [PROJECT 24 CHALLENGE](http://twitter.com/search?q=PROJECT+24+CHALLENGE) | N/A |
-| 35 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 36 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 37 | [Black Kamoru](http://twitter.com/search?q=Black+Kamoru) | N/A |
-| 38 | [Debate](http://twitter.com/search?q=Debate) | N/A |
-| 39 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
-| 40 | [yvonne the brand](http://twitter.com/search?q=yvonne+the+brand) | N/A |
-| 41 | [Sahoor](http://twitter.com/search?q=Sahoor) | N/A |
-| 42 | [Kazeem](http://twitter.com/search?q=Kazeem) | N/A |
-| 43 | [Dele Alake](http://twitter.com/search?q=Dele+Alake) | N/A |
-| 44 | [Congratulations Mayor](http://twitter.com/search?q=Congratulations+Mayor) | N/A |
-| 45 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
-| 46 | [Disturbing U](http://twitter.com/search?q=Disturbing+U) | N/A |
-| 47 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 48 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 49 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
+| 22 | [Julius Abure](http://twitter.com/search?q=Julius+Abure) | N/A |
+| 23 | [Brother Bernard](http://twitter.com/search?q=Brother+Bernard) | N/A |
+| 24 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 25 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 26 | [North](http://twitter.com/search?q=North) | N/A |
+| 27 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 28 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
+| 29 | [Robben](http://twitter.com/search?q=Robben) | N/A |
+| 30 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 31 | [Sahoor](http://twitter.com/search?q=Sahoor) | N/A |
+| 32 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 33 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
+| 34 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 35 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 36 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
+| 37 | [Lamidi Apapa](http://twitter.com/search?q=Lamidi+Apapa) | N/A |
+| 38 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
+| 39 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 40 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 41 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 42 | [PROJECT 24 CHALLENGE](http://twitter.com/search?q=PROJECT+24+CHALLENGE) | N/A |
+| 43 | [Ruffy](http://twitter.com/search?q=Ruffy) | N/A |
+| 44 | [yvonne the brand](http://twitter.com/search?q=yvonne+the+brand) | N/A |
+| 45 | [Dele Alake](http://twitter.com/search?q=Dele+Alake) | N/A |
+| 46 | [Kazeem](http://twitter.com/search?q=Kazeem) | N/A |
+| 47 | [Congratulations Mayor](http://twitter.com/search?q=Congratulations+Mayor) | N/A |
+| 48 | [Jesus Christ](http://twitter.com/search?q=Jesus+Christ) | N/A |
+| 49 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
 
 
 

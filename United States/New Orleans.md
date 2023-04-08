@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Orleans
 
-📆 Last Updated: `2023-04-08 05:17:57 UTC`
+📆 Last Updated: `2023-04-08 06:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
 | 2 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
 | 3 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 5 | [University of Oklahoma](http://twitter.com/search?q=University+of+Oklahoma) | N/A |
+| 4 | [University of Oklahoma](http://twitter.com/search?q=University+of+Oklahoma) | N/A |
+| 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
 | 6 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
 | 7 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 8 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 9 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 10 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 8 | [#NIJIPuyoTetris2023](http://twitter.com/search?q=%23NIJIPuyoTetris2023) | N/A |
+| 9 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 10 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
 | 11 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
 | 12 | [Nevin](http://twitter.com/search?q=Nevin) | N/A |
-| 13 | [Swatting](http://twitter.com/search?q=Swatting) | N/A |
+| 13 | [Herget](http://twitter.com/search?q=Herget) | N/A |
 | 14 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 15 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 16 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
-| 17 | [Lebron and AD](http://twitter.com/search?q=Lebron+and+AD) | N/A |
-| 18 | [Herget](http://twitter.com/search?q=Herget) | N/A |
-| 19 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 20 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 21 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 22 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
-| 23 | [Julia Hart](http://twitter.com/search?q=Julia+Hart) | N/A |
-| 24 | [Bizzy](http://twitter.com/search?q=Bizzy) | N/A |
-| 25 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 26 | [ALL CLEAR](http://twitter.com/search?q=ALL+CLEAR) | N/A |
-| 27 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 28 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
-| 29 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 30 | [Biyombo](http://twitter.com/search?q=Biyombo) | N/A |
-| 31 | [Billie Starkz](http://twitter.com/search?q=Billie+Starkz) | N/A |
-| 32 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
-| 33 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 34 | [Jaden Springer](http://twitter.com/search?q=Jaden+Springer) | N/A |
-| 35 | [Ozzie](http://twitter.com/search?q=Ozzie) | N/A |
-| 36 | [Cutler](http://twitter.com/search?q=Cutler) | N/A |
-| 37 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
-| 38 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
-| 39 | [Nakazawa](http://twitter.com/search?q=Nakazawa) | N/A |
-| 40 | [Evan Longoria](http://twitter.com/search?q=Evan+Longoria) | N/A |
-| 41 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 42 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
-| 43 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 44 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 45 | [Bo Bichette](http://twitter.com/search?q=Bo+Bichette) | N/A |
-| 46 | [ladd](http://twitter.com/search?q=ladd) | N/A |
-| 47 | [Swerve](http://twitter.com/search?q=Swerve) | Swerve is a slang term that means to suddenly change direction or to avoid something. It can also be used to describe a sudden change in attitude or behavior. |
-| 48 | [Scanner](http://twitter.com/search?q=Scanner) | N/A |
-| 49 | [nicholas braun](http://twitter.com/search?q=nicholas+braun) | N/A |
+| 15 | [Swatting](http://twitter.com/search?q=Swatting) | N/A |
+| 16 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 17 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 18 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
+| 19 | [Lebron and AD](http://twitter.com/search?q=Lebron+and+AD) | N/A |
+| 20 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 21 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 22 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 23 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
+| 24 | [ALL CLEAR](http://twitter.com/search?q=ALL+CLEAR) | N/A |
+| 25 | [Julia Hart](http://twitter.com/search?q=Julia+Hart) | N/A |
+| 26 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 27 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 28 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 29 | [Billie Starkz](http://twitter.com/search?q=Billie+Starkz) | N/A |
+| 30 | [Bizzy](http://twitter.com/search?q=Bizzy) | N/A |
+| 31 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 32 | [Biyombo](http://twitter.com/search?q=Biyombo) | N/A |
+| 33 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
+| 34 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 35 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
+| 36 | [Ozzie](http://twitter.com/search?q=Ozzie) | N/A |
+| 37 | [Girly Teengirl](http://twitter.com/search?q=Girly+Teengirl) | N/A |
+| 38 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 39 | [MAGA Michelle](http://twitter.com/search?q=MAGA+Michelle) | N/A |
+| 40 | [Nakazawa](http://twitter.com/search?q=Nakazawa) | N/A |
+| 41 | [Evan Longoria](http://twitter.com/search?q=Evan+Longoria) | N/A |
+| 42 | [Bo Bichette](http://twitter.com/search?q=Bo+Bichette) | N/A |
+| 43 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
+| 44 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 45 | [nicholas braun](http://twitter.com/search?q=nicholas+braun) | N/A |
+| 46 | [Cutler](http://twitter.com/search?q=Cutler) | N/A |
+| 47 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
+| 48 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 49 | [Scanner](http://twitter.com/search?q=Scanner) | N/A |
 
 
 

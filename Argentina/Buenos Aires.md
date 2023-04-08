@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-04-08 05:17:21 UTC`
+📆 Last Updated: `2023-04-08 06:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 2 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
-| 3 | [Vélez](http://twitter.com/search?q=V%c3%a9lez) | N/A |
-| 4 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
-| 5 | [#undinamoesquizo](http://twitter.com/search?q=%23undinamoesquizo) | N/A |
-| 6 | [#Esquizanto](http://twitter.com/search?q=%23Esquizanto) | N/A |
-| 7 | [Godin](http://twitter.com/search?q=Godin) | N/A |
-| 8 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 9 | [Seoane](http://twitter.com/search?q=Seoane) | N/A |
-| 10 | [#LasVacasNoTienenFeriado](http://twitter.com/search?q=%23LasVacasNoTienenFeriado) | N/A |
-| 11 | [Janson](http://twitter.com/search?q=Janson) | N/A |
-| 12 | [#NickiResponde](http://twitter.com/search?q=%23NickiResponde) | N/A |
-| 13 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
-| 14 | [Burian](http://twitter.com/search?q=Burian) | N/A |
-| 15 | [#LaPasionDeCristo](http://twitter.com/search?q=%23LaPasionDeCristo) | N/A |
-| 16 | [La Continental](http://twitter.com/search?q=La+Continental) | N/A |
-| 17 | [Ordoñez](http://twitter.com/search?q=Ordo%c3%b1ez) | N/A |
-| 18 | [Brizuela](http://twitter.com/search?q=Brizuela) | N/A |
-| 19 | [Prestianni](http://twitter.com/search?q=Prestianni) | N/A |
-| 20 | [Valoyes](http://twitter.com/search?q=Valoyes) | N/A |
-| 21 | [Garro](http://twitter.com/search?q=Garro) | N/A |
-| 22 | [Michael Santos](http://twitter.com/search?q=Michael+Santos) | N/A |
-| 23 | [Remedi](http://twitter.com/search?q=Remedi) | N/A |
-| 24 | [Pratto](http://twitter.com/search?q=Pratto) | N/A |
-| 25 | [Sanguinetti](http://twitter.com/search?q=Sanguinetti) | N/A |
-| 26 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 27 | [Taladro](http://twitter.com/search?q=Taladro) | N/A |
-| 28 | [Liniers](http://twitter.com/search?q=Liniers) | N/A |
-| 29 | [Milton](http://twitter.com/search?q=Milton) | N/A |
-| 30 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 31 | [Flor Moyano](http://twitter.com/search?q=Flor+Moyano) | N/A |
-| 32 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
-| 33 | [Barbies](http://twitter.com/search?q=Barbies) | N/A |
-| 34 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 35 | [Platense](http://twitter.com/search?q=Platense) | N/A |
-| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 37 | [Chavez](http://twitter.com/search?q=Chavez) | N/A |
-| 38 | [Sand](http://twitter.com/search?q=Sand) | N/A |
-| 39 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
-| 40 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 41 | [Carranza](http://twitter.com/search?q=Carranza) | N/A |
-| 42 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 43 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 44 | [Florencia](http://twitter.com/search?q=Florencia) | N/A |
-| 45 | [Kudelka](http://twitter.com/search?q=Kudelka) | N/A |
-| 46 | [Exceso](http://twitter.com/search?q=Exceso) | N/A |
-| 47 | [Blas](http://twitter.com/search?q=Blas) | N/A |
-| 48 | [Canosa](http://twitter.com/search?q=Canosa) | N/A |
-| 49 | [Spreen](http://twitter.com/search?q=Spreen) | Spreen is a German word that means to scurry or hurry. It is often used to describe the quick movements of small animals, such as mice or squirrels. |
-| 50 | [Videla](http://twitter.com/search?q=Videla) | Videla is a Spanish surname derived from the Latin word videlicet, meaning "namely". It is most commonly associated with former Argentine dictator Jorge Rafael Videla. |
+| 1 | [#undinamoesquizo](http://twitter.com/search?q=%23undinamoesquizo) | N/A |
+| 2 | [#Esquizanto](http://twitter.com/search?q=%23Esquizanto) | N/A |
+| 3 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 4 | [Roncaglia](http://twitter.com/search?q=Roncaglia) | Roncaglia is a type of Italian folk dance that originated in the region of Emilia-Romagna. It is a lively, fast-paced dance that involves couples dancing in a circle and performing intricate steps and turns. The name Roncaglia comes from the Italian word for "round," as the dance is traditionally performed in a circular formation. In English, Roncaglia means "round dance." |
+| 5 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 6 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
+| 7 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
+| 8 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
+| 9 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 10 | [Vélez](http://twitter.com/search?q=V%c3%a9lez) | N/A |
+| 11 | [Berni](http://twitter.com/search?q=Berni) | N/A |
+| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 13 | [Godin](http://twitter.com/search?q=Godin) | N/A |
+| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 15 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 16 | [Rusher](http://twitter.com/search?q=Rusher) | N/A |
+| 17 | [#LaPasionDeCristo](http://twitter.com/search?q=%23LaPasionDeCristo) | N/A |
+| 18 | [La Continental](http://twitter.com/search?q=La+Continental) | N/A |
+| 19 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
+| 20 | [Janson](http://twitter.com/search?q=Janson) | N/A |
+| 21 | [Seoane](http://twitter.com/search?q=Seoane) | N/A |
+| 22 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 23 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 24 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 26 | [Ruckauf](http://twitter.com/search?q=Ruckauf) | N/A |
+| 27 | [#agusycamientwitch](http://twitter.com/search?q=%23agusycamientwitch) | N/A |
+| 28 | [Burian](http://twitter.com/search?q=Burian) | N/A |
+| 29 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 30 | [Flor Moyano](http://twitter.com/search?q=Flor+Moyano) | N/A |
+| 31 | [Día Mundial de la Salud](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Salud) | N/A |
+| 32 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
+| 33 | [UTOI](http://twitter.com/search?q=UTOI) | N/A |
+| 34 | [Havanna](http://twitter.com/search?q=Havanna) | N/A |
+| 35 | [Vía Crucis](http://twitter.com/search?q=V%c3%ada+Crucis) | N/A |
+| 36 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
+| 37 | [Guede](http://twitter.com/search?q=Guede) | N/A |
+| 38 | [Freijo](http://twitter.com/search?q=Freijo) | N/A |
+| 39 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 40 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 41 | [Casa Tía](http://twitter.com/search?q=Casa+T%c3%ada) | N/A |
+| 42 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 43 | [Prestianni](http://twitter.com/search?q=Prestianni) | N/A |
+| 44 | [CABA](http://twitter.com/search?q=CABA) | N/A |
+| 45 | [Rebord](http://twitter.com/search?q=Rebord) | N/A |
+| 46 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 47 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 48 | [Pratto](http://twitter.com/search?q=Pratto) | N/A |
+| 49 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
+| 50 | [Pumper Nic](http://twitter.com/search?q=Pumper+Nic) | N/A |
 
 
 

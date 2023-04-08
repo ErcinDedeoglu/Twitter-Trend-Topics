@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-04-08 05:17:37 UTC`
+📆 Last Updated: `2023-04-08 06:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
 | 2 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 3 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
-| 4 | [#마크가_말아주는_골든아워](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%ea%b0%80_%eb%a7%90%ec%95%84%ec%a3%bc%eb%8a%94_%ea%b3%a8%eb%93%a0%ec%95%84%ec%9b%8c) | N/A |
-| 5 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
+| 3 | [#THEDREAMSHOW2_in_KUALALUMPUR](http://twitter.com/search?q=%23THEDREAMSHOW2_in_KUALALUMPUR) | N/A |
+| 4 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
+| 5 | [#마크가_말아주는_골든아워](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%ea%b0%80_%eb%a7%90%ec%95%84%ec%a3%bc%eb%8a%94_%ea%b3%a8%eb%93%a0%ec%95%84%ec%9b%8c) | N/A |
 | 6 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 7 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 8 | [Najib](http://twitter.com/search?q=Najib) | N/A |
+| 7 | [Najib](http://twitter.com/search?q=Najib) | N/A |
+| 8 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 9 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Nuzul Al-Quran](http://twitter.com/search?q=Nuzul+Al-Quran) | N/A |
 | 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 12 | [jonghyun](http://twitter.com/search?q=jonghyun) | N/A |
-| 13 | [Salam Nuzul Al-Quran](http://twitter.com/search?q=Salam+Nuzul+Al-Quran) | N/A |
-| 14 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 15 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
-| 16 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 17 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 18 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 19 | [THE WORDS MALAYSIAN CZENNIES](http://twitter.com/search?q=THE+WORDS+MALAYSIAN+CZENNIES) | N/A |
-| 20 | [World Health Day](http://twitter.com/search?q=World+Health+Day) | N/A |
-| 21 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 22 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 23 | [UMNO](http://twitter.com/search?q=UMNO) | N/A |
-| 24 | [Macc](http://twitter.com/search?q=Macc) | N/A |
-| 25 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 26 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 27 | [Kim Hye](http://twitter.com/search?q=Kim+Hye) | N/A |
-| 28 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 29 | [Ryeowook](http://twitter.com/search?q=Ryeowook) | N/A |
-| 30 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 31 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 32 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
-| 33 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
-| 34 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
-| 35 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 14 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
+| 15 | [jonghyun](http://twitter.com/search?q=jonghyun) | N/A |
+| 16 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 17 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
+| 18 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 19 | [World Health Day](http://twitter.com/search?q=World+Health+Day) | N/A |
+| 20 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 21 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 22 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 23 | [THE WORDS MALAYSIAN CZENNIES](http://twitter.com/search?q=THE+WORDS+MALAYSIAN+CZENNIES) | N/A |
+| 24 | [UMNO](http://twitter.com/search?q=UMNO) | N/A |
+| 25 | [jjong](http://twitter.com/search?q=jjong) | N/A |
+| 26 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 27 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 28 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 29 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 30 | [MACC](http://twitter.com/search?q=MACC) | N/A |
+| 31 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 32 | [Ryeowook](http://twitter.com/search?q=Ryeowook) | N/A |
+| 33 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 34 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 35 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
 | 36 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 37 | [Agong](http://twitter.com/search?q=Agong) | N/A |
+| 37 | [Sunwoo](http://twitter.com/search?q=Sunwoo) | N/A |
 | 38 | [Wise](http://twitter.com/search?q=Wise) | N/A |
-| 39 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
-| 40 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 41 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
-| 42 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 43 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 44 | [Heechul](http://twitter.com/search?q=Heechul) | N/A |
-| 45 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 46 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 47 | [hye kyo](http://twitter.com/search?q=hye+kyo) | N/A |
-| 48 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 49 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 50 | [EXO-L](http://twitter.com/search?q=EXO-L) | N/A |
+| 39 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 40 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 41 | [Agong](http://twitter.com/search?q=Agong) | N/A |
+| 42 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
+| 43 | [jaesuk](http://twitter.com/search?q=jaesuk) | N/A |
+| 44 | [LOVE ME RIGHT](http://twitter.com/search?q=LOVE+ME+RIGHT) | N/A |
+| 45 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 46 | [Khairul Aming](http://twitter.com/search?q=Khairul+Aming) | N/A |
+| 47 | [KIM TAEHYUNG](http://twitter.com/search?q=KIM+TAEHYUNG) | KIM TAEHYUNG is a Korean name, and it means "strong and virtuous". |
+| 48 | [Heechul](http://twitter.com/search?q=Heechul) | N/A |
+| 49 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 50 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 
 
 
