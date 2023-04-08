@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-07 23:17:15 UTC`
+📆 Last Updated: `2023-04-08 00:27:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 2 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
-| 3 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 1 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 2 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 3 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
 | 4 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 5 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 6 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 7 | [Tylor Megill](http://twitter.com/search?q=Tylor+Megill) | N/A |
-| 8 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 9 | [#Mets](http://twitter.com/search?q=%23Mets) | N/A |
-| 10 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 11 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
-| 12 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
-| 13 | [Citi Field](http://twitter.com/search?q=Citi+Field) | N/A |
+| 5 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 6 | [Tylor Megill](http://twitter.com/search?q=Tylor+Megill) | N/A |
+| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 8 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 9 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
+| 10 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
+| 11 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
+| 12 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 13 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
 | 14 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
-| 15 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 16 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 17 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
-| 18 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 21 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 22 | [Boone](http://twitter.com/search?q=Boone) | N/A |
-| 23 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 24 | [Stanek](http://twitter.com/search?q=Stanek) | N/A |
-| 25 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
-| 26 | [Sonny Gray](http://twitter.com/search?q=Sonny+Gray) | N/A |
-| 27 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 28 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 29 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
-| 30 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 31 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
-| 32 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 33 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
-| 34 | [Connor Joe](http://twitter.com/search?q=Connor+Joe) | N/A |
-| 35 | [Maldy](http://twitter.com/search?q=Maldy) | N/A |
-| 36 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
-| 37 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 38 | [Kyle Farmer](http://twitter.com/search?q=Kyle+Farmer) | N/A |
-| 39 | [Loomer](http://twitter.com/search?q=Loomer) | N/A |
-| 40 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
-| 41 | [Raise the Jolly Roger](http://twitter.com/search?q=Raise+the+Jolly+Roger) | N/A |
-| 42 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 15 | [Justice Thomas](http://twitter.com/search?q=Justice+Thomas) | N/A |
+| 16 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 17 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
+| 18 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 19 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 20 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
+| 21 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 23 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 25 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 26 | [#readytolove](http://twitter.com/search?q=%23readytolove) | N/A |
+| 27 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 28 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 29 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 30 | [Boone](http://twitter.com/search?q=Boone) | N/A |
+| 31 | [Stanek](http://twitter.com/search?q=Stanek) | N/A |
+| 32 | [Brawling Brutes](http://twitter.com/search?q=Brawling+Brutes) | N/A |
+| 33 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 34 | [Matthew Kacsmaryk](http://twitter.com/search?q=Matthew+Kacsmaryk) | N/A |
+| 35 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 36 | [Sonny Gray](http://twitter.com/search?q=Sonny+Gray) | N/A |
+| 37 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
+| 38 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
+| 39 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
+| 40 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 41 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 42 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
 | 43 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
-| 44 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
-| 45 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 46 | [Richie James](http://twitter.com/search?q=Richie+James) | Richie James is a nickname given to the American football player Richie James Jr., who currently plays for the San Francisco 49ers. The name is derived from his first and last names. In English, it means "Richie James Junior". |
-| 47 | [Cutch](http://twitter.com/search?q=Cutch) | Cutch is a slang term for cocaine. It is derived from the word "cocaine" and is often used to refer to the drug in a casual or informal setting. |
-| 48 | [Matthew Kacsmaryk](http://twitter.com/search?q=Matthew+Kacsmaryk) | N/A |
-| 49 | [Oswaldo](http://twitter.com/search?q=Oswaldo) | N/A |
-| 50 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 44 | [Imperium](http://twitter.com/search?q=Imperium) | Imperium is a Latin word meaning "power to command" or "absolute power". It is often used to refer to the power of an emperor or other ruler, or to the political and military authority of a state. |
+| 45 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
+| 46 | [Loomer](http://twitter.com/search?q=Loomer) | N/A |
+| 47 | [Kyle Farmer](http://twitter.com/search?q=Kyle+Farmer) | N/A |
+| 48 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
+| 49 | [Maldy](http://twitter.com/search?q=Maldy) | N/A |
+| 50 | [Jim Jones](http://twitter.com/search?q=Jim+Jones) | N/A |
 
 
 

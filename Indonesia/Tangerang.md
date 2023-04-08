@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-04-07 23:16:50 UTC`
+📆 Last Updated: `2023-04-08 00:27:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 4 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
 | 5 | [Jumat Agung](http://twitter.com/search?q=Jumat+Agung) | N/A |
 | 6 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 7 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
+| 8 | [Back to Syariah Kaffah](http://twitter.com/search?q=Back+to+Syariah+Kaffah) | N/A |
+| 9 | [Khilafah Membawa Rahmat](http://twitter.com/search?q=Khilafah+Membawa+Rahmat) | N/A |
 | 10 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 11 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 12 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 13 | [Pharmaton](http://twitter.com/search?q=Pharmaton) | N/A |
-| 14 | [gorengan harga mati](http://twitter.com/search?q=gorengan+harga+mati) | N/A |
-| 15 | [Back to Syariah Kaffah](http://twitter.com/search?q=Back+to+Syariah+Kaffah) | N/A |
-| 16 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 17 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 18 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 19 | [hari terakhir promo puncak](http://twitter.com/search?q=hari+terakhir+promo+puncak) | N/A |
-| 20 | [tabungan bri simpedes](http://twitter.com/search?q=tabungan+bri+simpedes) | N/A |
-| 21 | [Khilafah Membawa Rahmat](http://twitter.com/search?q=Khilafah+Membawa+Rahmat) | N/A |
-| 22 | [pilihan zillennial jateng](http://twitter.com/search?q=pilihan+zillennial+jateng) | N/A |
-| 23 | [JEONG JAEHYUN](http://twitter.com/search?q=JEONG+JAEHYUN) | N/A |
-| 24 | [produk viral](http://twitter.com/search?q=produk+viral) | N/A |
-| 25 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 26 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
-| 27 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 28 | [Prabowo Untuk Indonesia](http://twitter.com/search?q=Prabowo+Untuk+Indonesia) | N/A |
-| 29 | [Pobega](http://twitter.com/search?q=Pobega) | N/A |
-| 30 | [PEOPLE PT2 OUT NOW](http://twitter.com/search?q=PEOPLE+PT2+OUT+NOW) | N/A |
-| 31 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 32 | [Akrab](http://twitter.com/search?q=Akrab) | N/A |
-| 33 | [Onic](http://twitter.com/search?q=Onic) | N/A |
-| 34 | [BEAUTY MYSTERY BOX](http://twitter.com/search?q=BEAUTY+MYSTERY+BOX) | N/A |
-| 35 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 36 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 37 | [Dibangunin](http://twitter.com/search?q=Dibangunin) | N/A |
-| 38 | [repose meadows](http://twitter.com/search?q=repose+meadows) | N/A |
-| 39 | [KEJUTAN PRODUK GRATIS](http://twitter.com/search?q=KEJUTAN+PRODUK+GRATIS) | N/A |
-| 40 | [bagaimana 4](http://twitter.com/search?q=bagaimana+4) | N/A |
-| 41 | [nt rrq](http://twitter.com/search?q=nt+rrq) | N/A |
-| 42 | [THAT'S MY BOY](http://twitter.com/search?q=THAT%27S+MY+BOY) | N/A |
-| 43 | [Madame Gie](http://twitter.com/search?q=Madame+Gie) | N/A |
-| 44 | [Nuzulul Qur'an](http://twitter.com/search?q=Nuzulul+Qur%27an) | N/A |
-| 45 | [Na PD](http://twitter.com/search?q=Na+PD) | N/A |
-| 46 | [Laneige](http://twitter.com/search?q=Laneige) | N/A |
-| 47 | [Selamat 11](http://twitter.com/search?q=Selamat+11) | N/A |
-| 48 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 49 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 11 | [Pharmaton](http://twitter.com/search?q=Pharmaton) | N/A |
+| 12 | [gorengan harga mati](http://twitter.com/search?q=gorengan+harga+mati) | N/A |
+| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 15 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 16 | [hari terakhir promo puncak](http://twitter.com/search?q=hari+terakhir+promo+puncak) | N/A |
+| 17 | [tabungan bri simpedes](http://twitter.com/search?q=tabungan+bri+simpedes) | N/A |
+| 18 | [pilihan zillennial jateng](http://twitter.com/search?q=pilihan+zillennial+jateng) | N/A |
+| 19 | [JEONG JAEHYUN](http://twitter.com/search?q=JEONG+JAEHYUN) | N/A |
+| 20 | [produk viral](http://twitter.com/search?q=produk+viral) | N/A |
+| 21 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 22 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 23 | [Isa Almasih](http://twitter.com/search?q=Isa+Almasih) | N/A |
+| 24 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
+| 25 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 26 | [PEOPLE PT2 OUT NOW](http://twitter.com/search?q=PEOPLE+PT2+OUT+NOW) | N/A |
+| 27 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
+| 28 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 29 | [Onic](http://twitter.com/search?q=Onic) | N/A |
+| 30 | [Akrab](http://twitter.com/search?q=Akrab) | N/A |
+| 31 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 32 | [BEAUTY MYSTERY BOX](http://twitter.com/search?q=BEAUTY+MYSTERY+BOX) | N/A |
+| 33 | [Dibangunin](http://twitter.com/search?q=Dibangunin) | N/A |
+| 34 | [repose meadows](http://twitter.com/search?q=repose+meadows) | N/A |
+| 35 | [KEJUTAN PRODUK GRATIS](http://twitter.com/search?q=KEJUTAN+PRODUK+GRATIS) | N/A |
+| 36 | [bagaimana 4](http://twitter.com/search?q=bagaimana+4) | N/A |
+| 37 | [nt rrq](http://twitter.com/search?q=nt+rrq) | N/A |
+| 38 | [Nuzulul Qur'an](http://twitter.com/search?q=Nuzulul+Qur%27an) | N/A |
+| 39 | [Madame Gie](http://twitter.com/search?q=Madame+Gie) | N/A |
+| 40 | [Laneige](http://twitter.com/search?q=Laneige) | N/A |
+| 41 | [EXO SARANGHAJA](http://twitter.com/search?q=EXO+SARANGHAJA) | N/A |
+| 42 | [Na PD](http://twitter.com/search?q=Na+PD) | N/A |
+| 43 | [Selamat 11](http://twitter.com/search?q=Selamat+11) | N/A |
+| 44 | [Subuh](http://twitter.com/search?q=Subuh) | N/A |
+| 45 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 46 | [MELODY OF SCENTS D1](http://twitter.com/search?q=MELODY+OF+SCENTS+D1) | N/A |
+| 47 | [jan ethes](http://twitter.com/search?q=jan+ethes) | N/A |
+| 48 | [EXO-L](http://twitter.com/search?q=EXO-L) | N/A |
+| 49 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
 
 
 

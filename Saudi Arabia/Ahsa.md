@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahsa
 
-📆 Last Updated: `2023-04-07 23:17:27 UTC`
+📆 Last Updated: `2023-04-08 00:28:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | ------- | ------------ | ------------ |
 | 1 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
 | 2 | [#بطاقاتنا_تفوز3](http://twitter.com/search?q=%23%d8%a8%d8%b7%d8%a7%d9%82%d8%a7%d8%aa%d9%86%d8%a7_%d8%aa%d9%81%d9%88%d8%b23) | N/A |
-| 3 | [الشمراني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 3 | [#التسجيل_الصوتي_لغرفه_الفار](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84_%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a_%d9%84%d8%ba%d8%b1%d9%81%d9%87_%d8%a7%d9%84%d9%81%d8%a7%d8%b1) | N/A |
 | 4 | [#اكشن_مع_وليد](http://twitter.com/search?q=%23%d8%a7%d9%83%d8%b4%d9%86_%d9%85%d8%b9_%d9%88%d9%84%d9%8a%d8%af) | N/A |
-| 5 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
-| 6 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 7 | [اجانب](http://twitter.com/search?q=%d8%a7%d8%ac%d8%a7%d9%86%d8%a8) | N/A |
-| 8 | [#لجنه_الانضباط_هل_تعاقب_كويلار](http://twitter.com/search?q=%23%d9%84%d8%ac%d9%86%d9%87_%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7_%d9%87%d9%84_%d8%aa%d8%b9%d8%a7%d9%82%d8%a8_%d9%83%d9%88%d9%8a%d9%84%d8%a7%d8%b1) | N/A |
-| 9 | [#الروشن16](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8616) | N/A |
-| 10 | [#المربع_الاخير16](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b116) | N/A |
-| 11 | [بن نافل](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d9%81%d9%84) | بن نافل (pronounced "bin nafl") is an Arabic phrase meaning "for free" or "at no cost". |
-| 12 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
-| 13 | [الاتحاد السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 14 | [علي اسيا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
-| 15 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
-| 16 | [سري الليل](http://twitter.com/search?q=%d8%b3%d8%b1%d9%8a+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | سري الليل is an Arabic phrase that translates to "Secret of the Night" in English. It is often used to refer to something mysterious or unknown. |
-| 17 | [بانيغا](http://twitter.com/search?q=%d8%a8%d8%a7%d9%86%d9%8a%d8%ba%d8%a7) | بانيغا is a type of traditional Arabic music. It is a style of music that originated in the Middle East and North Africa and is characterized by its use of percussion instruments, such as drums, tambourines, and cymbals. In English, it can be translated to mean "dance music". |
+| 5 | [ماجد الشمراني](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d8%a7%d9%84%d8%b4%d9%85%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 6 | [#الانماء_وعطر_الكلام8](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1_%d9%88%d8%b9%d8%b7%d8%b1_%d8%a7%d9%84%d9%83%d9%84%d8%a7%d9%858) | N/A |
+| 7 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
+| 8 | [#لجنه_الانضباط_والاخلاق](http://twitter.com/search?q=%23%d9%84%d8%ac%d9%86%d9%87_%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7_%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%84%d8%a7%d9%82) | N/A |
+| 9 | [اجانب](http://twitter.com/search?q=%d8%a7%d8%ac%d8%a7%d9%86%d8%a8) | N/A |
+| 10 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 11 | [الحكم السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 12 | [الاتحاد السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 13 | [بن نافل](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d9%81%d9%84) | بن نافل (pronounced "bin nafl") is an Arabic phrase meaning "for free" or "at no cost". |
+| 14 | [فهد المفرج](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d9%85%d9%81%d8%b1%d8%ac) | N/A |
+| 15 | [الاخطاء التحكيميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b7%d8%a7%d8%a1+%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 16 | [علي اسيا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
+| 17 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
 | 18 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
-| 19 | [علي الدوري](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
-| 20 | [فهد المفرج](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d9%85%d9%81%d8%b1%d8%ac) | N/A |
-| 21 | [الحكم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 22 | [عبدالله الشهري](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
-| 23 | [علي الاتحاد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
-| 24 | [الجواب الكافي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d9%83%d8%a7%d9%81%d9%8a) | N/A |
-| 25 | [الحكام المحليين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%8a%d9%86) | N/A |
-| 26 | [رمز العداله](http://twitter.com/search?q=%d8%b1%d9%85%d8%b2+%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
-| 27 | [كبير الرياض](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 28 | [المساجد التاريخيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%ac%d8%af+%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a%d9%87) | N/A |
-| 29 | [هيثم الملحاني](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d8%a7%d9%84%d9%85%d9%84%d8%ad%d8%a7%d9%86%d9%8a) | N/A |
-| 30 | [هتان](http://twitter.com/search?q=%d9%87%d8%aa%d8%a7%d9%86) | هتان is an Arabic word that means "two". |
-| 31 | [جهاد اليافعي](http://twitter.com/search?q=%d8%ac%d9%87%d8%a7%d8%af+%d8%a7%d9%84%d9%8a%d8%a7%d9%81%d8%b9%d9%8a) | N/A |
-| 32 | [المتصدر الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%aa%d8%b5%d8%af%d8%b1+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
-| 33 | [عبدالله العبودي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af%d9%8a) | N/A |
-| 34 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 35 | [الطريقه الوحيده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82%d9%87+%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af%d9%87) | N/A |
-| 36 | [الكتب السماويه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d9%88%d9%8a%d9%87) | N/A |
-| 37 | [محمد عباس](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
-| 38 | [الكرت الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
-| 39 | [الحكم اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 40 | [خالد الشنيف](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%b4%d9%86%d9%8a%d9%81) | N/A |
-| 41 | [حسين القحطاني](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
-| 42 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 43 | [الموسم الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 44 | [جيرو](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d9%88) | N/A |
-| 45 | [موسي العميره](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%b9%d9%85%d9%8a%d8%b1%d9%87) | N/A |
-| 46 | [البريك](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%83) | البريك is an Arabic word that means "blessing". It is used to express a wish for good fortune or success. |
-| 47 | [١٧ رمضان](http://twitter.com/search?q=%d9%a1%d9%a7+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 48 | [حضرت العداله](http://twitter.com/search?q=%d8%ad%d8%b6%d8%b1%d8%aa+%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
-| 49 | [ياسر المسحل](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%ad%d9%84) | N/A |
-| 50 | [بيرنلي](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%86%d9%84%d9%8a) | بيرنلي (pronounced "birnlee") is an Arabic word meaning "pearl". |
+| 19 | [سري الليل](http://twitter.com/search?q=%d8%b3%d8%b1%d9%8a+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | سري الليل is an Arabic phrase that translates to "Secret of the Night" in English. It is often used to refer to something mysterious or unknown. |
+| 20 | [علي الاتحاد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
+| 21 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
+| 22 | [علي الدوري](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
+| 23 | [١٧ رمضان](http://twitter.com/search?q=%d9%a1%d9%a7+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 24 | [عبدالله الشهري](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
+| 25 | [بانيغا](http://twitter.com/search?q=%d8%a8%d8%a7%d9%86%d9%8a%d8%ba%d8%a7) | بانيغا is a type of traditional Arabic music. It is a style of music that originated in the Middle East and North Africa and is characterized by its use of percussion instruments, such as drums, tambourines, and cymbals. In English, it can be translated to mean "dance music". |
+| 26 | [الحكم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 27 | [المتصدر الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%aa%d8%b5%d8%af%d8%b1+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
+| 28 | [الجواب الكافي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d9%83%d8%a7%d9%81%d9%8a) | N/A |
+| 29 | [17 رمضان](http://twitter.com/search?q=17+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 30 | [المساجد التاريخيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%ac%d8%af+%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a%d9%87) | N/A |
+| 31 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 32 | [رمز العداله](http://twitter.com/search?q=%d8%b1%d9%85%d8%b2+%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
+| 33 | [جهاد اليافعي](http://twitter.com/search?q=%d8%ac%d9%87%d8%a7%d8%af+%d8%a7%d9%84%d9%8a%d8%a7%d9%81%d8%b9%d9%8a) | N/A |
+| 34 | [الموسم الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 35 | [عبدالله العبودي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af%d9%8a) | N/A |
+| 36 | [الطريقه الوحيده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82%d9%87+%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af%d9%87) | N/A |
+| 37 | [الكتب السماويه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d9%88%d9%8a%d9%87) | N/A |
+| 38 | [الحكام المحليين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%8a%d9%86) | N/A |
+| 39 | [ياسر القحطاني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
+| 40 | [كبير الرياض](http://twitter.com/search?q=%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 41 | [محمد عباس](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
+| 42 | [الظلم التحكيمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b8%d9%84%d9%85+%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85%d9%8a) | N/A |
+| 43 | [هيثم الملحاني](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d8%a7%d9%84%d9%85%d9%84%d8%ad%d8%a7%d9%86%d9%8a) | N/A |
+| 44 | [الكرت الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
+| 45 | [الحكم اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 46 | [خالد الشنيف](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%b4%d9%86%d9%8a%d9%81) | N/A |
+| 47 | [حضرت العداله](http://twitter.com/search?q=%d8%ad%d8%b6%d8%b1%d8%aa+%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
+| 48 | [موسي العميره](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%b9%d9%85%d9%8a%d8%b1%d9%87) | N/A |
+| 49 | [هتان](http://twitter.com/search?q=%d9%87%d8%aa%d8%a7%d9%86) | هتان is an Arabic word that means "two". |
+| 50 | [بحكام](http://twitter.com/search?q=%d8%a8%d8%ad%d9%83%d8%a7%d9%85) | N/A |
 
 
 

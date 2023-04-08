@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-07 23:17:19 UTC`
+📆 Last Updated: `2023-04-08 00:27:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,13 +32,12 @@ This is top 50 for Belarus
 | 15 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
 | 16 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
 | 17 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
-| 18 | [Мама](http://twitter.com/search?q=%d0%9c%d0%b0%d0%bc%d0%b0) | N/A |
+| 18 | [мама](http://twitter.com/search?q=%d0%bc%d0%b0%d0%bc%d0%b0) | N/A |
 | 19 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
 | 20 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 21 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 22 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 23 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 24 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
+| 21 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
+| 22 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 23 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
 
 
 

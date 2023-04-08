@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-04-07 23:16:38 UTC`
+📆 Last Updated: `2023-04-08 00:27:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 1 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 2 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 3 | [Abra o Spotify](http://twitter.com/search?q=Abra+o+Spotify) | N/A |
-| 4 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 5 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 6 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
-| 7 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 8 | [ESTAMOS COM BLACK](http://twitter.com/search?q=ESTAMOS+COM+BLACK) | N/A |
-| 9 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
-| 10 | [Daroit](http://twitter.com/search?q=Daroit) | N/A |
-| 11 | [Dani Lins](http://twitter.com/search?q=Dani+Lins) | N/A |
-| 12 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
-| 13 | [Bauru](http://twitter.com/search?q=Bauru) | N/A |
-| 14 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 15 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
-| 16 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
-| 17 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
-| 18 | [Luciano Juba](http://twitter.com/search?q=Luciano+Juba) | N/A |
-| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 20 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 21 | [Arcor](http://twitter.com/search?q=Arcor) | N/A |
-| 22 | [Dove](http://twitter.com/search?q=Dove) | N/A |
-| 23 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 24 | [Vagner Love](http://twitter.com/search?q=Vagner+Love) | N/A |
-| 25 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
-| 26 | [O Minas](http://twitter.com/search?q=O+Minas) | N/A |
-| 27 | [Caribe](http://twitter.com/search?q=Caribe) | N/A |
-| 28 | [M.I.A.](http://twitter.com/search?q=M.I.A.) | N/A |
-| 29 | [Cracolândia](http://twitter.com/search?q=Cracol%c3%a2ndia) | N/A |
-| 30 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 31 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 32 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 33 | [Matheus Vargas](http://twitter.com/search?q=Matheus+Vargas) | N/A |
-| 34 | [#FridayOnlineWord](http://twitter.com/search?q=%23FridayOnlineWord) | N/A |
-| 35 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 36 | [SPORT CLUB DO RECIFE](http://twitter.com/search?q=SPORT+CLUB+DO+RECIFE) | Sport Club do Recife is a Brazilian professional football club based in the city of Recife, in the state of Pernambuco. The club was founded in 1905 and is one of the oldest and most successful clubs in Brazil, having won four national championships and three Copa do Brasil titles. The literal translation of Sport Club do Recife into English is "Recife Sports Club". |
-| 37 | [Correios](http://twitter.com/search?q=Correios) | N/A |
-| 38 | [#ADona084](http://twitter.com/search?q=%23ADona084) | N/A |
-| 39 | [No Repeat](http://twitter.com/search?q=No+Repeat) | N/A |
-| 40 | [Genshin Impact](http://twitter.com/search?q=Genshin+Impact) | N/A |
-| 41 | [POSTE OS SEUS 4 MAINS](http://twitter.com/search?q=POSTE+OS+SEUS+4+MAINS) | N/A |
-| 42 | [Jornalista](http://twitter.com/search?q=Jornalista) | N/A |
-| 43 | [Praça das Artes](http://twitter.com/search?q=Pra%c3%a7a+das+Artes) | N/A |
-| 44 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 45 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 46 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 47 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 48 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 49 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
-| 50 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
+| 4 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 5 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 6 | [ESTAMOS COM BLACK](http://twitter.com/search?q=ESTAMOS+COM+BLACK) | N/A |
+| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
+| 9 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 10 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
+| 11 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
+| 12 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
+| 13 | [Team One](http://twitter.com/search?q=Team+One) | N/A |
+| 14 | [TORTURA NAO É ENTRETENIMENTO](http://twitter.com/search?q=TORTURA+NAO+%c3%89+ENTRETENIMENTO) | N/A |
+| 15 | [Minas](http://twitter.com/search?q=Minas) | N/A |
+| 16 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
+| 17 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
+| 18 | [Bauru](http://twitter.com/search?q=Bauru) | N/A |
+| 19 | [Dani Lins](http://twitter.com/search?q=Dani+Lins) | N/A |
+| 20 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 21 | [Daroit](http://twitter.com/search?q=Daroit) | N/A |
+| 22 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 23 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
+| 24 | [16x0](http://twitter.com/search?q=16x0) | N/A |
+| 25 | [CLAUDIA LEITTE](http://twitter.com/search?q=CLAUDIA+LEITTE) | CLAUDIA LEITTE is the stage name of Brazilian singer, songwriter, and dancer Cláudia Cristina Leite Inácio Pedreira. She is a popular performer of the musical genre known as axé music, a style of Brazilian dance music. In English, CLAUDIA LEITTE means "Claudia Cristina Leite Inácio Pedreira". |
+| 26 | [Manoel Carlos](http://twitter.com/search?q=Manoel+Carlos) | N/A |
+| 27 | [Nyeme](http://twitter.com/search?q=Nyeme) | N/A |
+| 28 | [#MePatrocina](http://twitter.com/search?q=%23MePatrocina) | N/A |
+| 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 30 | [M.I.A.](http://twitter.com/search?q=M.I.A.) | N/A |
+| 31 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
+| 32 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 33 | [Caribe](http://twitter.com/search?q=Caribe) | N/A |
+| 34 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
+| 35 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 36 | [#LulaCemDiasDeTrabalhoEAmor](http://twitter.com/search?q=%23LulaCemDiasDeTrabalhoEAmor) | N/A |
+| 37 | [Dove](http://twitter.com/search?q=Dove) | N/A |
+| 38 | [Arcor](http://twitter.com/search?q=Arcor) | N/A |
+| 39 | [Kakavel](http://twitter.com/search?q=Kakavel) | N/A |
+| 40 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 41 | [No Repeat](http://twitter.com/search?q=No+Repeat) | N/A |
+| 42 | [Juba](http://twitter.com/search?q=Juba) | N/A |
+| 43 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 44 | [Matheus Vargas](http://twitter.com/search?q=Matheus+Vargas) | N/A |
+| 45 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | #JornalNacional is a Brazilian news program broadcast by Rede Globo, the largest television network in Brazil. It is one of the most watched programs in the country and covers national and international news. The name translates to "National News" in English. |
+| 46 | [Cracolândia](http://twitter.com/search?q=Cracol%c3%a2ndia) | N/A |
+| 47 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 48 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 49 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 50 | [SPORT CLUB DO RECIFE](http://twitter.com/search?q=SPORT+CLUB+DO+RECIFE) | Sport Club do Recife is a Brazilian professional football club based in the city of Recife, in the state of Pernambuco. The club was founded in 1905 and is one of the oldest and most successful clubs in Brazil, having won four national championships and three Copa do Brasil titles. The literal translation of Sport Club do Recife into English is "Recife Sports Club". |
 
 
 

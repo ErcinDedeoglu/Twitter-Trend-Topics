@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-04-07 23:17:00 UTC`
+📆 Last Updated: `2023-04-08 00:27:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [South Africa](</South Africa>)
 | 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 4 | [#URChannelO](http://twitter.com/search?q=%23URChannelO) | N/A |
 | 5 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
-| 6 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 7 | [Lamola](http://twitter.com/search?q=Lamola) | N/A |
-| 8 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 9 | [KHOSI GOES INTERNATIONAL](http://twitter.com/search?q=KHOSI+GOES+INTERNATIONAL) | N/A |
-| 10 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 6 | [Lamola](http://twitter.com/search?q=Lamola) | N/A |
+| 7 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 8 | [KHOSI GOES INTERNATIONAL](http://twitter.com/search?q=KHOSI+GOES+INTERNATIONAL) | N/A |
+| 9 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 10 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
 | 11 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
 | 12 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 13 | [Lyle Foster](http://twitter.com/search?q=Lyle+Foster) | Lyle Foster is a name of English origin. It is derived from the Old English words "līg" meaning "meadow" and "fōstor" meaning "nurturer". The name can be interpreted to mean someone who nurtures or cares for a meadow. |
-| 14 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 15 | [#TropikaZero](http://twitter.com/search?q=%23TropikaZero) | N/A |
+| 13 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 14 | [#TropikaZero](http://twitter.com/search?q=%23TropikaZero) | N/A |
+| 15 | [Lyle Foster](http://twitter.com/search?q=Lyle+Foster) | Lyle Foster is a name of English origin. It is derived from the Old English words "līg" meaning "meadow" and "fōstor" meaning "nurturer". The name can be interpreted to mean someone who nurtures or cares for a meadow. |
 | 16 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 17 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 18 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 19 | [Vincent Kompany](http://twitter.com/search?q=Vincent+Kompany) | N/A |
-| 20 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 21 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 17 | [Black Motion](http://twitter.com/search?q=Black+Motion) | Black Motion is a South African music duo consisting of DJ Murdah and Thabo "Smol" Mabogwane. They are known for their production of house music, Afro-house, and Afro-fusion. The name "Black Motion" is derived from the duo's mission to create music that celebrates African culture and heritage. |
+| 18 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 19 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 20 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 21 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
 | 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 23 | [Black Motion](http://twitter.com/search?q=Black+Motion) | Black Motion is a South African music duo consisting of DJ Murdah and Thabo "Smol" Mabogwane. They are known for their production of house music, Afro-house, and Afro-fusion. The name "Black Motion" is derived from the duo's mission to create music that celebrates African culture and heritage. |
-| 24 | [TSATSII WENDY MADIBA](http://twitter.com/search?q=TSATSII+WENDY+MADIBA) | N/A |
-| 25 | [THABANG GOFUNDME FRIDAY](http://twitter.com/search?q=THABANG+GOFUNDME+FRIDAY) | N/A |
-| 26 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 27 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 28 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
-| 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 30 | [Vanuatu](http://twitter.com/search?q=Vanuatu) | N/A |
-| 31 | [Block 4](http://twitter.com/search?q=Block+4) | N/A |
-| 32 | [Moonchild](http://twitter.com/search?q=Moonchild) | N/A |
-| 33 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
-| 34 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 35 | [The UAE](http://twitter.com/search?q=The+UAE) | N/A |
-| 36 | [Bushiri](http://twitter.com/search?q=Bushiri) | N/A |
-| 37 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 38 | [Mr Smeg](http://twitter.com/search?q=Mr+Smeg) | N/A |
-| 39 | [Shimza](http://twitter.com/search?q=Shimza) | N/A |
-| 40 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 41 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 42 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 43 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 44 | [Musa](http://twitter.com/search?q=Musa) | N/A |
-| 45 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
-| 46 | [Shakes](http://twitter.com/search?q=Shakes) | N/A |
-| 47 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 48 | [cape town spurs](http://twitter.com/search?q=cape+town+spurs) | N/A |
-| 49 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 23 | [BANKABLE TSATSII](http://twitter.com/search?q=BANKABLE+TSATSII) | N/A |
+| 24 | [THABANG GOFUNDME FRIDAY](http://twitter.com/search?q=THABANG+GOFUNDME+FRIDAY) | N/A |
+| 25 | [Vanuatu](http://twitter.com/search?q=Vanuatu) | N/A |
+| 26 | [Block 4](http://twitter.com/search?q=Block+4) | N/A |
+| 27 | [Moonchild](http://twitter.com/search?q=Moonchild) | N/A |
+| 28 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
+| 29 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 30 | [The UAE](http://twitter.com/search?q=The+UAE) | N/A |
+| 31 | [Bushiri](http://twitter.com/search?q=Bushiri) | N/A |
+| 32 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 33 | [Mr Smeg](http://twitter.com/search?q=Mr+Smeg) | N/A |
+| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 35 | [Vincent Kompany](http://twitter.com/search?q=Vincent+Kompany) | N/A |
+| 36 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 37 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 38 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 39 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 40 | [Musa](http://twitter.com/search?q=Musa) | N/A |
+| 41 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
+| 42 | [Shakes](http://twitter.com/search?q=Shakes) | N/A |
+| 43 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 44 | [cape town spurs](http://twitter.com/search?q=cape+town+spurs) | N/A |
+| 45 | [lady du](http://twitter.com/search?q=lady+du) | N/A |
+| 46 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
+| 47 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 48 | [state capture](http://twitter.com/search?q=state+capture) | N/A |
+| 49 | [Melita](http://twitter.com/search?q=Melita) | N/A |
 
 
 

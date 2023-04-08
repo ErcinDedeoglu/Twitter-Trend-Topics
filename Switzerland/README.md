@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-07 23:17:25 UTC`
+📆 Last Updated: `2023-04-08 00:28:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for Switzerland
 | 13 | [Tessin](http://twitter.com/search?q=Tessin) | N/A |
 | 14 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
 | 15 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 16 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
+| 16 | [polymanga](http://twitter.com/search?q=polymanga) | N/A |
 | 17 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 18 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 19 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 20 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 21 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 22 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 23 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 18 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 19 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 20 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 21 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 22 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 23 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
 | 24 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
-| 25 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 26 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 27 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
-| 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 29 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
-| 30 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
-| 31 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 26 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 27 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 28 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
+| 29 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 30 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
+| 31 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
 | 32 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
-| 33 | [Renovate](http://twitter.com/search?q=Renovate) | N/A |
+| 33 | [renovate](http://twitter.com/search?q=renovate) | N/A |
 | 34 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
 | 35 | [granit](http://twitter.com/search?q=granit) | N/A |
-| 36 | [Oliven](http://twitter.com/search?q=Oliven) | N/A |
-| 37 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
+| 36 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
+| 37 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
 | 38 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 39 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
-| 40 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 41 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
-| 42 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
-| 43 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 39 | [Oliven](http://twitter.com/search?q=Oliven) | N/A |
+| 40 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
+| 41 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 42 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
+| 43 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
 | 44 | [Statistik](http://twitter.com/search?q=Statistik) | N/A |
 | 45 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 46 | [Generation](http://twitter.com/search?q=Generation) | N/A |
 | 47 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
 | 48 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 49 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
-| 50 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
+| 49 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
+| 50 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
 
 
 

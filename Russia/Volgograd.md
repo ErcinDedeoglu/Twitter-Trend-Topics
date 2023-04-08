@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Volgograd
 
-📆 Last Updated: `2023-04-07 23:17:04 UTC`
+📆 Last Updated: `2023-04-08 00:27:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,10 +24,10 @@ This is top 50 for [Russia](</Russia>)
 | 7 | [Boss](http://twitter.com/search?q=Boss) | N/A |
 | 8 | [Whyy](http://twitter.com/search?q=Whyy) | N/A |
 | 9 | [Everythingg](http://twitter.com/search?q=Everythingg) | N/A |
-| 10 | [Cryptoo](http://twitter.com/search?q=Cryptoo) | N/A |
+| 10 | [cryptoo](http://twitter.com/search?q=cryptoo) | N/A |
 | 11 | [Employ](http://twitter.com/search?q=Employ) | N/A |
 | 12 | [Keepss](http://twitter.com/search?q=Keepss) | N/A |
-| 13 | [Worthh](http://twitter.com/search?q=Worthh) | N/A |
+| 13 | [worthh](http://twitter.com/search?q=worthh) | N/A |
 | 14 | [Hypee](http://twitter.com/search?q=Hypee) | N/A |
 | 15 | [#Binancee](http://twitter.com/search?q=%23Binancee) | N/A |
 | 16 | [Didd](http://twitter.com/search?q=Didd) | N/A |
@@ -50,19 +50,19 @@ This is top 50 for [Russia](</Russia>)
 | 33 | [#княшок](http://twitter.com/search?q=%23%d0%ba%d0%bd%d1%8f%d1%88%d0%be%d0%ba) | N/A |
 | 34 | [Аааа](http://twitter.com/search?q=%d0%90%d0%b0%d0%b0%d0%b0) | N/A |
 | 35 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
-| 36 | [Мама](http://twitter.com/search?q=%d0%9c%d0%b0%d0%bc%d0%b0) | N/A |
+| 36 | [мама](http://twitter.com/search?q=%d0%bc%d0%b0%d0%bc%d0%b0) | N/A |
 | 37 | [Ужас](http://twitter.com/search?q=%d0%a3%d0%b6%d0%b0%d1%81) | N/A |
 | 38 | [Барби](http://twitter.com/search?q=%d0%91%d0%b0%d1%80%d0%b1%d0%b8) | N/A |
 | 39 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
-| 40 | [Питере](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
-| 41 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
+| 40 | [питере](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 41 | [франции](http://twitter.com/search?q=%d1%84%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
 | 42 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
 | 43 | [Антон](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd) | N/A |
 | 44 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 45 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
 | 46 | [Китая](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d1%8f) | N/A |
 | 47 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
-| 48 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | N/A |
+| 48 | [#opensea](http://twitter.com/search?q=%23opensea) | N/A |
 | 49 | [Понял](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
 | 50 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
 

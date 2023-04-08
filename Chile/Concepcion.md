@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-04-07 23:16:36 UTC`
+📆 Last Updated: `2023-04-08 00:27:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JesusDeNazarethEnTVN](http://twitter.com/search?q=%23JesusDeNazarethEnTVN) | N/A |
-| 2 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 2 | [#VamosChilePorTVN](http://twitter.com/search?q=%23VamosChilePorTVN) | N/A |
+| 3 | [Paco](http://twitter.com/search?q=Paco) | N/A |
 | 4 | [Mega](http://twitter.com/search?q=Mega) | N/A |
-| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 6 | [Pinilla](http://twitter.com/search?q=Pinilla) | N/A |
-| 7 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 8 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 9 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 10 | [Paulina de Allende](http://twitter.com/search?q=Paulina+de+Allende) | N/A |
-| 11 | [Vial](http://twitter.com/search?q=Vial) | N/A |
-| 12 | [Gala](http://twitter.com/search?q=Gala) | N/A |
-| 13 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
-| 14 | [#ClasicoPenquista](http://twitter.com/search?q=%23ClasicoPenquista) | N/A |
-| 15 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
-| 16 | [#ElPartidoMásAustral](http://twitter.com/search?q=%23ElPartidoM%c3%a1sAustral) | N/A |
-| 17 | [#CaboPalma](http://twitter.com/search?q=%23CaboPalma) | N/A |
-| 18 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
-| 19 | [Bories](http://twitter.com/search?q=Bories) | N/A |
+| 5 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 6 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 7 | [Paulina de Allende](http://twitter.com/search?q=Paulina+de+Allende) | N/A |
+| 8 | [Algarrobo](http://twitter.com/search?q=Algarrobo) | N/A |
+| 9 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
+| 10 | [Pinilla](http://twitter.com/search?q=Pinilla) | N/A |
+| 11 | [#ClasicoPenquista](http://twitter.com/search?q=%23ClasicoPenquista) | N/A |
+| 12 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
+| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 14 | [Gala](http://twitter.com/search?q=Gala) | N/A |
+| 15 | [#CaboPalma](http://twitter.com/search?q=%23CaboPalma) | N/A |
+| 16 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
+| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 18 | [Bories](http://twitter.com/search?q=Bories) | N/A |
+| 19 | [Vial](http://twitter.com/search?q=Vial) | N/A |
 | 20 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 21 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
-| 22 | [Gabriela Mistral](http://twitter.com/search?q=Gabriela+Mistral) | N/A |
-| 23 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 24 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 25 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 26 | [Robert Powell](http://twitter.com/search?q=Robert+Powell) | N/A |
-| 27 | [Herodes](http://twitter.com/search?q=Herodes) | N/A |
-| 28 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 29 | [Isla](http://twitter.com/search?q=Isla) | N/A |
-| 30 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 31 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 32 | [Deportes Concepción](http://twitter.com/search?q=Deportes+Concepci%c3%b3n) | N/A |
-| 33 | [Salomé](http://twitter.com/search?q=Salom%c3%a9) | N/A |
-| 34 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
-| 35 | [Cúcuta](http://twitter.com/search?q=C%c3%bacuta) | N/A |
-| 36 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 21 | [Gabriela Mistral](http://twitter.com/search?q=Gabriela+Mistral) | N/A |
+| 22 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 23 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
+| 24 | [Robert Powell](http://twitter.com/search?q=Robert+Powell) | N/A |
+| 25 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 26 | [El Quisco](http://twitter.com/search?q=El+Quisco) | N/A |
+| 27 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 28 | [El Tabo](http://twitter.com/search?q=El+Tabo) | N/A |
+| 29 | [Salomé](http://twitter.com/search?q=Salom%c3%a9) | N/A |
+| 30 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
+| 31 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 32 | [Isla](http://twitter.com/search?q=Isla) | N/A |
+| 33 | [Iquique](http://twitter.com/search?q=Iquique) | N/A |
+| 34 | [Kast](http://twitter.com/search?q=Kast) | N/A |
+| 35 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
+| 36 | [Cúcuta](http://twitter.com/search?q=C%c3%bacuta) | N/A |
 | 37 | [Hipócritas](http://twitter.com/search?q=Hip%c3%b3critas) | N/A |
-| 38 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
-| 39 | [Puerto Natales](http://twitter.com/search?q=Puerto+Natales) | N/A |
-| 40 | [Wanderers](http://twitter.com/search?q=Wanderers) | N/A |
-| 41 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
-| 42 | [ANFA](http://twitter.com/search?q=ANFA) | N/A |
-| 43 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 44 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
+| 38 | [Vistima](http://twitter.com/search?q=Vistima) | N/A |
+| 39 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
+| 40 | [María Magdalena](http://twitter.com/search?q=Mar%c3%ada+Magdalena) | N/A |
+| 41 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 42 | [Acusalo](http://twitter.com/search?q=Acusalo) | N/A |
+| 43 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 44 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 45 | [Colegio de Periodistas](http://twitter.com/search?q=Colegio+de+Periodistas) | N/A |
-| 46 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
-| 47 | [Kast](http://twitter.com/search?q=Kast) | N/A |
-| 48 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 49 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 50 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
+| 46 | [Puerto Natales](http://twitter.com/search?q=Puerto+Natales) | N/A |
+| 47 | [Pancho Malo](http://twitter.com/search?q=Pancho+Malo) | N/A |
+| 48 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 49 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 50 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
 
 
 

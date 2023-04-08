@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-07 23:16:48 UTC`
+📆 Last Updated: `2023-04-08 00:27:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
 | 3 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
 | 4 | [Gotthard](http://twitter.com/search?q=Gotthard) | N/A |
-| 5 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 6 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
+| 5 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
+| 6 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
 | 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 8 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
 | 9 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
@@ -32,31 +32,31 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 15 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 | 16 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
 | 17 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 18 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 19 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 20 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 21 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 22 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 18 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 19 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 20 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 21 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 22 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
 | 23 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
-| 24 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 25 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 26 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
-| 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 28 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
-| 29 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
-| 30 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 25 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 26 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 27 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
+| 28 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 29 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
+| 30 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
 | 31 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
-| 32 | [Renovate](http://twitter.com/search?q=Renovate) | N/A |
+| 32 | [renovate](http://twitter.com/search?q=renovate) | N/A |
 | 33 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
 | 34 | [granit](http://twitter.com/search?q=granit) | N/A |
-| 35 | [Oliven](http://twitter.com/search?q=Oliven) | N/A |
-| 36 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 37 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
-| 38 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 39 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
-| 40 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
-| 41 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 42 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 35 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
+| 36 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 37 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 38 | [Oliven](http://twitter.com/search?q=Oliven) | N/A |
+| 39 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
+| 40 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 41 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
+| 42 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
 | 43 | [Statistik](http://twitter.com/search?q=Statistik) | N/A |
 | 44 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 45 | [Generation](http://twitter.com/search?q=Generation) | N/A |

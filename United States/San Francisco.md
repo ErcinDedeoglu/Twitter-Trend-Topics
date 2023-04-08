@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-07 23:17:17 UTC`
+📆 Last Updated: `2023-04-08 00:27:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
-| 2 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 3 | [#pursuit](http://twitter.com/search?q=%23pursuit) | N/A |
+| 2 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 3 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
 | 4 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 5 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 6 | [SFSU](http://twitter.com/search?q=SFSU) | N/A |
-| 7 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 5 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
+| 6 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 7 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
 | 8 | [Sol Blume](http://twitter.com/search?q=Sol+Blume) | N/A |
-| 9 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
-| 10 | [Masters](http://twitter.com/search?q=Masters) | N/A |
-| 11 | [Dreamhack](http://twitter.com/search?q=Dreamhack) | N/A |
-| 12 | [Twitter Files](http://twitter.com/search?q=Twitter+Files) | N/A |
-| 13 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
+| 9 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
+| 10 | [Indiana Jones](http://twitter.com/search?q=Indiana+Jones) | N/A |
+| 11 | [SFSU](http://twitter.com/search?q=SFSU) | N/A |
+| 12 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
+| 13 | [LAPD](http://twitter.com/search?q=LAPD) | N/A |
 | 14 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
 | 15 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
 | 16 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
-| 17 | [LAPD](http://twitter.com/search?q=LAPD) | N/A |
-| 18 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 19 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
-| 20 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 21 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 22 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [#BandcampFriday](http://twitter.com/search?q=%23BandcampFriday) | N/A |
+| 18 | [Dreamhack](http://twitter.com/search?q=Dreamhack) | N/A |
+| 19 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
+| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 21 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 22 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 24 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
 | 25 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 26 | [Boone](http://twitter.com/search?q=Boone) | N/A |
-| 27 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 28 | [Stanek](http://twitter.com/search?q=Stanek) | N/A |
-| 29 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
-| 30 | [Sonny Gray](http://twitter.com/search?q=Sonny+Gray) | N/A |
-| 31 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 32 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 33 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
-| 34 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 35 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
-| 36 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 37 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
-| 38 | [Kyle Farmer](http://twitter.com/search?q=Kyle+Farmer) | N/A |
-| 39 | [Connor Joe](http://twitter.com/search?q=Connor+Joe) | N/A |
-| 40 | [Maldy](http://twitter.com/search?q=Maldy) | N/A |
-| 41 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
-| 42 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 26 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 27 | [Boone](http://twitter.com/search?q=Boone) | N/A |
+| 28 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 29 | [Stanek](http://twitter.com/search?q=Stanek) | N/A |
+| 30 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 31 | [Kacsmaryk](http://twitter.com/search?q=Kacsmaryk) | N/A |
+| 32 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 33 | [Brawling Brutes](http://twitter.com/search?q=Brawling+Brutes) | N/A |
+| 34 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
+| 35 | [Sonny Gray](http://twitter.com/search?q=Sonny+Gray) | N/A |
+| 36 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
+| 37 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 38 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
+| 39 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
+| 40 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
+| 41 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 42 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
 | 43 | [Loomer](http://twitter.com/search?q=Loomer) | N/A |
-| 44 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
-| 45 | [Raise the Jolly Roger](http://twitter.com/search?q=Raise+the+Jolly+Roger) | N/A |
-| 46 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
-| 47 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 48 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
-| 49 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 50 | [Richie James](http://twitter.com/search?q=Richie+James) | Richie James is a nickname given to the American football player Richie James Jr., who currently plays for the San Francisco 49ers. The name is derived from his first and last names. In English, it means "Richie James Junior". |
+| 44 | [Kyle Farmer](http://twitter.com/search?q=Kyle+Farmer) | N/A |
+| 45 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
+| 46 | [Maldy](http://twitter.com/search?q=Maldy) | N/A |
+| 47 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
+| 48 | [The FDA](http://twitter.com/search?q=The+FDA) | N/A |
+| 49 | [Jim Jones](http://twitter.com/search?q=Jim+Jones) | N/A |
+| 50 | [Connor Joe](http://twitter.com/search?q=Connor+Joe) | N/A |
 
 
 

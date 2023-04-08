@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-04-07 23:16:37 UTC`
+📆 Last Updated: `2023-04-08 00:27:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Colombia](</Colombia>)
 | ------- | ------------ | ------------ |
 | 1 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
 | 2 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
-| 5 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [#DíaMundialDeLaSalud](http://twitter.com/search?q=%23D%c3%adaMundialDeLaSalud) | N/A |
-| 8 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 9 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 10 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
-| 11 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 12 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 13 | [Cascarino](http://twitter.com/search?q=Cascarino) | N/A |
-| 14 | [Abadía](http://twitter.com/search?q=Abad%c3%ada) | N/A |
-| 15 | [Sergio Higuita](http://twitter.com/search?q=Sergio+Higuita) | N/A |
-| 16 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
-| 17 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
-| 18 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 19 | [Catalina Usme](http://twitter.com/search?q=Catalina+Usme) | N/A |
-| 20 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 21 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
-| 22 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 23 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 24 | [#MiCiudadBaqana](http://twitter.com/search?q=%23MiCiudadBaqana) | N/A |
-| 25 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 26 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
-| 27 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 28 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
-| 29 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
-| 30 | [Bojacá](http://twitter.com/search?q=Bojac%c3%a1) | N/A |
-| 31 | [Felices 210](http://twitter.com/search?q=Felices+210) | N/A |
-| 32 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 33 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 34 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 35 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 36 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
-| 37 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 38 | [Yaser Asprilla](http://twitter.com/search?q=Yaser+Asprilla) | N/A |
-| 39 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 40 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 41 | [Escasez](http://twitter.com/search?q=Escasez) | N/A |
-| 42 | [Vuelta al País Vasco](http://twitter.com/search?q=Vuelta+al+Pa%c3%ads+Vasco) | N/A |
-| 43 | [Mazorca](http://twitter.com/search?q=Mazorca) | N/A |
-| 44 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 45 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 46 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 47 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 48 | [Barú](http://twitter.com/search?q=Bar%c3%ba) | N/A |
-| 49 | [Dijon](http://twitter.com/search?q=Dijon) | N/A |
-| 50 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 3 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
+| 4 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 5 | [#DíaMundialDeLaSalud](http://twitter.com/search?q=%23D%c3%adaMundialDeLaSalud) | N/A |
+| 6 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 7 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 8 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 9 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 10 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 11 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
+| 12 | [Sergio Higuita](http://twitter.com/search?q=Sergio+Higuita) | N/A |
+| 13 | [Catalina Usme](http://twitter.com/search?q=Catalina+Usme) | N/A |
+| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 15 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
+| 16 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 17 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 18 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 19 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 22 | [#MiCiudadBaqana](http://twitter.com/search?q=%23MiCiudadBaqana) | N/A |
+| 23 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
+| 24 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 25 | [Abadía](http://twitter.com/search?q=Abad%c3%ada) | N/A |
+| 26 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 27 | [Felices 210](http://twitter.com/search?q=Felices+210) | N/A |
+| 28 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 29 | [Rionegro](http://twitter.com/search?q=Rionegro) | N/A |
+| 30 | [Alberto Grisales](http://twitter.com/search?q=Alberto+Grisales) | N/A |
+| 31 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 32 | [Bojacá](http://twitter.com/search?q=Bojac%c3%a1) | N/A |
+| 33 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 34 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 35 | [Yaser Asprilla](http://twitter.com/search?q=Yaser+Asprilla) | N/A |
+| 36 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
+| 37 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
+| 38 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 39 | [Escasez](http://twitter.com/search?q=Escasez) | N/A |
+| 40 | [Mazorca](http://twitter.com/search?q=Mazorca) | N/A |
+| 41 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 42 | [Dijon](http://twitter.com/search?q=Dijon) | N/A |
+| 43 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 44 | [Barú](http://twitter.com/search?q=Bar%c3%ba) | N/A |
+| 45 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
+| 46 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 47 | [Patarroyo](http://twitter.com/search?q=Patarroyo) | N/A |
+| 48 | [Vuelta al País Vasco](http://twitter.com/search?q=Vuelta+al+Pa%c3%ads+Vasco) | N/A |
+| 49 | [Bojanini](http://twitter.com/search?q=Bojanini) | N/A |
+| 50 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-04-07 23:16:34 UTC`
+📆 Last Updated: `2023-04-08 00:27:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 4 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 5 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
-| 6 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 7 | [Santiago Creel](http://twitter.com/search?q=Santiago+Creel) | N/A |
-| 8 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 9 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 10 | [Orinoco](http://twitter.com/search?q=Orinoco) | N/A |
-| 11 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 12 | [#ViaCrucis](http://twitter.com/search?q=%23ViaCrucis) | N/A |
-| 13 | [#DíaMundialDeLaSalud](http://twitter.com/search?q=%23D%c3%adaMundialDeLaSalud) | N/A |
-| 14 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
-| 15 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 16 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 17 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 18 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 19 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 20 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 21 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 22 | [Iztapalapa](http://twitter.com/search?q=Iztapalapa) | N/A |
-| 23 | [Farnesio de Bernal](http://twitter.com/search?q=Farnesio+de+Bernal) | N/A |
-| 24 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 25 | [Tostada](http://twitter.com/search?q=Tostada) | N/A |
-| 26 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 27 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 28 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 29 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 1 | [#CristianRey](http://twitter.com/search?q=%23CristianRey) | #CristianRey is a hashtag used to refer to the Christian faith. It is often used in posts related to Christianity, such as prayers, Bible verses, and inspirational quotes. The English translation of #CristianRey is "Christian King". |
+| 2 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [Creel](http://twitter.com/search?q=Creel) | N/A |
+| 5 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 6 | [#WiplashParaSiempre](http://twitter.com/search?q=%23WiplashParaSiempre) | N/A |
+| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 8 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 9 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
+| 10 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 11 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 12 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 13 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 14 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 15 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 16 | [Orinoco](http://twitter.com/search?q=Orinoco) | N/A |
+| 17 | [#DiaMundialdelaSalud](http://twitter.com/search?q=%23DiaMundialdelaSalud) | N/A |
+| 18 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 19 | [Martinoli](http://twitter.com/search?q=Martinoli) | N/A |
+| 20 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 21 | [Farnesio de Bernal](http://twitter.com/search?q=Farnesio+de+Bernal) | N/A |
+| 22 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 23 | [#ViaCrucis](http://twitter.com/search?q=%23ViaCrucis) | N/A |
+| 24 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 25 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 26 | [Iztapalapa](http://twitter.com/search?q=Iztapalapa) | N/A |
+| 27 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 28 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 29 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
 | 30 | [Burger Boy](http://twitter.com/search?q=Burger+Boy) | N/A |
-| 31 | [#SerieA](http://twitter.com/search?q=%23SerieA) | N/A |
-| 32 | [Martinoli](http://twitter.com/search?q=Martinoli) | N/A |
-| 33 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 34 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 35 | [kylie](http://twitter.com/search?q=kylie) | N/A |
-| 36 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
-| 37 | [Jorge Campos](http://twitter.com/search?q=Jorge+Campos) | N/A |
-| 38 | [Dresser](http://twitter.com/search?q=Dresser) | N/A |
-| 39 | [Antonio Tarín](http://twitter.com/search?q=Antonio+Tar%c3%adn) | N/A |
-| 40 | [Yisus](http://twitter.com/search?q=Yisus) | N/A |
-| 41 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 42 | [Macuspana](http://twitter.com/search?q=Macuspana) | N/A |
-| 43 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 44 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 45 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 46 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 32 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 33 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 34 | [Dresser](http://twitter.com/search?q=Dresser) | N/A |
+| 35 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 36 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 37 | [Macuspana](http://twitter.com/search?q=Macuspana) | N/A |
+| 38 | [Yisus](http://twitter.com/search?q=Yisus) | N/A |
+| 39 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 40 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 41 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 42 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 43 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 44 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 45 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 46 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 
 
 

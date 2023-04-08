@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-07 23:17:10 UTC`
+📆 Last Updated: `2023-04-08 00:27:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 1 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
 | 2 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
-| 3 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 4 | [The Masters](http://twitter.com/search?q=The+Masters) | N/A |
-| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 8 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 9 | [#LetsGoBucs](http://twitter.com/search?q=%23LetsGoBucs) | N/A |
-| 10 | [Boone](http://twitter.com/search?q=Boone) | N/A |
-| 11 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 12 | [Stanek](http://twitter.com/search?q=Stanek) | N/A |
-| 13 | [#MNTwins](http://twitter.com/search?q=%23MNTwins) | N/A |
-| 14 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
-| 15 | [Sonny Gray](http://twitter.com/search?q=Sonny+Gray) | N/A |
-| 16 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 17 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 18 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 19 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
-| 20 | [#RaiseIt](http://twitter.com/search?q=%23RaiseIt) | N/A |
-| 21 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 22 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
-| 23 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 24 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
-| 25 | [Connor Joe](http://twitter.com/search?q=Connor+Joe) | N/A |
-| 26 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 27 | [Maldy](http://twitter.com/search?q=Maldy) | N/A |
-| 28 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
-| 29 | [Loomer](http://twitter.com/search?q=Loomer) | N/A |
-| 30 | [Kyle Farmer](http://twitter.com/search?q=Kyle+Farmer) | N/A |
-| 31 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
-| 32 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 33 | [Raise the Jolly Roger](http://twitter.com/search?q=Raise+the+Jolly+Roger) | N/A |
-| 34 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
-| 35 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
-| 36 | [Richie James](http://twitter.com/search?q=Richie+James) | Richie James is a nickname given to the American football player Richie James Jr., who currently plays for the San Francisco 49ers. The name is derived from his first and last names. In English, it means "Richie James Junior". |
-| 37 | [Cutch](http://twitter.com/search?q=Cutch) | Cutch is a slang term for cocaine. It is derived from the word "cocaine" and is often used to refer to the drug in a casual or informal setting. |
-| 38 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 39 | [Oswaldo](http://twitter.com/search?q=Oswaldo) | N/A |
-| 40 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 41 | [Diekman](http://twitter.com/search?q=Diekman) | N/A |
-| 42 | [Matthew Kacsmaryk](http://twitter.com/search?q=Matthew+Kacsmaryk) | N/A |
-| 43 | [Slovenian](http://twitter.com/search?q=Slovenian) | N/A |
-| 44 | [Trevino](http://twitter.com/search?q=Trevino) | N/A |
-| 45 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 46 | [Jim Jones](http://twitter.com/search?q=Jim+Jones) | N/A |
-| 47 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 48 | [Tostada](http://twitter.com/search?q=Tostada) | N/A |
-| 49 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 50 | [Dubon](http://twitter.com/search?q=Dubon) | N/A |
+| 3 | [The Masters](http://twitter.com/search?q=The+Masters) | N/A |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 6 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
+| 7 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 10 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 12 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 13 | [#readytolove](http://twitter.com/search?q=%23readytolove) | N/A |
+| 14 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 15 | [#BooksForRobots](http://twitter.com/search?q=%23BooksForRobots) | N/A |
+| 16 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 17 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 18 | [Boone](http://twitter.com/search?q=Boone) | N/A |
+| 19 | [Stanek](http://twitter.com/search?q=Stanek) | N/A |
+| 20 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 21 | [Kacsmaryk](http://twitter.com/search?q=Kacsmaryk) | N/A |
+| 22 | [Brawling Brutes](http://twitter.com/search?q=Brawling+Brutes) | N/A |
+| 23 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 24 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
+| 25 | [Sonny Gray](http://twitter.com/search?q=Sonny+Gray) | N/A |
+| 26 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
+| 27 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 28 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
+| 29 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
+| 30 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
+| 31 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 32 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
+| 33 | [Loomer](http://twitter.com/search?q=Loomer) | N/A |
+| 34 | [Kyle Farmer](http://twitter.com/search?q=Kyle+Farmer) | N/A |
+| 35 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
+| 36 | [Maldy](http://twitter.com/search?q=Maldy) | N/A |
+| 37 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
+| 38 | [Imperium](http://twitter.com/search?q=Imperium) | Imperium is a Latin word meaning "power to command" or "absolute power". It is often used to refer to the power of an emperor or other ruler, or to the political and military authority of a state. |
+| 39 | [The FDA](http://twitter.com/search?q=The+FDA) | N/A |
+| 40 | [Jim Jones](http://twitter.com/search?q=Jim+Jones) | N/A |
+| 41 | [Connor Joe](http://twitter.com/search?q=Connor+Joe) | N/A |
+| 42 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 43 | [Raise the Jolly Roger](http://twitter.com/search?q=Raise+the+Jolly+Roger) | N/A |
+| 44 | [Slovenia](http://twitter.com/search?q=Slovenia) | N/A |
+| 45 | [Quinton Martin](http://twitter.com/search?q=Quinton+Martin) | N/A |
+| 46 | [Richie James](http://twitter.com/search?q=Richie+James) | Richie James is a nickname given to the American football player Richie James Jr., who currently plays for the San Francisco 49ers. The name is derived from his first and last names. In English, it means "Richie James Junior". |
+| 47 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 48 | [Pritchard](http://twitter.com/search?q=Pritchard) | Pritchard is a surname of English origin. It is derived from the Old English personal name Prichard, which means "strong" or "brave". |
+| 49 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 50 | [The Mavs](http://twitter.com/search?q=The+Mavs) | N/A |
 
 
 

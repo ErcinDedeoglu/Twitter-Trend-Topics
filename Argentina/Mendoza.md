@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-04-07 23:16:36 UTC`
+📆 Last Updated: `2023-04-08 00:27:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Roncaglia](http://twitter.com/search?q=Roncaglia) | Roncaglia is a type of Italian folk dance that originated in the region of Emilia-Romagna. It is a lively, fast-paced dance that involves couples dancing in a circle and performing intricate steps and turns. The name Roncaglia comes from the Italian word for "round," as the dance is traditionally performed in a circular formation. In English, Roncaglia means "round dance." |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 5 | [#FrodoGamergy](http://twitter.com/search?q=%23FrodoGamergy) | N/A |
-| 6 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
-| 7 | [Blas](http://twitter.com/search?q=Blas) | N/A |
-| 8 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 9 | [Rusher](http://twitter.com/search?q=Rusher) | N/A |
-| 10 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 11 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 12 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
-| 13 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 14 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 15 | [Berni](http://twitter.com/search?q=Berni) | N/A |
-| 16 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 17 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 18 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 19 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 20 | [Ruckauf](http://twitter.com/search?q=Ruckauf) | N/A |
-| 21 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 22 | [Día Mundial de la Salud](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Salud) | N/A |
-| 23 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
-| 24 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 25 | [UTOI](http://twitter.com/search?q=UTOI) | N/A |
-| 26 | [La Continental](http://twitter.com/search?q=La+Continental) | N/A |
-| 27 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 28 | [#agusycamientwitch](http://twitter.com/search?q=%23agusycamientwitch) | N/A |
-| 29 | [#UnDinamoEsquizo](http://twitter.com/search?q=%23UnDinamoEsquizo) | N/A |
-| 30 | [Freijo](http://twitter.com/search?q=Freijo) | N/A |
-| 31 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
-| 32 | [Langoni](http://twitter.com/search?q=Langoni) | Langoni is a type of traditional Indian clothing worn by women in some parts of India. It is a long, loose-fitting garment that is usually made from cotton or silk and is often decorated with intricate embroidery. The word "langoni" comes from the Hindi language and translates to "loose clothing". |
-| 33 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 34 | [Havanna](http://twitter.com/search?q=Havanna) | N/A |
-| 35 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 36 | [Echeverri](http://twitter.com/search?q=Echeverri) | N/A |
-| 37 | [MERVE HERMANA TRAIDORA](http://twitter.com/search?q=MERVE+HERMANA+TRAIDORA) | N/A |
-| 38 | [Casa Tía](http://twitter.com/search?q=Casa+T%c3%ada) | N/A |
-| 39 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 40 | [Rebord](http://twitter.com/search?q=Rebord) | N/A |
-| 41 | [Trueno](http://twitter.com/search?q=Trueno) | N/A |
-| 42 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 43 | [Vía Crucis](http://twitter.com/search?q=V%c3%ada+Crucis) | N/A |
-| 44 | [Figal](http://twitter.com/search?q=Figal) | N/A |
-| 45 | [Oscar Romero](http://twitter.com/search?q=Oscar+Romero) | N/A |
-| 46 | [Donda](http://twitter.com/search?q=Donda) | N/A |
-| 47 | [CABA](http://twitter.com/search?q=CABA) | N/A |
-| 48 | [Pumper Nic](http://twitter.com/search?q=Pumper+Nic) | N/A |
-| 49 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
+| 1 | [#undinamoesquizo](http://twitter.com/search?q=%23undinamoesquizo) | N/A |
+| 2 | [#Esquizanto](http://twitter.com/search?q=%23Esquizanto) | N/A |
+| 3 | [Flor Moyano](http://twitter.com/search?q=Flor+Moyano) | N/A |
+| 4 | [Carranza](http://twitter.com/search?q=Carranza) | N/A |
+| 5 | [Bovaglio](http://twitter.com/search?q=Bovaglio) | N/A |
+| 6 | [Platense](http://twitter.com/search?q=Platense) | N/A |
+| 7 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 8 | [#FrodoGamergy](http://twitter.com/search?q=%23FrodoGamergy) | N/A |
+| 9 | [Albertengo](http://twitter.com/search?q=Albertengo) | N/A |
+| 10 | [Pepe Sand](http://twitter.com/search?q=Pepe+Sand) | N/A |
+| 11 | [La Continental](http://twitter.com/search?q=La+Continental) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Blas](http://twitter.com/search?q=Blas) | N/A |
+| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 15 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
+| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 17 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 18 | [#Instituto](http://twitter.com/search?q=%23Instituto) | N/A |
+| 19 | [Taborda](http://twitter.com/search?q=Taborda) | N/A |
+| 20 | [Delfino](http://twitter.com/search?q=Delfino) | N/A |
+| 21 | [Graciani](http://twitter.com/search?q=Graciani) | N/A |
+| 22 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 23 | [Braghieri](http://twitter.com/search?q=Braghieri) | N/A |
+| 24 | [#TorneoBinance](http://twitter.com/search?q=%23TorneoBinance) | N/A |
+| 25 | [Kudelka](http://twitter.com/search?q=Kudelka) | N/A |
+| 26 | [Donda](http://twitter.com/search?q=Donda) | N/A |
+| 27 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
+| 28 | [Videla](http://twitter.com/search?q=Videla) | Videla is a Spanish surname derived from the Latin word videlicet, meaning "namely". It is most commonly associated with former Argentine dictator Jorge Rafael Videla. |
+| 29 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 30 | [Barbies](http://twitter.com/search?q=Barbies) | N/A |
+| 31 | [Rebord](http://twitter.com/search?q=Rebord) | N/A |
+| 32 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 33 | [La Luna](http://twitter.com/search?q=La+Luna) | N/A |
+| 34 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
+| 35 | [Vía Crucis](http://twitter.com/search?q=V%c3%ada+Crucis) | N/A |
+| 36 | [Havanna](http://twitter.com/search?q=Havanna) | N/A |
+| 37 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 38 | [Florencia](http://twitter.com/search?q=Florencia) | N/A |
+| 39 | [UTOI](http://twitter.com/search?q=UTOI) | N/A |
+| 40 | [Exceso](http://twitter.com/search?q=Exceso) | N/A |
+| 41 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 42 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 43 | [Pumper Nic](http://twitter.com/search?q=Pumper+Nic) | N/A |
+| 44 | [Ruckauf](http://twitter.com/search?q=Ruckauf) | N/A |
+| 45 | [Ofelia](http://twitter.com/search?q=Ofelia) | N/A |
+| 46 | [Humo](http://twitter.com/search?q=Humo) | N/A |
+| 47 | [#MiFotoBang](http://twitter.com/search?q=%23MiFotoBang) | N/A |
+| 48 | [#Fecha10](http://twitter.com/search?q=%23Fecha10) | N/A |
+| 49 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
 
 
 

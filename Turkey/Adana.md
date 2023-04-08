@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-04-07 23:17:08 UTC`
+📆 Last Updated: `2023-04-08 00:27:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SüleymanÇakır](http://twitter.com/search?q=%23S%c3%bcleyman%c3%87ak%c4%b1r) | N/A |
-| 2 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 3 | [#EnineBoyuna](http://twitter.com/search?q=%23EnineBoyuna) | N/A |
-| 4 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
-| 5 | [#TFFistifa](http://twitter.com/search?q=%23TFFistifa) | N/A |
-| 6 | [#Söz2000Lerde](http://twitter.com/search?q=%23S%c3%b6z2000Lerde) | N/A |
-| 7 | [Vefatının 19](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+19) | N/A |
-| 8 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
+| 1 | [#MahirAkkoyunSerbestBırakılsın](http://twitter.com/search?q=%23MahirAkkoyunSerbestB%c4%b1rak%c4%b1ls%c4%b1n) | N/A |
+| 2 | [#SüleymanÇakır](http://twitter.com/search?q=%23S%c3%bcleyman%c3%87ak%c4%b1r) | N/A |
+| 3 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 4 | [Vefatının 19](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+19) | N/A |
+| 5 | [#EnineBoyuna](http://twitter.com/search?q=%23EnineBoyuna) | N/A |
+| 6 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 7 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
+| 8 | [#StajyereAdilOl](http://twitter.com/search?q=%23StajyereAdilOl) | N/A |
 | 9 | [Tugay Kerimoğlu](http://twitter.com/search?q=Tugay+Kerimo%c4%9flu) | N/A |
 | 10 | [Azdan](http://twitter.com/search?q=Azdan) | N/A |
-| 11 | [KUTLU YÜRÜYÜŞ](http://twitter.com/search?q=KUTLU+Y%c3%9cR%c3%9cY%c3%9c%c5%9e) | N/A |
-| 12 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 13 | [Cerrahpaşalı Halit](http://twitter.com/search?q=Cerrahpa%c5%9fal%c4%b1+Halit) | N/A |
-| 14 | [Pire](http://twitter.com/search?q=Pire) | N/A |
-| 15 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
-| 16 | [Selvi Kılıçdaroğlu](http://twitter.com/search?q=Selvi+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 17 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
-| 18 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
-| 19 | [Serdar Aziz](http://twitter.com/search?q=Serdar+Aziz) | N/A |
-| 20 | [DenetimliSerbestlik Haktır](http://twitter.com/search?q=DenetimliSerbestlik+Hakt%c4%b1r) | N/A |
+| 11 | [Cerrahpaşalı Halit](http://twitter.com/search?q=Cerrahpa%c5%9fal%c4%b1+Halit) | N/A |
+| 12 | [KUTLU YÜRÜYÜŞ](http://twitter.com/search?q=KUTLU+Y%c3%9cR%c3%9cY%c3%9c%c5%9e) | N/A |
+| 13 | [Pire](http://twitter.com/search?q=Pire) | N/A |
+| 14 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
+| 15 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 16 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
+| 17 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
+| 18 | [Serdar Aziz](http://twitter.com/search?q=Serdar+Aziz) | N/A |
+| 19 | [Selvi Kılıçdaroğlu](http://twitter.com/search?q=Selvi+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 20 | [İlke](http://twitter.com/search?q=%c4%b0lke) | N/A |
 | 21 | [Davutoğlu](http://twitter.com/search?q=Davuto%c4%9flu) | Davutoğlu is a Turkish surname. It is derived from the Turkish word "davut", which means "wise". In English, the name Davutoğlu would translate to "wise man". |
-| 22 | [Kazım](http://twitter.com/search?q=Kaz%c4%b1m) | Kazım is a Turkish name, derived from the Arabic name Kazim. It means "one who controls his anger". |
-| 23 | [BirSözDe İİBFyeBayKemal](http://twitter.com/search?q=BirS%c3%b6zDe+%c4%b0%c4%b0BFyeBayKemal) | N/A |
+| 22 | [DenetimliSerbestlik Haktır](http://twitter.com/search?q=DenetimliSerbestlik+Hakt%c4%b1r) | N/A |
+| 23 | [Kazım](http://twitter.com/search?q=Kaz%c4%b1m) | Kazım is a Turkish name, derived from the Arabic name Kazim. It means "one who controls his anger". |
 | 24 | [Bardak](http://twitter.com/search?q=Bardak) | N/A |
-| 25 | [BayKemal 35YaşınUmudu](http://twitter.com/search?q=BayKemal+35Ya%c5%9f%c4%b1nUmudu) | N/A |
-| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 27 | [Milletler](http://twitter.com/search?q=Milletler) | N/A |
-| 28 | [ReisTaşerona SözünüzVar](http://twitter.com/search?q=ReisTa%c5%9ferona+S%c3%b6z%c3%bcn%c3%bczVar) | N/A |
-| 29 | [İlke](http://twitter.com/search?q=%c4%b0lke) | N/A |
-| 30 | [Kıvılcım](http://twitter.com/search?q=K%c4%b1v%c4%b1lc%c4%b1m) | N/A |
-| 31 | [Ifakat](http://twitter.com/search?q=Ifakat) | N/A |
-| 32 | [ÖZERKLİKMİŞ HADİ ORDAN](http://twitter.com/search?q=%c3%96ZERKL%c4%b0KM%c4%b0%c5%9e+HAD%c4%b0+ORDAN) | N/A |
-| 33 | [Önder Aksakal](http://twitter.com/search?q=%c3%96nder+Aksakal) | N/A |
-| 34 | [KADINLAR MECLİSE](http://twitter.com/search?q=KADINLAR+MECL%c4%b0SE) | N/A |
-| 35 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 36 | [Gülşah](http://twitter.com/search?q=G%c3%bcl%c5%9fah) | N/A |
-| 37 | [Osayi](http://twitter.com/search?q=Osayi) | Osayi is a Nigerian name that means "God's gift". It is derived from the Yoruba language. |
-| 38 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
-| 39 | [S O R U M L U S U N U Z](http://twitter.com/search?q=S+O+R+U+M+L+U+S+U+N+U+Z) | N/A |
-| 40 | [Nilay](http://twitter.com/search?q=Nilay) | N/A |
-| 41 | [Çoktan](http://twitter.com/search?q=%c3%87oktan) | N/A |
-| 42 | [Mazlum Kobani](http://twitter.com/search?q=Mazlum+Kobani) | N/A |
-| 43 | [Mahir](http://twitter.com/search?q=Mahir) | N/A |
-| 44 | [Egzoz](http://twitter.com/search?q=Egzoz) | N/A |
-| 45 | [AyTol](http://twitter.com/search?q=AyTol) | N/A |
-| 46 | [PFDK](http://twitter.com/search?q=PFDK) | N/A |
-| 47 | [Abidin](http://twitter.com/search?q=Abidin) | N/A |
-| 48 | [Yerli Güç](http://twitter.com/search?q=Yerli+G%c3%bc%c3%a7) | N/A |
-| 49 | [Samsunspor](http://twitter.com/search?q=Samsunspor) | N/A |
-| 50 | [Babacan](http://twitter.com/search?q=Babacan) | N/A |
+| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 26 | [ReisTaşerona SözünüzVar](http://twitter.com/search?q=ReisTa%c5%9ferona+S%c3%b6z%c3%bcn%c3%bczVar) | N/A |
+| 27 | [Önder Aksakal](http://twitter.com/search?q=%c3%96nder+Aksakal) | N/A |
+| 28 | [KADINLAR MECLİSE](http://twitter.com/search?q=KADINLAR+MECL%c4%b0SE) | N/A |
+| 29 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 30 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
+| 31 | [Abidin](http://twitter.com/search?q=Abidin) | N/A |
+| 32 | [SİHA](http://twitter.com/search?q=S%c4%b0HA) | N/A |
+| 33 | [Osayi](http://twitter.com/search?q=Osayi) | Osayi is a Nigerian name that means "God's gift". It is derived from the Yoruba language. |
+| 34 | [İdam](http://twitter.com/search?q=%c4%b0dam) | N/A |
+| 35 | [Çoktan](http://twitter.com/search?q=%c3%87oktan) | N/A |
+| 36 | [Babacan](http://twitter.com/search?q=Babacan) | N/A |
+| 37 | [AyTol](http://twitter.com/search?q=AyTol) | N/A |
+| 38 | [PFDK](http://twitter.com/search?q=PFDK) | N/A |
+| 39 | [Ulusal Risk Kalkanı](http://twitter.com/search?q=Ulusal+Risk+Kalkan%c4%b1) | N/A |
+| 40 | [Gürsel](http://twitter.com/search?q=G%c3%bcrsel) | N/A |
+| 41 | [DSP'ye](http://twitter.com/search?q=DSP%27ye) | N/A |
+| 42 | [Kısas](http://twitter.com/search?q=K%c4%b1sas) | N/A |
+| 43 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 44 | [#TFFistifa](http://twitter.com/search?q=%23TFFistifa) | N/A |
+| 45 | [#Söz2000Lerde](http://twitter.com/search?q=%23S%c3%b6z2000Lerde) | N/A |
+| 46 | [#KurtlarVadisi](http://twitter.com/search?q=%23KurtlarVadisi) | N/A |
+| 47 | [#BuNeYamanÇelişki](http://twitter.com/search?q=%23BuNeYaman%c3%87eli%c5%9fki) | N/A |
+| 48 | [#MemurunMaaşıPulaDöndü](http://twitter.com/search?q=%23MemurunMaa%c5%9f%c4%b1PulaD%c3%b6nd%c3%bc) | N/A |
+| 49 | [#YaliÇapkini](http://twitter.com/search?q=%23Yali%c3%87apkini) | #YaliÇapkini is a Turkish phrase that translates to "Let's go to the beach!" It is often used as an invitation to spend time at the beach with friends or family. |
+| 50 | [#KızılcıkŞerbeti](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbeti) | N/A |
 
 
 
