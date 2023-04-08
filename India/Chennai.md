@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-04-08 16:16:58 UTC`
+📆 Last Updated: `2023-04-08 17:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MKS4StateRights](http://twitter.com/search?q=%23MKS4StateRights) | N/A |
-| 2 | [#VeeraRajaVeera](http://twitter.com/search?q=%23VeeraRajaVeera) | N/A |
-| 3 | [#VandeBharatExpress](http://twitter.com/search?q=%23VandeBharatExpress) | N/A |
-| 4 | [#MKStalin](http://twitter.com/search?q=%23MKStalin) | N/A |
-| 5 | [#CSKvsMI](http://twitter.com/search?q=%23CSKvsMI) | N/A |
-| 6 | [Dhoni Review System](http://twitter.com/search?q=Dhoni+Review+System) | N/A |
+| 1 | [#Yellove](http://twitter.com/search?q=%23Yellove) | N/A |
+| 2 | [Dube](http://twitter.com/search?q=Dube) | N/A |
+| 3 | [#TATAIPL2023](http://twitter.com/search?q=%23TATAIPL2023) | N/A |
+| 4 | [#HappyEaster](http://twitter.com/search?q=%23HappyEaster) | N/A |
+| 5 | [#VandeBharatExpress](http://twitter.com/search?q=%23VandeBharatExpress) | N/A |
+| 6 | [#VeeraRajaVeera](http://twitter.com/search?q=%23VeeraRajaVeera) | N/A |
 | 7 | [Rahane](http://twitter.com/search?q=Rahane) | Rahane is a Hindu name derived from the Sanskrit word 'rajan', meaning 'king'. It is commonly used as a first name for boys in India. |
-| 8 | [THARKI BUDDHA KHILODA](http://twitter.com/search?q=THARKI+BUDDHA+KHILODA) | N/A |
-| 9 | [BAWASIR MARIZ SAHROOK](http://twitter.com/search?q=BAWASIR+MARIZ+SAHROOK) | N/A |
-| 10 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
-| 11 | [HAAFIZ KI RAAN HAKLODA](http://twitter.com/search?q=HAAFIZ+KI+RAAN+HAKLODA) | N/A |
-| 12 | [SRK KA JHANT AKSHAY](http://twitter.com/search?q=SRK+KA+JHANT+AKSHAY) | N/A |
-| 13 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
-| 14 | [PAKISTANI SUAR SRK](http://twitter.com/search?q=PAKISTANI+SUAR+SRK) | N/A |
-| 15 | [Magala](http://twitter.com/search?q=Magala) | N/A |
-| 16 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 17 | [Conway](http://twitter.com/search?q=Conway) | N/A |
-| 18 | [Stubbs](http://twitter.com/search?q=Stubbs) | N/A |
-| 19 | [CANADIAN DOG AKKI](http://twitter.com/search?q=CANADIAN+DOG+AKKI) | N/A |
-| 20 | [KUTTE KI LENDI SRK](http://twitter.com/search?q=KUTTE+KI+LENDI+SRK) | N/A |
-| 21 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 22 | [Wankhede](http://twitter.com/search?q=Wankhede) | N/A |
-| 23 | [Tushar Deshpande](http://twitter.com/search?q=Tushar+Deshpande) | N/A |
-| 24 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 25 | [Santner](http://twitter.com/search?q=Santner) | Santner is a German surname derived from the word "Sandner," which means "sandy area." The name is most commonly found in the Bavarian region of Germany. |
-| 26 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 27 | [MAKEUP QUEEN SRK](http://twitter.com/search?q=MAKEUP+QUEEN+SRK) | N/A |
-| 28 | [CSK CSK](http://twitter.com/search?q=CSK+CSK) | N/A |
-| 29 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
-| 30 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 31 | [Billy D & Simon T](http://twitter.com/search?q=Billy+D+%26+Simon+T) | N/A |
-| 32 | [CANADIAN RAAN AKKI](http://twitter.com/search?q=CANADIAN+RAAN+AKKI) | N/A |
-| 33 | [Tilak](http://twitter.com/search?q=Tilak) | N/A |
-| 34 | [WE WANT BAWAAL POSTER](http://twitter.com/search?q=WE+WANT+BAWAAL+POSTER) | N/A |
-| 35 | [SUPER CHARMING DIVA SHEHNAAZ](http://twitter.com/search?q=SUPER+CHARMING+DIVA+SHEHNAAZ) | N/A |
-| 36 | [Moeen](http://twitter.com/search?q=Moeen) | N/A |
-| 37 | [Bumrah](http://twitter.com/search?q=Bumrah) | N/A |
-| 38 | [We Love Sidharth Shukla](http://twitter.com/search?q=We+Love+Sidharth+Shukla) | N/A |
-| 39 | [Ishan](http://twitter.com/search?q=Ishan) | N/A |
-| 40 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 41 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
-| 42 | [Deepak Chahar](http://twitter.com/search?q=Deepak+Chahar) | N/A |
-| 43 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 44 | [Pretorius](http://twitter.com/search?q=Pretorius) | N/A |
-| 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 46 | [Anna 🤣](http://twitter.com/search?q=Anna+%f0%9f%a4%a3) | N/A |
-| 47 | [Arjun Tendulkar](http://twitter.com/search?q=Arjun+Tendulkar) | N/A |
-| 48 | [Newlands Cricket Ground](http://twitter.com/search?q=Newlands+Cricket+Ground) | N/A |
-| 49 | [Brevis](http://twitter.com/search?q=Brevis) | Brevis is a Latin word meaning "short" or "brief". It is often used to refer to something that is concise or succinct. |
-| 50 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 8 | [Dhoni Review System](http://twitter.com/search?q=Dhoni+Review+System) | N/A |
+| 9 | [Fastest 50](http://twitter.com/search?q=Fastest+50) | N/A |
+| 10 | [SRK KA JHANT AKSHAY](http://twitter.com/search?q=SRK+KA+JHANT+AKSHAY) | N/A |
+| 11 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
+| 12 | [SRK KA BAAP AKSHAY](http://twitter.com/search?q=SRK+KA+BAAP+AKSHAY) | N/A |
+| 13 | [THARKI BUDDHA KHILODA](http://twitter.com/search?q=THARKI+BUDDHA+KHILODA) | N/A |
+| 14 | [Wankhede](http://twitter.com/search?q=Wankhede) | N/A |
+| 15 | [Jinx](http://twitter.com/search?q=Jinx) | N/A |
+| 16 | [KUTTE KI LENDI SRK](http://twitter.com/search?q=KUTTE+KI+LENDI+SRK) | N/A |
+| 17 | [HAAFIZ KI RAAN HAKLODA](http://twitter.com/search?q=HAAFIZ+KI+RAAN+HAKLODA) | N/A |
+| 18 | [SRKIANS KE BAAP AKKIANS](http://twitter.com/search?q=SRKIANS+KE+BAAP+AKKIANS) | N/A |
+| 19 | [BAWASIR MARIZ SAHROOK](http://twitter.com/search?q=BAWASIR+MARIZ+SAHROOK) | N/A |
+| 20 | [PAKISTANI SUAR SRK](http://twitter.com/search?q=PAKISTANI+SUAR+SRK) | N/A |
+| 21 | [Conway](http://twitter.com/search?q=Conway) | N/A |
+| 22 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
+| 23 | [Jinks](http://twitter.com/search?q=Jinks) | N/A |
+| 24 | [CANADIAN DOG AKKI](http://twitter.com/search?q=CANADIAN+DOG+AKKI) | N/A |
+| 25 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 26 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 27 | [SRKIANS KA MOOT AKSHAY](http://twitter.com/search?q=SRKIANS+KA+MOOT+AKSHAY) | N/A |
+| 28 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 29 | [Stubbs](http://twitter.com/search?q=Stubbs) | N/A |
+| 30 | [Arshad](http://twitter.com/search?q=Arshad) | N/A |
+| 31 | [CSK CSK](http://twitter.com/search?q=CSK+CSK) | N/A |
+| 32 | [Magala](http://twitter.com/search?q=Magala) | N/A |
+| 33 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
+| 34 | [Bumrah](http://twitter.com/search?q=Bumrah) | N/A |
+| 35 | [Billy D](http://twitter.com/search?q=Billy+D) | N/A |
+| 36 | [Arjun Tendulkar](http://twitter.com/search?q=Arjun+Tendulkar) | N/A |
+| 37 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 38 | [Tushar Deshpande](http://twitter.com/search?q=Tushar+Deshpande) | N/A |
+| 39 | [CANADIAN RAAN AKKI](http://twitter.com/search?q=CANADIAN+RAAN+AKKI) | N/A |
+| 40 | [Santner](http://twitter.com/search?q=Santner) | Santner is a German surname derived from the word "Sandner," which means "sandy area." The name is most commonly found in the Bavarian region of Germany. |
+| 41 | [Gaikwad](http://twitter.com/search?q=Gaikwad) | N/A |
+| 42 | [Rutu](http://twitter.com/search?q=Rutu) | N/A |
+| 43 | [SUPER CHARMING DIVA SHEHNAAZ](http://twitter.com/search?q=SUPER+CHARMING+DIVA+SHEHNAAZ) | N/A |
+| 44 | [Tilak](http://twitter.com/search?q=Tilak) | N/A |
+| 45 | [WE WANT BAWAAL POSTER](http://twitter.com/search?q=WE+WANT+BAWAAL+POSTER) | N/A |
+| 46 | [MAKEUP QUEEN SRK](http://twitter.com/search?q=MAKEUP+QUEEN+SRK) | N/A |
+| 47 | [Anna 🤣](http://twitter.com/search?q=Anna+%f0%9f%a4%a3) | N/A |
+| 48 | [ABD Villiers](http://twitter.com/search?q=ABD+Villiers) | N/A |
+| 49 | [We Love Sidharth Shukla](http://twitter.com/search?q=We+Love+Sidharth+Shukla) | N/A |
+| 50 | [Deepak Chahar](http://twitter.com/search?q=Deepak+Chahar) | N/A |
 
 
 

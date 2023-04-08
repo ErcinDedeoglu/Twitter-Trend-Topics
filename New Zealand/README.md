@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-08 16:17:13 UTC`
+📆 Last Updated: `2023-04-08 17:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for New Zealand
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 2 | [chelsea](http://twitter.com/search?q=chelsea) | N/A |
 | 3 | [#higvhur](http://twitter.com/search?q=%23higvhur) | N/A |
 | 4 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
 | 5 | [#sdws](http://twitter.com/search?q=%23sdws) | N/A |
@@ -27,7 +27,7 @@ This is top 50 for New Zealand
 | 10 | [#SuperRugbyPacific](http://twitter.com/search?q=%23SuperRugbyPacific) | N/A |
 | 11 | [randwick](http://twitter.com/search?q=randwick) | N/A |
 | 12 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 13 | [sande](http://twitter.com/search?q=sande) | N/A |
+| 13 | [Sande](http://twitter.com/search?q=Sande) | N/A |
 | 14 | [#nrlcowboysdolphins](http://twitter.com/search?q=%23nrlcowboysdolphins) | N/A |
 | 15 | [Luke](http://twitter.com/search?q=Luke) | N/A |
 | 16 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
@@ -43,8 +43,8 @@ This is top 50 for New Zealand
 | 26 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
 | 27 | [Sean](http://twitter.com/search?q=Sean) | N/A |
 | 28 | [London](http://twitter.com/search?q=London) | N/A |
-| 29 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 30 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 29 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 30 | [Blues](http://twitter.com/search?q=Blues) | N/A |
 | 31 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
 | 32 | [Substack](http://twitter.com/search?q=Substack) | N/A |
 | 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |

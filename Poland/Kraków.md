@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-04-08 16:16:31 UTC`
+📆 Last Updated: `2023-04-08 17:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
-| 2 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 3 | [#WIDSTM](http://twitter.com/search?q=%23WIDSTM) | N/A |
-| 4 | [#POGCRA](http://twitter.com/search?q=%23POGCRA) | N/A |
-| 5 | [#PUNWIS](http://twitter.com/search?q=%23PUNWIS) | N/A |
+| 2 | [#PUNWIS](http://twitter.com/search?q=%23PUNWIS) | N/A |
+| 3 | [#POGCRA](http://twitter.com/search?q=%23POGCRA) | N/A |
+| 4 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 5 | [#TORGOR](http://twitter.com/search?q=%23TORGOR) | N/A |
 | 6 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
 | 7 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
 | 8 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
 | 9 | [Wielka Sobota](http://twitter.com/search?q=Wielka+Sobota) | N/A |
-| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
-| 12 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
-| 13 | [#TYCARK](http://twitter.com/search?q=%23TYCARK) | N/A |
-| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 15 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 16 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 17 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
-| 18 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
-| 19 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
-| 20 | [Kujawski](http://twitter.com/search?q=Kujawski) | N/A |
-| 21 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
-| 22 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 23 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
-| 24 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
-| 25 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 26 | [Chrystus](http://twitter.com/search?q=Chrystus) | N/A |
-| 27 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
-| 28 | [Zmartwychwstania Pańskiego](http://twitter.com/search?q=Zmartwychwstania+Pa%c5%84skiego) | N/A |
-| 29 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
-| 30 | [Niepołomicach](http://twitter.com/search?q=Niepo%c5%82omicach) | N/A |
-| 31 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
-| 32 | [Warta](http://twitter.com/search?q=Warta) | N/A |
-| 33 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 34 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 35 | [Krowa](http://twitter.com/search?q=Krowa) | N/A |
-| 36 | [Żydzi](http://twitter.com/search?q=%c5%bbydzi) | N/A |
+| 10 | [#WIDSTM](http://twitter.com/search?q=%23WIDSTM) | N/A |
+| 11 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 12 | [#GDAOST](http://twitter.com/search?q=%23GDAOST) | N/A |
+| 13 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 14 | [Puszcza](http://twitter.com/search?q=Puszcza) | N/A |
+| 15 | [Karny](http://twitter.com/search?q=Karny) | N/A |
+| 16 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
+| 17 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 18 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
+| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 21 | [niepołomicach](http://twitter.com/search?q=niepo%c5%82omicach) | N/A |
+| 22 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
+| 23 | [Kujawski](http://twitter.com/search?q=Kujawski) | N/A |
+| 24 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
+| 25 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
+| 26 | [Pogoni](http://twitter.com/search?q=Pogoni) | N/A |
+| 27 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
+| 28 | [Chrystus](http://twitter.com/search?q=Chrystus) | N/A |
+| 29 | [Murawa](http://twitter.com/search?q=Murawa) | N/A |
+| 30 | [Zmartwychwstania Pańskiego](http://twitter.com/search?q=Zmartwychwstania+Pa%c5%84skiego) | N/A |
+| 31 | [Warta](http://twitter.com/search?q=Warta) | N/A |
+| 32 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
+| 33 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
+| 34 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
+| 35 | [Żydzi](http://twitter.com/search?q=%c5%bbydzi) | N/A |
+| 36 | [Krowa](http://twitter.com/search?q=Krowa) | N/A |
 | 37 | [KGHM](http://twitter.com/search?q=KGHM) | N/A |
-| 38 | [Szmaty](http://twitter.com/search?q=Szmaty) | N/A |
-| 39 | [Istnieje](http://twitter.com/search?q=Istnieje) | N/A |
-| 40 | [duklanowski](http://twitter.com/search?q=duklanowski) | N/A |
-| 41 | [Rashforda](http://twitter.com/search?q=Rashforda) | N/A |
-| 42 | [droga krzyżowa](http://twitter.com/search?q=droga+krzy%c5%bcowa) | N/A |
+| 38 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 39 | [Arki](http://twitter.com/search?q=Arki) | N/A |
+| 40 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
+| 41 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
+| 42 | [Panie Pawle](http://twitter.com/search?q=Panie+Pawle) | N/A |
 | 43 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
-| 44 | [Życzymy Wam](http://twitter.com/search?q=%c5%bbyczymy+Wam) | N/A |
-| 45 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
-| 46 | [Groszek](http://twitter.com/search?q=Groszek) | N/A |
-| 47 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
-| 48 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 49 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
-| 50 | [Tychach](http://twitter.com/search?q=Tychach) | N/A |
+| 44 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 45 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
+| 46 | [duklanowski](http://twitter.com/search?q=duklanowski) | N/A |
+| 47 | [Życzymy Wam](http://twitter.com/search?q=%c5%bbyczymy+Wam) | N/A |
+| 48 | [Istnieje](http://twitter.com/search?q=Istnieje) | N/A |
+| 49 | [Groszek](http://twitter.com/search?q=Groszek) | N/A |
+| 50 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 
 
 

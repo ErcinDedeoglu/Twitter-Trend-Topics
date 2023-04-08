@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-08 16:16:59 UTC`
+📆 Last Updated: `2023-04-08 17:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,7 +27,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 10 | [#SuperRugbyPacific](http://twitter.com/search?q=%23SuperRugbyPacific) | N/A |
 | 11 | [randwick](http://twitter.com/search?q=randwick) | N/A |
 | 12 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 13 | [sande](http://twitter.com/search?q=sande) | N/A |
+| 13 | [Sande](http://twitter.com/search?q=Sande) | N/A |
 | 14 | [#nrlcowboysdolphins](http://twitter.com/search?q=%23nrlcowboysdolphins) | N/A |
 | 15 | [Luke](http://twitter.com/search?q=Luke) | N/A |
 | 16 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
@@ -43,8 +43,8 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 26 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
 | 27 | [Sean](http://twitter.com/search?q=Sean) | N/A |
 | 28 | [London](http://twitter.com/search?q=London) | N/A |
-| 29 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 30 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 29 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 30 | [Blues](http://twitter.com/search?q=Blues) | N/A |
 | 31 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
 | 32 | [Substack](http://twitter.com/search?q=Substack) | N/A |
 | 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
