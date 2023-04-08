@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-08 00:27:54 UTC`
+📆 Last Updated: `2023-04-08 01:42:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 2 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 3 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
-| 4 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 5 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 6 | [Tylor Megill](http://twitter.com/search?q=Tylor+Megill) | N/A |
-| 7 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 8 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 9 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
-| 10 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
-| 11 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
-| 12 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 13 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 14 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
-| 15 | [Justice Thomas](http://twitter.com/search?q=Justice+Thomas) | N/A |
-| 16 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 17 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
-| 18 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 19 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 20 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
-| 21 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 23 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 25 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 26 | [#readytolove](http://twitter.com/search?q=%23readytolove) | N/A |
-| 27 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 28 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 29 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 30 | [Boone](http://twitter.com/search?q=Boone) | N/A |
-| 31 | [Stanek](http://twitter.com/search?q=Stanek) | N/A |
-| 32 | [Brawling Brutes](http://twitter.com/search?q=Brawling+Brutes) | N/A |
-| 33 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 1 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
+| 2 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 3 | [Franchy](http://twitter.com/search?q=Franchy) | N/A |
+| 4 | [Clarke Schmidt](http://twitter.com/search?q=Clarke+Schmidt) | N/A |
+| 5 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
+| 6 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 7 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 8 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 9 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
+| 10 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 11 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 12 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
+| 13 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 14 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 15 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 16 | [#lifeafterlockup](http://twitter.com/search?q=%23lifeafterlockup) | N/A |
+| 17 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 18 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 19 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
+| 20 | [WWE Draft](http://twitter.com/search?q=WWE+Draft) | N/A |
+| 21 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 22 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 23 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
+| 24 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
+| 25 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 26 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 27 | [Javale McGee](http://twitter.com/search?q=Javale+McGee) | N/A |
+| 28 | [Aris](http://twitter.com/search?q=Aris) | N/A |
+| 29 | [Dominik Mysterio](http://twitter.com/search?q=Dominik+Mysterio) | N/A |
+| 30 | [SHINSUKE](http://twitter.com/search?q=SHINSUKE) | N/A |
+| 31 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 32 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 33 | [Brett](http://twitter.com/search?q=Brett) | N/A |
 | 34 | [Matthew Kacsmaryk](http://twitter.com/search?q=Matthew+Kacsmaryk) | N/A |
-| 35 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 36 | [Sonny Gray](http://twitter.com/search?q=Sonny+Gray) | N/A |
-| 37 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
-| 38 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
-| 39 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
-| 40 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 41 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 42 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
-| 43 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
-| 44 | [Imperium](http://twitter.com/search?q=Imperium) | Imperium is a Latin word meaning "power to command" or "absolute power". It is often used to refer to the power of an emperor or other ruler, or to the political and military authority of a state. |
-| 45 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
-| 46 | [Loomer](http://twitter.com/search?q=Loomer) | N/A |
-| 47 | [Kyle Farmer](http://twitter.com/search?q=Kyle+Farmer) | N/A |
-| 48 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
-| 49 | [Maldy](http://twitter.com/search?q=Maldy) | N/A |
-| 50 | [Jim Jones](http://twitter.com/search?q=Jim+Jones) | N/A |
+| 35 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 36 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
+| 37 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 38 | [Shotzi](http://twitter.com/search?q=Shotzi) | N/A |
+| 39 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 40 | [Stanek](http://twitter.com/search?q=Stanek) | N/A |
+| 41 | [Brawling Brutes](http://twitter.com/search?q=Brawling+Brutes) | N/A |
+| 42 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
+| 43 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 44 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 45 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 46 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 47 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
+| 48 | [The FDA](http://twitter.com/search?q=The+FDA) | N/A |
+| 49 | [Boone](http://twitter.com/search?q=Boone) | N/A |
+| 50 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
 
 
 

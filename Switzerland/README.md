@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-08 00:28:04 UTC`
+📆 Last Updated: `2023-04-08 01:43:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,43 +17,43 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [Stau](http://twitter.com/search?q=Stau) | N/A |
 | 2 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 3 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 4 | [Gotthard](http://twitter.com/search?q=Gotthard) | N/A |
+| 3 | [Gotthard](http://twitter.com/search?q=Gotthard) | N/A |
+| 4 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
 | 5 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
 | 6 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
 | 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 8 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
 | 9 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
 | 10 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
-| 11 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 12 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 13 | [Tessin](http://twitter.com/search?q=Tessin) | N/A |
-| 14 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 11 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 12 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 13 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 14 | [Tessin](http://twitter.com/search?q=Tessin) | N/A |
 | 15 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 | 16 | [polymanga](http://twitter.com/search?q=polymanga) | N/A |
 | 17 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 18 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 19 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 20 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 21 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 22 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
-| 23 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 24 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
-| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 26 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 27 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 28 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
-| 29 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 18 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 19 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 20 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
+| 21 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 22 | [arbeiter](http://twitter.com/search?q=arbeiter) | N/A |
+| 23 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 24 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 25 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 26 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 27 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
+| 28 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 30 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
 | 31 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
 | 32 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
-| 33 | [renovate](http://twitter.com/search?q=renovate) | N/A |
-| 34 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
-| 35 | [granit](http://twitter.com/search?q=granit) | N/A |
-| 36 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
+| 33 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
+| 34 | [renovate](http://twitter.com/search?q=renovate) | N/A |
+| 35 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
+| 36 | [granit](http://twitter.com/search?q=granit) | N/A |
 | 37 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 38 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 39 | [Oliven](http://twitter.com/search?q=Oliven) | N/A |
+| 38 | [Oliven](http://twitter.com/search?q=Oliven) | N/A |
+| 39 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
 | 40 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
 | 41 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
 | 42 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-04-08 00:27:20 UTC`
+📆 Last Updated: `2023-04-08 01:42:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 1 | [MARAISA CNPJ](http://twitter.com/search?q=MARAISA+CNPJ) | N/A |
 | 2 | [Abra o Spotify](http://twitter.com/search?q=Abra+o+Spotify) | N/A |
-| 3 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 4 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 5 | [ESTAMOS COM BLACK](http://twitter.com/search?q=ESTAMOS+COM+BLACK) | N/A |
-| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 7 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
-| 8 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 9 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
-| 10 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
-| 11 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 12 | [TORTURA NAO É ENTRETENIMENTO](http://twitter.com/search?q=TORTURA+NAO+%c3%89+ENTRETENIMENTO) | N/A |
-| 13 | [Team One](http://twitter.com/search?q=Team+One) | N/A |
-| 14 | [Minas](http://twitter.com/search?q=Minas) | N/A |
-| 15 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
-| 16 | [Bauru](http://twitter.com/search?q=Bauru) | N/A |
-| 17 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
-| 18 | [Dani Lins](http://twitter.com/search?q=Dani+Lins) | N/A |
-| 19 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 20 | [Daroit](http://twitter.com/search?q=Daroit) | N/A |
-| 21 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
-| 22 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
-| 23 | [16x0](http://twitter.com/search?q=16x0) | N/A |
-| 24 | [Manoel Carlos](http://twitter.com/search?q=Manoel+Carlos) | N/A |
-| 25 | [CLAUDIA LEITTE](http://twitter.com/search?q=CLAUDIA+LEITTE) | CLAUDIA LEITTE is the stage name of Brazilian singer, songwriter, and dancer Cláudia Cristina Leite Inácio Pedreira. She is a popular performer of the musical genre known as axé music, a style of Brazilian dance music. In English, CLAUDIA LEITTE means "Claudia Cristina Leite Inácio Pedreira". |
-| 26 | [Nyeme](http://twitter.com/search?q=Nyeme) | N/A |
-| 27 | [#MePatrocina](http://twitter.com/search?q=%23MePatrocina) | N/A |
-| 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 29 | [M.I.A.](http://twitter.com/search?q=M.I.A.) | N/A |
-| 30 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 31 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
-| 32 | [Caribe](http://twitter.com/search?q=Caribe) | N/A |
-| 33 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
-| 34 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 35 | [#LulaCemDiasDeTrabalhoEAmor](http://twitter.com/search?q=%23LulaCemDiasDeTrabalhoEAmor) | N/A |
-| 36 | [Dove](http://twitter.com/search?q=Dove) | N/A |
-| 37 | [Kakavel](http://twitter.com/search?q=Kakavel) | N/A |
-| 38 | [Arcor](http://twitter.com/search?q=Arcor) | N/A |
-| 39 | [Juba](http://twitter.com/search?q=Juba) | N/A |
-| 40 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 41 | [No Repeat](http://twitter.com/search?q=No+Repeat) | N/A |
-| 42 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 43 | [Matheus Vargas](http://twitter.com/search?q=Matheus+Vargas) | N/A |
-| 44 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | #JornalNacional is a Brazilian news program broadcast by Rede Globo, the largest television network in Brazil. It is one of the most watched programs in the country and covers national and international news. The name translates to "National News" in English. |
-| 45 | [Cracolândia](http://twitter.com/search?q=Cracol%c3%a2ndia) | N/A |
-| 46 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 47 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 48 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 49 | [SPORT CLUB DO RECIFE](http://twitter.com/search?q=SPORT+CLUB+DO+RECIFE) | Sport Club do Recife is a Brazilian professional football club based in the city of Recife, in the state of Pernambuco. The club was founded in 1905 and is one of the oldest and most successful clubs in Brazil, having won four national championships and three Copa do Brasil titles. The literal translation of Sport Club do Recife into English is "Recife Sports Club". |
-| 50 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 3 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 4 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 5 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 6 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
+| 7 | [Minas](http://twitter.com/search?q=Minas) | N/A |
+| 8 | [GIOVANNA ANTONELLI](http://twitter.com/search?q=GIOVANNA+ANTONELLI) | N/A |
+| 9 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
+| 10 | [CLAUDIA LEITTE](http://twitter.com/search?q=CLAUDIA+LEITTE) | CLAUDIA LEITTE is the stage name of Brazilian singer, songwriter, and dancer Cláudia Cristina Leite Inácio Pedreira. She is a popular performer of the musical genre known as axé music, a style of Brazilian dance music. In English, CLAUDIA LEITTE means "Claudia Cristina Leite Inácio Pedreira". |
+| 11 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
+| 12 | [Bauru](http://twitter.com/search?q=Bauru) | N/A |
+| 13 | [TORTURA NÃO É ENTRETENIMENTO](http://twitter.com/search?q=TORTURA+N%c3%83O+%c3%89+ENTRETENIMENTO) | N/A |
+| 14 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
+| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 16 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
+| 17 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 18 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
+| 19 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
+| 20 | [Team One](http://twitter.com/search?q=Team+One) | N/A |
+| 21 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 22 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
+| 23 | [Helô](http://twitter.com/search?q=Hel%c3%b4) | N/A |
+| 24 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 25 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 26 | [Insani](http://twitter.com/search?q=Insani) | N/A |
+| 27 | [#DoveNoBBB](http://twitter.com/search?q=%23DoveNoBBB) | N/A |
+| 28 | [Manoel Carlos](http://twitter.com/search?q=Manoel+Carlos) | N/A |
+| 29 | [#FaustaoNaBand](http://twitter.com/search?q=%23FaustaoNaBand) | N/A |
+| 30 | [16x0](http://twitter.com/search?q=16x0) | N/A |
+| 31 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 32 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
+| 33 | [Dani Lins](http://twitter.com/search?q=Dani+Lins) | N/A |
+| 34 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 35 | [#MePatrocina](http://twitter.com/search?q=%23MePatrocina) | N/A |
+| 36 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
+| 37 | [Pilar](http://twitter.com/search?q=Pilar) | N/A |
+| 38 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 39 | [Daroit](http://twitter.com/search?q=Daroit) | N/A |
+| 40 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
+| 41 | [Pinheiros](http://twitter.com/search?q=Pinheiros) | N/A |
+| 42 | [Nyeme](http://twitter.com/search?q=Nyeme) | N/A |
+| 43 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 44 | [M.I.A.](http://twitter.com/search?q=M.I.A.) | N/A |
+| 45 | [Caribe](http://twitter.com/search?q=Caribe) | N/A |
+| 46 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
+| 47 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 48 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
+| 49 | [Kakavel](http://twitter.com/search?q=Kakavel) | N/A |
+| 50 | [Juba](http://twitter.com/search?q=Juba) | N/A |
 
 
 

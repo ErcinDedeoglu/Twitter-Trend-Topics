@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-04-08 00:27:50 UTC`
+📆 Last Updated: `2023-04-08 01:42:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 2 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
-| 3 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 4 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 8 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 9 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 10 | [#readytolove](http://twitter.com/search?q=%23readytolove) | N/A |
-| 11 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 12 | [#BooksForRobots](http://twitter.com/search?q=%23BooksForRobots) | N/A |
-| 13 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 14 | [Boone](http://twitter.com/search?q=Boone) | N/A |
-| 15 | [Stanek](http://twitter.com/search?q=Stanek) | N/A |
+| 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 2 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 4 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 5 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 6 | [#lifeafterlockup](http://twitter.com/search?q=%23lifeafterlockup) | N/A |
+| 7 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 8 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 9 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
+| 10 | [WWE Draft](http://twitter.com/search?q=WWE+Draft) | N/A |
+| 11 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 12 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 13 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
+| 14 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
+| 15 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
 | 16 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 17 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 18 | [Kacsmaryk](http://twitter.com/search?q=Kacsmaryk) | N/A |
-| 19 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
-| 20 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 21 | [Sonny Gray](http://twitter.com/search?q=Sonny+Gray) | N/A |
-| 22 | [Brawling Brutes](http://twitter.com/search?q=Brawling+Brutes) | N/A |
-| 23 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
-| 24 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 25 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
-| 26 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
-| 27 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
-| 28 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 29 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
-| 30 | [Loomer](http://twitter.com/search?q=Loomer) | N/A |
-| 31 | [Kyle Farmer](http://twitter.com/search?q=Kyle+Farmer) | N/A |
-| 32 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
-| 33 | [Maldy](http://twitter.com/search?q=Maldy) | N/A |
-| 34 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
-| 35 | [The FDA](http://twitter.com/search?q=The+FDA) | N/A |
-| 36 | [Jim Jones](http://twitter.com/search?q=Jim+Jones) | N/A |
-| 37 | [Connor Joe](http://twitter.com/search?q=Connor+Joe) | N/A |
-| 38 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 39 | [Raise the Jolly Roger](http://twitter.com/search?q=Raise+the+Jolly+Roger) | N/A |
-| 40 | [Imperium](http://twitter.com/search?q=Imperium) | Imperium is a Latin word meaning "power to command" or "absolute power". It is often used to refer to the power of an emperor or other ruler, or to the political and military authority of a state. |
-| 41 | [Slovenia](http://twitter.com/search?q=Slovenia) | N/A |
-| 42 | [Quinton Martin](http://twitter.com/search?q=Quinton+Martin) | N/A |
-| 43 | [Richie James](http://twitter.com/search?q=Richie+James) | Richie James is a nickname given to the American football player Richie James Jr., who currently plays for the San Francisco 49ers. The name is derived from his first and last names. In English, it means "Richie James Junior". |
-| 44 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 45 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 46 | [Pritchard](http://twitter.com/search?q=Pritchard) | Pritchard is a surname of English origin. It is derived from the Old English personal name Prichard, which means "strong" or "brave". |
-| 47 | [The Mavs](http://twitter.com/search?q=The+Mavs) | N/A |
-| 48 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 49 | [Isaac Paredes](http://twitter.com/search?q=Isaac+Paredes) | N/A |
-| 50 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 17 | [Javale McGee](http://twitter.com/search?q=Javale+McGee) | N/A |
+| 18 | [Aris](http://twitter.com/search?q=Aris) | N/A |
+| 19 | [Dominik Mysterio](http://twitter.com/search?q=Dominik+Mysterio) | N/A |
+| 20 | [SHINSUKE](http://twitter.com/search?q=SHINSUKE) | N/A |
+| 21 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 22 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 23 | [Matthew Kacsmaryk](http://twitter.com/search?q=Matthew+Kacsmaryk) | N/A |
+| 24 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 25 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 26 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
+| 27 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 28 | [Shotzi](http://twitter.com/search?q=Shotzi) | N/A |
+| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 30 | [Stanek](http://twitter.com/search?q=Stanek) | N/A |
+| 31 | [Brawling Brutes](http://twitter.com/search?q=Brawling+Brutes) | N/A |
+| 32 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
+| 33 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 34 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 35 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 36 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 37 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
+| 38 | [The FDA](http://twitter.com/search?q=The+FDA) | N/A |
+| 39 | [Boone](http://twitter.com/search?q=Boone) | N/A |
+| 40 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 41 | [Maurice Greene](http://twitter.com/search?q=Maurice+Greene) | N/A |
+| 42 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 43 | [Dom Mysterio](http://twitter.com/search?q=Dom+Mysterio) | N/A |
+| 44 | [Urena](http://twitter.com/search?q=Urena) | N/A |
+| 45 | [Killian Hayes](http://twitter.com/search?q=Killian+Hayes) | N/A |
+| 46 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
+| 47 | [Tayler](http://twitter.com/search?q=Tayler) | N/A |
+| 48 | [The Draft](http://twitter.com/search?q=The+Draft) | N/A |
+| 49 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
+| 50 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
 
 
 

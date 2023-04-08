@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-04-08 00:27:59 UTC`
+📆 Last Updated: `2023-04-08 01:42:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Colombia
 | 3 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
 | 4 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 5 | [#DíaMundialDeLaSalud](http://twitter.com/search?q=%23D%c3%adaMundialDeLaSalud) | N/A |
-| 6 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 7 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 6 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 7 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
 | 8 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
-| 9 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 10 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 11 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
-| 12 | [Sergio Higuita](http://twitter.com/search?q=Sergio+Higuita) | N/A |
-| 13 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
-| 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 15 | [Catalina Usme](http://twitter.com/search?q=Catalina+Usme) | N/A |
-| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 17 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 18 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 19 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
-| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 10 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 11 | [Sergio Higuita](http://twitter.com/search?q=Sergio+Higuita) | N/A |
+| 12 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
+| 13 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
+| 14 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 16 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 17 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 18 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
+| 19 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
+| 20 | [#MiCiudadBaqana](http://twitter.com/search?q=%23MiCiudadBaqana) | N/A |
 | 21 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 22 | [#MiCiudadBaqana](http://twitter.com/search?q=%23MiCiudadBaqana) | N/A |
-| 23 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
-| 24 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 25 | [Abadía](http://twitter.com/search?q=Abad%c3%ada) | N/A |
-| 26 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 27 | [Felices 210](http://twitter.com/search?q=Felices+210) | N/A |
-| 28 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 29 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 30 | [Rionegro](http://twitter.com/search?q=Rionegro) | N/A |
-| 31 | [Alberto Grisales](http://twitter.com/search?q=Alberto+Grisales) | N/A |
-| 32 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 33 | [Bojacá](http://twitter.com/search?q=Bojac%c3%a1) | N/A |
-| 34 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 35 | [Yaser Asprilla](http://twitter.com/search?q=Yaser+Asprilla) | N/A |
-| 36 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
-| 37 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
-| 38 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 39 | [Mazorca](http://twitter.com/search?q=Mazorca) | N/A |
-| 40 | [Escasez](http://twitter.com/search?q=Escasez) | N/A |
-| 41 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 42 | [Dijon](http://twitter.com/search?q=Dijon) | N/A |
-| 43 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 22 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 23 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 25 | [Catalina Usme](http://twitter.com/search?q=Catalina+Usme) | N/A |
+| 26 | [Abadía](http://twitter.com/search?q=Abad%c3%ada) | N/A |
+| 27 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 28 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 29 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 30 | [Felices 210](http://twitter.com/search?q=Felices+210) | N/A |
+| 31 | [Huila](http://twitter.com/search?q=Huila) | N/A |
+| 32 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 33 | [Rionegro](http://twitter.com/search?q=Rionegro) | N/A |
+| 34 | [Yaser Asprilla](http://twitter.com/search?q=Yaser+Asprilla) | N/A |
+| 35 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
+| 36 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 37 | [Dijon](http://twitter.com/search?q=Dijon) | N/A |
+| 38 | [Bojacá](http://twitter.com/search?q=Bojac%c3%a1) | N/A |
+| 39 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
+| 40 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 41 | [Mazorca](http://twitter.com/search?q=Mazorca) | N/A |
+| 42 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 43 | [Escasez](http://twitter.com/search?q=Escasez) | N/A |
 | 44 | [Barú](http://twitter.com/search?q=Bar%c3%ba) | N/A |
-| 45 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
-| 46 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 47 | [Patarroyo](http://twitter.com/search?q=Patarroyo) | N/A |
-| 48 | [Vuelta al País Vasco](http://twitter.com/search?q=Vuelta+al+Pa%c3%ads+Vasco) | N/A |
-| 49 | [Bojanini](http://twitter.com/search?q=Bojanini) | N/A |
-| 50 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 45 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 46 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
+| 47 | [Bojanini](http://twitter.com/search?q=Bojanini) | N/A |
+| 48 | [Cata Usme](http://twitter.com/search?q=Cata+Usme) | N/A |
+| 49 | [Patarroyo](http://twitter.com/search?q=Patarroyo) | N/A |
+| 50 | [Alberto Grisales](http://twitter.com/search?q=Alberto+Grisales) | N/A |
 
 
 

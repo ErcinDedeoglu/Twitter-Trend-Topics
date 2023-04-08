@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Providence
 
-📆 Last Updated: `2023-04-08 00:27:55 UTC`
+📆 Last Updated: `2023-04-08 01:42:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 2 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 3 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
-| 4 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 5 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 6 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 9 | [#readytolove](http://twitter.com/search?q=%23readytolove) | N/A |
-| 10 | [#BooksForRobots](http://twitter.com/search?q=%23BooksForRobots) | N/A |
-| 11 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 12 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 13 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 14 | [Boone](http://twitter.com/search?q=Boone) | N/A |
-| 15 | [Stanek](http://twitter.com/search?q=Stanek) | N/A |
-| 16 | [Brawling Brutes](http://twitter.com/search?q=Brawling+Brutes) | N/A |
-| 17 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 18 | [Matthew Kacsmaryk](http://twitter.com/search?q=Matthew+Kacsmaryk) | N/A |
-| 19 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 20 | [Sonny Gray](http://twitter.com/search?q=Sonny+Gray) | N/A |
-| 21 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
-| 22 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
-| 23 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
-| 24 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 25 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 26 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
-| 27 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
-| 28 | [Imperium](http://twitter.com/search?q=Imperium) | Imperium is a Latin word meaning "power to command" or "absolute power". It is often used to refer to the power of an emperor or other ruler, or to the political and military authority of a state. |
-| 29 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
-| 30 | [Loomer](http://twitter.com/search?q=Loomer) | N/A |
-| 31 | [Kyle Farmer](http://twitter.com/search?q=Kyle+Farmer) | N/A |
-| 32 | [Giolito](http://twitter.com/search?q=Giolito) | N/A |
-| 33 | [Maldy](http://twitter.com/search?q=Maldy) | N/A |
-| 34 | [Jim Jones](http://twitter.com/search?q=Jim+Jones) | N/A |
-| 35 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
-| 36 | [The FDA](http://twitter.com/search?q=The+FDA) | N/A |
-| 37 | [Connor Joe](http://twitter.com/search?q=Connor+Joe) | N/A |
-| 38 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 39 | [Raise the Jolly Roger](http://twitter.com/search?q=Raise+the+Jolly+Roger) | N/A |
-| 40 | [Pritchard](http://twitter.com/search?q=Pritchard) | Pritchard is a surname of English origin. It is derived from the Old English personal name Prichard, which means "strong" or "brave". |
-| 41 | [Slovenia](http://twitter.com/search?q=Slovenia) | N/A |
-| 42 | [Quinton Martin](http://twitter.com/search?q=Quinton+Martin) | N/A |
-| 43 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 44 | [Skye Blue](http://twitter.com/search?q=Skye+Blue) | N/A |
-| 45 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 46 | [The Mavs](http://twitter.com/search?q=The+Mavs) | N/A |
-| 47 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 2 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 3 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 4 | [#lifeafterlockup](http://twitter.com/search?q=%23lifeafterlockup) | N/A |
+| 5 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 6 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 7 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
+| 8 | [WWE Draft](http://twitter.com/search?q=WWE+Draft) | N/A |
+| 9 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 10 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 11 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
+| 12 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
+| 13 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 14 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 15 | [Javale McGee](http://twitter.com/search?q=Javale+McGee) | N/A |
+| 16 | [SHINSUKE](http://twitter.com/search?q=SHINSUKE) | N/A |
+| 17 | [Aris](http://twitter.com/search?q=Aris) | N/A |
+| 18 | [Dominik Mysterio](http://twitter.com/search?q=Dominik+Mysterio) | N/A |
+| 19 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 20 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 21 | [Matthew Kacsmaryk](http://twitter.com/search?q=Matthew+Kacsmaryk) | N/A |
+| 22 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 23 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 24 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
+| 25 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 26 | [Shotzi](http://twitter.com/search?q=Shotzi) | N/A |
+| 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 28 | [Stanek](http://twitter.com/search?q=Stanek) | N/A |
+| 29 | [Brawling Brutes](http://twitter.com/search?q=Brawling+Brutes) | N/A |
+| 30 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
+| 31 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 32 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 33 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 34 | [The FDA](http://twitter.com/search?q=The+FDA) | N/A |
+| 35 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 36 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
+| 37 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
+| 38 | [Boone](http://twitter.com/search?q=Boone) | N/A |
+| 39 | [Tayler](http://twitter.com/search?q=Tayler) | N/A |
+| 40 | [Maurice Greene](http://twitter.com/search?q=Maurice+Greene) | N/A |
+| 41 | [Dom Mysterio](http://twitter.com/search?q=Dom+Mysterio) | N/A |
+| 42 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 43 | [Urena](http://twitter.com/search?q=Urena) | N/A |
+| 44 | [Killian Hayes](http://twitter.com/search?q=Killian+Hayes) | N/A |
+| 45 | [The Draft](http://twitter.com/search?q=The+Draft) | N/A |
+| 46 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
+| 47 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
 
 
 

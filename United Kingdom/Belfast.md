@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-04-08 00:27:14 UTC`
+📆 Last Updated: `2023-04-08 01:42:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [Good Friday Agreement](http://twitter.com/search?q=Good+Friday+Agreement) | N/A |
 | 2 | [#GFA25](http://twitter.com/search?q=%23GFA25) | N/A |
 | 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
 | 6 | [Vincent Kompany](http://twitter.com/search?q=Vincent+Kompany) | N/A |
 | 7 | [#LateNightLycett](http://twitter.com/search?q=%23LateNightLycett) | N/A |
 | 8 | [#twitterclarets](http://twitter.com/search?q=%23twitterclarets) | N/A |
-| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [#BeyondParadise](http://twitter.com/search?q=%23BeyondParadise) | N/A |
-| 12 | [Independence for Wales](http://twitter.com/search?q=Independence+for+Wales) | N/A |
-| 13 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 14 | [McNair](http://twitter.com/search?q=McNair) | N/A |
-| 15 | [Caitlyn](http://twitter.com/search?q=Caitlyn) | Caitlyn is a female given name of Irish origin. It is a variant of the name Caitlin, which is derived from the Irish name Caitlín, meaning "pure" or "untainted". |
-| 16 | [Ashley Barnes](http://twitter.com/search?q=Ashley+Barnes) | N/A |
-| 17 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
+| 9 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
+| 10 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Independence for Wales](http://twitter.com/search?q=Independence+for+Wales) | N/A |
+| 14 | [#BeyondParadise](http://twitter.com/search?q=%23BeyondParadise) | N/A |
+| 15 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
+| 16 | [McNair](http://twitter.com/search?q=McNair) | N/A |
+| 17 | [Caitlyn](http://twitter.com/search?q=Caitlyn) | Caitlyn is a female given name of Irish origin. It is a variant of the name Caitlin, which is derived from the Irish name Caitlín, meaning "pure" or "untainted". |
 | 18 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 19 | [Faldo](http://twitter.com/search?q=Faldo) | N/A |
-| 20 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
-| 21 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 22 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 23 | [Connor Roberts](http://twitter.com/search?q=Connor+Roberts) | N/A |
-| 24 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
-| 25 | [Championship](http://twitter.com/search?q=Championship) | N/A |
-| 26 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
-| 27 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 28 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
-| 29 | [Tella](http://twitter.com/search?q=Tella) | Tella is a slang term used to describe someone who is very talkative or chatty. It is derived from the Spanish word “tella” which means “to talk”. |
-| 30 | [Larne](http://twitter.com/search?q=Larne) | N/A |
-| 31 | [Boro](http://twitter.com/search?q=Boro) | N/A |
-| 32 | [Vinny](http://twitter.com/search?q=Vinny) | N/A |
-| 33 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 34 | [Humphrey](http://twitter.com/search?q=Humphrey) | N/A |
-| 35 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
-| 36 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 37 | [Hull](http://twitter.com/search?q=Hull) | N/A |
-| 38 | [Middlesbrough](http://twitter.com/search?q=Middlesbrough) | N/A |
-| 39 | [Jack Clarke](http://twitter.com/search?q=Jack+Clarke) | N/A |
-| 40 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
-| 41 | [Giles](http://twitter.com/search?q=Giles) | N/A |
-| 42 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 43 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 44 | [Ekwah](http://twitter.com/search?q=Ekwah) | N/A |
-| 45 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 46 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 47 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 48 | [Picard](http://twitter.com/search?q=Picard) | N/A |
-| 49 | [Riverside](http://twitter.com/search?q=Riverside) | N/A |
-| 50 | [Mo Mowlam](http://twitter.com/search?q=Mo+Mowlam) | N/A |
+| 19 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
+| 20 | [Ashley Barnes](http://twitter.com/search?q=Ashley+Barnes) | N/A |
+| 21 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 22 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 23 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 24 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
+| 25 | [Tella](http://twitter.com/search?q=Tella) | Tella is a slang term used to describe someone who is very talkative or chatty. It is derived from the Spanish word “tella” which means “to talk”. |
+| 26 | [Larne](http://twitter.com/search?q=Larne) | N/A |
+| 27 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
+| 28 | [Vinny](http://twitter.com/search?q=Vinny) | N/A |
+| 29 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 30 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 31 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
+| 32 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 33 | [Middlesbrough](http://twitter.com/search?q=Middlesbrough) | N/A |
+| 34 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 35 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
+| 36 | [Jack Clarke](http://twitter.com/search?q=Jack+Clarke) | N/A |
+| 37 | [Mo Mowlam](http://twitter.com/search?q=Mo+Mowlam) | N/A |
+| 38 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 39 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
+| 40 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 41 | [#TOTP](http://twitter.com/search?q=%23TOTP) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that uses a unique code generated by an algorithm to authenticate a user. The code is typically valid for only a short period of time, usually 30 seconds or less. |
+| 42 | [#RIPPaulCattermole](http://twitter.com/search?q=%23RIPPaulCattermole) | N/A |
+| 43 | [#RenaissanceTopOfThePops](http://twitter.com/search?q=%23RenaissanceTopOfThePops) | N/A |
+| 44 | [#SAFC](http://twitter.com/search?q=%23SAFC) | N/A |
+| 45 | [#FireVince](http://twitter.com/search?q=%23FireVince) | N/A |
+| 46 | [#SClub7](http://twitter.com/search?q=%23SClub7) | N/A |
+| 47 | [#Picard](http://twitter.com/search?q=%23Picard) | N/A |
+| 48 | [#GardenersWorld](http://twitter.com/search?q=%23GardenersWorld) | N/A |
 
 
 

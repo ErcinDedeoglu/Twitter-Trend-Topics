@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-08 00:27:29 UTC`
+📆 Last Updated: `2023-04-08 01:42:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,13 +25,13 @@ This is top 50 for [Latvia](</Latvia>)
 | 8 | [pareizi](http://twitter.com/search?q=pareizi) | N/A |
 | 9 | [parasti](http://twitter.com/search?q=parasti) | N/A |
 | 10 | [Putins](http://twitter.com/search?q=Putins) | N/A |
-| 11 | [Vienmēr](http://twitter.com/search?q=Vienm%c4%93r) | N/A |
+| 11 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
 | 12 | [pirms](http://twitter.com/search?q=pirms) | N/A |
 | 13 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
-| 14 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 15 | [Spriņģe](http://twitter.com/search?q=Spri%c5%86%c4%a3e) | N/A |
+| 14 | [nevis](http://twitter.com/search?q=nevis) | N/A |
+| 15 | [spriņģe](http://twitter.com/search?q=spri%c5%86%c4%a3e) | N/A |
 | 16 | [Tiem](http://twitter.com/search?q=Tiem) | N/A |
-| 17 | [Laikam](http://twitter.com/search?q=Laikam) | N/A |
+| 17 | [laikam](http://twitter.com/search?q=laikam) | N/A |
 | 18 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
 | 19 | [#GINIAI](http://twitter.com/search?q=%23GINIAI) | N/A |
 | 20 | [toties](http://twitter.com/search?q=toties) | N/A |
@@ -44,10 +44,10 @@ This is top 50 for [Latvia](</Latvia>)
 | 27 | [Inga](http://twitter.com/search?q=Inga) | N/A |
 | 28 | [neviens](http://twitter.com/search?q=neviens) | N/A |
 | 29 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 30 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
+| 30 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
 | 31 | [vakar](http://twitter.com/search?q=vakar) | N/A |
 | 32 | [levits](http://twitter.com/search?q=levits) | N/A |
-| 33 | [Vajag](http://twitter.com/search?q=Vajag) | N/A |
+| 33 | [vajag](http://twitter.com/search?q=vajag) | N/A |
 | 34 | [skaidrs](http://twitter.com/search?q=skaidrs) | N/A |
 | 35 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 36 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 47 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
 | 48 | [kamēr](http://twitter.com/search?q=kam%c4%93r) | N/A |
 | 49 | [sarkandaugavas](http://twitter.com/search?q=sarkandaugavas) | N/A |
-| 50 | [Nekas](http://twitter.com/search?q=Nekas) | N/A |
+| 50 | [nekas](http://twitter.com/search?q=nekas) | N/A |
 
 
 
