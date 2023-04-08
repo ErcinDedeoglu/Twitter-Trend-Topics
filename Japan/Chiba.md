@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chiba
 
-📆 Last Updated: `2023-04-08 12:17:28 UTC`
+📆 Last Updated: `2023-04-08 13:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#chibalotte](http://twitter.com/search?q=%23chibalotte) | N/A |
-| 2 | [まりほー](http://twitter.com/search?q=%e3%81%be%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
-| 3 | [平沢大河](http://twitter.com/search?q=%e5%b9%b3%e6%b2%a2%e5%a4%a7%e6%b2%b3) | N/A |
-| 4 | [土砂降り](http://twitter.com/search?q=%e5%9c%9f%e7%a0%82%e9%99%8d%e3%82%8a) | 土砂降り is a Japanese phrase that literally translates to "heavy rain with mud and sand". It is used to describe a heavy rainstorm that is accompanied by strong winds and large amounts of mud and sand. In English, it could be translated as "a torrential downpour". |
-| 5 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
-| 6 | [期日前投票](http://twitter.com/search?q=%e6%9c%9f%e6%97%a5%e5%89%8d%e6%8a%95%e7%a5%a8) | N/A |
-| 7 | [選挙カー](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%82%ab%e3%83%bc) | N/A |
-| 8 | [ライビュ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%93%e3%83%a5) | ライビュ is a Japanese word that means "lively". It is often used to describe someone or something that is energetic and full of life. |
-| 9 | [ドルチェモア](http://twitter.com/search?q=%e3%83%89%e3%83%ab%e3%83%81%e3%82%a7%e3%83%a2%e3%82%a2) | N/A |
-| 10 | [#モンスト](http://twitter.com/search?q=%23%e3%83%a2%e3%83%b3%e3%82%b9%e3%83%88) | #モンスト is a hashtag used on social media platforms such as Twitter and Instagram to refer to the mobile game Monster Strike. The English translation of the hashtag is "Monster Strike". |
-| 11 | [#jefunited](http://twitter.com/search?q=%23jefunited) | N/A |
+| 1 | [山田くん](http://twitter.com/search?q=%e5%b1%b1%e7%94%b0%e3%81%8f%e3%82%93) | 山田くん is a Japanese name, and it translates to "Mr. Yamada" in English. |
+| 2 | [#chibalotte](http://twitter.com/search?q=%23chibalotte) | N/A |
+| 3 | [マジミラ](http://twitter.com/search?q=%e3%83%9e%e3%82%b8%e3%83%9f%e3%83%a9) | N/A |
+| 4 | [デビュー戦](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e6%88%a6) | N/A |
+| 5 | [まりほー](http://twitter.com/search?q=%e3%81%be%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
+| 6 | [平沢大河](http://twitter.com/search?q=%e5%b9%b3%e6%b2%a2%e5%a4%a7%e6%b2%b3) | N/A |
+| 7 | [土砂降り](http://twitter.com/search?q=%e5%9c%9f%e7%a0%82%e9%99%8d%e3%82%8a) | 土砂降り is a Japanese phrase that literally translates to "heavy rain with mud and sand". It is used to describe a heavy rainstorm that is accompanied by strong winds and large amounts of mud and sand. In English, it could be translated as "a torrential downpour". |
+| 8 | [滝沢歌舞伎](http://twitter.com/search?q=%e6%bb%9d%e6%b2%a2%e6%ad%8c%e8%88%9e%e4%bc%8e) | 滝沢歌舞伎 (Takizawa Kabuki) is a traditional form of Japanese theater that combines music, dance, and drama. It originated in the Edo period (1603-1868) and is still performed today. The name comes from the Takizawa district of Tokyo, where it was first performed. In English, it can be translated as "Takizawa Kabuki Theater". |
+| 9 | [期日前投票](http://twitter.com/search?q=%e6%9c%9f%e6%97%a5%e5%89%8d%e6%8a%95%e7%a5%a8) | N/A |
+| 10 | [選挙カー](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%82%ab%e3%83%bc) | N/A |
+| 11 | [ライビュ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%93%e3%83%a5) | ライビュ is a Japanese word that means "lively". It is often used to describe someone or something that is energetic and full of life. |
 | 12 | [かぐや様](http://twitter.com/search?q=%e3%81%8b%e3%81%90%e3%82%84%e6%a7%98) | N/A |
 | 13 | [エエヤン](http://twitter.com/search?q=%e3%82%a8%e3%82%a8%e3%83%a4%e3%83%b3) | N/A |
 | 14 | [イースター](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
 | 15 | [#オールスター感謝祭23春](http://twitter.com/search?q=%23%e3%82%aa%e3%83%bc%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%bc%e6%84%9f%e8%ac%9d%e7%a5%ad23%e6%98%a5) | N/A |
-| 16 | [smth](http://twitter.com/search?q=smth) | "Smth" is an abbreviation for "something". It is used to refer to an unspecified thing or concept. |
-| 17 | [アーチェリー](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%81%e3%82%a7%e3%83%aa%e3%83%bc) | N/A |
-| 18 | [グノーシア](http://twitter.com/search?q=%e3%82%b0%e3%83%8e%e3%83%bc%e3%82%b7%e3%82%a2) | N/A |
-| 19 | [#那須川天心](http://twitter.com/search?q=%23%e9%82%a3%e9%a0%88%e5%b7%9d%e5%a4%a9%e5%bf%83) | N/A |
-| 20 | [ボクシング](http://twitter.com/search?q=%e3%83%9c%e3%82%af%e3%82%b7%e3%83%b3%e3%82%b0) | N/A |
-| 21 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
-| 22 | [オラスクアガ](http://twitter.com/search?q=%e3%82%aa%e3%83%a9%e3%82%b9%e3%82%af%e3%82%a2%e3%82%ac) | N/A |
-| 23 | [横浜FC](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9cFC) | N/A |
-| 24 | [VACHSS](http://twitter.com/search?q=VACHSS) | N/A |
-| 25 | [f0rsakeN](http://twitter.com/search?q=f0rsakeN) | N/A |
-| 26 | [ピックフォード](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%82%af%e3%83%95%e3%82%a9%e3%83%bc%e3%83%89) | N/A |
-| 27 | [ムツゴロウさん](http://twitter.com/search?q=%e3%83%a0%e3%83%84%e3%82%b4%e3%83%ad%e3%82%a6%e3%81%95%e3%82%93) | N/A |
-| 28 | [マクトミネイ](http://twitter.com/search?q=%e3%83%9e%e3%82%af%e3%83%88%e3%83%9f%e3%83%8d%e3%82%a4) | N/A |
-| 29 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
-| 30 | [横浜ダービー](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
-| 31 | [一般男子](http://twitter.com/search?q=%e4%b8%80%e8%88%ac%e7%94%b7%e5%ad%90) | N/A |
-| 32 | [寿司ガキ](http://twitter.com/search?q=%e5%af%bf%e5%8f%b8%e3%82%ac%e3%82%ad) | N/A |
-| 33 | [ラムの正体](http://twitter.com/search?q=%e3%83%a9%e3%83%a0%e3%81%ae%e6%ad%a3%e4%bd%93) | N/A |
-| 34 | [糸井さん](http://twitter.com/search?q=%e7%b3%b8%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 35 | [井上拓真](http://twitter.com/search?q=%e4%ba%95%e4%b8%8a%e6%8b%93%e7%9c%9f) | N/A |
-| 36 | [トランプマン](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%b3%e3%83%97%e3%83%9e%e3%83%b3) | N/A |
-| 37 | [フォーセイクン](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%82%bb%e3%82%a4%e3%82%af%e3%83%b3) | N/A |
-| 38 | [赤坂5丁目](http://twitter.com/search?q=%e8%b5%a4%e5%9d%825%e4%b8%81%e7%9b%ae) | N/A |
-| 39 | [エウベル](http://twitter.com/search?q=%e3%82%a8%e3%82%a6%e3%83%99%e3%83%ab) | N/A |
-| 40 | [鈴木亮平](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e4%ba%ae%e5%b9%b3) | 鈴木亮平 is a Japanese name. It is composed of two characters: 鈴木 (Suzuki) and 亮平 (Ryohei). The literal translation of the name is "bright level Suzuki". |
-| 41 | [サドンデス](http://twitter.com/search?q=%e3%82%b5%e3%83%89%e3%83%b3%e3%83%87%e3%82%b9) | N/A |
-| 42 | [斗亜ちゃん](http://twitter.com/search?q=%e6%96%97%e4%ba%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 43 | [ココロジョジョル第6部](http://twitter.com/search?q=%e3%82%b3%e3%82%b3%e3%83%ad%e3%82%b8%e3%83%a7%e3%82%b8%e3%83%a7%e3%83%ab%e7%ac%ac6%e9%83%a8) | N/A |
-| 44 | [山田くん](http://twitter.com/search?q=%e5%b1%b1%e7%94%b0%e3%81%8f%e3%82%93) | 山田くん is a Japanese name, and it translates to "Mr. Yamada" in English. |
-| 45 | [メンさん](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%81%95%e3%82%93) | N/A |
-| 46 | [デビュー戦](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e6%88%a6) | N/A |
-| 47 | [井上尚弥](http://twitter.com/search?q=%e4%ba%95%e4%b8%8a%e5%b0%9a%e5%bc%a5) | N/A |
-| 48 | [与那覇選手](http://twitter.com/search?q=%e4%b8%8e%e9%82%a3%e8%a6%87%e9%81%b8%e6%89%8b) | N/A |
-| 49 | [今田さん](http://twitter.com/search?q=%e4%bb%8a%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 50 | [アクスタ浴衣](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%b9%e3%82%bf%e6%b5%b4%e8%a1%a3) | N/A |
+| 16 | [セツナトリップ](http://twitter.com/search?q=%e3%82%bb%e3%83%84%e3%83%8a%e3%83%88%e3%83%aa%e3%83%83%e3%83%97) | N/A |
+| 17 | [#鬼滅の刃](http://twitter.com/search?q=%23%e9%ac%bc%e6%bb%85%e3%81%ae%e5%88%83) | #鬼滅の刃 is a Japanese manga series written and illustrated by Koyoharu Gotouge. It follows the story of Tanjiro Kamado, a young boy who becomes a demon slayer after his family is slaughtered by demons. The title translates to "Blade of Demon Destruction" in English. |
+| 18 | [斗亜ちゃん](http://twitter.com/search?q=%e6%96%97%e4%ba%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 19 | [グノーシア](http://twitter.com/search?q=%e3%82%b0%e3%83%8e%e3%83%bc%e3%82%b7%e3%82%a2) | N/A |
+| 20 | [堕姫ちゃん](http://twitter.com/search?q=%e5%a0%95%e5%a7%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 21 | [宇髄さん](http://twitter.com/search?q=%e5%ae%87%e9%ab%84%e3%81%95%e3%82%93) | N/A |
+| 22 | [妓夫太郎](http://twitter.com/search?q=%e5%a6%93%e5%a4%ab%e5%a4%aa%e9%83%8e) | N/A |
+| 23 | [#あなたが選ぶ10人のスター](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c%e9%81%b8%e3%81%b610%e4%ba%ba%e3%81%ae%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 24 | [オラスクアガ](http://twitter.com/search?q=%e3%82%aa%e3%83%a9%e3%82%b9%e3%82%af%e3%82%a2%e3%82%ac) | N/A |
+| 25 | [とあちゃん](http://twitter.com/search?q=%e3%81%a8%e3%81%82%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 26 | [#nhkらじらー](http://twitter.com/search?q=%23nhk%e3%82%89%e3%81%98%e3%82%89%e3%83%bc) | #NHKラジー is a hashtag used on Twitter to refer to NHK Radio, the radio station of Japan's public broadcaster, NHK. The hashtag is used to share news and information about the station's programming. In English, it translates to "NHK Radio". |
+| 27 | [smth](http://twitter.com/search?q=smth) | "Smth" is an abbreviation for "something". It is used to refer to an unspecified thing or concept. |
+| 28 | [アーチェリー](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%81%e3%82%a7%e3%83%aa%e3%83%bc) | N/A |
+| 29 | [ボクシング](http://twitter.com/search?q=%e3%83%9c%e3%82%af%e3%82%b7%e3%83%b3%e3%82%b0) | N/A |
+| 30 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
+| 31 | [ワンジル](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%82%b8%e3%83%ab) | N/A |
+| 32 | [かんさん優勝](http://twitter.com/search?q=%e3%81%8b%e3%82%93%e3%81%95%e3%82%93%e5%84%aa%e5%8b%9d) | N/A |
+| 33 | [斗亜くん](http://twitter.com/search?q=%e6%96%97%e4%ba%9c%e3%81%8f%e3%82%93) | N/A |
+| 34 | [エリクセン](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%82%af%e3%82%bb%e3%83%b3) | N/A |
+| 35 | [小島よしお](http://twitter.com/search?q=%e5%b0%8f%e5%b3%b6%e3%82%88%e3%81%97%e3%81%8a) | N/A |
+| 36 | [メンさん](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%81%95%e3%82%93) | N/A |
+| 37 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
+| 38 | [チェッカーズ](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%83%e3%82%ab%e3%83%bc%e3%82%ba) | N/A |
+| 39 | [ヤミナベ](http://twitter.com/search?q=%e3%83%a4%e3%83%9f%e3%83%8a%e3%83%99) | N/A |
+| 40 | [マクトミネイ](http://twitter.com/search?q=%e3%83%9e%e3%82%af%e3%83%88%e3%83%9f%e3%83%8d%e3%82%a4) | N/A |
+| 41 | [だきちゃん](http://twitter.com/search?q=%e3%81%a0%e3%81%8d%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 42 | [ピックフォード](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%82%af%e3%83%95%e3%82%a9%e3%83%bc%e3%83%89) | N/A |
+| 43 | [マルシャル](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b7%e3%83%a3%e3%83%ab) | N/A |
+| 44 | [横浜FC](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9cFC) | N/A |
+| 45 | [アイキャッチ](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%ad%e3%83%a3%e3%83%83%e3%83%81) | アイキャッチ is a Japanese term that refers to an image or phrase used to attract attention and draw people in. In English, it is often referred to as a "catchphrase" or "tagline". It is commonly used in advertising and marketing campaigns to help create a memorable impression of the product or service being promoted. |
+| 46 | [女房3人](http://twitter.com/search?q=%e5%a5%b3%e6%88%bf3%e4%ba%ba) | N/A |
+| 47 | [相葉ちゃん](http://twitter.com/search?q=%e7%9b%b8%e8%91%89%e3%81%a1%e3%82%83%e3%82%93) | 相葉ちゃん is a nickname for Japanese singer and actor Aiba Masaki. It is a combination of his given name, Aiba, and the Japanese honorific suffix “chan” which is used to express endearment. In English, it can be translated as “Masaki-chan”. |
+| 48 | [禰󠄀豆子](http://twitter.com/search?q=%e7%a6%b0%f3%a0%84%80%e8%b1%86%e5%ad%90) | N/A |
+| 49 | [VACHSS](http://twitter.com/search?q=VACHSS) | N/A |
+| 50 | [赤坂5丁目](http://twitter.com/search?q=%e8%b5%a4%e5%9d%825%e4%b8%81%e7%9b%ae) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kyoto
 
-📆 Last Updated: `2023-04-08 12:17:54 UTC`
+📆 Last Updated: `2023-04-08 13:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#モンスト](http://twitter.com/search?q=%23%e3%83%a2%e3%83%b3%e3%82%b9%e3%83%88) | #モンスト is a hashtag used on social media platforms such as Twitter and Instagram to refer to the mobile game Monster Strike. The English translation of the hashtag is "Monster Strike". |
-| 2 | [期日前投票](http://twitter.com/search?q=%e6%9c%9f%e6%97%a5%e5%89%8d%e6%8a%95%e7%a5%a8) | N/A |
-| 3 | [#オールスター感謝祭23春](http://twitter.com/search?q=%23%e3%82%aa%e3%83%bc%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%bc%e6%84%9f%e8%ac%9d%e7%a5%ad23%e6%98%a5) | N/A |
-| 4 | [smth](http://twitter.com/search?q=smth) | "Smth" is an abbreviation for "something". It is used to refer to an unspecified thing or concept. |
-| 5 | [アーチェリー](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%81%e3%82%a7%e3%83%aa%e3%83%bc) | N/A |
+| 2 | [#オールスター感謝祭23春](http://twitter.com/search?q=%23%e3%82%aa%e3%83%bc%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%bc%e6%84%9f%e8%ac%9d%e7%a5%ad23%e6%98%a5) | N/A |
+| 3 | [セツナトリップ](http://twitter.com/search?q=%e3%82%bb%e3%83%84%e3%83%8a%e3%83%88%e3%83%aa%e3%83%83%e3%83%97) | N/A |
+| 4 | [#鬼滅の刃](http://twitter.com/search?q=%23%e9%ac%bc%e6%bb%85%e3%81%ae%e5%88%83) | #鬼滅の刃 is a Japanese manga series written and illustrated by Koyoharu Gotouge. It follows the story of Tanjiro Kamado, a young boy who becomes a demon slayer after his family is slaughtered by demons. The title translates to "Blade of Demon Destruction" in English. |
+| 5 | [斗亜ちゃん](http://twitter.com/search?q=%e6%96%97%e4%ba%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 | 6 | [グノーシア](http://twitter.com/search?q=%e3%82%b0%e3%83%8e%e3%83%bc%e3%82%b7%e3%82%a2) | N/A |
-| 7 | [オラスクアガ](http://twitter.com/search?q=%e3%82%aa%e3%83%a9%e3%82%b9%e3%82%af%e3%82%a2%e3%82%ac) | N/A |
-| 8 | [ボクシング](http://twitter.com/search?q=%e3%83%9c%e3%82%af%e3%82%b7%e3%83%b3%e3%82%b0) | N/A |
-| 9 | [#那須川天心](http://twitter.com/search?q=%23%e9%82%a3%e9%a0%88%e5%b7%9d%e5%a4%a9%e5%bf%83) | N/A |
-| 10 | [#鬼滅の刃](http://twitter.com/search?q=%23%e9%ac%bc%e6%bb%85%e3%81%ae%e5%88%83) | #鬼滅の刃 is a Japanese manga series written and illustrated by Koyoharu Gotouge. It follows the story of Tanjiro Kamado, a young boy who becomes a demon slayer after his family is slaughtered by demons. The title translates to "Blade of Demon Destruction" in English. |
-| 11 | [#オモコロチャンネル](http://twitter.com/search?q=%23%e3%82%aa%e3%83%a2%e3%82%b3%e3%83%ad%e3%83%81%e3%83%a3%e3%83%b3%e3%83%8d%e3%83%ab) | N/A |
-| 12 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
-| 13 | [横浜FC](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9cFC) | N/A |
-| 14 | [VACHSS](http://twitter.com/search?q=VACHSS) | N/A |
-| 15 | [ピックフォード](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%82%af%e3%83%95%e3%82%a9%e3%83%bc%e3%83%89) | N/A |
-| 16 | [f0rsakeN](http://twitter.com/search?q=f0rsakeN) | N/A |
-| 17 | [マクトミネイ](http://twitter.com/search?q=%e3%83%9e%e3%82%af%e3%83%88%e3%83%9f%e3%83%8d%e3%82%a4) | N/A |
-| 18 | [ムツゴロウさん](http://twitter.com/search?q=%e3%83%a0%e3%83%84%e3%82%b4%e3%83%ad%e3%82%a6%e3%81%95%e3%82%93) | N/A |
+| 7 | [宇髄さん](http://twitter.com/search?q=%e5%ae%87%e9%ab%84%e3%81%95%e3%82%93) | N/A |
+| 8 | [妓夫太郎](http://twitter.com/search?q=%e5%a6%93%e5%a4%ab%e5%a4%aa%e9%83%8e) | N/A |
+| 9 | [堕姫ちゃん](http://twitter.com/search?q=%e5%a0%95%e5%a7%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 10 | [#あなたが選ぶ10人のスター](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c%e9%81%b8%e3%81%b610%e4%ba%ba%e3%81%ae%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 11 | [オラスクアガ](http://twitter.com/search?q=%e3%82%aa%e3%83%a9%e3%82%b9%e3%82%af%e3%82%a2%e3%82%ac) | N/A |
+| 12 | [#知の試練](http://twitter.com/search?q=%23%e7%9f%a5%e3%81%ae%e8%a9%a6%e7%b7%b4) | N/A |
+| 13 | [全国一斉クイズ](http://twitter.com/search?q=%e5%85%a8%e5%9b%bd%e4%b8%80%e6%96%89%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
+| 14 | [とあちゃん](http://twitter.com/search?q=%e3%81%a8%e3%81%82%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 15 | [ゼルダの伝説](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e3%81%ae%e4%bc%9d%e8%aa%ac) | N/A |
+| 16 | [smth](http://twitter.com/search?q=smth) | "Smth" is an abbreviation for "something". It is used to refer to an unspecified thing or concept. |
+| 17 | [ワイルド](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%83%ab%e3%83%89) | N/A |
+| 18 | [ボクシング](http://twitter.com/search?q=%e3%83%9c%e3%82%af%e3%82%b7%e3%83%b3%e3%82%b0) | N/A |
 | 19 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
-| 20 | [一般男子](http://twitter.com/search?q=%e4%b8%80%e8%88%ac%e7%94%b7%e5%ad%90) | N/A |
-| 21 | [横浜ダービー](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
-| 22 | [赤坂5丁目](http://twitter.com/search?q=%e8%b5%a4%e5%9d%825%e4%b8%81%e7%9b%ae) | N/A |
-| 23 | [糸井さん](http://twitter.com/search?q=%e7%b3%b8%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 24 | [メンさん](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%81%95%e3%82%93) | N/A |
-| 25 | [寿司ガキ](http://twitter.com/search?q=%e5%af%bf%e5%8f%b8%e3%82%ac%e3%82%ad) | N/A |
-| 26 | [トランプマン](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%b3%e3%83%97%e3%83%9e%e3%83%b3) | N/A |
-| 27 | [フォーセイクン](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%82%bb%e3%82%a4%e3%82%af%e3%83%b3) | N/A |
-| 28 | [ラムの正体](http://twitter.com/search?q=%e3%83%a9%e3%83%a0%e3%81%ae%e6%ad%a3%e4%bd%93) | N/A |
-| 29 | [鈴木亮平](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e4%ba%ae%e5%b9%b3) | 鈴木亮平 is a Japanese name. It is composed of two characters: 鈴木 (Suzuki) and 亮平 (Ryohei). The literal translation of the name is "bright level Suzuki". |
-| 30 | [斗亜ちゃん](http://twitter.com/search?q=%e6%96%97%e4%ba%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 31 | [井上拓真](http://twitter.com/search?q=%e4%ba%95%e4%b8%8a%e6%8b%93%e7%9c%9f) | N/A |
-| 32 | [サドンデス](http://twitter.com/search?q=%e3%82%b5%e3%83%89%e3%83%b3%e3%83%87%e3%82%b9) | N/A |
-| 33 | [ココロジョジョル第6部](http://twitter.com/search?q=%e3%82%b3%e3%82%b3%e3%83%ad%e3%82%b8%e3%83%a7%e3%82%b8%e3%83%a7%e3%83%ab%e7%ac%ac6%e9%83%a8) | N/A |
-| 34 | [エウベル](http://twitter.com/search?q=%e3%82%a8%e3%82%a6%e3%83%99%e3%83%ab) | N/A |
-| 35 | [明菜ちゃん](http://twitter.com/search?q=%e6%98%8e%e8%8f%9c%e3%81%a1%e3%82%83%e3%82%93) | 明菜ちゃん is a nickname for the Japanese singer and actress Nakajima Mion. It is a combination of her given name, Mion, and the Japanese word for vegetable, "nasu". In English, it can be translated to mean "Mion the Vegetable". |
-| 36 | [山田くん](http://twitter.com/search?q=%e5%b1%b1%e7%94%b0%e3%81%8f%e3%82%93) | 山田くん is a Japanese name, and it translates to "Mr. Yamada" in English. |
-| 37 | [デビュー戦](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e6%88%a6) | N/A |
-| 38 | [ステフォ](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%95%e3%82%a9) | N/A |
-| 39 | [井上尚弥](http://twitter.com/search?q=%e4%ba%95%e4%b8%8a%e5%b0%9a%e5%bc%a5) | N/A |
-| 40 | [今田さん](http://twitter.com/search?q=%e4%bb%8a%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 41 | [与那覇選手](http://twitter.com/search?q=%e4%b8%8e%e9%82%a3%e8%a6%87%e9%81%b8%e6%89%8b) | N/A |
-| 42 | [ニシタク](http://twitter.com/search?q=%e3%83%8b%e3%82%b7%e3%82%bf%e3%82%af) | N/A |
-| 43 | [アクスタ浴衣](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%b9%e3%82%bf%e6%b5%b4%e8%a1%a3) | N/A |
-| 44 | [マジミラ](http://twitter.com/search?q=%e3%83%9e%e3%82%b8%e3%83%9f%e3%83%a9) | N/A |
-| 45 | [相葉ちゃん](http://twitter.com/search?q=%e7%9b%b8%e8%91%89%e3%81%a1%e3%82%83%e3%82%93) | 相葉ちゃん is a nickname for Japanese singer and actor Aiba Masaki. It is a combination of his given name, Aiba, and the Japanese honorific suffix “chan” which is used to express endearment. In English, it can be translated as “Masaki-chan”. |
-| 46 | [RUMの正体](http://twitter.com/search?q=RUM%e3%81%ae%e6%ad%a3%e4%bd%93) | N/A |
-| 47 | [福山雅治](http://twitter.com/search?q=%e7%a6%8f%e5%b1%b1%e9%9b%85%e6%b2%bb) | N/A |
-| 48 | [ワンビサカ](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%93%e3%82%b5%e3%82%ab) | ワンビサカ is a Japanese phrase that translates to "one-sided love". It is used to describe a situation in which one person has strong feelings for another person who does not reciprocate those feelings. |
-| 49 | [とあちゃん](http://twitter.com/search?q=%e3%81%a8%e3%81%82%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 50 | [相葉くん](http://twitter.com/search?q=%e7%9b%b8%e8%91%89%e3%81%8f%e3%82%93) | 相葉くん is a nickname for Japanese singer and actor Masaki Aiba, who is a member of the popular boy band Arashi. The name roughly translates to "Mr. Aiba" in English. |
+| 20 | [アーチェリー](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%81%e3%82%a7%e3%83%aa%e3%83%bc) | N/A |
+| 21 | [斗亜くん](http://twitter.com/search?q=%e6%96%97%e4%ba%9c%e3%81%8f%e3%82%93) | N/A |
+| 22 | [ワンジル](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%82%b8%e3%83%ab) | N/A |
+| 23 | [かんさん優勝](http://twitter.com/search?q=%e3%81%8b%e3%82%93%e3%81%95%e3%82%93%e5%84%aa%e5%8b%9d) | N/A |
+| 24 | [エリクセン](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%82%af%e3%82%bb%e3%83%b3) | N/A |
+| 25 | [メンさん](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%81%95%e3%82%93) | N/A |
+| 26 | [小島よしお](http://twitter.com/search?q=%e5%b0%8f%e5%b3%b6%e3%82%88%e3%81%97%e3%81%8a) | N/A |
+| 27 | [チェッカーズ](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%83%e3%82%ab%e3%83%bc%e3%82%ba) | N/A |
+| 28 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
+| 29 | [マクトミネイ](http://twitter.com/search?q=%e3%83%9e%e3%82%af%e3%83%88%e3%83%9f%e3%83%8d%e3%82%a4) | N/A |
+| 30 | [だきちゃん](http://twitter.com/search?q=%e3%81%a0%e3%81%8d%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 31 | [ヤミナベ](http://twitter.com/search?q=%e3%83%a4%e3%83%9f%e3%83%8a%e3%83%99) | N/A |
+| 32 | [ピックフォード](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%82%af%e3%83%95%e3%82%a9%e3%83%bc%e3%83%89) | N/A |
+| 33 | [マルシャル](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b7%e3%83%a3%e3%83%ab) | N/A |
+| 34 | [横浜FC](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9cFC) | N/A |
+| 35 | [アイキャッチ](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%ad%e3%83%a3%e3%83%83%e3%83%81) | アイキャッチ is a Japanese term that refers to an image or phrase used to attract attention and draw people in. In English, it is often referred to as a "catchphrase" or "tagline". It is commonly used in advertising and marketing campaigns to help create a memorable impression of the product or service being promoted. |
+| 36 | [女房3人](http://twitter.com/search?q=%e5%a5%b3%e6%88%bf3%e4%ba%ba) | N/A |
+| 37 | [相葉ちゃん](http://twitter.com/search?q=%e7%9b%b8%e8%91%89%e3%81%a1%e3%82%83%e3%82%93) | 相葉ちゃん is a nickname for Japanese singer and actor Aiba Masaki. It is a combination of his given name, Aiba, and the Japanese honorific suffix “chan” which is used to express endearment. In English, it can be translated as “Masaki-chan”. |
+| 38 | [禰󠄀豆子](http://twitter.com/search?q=%e7%a6%b0%f3%a0%84%80%e8%b1%86%e5%ad%90) | N/A |
+| 39 | [VACHSS](http://twitter.com/search?q=VACHSS) | N/A |
+| 40 | [赤坂5丁目](http://twitter.com/search?q=%e8%b5%a4%e5%9d%825%e4%b8%81%e7%9b%ae) | N/A |
+| 41 | [ニシタク](http://twitter.com/search?q=%e3%83%8b%e3%82%b7%e3%82%bf%e3%82%af) | N/A |
+| 42 | [f0rsakeN](http://twitter.com/search?q=f0rsakeN) | N/A |
+| 43 | [明菜ちゃん](http://twitter.com/search?q=%e6%98%8e%e8%8f%9c%e3%81%a1%e3%82%83%e3%82%93) | 明菜ちゃん is a nickname for the Japanese singer and actress Nakajima Mion. It is a combination of her given name, Mion, and the Japanese word for vegetable, "nasu". In English, it can be translated to mean "Mion the Vegetable". |
+| 44 | [ビリーヴ](http://twitter.com/search?q=%e3%83%93%e3%83%aa%e3%83%bc%e3%83%b4) | N/A |
+| 45 | [綾鷹のCM](http://twitter.com/search?q=%e7%b6%be%e9%b7%b9%e3%81%aeCM) | N/A |
+| 46 | [ディズニークイズ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%ba%e3%83%8b%e3%83%bc%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
+| 47 | [トランプマン](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%b3%e3%83%97%e3%83%9e%e3%83%b3) | N/A |
+| 48 | [相葉くん](http://twitter.com/search?q=%e7%9b%b8%e8%91%89%e3%81%8f%e3%82%93) | 相葉くん is a nickname for Japanese singer and actor Masaki Aiba, who is a member of the popular boy band Arashi. The name roughly translates to "Mr. Aiba" in English. |
+| 49 | [ソフラン](http://twitter.com/search?q=%e3%82%bd%e3%83%95%e3%83%a9%e3%83%b3) | N/A |
+| 50 | [ステフォ](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%95%e3%82%a9) | N/A |
 
 
 

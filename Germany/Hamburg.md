@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-04-08 12:17:21 UTC`
+📆 Last Updated: `2023-04-08 13:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#HSVH96](http://twitter.com/search?q=%23HSVH96) | N/A |
 | 2 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 3 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 4 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
-| 5 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 7 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 8 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | N/A |
-| 9 | [#FCNKSC](http://twitter.com/search?q=%23FCNKSC) | N/A |
-| 10 | [Ostersamstag](http://twitter.com/search?q=Ostersamstag) | N/A |
-| 11 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
-| 12 | [#EBSFCK](http://twitter.com/search?q=%23EBSFCK) | N/A |
-| 13 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
-| 14 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 15 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 16 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 17 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
-| 18 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 19 | [Stimmung im Land](http://twitter.com/search?q=Stimmung+im+Land) | N/A |
-| 20 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 21 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 22 | [Huber](http://twitter.com/search?q=Huber) | N/A |
-| 23 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 24 | ['Froschperspektive'](http://twitter.com/search?q=%27Froschperspektive%27) | N/A |
-| 25 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
-| 26 | [Christen](http://twitter.com/search?q=Christen) | N/A |
-| 27 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 28 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
-| 29 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 30 | [Gasflaschen](http://twitter.com/search?q=Gasflaschen) | N/A |
-| 31 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 32 | [Osterhasen](http://twitter.com/search?q=Osterhasen) | N/A |
-| 33 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
-| 34 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
+| 3 | [#FCNKSC](http://twitter.com/search?q=%23FCNKSC) | N/A |
+| 4 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
+| 5 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
+| 6 | [#EBSFCK](http://twitter.com/search?q=%23EBSFCK) | N/A |
+| 7 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
+| 8 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 10 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 11 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | N/A |
+| 12 | [Ostersamstag](http://twitter.com/search?q=Ostersamstag) | N/A |
+| 13 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
+| 14 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
+| 15 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
+| 16 | [Torverhältnis](http://twitter.com/search?q=Torverh%c3%a4ltnis) | N/A |
+| 17 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 18 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 19 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 20 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
+| 21 | [Boyd](http://twitter.com/search?q=Boyd) | N/A |
+| 22 | [Tore](http://twitter.com/search?q=Tore) | N/A |
+| 23 | [Krajnc](http://twitter.com/search?q=Krajnc) | N/A |
+| 24 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 25 | [Stimmung im Land](http://twitter.com/search?q=Stimmung+im+Land) | N/A |
+| 26 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 27 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
+| 28 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 29 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 30 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
+| 31 | ['Froschperspektive'](http://twitter.com/search?q=%27Froschperspektive%27) | N/A |
+| 32 | [Köhn](http://twitter.com/search?q=K%c3%b6hn) | N/A |
+| 33 | [Moin](http://twitter.com/search?q=Moin) | N/A |
+| 34 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
 | 35 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 36 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 37 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 38 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
-| 39 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
-| 40 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 41 | [Miss Marple](http://twitter.com/search?q=Miss+Marple) | N/A |
-| 42 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 43 | [Auferstehung](http://twitter.com/search?q=Auferstehung) | N/A |
-| 44 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
-| 45 | [Fisch](http://twitter.com/search?q=Fisch) | N/A |
-| 46 | [bud spencer](http://twitter.com/search?q=bud+spencer) | N/A |
-| 47 | [Rückenwind](http://twitter.com/search?q=R%c3%bcckenwind) | N/A |
-| 48 | [Werder](http://twitter.com/search?q=Werder) | N/A |
-| 49 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
-| 50 | [Schulen](http://twitter.com/search?q=Schulen) | N/A |
+| 36 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 37 | [Christen](http://twitter.com/search?q=Christen) | N/A |
+| 38 | [Huber](http://twitter.com/search?q=Huber) | N/A |
+| 39 | [Gasflaschen](http://twitter.com/search?q=Gasflaschen) | N/A |
+| 40 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 41 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 42 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
+| 43 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 44 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
+| 45 | [osterhasen](http://twitter.com/search?q=osterhasen) | N/A |
+| 46 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
+| 47 | [Braunschweig](http://twitter.com/search?q=Braunschweig) | N/A |
+| 48 | [Hannover](http://twitter.com/search?q=Hannover) | N/A |
+| 49 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 50 | [Brian](http://twitter.com/search?q=Brian) | N/A |
 
 
 

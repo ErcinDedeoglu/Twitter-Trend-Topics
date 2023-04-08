@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-08 12:17:24 UTC`
+📆 Last Updated: `2023-04-08 13:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,41 +26,41 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 9 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
 | 10 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
 | 11 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 12 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
-| 13 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
-| 14 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 15 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 16 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 17 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 18 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 19 | [Tessin](http://twitter.com/search?q=Tessin) | N/A |
+| 12 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
+| 13 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 14 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 15 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 16 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 17 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 18 | [Tessin](http://twitter.com/search?q=Tessin) | N/A |
+| 19 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 | 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 21 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 22 | [renovate](http://twitter.com/search?q=renovate) | N/A |
-| 23 | [Granit](http://twitter.com/search?q=Granit) | N/A |
-| 24 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
-| 25 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
-| 26 | [Generation](http://twitter.com/search?q=Generation) | N/A |
-| 27 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 28 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
-| 29 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 30 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 31 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
-| 32 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 33 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 34 | [Solange](http://twitter.com/search?q=Solange) | N/A |
-| 35 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 36 | [Möglichkeiten](http://twitter.com/search?q=M%c3%b6glichkeiten) | N/A |
-| 37 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 38 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 39 | [Herr Glarner](http://twitter.com/search?q=Herr+Glarner) | N/A |
-| 40 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 41 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 42 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
-| 43 | [Christ](http://twitter.com/search?q=Christ) | N/A |
-| 44 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 45 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
-| 46 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
+| 22 | [Renovate](http://twitter.com/search?q=Renovate) | N/A |
+| 23 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
+| 24 | [Granit](http://twitter.com/search?q=Granit) | N/A |
+| 25 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
+| 26 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 27 | [Generation](http://twitter.com/search?q=Generation) | N/A |
+| 28 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
+| 29 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
+| 30 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 31 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 32 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 33 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
+| 34 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 35 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 36 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 37 | [Solange](http://twitter.com/search?q=Solange) | N/A |
+| 38 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 39 | [Möglichkeiten](http://twitter.com/search?q=M%c3%b6glichkeiten) | N/A |
+| 40 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 41 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 42 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 43 | [Herr Glarner](http://twitter.com/search?q=Herr+Glarner) | N/A |
+| 44 | [Natur](http://twitter.com/search?q=Natur) | N/A |
+| 45 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
+| 46 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
 | 47 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
 | 48 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
 

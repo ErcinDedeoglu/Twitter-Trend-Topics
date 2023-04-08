@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-08 12:18:01 UTC`
+📆 Last Updated: `2023-04-08 13:18:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Spain
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
-| 2 | [#LaLigaEnGol](http://twitter.com/search?q=%23LaLigaEnGol) | N/A |
-| 3 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 4 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
-| 5 | [#16AniversarioHTCMania](http://twitter.com/search?q=%2316AniversarioHTCMania) | N/A |
-| 6 | [#SantoEntierroGrande23](http://twitter.com/search?q=%23SantoEntierroGrande23) | N/A |
-| 7 | [#OsasunaElche](http://twitter.com/search?q=%23OsasunaElche) | N/A |
-| 8 | [El 38%](http://twitter.com/search?q=El+38%25) | N/A |
-| 9 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
-| 10 | [José Couso](http://twitter.com/search?q=Jos%c3%a9+Couso) | N/A |
-| 11 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 12 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 13 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 14 | [Mahoma](http://twitter.com/search?q=Mahoma) | N/A |
+| 2 | [Tete Morente](http://twitter.com/search?q=Tete+Morente) | N/A |
+| 3 | [#OsasunaElche](http://twitter.com/search?q=%23OsasunaElche) | N/A |
+| 4 | [#LaLigaEnGol](http://twitter.com/search?q=%23LaLigaEnGol) | N/A |
+| 5 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 6 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 7 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
+| 8 | [#PremierLeagueDAZN](http://twitter.com/search?q=%23PremierLeagueDAZN) | N/A |
+| 9 | [#SantoEntierroGrande23](http://twitter.com/search?q=%23SantoEntierroGrande23) | N/A |
+| 10 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
+| 11 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
+| 12 | [Nacho Vidal](http://twitter.com/search?q=Nacho+Vidal) | N/A |
+| 13 | [Mahoma](http://twitter.com/search?q=Mahoma) | N/A |
+| 14 | [El 38%](http://twitter.com/search?q=El+38%25) | N/A |
 | 15 | [Terminator 2](http://twitter.com/search?q=Terminator+2) | N/A |
-| 16 | [#8deAbril](http://twitter.com/search?q=%238deAbril) | N/A |
-| 17 | [Irving](http://twitter.com/search?q=Irving) | N/A |
-| 18 | [Pueblo Gitano](http://twitter.com/search?q=Pueblo+Gitano) | N/A |
-| 19 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 20 | [Sara Montiel](http://twitter.com/search?q=Sara+Montiel) | N/A |
-| 21 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
-| 22 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 23 | [Vigilia Pascual](http://twitter.com/search?q=Vigilia+Pascual) | N/A |
-| 24 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 25 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
-| 26 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 27 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
-| 28 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 29 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 30 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 31 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 32 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
-| 33 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
-| 34 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
-| 35 | [Pape](http://twitter.com/search?q=Pape) | N/A |
-| 36 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
-| 37 | [Monchi](http://twitter.com/search?q=Monchi) | Monchi is a Spanish nickname derived from the name Ramón. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
+| 16 | [#16AniversarioHTCMania](http://twitter.com/search?q=%2316AniversarioHTCMania) | N/A |
+| 17 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
+| 18 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 19 | [Moreneta](http://twitter.com/search?q=Moreneta) | N/A |
+| 20 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 21 | [Andaluces](http://twitter.com/search?q=Andaluces) | N/A |
+| 22 | [José Couso](http://twitter.com/search?q=Jos%c3%a9+Couso) | N/A |
+| 23 | [Pueblo Gitano](http://twitter.com/search?q=Pueblo+Gitano) | N/A |
+| 24 | [Irving](http://twitter.com/search?q=Irving) | N/A |
+| 25 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 26 | [Vigilia Pascual](http://twitter.com/search?q=Vigilia+Pascual) | N/A |
+| 27 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 28 | [Sara Montiel](http://twitter.com/search?q=Sara+Montiel) | N/A |
+| 29 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 30 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
+| 31 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
+| 32 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 33 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 34 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
+| 35 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
+| 36 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 37 | [El 8](http://twitter.com/search?q=El+8) | N/A |
 | 38 | [Puigdemont](http://twitter.com/search?q=Puigdemont) | Puigdemont is the surname of Carles Puigdemont, a Catalan politician who served as the President of Catalonia from January 2016 to October 2017. In English, it is pronounced "pwee-gemont". |
-| 39 | [rojas](http://twitter.com/search?q=rojas) | N/A |
-| 40 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 41 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 42 | [Sevilla FC](http://twitter.com/search?q=Sevilla+FC) | N/A |
-| 43 | [Egun](http://twitter.com/search?q=Egun) | N/A |
-| 44 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
-| 45 | [Vicks Vaporub](http://twitter.com/search?q=Vicks+Vaporub) | N/A |
-| 46 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 47 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 48 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 49 | [#N1CanalFiesta14](http://twitter.com/search?q=%23N1CanalFiesta14) | N/A |
-| 50 | [#APOYOROCIO8A](http://twitter.com/search?q=%23APOYOROCIO8A) | N/A |
+| 39 | [Sevilla FC](http://twitter.com/search?q=Sevilla+FC) | N/A |
+| 40 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
+| 41 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 42 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
+| 43 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 44 | [Pape](http://twitter.com/search?q=Pape) | N/A |
+| 45 | [monchi](http://twitter.com/search?q=monchi) | N/A |
+| 46 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 47 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 48 | [Monedero](http://twitter.com/search?q=Monedero) | N/A |
+| 49 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 50 | [rojas](http://twitter.com/search?q=rojas) | N/A |
 
 
 

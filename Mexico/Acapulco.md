@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Acapulco
 
-📆 Last Updated: `2023-04-08 12:17:10 UTC`
+📆 Last Updated: `2023-04-08 13:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,53 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
 | 2 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 3 | [HAVE A SAFE FLIGHT JUNGKOOK](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JUNGKOOK) | N/A |
-| 4 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
-| 5 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 6 | [#DíaMundialDeLaSalud](http://twitter.com/search?q=%23D%c3%adaMundialDeLaSalud) | N/A |
-| 7 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 8 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 9 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 10 | [#SemanaSanta](http://twitter.com/search?q=%23SemanaSanta) | N/A |
-| 11 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 3 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
+| 4 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 5 | [#SabadoDeGloria](http://twitter.com/search?q=%23SabadoDeGloria) | N/A |
+| 6 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 7 | [#DíaMundialDeLaSalud](http://twitter.com/search?q=%23D%c3%adaMundialDeLaSalud) | N/A |
+| 8 | [HAVE A SAFE FLIGHT JUNGKOOK](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JUNGKOOK) | N/A |
+| 9 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 10 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [volpi](http://twitter.com/search?q=volpi) | N/A |
-| 14 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 13 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 14 | [Volpi](http://twitter.com/search?q=Volpi) | N/A |
 | 15 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 | 16 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
 | 17 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
-| 18 | [Procesión del Silencio](http://twitter.com/search?q=Procesi%c3%b3n+del+Silencio) | N/A |
+| 18 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
 | 19 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 20 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 20 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 21 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 22 | [Iztapalapa](http://twitter.com/search?q=Iztapalapa) | N/A |
-| 23 | [Creel](http://twitter.com/search?q=Creel) | N/A |
+| 22 | [Creel](http://twitter.com/search?q=Creel) | N/A |
+| 23 | [Procesión del Silencio](http://twitter.com/search?q=Procesi%c3%b3n+del+Silencio) | N/A |
 | 24 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 25 | [central de abasto](http://twitter.com/search?q=central+de+abasto) | N/A |
+| 25 | [iztapalapa](http://twitter.com/search?q=iztapalapa) | N/A |
 | 26 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
 | 27 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 28 | [kylie](http://twitter.com/search?q=kylie) | N/A |
-| 29 | [Orinoco](http://twitter.com/search?q=Orinoco) | N/A |
-| 30 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 31 | [Dresser](http://twitter.com/search?q=Dresser) | N/A |
-| 32 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 33 | [Plaza de la Constitución](http://twitter.com/search?q=Plaza+de+la+Constituci%c3%b3n) | N/A |
+| 28 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 29 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 30 | [Orinoco](http://twitter.com/search?q=Orinoco) | N/A |
+| 31 | [Central de abastos](http://twitter.com/search?q=Central+de+abastos) | N/A |
+| 32 | [Dresser](http://twitter.com/search?q=Dresser) | N/A |
+| 33 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
 | 34 | [farnesio de bernal](http://twitter.com/search?q=farnesio+de+bernal) | N/A |
 | 35 | [solo un beso out now](http://twitter.com/search?q=solo+un+beso+out+now) | N/A |
-| 36 | [layun](http://twitter.com/search?q=layun) | N/A |
-| 37 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 38 | [Burger Boy](http://twitter.com/search?q=Burger+Boy) | N/A |
-| 39 | [Inter de Milán](http://twitter.com/search?q=Inter+de+Mil%c3%a1n) | N/A |
+| 36 | [Plaza de la Constitución](http://twitter.com/search?q=Plaza+de+la+Constituci%c3%b3n) | N/A |
+| 37 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 38 | [Inter de Milán](http://twitter.com/search?q=Inter+de+Mil%c3%a1n) | N/A |
+| 39 | [Burger Boy](http://twitter.com/search?q=Burger+Boy) | N/A |
 | 40 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 41 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 42 | [Martinoli](http://twitter.com/search?q=Martinoli) | N/A |
+| 41 | [layun](http://twitter.com/search?q=layun) | N/A |
+| 42 | [Judas](http://twitter.com/search?q=Judas) | N/A |
 | 43 | [Diamondbacks](http://twitter.com/search?q=Diamondbacks) | N/A |
 | 44 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 45 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
-| 46 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 47 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 48 | [San Luis Potosí](http://twitter.com/search?q=San+Luis+Potos%c3%ad) | N/A |
+| 45 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 46 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
+| 47 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 48 | [Hoseok](http://twitter.com/search?q=Hoseok) | N/A |
+| 49 | [San Luis Potosí](http://twitter.com/search?q=San+Luis+Potos%c3%ad) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-04-08 12:17:53 UTC`
+📆 Last Updated: `2023-04-08 13:18:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 1 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 2 | [#MUNEVE](http://twitter.com/search?q=%23MUNEVE) | #MUNEVE is a hashtag used to promote the Muneve app, which is an online platform that helps people find and book beauty services. The hashtag is used to share user experiences, tips, and advice related to beauty services. In English, #MUNEVE means "My Beauty Experience". |
-| 3 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 4 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 5 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 6 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
+| 3 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 4 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 5 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
+| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
 | 7 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 8 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 9 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 11 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 12 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
-| 13 | [MUN vs EVE](http://twitter.com/search?q=MUN+vs+EVE) | N/A |
-| 14 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
-| 15 | [Link 1](http://twitter.com/search?q=Link+1) | N/A |
-| 16 | [#njpw](http://twitter.com/search?q=%23njpw) | #NJPW stands for New Japan Pro Wrestling, which is a Japanese professional wrestling promotion. It is one of the largest and most popular wrestling promotions in the world. |
-| 17 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
-| 18 | [Live Stream](http://twitter.com/search?q=Live+Stream) | N/A |
-| 19 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 20 | [Aussie Open](http://twitter.com/search?q=Aussie+Open) | N/A |
-| 21 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 22 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 23 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 24 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 25 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
-| 26 | [Mayu](http://twitter.com/search?q=Mayu) | N/A |
-| 27 | [Hazuki](http://twitter.com/search?q=Hazuki) | N/A |
-| 28 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 29 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
-| 30 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 31 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 32 | [Ivermectin](http://twitter.com/search?q=Ivermectin) | N/A |
-| 33 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
-| 34 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 35 | [VP Harris](http://twitter.com/search?q=VP+Harris) | N/A |
-| 36 | [Happy Easter Weekend](http://twitter.com/search?q=Happy+Easter+Weekend) | N/A |
-| 37 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 38 | [AK-47](http://twitter.com/search?q=AK-47) | N/A |
-| 39 | [Vogue](http://twitter.com/search?q=Vogue) | N/A |
-| 40 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 41 | [Girly Teengirl](http://twitter.com/search?q=Girly+Teengirl) | N/A |
-| 42 | [Pusha T](http://twitter.com/search?q=Pusha+T) | N/A |
-| 43 | [The FDA](http://twitter.com/search?q=The+FDA) | N/A |
-| 44 | [University of Oklahoma](http://twitter.com/search?q=University+of+Oklahoma) | N/A |
-| 45 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 46 | [The Shining](http://twitter.com/search?q=The+Shining) | N/A |
-| 47 | [6 Christians](http://twitter.com/search?q=6+Christians) | N/A |
-| 48 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
-| 49 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 8 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 10 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 11 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 12 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
+| 13 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 14 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
+| 15 | [MUN vs EVE](http://twitter.com/search?q=MUN+vs+EVE) | N/A |
+| 16 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 17 | [Link 2](http://twitter.com/search?q=Link+2) | N/A |
+| 18 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
+| 19 | [Live Stream](http://twitter.com/search?q=Live+Stream) | N/A |
+| 20 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 21 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 22 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
+| 23 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 24 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 25 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 26 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 27 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 28 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
+| 29 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 30 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 31 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
+| 32 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 33 | [Lars Mikkelsen](http://twitter.com/search?q=Lars+Mikkelsen) | N/A |
+| 34 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
+| 35 | [Sheol](http://twitter.com/search?q=Sheol) | N/A |
+| 36 | [Mayu](http://twitter.com/search?q=Mayu) | N/A |
+| 37 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 38 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 39 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 40 | [Live Results](http://twitter.com/search?q=Live+Results) | N/A |
+| 41 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 42 | [SENIOR DAY](http://twitter.com/search?q=SENIOR+DAY) | N/A |
+| 43 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 44 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 45 | [Hazuki](http://twitter.com/search?q=Hazuki) | N/A |
+| 46 | [Ivermectin](http://twitter.com/search?q=Ivermectin) | N/A |
+| 47 | [The FDA](http://twitter.com/search?q=The+FDA) | N/A |
+| 48 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 49 | [Fred Couples](http://twitter.com/search?q=Fred+Couples) | N/A |
 
 
 
