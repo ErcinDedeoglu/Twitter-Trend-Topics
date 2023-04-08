@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-04-08 07:17:26 UTC`
+📆 Last Updated: `2023-04-08 08:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 4 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 1 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 2 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
 | 5 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 6 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 7 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
-| 8 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 9 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
-| 10 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
-| 11 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
-| 12 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
-| 13 | [Hull](http://twitter.com/search?q=Hull) | N/A |
-| 14 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 15 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
-| 16 | [Vincent Kompany](http://twitter.com/search?q=Vincent+Kompany) | N/A |
-| 17 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 18 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 19 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
-| 20 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
-| 21 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 22 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 23 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 25 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 6 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
+| 7 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 8 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 9 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
+| 10 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
+| 11 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 12 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
+| 13 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 14 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
+| 15 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 16 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
+| 17 | [Hull](http://twitter.com/search?q=Hull) | N/A |
+| 18 | [Vincent Kompany](http://twitter.com/search?q=Vincent+Kompany) | N/A |
+| 19 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 20 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
+| 21 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 22 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 23 | [The Bodyguard](http://twitter.com/search?q=The+Bodyguard) | N/A |
+| 24 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
+| 25 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
 | 26 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 27 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
-| 28 | [Saville](http://twitter.com/search?q=Saville) | N/A |
-| 29 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 30 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 31 | [hugill](http://twitter.com/search?q=hugill) | N/A |
-| 32 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 33 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 34 | [Jack Clarke](http://twitter.com/search?q=Jack+Clarke) | N/A |
-| 35 | [McNair](http://twitter.com/search?q=McNair) | N/A |
-| 36 | [Independence for Wales](http://twitter.com/search?q=Independence+for+Wales) | N/A |
+| 27 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 28 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
+| 29 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 30 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
+| 31 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 32 | [Saville](http://twitter.com/search?q=Saville) | N/A |
+| 33 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 34 | [Mon the Hoops](http://twitter.com/search?q=Mon+the+Hoops) | N/A |
+| 35 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
+| 36 | [hugill](http://twitter.com/search?q=hugill) | N/A |
 | 37 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 38 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 39 | [Baby Dog](http://twitter.com/search?q=Baby+Dog) | N/A |
-| 40 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 41 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 42 | [Glasgow Celtic](http://twitter.com/search?q=Glasgow+Celtic) | N/A |
-| 43 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
-| 44 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 45 | [Boro](http://twitter.com/search?q=Boro) | N/A |
-| 46 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 47 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 38 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 39 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 40 | [McNair](http://twitter.com/search?q=McNair) | N/A |
+| 41 | [Jack Clarke](http://twitter.com/search?q=Jack+Clarke) | N/A |
+| 42 | [Independence for Wales](http://twitter.com/search?q=Independence+for+Wales) | N/A |
+| 43 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 44 | [Baby Dog](http://twitter.com/search?q=Baby+Dog) | N/A |
+| 45 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 46 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 47 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 48 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
 
 
 

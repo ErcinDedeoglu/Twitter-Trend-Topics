@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-04-08 07:18:01 UTC`
+📆 Last Updated: `2023-04-08 08:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#التسجيل_الصوتي_لغرفه_الفار](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d8%b3%d8%ac%d9%8a%d9%84_%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a_%d9%84%d8%ba%d8%b1%d9%81%d9%87_%d8%a7%d9%84%d9%81%d8%a7%d8%b1) | N/A |
-| 2 | [#دوري_جورجينا](http://twitter.com/search?q=%23%d8%af%d9%88%d8%b1%d9%8a_%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d9%86%d8%a7) | N/A |
-| 3 | [#المهم_سعود_اخي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%87%d9%85_%d8%b3%d8%b9%d9%88%d8%af_%d8%a7%d8%ae%d9%8a) | N/A |
-| 4 | [١٧ رمضان](http://twitter.com/search?q=%d9%a1%d9%a7+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 1 | [#الهلال_الشباب](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
+| 2 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
+| 3 | [#تفريج_كربه_مسن](http://twitter.com/search?q=%23%d8%aa%d9%81%d8%b1%d9%8a%d8%ac_%d9%83%d8%b1%d8%a8%d9%87_%d9%85%d8%b3%d9%86) | N/A |
+| 4 | [ماجد الشمراني](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d8%a7%d9%84%d8%b4%d9%85%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
 | 5 | [#بطاقاتنا_تفوز3](http://twitter.com/search?q=%23%d8%a8%d8%b7%d8%a7%d9%82%d8%a7%d8%aa%d9%86%d8%a7_%d8%aa%d9%81%d9%88%d8%b23) | N/A |
-| 6 | [#سديم_تنخاكم٢](http://twitter.com/search?q=%23%d8%b3%d8%af%d9%8a%d9%85_%d8%aa%d9%86%d8%ae%d8%a7%d9%83%d9%85%d9%a2) | N/A |
-| 7 | [لبس العيد](http://twitter.com/search?q=%d9%84%d8%a8%d8%b3+%d8%a7%d9%84%d8%b9%d9%8a%d8%af) | N/A |
-| 8 | [17 رمضان](http://twitter.com/search?q=17+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 9 | [المذاهب الاربعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b0%d8%a7%d9%87%d8%a8+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d9%87) | N/A |
-| 10 | [نواف الاسيوي](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a) | N/A |
-| 11 | [الجمعه الساعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87) | N/A |
-| 12 | [كعب العيد](http://twitter.com/search?q=%d9%83%d8%b9%d8%a8+%d8%a7%d9%84%d8%b9%d9%8a%d8%af) | N/A |
-| 13 | [بدر الكبري](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
-| 14 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 15 | [فلاح](http://twitter.com/search?q=%d9%81%d9%84%d8%a7%d8%ad) | N/A |
-| 16 | [علي مسلم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%b3%d9%84%d9%85) | N/A |
-| 17 | [الكتب السماويه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d9%88%d9%8a%d9%87) | N/A |
-| 18 | [الاخطاء التحكيميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b7%d8%a7%d8%a1+%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85%d9%8a%d9%87) | N/A |
-| 19 | [الحكم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 20 | [فهد المفرج](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d9%85%d9%81%d8%b1%d8%ac) | N/A |
-| 21 | [ياسر القحطاني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
-| 22 | [الحكام الاجانب](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d8%a7%d9%86%d8%a8) | N/A |
-| 23 | [#مسابقه_المربع_نت17](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa17) | N/A |
-| 24 | [#الانماء_وعطر_الكلام8](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1_%d9%88%d8%b9%d8%b7%d8%b1_%d8%a7%d9%84%d9%83%d9%84%d8%a7%d9%858) | N/A |
-| 25 | [#تفريج_كربه_مسن](http://twitter.com/search?q=%23%d8%aa%d9%81%d8%b1%d9%8a%d8%ac_%d9%83%d8%b1%d8%a8%d9%87_%d9%85%d8%b3%d9%86) | N/A |
-| 26 | [#هبد51](http://twitter.com/search?q=%23%d9%87%d8%a8%d8%af51) | N/A |
-| 27 | [#رمضان17](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%8617) | N/A |
-| 28 | [#صالح_المغامسي](http://twitter.com/search?q=%23%d8%b5%d8%a7%d9%84%d8%ad_%d8%a7%d9%84%d9%85%d8%ba%d8%a7%d9%85%d8%b3%d9%8a) | N/A |
-| 29 | [#تصويري](http://twitter.com/search?q=%23%d8%aa%d8%b5%d9%88%d9%8a%d8%b1%d9%8a) | N/A |
-| 30 | [#كفاله_مريض](http://twitter.com/search?q=%23%d9%83%d9%81%d8%a7%d9%84%d9%87_%d9%85%d8%b1%d9%8a%d8%b6) | N/A |
-| 31 | [#انس_المطيري](http://twitter.com/search?q=%23%d8%a7%d9%86%d8%b3_%d8%a7%d9%84%d9%85%d8%b7%d9%8a%d8%b1%d9%8a) | N/A |
-| 32 | [#عز_بوظهير](http://twitter.com/search?q=%23%d8%b9%d8%b2_%d8%a8%d9%88%d8%b8%d9%87%d9%8a%d8%b1) | N/A |
-| 33 | [#الخليج_الشباب](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac_%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
-| 34 | [#عيديات_العطاوي_للاتصالات](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af%d9%8a%d8%a7%d8%aa_%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d9%88%d9%8a_%d9%84%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
-| 35 | [#بنفيكا_انترميلان](http://twitter.com/search?q=%23%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7_%d8%a7%d9%86%d8%aa%d8%b1%d9%85%d9%8a%d9%84%d8%a7%d9%86) | N/A |
-| 36 | [#مانشسترسيتي_بايرن_ميونخ](http://twitter.com/search?q=%23%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1%d8%b3%d9%8a%d8%aa%d9%8a_%d8%a8%d8%a7%d9%8a%d8%b1%d9%86_%d9%85%d9%8a%d9%88%d9%86%d8%ae) | N/A |
-| 37 | [#مسابقه_السلامه_المروريه16](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d9%8716) | N/A |
-| 38 | [#لجنه_الانضباط_والاخلاق](http://twitter.com/search?q=%23%d9%84%d8%ac%d9%86%d9%87_%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7_%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%84%d8%a7%d9%82) | N/A |
-| 39 | [#ماجد_الشمراني](http://twitter.com/search?q=%23%d9%85%d8%a7%d8%ac%d8%af_%d8%a7%d9%84%d8%b4%d9%85%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 40 | [#رمضان_مع_ابوفهد8](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af8) | N/A |
-| 41 | [#غازكو_معكم13](http://twitter.com/search?q=%23%d8%ba%d8%a7%d8%b2%d9%83%d9%88_%d9%85%d8%b9%d9%83%d9%8513) | N/A |
-| 42 | [#مسابقه_طرق_الرياض17](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b617) | N/A |
-| 43 | [#زد_رصيدك74](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8374) | N/A |
-| 44 | [#يلو_تجمعنا](http://twitter.com/search?q=%23%d9%8a%d9%84%d9%88_%d8%aa%d8%ac%d9%85%d8%b9%d9%86%d8%a7) | N/A |
-| 45 | [#المطانيخ16](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d9%86%d9%8a%d8%ae16) | N/A |
-| 46 | [#من_الوصول_الي_الحصول17](http://twitter.com/search?q=%23%d9%85%d9%86_%d8%a7%d9%84%d9%88%d8%b5%d9%88%d9%84_%d8%a7%d9%84%d9%8a_%d8%a7%d9%84%d8%ad%d8%b5%d9%88%d9%8417) | N/A |
-| 47 | [#فوازير_غازي_الذيابي9](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a9) | N/A |
-| 48 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 49 | [#جمهور_الاتحاد_مع_ناديه](http://twitter.com/search?q=%23%d8%ac%d9%85%d9%87%d9%88%d8%b1_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d9%85%d8%b9_%d9%86%d8%a7%d8%af%d9%8a%d9%87) | N/A |
+| 6 | [#سوال_ابوفهد_اليومي9](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%a7%d9%84_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af_%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a9) | N/A |
+| 7 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
+| 8 | [الحكم السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 9 | [اجانب](http://twitter.com/search?q=%d8%a7%d8%ac%d8%a7%d9%86%d8%a8) | N/A |
+| 10 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 11 | [علي الحكم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d9%83%d9%85) | N/A |
+| 12 | [١٧ رمضان](http://twitter.com/search?q=%d9%a1%d9%a7+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 13 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 14 | [المساجد التاريخيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%ac%d8%af+%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a%d9%87) | N/A |
+| 15 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
+| 16 | [راعي الفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b1%d8%af) | N/A |
+| 17 | [بن نافل](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d9%81%d9%84) | بن نافل (pronounced "bin nafl") is an Arabic phrase meaning "for free" or "at no cost". |
+| 18 | [16 رمضان](http://twitter.com/search?q=16+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 19 | [علي اسيا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
+| 20 | [بانيغا](http://twitter.com/search?q=%d8%a8%d8%a7%d9%86%d9%8a%d8%ba%d8%a7) | بانيغا is a type of traditional Arabic music. It is a style of music that originated in the Middle East and North Africa and is characterized by its use of percussion instruments, such as drums, tambourines, and cymbals. In English, it can be translated to mean "dance music". |
+| 21 | [عبدالله الشهري](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
+| 22 | [سري الليل](http://twitter.com/search?q=%d8%b3%d8%b1%d9%8a+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | سري الليل is an Arabic phrase that translates to "Secret of the Night" in English. It is often used to refer to something mysterious or unknown. |
+| 23 | [ثالث جمعه](http://twitter.com/search?q=%d8%ab%d8%a7%d9%84%d8%ab+%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 24 | [علي الدوري](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
+| 25 | [الاخطاء التحكيميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b7%d8%a7%d8%a1+%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 26 | [الكتب السماويه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d9%88%d9%8a%d9%87) | N/A |
+| 27 | [المذاهب الاربعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b0%d8%a7%d9%87%d8%a8+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d9%87) | N/A |
+| 28 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
+| 29 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
+| 30 | [نور مابين الجمعتين](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a7%d8%a8%d9%8a%d9%86+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d8%aa%d9%8a%d9%86) | N/A |
+| 31 | [نواف الاسيوي](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d9%81+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a) | N/A |
+| 32 | [الاتحاد السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 33 | [الحكام المحليين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d9%8a%d9%86) | N/A |
+| 34 | [ارون](http://twitter.com/search?q=%d8%a7%d8%b1%d9%88%d9%86) | ارون is an Arabic name meaning "light". |
+| 35 | [لبس العيد](http://twitter.com/search?q=%d9%84%d8%a8%d8%b3+%d8%a7%d9%84%d8%b9%d9%8a%d8%af) | N/A |
+| 36 | [فهد المفرج](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d9%85%d9%81%d8%b1%d8%ac) | N/A |
+| 37 | [حسين القحطاني](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
+| 38 | [فييتو](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%aa%d9%88) | فييتو is a type of traditional Japanese dance. It is a form of folk dance that has been performed since the Edo period (1603-1868). The word "fiyeto" comes from the Japanese phrase "furi yatto," which means "to dance with joy." In English, it can be translated as "joyful dance." |
+| 39 | [رمز العداله](http://twitter.com/search?q=%d8%b1%d9%85%d8%b2+%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
+| 40 | [حمزة بن عبدالمطلب](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d8%b7%d9%84%d8%a8) | N/A |
+| 41 | [مشروع القديه](http://twitter.com/search?q=%d9%85%d8%b4%d8%b1%d9%88%d8%b9+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d9%87) | N/A |
+| 42 | [الحكم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 43 | [اليوم الجمعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 44 | [بيرنلي](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%86%d9%84%d9%8a) | بيرنلي (pronounced "birnlee") is an Arabic word meaning "pearl". |
+| 45 | [الجمعه الساعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87) | N/A |
+| 46 | [سانتي مينا](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%aa%d9%8a+%d9%85%d9%8a%d9%86%d8%a7) | N/A |
+| 47 | [مشروع ولي العهد](http://twitter.com/search?q=%d9%85%d8%b4%d8%b1%d9%88%d8%b9+%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 48 | [كاندريفا](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%af%d8%b1%d9%8a%d9%81%d8%a7) | N/A |
+| 49 | [البريك](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%83) | البريك is an Arabic word that means "blessing". It is used to express a wish for good fortune or success. |
+| 50 | [بدر الكبري](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
 
 
 

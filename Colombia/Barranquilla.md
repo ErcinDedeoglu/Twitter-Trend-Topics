@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-04-08 07:17:33 UTC`
+📆 Last Updated: `2023-04-08 08:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,39 +30,39 @@ This is top 50 for [Colombia](</Colombia>)
 | 13 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
 | 14 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
 | 15 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 16 | [#210AñosMásBaqana](http://twitter.com/search?q=%23210A%c3%b1osM%c3%a1sBaqana) | N/A |
+| 16 | [#210añosmásbaqana](http://twitter.com/search?q=%23210a%c3%b1osm%c3%a1sbaqana) | N/A |
 | 17 | [#miciudadbaqana](http://twitter.com/search?q=%23miciudadbaqana) | N/A |
 | 18 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
-| 19 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 20 | [Sergio Higuita](http://twitter.com/search?q=Sergio+Higuita) | N/A |
+| 19 | [Sergio Higuita](http://twitter.com/search?q=Sergio+Higuita) | N/A |
+| 20 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
 | 21 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
 | 22 | [Francia](http://twitter.com/search?q=Francia) | N/A |
 | 23 | [catalina usme](http://twitter.com/search?q=catalina+usme) | N/A |
 | 24 | [felices 210](http://twitter.com/search?q=felices+210) | N/A |
-| 25 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 26 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 27 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 25 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 26 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 27 | [5sos](http://twitter.com/search?q=5sos) | N/A |
 | 28 | [abadía](http://twitter.com/search?q=abad%c3%ada) | N/A |
 | 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 30 | [Dijon](http://twitter.com/search?q=Dijon) | N/A |
-| 31 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 32 | [bojacá](http://twitter.com/search?q=bojac%c3%a1) | N/A |
-| 33 | [cruz](http://twitter.com/search?q=cruz) | N/A |
-| 34 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 35 | [Mazorca](http://twitter.com/search?q=Mazorca) | N/A |
-| 36 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
-| 37 | [Escasez](http://twitter.com/search?q=Escasez) | N/A |
+| 30 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 31 | [bojacá](http://twitter.com/search?q=bojac%c3%a1) | N/A |
+| 32 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 33 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 34 | [Mazorca](http://twitter.com/search?q=Mazorca) | N/A |
+| 35 | [linda caicedo](http://twitter.com/search?q=linda+caicedo) | N/A |
+| 36 | [Dijon](http://twitter.com/search?q=Dijon) | N/A |
+| 37 | [escasez](http://twitter.com/search?q=escasez) | N/A |
 | 38 | [cata usme](http://twitter.com/search?q=cata+usme) | N/A |
 | 39 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
 | 40 | [patarroyo](http://twitter.com/search?q=patarroyo) | N/A |
 | 41 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 42 | [JUCO](http://twitter.com/search?q=JUCO) | N/A |
-| 43 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
+| 42 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
+| 43 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 44 | [barú](http://twitter.com/search?q=bar%c3%ba) | N/A |
 | 45 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 46 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 47 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 48 | [Potencia](http://twitter.com/search?q=Potencia) | N/A |
+| 46 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 47 | [Potencia](http://twitter.com/search?q=Potencia) | N/A |
+| 48 | [JUCO](http://twitter.com/search?q=JUCO) | N/A |
 | 49 | [Bojanini](http://twitter.com/search?q=Bojanini) | N/A |
 | 50 | [mayra ramírez](http://twitter.com/search?q=mayra+ram%c3%adrez) | N/A |
 

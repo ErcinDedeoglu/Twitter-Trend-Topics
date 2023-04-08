@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Patna
 
-📆 Last Updated: `2023-04-08 07:18:07 UTC`
+📆 Last Updated: `2023-04-08 08:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#GobackModi](http://twitter.com/search?q=%23GobackModi) | N/A |
 | 2 | [#MangalPandey](http://twitter.com/search?q=%23MangalPandey) | N/A |
-| 3 | [#GorakhnathUniversity](http://twitter.com/search?q=%23GorakhnathUniversity) | N/A |
+| 3 | [#MIvsCSK](http://twitter.com/search?q=%23MIvsCSK) | N/A |
 | 4 | [मंगल पांडे](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%97%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%82%e0%a4%a1%e0%a5%87) | N/A |
 | 5 | [Congrats MOS Utility](http://twitter.com/search?q=Congrats+MOS+Utility) | N/A |
-| 6 | [राष्ट्रीय गीत](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%97%e0%a5%80%e0%a4%a4) | N/A |
-| 7 | [Save Pak Minorities](http://twitter.com/search?q=Save+Pak+Minorities) | N/A |
+| 6 | [30 MKI](http://twitter.com/search?q=30+MKI) | N/A |
+| 7 | [राष्ट्रीय गीत](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%97%e0%a5%80%e0%a4%a4) | N/A |
 | 8 | [प्रथम स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 9 | [मुद्रा योजना](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
-| 10 | [शरद पवार](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b0%e0%a4%a6+%e0%a4%aa%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 11 | [Sukhoi 30 MKI](http://twitter.com/search?q=Sukhoi+30+MKI) | N/A |
-| 12 | [Sushant A Skilful Person](http://twitter.com/search?q=Sushant+A+Skilful+Person) | N/A |
-| 13 | [महान कवि](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a4%b5%e0%a4%bf) | N/A |
-| 14 | [Secunderabad and Tirupati](http://twitter.com/search?q=Secunderabad+and+Tirupati) | N/A |
-| 15 | [बंकिम चंद्र चट्टोपाध्याय](http://twitter.com/search?q=%e0%a4%ac%e0%a4%82%e0%a4%95%e0%a4%bf%e0%a4%ae+%e0%a4%9a%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%9a%e0%a4%9f%e0%a5%8d%e0%a4%9f%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af) | N/A |
-| 16 | [दलित महिला](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 17 | [राष्ट्रपति द्रौपदी मुर्मू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%8c%e0%a4%aa%e0%a4%a6%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%82) | N/A |
-| 18 | [प्रथम भारतीय](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af) | N/A |
-| 19 | [Enhance Your Knowledge](http://twitter.com/search?q=Enhance+Your+Knowledge) | N/A |
-| 20 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
-| 21 | [Download RPGP App Now](http://twitter.com/search?q=Download+RPGP+App+Now) | N/A |
-| 22 | [Nandini](http://twitter.com/search?q=Nandini) | N/A |
-| 23 | [AIIMS](http://twitter.com/search?q=AIIMS) | N/A |
-| 24 | [PM Shri](http://twitter.com/search?q=PM+Shri) | N/A |
-| 25 | [कैलाश विजयवर्गीय](http://twitter.com/search?q=%e0%a4%95%e0%a5%88%e0%a4%b2%e0%a4%be%e0%a4%b6+%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a5%80%e0%a4%af) | N/A |
-| 26 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 27 | [Amul](http://twitter.com/search?q=Amul) | N/A |
-| 28 | [Vande Mataram](http://twitter.com/search?q=Vande+Mataram) | N/A |
-| 29 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 30 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 31 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 32 | [#Vanakkam_Modi](http://twitter.com/search?q=%23Vanakkam_Modi) | N/A |
-| 33 | [#SwagatamModiJi](http://twitter.com/search?q=%23SwagatamModiJi) | N/A |
-| 34 | [#MIvsCSK](http://twitter.com/search?q=%23MIvsCSK) | N/A |
-| 35 | [#8YearsOfMudraYojana](http://twitter.com/search?q=%238YearsOfMudraYojana) | N/A |
-| 36 | [#HappyBirthdayAlluArjun](http://twitter.com/search?q=%23HappyBirthdayAlluArjun) | N/A |
-| 37 | [#ShahidKapoor](http://twitter.com/search?q=%23ShahidKapoor) | N/A |
-| 38 | [#GoBack_Narendra](http://twitter.com/search?q=%23GoBack_Narendra) | N/A |
-| 39 | [#RPSC_भ्रष्टाचार_की_दुकान_है](http://twitter.com/search?q=%23RPSC_%e0%a4%ad%e0%a5%8d%e0%a4%b0%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%be%e0%a4%9a%e0%a4%be%e0%a4%b0_%e0%a4%95%e0%a5%80_%e0%a4%a6%e0%a5%81%e0%a4%95%e0%a4%be%e0%a4%a8_%e0%a4%b9%e0%a5%88) | N/A |
-| 40 | [#GoBackFascistModi](http://twitter.com/search?q=%23GoBackFascistModi) | N/A |
+| 9 | [शरद पवार](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b0%e0%a4%a6+%e0%a4%aa%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 10 | [मुद्रा योजना](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
+| 11 | [Sushant A Skilful Person](http://twitter.com/search?q=Sushant+A+Skilful+Person) | N/A |
+| 12 | [राष्ट्रपति द्रौपदी मुर्मू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%8c%e0%a4%aa%e0%a4%a6%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%82) | N/A |
+| 13 | [महान क्रांतिकारी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 14 | [Save Pak Minorities](http://twitter.com/search?q=Save+Pak+Minorities) | N/A |
+| 15 | [Secunderabad](http://twitter.com/search?q=Secunderabad) | N/A |
+| 16 | [Aditya](http://twitter.com/search?q=Aditya) | N/A |
+| 17 | [महान कवि](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a4%b5%e0%a4%bf) | N/A |
+| 18 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 19 | [बंकिम चंद्र चट्टोपाध्याय](http://twitter.com/search?q=%e0%a4%ac%e0%a4%82%e0%a4%95%e0%a4%bf%e0%a4%ae+%e0%a4%9a%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%9a%e0%a4%9f%e0%a5%8d%e0%a4%9f%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af) | N/A |
+| 20 | [Nandini](http://twitter.com/search?q=Nandini) | N/A |
+| 21 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 22 | [Amul](http://twitter.com/search?q=Amul) | N/A |
+| 23 | [BSNL](http://twitter.com/search?q=BSNL) | N/A |
+| 24 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 25 | [भारत ट्रेन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
+| 26 | [कैलाश विजयवर्गीय](http://twitter.com/search?q=%e0%a4%95%e0%a5%88%e0%a4%b2%e0%a4%be%e0%a4%b6+%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a5%80%e0%a4%af) | N/A |
+| 27 | [AIIMS](http://twitter.com/search?q=AIIMS) | N/A |
+| 28 | [दलित महिला](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 29 | [PM Shri](http://twitter.com/search?q=PM+Shri) | N/A |
+| 30 | [प्रथम भारतीय](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af) | N/A |
+| 31 | [Enhance Your Knowledge](http://twitter.com/search?q=Enhance+Your+Knowledge) | N/A |
+| 32 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 33 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
+| 34 | [Download RPGP App Now](http://twitter.com/search?q=Download+RPGP+App+Now) | N/A |
+| 35 | [#RPSC_भ्रष्टाचार_की_दुकान_है](http://twitter.com/search?q=%23RPSC_%e0%a4%ad%e0%a5%8d%e0%a4%b0%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%be%e0%a4%9a%e0%a4%be%e0%a4%b0_%e0%a4%95%e0%a5%80_%e0%a4%a6%e0%a5%81%e0%a4%95%e0%a4%be%e0%a4%a8_%e0%a4%b9%e0%a5%88) | N/A |
+| 36 | [#GorakhnathUniversity](http://twitter.com/search?q=%23GorakhnathUniversity) | N/A |
+| 37 | [#Vanakkam_Modi](http://twitter.com/search?q=%23Vanakkam_Modi) | N/A |
+| 38 | [#SwagatamModiJi](http://twitter.com/search?q=%23SwagatamModiJi) | N/A |
+| 39 | [#ShahidKapoor](http://twitter.com/search?q=%23ShahidKapoor) | N/A |
+| 40 | [#8YearsOfMudraYojana](http://twitter.com/search?q=%238YearsOfMudraYojana) | N/A |
 | 41 | [#VandeBharatExpress](http://twitter.com/search?q=%23VandeBharatExpress) | N/A |
-| 42 | [#PakodakingAjitAnjum](http://twitter.com/search?q=%23PakodakingAjitAnjum) | N/A |
-| 43 | [#GoBack_பொணந்தின்னி](http://twitter.com/search?q=%23GoBack_%e0%ae%aa%e0%af%8a%e0%ae%a3%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%ae%bf) | N/A |
-| 44 | [#PoojaHegde](http://twitter.com/search?q=%23PoojaHegde) | N/A |
-| 45 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 46 | [#KritiSanon](http://twitter.com/search?q=%23KritiSanon) | N/A |
-| 47 | [#BankimChandraChattopadhyay](http://twitter.com/search?q=%23BankimChandraChattopadhyay) | N/A |
+| 42 | [#GoBackNarendra](http://twitter.com/search?q=%23GoBackNarendra) | N/A |
+| 43 | [#KritiSanon](http://twitter.com/search?q=%23KritiSanon) | N/A |
+| 44 | [#PakodakingAjitAnjum](http://twitter.com/search?q=%23PakodakingAjitAnjum) | N/A |
+| 45 | [#DroupadiMurmu](http://twitter.com/search?q=%23DroupadiMurmu) | N/A |
+| 46 | [#GoBack_பொணந்தின்னி](http://twitter.com/search?q=%23GoBack_%e0%ae%aa%e0%af%8a%e0%ae%a3%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%ae%bf) | N/A |
+| 47 | [#GoBackFascistModi](http://twitter.com/search?q=%23GoBackFascistModi) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-08 07:18:28 UTC`
+📆 Last Updated: `2023-04-08 08:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,9 +20,9 @@ This is top 50 for Panama
 | 3 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 4 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
 | 5 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 6 | [Motta](http://twitter.com/search?q=Motta) | N/A |
-| 7 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
-| 8 | [río abajo](http://twitter.com/search?q=r%c3%ado+abajo) | N/A |
+| 6 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 7 | [río abajo](http://twitter.com/search?q=r%c3%ado+abajo) | N/A |
+| 8 | [Motta](http://twitter.com/search?q=Motta) | N/A |
 | 9 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 | 10 | [multiplaza](http://twitter.com/search?q=multiplaza) | N/A |
 | 11 | [la yeguada](http://twitter.com/search?q=la+yeguada) | N/A |
@@ -35,31 +35,31 @@ This is top 50 for Panama
 | 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 19 | [Vía Crucis](http://twitter.com/search?q=V%c3%ada+Crucis) | N/A |
 | 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 21 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 22 | [hilary jaén](http://twitter.com/search?q=hilary+ja%c3%a9n) | N/A |
-| 23 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 24 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 25 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
-| 26 | [Alanje](http://twitter.com/search?q=Alanje) | N/A |
+| 21 | [Pepitas](http://twitter.com/search?q=Pepitas) | N/A |
+| 22 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 23 | [hilary jaén](http://twitter.com/search?q=hilary+ja%c3%a9n) | N/A |
+| 24 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 25 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 26 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
 | 27 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
 | 28 | [Coronado](http://twitter.com/search?q=Coronado) | N/A |
 | 29 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
-| 30 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 31 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
-| 32 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 33 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
-| 34 | [Marañón](http://twitter.com/search?q=Mara%c3%b1%c3%b3n) | N/A |
-| 35 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 36 | [Casco Antiguo](http://twitter.com/search?q=Casco+Antiguo) | N/A |
-| 37 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 38 | [cruz](http://twitter.com/search?q=cruz) | N/A |
-| 39 | [Biblia](http://twitter.com/search?q=Biblia) | N/A |
-| 40 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 41 | [san miguelito](http://twitter.com/search?q=san+miguelito) | N/A |
-| 42 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 43 | [Casco Viejo](http://twitter.com/search?q=Casco+Viejo) | N/A |
-| 44 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
-| 45 | [$0.01 ETH](http://twitter.com/search?q=%240.01+ETH) | N/A |
+| 30 | [#WanderingMind](http://twitter.com/search?q=%23WanderingMind) | N/A |
+| 31 | [$0.01 ETH](http://twitter.com/search?q=%240.01+ETH) | N/A |
+| 32 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
+| 33 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 34 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
+| 35 | [Marañón](http://twitter.com/search?q=Mara%c3%b1%c3%b3n) | N/A |
+| 36 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 37 | [Casco Antiguo](http://twitter.com/search?q=Casco+Antiguo) | N/A |
+| 38 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 39 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 40 | [Biblia](http://twitter.com/search?q=Biblia) | N/A |
+| 41 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 42 | [san miguelito](http://twitter.com/search?q=san+miguelito) | N/A |
+| 43 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 44 | [Casco Viejo](http://twitter.com/search?q=Casco+Viejo) | N/A |
+| 45 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
 | 46 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 47 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
 | 48 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-04-08 07:17:34 UTC`
+📆 Last Updated: `2023-04-08 08:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,11 +32,11 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 15 | [#VivaElEncebollado](http://twitter.com/search?q=%23VivaElEncebollado) | N/A |
 | 16 | [cristo del consuelo](http://twitter.com/search?q=cristo+del+consuelo) | N/A |
 | 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 18 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
-| 19 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 18 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 19 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
 | 20 | [Quinindé](http://twitter.com/search?q=Quinind%c3%a9) | N/A |
-| 21 | [Collahuazo](http://twitter.com/search?q=Collahuazo) | N/A |
-| 22 | [Rodrigo Rivas](http://twitter.com/search?q=Rodrigo+Rivas) | N/A |
+| 21 | [collahuazo](http://twitter.com/search?q=collahuazo) | N/A |
+| 22 | [rodrigo rivas](http://twitter.com/search?q=rodrigo+rivas) | N/A |
 | 23 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
 | 24 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
 | 25 | [Chucho Benítez](http://twitter.com/search?q=Chucho+Ben%c3%adtez) | N/A |
@@ -53,17 +53,17 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 36 | [AGUST D OFFICIAL DEBUT](http://twitter.com/search?q=AGUST+D+OFFICIAL+DEBUT) | N/A |
 | 37 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
 | 38 | [Alejandra Jaramillo](http://twitter.com/search?q=Alejandra+Jaramillo) | N/A |
-| 39 | [Recalde](http://twitter.com/search?q=Recalde) | N/A |
-| 40 | [Diego Martínez](http://twitter.com/search?q=Diego+Mart%c3%adnez) | N/A |
-| 41 | [Terrorismo](http://twitter.com/search?q=Terrorismo) | N/A |
-| 42 | [mixto](http://twitter.com/search?q=mixto) | N/A |
-| 43 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 44 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 45 | [Hexagonal](http://twitter.com/search?q=Hexagonal) | N/A |
-| 46 | [TERRORISTAS](http://twitter.com/search?q=TERRORISTAS) | N/A |
-| 47 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
-| 48 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 49 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 39 | [recalde](http://twitter.com/search?q=recalde) | N/A |
+| 40 | [Terrorismo](http://twitter.com/search?q=Terrorismo) | N/A |
+| 41 | [mixto](http://twitter.com/search?q=mixto) | N/A |
+| 42 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 43 | [hexagonal](http://twitter.com/search?q=hexagonal) | N/A |
+| 44 | [TERRORISTAS](http://twitter.com/search?q=TERRORISTAS) | N/A |
+| 45 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
+| 46 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 47 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 48 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 49 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 50 | [Fecha 5](http://twitter.com/search?q=Fecha+5) | N/A |
 
 
