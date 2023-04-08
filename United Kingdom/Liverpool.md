@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-04-08 20:16:25 UTC`
+📆 Last Updated: `2023-04-08 21:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 2 | [Sulemana](http://twitter.com/search?q=Sulemana) | N/A |
-| 3 | [Catalans](http://twitter.com/search?q=Catalans) | N/A |
-| 4 | [Gareth Richards](http://twitter.com/search?q=Gareth+Richards) | N/A |
-| 5 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 6 | [Toti](http://twitter.com/search?q=Toti) | Toti is a Spanish slang term that is used to refer to a close friend or someone who is very dear to you. In English, it can be translated as "dear friend" or "special one". |
-| 7 | [#NSL2023](http://twitter.com/search?q=%23NSL2023) | N/A |
-| 8 | [Viking](http://twitter.com/search?q=Viking) | N/A |
-| 9 | [Wood](http://twitter.com/search?q=Wood) | N/A |
-| 10 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 11 | [Howe](http://twitter.com/search?q=Howe) | N/A |
+| 2 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 3 | [#TOTBHA](http://twitter.com/search?q=%23TOTBHA) | N/A |
+| 4 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 5 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 6 | [Wire](http://twitter.com/search?q=Wire) | N/A |
+| 7 | [Viking](http://twitter.com/search?q=Viking) | N/A |
+| 8 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 9 | [Robbed](http://twitter.com/search?q=Robbed) | N/A |
+| 10 | [Massive 3](http://twitter.com/search?q=Massive+3) | N/A |
+| 11 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
 | 12 | [Corruption](http://twitter.com/search?q=Corruption) | N/A |
-| 13 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
-| 14 | [Massive 3](http://twitter.com/search?q=Massive+3) | N/A |
-| 15 | [Ollie Watkins](http://twitter.com/search?q=Ollie+Watkins) | N/A |
-| 16 | [#LabourDoorstep](http://twitter.com/search?q=%23LabourDoorstep) | N/A |
-| 17 | [Mason](http://twitter.com/search?q=Mason) | N/A |
-| 18 | [#Masters](http://twitter.com/search?q=%23Masters) | N/A |
-| 19 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 20 | [Dunk](http://twitter.com/search?q=Dunk) | N/A |
-| 21 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 22 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
-| 23 | [#SaturdayNightTakeaway](http://twitter.com/search?q=%23SaturdayNightTakeaway) | N/A |
-| 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 25 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 26 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 27 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 28 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 29 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 30 | [Alan Rickman](http://twitter.com/search?q=Alan+Rickman) | N/A |
-| 31 | [New Balance](http://twitter.com/search?q=New+Balance) | N/A |
-| 32 | [Ronnie Scott](http://twitter.com/search?q=Ronnie+Scott) | N/A |
-| 33 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 34 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 35 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 36 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 37 | [Lavia](http://twitter.com/search?q=Lavia) | Lavia is a female given name of Latin origin, derived from the word "lavare" which means "to wash". It is often associated with purity and innocence. In English, Lavia can be translated to mean "pure one". |
-| 38 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 39 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
-| 40 | [Dudson](http://twitter.com/search?q=Dudson) | N/A |
-| 41 | [Super Jack](http://twitter.com/search?q=Super+Jack) | Super Jack is a slang term used to describe someone who is exceptionally talented or successful. It can also be used to describe someone who is very confident and has a lot of swagger. |
-| 42 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
-| 43 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 44 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 45 | [Prince of Thieves](http://twitter.com/search?q=Prince+of+Thieves) | N/A |
-| 46 | [Neilson](http://twitter.com/search?q=Neilson) | N/A |
-| 47 | [Morelos](http://twitter.com/search?q=Morelos) | Morelos is a state in Mexico. Its name comes from José María Morelos y Pavón, a Mexican revolutionary leader who fought for independence from Spain in the early 19th century. In English, Morelos means "of Morelos". |
-| 48 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 49 | [Selles](http://twitter.com/search?q=Selles) | N/A |
+| 13 | [Eddie Howe](http://twitter.com/search?q=Eddie+Howe) | Eddie Howe is an English professional football manager and former player. He is currently the manager of Premier League club AFC Bournemouth. Howe has been praised for his tactical knowledge and ability to develop young players. |
+| 14 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 15 | [Dunk](http://twitter.com/search?q=Dunk) | N/A |
+| 16 | [#Masters](http://twitter.com/search?q=%23Masters) | N/A |
+| 17 | [#FULWHU](http://twitter.com/search?q=%23FULWHU) | N/A |
+| 18 | [Ivan Toney](http://twitter.com/search?q=Ivan+Toney) | N/A |
+| 19 | [#AVLNFO](http://twitter.com/search?q=%23AVLNFO) | N/A |
+| 20 | [Mason](http://twitter.com/search?q=Mason) | N/A |
+| 21 | [Hojbjerg](http://twitter.com/search?q=Hojbjerg) | Hojbjerg is a Danish surname. It is derived from the Old Norse words "hólmr" (island) and "berg" (mountain). In English, it can be translated to mean "Island Mountain". |
+| 22 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 23 | [Welbeck](http://twitter.com/search?q=Welbeck) | Welbeck is a surname of English origin. It is derived from the Old English words "wel" meaning "spring" and "bece" meaning "stream". The name refers to someone who lived near a spring or stream. |
+| 24 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 25 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 26 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 27 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 28 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
+| 29 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 31 | [Sam Cooke](http://twitter.com/search?q=Sam+Cooke) | N/A |
+| 32 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
+| 33 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 34 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 35 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 36 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 37 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 38 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 39 | [New Balance](http://twitter.com/search?q=New+Balance) | N/A |
+| 40 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 41 | [Alan Rickman](http://twitter.com/search?q=Alan+Rickman) | N/A |
+| 42 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 43 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 44 | [Ronnie Scott](http://twitter.com/search?q=Ronnie+Scott) | N/A |
+| 45 | [Abbie](http://twitter.com/search?q=Abbie) | N/A |
+| 46 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 47 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 48 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 49 | [Neilson](http://twitter.com/search?q=Neilson) | N/A |
 | 50 | [Meatloaf](http://twitter.com/search?q=Meatloaf) | N/A |
 
 

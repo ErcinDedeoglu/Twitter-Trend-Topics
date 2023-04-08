@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-04-08 20:16:55 UTC`
+📆 Last Updated: `2023-04-08 21:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#العملاق_السعودي_القادم_AJA](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d9%85%d9%84%d8%a7%d9%82_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a_%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85_AJA) | N/A |
-| 2 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
-| 3 | [العويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3) | العويس is an Arabic phrase that translates to "the one who is away". It is often used to refer to someone who has gone away or is absent. |
-| 4 | [#فوازير_غازي_الذيابي9](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a9) | N/A |
-| 5 | [#سوال_ابوفهد_اليومي10](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%a7%d9%84_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af_%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a10) | N/A |
-| 6 | [#بالحلم_الوحده_يعثر_الاتحاد](http://twitter.com/search?q=%23%d8%a8%d8%a7%d9%84%d8%ad%d9%84%d9%85_%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87_%d9%8a%d8%b9%d8%ab%d8%b1_%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
-| 7 | [#المذهب_الجديد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b0%d9%87%d8%a8_%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 8 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 9 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
-| 10 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 11 | [ساندرو](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%af%d8%b1%d9%88) | N/A |
-| 12 | [الانضباط المدرسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a) | N/A |
+| 1 | [#احذروا_محتاله_تبوك](http://twitter.com/search?q=%23%d8%a7%d8%ad%d8%b0%d8%b1%d9%88%d8%a7_%d9%85%d8%ad%d8%aa%d8%a7%d9%84%d9%87_%d8%aa%d8%a8%d9%88%d9%83) | N/A |
+| 2 | [#العملاق_السعودي_القادم_AJA](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d9%85%d9%84%d8%a7%d9%82_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a_%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85_AJA) | N/A |
+| 3 | [#ليالي_urpay](http://twitter.com/search?q=%23%d9%84%d9%8a%d8%a7%d9%84%d9%8a_urpay) | N/A |
+| 4 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 5 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
+| 6 | [#فوازير_غازي_الذيابي9](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a9) | N/A |
+| 7 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
+| 8 | [#رمضان_مع_ابوفهد9](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af9) | N/A |
+| 9 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 10 | [الانضباط المدرسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a) | N/A |
+| 11 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
+| 12 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
 | 13 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
-| 14 | [النجوم المختفيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%ac%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d9%81%d9%8a%d9%87) | N/A |
-| 15 | [عزيزي ولي الامر](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2%d9%8a+%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1) | N/A |
-| 16 | [سافيتش](http://twitter.com/search?q=%d8%b3%d8%a7%d9%81%d9%8a%d8%aa%d8%b4) | سافيتش is an Arabic word that means "sophisticated" or "refined". It is used to describe someone or something that is elegant, stylish, and sophisticated. |
-| 17 | [لويس البيرتو](http://twitter.com/search?q=%d9%84%d9%88%d9%8a%d8%b3+%d8%a7%d9%84%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 18 | [عزيزي الطالب](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2%d9%8a+%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
-| 19 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 20 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
-| 21 | [علي عدم الغياب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b9%d8%af%d9%85+%d8%a7%d9%84%d8%ba%d9%8a%d8%a7%d8%a8) | N/A |
-| 22 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
-| 23 | [نادي الرشيد](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af) | N/A |
-| 24 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 25 | [زينب العسكري](http://twitter.com/search?q=%d8%b2%d9%8a%d9%86%d8%a8+%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a) | N/A |
-| 26 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 27 | [علي الحضور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1) | N/A |
-| 28 | [ستونز](http://twitter.com/search?q=%d8%b3%d8%aa%d9%88%d9%86%d8%b2) | ستونز is a type of traditional Iranian dessert. It is made from wheat flour, sugar, cardamom, and rosewater. In English, it is known as Persian Nougat. |
-| 29 | [الاتحاد السوفيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d9%88%d9%81%d9%8a%d8%aa%d9%8a) | N/A |
-| 30 | [المذاهب الاربعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b0%d8%a7%d9%87%d8%a8+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d9%87) | N/A |
-| 31 | [شباب البومب اليوم](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d9%85%d8%a8+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 32 | [سوبر جاك](http://twitter.com/search?q=%d8%b3%d9%88%d8%a8%d8%b1+%d8%ac%d8%a7%d9%83) | N/A |
-| 33 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
-| 34 | [مسجد قباء](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d9%82%d8%a8%d8%a7%d8%a1) | N/A |
-| 35 | [المسجد الكبير](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
-| 36 | [ياسر التويجري](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%aa%d9%88%d9%8a%d8%ac%d8%b1%d9%8a) | N/A |
-| 37 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
-| 38 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 39 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 40 | [١٧ رمضان](http://twitter.com/search?q=%d9%a1%d9%a7+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 41 | [تورينو](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%86%d9%88) | N/A |
-| 42 | [مسجد الكوفه](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d9%83%d9%88%d9%81%d9%87) | N/A |
-| 43 | [ابراهيم الحجاج](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a7%d9%84%d8%ad%d8%ac%d8%a7%d8%ac) | ابراهيم الحجاج is a famous poem by the Saudi Arabian poet, Ibrahim Al-Hajjaj. The poem is about the beauty of nature and the importance of appreciating it. In English, the title translates to "Ibrahim Al-Hajjaj". |
-| 44 | [الاسبوع الاخير](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1) | N/A |
-| 45 | [لبس العيد](http://twitter.com/search?q=%d9%84%d8%a8%d8%b3+%d8%a7%d9%84%d8%b9%d9%8a%d8%af) | N/A |
-| 46 | [الايمه الاربعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d9%87) | N/A |
-| 47 | [ديبالا](http://twitter.com/search?q=%d8%af%d9%8a%d8%a8%d8%a7%d9%84%d8%a7) | N/A |
-| 48 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
-| 49 | [المحيط الهادي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d8%b7+%d8%a7%d9%84%d9%87%d8%a7%d8%af%d9%8a) | N/A |
-| 50 | [اليوم السابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9) | N/A |
+| 14 | [عزيزي ولي الامر](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2%d9%8a+%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1) | N/A |
+| 15 | [ساندرو](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%af%d8%b1%d9%88) | N/A |
+| 16 | [النجوم المختفيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%ac%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d9%81%d9%8a%d9%87) | N/A |
+| 17 | [عزيزي الطالب](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2%d9%8a+%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 18 | [علي عدم الغياب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b9%d8%af%d9%85+%d8%a7%d9%84%d8%ba%d9%8a%d8%a7%d8%a8) | N/A |
+| 19 | [لويس البيرتو](http://twitter.com/search?q=%d9%84%d9%88%d9%8a%d8%b3+%d8%a7%d9%84%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 20 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 21 | [سافيتش](http://twitter.com/search?q=%d8%b3%d8%a7%d9%81%d9%8a%d8%aa%d8%b4) | سافيتش is an Arabic word that means "sophisticated" or "refined". It is used to describe someone or something that is elegant, stylish, and sophisticated. |
+| 22 | [فاسكيز](http://twitter.com/search?q=%d9%81%d8%a7%d8%b3%d9%83%d9%8a%d8%b2) | فاسكيز (Fasqeez) is an Arabic word that means "bargaining" or "haggling". It is used to describe the process of negotiating a price for goods or services. |
+| 23 | [زينب العسكري](http://twitter.com/search?q=%d8%b2%d9%8a%d9%86%d8%a8+%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a) | N/A |
+| 24 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
+| 25 | [نادي الرشيد](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af) | N/A |
+| 26 | [علي الحضور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1) | N/A |
+| 27 | [دوناروما](http://twitter.com/search?q=%d8%af%d9%88%d9%86%d8%a7%d8%b1%d9%88%d9%85%d8%a7) | N/A |
+| 28 | [الليغا](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d8%ba%d8%a7) | N/A |
+| 29 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
+| 30 | [الانديه الاوروبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d9%87) | N/A |
+| 31 | [مسجد قباء](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d9%82%d8%a8%d8%a7%d8%a1) | N/A |
+| 32 | [دور الاسره](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d9%87) | N/A |
+| 33 | [خالد مسعد](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d9%85%d8%b3%d8%b9%d8%af) | N/A |
+| 34 | [المذاهب الاربعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b0%d8%a7%d9%87%d8%a8+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d9%87) | N/A |
+| 35 | [سوبر جاك](http://twitter.com/search?q=%d8%b3%d9%88%d8%a8%d8%b1+%d8%ac%d8%a7%d9%83) | N/A |
+| 36 | [الاتحاد السوفيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d9%88%d9%81%d9%8a%d8%aa%d9%8a) | N/A |
+| 37 | [ياسر التويجري](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%aa%d9%88%d9%8a%d8%ac%d8%b1%d9%8a) | N/A |
+| 38 | [شباب البومب اليوم](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d9%85%d8%a8+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 39 | [بيت الهدف](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d9%87%d8%af%d9%81) | N/A |
+| 40 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
+| 41 | [١٧ رمضان](http://twitter.com/search?q=%d9%a1%d9%a7+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 42 | [المسجد الكبير](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
+| 43 | [الاسبوع الاخير](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1) | N/A |
+| 44 | [الايمه الاربعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d9%87) | N/A |
+| 45 | [مسجد الكوفه](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d9%83%d9%88%d9%81%d9%87) | N/A |
+| 46 | [علي مدريد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
+| 47 | [ابراهيم الحجاج](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a7%d9%84%d8%ad%d8%ac%d8%a7%d8%ac) | ابراهيم الحجاج is a famous poem by the Saudi Arabian poet, Ibrahim Al-Hajjaj. The poem is about the beauty of nature and the importance of appreciating it. In English, the title translates to "Ibrahim Al-Hajjaj". |
+| 48 | [لبس العيد](http://twitter.com/search?q=%d9%84%d8%a8%d8%b3+%d8%a7%d9%84%d8%b9%d9%8a%d8%af) | N/A |
+| 49 | [ديبالا](http://twitter.com/search?q=%d8%af%d9%8a%d8%a8%d8%a7%d9%84%d8%a7) | N/A |
+| 50 | [العويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3) | العويس is an Arabic phrase that translates to "the one who is away". It is often used to refer to someone who has gone away or is absent. |
 
 
 

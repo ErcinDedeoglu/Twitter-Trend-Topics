@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-04-08 20:17:17 UTC`
+📆 Last Updated: `2023-04-08 21:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 1 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
 | 2 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
-| 3 | [#SabadoDeGloria](http://twitter.com/search?q=%23SabadoDeGloria) | N/A |
-| 4 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 5 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 6 | [#LaMañaneraNoSeToca](http://twitter.com/search?q=%23LaMa%c3%b1aneraNoSeToca) | N/A |
-| 7 | [#EllasEnTUDN](http://twitter.com/search?q=%23EllasEnTUDN) | N/A |
-| 8 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 9 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 10 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 12 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 13 | [Creel](http://twitter.com/search?q=Creel) | N/A |
-| 14 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 15 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 16 | [Volpi](http://twitter.com/search?q=Volpi) | N/A |
-| 17 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 3 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 4 | [#SabadoDeGloria](http://twitter.com/search?q=%23SabadoDeGloria) | N/A |
+| 5 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 6 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 7 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 8 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 9 | [#LaMañaneraNoSeToca](http://twitter.com/search?q=%23LaMa%c3%b1aneraNoSeToca) | N/A |
+| 10 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 11 | [#DíaMundialDeLaSalud](http://twitter.com/search?q=%23D%c3%adaMundialDeLaSalud) | N/A |
+| 12 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 13 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 14 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
+| 15 | [Creel](http://twitter.com/search?q=Creel) | N/A |
+| 16 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
+| 17 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 18 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
 | 19 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 20 | [Karla Nieto](http://twitter.com/search?q=Karla+Nieto) | N/A |
-| 21 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 22 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 23 | [Robert Stack](http://twitter.com/search?q=Robert+Stack) | N/A |
+| 20 | [VOLPI](http://twitter.com/search?q=VOLPI) | N/A |
+| 21 | [Procesión del Silencio](http://twitter.com/search?q=Procesi%c3%b3n+del+Silencio) | N/A |
+| 22 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 23 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 24 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 25 | [Los Intocables](http://twitter.com/search?q=Los+Intocables) | N/A |
-| 26 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 27 | [Procesión del Silencio](http://twitter.com/search?q=Procesi%c3%b3n+del+Silencio) | N/A |
-| 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 29 | [HAVE A SAFE FLIGHT JUNGKOOK](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JUNGKOOK) | N/A |
-| 30 | [Plaza de la Constitución](http://twitter.com/search?q=Plaza+de+la+Constituci%c3%b3n) | N/A |
-| 31 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 25 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 26 | [Gurría](http://twitter.com/search?q=Gurr%c3%ada) | N/A |
+| 27 | [Jaramillo](http://twitter.com/search?q=Jaramillo) | N/A |
+| 28 | [Plaza de la Constitución](http://twitter.com/search?q=Plaza+de+la+Constituci%c3%b3n) | N/A |
+| 29 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 30 | [HAVE A SAFE FLIGHT JUNGKOOK](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JUNGKOOK) | N/A |
+| 31 | [Erling Haaland](http://twitter.com/search?q=Erling+Haaland) | Erling Haaland is a Norwegian professional footballer who plays as a striker for Borussia Dortmund and the Norway national team. His name translates to "Eagle of the Sea" in English. |
 | 32 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
-| 33 | [Kenti](http://twitter.com/search?q=Kenti) | N/A |
-| 34 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 35 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 36 | [Jordan Carrillo](http://twitter.com/search?q=Jordan+Carrillo) | N/A |
-| 37 | [Dresser](http://twitter.com/search?q=Dresser) | N/A |
-| 38 | [Iztapalapa](http://twitter.com/search?q=Iztapalapa) | N/A |
-| 39 | [agust d x iu is coming](http://twitter.com/search?q=agust+d+x+iu+is+coming) | N/A |
-| 40 | [Orinoco](http://twitter.com/search?q=Orinoco) | N/A |
-| 41 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 42 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 43 | [Ovalle](http://twitter.com/search?q=Ovalle) | N/A |
-| 44 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 45 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 46 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
-| 47 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 49 | [Gurría](http://twitter.com/search?q=Gurr%c3%ada) | N/A |
-| 50 | [Burger Boy](http://twitter.com/search?q=Burger+Boy) | N/A |
+| 33 | [agust d x iu is coming](http://twitter.com/search?q=agust+d+x+iu+is+coming) | N/A |
+| 34 | [Iztapalapa](http://twitter.com/search?q=Iztapalapa) | N/A |
+| 35 | [María Félix](http://twitter.com/search?q=Mar%c3%ada+F%c3%a9lix) | N/A |
+| 36 | [Dresser](http://twitter.com/search?q=Dresser) | N/A |
+| 37 | [Kenti](http://twitter.com/search?q=Kenti) | N/A |
+| 38 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 39 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 40 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 41 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 42 | [Burger Boy](http://twitter.com/search?q=Burger+Boy) | N/A |
+| 43 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 44 | [Alejandra](http://twitter.com/search?q=Alejandra) | N/A |
+| 45 | [Karla Nieto](http://twitter.com/search?q=Karla+Nieto) | N/A |
+| 46 | [Orinoco](http://twitter.com/search?q=Orinoco) | N/A |
+| 47 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 48 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 49 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 50 | [Los Intocables](http://twitter.com/search?q=Los+Intocables) | N/A |
 
 
 

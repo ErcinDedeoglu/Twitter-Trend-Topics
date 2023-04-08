@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-04-08 20:17:13 UTC`
+📆 Last Updated: `2023-04-08 21:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Australia
 | ------- | ------------ | ------------ |
 | 1 | [#AFLSwansPower](http://twitter.com/search?q=%23AFLSwansPower) | N/A |
 | 2 | [#NRLBroncosRaiders](http://twitter.com/search?q=%23NRLBroncosRaiders) | N/A |
-| 3 | [#AFLTigersDogs](http://twitter.com/search?q=%23AFLTigersDogs) | N/A |
-| 4 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [#AFLTigersDogs](http://twitter.com/search?q=%23AFLTigersDogs) | N/A |
 | 5 | [#aflsaintssuns](http://twitter.com/search?q=%23aflsaintssuns) | N/A |
-| 6 | [#nrlpanthersmanly](http://twitter.com/search?q=%23nrlpanthersmanly) | N/A |
-| 7 | [Rapana](http://twitter.com/search?q=Rapana) | N/A |
-| 8 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 9 | [paddy mccartin](http://twitter.com/search?q=paddy+mccartin) | N/A |
-| 10 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [#aflcrowsfreo](http://twitter.com/search?q=%23aflcrowsfreo) | N/A |
+| 7 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 8 | [Rapana](http://twitter.com/search?q=Rapana) | N/A |
+| 9 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 10 | [paddy mccartin](http://twitter.com/search?q=paddy+mccartin) | N/A |
+| 11 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 12 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
-| 13 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 14 | [Witts](http://twitter.com/search?q=Witts) | N/A |
-| 15 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 16 | [white marlin](http://twitter.com/search?q=white+marlin) | N/A |
-| 17 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 18 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 19 | [NDIS](http://twitter.com/search?q=NDIS) | N/A |
-| 20 | [taupau](http://twitter.com/search?q=taupau) | N/A |
-| 21 | [Bruce Haigh](http://twitter.com/search?q=Bruce+Haigh) | N/A |
-| 22 | [aliir](http://twitter.com/search?q=aliir) | N/A |
-| 23 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 24 | [dylan edwards](http://twitter.com/search?q=dylan+edwards) | N/A |
-| 25 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 26 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
-| 27 | [aft cabin](http://twitter.com/search?q=aft+cabin) | N/A |
-| 28 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
-| 29 | [Frydenberg](http://twitter.com/search?q=Frydenberg) | N/A |
-| 30 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 31 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 32 | [lmito](http://twitter.com/search?q=lmito) | N/A |
-| 33 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 34 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 35 | [McKay](http://twitter.com/search?q=McKay) | N/A |
-| 36 | [Fremantle](http://twitter.com/search?q=Fremantle) | N/A |
-| 37 | [Bevo](http://twitter.com/search?q=Bevo) | N/A |
-| 38 | [welcome to country](http://twitter.com/search?q=welcome+to+country) | N/A |
-| 39 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 40 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 41 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 42 | [Florent](http://twitter.com/search?q=Florent) | N/A |
-| 43 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 44 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 45 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 46 | [jordan dawson](http://twitter.com/search?q=jordan+dawson) | N/A |
-| 47 | [mitch owens](http://twitter.com/search?q=mitch+owens) | N/A |
-| 48 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
-| 49 | [Laird](http://twitter.com/search?q=Laird) | N/A |
-| 50 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 13 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 14 | [white marlin](http://twitter.com/search?q=white+marlin) | N/A |
+| 15 | [NDIS](http://twitter.com/search?q=NDIS) | N/A |
+| 16 | [Bruce Haigh](http://twitter.com/search?q=Bruce+Haigh) | N/A |
+| 17 | [Witts](http://twitter.com/search?q=Witts) | N/A |
+| 18 | [dylan edwards](http://twitter.com/search?q=dylan+edwards) | N/A |
+| 19 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 20 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
+| 21 | [lmito](http://twitter.com/search?q=lmito) | N/A |
+| 22 | [aft cabin](http://twitter.com/search?q=aft+cabin) | N/A |
+| 23 | [Sutton](http://twitter.com/search?q=Sutton) | N/A |
+| 24 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 25 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 26 | [sandown](http://twitter.com/search?q=sandown) | N/A |
+| 27 | [Taupau](http://twitter.com/search?q=Taupau) | N/A |
+| 28 | [Florent](http://twitter.com/search?q=Florent) | N/A |
+| 29 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 30 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 31 | [Aliir](http://twitter.com/search?q=Aliir) | N/A |
+| 32 | [jordan dawson](http://twitter.com/search?q=jordan+dawson) | N/A |
+| 33 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 34 | [mitch owens](http://twitter.com/search?q=mitch+owens) | N/A |
+| 35 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 36 | [Umpires](http://twitter.com/search?q=Umpires) | N/A |
+| 37 | [Taranto](http://twitter.com/search?q=Taranto) | N/A |
+| 38 | [explosive jack](http://twitter.com/search?q=explosive+jack) | N/A |
+| 39 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 40 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 41 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 42 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 43 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 44 | [Hinkley](http://twitter.com/search?q=Hinkley) | N/A |
+| 45 | [Frydenberg](http://twitter.com/search?q=Frydenberg) | N/A |
+| 46 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 47 | [Bevo](http://twitter.com/search?q=Bevo) | N/A |
+| 48 | [harry mckay](http://twitter.com/search?q=harry+mckay) | N/A |
+| 49 | [sea eagles](http://twitter.com/search?q=sea+eagles) | N/A |
+| 50 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
 
 
 
