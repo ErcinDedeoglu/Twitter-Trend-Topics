@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-04-08 03:16:53 UTC`
+📆 Last Updated: `2023-04-08 04:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,12 +21,12 @@ This is top 50 for [France](</France>)
 | 4 | [#RCLRCSA](http://twitter.com/search?q=%23RCLRCSA) | N/A |
 | 5 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
 | 6 | [#FRACOL](http://twitter.com/search?q=%23FRACOL) | N/A |
-| 7 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
-| 8 | [#messmer](http://twitter.com/search?q=%23messmer) | N/A |
-| 9 | [#Sampeyton](http://twitter.com/search?q=%23Sampeyton) | N/A |
-| 10 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 11 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 12 | [CNews](http://twitter.com/search?q=CNews) | N/A |
+| 7 | [#messmer](http://twitter.com/search?q=%23messmer) | N/A |
+| 8 | [#Sampeyton](http://twitter.com/search?q=%23Sampeyton) | N/A |
+| 9 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 10 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 11 | [CNews](http://twitter.com/search?q=CNews) | N/A |
+| 12 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
 | 13 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 14 | [Vendredi Saint](http://twitter.com/search?q=Vendredi+Saint) | N/A |
 | 15 | [G.O.A.T.](http://twitter.com/search?q=G.O.A.T.) | N/A |
@@ -36,9 +36,9 @@ This is top 50 for [France](</France>)
 | 19 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
 | 20 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
 | 21 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 22 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 23 | [Grigny](http://twitter.com/search?q=Grigny) | N/A |
-| 24 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 22 | [Grigny](http://twitter.com/search?q=Grigny) | N/A |
+| 23 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 24 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
 | 25 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
 | 26 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
 | 27 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
@@ -47,23 +47,23 @@ This is top 50 for [France](</France>)
 | 30 | [brice caron](http://twitter.com/search?q=brice+caron) | N/A |
 | 31 | [Le Sommer](http://twitter.com/search?q=Le+Sommer) | N/A |
 | 32 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 33 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 34 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
-| 35 | [Mashle](http://twitter.com/search?q=Mashle) | N/A |
-| 36 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
-| 37 | [Olive](http://twitter.com/search?q=Olive) | N/A |
+| 33 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 34 | [Mashle](http://twitter.com/search?q=Mashle) | N/A |
+| 35 | [Olive](http://twitter.com/search?q=Olive) | N/A |
+| 36 | [Edwy Plenel](http://twitter.com/search?q=Edwy+Plenel) | N/A |
+| 37 | [benjamin epps](http://twitter.com/search?q=benjamin+epps) | N/A |
 | 38 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 39 | [Edwy Plenel](http://twitter.com/search?q=Edwy+Plenel) | N/A |
-| 40 | [benjamin epps](http://twitter.com/search?q=benjamin+epps) | N/A |
-| 41 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 42 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 43 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 44 | [Crimée](http://twitter.com/search?q=Crim%c3%a9e) | N/A |
-| 45 | [Maïwenn](http://twitter.com/search?q=Ma%c3%afwenn) | N/A |
-| 46 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 47 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 48 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 49 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
+| 39 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 40 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 41 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 42 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
+| 43 | [Maïwenn](http://twitter.com/search?q=Ma%c3%afwenn) | N/A |
+| 44 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 45 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 46 | [Crimée](http://twitter.com/search?q=Crim%c3%a9e) | N/A |
+| 47 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 48 | [Didi Stone](http://twitter.com/search?q=Didi+Stone) | N/A |
+| 49 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
 
 
 

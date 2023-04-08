@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-08 03:16:59 UTC`
+📆 Last Updated: `2023-04-08 04:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -54,16 +54,16 @@ This is top 50 for [Norway](</Norway>)
 | 37 | [Mandalorian](http://twitter.com/search?q=Mandalorian) | N/A |
 | 38 | [takker](http://twitter.com/search?q=takker) | N/A |
 | 39 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 40 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
-| 41 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 42 | [sarpsborg 08](http://twitter.com/search?q=sarpsborg+08) | N/A |
-| 43 | [bærum](http://twitter.com/search?q=b%c3%a6rum) | N/A |
-| 44 | [obos](http://twitter.com/search?q=obos) | N/A |
-| 45 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 40 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 41 | [sarpsborg 08](http://twitter.com/search?q=sarpsborg+08) | N/A |
+| 42 | [bærum](http://twitter.com/search?q=b%c3%a6rum) | N/A |
+| 43 | [obos](http://twitter.com/search?q=obos) | N/A |
+| 44 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 45 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
 | 46 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 47 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 48 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 49 | [Haugesund](http://twitter.com/search?q=Haugesund) | N/A |
+| 47 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 48 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 49 | [Poland](http://twitter.com/search?q=Poland) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-04-08 03:17:35 UTC`
+📆 Last Updated: `2023-04-08 04:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for Sweden
 | ------- | ------------ | ------------ |
 | 1 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
 | 2 | [Glad Påsk](http://twitter.com/search?q=Glad+P%c3%a5sk) | N/A |
-| 3 | [Ingvar Hirdwall](http://twitter.com/search?q=Ingvar+Hirdwall) | N/A |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [Ingvar Hirdwall](http://twitter.com/search?q=Ingvar+Hirdwall) | N/A |
 | 5 | [Masked Singer](http://twitter.com/search?q=Masked+Singer) | N/A |
 | 6 | [janne andersson](http://twitter.com/search?q=janne+andersson) | N/A |
 | 7 | [Beck](http://twitter.com/search?q=Beck) | N/A |
@@ -27,20 +27,20 @@ This is top 50 for Sweden
 | 10 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 11 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 12 | [#gais](http://twitter.com/search?q=%23gais) | N/A |
-| 13 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 13 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
 | 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 15 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
+| 15 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
 | 16 | [systembolaget](http://twitter.com/search?q=systembolaget) | N/A |
 | 17 | [eskilstuna](http://twitter.com/search?q=eskilstuna) | N/A |
 | 18 | [blåkulla](http://twitter.com/search?q=bl%c3%a5kulla) | N/A |
 | 19 | [institutet](http://twitter.com/search?q=institutet) | N/A |
 | 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 21 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
-| 22 | [Akilov](http://twitter.com/search?q=Akilov) | N/A |
-| 23 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
-| 24 | [färjestad](http://twitter.com/search?q=f%c3%a4rjestad) | N/A |
-| 25 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 26 | [Brunnsparken](http://twitter.com/search?q=Brunnsparken) | N/A |
+| 22 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
+| 23 | [färjestad](http://twitter.com/search?q=f%c3%a4rjestad) | N/A |
+| 24 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 25 | [Akilov](http://twitter.com/search?q=Akilov) | N/A |
+| 26 | [brunnsparken](http://twitter.com/search?q=brunnsparken) | N/A |
 | 27 | [Busch](http://twitter.com/search?q=Busch) | N/A |
 | 28 | [håkan](http://twitter.com/search?q=h%c3%a5kan) | N/A |
 | 29 | [långfredag](http://twitter.com/search?q=l%c3%a5ngfredag) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for Sweden
 | 36 | [snygg](http://twitter.com/search?q=snygg) | N/A |
 | 37 | [mannerheim](http://twitter.com/search?q=mannerheim) | N/A |
 | 38 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 39 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 40 | [Filippa](http://twitter.com/search?q=Filippa) | N/A |
-| 41 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 42 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
-| 43 | [gurra](http://twitter.com/search?q=gurra) | N/A |
-| 44 | [brage](http://twitter.com/search?q=brage) | N/A |
-| 45 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 46 | [ribbenvik](http://twitter.com/search?q=ribbenvik) | N/A |
-| 47 | [#skeaik](http://twitter.com/search?q=%23skeaik) | N/A |
-| 48 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 49 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
-| 50 | [carlén](http://twitter.com/search?q=carl%c3%a9n) | N/A |
+| 39 | [filippa](http://twitter.com/search?q=filippa) | N/A |
+| 40 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 41 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
+| 42 | [gurra](http://twitter.com/search?q=gurra) | N/A |
+| 43 | [brage](http://twitter.com/search?q=brage) | N/A |
+| 44 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 45 | [#MahsaAmini](http://twitter.com/search?q=%23MahsaAmini) | N/A |
+| 46 | [#skeaik](http://twitter.com/search?q=%23skeaik) | N/A |
+| 47 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 48 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
+| 49 | [carlén](http://twitter.com/search?q=carl%c3%a9n) | N/A |
+| 50 | [Falun](http://twitter.com/search?q=Falun) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-08 03:17:29 UTC`
+📆 Last Updated: `2023-04-08 04:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,9 +31,9 @@ This is top 50 for Denmark
 | 14 | [langfredag](http://twitter.com/search?q=langfredag) | N/A |
 | 15 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
 | 16 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 17 | [gorm](http://twitter.com/search?q=gorm) | N/A |
-| 18 | [#twitterhjerne](http://twitter.com/search?q=%23twitterhjerne) | N/A |
-| 19 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 17 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 18 | [gorm](http://twitter.com/search?q=gorm) | N/A |
+| 19 | [#twitterhjerne](http://twitter.com/search?q=%23twitterhjerne) | N/A |
 | 20 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 22 | [randers](http://twitter.com/search?q=randers) | N/A |
@@ -50,10 +50,10 @@ This is top 50 for Denmark
 | 33 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
 | 34 | [østrig](http://twitter.com/search?q=%c3%b8strig) | N/A |
 | 35 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 36 | [Parken](http://twitter.com/search?q=Parken) | N/A |
+| 36 | [parken](http://twitter.com/search?q=parken) | N/A |
 | 37 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
 | 38 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 39 | [Ruslands](http://twitter.com/search?q=Ruslands) | N/A |
+| 39 | [ruslands](http://twitter.com/search?q=ruslands) | N/A |
 | 40 | [kæft](http://twitter.com/search?q=k%c3%a6ft) | N/A |
 | 41 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
 | 42 | [Heldigvis](http://twitter.com/search?q=Heldigvis) | N/A |

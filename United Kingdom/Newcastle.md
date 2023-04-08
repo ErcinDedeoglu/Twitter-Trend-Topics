@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Newcastle
 
-📆 Last Updated: `2023-04-08 03:16:42 UTC`
+📆 Last Updated: `2023-04-08 04:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,40 +30,40 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 13 | [Vincent Kompany](http://twitter.com/search?q=Vincent+Kompany) | N/A |
 | 14 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 15 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
-| 16 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
-| 17 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 18 | [Dominik Mysterio](http://twitter.com/search?q=Dominik+Mysterio) | N/A |
+| 16 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 17 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
+| 18 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
 | 19 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 20 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 21 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
-| 22 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 23 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
+| 20 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 21 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 22 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 23 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
 | 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 25 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 26 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 27 | [Jack Clarke](http://twitter.com/search?q=Jack+Clarke) | N/A |
+| 25 | [Jack Clarke](http://twitter.com/search?q=Jack+Clarke) | N/A |
+| 26 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 27 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
 | 28 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
-| 29 | [Saville](http://twitter.com/search?q=Saville) | N/A |
-| 30 | [McNair](http://twitter.com/search?q=McNair) | N/A |
-| 31 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 32 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 29 | [McNair](http://twitter.com/search?q=McNair) | N/A |
+| 30 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
+| 31 | [Savile](http://twitter.com/search?q=Savile) | N/A |
+| 32 | [WWE Draft](http://twitter.com/search?q=WWE+Draft) | N/A |
 | 33 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 34 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 35 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 36 | [Andor](http://twitter.com/search?q=Andor) | N/A |
-| 37 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 38 | [hugill](http://twitter.com/search?q=hugill) | N/A |
-| 39 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 35 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 36 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 37 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 38 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 39 | [hugill](http://twitter.com/search?q=hugill) | N/A |
 | 40 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 41 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
-| 42 | [Independence for Wales](http://twitter.com/search?q=Independence+for+Wales) | N/A |
-| 43 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 44 | [Boro](http://twitter.com/search?q=Boro) | N/A |
-| 45 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 46 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
-| 47 | [Luton](http://twitter.com/search?q=Luton) | N/A |
-| 48 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 49 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 41 | [Independence for Wales](http://twitter.com/search?q=Independence+for+Wales) | N/A |
+| 42 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 43 | [Andor](http://twitter.com/search?q=Andor) | N/A |
+| 44 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
+| 45 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 46 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
+| 47 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
+| 48 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 49 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
 
 
 

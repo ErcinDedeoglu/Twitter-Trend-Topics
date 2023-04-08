@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-04-08 03:17:22 UTC`
+📆 Last Updated: `2023-04-08 04:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
 | 2 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
 | 3 | [#BrotherlyLove](http://twitter.com/search?q=%23BrotherlyLove) | N/A |
-| 4 | [#RaiseIt](http://twitter.com/search?q=%23RaiseIt) | N/A |
-| 5 | [#Sixers](http://twitter.com/search?q=%23Sixers) | N/A |
-| 6 | [Doc Rivers](http://twitter.com/search?q=Doc+Rivers) | N/A |
-| 7 | [Cutch](http://twitter.com/search?q=Cutch) | Cutch is a slang term for cocaine. It is derived from the word "cocaine" and is often used to refer to the drug in a casual or informal setting. |
-| 8 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 9 | [#LetsGoBucs](http://twitter.com/search?q=%23LetsGoBucs) | N/A |
-| 10 | [Pirates](http://twitter.com/search?q=Pirates) | Pirates are people who attack and steal from ships at sea. They are often seen as criminals who take what they want without regard for the law. The term "pirate" is derived from the Latin word "pirata," which means "one who plunders." |
-| 11 | [PNC Park](http://twitter.com/search?q=PNC+Park) | N/A |
-| 12 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 13 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 14 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 15 | [University of Oklahoma](http://twitter.com/search?q=University+of+Oklahoma) | N/A |
-| 16 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 17 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 18 | [Julia Hart](http://twitter.com/search?q=Julia+Hart) | N/A |
+| 4 | [#Sixers](http://twitter.com/search?q=%23Sixers) | N/A |
+| 5 | [Doc Rivers](http://twitter.com/search?q=Doc+Rivers) | N/A |
+| 6 | [Cutch](http://twitter.com/search?q=Cutch) | Cutch is a slang term for cocaine. It is derived from the word "cocaine" and is often used to refer to the drug in a casual or informal setting. |
+| 7 | [#RaiseIt](http://twitter.com/search?q=%23RaiseIt) | N/A |
+| 8 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
+| 9 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 10 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 11 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 12 | [University of Oklahoma](http://twitter.com/search?q=University+of+Oklahoma) | N/A |
+| 13 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 14 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 15 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 16 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
+| 17 | [Swatting](http://twitter.com/search?q=Swatting) | N/A |
+| 18 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
 | 19 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
 | 20 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 21 | [Jaden Springer](http://twitter.com/search?q=Jaden+Springer) | N/A |
-| 22 | [Ozzie](http://twitter.com/search?q=Ozzie) | N/A |
-| 23 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 24 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 25 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
-| 26 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 27 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 28 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
-| 29 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 30 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 31 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 32 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 33 | [Aspen Ladd](http://twitter.com/search?q=Aspen+Ladd) | N/A |
-| 34 | [Swerve](http://twitter.com/search?q=Swerve) | Swerve is a slang term that means to suddenly change direction or to avoid something. It can also be used to describe a sudden change in attitude or behavior. |
-| 35 | [Theo Pinson](http://twitter.com/search?q=Theo+Pinson) | N/A |
-| 36 | [Active Shooter](http://twitter.com/search?q=Active+Shooter) | N/A |
-| 37 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 38 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 39 | [Anna Jay](http://twitter.com/search?q=Anna+Jay) | Anna Jay is a name of a character in the television series AEW Dynamite. She is a professional wrestler and valet for the Dark Order stable. The name Anna Jay is derived from the combination of her first name, Anna, and her middle name, Jay. In English, it means "graceful victory". |
-| 40 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
-| 41 | [Brian Cage](http://twitter.com/search?q=Brian+Cage) | N/A |
-| 42 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 21 | [Julia Hart](http://twitter.com/search?q=Julia+Hart) | N/A |
+| 22 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 23 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
+| 24 | [Biyombo](http://twitter.com/search?q=Biyombo) | N/A |
+| 25 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 26 | [Billie Starkz](http://twitter.com/search?q=Billie+Starkz) | N/A |
+| 27 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 28 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
+| 29 | [Bron and AD](http://twitter.com/search?q=Bron+and+AD) | N/A |
+| 30 | [Ozzie](http://twitter.com/search?q=Ozzie) | N/A |
+| 31 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 32 | [Jaden Springer](http://twitter.com/search?q=Jaden+Springer) | N/A |
+| 33 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 34 | [Bizzy](http://twitter.com/search?q=Bizzy) | N/A |
+| 35 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 36 | [Aspen Ladd](http://twitter.com/search?q=Aspen+Ladd) | N/A |
+| 37 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 38 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 39 | [ALL CLEAR](http://twitter.com/search?q=ALL+CLEAR) | N/A |
+| 40 | [Cutler](http://twitter.com/search?q=Cutler) | N/A |
+| 41 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
+| 42 | [Theo Pinson](http://twitter.com/search?q=Theo+Pinson) | N/A |
 | 43 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 44 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
-| 45 | [Sam Hauser](http://twitter.com/search?q=Sam+Hauser) | N/A |
-| 46 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
+| 44 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 45 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
+| 46 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
 | 47 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 48 | [Coby](http://twitter.com/search?q=Coby) | N/A |
-| 49 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
-| 50 | [Oklahoma University](http://twitter.com/search?q=Oklahoma+University) | N/A |
+| 48 | [Swerve](http://twitter.com/search?q=Swerve) | Swerve is a slang term that means to suddenly change direction or to avoid something. It can also be used to describe a sudden change in attitude or behavior. |
+| 49 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 50 | [Brian Cage](http://twitter.com/search?q=Brian+Cage) | N/A |
 
 
 

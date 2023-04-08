@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-04-08 03:17:27 UTC`
+📆 Last Updated: `2023-04-08 04:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SakuraCon2023](http://twitter.com/search?q=%23SakuraCon2023) | N/A |
+| 1 | [Texas](http://twitter.com/search?q=Texas) | N/A |
 | 2 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 4 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 5 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 6 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 3 | [#SakuraCon2023](http://twitter.com/search?q=%23SakuraCon2023) | N/A |
+| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 5 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 6 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
 | 7 | [University of Oklahoma](http://twitter.com/search?q=University+of+Oklahoma) | N/A |
-| 8 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 9 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 10 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 11 | [Julia Hart](http://twitter.com/search?q=Julia+Hart) | N/A |
-| 12 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 13 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 14 | [Jaden Springer](http://twitter.com/search?q=Jaden+Springer) | N/A |
-| 15 | [Ozzie](http://twitter.com/search?q=Ozzie) | N/A |
-| 16 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 17 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 18 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
-| 19 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 20 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 21 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
-| 22 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 23 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 8 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 9 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 10 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 11 | [#AEWBOTB6](http://twitter.com/search?q=%23AEWBOTB6) | N/A |
+| 12 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 13 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
+| 14 | [Swatting](http://twitter.com/search?q=Swatting) | N/A |
+| 15 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 16 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 17 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 18 | [Julia Hart](http://twitter.com/search?q=Julia+Hart) | N/A |
+| 19 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 20 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
+| 21 | [Biyombo](http://twitter.com/search?q=Biyombo) | N/A |
+| 22 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 23 | [Billie Starkz](http://twitter.com/search?q=Billie+Starkz) | N/A |
 | 24 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 25 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 26 | [Aspen Ladd](http://twitter.com/search?q=Aspen+Ladd) | N/A |
-| 27 | [Swerve](http://twitter.com/search?q=Swerve) | Swerve is a slang term that means to suddenly change direction or to avoid something. It can also be used to describe a sudden change in attitude or behavior. |
-| 28 | [Theo Pinson](http://twitter.com/search?q=Theo+Pinson) | N/A |
-| 29 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 30 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 31 | [Active Shooter](http://twitter.com/search?q=Active+Shooter) | N/A |
-| 32 | [Anna Jay](http://twitter.com/search?q=Anna+Jay) | Anna Jay is a name of a character in the television series AEW Dynamite. She is a professional wrestler and valet for the Dark Order stable. The name Anna Jay is derived from the combination of her first name, Anna, and her middle name, Jay. In English, it means "graceful victory". |
-| 33 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
-| 34 | [Brian Cage](http://twitter.com/search?q=Brian+Cage) | N/A |
-| 35 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 36 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 37 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
-| 38 | [Sam Hauser](http://twitter.com/search?q=Sam+Hauser) | N/A |
-| 39 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
-| 40 | [Coby](http://twitter.com/search?q=Coby) | N/A |
-| 41 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
-| 42 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 43 | [Chris Bassitt](http://twitter.com/search?q=Chris+Bassitt) | N/A |
-| 44 | [Oklahoma University](http://twitter.com/search?q=Oklahoma+University) | N/A |
-| 45 | [The Embassy](http://twitter.com/search?q=The+Embassy) | N/A |
-| 46 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 47 | [Hader](http://twitter.com/search?q=Hader) | N/A |
-| 48 | [Biyombo](http://twitter.com/search?q=Biyombo) | N/A |
-| 49 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 50 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 25 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
+| 26 | [Bron and AD](http://twitter.com/search?q=Bron+and+AD) | N/A |
+| 27 | [Ozzie](http://twitter.com/search?q=Ozzie) | N/A |
+| 28 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 29 | [Jaden Springer](http://twitter.com/search?q=Jaden+Springer) | N/A |
+| 30 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 31 | [Bizzy](http://twitter.com/search?q=Bizzy) | N/A |
+| 32 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 33 | [ALL CLEAR](http://twitter.com/search?q=ALL+CLEAR) | N/A |
+| 34 | [Aspen Ladd](http://twitter.com/search?q=Aspen+Ladd) | N/A |
+| 35 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 36 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 37 | [Cutler](http://twitter.com/search?q=Cutler) | N/A |
+| 38 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
+| 39 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 40 | [Theo Pinson](http://twitter.com/search?q=Theo+Pinson) | N/A |
+| 41 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
+| 42 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 43 | [Nevin](http://twitter.com/search?q=Nevin) | N/A |
+| 44 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 45 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 46 | [Swerve](http://twitter.com/search?q=Swerve) | Swerve is a slang term that means to suddenly change direction or to avoid something. It can also be used to describe a sudden change in attitude or behavior. |
+| 47 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 48 | [Brian Cage](http://twitter.com/search?q=Brian+Cage) | N/A |
+| 49 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
+| 50 | [Scanner](http://twitter.com/search?q=Scanner) | N/A |
 
 
 

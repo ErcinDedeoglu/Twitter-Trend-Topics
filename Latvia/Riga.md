@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-08 03:16:59 UTC`
+📆 Last Updated: `2023-04-08 04:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 1 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
 | 2 | [lieldienas](http://twitter.com/search?q=lieldienas) | N/A |
 | 3 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
-| 4 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 4 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 | 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 6 | [domāju](http://twitter.com/search?q=dom%c4%81ju) | N/A |
 | 7 | [pareizi](http://twitter.com/search?q=pareizi) | N/A |
@@ -27,7 +27,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 10 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
 | 11 | [kariņa](http://twitter.com/search?q=kari%c5%86a) | N/A |
 | 12 | [pirms](http://twitter.com/search?q=pirms) | N/A |
-| 13 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
+| 13 | [rimi](http://twitter.com/search?q=rimi) | N/A |
 | 14 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
 | 15 | [spriņģe](http://twitter.com/search?q=spri%c5%86%c4%a3e) | N/A |
 | 16 | [tiem](http://twitter.com/search?q=tiem) | N/A |
@@ -39,7 +39,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 22 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
 | 23 | [liepājas](http://twitter.com/search?q=liep%c4%81jas) | N/A |
 | 24 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 25 | [Krievijas](http://twitter.com/search?q=Krievijas) | N/A |
+| 25 | [krievijas](http://twitter.com/search?q=krievijas) | N/A |
 | 26 | [ukrainai](http://twitter.com/search?q=ukrainai) | N/A |
 | 27 | [Inga](http://twitter.com/search?q=Inga) | N/A |
 | 28 | [neviens](http://twitter.com/search?q=neviens) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for [Latvia](</Latvia>)
 | 37 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 38 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
 | 39 | [igaunijas](http://twitter.com/search?q=igaunijas) | N/A |
-| 40 | [tvaika](http://twitter.com/search?q=tvaika) | N/A |
-| 41 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
-| 42 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
-| 43 | [iespējams](http://twitter.com/search?q=iesp%c4%93jams) | N/A |
-| 44 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 45 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 46 | [kamēr](http://twitter.com/search?q=kam%c4%93r) | N/A |
-| 47 | [sarkandaugavas](http://twitter.com/search?q=sarkandaugavas) | N/A |
-| 48 | [nekas](http://twitter.com/search?q=nekas) | N/A |
-| 49 | [šķiet](http://twitter.com/search?q=%c5%a1%c4%b7iet) | N/A |
-| 50 | [esmu](http://twitter.com/search?q=esmu) | N/A |
+| 40 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 41 | [tvaika](http://twitter.com/search?q=tvaika) | N/A |
+| 42 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
+| 43 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
+| 44 | [iespējams](http://twitter.com/search?q=iesp%c4%93jams) | N/A |
+| 45 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 46 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
+| 47 | [kamēr](http://twitter.com/search?q=kam%c4%93r) | N/A |
+| 48 | [sarkandaugavas](http://twitter.com/search?q=sarkandaugavas) | N/A |
+| 49 | [Protams](http://twitter.com/search?q=Protams) | N/A |
+| 50 | [nekas](http://twitter.com/search?q=nekas) | N/A |
 
 
 

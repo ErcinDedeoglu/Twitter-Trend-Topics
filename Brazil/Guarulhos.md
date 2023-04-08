@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-04-08 03:16:50 UTC`
+📆 Last Updated: `2023-04-08 04:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
-| 2 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 1 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 2 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
 | 3 | [Cracolândia](http://twitter.com/search?q=Cracol%c3%a2ndia) | N/A |
 | 4 | [Genshin Impact](http://twitter.com/search?q=Genshin+Impact) | N/A |
-| 5 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 6 | [Avon](http://twitter.com/search?q=Avon) | N/A |
-| 7 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
-| 8 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
-| 9 | [Negra Li](http://twitter.com/search?q=Negra+Li) | N/A |
-| 10 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 11 | [M&M NO RATINHO](http://twitter.com/search?q=M%26M+NO+RATINHO) | N/A |
-| 12 | [M&M NO RATINHO](http://twitter.com/search?q=M%26M+NO+RATINHO) | N/A |
-| 13 | [#DoveNoBBB](http://twitter.com/search?q=%23DoveNoBBB) | N/A |
-| 14 | [Abra o Spotify](http://twitter.com/search?q=Abra+o+Spotify) | N/A |
-| 15 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
-| 16 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 17 | [Equalize](http://twitter.com/search?q=Equalize) | N/A |
-| 18 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
+| 5 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 6 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
+| 7 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 8 | [Negra Li](http://twitter.com/search?q=Negra+Li) | N/A |
+| 9 | [M&M NO RATINHO](http://twitter.com/search?q=M%26M+NO+RATINHO) | N/A |
+| 10 | [#DoveNoBBB](http://twitter.com/search?q=%23DoveNoBBB) | N/A |
+| 11 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 12 | [Abra o Spotify](http://twitter.com/search?q=Abra+o+Spotify) | N/A |
+| 13 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
+| 14 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
+| 15 | [Equalize](http://twitter.com/search?q=Equalize) | N/A |
+| 16 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 17 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 18 | [Admirável Chip Novo](http://twitter.com/search?q=Admir%c3%a1vel+Chip+Novo) | N/A |
 | 19 | [Pinheiros](http://twitter.com/search?q=Pinheiros) | N/A |
-| 20 | [Admirável Chip Novo](http://twitter.com/search?q=Admir%c3%a1vel+Chip+Novo) | N/A |
-| 21 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 22 | [#globoreporter](http://twitter.com/search?q=%23globoreporter) | N/A |
-| 23 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 24 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
-| 25 | [Na Sua Estante](http://twitter.com/search?q=Na+Sua+Estante) | N/A |
-| 26 | [#ACNXX](http://twitter.com/search?q=%23ACNXX) | N/A |
+| 20 | [MARAISA CNPJ](http://twitter.com/search?q=MARAISA+CNPJ) | N/A |
+| 21 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 22 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
+| 23 | [#globoreporter](http://twitter.com/search?q=%23globoreporter) | N/A |
+| 24 | [#ACNXX](http://twitter.com/search?q=%23ACNXX) | N/A |
+| 25 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
+| 26 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
 | 27 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
-| 28 | [Giovanna Antonelli](http://twitter.com/search?q=Giovanna+Antonelli) | N/A |
-| 29 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 30 | [Naiane](http://twitter.com/search?q=Naiane) | N/A |
-| 31 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 32 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 33 | [CLAUDIA LEITTE NO FAUSTÃO](http://twitter.com/search?q=CLAUDIA+LEITTE+NO+FAUST%c3%83O) | N/A |
-| 34 | [#zapoucalote](http://twitter.com/search?q=%23zapoucalote) | N/A |
-| 35 | [Nestlé](http://twitter.com/search?q=Nestl%c3%a9) | N/A |
-| 36 | [TORTURA NÃO É ENTRETENIMENTO](http://twitter.com/search?q=TORTURA+N%c3%83O+%c3%89+ENTRETENIMENTO) | N/A |
-| 37 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 38 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 39 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
-| 40 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
-| 41 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
-| 42 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 43 | [Drussyla](http://twitter.com/search?q=Drussyla) | N/A |
-| 44 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 45 | [Team One](http://twitter.com/search?q=Team+One) | N/A |
-| 46 | [Insani](http://twitter.com/search?q=Insani) | N/A |
-| 47 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
-| 48 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 49 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 28 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 29 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 30 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 31 | [Naiane](http://twitter.com/search?q=Naiane) | N/A |
+| 32 | [Giovanna Antonelli](http://twitter.com/search?q=Giovanna+Antonelli) | N/A |
+| 33 | [Na Sua Estante](http://twitter.com/search?q=Na+Sua+Estante) | N/A |
+| 34 | [Maiara](http://twitter.com/search?q=Maiara) | Maiara is a female name of Brazilian origin. It is derived from the Tupi language and means "wise". |
+| 35 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 36 | [Drussyla](http://twitter.com/search?q=Drussyla) | N/A |
+| 37 | [Nestlé](http://twitter.com/search?q=Nestl%c3%a9) | N/A |
+| 38 | [Irving](http://twitter.com/search?q=Irving) | N/A |
+| 39 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 40 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
+| 41 | [Essa Sarah](http://twitter.com/search?q=Essa+Sarah) | N/A |
+| 42 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
+| 43 | [TORTURA NÃO É ENTRETENIMENTO](http://twitter.com/search?q=TORTURA+N%c3%83O+%c3%89+ENTRETENIMENTO) | N/A |
+| 44 | [Domitila e Fred](http://twitter.com/search?q=Domitila+e+Fred) | N/A |
+| 45 | [Manoel Carlos](http://twitter.com/search?q=Manoel+Carlos) | N/A |
+| 46 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 47 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 48 | [Minas](http://twitter.com/search?q=Minas) | N/A |
+| 49 | [CLAUDIA LEITTE](http://twitter.com/search?q=CLAUDIA+LEITTE) | CLAUDIA LEITTE is the stage name of Brazilian singer, songwriter, and dancer Cláudia Cristina Leite Inácio Pedreira. She is a popular performer of the musical genre known as axé music, a style of Brazilian dance music. In English, CLAUDIA LEITTE means "Claudia Cristina Leite Inácio Pedreira". |
 
 
 
