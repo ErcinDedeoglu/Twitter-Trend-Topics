@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-04-08 17:16:18 UTC`
+📆 Last Updated: `2023-04-08 18:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#SCOLOSC](http://twitter.com/search?q=%23SCOLOSC) | N/A |
 | 2 | [Angers](http://twitter.com/search?q=Angers) | Angers is a city in western France, located on the Maine River. It is the capital of the Maine-et-Loire department and the historic capital of Anjou. The meaning of Angers in English is "anger". |
-| 3 | [#STSHA](http://twitter.com/search?q=%23STSHA) | N/A |
-| 4 | [#MrR4bb1tLeGOAT](http://twitter.com/search?q=%23MrR4bb1tLeGOAT) | N/A |
-| 5 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
-| 6 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 7 | [Bokele](http://twitter.com/search?q=Bokele) | N/A |
-| 8 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 9 | [Bernardoni](http://twitter.com/search?q=Bernardoni) | N/A |
-| 10 | [Bastia](http://twitter.com/search?q=Bastia) | N/A |
-| 11 | [Dernier Anime](http://twitter.com/search?q=Dernier+Anime) | N/A |
-| 12 | [Premier Anime](http://twitter.com/search?q=Premier+Anime) | N/A |
-| 13 | [Pire Anime](http://twitter.com/search?q=Pire+Anime) | N/A |
-| 14 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 16 | [Alison Jackson](http://twitter.com/search?q=Alison+Jackson) | N/A |
-| 17 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 18 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 19 | [Ntamack](http://twitter.com/search?q=Ntamack) | N/A |
-| 20 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 21 | [Chevalier](http://twitter.com/search?q=Chevalier) | N/A |
-| 22 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 23 | [Fransergio](http://twitter.com/search?q=Fransergio) | N/A |
-| 24 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 25 | [Thomas Ramos](http://twitter.com/search?q=Thomas+Ramos) | N/A |
-| 26 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 27 | [Dupont](http://twitter.com/search?q=Dupont) | N/A |
-| 28 | [Lebel](http://twitter.com/search?q=Lebel) | N/A |
-| 29 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 30 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 31 | [David](http://twitter.com/search?q=David) | N/A |
-| 32 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 33 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 34 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 35 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 36 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 37 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
-| 38 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
-| 39 | [Front Populaire](http://twitter.com/search?q=Front+Populaire) | N/A |
-| 40 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 41 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
-| 42 | [Babeau](http://twitter.com/search?q=Babeau) | N/A |
-| 43 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
-| 44 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 45 | [Ligue 2](http://twitter.com/search?q=Ligue+2) | N/A |
-| 46 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 47 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 48 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 49 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 3 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 4 | [#PFCASSE](http://twitter.com/search?q=%23PFCASSE) | N/A |
+| 5 | [#STSHA](http://twitter.com/search?q=%23STSHA) | N/A |
+| 6 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 7 | [#SOUMCI](http://twitter.com/search?q=%23SOUMCI) | #SOUMCI is an acronym for the French phrase “Système Ouvert des Médias et de la Communication Interculturelle”, which translates to “Open System of Media and Intercultural Communication”. It is a project that seeks to promote intercultural dialogue and understanding through the use of media and communication. |
+| 8 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 9 | [Bokele](http://twitter.com/search?q=Bokele) | N/A |
+| 10 | [Bernardoni](http://twitter.com/search?q=Bernardoni) | N/A |
+| 11 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 12 | [Wadji](http://twitter.com/search?q=Wadji) | N/A |
+| 13 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 14 | [Dernier Anime](http://twitter.com/search?q=Dernier+Anime) | N/A |
+| 15 | [Premier Anime](http://twitter.com/search?q=Premier+Anime) | N/A |
+| 16 | [Pire Anime](http://twitter.com/search?q=Pire+Anime) | N/A |
+| 17 | [Bastia](http://twitter.com/search?q=Bastia) | N/A |
+| 18 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 19 | [Alison Jackson](http://twitter.com/search?q=Alison+Jackson) | N/A |
+| 20 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 21 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 22 | [Chevalier](http://twitter.com/search?q=Chevalier) | N/A |
+| 23 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
+| 24 | [Thomas Ramos](http://twitter.com/search?q=Thomas+Ramos) | N/A |
+| 25 | [Ntamack](http://twitter.com/search?q=Ntamack) | N/A |
+| 26 | [Dupont](http://twitter.com/search?q=Dupont) | N/A |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 29 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 30 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 31 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
+| 32 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 33 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
+| 34 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 35 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 36 | [Ligue 2](http://twitter.com/search?q=Ligue+2) | N/A |
+| 37 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
+| 38 | [Fransergio](http://twitter.com/search?q=Fransergio) | N/A |
+| 39 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 40 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
+| 41 | [David](http://twitter.com/search?q=David) | N/A |
+| 42 | [Hell's Paradise](http://twitter.com/search?q=Hell%27s+Paradise) | N/A |
+| 43 | [Babeau](http://twitter.com/search?q=Babeau) | N/A |
+| 44 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
+| 45 | [Front Populaire](http://twitter.com/search?q=Front+Populaire) | N/A |
+| 46 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 47 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 48 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
+| 49 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
 
 
 

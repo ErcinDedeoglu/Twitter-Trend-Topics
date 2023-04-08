@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Washington
 
-📆 Last Updated: `2023-04-08 17:16:52 UTC`
+📆 Last Updated: `2023-04-08 18:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Texas](http://twitter.com/search?q=Texas) | N/A |
 | 2 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
 | 3 | [#criterion4you](http://twitter.com/search?q=%23criterion4you) | N/A |
-| 4 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
-| 5 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 6 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 7 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [#TOTBHA](http://twitter.com/search?q=%23TOTBHA) | N/A |
-| 11 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 12 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 13 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 14 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 15 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
-| 16 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 17 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 18 | [Hailey Van Lith](http://twitter.com/search?q=Hailey+Van+Lith) | N/A |
-| 19 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
-| 20 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 21 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 5 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
+| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 8 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
+| 9 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 10 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
+| 11 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 12 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 13 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 14 | [#SOUMCI](http://twitter.com/search?q=%23SOUMCI) | #SOUMCI is an acronym for the French phrase “Système Ouvert des Médias et de la Communication Interculturelle”, which translates to “Open System of Media and Intercultural Communication”. It is a project that seeks to promote intercultural dialogue and understanding through the use of media and communication. |
+| 15 | [#EAPGATOUR](http://twitter.com/search?q=%23EAPGATOUR) | N/A |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 18 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 19 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 20 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
+| 21 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
 | 22 | [Iman](http://twitter.com/search?q=Iman) | N/A |
-| 23 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 24 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 25 | [Coors](http://twitter.com/search?q=Coors) | N/A |
-| 26 | [Teyana](http://twitter.com/search?q=Teyana) | N/A |
-| 27 | [DANCE PRACTICE](http://twitter.com/search?q=DANCE+PRACTICE) | N/A |
-| 28 | [Cut Herbert](http://twitter.com/search?q=Cut+Herbert) | N/A |
-| 29 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 30 | [Justin Thomas](http://twitter.com/search?q=Justin+Thomas) | N/A |
-| 31 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 32 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 33 | [Start Burrow](http://twitter.com/search?q=Start+Burrow) | N/A |
-| 34 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 35 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 36 | [Link 1](http://twitter.com/search?q=Link+1) | N/A |
-| 37 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
-| 38 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 39 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 40 | [Rahane](http://twitter.com/search?q=Rahane) | Rahane is a Hindu name derived from the Sanskrit word 'rajan', meaning 'king'. It is commonly used as a first name for boys in India. |
-| 41 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 42 | [Start Hurts](http://twitter.com/search?q=Start+Hurts) | N/A |
-| 43 | [WOL vs CHE](http://twitter.com/search?q=WOL+vs+CHE) | N/A |
-| 44 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 45 | [MISS BELOVED](http://twitter.com/search?q=MISS+BELOVED) | N/A |
-| 46 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 47 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
-| 48 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 49 | [BRE vs NEW](http://twitter.com/search?q=BRE+vs+NEW) | N/A |
-| 50 | [Damian Dunn](http://twitter.com/search?q=Damian+Dunn) | N/A |
+| 23 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
+| 24 | [Kennedy Chandler](http://twitter.com/search?q=Kennedy+Chandler) | N/A |
+| 25 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 26 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 27 | [Coors](http://twitter.com/search?q=Coors) | N/A |
+| 28 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
+| 29 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 30 | [Lofton](http://twitter.com/search?q=Lofton) | N/A |
+| 31 | [Teyana](http://twitter.com/search?q=Teyana) | N/A |
+| 32 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 33 | [Steven Adams](http://twitter.com/search?q=Steven+Adams) | Steven Adams is a professional basketball player from New Zealand who currently plays for the Oklahoma City Thunder of the National Basketball Association (NBA). His name is often used as a slang term to describe someone who is tall and strong. |
+| 34 | [Hailey Van Lith](http://twitter.com/search?q=Hailey+Van+Lith) | N/A |
+| 35 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 36 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 37 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
+| 38 | [Senga](http://twitter.com/search?q=Senga) | N/A |
+| 39 | [Start Burrow](http://twitter.com/search?q=Start+Burrow) | N/A |
+| 40 | [Nick Tiano](http://twitter.com/search?q=Nick+Tiano) | N/A |
+| 41 | [DANCE PRACTICE](http://twitter.com/search?q=DANCE+PRACTICE) | N/A |
+| 42 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 43 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 44 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
+| 45 | [Casey Mittelstadt](http://twitter.com/search?q=Casey+Mittelstadt) | N/A |
+| 46 | [Sanada](http://twitter.com/search?q=Sanada) | N/A |
+| 47 | [MISS BELOVED](http://twitter.com/search?q=MISS+BELOVED) | N/A |
+| 48 | [Rahane](http://twitter.com/search?q=Rahane) | Rahane is a Hindu name derived from the Sanskrit word 'rajan', meaning 'king'. It is commonly used as a first name for boys in India. |
+| 49 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 50 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 
 
 

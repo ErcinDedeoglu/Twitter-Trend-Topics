@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-04-08 17:16:11 UTC`
+📆 Last Updated: `2023-04-08 18:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JesusDeNazarethEnTVN](http://twitter.com/search?q=%23JesusDeNazarethEnTVN) | N/A |
-| 2 | [Pamela Jiles](http://twitter.com/search?q=Pamela+Jiles) | N/A |
-| 3 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 1 | [Pamela Jiles](http://twitter.com/search?q=Pamela+Jiles) | N/A |
+| 2 | [#JesusDeNazarethEnTVN](http://twitter.com/search?q=%23JesusDeNazarethEnTVN) | N/A |
+| 3 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 4 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 5 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 6 | [Quilpué](http://twitter.com/search?q=Quilpu%c3%a9) | N/A |
-| 7 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
-| 8 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
-| 9 | [#FranjaElectoral](http://twitter.com/search?q=%23FranjaElectoral) | N/A |
-| 10 | [#elpartidomásaustral](http://twitter.com/search?q=%23elpartidom%c3%a1saustral) | N/A |
-| 11 | [Kast](http://twitter.com/search?q=Kast) | N/A |
-| 12 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 13 | [Santiago Pavlovic](http://twitter.com/search?q=Santiago+Pavlovic) | N/A |
-| 14 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
-| 15 | [Suboficial Mayor](http://twitter.com/search?q=Suboficial+Mayor) | N/A |
-| 16 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 18 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
-| 19 | [Pinilla](http://twitter.com/search?q=Pinilla) | N/A |
-| 20 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 21 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
-| 22 | [Mirko Jozic](http://twitter.com/search?q=Mirko+Jozic) | N/A |
-| 23 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 5 | [#VamosChileporTVN](http://twitter.com/search?q=%23VamosChileporTVN) | N/A |
+| 6 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 7 | [Santiago Pavlovic](http://twitter.com/search?q=Santiago+Pavlovic) | N/A |
+| 8 | [#FranjaElectoral](http://twitter.com/search?q=%23FranjaElectoral) | N/A |
+| 9 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
+| 10 | [Kast](http://twitter.com/search?q=Kast) | N/A |
+| 11 | [Quilpué](http://twitter.com/search?q=Quilpu%c3%a9) | N/A |
+| 12 | [#elpartidomásaustral](http://twitter.com/search?q=%23elpartidom%c3%a1saustral) | N/A |
+| 13 | [Thiem](http://twitter.com/search?q=Thiem) | Thiem is a surname of German origin. It is derived from the Old German word "diem" meaning "people". The name is most commonly found in Germany, Austria, and Switzerland. |
+| 14 | [Mega](http://twitter.com/search?q=Mega) | N/A |
+| 15 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 16 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
+| 17 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 18 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 19 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
+| 20 | [Pinilla](http://twitter.com/search?q=Pinilla) | N/A |
+| 21 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 23 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
 | 24 | [Paulina de Allende](http://twitter.com/search?q=Paulina+de+Allende) | N/A |
 | 25 | [Judas](http://twitter.com/search?q=Judas) | N/A |
 | 26 | [Gala](http://twitter.com/search?q=Gala) | N/A |
-| 27 | [Sepu](http://twitter.com/search?q=Sepu) | N/A |
-| 28 | [Carcuro](http://twitter.com/search?q=Carcuro) | N/A |
-| 29 | [Gabriela Mistral](http://twitter.com/search?q=Gabriela+Mistral) | N/A |
-| 30 | [Bories](http://twitter.com/search?q=Bories) | N/A |
-| 31 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
-| 32 | [Vodanovic](http://twitter.com/search?q=Vodanovic) | N/A |
-| 33 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 34 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 35 | [Belloto](http://twitter.com/search?q=Belloto) | N/A |
-| 36 | [Defensoría Migrante](http://twitter.com/search?q=Defensor%c3%ada+Migrante) | N/A |
-| 37 | [Robert Powell](http://twitter.com/search?q=Robert+Powell) | N/A |
-| 38 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 39 | [Mosciatti](http://twitter.com/search?q=Mosciatti) | N/A |
-| 40 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 41 | [Puerto Natales](http://twitter.com/search?q=Puerto+Natales) | N/A |
-| 42 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
-| 43 | [Karadima](http://twitter.com/search?q=Karadima) | N/A |
-| 44 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 45 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
-| 46 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 47 | [Isla](http://twitter.com/search?q=Isla) | N/A |
-| 48 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 49 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 27 | [Defensoría Migrante](http://twitter.com/search?q=Defensor%c3%ada+Migrante) | N/A |
+| 28 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 29 | [Bories](http://twitter.com/search?q=Bories) | N/A |
+| 30 | [Carcuro](http://twitter.com/search?q=Carcuro) | N/A |
+| 31 | [Vodanovic](http://twitter.com/search?q=Vodanovic) | N/A |
+| 32 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 33 | [Gabriela Mistral](http://twitter.com/search?q=Gabriela+Mistral) | N/A |
+| 34 | [Belloto](http://twitter.com/search?q=Belloto) | N/A |
+| 35 | [Partido de la Gente](http://twitter.com/search?q=Partido+de+la+Gente) | N/A |
+| 36 | [Suboficial Mayor](http://twitter.com/search?q=Suboficial+Mayor) | N/A |
+| 37 | [Emilia Ríos](http://twitter.com/search?q=Emilia+R%c3%ados) | N/A |
+| 38 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 39 | [Robert Powell](http://twitter.com/search?q=Robert+Powell) | N/A |
+| 40 | [Sepu](http://twitter.com/search?q=Sepu) | N/A |
+| 41 | [Mosciatti](http://twitter.com/search?q=Mosciatti) | N/A |
+| 42 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
+| 43 | [Puerto Natales](http://twitter.com/search?q=Puerto+Natales) | N/A |
+| 44 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
+| 45 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
+| 46 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 47 | [Karadima](http://twitter.com/search?q=Karadima) | N/A |
+| 48 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 49 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
 
 
 
