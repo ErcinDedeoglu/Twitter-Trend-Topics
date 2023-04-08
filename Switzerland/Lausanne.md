@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-08 04:17:24 UTC`
+📆 Last Updated: `2023-04-08 05:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,50 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [Stau](http://twitter.com/search?q=Stau) | N/A |
 | 2 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
 | 3 | [gotthard](http://twitter.com/search?q=gotthard) | N/A |
-| 4 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 5 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 6 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 7 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 8 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
-| 9 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
-| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [aktivisten](http://twitter.com/search?q=aktivisten) | N/A |
-| 12 | [autofahrer](http://twitter.com/search?q=autofahrer) | N/A |
-| 13 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 14 | [Tessin](http://twitter.com/search?q=Tessin) | N/A |
-| 15 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 16 | [polymanga](http://twitter.com/search?q=polymanga) | N/A |
-| 17 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 18 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 19 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 20 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 21 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
-| 22 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 23 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 24 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 25 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 26 | [süden](http://twitter.com/search?q=s%c3%bcden) | N/A |
-| 27 | [verkehr](http://twitter.com/search?q=verkehr) | N/A |
-| 28 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
-| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 30 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
-| 31 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 32 | [renovate](http://twitter.com/search?q=renovate) | N/A |
+| 4 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
+| 5 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 7 | [karfreitag](http://twitter.com/search?q=karfreitag) | N/A |
+| 8 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
+| 9 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 10 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
+| 11 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 12 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 13 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 14 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 15 | [polymanga](http://twitter.com/search?q=polymanga) | N/A |
+| 16 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 17 | [Protest](http://twitter.com/search?q=Protest) | N/A |
+| 18 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
+| 19 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 20 | [#SalernitanaInter](http://twitter.com/search?q=%23SalernitanaInter) | N/A |
+| 21 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 22 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 24 | [Tessin](http://twitter.com/search?q=Tessin) | N/A |
+| 25 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
+| 26 | [Granit](http://twitter.com/search?q=Granit) | N/A |
+| 27 | [renovate](http://twitter.com/search?q=renovate) | N/A |
+| 28 | [oliven](http://twitter.com/search?q=oliven) | N/A |
+| 29 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 30 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 31 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
+| 32 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
 | 33 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
-| 34 | [granit](http://twitter.com/search?q=granit) | N/A |
-| 35 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 36 | [oliven](http://twitter.com/search?q=oliven) | N/A |
-| 37 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 38 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
-| 39 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 40 | [ostertage](http://twitter.com/search?q=ostertage) | N/A |
-| 41 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
-| 42 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
-| 43 | [Statistik](http://twitter.com/search?q=Statistik) | N/A |
-| 44 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 45 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 46 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
-| 47 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
+| 34 | [Schwester](http://twitter.com/search?q=Schwester) | N/A |
+| 35 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
+| 36 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 37 | [Montreux](http://twitter.com/search?q=Montreux) | N/A |
+| 38 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
+| 39 | [Geschwurbel](http://twitter.com/search?q=Geschwurbel) | N/A |
+| 40 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 41 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
+| 42 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 43 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
+| 44 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 45 | [sascha ruefer](http://twitter.com/search?q=sascha+ruefer) | N/A |
+| 46 | [CNEWS](http://twitter.com/search?q=CNEWS) | N/A |
+| 47 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
 
 
 

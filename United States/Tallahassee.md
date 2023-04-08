@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-04-08 04:17:53 UTC`
+📆 Last Updated: `2023-04-08 05:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 1 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 2 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 3 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
-| 4 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
-| 5 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 6 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
-| 7 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 8 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 9 | [University of Oklahoma](http://twitter.com/search?q=University+of+Oklahoma) | N/A |
-| 10 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 11 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 12 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 3 | [Riley Gaines](http://twitter.com/search?q=Riley+Gaines) | N/A |
+| 4 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
+| 5 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 6 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 7 | [University of Oklahoma](http://twitter.com/search?q=University+of+Oklahoma) | N/A |
+| 8 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 9 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 10 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 11 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 12 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
 | 13 | [#AEWBOTB6](http://twitter.com/search?q=%23AEWBOTB6) | N/A |
 | 14 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 15 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
+| 15 | [Nevin](http://twitter.com/search?q=Nevin) | N/A |
 | 16 | [Swatting](http://twitter.com/search?q=Swatting) | N/A |
-| 17 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 17 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
 | 18 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 19 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 20 | [Julia Hart](http://twitter.com/search?q=Julia+Hart) | N/A |
-| 21 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 22 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
-| 23 | [Biyombo](http://twitter.com/search?q=Biyombo) | N/A |
-| 24 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 25 | [Billie Starkz](http://twitter.com/search?q=Billie+Starkz) | N/A |
-| 26 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 27 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
-| 28 | [Bron and AD](http://twitter.com/search?q=Bron+and+AD) | N/A |
-| 29 | [Ozzie](http://twitter.com/search?q=Ozzie) | N/A |
-| 30 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 31 | [Jaden Springer](http://twitter.com/search?q=Jaden+Springer) | N/A |
-| 32 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
-| 33 | [Bizzy](http://twitter.com/search?q=Bizzy) | N/A |
-| 34 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 35 | [Aspen Ladd](http://twitter.com/search?q=Aspen+Ladd) | N/A |
-| 36 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 37 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 38 | [ALL CLEAR](http://twitter.com/search?q=ALL+CLEAR) | N/A |
+| 19 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
+| 20 | [Lebron and AD](http://twitter.com/search?q=Lebron+and+AD) | N/A |
+| 21 | [Herget](http://twitter.com/search?q=Herget) | N/A |
+| 22 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 23 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 24 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 25 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
+| 26 | [Julia Hart](http://twitter.com/search?q=Julia+Hart) | N/A |
+| 27 | [Bizzy](http://twitter.com/search?q=Bizzy) | N/A |
+| 28 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 29 | [ALL CLEAR](http://twitter.com/search?q=ALL+CLEAR) | N/A |
+| 30 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 31 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
+| 32 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 33 | [Biyombo](http://twitter.com/search?q=Biyombo) | N/A |
+| 34 | [Billie Starkz](http://twitter.com/search?q=Billie+Starkz) | N/A |
+| 35 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
+| 36 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 37 | [Jaden Springer](http://twitter.com/search?q=Jaden+Springer) | N/A |
+| 38 | [Ozzie](http://twitter.com/search?q=Ozzie) | N/A |
 | 39 | [Cutler](http://twitter.com/search?q=Cutler) | N/A |
-| 40 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
-| 41 | [Theo Pinson](http://twitter.com/search?q=Theo+Pinson) | N/A |
-| 42 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 43 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 44 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
-| 45 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 40 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 41 | [Stationhead](http://twitter.com/search?q=Stationhead) | N/A |
+| 42 | [Nakazawa](http://twitter.com/search?q=Nakazawa) | N/A |
+| 43 | [Evan Longoria](http://twitter.com/search?q=Evan+Longoria) | N/A |
+| 44 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 45 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
 | 46 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 47 | [Swerve](http://twitter.com/search?q=Swerve) | Swerve is a slang term that means to suddenly change direction or to avoid something. It can also be used to describe a sudden change in attitude or behavior. |
-| 48 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 49 | [Brian Cage](http://twitter.com/search?q=Brian+Cage) | N/A |
+| 47 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 48 | [Bo Bichette](http://twitter.com/search?q=Bo+Bichette) | N/A |
+| 49 | [ladd](http://twitter.com/search?q=ladd) | N/A |
 
 
 

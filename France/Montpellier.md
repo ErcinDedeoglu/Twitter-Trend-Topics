@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-04-08 04:17:18 UTC`
+📆 Last Updated: `2023-04-08 05:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 2 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 3 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 4 | [#RCLRCSA](http://twitter.com/search?q=%23RCLRCSA) | N/A |
-| 5 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 6 | [#FRACOL](http://twitter.com/search?q=%23FRACOL) | N/A |
-| 7 | [#messmer](http://twitter.com/search?q=%23messmer) | N/A |
-| 8 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 9 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 10 | [CNews](http://twitter.com/search?q=CNews) | N/A |
-| 11 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
-| 12 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 13 | [Vendredi Saint](http://twitter.com/search?q=Vendredi+Saint) | N/A |
-| 14 | [G.O.A.T.](http://twitter.com/search?q=G.O.A.T.) | N/A |
+| 2 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 3 | [#RCLRCSA](http://twitter.com/search?q=%23RCLRCSA) | N/A |
+| 4 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 5 | [#FRACOL](http://twitter.com/search?q=%23FRACOL) | N/A |
+| 6 | [#messmer](http://twitter.com/search?q=%23messmer) | N/A |
+| 7 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 8 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 9 | [CNEWS](http://twitter.com/search?q=CNEWS) | N/A |
+| 10 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 11 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 12 | [G.O.A.T.](http://twitter.com/search?q=G.O.A.T.) | N/A |
+| 13 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 14 | [Rotonde](http://twitter.com/search?q=Rotonde) | N/A |
 | 15 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
-| 16 | [Rotonde](http://twitter.com/search?q=Rotonde) | N/A |
+| 16 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
 | 17 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 18 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 19 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 20 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 21 | [Grigny](http://twitter.com/search?q=Grigny) | N/A |
-| 22 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
-| 23 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 24 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 25 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
-| 26 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
-| 27 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 28 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 29 | [brice caron](http://twitter.com/search?q=brice+caron) | N/A |
+| 18 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 19 | [michel jonasz](http://twitter.com/search?q=michel+jonasz) | N/A |
+| 20 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 21 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
+| 22 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 23 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 24 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 25 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 26 | [brice caron](http://twitter.com/search?q=brice+caron) | N/A |
+| 27 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
+| 28 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 29 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 30 | [Le Sommer](http://twitter.com/search?q=Le+Sommer) | N/A |
-| 31 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 32 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
-| 33 | [Mashle](http://twitter.com/search?q=Mashle) | N/A |
-| 34 | [Olive](http://twitter.com/search?q=Olive) | N/A |
-| 35 | [Edwy Plenel](http://twitter.com/search?q=Edwy+Plenel) | N/A |
-| 36 | [benjamin epps](http://twitter.com/search?q=benjamin+epps) | N/A |
-| 37 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 38 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 39 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 40 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 41 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
-| 42 | [Maïwenn](http://twitter.com/search?q=Ma%c3%afwenn) | N/A |
-| 43 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
-| 44 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 45 | [Crimée](http://twitter.com/search?q=Crim%c3%a9e) | N/A |
-| 46 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 31 | [Olive](http://twitter.com/search?q=Olive) | N/A |
+| 32 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 33 | [Grigny](http://twitter.com/search?q=Grigny) | N/A |
+| 34 | [Benjamin Epps](http://twitter.com/search?q=Benjamin+Epps) | N/A |
+| 35 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 36 | [Edwy Plenel](http://twitter.com/search?q=Edwy+Plenel) | N/A |
+| 37 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
+| 38 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 39 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 40 | [James Mangold](http://twitter.com/search?q=James+Mangold) | N/A |
+| 41 | [Maïwenn](http://twitter.com/search?q=Ma%c3%afwenn) | N/A |
+| 42 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 43 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 44 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
+| 45 | [émeline](http://twitter.com/search?q=%c3%a9meline) | N/A |
+| 46 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
 | 47 | [Didi Stone](http://twitter.com/search?q=Didi+Stone) | N/A |
-| 48 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
+| 48 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
 
 
 

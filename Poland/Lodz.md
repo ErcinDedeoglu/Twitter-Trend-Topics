@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-04-08 04:17:17 UTC`
+📆 Last Updated: `2023-04-08 05:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Poland](</Poland>)
 | 4 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
 | 5 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
 | 6 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 7 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
-| 8 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
-| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 10 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
-| 11 | [nawalnego](http://twitter.com/search?q=nawalnego) | N/A |
-| 12 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
+| 7 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
+| 8 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
+| 9 | [nawalnego](http://twitter.com/search?q=nawalnego) | N/A |
+| 10 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 11 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
+| 12 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
 | 13 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
-| 14 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
-| 15 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
-| 16 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 17 | [#ksiazkowemole](http://twitter.com/search?q=%23ksiazkowemole) | N/A |
-| 18 | [radio zet](http://twitter.com/search?q=radio+zet) | N/A |
-| 19 | [#pistozlo](http://twitter.com/search?q=%23pistozlo) | N/A |
-| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 14 | [#pistozlo](http://twitter.com/search?q=%23pistozlo) | N/A |
+| 15 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 16 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
+| 17 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
+| 18 | [#ksiazkowemole](http://twitter.com/search?q=%23ksiazkowemole) | N/A |
+| 19 | [radio zet](http://twitter.com/search?q=radio+zet) | N/A |
+| 20 | [klubowy goat](http://twitter.com/search?q=klubowy+goat) | N/A |
 | 21 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 22 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
-| 23 | [klubowy goat](http://twitter.com/search?q=klubowy+goat) | N/A |
-| 24 | [lichocka](http://twitter.com/search?q=lichocka) | N/A |
-| 25 | [krrit](http://twitter.com/search?q=krrit) | N/A |
-| 26 | [wielkiego piątku](http://twitter.com/search?q=wielkiego+pi%c4%85tku) | N/A |
-| 27 | [duklanowski](http://twitter.com/search?q=duklanowski) | N/A |
-| 28 | [droga krzyżowa](http://twitter.com/search?q=droga+krzy%c5%bcowa) | N/A |
-| 29 | [zaksa](http://twitter.com/search?q=zaksa) | N/A |
-| 30 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 31 | [bugaj](http://twitter.com/search?q=bugaj) | N/A |
-| 32 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
-| 33 | [nawalny](http://twitter.com/search?q=nawalny) | N/A |
-| 34 | [vuko](http://twitter.com/search?q=vuko) | N/A |
-| 35 | [bartosiak](http://twitter.com/search?q=bartosiak) | N/A |
-| 36 | [HIENY](http://twitter.com/search?q=HIENY) | N/A |
-| 37 | [murem](http://twitter.com/search?q=murem) | N/A |
-| 38 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 39 | [t-64](http://twitter.com/search?q=t-64) | N/A |
-| 40 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 41 | [koloseum](http://twitter.com/search?q=koloseum) | N/A |
-| 42 | [mswia](http://twitter.com/search?q=mswia) | N/A |
-| 43 | [męki pańskiej](http://twitter.com/search?q=m%c4%99ki+pa%c5%84skiej) | N/A |
-| 44 | [macrona](http://twitter.com/search?q=macrona) | N/A |
-| 45 | [politechniki łódzkiej](http://twitter.com/search?q=politechniki+%c5%82%c3%b3dzkiej) | N/A |
-| 46 | [jemenu](http://twitter.com/search?q=jemenu) | N/A |
-| 47 | [dagmara](http://twitter.com/search?q=dagmara) | N/A |
-| 48 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
-| 49 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 23 | [krrit](http://twitter.com/search?q=krrit) | N/A |
+| 24 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
+| 25 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
+| 26 | [Wielkiego Piątku](http://twitter.com/search?q=Wielkiego+Pi%c4%85tku) | N/A |
+| 27 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 28 | [witkowej](http://twitter.com/search?q=witkowej) | N/A |
+| 29 | [Wielka Sobota](http://twitter.com/search?q=Wielka+Sobota) | N/A |
+| 30 | [bugaj](http://twitter.com/search?q=bugaj) | N/A |
+| 31 | [vuko](http://twitter.com/search?q=vuko) | N/A |
+| 32 | [HIENY](http://twitter.com/search?q=HIENY) | N/A |
+| 33 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 34 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
+| 35 | [Koloseum](http://twitter.com/search?q=Koloseum) | N/A |
+| 36 | [t-64](http://twitter.com/search?q=t-64) | N/A |
+| 37 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 38 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 39 | [MSWiA](http://twitter.com/search?q=MSWiA) | N/A |
+| 40 | [politechniki łódzkiej](http://twitter.com/search?q=politechniki+%c5%82%c3%b3dzkiej) | N/A |
+| 41 | [Rasa](http://twitter.com/search?q=Rasa) | Rasa is a Sanskrit term that refers to the emotional flavor or sentiment of an experience. It is often used in Indian philosophy and aesthetics to describe the aesthetic experience of art, literature, music, and other forms of creative expression. In English, it can be translated as "essence," "flavor," or "taste." |
+| 42 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 43 | [bednorz](http://twitter.com/search?q=bednorz) | N/A |
+| 44 | [wielki czwartek](http://twitter.com/search?q=wielki+czwartek) | N/A |
+| 45 | [empoli](http://twitter.com/search?q=empoli) | N/A |
+| 46 | [paweł walenia](http://twitter.com/search?q=pawe%c5%82+walenia) | N/A |
+| 47 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 48 | [murem](http://twitter.com/search?q=murem) | N/A |
+| 49 | [pani wando](http://twitter.com/search?q=pani+wando) | N/A |
 
 
 
