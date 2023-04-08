@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-04-08 10:17:04 UTC`
+📆 Last Updated: `2023-04-08 11:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 2 | [#Wordle658](http://twitter.com/search?q=%23Wordle658) | N/A |
-| 3 | [Daily Fail](http://twitter.com/search?q=Daily+Fail) | N/A |
-| 4 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
-| 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 1 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
+| 2 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 3 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
+| 4 | [Daily Fail](http://twitter.com/search?q=Daily+Fail) | N/A |
+| 5 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
 | 6 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 7 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 9 | [Easter Saturday](http://twitter.com/search?q=Easter+Saturday) | N/A |
-| 10 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
-| 11 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 12 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 13 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 14 | [The Osmonds](http://twitter.com/search?q=The+Osmonds) | N/A |
-| 15 | [First Concert](http://twitter.com/search?q=First+Concert) | N/A |
-| 16 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
-| 17 | [Next Concert](http://twitter.com/search?q=Next+Concert) | N/A |
-| 18 | [Most Surprising](http://twitter.com/search?q=Most+Surprising) | N/A |
-| 19 | [Toney to Haaland](http://twitter.com/search?q=Toney+to+Haaland) | N/A |
-| 20 | [The Bodyguard](http://twitter.com/search?q=The+Bodyguard) | N/A |
-| 21 | [Mick McCarthy](http://twitter.com/search?q=Mick+McCarthy) | N/A |
-| 22 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
-| 23 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 24 | [COYS](http://twitter.com/search?q=COYS) | N/A |
-| 25 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 26 | [Easter Day](http://twitter.com/search?q=Easter+Day) | N/A |
-| 27 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
-| 28 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 29 | [Celtic Park](http://twitter.com/search?q=Celtic+Park) | N/A |
-| 30 | [Old Firm](http://twitter.com/search?q=Old+Firm) | N/A |
-| 31 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
-| 32 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 33 | [Harry and Meghan](http://twitter.com/search?q=Harry+and+Meghan) | N/A |
-| 34 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 35 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 36 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 37 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
-| 38 | [#GW30](http://twitter.com/search?q=%23GW30) | N/A |
-| 39 | [#ASongOrMovieForSlow](http://twitter.com/search?q=%23ASongOrMovieForSlow) | N/A |
-| 40 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
-| 41 | [#MUNEVE](http://twitter.com/search?q=%23MUNEVE) | #MUNEVE is a hashtag used to promote the Muneve app, which is an online platform that helps people find and book beauty services. The hashtag is used to share user experiences, tips, and advice related to beauty services. In English, #MUNEVE means "My Beauty Experience". |
-| 42 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
-| 43 | [#SaturdayKitchen](http://twitter.com/search?q=%23SaturdayKitchen) | N/A |
-| 44 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
-| 45 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 46 | [#TOTBHA](http://twitter.com/search?q=%23TOTBHA) | N/A |
-| 47 | [#ToriesOut275](http://twitter.com/search?q=%23ToriesOut275) | N/A |
-| 48 | [#CatsofTwittter](http://twitter.com/search?q=%23CatsofTwittter) | N/A |
-| 49 | [#WOLCHE](http://twitter.com/search?q=%23WOLCHE) | N/A |
+| 7 | [Israelis](http://twitter.com/search?q=Israelis) | N/A |
+| 8 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 9 | [Goldson](http://twitter.com/search?q=Goldson) | Goldson is a surname of English origin. It is derived from the Old English words "gold" and "sunu," meaning "son of gold." The name is thought to have been given to someone who was wealthy or had a golden complexion. |
+| 10 | [Souttar](http://twitter.com/search?q=Souttar) | N/A |
+| 11 | [#MUNEVE](http://twitter.com/search?q=%23MUNEVE) | #MUNEVE is a hashtag used to promote the Muneve app, which is an online platform that helps people find and book beauty services. The hashtag is used to share user experiences, tips, and advice related to beauty services. In English, #MUNEVE means "My Beauty Experience". |
+| 12 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 13 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 14 | [Easter Saturday](http://twitter.com/search?q=Easter+Saturday) | N/A |
+| 15 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 16 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
+| 17 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
+| 18 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 19 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
+| 20 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 21 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 22 | [The Osmonds](http://twitter.com/search?q=The+Osmonds) | N/A |
+| 23 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 24 | [Mick McCarthy](http://twitter.com/search?q=Mick+McCarthy) | N/A |
+| 25 | [Mon the Hoops](http://twitter.com/search?q=Mon+the+Hoops) | N/A |
+| 26 | [Dibble](http://twitter.com/search?q=Dibble) | N/A |
+| 27 | [Dobbie](http://twitter.com/search?q=Dobbie) | N/A |
+| 28 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 29 | [Next Concert](http://twitter.com/search?q=Next+Concert) | N/A |
+| 30 | [Most Surprising](http://twitter.com/search?q=Most+Surprising) | N/A |
+| 31 | [The Bodyguard](http://twitter.com/search?q=The+Bodyguard) | N/A |
+| 32 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 33 | [First Concert](http://twitter.com/search?q=First+Concert) | N/A |
+| 34 | [Mike Russell](http://twitter.com/search?q=Mike+Russell) | N/A |
+| 35 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
+| 36 | [Ding](http://twitter.com/search?q=Ding) | N/A |
+| 37 | [Garner](http://twitter.com/search?q=Garner) | N/A |
+| 38 | [Beale](http://twitter.com/search?q=Beale) | Beale is a Scottish surname derived from the Old English word "bealu", meaning "brave". It is also an English place name, referring to a location in Hampshire, England. |
+| 39 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 40 | [Sakala](http://twitter.com/search?q=Sakala) | Sakala is a Sanskrit word meaning “all” or “everything.” It is often used to refer to the totality of existence, or the universe as a whole. In Hinduism, it is used to refer to the divine power that encompasses and sustains all of creation. |
+| 41 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
+| 42 | [O'Riley](http://twitter.com/search?q=O%27Riley) | N/A |
+| 43 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 44 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 45 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 46 | [Halal](http://twitter.com/search?q=Halal) | N/A |
+| 47 | [Cantwell](http://twitter.com/search?q=Cantwell) | N/A |
+| 48 | [COYS](http://twitter.com/search?q=COYS) | N/A |
+| 49 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 50 | [Morelos](http://twitter.com/search?q=Morelos) | Morelos is a state in Mexico. Its name comes from José María Morelos y Pavón, a Mexican revolutionary leader who fought for independence from Spain in the early 19th century. In English, Morelos means "of Morelos". |
 
 
 

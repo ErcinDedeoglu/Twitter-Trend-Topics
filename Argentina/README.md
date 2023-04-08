@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-04-08 10:17:58 UTC`
+📆 Last Updated: `2023-04-08 11:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UnDinamoEsquizo](http://twitter.com/search?q=%23UnDinamoEsquizo) | N/A |
-| 2 | [#Esquizanto](http://twitter.com/search?q=%23Esquizanto) | N/A |
-| 3 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 4 | [Roncaglia](http://twitter.com/search?q=Roncaglia) | Roncaglia is a type of Italian folk dance that originated in the region of Emilia-Romagna. It is a lively, fast-paced dance that involves couples dancing in a circle and performing intricate steps and turns. The name Roncaglia comes from the Italian word for "round," as the dance is traditionally performed in a circular formation. In English, Roncaglia means "round dance." |
-| 5 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 7 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
-| 8 | [Rusher](http://twitter.com/search?q=Rusher) | N/A |
-| 9 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 1 | [#palermowuhan](http://twitter.com/search?q=%23palermowuhan) | N/A |
+| 2 | [#undinamoesquizo](http://twitter.com/search?q=%23undinamoesquizo) | N/A |
+| 3 | [#Esquizanto](http://twitter.com/search?q=%23Esquizanto) | N/A |
+| 4 | [#BuenSabado](http://twitter.com/search?q=%23BuenSabado) | N/A |
+| 5 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 6 | [roncaglia](http://twitter.com/search?q=roncaglia) | N/A |
+| 7 | [#estefinde](http://twitter.com/search?q=%23estefinde) | N/A |
+| 8 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 9 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
 | 10 | [Berni](http://twitter.com/search?q=Berni) | N/A |
-| 11 | [Janson](http://twitter.com/search?q=Janson) | N/A |
-| 12 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 13 | [La Continental](http://twitter.com/search?q=La+Continental) | N/A |
-| 14 | [Ruckauf](http://twitter.com/search?q=Ruckauf) | N/A |
-| 15 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 16 | [Día Mundial de la Salud](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Salud) | N/A |
-| 17 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
+| 11 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
+| 12 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 13 | [Rusher](http://twitter.com/search?q=Rusher) | N/A |
+| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 15 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
+| 16 | [La Continental](http://twitter.com/search?q=La+Continental) | N/A |
+| 17 | [janson](http://twitter.com/search?q=janson) | N/A |
 | 18 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
-| 19 | [Godin](http://twitter.com/search?q=Godin) | N/A |
-| 20 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 22 | [Flor Moyano](http://twitter.com/search?q=Flor+Moyano) | N/A |
-| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 24 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 25 | [Velez](http://twitter.com/search?q=Velez) | N/A |
-| 26 | [havanna](http://twitter.com/search?q=havanna) | N/A |
-| 27 | [Freijo](http://twitter.com/search?q=Freijo) | N/A |
-| 28 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 29 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
-| 30 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 31 | [Utoi](http://twitter.com/search?q=Utoi) | N/A |
-| 32 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
-| 33 | [#LasVacasNoTienenFeriado](http://twitter.com/search?q=%23LasVacasNoTienenFeriado) | N/A |
-| 34 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
-| 35 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 36 | [Casa Tía](http://twitter.com/search?q=Casa+T%c3%ada) | N/A |
-| 37 | [Seoane](http://twitter.com/search?q=Seoane) | N/A |
-| 38 | [Vía Crucis](http://twitter.com/search?q=V%c3%ada+Crucis) | N/A |
-| 39 | [Pratto](http://twitter.com/search?q=Pratto) | N/A |
-| 40 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 41 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 19 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 20 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 21 | [Godin](http://twitter.com/search?q=Godin) | N/A |
+| 22 | [Ruckauf](http://twitter.com/search?q=Ruckauf) | N/A |
+| 23 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 24 | [Día Mundial de la Salud](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Salud) | N/A |
+| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 26 | [Flor Moyano](http://twitter.com/search?q=Flor+Moyano) | N/A |
+| 27 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 28 | [Velez](http://twitter.com/search?q=Velez) | N/A |
+| 29 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 30 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 31 | [Havanna](http://twitter.com/search?q=Havanna) | N/A |
+| 32 | [Seoane](http://twitter.com/search?q=Seoane) | N/A |
+| 33 | [Vía Crucis](http://twitter.com/search?q=V%c3%ada+Crucis) | N/A |
+| 34 | [CABA](http://twitter.com/search?q=CABA) | N/A |
+| 35 | [Freijo](http://twitter.com/search?q=Freijo) | N/A |
+| 36 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
+| 37 | [Fabra](http://twitter.com/search?q=Fabra) | N/A |
+| 38 | [Casa Tía](http://twitter.com/search?q=Casa+T%c3%ada) | N/A |
+| 39 | [UTOI](http://twitter.com/search?q=UTOI) | N/A |
+| 40 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
+| 41 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 42 | [Prestianni](http://twitter.com/search?q=Prestianni) | N/A |
-| 43 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 44 | [CABA](http://twitter.com/search?q=CABA) | N/A |
-| 45 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
-| 46 | [Trueno](http://twitter.com/search?q=Trueno) | N/A |
-| 47 | [Rebord](http://twitter.com/search?q=Rebord) | N/A |
-| 48 | [Pumper Nic](http://twitter.com/search?q=Pumper+Nic) | N/A |
-| 49 | [Sampaio](http://twitter.com/search?q=Sampaio) | N/A |
-| 50 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 43 | [Rebord](http://twitter.com/search?q=Rebord) | N/A |
+| 44 | [Echeverri](http://twitter.com/search?q=Echeverri) | N/A |
+| 45 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 46 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 47 | [Sampaio](http://twitter.com/search?q=Sampaio) | N/A |
+| 48 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 49 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
+| 50 | [Pratto](http://twitter.com/search?q=Pratto) | N/A |
 
 
 

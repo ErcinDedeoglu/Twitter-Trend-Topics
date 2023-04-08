@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-04-08 10:18:04 UTC`
+📆 Last Updated: `2023-04-08 11:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Peru
 | 3 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
 | 4 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 5 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 6 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 7 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 8 | [Ben Hur](http://twitter.com/search?q=Ben+Hur) | N/A |
-| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 10 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 11 | [serums](http://twitter.com/search?q=serums) | N/A |
-| 12 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 13 | [2 out today](http://twitter.com/search?q=2+out+today) | N/A |
-| 14 | [Piura](http://twitter.com/search?q=Piura) | N/A |
-| 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 16 | [#DíaMundialDeLaSalud](http://twitter.com/search?q=%23D%c3%adaMundialDeLaSalud) | N/A |
-| 17 | [Cuéllar](http://twitter.com/search?q=Cu%c3%a9llar) | N/A |
-| 18 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 19 | [carolina braedt](http://twitter.com/search?q=carolina+braedt) | N/A |
-| 20 | [Morsi](http://twitter.com/search?q=Morsi) | N/A |
-| 21 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 23 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
-| 24 | [Castañeda](http://twitter.com/search?q=Casta%c3%b1eda) | N/A |
+| 6 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 7 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 8 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 9 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 12 | [Ben Hur](http://twitter.com/search?q=Ben+Hur) | N/A |
+| 13 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 14 | [2 out today](http://twitter.com/search?q=2+out+today) | N/A |
+| 15 | [Piura](http://twitter.com/search?q=Piura) | N/A |
+| 16 | [SERUMS](http://twitter.com/search?q=SERUMS) | N/A |
+| 17 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 18 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 19 | [cuéllar](http://twitter.com/search?q=cu%c3%a9llar) | N/A |
+| 20 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 22 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
+| 23 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 24 | [castañeda](http://twitter.com/search?q=casta%c3%b1eda) | N/A |
 | 25 | [Marciano](http://twitter.com/search?q=Marciano) | N/A |
-| 26 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 27 | [Lerner](http://twitter.com/search?q=Lerner) | N/A |
-| 28 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 29 | [Gorriti](http://twitter.com/search?q=Gorriti) | N/A |
-| 30 | [Trauco](http://twitter.com/search?q=Trauco) | N/A |
-| 31 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 32 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
-| 33 | [inviable](http://twitter.com/search?q=inviable) | N/A |
-| 34 | [Manco](http://twitter.com/search?q=Manco) | N/A |
-| 35 | [Ramón](http://twitter.com/search?q=Ram%c3%b3n) | N/A |
-| 36 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 26 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
+| 27 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 28 | [Ramón](http://twitter.com/search?q=Ram%c3%b3n) | N/A |
+| 29 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 30 | [Lerner](http://twitter.com/search?q=Lerner) | N/A |
+| 31 | [Trauco](http://twitter.com/search?q=Trauco) | N/A |
+| 32 | [Gorriti](http://twitter.com/search?q=Gorriti) | N/A |
+| 33 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 34 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 35 | [Vivienda](http://twitter.com/search?q=Vivienda) | N/A |
+| 36 | [Manco](http://twitter.com/search?q=Manco) | N/A |
 | 37 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 38 | [Siwon](http://twitter.com/search?q=Siwon) | N/A |
-| 39 | [tina](http://twitter.com/search?q=tina) | N/A |
-| 40 | [cornejo](http://twitter.com/search?q=cornejo) | N/A |
-| 41 | [denunciamos](http://twitter.com/search?q=denunciamos) | N/A |
-| 42 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 43 | [mineiro](http://twitter.com/search?q=mineiro) | N/A |
-| 44 | [cusco fc](http://twitter.com/search?q=cusco+fc) | N/A |
-| 45 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 46 | [ONPE](http://twitter.com/search?q=ONPE) | N/A |
-| 47 | [chuculanas](http://twitter.com/search?q=chuculanas) | N/A |
-| 48 | [Vivienda](http://twitter.com/search?q=Vivienda) | N/A |
-| 49 | [Yola](http://twitter.com/search?q=Yola) | N/A |
-| 50 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 38 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 39 | [Morsi](http://twitter.com/search?q=Morsi) | N/A |
+| 40 | [inviable](http://twitter.com/search?q=inviable) | N/A |
+| 41 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
+| 42 | [Siwon](http://twitter.com/search?q=Siwon) | N/A |
+| 43 | [melgar](http://twitter.com/search?q=melgar) | N/A |
+| 44 | [denunciamos](http://twitter.com/search?q=denunciamos) | N/A |
+| 45 | [Cornejo](http://twitter.com/search?q=Cornejo) | N/A |
+| 46 | [cusco fc](http://twitter.com/search?q=cusco+fc) | N/A |
+| 47 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 48 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 49 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 50 | [Yola](http://twitter.com/search?q=Yola) | N/A |
 
 
 

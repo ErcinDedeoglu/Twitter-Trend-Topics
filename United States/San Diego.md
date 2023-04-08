@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-04-08 10:17:55 UTC`
+📆 Last Updated: `2023-04-08 11:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [United States](</United States>)
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 3 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
 | 4 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 5 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 6 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 7 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 8 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
-| 9 | [#njpw](http://twitter.com/search?q=%23njpw) | #NJPW stands for New Japan Pro Wrestling, which is a Japanese professional wrestling promotion. It is one of the largest and most popular wrestling promotions in the world. |
-| 10 | [Hazuki](http://twitter.com/search?q=Hazuki) | N/A |
-| 11 | [Mayu](http://twitter.com/search?q=Mayu) | N/A |
-| 12 | [#NIJIPuyoTetris2023](http://twitter.com/search?q=%23NIJIPuyoTetris2023) | N/A |
-| 13 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 5 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
+| 6 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 7 | [#njpw](http://twitter.com/search?q=%23njpw) | #NJPW stands for New Japan Pro Wrestling, which is a Japanese professional wrestling promotion. It is one of the largest and most popular wrestling promotions in the world. |
+| 8 | [Aussie Open](http://twitter.com/search?q=Aussie+Open) | N/A |
+| 9 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
+| 10 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 11 | [Hazuki](http://twitter.com/search?q=Hazuki) | N/A |
+| 12 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 13 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
 | 14 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 15 | [#Wordle658](http://twitter.com/search?q=%23Wordle658) | N/A |
-| 16 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 17 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 18 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
-| 19 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 20 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 21 | [university of oklahoma](http://twitter.com/search?q=university+of+oklahoma) | N/A |
-| 22 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
-| 23 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 24 | [Ivermectin](http://twitter.com/search?q=Ivermectin) | N/A |
+| 15 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
+| 16 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 17 | [Mayu](http://twitter.com/search?q=Mayu) | N/A |
+| 18 | [#Wordle658](http://twitter.com/search?q=%23Wordle658) | N/A |
+| 19 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 20 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 21 | [Ivermectin](http://twitter.com/search?q=Ivermectin) | N/A |
+| 22 | [University of Oklahoma](http://twitter.com/search?q=University+of+Oklahoma) | N/A |
+| 23 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 24 | [Girly Teengirl](http://twitter.com/search?q=Girly+Teengirl) | N/A |
 | 25 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
-| 26 | [Girly Teengirl](http://twitter.com/search?q=Girly+Teengirl) | N/A |
-| 27 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 28 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 29 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 30 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 31 | [Swatting](http://twitter.com/search?q=Swatting) | N/A |
-| 32 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 33 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 34 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 35 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 36 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
-| 37 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
-| 38 | [The Mario](http://twitter.com/search?q=The+Mario) | N/A |
-| 39 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 40 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 41 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
-| 42 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
-| 43 | [The Shining](http://twitter.com/search?q=The+Shining) | N/A |
-| 44 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
-| 45 | [DBZA](http://twitter.com/search?q=DBZA) | N/A |
-| 46 | [bron and ad](http://twitter.com/search?q=bron+and+ad) | N/A |
-| 47 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
+| 26 | [The FDA](http://twitter.com/search?q=The+FDA) | N/A |
+| 27 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 28 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 29 | [The Shining](http://twitter.com/search?q=The+Shining) | N/A |
+| 30 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 31 | [The Mavs](http://twitter.com/search?q=The+Mavs) | N/A |
+| 32 | [VP Harris](http://twitter.com/search?q=VP+Harris) | N/A |
+| 33 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
+| 34 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 35 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 36 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
+| 37 | [#vtubervsirl](http://twitter.com/search?q=%23vtubervsirl) | N/A |
+| 38 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
+| 39 | [#activeshooter](http://twitter.com/search?q=%23activeshooter) | N/A |
+| 40 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 41 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 42 | [#AEWBOTB](http://twitter.com/search?q=%23AEWBOTB) | N/A |
+| 43 | [#PraiseThis](http://twitter.com/search?q=%23PraiseThis) | N/A |
+| 44 | [#NCTDREAMinCHICAGO](http://twitter.com/search?q=%23NCTDREAMinCHICAGO) | N/A |
+| 45 | [#lifeafterlockup](http://twitter.com/search?q=%23lifeafterlockup) | N/A |
+| 46 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
+| 47 | [#murderdrones](http://twitter.com/search?q=%23murderdrones) | N/A |
 
 
 

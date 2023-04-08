@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Takamatsu
 
-📆 Last Updated: `2023-04-08 10:17:28 UTC`
+📆 Last Updated: `2023-04-08 11:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#那須川天心](http://twitter.com/search?q=%23%e9%82%a3%e9%a0%88%e5%b7%9d%e5%a4%a9%e5%bf%83) | N/A |
-| 2 | [#オールスター感謝祭23春](http://twitter.com/search?q=%23%e3%82%aa%e3%83%bc%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%bc%e6%84%9f%e8%ac%9d%e7%a5%ad23%e6%98%a5) | N/A |
+| 1 | [#オールスター感謝祭23春](http://twitter.com/search?q=%23%e3%82%aa%e3%83%bc%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%bc%e6%84%9f%e8%ac%9d%e7%a5%ad23%e6%98%a5) | N/A |
+| 2 | [#那須川天心](http://twitter.com/search?q=%23%e9%82%a3%e9%a0%88%e5%b7%9d%e5%a4%a9%e5%bf%83) | N/A |
 | 3 | [ボクシング](http://twitter.com/search?q=%e3%83%9c%e3%82%af%e3%82%b7%e3%83%b3%e3%82%b0) | N/A |
-| 4 | [ラムの正体](http://twitter.com/search?q=%e3%83%a9%e3%83%a0%e3%81%ae%e6%ad%a3%e4%bd%93) | N/A |
-| 5 | [与那覇選手](http://twitter.com/search?q=%e4%b8%8e%e9%82%a3%e8%a6%87%e9%81%b8%e6%89%8b) | N/A |
-| 6 | [アクスタ浴衣](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%b9%e3%82%bf%e6%b5%b4%e8%a1%a3) | N/A |
-| 7 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
-| 8 | [#オモコロチャンネル](http://twitter.com/search?q=%23%e3%82%aa%e3%83%a2%e3%82%b3%e3%83%ad%e3%83%81%e3%83%a3%e3%83%b3%e3%83%8d%e3%83%ab) | N/A |
-| 9 | [#黒ずくめの謀略正体](http://twitter.com/search?q=%23%e9%bb%92%e3%81%9a%e3%81%8f%e3%82%81%e3%81%ae%e8%ac%80%e7%95%a5%e6%ad%a3%e4%bd%93) | N/A |
-| 10 | [寿司ガキ](http://twitter.com/search?q=%e5%af%bf%e5%8f%b8%e3%82%ac%e3%82%ad) | N/A |
-| 11 | [マジミラ](http://twitter.com/search?q=%e3%83%9e%e3%82%b8%e3%83%9f%e3%83%a9) | N/A |
-| 12 | [エエヤン](http://twitter.com/search?q=%e3%82%a8%e3%82%a8%e3%83%a4%e3%83%b3) | N/A |
-| 13 | [佐々木尽](http://twitter.com/search?q=%e4%bd%90%e3%80%85%e6%9c%a8%e5%b0%bd) | N/A |
-| 14 | [パンチ力](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%83%81%e5%8a%9b) | N/A |
-| 15 | [横浜ダービー](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
-| 16 | [まりほー](http://twitter.com/search?q=%e3%81%be%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
-| 17 | [ガゼルマン](http://twitter.com/search?q=%e3%82%ac%e3%82%bc%e3%83%ab%e3%83%9e%e3%83%b3) | N/A |
-| 18 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
-| 19 | [RUMの正体](http://twitter.com/search?q=RUM%e3%81%ae%e6%ad%a3%e4%bd%93) | N/A |
-| 20 | [ドゥドゥ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%89%e3%82%a5) | N/A |
-| 21 | [天心くん](http://twitter.com/search?q=%e5%a4%a9%e5%bf%83%e3%81%8f%e3%82%93) | N/A |
-| 22 | [井上尚弥](http://twitter.com/search?q=%e4%ba%95%e4%b8%8a%e5%b0%9a%e5%bc%a5) | N/A |
-| 23 | [平沢大河](http://twitter.com/search?q=%e5%b9%b3%e6%b2%a2%e5%a4%a7%e6%b2%b3) | N/A |
-| 24 | [クチルズ](http://twitter.com/search?q=%e3%82%af%e3%83%81%e3%83%ab%e3%82%ba) | N/A |
-| 25 | [判定勝ち](http://twitter.com/search?q=%e5%88%a4%e5%ae%9a%e5%8b%9d%e3%81%a1) | N/A |
-| 26 | [サウンドビバーチェ](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%83%b3%e3%83%89%e3%83%93%e3%83%90%e3%83%bc%e3%83%81%e3%82%a7) | N/A |
-| 27 | [キャメル](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%a1%e3%83%ab) | キャメル (kyameru) is a Japanese word that refers to the color camel, which is a light brownish-yellow hue. In English, it can be translated as "camel" or "light tan". |
-| 28 | [ドルチェモア](http://twitter.com/search?q=%e3%83%89%e3%83%ab%e3%83%81%e3%82%a7%e3%83%a2%e3%82%a2) | N/A |
-| 29 | [期日前投票](http://twitter.com/search?q=%e6%9c%9f%e6%97%a5%e5%89%8d%e6%8a%95%e7%a5%a8) | N/A |
-| 30 | [騎乗停止](http://twitter.com/search?q=%e9%a8%8e%e4%b9%97%e5%81%9c%e6%ad%a2) | N/A |
-| 31 | [ボクサー](http://twitter.com/search?q=%e3%83%9c%e3%82%af%e3%82%b5%e3%83%bc) | N/A |
-| 32 | [U-12](http://twitter.com/search?q=U-12) | N/A |
-| 33 | [まけほー](http://twitter.com/search?q=%e3%81%be%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
-| 34 | [長尾くん](http://twitter.com/search?q=%e9%95%b7%e5%b0%be%e3%81%8f%e3%82%93) | 長尾くん (Nagao-kun) is a Japanese manga series written and illustrated by Takashi Fukutani. It follows the story of Nagao, a high school student who is struggling to find his place in the world. The title of the series is a play on words, as "nagao" can mean both "long tail" and "long life". In English, it could be translated as "Long Tail Boy". |
-| 35 | [ジュビロ](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%93%e3%83%ad) | N/A |
-| 36 | [赤井さん](http://twitter.com/search?q=%e8%b5%a4%e4%ba%95%e3%81%95%e3%82%93) | 赤井さん is a Japanese honorific title used to refer to someone with the surname Akai. It is roughly equivalent to "Mr. Akai" in English. |
-| 37 | [天心のパンチ](http://twitter.com/search?q=%e5%a4%a9%e5%bf%83%e3%81%ae%e3%83%91%e3%83%b3%e3%83%81) | N/A |
-| 38 | [旧fine](http://twitter.com/search?q=%e6%97%a7fine) | 旧fine is a Japanese slang term that means “very good” or “excellent.” It is often used to express approval or admiration for something. |
-| 39 | [れおほー](http://twitter.com/search?q=%e3%82%8c%e3%81%8a%e3%81%bb%e3%83%bc) | N/A |
-| 40 | [那須川選手](http://twitter.com/search?q=%e9%82%a3%e9%a0%88%e5%b7%9d%e9%81%b8%e6%89%8b) | N/A |
-| 41 | [コピー本](http://twitter.com/search?q=%e3%82%b3%e3%83%94%e3%83%bc%e6%9c%ac) | N/A |
-| 42 | [赤楚くん](http://twitter.com/search?q=%e8%b5%a4%e6%a5%9a%e3%81%8f%e3%82%93) | 赤楚くん is a nickname given to the Japanese actor and singer, Kento Nakajima. It is derived from the phrase "赤い楚々", which means "bold and brave". In English, it can be translated to mean "Red-Bold Nakajima". |
-| 43 | [セットプレー](http://twitter.com/search?q=%e3%82%bb%e3%83%83%e3%83%88%e3%83%97%e3%83%ac%e3%83%bc) | N/A |
-| 44 | [涌井さん](http://twitter.com/search?q=%e6%b6%8c%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 45 | [ピンクパーカー](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%83%91%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
-| 46 | [フランコ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b3) | N/A |
-| 47 | [与那覇さん](http://twitter.com/search?q=%e4%b8%8e%e9%82%a3%e8%a6%87%e3%81%95%e3%82%93) | N/A |
-| 48 | [大竹くん](http://twitter.com/search?q=%e5%a4%a7%e7%ab%b9%e3%81%8f%e3%82%93) | N/A |
-| 49 | [クイーン部門](http://twitter.com/search?q=%e3%82%af%e3%82%a4%e3%83%bc%e3%83%b3%e9%83%a8%e9%96%80) | N/A |
-| 50 | [Get Wildの日](http://twitter.com/search?q=Get+Wild%e3%81%ae%e6%97%a5) | N/A |
+| 4 | [アーチェリー](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%81%e3%82%a7%e3%83%aa%e3%83%bc) | N/A |
+| 5 | [#オモコロチャンネル](http://twitter.com/search?q=%23%e3%82%aa%e3%83%a2%e3%82%b3%e3%83%ad%e3%83%81%e3%83%a3%e3%83%b3%e3%83%8d%e3%83%ab) | N/A |
+| 6 | [ラムの正体](http://twitter.com/search?q=%e3%83%a9%e3%83%a0%e3%81%ae%e6%ad%a3%e4%bd%93) | N/A |
+| 7 | [デビュー戦](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e6%88%a6) | N/A |
+| 8 | [与那覇選手](http://twitter.com/search?q=%e4%b8%8e%e9%82%a3%e8%a6%87%e9%81%b8%e6%89%8b) | N/A |
+| 9 | [アクスタ浴衣](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%b9%e3%82%bf%e6%b5%b4%e8%a1%a3) | N/A |
+| 10 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
+| 11 | [ムツゴロウさんの追悼番組](http://twitter.com/search?q=%e3%83%a0%e3%83%84%e3%82%b4%e3%83%ad%e3%82%a6%e3%81%95%e3%82%93%e3%81%ae%e8%bf%bd%e6%82%bc%e7%95%aa%e7%b5%84) | N/A |
+| 12 | [VACHSS](http://twitter.com/search?q=VACHSS) | N/A |
+| 13 | [#世界一受けたい授業](http://twitter.com/search?q=%23%e4%b8%96%e7%95%8c%e4%b8%80%e5%8f%97%e3%81%91%e3%81%9f%e3%81%84%e6%8e%88%e6%a5%ad) | N/A |
+| 14 | [寿司ガキ](http://twitter.com/search?q=%e5%af%bf%e5%8f%b8%e3%82%ac%e3%82%ad) | N/A |
+| 15 | [井上尚弥](http://twitter.com/search?q=%e4%ba%95%e4%b8%8a%e5%b0%9a%e5%bc%a5) | N/A |
+| 16 | [ココロジョジョル第6部](http://twitter.com/search?q=%e3%82%b3%e3%82%b3%e3%83%ad%e3%82%b8%e3%83%a7%e3%82%b8%e3%83%a7%e3%83%ab%e7%ac%ac6%e9%83%a8) | N/A |
+| 17 | [マジミラ](http://twitter.com/search?q=%e3%83%9e%e3%82%b8%e3%83%9f%e3%83%a9) | N/A |
+| 18 | [山田くん](http://twitter.com/search?q=%e5%b1%b1%e7%94%b0%e3%81%8f%e3%82%93) | 山田くん is a Japanese name, and it translates to "Mr. Yamada" in English. |
+| 19 | [横浜ダービー](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
+| 20 | [一般部門](http://twitter.com/search?q=%e4%b8%80%e8%88%ac%e9%83%a8%e9%96%80) | N/A |
+| 21 | [横浜FC](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9cFC) | N/A |
+| 22 | [smth](http://twitter.com/search?q=smth) | "Smth" is an abbreviation for "something". It is used to refer to an unspecified thing or concept. |
+| 23 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
+| 24 | [井上拓真](http://twitter.com/search?q=%e4%ba%95%e4%b8%8a%e6%8b%93%e7%9c%9f) | N/A |
+| 25 | [大泉さん](http://twitter.com/search?q=%e5%a4%a7%e6%b3%89%e3%81%95%e3%82%93) | N/A |
+| 26 | [RUMの正体](http://twitter.com/search?q=RUM%e3%81%ae%e6%ad%a3%e4%bd%93) | N/A |
+| 27 | [今田さん](http://twitter.com/search?q=%e4%bb%8a%e7%94%b0%e3%81%95%e3%82%93) | N/A |
+| 28 | [オフサイド](http://twitter.com/search?q=%e3%82%aa%e3%83%95%e3%82%b5%e3%82%a4%e3%83%89) | オフサイド (Offside) is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field, or closer to the goal line than both the ball and the second-to-last defender, when the ball is passed to them. In English, it is referred to as "offside". |
+| 29 | [クイーン部門](http://twitter.com/search?q=%e3%82%af%e3%82%a4%e3%83%bc%e3%83%b3%e9%83%a8%e9%96%80) | N/A |
+| 30 | [洋ちゃん](http://twitter.com/search?q=%e6%b4%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 31 | [パンチ力](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%83%81%e5%8a%9b) | N/A |
+| 32 | [判定勝ち](http://twitter.com/search?q=%e5%88%a4%e5%ae%9a%e5%8b%9d%e3%81%a1) | N/A |
+| 33 | [マルコス](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b3%e3%82%b9) | N/A |
+| 34 | [天心くん](http://twitter.com/search?q=%e5%a4%a9%e5%bf%83%e3%81%8f%e3%82%93) | N/A |
+| 35 | [相葉くん](http://twitter.com/search?q=%e7%9b%b8%e8%91%89%e3%81%8f%e3%82%93) | 相葉くん is a nickname for Japanese singer and actor Masaki Aiba, who is a member of the popular boy band Arashi. The name roughly translates to "Mr. Aiba" in English. |
+| 36 | [オージーオープン](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%bc%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3) | N/A |
+| 37 | [アナコンダ](http://twitter.com/search?q=%e3%82%a2%e3%83%8a%e3%82%b3%e3%83%b3%e3%83%80) | アナコンダ is a Japanese animated film series created by Hayao Miyazaki and produced by Studio Ghibli. The title is a combination of the words "anata" (you) and "konda" (heard). In English, it translates to "You Heard It". |
+| 38 | [選挙カー](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%82%ab%e3%83%bc) | N/A |
+| 39 | [期日前投票](http://twitter.com/search?q=%e6%9c%9f%e6%97%a5%e5%89%8d%e6%8a%95%e7%a5%a8) | N/A |
+| 40 | [佐々木尽](http://twitter.com/search?q=%e4%bd%90%e3%80%85%e6%9c%a8%e5%b0%bd) | N/A |
+| 41 | [クチルズ](http://twitter.com/search?q=%e3%82%af%e3%83%81%e3%83%ab%e3%82%ba) | N/A |
+| 42 | [ドゥドゥ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%89%e3%82%a5) | N/A |
+| 43 | [藤木直人](http://twitter.com/search?q=%e8%97%a4%e6%9c%a8%e7%9b%b4%e4%ba%ba) | 藤木直人 is a Japanese name. It is composed of two characters: 藤 (tō) meaning "wisteria" and 木 (ki) meaning "tree", and 直 (nao) meaning "straight" and 人 (hito) meaning "person". In English, the name could be translated as "Straight Person of Wisteria Tree". |
+| 44 | [和歌子さん](http://twitter.com/search?q=%e5%92%8c%e6%ad%8c%e5%ad%90%e3%81%95%e3%82%93) | N/A |
+| 45 | [環奈ちゃん](http://twitter.com/search?q=%e7%92%b0%e5%a5%88%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 46 | [かんちさん](http://twitter.com/search?q=%e3%81%8b%e3%82%93%e3%81%a1%e3%81%95%e3%82%93) | N/A |
+| 47 | [エエヤン](http://twitter.com/search?q=%e3%82%a8%e3%82%a8%e3%83%a4%e3%83%b3) | N/A |
+| 48 | [救援サイト](http://twitter.com/search?q=%e6%95%91%e6%8f%b4%e3%82%b5%e3%82%a4%e3%83%88) | N/A |
+| 49 | [旧fine](http://twitter.com/search?q=%e6%97%a7fine) | 旧fine is a Japanese slang term that means “very good” or “excellent.” It is often used to express approval or admiration for something. |
+| 50 | [相葉ちゃん](http://twitter.com/search?q=%e7%9b%b8%e8%91%89%e3%81%a1%e3%82%83%e3%82%93) | 相葉ちゃん is a nickname for Japanese singer and actor Aiba Masaki. It is a combination of his given name, Aiba, and the Japanese honorific suffix “chan” which is used to express endearment. In English, it can be translated as “Masaki-chan”. |
 
 
 

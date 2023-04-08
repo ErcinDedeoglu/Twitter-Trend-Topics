@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-04-08 10:17:34 UTC`
+📆 Last Updated: `2023-04-08 11:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TimelessXMicrovest](http://twitter.com/search?q=%23TimelessXMicrovest) | N/A |
-| 2 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 3 | [Soyinka](http://twitter.com/search?q=Soyinka) | N/A |
-| 4 | [#TECNOxEasybuy](http://twitter.com/search?q=%23TECNOxEasybuy) | N/A |
-| 5 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 6 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
-| 7 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
-| 8 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 9 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 10 | [Datti](http://twitter.com/search?q=Datti) | N/A |
-| 11 | [Toyin Abraham](http://twitter.com/search?q=Toyin+Abraham) | N/A |
-| 12 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
-| 13 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 14 | [#TheFaceOfGod](http://twitter.com/search?q=%23TheFaceOfGod) | N/A |
-| 15 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 16 | [#leksydx9iceholymichael](http://twitter.com/search?q=%23leksydx9iceholymichael) | N/A |
+| 1 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 2 | [#TimelessXMicrovest](http://twitter.com/search?q=%23TimelessXMicrovest) | N/A |
+| 3 | [#TECNOxEasybuy](http://twitter.com/search?q=%23TECNOxEasybuy) | N/A |
+| 4 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 5 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 6 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 7 | [Soyinka](http://twitter.com/search?q=Soyinka) | N/A |
+| 8 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
+| 9 | [#HalleluyahLilyperez](http://twitter.com/search?q=%23HalleluyahLilyperez) | N/A |
+| 10 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
+| 11 | [#BudweiserKingsOfFootballShow](http://twitter.com/search?q=%23BudweiserKingsOfFootballShow) | N/A |
+| 12 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 13 | [Toyin Abraham](http://twitter.com/search?q=Toyin+Abraham) | N/A |
+| 14 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
+| 15 | [Datti](http://twitter.com/search?q=Datti) | N/A |
+| 16 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
 | 17 | [Rinu](http://twitter.com/search?q=Rinu) | N/A |
-| 18 | [Tobi Bakre](http://twitter.com/search?q=Tobi+Bakre) | N/A |
-| 19 | [Dele Alake](http://twitter.com/search?q=Dele+Alake) | N/A |
-| 20 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 21 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 22 | [TKJ THE BRAND](http://twitter.com/search?q=TKJ+THE+BRAND) | N/A |
-| 23 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 24 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
-| 25 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
-| 26 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
-| 27 | [Instablog](http://twitter.com/search?q=Instablog) | N/A |
-| 28 | [Slim](http://twitter.com/search?q=Slim) | Slim is an adjective that means thin or slender. It can also be used to describe something that is small in size or amount. |
-| 29 | [Brother Bernard](http://twitter.com/search?q=Brother+Bernard) | N/A |
-| 30 | [Robben](http://twitter.com/search?q=Robben) | N/A |
-| 31 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 32 | [PROJECT 24 CHALLENGE](http://twitter.com/search?q=PROJECT+24+CHALLENGE) | N/A |
-| 33 | [Julius Abure](http://twitter.com/search?q=Julius+Abure) | N/A |
-| 34 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 35 | [North](http://twitter.com/search?q=North) | N/A |
-| 36 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 37 | [Today is Saturday](http://twitter.com/search?q=Today+is+Saturday) | N/A |
-| 38 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 39 | [yvonne the brand](http://twitter.com/search?q=yvonne+the+brand) | N/A |
-| 40 | [Another Saturday](http://twitter.com/search?q=Another+Saturday) | N/A |
-| 41 | [Lamidi Apapa](http://twitter.com/search?q=Lamidi+Apapa) | N/A |
-| 42 | [Kyle XY](http://twitter.com/search?q=Kyle+XY) | N/A |
-| 43 | [TSATSII X SUNRISERS](http://twitter.com/search?q=TSATSII+X+SUNRISERS) | N/A |
-| 44 | [DRAW PHYNA](http://twitter.com/search?q=DRAW+PHYNA) | N/A |
+| 18 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 19 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
+| 20 | [Slim](http://twitter.com/search?q=Slim) | Slim is an adjective that means thin or slender. It can also be used to describe something that is small in size or amount. |
+| 21 | [Dele Alake](http://twitter.com/search?q=Dele+Alake) | N/A |
+| 22 | [Tobi Bakre](http://twitter.com/search?q=Tobi+Bakre) | N/A |
+| 23 | [Instablog](http://twitter.com/search?q=Instablog) | N/A |
+| 24 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 25 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 26 | [TKJ THE BRAND](http://twitter.com/search?q=TKJ+THE+BRAND) | N/A |
+| 27 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 28 | [Ruffy](http://twitter.com/search?q=Ruffy) | N/A |
+| 29 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
+| 30 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
+| 31 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
+| 32 | [North](http://twitter.com/search?q=North) | N/A |
+| 33 | [France 24](http://twitter.com/search?q=France+24) | N/A |
+| 34 | [Bisola](http://twitter.com/search?q=Bisola) | N/A |
+| 35 | [YVONNE THE STANDARD](http://twitter.com/search?q=YVONNE+THE+STANDARD) | N/A |
+| 36 | [Today is Saturday](http://twitter.com/search?q=Today+is+Saturday) | N/A |
+| 37 | [Kyle XY](http://twitter.com/search?q=Kyle+XY) | N/A |
+| 38 | [PROJECT 24 CHALLENGE](http://twitter.com/search?q=PROJECT+24+CHALLENGE) | N/A |
+| 39 | [Snoop Dogg](http://twitter.com/search?q=Snoop+Dogg) | N/A |
+| 40 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 41 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 42 | [Julius Abure](http://twitter.com/search?q=Julius+Abure) | N/A |
+| 43 | [YVONNE THE BRAND](http://twitter.com/search?q=YVONNE+THE+BRAND) | N/A |
+| 44 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 45 | [Kazeem](http://twitter.com/search?q=Kazeem) | N/A |
-| 46 | [Funke Akindele](http://twitter.com/search?q=Funke+Akindele) | N/A |
+| 46 | [Robben](http://twitter.com/search?q=Robben) | N/A |
 
 
 
