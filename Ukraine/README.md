@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-04-08 14:17:33 UTC`
+📆 Last Updated: `2023-04-08 15:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ukraine
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 2 | [Kramatorsk](http://twitter.com/search?q=Kramatorsk) | N/A |
-| 3 | [#RussiaisATerroistState](http://twitter.com/search?q=%23RussiaisATerroistState) | N/A |
-| 4 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
-| 5 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 6 | [Кайф](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b9%d1%84) | N/A |
-| 7 | [арестович](http://twitter.com/search?q=%d0%b0%d1%80%d0%b5%d1%81%d1%82%d0%be%d0%b2%d0%b8%d1%87) | N/A |
-| 8 | [telegram](http://twitter.com/search?q=telegram) | N/A |
-| 9 | [Donetsk](http://twitter.com/search?q=Donetsk) | N/A |
-| 10 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 11 | [Норм](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc) | N/A |
-| 12 | [#gaming](http://twitter.com/search?q=%23gaming) | N/A |
-| 13 | [#QuaiNetwork](http://twitter.com/search?q=%23QuaiNetwork) | N/A |
-| 14 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 15 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 16 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 17 | [Запорожской](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%be%d1%80%d0%be%d0%b6%d1%81%d0%ba%d0%be%d0%b9) | N/A |
-| 18 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 19 | [#indiedev](http://twitter.com/search?q=%23indiedev) | N/A |
-| 20 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
-| 21 | [понимаю](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
-| 22 | [Greek](http://twitter.com/search?q=Greek) | N/A |
-| 23 | [херсоне](http://twitter.com/search?q=%d1%85%d0%b5%d1%80%d1%81%d0%be%d0%bd%d0%b5) | N/A |
-| 24 | [Patreon](http://twitter.com/search?q=Patreon) | N/A |
-| 25 | [Руси](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%b8) | N/A |
-| 26 | [красиво](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
-| 27 | [Kharkiv](http://twitter.com/search?q=Kharkiv) | N/A |
-| 28 | [Який](http://twitter.com/search?q=%d0%af%d0%ba%d0%b8%d0%b9) | N/A |
-| 29 | [General Staff](http://twitter.com/search?q=General+Staff) | N/A |
-| 30 | [Бахмуте](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b5) | N/A |
-| 31 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
-| 32 | [Богу](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d1%83) | N/A |
-| 33 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 34 | [завтра](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
-| 35 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 36 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
-| 37 | [раночку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
-| 38 | [бразилии](http://twitter.com/search?q=%d0%b1%d1%80%d0%b0%d0%b7%d0%b8%d0%bb%d0%b8%d0%b8) | N/A |
-| 39 | [Polish](http://twitter.com/search?q=Polish) | N/A |
-| 40 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
-| 41 | [Какого](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 42 | [Москву](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%83) | N/A |
-| 43 | [Показуйте](http://twitter.com/search?q=%d0%9f%d0%be%d0%ba%d0%b0%d0%b7%d1%83%d0%b9%d1%82%d0%b5) | N/A |
-| 44 | [Воронеж](http://twitter.com/search?q=%d0%92%d0%be%d1%80%d0%be%d0%bd%d0%b5%d0%b6) | N/A |
-| 45 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
-| 46 | [єбать](http://twitter.com/search?q=%d1%94%d0%b1%d0%b0%d1%82%d1%8c) | N/A |
-| 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 48 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 49 | [в россии](http://twitter.com/search?q=%d0%b2+%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 50 | [взаимно](http://twitter.com/search?q=%d0%b2%d0%b7%d0%b0%d0%b8%d0%bc%d0%bd%d0%be) | N/A |
+| 1 | [Kramatorsk](http://twitter.com/search?q=Kramatorsk) | N/A |
+| 2 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 3 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
+| 4 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 5 | [Кайф](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b9%d1%84) | N/A |
+| 6 | [арестович](http://twitter.com/search?q=%d0%b0%d1%80%d0%b5%d1%81%d1%82%d0%be%d0%b2%d0%b8%d1%87) | N/A |
+| 7 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 8 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 9 | [Запорожской](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%be%d1%80%d0%be%d0%b6%d1%81%d0%ba%d0%be%d0%b9) | N/A |
+| 10 | [#gaming](http://twitter.com/search?q=%23gaming) | N/A |
+| 11 | [#UkraineRussiaWar️](http://twitter.com/search?q=%23UkraineRussiaWar%ef%b8%8f) | N/A |
+| 12 | [#QuaiNetwork](http://twitter.com/search?q=%23QuaiNetwork) | N/A |
+| 13 | [Donetsk](http://twitter.com/search?q=Donetsk) | N/A |
+| 14 | [Норм](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc) | N/A |
+| 15 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 16 | [#Dota2](http://twitter.com/search?q=%23Dota2) | N/A |
+| 17 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 18 | [Тайвань](http://twitter.com/search?q=%d0%a2%d0%b0%d0%b9%d0%b2%d0%b0%d0%bd%d1%8c) | N/A |
+| 19 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 20 | [понимаю](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
+| 21 | [Greek](http://twitter.com/search?q=Greek) | N/A |
+| 22 | [херсоне](http://twitter.com/search?q=%d1%85%d0%b5%d1%80%d1%81%d0%be%d0%bd%d0%b5) | N/A |
+| 23 | [Patreon](http://twitter.com/search?q=Patreon) | N/A |
+| 24 | [Руси](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%b8) | N/A |
+| 25 | [красиво](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 26 | [General Staff](http://twitter.com/search?q=General+Staff) | N/A |
+| 27 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
+| 28 | [Богу](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d1%83) | N/A |
+| 29 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 30 | [завтра](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
+| 31 | [раночку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
+| 32 | [бразилии](http://twitter.com/search?q=%d0%b1%d1%80%d0%b0%d0%b7%d0%b8%d0%bb%d0%b8%d0%b8) | N/A |
+| 33 | [Polish](http://twitter.com/search?q=Polish) | N/A |
+| 34 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
+| 35 | [Бахмуте](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b5) | N/A |
+| 36 | [какого](http://twitter.com/search?q=%d0%ba%d0%b0%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 37 | [в россии](http://twitter.com/search?q=%d0%b2+%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 38 | [Показуйте](http://twitter.com/search?q=%d0%9f%d0%be%d0%ba%d0%b0%d0%b7%d1%83%d0%b9%d1%82%d0%b5) | N/A |
+| 39 | [Воронеж](http://twitter.com/search?q=%d0%92%d0%be%d1%80%d0%be%d0%bd%d0%b5%d0%b6) | N/A |
+| 40 | [єбать](http://twitter.com/search?q=%d1%94%d0%b1%d0%b0%d1%82%d1%8c) | N/A |
+| 41 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 42 | [Москвы](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%8b) | N/A |
+| 43 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 44 | [взаимно](http://twitter.com/search?q=%d0%b2%d0%b7%d0%b0%d0%b8%d0%bc%d0%bd%d0%be) | N/A |
+| 45 | [Може](http://twitter.com/search?q=%d0%9c%d0%be%d0%b6%d0%b5) | N/A |
+| 46 | [Kharkiv](http://twitter.com/search?q=Kharkiv) | N/A |
+| 47 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 48 | [плачу](http://twitter.com/search?q=%d0%bf%d0%bb%d0%b0%d1%87%d1%83) | N/A |
+| 49 | [така](http://twitter.com/search?q=%d1%82%d0%b0%d0%ba%d0%b0) | N/A |
+| 50 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
 
 
 

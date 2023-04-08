@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-04-08 14:17:14 UTC`
+📆 Last Updated: `2023-04-08 15:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dhoni](http://twitter.com/search?q=Dhoni) | N/A |
-| 2 | [Sharad Pawar](http://twitter.com/search?q=Sharad+Pawar) | N/A |
+| 1 | [#Vi20FANFest](http://twitter.com/search?q=%23Vi20FANFest) | N/A |
+| 2 | [Dhoni Review System](http://twitter.com/search?q=Dhoni+Review+System) | N/A |
 | 3 | [#MIvsCSK](http://twitter.com/search?q=%23MIvsCSK) | N/A |
-| 4 | [#RRvDC](http://twitter.com/search?q=%23RRvDC) | N/A |
+| 4 | [#IDFCFIRSTBank](http://twitter.com/search?q=%23IDFCFIRSTBank) | N/A |
 | 5 | [#EarnRealCashOn96](http://twitter.com/search?q=%23EarnRealCashOn96) | N/A |
-| 6 | [#DCvsRR](http://twitter.com/search?q=%23DCvsRR) | N/A |
-| 7 | [#MUNEVE](http://twitter.com/search?q=%23MUNEVE) | #MUNEVE is a hashtag used to promote the Muneve app, which is an online platform that helps people find and book beauty services. The hashtag is used to share user experiences, tips, and advice related to beauty services. In English, #MUNEVE means "My Beauty Experience". |
-| 8 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 9 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 10 | [Rahane](http://twitter.com/search?q=Rahane) | Rahane is a Hindu name derived from the Sanskrit word 'rajan', meaning 'king'. It is commonly used as a first name for boys in India. |
-| 11 | [Bumrah](http://twitter.com/search?q=Bumrah) | N/A |
-| 12 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
-| 13 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 14 | [Magala](http://twitter.com/search?q=Magala) | N/A |
-| 15 | [Moeen](http://twitter.com/search?q=Moeen) | N/A |
-| 16 | [We Love Sidharth Shukla](http://twitter.com/search?q=We+Love+Sidharth+Shukla) | N/A |
-| 17 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 18 | [Deepak Chahar](http://twitter.com/search?q=Deepak+Chahar) | N/A |
-| 19 | [Newlands Cricket Ground](http://twitter.com/search?q=Newlands+Cricket+Ground) | N/A |
-| 20 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 21 | [Trent Boult](http://twitter.com/search?q=Trent+Boult) | N/A |
-| 22 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 23 | [Riyan Parag](http://twitter.com/search?q=Riyan+Parag) | N/A |
-| 24 | [Wankhede](http://twitter.com/search?q=Wankhede) | N/A |
-| 25 | [2nd Innings Score](http://twitter.com/search?q=2nd+Innings+Score) | N/A |
-| 26 | [WE WANT BAWAAL POSTER](http://twitter.com/search?q=WE+WANT+BAWAAL+POSTER) | N/A |
-| 27 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 28 | [Batsman](http://twitter.com/search?q=Batsman) | Batsman is a term used in cricket to refer to the player who stands at the batting crease and faces the bowler. The batsman's primary role is to score runs by hitting the ball with their bat. |
-| 29 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 30 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 31 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 32 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 33 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 34 | [Archer](http://twitter.com/search?q=Archer) | N/A |
-| 35 | [Rayudu](http://twitter.com/search?q=Rayudu) | N/A |
-| 36 | [Manish Pandey](http://twitter.com/search?q=Manish+Pandey) | N/A |
-| 37 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 38 | [Bowler with Worst ER](http://twitter.com/search?q=Bowler+with+Worst+ER) | Bowler with Worst ER is a statistic used in cricket to measure the effectiveness of a bowler. It stands for Economy Rate, which is the number of runs conceded per over bowled. It is calculated by dividing the total number of runs conceded by the total number of overs bowled. A bowler with the worst ER will have conceded the most runs per over, indicating that they are not very effective at containing batsmen and preventing them from scoring runs. |
-| 39 | [Chennai Super Kings](http://twitter.com/search?q=Chennai+Super+Kings) | N/A |
-| 40 | [Amul](http://twitter.com/search?q=Amul) | N/A |
-| 41 | [Match 12](http://twitter.com/search?q=Match+12) | N/A |
-| 42 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 43 | [Ishan Kishan](http://twitter.com/search?q=Ishan+Kishan) | Ishan Kishan is an Indian cricketer who plays for the Mumbai Indians in the Indian Premier League. His name is derived from two Hindu gods, Isha and Kishan, which mean "Lord of the Universe" and "Protector of the Earth" respectively. In English, Ishan Kishan means "Lord of the Universe and Protector of the Earth". |
-| 44 | [Sanju Samson](http://twitter.com/search?q=Sanju+Samson) | N/A |
-| 45 | [Mumbai Indians](http://twitter.com/search?q=Mumbai+Indians) | N/A |
-| 46 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 47 | [दलित महिला](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 48 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 49 | [शकूर खान](http://twitter.com/search?q=%e0%a4%b6%e0%a4%95%e0%a5%82%e0%a4%b0+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 6 | [#RRvDC](http://twitter.com/search?q=%23RRvDC) | N/A |
+| 7 | [PAKISTANI SUAR SRK](http://twitter.com/search?q=PAKISTANI+SUAR+SRK) | N/A |
+| 8 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
+| 9 | [THARKI BUDDHA KHILODA](http://twitter.com/search?q=THARKI+BUDDHA+KHILODA) | N/A |
+| 10 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 11 | [Magala](http://twitter.com/search?q=Magala) | N/A |
+| 12 | [Rahane](http://twitter.com/search?q=Rahane) | Rahane is a Hindu name derived from the Sanskrit word 'rajan', meaning 'king'. It is commonly used as a first name for boys in India. |
+| 13 | [CANADIAN DOG AKKI](http://twitter.com/search?q=CANADIAN+DOG+AKKI) | N/A |
+| 14 | [Tushar Deshpande](http://twitter.com/search?q=Tushar+Deshpande) | N/A |
+| 15 | [Santner](http://twitter.com/search?q=Santner) | Santner is a German surname derived from the word "Sandner," which means "sandy area." The name is most commonly found in the Bavarian region of Germany. |
+| 16 | [Wankhede](http://twitter.com/search?q=Wankhede) | N/A |
+| 17 | [MAKEUP QUEEN SRK](http://twitter.com/search?q=MAKEUP+QUEEN+SRK) | N/A |
+| 18 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 19 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 20 | [Stubbs](http://twitter.com/search?q=Stubbs) | N/A |
+| 21 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
+| 22 | [HAAFIZ KI RAAN HAKLODA](http://twitter.com/search?q=HAAFIZ+KI+RAAN+HAKLODA) | N/A |
+| 23 | [Tilak](http://twitter.com/search?q=Tilak) | N/A |
+| 24 | [We Love Sidharth Shukla](http://twitter.com/search?q=We+Love+Sidharth+Shukla) | N/A |
+| 25 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 26 | [Ishan](http://twitter.com/search?q=Ishan) | N/A |
+| 27 | [Deepak Chahar](http://twitter.com/search?q=Deepak+Chahar) | N/A |
+| 28 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
+| 29 | [Moeen](http://twitter.com/search?q=Moeen) | N/A |
+| 30 | [Bumrah](http://twitter.com/search?q=Bumrah) | N/A |
+| 31 | [WE WANT BAWAAL POSTER](http://twitter.com/search?q=WE+WANT+BAWAAL+POSTER) | N/A |
+| 32 | [SUPER CHARMING DIVA SHEHNAAZ](http://twitter.com/search?q=SUPER+CHARMING+DIVA+SHEHNAAZ) | N/A |
+| 33 | [Newlands Cricket Ground](http://twitter.com/search?q=Newlands+Cricket+Ground) | N/A |
+| 34 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 35 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 36 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 37 | [2nd Innings Score](http://twitter.com/search?q=2nd+Innings+Score) | N/A |
+| 38 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
+| 39 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 40 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 41 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 42 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 43 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 44 | [Cameron Green](http://twitter.com/search?q=Cameron+Green) | Cameron Green is a Scottish surname. It is derived from the Gaelic words cam (crooked) and sron (nose), meaning "crooked nose". |
+| 45 | [Boult](http://twitter.com/search?q=Boult) | N/A |
+| 46 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 47 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 48 | [Riyan Parag](http://twitter.com/search?q=Riyan+Parag) | N/A |
+| 49 | [Arjun Tendulkar](http://twitter.com/search?q=Arjun+Tendulkar) | N/A |
 
 
 

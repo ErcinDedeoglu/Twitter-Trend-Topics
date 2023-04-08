@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-04-08 14:16:55 UTC`
+📆 Last Updated: `2023-04-08 15:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#SCFFCB](http://twitter.com/search?q=%23SCFFCB) | N/A |
 | 2 | [#BVBFCU](http://twitter.com/search?q=%23BVBFCU) | N/A |
-| 3 | [#HSVH96](http://twitter.com/search?q=%23HSVH96) | N/A |
-| 4 | [#B04SGE](http://twitter.com/search?q=%23B04SGE) | N/A |
-| 5 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 6 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 8 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 9 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
-| 10 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 11 | [Ostersamstag](http://twitter.com/search?q=Ostersamstag) | N/A |
-| 12 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
-| 13 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 14 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
-| 15 | [Tore](http://twitter.com/search?q=Tore) | N/A |
-| 16 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
-| 17 | [Game One](http://twitter.com/search?q=Game+One) | N/A |
-| 18 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 19 | [torverhältnis](http://twitter.com/search?q=torverh%c3%a4ltnis) | N/A |
-| 20 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 21 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 22 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
-| 23 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 24 | [Boyd](http://twitter.com/search?q=Boyd) | N/A |
-| 25 | [Krajnc](http://twitter.com/search?q=Krajnc) | N/A |
-| 26 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 27 | [Stimmung im Land](http://twitter.com/search?q=Stimmung+im+Land) | N/A |
-| 28 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 29 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 30 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 31 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
-| 32 | [Benes](http://twitter.com/search?q=Benes) | N/A |
-| 33 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
-| 34 | [Zolinski](http://twitter.com/search?q=Zolinski) | N/A |
-| 35 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 36 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
-| 37 | ['Froschperspektive'](http://twitter.com/search?q=%27Froschperspektive%27) | N/A |
-| 38 | [Köhn](http://twitter.com/search?q=K%c3%b6hn) | N/A |
-| 39 | [katterbach](http://twitter.com/search?q=katterbach) | N/A |
-| 40 | [Gruev](http://twitter.com/search?q=Gruev) | N/A |
-| 41 | [Freistoß](http://twitter.com/search?q=Freisto%c3%9f) | N/A |
-| 42 | [Arslan](http://twitter.com/search?q=Arslan) | N/A |
-| 43 | [Strafraum](http://twitter.com/search?q=Strafraum) | N/A |
-| 44 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 45 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 46 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
-| 47 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 48 | [Saison](http://twitter.com/search?q=Saison) | N/A |
-| 49 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
+| 3 | [#B04SGE](http://twitter.com/search?q=%23B04SGE) | N/A |
+| 4 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 5 | [#M05SVW](http://twitter.com/search?q=%23M05SVW) | N/A |
+| 6 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 7 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 8 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 9 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 10 | [Tore](http://twitter.com/search?q=Tore) | N/A |
+| 11 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 12 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 13 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 14 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 15 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
+| 16 | [leverkusen](http://twitter.com/search?q=leverkusen) | N/A |
+| 17 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 18 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 19 | [Abwehr](http://twitter.com/search?q=Abwehr) | N/A |
+| 20 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
+| 21 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
+| 22 | [Kommentator](http://twitter.com/search?q=Kommentator) | N/A |
+| 23 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
+| 24 | [Verteidiger](http://twitter.com/search?q=Verteidiger) | N/A |
+| 25 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 26 | [Verzicht](http://twitter.com/search?q=Verzicht) | N/A |
+| 27 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 28 | [Mainz](http://twitter.com/search?q=Mainz) | Mainz is a city in Germany located on the Rhine River. It is the capital of the state of Rhineland-Palatinate and the seat of the government of the state. In English, Mainz means "Mouth of the Rhine". |
+| 29 | [Aufstellung](http://twitter.com/search?q=Aufstellung) | N/A |
+| 30 | [Offensive](http://twitter.com/search?q=Offensive) | N/A |
+| 31 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
+| 32 | [ostersamstag](http://twitter.com/search?q=ostersamstag) | N/A |
+| 33 | [Supermarkt](http://twitter.com/search?q=Supermarkt) | N/A |
+| 34 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
+| 35 | [Osterfeuer](http://twitter.com/search?q=Osterfeuer) | N/A |
+| 36 | [Rewe](http://twitter.com/search?q=Rewe) | N/A |
+| 37 | [Einkaufen](http://twitter.com/search?q=Einkaufen) | N/A |
+| 38 | [#FCAKOE](http://twitter.com/search?q=%23FCAKOE) | N/A |
+| 39 | [#HSVH96](http://twitter.com/search?q=%23HSVH96) | N/A |
+| 40 | [#effzeh](http://twitter.com/search?q=%23effzeh) | N/A |
+| 41 | [#Werder](http://twitter.com/search?q=%23Werder) | N/A |
+| 42 | [#FCNKSC](http://twitter.com/search?q=%23FCNKSC) | N/A |
+| 43 | [#sgdrwe](http://twitter.com/search?q=%23sgdrwe) | N/A |
+| 44 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
+| 45 | [#EBSFCK](http://twitter.com/search?q=%23EBSFCK) | N/A |
+| 46 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
+| 47 | [#sgd1953](http://twitter.com/search?q=%23sgd1953) | N/A |
+| 48 | [#HFCAUE](http://twitter.com/search?q=%23HFCAUE) | N/A |
+| 49 | [#nurderHSV](http://twitter.com/search?q=%23nurderHSV) | N/A |
 
 
 
