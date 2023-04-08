@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-08 21:17:20 UTC`
+📆 Last Updated: `2023-04-08 22:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for New Zealand
 | 1 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 2 | [#higvhur](http://twitter.com/search?q=%23higvhur) | N/A |
 | 3 | [Broncos](http://twitter.com/search?q=Broncos) | Broncos is a term used to refer to the Denver Broncos, an American football team based in Denver, Colorado. The team competes in the National Football League (NFL) as a member of the American Football Conference (AFC) West division. |
-| 4 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 4 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
 | 5 | [#nzvsl](http://twitter.com/search?q=%23nzvsl) | N/A |
 | 6 | [Disinformation Project](http://twitter.com/search?q=Disinformation+Project) | N/A |
 | 7 | [#SDWS](http://twitter.com/search?q=%23SDWS) | N/A |
-| 8 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
-| 9 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
-| 10 | [#nrlcowboysdolphins](http://twitter.com/search?q=%23nrlcowboysdolphins) | N/A |
-| 11 | [West](http://twitter.com/search?q=West) | N/A |
+| 8 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 9 | [West](http://twitter.com/search?q=West) | N/A |
+| 10 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 11 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
 | 12 | [Sande](http://twitter.com/search?q=Sande) | N/A |
-| 13 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 14 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 15 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 16 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 17 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 18 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 19 | [Randwick](http://twitter.com/search?q=Randwick) | N/A |
-| 20 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 21 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 22 | [kerekere](http://twitter.com/search?q=kerekere) | N/A |
-| 23 | [Roger Douglas](http://twitter.com/search?q=Roger+Douglas) | N/A |
-| 24 | [Christ](http://twitter.com/search?q=Christ) | N/A |
-| 25 | [NZers](http://twitter.com/search?q=NZers) | N/A |
-| 26 | [Sean Plunket](http://twitter.com/search?q=Sean+Plunket) | N/A |
-| 27 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 28 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 29 | [EVERY FIVE MINUTES](http://twitter.com/search?q=EVERY+FIVE+MINUTES) | N/A |
-| 30 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
-| 31 | [BRAG Award](http://twitter.com/search?q=BRAG+Award) | N/A |
-| 32 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
-| 33 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 34 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 35 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 36 | [Governments](http://twitter.com/search?q=Governments) | N/A |
-| 37 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
-| 38 | [Parker](http://twitter.com/search?q=Parker) | N/A |
-| 39 | [OECD](http://twitter.com/search?q=OECD) | N/A |
-| 40 | [Jack Tame](http://twitter.com/search?q=Jack+Tame) | N/A |
-| 41 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
-| 42 | [Marxism](http://twitter.com/search?q=Marxism) | N/A |
-| 43 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 44 | [David](http://twitter.com/search?q=David) | N/A |
-| 45 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
-| 46 | [Maths](http://twitter.com/search?q=Maths) | Maths is short for mathematics, which is the study of numbers, shapes, and patterns. Mathematics is used to solve problems and understand the world around us. It is a fundamental part of science, engineering, technology, finance, and many other fields. |
-| 47 | [Jane](http://twitter.com/search?q=Jane) | N/A |
-| 48 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 49 | [Marxists](http://twitter.com/search?q=Marxists) | N/A |
-| 50 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 13 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 14 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
+| 15 | [Herald](http://twitter.com/search?q=Herald) | N/A |
+| 16 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 17 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 18 | [#SuperRugbyPacific](http://twitter.com/search?q=%23SuperRugbyPacific) | N/A |
+| 19 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 20 | [Roger Douglas](http://twitter.com/search?q=Roger+Douglas) | N/A |
+| 21 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 22 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
+| 23 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 24 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 25 | [Sean Plunket](http://twitter.com/search?q=Sean+Plunket) | N/A |
+| 26 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 27 | [Ditto](http://twitter.com/search?q=Ditto) | N/A |
+| 28 | [Ardern](http://twitter.com/search?q=Ardern) | N/A |
+| 29 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 30 | [Randwick](http://twitter.com/search?q=Randwick) | N/A |
+| 31 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 32 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 33 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 34 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 35 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 36 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 37 | [Governments](http://twitter.com/search?q=Governments) | N/A |
+| 38 | [kerekere](http://twitter.com/search?q=kerekere) | N/A |
+| 39 | [London](http://twitter.com/search?q=London) | N/A |
+| 40 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 41 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 42 | [brag award](http://twitter.com/search?q=brag+award) | N/A |
+| 43 | [Oooo](http://twitter.com/search?q=Oooo) | N/A |
+| 44 | [every five minutes](http://twitter.com/search?q=every+five+minutes) | N/A |
+| 45 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 46 | [Parker](http://twitter.com/search?q=Parker) | N/A |
+| 47 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
+| 48 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 49 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 50 | [Maths](http://twitter.com/search?q=Maths) | Maths is short for mathematics, which is the study of numbers, shapes, and patterns. Mathematics is used to solve problems and understand the world around us. It is a fundamental part of science, engineering, technology, finance, and many other fields. |
 
 
 

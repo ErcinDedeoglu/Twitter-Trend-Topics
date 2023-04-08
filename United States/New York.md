@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-08 21:17:11 UTC`
+📆 Last Updated: `2023-04-08 22:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 2 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 3 | [Thompson](http://twitter.com/search?q=Thompson) | N/A |
-| 4 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
-| 5 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 6 | [Citi Field](http://twitter.com/search?q=Citi+Field) | N/A |
-| 7 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 8 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 9 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
-| 10 | [TEMU](http://twitter.com/search?q=TEMU) | N/A |
-| 11 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 12 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
-| 13 | [#criterion4you](http://twitter.com/search?q=%23criterion4you) | N/A |
-| 14 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 15 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 16 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 17 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 18 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 19 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 20 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
-| 21 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 22 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 23 | [Julie Ertz](http://twitter.com/search?q=Julie+Ertz) | N/A |
-| 24 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 25 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
-| 26 | [Governor Abbott](http://twitter.com/search?q=Governor+Abbott) | N/A |
-| 27 | [Emily Fox](http://twitter.com/search?q=Emily+Fox) | N/A |
-| 28 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 29 | [Rafael Devers](http://twitter.com/search?q=Rafael+Devers) | N/A |
-| 30 | [Horan](http://twitter.com/search?q=Horan) | Horan is a surname of Irish origin. It is derived from the Gaelic Ó hEaghra, meaning "descendant of Eaghra". |
-| 31 | [Raffy](http://twitter.com/search?q=Raffy) | Raffy is a nickname for Rafael, which is a Spanish name meaning "God has healed". |
-| 32 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 33 | [Caine](http://twitter.com/search?q=Caine) | N/A |
-| 34 | [Joey Wentz](http://twitter.com/search?q=Joey+Wentz) | N/A |
-| 35 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 36 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 37 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 38 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 39 | [Austin Meadows](http://twitter.com/search?q=Austin+Meadows) | N/A |
-| 40 | [Spencer Steer](http://twitter.com/search?q=Spencer+Steer) | N/A |
-| 41 | [Buxton](http://twitter.com/search?q=Buxton) | N/A |
-| 42 | [Bailey Falter](http://twitter.com/search?q=Bailey+Falter) | N/A |
-| 43 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
-| 44 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
-| 45 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 46 | [Griffin Merritt](http://twitter.com/search?q=Griffin+Merritt) | N/A |
-| 47 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
-| 48 | [Coors](http://twitter.com/search?q=Coors) | N/A |
-| 49 | [Iman](http://twitter.com/search?q=Iman) | N/A |
-| 50 | [Teyana](http://twitter.com/search?q=Teyana) | N/A |
+| 1 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
+| 2 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
+| 3 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 4 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
+| 5 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 6 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 7 | [Citi Field](http://twitter.com/search?q=Citi+Field) | N/A |
+| 8 | [Clarence](http://twitter.com/search?q=Clarence) | N/A |
+| 9 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 10 | [Anita Hill](http://twitter.com/search?q=Anita+Hill) | N/A |
+| 11 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 12 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
+| 13 | [TEMU](http://twitter.com/search?q=TEMU) | N/A |
+| 14 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
+| 15 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 16 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 17 | [Nick Lodolo](http://twitter.com/search?q=Nick+Lodolo) | N/A |
+| 18 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
+| 19 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
+| 20 | [Raffy](http://twitter.com/search?q=Raffy) | Raffy is a nickname for Rafael, which is a Spanish name meaning "God has healed". |
+| 21 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
+| 22 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
+| 23 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 24 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
+| 25 | [Senga](http://twitter.com/search?q=Senga) | N/A |
+| 26 | [Salvy](http://twitter.com/search?q=Salvy) | N/A |
+| 27 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 28 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 29 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 30 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 31 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 32 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 33 | [Mandarin Hero](http://twitter.com/search?q=Mandarin+Hero) | N/A |
+| 34 | [Governor Abbott](http://twitter.com/search?q=Governor+Abbott) | N/A |
+| 35 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 36 | [Gage Wood](http://twitter.com/search?q=Gage+Wood) | N/A |
+| 37 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
+| 38 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 39 | [Practical Move](http://twitter.com/search?q=Practical+Move) | N/A |
+| 40 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
+| 41 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
+| 42 | [Patrick Wisdom](http://twitter.com/search?q=Patrick+Wisdom) | N/A |
+| 43 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
+| 44 | [Kevin Knox](http://twitter.com/search?q=Kevin+Knox) | N/A |
+| 45 | [Emily Fox](http://twitter.com/search?q=Emily+Fox) | N/A |
+| 46 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 47 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 48 | [Caine](http://twitter.com/search?q=Caine) | N/A |
+| 49 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
+| 50 | [Hosmer](http://twitter.com/search?q=Hosmer) | N/A |
 
 
 

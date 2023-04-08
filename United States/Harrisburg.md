@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-04-08 21:17:09 UTC`
+📆 Last Updated: `2023-04-08 22:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 2 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
-| 3 | [#criterion4you](http://twitter.com/search?q=%23criterion4you) | N/A |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 6 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 7 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 8 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 9 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 10 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
-| 11 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
-| 12 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 13 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 14 | [Julie Ertz](http://twitter.com/search?q=Julie+Ertz) | N/A |
-| 15 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 16 | [Governor Abbott](http://twitter.com/search?q=Governor+Abbott) | N/A |
-| 17 | [Emily Fox](http://twitter.com/search?q=Emily+Fox) | N/A |
-| 18 | [Rafael Devers](http://twitter.com/search?q=Rafael+Devers) | N/A |
-| 19 | [#KaKaw](http://twitter.com/search?q=%23KaKaw) | N/A |
-| 20 | [Horan](http://twitter.com/search?q=Horan) | Horan is a surname of Irish origin. It is derived from the Gaelic Ó hEaghra, meaning "descendant of Eaghra". |
-| 21 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 22 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 23 | [Raffy](http://twitter.com/search?q=Raffy) | Raffy is a nickname for Rafael, which is a Spanish name meaning "God has healed". |
-| 24 | [Caine](http://twitter.com/search?q=Caine) | N/A |
-| 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 26 | [Joey Wentz](http://twitter.com/search?q=Joey+Wentz) | N/A |
-| 27 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 28 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 29 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 30 | [Austin Meadows](http://twitter.com/search?q=Austin+Meadows) | N/A |
-| 31 | [Spencer Steer](http://twitter.com/search?q=Spencer+Steer) | N/A |
-| 32 | [Buxton](http://twitter.com/search?q=Buxton) | N/A |
-| 33 | [Bailey Falter](http://twitter.com/search?q=Bailey+Falter) | N/A |
-| 34 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
-| 35 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
-| 36 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 37 | [Griffin Merritt](http://twitter.com/search?q=Griffin+Merritt) | N/A |
-| 38 | [Coors](http://twitter.com/search?q=Coors) | N/A |
-| 39 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
-| 40 | [Iman](http://twitter.com/search?q=Iman) | N/A |
-| 41 | [Teyana](http://twitter.com/search?q=Teyana) | N/A |
-| 42 | [Boyz In Da Hood](http://twitter.com/search?q=Boyz+In+Da+Hood) | N/A |
-| 43 | [Lodolo](http://twitter.com/search?q=Lodolo) | N/A |
-| 44 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
-| 45 | [Vlatko](http://twitter.com/search?q=Vlatko) | N/A |
-| 46 | [Drew Beam](http://twitter.com/search?q=Drew+Beam) | N/A |
-| 47 | [SHES BACK](http://twitter.com/search?q=SHES+BACK) | N/A |
-| 48 | [Connor McDavid](http://twitter.com/search?q=Connor+McDavid) | N/A |
-| 49 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 50 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 1 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
+| 2 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
+| 3 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
+| 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 6 | [Nick Lodolo](http://twitter.com/search?q=Nick+Lodolo) | N/A |
+| 7 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
+| 8 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
+| 9 | [#criterion4you](http://twitter.com/search?q=%23criterion4you) | N/A |
+| 10 | [Raffy](http://twitter.com/search?q=Raffy) | Raffy is a nickname for Rafael, which is a Spanish name meaning "God has healed". |
+| 11 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 12 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
+| 13 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
+| 14 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
+| 15 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 16 | [Senga](http://twitter.com/search?q=Senga) | N/A |
+| 17 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 18 | [Salvy](http://twitter.com/search?q=Salvy) | N/A |
+| 19 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 20 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 21 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 22 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 23 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 24 | [Mandarin Hero](http://twitter.com/search?q=Mandarin+Hero) | N/A |
+| 25 | [Taylor Clarke](http://twitter.com/search?q=Taylor+Clarke) | N/A |
+| 26 | [Governor Abbott](http://twitter.com/search?q=Governor+Abbott) | N/A |
+| 27 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
+| 28 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
+| 29 | [Practical Move](http://twitter.com/search?q=Practical+Move) | N/A |
+| 30 | [Gage Wood](http://twitter.com/search?q=Gage+Wood) | N/A |
+| 31 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
+| 32 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 33 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
+| 34 | [Patrick Wisdom](http://twitter.com/search?q=Patrick+Wisdom) | N/A |
+| 35 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
+| 36 | [Kevin Knox](http://twitter.com/search?q=Kevin+Knox) | N/A |
+| 37 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 38 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 39 | [Emily Fox](http://twitter.com/search?q=Emily+Fox) | N/A |
+| 40 | [Caine](http://twitter.com/search?q=Caine) | N/A |
+| 41 | [Karl Williams](http://twitter.com/search?q=Karl+Williams) | N/A |
+| 42 | [Ben Ferencz](http://twitter.com/search?q=Ben+Ferencz) | N/A |
+| 43 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
+| 44 | [Hosmer](http://twitter.com/search?q=Hosmer) | N/A |
+| 45 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
+| 46 | [Julie Ertz](http://twitter.com/search?q=Julie+Ertz) | N/A |
+| 47 | [Kapler](http://twitter.com/search?q=Kapler) | N/A |
+| 48 | [Joey Wentz](http://twitter.com/search?q=Joey+Wentz) | N/A |
+| 49 | [Brandon Lowe](http://twitter.com/search?q=Brandon+Lowe) | N/A |
+| 50 | [Stott](http://twitter.com/search?q=Stott) | N/A |
 
 
 

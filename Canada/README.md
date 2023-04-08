@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-04-08 21:17:16 UTC`
+📆 Last Updated: `2023-04-08 22:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Canada
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 2 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 3 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 4 | [Demers](http://twitter.com/search?q=Demers) | N/A |
+| 3 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 4 | [Connor McDavid](http://twitter.com/search?q=Connor+McDavid) | N/A |
 | 5 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 6 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 6 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
 | 7 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 8 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 9 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
-| 10 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 11 | [#criterion4you](http://twitter.com/search?q=%23criterion4you) | N/A |
-| 12 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 13 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 14 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 8 | [Jett Alexander](http://twitter.com/search?q=Jett+Alexander) | N/A |
+| 9 | [#criterion4you](http://twitter.com/search?q=%23criterion4you) | N/A |
+| 10 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 11 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
+| 12 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 13 | [Derek Ryan](http://twitter.com/search?q=Derek+Ryan) | N/A |
+| 14 | [Demers](http://twitter.com/search?q=Demers) | N/A |
 | 15 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 16 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 17 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 18 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 19 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
-| 20 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 21 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 22 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 17 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
+| 18 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 19 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 20 | [Bernie Nicholls](http://twitter.com/search?q=Bernie+Nicholls) | N/A |
+| 21 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 22 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 | 23 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 25 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 26 | [West Island](http://twitter.com/search?q=West+Island) | N/A |
-| 27 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 28 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
-| 29 | [chris bassitt](http://twitter.com/search?q=chris+bassitt) | N/A |
-| 30 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 31 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 32 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
-| 33 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 34 | [Radio X](http://twitter.com/search?q=Radio+X) | N/A |
-| 35 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 36 | [Sharks 1](http://twitter.com/search?q=Sharks+1) | N/A |
-| 37 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
-| 38 | [Hydro](http://twitter.com/search?q=Hydro) | N/A |
-| 39 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 41 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 42 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 43 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 44 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
-| 45 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 46 | [David Suzuki](http://twitter.com/search?q=David+Suzuki) | N/A |
-| 47 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 48 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 49 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 50 | [Alison Jackson](http://twitter.com/search?q=Alison+Jackson) | N/A |
+| 24 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
+| 25 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 26 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 27 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 28 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 29 | [West Island](http://twitter.com/search?q=West+Island) | N/A |
+| 30 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 31 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 32 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 33 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 34 | [Chris Bassitt](http://twitter.com/search?q=Chris+Bassitt) | N/A |
+| 35 | [Sidney Crosby](http://twitter.com/search?q=Sidney+Crosby) | N/A |
+| 36 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
+| 37 | [SCOTUS](http://twitter.com/search?q=SCOTUS) | SCOTUS is an acronym for the Supreme Court of the United States. It is the highest court in the United States and is responsible for interpreting and applying federal laws. |
+| 38 | [EBUG](http://twitter.com/search?q=EBUG) | N/A |
+| 39 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 41 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 42 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
+| 43 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
+| 44 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 45 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
+| 46 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 47 | [Radio X](http://twitter.com/search?q=Radio+X) | N/A |
+| 48 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 49 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 50 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 
 
 

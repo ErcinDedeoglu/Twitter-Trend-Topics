@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-04-08 21:17:02 UTC`
+📆 Last Updated: `2023-04-08 22:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 7 | [The Battle of Badr](http://twitter.com/search?q=The+Battle+of+Badr) | N/A |
-| 8 | [World Health Day](http://twitter.com/search?q=World+Health+Day) | N/A |
-| 9 | [The PTI](http://twitter.com/search?q=The+PTI) | N/A |
-| 10 | [UMER RULING KHEL KAY JEET](http://twitter.com/search?q=UMER+RULING+KHEL+KAY+JEET) | N/A |
-| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 12 | [justice athar minallah](http://twitter.com/search?q=justice+athar+minallah) | N/A |
+| 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 9 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
+| 10 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 11 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 12 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 13 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 15 | [Chief Justice of Pakistan](http://twitter.com/search?q=Chief+Justice+of+Pakistan) | N/A |
-| 16 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
-| 17 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 18 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 19 | [Gulzar Imam](http://twitter.com/search?q=Gulzar+Imam) | N/A |
-| 20 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
-| 21 | [Aleem Dar](http://twitter.com/search?q=Aleem+Dar) | Aleem Dar is a Pakistani cricket umpire. The name Aleem Dar is derived from the Arabic word for “knowledgeable” or “wise”. In English, Aleem Dar means “wise one” or “learned one”. |
-| 22 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 23 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
-| 24 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 25 | [Justice Isa](http://twitter.com/search?q=Justice+Isa) | N/A |
-| 26 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 27 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
-| 28 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 29 | [Miandad](http://twitter.com/search?q=Miandad) | N/A |
-| 30 | [Hide Marksheet](http://twitter.com/search?q=Hide+Marksheet) | N/A |
-| 31 | [Al-Aqsa Mosque](http://twitter.com/search?q=Al-Aqsa+Mosque) | N/A |
-| 32 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 33 | [SUPER CHARMING DIVA SHEHNAAZ](http://twitter.com/search?q=SUPER+CHARMING+DIVA+SHEHNAAZ) | N/A |
-| 34 | [17th Ramadan](http://twitter.com/search?q=17th+Ramadan) | N/A |
-| 35 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 36 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 37 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 38 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 39 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 40 | [Saim](http://twitter.com/search?q=Saim) | N/A |
-| 41 | [FATA](http://twitter.com/search?q=FATA) | N/A |
-| 42 | [Salman](http://twitter.com/search?q=Salman) | N/A |
-| 43 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 44 | [Chai](http://twitter.com/search?q=Chai) | N/A |
-| 45 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 46 | [Jazak Allah](http://twitter.com/search?q=Jazak+Allah) | N/A |
-| 47 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 48 | [VONC](http://twitter.com/search?q=VONC) | N/A |
-| 49 | [Price](http://twitter.com/search?q=Price) | N/A |
+| 14 | [World Health Day](http://twitter.com/search?q=World+Health+Day) | N/A |
+| 15 | [Pakistan Army](http://twitter.com/search?q=Pakistan+Army) | N/A |
+| 16 | [justice athar minallah](http://twitter.com/search?q=justice+athar+minallah) | N/A |
+| 17 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 18 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
+| 19 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 20 | [Saim](http://twitter.com/search?q=Saim) | N/A |
+| 21 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 22 | [Gulzar Imam](http://twitter.com/search?q=Gulzar+Imam) | N/A |
+| 23 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 24 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 25 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 26 | [Local](http://twitter.com/search?q=Local) | N/A |
+| 27 | [Justice Isa](http://twitter.com/search?q=Justice+Isa) | N/A |
+| 28 | [UMER RULING KHEL KAY JEET](http://twitter.com/search?q=UMER+RULING+KHEL+KAY+JEET) | N/A |
+| 29 | [Aleem Dar](http://twitter.com/search?q=Aleem+Dar) | Aleem Dar is a Pakistani cricket umpire. The name Aleem Dar is derived from the Arabic word for “knowledgeable” or “wise”. In English, Aleem Dar means “wise one” or “learned one”. |
+| 30 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
+| 31 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 32 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 33 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 34 | [Khyber](http://twitter.com/search?q=Khyber) | N/A |
+| 35 | [SUPER CHARMING DIVA SHEHNAAZ](http://twitter.com/search?q=SUPER+CHARMING+DIVA+SHEHNAAZ) | N/A |
+| 36 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 37 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 38 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 39 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 40 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 41 | [17th Ramadan](http://twitter.com/search?q=17th+Ramadan) | N/A |
+| 42 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 43 | [Miandad](http://twitter.com/search?q=Miandad) | N/A |
+| 44 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 45 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 46 | [Salman](http://twitter.com/search?q=Salman) | N/A |
+| 47 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 48 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 49 | [Jazak Allah](http://twitter.com/search?q=Jazak+Allah) | N/A |
 
 
 
