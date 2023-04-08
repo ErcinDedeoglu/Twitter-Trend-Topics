@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-08 18:16:37 UTC`
+📆 Last Updated: `2023-04-08 19:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Australia](</Australia>)
 | 4 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 5 | [#nrlpanthersmanly](http://twitter.com/search?q=%23nrlpanthersmanly) | N/A |
 | 6 | [Rapana](http://twitter.com/search?q=Rapana) | N/A |
-| 7 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 10 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 11 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
-| 12 | [Paddy McCartin](http://twitter.com/search?q=Paddy+McCartin) | N/A |
-| 13 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 14 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 15 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 16 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 17 | [NDIS](http://twitter.com/search?q=NDIS) | N/A |
-| 18 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 19 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 20 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 21 | [Witts](http://twitter.com/search?q=Witts) | N/A |
-| 22 | [white marlin](http://twitter.com/search?q=white+marlin) | N/A |
+| 7 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 8 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 9 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
+| 10 | [paddy mccartin](http://twitter.com/search?q=paddy+mccartin) | N/A |
+| 11 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 13 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 14 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 15 | [Witts](http://twitter.com/search?q=Witts) | N/A |
+| 16 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 17 | [white marlin](http://twitter.com/search?q=white+marlin) | N/A |
+| 18 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 19 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 20 | [NDIS](http://twitter.com/search?q=NDIS) | N/A |
+| 21 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
+| 22 | [Taupau](http://twitter.com/search?q=Taupau) | N/A |
 | 23 | [Bruce Haigh](http://twitter.com/search?q=Bruce+Haigh) | N/A |
-| 24 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 25 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 26 | [frydenberg](http://twitter.com/search?q=frydenberg) | N/A |
-| 27 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
-| 28 | [Taupau](http://twitter.com/search?q=Taupau) | N/A |
-| 29 | [aliir](http://twitter.com/search?q=aliir) | N/A |
-| 30 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 31 | [Dylan Edwards](http://twitter.com/search?q=Dylan+Edwards) | N/A |
-| 32 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 33 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
-| 34 | [aft cabin](http://twitter.com/search?q=aft+cabin) | N/A |
-| 35 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 36 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 37 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
-| 38 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 39 | [lmito](http://twitter.com/search?q=lmito) | N/A |
-| 40 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 41 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 42 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 43 | [matty](http://twitter.com/search?q=matty) | N/A |
-| 44 | [McKay](http://twitter.com/search?q=McKay) | N/A |
-| 45 | [Fremantle](http://twitter.com/search?q=Fremantle) | N/A |
-| 46 | [Bevo](http://twitter.com/search?q=Bevo) | N/A |
-| 47 | [welcome to country](http://twitter.com/search?q=welcome+to+country) | N/A |
-| 48 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 49 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 24 | [aliir](http://twitter.com/search?q=aliir) | N/A |
+| 25 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 26 | [dylan edwards](http://twitter.com/search?q=dylan+edwards) | N/A |
+| 27 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 28 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
+| 29 | [aft cabin](http://twitter.com/search?q=aft+cabin) | N/A |
+| 30 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 31 | [Frydenberg](http://twitter.com/search?q=Frydenberg) | N/A |
+| 32 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 33 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 34 | [lmito](http://twitter.com/search?q=lmito) | N/A |
+| 35 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 36 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 37 | [McKay](http://twitter.com/search?q=McKay) | N/A |
+| 38 | [Fremantle](http://twitter.com/search?q=Fremantle) | N/A |
+| 39 | [Bevo](http://twitter.com/search?q=Bevo) | N/A |
+| 40 | [welcome to country](http://twitter.com/search?q=welcome+to+country) | N/A |
+| 41 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 42 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 43 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 44 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 45 | [Florent](http://twitter.com/search?q=Florent) | N/A |
+| 46 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 47 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 48 | [jordan dawson](http://twitter.com/search?q=jordan+dawson) | N/A |
+| 49 | [mitch owens](http://twitter.com/search?q=mitch+owens) | N/A |
 
 
 

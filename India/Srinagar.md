@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-04-08 18:16:52 UTC`
+📆 Last Updated: `2023-04-08 19:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#CSKvsMI](http://twitter.com/search?q=%23CSKvsMI) | N/A |
 | 2 | [Rahane](http://twitter.com/search?q=Rahane) | Rahane is a Hindu name derived from the Sanskrit word 'rajan', meaning 'king'. It is commonly used as a first name for boys in India. |
-| 3 | [Dhoni](http://twitter.com/search?q=Dhoni) | N/A |
+| 3 | [#MSDhoni𓃵](http://twitter.com/search?q=%23MSDhoni%f0%93%83%b5) | N/A |
 | 4 | [#MumbaiIndians](http://twitter.com/search?q=%23MumbaiIndians) | N/A |
 | 5 | [#WhistlePodu](http://twitter.com/search?q=%23WhistlePodu) | N/A |
-| 6 | [#Yellove](http://twitter.com/search?q=%23Yellove) | N/A |
-| 7 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
+| 6 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
+| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 8 | [SRK KA JHANT AKSHAY](http://twitter.com/search?q=SRK+KA+JHANT+AKSHAY) | N/A |
 | 9 | [Wankhede](http://twitter.com/search?q=Wankhede) | N/A |
 | 10 | [Fastest 50](http://twitter.com/search?q=Fastest+50) | N/A |
-| 11 | [SRK KA BAAP AKSHAY](http://twitter.com/search?q=SRK+KA+BAAP+AKSHAY) | N/A |
-| 12 | [Bumrah](http://twitter.com/search?q=Bumrah) | N/A |
-| 13 | [THARKI BUDDHA KHILODA](http://twitter.com/search?q=THARKI+BUDDHA+KHILODA) | N/A |
-| 14 | [AKKIANS KI ITEM SRK](http://twitter.com/search?q=AKKIANS+KI+ITEM+SRK) | N/A |
-| 15 | [KUTTE KI LENDI SRK](http://twitter.com/search?q=KUTTE+KI+LENDI+SRK) | N/A |
-| 16 | [Jinx](http://twitter.com/search?q=Jinx) | N/A |
-| 17 | [SRKIANS KE BAAP AKKIANS](http://twitter.com/search?q=SRKIANS+KE+BAAP+AKKIANS) | N/A |
-| 18 | [BAWASIR MARIZ SAHROOK](http://twitter.com/search?q=BAWASIR+MARIZ+SAHROOK) | N/A |
-| 19 | [PAKISTANI SUAR SRK](http://twitter.com/search?q=PAKISTANI+SUAR+SRK) | N/A |
-| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 21 | [Conway](http://twitter.com/search?q=Conway) | N/A |
-| 22 | [Mahi](http://twitter.com/search?q=Mahi) | N/A |
-| 23 | [HAAFIZ KI RAAN HAKLODA](http://twitter.com/search?q=HAAFIZ+KI+RAAN+HAKLODA) | N/A |
-| 24 | [Jinks](http://twitter.com/search?q=Jinks) | N/A |
+| 11 | [Bumrah](http://twitter.com/search?q=Bumrah) | N/A |
+| 12 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 13 | [AKKIANS KI ITEM SRK](http://twitter.com/search?q=AKKIANS+KI+ITEM+SRK) | N/A |
+| 14 | [THARKI BUDDHA KHILODA](http://twitter.com/search?q=THARKI+BUDDHA+KHILODA) | N/A |
+| 15 | [Jinx](http://twitter.com/search?q=Jinx) | N/A |
+| 16 | [SRKIANS KE BAAP AKKIANS](http://twitter.com/search?q=SRKIANS+KE+BAAP+AKKIANS) | N/A |
+| 17 | [SRK KA BAAP AKSHAY](http://twitter.com/search?q=SRK+KA+BAAP+AKSHAY) | N/A |
+| 18 | [Jinks](http://twitter.com/search?q=Jinks) | N/A |
+| 19 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 20 | [HAAFIZ KI RAAN HAKLODA](http://twitter.com/search?q=HAAFIZ+KI+RAAN+HAKLODA) | N/A |
+| 21 | [CSK CSK](http://twitter.com/search?q=CSK+CSK) | N/A |
+| 22 | [SANDAS CLEANER AKSHAY KUMAR](http://twitter.com/search?q=SANDAS+CLEANER+AKSHAY+KUMAR) | N/A |
+| 23 | [Mahi](http://twitter.com/search?q=Mahi) | N/A |
+| 24 | [Arjun Tendulkar](http://twitter.com/search?q=Arjun+Tendulkar) | N/A |
 | 25 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
-| 26 | [SANDAS CLEANER AKSHAY KUMAR](http://twitter.com/search?q=SANDAS+CLEANER+AKSHAY+KUMAR) | N/A |
-| 27 | [CSK CSK](http://twitter.com/search?q=CSK+CSK) | N/A |
-| 28 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 29 | [CANADIAN DOG AKKI](http://twitter.com/search?q=CANADIAN+DOG+AKKI) | N/A |
+| 26 | [Billy D](http://twitter.com/search?q=Billy+D) | N/A |
+| 27 | [BAWASIR MARIZ SAHROOK](http://twitter.com/search?q=BAWASIR+MARIZ+SAHROOK) | N/A |
+| 28 | [SUPER CHARMING DIVA SHEHNAAZ](http://twitter.com/search?q=SUPER+CHARMING+DIVA+SHEHNAAZ) | N/A |
+| 29 | [Conway](http://twitter.com/search?q=Conway) | N/A |
 | 30 | [SRKIANS KA MOOT AKSHAY](http://twitter.com/search?q=SRKIANS+KA+MOOT+AKSHAY) | N/A |
-| 31 | [Rayudu](http://twitter.com/search?q=Rayudu) | N/A |
-| 32 | [Arjun Tendulkar](http://twitter.com/search?q=Arjun+Tendulkar) | N/A |
-| 33 | [Billy D](http://twitter.com/search?q=Billy+D) | N/A |
-| 34 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 35 | [WE WANT BAWAAL POSTER](http://twitter.com/search?q=WE+WANT+BAWAAL+POSTER) | N/A |
-| 36 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 37 | [Gaikwad](http://twitter.com/search?q=Gaikwad) | N/A |
-| 38 | [SUPER CHARMING DIVA SHEHNAAZ](http://twitter.com/search?q=SUPER+CHARMING+DIVA+SHEHNAAZ) | N/A |
-| 39 | [Stubbs](http://twitter.com/search?q=Stubbs) | N/A |
-| 40 | [Rutu](http://twitter.com/search?q=Rutu) | N/A |
+| 31 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 32 | [Rayudu](http://twitter.com/search?q=Rayudu) | N/A |
+| 33 | [WE WANT BAWAAL POSTER](http://twitter.com/search?q=WE+WANT+BAWAAL+POSTER) | N/A |
+| 34 | [Nandini](http://twitter.com/search?q=Nandini) | N/A |
+| 35 | [CANADIAN DOG AKKI](http://twitter.com/search?q=CANADIAN+DOG+AKKI) | N/A |
+| 36 | [Santner](http://twitter.com/search?q=Santner) | Santner is a German surname derived from the word "Sandner," which means "sandy area." The name is most commonly found in the Bavarian region of Germany. |
+| 37 | [ABD Villiers](http://twitter.com/search?q=ABD+Villiers) | N/A |
+| 38 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 39 | [Arshad](http://twitter.com/search?q=Arshad) | N/A |
+| 40 | [Stubbs](http://twitter.com/search?q=Stubbs) | N/A |
 | 41 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 42 | [Arshad](http://twitter.com/search?q=Arshad) | N/A |
-| 43 | [Pandya](http://twitter.com/search?q=Pandya) | N/A |
-| 44 | [MAKEUP QUEEN SRK](http://twitter.com/search?q=MAKEUP+QUEEN+SRK) | N/A |
-| 45 | [Santner](http://twitter.com/search?q=Santner) | Santner is a German surname derived from the word "Sandner," which means "sandy area." The name is most commonly found in the Bavarian region of Germany. |
-| 46 | [Tushar Deshpande](http://twitter.com/search?q=Tushar+Deshpande) | N/A |
-| 47 | [CANADIAN RAAN AKKI](http://twitter.com/search?q=CANADIAN+RAAN+AKKI) | N/A |
+| 42 | [Pandya](http://twitter.com/search?q=Pandya) | N/A |
+| 43 | [Rutu](http://twitter.com/search?q=Rutu) | N/A |
+| 44 | [CANADIAN RAAN AKKI](http://twitter.com/search?q=CANADIAN+RAAN+AKKI) | N/A |
+| 45 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
+| 46 | [Moeen](http://twitter.com/search?q=Moeen) | N/A |
+| 47 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
 
 
 
