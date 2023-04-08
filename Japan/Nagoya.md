@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagoya
 
-📆 Last Updated: `2023-04-08 08:17:13 UTC`
+📆 Last Updated: `2023-04-08 09:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ボカサミ](http://twitter.com/search?q=%23%e3%83%9c%e3%82%ab%e3%82%b5%e3%83%9f) | N/A |
-| 2 | [チーム第1号](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e3%83%a0%e7%ac%ac1%e5%8f%b7) | N/A |
-| 3 | [りゅーく](http://twitter.com/search?q=%e3%82%8a%e3%82%85%e3%83%bc%e3%81%8f) | N/A |
-| 4 | [ゲッツー](http://twitter.com/search?q=%e3%82%b2%e3%83%83%e3%83%84%e3%83%bc) | N/A |
-| 5 | [ハマスタ](http://twitter.com/search?q=%e3%83%8f%e3%83%9e%e3%82%b9%e3%82%bf) | ハマスタ is a Japanese term that refers to someone who is passionate about something and pursues it with enthusiasm. It can be used to describe someone who is passionate about a hobby, a sport, or any other activity. In English, it could be translated as "enthusiast" or "passionate fan". |
-| 6 | [石川昂弥](http://twitter.com/search?q=%e7%9f%b3%e5%b7%9d%e6%98%82%e5%bc%a5) | 石川昂弥 is a Japanese name. It is composed of two characters: 石 (ishi) meaning "stone" and 川 (kawa) meaning "river"; 昂 (taka) meaning "high" and 弥 (ya) meaning "to increase". In English, it can be translated to mean "increasingly high stone river". |
-| 7 | [ファーム](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%bc%e3%83%a0) | N/A |
-| 8 | [#シーラカンス](http://twitter.com/search?q=%23%e3%82%b7%e3%83%bc%e3%83%a9%e3%82%ab%e3%83%b3%e3%82%b9) | N/A |
-| 9 | [ランナー](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%8a%e3%83%bc) | N/A |
-| 10 | [DeNA](http://twitter.com/search?q=DeNA) | N/A |
-| 11 | [#名古屋モーターサイクルショー](http://twitter.com/search?q=%23%e5%90%8d%e5%8f%a4%e5%b1%8b%e3%83%a2%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%b5%e3%82%a4%e3%82%af%e3%83%ab%e3%82%b7%e3%83%a7%e3%83%bc) | N/A |
-| 12 | [ヨンフェス](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%83%95%e3%82%a7%e3%82%b9) | ヨンフェス is an abbreviation of the Japanese phrase "Yon Fesuto", which translates to "4th Festival". It is an annual event held in Japan that celebrates the culture and lifestyle of the country. The festival includes music, food, art, and other activities. |
-| 13 | [エエヤン](http://twitter.com/search?q=%e3%82%a8%e3%82%a8%e3%83%a4%e3%83%b3) | N/A |
-| 14 | [ガゼルマン](http://twitter.com/search?q=%e3%82%ac%e3%82%bc%e3%83%ab%e3%83%9e%e3%83%b3) | N/A |
+| 2 | [加藤翔平](http://twitter.com/search?q=%e5%8a%a0%e8%97%a4%e7%bf%94%e5%b9%b3) | N/A |
+| 3 | [チーム第1号](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e3%83%a0%e7%ac%ac1%e5%8f%b7) | N/A |
+| 4 | [りゅーく](http://twitter.com/search?q=%e3%82%8a%e3%82%85%e3%83%bc%e3%81%8f) | N/A |
+| 5 | [ゲッツー](http://twitter.com/search?q=%e3%82%b2%e3%83%83%e3%83%84%e3%83%bc) | N/A |
+| 6 | [リューク](http://twitter.com/search?q=%e3%83%aa%e3%83%a5%e3%83%bc%e3%82%af) | N/A |
+| 7 | [石川昂弥](http://twitter.com/search?q=%e7%9f%b3%e5%b7%9d%e6%98%82%e5%bc%a5) | 石川昂弥 is a Japanese name. It is composed of two characters: 石 (ishi) meaning "stone" and 川 (kawa) meaning "river"; 昂 (taka) meaning "high" and 弥 (ya) meaning "to increase". In English, it can be translated to mean "increasingly high stone river". |
+| 8 | [立浪監督](http://twitter.com/search?q=%e7%ab%8b%e6%b5%aa%e7%9b%a3%e7%9d%a3) | N/A |
+| 9 | [ファーム](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%bc%e3%83%a0) | N/A |
+| 10 | [ハマスタ](http://twitter.com/search?q=%e3%83%8f%e3%83%9e%e3%82%b9%e3%82%bf) | ハマスタ is a Japanese term that refers to someone who is passionate about something and pursues it with enthusiasm. It can be used to describe someone who is passionate about a hobby, a sport, or any other activity. In English, it could be translated as "enthusiast" or "passionate fan". |
+| 11 | [ランナー](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%8a%e3%83%bc) | N/A |
+| 12 | [DeNA](http://twitter.com/search?q=DeNA) | N/A |
+| 13 | [#名古屋モーターサイクルショー](http://twitter.com/search?q=%23%e5%90%8d%e5%8f%a4%e5%b1%8b%e3%83%a2%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%b5%e3%82%a4%e3%82%af%e3%83%ab%e3%82%b7%e3%83%a7%e3%83%bc) | N/A |
+| 14 | [エエヤン](http://twitter.com/search?q=%e3%82%a8%e3%82%a8%e3%83%a4%e3%83%b3) | N/A |
 | 15 | [#chibalotte](http://twitter.com/search?q=%23chibalotte) | N/A |
-| 16 | [ドルチェモア](http://twitter.com/search?q=%e3%83%89%e3%83%ab%e3%83%81%e3%82%a7%e3%83%a2%e3%82%a2) | N/A |
-| 17 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
-| 18 | [サウンドビバーチェ](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%83%b3%e3%83%89%e3%83%93%e3%83%90%e3%83%bc%e3%83%81%e3%82%a7) | N/A |
-| 19 | [まりほー](http://twitter.com/search?q=%e3%81%be%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
-| 20 | [れおほー](http://twitter.com/search?q=%e3%82%8c%e3%81%8a%e3%81%bb%e3%83%bc) | N/A |
-| 21 | [平沢大河](http://twitter.com/search?q=%e5%b9%b3%e6%b2%a2%e5%a4%a7%e6%b2%b3) | N/A |
-| 22 | [フランコ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b3) | N/A |
-| 23 | [#プロセカCS](http://twitter.com/search?q=%23%e3%83%97%e3%83%ad%e3%82%bb%e3%82%abCS) | N/A |
-| 24 | [守備妨害](http://twitter.com/search?q=%e5%ae%88%e5%82%99%e5%a6%a8%e5%ae%b3) | N/A |
-| 25 | [阪神牝馬S](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e7%89%9d%e9%a6%acS) | N/A |
-| 26 | [まけほー](http://twitter.com/search?q=%e3%81%be%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
-| 27 | [クチルズ](http://twitter.com/search?q=%e3%82%af%e3%83%81%e3%83%ab%e3%82%ba) | N/A |
-| 28 | [寿司ガキ](http://twitter.com/search?q=%e5%af%bf%e5%8f%b8%e3%82%ac%e3%82%ad) | N/A |
-| 29 | [涌井さん](http://twitter.com/search?q=%e6%b6%8c%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 30 | [コピー本](http://twitter.com/search?q=%e3%82%b3%e3%83%94%e3%83%bc%e6%9c%ac) | N/A |
-| 31 | [ニュージーランド](http://twitter.com/search?q=%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 32 | [サブライムアンセム](http://twitter.com/search?q=%e3%82%b5%e3%83%96%e3%83%a9%e3%82%a4%e3%83%a0%e3%82%a2%e3%83%b3%e3%82%bb%e3%83%a0) | N/A |
-| 33 | [Get Wildの日](http://twitter.com/search?q=Get+Wild%e3%81%ae%e6%97%a5) | N/A |
-| 34 | [こいほー](http://twitter.com/search?q=%e3%81%93%e3%81%84%e3%81%bb%e3%83%bc) | N/A |
-| 35 | [アルモンテ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%a2%e3%83%b3%e3%83%86) | N/A |
-| 36 | [ウンブライル](http://twitter.com/search?q=%e3%82%a6%e3%83%b3%e3%83%96%e3%83%a9%e3%82%a4%e3%83%ab) | N/A |
-| 37 | [エスパルス](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%83%91%e3%83%ab%e3%82%b9) | N/A |
-| 38 | [甲子園初勝利](http://twitter.com/search?q=%e7%94%b2%e5%ad%90%e5%9c%92%e5%88%9d%e5%8b%9d%e5%88%a9) | N/A |
-| 39 | [ウインシャーロット](http://twitter.com/search?q=%e3%82%a6%e3%82%a4%e3%83%b3%e3%82%b7%e3%83%a3%e3%83%bc%e3%83%ad%e3%83%83%e3%83%88) | N/A |
-| 40 | [中綴じホチキス](http://twitter.com/search?q=%e4%b8%ad%e7%b6%b4%e3%81%98%e3%83%9b%e3%83%81%e3%82%ad%e3%82%b9) | N/A |
-| 41 | [大竹くん](http://twitter.com/search?q=%e5%a4%a7%e7%ab%b9%e3%81%8f%e3%82%93) | N/A |
-| 42 | [坂本ホームラン](http://twitter.com/search?q=%e5%9d%82%e6%9c%ac%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
-| 43 | [騎乗停止](http://twitter.com/search?q=%e9%a8%8e%e4%b9%97%e5%81%9c%e6%ad%a2) | N/A |
-| 44 | [コスタボニータ](http://twitter.com/search?q=%e3%82%b3%e3%82%b9%e3%82%bf%e3%83%9c%e3%83%8b%e3%83%bc%e3%82%bf) | N/A |
-| 45 | [シャンパンカラー](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%b3%e3%83%91%e3%83%b3%e3%82%ab%e3%83%a9%e3%83%bc) | シャンパンカラー (shanpankara) is a Japanese term for a light, champagne-like color. It is often used to describe clothing, accessories, and other items that have a pale yellow or beige hue. In English, it can be translated as "champagne color". |
-| 46 | [ユニコーンライオン](http://twitter.com/search?q=%e3%83%a6%e3%83%8b%e3%82%b3%e3%83%bc%e3%83%b3%e3%83%a9%e3%82%a4%e3%82%aa%e3%83%b3) | N/A |
-| 47 | [モリアーナ](http://twitter.com/search?q=%e3%83%a2%e3%83%aa%e3%82%a2%e3%83%bc%e3%83%8a) | N/A |
-| 48 | [ピンハイ](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%83%8f%e3%82%a4) | ピンハイ is a Japanese phrase that literally translates to "high-pitched." It is used to describe a person's voice when they are speaking in an overly loud or excited manner. |
-| 49 | [期日前投票](http://twitter.com/search?q=%e6%9c%9f%e6%97%a5%e5%89%8d%e6%8a%95%e7%a5%a8) | N/A |
-| 50 | [ムロツヨシ](http://twitter.com/search?q=%e3%83%a0%e3%83%ad%e3%83%84%e3%83%a8%e3%82%b7) | ムロツヨシ is a Japanese name. It is composed of two kanji characters: "守" (mamoru) meaning "protect" and "良" (yoshi) meaning "good". In English, the name can be translated to mean "Protector of Good". |
+| 16 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
+| 17 | [佐々木尽](http://twitter.com/search?q=%e4%bd%90%e3%80%85%e6%9c%a8%e5%b0%bd) | N/A |
+| 18 | [まりほー](http://twitter.com/search?q=%e3%81%be%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
+| 19 | [アクスタ浴衣](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%b9%e3%82%bf%e6%b5%b4%e8%a1%a3) | N/A |
+| 20 | [ガゼルマン](http://twitter.com/search?q=%e3%82%ac%e3%82%bc%e3%83%ab%e3%83%9e%e3%83%b3) | N/A |
+| 21 | [ドルチェモア](http://twitter.com/search?q=%e3%83%89%e3%83%ab%e3%83%81%e3%82%a7%e3%83%a2%e3%82%a2) | N/A |
+| 22 | [#プロセカCS](http://twitter.com/search?q=%23%e3%83%97%e3%83%ad%e3%82%bb%e3%82%abCS) | N/A |
+| 23 | [サウンドビバーチェ](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%83%b3%e3%83%89%e3%83%93%e3%83%90%e3%83%bc%e3%83%81%e3%82%a7) | N/A |
+| 24 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
+| 25 | [平沢大河](http://twitter.com/search?q=%e5%b9%b3%e6%b2%a2%e5%a4%a7%e6%b2%b3) | N/A |
+| 26 | [ボクシング](http://twitter.com/search?q=%e3%83%9c%e3%82%af%e3%82%b7%e3%83%b3%e3%82%b0) | N/A |
+| 27 | [寿司ガキ](http://twitter.com/search?q=%e5%af%bf%e5%8f%b8%e3%82%ac%e3%82%ad) | N/A |
+| 28 | [まけほー](http://twitter.com/search?q=%e3%81%be%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
+| 29 | [クチルズ](http://twitter.com/search?q=%e3%82%af%e3%83%81%e3%83%ab%e3%82%ba) | N/A |
+| 30 | [れおほー](http://twitter.com/search?q=%e3%82%8c%e3%81%8a%e3%81%bb%e3%83%bc) | N/A |
+| 31 | [騎乗停止](http://twitter.com/search?q=%e9%a8%8e%e4%b9%97%e5%81%9c%e6%ad%a2) | N/A |
+| 32 | [ドゥドゥ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%89%e3%82%a5) | N/A |
+| 33 | [フランコ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b3) | N/A |
+| 34 | [守備妨害](http://twitter.com/search?q=%e5%ae%88%e5%82%99%e5%a6%a8%e5%ae%b3) | N/A |
+| 35 | [涌井さん](http://twitter.com/search?q=%e6%b6%8c%e4%ba%95%e3%81%95%e3%82%93) | N/A |
+| 36 | [U-12](http://twitter.com/search?q=U-12) | N/A |
+| 37 | [期日前投票](http://twitter.com/search?q=%e6%9c%9f%e6%97%a5%e5%89%8d%e6%8a%95%e7%a5%a8) | N/A |
+| 38 | [大竹くん](http://twitter.com/search?q=%e5%a4%a7%e7%ab%b9%e3%81%8f%e3%82%93) | N/A |
+| 39 | [天心の試合](http://twitter.com/search?q=%e5%a4%a9%e5%bf%83%e3%81%ae%e8%a9%a6%e5%90%88) | N/A |
+| 40 | [コピー本](http://twitter.com/search?q=%e3%82%b3%e3%83%94%e3%83%bc%e6%9c%ac) | N/A |
+| 41 | [Get Wildの日](http://twitter.com/search?q=Get+Wild%e3%81%ae%e6%97%a5) | N/A |
+| 42 | [甲子園初勝利](http://twitter.com/search?q=%e7%94%b2%e5%ad%90%e5%9c%92%e5%88%9d%e5%8b%9d%e5%88%a9) | N/A |
+| 43 | [こいほー](http://twitter.com/search?q=%e3%81%93%e3%81%84%e3%81%bb%e3%83%bc) | N/A |
+| 44 | [大竹投手](http://twitter.com/search?q=%e5%a4%a7%e7%ab%b9%e6%8a%95%e6%89%8b) | N/A |
+| 45 | [DOLCEさん](http://twitter.com/search?q=DOLCE%e3%81%95%e3%82%93) | N/A |
+| 46 | [阪神牝馬S](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e7%89%9d%e9%a6%acS) | N/A |
+| 47 | [サブライムアンセム](http://twitter.com/search?q=%e3%82%b5%e3%83%96%e3%83%a9%e3%82%a4%e3%83%a0%e3%82%a2%e3%83%b3%e3%82%bb%e3%83%a0) | N/A |
+| 48 | [中綴じホチキス](http://twitter.com/search?q=%e4%b8%ad%e7%b6%b4%e3%81%98%e3%83%9b%e3%83%81%e3%82%ad%e3%82%b9) | N/A |
+| 49 | [現役ドラフト](http://twitter.com/search?q=%e7%8f%be%e5%bd%b9%e3%83%89%e3%83%a9%e3%83%95%e3%83%88) | N/A |
+| 50 | [エスパルス](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%83%91%e3%83%ab%e3%82%b9) | N/A |
 
 
 

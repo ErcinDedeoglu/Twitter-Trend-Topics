@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-08 08:17:45 UTC`
+📆 Last Updated: `2023-04-08 09:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Spain
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 2 | [Tomás Luis de Victoria](http://twitter.com/search?q=Tom%c3%a1s+Luis+de+Victoria) | N/A |
-| 3 | [#SVGala6](http://twitter.com/search?q=%23SVGala6) | N/A |
-| 4 | [#N1CanalFiesta14](http://twitter.com/search?q=%23N1CanalFiesta14) | N/A |
-| 5 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 6 | [#16AniversarioHTCMania](http://twitter.com/search?q=%2316AniversarioHTCMania) | N/A |
+| 2 | [#16AniversarioHTCMania](http://twitter.com/search?q=%2316AniversarioHTCMania) | N/A |
+| 3 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 4 | [#SVGala6](http://twitter.com/search?q=%23SVGala6) | N/A |
+| 5 | [Tomás Luis de Victoria](http://twitter.com/search?q=Tom%c3%a1s+Luis+de+Victoria) | N/A |
+| 6 | [#N1CanalFiesta14](http://twitter.com/search?q=%23N1CanalFiesta14) | N/A |
 | 7 | [#PrePartyES23](http://twitter.com/search?q=%23PrePartyES23) | N/A |
-| 8 | [#BuenosDías](http://twitter.com/search?q=%23BuenosD%c3%adas) | N/A |
-| 9 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 10 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 8 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 9 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 10 | [#APOYOROCIO8A](http://twitter.com/search?q=%23APOYOROCIO8A) | N/A |
 | 11 | [Celta](http://twitter.com/search?q=Celta) | Celta is an acronym for Certificate in English Language Teaching to Adults. It is a qualification for teaching English as a foreign language to adults. It is offered by Cambridge Assessment English and accredited by Ofqual, the UK government's regulator of qualifications, examinations and assessments. |
-| 12 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 13 | [José Couso](http://twitter.com/search?q=Jos%c3%a9+Couso) | N/A |
-| 14 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
-| 15 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 12 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 13 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 14 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 15 | [José Couso](http://twitter.com/search?q=Jos%c3%a9+Couso) | N/A |
 | 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 17 | [cervi](http://twitter.com/search?q=cervi) | N/A |
-| 18 | [Pablo Picasso](http://twitter.com/search?q=Pablo+Picasso) | N/A |
-| 19 | [Mendilibar](http://twitter.com/search?q=Mendilibar) | N/A |
-| 20 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 21 | [Madrugá](http://twitter.com/search?q=Madrug%c3%a1) | N/A |
-| 22 | [Egun](http://twitter.com/search?q=Egun) | N/A |
-| 23 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 24 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 25 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 17 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
+| 18 | [Mendilibar](http://twitter.com/search?q=Mendilibar) | N/A |
+| 19 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 20 | [Pueblo Gitano](http://twitter.com/search?q=Pueblo+Gitano) | N/A |
+| 21 | [Kiko Martínez](http://twitter.com/search?q=Kiko+Mart%c3%adnez) | N/A |
+| 22 | [Vicks Vaporub](http://twitter.com/search?q=Vicks+Vaporub) | N/A |
+| 23 | [Madrugá](http://twitter.com/search?q=Madrug%c3%a1) | N/A |
+| 24 | [Irving](http://twitter.com/search?q=Irving) | N/A |
+| 25 | [Paciencia](http://twitter.com/search?q=Paciencia) | N/A |
 | 26 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 27 | [Paciencia](http://twitter.com/search?q=Paciencia) | N/A |
-| 28 | [El 8](http://twitter.com/search?q=El+8) | N/A |
-| 29 | [Vigilia Pascual](http://twitter.com/search?q=Vigilia+Pascual) | N/A |
-| 30 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 31 | [Vicks Vaporub](http://twitter.com/search?q=Vicks+Vaporub) | N/A |
-| 32 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 33 | [Filoni](http://twitter.com/search?q=Filoni) | N/A |
-| 34 | [Pizarro Gómez](http://twitter.com/search?q=Pizarro+G%c3%b3mez) | N/A |
-| 35 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 36 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
-| 37 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 38 | [Triana](http://twitter.com/search?q=Triana) | N/A |
-| 39 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 40 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 41 | [Miguel Rodríguez](http://twitter.com/search?q=Miguel+Rodr%c3%adguez) | N/A |
-| 42 | [Rafa Mir](http://twitter.com/search?q=Rafa+Mir) | Rafa Mir is a Spanish footballer who currently plays for Wolverhampton Wanderers in the English Premier League. His name translates to "Rafa Look" in English. |
-| 43 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 44 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 45 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 46 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 47 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 48 | [Irving](http://twitter.com/search?q=Irving) | N/A |
-| 49 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 50 | [Pueblo Gitano](http://twitter.com/search?q=Pueblo+Gitano) | N/A |
+| 27 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 28 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 29 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 30 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 31 | [Cervi](http://twitter.com/search?q=Cervi) | N/A |
+| 32 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 33 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
+| 34 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 35 | [Filoni](http://twitter.com/search?q=Filoni) | N/A |
+| 36 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 37 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 38 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 39 | [Rafa Mir](http://twitter.com/search?q=Rafa+Mir) | Rafa Mir is a Spanish footballer who currently plays for Wolverhampton Wanderers in the English Premier League. His name translates to "Rafa Look" in English. |
+| 40 | [Miguel Rodríguez](http://twitter.com/search?q=Miguel+Rodr%c3%adguez) | N/A |
+| 41 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 42 | [Egun](http://twitter.com/search?q=Egun) | N/A |
+| 43 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 44 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 45 | [Pizarro Gómez](http://twitter.com/search?q=Pizarro+G%c3%b3mez) | N/A |
+| 46 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 47 | [Soledad](http://twitter.com/search?q=Soledad) | N/A |
+| 48 | [Triana](http://twitter.com/search?q=Triana) | N/A |
+| 49 | [El 38%](http://twitter.com/search?q=El+38%25) | N/A |
+| 50 | [En-Nesyri](http://twitter.com/search?q=En-Nesyri) | N/A |
 
 
 

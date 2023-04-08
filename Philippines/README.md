@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-04-08 08:17:44 UTC`
+📆 Last Updated: `2023-04-08 09:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Philippines
 | ------- | ------------ | ------------ |
 | 1 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
 | 2 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 3 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
-| 4 | [#MHMA2023](http://twitter.com/search?q=%23MHMA2023) | N/A |
-| 5 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 6 | [#NETIZENSREPORT](http://twitter.com/search?q=%23NETIZENSREPORT) | N/A |
-| 7 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
-| 8 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 9 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 10 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
-| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 3 | [#EXOCLOCK_D1](http://twitter.com/search?q=%23EXOCLOCK_D1) | N/A |
+| 4 | [#TimeForEXO](http://twitter.com/search?q=%23TimeForEXO) | N/A |
+| 5 | [#MHMA2023](http://twitter.com/search?q=%23MHMA2023) | N/A |
+| 6 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 7 | [THE EVE](http://twitter.com/search?q=THE+EVE) | N/A |
+| 8 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 9 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
+| 10 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 11 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
 | 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [JISOO NO PREPARE](http://twitter.com/search?q=JISOO+NO+PREPARE) | N/A |
-| 14 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 15 | [jonghyun](http://twitter.com/search?q=jonghyun) | N/A |
-| 16 | [KITSCH FIRST WIN](http://twitter.com/search?q=KITSCH+FIRST+WIN) | N/A |
-| 17 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 18 | [yixing](http://twitter.com/search?q=yixing) | N/A |
-| 19 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 20 | [97 LINERS](http://twitter.com/search?q=97+LINERS) | N/A |
-| 21 | [Ageo](http://twitter.com/search?q=Ageo) | N/A |
-| 22 | [DavidXShaira BecauseILoveYou](http://twitter.com/search?q=DavidXShaira+BecauseILoveYou) | N/A |
-| 23 | [MALIGAYANG UNANG KA1ARAWAN](http://twitter.com/search?q=MALIGAYANG+UNANG+KA1ARAWAN) | N/A |
-| 24 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
-| 25 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
+| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 14 | [LOVE SHOT](http://twitter.com/search?q=LOVE+SHOT) | N/A |
+| 15 | [BALUT](http://twitter.com/search?q=BALUT) | N/A |
+| 16 | [JISOO NO PREPARE](http://twitter.com/search?q=JISOO+NO+PREPARE) | N/A |
+| 17 | [ageo](http://twitter.com/search?q=ageo) | N/A |
+| 18 | [jonghyun](http://twitter.com/search?q=jonghyun) | N/A |
+| 19 | [yixing](http://twitter.com/search?q=yixing) | N/A |
+| 20 | [jjong](http://twitter.com/search?q=jjong) | N/A |
+| 21 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 22 | [MALIGAYANG UNANG KA1ARAWAN](http://twitter.com/search?q=MALIGAYANG+UNANG+KA1ARAWAN) | N/A |
+| 23 | [97 LINERS](http://twitter.com/search?q=97+LINERS) | N/A |
+| 24 | [Moonlight](http://twitter.com/search?q=Moonlight) | N/A |
+| 25 | [KITSCH FIRST WIN](http://twitter.com/search?q=KITSCH+FIRST+WIN) | N/A |
 | 26 | [RRADISH FOR PPOP](http://twitter.com/search?q=RRADISH+FOR+PPOP) | N/A |
-| 27 | [AGUST D X IU IS COMING](http://twitter.com/search?q=AGUST+D+X+IU+IS+COMING) | N/A |
-| 28 | [BOBBY BAKERY EVENT](http://twitter.com/search?q=BOBBY+BAKERY+EVENT) | N/A |
-| 29 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
-| 30 | [Sabado de Gloria](http://twitter.com/search?q=Sabado+de+Gloria) | N/A |
-| 31 | [Biyernes Santo](http://twitter.com/search?q=Biyernes+Santo) | N/A |
-| 32 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 33 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 34 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 35 | [Johnny](http://twitter.com/search?q=Johnny) | Johnny is a slang term for a condom. It is used to refer to a condom as a form of protection against sexually transmitted infections and unwanted pregnancies. |
-| 36 | [WE LOVE YOU FREEN](http://twitter.com/search?q=WE+LOVE+YOU+FREEN) | N/A |
-| 37 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 38 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 39 | [Baeksang](http://twitter.com/search?q=Baeksang) | N/A |
-| 40 | [riki](http://twitter.com/search?q=riki) | N/A |
-| 41 | [FLOWER 100 MILLION](http://twitter.com/search?q=FLOWER+100+MILLION) | N/A |
-| 42 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 43 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 44 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 45 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 46 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 47 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 48 | [Belle](http://twitter.com/search?q=Belle) | N/A |
-| 49 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 50 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 27 | [TAEGYU CHEMISTRY WORKSHOP](http://twitter.com/search?q=TAEGYU+CHEMISTRY+WORKSHOP) | N/A |
+| 28 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
+| 29 | [DavidXShaira BecauseILoveYou](http://twitter.com/search?q=DavidXShaira+BecauseILoveYou) | N/A |
+| 30 | [AGUST D X IU IS COMING](http://twitter.com/search?q=AGUST+D+X+IU+IS+COMING) | N/A |
+| 31 | [Sabado de Gloria](http://twitter.com/search?q=Sabado+de+Gloria) | N/A |
+| 32 | [Jeon](http://twitter.com/search?q=Jeon) | N/A |
+| 33 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
+| 34 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
+| 35 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 36 | [Biyernes Santo](http://twitter.com/search?q=Biyernes+Santo) | N/A |
+| 37 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 38 | [WE LOVE YOU FREEN](http://twitter.com/search?q=WE+LOVE+YOU+FREEN) | N/A |
+| 39 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 40 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 41 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 42 | [riki](http://twitter.com/search?q=riki) | N/A |
+| 43 | [Anji Salvacion](http://twitter.com/search?q=Anji+Salvacion) | N/A |
+| 44 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 45 | [FLOWER 100 MILLION](http://twitter.com/search?q=FLOWER+100+MILLION) | N/A |
+| 46 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 47 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 48 | [Baeksang](http://twitter.com/search?q=Baeksang) | N/A |
+| 49 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 50 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
 
 
 

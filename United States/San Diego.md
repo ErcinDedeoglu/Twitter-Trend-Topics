@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-04-08 08:17:37 UTC`
+📆 Last Updated: `2023-04-08 09:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 2 | [Moore](http://twitter.com/search?q=Moore) | N/A |
-| 3 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 4 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 5 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 6 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 7 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 8 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 9 | [#NIJIPuyoTetris2023](http://twitter.com/search?q=%23NIJIPuyoTetris2023) | N/A |
-| 10 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 1 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 2 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 3 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 4 | [Moore](http://twitter.com/search?q=Moore) | N/A |
+| 5 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 6 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 7 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 8 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 9 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 10 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
 | 11 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
-| 12 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
-| 13 | [University of Oklahoma](http://twitter.com/search?q=University+of+Oklahoma) | N/A |
+| 12 | [#NIJIPuyoTetris2023](http://twitter.com/search?q=%23NIJIPuyoTetris2023) | N/A |
+| 13 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
 | 14 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 15 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 16 | [#Wordle658](http://twitter.com/search?q=%23Wordle658) | N/A |
-| 17 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
-| 18 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
-| 19 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 20 | [Nevin](http://twitter.com/search?q=Nevin) | N/A |
+| 15 | [#Wordle658](http://twitter.com/search?q=%23Wordle658) | N/A |
+| 16 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
+| 17 | [University of Oklahoma](http://twitter.com/search?q=University+of+Oklahoma) | N/A |
+| 18 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 19 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
+| 20 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
 | 21 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
 | 22 | [Herget](http://twitter.com/search?q=Herget) | N/A |
-| 23 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 24 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 25 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 26 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 27 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 23 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 24 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 25 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 26 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 27 | [Girly Teengirl](http://twitter.com/search?q=Girly+Teengirl) | N/A |
 | 28 | [Swatting](http://twitter.com/search?q=Swatting) | N/A |
-| 29 | [kershaw](http://twitter.com/search?q=kershaw) | N/A |
-| 30 | [Girly Teengirl](http://twitter.com/search?q=Girly+Teengirl) | N/A |
-| 31 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 32 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 33 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 34 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 35 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 36 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
-| 37 | [Bron and AD](http://twitter.com/search?q=Bron+and+AD) | N/A |
-| 38 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
-| 39 | [MAGA Michelle](http://twitter.com/search?q=MAGA+Michelle) | N/A |
-| 40 | [Julia Hart](http://twitter.com/search?q=Julia+Hart) | N/A |
-| 41 | [Bizzy](http://twitter.com/search?q=Bizzy) | N/A |
-| 42 | [Torrey Craig](http://twitter.com/search?q=Torrey+Craig) | N/A |
-| 43 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 44 | [Biyombo](http://twitter.com/search?q=Biyombo) | N/A |
-| 45 | [nicholas braun](http://twitter.com/search?q=nicholas+braun) | N/A |
-| 46 | [The Mario](http://twitter.com/search?q=The+Mario) | N/A |
-| 47 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 29 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 30 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 31 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 32 | [Ivermectin](http://twitter.com/search?q=Ivermectin) | N/A |
+| 33 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 34 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
+| 35 | [kershaw](http://twitter.com/search?q=kershaw) | N/A |
+| 36 | [Julia Hart](http://twitter.com/search?q=Julia+Hart) | N/A |
+| 37 | [The Mario](http://twitter.com/search?q=The+Mario) | N/A |
+| 38 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 39 | [nicholas braun](http://twitter.com/search?q=nicholas+braun) | N/A |
+| 40 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 41 | [Bron and AD](http://twitter.com/search?q=Bron+and+AD) | N/A |
+| 42 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
+| 43 | [isle of palms](http://twitter.com/search?q=isle+of+palms) | N/A |
+| 44 | [DBZA](http://twitter.com/search?q=DBZA) | N/A |
+| 45 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
+| 46 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 47 | [AK-47](http://twitter.com/search?q=AK-47) | N/A |
 
 
 

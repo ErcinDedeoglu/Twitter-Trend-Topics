@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-04-08 08:17:44 UTC`
+📆 Last Updated: `2023-04-08 09:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,12 +21,12 @@ This is top 50 for Peru
 | 4 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
 | 5 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
 | 6 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 9 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 7 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
+| 8 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 10 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 11 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 12 | [Ben Hur](http://twitter.com/search?q=Ben+Hur) | N/A |
+| 11 | [Ben Hur](http://twitter.com/search?q=Ben+Hur) | N/A |
+| 12 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
 | 13 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
 | 14 | [SERUMS](http://twitter.com/search?q=SERUMS) | N/A |
 | 15 | [Piura](http://twitter.com/search?q=Piura) | N/A |
@@ -34,15 +34,15 @@ This is top 50 for Peru
 | 17 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 18 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
 | 19 | [Trauco](http://twitter.com/search?q=Trauco) | N/A |
-| 20 | [cuéllar](http://twitter.com/search?q=cu%c3%a9llar) | N/A |
+| 20 | [Cuéllar](http://twitter.com/search?q=Cu%c3%a9llar) | N/A |
 | 21 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
 | 22 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
 | 23 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 | 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 25 | [Castañeda](http://twitter.com/search?q=Casta%c3%b1eda) | N/A |
 | 26 | [Marciano](http://twitter.com/search?q=Marciano) | N/A |
-| 27 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
-| 28 | [Morsi](http://twitter.com/search?q=Morsi) | N/A |
+| 27 | [morsi](http://twitter.com/search?q=morsi) | N/A |
+| 28 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
 | 29 | [salas arenas](http://twitter.com/search?q=salas+arenas) | N/A |
 | 30 | [Ramón](http://twitter.com/search?q=Ram%c3%b3n) | N/A |
 | 31 | [5sos](http://twitter.com/search?q=5sos) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Peru
 | 40 | [inviable](http://twitter.com/search?q=inviable) | N/A |
 | 41 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
 | 42 | [Siwon](http://twitter.com/search?q=Siwon) | N/A |
-| 43 | [Nimu](http://twitter.com/search?q=Nimu) | N/A |
-| 44 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
-| 45 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
-| 46 | [Denunciamos](http://twitter.com/search?q=Denunciamos) | N/A |
-| 47 | [cornejo](http://twitter.com/search?q=cornejo) | N/A |
-| 48 | [cusco fc](http://twitter.com/search?q=cusco+fc) | N/A |
-| 49 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 50 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 43 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
+| 44 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
+| 45 | [Denunciamos](http://twitter.com/search?q=Denunciamos) | N/A |
+| 46 | [cornejo](http://twitter.com/search?q=cornejo) | N/A |
+| 47 | [cusco fc](http://twitter.com/search?q=cusco+fc) | N/A |
+| 48 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 49 | [monagas](http://twitter.com/search?q=monagas) | N/A |
+| 50 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 
 
 

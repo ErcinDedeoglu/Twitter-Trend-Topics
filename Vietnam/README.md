@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-04-08 08:17:46 UTC`
+📆 Last Updated: `2023-04-08 09:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,37 +25,36 @@ This is top 50 for Vietnam
 | 8 | [Grim](http://twitter.com/search?q=Grim) | N/A |
 | 9 | [Grim](http://twitter.com/search?q=Grim) | N/A |
 | 10 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 11 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 12 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 13 | [AGUST D X IU IS COMING](http://twitter.com/search?q=AGUST+D+X+IU+IS+COMING) | N/A |
-| 14 | [JISOO NO PREPARE](http://twitter.com/search?q=JISOO+NO+PREPARE) | N/A |
-| 15 | [PEOPLE PT2 IS COMING](http://twitter.com/search?q=PEOPLE+PT2+IS+COMING) | N/A |
-| 16 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 17 | [WE LOVE YOU FREEN](http://twitter.com/search?q=WE+LOVE+YOU+FREEN) | N/A |
-| 18 | [2nd ClimbDrop](http://twitter.com/search?q=2nd+ClimbDrop) | N/A |
-| 19 | [Tool](http://twitter.com/search?q=Tool) | N/A |
-| 20 | [4pcs Flaming](http://twitter.com/search?q=4pcs+Flaming) | N/A |
-| 21 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
-| 22 | [Tempest](http://twitter.com/search?q=Tempest) | N/A |
-| 23 | [Mong](http://twitter.com/search?q=Mong) | N/A |
-| 24 | [Day of The Dead](http://twitter.com/search?q=Day+of+The+Dead) | N/A |
-| 25 | [Chính](http://twitter.com/search?q=Ch%c3%adnh) | N/A |
+| 11 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 12 | [AGUST D X IU IS COMING](http://twitter.com/search?q=AGUST+D+X+IU+IS+COMING) | N/A |
+| 13 | [JISOO NO PREPARE](http://twitter.com/search?q=JISOO+NO+PREPARE) | N/A |
+| 14 | [PEOPLE PT2 IS COMING](http://twitter.com/search?q=PEOPLE+PT2+IS+COMING) | N/A |
+| 15 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 16 | [WE LOVE YOU FREEN](http://twitter.com/search?q=WE+LOVE+YOU+FREEN) | N/A |
+| 17 | [2nd ClimbDrop](http://twitter.com/search?q=2nd+ClimbDrop) | N/A |
+| 18 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
+| 19 | [Tempest](http://twitter.com/search?q=Tempest) | N/A |
+| 20 | [Mong](http://twitter.com/search?q=Mong) | N/A |
+| 21 | [4pcs Flaming](http://twitter.com/search?q=4pcs+Flaming) | N/A |
+| 22 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 23 | [Chính](http://twitter.com/search?q=Ch%c3%adnh) | N/A |
+| 24 | [Nguyên](http://twitter.com/search?q=Nguy%c3%aan) | N/A |
+| 25 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 26 | [Floor](http://twitter.com/search?q=Floor) | N/A |
-| 27 | [Nguyên](http://twitter.com/search?q=Nguy%c3%aan) | N/A |
-| 28 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
-| 29 | [$arb](http://twitter.com/search?q=%24arb) | N/A |
+| 27 | [Thái Lan](http://twitter.com/search?q=Th%c3%a1i+Lan) | N/A |
+| 28 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
+| 29 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
 | 30 | [Người](http://twitter.com/search?q=Ng%c6%b0%e1%bb%9di) | N/A |
-| 31 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 32 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 33 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 34 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
-| 35 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 36 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 37 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
-| 38 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
-| 39 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 40 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 41 | [#BKEX](http://twitter.com/search?q=%23BKEX) | N/A |
+| 31 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 32 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 33 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 34 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
+| 35 | [#BKEX](http://twitter.com/search?q=%23BKEX) | N/A |
+| 36 | [#waxl](http://twitter.com/search?q=%23waxl) | N/A |
+| 37 | [#WhatsUpBIU](http://twitter.com/search?q=%23WhatsUpBIU) | N/A |
+| 38 | [#ปอนด์ภูวินทร์](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%a0%e0%b8%b9%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c) | N/A |
+| 39 | [#phuwintang](http://twitter.com/search?q=%23phuwintang) | N/A |
+| 40 | [#ppnaravit](http://twitter.com/search?q=%23ppnaravit) | N/A |
 
 
 

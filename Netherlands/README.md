@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-04-08 08:17:43 UTC`
+📆 Last Updated: `2023-04-08 09:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 2 | [#sportief](http://twitter.com/search?q=%23sportief) | N/A |
-| 3 | [#groutr](http://twitter.com/search?q=%23groutr) | N/A |
-| 4 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
+| 2 | [#glazenbolcup](http://twitter.com/search?q=%23glazenbolcup) | N/A |
+| 3 | [#sportief](http://twitter.com/search?q=%23sportief) | N/A |
+| 4 | [#groutr](http://twitter.com/search?q=%23groutr) | N/A |
 | 5 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 6 | [Stille Zaterdag](http://twitter.com/search?q=Stille+Zaterdag) | N/A |
-| 7 | [#beau](http://twitter.com/search?q=%23beau) | N/A |
-| 8 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
-| 9 | [Enzo Knol](http://twitter.com/search?q=Enzo+Knol) | N/A |
-| 10 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
-| 11 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 12 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 13 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 14 | [Jezus](http://twitter.com/search?q=Jezus) | N/A |
+| 6 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
+| 7 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
+| 8 | [#beau](http://twitter.com/search?q=%23beau) | N/A |
+| 9 | [Goede Vrijdag](http://twitter.com/search?q=Goede+Vrijdag) | N/A |
+| 10 | [Enzo Knol](http://twitter.com/search?q=Enzo+Knol) | N/A |
+| 11 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 12 | [Stille Zaterdag](http://twitter.com/search?q=Stille+Zaterdag) | N/A |
+| 13 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 14 | [Volkskrant](http://twitter.com/search?q=Volkskrant) | N/A |
 | 15 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 16 | [MANC](http://twitter.com/search?q=MANC) | N/A |
-| 17 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 18 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 19 | [Koffie](http://twitter.com/search?q=Koffie) | N/A |
+| 16 | [Jezus](http://twitter.com/search?q=Jezus) | N/A |
+| 17 | [Joey](http://twitter.com/search?q=Joey) | N/A |
+| 18 | [Koffie](http://twitter.com/search?q=Koffie) | N/A |
+| 19 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
 | 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 21 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 22 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 23 | [Joey](http://twitter.com/search?q=Joey) | N/A |
-| 24 | [Branco](http://twitter.com/search?q=Branco) | N/A |
-| 25 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
-| 26 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 27 | [FC Eindhoven](http://twitter.com/search?q=FC+Eindhoven) | N/A |
-| 28 | [NVWA](http://twitter.com/search?q=NVWA) | N/A |
-| 29 | [Nicolette](http://twitter.com/search?q=Nicolette) | N/A |
-| 30 | [Rinus](http://twitter.com/search?q=Rinus) | N/A |
-| 31 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 32 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
-| 33 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
-| 34 | [Smakelijk](http://twitter.com/search?q=Smakelijk) | N/A |
-| 35 | [Antwerpen](http://twitter.com/search?q=Antwerpen) | N/A |
-| 36 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 37 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
-| 38 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 39 | [Forum](http://twitter.com/search?q=Forum) | N/A |
-| 40 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 41 | [twents](http://twitter.com/search?q=twents) | N/A |
-| 42 | [fc dordrecht](http://twitter.com/search?q=fc+dordrecht) | N/A |
-| 43 | [soundos](http://twitter.com/search?q=soundos) | N/A |
-| 44 | [Telstar](http://twitter.com/search?q=Telstar) | N/A |
-| 45 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
-| 46 | [Veerman](http://twitter.com/search?q=Veerman) | N/A |
-| 47 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 48 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
-| 49 | [bloemendaal](http://twitter.com/search?q=bloemendaal) | N/A |
-| 50 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
+| 23 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
+| 24 | [FC Eindhoven](http://twitter.com/search?q=FC+Eindhoven) | N/A |
+| 25 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 26 | [Forum](http://twitter.com/search?q=Forum) | N/A |
+| 27 | [NVWA](http://twitter.com/search?q=NVWA) | N/A |
+| 28 | [Nicolette](http://twitter.com/search?q=Nicolette) | N/A |
+| 29 | [Rinus](http://twitter.com/search?q=Rinus) | N/A |
+| 30 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
+| 31 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
+| 32 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 33 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
+| 34 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 35 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 36 | [Speaking](http://twitter.com/search?q=Speaking) | N/A |
+| 37 | [Veerman](http://twitter.com/search?q=Veerman) | N/A |
+| 38 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 39 | [fc dordrecht](http://twitter.com/search?q=fc+dordrecht) | N/A |
+| 40 | [soundos](http://twitter.com/search?q=soundos) | N/A |
+| 41 | [Telstar](http://twitter.com/search?q=Telstar) | N/A |
+| 42 | [Branco](http://twitter.com/search?q=Branco) | N/A |
+| 43 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 44 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
+| 45 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 46 | [Lukt](http://twitter.com/search?q=Lukt) | N/A |
+| 47 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
+| 48 | [Jong PSV](http://twitter.com/search?q=Jong+PSV) | N/A |
+| 49 | [Morguh](http://twitter.com/search?q=Morguh) | N/A |
+| 50 | [Judas](http://twitter.com/search?q=Judas) | N/A |
 
 
 

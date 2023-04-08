@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-08 08:17:44 UTC`
+📆 Last Updated: `2023-04-08 09:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -57,7 +57,7 @@ This is top 50 for Panama
 | 40 | [Biblia](http://twitter.com/search?q=Biblia) | N/A |
 | 41 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 42 | [san miguelito](http://twitter.com/search?q=san+miguelito) | N/A |
-| 43 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 43 | [monagas](http://twitter.com/search?q=monagas) | N/A |
 | 44 | [Casco Viejo](http://twitter.com/search?q=Casco+Viejo) | N/A |
 | 45 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
 | 46 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |

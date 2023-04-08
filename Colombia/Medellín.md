@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-04-08 08:16:57 UTC`
+📆 Last Updated: `2023-04-08 09:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,17 +33,17 @@ This is top 50 for [Colombia](</Colombia>)
 | 16 | [#210añosmásbaqana](http://twitter.com/search?q=%23210a%c3%b1osm%c3%a1sbaqana) | N/A |
 | 17 | [#miciudadbaqana](http://twitter.com/search?q=%23miciudadbaqana) | N/A |
 | 18 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
-| 19 | [Sergio Higuita](http://twitter.com/search?q=Sergio+Higuita) | N/A |
-| 20 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 21 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
-| 22 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 23 | [catalina usme](http://twitter.com/search?q=catalina+usme) | N/A |
+| 19 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 20 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
+| 21 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 22 | [catalina usme](http://twitter.com/search?q=catalina+usme) | N/A |
+| 23 | [Sergio Higuita](http://twitter.com/search?q=Sergio+Higuita) | N/A |
 | 24 | [felices 210](http://twitter.com/search?q=felices+210) | N/A |
-| 25 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 26 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 27 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 28 | [abadía](http://twitter.com/search?q=abad%c3%ada) | N/A |
-| 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 25 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 26 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 27 | [abadía](http://twitter.com/search?q=abad%c3%ada) | N/A |
+| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 29 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
 | 30 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
 | 31 | [bojacá](http://twitter.com/search?q=bojac%c3%a1) | N/A |
 | 32 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
@@ -51,14 +51,14 @@ This is top 50 for [Colombia](</Colombia>)
 | 34 | [Mazorca](http://twitter.com/search?q=Mazorca) | N/A |
 | 35 | [linda caicedo](http://twitter.com/search?q=linda+caicedo) | N/A |
 | 36 | [Dijon](http://twitter.com/search?q=Dijon) | N/A |
-| 37 | [escasez](http://twitter.com/search?q=escasez) | N/A |
-| 38 | [cata usme](http://twitter.com/search?q=cata+usme) | N/A |
-| 39 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
-| 40 | [patarroyo](http://twitter.com/search?q=patarroyo) | N/A |
-| 41 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 37 | [cata usme](http://twitter.com/search?q=cata+usme) | N/A |
+| 38 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
+| 39 | [patarroyo](http://twitter.com/search?q=patarroyo) | N/A |
+| 40 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 41 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 42 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
-| 43 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 44 | [barú](http://twitter.com/search?q=bar%c3%ba) | N/A |
+| 43 | [barú](http://twitter.com/search?q=bar%c3%ba) | N/A |
+| 44 | [Providencia](http://twitter.com/search?q=Providencia) | N/A |
 | 45 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
 | 46 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
 | 47 | [Potencia](http://twitter.com/search?q=Potencia) | N/A |

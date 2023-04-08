@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-04-08 08:16:55 UTC`
+📆 Last Updated: `2023-04-08 09:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,43 +26,43 @@ This is top 50 for [Mexico](</Mexico>)
 | 9 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
 | 10 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
 | 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 12 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 13 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 12 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 13 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 | 14 | [Volpi](http://twitter.com/search?q=Volpi) | N/A |
-| 15 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 15 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
 | 16 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
-| 17 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 17 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 | 18 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
 | 19 | [Procesión del Silencio](http://twitter.com/search?q=Procesi%c3%b3n+del+Silencio) | N/A |
-| 20 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 21 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
-| 22 | [Iztapalapa](http://twitter.com/search?q=Iztapalapa) | N/A |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
-| 25 | [Miguel Herrera](http://twitter.com/search?q=Miguel+Herrera) | N/A |
-| 26 | [Creel](http://twitter.com/search?q=Creel) | N/A |
-| 27 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 28 | [Central de Abasto](http://twitter.com/search?q=Central+de+Abasto) | N/A |
-| 29 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 30 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 31 | [Dresser](http://twitter.com/search?q=Dresser) | N/A |
-| 32 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 33 | [Orinoco](http://twitter.com/search?q=Orinoco) | N/A |
+| 20 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 21 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 23 | [Iztapalapa](http://twitter.com/search?q=Iztapalapa) | N/A |
+| 24 | [Creel](http://twitter.com/search?q=Creel) | N/A |
+| 25 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
+| 26 | [Central de Abasto](http://twitter.com/search?q=Central+de+Abasto) | N/A |
+| 27 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 28 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 29 | [Dresser](http://twitter.com/search?q=Dresser) | N/A |
+| 30 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 31 | [Orinoco](http://twitter.com/search?q=Orinoco) | N/A |
+| 32 | [césar duarte](http://twitter.com/search?q=c%c3%a9sar+duarte) | N/A |
+| 33 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
 | 34 | [Plaza de la Constitución](http://twitter.com/search?q=Plaza+de+la+Constituci%c3%b3n) | N/A |
-| 35 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 36 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
-| 37 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 38 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 39 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 40 | [Farnesio de Bernal](http://twitter.com/search?q=Farnesio+de+Bernal) | N/A |
-| 41 | [solo un beso out now](http://twitter.com/search?q=solo+un+beso+out+now) | N/A |
-| 42 | [Burger Boy](http://twitter.com/search?q=Burger+Boy) | N/A |
+| 35 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 36 | [Farnesio de Bernal](http://twitter.com/search?q=Farnesio+de+Bernal) | N/A |
+| 37 | [solo un beso out now](http://twitter.com/search?q=solo+un+beso+out+now) | N/A |
+| 38 | [Miguel Herrera](http://twitter.com/search?q=Miguel+Herrera) | N/A |
+| 39 | [layun](http://twitter.com/search?q=layun) | N/A |
+| 40 | [Burger Boy](http://twitter.com/search?q=Burger+Boy) | N/A |
+| 41 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 42 | [Judas](http://twitter.com/search?q=Judas) | N/A |
 | 43 | [Inter de Milán](http://twitter.com/search?q=Inter+de+Mil%c3%a1n) | N/A |
 | 44 | [San Luis Potosí](http://twitter.com/search?q=San+Luis+Potos%c3%ad) | N/A |
 | 45 | [Martinoli](http://twitter.com/search?q=Martinoli) | N/A |
 | 46 | [Diamondbacks](http://twitter.com/search?q=Diamondbacks) | N/A |
 | 47 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 48 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 48 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
 
 
 

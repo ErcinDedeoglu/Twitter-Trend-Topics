@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-04-08 08:16:53 UTC`
+📆 Last Updated: `2023-04-08 09:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,10 +43,10 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 26 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
 | 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 28 | [Francisco Álvarez Castellanos](http://twitter.com/search?q=Francisco+%c3%81lvarez+Castellanos) | N/A |
-| 29 | [El Seibo](http://twitter.com/search?q=El+Seibo) | N/A |
+| 29 | [el seibo](http://twitter.com/search?q=el+seibo) | N/A |
 | 30 | [jarabacoa](http://twitter.com/search?q=jarabacoa) | N/A |
 | 31 | [san pedro de macorís](http://twitter.com/search?q=san+pedro+de+macor%c3%ads) | N/A |
-| 32 | [cristiano](http://twitter.com/search?q=cristiano) | N/A |
+| 32 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
 | 33 | [#concienciaporlavida](http://twitter.com/search?q=%23concienciaporlavida) | N/A |
 | 34 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
 | 35 | [defensa civil](http://twitter.com/search?q=defensa+civil) | N/A |

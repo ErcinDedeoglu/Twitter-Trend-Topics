@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-08 08:17:40 UTC`
+📆 Last Updated: `2023-04-08 09:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,10 +43,10 @@ This is top 50 for Dominican Republic
 | 26 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
 | 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 28 | [Francisco Álvarez Castellanos](http://twitter.com/search?q=Francisco+%c3%81lvarez+Castellanos) | N/A |
-| 29 | [El Seibo](http://twitter.com/search?q=El+Seibo) | N/A |
+| 29 | [el seibo](http://twitter.com/search?q=el+seibo) | N/A |
 | 30 | [jarabacoa](http://twitter.com/search?q=jarabacoa) | N/A |
 | 31 | [san pedro de macorís](http://twitter.com/search?q=san+pedro+de+macor%c3%ads) | N/A |
-| 32 | [cristiano](http://twitter.com/search?q=cristiano) | N/A |
+| 32 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
 | 33 | [#concienciaporlavida](http://twitter.com/search?q=%23concienciaporlavida) | N/A |
 | 34 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
 | 35 | [defensa civil](http://twitter.com/search?q=defensa+civil) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Dominican Republic
 | 44 | [Judas](http://twitter.com/search?q=Judas) | N/A |
 | 45 | [La 42](http://twitter.com/search?q=La+42) | N/A |
 | 46 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 47 | [LIDOM](http://twitter.com/search?q=LIDOM) | N/A |
+| 47 | [lidom](http://twitter.com/search?q=lidom) | N/A |
 | 48 | [habichuelas con dulce](http://twitter.com/search?q=habichuelas+con+dulce) | N/A |
 | 49 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
 | 50 | [Israel](http://twitter.com/search?q=Israel) | N/A |

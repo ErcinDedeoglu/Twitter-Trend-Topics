@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-04-08 08:17:10 UTC`
+📆 Last Updated: `2023-04-08 09:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 2 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 3 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
-| 4 | [#weareoneEXO](http://twitter.com/search?q=%23weareoneEXO) | N/A |
-| 5 | [Iklan Ponds Men](http://twitter.com/search?q=Iklan+Ponds+Men) | N/A |
-| 6 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 7 | [Jumat Agung](http://twitter.com/search?q=Jumat+Agung) | N/A |
-| 8 | [pharmaton](http://twitter.com/search?q=pharmaton) | N/A |
-| 9 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
+| 1 | [#TerimakasihPakErick](http://twitter.com/search?q=%23TerimakasihPakErick) | N/A |
+| 2 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
+| 3 | [Lolos Sanksi Berat FIFA](http://twitter.com/search?q=Lolos+Sanksi+Berat+FIFA) | N/A |
+| 4 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 5 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
+| 6 | [Iklan Ponds Men](http://twitter.com/search?q=Iklan+Ponds+Men) | N/A |
+| 7 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 8 | [Jumat Agung](http://twitter.com/search?q=Jumat+Agung) | N/A |
+| 9 | [pharmaton](http://twitter.com/search?q=pharmaton) | N/A |
 | 10 | [gorengan harga mati](http://twitter.com/search?q=gorengan+harga+mati) | N/A |
-| 11 | [Z Fold4](http://twitter.com/search?q=Z+Fold4) | N/A |
-| 12 | [hari terakhir promo puncak](http://twitter.com/search?q=hari+terakhir+promo+puncak) | N/A |
-| 13 | [tabungan bri simpedes](http://twitter.com/search?q=tabungan+bri+simpedes) | N/A |
-| 14 | [pilihan zillennial jateng](http://twitter.com/search?q=pilihan+zillennial+jateng) | N/A |
-| 15 | [produk viral](http://twitter.com/search?q=produk+viral) | N/A |
-| 16 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 17 | [Cashback](http://twitter.com/search?q=Cashback) | N/A |
-| 18 | [Multitasking](http://twitter.com/search?q=Multitasking) | N/A |
-| 19 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 20 | [MINGYU JUNGKOOK](http://twitter.com/search?q=MINGYU+JUNGKOOK) | N/A |
-| 21 | [Susi](http://twitter.com/search?q=Susi) | N/A |
-| 22 | [Miss Helena](http://twitter.com/search?q=Miss+Helena) | N/A |
-| 23 | [Soimah](http://twitter.com/search?q=Soimah) | N/A |
-| 24 | [Great Hall](http://twitter.com/search?q=Great+Hall) | N/A |
-| 25 | [JEONG JAEHYUN](http://twitter.com/search?q=JEONG+JAEHYUN) | N/A |
-| 26 | [B. Baterai 5000mAh](http://twitter.com/search?q=B.+Baterai+5000mAh) | N/A |
-| 27 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
-| 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 29 | [Na PD](http://twitter.com/search?q=Na+PD) | N/A |
-| 30 | [Don't Go](http://twitter.com/search?q=Don%27t+Go) | N/A |
+| 11 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
+| 12 | [Z Fold4](http://twitter.com/search?q=Z+Fold4) | N/A |
+| 13 | [hari terakhir promo puncak](http://twitter.com/search?q=hari+terakhir+promo+puncak) | N/A |
+| 14 | [tabungan bri simpedes](http://twitter.com/search?q=tabungan+bri+simpedes) | N/A |
+| 15 | [pilihan zillennial jateng](http://twitter.com/search?q=pilihan+zillennial+jateng) | N/A |
+| 16 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 17 | [THE EVE](http://twitter.com/search?q=THE+EVE) | N/A |
+| 18 | [produk viral](http://twitter.com/search?q=produk+viral) | N/A |
+| 19 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 20 | [Greenhouse 7](http://twitter.com/search?q=Greenhouse+7) | N/A |
+| 21 | [Multitasking](http://twitter.com/search?q=Multitasking) | N/A |
+| 22 | [Cupcake](http://twitter.com/search?q=Cupcake) | N/A |
+| 23 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 24 | [Susi](http://twitter.com/search?q=Susi) | N/A |
+| 25 | [soimah](http://twitter.com/search?q=soimah) | N/A |
+| 26 | [MINGYU JUNGKOOK](http://twitter.com/search?q=MINGYU+JUNGKOOK) | N/A |
+| 27 | [Cashback](http://twitter.com/search?q=Cashback) | N/A |
+| 28 | [JEONG JAEHYUN](http://twitter.com/search?q=JEONG+JAEHYUN) | N/A |
+| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 30 | [KITSCH FIRST WIN](http://twitter.com/search?q=KITSCH+FIRST+WIN) | N/A |
 | 31 | [back to syariah kaffah](http://twitter.com/search?q=back+to+syariah+kaffah) | N/A |
-| 32 | [Akrab](http://twitter.com/search?q=Akrab) | N/A |
+| 32 | [Pak ET](http://twitter.com/search?q=Pak+ET) | N/A |
 | 33 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 34 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
+| 34 | [Na PD](http://twitter.com/search?q=Na+PD) | N/A |
 | 35 | [PEOPLE PT2 OUT NOW](http://twitter.com/search?q=PEOPLE+PT2+OUT+NOW) | N/A |
 | 36 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
 | 37 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
 | 38 | [onic](http://twitter.com/search?q=onic) | N/A |
-| 39 | [Umur 21](http://twitter.com/search?q=Umur+21) | N/A |
-| 40 | [Nuzulul Qur'an](http://twitter.com/search?q=Nuzulul+Qur%27an) | N/A |
-| 41 | [MELODY OF SCENTS D1](http://twitter.com/search?q=MELODY+OF+SCENTS+D1) | N/A |
-| 42 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 43 | [Isa Almasih](http://twitter.com/search?q=Isa+Almasih) | N/A |
-| 44 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 45 | [EXO SARANGHAJA](http://twitter.com/search?q=EXO+SARANGHAJA) | N/A |
-| 46 | [BEAUTY MYSTERY BOX](http://twitter.com/search?q=BEAUTY+MYSTERY+BOX) | N/A |
-| 47 | [KEJUTAN PRODUK GRATIS](http://twitter.com/search?q=KEJUTAN+PRODUK+GRATIS) | N/A |
-| 48 | [EXO-L](http://twitter.com/search?q=EXO-L) | N/A |
-| 49 | [STREAMING CHAIN](http://twitter.com/search?q=STREAMING+CHAIN) | N/A |
+| 39 | [Akrab](http://twitter.com/search?q=Akrab) | N/A |
+| 40 | [PEOPLE PT2 BY AGUST D](http://twitter.com/search?q=PEOPLE+PT2+BY+AGUST+D) | N/A |
+| 41 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 42 | [Fuji](http://twitter.com/search?q=Fuji) | N/A |
+| 43 | [AGUST D OFFICIAL DEBUT](http://twitter.com/search?q=AGUST+D+OFFICIAL+DEBUT) | N/A |
+| 44 | [MELODY OF SCENTS D1](http://twitter.com/search?q=MELODY+OF+SCENTS+D1) | N/A |
+| 45 | [Bubble](http://twitter.com/search?q=Bubble) | N/A |
+| 46 | [isa almasih](http://twitter.com/search?q=isa+almasih) | N/A |
+| 47 | [EXO SARANGHAJA](http://twitter.com/search?q=EXO+SARANGHAJA) | N/A |
+| 48 | [BEAUTY MYSTERY BOX](http://twitter.com/search?q=BEAUTY+MYSTERY+BOX) | N/A |
+| 49 | [KEJUTAN PRODUK GRATIS](http://twitter.com/search?q=KEJUTAN+PRODUK+GRATIS) | N/A |
 
 
 

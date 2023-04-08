@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-04-08 08:17:03 UTC`
+📆 Last Updated: `2023-04-08 09:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,47 +22,47 @@ This is top 50 for [France](</France>)
 | 5 | [#RCLRCSA](http://twitter.com/search?q=%23RCLRCSA) | N/A |
 | 6 | [Chine](http://twitter.com/search?q=Chine) | N/A |
 | 7 | [#FRACOL](http://twitter.com/search?q=%23FRACOL) | N/A |
-| 8 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
-| 9 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 10 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 11 | [Nyctalope](http://twitter.com/search?q=Nyctalope) | N/A |
-| 12 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 13 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
-| 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 15 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
-| 16 | [Charles Biétry](http://twitter.com/search?q=Charles+Bi%c3%a9try) | N/A |
-| 17 | [Rotonde](http://twitter.com/search?q=Rotonde) | N/A |
-| 18 | [Vendredi Saint](http://twitter.com/search?q=Vendredi+Saint) | N/A |
-| 19 | [Bon Samedi](http://twitter.com/search?q=Bon+Samedi) | N/A |
-| 20 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 21 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 22 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 23 | [Grigny](http://twitter.com/search?q=Grigny) | N/A |
-| 24 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 25 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 26 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 27 | [Edwy Plenel](http://twitter.com/search?q=Edwy+Plenel) | N/A |
-| 28 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 29 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 30 | [Brice Caron](http://twitter.com/search?q=Brice+Caron) | N/A |
-| 31 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 32 | [Dissolution de la BRAVM](http://twitter.com/search?q=Dissolution+de+la+BRAVM) | N/A |
-| 33 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
-| 34 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
-| 35 | [Olive](http://twitter.com/search?q=Olive) | N/A |
-| 36 | [Maïwenn](http://twitter.com/search?q=Ma%c3%afwenn) | N/A |
-| 37 | [Charcot](http://twitter.com/search?q=Charcot) | N/A |
-| 38 | [Papou](http://twitter.com/search?q=Papou) | N/A |
-| 39 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 40 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 41 | [Le Sommer](http://twitter.com/search?q=Le+Sommer) | N/A |
-| 42 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 43 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
-| 44 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
-| 45 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 46 | [Julien Pain](http://twitter.com/search?q=Julien+Pain) | N/A |
-| 47 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
-| 48 | [Mashle](http://twitter.com/search?q=Mashle) | N/A |
+| 8 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 9 | [Nyctalope](http://twitter.com/search?q=Nyctalope) | N/A |
+| 10 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 11 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
+| 12 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
+| 13 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 14 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
+| 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 16 | [Rotonde](http://twitter.com/search?q=Rotonde) | N/A |
+| 17 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 18 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 19 | [Vendredi Saint](http://twitter.com/search?q=Vendredi+Saint) | N/A |
+| 20 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 21 | [grigny](http://twitter.com/search?q=grigny) | N/A |
+| 22 | [Edwy Plenel](http://twitter.com/search?q=Edwy+Plenel) | N/A |
+| 23 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 24 | [Julien Pain](http://twitter.com/search?q=Julien+Pain) | N/A |
+| 25 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
+| 26 | [Papou](http://twitter.com/search?q=Papou) | N/A |
+| 27 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 28 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 29 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 30 | [Bon Samedi](http://twitter.com/search?q=Bon+Samedi) | N/A |
+| 31 | [Brice Caron](http://twitter.com/search?q=Brice+Caron) | N/A |
+| 32 | [Garp](http://twitter.com/search?q=Garp) | N/A |
+| 33 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
+| 34 | [Shonen War](http://twitter.com/search?q=Shonen+War) | N/A |
+| 35 | [Maïwenn](http://twitter.com/search?q=Ma%c3%afwenn) | N/A |
+| 36 | [Olive](http://twitter.com/search?q=Olive) | N/A |
+| 37 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
+| 38 | [Le Sommer](http://twitter.com/search?q=Le+Sommer) | N/A |
+| 39 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 40 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 41 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
+| 42 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
+| 43 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
+| 44 | [Mashle](http://twitter.com/search?q=Mashle) | N/A |
+| 45 | [Hubside](http://twitter.com/search?q=Hubside) | N/A |
+| 46 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 47 | [Crimée](http://twitter.com/search?q=Crim%c3%a9e) | N/A |
+| 48 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
 
 
 

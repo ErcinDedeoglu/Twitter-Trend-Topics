@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-08 08:17:30 UTC`
+📆 Last Updated: `2023-04-08 09:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,35 +20,35 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 3 | [#SDWS](http://twitter.com/search?q=%23SDWS) | N/A |
 | 4 | [#NZvSL](http://twitter.com/search?q=%23NZvSL) | N/A |
 | 5 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 6 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 7 | [Sande](http://twitter.com/search?q=Sande) | N/A |
-| 8 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 9 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 10 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 11 | [Randwick](http://twitter.com/search?q=Randwick) | N/A |
-| 12 | [#NRLCowboysDolphins](http://twitter.com/search?q=%23NRLCowboysDolphins) | N/A |
-| 13 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 14 | [#SuperRugbyPacific](http://twitter.com/search?q=%23SuperRugbyPacific) | N/A |
-| 15 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 16 | [Dunedin](http://twitter.com/search?q=Dunedin) | N/A |
-| 17 | [roger douglas](http://twitter.com/search?q=roger+douglas) | N/A |
-| 18 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 19 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 20 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
-| 21 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 22 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 6 | [Sande](http://twitter.com/search?q=Sande) | N/A |
+| 7 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
+| 8 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 9 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 10 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 11 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
+| 12 | [Randwick](http://twitter.com/search?q=Randwick) | N/A |
+| 13 | [#SuperRugbyPacific](http://twitter.com/search?q=%23SuperRugbyPacific) | N/A |
+| 14 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 15 | [#nrlcowboysdolphins](http://twitter.com/search?q=%23nrlcowboysdolphins) | N/A |
+| 16 | [Disinformation Project](http://twitter.com/search?q=Disinformation+Project) | N/A |
+| 17 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 18 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 19 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 20 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 21 | [Maths](http://twitter.com/search?q=Maths) | Maths is short for mathematics, which is the study of numbers, shapes, and patterns. Mathematics is used to solve problems and understand the world around us. It is a fundamental part of science, engineering, technology, finance, and many other fields. |
+| 22 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
 | 23 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 24 | [Maths](http://twitter.com/search?q=Maths) | Maths is short for mathematics, which is the study of numbers, shapes, and patterns. Mathematics is used to solve problems and understand the world around us. It is a fundamental part of science, engineering, technology, finance, and many other fields. |
-| 25 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 26 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 27 | [Double](http://twitter.com/search?q=Double) | N/A |
-| 28 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
-| 29 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 30 | [Sean](http://twitter.com/search?q=Sean) | N/A |
-| 31 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 32 | [Oooo](http://twitter.com/search?q=Oooo) | N/A |
-| 33 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 34 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
+| 24 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 25 | [Roger Douglas](http://twitter.com/search?q=Roger+Douglas) | N/A |
+| 26 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 27 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 28 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 29 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 30 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
+| 31 | [Sean](http://twitter.com/search?q=Sean) | N/A |
+| 32 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 33 | [Oooo](http://twitter.com/search?q=Oooo) | N/A |
+| 34 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
 | 35 | [London](http://twitter.com/search?q=London) | N/A |
 | 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 37 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |

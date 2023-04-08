@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-04-08 08:17:03 UTC`
+📆 Last Updated: `2023-04-08 09:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [France](</France>)
 | 5 | [#RCLRCSA](http://twitter.com/search?q=%23RCLRCSA) | N/A |
 | 6 | [Chine](http://twitter.com/search?q=Chine) | N/A |
 | 7 | [#FRACOL](http://twitter.com/search?q=%23FRACOL) | N/A |
-| 8 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
-| 9 | [#Messmer](http://twitter.com/search?q=%23Messmer) | N/A |
-| 10 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 11 | [#Sampeyton](http://twitter.com/search?q=%23Sampeyton) | N/A |
-| 12 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 13 | [Nyctalope](http://twitter.com/search?q=Nyctalope) | N/A |
-| 14 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 15 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
-| 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 17 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
-| 18 | [Charles Biétry](http://twitter.com/search?q=Charles+Bi%c3%a9try) | N/A |
-| 19 | [Rotonde](http://twitter.com/search?q=Rotonde) | N/A |
-| 20 | [Vendredi Saint](http://twitter.com/search?q=Vendredi+Saint) | N/A |
-| 21 | [Bon Samedi](http://twitter.com/search?q=Bon+Samedi) | N/A |
-| 22 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 23 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 24 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 25 | [Grigny](http://twitter.com/search?q=Grigny) | N/A |
+| 8 | [#Messmer](http://twitter.com/search?q=%23Messmer) | N/A |
+| 9 | [#FASPACE](http://twitter.com/search?q=%23FASPACE) | N/A |
+| 10 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 11 | [Nyctalope](http://twitter.com/search?q=Nyctalope) | N/A |
+| 12 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
+| 13 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 14 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
+| 15 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 16 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
+| 17 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 18 | [Rotonde](http://twitter.com/search?q=Rotonde) | N/A |
+| 19 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 20 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 21 | [Vendredi Saint](http://twitter.com/search?q=Vendredi+Saint) | N/A |
+| 22 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 23 | [grigny](http://twitter.com/search?q=grigny) | N/A |
+| 24 | [Edwy Plenel](http://twitter.com/search?q=Edwy+Plenel) | N/A |
+| 25 | [Julien Pain](http://twitter.com/search?q=Julien+Pain) | N/A |
 | 26 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 27 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 28 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 29 | [Edwy Plenel](http://twitter.com/search?q=Edwy+Plenel) | N/A |
-| 30 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 31 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 32 | [Brice Caron](http://twitter.com/search?q=Brice+Caron) | N/A |
-| 33 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 34 | [Dissolution de la BRAVM](http://twitter.com/search?q=Dissolution+de+la+BRAVM) | N/A |
-| 35 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
+| 27 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
+| 28 | [Papou](http://twitter.com/search?q=Papou) | N/A |
+| 29 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 30 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 31 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 32 | [Bon Samedi](http://twitter.com/search?q=Bon+Samedi) | N/A |
+| 33 | [Charles Biétry](http://twitter.com/search?q=Charles+Bi%c3%a9try) | N/A |
+| 34 | [Brice Caron](http://twitter.com/search?q=Brice+Caron) | N/A |
+| 35 | [Garp](http://twitter.com/search?q=Garp) | N/A |
 | 36 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
-| 37 | [Olive](http://twitter.com/search?q=Olive) | N/A |
+| 37 | [Shonen War](http://twitter.com/search?q=Shonen+War) | N/A |
 | 38 | [Maïwenn](http://twitter.com/search?q=Ma%c3%afwenn) | N/A |
-| 39 | [Charcot](http://twitter.com/search?q=Charcot) | N/A |
-| 40 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 41 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 42 | [Le Sommer](http://twitter.com/search?q=Le+Sommer) | N/A |
-| 43 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 44 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
-| 45 | [Papou](http://twitter.com/search?q=Papou) | N/A |
-| 46 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
-| 47 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
-| 48 | [Julien Pain](http://twitter.com/search?q=Julien+Pain) | N/A |
-| 49 | [Ben Arfa](http://twitter.com/search?q=Ben+Arfa) | N/A |
-| 50 | [Mashle](http://twitter.com/search?q=Mashle) | N/A |
+| 39 | [Olive](http://twitter.com/search?q=Olive) | N/A |
+| 40 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
+| 41 | [Le Sommer](http://twitter.com/search?q=Le+Sommer) | N/A |
+| 42 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 43 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 44 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 45 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
+| 46 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
+| 47 | [Skywalker](http://twitter.com/search?q=Skywalker) | N/A |
+| 48 | [Mashle](http://twitter.com/search?q=Mashle) | N/A |
+| 49 | [Hubside](http://twitter.com/search?q=Hubside) | N/A |
+| 50 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
 
 
 
