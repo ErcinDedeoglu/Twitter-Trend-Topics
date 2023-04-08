@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-04-08 19:16:04 UTC`
+📆 Last Updated: `2023-04-08 20:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
-| 2 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
-| 3 | [#BSCRBL](http://twitter.com/search?q=%23BSCRBL) | N/A |
-| 4 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 5 | [#SCFFCB](http://twitter.com/search?q=%23SCFFCB) | N/A |
-| 6 | [Osterfeuer](http://twitter.com/search?q=Osterfeuer) | N/A |
-| 7 | [Freiburger](http://twitter.com/search?q=Freiburger) | N/A |
-| 8 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 9 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 10 | [Emotionen](http://twitter.com/search?q=Emotionen) | N/A |
-| 11 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 12 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 13 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 14 | [Krankenhaus](http://twitter.com/search?q=Krankenhaus) | N/A |
-| 15 | [Rückrunde](http://twitter.com/search?q=R%c3%bcckrunde) | N/A |
-| 16 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 17 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 18 | [Tore](http://twitter.com/search?q=Tore) | N/A |
-| 19 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 20 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 21 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 22 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 23 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
-| 24 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
-| 25 | [Abwehr](http://twitter.com/search?q=Abwehr) | N/A |
-| 26 | [Mainz](http://twitter.com/search?q=Mainz) | Mainz is a city in Germany located on the Rhine River. It is the capital of the state of Rhineland-Palatinate and the seat of the government of the state. In English, Mainz means "Mouth of the Rhine". |
-| 27 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 28 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 29 | [Stürmer](http://twitter.com/search?q=St%c3%bcrmer) | N/A |
-| 30 | [Abseits](http://twitter.com/search?q=Abseits) | N/A |
-| 31 | [Verzicht](http://twitter.com/search?q=Verzicht) | N/A |
-| 32 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
-| 33 | [#fchfcsp](http://twitter.com/search?q=%23fchfcsp) | N/A |
-| 34 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
-| 35 | [#M05SVW](http://twitter.com/search?q=%23M05SVW) | N/A |
-| 36 | [#BVBFCU](http://twitter.com/search?q=%23BVBFCU) | N/A |
-| 37 | [#INGvsMAN](http://twitter.com/search?q=%23INGvsMAN) | N/A |
-| 38 | [#B04SGE](http://twitter.com/search?q=%23B04SGE) | N/A |
-| 39 | [#Werder](http://twitter.com/search?q=%23Werder) | N/A |
-| 40 | [#effzeh](http://twitter.com/search?q=%23effzeh) | N/A |
-| 41 | [#FCAKOE](http://twitter.com/search?q=%23FCAKOE) | N/A |
-| 42 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
-| 43 | [#HSVH96](http://twitter.com/search?q=%23HSVH96) | N/A |
-| 44 | [#Ostermärsche](http://twitter.com/search?q=%23Osterm%c3%a4rsche) | N/A |
-| 45 | [#MiaSanMia](http://twitter.com/search?q=%23MiaSanMia) | N/A |
-| 46 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
-| 47 | [#sgdrwe](http://twitter.com/search?q=%23sgdrwe) | N/A |
-| 48 | [#sgd1953](http://twitter.com/search?q=%23sgd1953) | N/A |
-| 49 | [#SuperMarioMovie](http://twitter.com/search?q=%23SuperMarioMovie) | N/A |
+| 1 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 2 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
+| 3 | [#SCFFCB](http://twitter.com/search?q=%23SCFFCB) | N/A |
+| 4 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
+| 5 | [#BVBFCU](http://twitter.com/search?q=%23BVBFCU) | N/A |
+| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 7 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 8 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 9 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 10 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
+| 11 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
+| 12 | [Ostersamstag](http://twitter.com/search?q=Ostersamstag) | N/A |
+| 13 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
+| 14 | [Pilz](http://twitter.com/search?q=Pilz) | N/A |
+| 15 | [Marianne Rosenberg](http://twitter.com/search?q=Marianne+Rosenberg) | N/A |
+| 16 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 17 | [Schuhschnabel](http://twitter.com/search?q=Schuhschnabel) | N/A |
+| 18 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
+| 19 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 20 | [Katja](http://twitter.com/search?q=Katja) | N/A |
+| 21 | [Peris](http://twitter.com/search?q=Peris) | N/A |
+| 22 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 23 | [Emotionen](http://twitter.com/search?q=Emotionen) | N/A |
+| 24 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 25 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
+| 26 | [Jury](http://twitter.com/search?q=Jury) | N/A |
+| 27 | [Stimmung im Land](http://twitter.com/search?q=Stimmung+im+Land) | N/A |
+| 28 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 29 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
+| 30 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
+| 31 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 32 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
+| 33 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 34 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 35 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 36 | [Gasflaschen](http://twitter.com/search?q=Gasflaschen) | N/A |
+| 37 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 38 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 39 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 40 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
+| 41 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 42 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 43 | [Waschbär](http://twitter.com/search?q=Waschb%c3%a4r) | N/A |
+| 44 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 45 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
+| 46 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 47 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 48 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
+| 49 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
 
 
 

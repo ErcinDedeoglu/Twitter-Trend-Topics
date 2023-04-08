@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-04-08 19:16:00 UTC`
+📆 Last Updated: `2023-04-08 20:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Josias](http://twitter.com/search?q=Josias) | N/A |
-| 2 | [Abra o Spotify](http://twitter.com/search?q=Abra+o+Spotify) | N/A |
-| 3 | [PSDB](http://twitter.com/search?q=PSDB) | N/A |
-| 4 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 5 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
-| 6 | [Ricardo Nunes](http://twitter.com/search?q=Ricardo+Nunes) | N/A |
-| 7 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 8 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 10 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 11 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 12 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 13 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 14 | [Bruno Henrique](http://twitter.com/search?q=Bruno+Henrique) | N/A |
-| 15 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 16 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 17 | [Amanda e Aline](http://twitter.com/search?q=Amanda+e+Aline) | N/A |
-| 18 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
-| 19 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 20 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 21 | [#goLOS](http://twitter.com/search?q=%23goLOS) | N/A |
-| 22 | [Arregão](http://twitter.com/search?q=Arreg%c3%a3o) | N/A |
-| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 24 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 25 | [Nicacio](http://twitter.com/search?q=Nicacio) | N/A |
-| 26 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 27 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 28 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 29 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 30 | [dynho](http://twitter.com/search?q=dynho) | N/A |
-| 31 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
-| 32 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
-| 33 | [Wandinha](http://twitter.com/search?q=Wandinha) | N/A |
-| 34 | [Margaret Thatcher](http://twitter.com/search?q=Margaret+Thatcher) | N/A |
-| 35 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 36 | [OLHA A BOMBA](http://twitter.com/search?q=OLHA+A+BOMBA) | N/A |
-| 37 | [Paredão](http://twitter.com/search?q=Pared%c3%a3o) | N/A |
-| 38 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 39 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 40 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
-| 41 | [Ceará x Fortaleza](http://twitter.com/search?q=Cear%c3%a1+x+Fortaleza) | N/A |
-| 42 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
-| 43 | [SUGA IS COMING](http://twitter.com/search?q=SUGA+IS+COMING) | N/A |
-| 44 | [Tracker](http://twitter.com/search?q=Tracker) | N/A |
-| 45 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
-| 46 | [Ranger](http://twitter.com/search?q=Ranger) | N/A |
-| 47 | [AGUST-D IS COMING](http://twitter.com/search?q=AGUST-D+IS+COMING) | N/A |
-| 48 | [Goot](http://twitter.com/search?q=Goot) | N/A |
-| 49 | [Adaptador](http://twitter.com/search?q=Adaptador) | N/A |
+| 1 | [#VCTAmericas](http://twitter.com/search?q=%23VCTAmericas) | N/A |
+| 2 | [João Guilherme](http://twitter.com/search?q=Jo%c3%a3o+Guilherme) | N/A |
+| 3 | [#ChevroletNoBBB](http://twitter.com/search?q=%23ChevroletNoBBB) | N/A |
+| 4 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 5 | [Fredao](http://twitter.com/search?q=Fredao) | N/A |
+| 6 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
+| 7 | [Josias](http://twitter.com/search?q=Josias) | N/A |
+| 8 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 9 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
+| 10 | [PSDB](http://twitter.com/search?q=PSDB) | N/A |
+| 11 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
+| 12 | [Ricardo Nunes](http://twitter.com/search?q=Ricardo+Nunes) | N/A |
+| 13 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 14 | [Fernando Miguel](http://twitter.com/search?q=Fernando+Miguel) | N/A |
+| 15 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 16 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
+| 17 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
+| 18 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 19 | [Tinga](http://twitter.com/search?q=Tinga) | N/A |
+| 20 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
+| 21 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
+| 22 | [#futebolnacidade](http://twitter.com/search?q=%23futebolnacidade) | N/A |
+| 23 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
+| 24 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 25 | [#Caldeirão](http://twitter.com/search?q=%23Caldeir%c3%a3o) | N/A |
+| 26 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
+| 27 | [Bruno Henrique](http://twitter.com/search?q=Bruno+Henrique) | N/A |
+| 28 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 29 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 30 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 31 | [Vuaden](http://twitter.com/search?q=Vuaden) | N/A |
+| 32 | [Moisés](http://twitter.com/search?q=Mois%c3%a9s) | N/A |
+| 33 | [Amanda e Aline](http://twitter.com/search?q=Amanda+e+Aline) | N/A |
+| 34 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
+| 35 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 36 | [chelo](http://twitter.com/search?q=chelo) | N/A |
+| 37 | [Darlene](http://twitter.com/search?q=Darlene) | N/A |
+| 38 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 39 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 40 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 41 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 42 | [Novorizontino](http://twitter.com/search?q=Novorizontino) | N/A |
+| 43 | [Arregão](http://twitter.com/search?q=Arreg%c3%a3o) | N/A |
+| 44 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 45 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 46 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 47 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 48 | [Janderson](http://twitter.com/search?q=Janderson) | N/A |
+| 49 | [VAMO GRÊMIO](http://twitter.com/search?q=VAMO+GR%c3%8aMIO) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-04-08 19:16:02 UTC`
+📆 Last Updated: `2023-04-08 20:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OGCNPSG](http://twitter.com/search?q=%23OGCNPSG) | N/A |
-| 2 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 3 | [#PFCASSE](http://twitter.com/search?q=%23PFCASSE) | N/A |
-| 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 5 | [#SCOLOSC](http://twitter.com/search?q=%23SCOLOSC) | N/A |
-| 6 | [Angers](http://twitter.com/search?q=Angers) | Angers is a city in western France, located on the Maine River. It is the capital of the Maine-et-Loire department and the historic capital of Anjou. The meaning of Angers in English is "anger". |
+| 1 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 2 | [#OGCNPSG](http://twitter.com/search?q=%23OGCNPSG) | N/A |
+| 3 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
+| 4 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 5 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 6 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
 | 7 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 8 | [#TPMPPeople](http://twitter.com/search?q=%23TPMPPeople) | N/A |
-| 9 | [#LMDLA](http://twitter.com/search?q=%23LMDLA) | N/A |
-| 10 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 11 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
-| 12 | [Nkounkou](http://twitter.com/search?q=Nkounkou) | N/A |
-| 13 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 14 | [Wadji](http://twitter.com/search?q=Wadji) | N/A |
-| 15 | [Metz](http://twitter.com/search?q=Metz) | N/A |
-| 16 | [Dernier Anime](http://twitter.com/search?q=Dernier+Anime) | N/A |
-| 17 | [Pire Anime](http://twitter.com/search?q=Pire+Anime) | N/A |
-| 18 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 19 | [Premier Anime](http://twitter.com/search?q=Premier+Anime) | N/A |
-| 20 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 21 | [Bokele](http://twitter.com/search?q=Bokele) | N/A |
-| 22 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 23 | [Bastia](http://twitter.com/search?q=Bastia) | N/A |
-| 24 | [Chevalier](http://twitter.com/search?q=Chevalier) | N/A |
-| 25 | [Ligue 2](http://twitter.com/search?q=Ligue+2) | N/A |
-| 26 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
-| 27 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 28 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
-| 29 | [Sochaux](http://twitter.com/search?q=Sochaux) | N/A |
-| 30 | [Alison Jackson](http://twitter.com/search?q=Alison+Jackson) | N/A |
-| 31 | [Ntamack](http://twitter.com/search?q=Ntamack) | N/A |
-| 32 | [Hell's Paradise](http://twitter.com/search?q=Hell%27s+Paradise) | N/A |
-| 33 | [Simone Veil](http://twitter.com/search?q=Simone+Veil) | N/A |
-| 34 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 35 | [Laval](http://twitter.com/search?q=Laval) | N/A |
-| 36 | [Le Havre](http://twitter.com/search?q=Le+Havre) | N/A |
-| 37 | [Paris FC](http://twitter.com/search?q=Paris+FC) | N/A |
-| 38 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 39 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 40 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
-| 41 | [Dupont](http://twitter.com/search?q=Dupont) | N/A |
-| 42 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
-| 43 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 44 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 45 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 46 | [Fransergio](http://twitter.com/search?q=Fransergio) | N/A |
-| 47 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
-| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 49 | [Front Populaire](http://twitter.com/search?q=Front+Populaire) | N/A |
-| 50 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
+| 8 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 9 | [#PFCASSE](http://twitter.com/search?q=%23PFCASSE) | N/A |
+| 10 | [#radiodeter](http://twitter.com/search?q=%23radiodeter) | N/A |
+| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 12 | [#SmackDownAB](http://twitter.com/search?q=%23SmackDownAB) | N/A |
+| 13 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 14 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 15 | [Angers](http://twitter.com/search?q=Angers) | Angers is a city in western France, located on the Maine River. It is the capital of the Maine-et-Loire department and the historic capital of Anjou. The meaning of Angers in English is "anger". |
+| 16 | [Boudaoui](http://twitter.com/search?q=Boudaoui) | N/A |
+| 17 | [Nkounkou](http://twitter.com/search?q=Nkounkou) | N/A |
+| 18 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 19 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
+| 20 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 21 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 22 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
+| 23 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 24 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 25 | [Laborde](http://twitter.com/search?q=Laborde) | N/A |
+| 26 | [Dernier Anime](http://twitter.com/search?q=Dernier+Anime) | N/A |
+| 27 | [Pire Anime](http://twitter.com/search?q=Pire+Anime) | N/A |
+| 28 | [Premier Anime](http://twitter.com/search?q=Premier+Anime) | N/A |
+| 29 | [Metz](http://twitter.com/search?q=Metz) | N/A |
+| 30 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 31 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 32 | [Bastia](http://twitter.com/search?q=Bastia) | N/A |
+| 33 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 34 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
+| 35 | [Warren](http://twitter.com/search?q=Warren) | Warren is an English surname derived from the Old French word "warenne," meaning "game park" or "enclosure." It is also a given name, usually a masculine one, derived from the surname. |
+| 36 | [Bloom](http://twitter.com/search?q=Bloom) | N/A |
+| 37 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
+| 38 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
+| 39 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
+| 40 | [Alison Jackson](http://twitter.com/search?q=Alison+Jackson) | N/A |
+| 41 | [Simone Veil](http://twitter.com/search?q=Simone+Veil) | N/A |
+| 42 | [Sochaux](http://twitter.com/search?q=Sochaux) | N/A |
+| 43 | [Sainté](http://twitter.com/search?q=Saint%c3%a9) | N/A |
+| 44 | [Verts](http://twitter.com/search?q=Verts) | N/A |
+| 45 | [Ligue 2](http://twitter.com/search?q=Ligue+2) | N/A |
+| 46 | [Hell's Paradise](http://twitter.com/search?q=Hell%27s+Paradise) | N/A |
+| 47 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
+| 48 | [Paris FC](http://twitter.com/search?q=Paris+FC) | N/A |
+| 49 | [Le Havre](http://twitter.com/search?q=Le+Havre) | N/A |
+| 50 | [Bokele](http://twitter.com/search?q=Bokele) | N/A |
 
 
 

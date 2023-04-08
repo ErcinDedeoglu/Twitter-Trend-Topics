@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-04-08 19:16:10 UTC`
+📆 Last Updated: `2023-04-08 20:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#To7heWorld_WeAreNCT](http://twitter.com/search?q=%23To7heWorld_WeAreNCT) | N/A |
-| 2 | [#7년의_우리맘_따뜻하게_감싸준_NCT](http://twitter.com/search?q=%237%eb%85%84%ec%9d%98_%ec%9a%b0%eb%a6%ac%eb%a7%98_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b2%8c_%ea%b0%90%ec%8b%b8%ec%a4%80_NCT) | N/A |
-| 3 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
-| 4 | [#永远在你们身边_NCT七周年快乐](http://twitter.com/search?q=%23%e6%b0%b8%e8%bf%9c%e5%9c%a8%e4%bd%a0%e4%bb%ac%e8%ba%ab%e8%be%b9_NCT%e4%b8%83%e5%91%a8%e5%b9%b4%e5%bf%ab%e4%b9%90) | N/A |
-| 5 | [#NC七永遠に](http://twitter.com/search?q=%23NC%e4%b8%83%e6%b0%b8%e9%81%a0%e3%81%ab) | N/A |
-| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 7 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 12 | [I'M GONNA KISS YOUR LIPS](http://twitter.com/search?q=I%27M+GONNA+KISS+YOUR+LIPS) | N/A |
-| 13 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
-| 14 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 15 | [Kkuma](http://twitter.com/search?q=Kkuma) | N/A |
-| 16 | [Evos](http://twitter.com/search?q=Evos) | N/A |
-| 17 | [Safa](http://twitter.com/search?q=Safa) | N/A |
-| 18 | [Pendiem](http://twitter.com/search?q=Pendiem) | N/A |
-| 19 | [AllInPrabowo](http://twitter.com/search?q=AllInPrabowo) | N/A |
-| 20 | [MELODY OF SCENTS D2](http://twitter.com/search?q=MELODY+OF+SCENTS+D2) | N/A |
-| 21 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
-| 22 | [Celsi](http://twitter.com/search?q=Celsi) | N/A |
-| 23 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 24 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 25 | [Malming](http://twitter.com/search?q=Malming) | N/A |
-| 26 | [Yellow](http://twitter.com/search?q=Yellow) | N/A |
-| 27 | [Love Me Right](http://twitter.com/search?q=Love+Me+Right) | N/A |
-| 28 | [IT'S EXO'CLOCK](http://twitter.com/search?q=IT%27S+EXO%27CLOCK) | N/A |
-| 29 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 30 | [Persebaya](http://twitter.com/search?q=Persebaya) | N/A |
-| 31 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 32 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 33 | [#BedFriendEP8](http://twitter.com/search?q=%23BedFriendEP8) | N/A |
-| 34 | [#ceritataraweh](http://twitter.com/search?q=%23ceritataraweh) | N/A |
-| 35 | [#HAPPYNCTDAY](http://twitter.com/search?q=%23HAPPYNCTDAY) | N/A |
-| 36 | [#11thYEARSWITHEXO](http://twitter.com/search?q=%2311thYEARSWITHEXO) | N/A |
-| 37 | [#7YearsOnJAEHYUNside](http://twitter.com/search?q=%237YearsOnJAEHYUNside) | N/A |
-| 38 | [#EXOCLOCK_D1](http://twitter.com/search?q=%23EXOCLOCK_D1) | N/A |
-| 39 | [#shotbyphone](http://twitter.com/search?q=%23shotbyphone) | N/A |
-| 40 | [#DOJAEJUNG_Passion](http://twitter.com/search?q=%23DOJAEJUNG_Passion) | N/A |
-| 41 | [#TaxiDriver2Ep14](http://twitter.com/search?q=%23TaxiDriver2Ep14) | N/A |
-| 42 | [#LoveStory](http://twitter.com/search?q=%23LoveStory) | N/A |
-| 43 | [#TOTBHA](http://twitter.com/search?q=%23TOTBHA) | N/A |
-| 44 | [#7toForeverWithDOYOUNG](http://twitter.com/search?q=%237toForeverWithDOYOUNG) | N/A |
-| 45 | [#일곱해를_건너_도영을_사랑해](http://twitter.com/search?q=%23%ec%9d%bc%ea%b3%b1%ed%95%b4%eb%a5%bc_%ea%b1%b4%eb%84%88_%eb%8f%84%ec%98%81%ec%9d%84_%ec%82%ac%eb%9e%91%ed%95%b4) | N/A |
-| 46 | [#ENHYPEN](http://twitter.com/search?q=%23ENHYPEN) | N/A |
-| 47 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
-| 48 | [#TimeForEXO](http://twitter.com/search?q=%23TimeForEXO) | N/A |
-| 49 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
+| 1 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
+| 2 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 3 | [#terimakasihpakerick](http://twitter.com/search?q=%23terimakasihpakerick) | N/A |
+| 4 | [#To7heWorld_WeAreNCT](http://twitter.com/search?q=%23To7heWorld_WeAreNCT) | N/A |
+| 5 | [#EXOCLOCK_D1](http://twitter.com/search?q=%23EXOCLOCK_D1) | N/A |
+| 6 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 7 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
+| 8 | [lolos sanksi berat fifa](http://twitter.com/search?q=lolos+sanksi+berat+fifa) | N/A |
+| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 10 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 11 | [iklan ponds men](http://twitter.com/search?q=iklan+ponds+men) | N/A |
+| 12 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
+| 13 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
+| 14 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
+| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 16 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 17 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 18 | [HAVE A SAFE FLIGHT JUNGKOOK](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JUNGKOOK) | N/A |
+| 19 | [Evos](http://twitter.com/search?q=Evos) | N/A |
+| 20 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 21 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 22 | [z fold4](http://twitter.com/search?q=z+fold4) | N/A |
+| 23 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 24 | [GOLDEN HOUR OUT NOW](http://twitter.com/search?q=GOLDEN+HOUR+OUT+NOW) | N/A |
+| 25 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
+| 26 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 27 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 28 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
+| 29 | [WE WILL STAY HARUTO](http://twitter.com/search?q=WE+WILL+STAY+HARUTO) | N/A |
+| 30 | [NT AE](http://twitter.com/search?q=NT+AE) | N/A |
+| 31 | [back to syariah kaffah](http://twitter.com/search?q=back+to+syariah+kaffah) | N/A |
+| 32 | [Love Me Right](http://twitter.com/search?q=Love+Me+Right) | N/A |
+| 33 | [Jumat Agung](http://twitter.com/search?q=Jumat+Agung) | N/A |
+| 34 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 35 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 36 | [I'M GONNA KISS YOUR LIPS](http://twitter.com/search?q=I%27M+GONNA+KISS+YOUR+LIPS) | N/A |
+| 37 | [Pendiem](http://twitter.com/search?q=Pendiem) | N/A |
+| 38 | [Don't Go](http://twitter.com/search?q=Don%27t+Go) | N/A |
+| 39 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 40 | [Soimah](http://twitter.com/search?q=Soimah) | N/A |
+| 41 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 42 | [Kkuma](http://twitter.com/search?q=Kkuma) | N/A |
+| 43 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 44 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 45 | [chanbaek](http://twitter.com/search?q=chanbaek) | N/A |
+| 46 | [I AM MV TEASER OUT NOW](http://twitter.com/search?q=I+AM+MV+TEASER+OUT+NOW) | N/A |
+| 47 | [The Eve](http://twitter.com/search?q=The+Eve) | N/A |
+| 48 | [Yesus](http://twitter.com/search?q=Yesus) | N/A |
+| 49 | [Multitasking](http://twitter.com/search?q=Multitasking) | N/A |
+| 50 | [Malming](http://twitter.com/search?q=Malming) | N/A |
 
 
 

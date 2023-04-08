@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-04-08 19:16:01 UTC`
+📆 Last Updated: `2023-04-08 20:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
 | 2 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
-| 3 | [#TORGOR](http://twitter.com/search?q=%23TORGOR) | N/A |
-| 4 | [Puszczy](http://twitter.com/search?q=Puszczy) | N/A |
-| 5 | [#LPOWAR](http://twitter.com/search?q=%23LPOWAR) | N/A |
+| 3 | [#LPOWAR](http://twitter.com/search?q=%23LPOWAR) | N/A |
+| 4 | [#azjaexpress](http://twitter.com/search?q=%23azjaexpress) | N/A |
+| 5 | [#GRUCZE](http://twitter.com/search?q=%23GRUCZE) | N/A |
 | 6 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
-| 7 | [#GRUCZE](http://twitter.com/search?q=%23GRUCZE) | N/A |
-| 8 | [#azjaexpress](http://twitter.com/search?q=%23azjaexpress) | N/A |
-| 9 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 10 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
+| 7 | [Puszczy](http://twitter.com/search?q=Puszczy) | N/A |
+| 8 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
+| 9 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 10 | [Witek](http://twitter.com/search?q=Witek) | N/A |
 | 11 | [Wielka Sobota](http://twitter.com/search?q=Wielka+Sobota) | N/A |
-| 12 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 13 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
-| 14 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 15 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
-| 16 | [Niepołomicach](http://twitter.com/search?q=Niepo%c5%82omicach) | N/A |
-| 17 | [Moltenis](http://twitter.com/search?q=Moltenis) | N/A |
-| 18 | [Lasyk](http://twitter.com/search?q=Lasyk) | N/A |
-| 19 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
-| 20 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
-| 21 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
-| 22 | [Pogoni](http://twitter.com/search?q=Pogoni) | N/A |
-| 23 | [Tachi](http://twitter.com/search?q=Tachi) | N/A |
-| 24 | [Karny](http://twitter.com/search?q=Karny) | N/A |
+| 12 | [#PUNWIS](http://twitter.com/search?q=%23PUNWIS) | N/A |
+| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 14 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
+| 15 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
+| 16 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 17 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
+| 18 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 19 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
+| 20 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 21 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
+| 22 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
+| 23 | [Warta](http://twitter.com/search?q=Warta) | N/A |
+| 24 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 | 25 | [Zmartwychwstania Pańskiego](http://twitter.com/search?q=Zmartwychwstania+Pa%c5%84skiego) | N/A |
-| 26 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
-| 27 | [Warta](http://twitter.com/search?q=Warta) | N/A |
-| 28 | [Ruchem](http://twitter.com/search?q=Ruchem) | N/A |
-| 29 | [Kujawski](http://twitter.com/search?q=Kujawski) | N/A |
-| 30 | [Chrystus](http://twitter.com/search?q=Chrystus) | N/A |
-| 31 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
-| 32 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
-| 33 | [Murawa](http://twitter.com/search?q=Murawa) | N/A |
-| 34 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
-| 35 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 36 | [Wisły](http://twitter.com/search?q=Wis%c5%82y) | N/A |
-| 37 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
-| 38 | [KGHM](http://twitter.com/search?q=KGHM) | N/A |
-| 39 | [Krowa](http://twitter.com/search?q=Krowa) | N/A |
-| 40 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
-| 41 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
-| 42 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
-| 43 | [Panie Pawle](http://twitter.com/search?q=Panie+Pawle) | N/A |
-| 44 | [Wigilia Paschalna](http://twitter.com/search?q=Wigilia+Paschalna) | N/A |
-| 45 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
-| 46 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
-| 47 | [Groszek](http://twitter.com/search?q=Groszek) | N/A |
-| 48 | [Istnieje](http://twitter.com/search?q=Istnieje) | N/A |
-| 49 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 50 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
+| 26 | [Tachi](http://twitter.com/search?q=Tachi) | N/A |
+| 27 | [Moltenis](http://twitter.com/search?q=Moltenis) | N/A |
+| 28 | [Miłosz](http://twitter.com/search?q=Mi%c5%82osz) | N/A |
+| 29 | [Lasyk](http://twitter.com/search?q=Lasyk) | N/A |
+| 30 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 31 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
+| 32 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
+| 33 | [Skórasia](http://twitter.com/search?q=Sk%c3%b3rasia) | N/A |
+| 34 | [Kujawski](http://twitter.com/search?q=Kujawski) | N/A |
+| 35 | [Chrystus](http://twitter.com/search?q=Chrystus) | N/A |
+| 36 | [Murawa](http://twitter.com/search?q=Murawa) | N/A |
+| 37 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
+| 38 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
+| 39 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
+| 40 | [Pogoń](http://twitter.com/search?q=Pogo%c5%84) | N/A |
+| 41 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 42 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
+| 43 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
+| 44 | [Wisły](http://twitter.com/search?q=Wis%c5%82y) | N/A |
+| 45 | [Cleo](http://twitter.com/search?q=Cleo) | N/A |
+| 46 | [Marysia](http://twitter.com/search?q=Marysia) | N/A |
+| 47 | [KGHM](http://twitter.com/search?q=KGHM) | N/A |
+| 48 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
+| 49 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
+| 50 | [Panie Pawle](http://twitter.com/search?q=Panie+Pawle) | N/A |
 
 
 

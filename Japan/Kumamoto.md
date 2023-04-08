@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumamoto
 
-📆 Last Updated: `2023-04-08 19:16:12 UTC`
+📆 Last Updated: `2023-04-08 20:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Japan](</Japan>)
 | 1 | [#オールスター後夜祭](http://twitter.com/search?q=%23%e3%82%aa%e3%83%bc%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%bc%e5%be%8c%e5%a4%9c%e7%a5%ad) | N/A |
 | 2 | [#SixTONESANN](http://twitter.com/search?q=%23SixTONESANN) | #SixTONESANN is a hashtag used by fans of the Japanese boy band SixTONES. It stands for "SixTONES Announcement" and is used to share news and updates about the group. |
 | 3 | [ワイナイナ](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%83%8a%e3%82%a4%e3%83%8a) | N/A |
-| 4 | [#鬼滅の刃](http://twitter.com/search?q=%23%e9%ac%bc%e6%bb%85%e3%81%ae%e5%88%83) | #鬼滅の刃 is a Japanese manga series written and illustrated by Koyoharu Gotouge. It follows the story of Tanjiro Kamado, a young boy who becomes a demon slayer after his family is slaughtered by demons. The title translates to "Blade of Demon Destruction" in English. |
-| 5 | [ブライトン](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%83%88%e3%83%b3) | ブライトン (Buraiton) is a Japanese surname. In English, it can be translated to mean "Brighton". |
-| 6 | [ハーランド](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89) | ハーランド (Hārando) is a Japanese word that means "harbor". It is used to refer to a place where ships can dock and unload cargo. |
-| 7 | [#annkw](http://twitter.com/search?q=%23annkw) | #annkw is an abbreviation for "announcement keyword," which is a hashtag used to indicate that a post contains important information or news. It is often used on social media platforms such as Twitter and Instagram. |
-| 8 | [トッテナム](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%86%e3%83%8a%e3%83%a0) | N/A |
-| 9 | [スパーズ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%bc%e3%82%ba) | スパーズ (Supāzu) is a Japanese term for sparkles or glitter. It is often used to describe something that is shiny or sparkly. In English, it can be translated as "sparkles" or "glitter". |
-| 10 | [両監督退場](http://twitter.com/search?q=%e4%b8%a1%e7%9b%a3%e7%9d%a3%e9%80%80%e5%a0%b4) | N/A |
-| 11 | [国際ASMRの日](http://twitter.com/search?q=%e5%9b%bd%e9%9a%9bASMR%e3%81%ae%e6%97%a5) | N/A |
-| 12 | [オヤルサバル](http://twitter.com/search?q=%e3%82%aa%e3%83%a4%e3%83%ab%e3%82%b5%e3%83%90%e3%83%ab) | N/A |
-| 13 | [システム破壊](http://twitter.com/search?q=%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e7%a0%b4%e5%a3%8a) | N/A |
-| 14 | [ヴィル様](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%83%ab%e6%a7%98) | N/A |
-| 15 | [妓夫太郎](http://twitter.com/search?q=%e5%a6%93%e5%a4%ab%e5%a4%aa%e9%83%8e) | N/A |
-| 16 | [第443回](http://twitter.com/search?q=%e7%ac%ac443%e5%9b%9e) | N/A |
-| 17 | [ハーモニカ](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%a2%e3%83%8b%e3%82%ab) | N/A |
-| 18 | [きょんちぃ](http://twitter.com/search?q=%e3%81%8d%e3%82%87%e3%82%93%e3%81%a1%e3%81%83) | N/A |
-| 19 | [ソンフンミン](http://twitter.com/search?q=%e3%82%bd%e3%83%b3%e3%83%95%e3%83%b3%e3%83%9f%e3%83%b3) | N/A |
-| 20 | [グリーリッシュ](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%aa%e3%83%83%e3%82%b7%e3%83%a5) | グリーリッシュ (Guriirisshu) is a Japanese word that means "gleeful" or "joyful". It is often used to describe someone who is feeling happy and excited. |
-| 21 | [デブライネ](http://twitter.com/search?q=%e3%83%87%e3%83%96%e3%83%a9%e3%82%a4%e3%83%8d) | デブライネ is a type of Japanese folk song. It is usually sung in a slow, gentle tempo and often accompanied by shamisen or other traditional instruments. The lyrics typically tell stories of love, loss, and longing. In English, the term translates to "lonely night". |
-| 22 | [がんこちゃん](http://twitter.com/search?q=%e3%81%8c%e3%82%93%e3%81%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 23 | [ソシエダ](http://twitter.com/search?q=%e3%82%bd%e3%82%b7%e3%82%a8%e3%83%80) | N/A |
-| 24 | [アルバレス](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%90%e3%83%ac%e3%82%b9) | N/A |
-| 25 | [旧満州問題](http://twitter.com/search?q=%e6%97%a7%e6%ba%80%e5%b7%9e%e5%95%8f%e9%a1%8c) | N/A |
-| 26 | [セツナトリップ](http://twitter.com/search?q=%e3%82%bb%e3%83%84%e3%83%8a%e3%83%88%e3%83%aa%e3%83%83%e3%83%97) | N/A |
-| 27 | [刀鍛冶の里編](http://twitter.com/search?q=%e5%88%80%e9%8d%9b%e5%86%b6%e3%81%ae%e9%87%8c%e7%b7%a8) | N/A |
-| 28 | [大鶴肥満](http://twitter.com/search?q=%e5%a4%a7%e9%b6%b4%e8%82%a5%e6%ba%80) | N/A |
-| 29 | [宇髄さん](http://twitter.com/search?q=%e5%ae%87%e9%ab%84%e3%81%95%e3%82%93) | N/A |
-| 30 | [ステッリーニ](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%83%e3%83%aa%e3%83%bc%e3%83%8b) | N/A |
-| 31 | [ほくじゅり](http://twitter.com/search?q=%e3%81%bb%e3%81%8f%e3%81%98%e3%82%85%e3%82%8a) | ほくじゅり (Hokujuri) is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, who dance in a circle while singing and clapping their hands. The lyrics of the song usually tell a story about love or other themes. In English, it can be translated as "circle dance". |
-| 32 | [カブナイナ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%8a%e3%82%a4%e3%83%8a) | N/A |
-| 33 | [肥満さん](http://twitter.com/search?q=%e8%82%a5%e6%ba%80%e3%81%95%e3%82%93) | N/A |
-| 34 | [サポカ資産](http://twitter.com/search?q=%e3%82%b5%e3%83%9d%e3%82%ab%e8%b3%87%e7%94%a3) | N/A |
-| 35 | [川島さん](http://twitter.com/search?q=%e5%b7%9d%e5%b3%b6%e3%81%95%e3%82%93) | N/A |
-| 36 | [エリック](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%83%83%e3%82%af) | N/A |
-| 37 | [堕姫ちゃん](http://twitter.com/search?q=%e5%a0%95%e5%a7%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 38 | [アトウェル](http://twitter.com/search?q=%e3%82%a2%e3%83%88%e3%82%a6%e3%82%a7%e3%83%ab) | N/A |
-| 39 | [グノーシア](http://twitter.com/search?q=%e3%82%b0%e3%83%8e%e3%83%bc%e3%82%b7%e3%82%a2) | N/A |
-| 40 | [セインツ](http://twitter.com/search?q=%e3%82%bb%e3%82%a4%e3%83%b3%e3%83%84) | N/A |
-| 41 | [複製ミニ色紙](http://twitter.com/search?q=%e8%a4%87%e8%a3%bd%e3%83%9f%e3%83%8b%e8%89%b2%e7%b4%99) | N/A |
-| 42 | [ひわちゃん](http://twitter.com/search?q=%e3%81%b2%e3%82%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 43 | [CM問題](http://twitter.com/search?q=CM%e5%95%8f%e9%a1%8c) | N/A |
-| 44 | [久保くん](http://twitter.com/search?q=%e4%b9%85%e4%bf%9d%e3%81%8f%e3%82%93) | N/A |
-| 45 | [バイエルン戦](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%a8%e3%83%ab%e3%83%b3%e6%88%a6) | N/A |
-| 46 | [としおちゃん](http://twitter.com/search?q=%e3%81%a8%e3%81%97%e3%81%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 47 | [PSYCHO-PASS](http://twitter.com/search?q=PSYCHO-PASS) | Psycho-Pass is a Japanese cyberpunk anime television series that follows the actions of the Public Safety Bureau's Criminal Investigation Division. The title of the series is a reference to the psychological term "Psycho-Pass", which refers to an individual's mental state and personality as measured by a psychological profiling system. The series follows a group of detectives who use this system to apprehend criminals. |
-| 48 | [リバティアイランド](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 49 | [ダンジュマ](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%9e) | N/A |
+| 4 | [ハーランド](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89) | ハーランド (Hārando) is a Japanese word that means "harbor". It is used to refer to a place where ships can dock and unload cargo. |
+| 5 | [アセンシオ](http://twitter.com/search?q=%e3%82%a2%e3%82%bb%e3%83%b3%e3%82%b7%e3%82%aa) | アセンシオ is a Japanese word that means "ascension" or "elevation". It is often used to refer to spiritual or physical ascension, such as the ascension of a person to a higher level of consciousness or the elevation of an object to a higher position. |
+| 6 | [ブライトン](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%83%88%e3%83%b3) | ブライトン (Buraiton) is a Japanese surname. In English, it can be translated to mean "Brighton". |
+| 7 | [#コレコレ](http://twitter.com/search?q=%23%e3%82%b3%e3%83%ac%e3%82%b3%e3%83%ac) | N/A |
+| 8 | [#鬼滅の刃](http://twitter.com/search?q=%23%e9%ac%bc%e6%bb%85%e3%81%ae%e5%88%83) | #鬼滅の刃 is a Japanese manga series written and illustrated by Koyoharu Gotouge. It follows the story of Tanjiro Kamado, a young boy who becomes a demon slayer after his family is slaughtered by demons. The title translates to "Blade of Demon Destruction" in English. |
+| 9 | [国際ASMRの日](http://twitter.com/search?q=%e5%9b%bd%e9%9a%9bASMR%e3%81%ae%e6%97%a5) | N/A |
+| 10 | [つべらおつこれ](http://twitter.com/search?q=%e3%81%a4%e3%81%b9%e3%82%89%e3%81%8a%e3%81%a4%e3%81%93%e3%82%8c) | N/A |
+| 11 | [スパーズ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%bc%e3%82%ba) | スパーズ (Supāzu) is a Japanese term for sparkles or glitter. It is often used to describe something that is shiny or sparkly. In English, it can be translated as "sparkles" or "glitter". |
+| 12 | [両監督退場](http://twitter.com/search?q=%e4%b8%a1%e7%9b%a3%e7%9d%a3%e9%80%80%e5%a0%b4) | N/A |
+| 13 | [トッテナム](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%86%e3%83%8a%e3%83%a0) | N/A |
+| 14 | [システム破壊](http://twitter.com/search?q=%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e7%a0%b4%e5%a3%8a) | N/A |
+| 15 | [オヤルサバル](http://twitter.com/search?q=%e3%82%aa%e3%83%a4%e3%83%ab%e3%82%b5%e3%83%90%e3%83%ab) | N/A |
+| 16 | [ヴィル様](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%83%ab%e6%a7%98) | N/A |
+| 17 | [チュクウェゼ](http://twitter.com/search?q=%e3%83%81%e3%83%a5%e3%82%af%e3%82%a6%e3%82%a7%e3%82%bc) | N/A |
+| 18 | [第443回](http://twitter.com/search?q=%e7%ac%ac443%e5%9b%9e) | N/A |
+| 19 | [妓夫太郎](http://twitter.com/search?q=%e5%a6%93%e5%a4%ab%e5%a4%aa%e9%83%8e) | N/A |
+| 20 | [きょんちぃ](http://twitter.com/search?q=%e3%81%8d%e3%82%87%e3%82%93%e3%81%a1%e3%81%83) | N/A |
+| 21 | [ビジャレアル](http://twitter.com/search?q=%e3%83%93%e3%82%b8%e3%83%a3%e3%83%ac%e3%82%a2%e3%83%ab) | N/A |
+| 22 | [ハーモニカ](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%a2%e3%83%8b%e3%82%ab) | N/A |
+| 23 | [グリーリッシュ](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%aa%e3%83%83%e3%82%b7%e3%83%a5) | グリーリッシュ (Guriirisshu) is a Japanese word that means "gleeful" or "joyful". It is often used to describe someone who is feeling happy and excited. |
+| 24 | [ソンフンミン](http://twitter.com/search?q=%e3%82%bd%e3%83%b3%e3%83%95%e3%83%b3%e3%83%9f%e3%83%b3) | N/A |
+| 25 | [ソシエダ](http://twitter.com/search?q=%e3%82%bd%e3%82%b7%e3%82%a8%e3%83%80) | N/A |
+| 26 | [デブライネ](http://twitter.com/search?q=%e3%83%87%e3%83%96%e3%83%a9%e3%82%a4%e3%83%8d) | デブライネ is a type of Japanese folk song. It is usually sung in a slow, gentle tempo and often accompanied by shamisen or other traditional instruments. The lyrics typically tell stories of love, loss, and longing. In English, the term translates to "lonely night". |
+| 27 | [アルバレス](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%90%e3%83%ac%e3%82%b9) | N/A |
+| 28 | [サンドロ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%89%e3%83%ad) | N/A |
+| 29 | [がんこちゃん](http://twitter.com/search?q=%e3%81%8c%e3%82%93%e3%81%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 30 | [旧満州問題](http://twitter.com/search?q=%e6%97%a7%e6%ba%80%e5%b7%9e%e5%95%8f%e9%a1%8c) | N/A |
+| 31 | [チュアメニ](http://twitter.com/search?q=%e3%83%81%e3%83%a5%e3%82%a2%e3%83%a1%e3%83%8b) | N/A |
+| 32 | [セツナトリップ](http://twitter.com/search?q=%e3%82%bb%e3%83%84%e3%83%8a%e3%83%88%e3%83%aa%e3%83%83%e3%83%97) | N/A |
+| 33 | [大鶴肥満](http://twitter.com/search?q=%e5%a4%a7%e9%b6%b4%e8%82%a5%e6%ba%80) | N/A |
+| 34 | [刀鍛冶の里編](http://twitter.com/search?q=%e5%88%80%e9%8d%9b%e5%86%b6%e3%81%ae%e9%87%8c%e7%b7%a8) | N/A |
+| 35 | [ほくじゅり](http://twitter.com/search?q=%e3%81%bb%e3%81%8f%e3%81%98%e3%82%85%e3%82%8a) | ほくじゅり (Hokujuri) is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, who dance in a circle while singing and clapping their hands. The lyrics of the song usually tell a story about love or other themes. In English, it can be translated as "circle dance". |
+| 36 | [カブナイナ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%8a%e3%82%a4%e3%83%8a) | N/A |
+| 37 | [サポカ資産](http://twitter.com/search?q=%e3%82%b5%e3%83%9d%e3%82%ab%e8%b3%87%e7%94%a3) | N/A |
+| 38 | [宇髄さん](http://twitter.com/search?q=%e5%ae%87%e9%ab%84%e3%81%95%e3%82%93) | N/A |
+| 39 | [肥満さん](http://twitter.com/search?q=%e8%82%a5%e6%ba%80%e3%81%95%e3%82%93) | N/A |
+| 40 | [リュディガー](http://twitter.com/search?q=%e3%83%aa%e3%83%a5%e3%83%87%e3%82%a3%e3%82%ac%e3%83%bc) | N/A |
+| 41 | [エリック](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%83%83%e3%82%af) | N/A |
+| 42 | [デゼルビ](http://twitter.com/search?q=%e3%83%87%e3%82%bc%e3%83%ab%e3%83%93) | N/A |
+| 43 | [グノーシア](http://twitter.com/search?q=%e3%82%b0%e3%83%8e%e3%83%bc%e3%82%b7%e3%82%a2) | N/A |
+| 44 | [複製ミニ色紙](http://twitter.com/search?q=%e8%a4%87%e8%a3%bd%e3%83%9f%e3%83%8b%e8%89%b2%e7%b4%99) | N/A |
+| 45 | [PSYCHO-PASS](http://twitter.com/search?q=PSYCHO-PASS) | Psycho-Pass is a Japanese cyberpunk anime television series that follows the actions of the Public Safety Bureau's Criminal Investigation Division. The title of the series is a reference to the psychological term "Psycho-Pass", which refers to an individual's mental state and personality as measured by a psychological profiling system. The series follows a group of detectives who use this system to apprehend criminals. |
+| 46 | [ひわちゃん](http://twitter.com/search?q=%e3%81%b2%e3%82%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 47 | [アトウェル](http://twitter.com/search?q=%e3%82%a2%e3%83%88%e3%82%a6%e3%82%a7%e3%83%ab) | N/A |
+| 48 | [セインツ](http://twitter.com/search?q=%e3%82%bb%e3%82%a4%e3%83%b3%e3%83%84) | N/A |
+| 49 | [川島さん](http://twitter.com/search?q=%e5%b7%9d%e5%b3%b6%e3%81%95%e3%82%93) | N/A |
 
 
 
