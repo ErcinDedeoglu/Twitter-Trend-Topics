@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-04-08 13:18:48 UTC`
+📆 Last Updated: `2023-04-08 14:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Sweden
 | ------- | ------------ | ------------ |
 | 1 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
 | 2 | [Glad Påsk](http://twitter.com/search?q=Glad+P%c3%a5sk) | N/A |
-| 3 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 6 | [Ingvar Hirdwall](http://twitter.com/search?q=Ingvar+Hirdwall) | N/A |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 5 | [Taha Ali](http://twitter.com/search?q=Taha+Ali) | N/A |
+| 6 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 7 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 8 | [Beck](http://twitter.com/search?q=Beck) | N/A |
-| 9 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 10 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 11 | [Janne Andersson](http://twitter.com/search?q=Janne+Andersson) | N/A |
-| 12 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
-| 13 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 14 | [#maskedsinger](http://twitter.com/search?q=%23maskedsinger) | N/A |
-| 15 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 16 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 17 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
-| 18 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
-| 19 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 20 | [Stasi](http://twitter.com/search?q=Stasi) | N/A |
-| 21 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 22 | [Blykalla](http://twitter.com/search?q=Blykalla) | N/A |
-| 23 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 24 | [#gais](http://twitter.com/search?q=%23gais) | N/A |
-| 25 | [tack lennart](http://twitter.com/search?q=tack+lennart) | N/A |
-| 26 | [Portugallien](http://twitter.com/search?q=Portugallien) | N/A |
-| 27 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
-| 28 | [#degerforsif](http://twitter.com/search?q=%23degerforsif) | N/A |
-| 29 | [Carl Bildt](http://twitter.com/search?q=Carl+Bildt) | N/A |
-| 30 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 31 | [Nacka](http://twitter.com/search?q=Nacka) | N/A |
-| 32 | [Håkan](http://twitter.com/search?q=H%c3%a5kan) | N/A |
-| 33 | [Livets](http://twitter.com/search?q=Livets) | N/A |
-| 34 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 35 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
-| 36 | [Abbe](http://twitter.com/search?q=Abbe) | N/A |
-| 37 | [Filippa](http://twitter.com/search?q=Filippa) | N/A |
-| 38 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 39 | [Snygg](http://twitter.com/search?q=Snygg) | N/A |
-| 40 | [akilov](http://twitter.com/search?q=akilov) | N/A |
-| 41 | [Malmö FF](http://twitter.com/search?q=Malm%c3%b6+FF) | N/A |
-| 42 | ["Främling"](http://twitter.com/search?q=%22Fr%c3%a4mling%22) | N/A |
-| 43 | [Drottninggatan](http://twitter.com/search?q=Drottninggatan) | N/A |
-| 44 | [Eskilstuna](http://twitter.com/search?q=Eskilstuna) | N/A |
-| 45 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
-| 46 | [långfredagen](http://twitter.com/search?q=l%c3%a5ngfredagen) | N/A |
-| 47 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 48 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
-| 49 | [Kristina](http://twitter.com/search?q=Kristina) | N/A |
-| 50 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
+| 8 | [Ingvar Hirdwall](http://twitter.com/search?q=Ingvar+Hirdwall) | N/A |
+| 9 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
+| 10 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 11 | [Grimsta](http://twitter.com/search?q=Grimsta) | N/A |
+| 12 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 13 | [Nanasi](http://twitter.com/search?q=Nanasi) | N/A |
+| 14 | [Beck](http://twitter.com/search?q=Beck) | N/A |
+| 15 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
+| 16 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 17 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 18 | [#maskedsinger](http://twitter.com/search?q=%23maskedsinger) | N/A |
+| 19 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 20 | [malmö ff](http://twitter.com/search?q=malm%c3%b6+ff) | N/A |
+| 21 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
+| 22 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 24 | [Stasi](http://twitter.com/search?q=Stasi) | N/A |
+| 25 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 26 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
+| 27 | [Blykalla](http://twitter.com/search?q=Blykalla) | N/A |
+| 28 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 29 | [Portugallien](http://twitter.com/search?q=Portugallien) | N/A |
+| 30 | [#degerforsif](http://twitter.com/search?q=%23degerforsif) | N/A |
+| 31 | [Växjö](http://twitter.com/search?q=V%c3%a4xj%c3%b6) | N/A |
+| 32 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 33 | [Håkan](http://twitter.com/search?q=H%c3%a5kan) | N/A |
+| 34 | [Carl Bildt](http://twitter.com/search?q=Carl+Bildt) | N/A |
+| 35 | [Tack Lennart](http://twitter.com/search?q=Tack+Lennart) | N/A |
+| 36 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 37 | [Nacka](http://twitter.com/search?q=Nacka) | N/A |
+| 38 | [Janne Andersson](http://twitter.com/search?q=Janne+Andersson) | N/A |
+| 39 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
+| 40 | [Snygg](http://twitter.com/search?q=Snygg) | N/A |
+| 41 | [Livets](http://twitter.com/search?q=Livets) | N/A |
+| 42 | [Filippa](http://twitter.com/search?q=Filippa) | N/A |
+| 43 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 44 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 45 | ["Främling"](http://twitter.com/search?q=%22Fr%c3%a4mling%22) | N/A |
+| 46 | [Kristina](http://twitter.com/search?q=Kristina) | N/A |
+| 47 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
+| 48 | [långfredagen](http://twitter.com/search?q=l%c3%a5ngfredagen) | N/A |
+| 49 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 50 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
 
 
 

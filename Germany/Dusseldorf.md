@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-04-08 13:18:00 UTC`
+📆 Last Updated: `2023-04-08 14:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HSVH96](http://twitter.com/search?q=%23HSVH96) | N/A |
-| 2 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 3 | [#FCNKSC](http://twitter.com/search?q=%23FCNKSC) | N/A |
-| 4 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 5 | [#EBSFCK](http://twitter.com/search?q=%23EBSFCK) | N/A |
-| 6 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
-| 7 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 8 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
-| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 1 | [#SCFFCB](http://twitter.com/search?q=%23SCFFCB) | N/A |
+| 2 | [#BVBFCU](http://twitter.com/search?q=%23BVBFCU) | N/A |
+| 3 | [#HSVH96](http://twitter.com/search?q=%23HSVH96) | N/A |
+| 4 | [#B04SGE](http://twitter.com/search?q=%23B04SGE) | N/A |
+| 5 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 6 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
+| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 8 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 9 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
 | 10 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
 | 11 | [Ostersamstag](http://twitter.com/search?q=Ostersamstag) | N/A |
 | 12 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
-| 13 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
+| 13 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
 | 14 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
-| 15 | [Benes](http://twitter.com/search?q=Benes) | N/A |
-| 16 | [torverhältnis](http://twitter.com/search?q=torverh%c3%a4ltnis) | N/A |
-| 17 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 18 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 19 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 20 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
-| 21 | [Krajnc](http://twitter.com/search?q=Krajnc) | N/A |
-| 22 | [Tore](http://twitter.com/search?q=Tore) | N/A |
-| 23 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 24 | [Stimmung im Land](http://twitter.com/search?q=Stimmung+im+Land) | N/A |
-| 25 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 26 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
-| 27 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 28 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 29 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
-| 30 | ['Froschperspektive'](http://twitter.com/search?q=%27Froschperspektive%27) | N/A |
-| 31 | [Köhn](http://twitter.com/search?q=K%c3%b6hn) | N/A |
-| 32 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 33 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 34 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 35 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 36 | [Christen](http://twitter.com/search?q=Christen) | N/A |
-| 37 | [Huber](http://twitter.com/search?q=Huber) | N/A |
-| 38 | [Gasflaschen](http://twitter.com/search?q=Gasflaschen) | N/A |
-| 39 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 40 | [palmer](http://twitter.com/search?q=palmer) | N/A |
-| 41 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 42 | [osterhasen](http://twitter.com/search?q=osterhasen) | N/A |
-| 43 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
-| 44 | [staatsfeinde](http://twitter.com/search?q=staatsfeinde) | N/A |
-| 45 | [Braunschweig](http://twitter.com/search?q=Braunschweig) | N/A |
-| 46 | [Hannover](http://twitter.com/search?q=Hannover) | N/A |
-| 47 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 48 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 49 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
+| 15 | [Tore](http://twitter.com/search?q=Tore) | N/A |
+| 16 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
+| 17 | [Game One](http://twitter.com/search?q=Game+One) | N/A |
+| 18 | [torverhältnis](http://twitter.com/search?q=torverh%c3%a4ltnis) | N/A |
+| 19 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 20 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 21 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 22 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 23 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
+| 24 | [Boyd](http://twitter.com/search?q=Boyd) | N/A |
+| 25 | [Krajnc](http://twitter.com/search?q=Krajnc) | N/A |
+| 26 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 27 | [Stimmung im Land](http://twitter.com/search?q=Stimmung+im+Land) | N/A |
+| 28 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 29 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 30 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 31 | [Süle](http://twitter.com/search?q=S%c3%bcle) | N/A |
+| 32 | [Benes](http://twitter.com/search?q=Benes) | N/A |
+| 33 | [Gelb](http://twitter.com/search?q=Gelb) | N/A |
+| 34 | [Zolinski](http://twitter.com/search?q=Zolinski) | N/A |
+| 35 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 36 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
+| 37 | ['Froschperspektive'](http://twitter.com/search?q=%27Froschperspektive%27) | N/A |
+| 38 | [Köhn](http://twitter.com/search?q=K%c3%b6hn) | N/A |
+| 39 | [katterbach](http://twitter.com/search?q=katterbach) | N/A |
+| 40 | [Gruev](http://twitter.com/search?q=Gruev) | N/A |
+| 41 | [Freistoß](http://twitter.com/search?q=Freisto%c3%9f) | N/A |
+| 42 | [Arslan](http://twitter.com/search?q=Arslan) | N/A |
+| 43 | [Strafraum](http://twitter.com/search?q=Strafraum) | N/A |
+| 44 | [Moin](http://twitter.com/search?q=Moin) | N/A |
+| 45 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 46 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
+| 47 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 48 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 49 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
 
 
 

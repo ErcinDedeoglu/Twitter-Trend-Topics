@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Omsk
 
-📆 Last Updated: `2023-04-08 13:18:22 UTC`
+📆 Last Updated: `2023-04-08 14:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,10 +22,10 @@ This is top 50 for [Russia](</Russia>)
 | 5 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
 | 6 | [havee](http://twitter.com/search?q=havee) | N/A |
 | 7 | [Didd](http://twitter.com/search?q=Didd) | N/A |
-| 8 | [Whyy](http://twitter.com/search?q=Whyy) | N/A |
+| 8 | [WHYY](http://twitter.com/search?q=WHYY) | N/A |
 | 9 | [Thiss](http://twitter.com/search?q=Thiss) | N/A |
 | 10 | [#BNBB](http://twitter.com/search?q=%23BNBB) | N/A |
-| 11 | [Hypee](http://twitter.com/search?q=Hypee) | N/A |
+| 11 | [hypee](http://twitter.com/search?q=hypee) | N/A |
 | 12 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
 | 13 | [Bull](http://twitter.com/search?q=Bull) | N/A |
 | 14 | [#binancee](http://twitter.com/search?q=%23binancee) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for [Russia](</Russia>)
 | 31 | [Neww](http://twitter.com/search?q=Neww) | N/A |
 | 32 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
 | 33 | [видимо](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
-| 34 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 35 | [Питера](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b0) | N/A |
-| 36 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
-| 37 | [помню](http://twitter.com/search?q=%d0%bf%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
-| 38 | [Мама](http://twitter.com/search?q=%d0%9c%d0%b0%d0%bc%d0%b0) | N/A |
-| 39 | [#opensea](http://twitter.com/search?q=%23opensea) | N/A |
+| 34 | [Отлично](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | N/A |
+| 35 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 36 | [питера](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b0) | N/A |
+| 37 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
+| 38 | [помню](http://twitter.com/search?q=%d0%bf%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
+| 39 | [мама](http://twitter.com/search?q=%d0%bc%d0%b0%d0%bc%d0%b0) | N/A |
 | 40 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 | 41 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
 | 42 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
-| 43 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
-| 44 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
-| 45 | [сочи](http://twitter.com/search?q=%d1%81%d0%be%d1%87%d0%b8) | N/A |
-| 46 | [Барби](http://twitter.com/search?q=%d0%91%d0%b0%d1%80%d0%b1%d0%b8) | N/A |
-| 47 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
-| 48 | [Понял](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
-| 49 | [самая](http://twitter.com/search?q=%d1%81%d0%b0%d0%bc%d0%b0%d1%8f) | N/A |
-| 50 | [Европы](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
+| 43 | [Окей](http://twitter.com/search?q=%d0%9e%d0%ba%d0%b5%d0%b9) | N/A |
+| 44 | [#opensea](http://twitter.com/search?q=%23opensea) | N/A |
+| 45 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
+| 46 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
+| 47 | [сочи](http://twitter.com/search?q=%d1%81%d0%be%d1%87%d0%b8) | N/A |
+| 48 | [Барби](http://twitter.com/search?q=%d0%91%d0%b0%d1%80%d0%b1%d0%b8) | N/A |
+| 49 | [красиво](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 50 | [Честно](http://twitter.com/search?q=%d0%a7%d0%b5%d1%81%d1%82%d0%bd%d0%be) | N/A |
 
 
 

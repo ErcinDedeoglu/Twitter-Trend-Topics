@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-08 13:18:48 UTC`
+📆 Last Updated: `2023-04-08 14:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Switzerland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 2 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 3 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [Gotthard](http://twitter.com/search?q=Gotthard) | N/A |
-| 6 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
-| 7 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 8 | [aktivisten](http://twitter.com/search?q=aktivisten) | N/A |
-| 9 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
-| 10 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 11 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 12 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
-| 13 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 14 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 3 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 4 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 5 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 6 | [Gotthard](http://twitter.com/search?q=Gotthard) | N/A |
+| 7 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 8 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
+| 9 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
+| 10 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
+| 11 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
+| 12 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 13 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 14 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 15 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 16 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 17 | [#SalernitanaInter](http://twitter.com/search?q=%23SalernitanaInter) | N/A |
-| 18 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 16 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 17 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 18 | [#SalernitanaInter](http://twitter.com/search?q=%23SalernitanaInter) | N/A |
 | 19 | [Tessin](http://twitter.com/search?q=Tessin) | N/A |
 | 20 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 | 21 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 22 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 23 | [Renovate](http://twitter.com/search?q=Renovate) | N/A |
-| 24 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
-| 25 | [Granit](http://twitter.com/search?q=Granit) | N/A |
-| 26 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
-| 27 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
-| 28 | [Generation](http://twitter.com/search?q=Generation) | N/A |
-| 29 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
-| 30 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
-| 31 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
-| 32 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 33 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 34 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 35 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
-| 36 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 37 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 38 | [Solange](http://twitter.com/search?q=Solange) | N/A |
-| 39 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 40 | [Möglichkeiten](http://twitter.com/search?q=M%c3%b6glichkeiten) | N/A |
-| 41 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 42 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 43 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 44 | [Herr Glarner](http://twitter.com/search?q=Herr+Glarner) | N/A |
-| 45 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 46 | [Natur](http://twitter.com/search?q=Natur) | N/A |
-| 47 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 48 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
-| 49 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
-| 50 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
+| 22 | [Renovate](http://twitter.com/search?q=Renovate) | N/A |
+| 23 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
+| 24 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 25 | [Banken](http://twitter.com/search?q=Banken) | N/A |
+| 26 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 27 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
+| 28 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 29 | [Generation](http://twitter.com/search?q=Generation) | N/A |
+| 30 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
+| 31 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
+| 32 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 33 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 34 | [#Klimakatastrophe](http://twitter.com/search?q=%23Klimakatastrophe) | N/A |
+| 35 | [Solange](http://twitter.com/search?q=Solange) | N/A |
+| 36 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 37 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 38 | [stimmen](http://twitter.com/search?q=stimmen) | N/A |
+| 39 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 40 | [Herr Glarner](http://twitter.com/search?q=Herr+Glarner) | N/A |
+| 41 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
+| 42 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
+| 43 | [Gehirn](http://twitter.com/search?q=Gehirn) | N/A |
+| 44 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
+| 45 | [Willen](http://twitter.com/search?q=Willen) | N/A |
+| 46 | [Weise](http://twitter.com/search?q=Weise) | N/A |
+| 47 | [Sozialisten](http://twitter.com/search?q=Sozialisten) | N/A |
+| 48 | [Ohren](http://twitter.com/search?q=Ohren) | N/A |
+| 49 | [Trottel](http://twitter.com/search?q=Trottel) | N/A |
+| 50 | [Einfluss](http://twitter.com/search?q=Einfluss) | N/A |
 
 
 
