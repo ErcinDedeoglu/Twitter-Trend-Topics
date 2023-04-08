@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-04-08 22:15:53 UTC`
+📆 Last Updated: `2023-04-08 23:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ronnie Scott](http://twitter.com/search?q=Ronnie+Scott) | N/A |
-| 2 | [#inwithashout](http://twitter.com/search?q=%23inwithashout) | N/A |
-| 3 | [Super Jack](http://twitter.com/search?q=Super+Jack) | Super Jack is a slang term used to describe someone who is exceptionally talented or successful. It can also be used to describe someone who is very confident and has a lot of swagger. |
-| 4 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
-| 5 | [Corruption](http://twitter.com/search?q=Corruption) | N/A |
-| 6 | [Wire](http://twitter.com/search?q=Wire) | N/A |
-| 7 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 8 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 9 | [Classy](http://twitter.com/search?q=Classy) | N/A |
-| 10 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 11 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
-| 12 | [Mason](http://twitter.com/search?q=Mason) | N/A |
-| 13 | [Hojbjerg](http://twitter.com/search?q=Hojbjerg) | Hojbjerg is a Danish surname. It is derived from the Old Norse words "hólmr" (island) and "berg" (mountain). In English, it can be translated to mean "Island Mountain". |
-| 14 | [Howe](http://twitter.com/search?q=Howe) | N/A |
-| 15 | [Ollie Watkins](http://twitter.com/search?q=Ollie+Watkins) | N/A |
-| 16 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 17 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
-| 18 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
-| 19 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
-| 20 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 21 | [#SaturdayNightTakeaway](http://twitter.com/search?q=%23SaturdayNightTakeaway) | N/A |
-| 22 | [#PrePartyES23](http://twitter.com/search?q=%23PrePartyES23) | N/A |
-| 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 24 | [Sam Cooke](http://twitter.com/search?q=Sam+Cooke) | N/A |
-| 25 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 26 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 27 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
-| 28 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 29 | [New Balance](http://twitter.com/search?q=New+Balance) | N/A |
-| 30 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 31 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 32 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 33 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 34 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 35 | [AUOB](http://twitter.com/search?q=AUOB) | N/A |
-| 36 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 37 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 38 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 39 | [The VAR](http://twitter.com/search?q=The+VAR) | N/A |
-| 40 | [Easter Vigil](http://twitter.com/search?q=Easter+Vigil) | N/A |
-| 41 | [Abbie](http://twitter.com/search?q=Abbie) | N/A |
-| 42 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 43 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 44 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
-| 45 | [Alan Rickman](http://twitter.com/search?q=Alan+Rickman) | N/A |
-| 46 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 47 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 48 | [Meatloaf](http://twitter.com/search?q=Meatloaf) | N/A |
-| 49 | [Stuart Atwell](http://twitter.com/search?q=Stuart+Atwell) | N/A |
-| 50 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
+| 1 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 2 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 3 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 4 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
+| 5 | [Classy](http://twitter.com/search?q=Classy) | N/A |
+| 6 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
+| 7 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
+| 8 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
+| 9 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 10 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 11 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 12 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 14 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
+| 15 | [Sam Cooke](http://twitter.com/search?q=Sam+Cooke) | N/A |
+| 16 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
+| 17 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 18 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 19 | [New Balance](http://twitter.com/search?q=New+Balance) | N/A |
+| 20 | [Easter Vigil](http://twitter.com/search?q=Easter+Vigil) | N/A |
+| 21 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 22 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 23 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 24 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 25 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 26 | [AUOB](http://twitter.com/search?q=AUOB) | N/A |
+| 27 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 28 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 29 | [The VAR](http://twitter.com/search?q=The+VAR) | N/A |
+| 30 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 31 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
+| 32 | [Stuart Atwell](http://twitter.com/search?q=Stuart+Atwell) | N/A |
+| 33 | [Abbie](http://twitter.com/search?q=Abbie) | N/A |
+| 34 | [Alan Rickman](http://twitter.com/search?q=Alan+Rickman) | N/A |
+| 35 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
+| 36 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 37 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
+| 38 | [Ronnie Scott](http://twitter.com/search?q=Ronnie+Scott) | N/A |
+| 39 | [Morelos](http://twitter.com/search?q=Morelos) | Morelos is a state in Mexico. Its name comes from José María Morelos y Pavón, a Mexican revolutionary leader who fought for independence from Spain in the early 19th century. In English, Morelos means "of Morelos". |
+| 40 | [Maggie](http://twitter.com/search?q=Maggie) | N/A |
+| 41 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 42 | [Johnston](http://twitter.com/search?q=Johnston) | N/A |
+| 43 | [Dudson](http://twitter.com/search?q=Dudson) | N/A |
+| 44 | [Life of Brian](http://twitter.com/search?q=Life+of+Brian) | N/A |
+| 45 | [Neilson](http://twitter.com/search?q=Neilson) | N/A |
+| 46 | [Selles](http://twitter.com/search?q=Selles) | N/A |
+| 47 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
+| 48 | [Ant and Dec](http://twitter.com/search?q=Ant+and+Dec) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-04-08 22:16:34 UTC`
+📆 Last Updated: `2023-04-08 23:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 2 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 3 | [Masters](http://twitter.com/search?q=Masters) | N/A |
-| 4 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 5 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 8 | [Nick Lodolo](http://twitter.com/search?q=Nick+Lodolo) | N/A |
-| 9 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
-| 10 | [#criterion4you](http://twitter.com/search?q=%23criterion4you) | N/A |
-| 11 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
-| 12 | [Raffy](http://twitter.com/search?q=Raffy) | Raffy is a nickname for Rafael, which is a Spanish name meaning "God has healed". |
-| 13 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 14 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
-| 15 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
-| 16 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 17 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
-| 18 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 19 | [Salvy](http://twitter.com/search?q=Salvy) | N/A |
+| 1 | [#MFrozenFour](http://twitter.com/search?q=%23MFrozenFour) | N/A |
+| 2 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 3 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 4 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 5 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 6 | [#Easter2023](http://twitter.com/search?q=%23Easter2023) | N/A |
+| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 8 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
+| 9 | [Sam Hughes](http://twitter.com/search?q=Sam+Hughes) | N/A |
+| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 11 | [Stott](http://twitter.com/search?q=Stott) | N/A |
+| 12 | [Nick Lodolo](http://twitter.com/search?q=Nick+Lodolo) | N/A |
+| 13 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
+| 14 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 15 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
+| 16 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 17 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 18 | [David Bell](http://twitter.com/search?q=David+Bell) | N/A |
+| 19 | [Brasier](http://twitter.com/search?q=Brasier) | Brasier is a type of lingerie that covers the breasts and torso. It is similar to a corset, but usually has less boning and is more lightweight. The word comes from the French word for "brazier," which is a type of open-top fireplace. In English, brasier can be used to refer to any type of lingerie that covers the breasts and torso. |
 | 20 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 21 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 22 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 23 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 24 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 25 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 26 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 27 | [Mandarin Hero](http://twitter.com/search?q=Mandarin+Hero) | N/A |
-| 28 | [Governor Abbott](http://twitter.com/search?q=Governor+Abbott) | N/A |
-| 29 | [Pete Alonso](http://twitter.com/search?q=Pete+Alonso) | N/A |
-| 30 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
-| 31 | [Gage Wood](http://twitter.com/search?q=Gage+Wood) | N/A |
-| 32 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 33 | [Practical Move](http://twitter.com/search?q=Practical+Move) | N/A |
-| 34 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
-| 35 | [Shaedon Sharpe](http://twitter.com/search?q=Shaedon+Sharpe) | N/A |
-| 36 | [Patrick Wisdom](http://twitter.com/search?q=Patrick+Wisdom) | N/A |
-| 37 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
-| 38 | [Kevin Knox](http://twitter.com/search?q=Kevin+Knox) | N/A |
-| 39 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 40 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 41 | [Emily Fox](http://twitter.com/search?q=Emily+Fox) | N/A |
-| 42 | [Caine](http://twitter.com/search?q=Caine) | N/A |
-| 43 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 44 | [Hosmer](http://twitter.com/search?q=Hosmer) | N/A |
-| 45 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
-| 46 | [Karl Williams](http://twitter.com/search?q=Karl+Williams) | N/A |
-| 47 | [Ben Ferencz](http://twitter.com/search?q=Ben+Ferencz) | N/A |
-| 48 | [Julie Ertz](http://twitter.com/search?q=Julie+Ertz) | N/A |
-| 49 | [Joey Wentz](http://twitter.com/search?q=Joey+Wentz) | N/A |
+| 21 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 22 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
+| 23 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 24 | [Kapler](http://twitter.com/search?q=Kapler) | N/A |
+| 25 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
+| 26 | [Senga](http://twitter.com/search?q=Senga) | N/A |
+| 27 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
+| 28 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
+| 29 | [Salvy](http://twitter.com/search?q=Salvy) | N/A |
+| 30 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
+| 31 | [Raffy](http://twitter.com/search?q=Raffy) | Raffy is a nickname for Rafael, which is a Spanish name meaning "God has healed". |
+| 32 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 33 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
+| 34 | [Taylor Clarke](http://twitter.com/search?q=Taylor+Clarke) | N/A |
+| 35 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 36 | [JJ Yeley](http://twitter.com/search?q=JJ+Yeley) | N/A |
+| 37 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 38 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 39 | [Castellanos](http://twitter.com/search?q=Castellanos) | N/A |
+| 40 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 41 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 42 | [Drew Smith](http://twitter.com/search?q=Drew+Smith) | N/A |
+| 43 | [Mandarin Hero](http://twitter.com/search?q=Mandarin+Hero) | N/A |
+| 44 | [Governor Abbott](http://twitter.com/search?q=Governor+Abbott) | N/A |
+| 45 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 46 | [Quantrill](http://twitter.com/search?q=Quantrill) | N/A |
+| 47 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 48 | [Practical Move](http://twitter.com/search?q=Practical+Move) | N/A |
+| 49 | [Karl Williams](http://twitter.com/search?q=Karl+Williams) | N/A |
 
 
 

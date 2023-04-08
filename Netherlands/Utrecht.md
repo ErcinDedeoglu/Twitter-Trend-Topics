@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-04-08 22:16:07 UTC`
+📆 Last Updated: `2023-04-08 23:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#eventothier](http://twitter.com/search?q=%23eventothier) | N/A |
-| 2 | [#PSVEXC](http://twitter.com/search?q=%23PSVEXC) | N/A |
-| 3 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 4 | [#azspa](http://twitter.com/search?q=%23azspa) | N/A |
+| 1 | [#PSVEXC](http://twitter.com/search?q=%23PSVEXC) | N/A |
+| 2 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
+| 3 | [#eventothier](http://twitter.com/search?q=%23eventothier) | N/A |
+| 4 | [#makeupyourmind](http://twitter.com/search?q=%23makeupyourmind) | N/A |
 | 5 | [#vitgae](http://twitter.com/search?q=%23vitgae) | N/A |
 | 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 7 | [Paasdagen](http://twitter.com/search?q=Paasdagen) | N/A |
-| 8 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 9 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 10 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
-| 11 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
+| 8 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
+| 9 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 10 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 11 | [Enzo Knol](http://twitter.com/search?q=Enzo+Knol) | N/A |
 | 12 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 13 | [Teze](http://twitter.com/search?q=Teze) | N/A |
-| 14 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 15 | [Enzo Knol](http://twitter.com/search?q=Enzo+Knol) | N/A |
-| 16 | [SC Heerenveen](http://twitter.com/search?q=SC+Heerenveen) | N/A |
-| 17 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
-| 18 | [Paasweekend](http://twitter.com/search?q=Paasweekend) | N/A |
-| 19 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
-| 20 | [Ongeprikt](http://twitter.com/search?q=Ongeprikt) | N/A |
-| 21 | [PEC Zwolle-supporters](http://twitter.com/search?q=PEC+Zwolle-supporters) | N/A |
-| 22 | [goeiemorgen](http://twitter.com/search?q=goeiemorgen) | N/A |
-| 23 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 24 | [Philips Stadion](http://twitter.com/search?q=Philips+Stadion) | N/A |
-| 25 | [vanuit brussel](http://twitter.com/search?q=vanuit+brussel) | N/A |
-| 26 | [Goede Vrijdag](http://twitter.com/search?q=Goede+Vrijdag) | N/A |
-| 27 | [Eindhovense](http://twitter.com/search?q=Eindhovense) | N/A |
-| 28 | [Simons](http://twitter.com/search?q=Simons) | N/A |
-| 29 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
-| 30 | [Optie 5](http://twitter.com/search?q=Optie+5) | N/A |
-| 31 | [Henk Otten](http://twitter.com/search?q=Henk+Otten) | N/A |
-| 32 | [Truste](http://twitter.com/search?q=Truste) | N/A |
-| 33 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 34 | [Kees Tol](http://twitter.com/search?q=Kees+Tol) | N/A |
-| 35 | [Smakelijk](http://twitter.com/search?q=Smakelijk) | N/A |
-| 36 | [Derk](http://twitter.com/search?q=Derk) | N/A |
-| 37 | [Hema](http://twitter.com/search?q=Hema) | N/A |
-| 38 | [Fortuyn](http://twitter.com/search?q=Fortuyn) | N/A |
-| 39 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 40 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 41 | [NSB'ers](http://twitter.com/search?q=NSB%27ers) | N/A |
-| 42 | [Proost](http://twitter.com/search?q=Proost) | N/A |
-| 43 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 44 | [plasterk](http://twitter.com/search?q=plasterk) | N/A |
-| 45 | [bibi dumon tak](http://twitter.com/search?q=bibi+dumon+tak) | N/A |
-| 46 | [Markus](http://twitter.com/search?q=Markus) | N/A |
-| 47 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 48 | [Alkmaar](http://twitter.com/search?q=Alkmaar) | N/A |
-| 49 | [FC Volendam](http://twitter.com/search?q=FC+Volendam) | N/A |
+| 13 | [Paasweekend](http://twitter.com/search?q=Paasweekend) | N/A |
+| 14 | [Ongeprikt](http://twitter.com/search?q=Ongeprikt) | N/A |
+| 15 | [PEC Zwolle-supporters](http://twitter.com/search?q=PEC+Zwolle-supporters) | N/A |
+| 16 | [Goede Vrijdag](http://twitter.com/search?q=Goede+Vrijdag) | N/A |
+| 17 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
+| 18 | [vanuit brussel](http://twitter.com/search?q=vanuit+brussel) | N/A |
+| 19 | [Eindhovense](http://twitter.com/search?q=Eindhovense) | N/A |
+| 20 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
+| 21 | [Henk Otten](http://twitter.com/search?q=Henk+Otten) | N/A |
+| 22 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
+| 23 | [Teze](http://twitter.com/search?q=Teze) | N/A |
+| 24 | [Optie 5](http://twitter.com/search?q=Optie+5) | N/A |
+| 25 | [Hema](http://twitter.com/search?q=Hema) | N/A |
+| 26 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
+| 27 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 28 | [plasterk](http://twitter.com/search?q=plasterk) | N/A |
+| 29 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 30 | [Neurenberg](http://twitter.com/search?q=Neurenberg) | N/A |
+| 31 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 32 | [bibi dumon tak](http://twitter.com/search?q=bibi+dumon+tak) | N/A |
+| 33 | [Proost](http://twitter.com/search?q=Proost) | N/A |
+| 34 | [Guti](http://twitter.com/search?q=Guti) | N/A |
+| 35 | [Kees Tol](http://twitter.com/search?q=Kees+Tol) | N/A |
+| 36 | [Truste](http://twitter.com/search?q=Truste) | N/A |
+| 37 | [Markus](http://twitter.com/search?q=Markus) | N/A |
+| 38 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 39 | [Fortuyn](http://twitter.com/search?q=Fortuyn) | N/A |
+| 40 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 41 | [Wissel](http://twitter.com/search?q=Wissel) | N/A |
+| 42 | [Jezus](http://twitter.com/search?q=Jezus) | N/A |
+| 43 | [Curling](http://twitter.com/search?q=Curling) | N/A |
+| 44 | [Derk](http://twitter.com/search?q=Derk) | N/A |
+| 45 | [Rinus](http://twitter.com/search?q=Rinus) | N/A |
+| 46 | [NSB'ers](http://twitter.com/search?q=NSB%27ers) | N/A |
+| 47 | [annemarie van haeringen](http://twitter.com/search?q=annemarie+van+haeringen) | N/A |
+| 48 | [Alison Jackson](http://twitter.com/search?q=Alison+Jackson) | N/A |
+| 49 | [FC Eindhoven](http://twitter.com/search?q=FC+Eindhoven) | N/A |
 
 
 
