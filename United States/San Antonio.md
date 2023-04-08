@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-04-08 15:17:25 UTC`
+📆 Last Updated: `2023-04-08 16:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 3 | [Cuban](http://twitter.com/search?q=Cuban) | N/A |
-| 4 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
-| 5 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 6 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 7 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 8 | [#WolChe](http://twitter.com/search?q=%23WolChe) | N/A |
-| 9 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 10 | [Justin Thomas](http://twitter.com/search?q=Justin+Thomas) | N/A |
+| 1 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 2 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 3 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 4 | [Cuban](http://twitter.com/search?q=Cuban) | N/A |
+| 5 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 6 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
+| 7 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 8 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 10 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
 | 11 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 12 | [DANCE PRACTICE](http://twitter.com/search?q=DANCE+PRACTICE) | N/A |
-| 13 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
-| 14 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 15 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 16 | [Hailey Van Lith](http://twitter.com/search?q=Hailey+Van+Lith) | N/A |
-| 17 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 18 | [#pitlight](http://twitter.com/search?q=%23pitlight) | N/A |
-| 19 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 20 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 21 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 22 | [Dier](http://twitter.com/search?q=Dier) | N/A |
-| 23 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 24 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 25 | [MUN vs EVE](http://twitter.com/search?q=MUN+vs+EVE) | N/A |
-| 26 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 27 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 28 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 29 | [Link 1](http://twitter.com/search?q=Link+1) | N/A |
-| 30 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
-| 31 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 32 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 33 | [Live Stream](http://twitter.com/search?q=Live+Stream) | N/A |
-| 34 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 35 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 36 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
-| 37 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 38 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 39 | [Sungjae](http://twitter.com/search?q=Sungjae) | N/A |
-| 40 | [BRE vs NEW](http://twitter.com/search?q=BRE+vs+NEW) | N/A |
-| 41 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
-| 42 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 43 | [WOL vs CHE](http://twitter.com/search?q=WOL+vs+CHE) | N/A |
-| 44 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
-| 45 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 46 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 47 | [Iman](http://twitter.com/search?q=Iman) | N/A |
-| 48 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 49 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 12 | [#TOTBHA](http://twitter.com/search?q=%23TOTBHA) | N/A |
+| 13 | [#WolChe](http://twitter.com/search?q=%23WolChe) | N/A |
+| 14 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 15 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 16 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 17 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 18 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 19 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
+| 20 | [Hailey Van Lith](http://twitter.com/search?q=Hailey+Van+Lith) | N/A |
+| 21 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 22 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 23 | [DANCE PRACTICE](http://twitter.com/search?q=DANCE+PRACTICE) | N/A |
+| 24 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 25 | [Justin Thomas](http://twitter.com/search?q=Justin+Thomas) | N/A |
+| 26 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 27 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 28 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
+| 29 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 30 | [Iman](http://twitter.com/search?q=Iman) | N/A |
+| 31 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
+| 32 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 33 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
+| 34 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 35 | [Coors](http://twitter.com/search?q=Coors) | N/A |
+| 36 | [Link 1](http://twitter.com/search?q=Link+1) | N/A |
+| 37 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 38 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 39 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 40 | [Dier](http://twitter.com/search?q=Dier) | N/A |
+| 41 | [Teyana](http://twitter.com/search?q=Teyana) | N/A |
+| 42 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
+| 43 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 44 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 45 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 46 | [Start Burrow](http://twitter.com/search?q=Start+Burrow) | N/A |
+| 47 | [WOL vs CHE](http://twitter.com/search?q=WOL+vs+CHE) | N/A |
+| 48 | [BRE vs NEW](http://twitter.com/search?q=BRE+vs+NEW) | N/A |
+| 49 | [Mintzy](http://twitter.com/search?q=Mintzy) | N/A |
 
 
 

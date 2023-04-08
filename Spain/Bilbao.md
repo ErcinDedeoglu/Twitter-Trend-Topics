@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-04-08 15:16:55 UTC`
+📆 Last Updated: `2023-04-08 16:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,54 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
-| 2 | [#rcde](http://twitter.com/search?q=%23rcde) | N/A |
-| 3 | [#EspanyolAthletic](http://twitter.com/search?q=%23EspanyolAthletic) | N/A |
-| 4 | [Dani García](http://twitter.com/search?q=Dani+Garc%c3%ada) | N/A |
-| 5 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
-| 6 | [#OsasunaElche](http://twitter.com/search?q=%23OsasunaElche) | N/A |
+| 2 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
+| 3 | [#rcde](http://twitter.com/search?q=%23rcde) | N/A |
+| 4 | [Perea](http://twitter.com/search?q=Perea) | N/A |
+| 5 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
+| 6 | [Dani García](http://twitter.com/search?q=Dani+Garc%c3%ada) | N/A |
 | 7 | [#SantoEntierroGrande23](http://twitter.com/search?q=%23SantoEntierroGrande23) | N/A |
-| 8 | [Perea](http://twitter.com/search?q=Perea) | N/A |
-| 9 | [Braithwaite](http://twitter.com/search?q=Braithwaite) | N/A |
-| 10 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
-| 11 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
-| 12 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 13 | [Tete Morente](http://twitter.com/search?q=Tete+Morente) | N/A |
-| 14 | [Meseguer](http://twitter.com/search?q=Meseguer) | N/A |
-| 15 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 16 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
-| 17 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
-| 18 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
-| 19 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 20 | [Budimir](http://twitter.com/search?q=Budimir) | N/A |
-| 21 | [La Romareda](http://twitter.com/search?q=La+Romareda) | N/A |
-| 22 | [Moreneta](http://twitter.com/search?q=Moreneta) | N/A |
-| 23 | [Terminator 2](http://twitter.com/search?q=Terminator+2) | N/A |
-| 24 | [Nacho Vidal](http://twitter.com/search?q=Nacho+Vidal) | N/A |
-| 25 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 26 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 27 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 28 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
-| 29 | [Vesga](http://twitter.com/search?q=Vesga) | N/A |
-| 30 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 31 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 32 | [José Couso](http://twitter.com/search?q=Jos%c3%a9+Couso) | N/A |
-| 33 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 34 | [Pueblo Gitano](http://twitter.com/search?q=Pueblo+Gitano) | N/A |
-| 35 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 36 | [Mahoma](http://twitter.com/search?q=Mahoma) | N/A |
-| 37 | [El 38%](http://twitter.com/search?q=El+38%25) | N/A |
-| 38 | [Puigdemont](http://twitter.com/search?q=Puigdemont) | Puigdemont is the surname of Carles Puigdemont, a Catalan politician who served as the President of Catalonia from January 2016 to October 2017. In English, it is pronounced "pwee-gemont". |
-| 39 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 40 | [Keanu Reeves](http://twitter.com/search?q=Keanu+Reeves) | N/A |
-| 41 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 42 | [Andaluces](http://twitter.com/search?q=Andaluces) | N/A |
-| 43 | [Jacinta](http://twitter.com/search?q=Jacinta) | N/A |
-| 44 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 45 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 46 | [Vigilia Pascual](http://twitter.com/search?q=Vigilia+Pascual) | N/A |
-| 47 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
+| 8 | [Iñaki Williams](http://twitter.com/search?q=I%c3%b1aki+Williams) | N/A |
+| 9 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 10 | [De Marcos](http://twitter.com/search?q=De+Marcos) | N/A |
+| 11 | [Braithwaite](http://twitter.com/search?q=Braithwaite) | N/A |
+| 12 | [Muniain](http://twitter.com/search?q=Muniain) | N/A |
+| 13 | [#PremierLeagueDAZN](http://twitter.com/search?q=%23PremierLeagueDAZN) | N/A |
+| 14 | [Granada](http://twitter.com/search?q=Granada) | N/A |
+| 15 | [#OsasunaElche](http://twitter.com/search?q=%23OsasunaElche) | N/A |
+| 16 | [El Chelsea](http://twitter.com/search?q=El+Chelsea) | N/A |
+| 17 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
+| 18 | [#Itzulia2023](http://twitter.com/search?q=%23Itzulia2023) | N/A |
+| 19 | [Jonas Vingegaard](http://twitter.com/search?q=Jonas+Vingegaard) | N/A |
+| 20 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 21 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
+| 22 | [Matheus Nunes](http://twitter.com/search?q=Matheus+Nunes) | N/A |
+| 23 | [Unai Simón](http://twitter.com/search?q=Unai+Sim%c3%b3n) | N/A |
+| 24 | [La Romareda](http://twitter.com/search?q=La+Romareda) | N/A |
+| 25 | [Guruzeta](http://twitter.com/search?q=Guruzeta) | N/A |
+| 26 | [Luis García](http://twitter.com/search?q=Luis+Garc%c3%ada) | N/A |
+| 27 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
+| 28 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
+| 29 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 30 | [Tete Morente](http://twitter.com/search?q=Tete+Morente) | N/A |
+| 31 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 32 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 33 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 34 | [Meseguer](http://twitter.com/search?q=Meseguer) | N/A |
+| 35 | [Darder](http://twitter.com/search?q=Darder) | N/A |
+| 36 | [Darko](http://twitter.com/search?q=Darko) | N/A |
+| 37 | [Berenguer](http://twitter.com/search?q=Berenguer) | N/A |
+| 38 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 39 | [Keanu Reeves](http://twitter.com/search?q=Keanu+Reeves) | N/A |
+| 40 | [San Gonzalo](http://twitter.com/search?q=San+Gonzalo) | N/A |
+| 41 | [nacho vidal](http://twitter.com/search?q=nacho+vidal) | N/A |
+| 42 | [Terminator 2](http://twitter.com/search?q=Terminator+2) | N/A |
+| 43 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
+| 44 | [Moreneta](http://twitter.com/search?q=Moreneta) | N/A |
+| 45 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 46 | [Vesga](http://twitter.com/search?q=Vesga) | N/A |
+| 47 | [Catalunya](http://twitter.com/search?q=Catalunya) | N/A |
+| 48 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 49 | [Mahoma](http://twitter.com/search?q=Mahoma) | N/A |
 
 
 
