@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-08 02:27:22 UTC`
+📆 Last Updated: `2023-04-08 03:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,13 +28,13 @@ This is top 50 for Denmark
 | 11 | [fedt](http://twitter.com/search?q=fedt) | N/A |
 | 12 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 13 | [#VTuberUprising](http://twitter.com/search?q=%23VTuberUprising) | N/A |
-| 14 | [Langfredag](http://twitter.com/search?q=Langfredag) | N/A |
+| 14 | [langfredag](http://twitter.com/search?q=langfredag) | N/A |
 | 15 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
 | 16 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 17 | [Gorm](http://twitter.com/search?q=Gorm) | N/A |
+| 17 | [gorm](http://twitter.com/search?q=gorm) | N/A |
 | 18 | [#twitterhjerne](http://twitter.com/search?q=%23twitterhjerne) | N/A |
-| 19 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 20 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 19 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 20 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 22 | [randers](http://twitter.com/search?q=randers) | N/A |
 | 23 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Denmark
 | 45 | [farum](http://twitter.com/search?q=farum) | N/A |
 | 46 | [siger](http://twitter.com/search?q=siger) | N/A |
 | 47 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 48 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 49 | [silkeborg](http://twitter.com/search?q=silkeborg) | N/A |
-| 50 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 48 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 49 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 50 | [silkeborg](http://twitter.com/search?q=silkeborg) | N/A |
 
 
 

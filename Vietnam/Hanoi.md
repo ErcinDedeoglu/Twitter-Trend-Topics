@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-04-08 02:27:01 UTC`
+📆 Last Updated: `2023-04-08 03:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,51 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#softwaredeveloper](http://twitter.com/search?q=%23softwaredeveloper) | N/A |
-| 2 | [#bkex](http://twitter.com/search?q=%23bkex) | N/A |
-| 3 | [#WAXL](http://twitter.com/search?q=%23WAXL) | N/A |
-| 4 | [#ShowmeloveTheseriesEP6](http://twitter.com/search?q=%23ShowmeloveTheseriesEP6) | N/A |
-| 5 | [#XinchaoPondPhuwin](http://twitter.com/search?q=%23XinchaoPondPhuwin) | N/A |
+| 1 | [#WelcomebackLeaderSANTAtoGDC2](http://twitter.com/search?q=%23WelcomebackLeaderSANTAtoGDC2) | N/A |
+| 2 | [#softwaredeveloper](http://twitter.com/search?q=%23softwaredeveloper) | N/A |
+| 3 | [#bkex](http://twitter.com/search?q=%23bkex) | N/A |
+| 4 | [#WAXL](http://twitter.com/search?q=%23WAXL) | N/A |
+| 5 | [#ShowmeloveTheseriesEP6](http://twitter.com/search?q=%23ShowmeloveTheseriesEP6) | N/A |
 | 6 | [Congratulations LISA](http://twitter.com/search?q=Congratulations+LISA) | N/A |
 | 7 | [Car Seat Covers](http://twitter.com/search?q=Car+Seat+Covers) | N/A |
-| 8 | [AGUST D X IU IS COMING](http://twitter.com/search?q=AGUST+D+X+IU+IS+COMING) | N/A |
-| 9 | [JISOO NO PREPARE](http://twitter.com/search?q=JISOO+NO+PREPARE) | N/A |
-| 10 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 11 | [welcome to vietnam](http://twitter.com/search?q=welcome+to+vietnam) | N/A |
-| 12 | [Nguyên](http://twitter.com/search?q=Nguy%c3%aan) | N/A |
-| 13 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 14 | [WE LOVE YOU FREEN](http://twitter.com/search?q=WE+LOVE+YOU+FREEN) | N/A |
-| 15 | [4pcs Flaming](http://twitter.com/search?q=4pcs+Flaming) | N/A |
-| 16 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
-| 17 | [Gothic](http://twitter.com/search?q=Gothic) | N/A |
-| 18 | [Floor](http://twitter.com/search?q=Floor) | N/A |
-| 19 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
-| 20 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
-| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 22 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
-| 23 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 24 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 25 | [#LALISAMV600M](http://twitter.com/search?q=%23LALISAMV600M) | N/A |
-| 26 | [#WhatsUpBIU](http://twitter.com/search?q=%23WhatsUpBIU) | N/A |
-| 27 | [#MONEY800MYTViews](http://twitter.com/search?q=%23MONEY800MYTViews) | N/A |
-| 28 | [#programming](http://twitter.com/search?q=%23programming) | N/A |
-| 29 | [#ปอนด์ภูวินทร์](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%a0%e0%b8%b9%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c) | N/A |
-| 30 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
-| 31 | [#แลกฟอลforเทรนด์อิงฟ้า](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5for%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2) | N/A |
-| 32 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 33 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
-| 34 | [#แลกฟอลเทรนให้ชาล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
-| 35 | [#ThankYouFreen](http://twitter.com/search?q=%23ThankYouFreen) | N/A |
-| 36 | [#nails](http://twitter.com/search?q=%23nails) | N/A |
-| 37 | [#Summerนี้มีD7xBible](http://twitter.com/search?q=%23Summer%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%a1%e0%b8%b5D7xBible) | N/A |
-| 38 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
-| 39 | [#เฮียซีขอจีบหน่อย](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ae%e0%b8%b5%e0%b8%a2%e0%b8%8b%e0%b8%b5%e0%b8%82%e0%b8%ad%e0%b8%88%e0%b8%b5%e0%b8%9a%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2) | N/A |
-| 40 | [#แลกฟอลเทรนด์อิงล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
+| 8 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 9 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 10 | [AGUST D X IU IS COMING](http://twitter.com/search?q=AGUST+D+X+IU+IS+COMING) | N/A |
+| 11 | [JISOO NO PREPARE](http://twitter.com/search?q=JISOO+NO+PREPARE) | N/A |
+| 12 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 13 | [welcome to vietnam](http://twitter.com/search?q=welcome+to+vietnam) | N/A |
+| 14 | [Nguyên](http://twitter.com/search?q=Nguy%c3%aan) | N/A |
+| 15 | [WE LOVE YOU FREEN](http://twitter.com/search?q=WE+LOVE+YOU+FREEN) | N/A |
+| 16 | [2nd ClimbDrop](http://twitter.com/search?q=2nd+ClimbDrop) | N/A |
+| 17 | [4pcs Flaming](http://twitter.com/search?q=4pcs+Flaming) | N/A |
+| 18 | [Gothic](http://twitter.com/search?q=Gothic) | N/A |
+| 19 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 20 | [Floor](http://twitter.com/search?q=Floor) | N/A |
+| 21 | [Thật](http://twitter.com/search?q=Th%e1%ba%adt) | N/A |
+| 22 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
+| 23 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
+| 24 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
+| 25 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 26 | [#XinchaoPondPhuwin](http://twitter.com/search?q=%23XinchaoPondPhuwin) | N/A |
+| 27 | [#GrabxFreenBecky](http://twitter.com/search?q=%23GrabxFreenBecky) | N/A |
+| 28 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
+| 29 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 30 | [#LALISAMV600M](http://twitter.com/search?q=%23LALISAMV600M) | N/A |
+| 31 | [#WhatsUpBIU](http://twitter.com/search?q=%23WhatsUpBIU) | N/A |
+| 32 | [#MONEY800MYTViews](http://twitter.com/search?q=%23MONEY800MYTViews) | N/A |
+| 33 | [#programming](http://twitter.com/search?q=%23programming) | N/A |
+| 34 | [#ปอนด์ภูวินทร์](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%a0%e0%b8%b9%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c) | N/A |
+| 35 | [#사람_Pt2](http://twitter.com/search?q=%23%ec%82%ac%eb%9e%8c_Pt2) | N/A |
+| 36 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
+| 37 | [#ThankYouFreen](http://twitter.com/search?q=%23ThankYouFreen) | N/A |
+| 38 | [#nails](http://twitter.com/search?q=%23nails) | N/A |
+| 39 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 40 | [#Summerนี้มีD7xBible](http://twitter.com/search?q=%23Summer%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%a1%e0%b8%b5D7xBible) | N/A |
+| 41 | [#GoldenHourWithMark](http://twitter.com/search?q=%23GoldenHourWithMark) | N/A |
+| 42 | [#เฮียซีขอจีบหน่อย](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ae%e0%b8%b5%e0%b8%a2%e0%b8%8b%e0%b8%b5%e0%b8%82%e0%b8%ad%e0%b8%88%e0%b8%b5%e0%b8%9a%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2) | N/A |
+| 43 | [#แลกฟอลเทรนด์อิงล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
+| 44 | [#마크가_말아주는_골든아워](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%ea%b0%80_%eb%a7%90%ec%95%84%ec%a3%bc%eb%8a%94_%ea%b3%a8%eb%93%a0%ec%95%84%ec%9b%8c) | N/A |
+| 45 | [#primiily](http://twitter.com/search?q=%23primiily) | N/A |
 
 
 

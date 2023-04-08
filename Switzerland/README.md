@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-08 02:27:27 UTC`
+📆 Last Updated: `2023-04-08 03:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Switzerland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 2 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 2 | [aktionen](http://twitter.com/search?q=aktionen) | N/A |
 | 3 | [gotthard](http://twitter.com/search?q=gotthard) | N/A |
 | 4 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
 | 5 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
@@ -36,7 +36,7 @@ This is top 50 for Switzerland
 | 19 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
 | 20 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
 | 21 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 22 | [arbeiter](http://twitter.com/search?q=arbeiter) | N/A |
+| 22 | [Arbeiter](http://twitter.com/search?q=Arbeiter) | N/A |
 | 23 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
 | 24 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 25 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
@@ -51,7 +51,7 @@ This is top 50 for Switzerland
 | 34 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
 | 35 | [granit](http://twitter.com/search?q=granit) | N/A |
 | 36 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 37 | [Oliven](http://twitter.com/search?q=Oliven) | N/A |
+| 37 | [oliven](http://twitter.com/search?q=oliven) | N/A |
 | 38 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
 | 39 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
 | 40 | [Substack](http://twitter.com/search?q=Substack) | N/A |

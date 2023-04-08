@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-04-08 02:26:50 UTC`
+📆 Last Updated: `2023-04-08 03:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Spain](</Spain>)
 | 8 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
 | 9 | [#DíaMundialDeLaSalud](http://twitter.com/search?q=%23D%c3%adaMundialDeLaSalud) | N/A |
 | 10 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 11 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 12 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
-| 13 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
+| 11 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 12 | [#Ahsoka](http://twitter.com/search?q=%23Ahsoka) | N/A |
+| 13 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
 | 14 | [Blanca Paloma](http://twitter.com/search?q=Blanca+Paloma) | "Blanca Paloma" is a traditional Spanish folk song that dates back to the 19th century. The literal translation of the title is "White Dove," and the song is about a white dove that symbolizes peace and hope. The lyrics tell of a white dove that flies away from its home, leaving behind its beloved, and how it will return one day with a message of love. |
-| 15 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 16 | [#apoyorocio6a](http://twitter.com/search?q=%23apoyorocio6a) | N/A |
-| 17 | [Mendilibar](http://twitter.com/search?q=Mendilibar) | N/A |
+| 15 | [#apoyorocio6a](http://twitter.com/search?q=%23apoyorocio6a) | N/A |
+| 16 | [Mendilibar](http://twitter.com/search?q=Mendilibar) | N/A |
+| 17 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
 | 18 | [Cervi](http://twitter.com/search?q=Cervi) | N/A |
 | 19 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
 | 20 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 21 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 22 | [Paciencia](http://twitter.com/search?q=Paciencia) | N/A |
-| 23 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 24 | [Josep Piqué](http://twitter.com/search?q=Josep+Piqu%c3%a9) | N/A |
-| 25 | [Pizarro Gómez](http://twitter.com/search?q=Pizarro+G%c3%b3mez) | N/A |
-| 26 | [Filoni](http://twitter.com/search?q=Filoni) | N/A |
+| 21 | [Paciencia](http://twitter.com/search?q=Paciencia) | N/A |
+| 22 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 23 | [Josep Piqué](http://twitter.com/search?q=Josep+Piqu%c3%a9) | N/A |
+| 24 | [Pizarro Gómez](http://twitter.com/search?q=Pizarro+G%c3%b3mez) | N/A |
+| 25 | [Filoni](http://twitter.com/search?q=Filoni) | N/A |
+| 26 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
 | 27 | [Miguel Rodríguez](http://twitter.com/search?q=Miguel+Rodr%c3%adguez) | N/A |
 | 28 | [Ashoka](http://twitter.com/search?q=Ashoka) | N/A |
-| 29 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 30 | [Rafa Mir](http://twitter.com/search?q=Rafa+Mir) | Rafa Mir is a Spanish footballer who currently plays for Wolverhampton Wanderers in the English Premier League. His name translates to "Rafa Look" in English. |
-| 31 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 32 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 33 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 34 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
-| 35 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 36 | [Vicks Vaporub](http://twitter.com/search?q=Vicks+Vaporub) | N/A |
-| 37 | [En-Nesyri](http://twitter.com/search?q=En-Nesyri) | N/A |
-| 38 | [Egun](http://twitter.com/search?q=Egun) | N/A |
-| 39 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 40 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
-| 41 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 42 | [Ben-Hur](http://twitter.com/search?q=Ben-Hur) | N/A |
-| 43 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 44 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
-| 45 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 46 | [Medina Cantalejo](http://twitter.com/search?q=Medina+Cantalejo) | N/A |
+| 29 | [Rafa Mir](http://twitter.com/search?q=Rafa+Mir) | Rafa Mir is a Spanish footballer who currently plays for Wolverhampton Wanderers in the English Premier League. His name translates to "Rafa Look" in English. |
+| 30 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 31 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 32 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 33 | [Blackrock](http://twitter.com/search?q=Blackrock) | N/A |
+| 34 | [Vicks Vaporub](http://twitter.com/search?q=Vicks+Vaporub) | N/A |
+| 35 | [En-Nesyri](http://twitter.com/search?q=En-Nesyri) | N/A |
+| 36 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
+| 37 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 38 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 39 | [Ben Hur](http://twitter.com/search?q=Ben+Hur) | N/A |
+| 40 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 41 | [Sabine](http://twitter.com/search?q=Sabine) | N/A |
+| 42 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 43 | [Medina Cantalejo](http://twitter.com/search?q=Medina+Cantalejo) | N/A |
+| 44 | [Diodato](http://twitter.com/search?q=Diodato) | N/A |
+| 45 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 46 | [Febas](http://twitter.com/search?q=Febas) | N/A |
 | 47 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
-| 48 | [Diodato](http://twitter.com/search?q=Diodato) | N/A |
-| 49 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 50 | [Febas](http://twitter.com/search?q=Febas) | N/A |
+| 48 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 49 | [Soledad](http://twitter.com/search?q=Soledad) | N/A |
+| 50 | [Thrawn](http://twitter.com/search?q=Thrawn) | N/A |
 
 
 

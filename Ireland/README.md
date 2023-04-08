@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-04-08 02:27:22 UTC`
+📆 Last Updated: `2023-04-08 03:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,11 +36,11 @@ This is top 50 for Ireland
 | 19 | [ross byrne](http://twitter.com/search?q=ross+byrne) | N/A |
 | 20 | [garry ringrose](http://twitter.com/search?q=garry+ringrose) | N/A |
 | 21 | [Nora](http://twitter.com/search?q=Nora) | N/A |
-| 22 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
-| 23 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
-| 24 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 25 | [Dublin Derby](http://twitter.com/search?q=Dublin+Derby) | N/A |
-| 26 | [jimmy o'brien](http://twitter.com/search?q=jimmy+o%27brien) | N/A |
+| 22 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
+| 23 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
+| 24 | [Dublin Derby](http://twitter.com/search?q=Dublin+Derby) | N/A |
+| 25 | [jimmy o'brien](http://twitter.com/search?q=jimmy+o%27brien) | N/A |
+| 26 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
 | 27 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
 | 28 | [Waterford](http://twitter.com/search?q=Waterford) | N/A |
 | 29 | [Great Friday](http://twitter.com/search?q=Great+Friday) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for Ireland
 | 33 | [oriel park](http://twitter.com/search?q=oriel+park) | N/A |
 | 34 | [John Hume](http://twitter.com/search?q=John+Hume) | N/A |
 | 35 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 36 | [LOITV](http://twitter.com/search?q=LOITV) | N/A |
+| 36 | [loitv](http://twitter.com/search?q=loitv) | N/A |
 | 37 | [treaty united](http://twitter.com/search?q=treaty+united) | N/A |
 | 38 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
 | 39 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |

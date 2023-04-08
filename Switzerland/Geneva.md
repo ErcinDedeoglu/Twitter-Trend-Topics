@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-08 02:26:51 UTC`
+📆 Last Updated: `2023-04-08 03:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 2 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 2 | [aktionen](http://twitter.com/search?q=aktionen) | N/A |
 | 3 | [gotthard](http://twitter.com/search?q=gotthard) | N/A |
 | 4 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
 | 5 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
@@ -49,20 +49,20 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 32 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
 | 33 | [granit](http://twitter.com/search?q=granit) | N/A |
 | 34 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 35 | [Oliven](http://twitter.com/search?q=Oliven) | N/A |
+| 35 | [oliven](http://twitter.com/search?q=oliven) | N/A |
 | 36 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
 | 37 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
-| 38 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 39 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
-| 40 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
-| 41 | [Statistik](http://twitter.com/search?q=Statistik) | N/A |
-| 42 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 43 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 44 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 45 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
-| 46 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
-| 47 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
-| 48 | [chaoten](http://twitter.com/search?q=chaoten) | N/A |
+| 38 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 39 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 40 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
+| 41 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
+| 42 | [Statistik](http://twitter.com/search?q=Statistik) | N/A |
+| 43 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 44 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 45 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 46 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
+| 47 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
+| 48 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-04-08 02:27:25 UTC`
+📆 Last Updated: `2023-04-08 03:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,15 +21,15 @@ This is top 50 for Norway
 | 4 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 | 5 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
 | 6 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [#selfiefredag](http://twitter.com/search?q=%23selfiefredag) | N/A |
-| 9 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 10 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 11 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 12 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 13 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 14 | [#esngolf](http://twitter.com/search?q=%23esngolf) | N/A |
-| 15 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 7 | [#selfiefredag](http://twitter.com/search?q=%23selfiefredag) | N/A |
+| 8 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 9 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 10 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 11 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 12 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 13 | [#esngolf](http://twitter.com/search?q=%23esngolf) | N/A |
+| 14 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 16 | [åråsen](http://twitter.com/search?q=%c3%a5r%c3%a5sen) | N/A |
 | 17 | [lillestrøm](http://twitter.com/search?q=lillestr%c3%b8m) | N/A |
 | 18 | [#2sjakk](http://twitter.com/search?q=%232sjakk) | N/A |

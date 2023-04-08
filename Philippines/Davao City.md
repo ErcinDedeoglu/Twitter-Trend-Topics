@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-08 02:27:00 UTC`
+📆 Last Updated: `2023-04-08 03:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,50 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
 | 2 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
 | 3 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
-| 4 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
-| 5 | [#NETIZENSREPORT](http://twitter.com/search?q=%23NETIZENSREPORT) | N/A |
-| 6 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 7 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 8 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 11 | [JISOO NO PREPARE](http://twitter.com/search?q=JISOO+NO+PREPARE) | N/A |
-| 12 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 13 | [jonghyun](http://twitter.com/search?q=jonghyun) | N/A |
-| 14 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 15 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 16 | [Biyernes Santo](http://twitter.com/search?q=Biyernes+Santo) | N/A |
-| 17 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 18 | [RRADISH FOR PPOP](http://twitter.com/search?q=RRADISH+FOR+PPOP) | N/A |
-| 19 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
-| 20 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
-| 21 | [DID NI-KI JUST](http://twitter.com/search?q=DID+NI-KI+JUST) | N/A |
-| 22 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
-| 23 | [riki](http://twitter.com/search?q=riki) | N/A |
-| 24 | [Congratulations LISA](http://twitter.com/search?q=Congratulations+LISA) | N/A |
-| 25 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 26 | [2milyong pasasalamat](http://twitter.com/search?q=2milyong+pasasalamat) | N/A |
-| 27 | [yixing](http://twitter.com/search?q=yixing) | N/A |
-| 28 | [MALIGAYANG UNANG KA1ARAWAN](http://twitter.com/search?q=MALIGAYANG+UNANG+KA1ARAWAN) | N/A |
-| 29 | [Sabado de Gloria](http://twitter.com/search?q=Sabado+de+Gloria) | N/A |
-| 30 | [Baeksang](http://twitter.com/search?q=Baeksang) | N/A |
-| 31 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 32 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 33 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 34 | [Easter Vigil](http://twitter.com/search?q=Easter+Vigil) | N/A |
-| 35 | [chan](http://twitter.com/search?q=chan) | N/A |
-| 36 | [WE LOVE YOU FREEN](http://twitter.com/search?q=WE+LOVE+YOU+FREEN) | N/A |
-| 37 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 38 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 39 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 40 | [Little Women](http://twitter.com/search?q=Little+Women) | N/A |
-| 41 | [park jihoon](http://twitter.com/search?q=park+jihoon) | N/A |
-| 42 | [EXO SARANGHAJA](http://twitter.com/search?q=EXO+SARANGHAJA) | N/A |
-| 43 | [Macau](http://twitter.com/search?q=Macau) | N/A |
-| 44 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 45 | [EXO-L](http://twitter.com/search?q=EXO-L) | N/A |
-| 46 | [Maundy Thursday](http://twitter.com/search?q=Maundy+Thursday) | N/A |
-| 47 | [My Liberation Notes](http://twitter.com/search?q=My+Liberation+Notes) | N/A |
+| 4 | [#MHMA2023](http://twitter.com/search?q=%23MHMA2023) | N/A |
+| 5 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 6 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 7 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
+| 8 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
+| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 12 | [FLOWER 100 MILLION](http://twitter.com/search?q=FLOWER+100+MILLION) | N/A |
+| 13 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 14 | [jonghyun](http://twitter.com/search?q=jonghyun) | N/A |
+| 15 | [jjong](http://twitter.com/search?q=jjong) | N/A |
+| 16 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
+| 17 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 18 | [I Nominate Brent Manalo](http://twitter.com/search?q=I+Nominate+Brent+Manalo) | N/A |
+| 19 | [yixing](http://twitter.com/search?q=yixing) | N/A |
+| 20 | [Biyernes Santo](http://twitter.com/search?q=Biyernes+Santo) | N/A |
+| 21 | [RRADISH FOR PPOP](http://twitter.com/search?q=RRADISH+FOR+PPOP) | N/A |
+| 22 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
+| 23 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 24 | [did ni-ki just](http://twitter.com/search?q=did+ni-ki+just) | N/A |
+| 25 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 26 | [the inner man](http://twitter.com/search?q=the+inner+man) | N/A |
+| 27 | [Sabado de Gloria](http://twitter.com/search?q=Sabado+de+Gloria) | N/A |
+| 28 | [Congratulations LISA](http://twitter.com/search?q=Congratulations+LISA) | N/A |
+| 29 | [MALIGAYANG UNANG KA1ARAWAN](http://twitter.com/search?q=MALIGAYANG+UNANG+KA1ARAWAN) | N/A |
+| 30 | [riki](http://twitter.com/search?q=riki) | N/A |
+| 31 | [2milyong pasasalamat](http://twitter.com/search?q=2milyong+pasasalamat) | N/A |
+| 32 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 33 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 34 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 35 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 36 | [Baeksang](http://twitter.com/search?q=Baeksang) | N/A |
+| 37 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 38 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 39 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 40 | [WE LOVE YOU FREEN](http://twitter.com/search?q=WE+LOVE+YOU+FREEN) | N/A |
+| 41 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 42 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 43 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 44 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
+| 45 | [I Nominate Vivoree](http://twitter.com/search?q=I+Nominate+Vivoree) | N/A |
+| 46 | [Park Jihoon](http://twitter.com/search?q=Park+Jihoon) | N/A |
+| 47 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-04-08 02:27:03 UTC`
+📆 Last Updated: `2023-04-08 03:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,10 +21,10 @@ This is top 50 for [Kenya](</Kenya>)
 | 4 | [#DjFatxo](http://twitter.com/search?q=%23DjFatxo) | N/A |
 | 5 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
 | 6 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 7 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 8 | [#TheHottest30](http://twitter.com/search?q=%23TheHottest30) | N/A |
+| 7 | [#TheHottest30](http://twitter.com/search?q=%23TheHottest30) | N/A |
+| 8 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 9 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 10 | [tongaren](http://twitter.com/search?q=tongaren) | N/A |
+| 10 | [Tongaren](http://twitter.com/search?q=Tongaren) | N/A |
 | 11 | [Babu](http://twitter.com/search?q=Babu) | N/A |
 | 12 | [kambas](http://twitter.com/search?q=kambas) | N/A |
 | 13 | [tiko green](http://twitter.com/search?q=tiko+green) | N/A |
@@ -52,15 +52,15 @@ This is top 50 for [Kenya](</Kenya>)
 | 35 | [minne](http://twitter.com/search?q=minne) | N/A |
 | 36 | [dj mgm](http://twitter.com/search?q=dj+mgm) | N/A |
 | 37 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 38 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 38 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
 | 39 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
 | 40 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 41 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 42 | [Loyalty](http://twitter.com/search?q=Loyalty) | N/A |
-| 43 | [oyster bay](http://twitter.com/search?q=oyster+bay) | N/A |
-| 44 | [MCAS](http://twitter.com/search?q=MCAS) | N/A |
-| 45 | [smirnoff vodka 750ml](http://twitter.com/search?q=smirnoff+vodka+750ml) | N/A |
-| 46 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 42 | [Trade CS Moses Kuria](http://twitter.com/search?q=Trade+CS+Moses+Kuria) | N/A |
+| 43 | [Loyalty](http://twitter.com/search?q=Loyalty) | N/A |
+| 44 | [oyster bay](http://twitter.com/search?q=oyster+bay) | N/A |
+| 45 | [MCAS](http://twitter.com/search?q=MCAS) | N/A |
+| 46 | [smirnoff vodka 750ml](http://twitter.com/search?q=smirnoff+vodka+750ml) | N/A |
 | 47 | [Henry](http://twitter.com/search?q=Henry) | N/A |
 | 48 | [umoja](http://twitter.com/search?q=umoja) | N/A |
 | 49 | [Jalas](http://twitter.com/search?q=Jalas) | N/A |

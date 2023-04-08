@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-04-08 02:27:23 UTC`
+📆 Last Updated: `2023-04-08 03:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,13 +28,13 @@ This is top 50 for Israel
 | 11 | [השמאל אשם](http://twitter.com/search?q=%d7%94%d7%a9%d7%9e%d7%90%d7%9c+%d7%90%d7%a9%d7%9d) | N/A |
 | 12 | [בוקר אור](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%90%d7%95%d7%a8) | N/A |
 | 13 | [כפר קאסם](http://twitter.com/search?q=%d7%9b%d7%a4%d7%a8+%d7%a7%d7%90%d7%a1%d7%9d) | N/A |
-| 14 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
-| 15 | [#לא_כשיר](http://twitter.com/search?q=%23%d7%9c%d7%90_%d7%9b%d7%a9%d7%99%d7%a8) | N/A |
-| 16 | [תג מחיר](http://twitter.com/search?q=%d7%aa%d7%92+%d7%9e%d7%97%d7%99%d7%a8) | N/A |
-| 17 | [שולחן השבת](http://twitter.com/search?q=%d7%a9%d7%95%d7%9c%d7%97%d7%9f+%d7%94%d7%a9%d7%91%d7%aa) | N/A |
-| 18 | [של חמאס](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%9e%d7%90%d7%a1) | N/A |
-| 19 | [רק ביבי](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%91%d7%99%d7%91%d7%99) | N/A |
-| 20 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
+| 14 | [#לא_כשיר](http://twitter.com/search?q=%23%d7%9c%d7%90_%d7%9b%d7%a9%d7%99%d7%a8) | N/A |
+| 15 | [תג מחיר](http://twitter.com/search?q=%d7%aa%d7%92+%d7%9e%d7%97%d7%99%d7%a8) | N/A |
+| 16 | [שולחן השבת](http://twitter.com/search?q=%d7%a9%d7%95%d7%9c%d7%97%d7%9f+%d7%94%d7%a9%d7%91%d7%aa) | N/A |
+| 17 | [של חמאס](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%9e%d7%90%d7%a1) | N/A |
+| 18 | [רק ביבי](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%91%d7%99%d7%91%d7%99) | N/A |
+| 19 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
+| 20 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
 | 21 | [ל תוקף](http://twitter.com/search?q=%d7%9c+%d7%aa%d7%95%d7%a7%d7%a3) | N/A |
 | 22 | [פיגוע ירי](http://twitter.com/search?q=%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%99%d7%a8%d7%99) | N/A |
 | 23 | [הרצפה עקומה](http://twitter.com/search?q=%d7%94%d7%a8%d7%a6%d7%a4%d7%94+%d7%a2%d7%a7%d7%95%d7%9e%d7%94) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-08 02:26:51 UTC`
+📆 Last Updated: `2023-04-08 03:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 2 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 2 | [aktionen](http://twitter.com/search?q=aktionen) | N/A |
 | 3 | [gotthard](http://twitter.com/search?q=gotthard) | N/A |
 | 4 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
 | 5 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 33 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
 | 34 | [granit](http://twitter.com/search?q=granit) | N/A |
 | 35 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 36 | [Oliven](http://twitter.com/search?q=Oliven) | N/A |
+| 36 | [oliven](http://twitter.com/search?q=oliven) | N/A |
 | 37 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
 | 38 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
 | 39 | [Substack](http://twitter.com/search?q=Substack) | N/A |
