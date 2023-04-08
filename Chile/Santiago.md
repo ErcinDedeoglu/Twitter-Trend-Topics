@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-04-08 11:16:46 UTC`
+📆 Last Updated: `2023-04-08 12:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JesusDeNazarethEnTVN](http://twitter.com/search?q=%23JesusDeNazarethEnTVN) | N/A |
-| 2 | [#vamoschileportvn](http://twitter.com/search?q=%23vamoschileportvn) | N/A |
+| 2 | [#VamosChilePorTVN](http://twitter.com/search?q=%23VamosChilePorTVN) | N/A |
 | 3 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 4 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 4 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
 | 5 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 6 | [#FranjaElectoral](http://twitter.com/search?q=%23FranjaElectoral) | N/A |
-| 7 | [Mega](http://twitter.com/search?q=Mega) | N/A |
-| 8 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
-| 9 | [#elpartidomásaustral](http://twitter.com/search?q=%23elpartidom%c3%a1saustral) | N/A |
-| 10 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 11 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 12 | [Pinilla](http://twitter.com/search?q=Pinilla) | N/A |
-| 13 | [Paulina de Allende](http://twitter.com/search?q=Paulina+de+Allende) | N/A |
-| 14 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
-| 15 | [carcuro](http://twitter.com/search?q=carcuro) | N/A |
-| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 17 | [Gabriela Mistral](http://twitter.com/search?q=Gabriela+Mistral) | N/A |
-| 18 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 19 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 20 | [Gala](http://twitter.com/search?q=Gala) | N/A |
-| 21 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
-| 22 | [Bories](http://twitter.com/search?q=Bories) | N/A |
-| 23 | [Kast](http://twitter.com/search?q=Kast) | N/A |
-| 24 | [Robert Powell](http://twitter.com/search?q=Robert+Powell) | N/A |
-| 25 | [vial](http://twitter.com/search?q=vial) | N/A |
-| 26 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 27 | [Caputto](http://twitter.com/search?q=Caputto) | N/A |
-| 28 | [Defensoría Migrante](http://twitter.com/search?q=Defensor%c3%ada+Migrante) | N/A |
-| 29 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
-| 30 | [Isla](http://twitter.com/search?q=Isla) | N/A |
-| 31 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 32 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
-| 33 | [puerto natales](http://twitter.com/search?q=puerto+natales) | N/A |
-| 34 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 35 | [pancho malo](http://twitter.com/search?q=pancho+malo) | N/A |
-| 36 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 37 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
-| 38 | [Unidad](http://twitter.com/search?q=Unidad) | N/A |
-| 39 | [Algarrobo](http://twitter.com/search?q=Algarrobo) | N/A |
-| 40 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 41 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 42 | [involuntario](http://twitter.com/search?q=involuntario) | N/A |
-| 43 | [karadima](http://twitter.com/search?q=karadima) | N/A |
-| 44 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
-| 45 | [Barrabás](http://twitter.com/search?q=Barrab%c3%a1s) | N/A |
-| 46 | [Merluzo](http://twitter.com/search?q=Merluzo) | N/A |
-| 47 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 48 | [colegio de periodistas](http://twitter.com/search?q=colegio+de+periodistas) | N/A |
+| 6 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 7 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 8 | [#FranjaElectoral](http://twitter.com/search?q=%23FranjaElectoral) | N/A |
+| 9 | [Mega](http://twitter.com/search?q=Mega) | N/A |
+| 10 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
+| 11 | [#elpartidomásaustral](http://twitter.com/search?q=%23elpartidom%c3%a1saustral) | N/A |
+| 12 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 13 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 14 | [Pinilla](http://twitter.com/search?q=Pinilla) | N/A |
+| 15 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
+| 16 | [Paulina de Allende](http://twitter.com/search?q=Paulina+de+Allende) | N/A |
+| 17 | [carcuro](http://twitter.com/search?q=carcuro) | N/A |
+| 18 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 20 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 21 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 22 | [Gabriela Mistral](http://twitter.com/search?q=Gabriela+Mistral) | N/A |
+| 23 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 24 | [Gala](http://twitter.com/search?q=Gala) | N/A |
+| 25 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
+| 26 | [Bories](http://twitter.com/search?q=Bories) | N/A |
+| 27 | [Kast](http://twitter.com/search?q=Kast) | N/A |
+| 28 | [Robert Powell](http://twitter.com/search?q=Robert+Powell) | N/A |
+| 29 | [Jehová](http://twitter.com/search?q=Jehov%c3%a1) | N/A |
+| 30 | [vial](http://twitter.com/search?q=vial) | N/A |
+| 31 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 32 | [Caputto](http://twitter.com/search?q=Caputto) | N/A |
+| 33 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
+| 34 | [Isla](http://twitter.com/search?q=Isla) | N/A |
+| 35 | [Defensoría Migrante](http://twitter.com/search?q=Defensor%c3%ada+Migrante) | N/A |
+| 36 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 37 | [cntv](http://twitter.com/search?q=cntv) | N/A |
+| 38 | [puerto natales](http://twitter.com/search?q=puerto+natales) | N/A |
+| 39 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 40 | [pancho malo](http://twitter.com/search?q=pancho+malo) | N/A |
+| 41 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 42 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
+| 43 | [Algarrobo](http://twitter.com/search?q=Algarrobo) | N/A |
+| 44 | [involuntario](http://twitter.com/search?q=involuntario) | N/A |
+| 45 | [Karadima](http://twitter.com/search?q=Karadima) | N/A |
+| 46 | [Barrabás](http://twitter.com/search?q=Barrab%c3%a1s) | N/A |
+| 47 | [Merluzo](http://twitter.com/search?q=Merluzo) | N/A |
+| 48 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
 | 49 | [Magallanes](http://twitter.com/search?q=Magallanes) | Magallanes is a Spanish surname, derived from the name of the 16th-century explorer Ferdinand Magellan. In English, it means "Magellan". |
 
 

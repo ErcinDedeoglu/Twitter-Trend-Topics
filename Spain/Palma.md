@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-04-08 11:16:57 UTC`
+📆 Last Updated: `2023-04-08 12:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,49 +17,52 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
 | 2 | [#LaLigaEnGol](http://twitter.com/search?q=%23LaLigaEnGol) | N/A |
-| 3 | [#16AniversarioHTCMania](http://twitter.com/search?q=%2316AniversarioHTCMania) | N/A |
-| 4 | [Pablo Picasso](http://twitter.com/search?q=Pablo+Picasso) | N/A |
-| 5 | [#SantoEntierroGrande](http://twitter.com/search?q=%23SantoEntierroGrande) | N/A |
-| 6 | [#N1CanalFiesta14](http://twitter.com/search?q=%23N1CanalFiesta14) | N/A |
-| 7 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 8 | [José Couso](http://twitter.com/search?q=Jos%c3%a9+Couso) | N/A |
-| 9 | [#APOYOROCIO8A](http://twitter.com/search?q=%23APOYOROCIO8A) | N/A |
-| 10 | [Tomás Luis de Victoria](http://twitter.com/search?q=Tom%c3%a1s+Luis+de+Victoria) | N/A |
-| 11 | [Sara Montiel](http://twitter.com/search?q=Sara+Montiel) | N/A |
-| 12 | [Pueblo Gitano](http://twitter.com/search?q=Pueblo+Gitano) | N/A |
-| 13 | [Irving](http://twitter.com/search?q=Irving) | N/A |
-| 14 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 15 | [Mahoma](http://twitter.com/search?q=Mahoma) | N/A |
-| 16 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
-| 17 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
-| 18 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 19 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 20 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 21 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 22 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 23 | [Puigdemont](http://twitter.com/search?q=Puigdemont) | Puigdemont is the surname of Carles Puigdemont, a Catalan politician who served as the President of Catalonia from January 2016 to October 2017. In English, it is pronounced "pwee-gemont". |
-| 24 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 25 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
-| 26 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 27 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
-| 28 | [Sevilla FC](http://twitter.com/search?q=Sevilla+FC) | N/A |
-| 29 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 30 | [Medina Cantalejo](http://twitter.com/search?q=Medina+Cantalejo) | N/A |
-| 31 | [rojas](http://twitter.com/search?q=rojas) | N/A |
-| 32 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
-| 33 | [Egun](http://twitter.com/search?q=Egun) | N/A |
-| 34 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 35 | [Vicks Vaporub](http://twitter.com/search?q=Vicks+Vaporub) | N/A |
-| 36 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
-| 37 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 38 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
-| 39 | [En Francia](http://twitter.com/search?q=En+Francia) | N/A |
-| 40 | [#8deAbril](http://twitter.com/search?q=%238deAbril) | N/A |
-| 41 | [#YoMeRebelo8A](http://twitter.com/search?q=%23YoMeRebelo8A) | N/A |
-| 42 | [#8Abril](http://twitter.com/search?q=%238Abril) | N/A |
-| 43 | [#BuenosDiasATodos](http://twitter.com/search?q=%23BuenosDiasATodos) | N/A |
-| 44 | [#Del40al1CocaCola](http://twitter.com/search?q=%23Del40al1CocaCola) | N/A |
-| 45 | [#PrePartyES](http://twitter.com/search?q=%23PrePartyES) | N/A |
+| 3 | [#Picasso](http://twitter.com/search?q=%23Picasso) | N/A |
+| 4 | [#16AniversarioHTCMania](http://twitter.com/search?q=%2316AniversarioHTCMania) | N/A |
+| 5 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 6 | [#SantoEntierroGrande23](http://twitter.com/search?q=%23SantoEntierroGrande23) | N/A |
+| 7 | [#OsasunaElche](http://twitter.com/search?q=%23OsasunaElche) | N/A |
+| 8 | [El 38%](http://twitter.com/search?q=El+38%25) | N/A |
+| 9 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
+| 10 | [José Couso](http://twitter.com/search?q=Jos%c3%a9+Couso) | N/A |
+| 11 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
+| 12 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 13 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 14 | [Mahoma](http://twitter.com/search?q=Mahoma) | N/A |
+| 15 | [Terminator 2](http://twitter.com/search?q=Terminator+2) | N/A |
+| 16 | [Pueblo Gitano](http://twitter.com/search?q=Pueblo+Gitano) | N/A |
+| 17 | [Irving](http://twitter.com/search?q=Irving) | N/A |
+| 18 | [Sara Montiel](http://twitter.com/search?q=Sara+Montiel) | N/A |
+| 19 | [Vigilia Pascual](http://twitter.com/search?q=Vigilia+Pascual) | N/A |
+| 20 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
+| 21 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 22 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 23 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 24 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 25 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
+| 26 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 27 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 28 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 29 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
+| 30 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 31 | [El 8](http://twitter.com/search?q=El+8) | N/A |
+| 32 | [Puigdemont](http://twitter.com/search?q=Puigdemont) | Puigdemont is the surname of Carles Puigdemont, a Catalan politician who served as the President of Catalonia from January 2016 to October 2017. In English, it is pronounced "pwee-gemont". |
+| 33 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
+| 34 | [Monchi](http://twitter.com/search?q=Monchi) | Monchi is a Spanish nickname derived from the name Ramón. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
+| 35 | [Pape](http://twitter.com/search?q=Pape) | N/A |
+| 36 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 37 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
+| 38 | [rojas](http://twitter.com/search?q=rojas) | N/A |
+| 39 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 40 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
+| 41 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 42 | [Sevilla FC](http://twitter.com/search?q=Sevilla+FC) | N/A |
+| 43 | [Egun](http://twitter.com/search?q=Egun) | N/A |
+| 44 | [Vicks Vaporub](http://twitter.com/search?q=Vicks+Vaporub) | N/A |
+| 45 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
+| 46 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 47 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 48 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-04-08 11:17:28 UTC`
+📆 Last Updated: `2023-04-08 12:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 2 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 3 | [#HSVH96](http://twitter.com/search?q=%23HSVH96) | N/A |
+| 1 | [#HSVH96](http://twitter.com/search?q=%23HSVH96) | N/A |
+| 2 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 3 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
 | 4 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
 | 5 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 7 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
 | 8 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | N/A |
-| 9 | [Ostersamstag](http://twitter.com/search?q=Ostersamstag) | N/A |
-| 10 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
-| 11 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
-| 12 | [#FCNKSC](http://twitter.com/search?q=%23FCNKSC) | N/A |
-| 13 | [#EBSFCK](http://twitter.com/search?q=%23EBSFCK) | N/A |
-| 14 | [#Tanzverbot](http://twitter.com/search?q=%23Tanzverbot) | N/A |
-| 15 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
-| 16 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 17 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 18 | [Stimmung im Land](http://twitter.com/search?q=Stimmung+im+Land) | N/A |
-| 19 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 9 | [#FCNKSC](http://twitter.com/search?q=%23FCNKSC) | N/A |
+| 10 | [#EBSFCK](http://twitter.com/search?q=%23EBSFCK) | N/A |
+| 11 | [Ostersamstag](http://twitter.com/search?q=Ostersamstag) | N/A |
+| 12 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
+| 13 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
+| 14 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
+| 15 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 16 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 17 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
+| 18 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 19 | [Stimmung im Land](http://twitter.com/search?q=Stimmung+im+Land) | N/A |
 | 20 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
 | 21 | [Huber](http://twitter.com/search?q=Huber) | N/A |
-| 22 | [Christen](http://twitter.com/search?q=Christen) | N/A |
-| 23 | ['Froschperspektive'](http://twitter.com/search?q=%27Froschperspektive%27) | N/A |
-| 24 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
-| 25 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 26 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
-| 27 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 28 | [Gasflaschen](http://twitter.com/search?q=Gasflaschen) | N/A |
-| 29 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 30 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 31 | [Lindner](http://twitter.com/search?q=Lindner) | N/A |
-| 32 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
+| 22 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 23 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 24 | ['Froschperspektive'](http://twitter.com/search?q=%27Froschperspektive%27) | N/A |
+| 25 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
+| 26 | [Christen](http://twitter.com/search?q=Christen) | N/A |
+| 27 | [Moin](http://twitter.com/search?q=Moin) | N/A |
+| 28 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 29 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
+| 30 | [Gasflaschen](http://twitter.com/search?q=Gasflaschen) | N/A |
+| 31 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 32 | [Kittel](http://twitter.com/search?q=Kittel) | N/A |
 | 33 | [Osterhasen](http://twitter.com/search?q=Osterhasen) | N/A |
-| 34 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
-| 35 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 34 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 35 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
 | 36 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
-| 37 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 38 | [Tanzen](http://twitter.com/search?q=Tanzen) | N/A |
-| 39 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 40 | [Miss Marple](http://twitter.com/search?q=Miss+Marple) | N/A |
-| 41 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 42 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
-| 43 | [Fisch](http://twitter.com/search?q=Fisch) | N/A |
-| 44 | [Rückenwind](http://twitter.com/search?q=R%c3%bcckenwind) | N/A |
-| 45 | [Auferstehung](http://twitter.com/search?q=Auferstehung) | N/A |
-| 46 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
-| 47 | [Bud Spencer](http://twitter.com/search?q=Bud+Spencer) | N/A |
-| 48 | [Falschparker](http://twitter.com/search?q=Falschparker) | N/A |
-| 49 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 37 | [Brian](http://twitter.com/search?q=Brian) | N/A |
+| 38 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 39 | [Werbeverbot](http://twitter.com/search?q=Werbeverbot) | N/A |
+| 40 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 41 | [Miss Marple](http://twitter.com/search?q=Miss+Marple) | N/A |
+| 42 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 43 | [Auferstehung](http://twitter.com/search?q=Auferstehung) | N/A |
+| 44 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
+| 45 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
+| 46 | [Fisch](http://twitter.com/search?q=Fisch) | N/A |
+| 47 | [bud spencer](http://twitter.com/search?q=bud+spencer) | N/A |
+| 48 | [Rückenwind](http://twitter.com/search?q=R%c3%bcckenwind) | N/A |
+| 49 | [Werder](http://twitter.com/search?q=Werder) | N/A |
 | 50 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 
 

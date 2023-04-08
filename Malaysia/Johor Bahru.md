@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johor Bahru
 
-📆 Last Updated: `2023-04-08 11:17:04 UTC`
+📆 Last Updated: `2023-04-08 12:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 2 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 3 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 4 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 5 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
-| 6 | [#EXOCLOCK_D1](http://twitter.com/search?q=%23EXOCLOCK_D1) | N/A |
-| 7 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 8 | [#THEDREAMSHOW2_in_KUALALUMPUR](http://twitter.com/search?q=%23THEDREAMSHOW2_in_KUALALUMPUR) | N/A |
-| 9 | [#TimeForEXO](http://twitter.com/search?q=%23TimeForEXO) | N/A |
-| 10 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 13 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 14 | [CHANBAEK](http://twitter.com/search?q=CHANBAEK) | N/A |
-| 15 | [ksoo](http://twitter.com/search?q=ksoo) | N/A |
-| 16 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
-| 17 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 18 | [nuzul al-quran](http://twitter.com/search?q=nuzul+al-quran) | N/A |
-| 19 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 20 | [Riuh](http://twitter.com/search?q=Riuh) | N/A |
-| 21 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 22 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 23 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 24 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 25 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
-| 26 | [THE WORDS MALAYSIAN CZENNIES](http://twitter.com/search?q=THE+WORDS+MALAYSIAN+CZENNIES) | N/A |
-| 27 | [World Health Day](http://twitter.com/search?q=World+Health+Day) | N/A |
-| 28 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 29 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 30 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 31 | [Pardons Board](http://twitter.com/search?q=Pardons+Board) | N/A |
-| 32 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 33 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 34 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
-| 35 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 36 | [UMNO](http://twitter.com/search?q=UMNO) | N/A |
-| 37 | [Najib](http://twitter.com/search?q=Najib) | N/A |
-| 38 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 39 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 40 | [Ryeowook](http://twitter.com/search?q=Ryeowook) | N/A |
-| 41 | [South China Sea](http://twitter.com/search?q=South+China+Sea) | N/A |
-| 42 | [Butterfly](http://twitter.com/search?q=Butterfly) | N/A |
-| 43 | [Agong](http://twitter.com/search?q=Agong) | N/A |
-| 44 | [LOVE ME RIGHT](http://twitter.com/search?q=LOVE+ME+RIGHT) | N/A |
-| 45 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
-| 46 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 47 | [jaesuk](http://twitter.com/search?q=jaesuk) | N/A |
-| 48 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 49 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 50 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 1 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 2 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 3 | [#MUNEVE](http://twitter.com/search?q=%23MUNEVE) | #MUNEVE is a hashtag used to promote the Muneve app, which is an online platform that helps people find and book beauty services. The hashtag is used to share user experiences, tips, and advice related to beauty services. In English, #MUNEVE means "My Beauty Experience". |
+| 4 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
+| 5 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 6 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 7 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 8 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 9 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 10 | [#THEDREAMSHOW2_in_KUALALUMPUR](http://twitter.com/search?q=%23THEDREAMSHOW2_in_KUALALUMPUR) | N/A |
+| 11 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
+| 12 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
+| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 14 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 15 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 16 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 17 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
+| 18 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 19 | [ksoo](http://twitter.com/search?q=ksoo) | N/A |
+| 20 | [CHANBAEK](http://twitter.com/search?q=CHANBAEK) | N/A |
+| 21 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 22 | [Blessed Good Friday](http://twitter.com/search?q=Blessed+Good+Friday) | N/A |
+| 23 | [Butterfly](http://twitter.com/search?q=Butterfly) | N/A |
+| 24 | [nuzul al-quran](http://twitter.com/search?q=nuzul+al-quran) | N/A |
+| 25 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 26 | [chansoo](http://twitter.com/search?q=chansoo) | N/A |
+| 27 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 28 | [Youngji](http://twitter.com/search?q=Youngji) | N/A |
+| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 30 | [THE WORDS MALAYSIAN CZENNIES](http://twitter.com/search?q=THE+WORDS+MALAYSIAN+CZENNIES) | N/A |
+| 31 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 32 | [World Health Day](http://twitter.com/search?q=World+Health+Day) | N/A |
+| 33 | [jonghyun](http://twitter.com/search?q=jonghyun) | N/A |
+| 34 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 35 | [jjong](http://twitter.com/search?q=jjong) | N/A |
+| 36 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 37 | [Pardons Board](http://twitter.com/search?q=Pardons+Board) | N/A |
+| 38 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 39 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 40 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
+| 41 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 42 | [Najib](http://twitter.com/search?q=Najib) | N/A |
+| 43 | [Riuh](http://twitter.com/search?q=Riuh) | N/A |
+| 44 | [Ryeowook](http://twitter.com/search?q=Ryeowook) | N/A |
+| 45 | [UMNO](http://twitter.com/search?q=UMNO) | N/A |
+| 46 | [LOVE ME RIGHT](http://twitter.com/search?q=LOVE+ME+RIGHT) | N/A |
+| 47 | [Agong](http://twitter.com/search?q=Agong) | N/A |
+| 48 | [South China Sea](http://twitter.com/search?q=South+China+Sea) | N/A |
+| 49 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
+| 50 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
 
 
 

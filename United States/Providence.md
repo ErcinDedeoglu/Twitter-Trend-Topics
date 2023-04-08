@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Providence
 
-📆 Last Updated: `2023-04-08 11:17:23 UTC`
+📆 Last Updated: `2023-04-08 12:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
-| 2 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 3 | [#njpw](http://twitter.com/search?q=%23njpw) | #NJPW stands for New Japan Pro Wrestling, which is a Japanese professional wrestling promotion. It is one of the largest and most popular wrestling promotions in the world. |
-| 4 | [Aussie Open](http://twitter.com/search?q=Aussie+Open) | N/A |
-| 5 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
-| 6 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 7 | [Hazuki](http://twitter.com/search?q=Hazuki) | N/A |
-| 8 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 9 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
-| 10 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 11 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 12 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 13 | [Mayu](http://twitter.com/search?q=Mayu) | N/A |
-| 14 | [#Wordle658](http://twitter.com/search?q=%23Wordle658) | N/A |
-| 15 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
-| 16 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 17 | [#vtubervsirl](http://twitter.com/search?q=%23vtubervsirl) | N/A |
-| 18 | [Ivermectin](http://twitter.com/search?q=Ivermectin) | N/A |
-| 19 | [University of Oklahoma](http://twitter.com/search?q=University+of+Oklahoma) | N/A |
-| 20 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 21 | [Girly Teengirl](http://twitter.com/search?q=Girly+Teengirl) | N/A |
-| 22 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
-| 23 | [The FDA](http://twitter.com/search?q=The+FDA) | N/A |
-| 24 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 25 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 26 | [The Shining](http://twitter.com/search?q=The+Shining) | N/A |
-| 27 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 28 | [The Mavs](http://twitter.com/search?q=The+Mavs) | N/A |
-| 29 | [VP Harris](http://twitter.com/search?q=VP+Harris) | N/A |
-| 30 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
-| 31 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
-| 32 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 33 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
-| 34 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
-| 35 | [#activeshooter](http://twitter.com/search?q=%23activeshooter) | N/A |
-| 36 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 37 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 38 | [#AEWBOTB](http://twitter.com/search?q=%23AEWBOTB) | N/A |
-| 39 | [#PraiseThis](http://twitter.com/search?q=%23PraiseThis) | N/A |
-| 40 | [#NCTDREAMinCHICAGO](http://twitter.com/search?q=%23NCTDREAMinCHICAGO) | N/A |
-| 41 | [#lifeafterlockup](http://twitter.com/search?q=%23lifeafterlockup) | N/A |
-| 42 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
-| 43 | [#murderdrones](http://twitter.com/search?q=%23murderdrones) | N/A |
+| 1 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 2 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 3 | [#MUNEVE](http://twitter.com/search?q=%23MUNEVE) | #MUNEVE is a hashtag used to promote the Muneve app, which is an online platform that helps people find and book beauty services. The hashtag is used to share user experiences, tips, and advice related to beauty services. In English, #MUNEVE means "My Beauty Experience". |
+| 4 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 5 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 6 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 7 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
+| 8 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 9 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 10 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 11 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 12 | [SANADA](http://twitter.com/search?q=SANADA) | N/A |
+| 13 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
+| 14 | [MUN vs EVE](http://twitter.com/search?q=MUN+vs+EVE) | N/A |
+| 15 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
+| 16 | [Link 1](http://twitter.com/search?q=Link+1) | N/A |
+| 17 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
+| 18 | [Live Stream](http://twitter.com/search?q=Live+Stream) | N/A |
+| 19 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 20 | [Aussie Open](http://twitter.com/search?q=Aussie+Open) | N/A |
+| 21 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 22 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 23 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 24 | [Toys R Us](http://twitter.com/search?q=Toys+R+Us) | N/A |
+| 25 | [Mayu](http://twitter.com/search?q=Mayu) | N/A |
+| 26 | [Hazuki](http://twitter.com/search?q=Hazuki) | N/A |
+| 27 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 28 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 29 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 30 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 31 | [Ivermectin](http://twitter.com/search?q=Ivermectin) | N/A |
+| 32 | [Mike Lee](http://twitter.com/search?q=Mike+Lee) | N/A |
+| 33 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 34 | [VP Harris](http://twitter.com/search?q=VP+Harris) | N/A |
+| 35 | [Happy Easter Weekend](http://twitter.com/search?q=Happy+Easter+Weekend) | N/A |
+| 36 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 37 | [AK-47](http://twitter.com/search?q=AK-47) | N/A |
+| 38 | [Vogue](http://twitter.com/search?q=Vogue) | N/A |
+| 39 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 40 | [Girly Teengirl](http://twitter.com/search?q=Girly+Teengirl) | N/A |
+| 41 | [Pusha T](http://twitter.com/search?q=Pusha+T) | N/A |
+| 42 | [The FDA](http://twitter.com/search?q=The+FDA) | N/A |
+| 43 | [University of Oklahoma](http://twitter.com/search?q=University+of+Oklahoma) | N/A |
+| 44 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 45 | [The Shining](http://twitter.com/search?q=The+Shining) | N/A |
+| 46 | [6 Christians](http://twitter.com/search?q=6+Christians) | N/A |
+| 47 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 48 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 49 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
 
 
 

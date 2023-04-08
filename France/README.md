@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-04-08 11:17:28 UTC`
+📆 Last Updated: `2023-04-08 12:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,43 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MrR4bb1tLeGOAT](http://twitter.com/search?q=%23MrR4bb1tLeGOAT) | N/A |
-| 2 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 3 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 4 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 5 | [#GA2023](http://twitter.com/search?q=%23GA2023) | N/A |
-| 6 | [#UnibetFive](http://twitter.com/search?q=%23UnibetFive) | N/A |
-| 7 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 8 | [#RCLRCSA](http://twitter.com/search?q=%23RCLRCSA) | N/A |
-| 9 | [#FRACOL](http://twitter.com/search?q=%23FRACOL) | N/A |
-| 10 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 11 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 12 | [Raoult](http://twitter.com/search?q=Raoult) | N/A |
-| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 14 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 15 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 16 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
-| 17 | [Rotonde](http://twitter.com/search?q=Rotonde) | N/A |
-| 18 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
-| 19 | [Vendredi Saint](http://twitter.com/search?q=Vendredi+Saint) | N/A |
-| 20 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 21 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 22 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 23 | [Edwy Plenel](http://twitter.com/search?q=Edwy+Plenel) | N/A |
-| 24 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 25 | [Laurent Battles](http://twitter.com/search?q=Laurent+Battles) | N/A |
-| 26 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 27 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 28 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
-| 29 | [Maïwenn](http://twitter.com/search?q=Ma%c3%afwenn) | N/A |
-| 30 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
-| 31 | [Version LOSC](http://twitter.com/search?q=Version+LOSC) | N/A |
-| 32 | [Bilal Hassani](http://twitter.com/search?q=Bilal+Hassani) | N/A |
-| 33 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 34 | [Dordogne](http://twitter.com/search?q=Dordogne) | N/A |
-| 35 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 36 | [L'islamophobie](http://twitter.com/search?q=L%27islamophobie) | N/A |
-| 37 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 38 | [Michel Jonasz](http://twitter.com/search?q=Michel+Jonasz) | N/A |
-| 39 | [Le Sommer](http://twitter.com/search?q=Le+Sommer) | N/A |
-| 40 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 41 | [Julien Pain](http://twitter.com/search?q=Julien+Pain) | N/A |
-| 42 | [Uncharted](http://twitter.com/search?q=Uncharted) | N/A |
-| 43 | [Crimée](http://twitter.com/search?q=Crim%c3%a9e) | N/A |
-| 44 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
-| 45 | [Garp](http://twitter.com/search?q=Garp) | N/A |
-| 46 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 47 | [Mashle](http://twitter.com/search?q=Mashle) | N/A |
-| 48 | [Thierry Laurey](http://twitter.com/search?q=Thierry+Laurey) | N/A |
-| 49 | [Shonen War](http://twitter.com/search?q=Shonen+War) | N/A |
-| 50 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
+| 1 | [#GA2023](http://twitter.com/search?q=%23GA2023) | N/A |
+| 2 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 3 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 4 | [#MUNEVE](http://twitter.com/search?q=%23MUNEVE) | #MUNEVE is a hashtag used to promote the Muneve app, which is an online platform that helps people find and book beauty services. The hashtag is used to share user experiences, tips, and advice related to beauty services. In English, #MUNEVE means "My Beauty Experience". |
+| 5 | [#MrR4bb1tLeGOAT](http://twitter.com/search?q=%23MrR4bb1tLeGOAT) | N/A |
+| 6 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 7 | [Dernier Anime](http://twitter.com/search?q=Dernier+Anime) | N/A |
+| 8 | [Premier Anime](http://twitter.com/search?q=Premier+Anime) | N/A |
+| 9 | [Pire Anime](http://twitter.com/search?q=Pire+Anime) | N/A |
+| 10 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 11 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 12 | [#UnibetFive](http://twitter.com/search?q=%23UnibetFive) | N/A |
+| 13 | [#RCTLOU](http://twitter.com/search?q=%23RCTLOU) | N/A |
+| 14 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 15 | [Dordogne](http://twitter.com/search?q=Dordogne) | N/A |
+| 16 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 17 | [Julien Pain](http://twitter.com/search?q=Julien+Pain) | N/A |
+| 18 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
+| 19 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 20 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
+| 21 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 22 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
+| 23 | [Papou](http://twitter.com/search?q=Papou) | N/A |
+| 24 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
+| 25 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 26 | [Plenel](http://twitter.com/search?q=Plenel) | N/A |
+| 27 | [Le PCF](http://twitter.com/search?q=Le+PCF) | N/A |
+| 28 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 29 | [La Chine](http://twitter.com/search?q=La+Chine) | N/A |
+| 30 | [Maïwenn](http://twitter.com/search?q=Ma%c3%afwenn) | N/A |
+| 31 | [#MusicBank2023](http://twitter.com/search?q=%23MusicBank2023) | N/A |
+| 32 | [#FCGBSCB](http://twitter.com/search?q=%23FCGBSCB) | N/A |
+| 33 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 34 | [#PFCASSE](http://twitter.com/search?q=%23PFCASSE) | N/A |
+| 35 | [#ParisRoubaixFemmes](http://twitter.com/search?q=%23ParisRoubaixFemmes) | N/A |
+| 36 | [#congresPCF](http://twitter.com/search?q=%23congresPCF) | N/A |
+| 37 | [#OGCNPSG](http://twitter.com/search?q=%23OGCNPSG) | N/A |
 
 
 

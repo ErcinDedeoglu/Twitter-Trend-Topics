@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-04-08 11:16:51 UTC`
+📆 Last Updated: `2023-04-08 12:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 2 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
+| 1 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
+| 2 | [Witek](http://twitter.com/search?q=Witek) | N/A |
 | 3 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
-| 4 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
+| 4 | [#WPŁZAG](http://twitter.com/search?q=%23WP%c5%81ZAG) | N/A |
 | 5 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
-| 6 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
-| 7 | [#WPŁZAG](http://twitter.com/search?q=%23WP%c5%81ZAG) | N/A |
-| 8 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
-| 9 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 10 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 11 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
-| 12 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
+| 6 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
+| 7 | [#MUNEVE](http://twitter.com/search?q=%23MUNEVE) | #MUNEVE is a hashtag used to promote the Muneve app, which is an online platform that helps people find and book beauty services. The hashtag is used to share user experiences, tips, and advice related to beauty services. In English, #MUNEVE means "My Beauty Experience". |
+| 8 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
+| 9 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
+| 10 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
+| 11 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 12 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
 | 13 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
-| 14 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
-| 15 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
-| 16 | [Kujawski](http://twitter.com/search?q=Kujawski) | N/A |
-| 17 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
+| 14 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 15 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
+| 16 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
+| 17 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
 | 18 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
 | 19 | [#jakgractoznajlepszymi](http://twitter.com/search?q=%23jakgractoznajlepszymi) | N/A |
-| 20 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 21 | [klubowy goat](http://twitter.com/search?q=klubowy+goat) | N/A |
-| 22 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
-| 23 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
-| 24 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
-| 25 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
-| 26 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
-| 27 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 28 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
-| 29 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
-| 30 | [Chrystusa](http://twitter.com/search?q=Chrystusa) | N/A |
-| 31 | [Wielkiej Soboty](http://twitter.com/search?q=Wielkiej+Soboty) | N/A |
-| 32 | [Życzymy Wam](http://twitter.com/search?q=%c5%bbyczymy+Wam) | N/A |
-| 33 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 34 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
-| 35 | [Wielkiego Piątku](http://twitter.com/search?q=Wielkiego+Pi%c4%85tku) | N/A |
-| 36 | [bugaj](http://twitter.com/search?q=bugaj) | N/A |
-| 37 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 38 | [KRRiT](http://twitter.com/search?q=KRRiT) | N/A |
-| 39 | [droga krzyżowa](http://twitter.com/search?q=droga+krzy%c5%bcowa) | N/A |
-| 40 | [Zmartwychwstania Pańskiego](http://twitter.com/search?q=Zmartwychwstania+Pa%c5%84skiego) | N/A |
-| 41 | [Istnieje](http://twitter.com/search?q=Istnieje) | N/A |
-| 42 | [Pani Marszałek](http://twitter.com/search?q=Pani+Marsza%c5%82ek) | N/A |
-| 43 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 44 | [Haalanda](http://twitter.com/search?q=Haalanda) | N/A |
-| 45 | [Boga](http://twitter.com/search?q=Boga) | N/A |
-| 46 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
-| 47 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
-| 48 | [Boże Narodzenie](http://twitter.com/search?q=Bo%c5%bce+Narodzenie) | N/A |
-| 49 | [KGHM](http://twitter.com/search?q=KGHM) | N/A |
+| 20 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
+| 21 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 22 | [klubowy goat](http://twitter.com/search?q=klubowy+goat) | N/A |
+| 23 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 24 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
+| 25 | [Zmartwychwstania Pańskiego](http://twitter.com/search?q=Zmartwychwstania+Pa%c5%84skiego) | N/A |
+| 26 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
+| 27 | [Życzymy Wam](http://twitter.com/search?q=%c5%bbyczymy+Wam) | N/A |
+| 28 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
+| 29 | [Chrystusa](http://twitter.com/search?q=Chrystusa) | N/A |
+| 30 | [Caritas](http://twitter.com/search?q=Caritas) | N/A |
+| 31 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
+| 32 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
+| 33 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 34 | [Wielkiego Piątku](http://twitter.com/search?q=Wielkiego+Pi%c4%85tku) | N/A |
+| 35 | [bugaj](http://twitter.com/search?q=bugaj) | N/A |
+| 36 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 37 | [Płocku](http://twitter.com/search?q=P%c5%82ocku) | N/A |
+| 38 | [KGHM](http://twitter.com/search?q=KGHM) | N/A |
+| 39 | [Filiks](http://twitter.com/search?q=Filiks) | N/A |
+| 40 | [droga krzyżowa](http://twitter.com/search?q=droga+krzy%c5%bcowa) | N/A |
+| 41 | [Wielkiej Soboty](http://twitter.com/search?q=Wielkiej+Soboty) | N/A |
+| 42 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 43 | [Istnieje](http://twitter.com/search?q=Istnieje) | N/A |
+| 44 | [Kujawski](http://twitter.com/search?q=Kujawski) | N/A |
+| 45 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 46 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 47 | [Groszek](http://twitter.com/search?q=Groszek) | N/A |
+| 48 | [Pani Marszałek](http://twitter.com/search?q=Pani+Marsza%c5%82ek) | N/A |
+| 49 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 50 | [Jemenu](http://twitter.com/search?q=Jemenu) | N/A |
 
 

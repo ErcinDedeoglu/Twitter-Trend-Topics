@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-08 11:16:38 UTC`
+📆 Last Updated: `2023-04-08 12:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,55 +21,55 @@ This is top 50
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#オールスター感謝祭23春](http://twitter.com/search?q=%23%e3%82%aa%e3%83%bc%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%bc%e6%84%9f%e8%ac%9d%e7%a5%ad23%e6%98%a5) | N/A |
-| 2 | [#那須川天心](http://twitter.com/search?q=%23%e9%82%a3%e9%a0%88%e5%b7%9d%e5%a4%a9%e5%bf%83) | N/A |
-| 3 | [ボクシング](http://twitter.com/search?q=%e3%83%9c%e3%82%af%e3%82%b7%e3%83%b3%e3%82%b0) | N/A |
-| 4 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 5 | [アーチェリー](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%81%e3%82%a7%e3%83%aa%e3%83%bc) | N/A |
-| 6 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
-| 7 | [#オモコロチャンネル](http://twitter.com/search?q=%23%e3%82%aa%e3%83%a2%e3%82%b3%e3%83%ad%e3%83%81%e3%83%a3%e3%83%b3%e3%83%8d%e3%83%ab) | N/A |
-| 8 | [ラムの正体](http://twitter.com/search?q=%e3%83%a9%e3%83%a0%e3%81%ae%e6%ad%a3%e4%bd%93) | N/A |
-| 9 | [HAVE A SAFE FLIGHT JUNGKOOK](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JUNGKOOK) | N/A |
-| 10 | [デビュー戦](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e6%88%a6) | N/A |
-| 11 | [#EXOCLOCK_D1](http://twitter.com/search?q=%23EXOCLOCK_D1) | N/A |
-| 12 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 13 | [与那覇選手](http://twitter.com/search?q=%e4%b8%8e%e9%82%a3%e8%a6%87%e9%81%b8%e6%89%8b) | N/A |
-| 14 | [アクスタ浴衣](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%b9%e3%82%bf%e6%b5%b4%e8%a1%a3) | N/A |
-| 15 | [寿司ガキ](http://twitter.com/search?q=%e5%af%bf%e5%8f%b8%e3%82%ac%e3%82%ad) | N/A |
-| 16 | [ムツゴロウさん](http://twitter.com/search?q=%e3%83%a0%e3%83%84%e3%82%b4%e3%83%ad%e3%82%a6%e3%81%95%e3%82%93) | N/A |
-| 17 | [Patrick Movie Roadshow](http://twitter.com/search?q=Patrick+Movie+Roadshow) | N/A |
-| 18 | [井上尚弥](http://twitter.com/search?q=%e4%ba%95%e4%b8%8a%e5%b0%9a%e5%bc%a5) | N/A |
-| 19 | [SonDurak AdanaKitabı](http://twitter.com/search?q=SonDurak+AdanaKitab%c4%b1) | N/A |
-| 20 | [マジミラ](http://twitter.com/search?q=%e3%83%9e%e3%82%b8%e3%83%9f%e3%83%a9) | N/A |
-| 21 | [山田くん](http://twitter.com/search?q=%e5%b1%b1%e7%94%b0%e3%81%8f%e3%82%93) | 山田くん is a Japanese name, and it translates to "Mr. Yamada" in English. |
-| 22 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
-| 23 | [ココロジョジョル第6部](http://twitter.com/search?q=%e3%82%b3%e3%82%b3%e3%83%ad%e3%82%b8%e3%83%a7%e3%82%b8%e3%83%a7%e3%83%ab%e7%ac%ac6%e9%83%a8) | N/A |
-| 24 | [VACHSS](http://twitter.com/search?q=VACHSS) | N/A |
-| 25 | [横浜ダービー](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
-| 26 | [Goldson](http://twitter.com/search?q=Goldson) | Goldson is a surname of English origin. It is derived from the Old English words "gold" and "sunu," meaning "son of gold." The name is thought to have been given to someone who was wealthy or had a golden complexion. |
-| 27 | [選挙カー](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%82%ab%e3%83%bc) | N/A |
-| 28 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
-| 29 | [一般部門](http://twitter.com/search?q=%e4%b8%80%e8%88%ac%e9%83%a8%e9%96%80) | N/A |
-| 30 | [大泉さん](http://twitter.com/search?q=%e5%a4%a7%e6%b3%89%e3%81%95%e3%82%93) | N/A |
-| 31 | [期日前投票](http://twitter.com/search?q=%e6%9c%9f%e6%97%a5%e5%89%8d%e6%8a%95%e7%a5%a8) | N/A |
-| 32 | [オフサイド](http://twitter.com/search?q=%e3%82%aa%e3%83%95%e3%82%b5%e3%82%a4%e3%83%89) | オフサイド (Offside) is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field, or closer to the goal line than both the ball and the second-to-last defender, when the ball is passed to them. In English, it is referred to as "offside". |
-| 33 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
-| 34 | [Lolos Sanksi Berat FIFA](http://twitter.com/search?q=Lolos+Sanksi+Berat+FIFA) | N/A |
-| 35 | [RUMの正体](http://twitter.com/search?q=RUM%e3%81%ae%e6%ad%a3%e4%bd%93) | N/A |
-| 36 | [洋ちゃん](http://twitter.com/search?q=%e6%b4%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 37 | [今田さん](http://twitter.com/search?q=%e4%bb%8a%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 38 | [井上拓真](http://twitter.com/search?q=%e4%ba%95%e4%b8%8a%e6%8b%93%e7%9c%9f) | N/A |
-| 39 | [横浜FC](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9cFC) | N/A |
-| 40 | [IT'S EXO'CLOCK](http://twitter.com/search?q=IT%27S+EXO%27CLOCK) | N/A |
-| 41 | [パンチ力](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%83%81%e5%8a%9b) | N/A |
-| 42 | [クイーン部門](http://twitter.com/search?q=%e3%82%af%e3%82%a4%e3%83%bc%e3%83%b3%e9%83%a8%e9%96%80) | N/A |
-| 43 | [エエヤン](http://twitter.com/search?q=%e3%82%a8%e3%82%a8%e3%83%a4%e3%83%b3) | N/A |
-| 44 | [判定勝ち](http://twitter.com/search?q=%e5%88%a4%e5%ae%9a%e5%8b%9d%e3%81%a1) | N/A |
-| 45 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 46 | [Jaiswal](http://twitter.com/search?q=Jaiswal) | N/A |
-| 47 | [天心くん](http://twitter.com/search?q=%e5%a4%a9%e5%bf%83%e3%81%8f%e3%82%93) | N/A |
-| 48 | [佐々木尽](http://twitter.com/search?q=%e4%bd%90%e3%80%85%e6%9c%a8%e5%b0%bd) | N/A |
-| 49 | [CHANBAEK](http://twitter.com/search?q=CHANBAEK) | N/A |
-| 50 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
+| 2 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 3 | [#MUNEVE](http://twitter.com/search?q=%23MUNEVE) | #MUNEVE is a hashtag used to promote the Muneve app, which is an online platform that helps people find and book beauty services. The hashtag is used to share user experiences, tips, and advice related to beauty services. In English, #MUNEVE means "My Beauty Experience". |
+| 4 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 5 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 6 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 7 | [smth](http://twitter.com/search?q=smth) | "Smth" is an abbreviation for "something". It is used to refer to an unspecified thing or concept. |
+| 8 | [アーチェリー](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%81%e3%82%a7%e3%83%aa%e3%83%bc) | N/A |
+| 9 | [#那須川天心](http://twitter.com/search?q=%23%e9%82%a3%e9%a0%88%e5%b7%9d%e5%a4%a9%e5%bf%83) | N/A |
+| 10 | [ボクシング](http://twitter.com/search?q=%e3%83%9c%e3%82%af%e3%82%b7%e3%83%b3%e3%82%b0) | N/A |
+| 11 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 12 | [グノーシア](http://twitter.com/search?q=%e3%82%b0%e3%83%8e%e3%83%bc%e3%82%b7%e3%82%a2) | N/A |
+| 13 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 14 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
+| 15 | [横浜FC](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9cFC) | N/A |
+| 16 | [#RRvsDC](http://twitter.com/search?q=%23RRvsDC) | N/A |
+| 17 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
+| 18 | [VACHSS](http://twitter.com/search?q=VACHSS) | N/A |
+| 19 | [ムツゴロウさん](http://twitter.com/search?q=%e3%83%a0%e3%83%84%e3%82%b4%e3%83%ad%e3%82%a6%e3%81%95%e3%82%93) | N/A |
+| 20 | [オラスクアガ](http://twitter.com/search?q=%e3%82%aa%e3%83%a9%e3%82%b9%e3%82%af%e3%82%a2%e3%82%ac) | N/A |
+| 21 | [ピックフォード](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%82%af%e3%83%95%e3%82%a9%e3%83%bc%e3%83%89) | N/A |
+| 22 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
+| 23 | [f0rsakeN](http://twitter.com/search?q=f0rsakeN) | N/A |
+| 24 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 25 | [HAVE A SAFE FLIGHT JUNGKOOK](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JUNGKOOK) | N/A |
+| 26 | [Simms](http://twitter.com/search?q=Simms) | N/A |
+| 27 | [横浜ダービー](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
+| 28 | [寿司ガキ](http://twitter.com/search?q=%e5%af%bf%e5%8f%b8%e3%82%ac%e3%82%ad) | N/A |
+| 29 | [ラムの正体](http://twitter.com/search?q=%e3%83%a9%e3%83%a0%e3%81%ae%e6%ad%a3%e4%bd%93) | N/A |
+| 30 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
+| 31 | [井上拓真](http://twitter.com/search?q=%e4%ba%95%e4%b8%8a%e6%8b%93%e7%9c%9f) | N/A |
+| 32 | [山田くん](http://twitter.com/search?q=%e5%b1%b1%e7%94%b0%e3%81%8f%e3%82%93) | 山田くん is a Japanese name, and it translates to "Mr. Yamada" in English. |
+| 33 | [鈴木亮平](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e4%ba%ae%e5%b9%b3) | 鈴木亮平 is a Japanese name. It is composed of two characters: 鈴木 (Suzuki) and 亮平 (Ryohei). The literal translation of the name is "bright level Suzuki". |
+| 34 | [フォーセイクン](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%82%bb%e3%82%a4%e3%82%af%e3%83%b3) | N/A |
+| 35 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
+| 36 | [エウベル](http://twitter.com/search?q=%e3%82%a8%e3%82%a6%e3%83%99%e3%83%ab) | N/A |
+| 37 | [糸井さん](http://twitter.com/search?q=%e7%b3%b8%e4%ba%95%e3%81%95%e3%82%93) | N/A |
+| 38 | [一般男子](http://twitter.com/search?q=%e4%b8%80%e8%88%ac%e7%94%b7%e5%ad%90) | N/A |
+| 39 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 40 | [サドンデス](http://twitter.com/search?q=%e3%82%b5%e3%83%89%e3%83%b3%e3%83%87%e3%82%b9) | N/A |
+| 41 | [デビュー戦](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e6%88%a6) | N/A |
+| 42 | [ココロジョジョル第6部](http://twitter.com/search?q=%e3%82%b3%e3%82%b3%e3%83%ad%e3%82%b8%e3%83%a7%e3%82%b8%e3%83%a7%e3%83%ab%e7%ac%ac6%e9%83%a8) | N/A |
+| 43 | [럽미라잇](http://twitter.com/search?q=%eb%9f%bd%eb%af%b8%eb%9d%bc%ec%9e%87) | N/A |
+| 44 | [斗亜ちゃん](http://twitter.com/search?q=%e6%96%97%e4%ba%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 45 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
+| 46 | [井上尚弥](http://twitter.com/search?q=%e4%ba%95%e4%b8%8a%e5%b0%9a%e5%bc%a5) | N/A |
+| 47 | [与那覇選手](http://twitter.com/search?q=%e4%b8%8e%e9%82%a3%e8%a6%87%e9%81%b8%e6%89%8b) | N/A |
+| 48 | [赤坂5丁目](http://twitter.com/search?q=%e8%b5%a4%e5%9d%825%e4%b8%81%e7%9b%ae) | N/A |
+| 49 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 50 | [アクスタ浴衣](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%b9%e3%82%bf%e6%b5%b4%e8%a1%a3) | N/A |
 
 
 
