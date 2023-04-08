@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-08 01:42:27 UTC`
+📆 Last Updated: `2023-04-08 02:26:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -54,17 +54,17 @@ This is top 50 for [Latvia](</Latvia>)
 | 37 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 38 | [USSR](http://twitter.com/search?q=USSR) | N/A |
 | 39 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
-| 40 | [starp](http://twitter.com/search?q=starp) | N/A |
-| 41 | [igaunijas](http://twitter.com/search?q=igaunijas) | N/A |
-| 42 | [tvaika](http://twitter.com/search?q=tvaika) | N/A |
-| 43 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
-| 44 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
-| 45 | [iespējams](http://twitter.com/search?q=iesp%c4%93jams) | N/A |
-| 46 | [Vispār](http://twitter.com/search?q=Visp%c4%81r) | N/A |
-| 47 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 48 | [kamēr](http://twitter.com/search?q=kam%c4%93r) | N/A |
-| 49 | [sarkandaugavas](http://twitter.com/search?q=sarkandaugavas) | N/A |
-| 50 | [nekas](http://twitter.com/search?q=nekas) | N/A |
+| 40 | [igaunijas](http://twitter.com/search?q=igaunijas) | N/A |
+| 41 | [tvaika](http://twitter.com/search?q=tvaika) | N/A |
+| 42 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
+| 43 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
+| 44 | [iespējams](http://twitter.com/search?q=iesp%c4%93jams) | N/A |
+| 45 | [Vispār](http://twitter.com/search?q=Visp%c4%81r) | N/A |
+| 46 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
+| 47 | [kamēr](http://twitter.com/search?q=kam%c4%93r) | N/A |
+| 48 | [sarkandaugavas](http://twitter.com/search?q=sarkandaugavas) | N/A |
+| 49 | [nekas](http://twitter.com/search?q=nekas) | N/A |
+| 50 | [šķiet](http://twitter.com/search?q=%c5%a1%c4%b7iet) | N/A |
 
 
 

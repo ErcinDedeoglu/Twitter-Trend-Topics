@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-04-08 01:42:57 UTC`
+📆 Last Updated: `2023-04-08 02:27:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,45 +25,45 @@ This is top 50 for Colombia
 | 8 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
 | 9 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 | 10 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 11 | [Sergio Higuita](http://twitter.com/search?q=Sergio+Higuita) | N/A |
-| 12 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
-| 13 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
-| 14 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 16 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 17 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
-| 18 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
-| 19 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
-| 20 | [#MiCiudadBaqana](http://twitter.com/search?q=%23MiCiudadBaqana) | N/A |
-| 21 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 22 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 23 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 25 | [Catalina Usme](http://twitter.com/search?q=Catalina+Usme) | N/A |
-| 26 | [Abadía](http://twitter.com/search?q=Abad%c3%ada) | N/A |
-| 27 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 28 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 29 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 11 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 12 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
+| 13 | [#210AñosMásBaqana](http://twitter.com/search?q=%23210A%c3%b1osM%c3%a1sBaqana) | N/A |
+| 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 15 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
+| 16 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 17 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
+| 18 | [Sergio Higuita](http://twitter.com/search?q=Sergio+Higuita) | N/A |
+| 19 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 20 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 21 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
+| 22 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 24 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 25 | [catalina usme](http://twitter.com/search?q=catalina+usme) | N/A |
+| 26 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 27 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 28 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 29 | [Abadía](http://twitter.com/search?q=Abad%c3%ada) | N/A |
 | 30 | [Felices 210](http://twitter.com/search?q=Felices+210) | N/A |
-| 31 | [Huila](http://twitter.com/search?q=Huila) | N/A |
-| 32 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 33 | [Rionegro](http://twitter.com/search?q=Rionegro) | N/A |
-| 34 | [Yaser Asprilla](http://twitter.com/search?q=Yaser+Asprilla) | N/A |
-| 35 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
-| 36 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 37 | [Dijon](http://twitter.com/search?q=Dijon) | N/A |
+| 31 | [Rionegro](http://twitter.com/search?q=Rionegro) | N/A |
+| 32 | [Huila](http://twitter.com/search?q=Huila) | N/A |
+| 33 | [Santa Marta](http://twitter.com/search?q=Santa+Marta) | N/A |
+| 34 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 35 | [Dijon](http://twitter.com/search?q=Dijon) | N/A |
+| 36 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 37 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
 | 38 | [Bojacá](http://twitter.com/search?q=Bojac%c3%a1) | N/A |
-| 39 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
+| 39 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 | 40 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 41 | [Mazorca](http://twitter.com/search?q=Mazorca) | N/A |
-| 42 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 43 | [Escasez](http://twitter.com/search?q=Escasez) | N/A |
-| 44 | [Barú](http://twitter.com/search?q=Bar%c3%ba) | N/A |
-| 45 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 46 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
+| 42 | [Escasez](http://twitter.com/search?q=Escasez) | N/A |
+| 43 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
+| 44 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 45 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
+| 46 | [Barú](http://twitter.com/search?q=Bar%c3%ba) | N/A |
 | 47 | [Bojanini](http://twitter.com/search?q=Bojanini) | N/A |
-| 48 | [Cata Usme](http://twitter.com/search?q=Cata+Usme) | N/A |
-| 49 | [Patarroyo](http://twitter.com/search?q=Patarroyo) | N/A |
+| 48 | [Patarroyo](http://twitter.com/search?q=Patarroyo) | N/A |
+| 49 | [cata usme](http://twitter.com/search?q=cata+usme) | N/A |
 | 50 | [Alberto Grisales](http://twitter.com/search?q=Alberto+Grisales) | N/A |
 
 

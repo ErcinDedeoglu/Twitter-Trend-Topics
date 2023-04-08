@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-04-08 01:43:03 UTC`
+📆 Last Updated: `2023-04-08 02:27:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,11 +17,11 @@ This is top 50 for Sweden
 | ------- | ------------ | ------------ |
 | 1 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
 | 2 | [Glad Påsk](http://twitter.com/search?q=Glad+P%c3%a5sk) | N/A |
-| 3 | [Ingvar](http://twitter.com/search?q=Ingvar) | N/A |
-| 4 | [Beck](http://twitter.com/search?q=Beck) | N/A |
-| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 6 | [Masked Singer](http://twitter.com/search?q=Masked+Singer) | N/A |
-| 7 | [Janne Andersson](http://twitter.com/search?q=Janne+Andersson) | N/A |
+| 3 | [Ingvar Hirdwall](http://twitter.com/search?q=Ingvar+Hirdwall) | N/A |
+| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 5 | [Masked Singer](http://twitter.com/search?q=Masked+Singer) | N/A |
+| 6 | [Janne Andersson](http://twitter.com/search?q=Janne+Andersson) | N/A |
+| 7 | [Beck](http://twitter.com/search?q=Beck) | N/A |
 | 8 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
 | 9 | [drottninggatan](http://twitter.com/search?q=drottninggatan) | N/A |
 | 10 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
@@ -31,40 +31,40 @@ This is top 50 for Sweden
 | 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 15 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
 | 16 | [systembolaget](http://twitter.com/search?q=systembolaget) | N/A |
-| 17 | [Eskilstuna](http://twitter.com/search?q=Eskilstuna) | N/A |
-| 18 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 19 | [Blåkulla](http://twitter.com/search?q=Bl%c3%a5kulla) | N/A |
-| 20 | [institutet](http://twitter.com/search?q=institutet) | N/A |
-| 21 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 22 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
-| 23 | [Akilov](http://twitter.com/search?q=Akilov) | N/A |
-| 24 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
-| 25 | [färjestad](http://twitter.com/search?q=f%c3%a4rjestad) | N/A |
+| 17 | [eskilstuna](http://twitter.com/search?q=eskilstuna) | N/A |
+| 18 | [blåkulla](http://twitter.com/search?q=bl%c3%a5kulla) | N/A |
+| 19 | [institutet](http://twitter.com/search?q=institutet) | N/A |
+| 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 21 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
+| 22 | [Akilov](http://twitter.com/search?q=Akilov) | N/A |
+| 23 | [Empoli](http://twitter.com/search?q=Empoli) | N/A |
+| 24 | [färjestad](http://twitter.com/search?q=f%c3%a4rjestad) | N/A |
+| 25 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
 | 26 | [Brunnsparken](http://twitter.com/search?q=Brunnsparken) | N/A |
 | 27 | [Carl Bildt](http://twitter.com/search?q=Carl+Bildt) | N/A |
 | 28 | [Busch](http://twitter.com/search?q=Busch) | N/A |
-| 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 30 | [Håkan](http://twitter.com/search?q=H%c3%a5kan) | N/A |
-| 31 | [långfredag](http://twitter.com/search?q=l%c3%a5ngfredag) | N/A |
-| 32 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 33 | [värmland](http://twitter.com/search?q=v%c3%a4rmland) | N/A |
-| 34 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 35 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
-| 36 | [Abbe](http://twitter.com/search?q=Abbe) | N/A |
-| 37 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 38 | [Snygg](http://twitter.com/search?q=Snygg) | N/A |
-| 39 | [Mannerheim](http://twitter.com/search?q=Mannerheim) | N/A |
-| 40 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 41 | [Filippa](http://twitter.com/search?q=Filippa) | N/A |
-| 42 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
-| 43 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
-| 44 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 45 | [gurra](http://twitter.com/search?q=gurra) | N/A |
-| 46 | [brage](http://twitter.com/search?q=brage) | N/A |
-| 47 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 48 | [ribbenvik](http://twitter.com/search?q=ribbenvik) | N/A |
-| 49 | [#skeaik](http://twitter.com/search?q=%23skeaik) | N/A |
-| 50 | [Modo](http://twitter.com/search?q=Modo) | N/A |
+| 29 | [håkan](http://twitter.com/search?q=h%c3%a5kan) | N/A |
+| 30 | [långfredag](http://twitter.com/search?q=l%c3%a5ngfredag) | N/A |
+| 31 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 32 | [värmland](http://twitter.com/search?q=v%c3%a4rmland) | N/A |
+| 33 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 34 | [Turkiet](http://twitter.com/search?q=Turkiet) | N/A |
+| 35 | [Abbe](http://twitter.com/search?q=Abbe) | N/A |
+| 36 | [Snygg](http://twitter.com/search?q=Snygg) | N/A |
+| 37 | [Mannerheim](http://twitter.com/search?q=Mannerheim) | N/A |
+| 38 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 39 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
+| 40 | [Filippa](http://twitter.com/search?q=Filippa) | N/A |
+| 41 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 42 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
+| 43 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 44 | [gurra](http://twitter.com/search?q=gurra) | N/A |
+| 45 | [brage](http://twitter.com/search?q=brage) | N/A |
+| 46 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 47 | [ribbenvik](http://twitter.com/search?q=ribbenvik) | N/A |
+| 48 | [#skeaik](http://twitter.com/search?q=%23skeaik) | N/A |
+| 49 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
+| 50 | [carlén](http://twitter.com/search?q=carl%c3%a9n) | N/A |
 
 
 

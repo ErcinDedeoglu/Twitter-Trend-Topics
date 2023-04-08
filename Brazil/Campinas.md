@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-04-08 01:42:18 UTC`
+📆 Last Updated: `2023-04-08 02:26:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 2 | [MARAISA CNPJ](http://twitter.com/search?q=MARAISA+CNPJ) | N/A |
-| 3 | [Abra o Spotify](http://twitter.com/search?q=Abra+o+Spotify) | N/A |
-| 4 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 5 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 6 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 7 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
-| 8 | [Minas](http://twitter.com/search?q=Minas) | N/A |
-| 9 | [GIOVANNA ANTONELLI](http://twitter.com/search?q=GIOVANNA+ANTONELLI) | N/A |
-| 10 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
-| 11 | [CLAUDIA LEITTE](http://twitter.com/search?q=CLAUDIA+LEITTE) | CLAUDIA LEITTE is the stage name of Brazilian singer, songwriter, and dancer Cláudia Cristina Leite Inácio Pedreira. She is a popular performer of the musical genre known as axé music, a style of Brazilian dance music. In English, CLAUDIA LEITTE means "Claudia Cristina Leite Inácio Pedreira". |
-| 12 | [Bauru](http://twitter.com/search?q=Bauru) | N/A |
-| 13 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
-| 14 | [TORTURA NÃO É ENTRETENIMENTO](http://twitter.com/search?q=TORTURA+N%c3%83O+%c3%89+ENTRETENIMENTO) | N/A |
-| 15 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 17 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
-| 18 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 19 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
-| 20 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
-| 21 | [Team One](http://twitter.com/search?q=Team+One) | N/A |
-| 22 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 23 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
-| 24 | [Helô](http://twitter.com/search?q=Hel%c3%b4) | N/A |
-| 25 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 26 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 27 | [Insani](http://twitter.com/search?q=Insani) | N/A |
-| 28 | [#DoveNoBBB](http://twitter.com/search?q=%23DoveNoBBB) | N/A |
-| 29 | [Manoel Carlos](http://twitter.com/search?q=Manoel+Carlos) | N/A |
-| 30 | [#FaustaoNaBand](http://twitter.com/search?q=%23FaustaoNaBand) | N/A |
-| 31 | [16x0](http://twitter.com/search?q=16x0) | N/A |
-| 32 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
-| 33 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
-| 34 | [Dani Lins](http://twitter.com/search?q=Dani+Lins) | N/A |
-| 35 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 36 | [#MePatrocina](http://twitter.com/search?q=%23MePatrocina) | N/A |
-| 37 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
-| 38 | [Pilar](http://twitter.com/search?q=Pilar) | N/A |
-| 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 40 | [Daroit](http://twitter.com/search?q=Daroit) | N/A |
-| 41 | [Pinheiros](http://twitter.com/search?q=Pinheiros) | N/A |
-| 42 | [Nyeme](http://twitter.com/search?q=Nyeme) | N/A |
-| 43 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
-| 44 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 45 | [M.I.A.](http://twitter.com/search?q=M.I.A.) | N/A |
-| 46 | [Caribe](http://twitter.com/search?q=Caribe) | N/A |
-| 47 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
-| 48 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 49 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
+| 2 | [M.I.A.](http://twitter.com/search?q=M.I.A.) | N/A |
+| 3 | [Avon](http://twitter.com/search?q=Avon) | N/A |
+| 4 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
+| 5 | [Correios](http://twitter.com/search?q=Correios) | N/A |
+| 6 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
+| 7 | [M&M NO RATINHO](http://twitter.com/search?q=M%26M+NO+RATINHO) | N/A |
+| 8 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 9 | [Abra o Spotify](http://twitter.com/search?q=Abra+o+Spotify) | N/A |
+| 10 | [#DoveNoBBB](http://twitter.com/search?q=%23DoveNoBBB) | N/A |
+| 11 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 12 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
+| 13 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
+| 14 | [Na Sua Estante](http://twitter.com/search?q=Na+Sua+Estante) | N/A |
+| 15 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
+| 16 | [Giovanna Antonelli](http://twitter.com/search?q=Giovanna+Antonelli) | N/A |
+| 17 | [Admirável Chip Novo](http://twitter.com/search?q=Admir%c3%a1vel+Chip+Novo) | N/A |
+| 18 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
+| 19 | [CLAUDIA LEITTE](http://twitter.com/search?q=CLAUDIA+LEITTE) | CLAUDIA LEITTE is the stage name of Brazilian singer, songwriter, and dancer Cláudia Cristina Leite Inácio Pedreira. She is a popular performer of the musical genre known as axé music, a style of Brazilian dance music. In English, CLAUDIA LEITTE means "Claudia Cristina Leite Inácio Pedreira". |
+| 20 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
+| 21 | [TORTURA NÃO É ENTRETENIMENTO](http://twitter.com/search?q=TORTURA+N%c3%83O+%c3%89+ENTRETENIMENTO) | N/A |
+| 22 | [#zapoucalote](http://twitter.com/search?q=%23zapoucalote) | N/A |
+| 23 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 24 | [Nestlé](http://twitter.com/search?q=Nestl%c3%a9) | N/A |
+| 25 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 26 | [Pinheiros](http://twitter.com/search?q=Pinheiros) | N/A |
+| 27 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 28 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
+| 29 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 30 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
+| 31 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
+| 32 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 33 | [Duda Beat](http://twitter.com/search?q=Duda+Beat) | N/A |
+| 34 | [Minas](http://twitter.com/search?q=Minas) | N/A |
+| 35 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 36 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
+| 37 | [Bertolucci](http://twitter.com/search?q=Bertolucci) | N/A |
+| 38 | [#ACNXX](http://twitter.com/search?q=%23ACNXX) | N/A |
+| 39 | [Team One](http://twitter.com/search?q=Team+One) | N/A |
+| 40 | [Manoel Carlos](http://twitter.com/search?q=Manoel+Carlos) | N/A |
+| 41 | [Insani](http://twitter.com/search?q=Insani) | N/A |
+| 42 | [Drussyla](http://twitter.com/search?q=Drussyla) | N/A |
+| 43 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 44 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 45 | [16x0](http://twitter.com/search?q=16x0) | N/A |
+| 46 | [Helô](http://twitter.com/search?q=Hel%c3%b4) | N/A |
+| 47 | [Bauru](http://twitter.com/search?q=Bauru) | N/A |
+| 48 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
+| 49 | [Dani Lins](http://twitter.com/search?q=Dani+Lins) | N/A |
 
 
 

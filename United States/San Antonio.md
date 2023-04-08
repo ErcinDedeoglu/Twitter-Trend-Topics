@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-04-08 01:42:54 UTC`
+📆 Last Updated: `2023-04-08 02:27:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 2 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 3 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
-| 4 | [Maldy](http://twitter.com/search?q=Maldy) | N/A |
-| 5 | [Dubon](http://twitter.com/search?q=Dubon) | N/A |
-| 6 | [Slovenia](http://twitter.com/search?q=Slovenia) | N/A |
-| 7 | [Cuban](http://twitter.com/search?q=Cuban) | N/A |
-| 8 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
-| 9 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 10 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 11 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 12 | [#lifeafterlockup](http://twitter.com/search?q=%23lifeafterlockup) | N/A |
-| 13 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 14 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 15 | [WWE Draft](http://twitter.com/search?q=WWE+Draft) | N/A |
-| 16 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 17 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 18 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
-| 19 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
-| 20 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 21 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 22 | [Javale McGee](http://twitter.com/search?q=Javale+McGee) | N/A |
-| 23 | [Aris](http://twitter.com/search?q=Aris) | N/A |
-| 24 | [Dominik Mysterio](http://twitter.com/search?q=Dominik+Mysterio) | N/A |
-| 25 | [SHINSUKE](http://twitter.com/search?q=SHINSUKE) | N/A |
-| 26 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 27 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 28 | [Matthew Kacsmaryk](http://twitter.com/search?q=Matthew+Kacsmaryk) | N/A |
-| 29 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 30 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 31 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
-| 32 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 33 | [Shotzi](http://twitter.com/search?q=Shotzi) | N/A |
-| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 35 | [Stanek](http://twitter.com/search?q=Stanek) | N/A |
-| 36 | [Brawling Brutes](http://twitter.com/search?q=Brawling+Brutes) | N/A |
-| 37 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
-| 38 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 39 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
-| 40 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 41 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 42 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
-| 43 | [The FDA](http://twitter.com/search?q=The+FDA) | N/A |
-| 44 | [Boone](http://twitter.com/search?q=Boone) | N/A |
-| 45 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 46 | [Tayler](http://twitter.com/search?q=Tayler) | N/A |
-| 47 | [Maurice Greene](http://twitter.com/search?q=Maurice+Greene) | N/A |
-| 48 | [Dom Mysterio](http://twitter.com/search?q=Dom+Mysterio) | N/A |
-| 49 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 50 | [Urena](http://twitter.com/search?q=Urena) | N/A |
+| 2 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
+| 3 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 4 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 5 | [Maldonado](http://twitter.com/search?q=Maldonado) | N/A |
+| 6 | [Stanek](http://twitter.com/search?q=Stanek) | N/A |
+| 7 | [Maldy](http://twitter.com/search?q=Maldy) | N/A |
+| 8 | [Travis County](http://twitter.com/search?q=Travis+County) | N/A |
+| 9 | [Slovenia](http://twitter.com/search?q=Slovenia) | N/A |
+| 10 | [Cuban](http://twitter.com/search?q=Cuban) | N/A |
+| 11 | [#NationalBeerDay](http://twitter.com/search?q=%23NationalBeerDay) | N/A |
+| 12 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 13 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 14 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 15 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 16 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 17 | [Jaden Springer](http://twitter.com/search?q=Jaden+Springer) | N/A |
+| 18 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 19 | [Ozzie](http://twitter.com/search?q=Ozzie) | N/A |
+| 20 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 21 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 22 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 23 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
+| 24 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 25 | [WWE Draft](http://twitter.com/search?q=WWE+Draft) | N/A |
+| 26 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
+| 27 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 28 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
+| 29 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 30 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 31 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
+| 32 | [Shinsuke](http://twitter.com/search?q=Shinsuke) | N/A |
+| 33 | [Aris](http://twitter.com/search?q=Aris) | N/A |
+| 34 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
+| 35 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 36 | [Javale McGee](http://twitter.com/search?q=Javale+McGee) | N/A |
+| 37 | [Pritchard](http://twitter.com/search?q=Pritchard) | Pritchard is a surname of English origin. It is derived from the Old English personal name Prichard, which means "strong" or "brave". |
+| 38 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 39 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 40 | [Tayler](http://twitter.com/search?q=Tayler) | N/A |
+| 41 | [Dominik Mysterio](http://twitter.com/search?q=Dominik+Mysterio) | N/A |
+| 42 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 43 | [Matthew Kacsmaryk](http://twitter.com/search?q=Matthew+Kacsmaryk) | N/A |
+| 44 | [AJ Lawson](http://twitter.com/search?q=AJ+Lawson) | N/A |
+| 45 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 46 | [Shake Milton](http://twitter.com/search?q=Shake+Milton) | Shake Milton is a phrase used to describe someone who is a smooth talker or a charmer. It comes from the name of the English poet and playwright, William Shakespeare, who was known for his eloquent and persuasive language. The phrase implies that someone has the same level of charm and charisma as Shakespeare. |
+| 47 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 48 | [Brawling Brutes](http://twitter.com/search?q=Brawling+Brutes) | N/A |
+| 49 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 50 | [Shotzi](http://twitter.com/search?q=Shotzi) | N/A |
 
 
 

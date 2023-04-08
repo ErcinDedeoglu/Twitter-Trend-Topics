@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-04-08 01:42:20 UTC`
+📆 Last Updated: `2023-04-08 02:26:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,10 +21,10 @@ This is top 50 for [Poland](</Poland>)
 | 4 | [#SzpitaleTylkoDlaPiS](http://twitter.com/search?q=%23SzpitaleTylkoDlaPiS) | N/A |
 | 5 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
 | 6 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 7 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
-| 8 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
-| 9 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
-| 10 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
+| 7 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
+| 8 | [PKO BP](http://twitter.com/search?q=PKO+BP) | N/A |
+| 9 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
+| 10 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
 | 11 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 12 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
 | 13 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
@@ -33,33 +33,33 @@ This is top 50 for [Poland](</Poland>)
 | 16 | [Gliwice](http://twitter.com/search?q=Gliwice) | N/A |
 | 17 | [#ksiazkowemole](http://twitter.com/search?q=%23ksiazkowemole) | N/A |
 | 18 | [#PiStoZŁO](http://twitter.com/search?q=%23PiStoZ%c5%81O) | N/A |
-| 19 | [Radio Zet](http://twitter.com/search?q=Radio+Zet) | N/A |
+| 19 | [radio zet](http://twitter.com/search?q=radio+zet) | N/A |
 | 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 21 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
-| 22 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 21 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 22 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
 | 23 | [klubowy goat](http://twitter.com/search?q=klubowy+goat) | N/A |
-| 24 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
+| 24 | [lichocka](http://twitter.com/search?q=lichocka) | N/A |
 | 25 | [KRRiT](http://twitter.com/search?q=KRRiT) | N/A |
-| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 27 | [Wielkiego Piątku](http://twitter.com/search?q=Wielkiego+Pi%c4%85tku) | N/A |
-| 28 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 29 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 30 | [Droga Krzyżowa](http://twitter.com/search?q=Droga+Krzy%c5%bcowa) | N/A |
-| 31 | [zaksa](http://twitter.com/search?q=zaksa) | N/A |
-| 32 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
-| 33 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
-| 34 | [bugaj](http://twitter.com/search?q=bugaj) | N/A |
-| 35 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 36 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
-| 37 | [vuko](http://twitter.com/search?q=vuko) | N/A |
-| 38 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
-| 39 | [Murem](http://twitter.com/search?q=Murem) | N/A |
+| 26 | [Wielkiego Piątku](http://twitter.com/search?q=Wielkiego+Pi%c4%85tku) | N/A |
+| 27 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 28 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 29 | [Droga Krzyżowa](http://twitter.com/search?q=Droga+Krzy%c5%bcowa) | N/A |
+| 30 | [zaksa](http://twitter.com/search?q=zaksa) | N/A |
+| 31 | [Hieny](http://twitter.com/search?q=Hieny) | N/A |
+| 32 | [Witkowej](http://twitter.com/search?q=Witkowej) | N/A |
+| 33 | [bugaj](http://twitter.com/search?q=bugaj) | N/A |
+| 34 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
+| 35 | [vuko](http://twitter.com/search?q=vuko) | N/A |
+| 36 | [Bartosiak](http://twitter.com/search?q=Bartosiak) | N/A |
+| 37 | [Oskar Szafarowicz](http://twitter.com/search?q=Oskar+Szafarowicz) | N/A |
+| 38 | [murem](http://twitter.com/search?q=murem) | N/A |
+| 39 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
 | 40 | [T-64](http://twitter.com/search?q=T-64) | N/A |
 | 41 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
 | 42 | [Koloseum](http://twitter.com/search?q=Koloseum) | N/A |
 | 43 | [potrafisz polsko](http://twitter.com/search?q=potrafisz+polsko) | N/A |
 | 44 | [MSWiA](http://twitter.com/search?q=MSWiA) | N/A |
-| 45 | [Męki Pańskiej](http://twitter.com/search?q=M%c4%99ki+Pa%c5%84skiej) | N/A |
+| 45 | [męki pańskiej](http://twitter.com/search?q=m%c4%99ki+pa%c5%84skiej) | N/A |
 | 46 | [Macrona](http://twitter.com/search?q=Macrona) | N/A |
 | 47 | [politechniki łódzkiej](http://twitter.com/search?q=politechniki+%c5%82%c3%b3dzkiej) | N/A |
 | 48 | [Jemenu](http://twitter.com/search?q=Jemenu) | N/A |

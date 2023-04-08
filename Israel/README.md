@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-04-08 01:42:59 UTC`
+📆 Last Updated: `2023-04-08 02:27:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,19 +39,19 @@ This is top 50 for Israel
 | 22 | [פיגוע ירי](http://twitter.com/search?q=%d7%a4%d7%99%d7%92%d7%95%d7%a2+%d7%99%d7%a8%d7%99) | N/A |
 | 23 | [הרצפה עקומה](http://twitter.com/search?q=%d7%94%d7%a8%d7%a6%d7%a4%d7%94+%d7%a2%d7%a7%d7%95%d7%9e%d7%94) | N/A |
 | 24 | [West Bank](http://twitter.com/search?q=West+Bank) | N/A |
-| 25 | [של חיזבאללה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%99%d7%96%d7%91%d7%90%d7%9c%d7%9c%d7%94) | N/A |
-| 26 | [ביטחון המדינה](http://twitter.com/search?q=%d7%91%d7%99%d7%98%d7%97%d7%95%d7%9f+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
-| 27 | [מי אשם](http://twitter.com/search?q=%d7%9e%d7%99+%d7%90%d7%a9%d7%9d) | N/A |
-| 28 | [מיליארד שקל](http://twitter.com/search?q=%d7%9e%d7%99%d7%9c%d7%99%d7%90%d7%a8%d7%93+%d7%a9%d7%a7%d7%9c) | N/A |
-| 29 | [בנט לפיד](http://twitter.com/search?q=%d7%91%d7%a0%d7%98+%d7%9c%d7%a4%d7%99%d7%93) | N/A |
-| 30 | [תל אביבים](http://twitter.com/search?q=%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91%d7%99%d7%9d) | N/A |
-| 31 | [יום שישי](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
-| 32 | [שרת הסברה](http://twitter.com/search?q=%d7%a9%d7%a8%d7%aa+%d7%94%d7%a1%d7%91%d7%a8%d7%94) | N/A |
-| 33 | [לפיד אשם](http://twitter.com/search?q=%d7%9c%d7%a4%d7%99%d7%93+%d7%90%d7%a9%d7%9d) | N/A |
-| 34 | [חשבון עם](http://twitter.com/search?q=%d7%97%d7%a9%d7%91%d7%95%d7%9f+%d7%a2%d7%9d) | N/A |
-| 35 | [עם נשק](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a0%d7%a9%d7%a7) | N/A |
-| 36 | [Jordan Valley](http://twitter.com/search?q=Jordan+Valley) | N/A |
-| 37 | [נגד הטרור](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%94%d7%98%d7%a8%d7%95%d7%a8) | N/A |
+| 25 | [ביטחון המדינה](http://twitter.com/search?q=%d7%91%d7%99%d7%98%d7%97%d7%95%d7%9f+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
+| 26 | [מיליארד שקל](http://twitter.com/search?q=%d7%9e%d7%99%d7%9c%d7%99%d7%90%d7%a8%d7%93+%d7%a9%d7%a7%d7%9c) | N/A |
+| 27 | [בנט לפיד](http://twitter.com/search?q=%d7%91%d7%a0%d7%98+%d7%9c%d7%a4%d7%99%d7%93) | N/A |
+| 28 | [תל אביבים](http://twitter.com/search?q=%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91%d7%99%d7%9d) | N/A |
+| 29 | [יום שישי](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
+| 30 | [שרת הסברה](http://twitter.com/search?q=%d7%a9%d7%a8%d7%aa+%d7%94%d7%a1%d7%91%d7%a8%d7%94) | N/A |
+| 31 | [מי אשם](http://twitter.com/search?q=%d7%9e%d7%99+%d7%90%d7%a9%d7%9d) | N/A |
+| 32 | [לפיד אשם](http://twitter.com/search?q=%d7%9c%d7%a4%d7%99%d7%93+%d7%90%d7%a9%d7%9d) | N/A |
+| 33 | [חשבון עם](http://twitter.com/search?q=%d7%97%d7%a9%d7%91%d7%95%d7%9f+%d7%a2%d7%9d) | N/A |
+| 34 | [עם נשק](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a0%d7%a9%d7%a7) | N/A |
+| 35 | [Jordan Valley](http://twitter.com/search?q=Jordan+Valley) | N/A |
+| 36 | [נגד הטרור](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%94%d7%98%d7%a8%d7%95%d7%a8) | N/A |
+| 37 | [עם חיזבאללה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%97%d7%99%d7%96%d7%91%d7%90%d7%9c%d7%9c%d7%94) | N/A |
 | 38 | [אח שלך](http://twitter.com/search?q=%d7%90%d7%97+%d7%a9%d7%9c%d7%9a) | N/A |
 | 39 | [ראש ממשלה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
 | 40 | [בן כספית](http://twitter.com/search?q=%d7%91%d7%9f+%d7%9b%d7%a1%d7%a4%d7%99%d7%aa) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Israel
 | 47 | [צבע אדום](http://twitter.com/search?q=%d7%a6%d7%91%d7%a2+%d7%90%d7%93%d7%95%d7%9d) | N/A |
 | 48 | [גל הטרור](http://twitter.com/search?q=%d7%92%d7%9c+%d7%94%d7%98%d7%a8%d7%95%d7%a8) | N/A |
 | 49 | [מאגר גז](http://twitter.com/search?q=%d7%9e%d7%90%d7%92%d7%a8+%d7%92%d7%96) | N/A |
-| 50 | [ערבי ישראלי](http://twitter.com/search?q=%d7%a2%d7%a8%d7%91%d7%99+%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%99) | N/A |
+| 50 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-08 01:42:26 UTC`
+📆 Last Updated: `2023-04-08 02:26:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,10 +17,10 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [Stau](http://twitter.com/search?q=Stau) | N/A |
 | 2 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 3 | [Gotthard](http://twitter.com/search?q=Gotthard) | N/A |
-| 4 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 5 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
-| 6 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 3 | [gotthard](http://twitter.com/search?q=gotthard) | N/A |
+| 4 | [#HealthForAll](http://twitter.com/search?q=%23HealthForAll) | N/A |
+| 5 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 6 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
 | 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 8 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
 | 9 | [#WHO75](http://twitter.com/search?q=%23WHO75) | N/A |
@@ -40,28 +40,28 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 23 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 24 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
 | 25 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 26 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
+| 26 | [süden](http://twitter.com/search?q=s%c3%bcden) | N/A |
 | 27 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
 | 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 29 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
-| 30 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
-| 31 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
-| 32 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 33 | [renovate](http://twitter.com/search?q=renovate) | N/A |
-| 34 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
-| 35 | [granit](http://twitter.com/search?q=granit) | N/A |
-| 36 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 37 | [Oliven](http://twitter.com/search?q=Oliven) | N/A |
-| 38 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 39 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
+| 30 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
+| 31 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
+| 32 | [renovate](http://twitter.com/search?q=renovate) | N/A |
+| 33 | [Autobahn](http://twitter.com/search?q=Autobahn) | N/A |
+| 34 | [granit](http://twitter.com/search?q=granit) | N/A |
+| 35 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 36 | [Oliven](http://twitter.com/search?q=Oliven) | N/A |
+| 37 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 38 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
+| 39 | [Substack](http://twitter.com/search?q=Substack) | N/A |
 | 40 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
 | 41 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
 | 42 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
 | 43 | [Statistik](http://twitter.com/search?q=Statistik) | N/A |
 | 44 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 45 | [Generation](http://twitter.com/search?q=Generation) | N/A |
-| 46 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 47 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 45 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 46 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 47 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
 
 
 

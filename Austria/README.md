@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-08 01:42:57 UTC`
+📆 Last Updated: `2023-04-08 02:27:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for Austria
 | 5 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
 | 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 7 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | N/A |
-| 8 | [#LigaZwa](http://twitter.com/search?q=%23LigaZwa) | N/A |
+| 8 | [#ligazwa](http://twitter.com/search?q=%23ligazwa) | N/A |
 | 9 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
 | 10 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
 | 11 | [#stuask](http://twitter.com/search?q=%23stuask) | N/A |
@@ -42,29 +42,29 @@ This is top 50 for Austria
 | 25 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
 | 26 | [Lügen](http://twitter.com/search?q=L%c3%bcgen) | N/A |
 | 27 | [Industrie](http://twitter.com/search?q=Industrie) | N/A |
-| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 29 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 30 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
-| 31 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
-| 32 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
-| 33 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 34 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
-| 35 | [Pause](http://twitter.com/search?q=Pause) | N/A |
-| 36 | [Familien](http://twitter.com/search?q=Familien) | N/A |
-| 37 | [Klappe](http://twitter.com/search?q=Klappe) | N/A |
-| 38 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 39 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 40 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 41 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
-| 42 | [Haut](http://twitter.com/search?q=Haut) | N/A |
-| 43 | [presseförderung](http://twitter.com/search?q=pressef%c3%b6rderung) | N/A |
-| 44 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
-| 45 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 46 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 47 | [Kreisky](http://twitter.com/search?q=Kreisky) | N/A |
-| 48 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
-| 49 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 50 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
+| 28 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 29 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
+| 30 | [Hände](http://twitter.com/search?q=H%c3%a4nde) | N/A |
+| 31 | [Aufgabe](http://twitter.com/search?q=Aufgabe) | N/A |
+| 32 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 33 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
+| 34 | [Pause](http://twitter.com/search?q=Pause) | N/A |
+| 35 | [Familien](http://twitter.com/search?q=Familien) | N/A |
+| 36 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 37 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 38 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 39 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
+| 40 | [Haut](http://twitter.com/search?q=Haut) | N/A |
+| 41 | [presseförderung](http://twitter.com/search?q=pressef%c3%b6rderung) | N/A |
+| 42 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
+| 43 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 44 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 45 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 46 | [kreisky](http://twitter.com/search?q=kreisky) | N/A |
+| 47 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
+| 48 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 49 | [Strafen](http://twitter.com/search?q=Strafen) | N/A |
+| 50 | [Einstellung](http://twitter.com/search?q=Einstellung) | N/A |
 
 
 

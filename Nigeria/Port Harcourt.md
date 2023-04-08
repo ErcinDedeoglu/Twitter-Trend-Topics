@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-04-08 01:42:37 UTC`
+📆 Last Updated: `2023-04-08 02:27:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 4 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 5 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
 | 6 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 7 | [#TheFaceOfGod](http://twitter.com/search?q=%23TheFaceOfGod) | N/A |
-| 8 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 9 | [#ActivityFest](http://twitter.com/search?q=%23ActivityFest) | N/A |
-| 10 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 11 | [Datti](http://twitter.com/search?q=Datti) | N/A |
+| 7 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
+| 8 | [#ActivityFest](http://twitter.com/search?q=%23ActivityFest) | N/A |
+| 9 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 10 | [Datti](http://twitter.com/search?q=Datti) | N/A |
+| 11 | [#TheFaceOfGod](http://twitter.com/search?q=%23TheFaceOfGod) | N/A |
 | 12 | [Toyin Abraham](http://twitter.com/search?q=Toyin+Abraham) | N/A |
-| 13 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
-| 14 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 13 | [#WorldHealthDay](http://twitter.com/search?q=%23WorldHealthDay) | N/A |
+| 14 | [Obidients](http://twitter.com/search?q=Obidients) | N/A |
 | 15 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
 | 16 | [#m3lonep](http://twitter.com/search?q=%23m3lonep) | N/A |
 | 17 | [Julius Abure](http://twitter.com/search?q=Julius+Abure) | N/A |
 | 18 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 19 | [Tobi Bakre](http://twitter.com/search?q=Tobi+Bakre) | N/A |
-| 20 | [Bernard](http://twitter.com/search?q=Bernard) | N/A |
-| 21 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 22 | [North](http://twitter.com/search?q=North) | N/A |
-| 23 | [Robben](http://twitter.com/search?q=Robben) | N/A |
+| 19 | [Brother Bernard](http://twitter.com/search?q=Brother+Bernard) | N/A |
+| 20 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 21 | [Tobi Bakre](http://twitter.com/search?q=Tobi+Bakre) | N/A |
+| 22 | [Robben](http://twitter.com/search?q=Robben) | N/A |
+| 23 | [North](http://twitter.com/search?q=North) | N/A |
 | 24 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 25 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 26 | [Lamidi Apapa](http://twitter.com/search?q=Lamidi+Apapa) | N/A |
-| 27 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
-| 28 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 29 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 30 | [Dele Alake](http://twitter.com/search?q=Dele+Alake) | N/A |
-| 31 | [PROJECT 24 CHALLENGE](http://twitter.com/search?q=PROJECT+24+CHALLENGE) | N/A |
-| 32 | [disturbing u](http://twitter.com/search?q=disturbing+u) | N/A |
-| 33 | [Chioma Chukwuka](http://twitter.com/search?q=Chioma+Chukwuka) | N/A |
-| 34 | [I HAVE MY EVIDENCE](http://twitter.com/search?q=I+HAVE+MY+EVIDENCE) | "I HAVE MY EVIDENCE" is a phrase used to indicate that one has the proof or facts needed to support a claim or argument. It implies that the speaker is confident in their position and has the necessary evidence to back it up. |
-| 35 | [Jesus Christ](http://twitter.com/search?q=Jesus+Christ) | N/A |
-| 36 | [Debate](http://twitter.com/search?q=Debate) | N/A |
-| 37 | [Kazeem](http://twitter.com/search?q=Kazeem) | N/A |
+| 25 | [Lamidi Apapa](http://twitter.com/search?q=Lamidi+Apapa) | N/A |
+| 26 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 27 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 28 | [Hausa](http://twitter.com/search?q=Hausa) | N/A |
+| 29 | [Dele Alake](http://twitter.com/search?q=Dele+Alake) | N/A |
+| 30 | [PROJECT 24 CHALLENGE](http://twitter.com/search?q=PROJECT+24+CHALLENGE) | N/A |
+| 31 | [disturbing u](http://twitter.com/search?q=disturbing+u) | N/A |
+| 32 | [I HAVE MY EVIDENCE](http://twitter.com/search?q=I+HAVE+MY+EVIDENCE) | "I HAVE MY EVIDENCE" is a phrase used to indicate that one has the proof or facts needed to support a claim or argument. It implies that the speaker is confident in their position and has the necessary evidence to back it up. |
+| 33 | [Debate](http://twitter.com/search?q=Debate) | N/A |
+| 34 | [Jesus Christ](http://twitter.com/search?q=Jesus+Christ) | N/A |
+| 35 | [Kazeem](http://twitter.com/search?q=Kazeem) | N/A |
+| 36 | [Chioma Chukwuka](http://twitter.com/search?q=Chioma+Chukwuka) | N/A |
+| 37 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
 | 38 | [YVONNE THE BRAND](http://twitter.com/search?q=YVONNE+THE+BRAND) | N/A |
-| 39 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
+| 39 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
 | 40 | [Judas](http://twitter.com/search?q=Judas) | N/A |
 | 41 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
-| 42 | [Ruffy](http://twitter.com/search?q=Ruffy) | N/A |
-| 43 | [AC Milan](http://twitter.com/search?q=AC+Milan) | AC Milan is a professional Italian football club based in Milan, Italy. The club is one of the most successful teams in the world, having won 18 FIFA and UEFA titles. The acronym AC stands for Associazione Calcio (Italian for Football Association). |
-| 44 | [congratulations mayor](http://twitter.com/search?q=congratulations+mayor) | N/A |
-| 45 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 46 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
-| 47 | [MEDIA ROUNDS WITH KANAGA](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+KANAGA) | N/A |
-| 48 | [Tomi Arayomi](http://twitter.com/search?q=Tomi+Arayomi) | N/A |
+| 42 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
+| 43 | [congratulations mayor](http://twitter.com/search?q=congratulations+mayor) | N/A |
+| 44 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 45 | [MEDIA ROUNDS WITH KANAGA](http://twitter.com/search?q=MEDIA+ROUNDS+WITH+KANAGA) | N/A |
+| 46 | [US President](http://twitter.com/search?q=US+President) | N/A |
+| 47 | [Tomi Arayomi](http://twitter.com/search?q=Tomi+Arayomi) | N/A |
+| 48 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
 
 
 

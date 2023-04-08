@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-08 01:43:00 UTC`
+📆 Last Updated: `2023-04-08 02:27:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Latvia
 | ------- | ------------ | ------------ |
 | 1 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
 | 2 | [lieldienas](http://twitter.com/search?q=lieldienas) | N/A |
-| 3 | [Labrīt](http://twitter.com/search?q=Labr%c4%abt) | N/A |
+| 3 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
 | 4 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 | 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 6 | [domāju](http://twitter.com/search?q=dom%c4%81ju) | N/A |
@@ -35,7 +35,7 @@ This is top 50 for Latvia
 | 18 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
 | 19 | [#GINIAI](http://twitter.com/search?q=%23GINIAI) | N/A |
 | 20 | [toties](http://twitter.com/search?q=toties) | N/A |
-| 21 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
+| 21 | [daudz](http://twitter.com/search?q=daudz) | N/A |
 | 22 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
 | 23 | [liepājas](http://twitter.com/search?q=liep%c4%81jas) | N/A |
 | 24 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for Latvia
 | 37 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 38 | [USSR](http://twitter.com/search?q=USSR) | N/A |
 | 39 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
-| 40 | [starp](http://twitter.com/search?q=starp) | N/A |
-| 41 | [igaunijas](http://twitter.com/search?q=igaunijas) | N/A |
-| 42 | [tvaika](http://twitter.com/search?q=tvaika) | N/A |
-| 43 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
-| 44 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
-| 45 | [iespējams](http://twitter.com/search?q=iesp%c4%93jams) | N/A |
-| 46 | [Vispār](http://twitter.com/search?q=Visp%c4%81r) | N/A |
-| 47 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 48 | [kamēr](http://twitter.com/search?q=kam%c4%93r) | N/A |
-| 49 | [sarkandaugavas](http://twitter.com/search?q=sarkandaugavas) | N/A |
-| 50 | [nekas](http://twitter.com/search?q=nekas) | N/A |
+| 40 | [igaunijas](http://twitter.com/search?q=igaunijas) | N/A |
+| 41 | [tvaika](http://twitter.com/search?q=tvaika) | N/A |
+| 42 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
+| 43 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
+| 44 | [iespējams](http://twitter.com/search?q=iesp%c4%93jams) | N/A |
+| 45 | [Vispār](http://twitter.com/search?q=Visp%c4%81r) | N/A |
+| 46 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
+| 47 | [kamēr](http://twitter.com/search?q=kam%c4%93r) | N/A |
+| 48 | [sarkandaugavas](http://twitter.com/search?q=sarkandaugavas) | N/A |
+| 49 | [nekas](http://twitter.com/search?q=nekas) | N/A |
+| 50 | [šķiet](http://twitter.com/search?q=%c5%a1%c4%b7iet) | N/A |
 
 
 

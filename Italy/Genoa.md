@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-04-08 01:42:24 UTC`
+📆 Last Updated: `2023-04-08 02:26:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,20 +21,20 @@ This is top 50 for [Italy](</Italy>)
 | 4 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
 | 5 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
 | 6 | [Candreva](http://twitter.com/search?q=Candreva) | N/A |
-| 7 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 7 | [Venerdì Santo](http://twitter.com/search?q=Venerd%c3%ac+Santo) | N/A |
 | 8 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
 | 9 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
-| 10 | [Alessandro Parini](http://twitter.com/search?q=Alessandro+Parini) | N/A |
-| 11 | [Gagliardini](http://twitter.com/search?q=Gagliardini) | Gagliardini is an Italian surname. It is derived from the word "gagliardo," which means brave or valiant. In English, it can be translated to mean "valiant one." |
-| 12 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 13 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 14 | [Pobega](http://twitter.com/search?q=Pobega) | N/A |
+| 10 | [Gagliardini](http://twitter.com/search?q=Gagliardini) | Gagliardini is an Italian surname. It is derived from the word "gagliardo," which means brave or valiant. In English, it can be translated to mean "valiant one." |
+| 11 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 12 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 13 | [Pobega](http://twitter.com/search?q=Pobega) | N/A |
+| 14 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
 | 15 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 16 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 17 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 18 | [Ave Maria](http://twitter.com/search?q=Ave+Maria) | N/A |
-| 19 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 20 | [Raimondo](http://twitter.com/search?q=Raimondo) | Raimondo is an Italian given name derived from the Germanic name Raginmund, which means "wise protector". It is also a surname. |
+| 16 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 17 | [Ave Maria](http://twitter.com/search?q=Ave+Maria) | N/A |
+| 18 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 19 | [Raimondo](http://twitter.com/search?q=Raimondo) | Raimondo is an Italian given name derived from the Germanic name Raginmund, which means "wise protector". It is also a surname. |
+| 20 | [Alessandro Parini](http://twitter.com/search?q=Alessandro+Parini) | N/A |
 | 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 22 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
 | 23 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
@@ -42,27 +42,27 @@ This is top 50 for [Italy](</Italy>)
 | 25 | [Amedeo](http://twitter.com/search?q=Amedeo) | N/A |
 | 26 | [buongiorno ale](http://twitter.com/search?q=buongiorno+ale) | N/A |
 | 27 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 28 | [buongiorno marco](http://twitter.com/search?q=buongiorno+marco) | N/A |
-| 29 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 30 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 31 | [Di Natale](http://twitter.com/search?q=Di+Natale) | N/A |
-| 32 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
-| 33 | [Pasquetta](http://twitter.com/search?q=Pasquetta) | N/A |
-| 34 | [benedetta](http://twitter.com/search?q=benedetta) | N/A |
-| 35 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
-| 36 | [Gesù](http://twitter.com/search?q=Ges%c3%b9) | N/A |
-| 37 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
-| 38 | [Valeri](http://twitter.com/search?q=Valeri) | N/A |
-| 39 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 40 | [Corano](http://twitter.com/search?q=Corano) | N/A |
-| 41 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 42 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 43 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
-| 44 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
-| 45 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
-| 46 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 47 | [Fiocco](http://twitter.com/search?q=Fiocco) | N/A |
-| 48 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 28 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 29 | [buongiorno marco](http://twitter.com/search?q=buongiorno+marco) | N/A |
+| 30 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 31 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 32 | [Di Natale](http://twitter.com/search?q=Di+Natale) | N/A |
+| 33 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
+| 34 | [Pasquetta](http://twitter.com/search?q=Pasquetta) | N/A |
+| 35 | [benedetta](http://twitter.com/search?q=benedetta) | N/A |
+| 36 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
+| 37 | [Gesù](http://twitter.com/search?q=Ges%c3%b9) | N/A |
+| 38 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 39 | [Corano](http://twitter.com/search?q=Corano) | N/A |
+| 40 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 41 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 42 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 43 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
+| 44 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
+| 45 | [san raffaele](http://twitter.com/search?q=san+raffaele) | N/A |
+| 46 | [Fiocco](http://twitter.com/search?q=Fiocco) | N/A |
+| 47 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 48 | [Miccoli](http://twitter.com/search?q=Miccoli) | N/A |
 
 
 

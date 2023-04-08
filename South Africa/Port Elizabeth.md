@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-04-08 01:42:38 UTC`
+📆 Last Updated: `2023-04-08 02:27:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,21 +21,21 @@ This is top 50 for [South Africa](</South Africa>)
 | 4 | [#URChannelO](http://twitter.com/search?q=%23URChannelO) | N/A |
 | 5 | [#ThembaMyInkedWorld](http://twitter.com/search?q=%23ThembaMyInkedWorld) | N/A |
 | 6 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 7 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 8 | [Lamola](http://twitter.com/search?q=Lamola) | N/A |
-| 9 | [KHOSI GOES INTERNATIONAL](http://twitter.com/search?q=KHOSI+GOES+INTERNATIONAL) | N/A |
-| 10 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 11 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 12 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 7 | [Lamola](http://twitter.com/search?q=Lamola) | N/A |
+| 8 | [KHOSI GOES INTERNATIONAL](http://twitter.com/search?q=KHOSI+GOES+INTERNATIONAL) | N/A |
+| 9 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 10 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 11 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 12 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
 | 13 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 14 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 15 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 14 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 15 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
 | 16 | [Lyle Foster](http://twitter.com/search?q=Lyle+Foster) | Lyle Foster is a name of English origin. It is derived from the Old English words "līg" meaning "meadow" and "fōstor" meaning "nurturer". The name can be interpreted to mean someone who nurtures or cares for a meadow. |
 | 17 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 18 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 19 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 20 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
-| 21 | [BANKABLE TSATSII](http://twitter.com/search?q=BANKABLE+TSATSII) | N/A |
+| 18 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 19 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 20 | [bankable tsatsii](http://twitter.com/search?q=bankable+tsatsii) | N/A |
+| 21 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
 | 22 | [TSATSII WENDY MADIBA](http://twitter.com/search?q=TSATSII+WENDY+MADIBA) | N/A |
 | 23 | [THABANG GOFUNDME FRIDAY](http://twitter.com/search?q=THABANG+GOFUNDME+FRIDAY) | N/A |
 | 24 | [Vanuatu](http://twitter.com/search?q=Vanuatu) | N/A |
@@ -48,22 +48,22 @@ This is top 50 for [South Africa](</South Africa>)
 | 31 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
 | 32 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
 | 33 | [Mr Smeg](http://twitter.com/search?q=Mr+Smeg) | N/A |
-| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 35 | [Vincent Kompany](http://twitter.com/search?q=Vincent+Kompany) | N/A |
-| 36 | [Bushiri](http://twitter.com/search?q=Bushiri) | N/A |
-| 37 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 38 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 39 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 40 | [Musa](http://twitter.com/search?q=Musa) | N/A |
-| 41 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 42 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 43 | [Shakes](http://twitter.com/search?q=Shakes) | N/A |
-| 44 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 45 | [cape town spurs](http://twitter.com/search?q=cape+town+spurs) | N/A |
-| 46 | [lady du](http://twitter.com/search?q=lady+du) | N/A |
-| 47 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
-| 48 | [state capture](http://twitter.com/search?q=state+capture) | N/A |
-| 49 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 34 | [Bushiri](http://twitter.com/search?q=Bushiri) | N/A |
+| 35 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 36 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 37 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 38 | [Musa](http://twitter.com/search?q=Musa) | N/A |
+| 39 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
+| 40 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 41 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 42 | [Shakes](http://twitter.com/search?q=Shakes) | N/A |
+| 43 | [cape town spurs](http://twitter.com/search?q=cape+town+spurs) | N/A |
+| 44 | [lady du](http://twitter.com/search?q=lady+du) | N/A |
+| 45 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
+| 46 | [state capture](http://twitter.com/search?q=state+capture) | N/A |
+| 47 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 48 | [ts galaxy](http://twitter.com/search?q=ts+galaxy) | N/A |
+| 49 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
 
 
 

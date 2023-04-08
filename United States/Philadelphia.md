@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-04-08 01:42:53 UTC`
+📆 Last Updated: `2023-04-08 02:27:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 1 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
 | 2 | [#RaiseIt](http://twitter.com/search?q=%23RaiseIt) | N/A |
-| 3 | [Connor Joe](http://twitter.com/search?q=Connor+Joe) | N/A |
-| 4 | [Cutch](http://twitter.com/search?q=Cutch) | Cutch is a slang term for cocaine. It is derived from the word "cocaine" and is often used to refer to the drug in a casual or informal setting. |
-| 5 | [Pirates](http://twitter.com/search?q=Pirates) | Pirates are people who attack and steal from ships at sea. They are often seen as criminals who take what they want without regard for the law. The term "pirate" is derived from the Latin word "pirata," which means "one who plunders." |
-| 6 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 7 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
+| 3 | [#Sixers](http://twitter.com/search?q=%23Sixers) | N/A |
+| 4 | [Rich Hill](http://twitter.com/search?q=Rich+Hill) | N/A |
+| 5 | [#LetsGoBucs](http://twitter.com/search?q=%23LetsGoBucs) | N/A |
+| 6 | [#BrotherlyLove](http://twitter.com/search?q=%23BrotherlyLove) | N/A |
+| 7 | [Pirates](http://twitter.com/search?q=Pirates) | Pirates are people who attack and steal from ships at sea. They are often seen as criminals who take what they want without regard for the law. The term "pirate" is derived from the Latin word "pirata," which means "one who plunders." |
 | 8 | [PNC Park](http://twitter.com/search?q=PNC+Park) | N/A |
 | 9 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 10 | [Trea Turner](http://twitter.com/search?q=Trea+Turner) | N/A |
-| 11 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 12 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 13 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 14 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 15 | [#lifeafterlockup](http://twitter.com/search?q=%23lifeafterlockup) | N/A |
-| 16 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 17 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 18 | [WWE Draft](http://twitter.com/search?q=WWE+Draft) | N/A |
-| 19 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 20 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 21 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
-| 22 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
-| 23 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 24 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 25 | [Javale McGee](http://twitter.com/search?q=Javale+McGee) | N/A |
-| 26 | [Aris](http://twitter.com/search?q=Aris) | N/A |
-| 27 | [Dominik Mysterio](http://twitter.com/search?q=Dominik+Mysterio) | N/A |
-| 28 | [SHINSUKE](http://twitter.com/search?q=SHINSUKE) | N/A |
-| 29 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 30 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 31 | [Matthew Kacsmaryk](http://twitter.com/search?q=Matthew+Kacsmaryk) | N/A |
-| 32 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 33 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 34 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
-| 35 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 36 | [Shotzi](http://twitter.com/search?q=Shotzi) | N/A |
-| 37 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 38 | [Stanek](http://twitter.com/search?q=Stanek) | N/A |
-| 39 | [Brawling Brutes](http://twitter.com/search?q=Brawling+Brutes) | N/A |
-| 40 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
-| 41 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 42 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
-| 43 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 44 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 45 | [The FDA](http://twitter.com/search?q=The+FDA) | N/A |
-| 46 | [Boone](http://twitter.com/search?q=Boone) | N/A |
-| 47 | [Flaherty](http://twitter.com/search?q=Flaherty) | N/A |
-| 48 | [Bryan Reynolds](http://twitter.com/search?q=Bryan+Reynolds) | N/A |
-| 49 | [Maurice Greene](http://twitter.com/search?q=Maurice+Greene) | N/A |
-| 50 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 10 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
+| 11 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 12 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 13 | [Jaden Springer](http://twitter.com/search?q=Jaden+Springer) | N/A |
+| 14 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 15 | [Ozzie](http://twitter.com/search?q=Ozzie) | N/A |
+| 16 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 17 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 18 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 19 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 20 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
+| 21 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 22 | [WWE Draft](http://twitter.com/search?q=WWE+Draft) | N/A |
+| 23 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
+| 24 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
+| 25 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 26 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 27 | [Shuster](http://twitter.com/search?q=Shuster) | N/A |
+| 28 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 29 | [Shinsuke](http://twitter.com/search?q=Shinsuke) | N/A |
+| 30 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 31 | [Aris](http://twitter.com/search?q=Aris) | N/A |
+| 32 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
+| 33 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 34 | [Javale McGee](http://twitter.com/search?q=Javale+McGee) | N/A |
+| 35 | [Pritchard](http://twitter.com/search?q=Pritchard) | Pritchard is a surname of English origin. It is derived from the Old English personal name Prichard, which means "strong" or "brave". |
+| 36 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 37 | [Tayler](http://twitter.com/search?q=Tayler) | N/A |
+| 38 | [Dominik Mysterio](http://twitter.com/search?q=Dominik+Mysterio) | N/A |
+| 39 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 40 | [Matthew Kacsmaryk](http://twitter.com/search?q=Matthew+Kacsmaryk) | N/A |
+| 41 | [AJ Lawson](http://twitter.com/search?q=AJ+Lawson) | N/A |
+| 42 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 43 | [Shake Milton](http://twitter.com/search?q=Shake+Milton) | Shake Milton is a phrase used to describe someone who is a smooth talker or a charmer. It comes from the name of the English poet and playwright, William Shakespeare, who was known for his eloquent and persuasive language. The phrase implies that someone has the same level of charm and charisma as Shakespeare. |
+| 44 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 45 | [Hader](http://twitter.com/search?q=Hader) | N/A |
+| 46 | [Brawling Brutes](http://twitter.com/search?q=Brawling+Brutes) | N/A |
+| 47 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 48 | [Shotzi](http://twitter.com/search?q=Shotzi) | N/A |
+| 49 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 50 | [Irene](http://twitter.com/search?q=Irene) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-04-08 01:43:04 UTC`
+📆 Last Updated: `2023-04-08 02:27:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,21 +28,21 @@ This is top 50 for Ukraine
 | 11 | [#Oscars](http://twitter.com/search?q=%23Oscars) | N/A |
 | 12 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
 | 13 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 14 | [Donetsk](http://twitter.com/search?q=Donetsk) | N/A |
-| 15 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
-| 16 | [плачу](http://twitter.com/search?q=%d0%bf%d0%bb%d0%b0%d1%87%d1%83) | N/A |
-| 17 | [Арестович](http://twitter.com/search?q=%d0%90%d1%80%d0%b5%d1%81%d1%82%d0%be%d0%b2%d0%b8%d1%87) | N/A |
+| 14 | [Арестович](http://twitter.com/search?q=%d0%90%d1%80%d0%b5%d1%81%d1%82%d0%be%d0%b2%d0%b8%d1%87) | N/A |
+| 15 | [Donetsk](http://twitter.com/search?q=Donetsk) | N/A |
+| 16 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 17 | [плачу](http://twitter.com/search?q=%d0%bf%d0%bb%d0%b0%d1%87%d1%83) | N/A |
 | 18 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 19 | [Quest](http://twitter.com/search?q=Quest) | N/A |
 | 20 | [израиль](http://twitter.com/search?q=%d0%b8%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
 | 21 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 22 | [Норм](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc) | N/A |
-| 23 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 24 | [Юнги](http://twitter.com/search?q=%d0%ae%d0%bd%d0%b3%d0%b8) | N/A |
+| 23 | [юнги](http://twitter.com/search?q=%d1%8e%d0%bd%d0%b3%d0%b8) | N/A |
+| 24 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 25 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | N/A |
 | 26 | [сибирь](http://twitter.com/search?q=%d1%81%d0%b8%d0%b1%d0%b8%d1%80%d1%8c) | N/A |
 | 27 | [Москву](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%83) | N/A |
-| 28 | [Германию](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8e) | N/A |
+| 28 | [германию](http://twitter.com/search?q=%d0%b3%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8e) | N/A |
 | 29 | [Greek](http://twitter.com/search?q=Greek) | N/A |
 | 30 | [Богу](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d1%83) | N/A |
 | 31 | [Paris](http://twitter.com/search?q=Paris) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for Ukraine
 | 37 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
 | 38 | [Какое](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%be%d0%b5) | N/A |
 | 39 | [Гойда](http://twitter.com/search?q=%d0%93%d0%be%d0%b9%d0%b4%d0%b0) | N/A |
-| 40 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
-| 41 | [мариуполе](http://twitter.com/search?q=%d0%bc%d0%b0%d1%80%d0%b8%d1%83%d0%bf%d0%be%d0%bb%d0%b5) | N/A |
-| 42 | [єбать](http://twitter.com/search?q=%d1%94%d0%b1%d0%b0%d1%82%d1%8c) | N/A |
-| 43 | [Тупо](http://twitter.com/search?q=%d0%a2%d1%83%d0%bf%d0%be) | N/A |
-| 44 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 45 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
-| 46 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
-| 47 | [УПЦ МП](http://twitter.com/search?q=%d0%a3%d0%9f%d0%a6+%d0%9c%d0%9f) | N/A |
-| 48 | [слава украине](http://twitter.com/search?q=%d1%81%d0%bb%d0%b0%d0%b2%d0%b0+%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
-| 49 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 50 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 40 | [мариуполе](http://twitter.com/search?q=%d0%bc%d0%b0%d1%80%d0%b8%d1%83%d0%bf%d0%be%d0%bb%d0%b5) | N/A |
+| 41 | [єбать](http://twitter.com/search?q=%d1%94%d0%b1%d0%b0%d1%82%d1%8c) | N/A |
+| 42 | [Тупо](http://twitter.com/search?q=%d0%a2%d1%83%d0%bf%d0%be) | N/A |
+| 43 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 44 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
+| 45 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
+| 46 | [УПЦ МП](http://twitter.com/search?q=%d0%a3%d0%9f%d0%a6+%d0%9c%d0%9f) | N/A |
+| 47 | [слава украине](http://twitter.com/search?q=%d1%81%d0%bb%d0%b0%d0%b2%d0%b0+%d1%83%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 48 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 49 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 50 | [кацапы](http://twitter.com/search?q=%d0%ba%d0%b0%d1%86%d0%b0%d0%bf%d1%8b) | N/A |
 
 
 
