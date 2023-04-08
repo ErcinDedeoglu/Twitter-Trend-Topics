@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-04-08 09:17:48 UTC`
+📆 Last Updated: `2023-04-08 10:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
-| 2 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
-| 3 | [#NIJIPuyoTetris2023](http://twitter.com/search?q=%23NIJIPuyoTetris2023) | N/A |
-| 4 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 5 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 6 | [#Wordle658](http://twitter.com/search?q=%23Wordle658) | N/A |
-| 7 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
-| 8 | [University of Oklahoma](http://twitter.com/search?q=University+of+Oklahoma) | N/A |
-| 9 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
+| 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 2 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
+| 3 | [#njpw](http://twitter.com/search?q=%23njpw) | #NJPW stands for New Japan Pro Wrestling, which is a Japanese professional wrestling promotion. It is one of the largest and most popular wrestling promotions in the world. |
+| 4 | [Hazuki](http://twitter.com/search?q=Hazuki) | N/A |
+| 5 | [Mayu](http://twitter.com/search?q=Mayu) | N/A |
+| 6 | [#NIJIPuyoTetris2023](http://twitter.com/search?q=%23NIJIPuyoTetris2023) | N/A |
+| 7 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 8 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 9 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
 | 10 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 11 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 12 | [Herget](http://twitter.com/search?q=Herget) | N/A |
-| 13 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 14 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 15 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 16 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 17 | [Girly Teengirl](http://twitter.com/search?q=Girly+Teengirl) | N/A |
-| 18 | [Swatting](http://twitter.com/search?q=Swatting) | N/A |
-| 19 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 20 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 21 | [Ivermectin](http://twitter.com/search?q=Ivermectin) | N/A |
-| 22 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 23 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 24 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
-| 25 | [kershaw](http://twitter.com/search?q=kershaw) | N/A |
-| 26 | [Julia Hart](http://twitter.com/search?q=Julia+Hart) | N/A |
-| 27 | [The Mario](http://twitter.com/search?q=The+Mario) | N/A |
-| 28 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 29 | [nicholas braun](http://twitter.com/search?q=nicholas+braun) | N/A |
-| 30 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 31 | [Bron and AD](http://twitter.com/search?q=Bron+and+AD) | N/A |
-| 32 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
-| 33 | [isle of palms](http://twitter.com/search?q=isle+of+palms) | N/A |
-| 34 | [DBZA](http://twitter.com/search?q=DBZA) | N/A |
-| 35 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
-| 36 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
-| 37 | [AK-47](http://twitter.com/search?q=AK-47) | N/A |
-| 38 | [Billie Starkz](http://twitter.com/search?q=Billie+Starkz) | N/A |
-| 39 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
-| 40 | [Kyrie Irving](http://twitter.com/search?q=Kyrie+Irving) | N/A |
-| 41 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 42 | [Swerve](http://twitter.com/search?q=Swerve) | Swerve is a slang term that means to suddenly change direction or to avoid something. It can also be used to describe a sudden change in attitude or behavior. |
-| 43 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
-| 44 | [The Shining](http://twitter.com/search?q=The+Shining) | N/A |
-| 45 | [Terminator 2](http://twitter.com/search?q=Terminator+2) | N/A |
-| 46 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 47 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
-| 48 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 11 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
+| 12 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 13 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 14 | [university of oklahoma](http://twitter.com/search?q=university+of+oklahoma) | N/A |
+| 15 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
+| 16 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 17 | [Ivermectin](http://twitter.com/search?q=Ivermectin) | N/A |
+| 18 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
+| 19 | [Girly Teengirl](http://twitter.com/search?q=Girly+Teengirl) | N/A |
+| 20 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 21 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 22 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 23 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 24 | [Swatting](http://twitter.com/search?q=Swatting) | N/A |
+| 25 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 26 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 27 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 28 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 29 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
+| 30 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
+| 31 | [The Mario](http://twitter.com/search?q=The+Mario) | N/A |
+| 32 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 33 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 34 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
+| 35 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
+| 36 | [The Shining](http://twitter.com/search?q=The+Shining) | N/A |
+| 37 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 38 | [DBZA](http://twitter.com/search?q=DBZA) | N/A |
+| 39 | [bron and ad](http://twitter.com/search?q=bron+and+ad) | N/A |
+| 40 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
+| 41 | [AK-47](http://twitter.com/search?q=AK-47) | N/A |
+| 42 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 43 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
+| 44 | [Coby](http://twitter.com/search?q=Coby) | N/A |
+| 45 | [#Wordle658](http://twitter.com/search?q=%23Wordle658) | N/A |
+| 46 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
+| 47 | [#vtubervsirl](http://twitter.com/search?q=%23vtubervsirl) | N/A |
+| 48 | [#activeshooter](http://twitter.com/search?q=%23activeshooter) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-04-08 09:17:06 UTC`
+📆 Last Updated: `2023-04-08 10:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,45 +18,50 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
 | 2 | [Easter Saturday](http://twitter.com/search?q=Easter+Saturday) | N/A |
 | 3 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
-| 4 | [#ASongOrMovieForSlow](http://twitter.com/search?q=%23ASongOrMovieForSlow) | N/A |
-| 5 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
-| 6 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 8 | [Next Concert](http://twitter.com/search?q=Next+Concert) | N/A |
-| 9 | [Worst Concert](http://twitter.com/search?q=Worst+Concert) | N/A |
-| 10 | [Most Surprising](http://twitter.com/search?q=Most+Surprising) | N/A |
-| 11 | [The Osmonds](http://twitter.com/search?q=The+Osmonds) | N/A |
-| 12 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
-| 13 | [Margaret Thatcher](http://twitter.com/search?q=Margaret+Thatcher) | N/A |
-| 14 | [The Bodyguard](http://twitter.com/search?q=The+Bodyguard) | N/A |
-| 15 | [Old Firm](http://twitter.com/search?q=Old+Firm) | N/A |
-| 16 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 17 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 18 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
+| 4 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 5 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 6 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 7 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 8 | [The Osmonds](http://twitter.com/search?q=The+Osmonds) | N/A |
+| 9 | [Margaret Thatcher](http://twitter.com/search?q=Margaret+Thatcher) | N/A |
+| 10 | [First Concert](http://twitter.com/search?q=First+Concert) | N/A |
+| 11 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
+| 12 | [Next Concert](http://twitter.com/search?q=Next+Concert) | N/A |
+| 13 | [Most Surprising](http://twitter.com/search?q=Most+Surprising) | N/A |
+| 14 | [Mick McCarthy](http://twitter.com/search?q=Mick+McCarthy) | N/A |
+| 15 | [The Bodyguard](http://twitter.com/search?q=The+Bodyguard) | N/A |
+| 16 | [Toney to Haaland](http://twitter.com/search?q=Toney+to+Haaland) | N/A |
+| 17 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
+| 18 | [Ding](http://twitter.com/search?q=Ding) | N/A |
 | 19 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 20 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 21 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 22 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 23 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 24 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 25 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
-| 26 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
-| 27 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 28 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
-| 29 | [#MUNEVE](http://twitter.com/search?q=%23MUNEVE) | #MUNEVE is a hashtag used to promote the Muneve app, which is an online platform that helps people find and book beauty services. The hashtag is used to share user experiences, tips, and advice related to beauty services. In English, #MUNEVE means "My Beauty Experience". |
-| 30 | [#ToriesOut275](http://twitter.com/search?q=%23ToriesOut275) | N/A |
-| 31 | [#CatsofTwittter](http://twitter.com/search?q=%23CatsofTwittter) | N/A |
-| 32 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 33 | [#Wordle658](http://twitter.com/search?q=%23Wordle658) | N/A |
-| 34 | [#TOTBHA](http://twitter.com/search?q=%23TOTBHA) | N/A |
-| 35 | [#COYBIG](http://twitter.com/search?q=%23COYBIG) | N/A |
-| 36 | [#GW30](http://twitter.com/search?q=%23GW30) | N/A |
-| 37 | [#CelticFC](http://twitter.com/search?q=%23CelticFC) | N/A |
-| 38 | [#chemtrails](http://twitter.com/search?q=%23chemtrails) | N/A |
-| 39 | [#EasterWeekend](http://twitter.com/search?q=%23EasterWeekend) | N/A |
-| 40 | [#GiftBetter](http://twitter.com/search?q=%23GiftBetter) | N/A |
-| 41 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 42 | [#Nike](http://twitter.com/search?q=%23Nike) | N/A |
+| 20 | [COYS](http://twitter.com/search?q=COYS) | N/A |
+| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 22 | [Easter Day](http://twitter.com/search?q=Easter+Day) | N/A |
+| 23 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 24 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
+| 25 | [Celtic Park](http://twitter.com/search?q=Celtic+Park) | N/A |
+| 26 | [Old Firm](http://twitter.com/search?q=Old+Firm) | N/A |
+| 27 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
+| 28 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
+| 29 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 30 | [Harry and Meghan](http://twitter.com/search?q=Harry+and+Meghan) | N/A |
+| 31 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 32 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
+| 33 | [#GW30](http://twitter.com/search?q=%23GW30) | N/A |
+| 34 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
+| 35 | [#MUNEVE](http://twitter.com/search?q=%23MUNEVE) | #MUNEVE is a hashtag used to promote the Muneve app, which is an online platform that helps people find and book beauty services. The hashtag is used to share user experiences, tips, and advice related to beauty services. In English, #MUNEVE means "My Beauty Experience". |
+| 36 | [#ASongOrMovieForSlow](http://twitter.com/search?q=%23ASongOrMovieForSlow) | N/A |
+| 37 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
+| 38 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 39 | [#SaturdayKitchen](http://twitter.com/search?q=%23SaturdayKitchen) | N/A |
+| 40 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
+| 41 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 42 | [#TOTBHA](http://twitter.com/search?q=%23TOTBHA) | N/A |
+| 43 | [#ToriesOut275](http://twitter.com/search?q=%23ToriesOut275) | N/A |
+| 44 | [#CatsofTwittter](http://twitter.com/search?q=%23CatsofTwittter) | N/A |
+| 45 | [#WOLCHE](http://twitter.com/search?q=%23WOLCHE) | N/A |
+| 46 | [#COYBIG](http://twitter.com/search?q=%23COYBIG) | N/A |
+| 47 | [#Wordle658](http://twitter.com/search?q=%23Wordle658) | N/A |
 
 
 

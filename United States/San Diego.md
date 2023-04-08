@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-04-08 09:17:50 UTC`
+📆 Last Updated: `2023-04-08 10:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 2 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 3 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 4 | [Moore](http://twitter.com/search?q=Moore) | N/A |
-| 5 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 3 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 4 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 5 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
 | 6 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 7 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 8 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 9 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
-| 10 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
-| 11 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 7 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 8 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
+| 9 | [#njpw](http://twitter.com/search?q=%23njpw) | #NJPW stands for New Japan Pro Wrestling, which is a Japanese professional wrestling promotion. It is one of the largest and most popular wrestling promotions in the world. |
+| 10 | [Hazuki](http://twitter.com/search?q=Hazuki) | N/A |
+| 11 | [Mayu](http://twitter.com/search?q=Mayu) | N/A |
 | 12 | [#NIJIPuyoTetris2023](http://twitter.com/search?q=%23NIJIPuyoTetris2023) | N/A |
-| 13 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 14 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 13 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 14 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
 | 15 | [#Wordle658](http://twitter.com/search?q=%23Wordle658) | N/A |
-| 16 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
-| 17 | [University of Oklahoma](http://twitter.com/search?q=University+of+Oklahoma) | N/A |
-| 18 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 19 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
-| 20 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 21 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 22 | [Herget](http://twitter.com/search?q=Herget) | N/A |
-| 23 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 24 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 25 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 26 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 27 | [Girly Teengirl](http://twitter.com/search?q=Girly+Teengirl) | N/A |
-| 28 | [Swatting](http://twitter.com/search?q=Swatting) | N/A |
-| 29 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 30 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 31 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 32 | [Ivermectin](http://twitter.com/search?q=Ivermectin) | N/A |
-| 33 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 34 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
-| 35 | [kershaw](http://twitter.com/search?q=kershaw) | N/A |
-| 36 | [Julia Hart](http://twitter.com/search?q=Julia+Hart) | N/A |
-| 37 | [The Mario](http://twitter.com/search?q=The+Mario) | N/A |
-| 38 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 39 | [nicholas braun](http://twitter.com/search?q=nicholas+braun) | N/A |
+| 16 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 17 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
+| 18 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
+| 19 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 20 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 21 | [university of oklahoma](http://twitter.com/search?q=university+of+oklahoma) | N/A |
+| 22 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
+| 23 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 24 | [Ivermectin](http://twitter.com/search?q=Ivermectin) | N/A |
+| 25 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
+| 26 | [Girly Teengirl](http://twitter.com/search?q=Girly+Teengirl) | N/A |
+| 27 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 28 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 29 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 30 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 31 | [Swatting](http://twitter.com/search?q=Swatting) | N/A |
+| 32 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 33 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 34 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 35 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 36 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
+| 37 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
+| 38 | [The Mario](http://twitter.com/search?q=The+Mario) | N/A |
+| 39 | [Irene](http://twitter.com/search?q=Irene) | N/A |
 | 40 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 41 | [Bron and AD](http://twitter.com/search?q=Bron+and+AD) | N/A |
+| 41 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
 | 42 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
-| 43 | [isle of palms](http://twitter.com/search?q=isle+of+palms) | N/A |
-| 44 | [DBZA](http://twitter.com/search?q=DBZA) | N/A |
-| 45 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
-| 46 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
-| 47 | [AK-47](http://twitter.com/search?q=AK-47) | N/A |
+| 43 | [The Shining](http://twitter.com/search?q=The+Shining) | N/A |
+| 44 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 45 | [DBZA](http://twitter.com/search?q=DBZA) | N/A |
+| 46 | [bron and ad](http://twitter.com/search?q=bron+and+ad) | N/A |
+| 47 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
 
 
 

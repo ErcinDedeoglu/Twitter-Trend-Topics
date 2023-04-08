@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-04-08 09:17:53 UTC`
+📆 Last Updated: `2023-04-08 10:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Colombia
 | 7 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 8 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
 | 9 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 10 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
-| 11 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
-| 14 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 15 | [#210añosmásbaqana](http://twitter.com/search?q=%23210a%c3%b1osm%c3%a1sbaqana) | N/A |
-| 16 | [#miciudadbaqana](http://twitter.com/search?q=%23miciudadbaqana) | N/A |
-| 17 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
-| 18 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 19 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
-| 20 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
-| 21 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 22 | [catalina usme](http://twitter.com/search?q=catalina+usme) | N/A |
-| 23 | [Sergio Higuita](http://twitter.com/search?q=Sergio+Higuita) | N/A |
-| 24 | [felices 210](http://twitter.com/search?q=felices+210) | N/A |
-| 25 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 26 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 27 | [abadía](http://twitter.com/search?q=abad%c3%ada) | N/A |
+| 10 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 11 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 12 | [#210añosmásbaqana](http://twitter.com/search?q=%23210a%c3%b1osm%c3%a1sbaqana) | N/A |
+| 13 | [#miciudadbaqana](http://twitter.com/search?q=%23miciudadbaqana) | N/A |
+| 14 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
+| 15 | [#People_Pt2](http://twitter.com/search?q=%23People_Pt2) | N/A |
+| 16 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 18 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
+| 19 | [Sergio Higuita](http://twitter.com/search?q=Sergio+Higuita) | N/A |
+| 20 | [catalina usme](http://twitter.com/search?q=catalina+usme) | N/A |
+| 21 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 22 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 23 | [felices 210](http://twitter.com/search?q=felices+210) | N/A |
+| 24 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 25 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 26 | [abadía](http://twitter.com/search?q=abad%c3%ada) | N/A |
+| 27 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
 | 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 29 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 29 | [Judas](http://twitter.com/search?q=Judas) | N/A |
 | 30 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
 | 31 | [bojacá](http://twitter.com/search?q=bojac%c3%a1) | N/A |
-| 32 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 33 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 34 | [Mazorca](http://twitter.com/search?q=Mazorca) | N/A |
-| 35 | [linda caicedo](http://twitter.com/search?q=linda+caicedo) | N/A |
-| 36 | [Dijon](http://twitter.com/search?q=Dijon) | N/A |
-| 37 | [cata usme](http://twitter.com/search?q=cata+usme) | N/A |
-| 38 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
-| 39 | [patarroyo](http://twitter.com/search?q=patarroyo) | N/A |
-| 40 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 41 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 42 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
-| 43 | [barú](http://twitter.com/search?q=bar%c3%ba) | N/A |
-| 44 | [Providencia](http://twitter.com/search?q=Providencia) | N/A |
-| 45 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 46 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 47 | [Potencia](http://twitter.com/search?q=Potencia) | N/A |
-| 48 | [JUCO](http://twitter.com/search?q=JUCO) | N/A |
-| 49 | [Bojanini](http://twitter.com/search?q=Bojanini) | N/A |
-| 50 | [mayra ramírez](http://twitter.com/search?q=mayra+ram%c3%adrez) | N/A |
+| 32 | [mazorca](http://twitter.com/search?q=mazorca) | N/A |
+| 33 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
+| 34 | [Dijon](http://twitter.com/search?q=Dijon) | N/A |
+| 35 | [Patarroyo](http://twitter.com/search?q=Patarroyo) | N/A |
+| 36 | [cata usme](http://twitter.com/search?q=cata+usme) | N/A |
+| 37 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
+| 38 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 39 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 40 | [JUCO](http://twitter.com/search?q=JUCO) | N/A |
+| 41 | [Pollo](http://twitter.com/search?q=Pollo) | N/A |
+| 42 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 43 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 44 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 45 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 46 | [Guzmán](http://twitter.com/search?q=Guzm%c3%a1n) | N/A |
+| 47 | [Gaitán](http://twitter.com/search?q=Gait%c3%a1n) | N/A |
+| 48 | [mayra ramírez](http://twitter.com/search?q=mayra+ram%c3%adrez) | N/A |
+| 49 | [alberto grisales](http://twitter.com/search?q=alberto+grisales) | N/A |
+| 50 | [Miguel Ángel](http://twitter.com/search?q=Miguel+%c3%81ngel) | N/A |
 
 
 

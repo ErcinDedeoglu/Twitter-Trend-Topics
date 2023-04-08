@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kajang
 
-📆 Last Updated: `2023-04-08 09:17:30 UTC`
+📆 Last Updated: `2023-04-08 10:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
 | 2 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 3 | [#EXOCLOCK_D1](http://twitter.com/search?q=%23EXOCLOCK_D1) | N/A |
-| 4 | [#THEDREAMSHOW2_in_KUALALUMPUR](http://twitter.com/search?q=%23THEDREAMSHOW2_in_KUALALUMPUR) | N/A |
-| 5 | [#마크가_말아주는_골든아워](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%ea%b0%80_%eb%a7%90%ec%95%84%ec%a3%bc%eb%8a%94_%ea%b3%a8%eb%93%a0%ec%95%84%ec%9b%8c) | N/A |
-| 6 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
-| 7 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 10 | [Pardons Board](http://twitter.com/search?q=Pardons+Board) | N/A |
-| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 12 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 13 | [Nuzul Al-Quran](http://twitter.com/search?q=Nuzul+Al-Quran) | N/A |
-| 14 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 15 | [jonghyun](http://twitter.com/search?q=jonghyun) | N/A |
-| 16 | [Youngji](http://twitter.com/search?q=Youngji) | N/A |
-| 17 | [World Health Day](http://twitter.com/search?q=World+Health+Day) | N/A |
-| 18 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 19 | [South China Sea](http://twitter.com/search?q=South+China+Sea) | N/A |
-| 20 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 3 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 4 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
+| 5 | [#THEDREAMSHOW2_in_KUALALUMPUR](http://twitter.com/search?q=%23THEDREAMSHOW2_in_KUALALUMPUR) | N/A |
+| 6 | [#EXOCLOCK_D1](http://twitter.com/search?q=%23EXOCLOCK_D1) | N/A |
+| 7 | [#TimeForEXO](http://twitter.com/search?q=%23TimeForEXO) | N/A |
+| 8 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
+| 11 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 12 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 13 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 14 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 15 | [Nuzul Al-Quran](http://twitter.com/search?q=Nuzul+Al-Quran) | N/A |
+| 16 | [Pardons Board](http://twitter.com/search?q=Pardons+Board) | N/A |
+| 17 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 18 | [Jonghyun](http://twitter.com/search?q=Jonghyun) | N/A |
+| 19 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
+| 20 | [somi](http://twitter.com/search?q=somi) | N/A |
 | 21 | [UMNO](http://twitter.com/search?q=UMNO) | N/A |
-| 22 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 23 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
-| 24 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 25 | [THE WORDS MALAYSIAN CZENNIES](http://twitter.com/search?q=THE+WORDS+MALAYSIAN+CZENNIES) | N/A |
-| 26 | [Najib](http://twitter.com/search?q=Najib) | N/A |
-| 27 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 28 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
-| 29 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 30 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 31 | [Ryeowook](http://twitter.com/search?q=Ryeowook) | N/A |
-| 32 | [Agong](http://twitter.com/search?q=Agong) | N/A |
-| 33 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
-| 34 | [Riuh](http://twitter.com/search?q=Riuh) | N/A |
-| 35 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 36 | [jaesuk](http://twitter.com/search?q=jaesuk) | N/A |
-| 37 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 38 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 39 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 40 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 41 | [LOVE ME RIGHT](http://twitter.com/search?q=LOVE+ME+RIGHT) | N/A |
-| 42 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 43 | [kelantan](http://twitter.com/search?q=kelantan) | N/A |
-| 44 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 45 | [Heechul](http://twitter.com/search?q=Heechul) | N/A |
-| 46 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 47 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 48 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 49 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 50 | [Rakyat](http://twitter.com/search?q=Rakyat) | N/A |
+| 22 | [World Health Day](http://twitter.com/search?q=World+Health+Day) | N/A |
+| 23 | [Riuh](http://twitter.com/search?q=Riuh) | N/A |
+| 24 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
+| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 26 | [THE WORDS MALAYSIAN CZENNIES](http://twitter.com/search?q=THE+WORDS+MALAYSIAN+CZENNIES) | N/A |
+| 27 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 28 | [Ryeowook](http://twitter.com/search?q=Ryeowook) | N/A |
+| 29 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 30 | [jjong](http://twitter.com/search?q=jjong) | N/A |
+| 31 | [Agong](http://twitter.com/search?q=Agong) | N/A |
+| 32 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 33 | [Najib](http://twitter.com/search?q=Najib) | N/A |
+| 34 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 35 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 36 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 37 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 38 | [CHARMING INTERN V](http://twitter.com/search?q=CHARMING+INTERN+V) | N/A |
+| 39 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 40 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
+| 41 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 42 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 43 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 44 | [South China Sea](http://twitter.com/search?q=South+China+Sea) | N/A |
+| 45 | [LOVE ME RIGHT](http://twitter.com/search?q=LOVE+ME+RIGHT) | N/A |
+| 46 | [jaesuk](http://twitter.com/search?q=jaesuk) | N/A |
+| 47 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 48 | [YDPA](http://twitter.com/search?q=YDPA) | N/A |
+| 49 | [xiumin](http://twitter.com/search?q=xiumin) | N/A |
+| 50 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
 
 
 

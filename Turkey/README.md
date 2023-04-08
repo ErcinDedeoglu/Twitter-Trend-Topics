@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-04-08 09:17:59 UTC`
+📆 Last Updated: `2023-04-08 10:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,43 +15,46 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 2 | [#YazBirERDOĞANeseri](http://twitter.com/search?q=%23YazBirERDO%c4%9eANeseri) | N/A |
-| 3 | [Buket](http://twitter.com/search?q=Buket) | N/A |
-| 4 | [#PDRmeydandaNormNerde](http://twitter.com/search?q=%23PDRmeydandaNormNerde) | N/A |
-| 5 | [#SüleymanÇakır](http://twitter.com/search?q=%23S%c3%bcleyman%c3%87ak%c4%b1r) | N/A |
-| 6 | [#hayalimdekibakan](http://twitter.com/search?q=%23hayalimdekibakan) | N/A |
-| 7 | [Demirören](http://twitter.com/search?q=Demir%c3%b6ren) | N/A |
-| 8 | [Tüpçü](http://twitter.com/search?q=T%c3%bcp%c3%a7%c3%bc) | N/A |
-| 9 | [Kredi](http://twitter.com/search?q=Kredi) | N/A |
-| 10 | [Günaydın Özgür](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+%c3%96zg%c3%bcr) | N/A |
-| 11 | [BAY KEMAL GELECEK](http://twitter.com/search?q=BAY+KEMAL+GELECEK) | N/A |
+| 1 | [SonDurak AdanaKitabı](http://twitter.com/search?q=SonDurak+AdanaKitab%c4%b1) | N/A |
+| 2 | [#PDRmeydandaNormNerde](http://twitter.com/search?q=%23PDRmeydandaNormNerde) | N/A |
+| 3 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
+| 4 | [Buket](http://twitter.com/search?q=Buket) | N/A |
+| 5 | [#YazBirERDOĞANeseri](http://twitter.com/search?q=%23YazBirERDO%c4%9eANeseri) | N/A |
+| 6 | [#SonSözYarımKalanEYTlinin](http://twitter.com/search?q=%23SonS%c3%b6zYar%c4%b1mKalanEYTlinin) | N/A |
+| 7 | [Kredi](http://twitter.com/search?q=Kredi) | N/A |
+| 8 | [Demirören](http://twitter.com/search?q=Demir%c3%b6ren) | N/A |
+| 9 | [Tüpçü](http://twitter.com/search?q=T%c3%bcp%c3%a7%c3%bc) | N/A |
+| 10 | [#DidemMadak](http://twitter.com/search?q=%23DidemMadak) | N/A |
+| 11 | [Süleyman Çakır](http://twitter.com/search?q=S%c3%bcleyman+%c3%87ak%c4%b1r) | N/A |
 | 12 | [Tansu Çolak](http://twitter.com/search?q=Tansu+%c3%87olak) | N/A |
-| 13 | [Ankara Ayaş'ta](http://twitter.com/search?q=Ankara+Aya%c5%9f%27ta) | N/A |
-| 14 | [Oyumu](http://twitter.com/search?q=Oyumu) | N/A |
-| 15 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
-| 16 | [Pire](http://twitter.com/search?q=Pire) | N/A |
-| 17 | [Hüseyin Baş](http://twitter.com/search?q=H%c3%bcseyin+Ba%c5%9f) | N/A |
-| 18 | [Vefatının 19](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+19) | N/A |
-| 19 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
-| 20 | [Günaydınnnnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnnnn) | N/A |
-| 21 | [Melih](http://twitter.com/search?q=Melih) | N/A |
-| 22 | [Fabrika](http://twitter.com/search?q=Fabrika) | N/A |
-| 23 | [İdam](http://twitter.com/search?q=%c4%b0dam) | N/A |
-| 24 | [Babacan](http://twitter.com/search?q=Babacan) | N/A |
-| 25 | [#DünyaRomanlarGünü](http://twitter.com/search?q=%23D%c3%bcnyaRomanlarG%c3%bcn%c3%bc) | N/A |
-| 26 | [#DidemMadak](http://twitter.com/search?q=%23DidemMadak) | N/A |
-| 27 | [#Erdogansayesinde](http://twitter.com/search?q=%23Erdogansayesinde) | N/A |
-| 28 | [#haftasonu](http://twitter.com/search?q=%23haftasonu) | N/A |
-| 29 | [#SeçimHesapları](http://twitter.com/search?q=%23Se%c3%a7imHesaplar%c4%b1) | N/A |
-| 30 | [#StajyereAdilOl](http://twitter.com/search?q=%23StajyereAdilOl) | N/A |
-| 31 | [#ÖğretmenizSusmuyoruz](http://twitter.com/search?q=%23%c3%96%c4%9fretmenizSusmuyoruz) | N/A |
-| 32 | [#MemurunMaaşıPulaDöndü](http://twitter.com/search?q=%23MemurunMaa%c5%9f%c4%b1PulaD%c3%b6nd%c3%bc) | N/A |
-| 33 | [#Söz2000Lerde](http://twitter.com/search?q=%23S%c3%b6z2000Lerde) | N/A |
-| 34 | [#DolarTL](http://twitter.com/search?q=%23DolarTL) | N/A |
-| 35 | [#KOPOL](http://twitter.com/search?q=%23KOPOL) | N/A |
-| 36 | [#Erzurum](http://twitter.com/search?q=%23Erzurum) | N/A |
-| 37 | [#KurtlarVadisi](http://twitter.com/search?q=%23KurtlarVadisi) | N/A |
+| 13 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
+| 14 | [Günaydın Özgür](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+%c3%96zg%c3%bcr) | N/A |
+| 15 | [Pire](http://twitter.com/search?q=Pire) | N/A |
+| 16 | [BAY KEMAL GELECEK](http://twitter.com/search?q=BAY+KEMAL+GELECEK) | N/A |
+| 17 | [Ankara Ayaş'ta](http://twitter.com/search?q=Ankara+Aya%c5%9f%27ta) | N/A |
+| 18 | [Melih](http://twitter.com/search?q=Melih) | N/A |
+| 19 | [Oyumu](http://twitter.com/search?q=Oyumu) | N/A |
+| 20 | [Hüseyin Baş](http://twitter.com/search?q=H%c3%bcseyin+Ba%c5%9f) | N/A |
+| 21 | [Denizi](http://twitter.com/search?q=Denizi) | N/A |
+| 22 | [Vefatının 19](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+19) | N/A |
+| 23 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 24 | [Taksim Camii](http://twitter.com/search?q=Taksim+Camii) | N/A |
+| 25 | [Fabrika](http://twitter.com/search?q=Fabrika) | N/A |
+| 26 | [İdam](http://twitter.com/search?q=%c4%b0dam) | N/A |
+| 27 | [#OktayKaynarca](http://twitter.com/search?q=%23OktayKaynarca) | N/A |
+| 28 | [#StajyereAdilOl](http://twitter.com/search?q=%23StajyereAdilOl) | N/A |
+| 29 | [#Erdogansayesinde](http://twitter.com/search?q=%23Erdogansayesinde) | N/A |
+| 30 | [#MemurunMaaşıPulaDöndü](http://twitter.com/search?q=%23MemurunMaa%c5%9f%c4%b1PulaD%c3%b6nd%c3%bc) | N/A |
+| 31 | [#hayalimdekibakan](http://twitter.com/search?q=%23hayalimdekibakan) | N/A |
+| 32 | [#haftasonu](http://twitter.com/search?q=%23haftasonu) | N/A |
+| 33 | [#ÖğretmenizSusmuyoruz](http://twitter.com/search?q=%23%c3%96%c4%9fretmenizSusmuyoruz) | N/A |
+| 34 | [#Söz2000Lerde](http://twitter.com/search?q=%23S%c3%b6z2000Lerde) | N/A |
+| 35 | [#DolarTL](http://twitter.com/search?q=%23DolarTL) | N/A |
+| 36 | [#KOPOL](http://twitter.com/search?q=%23KOPOL) | N/A |
+| 37 | [#ZamGeldi](http://twitter.com/search?q=%23ZamGeldi) | N/A |
+| 38 | [#Kızılay](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lay) | N/A |
+| 39 | [#KurtlarVadisi](http://twitter.com/search?q=%23KurtlarVadisi) | N/A |
+| 40 | [#Erzurum](http://twitter.com/search?q=%23Erzurum) | N/A |
 
 
 

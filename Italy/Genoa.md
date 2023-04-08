@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-04-08 09:17:21 UTC`
+📆 Last Updated: `2023-04-08 10:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,53 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
 | 2 | [#SalernitanaInter](http://twitter.com/search?q=%23SalernitanaInter) | N/A |
-| 3 | [#8aprile](http://twitter.com/search?q=%238aprile) | N/A |
-| 4 | [#MilanEmpoli](http://twitter.com/search?q=%23MilanEmpoli) | N/A |
-| 5 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 6 | [Candreva](http://twitter.com/search?q=Candreva) | N/A |
-| 7 | [Alessandro Parini](http://twitter.com/search?q=Alessandro+Parini) | N/A |
-| 8 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 9 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 3 | [#MilanEmpoli](http://twitter.com/search?q=%23MilanEmpoli) | N/A |
+| 4 | [#LecceNapoli](http://twitter.com/search?q=%23LecceNapoli) | N/A |
+| 5 | [#8aprile](http://twitter.com/search?q=%238aprile) | N/A |
+| 6 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 7 | [Candreva](http://twitter.com/search?q=Candreva) | N/A |
+| 8 | [Santo](http://twitter.com/search?q=Santo) | N/A |
+| 9 | [Alessandro Parini](http://twitter.com/search?q=Alessandro+Parini) | N/A |
 | 10 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
-| 11 | [Ave Maria](http://twitter.com/search?q=Ave+Maria) | N/A |
+| 11 | [Theo](http://twitter.com/search?q=Theo) | N/A |
 | 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 13 | [Gagliardini](http://twitter.com/search?q=Gagliardini) | Gagliardini is an Italian surname. It is derived from the word "gagliardo," which means brave or valiant. In English, it can be translated to mean "valiant one." |
-| 14 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 15 | [Pobega](http://twitter.com/search?q=Pobega) | N/A |
-| 16 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
-| 17 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 18 | [Israele](http://twitter.com/search?q=Israele) | N/A |
-| 19 | [Buongiorno Ilva](http://twitter.com/search?q=Buongiorno+Ilva) | N/A |
-| 20 | [Buongiorno Ilva](http://twitter.com/search?q=Buongiorno+Ilva) | N/A |
-| 21 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 22 | [Buongiorno Lorenzo](http://twitter.com/search?q=Buongiorno+Lorenzo) | N/A |
-| 23 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 24 | [Sallusti](http://twitter.com/search?q=Sallusti) | N/A |
-| 25 | [Pasquetta](http://twitter.com/search?q=Pasquetta) | N/A |
-| 26 | [Ruotolo](http://twitter.com/search?q=Ruotolo) | N/A |
-| 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 28 | [Corano](http://twitter.com/search?q=Corano) | N/A |
-| 29 | [Gesù](http://twitter.com/search?q=Ges%c3%b9) | N/A |
-| 30 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
-| 31 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 32 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 33 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
-| 34 | [Elio Vito](http://twitter.com/search?q=Elio+Vito) | N/A |
-| 35 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 36 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 37 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 38 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 39 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 40 | [Amedeo](http://twitter.com/search?q=Amedeo) | N/A |
-| 41 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
-| 42 | [Ungheria](http://twitter.com/search?q=Ungheria) | N/A |
+| 13 | [Ave Maria](http://twitter.com/search?q=Ave+Maria) | N/A |
+| 14 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
+| 15 | [Israele](http://twitter.com/search?q=Israele) | N/A |
+| 16 | [Gagliardini](http://twitter.com/search?q=Gagliardini) | Gagliardini is an Italian surname. It is derived from the word "gagliardo," which means brave or valiant. In English, it can be translated to mean "valiant one." |
+| 17 | [Pobega](http://twitter.com/search?q=Pobega) | N/A |
+| 18 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 19 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 20 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 21 | [Pasquetta](http://twitter.com/search?q=Pasquetta) | N/A |
+| 22 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 23 | [Sallusti](http://twitter.com/search?q=Sallusti) | N/A |
+| 24 | [Corano](http://twitter.com/search?q=Corano) | N/A |
+| 25 | [Buongiorno Ilva](http://twitter.com/search?q=Buongiorno+Ilva) | N/A |
+| 26 | [Gesù](http://twitter.com/search?q=Ges%c3%b9) | N/A |
+| 27 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 28 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 29 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
+| 30 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 31 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 32 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 33 | [Amedeo](http://twitter.com/search?q=Amedeo) | N/A |
+| 34 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 35 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 36 | [Hamas](http://twitter.com/search?q=Hamas) | N/A |
+| 37 | [Di Natale](http://twitter.com/search?q=Di+Natale) | N/A |
+| 38 | [Laico](http://twitter.com/search?q=Laico) | N/A |
+| 39 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
+| 40 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 41 | [Buongiorno Francesco](http://twitter.com/search?q=Buongiorno+Francesco) | N/A |
+| 42 | [Ruotolo](http://twitter.com/search?q=Ruotolo) | N/A |
 | 43 | [Adli](http://twitter.com/search?q=Adli) | N/A |
-| 44 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 45 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
-| 46 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 47 | [Di Natale](http://twitter.com/search?q=Di+Natale) | N/A |
-| 48 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 44 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 45 | [Valeri](http://twitter.com/search?q=Valeri) | N/A |
+| 46 | [Provenzano](http://twitter.com/search?q=Provenzano) | N/A |
+| 47 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
+| 48 | [Chivu](http://twitter.com/search?q=Chivu) | N/A |
+| 49 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
 
 
 

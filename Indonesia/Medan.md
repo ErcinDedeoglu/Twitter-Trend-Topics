@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-04-08 09:17:25 UTC`
+📆 Last Updated: `2023-04-08 10:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 2 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 1 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 2 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
 | 3 | [#TerimakasihPakErick](http://twitter.com/search?q=%23TerimakasihPakErick) | N/A |
-| 4 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 5 | [Lolos Sanksi Berat FIFA](http://twitter.com/search?q=Lolos+Sanksi+Berat+FIFA) | N/A |
-| 6 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 7 | [#EXO11thAnniversary](http://twitter.com/search?q=%23EXO11thAnniversary) | N/A |
-| 8 | [#TimeForEXO](http://twitter.com/search?q=%23TimeForEXO) | N/A |
-| 9 | [Iklan Ponds Men](http://twitter.com/search?q=Iklan+Ponds+Men) | N/A |
-| 10 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 11 | [Jumat Agung](http://twitter.com/search?q=Jumat+Agung) | N/A |
-| 12 | [pharmaton](http://twitter.com/search?q=pharmaton) | N/A |
-| 13 | [gorengan harga mati](http://twitter.com/search?q=gorengan+harga+mati) | N/A |
-| 14 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 15 | [Z Fold4](http://twitter.com/search?q=Z+Fold4) | N/A |
-| 16 | [hari terakhir promo puncak](http://twitter.com/search?q=hari+terakhir+promo+puncak) | N/A |
-| 17 | [tabungan bri simpedes](http://twitter.com/search?q=tabungan+bri+simpedes) | N/A |
-| 18 | [pilihan zillennial jateng](http://twitter.com/search?q=pilihan+zillennial+jateng) | N/A |
-| 19 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 20 | [produk viral](http://twitter.com/search?q=produk+viral) | N/A |
-| 21 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 22 | [Greenhouse 7](http://twitter.com/search?q=Greenhouse+7) | N/A |
-| 23 | [Multitasking](http://twitter.com/search?q=Multitasking) | N/A |
-| 24 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 25 | [THE EVE](http://twitter.com/search?q=THE+EVE) | N/A |
-| 26 | [Susi](http://twitter.com/search?q=Susi) | N/A |
-| 27 | [soimah](http://twitter.com/search?q=soimah) | N/A |
-| 28 | [MINGYU JUNGKOOK](http://twitter.com/search?q=MINGYU+JUNGKOOK) | N/A |
-| 29 | [Cashback](http://twitter.com/search?q=Cashback) | N/A |
-| 30 | [JEONG JAEHYUN](http://twitter.com/search?q=JEONG+JAEHYUN) | N/A |
-| 31 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 32 | [KITSCH FIRST WIN](http://twitter.com/search?q=KITSCH+FIRST+WIN) | N/A |
-| 33 | [Miss Helena](http://twitter.com/search?q=Miss+Helena) | N/A |
-| 34 | [back to syariah kaffah](http://twitter.com/search?q=back+to+syariah+kaffah) | N/A |
-| 35 | [Pak ET](http://twitter.com/search?q=Pak+ET) | N/A |
-| 36 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 37 | [Na PD](http://twitter.com/search?q=Na+PD) | N/A |
-| 38 | [PEOPLE PT2 OUT NOW](http://twitter.com/search?q=PEOPLE+PT2+OUT+NOW) | N/A |
-| 39 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 40 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 41 | [onic](http://twitter.com/search?q=onic) | N/A |
-| 42 | [Akrab](http://twitter.com/search?q=Akrab) | N/A |
-| 43 | [PEOPLE PT2 BY AGUST D](http://twitter.com/search?q=PEOPLE+PT2+BY+AGUST+D) | N/A |
-| 44 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 45 | [Fuji](http://twitter.com/search?q=Fuji) | N/A |
-| 46 | [AGUST D OFFICIAL DEBUT](http://twitter.com/search?q=AGUST+D+OFFICIAL+DEBUT) | N/A |
-| 47 | [MELODY OF SCENTS D1](http://twitter.com/search?q=MELODY+OF+SCENTS+D1) | N/A |
-| 48 | [isa almasih](http://twitter.com/search?q=isa+almasih) | N/A |
-| 49 | [EXO SARANGHAJA](http://twitter.com/search?q=EXO+SARANGHAJA) | N/A |
-| 50 | [BEAUTY MYSTERY BOX](http://twitter.com/search?q=BEAUTY+MYSTERY+BOX) | N/A |
+| 4 | [Lolos Sanksi Berat FIFA](http://twitter.com/search?q=Lolos+Sanksi+Berat+FIFA) | N/A |
+| 5 | [#TimeForEXO](http://twitter.com/search?q=%23TimeForEXO) | N/A |
+| 6 | [#EXOCLOCK_D1](http://twitter.com/search?q=%23EXOCLOCK_D1) | N/A |
+| 7 | [HAVE A SAFE FLIGHT JUNGKOOK](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JUNGKOOK) | N/A |
+| 8 | [#11thYEARSWITHEXO](http://twitter.com/search?q=%2311thYEARSWITHEXO) | N/A |
+| 9 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 10 | [#JKT48School2023](http://twitter.com/search?q=%23JKT48School2023) | N/A |
+| 11 | [LOVE SHOT](http://twitter.com/search?q=LOVE+SHOT) | N/A |
+| 12 | [THE EVE](http://twitter.com/search?q=THE+EVE) | N/A |
+| 13 | [DON'T GO](http://twitter.com/search?q=DON%27T+GO) | N/A |
+| 14 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
+| 15 | [chansoo](http://twitter.com/search?q=chansoo) | N/A |
+| 16 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 17 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 18 | [Bubble](http://twitter.com/search?q=Bubble) | N/A |
+| 19 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 20 | [Susi](http://twitter.com/search?q=Susi) | N/A |
+| 21 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 22 | [Cashback](http://twitter.com/search?q=Cashback) | N/A |
+| 23 | [Strawberry](http://twitter.com/search?q=Strawberry) | N/A |
+| 24 | [Yesus](http://twitter.com/search?q=Yesus) | N/A |
+| 25 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 26 | [Soimah](http://twitter.com/search?q=Soimah) | N/A |
+| 27 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 28 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 29 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 30 | [Panas](http://twitter.com/search?q=Panas) | N/A |
+| 31 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 32 | [#IAMChallenge](http://twitter.com/search?q=%23IAMChallenge) | N/A |
+| 33 | [#jodohditanganantono](http://twitter.com/search?q=%23jodohditanganantono) | N/A |
+| 34 | [#Kitsch1stWin](http://twitter.com/search?q=%23Kitsch1stWin) | N/A |
+| 35 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
+| 36 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
+| 37 | [#NIJIPuyoTetris2023](http://twitter.com/search?q=%23NIJIPuyoTetris2023) | N/A |
+| 38 | [#SpecialDayWithMCJohnny](http://twitter.com/search?q=%23SpecialDayWithMCJohnny) | N/A |
+| 39 | [#GengPastiPasti](http://twitter.com/search?q=%23GengPastiPasti) | N/A |
+| 40 | [#GalaxyA14](http://twitter.com/search?q=%23GalaxyA14) | N/A |
+| 41 | [#PondPhuwinFMinVietnam](http://twitter.com/search?q=%23PondPhuwinFMinVietnam) | N/A |
+| 42 | [#jersey4sale](http://twitter.com/search?q=%23jersey4sale) | N/A |
+| 43 | [#JENNIE](http://twitter.com/search?q=%23JENNIE) | N/A |
+| 44 | [#srchafreen](http://twitter.com/search?q=%23srchafreen) | N/A |
+| 45 | [#taxidriver2ep13](http://twitter.com/search?q=%23taxidriver2ep13) | N/A |
 
 
 

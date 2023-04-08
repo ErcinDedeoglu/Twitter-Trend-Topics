@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ranchi
 
-📆 Last Updated: `2023-04-08 09:17:40 UTC`
+📆 Last Updated: `2023-04-08 10:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RPSC_भ्रष्टाचार_की_दुकान_है](http://twitter.com/search?q=%23RPSC_%e0%a4%ad%e0%a5%8d%e0%a4%b0%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%be%e0%a4%9a%e0%a4%be%e0%a4%b0_%e0%a4%95%e0%a5%80_%e0%a4%a6%e0%a5%81%e0%a4%95%e0%a4%be%e0%a4%a8_%e0%a4%b9%e0%a5%88) | N/A |
-| 2 | [#MangalPandey](http://twitter.com/search?q=%23MangalPandey) | N/A |
-| 3 | [#GobackModi](http://twitter.com/search?q=%23GobackModi) | N/A |
-| 4 | [#MIvsCSK](http://twitter.com/search?q=%23MIvsCSK) | N/A |
-| 5 | [#GorakhnathUniversity](http://twitter.com/search?q=%23GorakhnathUniversity) | N/A |
-| 6 | [मंगल पांडे](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%97%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%82%e0%a4%a1%e0%a5%87) | N/A |
-| 7 | [Congrats MOS Utility](http://twitter.com/search?q=Congrats+MOS+Utility) | N/A |
-| 8 | [एक्स्ट्रा क्लास](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%95%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b8) | N/A |
-| 9 | [Sukhoi 30 MKI](http://twitter.com/search?q=Sukhoi+30+MKI) | N/A |
-| 10 | [शरद पवार](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b0%e0%a4%a6+%e0%a4%aa%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 11 | [प्रथम स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 12 | [राष्ट्रीय गीत](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%97%e0%a5%80%e0%a4%a4) | N/A |
-| 13 | [Aditya](http://twitter.com/search?q=Aditya) | N/A |
-| 14 | [महान क्रांतिकारी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 15 | [Sushant A Skilful Person](http://twitter.com/search?q=Sushant+A+Skilful+Person) | N/A |
-| 16 | [राष्ट्रपति द्रौपदी मुर्मू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%8c%e0%a4%aa%e0%a4%a6%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%82) | N/A |
-| 17 | [Amul](http://twitter.com/search?q=Amul) | N/A |
+| 1 | [#SuperMarioInCinemas](http://twitter.com/search?q=%23SuperMarioInCinemas) | N/A |
+| 2 | [#SterliteTruthRevealed](http://twitter.com/search?q=%23SterliteTruthRevealed) | N/A |
+| 3 | [#RRvsDC](http://twitter.com/search?q=%23RRvsDC) | N/A |
+| 4 | [Sterlite Copper Thoothukudi](http://twitter.com/search?q=Sterlite+Copper+Thoothukudi) | N/A |
+| 5 | [#RPSC_भ्रष्टाचार_की_दुकान_है](http://twitter.com/search?q=%23RPSC_%e0%a4%ad%e0%a5%8d%e0%a4%b0%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%be%e0%a4%9a%e0%a4%be%e0%a4%b0_%e0%a4%95%e0%a5%80_%e0%a4%a6%e0%a5%81%e0%a4%95%e0%a4%be%e0%a4%a8_%e0%a4%b9%e0%a5%88) | N/A |
+| 6 | [#CricketContestByArjun](http://twitter.com/search?q=%23CricketContestByArjun) | #CricketContestByArjun is a hashtag used to promote a cricket contest hosted by Arjun. It is used to encourage people to participate in the contest and to spread awareness about it. |
+| 7 | [Yashasvi Jaiswal](http://twitter.com/search?q=Yashasvi+Jaiswal) | N/A |
+| 8 | [2nd Innings Score](http://twitter.com/search?q=2nd+Innings+Score) | N/A |
+| 9 | [मंगल पांडे](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%97%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%82%e0%a4%a1%e0%a5%87) | N/A |
+| 10 | [एक्स्ट्रा क्लास](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%95%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b8) | N/A |
+| 11 | [Batsman](http://twitter.com/search?q=Batsman) | Batsman is a term used in cricket to refer to the player who stands at the batting crease and faces the bowler. The batsman's primary role is to score runs by hitting the ball with their bat. |
+| 12 | [Sukhoi 30 MKI](http://twitter.com/search?q=Sukhoi+30+MKI) | N/A |
+| 13 | [CR Kesavan](http://twitter.com/search?q=CR+Kesavan) | N/A |
+| 14 | [Manish Pandey](http://twitter.com/search?q=Manish+Pandey) | N/A |
+| 15 | [Madam President](http://twitter.com/search?q=Madam+President) | N/A |
+| 16 | [Amul](http://twitter.com/search?q=Amul) | N/A |
+| 17 | [Jos Buttler](http://twitter.com/search?q=Jos+Buttler) | N/A |
 | 18 | [Secunderabad](http://twitter.com/search?q=Secunderabad) | N/A |
-| 19 | [कैलाश विजयवर्गीय](http://twitter.com/search?q=%e0%a4%95%e0%a5%88%e0%a4%b2%e0%a4%be%e0%a4%b6+%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a5%80%e0%a4%af) | N/A |
-| 20 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
-| 21 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 22 | [मुद्रा योजना](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
-| 23 | [भारत ट्रेन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
-| 24 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 25 | [BSNL](http://twitter.com/search?q=BSNL) | N/A |
-| 26 | [बंकिम चंद्र चट्टोपाध्याय](http://twitter.com/search?q=%e0%a4%ac%e0%a4%82%e0%a4%95%e0%a4%bf%e0%a4%ae+%e0%a4%9a%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%9a%e0%a4%9f%e0%a5%8d%e0%a4%9f%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af) | N/A |
-| 27 | [MMTS](http://twitter.com/search?q=MMTS) | N/A |
-| 28 | [महान कवि](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a4%b5%e0%a4%bf) | N/A |
-| 29 | [दलित महिला](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 30 | [AIIMS](http://twitter.com/search?q=AIIMS) | N/A |
-| 31 | [Save Pak Minorities](http://twitter.com/search?q=Save+Pak+Minorities) | N/A |
-| 32 | [#VandeBharatExpress](http://twitter.com/search?q=%23VandeBharatExpress) | N/A |
-| 33 | [#Vanakkam_Modi](http://twitter.com/search?q=%23Vanakkam_Modi) | N/A |
-| 34 | [#GoBackNarendra](http://twitter.com/search?q=%23GoBackNarendra) | N/A |
-| 35 | [#ShahidKapoor](http://twitter.com/search?q=%23ShahidKapoor) | N/A |
-| 36 | [#SwagatamModiJi](http://twitter.com/search?q=%23SwagatamModiJi) | N/A |
-| 37 | [#8YearsOfMudraYojana](http://twitter.com/search?q=%238YearsOfMudraYojana) | N/A |
-| 38 | [#PakodakingAjitAnjum](http://twitter.com/search?q=%23PakodakingAjitAnjum) | N/A |
-| 39 | [#DroupadiMurmu](http://twitter.com/search?q=%23DroupadiMurmu) | N/A |
-| 40 | [#DroupadiMurmu](http://twitter.com/search?q=%23DroupadiMurmu) | N/A |
-| 41 | [#RRvsDC](http://twitter.com/search?q=%23RRvsDC) | N/A |
-| 42 | [#KritiSanon](http://twitter.com/search?q=%23KritiSanon) | N/A |
-| 43 | [#GoBackFascistModi](http://twitter.com/search?q=%23GoBackFascistModi) | N/A |
-| 44 | [#GoBack_பொணந்தின்னி](http://twitter.com/search?q=%23GoBack_%e0%ae%aa%e0%af%8a%e0%ae%a3%e0%ae%a8%e0%af%8d%e0%ae%a4%e0%ae%bf%e0%ae%a9%e0%af%8d%e0%ae%a9%e0%ae%bf) | N/A |
-| 45 | [#PoojaHegde](http://twitter.com/search?q=%23PoojaHegde) | N/A |
-| 46 | [#HBDAlluArjun](http://twitter.com/search?q=%23HBDAlluArjun) | N/A |
-| 47 | [#SaveNandini](http://twitter.com/search?q=%23SaveNandini) | N/A |
-| 48 | [#SharadPawar](http://twitter.com/search?q=%23SharadPawar) | N/A |
-| 49 | [#RailInfra4Telangana](http://twitter.com/search?q=%23RailInfra4Telangana) | N/A |
+| 19 | [शरद पवार](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b0%e0%a4%a6+%e0%a4%aa%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 20 | [कैलाश विजयवर्गीय](http://twitter.com/search?q=%e0%a4%95%e0%a5%88%e0%a4%b2%e0%a4%be%e0%a4%b6+%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a5%80%e0%a4%af) | N/A |
+| 21 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 22 | [भारतीय स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 23 | [Aditya](http://twitter.com/search?q=Aditya) | N/A |
+| 24 | [महान क्रांतिकारी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 25 | [मुद्रा योजना](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
+| 26 | [राष्ट्रपति द्रौपदी मुर्मू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%8c%e0%a4%aa%e0%a4%a6%e0%a5%80+%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%82) | N/A |
+| 27 | [Sushant A Skilful Person](http://twitter.com/search?q=Sushant+A+Skilful+Person) | N/A |
+| 28 | [राष्ट्रीय गीत](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%97%e0%a5%80%e0%a4%a4) | N/A |
+| 29 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 30 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 31 | [Chahal](http://twitter.com/search?q=Chahal) | N/A |
+| 32 | [MMTS](http://twitter.com/search?q=MMTS) | N/A |
+| 33 | [BSNL](http://twitter.com/search?q=BSNL) | N/A |
+| 34 | [दलित महिला](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 35 | [Anil](http://twitter.com/search?q=Anil) | N/A |
+| 36 | [बंकिम चंद्र चट्टोपाध्याय](http://twitter.com/search?q=%e0%a4%ac%e0%a4%82%e0%a4%95%e0%a4%bf%e0%a4%ae+%e0%a4%9a%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%9a%e0%a4%9f%e0%a5%8d%e0%a4%9f%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af) | N/A |
+| 37 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 38 | [AIIMS](http://twitter.com/search?q=AIIMS) | N/A |
+| 39 | [Save Pak Minorities](http://twitter.com/search?q=Save+Pak+Minorities) | N/A |
+| 40 | [महान कवि](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a4%b5%e0%a4%bf) | N/A |
+| 41 | [सरकारी स्कूल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%82%e0%a4%b2) | N/A |
+| 42 | [Prime Minister Narendra Modi](http://twitter.com/search?q=Prime+Minister+Narendra+Modi) | N/A |
+| 43 | [#DCvsRR](http://twitter.com/search?q=%23DCvsRR) | N/A |
+| 44 | [#EveryAnswerCounts](http://twitter.com/search?q=%23EveryAnswerCounts) | N/A |
+| 45 | [#MIvsCSK](http://twitter.com/search?q=%23MIvsCSK) | N/A |
+| 46 | [#MangalPandey](http://twitter.com/search?q=%23MangalPandey) | N/A |
+| 47 | [#GobackModi](http://twitter.com/search?q=%23GobackModi) | N/A |
+| 48 | [#VandeBharatExpress](http://twitter.com/search?q=%23VandeBharatExpress) | N/A |
+| 49 | [#MKS4StateRights](http://twitter.com/search?q=%23MKS4StateRights) | N/A |
 
 
 

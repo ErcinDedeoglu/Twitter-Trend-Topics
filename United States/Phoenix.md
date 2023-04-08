@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-04-08 09:17:49 UTC`
+📆 Last Updated: `2023-04-08 10:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Dbacks](http://twitter.com/search?q=%23Dbacks) | N/A |
-| 2 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 4 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
-| 5 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
-| 6 | [#NIJIPuyoTetris2023](http://twitter.com/search?q=%23NIJIPuyoTetris2023) | N/A |
-| 7 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 8 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 9 | [#Wordle658](http://twitter.com/search?q=%23Wordle658) | N/A |
-| 10 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
-| 11 | [University of Oklahoma](http://twitter.com/search?q=University+of+Oklahoma) | N/A |
-| 12 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
-| 13 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [#Dbacks](http://twitter.com/search?q=%23Dbacks) | N/A |
+| 3 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 4 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 5 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
+| 6 | [#njpw](http://twitter.com/search?q=%23njpw) | #NJPW stands for New Japan Pro Wrestling, which is a Japanese professional wrestling promotion. It is one of the largest and most popular wrestling promotions in the world. |
+| 7 | [Hazuki](http://twitter.com/search?q=Hazuki) | N/A |
+| 8 | [Mayu](http://twitter.com/search?q=Mayu) | N/A |
+| 9 | [#NIJIPuyoTetris2023](http://twitter.com/search?q=%23NIJIPuyoTetris2023) | N/A |
+| 10 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 11 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 12 | [#Wordle658](http://twitter.com/search?q=%23Wordle658) | N/A |
+| 13 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
 | 14 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 15 | [Herget](http://twitter.com/search?q=Herget) | N/A |
-| 16 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 17 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
-| 18 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 19 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 20 | [Girly Teengirl](http://twitter.com/search?q=Girly+Teengirl) | N/A |
-| 21 | [Swatting](http://twitter.com/search?q=Swatting) | N/A |
-| 22 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 23 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 24 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 25 | [Ivermectin](http://twitter.com/search?q=Ivermectin) | N/A |
-| 26 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 27 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
-| 28 | [kershaw](http://twitter.com/search?q=kershaw) | N/A |
-| 29 | [Julia Hart](http://twitter.com/search?q=Julia+Hart) | N/A |
-| 30 | [The Mario](http://twitter.com/search?q=The+Mario) | N/A |
-| 31 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 32 | [nicholas braun](http://twitter.com/search?q=nicholas+braun) | N/A |
-| 33 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 34 | [Bron and AD](http://twitter.com/search?q=Bron+and+AD) | N/A |
-| 35 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
-| 36 | [isle of palms](http://twitter.com/search?q=isle+of+palms) | N/A |
-| 37 | [DBZA](http://twitter.com/search?q=DBZA) | N/A |
-| 38 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
-| 39 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
-| 40 | [AK-47](http://twitter.com/search?q=AK-47) | N/A |
-| 41 | [Billie Starkz](http://twitter.com/search?q=Billie+Starkz) | N/A |
-| 42 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
-| 43 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 44 | [Swerve](http://twitter.com/search?q=Swerve) | Swerve is a slang term that means to suddenly change direction or to avoid something. It can also be used to describe a sudden change in attitude or behavior. |
-| 45 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
-| 46 | [The Shining](http://twitter.com/search?q=The+Shining) | N/A |
-| 47 | [Terminator 2](http://twitter.com/search?q=Terminator+2) | N/A |
-| 48 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 49 | [Mo Bamba](http://twitter.com/search?q=Mo+Bamba) | "Mo Bamba" is a song by American rapper Sheck Wes. The song is about Sheck Wes' hometown of Harlem, New York and his experiences growing up there. The title of the song is derived from the nickname of NBA player Mohamed Bamba, who was born in Harlem. In English, the phrase "Mo Bamba" can be interpreted to mean "My Harlem". |
-| 50 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 15 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
+| 16 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 17 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 18 | [university of oklahoma](http://twitter.com/search?q=university+of+oklahoma) | N/A |
+| 19 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
+| 20 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 21 | [Ivermectin](http://twitter.com/search?q=Ivermectin) | N/A |
+| 22 | [Bullet Club](http://twitter.com/search?q=Bullet+Club) | N/A |
+| 23 | [Girly Teengirl](http://twitter.com/search?q=Girly+Teengirl) | N/A |
+| 24 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 25 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 26 | [Daniel Perry](http://twitter.com/search?q=Daniel+Perry) | N/A |
+| 27 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 28 | [Swatting](http://twitter.com/search?q=Swatting) | N/A |
+| 29 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 30 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 31 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 32 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 33 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
+| 34 | [Mark Cuban](http://twitter.com/search?q=Mark+Cuban) | Mark Cuban is an American entrepreneur, investor, and owner of the NBA's Dallas Mavericks. He is known for his outspokenness and his involvement in a variety of business ventures. He is also a regular investor on the television show Shark Tank. The phrase "Mark Cuban" has come to mean someone who is ambitious, successful, and outspoken. |
+| 35 | [The Mario](http://twitter.com/search?q=The+Mario) | N/A |
+| 36 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 37 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 38 | [Isle of Palms](http://twitter.com/search?q=Isle+of+Palms) | N/A |
+| 39 | [Pusha](http://twitter.com/search?q=Pusha) | N/A |
+| 40 | [The Shining](http://twitter.com/search?q=The+Shining) | N/A |
+| 41 | [Riddle](http://twitter.com/search?q=Riddle) | N/A |
+| 42 | [DBZA](http://twitter.com/search?q=DBZA) | N/A |
+| 43 | [bron and ad](http://twitter.com/search?q=bron+and+ad) | N/A |
+| 44 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
+| 45 | [AK-47](http://twitter.com/search?q=AK-47) | N/A |
+| 46 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 47 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
+| 48 | [Coby](http://twitter.com/search?q=Coby) | N/A |
+| 49 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
+| 50 | [#vtubervsirl](http://twitter.com/search?q=%23vtubervsirl) | N/A |
 
 
 

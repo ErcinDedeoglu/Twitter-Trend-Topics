@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-04-08 09:17:07 UTC`
+📆 Last Updated: `2023-04-08 10:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Wordle658](http://twitter.com/search?q=%23Wordle658) | N/A |
-| 2 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 3 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 1 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 2 | [#Wordle658](http://twitter.com/search?q=%23Wordle658) | N/A |
+| 3 | [Daily Fail](http://twitter.com/search?q=Daily+Fail) | N/A |
+| 4 | [Ahsoka](http://twitter.com/search?q=Ahsoka) | N/A |
+| 5 | [Substack](http://twitter.com/search?q=Substack) | N/A |
 | 6 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 7 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 8 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
-| 9 | [#StarWarsCelebration](http://twitter.com/search?q=%23StarWarsCelebration) | N/A |
-| 10 | [#ASongOrMovieForSlow](http://twitter.com/search?q=%23ASongOrMovieForSlow) | N/A |
-| 11 | [S Club 7](http://twitter.com/search?q=S+Club+7) | N/A |
-| 12 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
-| 13 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 14 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
-| 15 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
+| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 8 | [Easter Saturday](http://twitter.com/search?q=Easter+Saturday) | N/A |
+| 9 | [Holy Saturday](http://twitter.com/search?q=Holy+Saturday) | N/A |
+| 10 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 11 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 12 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 13 | [The Osmonds](http://twitter.com/search?q=The+Osmonds) | N/A |
+| 14 | [First Concert](http://twitter.com/search?q=First+Concert) | N/A |
+| 15 | [Daily Quordle 439](http://twitter.com/search?q=Daily+Quordle+439) | N/A |
 | 16 | [Next Concert](http://twitter.com/search?q=Next+Concert) | N/A |
-| 17 | [Worst Concert](http://twitter.com/search?q=Worst+Concert) | N/A |
-| 18 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 19 | [The Osmonds](http://twitter.com/search?q=The+Osmonds) | N/A |
-| 20 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 21 | [Bank Holiday](http://twitter.com/search?q=Bank+Holiday) | N/A |
-| 22 | [Most Surprising](http://twitter.com/search?q=Most+Surprising) | N/A |
-| 23 | [Hull](http://twitter.com/search?q=Hull) | N/A |
-| 24 | [Alligator](http://twitter.com/search?q=Alligator) | N/A |
-| 25 | [Vincent Kompany](http://twitter.com/search?q=Vincent+Kompany) | N/A |
-| 26 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 27 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
-| 28 | [The Bodyguard](http://twitter.com/search?q=The+Bodyguard) | N/A |
-| 29 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 30 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
-| 31 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 32 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 33 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 34 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 35 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
-| 36 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
-| 37 | [Romani](http://twitter.com/search?q=Romani) | N/A |
-| 38 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 39 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 40 | [Saville](http://twitter.com/search?q=Saville) | N/A |
-| 41 | [Daisy Ridley](http://twitter.com/search?q=Daisy+Ridley) | N/A |
-| 42 | [Liam Lawson](http://twitter.com/search?q=Liam+Lawson) | N/A |
-| 43 | [Mike Russell](http://twitter.com/search?q=Mike+Russell) | N/A |
-| 44 | [Dibble](http://twitter.com/search?q=Dibble) | N/A |
-| 45 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 46 | [McNair](http://twitter.com/search?q=McNair) | N/A |
-| 47 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 48 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
-| 49 | [Jack Clarke](http://twitter.com/search?q=Jack+Clarke) | N/A |
+| 17 | [Most Surprising](http://twitter.com/search?q=Most+Surprising) | N/A |
+| 18 | [Toney to Haaland](http://twitter.com/search?q=Toney+to+Haaland) | N/A |
+| 19 | [The Bodyguard](http://twitter.com/search?q=The+Bodyguard) | N/A |
+| 20 | [Mick McCarthy](http://twitter.com/search?q=Mick+McCarthy) | N/A |
+| 21 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
+| 22 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 23 | [COYS](http://twitter.com/search?q=COYS) | N/A |
+| 24 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 25 | [Easter Day](http://twitter.com/search?q=Easter+Day) | N/A |
+| 26 | [Caitlyn Jenner](http://twitter.com/search?q=Caitlyn+Jenner) | N/A |
+| 27 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
+| 28 | [Celtic Park](http://twitter.com/search?q=Celtic+Park) | N/A |
+| 29 | [Old Firm](http://twitter.com/search?q=Old+Firm) | N/A |
+| 30 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
+| 31 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 32 | [Harry and Meghan](http://twitter.com/search?q=Harry+and+Meghan) | N/A |
+| 33 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 34 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
+| 35 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
+| 36 | [#f1twtselfieday](http://twitter.com/search?q=%23f1twtselfieday) | N/A |
+| 37 | [#GW30](http://twitter.com/search?q=%23GW30) | N/A |
+| 38 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
+| 39 | [#ASongOrMovieForSlow](http://twitter.com/search?q=%23ASongOrMovieForSlow) | N/A |
+| 40 | [#MUNEVE](http://twitter.com/search?q=%23MUNEVE) | #MUNEVE is a hashtag used to promote the Muneve app, which is an online platform that helps people find and book beauty services. The hashtag is used to share user experiences, tips, and advice related to beauty services. In English, #MUNEVE means "My Beauty Experience". |
+| 41 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 42 | [#SaturdayKitchen](http://twitter.com/search?q=%23SaturdayKitchen) | N/A |
+| 43 | [#njSG](http://twitter.com/search?q=%23njSG) | N/A |
+| 44 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 45 | [#TOTBHA](http://twitter.com/search?q=%23TOTBHA) | N/A |
+| 46 | [#ToriesOut275](http://twitter.com/search?q=%23ToriesOut275) | N/A |
+| 47 | [#CatsofTwittter](http://twitter.com/search?q=%23CatsofTwittter) | N/A |
+| 48 | [#WOLCHE](http://twitter.com/search?q=%23WOLCHE) | N/A |
 
 
 
