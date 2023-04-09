@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-04-09 03:17:01 UTC`
+📆 Last Updated: `2023-04-09 04:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 2 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 1 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 2 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
 | 3 | [Costa](http://twitter.com/search?q=Costa) | N/A |
-| 4 | [Syndergaard](http://twitter.com/search?q=Syndergaard) | N/A |
+| 4 | [Vanney](http://twitter.com/search?q=Vanney) | N/A |
 | 5 | [Hader](http://twitter.com/search?q=Hader) | N/A |
-| 6 | [#Quakes74](http://twitter.com/search?q=%23Quakes74) | N/A |
-| 7 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
-| 8 | [Thor](http://twitter.com/search?q=Thor) | N/A |
-| 9 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 10 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
-| 11 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 12 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
-| 13 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 14 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 15 | [#boxing](http://twitter.com/search?q=%23boxing) | N/A |
-| 16 | [Kapler](http://twitter.com/search?q=Kapler) | N/A |
-| 17 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 18 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 19 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 20 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 21 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 22 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 23 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
-| 24 | [#criterion4you](http://twitter.com/search?q=%23criterion4you) | N/A |
-| 25 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
-| 26 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 27 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 28 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 29 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 30 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 31 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 32 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 33 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 34 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
-| 35 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 36 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 37 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 38 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 39 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 40 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 41 | [Yigit](http://twitter.com/search?q=Yigit) | N/A |
-| 42 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 43 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
-| 44 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
-| 45 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
-| 46 | [Frank Martin](http://twitter.com/search?q=Frank+Martin) | N/A |
-| 47 | [Rand Pecknold](http://twitter.com/search?q=Rand+Pecknold) | N/A |
-| 48 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
-| 49 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 50 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 6 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
+| 7 | [#FundoraMendoza](http://twitter.com/search?q=%23FundoraMendoza) | N/A |
+| 8 | [Wacha](http://twitter.com/search?q=Wacha) | N/A |
+| 9 | [#LAFC](http://twitter.com/search?q=%23LAFC) | N/A |
+| 10 | [Syndergaard](http://twitter.com/search?q=Syndergaard) | N/A |
+| 11 | [#Quakes74](http://twitter.com/search?q=%23Quakes74) | N/A |
+| 12 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 13 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 14 | [Thor](http://twitter.com/search?q=Thor) | N/A |
+| 15 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 16 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 17 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 18 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 19 | [Kapler](http://twitter.com/search?q=Kapler) | N/A |
+| 20 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
+| 21 | [The Mario](http://twitter.com/search?q=The+Mario) | N/A |
+| 22 | [Crow](http://twitter.com/search?q=Crow) | N/A |
+| 23 | [Beef](http://twitter.com/search?q=Beef) | N/A |
+| 24 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 25 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
+| 26 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 27 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
+| 28 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 29 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
+| 30 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 31 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 32 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
+| 33 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 34 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 35 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
+| 36 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 37 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 38 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 39 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 40 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
+| 41 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 42 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 43 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 44 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
+| 45 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 46 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
+| 47 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 48 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
+| 49 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 50 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
 
 
 

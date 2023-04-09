@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-09 03:17:02 UTC`
+📆 Last Updated: `2023-04-09 04:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bo Horvat](http://twitter.com/search?q=Bo+Horvat) | N/A |
-| 2 | [#NYCFC](http://twitter.com/search?q=%23NYCFC) | N/A |
-| 3 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
-| 4 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 5 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
-| 6 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 7 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 1 | [#Isles](http://twitter.com/search?q=%23Isles) | N/A |
+| 2 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
+| 3 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 4 | [Bo Horvat](http://twitter.com/search?q=Bo+Horvat) | N/A |
+| 5 | [#NYCFC](http://twitter.com/search?q=%23NYCFC) | N/A |
+| 6 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 7 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
 | 8 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 9 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 10 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
-| 11 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
-| 12 | [Super Mario Bros](http://twitter.com/search?q=Super+Mario+Bros) | N/A |
-| 13 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 14 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 15 | [#criterion4you](http://twitter.com/search?q=%23criterion4you) | N/A |
-| 16 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 9 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
+| 10 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 11 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
+| 12 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
+| 13 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
+| 14 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 15 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
+| 16 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
 | 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 18 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 19 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 20 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 21 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 22 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
-| 23 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 24 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 25 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 26 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 27 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 28 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 29 | [Yigit](http://twitter.com/search?q=Yigit) | N/A |
-| 30 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 31 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
-| 32 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
-| 33 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
-| 34 | [Frank Martin](http://twitter.com/search?q=Frank+Martin) | N/A |
-| 35 | [Rand Pecknold](http://twitter.com/search?q=Rand+Pecknold) | N/A |
-| 36 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
-| 37 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 38 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 39 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 40 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 41 | [Motzko](http://twitter.com/search?q=Motzko) | N/A |
-| 42 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 43 | [Justin Owen](http://twitter.com/search?q=Justin+Owen) | N/A |
-| 44 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
-| 45 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 46 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 47 | [Odor](http://twitter.com/search?q=Odor) | N/A |
-| 48 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 49 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 50 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 18 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
+| 19 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 20 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 21 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
+| 22 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 23 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 24 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 25 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
+| 26 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 27 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 28 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 29 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
+| 30 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 31 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
+| 32 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 33 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
+| 34 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 35 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 36 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 37 | [Atencio](http://twitter.com/search?q=Atencio) | N/A |
+| 38 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
+| 39 | [Frank Martin](http://twitter.com/search?q=Frank+Martin) | N/A |
+| 40 | [Yigit](http://twitter.com/search?q=Yigit) | N/A |
+| 41 | [Bobcats](http://twitter.com/search?q=Bobcats) | N/A |
+| 42 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 43 | [Rand Pecknold](http://twitter.com/search?q=Rand+Pecknold) | N/A |
+| 44 | [Haney](http://twitter.com/search?q=Haney) | N/A |
+| 45 | [Justin Owen](http://twitter.com/search?q=Justin+Owen) | N/A |
+| 46 | [Big Baby](http://twitter.com/search?q=Big+Baby) | N/A |
+| 47 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
+| 48 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 49 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 50 | [Campa](http://twitter.com/search?q=Campa) | N/A |
 
 
 

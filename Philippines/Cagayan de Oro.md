@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-04-09 03:16:46 UTC`
+📆 Last Updated: `2023-04-09 04:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,40 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 4 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 5 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 6 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
-| 7 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 8 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
+| 4 | [#ASAPalive](http://twitter.com/search?q=%23ASAPalive) | N/A |
+| 5 | [D-5 TO ANJI PARAISO](http://twitter.com/search?q=D-5+TO+ANJI+PARAISO) | N/A |
+| 6 | [ACEs STRONGER 2GETHER](http://twitter.com/search?q=ACEs+STRONGER+2GETHER) | N/A |
+| 7 | [#ACEsOur2ndAnniversary](http://twitter.com/search?q=%23ACEsOur2ndAnniversary) | N/A |
+| 8 | [YOUNG K](http://twitter.com/search?q=YOUNG+K) | N/A |
 | 9 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 10 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 11 | [I REFUSE TO BELIEVE](http://twitter.com/search?q=I+REFUSE+TO+BELIEVE) | N/A |
-| 12 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 13 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 14 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 15 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
-| 16 | [D-5 TO ANJI PARAISO](http://twitter.com/search?q=D-5+TO+ANJI+PARAISO) | N/A |
+| 10 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 11 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 12 | [I REFUSE TO BELIEVE](http://twitter.com/search?q=I+REFUSE+TO+BELIEVE) | N/A |
+| 13 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
+| 14 | [Belle](http://twitter.com/search?q=Belle) | N/A |
+| 15 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 16 | [rosie posie](http://twitter.com/search?q=rosie+posie) | N/A |
 | 17 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 18 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 19 | [Rosie posie](http://twitter.com/search?q=Rosie+posie) | N/A |
-| 20 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 21 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
-| 22 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
-| 23 | [I JUST WOKE UP](http://twitter.com/search?q=I+JUST+WOKE+UP) | N/A |
-| 24 | [deesroom](http://twitter.com/search?q=deesroom) | N/A |
-| 25 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
-| 26 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
-| 27 | [TANGINA NAMAN](http://twitter.com/search?q=TANGINA+NAMAN) | N/A |
-| 28 | [MY PARENTS](http://twitter.com/search?q=MY+PARENTS) | N/A |
-| 29 | [Mumei](http://twitter.com/search?q=Mumei) | N/A |
-| 30 | [MAYWARD EGGciting Sunday](http://twitter.com/search?q=MAYWARD+EGGciting+Sunday) | N/A |
-| 31 | [taytay](http://twitter.com/search?q=taytay) | N/A |
-| 32 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
-| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 34 | [Maligayang Pasko](http://twitter.com/search?q=Maligayang+Pasko) | Maligayang Pasko is a Filipino phrase meaning "Merry Christmas". It is used to wish someone a happy and joyous holiday season. |
-| 35 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
-| 36 | [chanbaek](http://twitter.com/search?q=chanbaek) | N/A |
-| 37 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 38 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
-| 39 | [Resurrection Sunday](http://twitter.com/search?q=Resurrection+Sunday) | N/A |
-| 40 | [London Boy](http://twitter.com/search?q=London+Boy) | N/A |
-| 41 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 42 | [I AM MV TEASER OUT NOW](http://twitter.com/search?q=I+AM+MV+TEASER+OUT+NOW) | N/A |
-| 43 | [TOTOO BA](http://twitter.com/search?q=TOTOO+BA) | N/A |
-| 44 | [WDYM JOE](http://twitter.com/search?q=WDYM+JOE) | N/A |
-| 45 | [davidxshaira becauseiloveyou](http://twitter.com/search?q=davidxshaira+becauseiloveyou) | N/A |
-| 46 | [Kkuma](http://twitter.com/search?q=Kkuma) | N/A |
-| 47 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 48 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 49 | [rradish for ppop](http://twitter.com/search?q=rradish+for+ppop) | N/A |
-| 50 | [NO WAY](http://twitter.com/search?q=NO+WAY) | N/A |
+| 18 | [#Darling](http://twitter.com/search?q=%23Darling) | N/A |
+| 19 | [Mumei](http://twitter.com/search?q=Mumei) | N/A |
+| 20 | [Sweet Nothing](http://twitter.com/search?q=Sweet+Nothing) | N/A |
+| 21 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
+| 22 | [TANGINA NAMAN](http://twitter.com/search?q=TANGINA+NAMAN) | N/A |
+| 23 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
+| 24 | [SHUT UP](http://twitter.com/search?q=SHUT+UP) | N/A |
+| 25 | [London](http://twitter.com/search?q=London) | N/A |
+| 26 | [I JUST WOKE UP](http://twitter.com/search?q=I+JUST+WOKE+UP) | N/A |
+| 27 | [MY PARENTS](http://twitter.com/search?q=MY+PARENTS) | N/A |
+| 28 | [Araw](http://twitter.com/search?q=Araw) | N/A |
+| 29 | [NO WAY](http://twitter.com/search?q=NO+WAY) | N/A |
+| 30 | [The Lord](http://twitter.com/search?q=The+Lord) | N/A |
+| 31 | [HAN JISUNG](http://twitter.com/search?q=HAN+JISUNG) | HAN JISUNG is the stage name of South Korean singer and actor Han Ji-sung. He is a member of the K-pop boy group Stray Kids. The name "HAN JISUNG" can be translated to mean "one who stands out" in English. |
+| 32 | [Maligayang Pasko](http://twitter.com/search?q=Maligayang+Pasko) | Maligayang Pasko is a Filipino phrase meaning "Merry Christmas". It is used to wish someone a happy and joyous holiday season. |
+| 33 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
+| 34 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 35 | [#BOYCOTTEBxAPTxGMA760](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA760) | N/A |
+| 36 | [#To7heWorld_WeAreNCT](http://twitter.com/search?q=%23To7heWorld_WeAreNCT) | N/A |
+| 37 | [#7년의_우리맘_따뜻하게_감싸준_NCT](http://twitter.com/search?q=%237%eb%85%84%ec%9d%98_%ec%9a%b0%eb%a6%ac%eb%a7%98_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b2%8c_%ea%b0%90%ec%8b%b8%ec%a4%80_NCT) | N/A |
 
 
 

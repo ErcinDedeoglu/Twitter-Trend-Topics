@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-04-09 03:17:00 UTC`
+📆 Last Updated: `2023-04-09 04:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Matthew Tkachuk](http://twitter.com/search?q=Matthew+Tkachuk) | N/A |
-| 2 | [#InterMiamiCF](http://twitter.com/search?q=%23InterMiamiCF) | N/A |
-| 3 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
-| 4 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 5 | [#RaysUp](http://twitter.com/search?q=%23RaysUp) | N/A |
-| 6 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 7 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 8 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 9 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 10 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 11 | [Super Mario Bros](http://twitter.com/search?q=Super+Mario+Bros) | N/A |
-| 12 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 14 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 15 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 16 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 17 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 18 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
-| 19 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 20 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 21 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 22 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 23 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 24 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 25 | [Yigit](http://twitter.com/search?q=Yigit) | N/A |
-| 26 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
-| 27 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 28 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
-| 29 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
-| 30 | [Frank Martin](http://twitter.com/search?q=Frank+Martin) | N/A |
-| 31 | [Rand Pecknold](http://twitter.com/search?q=Rand+Pecknold) | N/A |
-| 32 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
-| 33 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 34 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 35 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 36 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 37 | [Motzko](http://twitter.com/search?q=Motzko) | N/A |
-| 38 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 39 | [Justin Owen](http://twitter.com/search?q=Justin+Owen) | N/A |
-| 40 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
-| 41 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 42 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 43 | [Odor](http://twitter.com/search?q=Odor) | N/A |
-| 44 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 45 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 46 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
-| 47 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 48 | [Joe Pyfer](http://twitter.com/search?q=Joe+Pyfer) | N/A |
-| 49 | [Robbie Lawler](http://twitter.com/search?q=Robbie+Lawler) | N/A |
-| 50 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 2 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 3 | [#InterMiamiCF](http://twitter.com/search?q=%23InterMiamiCF) | N/A |
+| 4 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 5 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 6 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 7 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 8 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
+| 9 | [Super Mario Bros](http://twitter.com/search?q=Super+Mario+Bros) | N/A |
+| 10 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 11 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
+| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 13 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
+| 14 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 15 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 16 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 17 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
+| 18 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 19 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 20 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 21 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 22 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
+| 23 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 24 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
+| 25 | [#bucciovertimechallenge](http://twitter.com/search?q=%23bucciovertimechallenge) | N/A |
+| 26 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 27 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
+| 28 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 29 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 30 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
+| 31 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 32 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
+| 33 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 34 | [Yigit](http://twitter.com/search?q=Yigit) | N/A |
+| 35 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 36 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 37 | [Atencio](http://twitter.com/search?q=Atencio) | N/A |
+| 38 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
+| 39 | [Frank Martin](http://twitter.com/search?q=Frank+Martin) | N/A |
+| 40 | [Bobcats](http://twitter.com/search?q=Bobcats) | N/A |
+| 41 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 42 | [Rand Pecknold](http://twitter.com/search?q=Rand+Pecknold) | N/A |
+| 43 | [Justin Owen](http://twitter.com/search?q=Justin+Owen) | N/A |
+| 44 | [Big Baby](http://twitter.com/search?q=Big+Baby) | N/A |
+| 45 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
+| 46 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 47 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 48 | [Haney](http://twitter.com/search?q=Haney) | N/A |
+| 49 | [Campa](http://twitter.com/search?q=Campa) | N/A |
+| 50 | [Brandun Lee](http://twitter.com/search?q=Brandun+Lee) | N/A |
 
 
 

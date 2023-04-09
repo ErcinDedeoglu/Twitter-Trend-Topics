@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-09 03:16:31 UTC`
+📆 Last Updated: `2023-04-09 04:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
-| 2 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
-| 3 | [#grucze](http://twitter.com/search?q=%23grucze) | N/A |
-| 4 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
-| 5 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 2 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 3 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 4 | [#grucze](http://twitter.com/search?q=%23grucze) | N/A |
+| 5 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
 | 6 | [#LPOWAR](http://twitter.com/search?q=%23LPOWAR) | N/A |
-| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 7 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
 | 8 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
-| 9 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 10 | [Wielka Sobota](http://twitter.com/search?q=Wielka+Sobota) | N/A |
-| 11 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 13 | [Chrystus Zmartwychwstał](http://twitter.com/search?q=Chrystus+Zmartwychwsta%c5%82) | N/A |
-| 14 | [Puszczy](http://twitter.com/search?q=Puszczy) | N/A |
-| 15 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
-| 16 | [Warty](http://twitter.com/search?q=Warty) | N/A |
-| 17 | [Niepołomicach](http://twitter.com/search?q=Niepo%c5%82omicach) | N/A |
-| 18 | [wielki piątek](http://twitter.com/search?q=wielki+pi%c4%85tek) | N/A |
-| 19 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 20 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 21 | [znachora](http://twitter.com/search?q=znachora) | N/A |
-| 22 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
-| 23 | [nicki pedersen](http://twitter.com/search?q=nicki+pedersen) | N/A |
-| 24 | [nawalnego](http://twitter.com/search?q=nawalnego) | N/A |
-| 25 | [kielecki](http://twitter.com/search?q=kielecki) | N/A |
-| 26 | [Kujawski](http://twitter.com/search?q=Kujawski) | N/A |
-| 27 | [ba loua](http://twitter.com/search?q=ba+loua) | N/A |
-| 28 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
+| 9 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 10 | [wielka sobota](http://twitter.com/search?q=wielka+sobota) | N/A |
+| 11 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 12 | [#torgor](http://twitter.com/search?q=%23torgor) | N/A |
+| 13 | [Prawdziwie Zmartwychwstał](http://twitter.com/search?q=Prawdziwie+Zmartwychwsta%c5%82) | N/A |
+| 14 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
+| 15 | [Chrystus Zmartwychwstał](http://twitter.com/search?q=Chrystus+Zmartwychwsta%c5%82) | N/A |
+| 16 | [puszczy](http://twitter.com/search?q=puszczy) | N/A |
+| 17 | [wielki piątek](http://twitter.com/search?q=wielki+pi%c4%85tek) | N/A |
+| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 19 | [niepołomicach](http://twitter.com/search?q=niepo%c5%82omicach) | N/A |
+| 20 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 21 | [velde](http://twitter.com/search?q=velde) | N/A |
+| 22 | [nawalnego](http://twitter.com/search?q=nawalnego) | N/A |
+| 23 | [winiary](http://twitter.com/search?q=winiary) | N/A |
+| 24 | [Warta](http://twitter.com/search?q=Warta) | N/A |
+| 25 | [nicki pedersen](http://twitter.com/search?q=nicki+pedersen) | N/A |
+| 26 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
+| 27 | [Kujawski](http://twitter.com/search?q=Kujawski) | N/A |
+| 28 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
 | 29 | [lasyk](http://twitter.com/search?q=lasyk) | N/A |
-| 30 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
-| 31 | [Wigilii Paschalnej](http://twitter.com/search?q=Wigilii+Paschalnej) | N/A |
-| 32 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 30 | [znachora](http://twitter.com/search?q=znachora) | N/A |
+| 31 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
+| 32 | [Wigilii Paschalnej](http://twitter.com/search?q=Wigilii+Paschalnej) | N/A |
 | 33 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 34 | [kghm](http://twitter.com/search?q=kghm) | N/A |
-| 35 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 36 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
-| 37 | [Krowa](http://twitter.com/search?q=Krowa) | N/A |
-| 38 | [grudziądzu](http://twitter.com/search?q=grudzi%c4%85dzu) | N/A |
-| 39 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
-| 40 | [płocku](http://twitter.com/search?q=p%c5%82ocku) | N/A |
-| 41 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 42 | [skóraś](http://twitter.com/search?q=sk%c3%b3ra%c5%9b) | N/A |
-| 43 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 44 | [rutkowskiego](http://twitter.com/search?q=rutkowskiego) | N/A |
-| 45 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
-| 46 | [zagłębie](http://twitter.com/search?q=zag%c5%82%c4%99bie) | N/A |
-| 47 | [matematyka](http://twitter.com/search?q=matematyka) | N/A |
-| 48 | [stali](http://twitter.com/search?q=stali) | N/A |
-| 49 | [murawa](http://twitter.com/search?q=murawa) | N/A |
+| 34 | [legnicy](http://twitter.com/search?q=legnicy) | N/A |
+| 35 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
+| 36 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 37 | [życzę wam](http://twitter.com/search?q=%c5%bcycz%c4%99+wam) | N/A |
+| 38 | [Krowa](http://twitter.com/search?q=Krowa) | N/A |
+| 39 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 40 | [kghm](http://twitter.com/search?q=kghm) | N/A |
+| 41 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
+| 42 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 43 | [skóraś](http://twitter.com/search?q=sk%c3%b3ra%c5%9b) | N/A |
+| 44 | [zagłębie](http://twitter.com/search?q=zag%c5%82%c4%99bie) | N/A |
+| 45 | [rodado](http://twitter.com/search?q=rodado) | N/A |
+| 46 | [matematyka](http://twitter.com/search?q=matematyka) | N/A |
+| 47 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
+| 48 | [groszek](http://twitter.com/search?q=groszek) | N/A |
+| 49 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 50 | [murawa](http://twitter.com/search?q=murawa) | N/A |
 
 
 

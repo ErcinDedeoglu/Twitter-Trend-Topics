@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-04-09 03:17:05 UTC`
+📆 Last Updated: `2023-04-09 04:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SakuraCon2023](http://twitter.com/search?q=%23SakuraCon2023) | N/A |
+| 1 | [#SEAvSTL](http://twitter.com/search?q=%23SEAvSTL) | N/A |
 | 2 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 3 | [#Sounders](http://twitter.com/search?q=%23Sounders) | N/A |
+| 3 | [St. Louis](http://twitter.com/search?q=St.+Louis) | N/A |
 | 4 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 5 | [Kelenic](http://twitter.com/search?q=Kelenic) | N/A |
-| 6 | [Cleveland](http://twitter.com/search?q=Cleveland) | N/A |
-| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 5 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 7 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
 | 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 10 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 11 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 12 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 13 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
-| 14 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
-| 15 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 16 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 17 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 18 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 19 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 20 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 21 | [Yigit](http://twitter.com/search?q=Yigit) | N/A |
-| 22 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
-| 23 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 24 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
-| 25 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
-| 26 | [Frank Martin](http://twitter.com/search?q=Frank+Martin) | N/A |
-| 27 | [Rand Pecknold](http://twitter.com/search?q=Rand+Pecknold) | N/A |
-| 28 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
-| 29 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 30 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 31 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 32 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 33 | [Motzko](http://twitter.com/search?q=Motzko) | N/A |
-| 34 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 35 | [Justin Owen](http://twitter.com/search?q=Justin+Owen) | N/A |
-| 36 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 37 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
-| 38 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 39 | [Odor](http://twitter.com/search?q=Odor) | N/A |
-| 40 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 41 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
-| 42 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 43 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 44 | [Joe Pyfer](http://twitter.com/search?q=Joe+Pyfer) | N/A |
-| 45 | [Robbie Lawler](http://twitter.com/search?q=Robbie+Lawler) | N/A |
-| 46 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 47 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
-| 48 | [Stone Garrett](http://twitter.com/search?q=Stone+Garrett) | N/A |
-| 49 | [Vanney](http://twitter.com/search?q=Vanney) | N/A |
-| 50 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
+| 9 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 10 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
+| 11 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 12 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 13 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
+| 14 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 15 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 17 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 18 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
+| 19 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
+| 20 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 21 | [#bucciovertimechallenge](http://twitter.com/search?q=%23bucciovertimechallenge) | N/A |
+| 22 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 23 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
+| 24 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 25 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 26 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
+| 27 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 28 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
+| 29 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 30 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 31 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 32 | [Atencio](http://twitter.com/search?q=Atencio) | N/A |
+| 33 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
+| 34 | [Frank Martin](http://twitter.com/search?q=Frank+Martin) | N/A |
+| 35 | [Yigit](http://twitter.com/search?q=Yigit) | N/A |
+| 36 | [Bobcats](http://twitter.com/search?q=Bobcats) | N/A |
+| 37 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 38 | [Rand Pecknold](http://twitter.com/search?q=Rand+Pecknold) | N/A |
+| 39 | [Haney](http://twitter.com/search?q=Haney) | N/A |
+| 40 | [Justin Owen](http://twitter.com/search?q=Justin+Owen) | N/A |
+| 41 | [Big Baby](http://twitter.com/search?q=Big+Baby) | N/A |
+| 42 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
+| 43 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 44 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 45 | [Campa](http://twitter.com/search?q=Campa) | N/A |
+| 46 | [Brandun Lee](http://twitter.com/search?q=Brandun+Lee) | N/A |
+| 47 | [Scarface](http://twitter.com/search?q=Scarface) | N/A |
+| 48 | [Motzko](http://twitter.com/search?q=Motzko) | N/A |
+| 49 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
+| 50 | [Odor](http://twitter.com/search?q=Odor) | N/A |
 
 
 

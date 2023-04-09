@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-04-09 03:16:29 UTC`
+📆 Last Updated: `2023-04-09 04:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 2 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 3 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 5 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
-| 6 | [#altashoras](http://twitter.com/search?q=%23altashoras) | #Altashoras is a Spanish hashtag that translates to "high hours" in English. It is used to refer to the time of day when the sun is at its highest point in the sky, usually around noon. |
-| 7 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 8 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 2 | [LUCAS SILVA](http://twitter.com/search?q=LUCAS+SILVA) | N/A |
+| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 5 | [#altashoras](http://twitter.com/search?q=%23altashoras) | #Altashoras is a Spanish hashtag that translates to "high hours" in English. It is used to refer to the time of day when the sun is at its highest point in the sky, usually around noon. |
+| 6 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
+| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 8 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
 | 9 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
-| 10 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 11 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 12 | [Khalil](http://twitter.com/search?q=Khalil) | N/A |
-| 13 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 14 | [TOH FINALE](http://twitter.com/search?q=TOH+FINALE) | N/A |
-| 15 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 16 | [#UFCBR](http://twitter.com/search?q=%23UFCBR) | N/A |
-| 17 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
-| 18 | [STELOISA EM ALERTA](http://twitter.com/search?q=STELOISA+EM+ALERTA) | N/A |
-| 19 | [#nascarnobandsports](http://twitter.com/search?q=%23nascarnobandsports) | N/A |
-| 20 | [ENZO GABRIEL](http://twitter.com/search?q=ENZO+GABRIEL) | N/A |
-| 21 | [the great war](http://twitter.com/search?q=the+great+war) | N/A |
-| 22 | [king of my heart](http://twitter.com/search?q=king+of+my+heart) | N/A |
-| 23 | [TE AMO FURIA](http://twitter.com/search?q=TE+AMO+FURIA) | N/A |
-| 24 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
-| 25 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 26 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
-| 27 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
-| 28 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 29 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 30 | [Juma](http://twitter.com/search?q=Juma) | N/A |
-| 31 | [Sophie Charlotte](http://twitter.com/search?q=Sophie+Charlotte) | N/A |
-| 32 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
-| 33 | [PAPER RINGS](http://twitter.com/search?q=PAPER+RINGS) | N/A |
-| 34 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 35 | [ts11](http://twitter.com/search?q=ts11) | N/A |
-| 36 | [DARIUS](http://twitter.com/search?q=DARIUS) | N/A |
-| 37 | [Luana Pinheiro](http://twitter.com/search?q=Luana+Pinheiro) | N/A |
-| 38 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
-| 39 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 40 | [London Boy](http://twitter.com/search?q=London+Boy) | N/A |
-| 41 | [RECUSO](http://twitter.com/search?q=RECUSO) | N/A |
-| 42 | [Invisible String](http://twitter.com/search?q=Invisible+String) | N/A |
-| 43 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
-| 44 | [6 ANOS](http://twitter.com/search?q=6+ANOS) | N/A |
-| 45 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 46 | [Chevette](http://twitter.com/search?q=Chevette) | N/A |
-| 47 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 48 | [Letícia Colin](http://twitter.com/search?q=Let%c3%adcia+Colin) | Letícia Colin is a Brazilian actress. Her name is derived from the Latin word "Leticia," which means "joy" or "happiness." In English, her name can be translated to mean "Joyful Colin." |
-| 49 | [É MENTIRA](http://twitter.com/search?q=%c3%89+MENTIRA) | N/A |
-| 50 | [Vojvoda](http://twitter.com/search?q=Vojvoda) | N/A |
+| 10 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 11 | [ELE VIVE](http://twitter.com/search?q=ELE+VIVE) | N/A |
+| 12 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 13 | [#UFCBR](http://twitter.com/search?q=%23UFCBR) | N/A |
+| 14 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 15 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 16 | [TOH FINALE](http://twitter.com/search?q=TOH+FINALE) | N/A |
+| 17 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 18 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
+| 19 | [Khalil](http://twitter.com/search?q=Khalil) | N/A |
+| 20 | [#NCTzenSelcaDay](http://twitter.com/search?q=%23NCTzenSelcaDay) | N/A |
+| 21 | [João de Deus](http://twitter.com/search?q=Jo%c3%a3o+de+Deus) | N/A |
+| 22 | [#nascarnobandsports](http://twitter.com/search?q=%23nascarnobandsports) | N/A |
+| 23 | [O PALMEIRAS É O TIME DA VIRADA](http://twitter.com/search?q=O+PALMEIRAS+%c3%89+O+TIME+DA+VIRADA) | N/A |
+| 24 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 25 | [Sophie Charlotte](http://twitter.com/search?q=Sophie+Charlotte) | N/A |
+| 26 | [ENZO GABRIEL](http://twitter.com/search?q=ENZO+GABRIEL) | N/A |
+| 27 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 28 | [the great war](http://twitter.com/search?q=the+great+war) | N/A |
+| 29 | [O PALMEIRAS É O TIME DO AMOR](http://twitter.com/search?q=O+PALMEIRAS+%c3%89+O+TIME+DO+AMOR) | N/A |
+| 30 | [Cristo Ressuscitou](http://twitter.com/search?q=Cristo+Ressuscitou) | N/A |
+| 31 | [KING OF MY HEART](http://twitter.com/search?q=KING+OF+MY+HEART) | N/A |
+| 32 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 33 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
+| 34 | [ELE RESSUSCITOU](http://twitter.com/search?q=ELE+RESSUSCITOU) | N/A |
+| 35 | [TE AMO FURIA](http://twitter.com/search?q=TE+AMO+FURIA) | N/A |
+| 36 | [Sweet Nothing](http://twitter.com/search?q=Sweet+Nothing) | N/A |
+| 37 | [Raul Rosas](http://twitter.com/search?q=Raul+Rosas) | N/A |
+| 38 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
+| 39 | [DARIUS](http://twitter.com/search?q=DARIUS) | N/A |
+| 40 | [Chevette](http://twitter.com/search?q=Chevette) | N/A |
+| 41 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 42 | [Durinho](http://twitter.com/search?q=Durinho) | N/A |
+| 43 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
+| 44 | [Vojvoda](http://twitter.com/search?q=Vojvoda) | N/A |
+| 45 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
+| 46 | [paper rings](http://twitter.com/search?q=paper+rings) | N/A |
+| 47 | [Letícia Colin](http://twitter.com/search?q=Let%c3%adcia+Colin) | Letícia Colin is a Brazilian actress. Her name is derived from the Latin word "Leticia," which means "joy" or "happiness." In English, her name can be translated to mean "Joyful Colin." |
+| 48 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 49 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 50 | [6 ANOS](http://twitter.com/search?q=6+ANOS) | N/A |
 
 
 

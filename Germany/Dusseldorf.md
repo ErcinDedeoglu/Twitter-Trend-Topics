@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-04-09 03:16:34 UTC`
+📆 Last Updated: `2023-04-09 04:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SCFFCB](http://twitter.com/search?q=%23SCFFCB) | N/A |
-| 2 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
+| 1 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
+| 2 | [#SCFFCB](http://twitter.com/search?q=%23SCFFCB) | N/A |
 | 3 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
-| 4 | [#BVBFCU](http://twitter.com/search?q=%23BVBFCU) | N/A |
+| 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 6 | [#bscrbl](http://twitter.com/search?q=%23bscrbl) | N/A |
-| 7 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 8 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [Osterfeuer](http://twitter.com/search?q=Osterfeuer) | N/A |
+| 6 | [#BVBFCU](http://twitter.com/search?q=%23BVBFCU) | N/A |
+| 7 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 9 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 10 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
 | 11 | [Osterfeuer](http://twitter.com/search?q=Osterfeuer) | N/A |
 | 12 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 13 | [ostersamstag](http://twitter.com/search?q=ostersamstag) | N/A |
-| 14 | [karsamstag](http://twitter.com/search?q=karsamstag) | N/A |
-| 15 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 16 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 17 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 18 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 19 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 13 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
+| 14 | [ostersamstag](http://twitter.com/search?q=ostersamstag) | N/A |
+| 15 | [karsamstag](http://twitter.com/search?q=karsamstag) | N/A |
+| 16 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 17 | [DE LIGT](http://twitter.com/search?q=DE+LIGT) | N/A |
+| 18 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 19 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
 | 20 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
-| 21 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
-| 22 | [Stimmung im Land](http://twitter.com/search?q=Stimmung+im+Land) | N/A |
+| 21 | [stimmung im land](http://twitter.com/search?q=stimmung+im+land) | N/A |
+| 22 | [osterwochenende](http://twitter.com/search?q=osterwochenende) | N/A |
 | 23 | [handspiel](http://twitter.com/search?q=handspiel) | N/A |
 | 24 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
 | 25 | [Gasflaschen](http://twitter.com/search?q=Gasflaschen) | N/A |
-| 26 | [schiri](http://twitter.com/search?q=schiri) | N/A |
-| 27 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 28 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 29 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 30 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
-| 31 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
-| 32 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 33 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 34 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 35 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 36 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 37 | [Katja](http://twitter.com/search?q=Katja) | N/A |
-| 38 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
-| 39 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 40 | [moin](http://twitter.com/search?q=moin) | N/A |
-| 41 | [leitl](http://twitter.com/search?q=leitl) | N/A |
-| 42 | [Game One](http://twitter.com/search?q=Game+One) | N/A |
-| 43 | [patricia kelly](http://twitter.com/search?q=patricia+kelly) | N/A |
-| 44 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 45 | [sixtus](http://twitter.com/search?q=sixtus) | N/A |
-| 46 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
-| 47 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 48 | [Waschbär](http://twitter.com/search?q=Waschb%c3%a4r) | N/A |
-| 49 | [Ole Werner](http://twitter.com/search?q=Ole+Werner) | N/A |
+| 26 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 27 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 28 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 29 | [FOUL](http://twitter.com/search?q=FOUL) | N/A |
+| 30 | [schiri](http://twitter.com/search?q=schiri) | N/A |
+| 31 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 32 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 33 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 34 | [leitl](http://twitter.com/search?q=leitl) | N/A |
+| 35 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
+| 36 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 37 | [Game One](http://twitter.com/search?q=Game+One) | N/A |
+| 38 | [patricia kelly](http://twitter.com/search?q=patricia+kelly) | N/A |
+| 39 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 40 | ['froschperspektive'](http://twitter.com/search?q=%27froschperspektive%27) | N/A |
+| 41 | [Ole Werner](http://twitter.com/search?q=Ole+Werner) | N/A |
+| 42 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
+| 43 | [freiburger](http://twitter.com/search?q=freiburger) | N/A |
+| 44 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
+| 45 | [schuhschnabel](http://twitter.com/search?q=schuhschnabel) | N/A |
+| 46 | [chancenverwertung](http://twitter.com/search?q=chancenverwertung) | N/A |
+| 47 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
+| 48 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 49 | [Big N](http://twitter.com/search?q=Big+N) | N/A |
 
 
 
