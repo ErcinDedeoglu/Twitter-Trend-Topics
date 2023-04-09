@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thessaloniki
 
-📆 Last Updated: `2023-04-09 17:16:47 UTC`
+📆 Last Updated: `2023-04-09 18:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Greece](</Greece>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#j2us](http://twitter.com/search?q=%23j2us) | #j2us is an abbreviation for "Japan to US," which refers to the movement of people, goods, and services from Japan to the United States. |
+| 1 | [#aekaris](http://twitter.com/search?q=%23aekaris) | N/A |
 | 2 | [Βαιων](http://twitter.com/search?q=%ce%92%ce%b1%ce%b9%cf%89%ce%bd) | N/A |
-| 3 | [#spitimetomega](http://twitter.com/search?q=%23spitimetomega) | N/A |
-| 4 | [#koklo](http://twitter.com/search?q=%23koklo) | N/A |
-| 5 | [#εκλογες_2023](http://twitter.com/search?q=%23%ce%b5%ce%ba%ce%bb%ce%bf%ce%b3%ce%b5%cf%82_2023) | N/A |
-| 6 | [#aekaris](http://twitter.com/search?q=%23aekaris) | N/A |
-| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 8 | [Χρονια Πολλα](http://twitter.com/search?q=%ce%a7%cf%81%ce%bf%ce%bd%ce%b9%ce%b1+%ce%a0%ce%bf%ce%bb%ce%bb%ce%b1) | N/A |
-| 9 | [Καλη Κυριακη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7+%ce%9a%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%b7) | N/A |
-| 10 | [Καλο Πασχα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%bf+%ce%a0%ce%b1%cf%83%cf%87%ce%b1) | N/A |
-| 11 | [Αυτια](http://twitter.com/search?q=%ce%91%cf%85%cf%84%ce%b9%ce%b1) | N/A |
-| 12 | [Κυριακες](http://twitter.com/search?q=%ce%9a%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%b5%cf%82) | N/A |
-| 13 | [Λαζαρου](http://twitter.com/search?q=%ce%9b%ce%b1%ce%b6%ce%b1%cf%81%ce%bf%cf%85) | N/A |
-| 14 | [αρβανιτακη](http://twitter.com/search?q=%ce%b1%cf%81%ce%b2%ce%b1%ce%bd%ce%b9%cf%84%ce%b1%ce%ba%ce%b7) | N/A |
-| 15 | [Καλη Ανασταση](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7+%ce%91%ce%bd%ce%b1%cf%83%cf%84%ce%b1%cf%83%ce%b7) | N/A |
-| 16 | [καλο σαββατοκυριακο](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%bf+%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf) | N/A |
-| 17 | [Κοπανακη](http://twitter.com/search?q=%ce%9a%ce%bf%cf%80%ce%b1%ce%bd%ce%b1%ce%ba%ce%b7) | N/A |
-| 18 | [Ομορφη Κυριακη](http://twitter.com/search?q=%ce%9f%ce%bc%ce%bf%cf%81%cf%86%ce%b7+%ce%9a%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%b7) | N/A |
-| 19 | [Νεα Σμυρνη](http://twitter.com/search?q=%ce%9d%ce%b5%ce%b1+%ce%a3%ce%bc%cf%85%cf%81%ce%bd%ce%b7) | N/A |
-| 20 | [Μεγαλη Εβδομαδα](http://twitter.com/search?q=%ce%9c%ce%b5%ce%b3%ce%b1%ce%bb%ce%b7+%ce%95%ce%b2%ce%b4%ce%bf%ce%bc%ce%b1%ce%b4%ce%b1) | N/A |
-| 21 | [λαζαρακια](http://twitter.com/search?q=%ce%bb%ce%b1%ce%b6%ce%b1%cf%81%ce%b1%ce%ba%ce%b9%ce%b1) | N/A |
-| 22 | [Βανδη](http://twitter.com/search?q=%ce%92%ce%b1%ce%bd%ce%b4%ce%b7) | N/A |
-| 23 | [Κυριου](http://twitter.com/search?q=%ce%9a%cf%85%cf%81%ce%b9%ce%bf%cf%85) | N/A |
-| 24 | [παρτιζαν](http://twitter.com/search?q=%cf%80%ce%b1%cf%81%cf%84%ce%b9%ce%b6%ce%b1%ce%bd) | N/A |
-| 25 | [Κουρτακης](http://twitter.com/search?q=%ce%9a%ce%bf%cf%85%cf%81%cf%84%ce%b1%ce%ba%ce%b7%cf%82) | N/A |
-| 26 | [μασσαλια](http://twitter.com/search?q=%ce%bc%ce%b1%cf%83%cf%83%ce%b1%ce%bb%ce%b9%ce%b1) | N/A |
-| 27 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 28 | [δαντης](http://twitter.com/search?q=%ce%b4%ce%b1%ce%bd%cf%84%ce%b7%cf%82) | N/A |
-| 29 | [θατσερ](http://twitter.com/search?q=%ce%b8%ce%b1%cf%84%cf%83%ce%b5%cf%81) | N/A |
-| 30 | [Ουκρανη](http://twitter.com/search?q=%ce%9f%cf%85%ce%ba%cf%81%ce%b1%ce%bd%ce%b7) | N/A |
-| 31 | [Μεσολογγιου](http://twitter.com/search?q=%ce%9c%ce%b5%cf%83%ce%bf%ce%bb%ce%bf%ce%b3%ce%b3%ce%b9%ce%bf%cf%85) | N/A |
-| 32 | [ζουγανελη](http://twitter.com/search?q=%ce%b6%ce%bf%cf%85%ce%b3%ce%b1%ce%bd%ce%b5%ce%bb%ce%b7) | N/A |
-| 33 | [καλο σαββατοβραδο](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%bf+%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%ce%b2%cf%81%ce%b1%ce%b4%ce%bf) | N/A |
-| 34 | [στανιση](http://twitter.com/search?q=%cf%83%cf%84%ce%b1%ce%bd%ce%b9%cf%83%ce%b7) | N/A |
-| 35 | [καλημερα γεωργια](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%b3%ce%b5%cf%89%cf%81%ce%b3%ce%b9%ce%b1) | N/A |
-| 36 | [ΕΥΑΘ](http://twitter.com/search?q=%ce%95%ce%a5%ce%91%ce%98) | N/A |
-| 37 | [Σαββατου](http://twitter.com/search?q=%ce%a3%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%cf%85) | N/A |
-| 38 | [αλμπα](http://twitter.com/search?q=%ce%b1%ce%bb%ce%bc%cf%80%ce%b1) | N/A |
-| 39 | [σιλα](http://twitter.com/search?q=%cf%83%ce%b9%ce%bb%ce%b1) | N/A |
-| 40 | [Κουκακι](http://twitter.com/search?q=%ce%9a%ce%bf%cf%85%ce%ba%ce%b1%ce%ba%ce%b9) | N/A |
-| 41 | [Καθημερινη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%b8%ce%b7%ce%bc%ce%b5%cf%81%ce%b9%ce%bd%ce%b7) | N/A |
-| 42 | [Παραμυθι](http://twitter.com/search?q=%ce%a0%ce%b1%cf%81%ce%b1%ce%bc%cf%85%ce%b8%ce%b9) | N/A |
-| 43 | [ναταλια](http://twitter.com/search?q=%ce%bd%ce%b1%cf%84%ce%b1%ce%bb%ce%b9%ce%b1) | N/A |
-| 44 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 45 | [κοκλωνη](http://twitter.com/search?q=%ce%ba%ce%bf%ce%ba%ce%bb%cf%89%ce%bd%ce%b7) | N/A |
-| 46 | [τελ αβιβ](http://twitter.com/search?q=%cf%84%ce%b5%ce%bb+%ce%b1%ce%b2%ce%b9%ce%b2) | N/A |
-| 47 | [καρδιτσα](http://twitter.com/search?q=%ce%ba%ce%b1%cf%81%ce%b4%ce%b9%cf%84%cf%83%ce%b1) | N/A |
-| 48 | [Παθων](http://twitter.com/search?q=%ce%a0%ce%b1%ce%b8%cf%89%ce%bd) | N/A |
-| 49 | [Ελληνας](http://twitter.com/search?q=%ce%95%ce%bb%ce%bb%ce%b7%ce%bd%ce%b1%cf%82) | N/A |
-| 50 | [Δημοσκοπηση GPO](http://twitter.com/search?q=%ce%94%ce%b7%ce%bc%ce%bf%cf%83%ce%ba%ce%bf%cf%80%ce%b7%cf%83%ce%b7+GPO) | N/A |
+| 3 | [#PAOKVOL](http://twitter.com/search?q=%23PAOKVOL) | N/A |
+| 4 | [#paooly](http://twitter.com/search?q=%23paooly) | N/A |
+| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 6 | [Αντωναρο](http://twitter.com/search?q=%ce%91%ce%bd%cf%84%cf%89%ce%bd%ce%b1%cf%81%ce%bf) | N/A |
+| 7 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 8 | [#aekfc](http://twitter.com/search?q=%23aekfc) | N/A |
+| 9 | [Πολωνους](http://twitter.com/search?q=%ce%a0%ce%bf%ce%bb%cf%89%ce%bd%ce%bf%cf%85%cf%82) | N/A |
+| 10 | [καλη κυριακη](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7+%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%b7) | N/A |
+| 11 | [Τσουμπερ](http://twitter.com/search?q=%ce%a4%cf%83%ce%bf%cf%85%ce%bc%cf%80%ce%b5%cf%81) | N/A |
+| 12 | [Διαμαντοπουλος](http://twitter.com/search?q=%ce%94%ce%b9%ce%b1%ce%bc%ce%b1%ce%bd%cf%84%ce%bf%cf%80%ce%bf%cf%85%ce%bb%ce%bf%cf%82) | N/A |
+| 13 | [Καλο Πασχα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%bf+%ce%a0%ce%b1%cf%83%cf%87%ce%b1) | N/A |
+| 14 | [Καλη Ανασταση](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7+%ce%91%ce%bd%ce%b1%cf%83%cf%84%ce%b1%cf%83%ce%b7) | N/A |
+| 15 | [Μεγαλη Εβδομαδα](http://twitter.com/search?q=%ce%9c%ce%b5%ce%b3%ce%b1%ce%bb%ce%b7+%ce%95%ce%b2%ce%b4%ce%bf%ce%bc%ce%b1%ce%b4%ce%b1) | N/A |
+| 16 | [Κυριακες](http://twitter.com/search?q=%ce%9a%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%b5%cf%82) | N/A |
+| 17 | [Περιστερι](http://twitter.com/search?q=%ce%a0%ce%b5%cf%81%ce%b9%cf%83%cf%84%ce%b5%cf%81%ce%b9) | N/A |
+| 18 | [Μπενετ](http://twitter.com/search?q=%ce%9c%cf%80%ce%b5%ce%bd%ce%b5%cf%84) | N/A |
+| 19 | [καλο σαββατοκυριακο](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%bf+%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%ce%ba%cf%85%cf%81%ce%b9%ce%b1%ce%ba%ce%bf) | N/A |
+| 20 | [ΑΕΚ-Αρης](http://twitter.com/search?q=%ce%91%ce%95%ce%9a-%ce%91%cf%81%ce%b7%cf%82) | N/A |
+| 21 | [Λιβερπουλ](http://twitter.com/search?q=%ce%9b%ce%b9%ce%b2%ce%b5%cf%81%cf%80%ce%bf%cf%85%ce%bb) | N/A |
+| 22 | [Πινεδα](http://twitter.com/search?q=%ce%a0%ce%b9%ce%bd%ce%b5%ce%b4%ce%b1) | N/A |
+| 23 | [Κοπανακη](http://twitter.com/search?q=%ce%9a%ce%bf%cf%80%ce%b1%ce%bd%ce%b1%ce%ba%ce%b7) | N/A |
+| 24 | [Μπακαμπου](http://twitter.com/search?q=%ce%9c%cf%80%ce%b1%ce%ba%ce%b1%ce%bc%cf%80%ce%bf%cf%85) | N/A |
+| 25 | [Παχατουριδη](http://twitter.com/search?q=%ce%a0%ce%b1%cf%87%ce%b1%cf%84%ce%bf%cf%85%cf%81%ce%b9%ce%b4%ce%b7) | N/A |
+| 26 | [Αρσεναλ](http://twitter.com/search?q=%ce%91%cf%81%cf%83%ce%b5%ce%bd%ce%b1%ce%bb) | N/A |
+| 27 | [Αρβανιτακη](http://twitter.com/search?q=%ce%91%cf%81%ce%b2%ce%b1%ce%bd%ce%b9%cf%84%ce%b1%ce%ba%ce%b7) | N/A |
+| 28 | [ΑΕΚΑΡΑ](http://twitter.com/search?q=%ce%91%ce%95%ce%9a%ce%91%ce%a1%ce%91) | N/A |
+| 29 | [Μεσολογγιου](http://twitter.com/search?q=%ce%9c%ce%b5%cf%83%ce%bf%ce%bb%ce%bf%ce%b3%ce%b3%ce%b9%ce%bf%cf%85) | N/A |
+| 30 | [Βανδη](http://twitter.com/search?q=%ce%92%ce%b1%ce%bd%ce%b4%ce%b7) | N/A |
+| 31 | [Αυτιας](http://twitter.com/search?q=%ce%91%cf%85%cf%84%ce%b9%ce%b1%cf%82) | N/A |
+| 32 | [Ετεμπο](http://twitter.com/search?q=%ce%95%cf%84%ce%b5%ce%bc%cf%80%ce%bf) | N/A |
+| 33 | [Κιλκις](http://twitter.com/search?q=%ce%9a%ce%b9%ce%bb%ce%ba%ce%b9%cf%82) | N/A |
+| 34 | [λαζαρακια](http://twitter.com/search?q=%ce%bb%ce%b1%ce%b6%ce%b1%cf%81%ce%b1%ce%ba%ce%b9%ce%b1) | N/A |
+| 35 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 36 | [Ανατολικη Αττικη](http://twitter.com/search?q=%ce%91%ce%bd%ce%b1%cf%84%ce%bf%ce%bb%ce%b9%ce%ba%ce%b7+%ce%91%cf%84%cf%84%ce%b9%ce%ba%ce%b7) | N/A |
+| 37 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 38 | [Λαζαρου](http://twitter.com/search?q=%ce%9b%ce%b1%ce%b6%ce%b1%cf%81%ce%bf%cf%85) | N/A |
+| 39 | [Χρονια Πολλα](http://twitter.com/search?q=%ce%a7%cf%81%ce%bf%ce%bd%ce%b9%ce%b1+%ce%a0%ce%bf%ce%bb%ce%bb%ce%b1) | N/A |
+| 40 | [Μανεση](http://twitter.com/search?q=%ce%9c%ce%b1%ce%bd%ce%b5%cf%83%ce%b7) | N/A |
+| 41 | [Λεωφορο](http://twitter.com/search?q=%ce%9b%ce%b5%cf%89%cf%86%ce%bf%cf%81%ce%bf) | N/A |
+| 42 | [Αρειου Παγου](http://twitter.com/search?q=%ce%91%cf%81%ce%b5%ce%b9%ce%bf%cf%85+%ce%a0%ce%b1%ce%b3%ce%bf%cf%85) | N/A |
+| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 44 | [Ειρηνη Αγαθοπουλου](http://twitter.com/search?q=%ce%95%ce%b9%cf%81%ce%b7%ce%bd%ce%b7+%ce%91%ce%b3%ce%b1%ce%b8%ce%bf%cf%80%ce%bf%cf%85%ce%bb%ce%bf%cf%85) | N/A |
+| 45 | [ουκρανη](http://twitter.com/search?q=%ce%bf%cf%85%ce%ba%cf%81%ce%b1%ce%bd%ce%b7) | N/A |
+| 46 | [Κυρτσος](http://twitter.com/search?q=%ce%9a%cf%85%cf%81%cf%84%cf%83%ce%bf%cf%82) | N/A |
+| 47 | [καλο σαββατοβραδο](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%bf+%cf%83%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf%ce%b2%cf%81%ce%b1%ce%b4%ce%bf) | N/A |
+| 48 | [Η ΑΕΚ](http://twitter.com/search?q=%ce%97+%ce%91%ce%95%ce%9a) | N/A |
+| 49 | [Πολωνων](http://twitter.com/search?q=%ce%a0%ce%bf%ce%bb%cf%89%ce%bd%cf%89%ce%bd) | N/A |
+| 50 | [στανιση](http://twitter.com/search?q=%cf%83%cf%84%ce%b1%ce%bd%ce%b9%cf%83%ce%b7) | N/A |
 
 
 

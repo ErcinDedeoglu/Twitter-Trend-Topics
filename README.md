@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-09 17:16:29 UTC`
+📆 Last Updated: `2023-04-09 18:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [#水星の魔女](http://twitter.com/search?q=%23%e6%b0%b4%e6%98%9f%e3%81%ae%e9%ad%94%e5%a5%b3) | #水星の魔女 is a Japanese phrase that translates to "The Witch of Mercury". It is a reference to the planet Mercury, which is associated with witchcraft and magic in many cultures. |
-| 3 | [リバティアイランド](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 4 | [スレッタ](http://twitter.com/search?q=%e3%82%b9%e3%83%ac%e3%83%83%e3%82%bf) | スレッタ (sretta) is a type of Japanese folk dance that originated in the Edo period. It is characterized by its fast tempo and lively movements, and is often accompanied by singing and clapping. In English, it is sometimes referred to as "Sretta Dance". |
-| 5 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
-| 6 | [#逃走中](http://twitter.com/search?q=%23%e9%80%83%e8%b5%b0%e4%b8%ad) | N/A |
-| 7 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 8 | [ガンダム](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0) | ガンダム is a Japanese media franchise created by Sunrise that features giant robots (mecha) with the name "Gundam". The franchise began on April 7, 1979, with the release of Mobile Suit Gundam, a TV series that defined the "real robot" mecha anime genre by featuring giant robots called mobile suits in a militaristic setting. The term "Gundam" is used to refer to both the mecha and their pilots. In English, Gundam can be translated as "armored warrior". |
-| 9 | [#鉄腕DASH](http://twitter.com/search?q=%23%e9%89%84%e8%85%95DASH) | #鉄腕DASH is a Japanese manga series written and illustrated by Tetsuo Hara. It follows the story of a young man named Kenshiro, who is the successor to an ancient martial art known as Hokuto Shinken. The title of the series translates to "Iron Arm Dash" in English, referring to Kenshiro's superhuman strength and speed. |
-| 10 | [わけほー](http://twitter.com/search?q=%e3%82%8f%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
-| 11 | [グエルくん](http://twitter.com/search?q=%e3%82%b0%e3%82%a8%e3%83%ab%e3%81%8f%e3%82%93) | グエルくん is a character from the Japanese manga series, Gakuen Babysitters. He is a baby who is taken care of by the main characters, Ryuuichi and Kotarou. His name means "little squirrel" in Japanese. |
-| 12 | [#G_Witch](http://twitter.com/search?q=%23G_Witch) | #G_Witch is a hashtag used on social media to refer to the popular Japanese manga and anime series, Puella Magi Madoka Magica. The hashtag is used to discuss the series, share fan art, and celebrate its characters. In English, it translates to "Magical Girl Witch". |
-| 13 | [#امپورٹڈ_حکومت_نامنظور](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%be%d9%88%d8%b1%d9%b9%da%88_%d8%ad%da%a9%d9%88%d9%85%d8%aa_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
-| 14 | [ジョッキーカメラ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%83%e3%82%ad%e3%83%bc%e3%82%ab%e3%83%a1%e3%83%a9) | N/A |
-| 15 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 16 | [ミオリネ](http://twitter.com/search?q=%e3%83%9f%e3%82%aa%e3%83%aa%e3%83%8d) | ミオリネ is a Japanese word that means "to be in love". It is used to describe the feeling of being deeply in love with someone. |
-| 17 | [クワイエットゼロ](http://twitter.com/search?q=%e3%82%af%e3%83%af%e3%82%a4%e3%82%a8%e3%83%83%e3%83%88%e3%82%bc%e3%83%ad) | N/A |
-| 18 | [SAKURA MOMENTS WITHKDLEX](http://twitter.com/search?q=SAKURA+MOMENTS+WITHKDLEX) | N/A |
-| 19 | [コナコースト](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%82%b3%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
-| 20 | [引き分け](http://twitter.com/search?q=%e5%bc%95%e3%81%8d%e5%88%86%e3%81%91) | N/A |
-| 21 | [オークス](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%af%e3%82%b9) | N/A |
-| 22 | [ペリファーニア](http://twitter.com/search?q=%e3%83%9a%e3%83%aa%e3%83%95%e3%82%a1%e3%83%bc%e3%83%8b%e3%82%a2) | ペリファーニア (Perifaniya) is a Japanese term for a person who is knowledgeable about a wide range of topics. It is derived from the Greek word "periphanes" which means "all-knowing". In English, it can be translated as "polymath" or "renaissance man/woman". |
-| 23 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 24 | [シャディク](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%87%e3%82%a3%e3%82%af) | シャディク is a Japanese word that means "shady" or "suspicious". It is often used to describe someone or something that appears to be untrustworthy or dishonest. |
-| 25 | [エアリアル](http://twitter.com/search?q=%e3%82%a8%e3%82%a2%e3%83%aa%e3%82%a2%e3%83%ab) | エアリアル (Eariaru) is a Japanese word that means "airy" or "ethereal". It is often used to describe something that has a light, airy, or dreamlike quality. |
-| 26 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 27 | [マルタン](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%bf%e3%83%b3) | N/A |
-| 28 | [ファラクト](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%a9%e3%82%af%e3%83%88) | N/A |
-| 29 | [JRA公式](http://twitter.com/search?q=JRA%e5%85%ac%e5%bc%8f) | N/A |
-| 30 | [ダリルバルデ](http://twitter.com/search?q=%e3%83%80%e3%83%aa%e3%83%ab%e3%83%90%e3%83%ab%e3%83%87) | N/A |
-| 31 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
-| 32 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 33 | [ハープスター](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%97%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 34 | [エランくん](http://twitter.com/search?q=%e3%82%a8%e3%83%a9%e3%83%b3%e3%81%8f%e3%82%93) | N/A |
-| 35 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 36 | [グエル先輩](http://twitter.com/search?q=%e3%82%b0%e3%82%a8%e3%83%ab%e5%85%88%e8%bc%a9) | グエル先輩 (Guel Senpai) is a Japanese term used to refer to someone who is more experienced or knowledgeable than oneself. It is often used in the context of a mentor or teacher. In English, it could be translated as "Senior Guel" or "Guel the Mentor". |
-| 37 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 38 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
-| 39 | [セカンド松田](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%83%b3%e3%83%89%e6%9d%be%e7%94%b0) | N/A |
-| 40 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 41 | [イースター](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 42 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
-| 43 | [強制送還](http://twitter.com/search?q=%e5%bc%b7%e5%88%b6%e9%80%81%e9%82%84) | N/A |
-| 44 | [地球の魔女](http://twitter.com/search?q=%e5%9c%b0%e7%90%83%e3%81%ae%e9%ad%94%e5%a5%b3) | 地球の魔女 (Chikyuu no Majo) is a Japanese manga series written and illustrated by Yumiko Oshima. It follows the story of a young witch named Kaya who lives on Earth and uses her magical powers to help people in need. The title translates to "Earth Witch" in English. |
-| 45 | [グエル君](http://twitter.com/search?q=%e3%82%b0%e3%82%a8%e3%83%ab%e5%90%9b) | グエル君 (Gueru-kun) is a character from the Japanese manga series, Yotsuba&!. He is a small, green alien who visits Earth and befriends the main character, Yotsuba. His name comes from the Japanese word for "green" (gueru). In English, his name could be translated as "Green Guy". |
-| 46 | [ミオミオ](http://twitter.com/search?q=%e3%83%9f%e3%82%aa%e3%83%9f%e3%82%aa) | ミオミオ is an onomatopoeia in Japanese that is used to describe the sound of something small and light, such as a tiny bell or a light tapping sound. In English, it could be translated as "ting-a-ling" or "tinkle". |
-| 47 | [ライトクオンタム](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%88%e3%82%af%e3%82%aa%e3%83%b3%e3%82%bf%e3%83%a0) | ライトクオンタム (Raito Kuontamu) is a Japanese light novel series written by Kōhei Azano and illustrated by Tsunako. It follows the story of a group of high school students who are chosen to become "Light Quantum" and use their special powers to protect the world from evil forces. The title translates to "Light Quantum" in English. |
-| 48 | [ノイジー](http://twitter.com/search?q=%e3%83%8e%e3%82%a4%e3%82%b8%e3%83%bc) | N/A |
-| 49 | [ノーアウト3塁](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%a2%e3%82%a6%e3%83%883%e5%a1%81) | N/A |
-| 50 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 3 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 4 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 5 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 6 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 7 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 8 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 9 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 10 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 11 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 12 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 13 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 14 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 15 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
+| 16 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 17 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 18 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 19 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 20 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 21 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 22 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 23 | [ラムズデール](http://twitter.com/search?q=%e3%83%a9%e3%83%a0%e3%82%ba%e3%83%87%e3%83%bc%e3%83%ab) | N/A |
+| 24 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 25 | [Hayırlı](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1) | N/A |
+| 26 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 27 | [#鬼滅の刃](http://twitter.com/search?q=%23%e9%ac%bc%e6%bb%85%e3%81%ae%e5%88%83) | #鬼滅の刃 is a Japanese manga series written and illustrated by Koyoharu Gotouge. It follows the story of Tanjiro Kamado, a young boy who becomes a demon slayer after his family is slaughtered by demons. The title translates to "Blade of Demon Destruction" in English. |
+| 28 | [アンフィールド](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
+| 29 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 30 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 31 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 32 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 33 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 34 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 35 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 36 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 37 | [#RinkuSingh](http://twitter.com/search?q=%23RinkuSingh) | N/A |
+| 38 | [#だが情熱はある](http://twitter.com/search?q=%23%e3%81%a0%e3%81%8c%e6%83%85%e7%86%b1%e3%81%af%e3%81%82%e3%82%8b) | N/A |
+| 39 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 40 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
+| 41 | [فيرمينو](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d9%85%d9%8a%d9%86%d9%88) | N/A |
+| 42 | [#SRHvsPBKS](http://twitter.com/search?q=%23SRHvsPBKS) | N/A |
+| 43 | [蜜璃ちゃん](http://twitter.com/search?q=%e8%9c%9c%e7%92%83%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 44 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 45 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
+| 46 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 47 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 48 | [ティアニー](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%8b%e3%83%bc) | N/A |
+| 49 | [アーセナル](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%ab) | アーセナル is the name of a professional football club based in London, England. The club was founded in 1886 and is one of the most successful teams in English football history. In English, the name Arsenal is derived from the club's original home, Woolwich Arsenal. |
+| 50 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 
 
 

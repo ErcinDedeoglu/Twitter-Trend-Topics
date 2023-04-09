@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-04-09 17:17:14 UTC`
+📆 Last Updated: `2023-04-09 18:18:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ヤクルト](http://twitter.com/search?q=%e3%83%a4%e3%82%af%e3%83%ab%e3%83%88) | N/A |
-| 2 | [サヨナラ](http://twitter.com/search?q=%e3%82%b5%e3%83%a8%e3%83%8a%e3%83%a9) | N/A |
-| 3 | [#ディグロ_FLASH](http://twitter.com/search?q=%23%e3%83%87%e3%82%a3%e3%82%b0%e3%83%ad_FLASH) | N/A |
-| 4 | [#SMP765](http://twitter.com/search?q=%23SMP765) | N/A |
-| 5 | [セレッソ](http://twitter.com/search?q=%e3%82%bb%e3%83%ac%e3%83%83%e3%82%bd) | セレッソ is a Japanese football club based in Osaka. The name is an abbreviation of the club's full name, Cerezo Osaka. In English, it means "Cerezo Osaka". |
-| 6 | [投票済証](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e6%b8%88%e8%a8%bc) | N/A |
-| 7 | [リーグ戦初勝利](http://twitter.com/search?q=%e3%83%aa%e3%83%bc%e3%82%b0%e6%88%a6%e5%88%9d%e5%8b%9d%e5%88%a9) | N/A |
-| 8 | [#ラビフロ](http://twitter.com/search?q=%23%e3%83%a9%e3%83%93%e3%83%95%e3%83%ad) | N/A |
-| 9 | [ジェバリ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%90%e3%83%aa) | ジェバリ (Jebari) is a Japanese slang term that means "cool" or "awesome". It is often used to express admiration or approval of something. |
-| 10 | [フロンターレ](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%ac) | N/A |
-| 11 | [阪神打線](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e6%89%93%e7%b7%9a) | N/A |
-| 12 | [こいほー](http://twitter.com/search?q=%e3%81%93%e3%81%84%e3%81%bb%e3%83%bc) | N/A |
-| 13 | [下位打線](http://twitter.com/search?q=%e4%b8%8b%e4%bd%8d%e6%89%93%e7%b7%9a) | N/A |
-| 14 | [#アコスタみのおキューズモール](http://twitter.com/search?q=%23%e3%82%a2%e3%82%b3%e3%82%b9%e3%82%bf%e3%81%bf%e3%81%ae%e3%81%8a%e3%82%ad%e3%83%a5%e3%83%bc%e3%82%ba%e3%83%a2%e3%83%bc%e3%83%ab) | N/A |
-| 15 | [ファンファーレ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%83%95%e3%82%a1%e3%83%bc%e3%83%ac) | ファンファーレ is a type of fanfare, which is a short musical piece that is usually played to announce the arrival of an important person or to mark a special occasion. In English, it can be translated as "fanfare". |
-| 16 | [#MILKBACKDROP](http://twitter.com/search?q=%23MILKBACKDROP) | N/A |
-| 17 | [クリーンシート](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%83%bc%e3%83%b3%e3%82%b7%e3%83%bc%e3%83%88) | N/A |
-| 18 | [川田騎手](http://twitter.com/search?q=%e5%b7%9d%e7%94%b0%e9%a8%8e%e6%89%8b) | N/A |
-| 19 | [エンディング](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | エンディング (ending) is a term used in Japanese media to refer to the conclusion of a story, film, or television show. In English, it is often referred to as the "climax" or "resolution". |
-| 20 | [投票うぃ](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e3%81%86%e3%81%83) | N/A |
-| 21 | [テロリスト](http://twitter.com/search?q=%e3%83%86%e3%83%ad%e3%83%aa%e3%82%b9%e3%83%88) | N/A |
-| 22 | [シュート](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%bc%e3%83%88) | シュート is a Japanese word that means "shoot" or "shooting". It is used to refer to shooting a basketball, soccer ball, or other type of ball. It can also be used to refer to shooting a gun. |
-| 23 | [ニックス](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 24 | [選挙の投票](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%81%ae%e6%8a%95%e7%a5%a8) | N/A |
-| 25 | [パドック](http://twitter.com/search?q=%e3%83%91%e3%83%89%e3%83%83%e3%82%af) | パドック (paddock) is a term used in horse racing to refer to the area where horses are kept before and after a race. It is also used to refer to the area where horses are kept during training. In English, it can be translated as "stable" or "enclosure". |
-| 26 | [国民の義務](http://twitter.com/search?q=%e5%9b%bd%e6%b0%91%e3%81%ae%e7%be%a9%e5%8b%99) | N/A |
-| 27 | [ナイスピッチング](http://twitter.com/search?q=%e3%83%8a%e3%82%a4%e3%82%b9%e3%83%94%e3%83%83%e3%83%81%e3%83%b3%e3%82%b0) | N/A |
-| 28 | [ラヴェル](http://twitter.com/search?q=%e3%83%a9%e3%83%b4%e3%82%a7%e3%83%ab) | N/A |
-| 29 | [選挙の日](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%81%ae%e6%97%a5) | N/A |
-| 30 | [まけほー](http://twitter.com/search?q=%e3%81%be%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
-| 31 | [試合終了](http://twitter.com/search?q=%e8%a9%a6%e5%90%88%e7%b5%82%e4%ba%86) | N/A |
-| 32 | [さとみくん](http://twitter.com/search?q=%e3%81%95%e3%81%a8%e3%81%bf%e3%81%8f%e3%82%93) | N/A |
-| 33 | [エピックレイド](http://twitter.com/search?q=%e3%82%a8%e3%83%94%e3%83%83%e3%82%af%e3%83%ac%e3%82%a4%e3%83%89) | N/A |
-| 34 | [投票完了](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e5%ae%8c%e4%ba%86) | N/A |
-| 35 | [ゴール裏](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%83%ab%e8%a3%8f) | N/A |
-| 36 | [ドゥーラ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%bc%e3%83%a9) | N/A |
-| 37 | [スレッタ](http://twitter.com/search?q=%e3%82%b9%e3%83%ac%e3%83%83%e3%82%bf) | スレッタ (sretta) is a type of Japanese folk dance that originated in the Edo period. It is characterized by its fast tempo and lively movements, and is often accompanied by singing and clapping. In English, it is sometimes referred to as "Sretta Dance". |
-| 38 | [リバティアイランド](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 39 | [ガンダム](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0) | ガンダム is a Japanese media franchise created by Sunrise that features giant robots (mecha) with the name "Gundam". The franchise began on April 7, 1979, with the release of Mobile Suit Gundam, a TV series that defined the "real robot" mecha anime genre by featuring giant robots called mobile suits in a militaristic setting. The term "Gundam" is used to refer to both the mecha and their pilots. In English, Gundam can be translated as "armored warrior". |
-| 40 | [わけほー](http://twitter.com/search?q=%e3%82%8f%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
-| 41 | [グエルくん](http://twitter.com/search?q=%e3%82%b0%e3%82%a8%e3%83%ab%e3%81%8f%e3%82%93) | グエルくん is a character from the Japanese manga series, Gakuen Babysitters. He is a baby who is taken care of by the main characters, Ryuuichi and Kotarou. His name means "little squirrel" in Japanese. |
-| 42 | [ジョッキーカメラ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%83%e3%82%ad%e3%83%bc%e3%82%ab%e3%83%a1%e3%83%a9) | N/A |
-| 43 | [クワイエットゼロ](http://twitter.com/search?q=%e3%82%af%e3%83%af%e3%82%a4%e3%82%a8%e3%83%83%e3%83%88%e3%82%bc%e3%83%ad) | N/A |
-| 44 | [ミオリネ](http://twitter.com/search?q=%e3%83%9f%e3%82%aa%e3%83%aa%e3%83%8d) | ミオリネ is a Japanese word that means "to be in love". It is used to describe the feeling of being deeply in love with someone. |
-| 45 | [引き分け](http://twitter.com/search?q=%e5%bc%95%e3%81%8d%e5%88%86%e3%81%91) | N/A |
-| 46 | [オークス](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%af%e3%82%b9) | N/A |
-| 47 | [コナコースト](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%82%b3%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
-| 48 | [シャディク](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%87%e3%82%a3%e3%82%af) | シャディク is a Japanese word that means "shady" or "suspicious". It is often used to describe someone or something that appears to be untrustworthy or dishonest. |
-| 49 | [エアリアル](http://twitter.com/search?q=%e3%82%a8%e3%82%a2%e3%83%aa%e3%82%a2%e3%83%ab) | エアリアル (Eariaru) is a Japanese word that means "airy" or "ethereal". It is often used to describe something that has a light, airy, or dreamlike quality. |
-| 50 | [ペリファーニア](http://twitter.com/search?q=%e3%83%9a%e3%83%aa%e3%83%95%e3%82%a1%e3%83%bc%e3%83%8b%e3%82%a2) | ペリファーニア (Perifaniya) is a Japanese term for a person who is knowledgeable about a wide range of topics. It is derived from the Greek word "periphanes" which means "all-knowing". In English, it can be translated as "polymath" or "renaissance man/woman". |
+| 1 | [大阪市議会](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e5%b8%82%e8%ad%b0%e4%bc%9a) | N/A |
+| 2 | [玄弥くん](http://twitter.com/search?q=%e7%8e%84%e5%bc%a5%e3%81%8f%e3%82%93) | N/A |
+| 3 | [大阪府民](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e5%ba%9c%e6%b0%91) | N/A |
+| 4 | [吉村さん](http://twitter.com/search?q=%e5%90%89%e6%9d%91%e3%81%95%e3%82%93) | N/A |
+| 5 | [選挙速報](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e9%80%9f%e5%a0%b1) | N/A |
+| 6 | [大阪自民](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e8%87%aa%e6%b0%91) | N/A |
+| 7 | [当選確実](http://twitter.com/search?q=%e5%bd%93%e9%81%b8%e7%a2%ba%e5%ae%9f) | N/A |
+| 8 | [維新以外](http://twitter.com/search?q=%e7%b6%ad%e6%96%b0%e4%bb%a5%e5%a4%96) | N/A |
+| 9 | [エンディング](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | エンディング (ending) is a term used in Japanese media to refer to the conclusion of a story, film, or television show. In English, it is often referred to as the "climax" or "resolution". |
+| 10 | [煉獄さん](http://twitter.com/search?q=%e7%85%89%e7%8d%84%e3%81%95%e3%82%93) | N/A |
+| 11 | [禰󠄀豆子](http://twitter.com/search?q=%e7%a6%b0%f3%a0%84%80%e8%b1%86%e5%ad%90) | N/A |
+| 12 | [#プロローグ地上波初](http://twitter.com/search?q=%23%e3%83%97%e3%83%ad%e3%83%ad%e3%83%bc%e3%82%b0%e5%9c%b0%e4%b8%8a%e6%b3%a2%e5%88%9d) | N/A |
+| 13 | [ジョッキーカメラ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%83%e3%82%ad%e3%83%bc%e3%82%ab%e3%83%a1%e3%83%a9) | N/A |
+| 14 | [大阪維新](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e7%b6%ad%e6%96%b0) | N/A |
+| 15 | [出口調査](http://twitter.com/search?q=%e5%87%ba%e5%8f%a3%e8%aa%bf%e6%9f%bb) | N/A |
+| 16 | [情熱大陸](http://twitter.com/search?q=%e6%83%85%e7%86%b1%e5%a4%a7%e9%99%b8) | 情熱大陸 (Namaiki! Zenryoku-jōi Sengen) is a Japanese variety show that aired on Fuji TV from October 7, 1997 to September 28, 2003. The show's title translates to "Passionate Continent: A Declaration of Full-Force Enthusiasm". It was a popular variety show that featured various celebrities and comedians in skits and games. |
+| 17 | [大阪ダブル選](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e3%83%80%e3%83%96%e3%83%ab%e9%81%b8) | N/A |
+| 18 | [全国ランキング](http://twitter.com/search?q=%e5%85%a8%e5%9b%bd%e3%83%a9%e3%83%b3%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
+| 19 | [平木さん](http://twitter.com/search?q=%e5%b9%b3%e6%9c%a8%e3%81%95%e3%82%93) | N/A |
+| 20 | [ZETA](http://twitter.com/search?q=ZETA) | ZETA is the sixth letter of the Greek alphabet. In English, it is pronounced "zee-tah" and has a numerical value of 6. It is often used in mathematics and science to represent various values or constants. |
+| 21 | [JRA公式](http://twitter.com/search?q=JRA%e5%85%ac%e5%bc%8f) | N/A |
+| 22 | [イッテQ](http://twitter.com/search?q=%e3%82%a4%e3%83%83%e3%83%86Q) | イッテQ is a Japanese variety show that has been airing since 2003. The title of the show is a play on words, combining the phrase "itte kimashita" (meaning "it's done") and the letter "Q". The show features celebrity guests, comedians, and other entertainers who participate in various activities and games. In English, the title of the show can be translated to "It's Done Q". |
+| 23 | [維新の会](http://twitter.com/search?q=%e7%b6%ad%e6%96%b0%e3%81%ae%e4%bc%9a) | N/A |
+| 24 | [開票速報](http://twitter.com/search?q=%e9%96%8b%e7%a5%a8%e9%80%9f%e5%a0%b1) | N/A |
+| 25 | [もらい泣き](http://twitter.com/search?q=%e3%82%82%e3%82%89%e3%81%84%e6%b3%a3%e3%81%8d) | N/A |
+| 26 | [吉野さん](http://twitter.com/search?q=%e5%90%89%e9%87%8e%e3%81%95%e3%82%93) | N/A |
+| 27 | [民主主義](http://twitter.com/search?q=%e6%b0%91%e4%b8%bb%e4%b8%bb%e7%be%a9) | N/A |
+| 28 | [横山さん](http://twitter.com/search?q=%e6%a8%aa%e5%b1%b1%e3%81%95%e3%82%93) | N/A |
+| 29 | [吉村知事](http://twitter.com/search?q=%e5%90%89%e6%9d%91%e7%9f%a5%e4%ba%8b) | N/A |
+| 30 | [大阪市民](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e5%b8%82%e6%b0%91) | N/A |
+| 31 | [ラムズデール](http://twitter.com/search?q=%e3%83%a9%e3%83%a0%e3%82%ba%e3%83%87%e3%83%bc%e3%83%ab) | N/A |
+| 32 | [#鬼滅の刃](http://twitter.com/search?q=%23%e9%ac%bc%e6%bb%85%e3%81%ae%e5%88%83) | #鬼滅の刃 is a Japanese manga series written and illustrated by Koyoharu Gotouge. It follows the story of Tanjiro Kamado, a young boy who becomes a demon slayer after his family is slaughtered by demons. The title translates to "Blade of Demon Destruction" in English. |
+| 33 | [アンフィールド](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
+| 34 | [#だが情熱はある](http://twitter.com/search?q=%23%e3%81%a0%e3%81%8c%e6%83%85%e7%86%b1%e3%81%af%e3%81%82%e3%82%8b) | N/A |
+| 35 | [蜜璃ちゃん](http://twitter.com/search?q=%e8%9c%9c%e7%92%83%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 36 | [アーセナル](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%ab) | アーセナル is the name of a professional football club based in London, England. The club was founded in 1886 and is one of the most successful teams in English football history. In English, the name Arsenal is derived from the club's original home, Woolwich Arsenal. |
+| 37 | [ティアニー](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%8b%e3%83%bc) | N/A |
+| 38 | [キヴィオル](http://twitter.com/search?q=%e3%82%ad%e3%83%b4%e3%82%a3%e3%82%aa%e3%83%ab) | N/A |
+| 39 | [フィルミーノ](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%ab%e3%83%9f%e3%83%bc%e3%83%8e) | N/A |
+| 40 | [リヴァプール](http://twitter.com/search?q=%e3%83%aa%e3%83%b4%e3%82%a1%e3%83%97%e3%83%bc%e3%83%ab) | リヴァプール is the Japanese name for the city of Liverpool in England. It is a port city located on the eastern side of the Mersey Estuary in North West England. The English translation of リヴァプール is Liverpool. |
+| 41 | [#乃木坂工事中](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%82%e5%b7%a5%e4%ba%8b%e4%b8%ad) | #乃木坂工事中 is a hashtag used by fans of the Japanese idol group Nogizaka46. It translates to "Nogizaka46 Under Construction" and is used to show support for the group's activities and projects. |
+| 42 | [#今週のワンピ](http://twitter.com/search?q=%23%e4%bb%8a%e9%80%b1%e3%81%ae%e3%83%af%e3%83%b3%e3%83%94) | N/A |
+| 43 | [ジェズス](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%ba%e3%82%b9) | N/A |
+| 44 | [アーノルド](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%8e%e3%83%ab%e3%83%89) | アーノルド is the Japanese transliteration of the name Arnold. It is a masculine given name of Germanic origin, derived from the elements "arn" (eagle) and "wald" (rule). In English, it means "strong as an eagle". |
+| 45 | [マルティネッリ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%83%86%e3%82%a3%e3%83%8d%e3%83%83%e3%83%aa) | マルティネッリ is a type of Italian pasta dish. It is made with a combination of cooked macaroni, cheese, and cream. The name comes from the Italian words for "cooked" (malti) and "nest" (nestri). In English, it can be translated as "macaroni and cheese". |
+| 46 | [ジンチェンコ](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b3) | ジンチェンコ is a Japanese card game that is similar to the Western game of Go Fish. The name translates to "pulling out a pair" and the goal of the game is to collect as many pairs of cards as possible. |
+| 47 | [トロサール](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%82%b5%e3%83%bc%e3%83%ab) | トロサール (torosāru) is a type of Japanese pastry made from a sweet dough filled with custard cream. The name comes from the French word "trousser", which means "to wrap". In English, it can be translated as "custard-filled pastry". |
+| 48 | [リバプール](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%97%e3%83%bc%e3%83%ab) | リバプール (Ribapuru) is the Japanese name for the English city of Liverpool. It is a port city in northwest England, located on the eastern side of the Mersey Estuary. The city is known for its rich musical and cultural heritage, as well as its football team, Liverpool FC. |
+| 49 | [みつりちゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%a4%e3%82%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 
 
 

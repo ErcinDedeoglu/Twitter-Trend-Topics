@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-09 17:16:47 UTC`
+📆 Last Updated: `2023-04-09 18:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Godset](http://twitter.com/search?q=Godset) | N/A |
-| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 6 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 7 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 8 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 9 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 10 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 11 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 12 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 13 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 14 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
-| 15 | [Norge](http://twitter.com/search?q=Norge) | N/A |
-| 16 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 17 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 18 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
-| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 20 | [Lillestrøm](http://twitter.com/search?q=Lillestr%c3%b8m) | N/A |
-| 21 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 22 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 23 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 24 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 25 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 26 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 27 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 28 | [rolness](http://twitter.com/search?q=rolness) | N/A |
-| 29 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 30 | [Åråsen](http://twitter.com/search?q=%c3%85r%c3%a5sen) | N/A |
-| 31 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 32 | [#2fantasy](http://twitter.com/search?q=%232fantasy) | N/A |
-| 33 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 34 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 35 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 36 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 37 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 38 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 39 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 40 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 41 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
-| 42 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 43 | [storhamar](http://twitter.com/search?q=storhamar) | N/A |
-| 44 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 45 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 46 | [leste](http://twitter.com/search?q=leste) | N/A |
-| 47 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 48 | [#narkotwitter](http://twitter.com/search?q=%23narkotwitter) | N/A |
-| 49 | [Paris-Roubaix](http://twitter.com/search?q=Paris-Roubaix) | N/A |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 3 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 4 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 5 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 7 | [Godset](http://twitter.com/search?q=Godset) | N/A |
+| 8 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 9 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 10 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 11 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 12 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 13 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 14 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 15 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 16 | [Steinkjer](http://twitter.com/search?q=Steinkjer) | N/A |
+| 17 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 18 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 19 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 20 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 21 | [Åråsen](http://twitter.com/search?q=%c3%85r%c3%a5sen) | N/A |
+| 22 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 23 | [Epic](http://twitter.com/search?q=Epic) | N/A |
+| 24 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 25 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 26 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 27 | [aalesund](http://twitter.com/search?q=aalesund) | N/A |
+| 28 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 29 | [team sif](http://twitter.com/search?q=team+sif) | N/A |
+| 30 | [rolness](http://twitter.com/search?q=rolness) | N/A |
+| 31 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 32 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 33 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
+| 34 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 35 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 36 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 37 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 38 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 39 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 40 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 41 | [Eliteserien 2023](http://twitter.com/search?q=Eliteserien+2023) | N/A |
+| 42 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 43 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 44 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 45 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 46 | [AAFK](http://twitter.com/search?q=AAFK) | N/A |
+| 47 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 48 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 
 
 

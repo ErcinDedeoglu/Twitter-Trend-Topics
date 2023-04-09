@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-09 17:17:17 UTC`
+📆 Last Updated: `2023-04-09 18:18:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 3 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 4 | [#temblorgt](http://twitter.com/search?q=%23temblorgt) | N/A |
-| 5 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
-| 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 7 | [Danny Ocean](http://twitter.com/search?q=Danny+Ocean) | N/A |
-| 8 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
-| 9 | [Duki](http://twitter.com/search?q=Duki) | N/A |
-| 10 | [rotondi](http://twitter.com/search?q=rotondi) | N/A |
-| 11 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 12 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 13 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 14 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 15 | [Nicki Nicole](http://twitter.com/search?q=Nicki+Nicole) | N/A |
-| 16 | [achuapa](http://twitter.com/search?q=achuapa) | N/A |
-| 17 | [duko](http://twitter.com/search?q=duko) | N/A |
-| 18 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 19 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
-| 20 | [#lnfg](http://twitter.com/search?q=%23lnfg) | N/A |
-| 21 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 22 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
-| 23 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
+| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 4 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 6 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 8 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 9 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 10 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 11 | [Duki](http://twitter.com/search?q=Duki) | N/A |
+| 12 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
+| 13 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 14 | [#temblorgt](http://twitter.com/search?q=%23temblorgt) | N/A |
+| 15 | [rotondi](http://twitter.com/search?q=rotondi) | N/A |
+| 16 | [Danny Ocean](http://twitter.com/search?q=Danny+Ocean) | N/A |
+| 17 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 18 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 19 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 20 | [nicki nicole](http://twitter.com/search?q=nicki+nicole) | N/A |
+| 21 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
+| 22 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 23 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 25 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 25 | [Comunicaciones](http://twitter.com/search?q=Comunicaciones) | N/A |
 | 26 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 27 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 28 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 29 | [#sismogt](http://twitter.com/search?q=%23sismogt) | N/A |
-| 30 | [chivarreto](http://twitter.com/search?q=chivarreto) | N/A |
-| 31 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 32 | [xinabajul](http://twitter.com/search?q=xinabajul) | N/A |
-| 33 | [tortillas](http://twitter.com/search?q=tortillas) | N/A |
-| 34 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 35 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 36 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 37 | [jornada 17](http://twitter.com/search?q=jornada+17) | N/A |
-| 38 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
-| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 40 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 41 | [conasa](http://twitter.com/search?q=conasa) | N/A |
-| 42 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
-| 43 | [Chimaltenango](http://twitter.com/search?q=Chimaltenango) | N/A |
-| 44 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 45 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 46 | [palín-escuintla](http://twitter.com/search?q=pal%c3%adn-escuintla) | N/A |
-| 47 | [Virgen](http://twitter.com/search?q=Virgen) | N/A |
-| 48 | [San Felipe](http://twitter.com/search?q=San+Felipe) | N/A |
-| 49 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 50 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 27 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 28 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
+| 29 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
+| 30 | [Duko](http://twitter.com/search?q=Duko) | N/A |
+| 31 | [El Palmar](http://twitter.com/search?q=El+Palmar) | N/A |
+| 32 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 33 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 34 | [Achuapa](http://twitter.com/search?q=Achuapa) | N/A |
+| 35 | [#LNFG](http://twitter.com/search?q=%23LNFG) | N/A |
+| 36 | [#sismogt](http://twitter.com/search?q=%23sismogt) | N/A |
+| 37 | [Guastatoya](http://twitter.com/search?q=Guastatoya) | N/A |
+| 38 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 39 | [#cl23](http://twitter.com/search?q=%23cl23) | N/A |
+| 40 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 41 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 42 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 43 | [Prince Royce](http://twitter.com/search?q=Prince+Royce) | N/A |
+| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 45 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 46 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 47 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 48 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
+| 49 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 50 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
 
 
 

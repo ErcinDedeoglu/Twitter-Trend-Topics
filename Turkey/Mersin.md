@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-04-09 17:17:04 UTC`
+📆 Last Updated: `2023-04-09 18:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
-| 2 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
-| 3 | [Eren Erdem](http://twitter.com/search?q=Eren+Erdem) | N/A |
-| 4 | [Kemal Özkiraz](http://twitter.com/search?q=Kemal+%c3%96zkiraz) | N/A |
-| 5 | [#YarımKalanEYTkararlı](http://twitter.com/search?q=%23Yar%c4%b1mKalanEYTkararl%c4%b1) | N/A |
-| 6 | [#kavga](http://twitter.com/search?q=%23kavga) | N/A |
-| 7 | [Şaban](http://twitter.com/search?q=%c5%9eaban) | Şaban is a Turkish male name, derived from the Arabic name Sabban. It means "lion" or "brave". |
-| 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 9 | [Sezgin Tanrıkulu](http://twitter.com/search?q=Sezgin+Tanr%c4%b1kulu) | N/A |
-| 10 | [Türkan Elçi](http://twitter.com/search?q=T%c3%bcrkan+El%c3%a7i) | N/A |
-| 11 | [İlhan Kesici](http://twitter.com/search?q=%c4%b0lhan+Kesici) | N/A |
-| 12 | [YİYİN BİRBİRİNİZİ](http://twitter.com/search?q=Y%c4%b0Y%c4%b0N+B%c4%b0RB%c4%b0R%c4%b0N%c4%b0Z%c4%b0) | N/A |
-| 13 | [Çankaya](http://twitter.com/search?q=%c3%87ankaya) | N/A |
-| 14 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 15 | [Barış Yarkadaş](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Yarkada%c5%9f) | N/A |
-| 16 | [Listeler](http://twitter.com/search?q=Listeler) | N/A |
-| 17 | [İstanbul 1](http://twitter.com/search?q=%c4%b0stanbul+1) | N/A |
-| 18 | [Tuncay Özkan](http://twitter.com/search?q=Tuncay+%c3%96zkan) | N/A |
-| 19 | [Ankara 1](http://twitter.com/search?q=Ankara+1) | N/A |
-| 20 | [Gelecek Partisi](http://twitter.com/search?q=Gelecek+Partisi) | N/A |
-| 21 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
-| 22 | [Cemal Enginyurt](http://twitter.com/search?q=Cemal+Enginyurt) | Cemal Enginyurt is a Turkish name, derived from the words "cemal" (meaning "beauty") and "enginyurt" (meaning "engineer"). The name can be translated to mean "beautiful engineer". |
-| 23 | [Bayramınız](http://twitter.com/search?q=Bayram%c4%b1n%c4%b1z) | N/A |
-| 24 | [Mimar Sinan](http://twitter.com/search?q=Mimar+Sinan) | N/A |
-| 25 | [Erzincan](http://twitter.com/search?q=Erzincan) | N/A |
-| 26 | [Mustafa Sarıgül](http://twitter.com/search?q=Mustafa+Sar%c4%b1g%c3%bcl) | N/A |
-| 27 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 28 | [Tıpış](http://twitter.com/search?q=T%c4%b1p%c4%b1%c5%9f) | N/A |
-| 29 | [Aytun](http://twitter.com/search?q=Aytun) | N/A |
-| 30 | [CHP Parti Meclisi](http://twitter.com/search?q=CHP+Parti+Meclisi) | N/A |
-| 31 | [Ergenekon](http://twitter.com/search?q=Ergenekon) | N/A |
-| 32 | [CHP'de](http://twitter.com/search?q=CHP%27de) | N/A |
-| 33 | [Deva](http://twitter.com/search?q=Deva) | N/A |
-| 34 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
-| 35 | [İYİ Parti](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti) | N/A |
-| 36 | [Dilek](http://twitter.com/search?q=Dilek) | N/A |
-| 37 | [Koltuk](http://twitter.com/search?q=Koltuk) | N/A |
-| 38 | [Oyumu](http://twitter.com/search?q=Oyumu) | N/A |
-| 39 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 40 | [Buket Aydın](http://twitter.com/search?q=Buket+Ayd%c4%b1n) | N/A |
-| 41 | [Saadet Partisi](http://twitter.com/search?q=Saadet+Partisi) | N/A |
-| 42 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
-| 43 | [Kandil](http://twitter.com/search?q=Kandil) | N/A |
-| 44 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
-| 45 | [#Paskalya](http://twitter.com/search?q=%23Paskalya) | N/A |
-| 46 | [#urfa](http://twitter.com/search?q=%23urfa) | N/A |
-| 47 | [#StajyerÇırakMilletle](http://twitter.com/search?q=%23Stajyer%c3%87%c4%b1rakMilletle) | N/A |
-| 48 | [#tjktvyariszamani](http://twitter.com/search?q=%23tjktvyariszamani) | N/A |
+| 1 | [Hayırlı](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1) | N/A |
+| 2 | [OnurNerdesin AtKafası](http://twitter.com/search?q=OnurNerdesin+AtKafas%c4%b1) | N/A |
+| 3 | [SözümSöz OyumEhliyet](http://twitter.com/search?q=S%c3%b6z%c3%bcmS%c3%b6z+OyumEhliyet) | N/A |
+| 4 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 5 | [#BJKvGRS](http://twitter.com/search?q=%23BJKvGRS) | N/A |
+| 6 | [#MemurunCebindeYangınVar](http://twitter.com/search?q=%23MemurunCebindeYang%c4%b1nVar) | N/A |
+| 7 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
+| 8 | [Başarılar](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar) | N/A |
+| 9 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
+| 10 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 11 | [YalnızDeğilsin ElifNurYel](http://twitter.com/search?q=Yaln%c4%b1zDe%c4%9filsin+ElifNurYel) | N/A |
+| 12 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 13 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 14 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 15 | [İzmir](http://twitter.com/search?q=%c4%b0zmir) | N/A |
+| 16 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
+| 17 | [Tebrik](http://twitter.com/search?q=Tebrik) | N/A |
+| 18 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 19 | [#TİPSeninMeclisSenin](http://twitter.com/search?q=%23T%c4%b0PSeninMeclisSenin) | N/A |
+| 20 | [Ak Parti](http://twitter.com/search?q=Ak+Parti) | N/A |
+| 21 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 22 | [Dönem Milletvekili](http://twitter.com/search?q=D%c3%b6nem+Milletvekili) | N/A |
+| 23 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 24 | [Ankara 1](http://twitter.com/search?q=Ankara+1) | N/A |
+| 25 | [TİP'e](http://twitter.com/search?q=T%c4%b0P%27e) | N/A |
+| 26 | [Can Atalay](http://twitter.com/search?q=Can+Atalay) | N/A |
+| 27 | [Yolunuz](http://twitter.com/search?q=Yolunuz) | N/A |
+| 28 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 29 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 30 | [Gedson](http://twitter.com/search?q=Gedson) | Gedson is a Portuguese name derived from the Germanic name Gudrun, which means “God’s secret” or “God’s protection.” It is also a variation of the name Gerson, which means “son of God.” |
+| 31 | [Ülkemize](http://twitter.com/search?q=%c3%9clkemize) | N/A |
+| 32 | [Bölge 1](http://twitter.com/search?q=B%c3%b6lge+1) | N/A |
+| 33 | [Arif](http://twitter.com/search?q=Arif) | N/A |
+| 34 | [İstanbul 2](http://twitter.com/search?q=%c4%b0stanbul+2) | N/A |
+| 35 | [Durmak](http://twitter.com/search?q=Durmak) | N/A |
+| 36 | [Gaziantep 1](http://twitter.com/search?q=Gaziantep+1) | N/A |
+| 37 | [Savcı Sayan](http://twitter.com/search?q=Savc%c4%b1+Sayan) | N/A |
+| 38 | [Giresun](http://twitter.com/search?q=Giresun) | Giresun is a province in the Black Sea region of Turkey. Its name in English translates to "Sunny Place". |
+| 39 | [AytolBugün AybükeninKanalında](http://twitter.com/search?q=AytolBug%c3%bcn+Ayb%c3%bckeninKanal%c4%b1nda) | N/A |
+| 40 | [Serdar Bali](http://twitter.com/search?q=Serdar+Bali) | N/A |
+| 41 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 42 | [Sezen Aksu](http://twitter.com/search?q=Sezen+Aksu) | N/A |
+| 43 | [Tıpış](http://twitter.com/search?q=T%c4%b1p%c4%b1%c5%9f) | N/A |
+| 44 | [Çankaya](http://twitter.com/search?q=%c3%87ankaya) | N/A |
+| 45 | [Antalya 2](http://twitter.com/search?q=Antalya+2) | N/A |
+| 46 | [İdris Naim Şahin](http://twitter.com/search?q=%c4%b0dris+Naim+%c5%9eahin) | N/A |
+| 47 | [Rosier](http://twitter.com/search?q=Rosier) | Rosier is a French word meaning "rosebush" or "rose garden". It can also refer to a person who is fond of roses. |
+| 48 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 49 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
 
 
 

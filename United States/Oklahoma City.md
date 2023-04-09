@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oklahoma City
 
-📆 Last Updated: `2023-04-09 17:17:11 UTC`
+📆 Last Updated: `2023-04-09 18:18:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 3 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 4 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 5 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 6 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 7 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 8 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 9 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
-| 10 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
-| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 12 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 13 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 14 | [Resurrection Sunday](http://twitter.com/search?q=Resurrection+Sunday) | N/A |
-| 15 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 16 | [Doran](http://twitter.com/search?q=Doran) | N/A |
-| 17 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 18 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 19 | [#FundoraMendoza](http://twitter.com/search?q=%23FundoraMendoza) | N/A |
-| 20 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
-| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 22 | [AND NEW](http://twitter.com/search?q=AND+NEW) | N/A |
-| 23 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 24 | [gerard](http://twitter.com/search?q=gerard) | N/A |
-| 25 | [Watching and Dreaming](http://twitter.com/search?q=Watching+and+Dreaming) | N/A |
-| 26 | [Belos](http://twitter.com/search?q=Belos) | N/A |
-| 27 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 28 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 29 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 30 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 31 | [Raine](http://twitter.com/search?q=Raine) | N/A |
-| 32 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 33 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 34 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 35 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 36 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
-| 37 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 38 | [DARIUS](http://twitter.com/search?q=DARIUS) | N/A |
-| 39 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 40 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 41 | [Jesus of Nazareth](http://twitter.com/search?q=Jesus+of+Nazareth) | N/A |
-| 42 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 43 | [Jon Jones](http://twitter.com/search?q=Jon+Jones) | Jon Jones is an American mixed martial artist and former UFC Light Heavyweight Champion. He is widely considered to be one of the greatest fighters in the history of the sport. The phrase "Jon Jones" is used to refer to his accomplishments in the sport, as well as his skill and dominance in the octagon. |
-| 44 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 45 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 46 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 47 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 48 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 49 | [Sanji](http://twitter.com/search?q=Sanji) | N/A |
-| 50 | [Gamebred](http://twitter.com/search?q=Gamebred) | N/A |
+| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 5 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 6 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 7 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 8 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 9 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 10 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 11 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 12 | [Resurrection Sunday](http://twitter.com/search?q=Resurrection+Sunday) | N/A |
+| 13 | [Haslem](http://twitter.com/search?q=Haslem) | N/A |
+| 14 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 15 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 16 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
+| 17 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 18 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
+| 19 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 20 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 21 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 22 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 23 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 24 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 25 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 26 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
+| 27 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 28 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 29 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 30 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 31 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 32 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 33 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 34 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 35 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 36 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 37 | [Happy Resurrection](http://twitter.com/search?q=Happy+Resurrection) | N/A |
+| 38 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 39 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 40 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 41 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 42 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 43 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 44 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 45 | [#HEATCulture](http://twitter.com/search?q=%23HEATCulture) | N/A |
+| 46 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 47 | [Shaq Harrison](http://twitter.com/search?q=Shaq+Harrison) | N/A |
+| 48 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 49 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
+| 50 | [Wander Franco](http://twitter.com/search?q=Wander+Franco) | N/A |
 
 
 

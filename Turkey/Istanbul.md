@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-04-09 17:17:05 UTC`
+📆 Last Updated: `2023-04-09 18:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 2 | [Günaydınnnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnnn) | N/A |
-| 3 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 4 | [#Söz2000Lerde](http://twitter.com/search?q=%23S%c3%b6z2000Lerde) | N/A |
-| 5 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
-| 6 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
-| 7 | [Eren Erdem](http://twitter.com/search?q=Eren+Erdem) | N/A |
-| 8 | [Kemal Özkiraz](http://twitter.com/search?q=Kemal+%c3%96zkiraz) | N/A |
-| 9 | [#YarımKalanEYTkararlı](http://twitter.com/search?q=%23Yar%c4%b1mKalanEYTkararl%c4%b1) | N/A |
-| 10 | [#kavga](http://twitter.com/search?q=%23kavga) | N/A |
-| 11 | [Şaban](http://twitter.com/search?q=%c5%9eaban) | Şaban is a Turkish male name, derived from the Arabic name Sabban. It means "lion" or "brave". |
-| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 13 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
-| 14 | [Sezgin Tanrıkulu](http://twitter.com/search?q=Sezgin+Tanr%c4%b1kulu) | N/A |
-| 15 | [Türkan Elçi](http://twitter.com/search?q=T%c3%bcrkan+El%c3%a7i) | N/A |
-| 16 | [İlhan Kesici](http://twitter.com/search?q=%c4%b0lhan+Kesici) | N/A |
-| 17 | [YİYİN BİRBİRİNİZİ](http://twitter.com/search?q=Y%c4%b0Y%c4%b0N+B%c4%b0RB%c4%b0R%c4%b0N%c4%b0Z%c4%b0) | N/A |
-| 18 | [Çankaya](http://twitter.com/search?q=%c3%87ankaya) | N/A |
-| 19 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 20 | [Barış Yarkadaş](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Yarkada%c5%9f) | N/A |
-| 21 | [Listeler](http://twitter.com/search?q=Listeler) | N/A |
-| 22 | [İstanbul 1](http://twitter.com/search?q=%c4%b0stanbul+1) | N/A |
-| 23 | [Tuncay Özkan](http://twitter.com/search?q=Tuncay+%c3%96zkan) | N/A |
-| 24 | [Ankara 1](http://twitter.com/search?q=Ankara+1) | N/A |
-| 25 | [Mimar Sinan](http://twitter.com/search?q=Mimar+Sinan) | N/A |
-| 26 | [Gelecek Partisi](http://twitter.com/search?q=Gelecek+Partisi) | N/A |
-| 27 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
-| 28 | [Cemal Enginyurt](http://twitter.com/search?q=Cemal+Enginyurt) | Cemal Enginyurt is a Turkish name, derived from the words "cemal" (meaning "beauty") and "enginyurt" (meaning "engineer"). The name can be translated to mean "beautiful engineer". |
-| 29 | [Bayramınız](http://twitter.com/search?q=Bayram%c4%b1n%c4%b1z) | N/A |
-| 30 | [Erzincan](http://twitter.com/search?q=Erzincan) | N/A |
-| 31 | [Mustafa Sarıgül](http://twitter.com/search?q=Mustafa+Sar%c4%b1g%c3%bcl) | N/A |
-| 32 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 33 | [Tıpış](http://twitter.com/search?q=T%c4%b1p%c4%b1%c5%9f) | N/A |
-| 34 | [Aytun](http://twitter.com/search?q=Aytun) | N/A |
-| 35 | [CHP Parti Meclisi](http://twitter.com/search?q=CHP+Parti+Meclisi) | N/A |
-| 36 | [Ergenekon](http://twitter.com/search?q=Ergenekon) | N/A |
-| 37 | [Deva](http://twitter.com/search?q=Deva) | N/A |
-| 38 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
-| 39 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
-| 40 | [CHP'de](http://twitter.com/search?q=CHP%27de) | N/A |
-| 41 | [Dilek](http://twitter.com/search?q=Dilek) | N/A |
-| 42 | [Koltuk](http://twitter.com/search?q=Koltuk) | N/A |
-| 43 | [Oyumu](http://twitter.com/search?q=Oyumu) | N/A |
-| 44 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 45 | [Buket Aydın](http://twitter.com/search?q=Buket+Ayd%c4%b1n) | N/A |
-| 46 | [Saadet Partisi](http://twitter.com/search?q=Saadet+Partisi) | N/A |
-| 47 | [Kandil](http://twitter.com/search?q=Kandil) | N/A |
-| 48 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
-| 49 | [#Paskalya](http://twitter.com/search?q=%23Paskalya) | N/A |
-| 50 | [#urfa](http://twitter.com/search?q=%23urfa) | N/A |
+| 1 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 2 | [Bakan](http://twitter.com/search?q=Bakan) | N/A |
+| 3 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
+| 4 | [#GüzelGünler](http://twitter.com/search?q=%23G%c3%bczelG%c3%bcnler) | N/A |
+| 5 | [#MemleketPartisi](http://twitter.com/search?q=%23MemleketPartisi) | N/A |
+| 6 | [Ergenekon](http://twitter.com/search?q=Ergenekon) | N/A |
+| 7 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
+| 8 | [CHP'den](http://twitter.com/search?q=CHP%27den) | N/A |
+| 9 | [Pervin](http://twitter.com/search?q=Pervin) | N/A |
+| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 11 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
+| 12 | [Erzincan](http://twitter.com/search?q=Erzincan) | N/A |
+| 13 | [Zafer Partisi](http://twitter.com/search?q=Zafer+Partisi) | N/A |
+| 14 | [Bolu](http://twitter.com/search?q=Bolu) | N/A |
+| 15 | [AKP'den](http://twitter.com/search?q=AKP%27den) | N/A |
+| 16 | [İYİP](http://twitter.com/search?q=%c4%b0Y%c4%b0P) | N/A |
+| 17 | [Urfa](http://twitter.com/search?q=Urfa) | Urfa is a city in southeastern Turkey. It is known for its ancient ruins, bazaars, and cuisine. The name Urfa is derived from the Aramaic word "Orhay", meaning "city of caves". In English, it can be translated as "City of Caves". |
+| 18 | [Şaban](http://twitter.com/search?q=%c5%9eaban) | Şaban is a Turkish male name, derived from the Arabic name Sabban. It means "lion" or "brave". |
+| 19 | [Hayırlı](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1) | N/A |
+| 20 | [OnurNerdesin AtKafası](http://twitter.com/search?q=OnurNerdesin+AtKafas%c4%b1) | N/A |
+| 21 | [SözümSöz OyumEhliyet](http://twitter.com/search?q=S%c3%b6z%c3%bcmS%c3%b6z+OyumEhliyet) | N/A |
+| 22 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 23 | [#BJKvGRS](http://twitter.com/search?q=%23BJKvGRS) | N/A |
+| 24 | [#MemurunCebindeYangınVar](http://twitter.com/search?q=%23MemurunCebindeYang%c4%b1nVar) | N/A |
+| 25 | [Ghezzal](http://twitter.com/search?q=Ghezzal) | N/A |
+| 26 | [Başarılar](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar) | N/A |
+| 27 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
+| 28 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 29 | [YalnızDeğilsin ElifNurYel](http://twitter.com/search?q=Yaln%c4%b1zDe%c4%9filsin+ElifNurYel) | N/A |
+| 30 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 31 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 32 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 33 | [İzmir](http://twitter.com/search?q=%c4%b0zmir) | N/A |
+| 34 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
+| 35 | [Tebrik](http://twitter.com/search?q=Tebrik) | N/A |
+| 36 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 37 | [Dönem Milletvekili](http://twitter.com/search?q=D%c3%b6nem+Milletvekili) | N/A |
+| 38 | [Ak Parti](http://twitter.com/search?q=Ak+Parti) | N/A |
+| 39 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 40 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 41 | [Ankara 1](http://twitter.com/search?q=Ankara+1) | N/A |
+| 42 | [TİP'e](http://twitter.com/search?q=T%c4%b0P%27e) | N/A |
+| 43 | [Yolunuz](http://twitter.com/search?q=Yolunuz) | N/A |
+| 44 | [Can Atalay](http://twitter.com/search?q=Can+Atalay) | N/A |
+| 45 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 46 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 47 | [Ülkemize](http://twitter.com/search?q=%c3%9clkemize) | N/A |
+| 48 | [Gedson](http://twitter.com/search?q=Gedson) | Gedson is a Portuguese name derived from the Germanic name Gudrun, which means “God’s secret” or “God’s protection.” It is also a variation of the name Gerson, which means “son of God.” |
+| 49 | [Bölge 1](http://twitter.com/search?q=B%c3%b6lge+1) | N/A |
+| 50 | [Arif](http://twitter.com/search?q=Arif) | N/A |
 
 
 

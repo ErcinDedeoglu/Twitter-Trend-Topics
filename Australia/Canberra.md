@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-09 17:16:49 UTC`
+📆 Last Updated: `2023-04-09 18:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [#AFLEaglesDees](http://twitter.com/search?q=%23AFLEaglesDees) | N/A |
-| 3 | [#AFLDonsGiants](http://twitter.com/search?q=%23AFLDonsGiants) | N/A |
-| 4 | [#NRLKnightsWarriors](http://twitter.com/search?q=%23NRLKnightsWarriors) | N/A |
-| 5 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 6 | [Ben Hunt](http://twitter.com/search?q=Ben+Hunt) | N/A |
-| 7 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Rapana](http://twitter.com/search?q=Rapana) | N/A |
-| 10 | [Dame Edna](http://twitter.com/search?q=Dame+Edna) | N/A |
-| 11 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 12 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
-| 13 | [Bruce Haigh](http://twitter.com/search?q=Bruce+Haigh) | N/A |
-| 14 | [Stringer](http://twitter.com/search?q=Stringer) | N/A |
-| 15 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 16 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 17 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
-| 18 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 19 | [West Coast](http://twitter.com/search?q=West+Coast) | West Coast is a term used to refer to the western region of the United States, including California, Oregon, and Washington. It is also sometimes used to refer to the entire western coast of North America, including Canada and Mexico. The term is often used to describe a particular lifestyle or culture associated with the region, such as its relaxed attitude and laid-back atmosphere. |
-| 20 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 21 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 22 | [Adam Goodes](http://twitter.com/search?q=Adam+Goodes) | N/A |
-| 23 | [Slippery](http://twitter.com/search?q=Slippery) | N/A |
-| 24 | [Keath](http://twitter.com/search?q=Keath) | N/A |
-| 25 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 26 | [Langford](http://twitter.com/search?q=Langford) | N/A |
-| 27 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 28 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 29 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 30 | [Buddy](http://twitter.com/search?q=Buddy) | N/A |
-| 31 | [aliir](http://twitter.com/search?q=aliir) | N/A |
-| 32 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 33 | [Marty](http://twitter.com/search?q=Marty) | N/A |
-| 34 | [Mills](http://twitter.com/search?q=Mills) | N/A |
-| 35 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 36 | [Sheens](http://twitter.com/search?q=Sheens) | N/A |
-| 37 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 38 | [Witts](http://twitter.com/search?q=Witts) | N/A |
-| 39 | [Aunty Jack](http://twitter.com/search?q=Aunty+Jack) | N/A |
-| 40 | [Murdoch Press](http://twitter.com/search?q=Murdoch+Press) | N/A |
-| 41 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 42 | [paddy mccartin](http://twitter.com/search?q=paddy+mccartin) | N/A |
-| 43 | [Sha Tin](http://twitter.com/search?q=Sha+Tin) | N/A |
-| 44 | [Sloan](http://twitter.com/search?q=Sloan) | N/A |
-| 45 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
-| 46 | [Toby Greene](http://twitter.com/search?q=Toby+Greene) | N/A |
-| 47 | [taupau](http://twitter.com/search?q=taupau) | N/A |
-| 48 | [Flegler](http://twitter.com/search?q=Flegler) | N/A |
-| 49 | [Heppell](http://twitter.com/search?q=Heppell) | N/A |
+| 2 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 5 | [#afldonsgiants](http://twitter.com/search?q=%23afldonsgiants) | N/A |
+| 6 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 8 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 9 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 11 | [#aflswanspower](http://twitter.com/search?q=%23aflswanspower) | N/A |
+| 12 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 13 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 14 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 15 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 16 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 17 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 18 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 20 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 21 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 22 | [dame edna](http://twitter.com/search?q=dame+edna) | N/A |
+| 23 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 24 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 25 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 26 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 27 | [Ben Hunt](http://twitter.com/search?q=Ben+Hunt) | N/A |
+| 28 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 29 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 30 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 31 | [Bruce Haigh](http://twitter.com/search?q=Bruce+Haigh) | N/A |
+| 32 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 33 | [Keath](http://twitter.com/search?q=Keath) | N/A |
+| 34 | [Rapana](http://twitter.com/search?q=Rapana) | N/A |
+| 35 | [Adam Goodes](http://twitter.com/search?q=Adam+Goodes) | N/A |
+| 36 | [Slippery](http://twitter.com/search?q=Slippery) | N/A |
+| 37 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 38 | [jake stringer](http://twitter.com/search?q=jake+stringer) | N/A |
+| 39 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 40 | [Deborah Harry](http://twitter.com/search?q=Deborah+Harry) | N/A |
+| 41 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 42 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 43 | [Rinku Singh](http://twitter.com/search?q=Rinku+Singh) | N/A |
+| 44 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
+| 45 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 46 | [Richo](http://twitter.com/search?q=Richo) | N/A |
+| 47 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 48 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 49 | [aunty jack](http://twitter.com/search?q=aunty+jack) | N/A |
 
 
 

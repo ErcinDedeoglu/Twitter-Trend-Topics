@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-04-09 17:16:54 UTC`
+📆 Last Updated: `2023-04-09 18:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [SAKURA MOMENTS WITHKDLEX](http://twitter.com/search?q=SAKURA+MOMENTS+WITHKDLEX) | N/A |
-| 2 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
-| 3 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 4 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
-| 5 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
-| 6 | [LET ME](http://twitter.com/search?q=LET+ME) | N/A |
-| 7 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 8 | [#Who_XIUMINxEUNHA](http://twitter.com/search?q=%23Who_XIUMINxEUNHA) | N/A |
-| 9 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
-| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 12 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 13 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 14 | [GABBLUKE MOSHIES ANNIVERSARY](http://twitter.com/search?q=GABBLUKE+MOSHIES+ANNIVERSARY) | N/A |
-| 15 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 16 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 17 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
-| 18 | [Suho](http://twitter.com/search?q=Suho) | N/A |
-| 19 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 20 | [ksoo](http://twitter.com/search?q=ksoo) | N/A |
-| 21 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 22 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 23 | [Araw](http://twitter.com/search?q=Araw) | N/A |
-| 24 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
-| 25 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 26 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
-| 27 | [#WhowithXiumin](http://twitter.com/search?q=%23WhowithXiumin) | N/A |
-| 28 | [#시우민은_봄을_안고와](http://twitter.com/search?q=%23%ec%8b%9c%ec%9a%b0%eb%af%bc%ec%9d%80_%eb%b4%84%ec%9d%84_%ec%95%88%ea%b3%a0%ec%99%80) | N/A |
-| 29 | [#ACEsOur2ndAnniversary](http://twitter.com/search?q=%23ACEsOur2ndAnniversary) | N/A |
-| 30 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
-| 31 | [#INKSteaDAY](http://twitter.com/search?q=%23INKSteaDAY) | N/A |
-| 32 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
-| 33 | [#SB19SummerSpecialDunkinPH](http://twitter.com/search?q=%23SB19SummerSpecialDunkinPH) | N/A |
-| 34 | [#T1Fighting](http://twitter.com/search?q=%23T1Fighting) | N/A |
-| 35 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 36 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
-| 37 | [#PARKEUNBIN](http://twitter.com/search?q=%23PARKEUNBIN) | N/A |
-| 38 | [#EUNBINNOTE_HIBINGO](http://twitter.com/search?q=%23EUNBINNOTE_HIBINGO) | N/A |
-| 39 | [#LISAパワフルステージin東京](http://twitter.com/search?q=%23LISA%e3%83%91%e3%83%af%e3%83%95%e3%83%ab%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b8in%e6%9d%b1%e4%ba%ac) | N/A |
-| 40 | [#BOYCOTTEBxAPTxGMA760](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA760) | N/A |
-| 41 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
-| 42 | [#DONBELLEmpire](http://twitter.com/search?q=%23DONBELLEmpire) | N/A |
-| 43 | [#MHMA2023FELIPSUSON](http://twitter.com/search?q=%23MHMA2023FELIPSUSON) | N/A |
-| 44 | [#AlJay](http://twitter.com/search?q=%23AlJay) | N/A |
-| 45 | [#JOSHCULLENSANTOS](http://twitter.com/search?q=%23JOSHCULLENSANTOS) | N/A |
-| 46 | [#IStandWithHARUTO](http://twitter.com/search?q=%23IStandWithHARUTO) | N/A |
+| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 3 | [#SB19SummerSpecialDunkinPH](http://twitter.com/search?q=%23SB19SummerSpecialDunkinPH) | N/A |
+| 4 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 5 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 6 | [WE LOVE YOU BELLE](http://twitter.com/search?q=WE+LOVE+YOU+BELLE) | N/A |
+| 7 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 8 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 9 | [SAKURA MOMENTS WITHKDLEX](http://twitter.com/search?q=SAKURA+MOMENTS+WITHKDLEX) | N/A |
+| 10 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 11 | [#Giddy_MV_RELEASED](http://twitter.com/search?q=%23Giddy_MV_RELEASED) | N/A |
+| 12 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
+| 13 | [#UNFORGIVEN_AlbumTrailer](http://twitter.com/search?q=%23UNFORGIVEN_AlbumTrailer) | N/A |
+| 14 | [ACEs STRONGER 2GETHER](http://twitter.com/search?q=ACEs+STRONGER+2GETHER) | N/A |
+| 15 | [DO YOU WANT TO BE FORGIVEN](http://twitter.com/search?q=DO+YOU+WANT+TO+BE+FORGIVEN) | N/A |
+| 16 | [31MONTHS WITH BRENTMANALO](http://twitter.com/search?q=31MONTHS+WITH+BRENTMANALO) | N/A |
+| 17 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 18 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
+| 19 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 20 | [Belle Mariano](http://twitter.com/search?q=Belle+Mariano) | N/A |
+| 21 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
+| 22 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 23 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 24 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 25 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
+| 26 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 27 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 28 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 29 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
+| 30 | [Track 9](http://twitter.com/search?q=Track+9) | N/A |
+| 31 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
+| 32 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 33 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 34 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 35 | [LET ME](http://twitter.com/search?q=LET+ME) | N/A |
+| 36 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
+| 37 | [World War II](http://twitter.com/search?q=World+War+II) | N/A |
+| 38 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
+| 39 | [HAPPY BIRTHDAY YML ELI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YML+ELI) | N/A |
+| 40 | [I REFUSE TO BELIEVE](http://twitter.com/search?q=I+REFUSE+TO+BELIEVE) | N/A |
+| 41 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
+| 42 | [gabbluke moshies anniversary](http://twitter.com/search?q=gabbluke+moshies+anniversary) | N/A |
+| 43 | [Kkuma](http://twitter.com/search?q=Kkuma) | N/A |
+| 44 | [HIYYIH LOVESTRUCK CLUB](http://twitter.com/search?q=HIYYIH+LOVESTRUCK+CLUB) | N/A |
+| 45 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 46 | [Day of Valor](http://twitter.com/search?q=Day+of+Valor) | N/A |
+| 47 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
+| 48 | [Game 1](http://twitter.com/search?q=Game+1) | N/A |
+| 49 | [Don't Go](http://twitter.com/search?q=Don%27t+Go) | N/A |
+| 50 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
 
 
 

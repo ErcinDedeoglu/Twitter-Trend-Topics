@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-04-09 17:17:19 UTC`
+📆 Last Updated: `2023-04-09 18:18:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Poland
 | ------- | ------------ | ------------ |
 | 1 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
-| 4 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 5 | [Chrystus Zmartwychwstał](http://twitter.com/search?q=Chrystus+Zmartwychwsta%c5%82) | N/A |
-| 6 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 7 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
-| 8 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
-| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 11 | [#grucze](http://twitter.com/search?q=%23grucze) | N/A |
-| 12 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 13 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
-| 14 | [#pogcra](http://twitter.com/search?q=%23pogcra) | N/A |
-| 15 | [#LPOWAR](http://twitter.com/search?q=%23LPOWAR) | N/A |
-| 16 | [Wielka Sobota](http://twitter.com/search?q=Wielka+Sobota) | N/A |
-| 17 | [Puszczy](http://twitter.com/search?q=Puszczy) | N/A |
-| 18 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 19 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 20 | [warta](http://twitter.com/search?q=warta) | N/A |
-| 21 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 22 | [Niepołomicach](http://twitter.com/search?q=Niepo%c5%82omicach) | N/A |
-| 23 | [Dziękuje](http://twitter.com/search?q=Dzi%c4%99kuje) | N/A |
-| 24 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 25 | [nicki pedersen](http://twitter.com/search?q=nicki+pedersen) | N/A |
-| 26 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
-| 27 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
-| 28 | [ba loua](http://twitter.com/search?q=ba+loua) | N/A |
-| 29 | [Judasza](http://twitter.com/search?q=Judasza) | N/A |
-| 30 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 31 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
-| 32 | [Rutkowskiego](http://twitter.com/search?q=Rutkowskiego) | N/A |
-| 33 | [Wigilii Paschalnej](http://twitter.com/search?q=Wigilii+Paschalnej) | N/A |
-| 34 | [Życzenia](http://twitter.com/search?q=%c5%bbyczenia) | N/A |
-| 35 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 36 | [J 20](http://twitter.com/search?q=J+20) | N/A |
-| 37 | [Boga](http://twitter.com/search?q=Boga) | N/A |
-| 38 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
-| 39 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
-| 40 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
-| 41 | [anna paul](http://twitter.com/search?q=anna+paul) | N/A |
-| 42 | [Kujawski](http://twitter.com/search?q=Kujawski) | N/A |
-| 43 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
-| 44 | [KGHM](http://twitter.com/search?q=KGHM) | N/A |
-| 45 | [krowa](http://twitter.com/search?q=krowa) | N/A |
-| 46 | [Lasyk](http://twitter.com/search?q=Lasyk) | N/A |
-| 47 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 48 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
-| 49 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
-| 50 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 3 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 4 | [#LESKRO](http://twitter.com/search?q=%23LESKRO) | N/A |
+| 5 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 6 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
+| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 8 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 9 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 10 | [Chrystus Zmartwychwstał](http://twitter.com/search?q=Chrystus+Zmartwychwsta%c5%82) | N/A |
+| 11 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 12 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 13 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 14 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 15 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
+| 16 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 17 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 18 | [#szkwatt](http://twitter.com/search?q=%23szkwatt) | N/A |
+| 19 | [Salaha](http://twitter.com/search?q=Salaha) | N/A |
+| 20 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 21 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
+| 22 | [Krosno](http://twitter.com/search?q=Krosno) | N/A |
+| 23 | [Raczkowski](http://twitter.com/search?q=Raczkowski) | N/A |
+| 24 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 25 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 26 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 27 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 28 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 29 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 30 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 31 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
+| 32 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 33 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 34 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
+| 35 | [Puszczy](http://twitter.com/search?q=Puszczy) | N/A |
+| 36 | [Grecji](http://twitter.com/search?q=Grecji) | N/A |
+| 37 | [Lesznie](http://twitter.com/search?q=Lesznie) | N/A |
+| 38 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 39 | [Wielka Sobota](http://twitter.com/search?q=Wielka+Sobota) | N/A |
+| 40 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
+| 41 | [Kloppa](http://twitter.com/search?q=Kloppa) | N/A |
+| 42 | [nicki pedersen](http://twitter.com/search?q=nicki+pedersen) | N/A |
+| 43 | [Maciej Prus](http://twitter.com/search?q=Maciej+Prus) | N/A |
+| 44 | [Wilki](http://twitter.com/search?q=Wilki) | N/A |
+| 45 | [Leszna](http://twitter.com/search?q=Leszna) | N/A |
+| 46 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 47 | [Rutkowskiego](http://twitter.com/search?q=Rutkowskiego) | N/A |
+| 48 | [Niepołomicach](http://twitter.com/search?q=Niepo%c5%82omicach) | N/A |
+| 49 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 50 | [Tajwan](http://twitter.com/search?q=Tajwan) | N/A |
 
 
 

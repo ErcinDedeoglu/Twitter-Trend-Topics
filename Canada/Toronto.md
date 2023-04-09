@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-04-09 17:16:29 UTC`
+📆 Last Updated: `2023-04-09 18:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,47 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 4 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 5 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 6 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 7 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
-| 8 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [#cfmtl](http://twitter.com/search?q=%23cfmtl) | N/A |
-| 11 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 12 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
-| 13 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 14 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 15 | [ebug](http://twitter.com/search?q=ebug) | N/A |
-| 16 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 17 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 18 | [wayne simmonds](http://twitter.com/search?q=wayne+simmonds) | N/A |
-| 19 | [Chris Wideman](http://twitter.com/search?q=Chris+Wideman) | N/A |
-| 20 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 21 | [horvat](http://twitter.com/search?q=horvat) | N/A |
-| 22 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 23 | [Habs](http://twitter.com/search?q=Habs) | N/A |
-| 24 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 25 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
-| 26 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 27 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 28 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
-| 29 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 30 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 31 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 32 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 33 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 34 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
-| 35 | [chris bassitt](http://twitter.com/search?q=chris+bassitt) | N/A |
-| 36 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
-| 37 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 38 | [Saputo](http://twitter.com/search?q=Saputo) | N/A |
-| 39 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 40 | [200k in eth](http://twitter.com/search?q=200k+in+eth) | N/A |
-| 41 | [mev bot](http://twitter.com/search?q=mev+bot) | N/A |
-| 42 | [demers](http://twitter.com/search?q=demers) | N/A |
-| 43 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 44 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 45 | [Losada](http://twitter.com/search?q=Losada) | N/A |
-| 46 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 47 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 48 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 49 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 50 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 1 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 2 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 7 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 8 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 9 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 10 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 11 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 12 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 13 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 14 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 15 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 16 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 17 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 18 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 19 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 20 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
+| 21 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 22 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 23 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 24 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 25 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 26 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 27 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 28 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 29 | [EBUG](http://twitter.com/search?q=EBUG) | N/A |
+| 30 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 31 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 32 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 33 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 34 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 35 | [Wideman](http://twitter.com/search?q=Wideman) | N/A |
+| 36 | [Habs](http://twitter.com/search?q=Habs) | N/A |
+| 37 | [#VimyRidge](http://twitter.com/search?q=%23VimyRidge) | N/A |
+| 38 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 39 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 40 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 41 | [The Leafs](http://twitter.com/search?q=The+Leafs) | N/A |
 
 
 

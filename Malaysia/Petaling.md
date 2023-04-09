@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Petaling
 
-📆 Last Updated: `2023-04-09 17:17:22 UTC`
+📆 Last Updated: `2023-04-09 18:18:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
-| 2 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [#Who_XIUMINxEUNHA](http://twitter.com/search?q=%23Who_XIUMINxEUNHA) | N/A |
-| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 6 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 7 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 8 | [#EUNBINNOTE_HIBINGO](http://twitter.com/search?q=%23EUNBINNOTE_HIBINGO) | N/A |
-| 9 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 10 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 11 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 12 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 13 | [hyungwon](http://twitter.com/search?q=hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother, and "won," which means circle or round. In English, it can be translated as "older brother" or "dear friend." |
-| 14 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 15 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 16 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 17 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 18 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 19 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 20 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
-| 21 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 22 | [bomi](http://twitter.com/search?q=bomi) | N/A |
-| 23 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 24 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 25 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 26 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 27 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 28 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 29 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 30 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 31 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 32 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 33 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 34 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 35 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 36 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 37 | [Toh Ee Wei](http://twitter.com/search?q=Toh+Ee+Wei) | N/A |
-| 38 | [Young K](http://twitter.com/search?q=Young+K) | N/A |
-| 39 | [Riuh](http://twitter.com/search?q=Riuh) | N/A |
-| 40 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 41 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 42 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
-| 43 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
-| 44 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 45 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 46 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 47 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 48 | [ydpa](http://twitter.com/search?q=ydpa) | N/A |
-| 49 | [i am mv teaser out now](http://twitter.com/search?q=i+am+mv+teaser+out+now) | N/A |
+| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 4 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 5 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 6 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 7 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 8 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 9 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 11 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 12 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 13 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 14 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 15 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 16 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 17 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 18 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 20 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 21 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 22 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 23 | [Paul Tierney](http://twitter.com/search?q=Paul+Tierney) | N/A |
+| 24 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 25 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 26 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 27 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 28 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 29 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 30 | [#UNFORGIVEN_AlbumTrailer](http://twitter.com/search?q=%23UNFORGIVEN_AlbumTrailer) | N/A |
+| 31 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 32 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 33 | [AgustD](http://twitter.com/search?q=AgustD) | N/A |
+| 34 | [DO YOU WANT TO BE FORGIVEN](http://twitter.com/search?q=DO+YOU+WANT+TO+BE+FORGIVEN) | N/A |
+| 35 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 36 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 37 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 38 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 39 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 40 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 41 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 42 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 43 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 44 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 45 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 46 | [YOUNG K](http://twitter.com/search?q=YOUNG+K) | N/A |
+| 47 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
+| 48 | [LET ME](http://twitter.com/search?q=LET+ME) | N/A |
+| 49 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-04-09 17:16:38 UTC`
+📆 Last Updated: `2023-04-09 18:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
-| 3 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 4 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
-| 5 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 6 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 7 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
-| 8 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 9 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
-| 10 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
-| 11 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 12 | [Abra o Spotify](http://twitter.com/search?q=Abra+o+Spotify) | N/A |
-| 13 | [#provadoanjo](http://twitter.com/search?q=%23provadoanjo) | N/A |
-| 14 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 15 | [Doran](http://twitter.com/search?q=Doran) | N/A |
-| 16 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
-| 17 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
-| 18 | [#caldeirão](http://twitter.com/search?q=%23caldeir%c3%a3o) | N/A |
-| 19 | [Vuaden](http://twitter.com/search?q=Vuaden) | N/A |
-| 20 | [ELE VIVE](http://twitter.com/search?q=ELE+VIVE) | N/A |
-| 21 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
-| 22 | [#altashoras](http://twitter.com/search?q=%23altashoras) | #Altashoras is a Spanish hashtag that translates to "high hours" in English. It is used to refer to the time of day when the sun is at its highest point in the sky, usually around noon. |
-| 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 24 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 25 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 26 | [m&m no ratinho](http://twitter.com/search?q=m%26m+no+ratinho) | N/A |
-| 27 | [fernando miguel](http://twitter.com/search?q=fernando+miguel) | N/A |
-| 28 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 29 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 30 | [#ufcbr](http://twitter.com/search?q=%23ufcbr) | N/A |
-| 31 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 32 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 33 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 34 | [Faker](http://twitter.com/search?q=Faker) | N/A |
-| 35 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 36 | [GenG](http://twitter.com/search?q=GenG) | N/A |
-| 37 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 38 | [KHALIL](http://twitter.com/search?q=KHALIL) | N/A |
-| 39 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
-| 40 | [diogo barbosa](http://twitter.com/search?q=diogo+barbosa) | N/A |
-| 41 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 42 | [steloisa em alerta](http://twitter.com/search?q=steloisa+em+alerta) | N/A |
-| 43 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
-| 44 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 45 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 46 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 47 | [olha a bomba](http://twitter.com/search?q=olha+a+bomba) | N/A |
-| 48 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 49 | [Gragas](http://twitter.com/search?q=Gragas) | N/A |
-| 50 | [the great war](http://twitter.com/search?q=the+great+war) | N/A |
+| 1 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 2 | [Barcellos](http://twitter.com/search?q=Barcellos) | N/A |
+| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 4 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 5 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 6 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 7 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 8 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 9 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 10 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 11 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 12 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 13 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 14 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
+| 15 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 16 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 17 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 18 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 19 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 20 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 21 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 22 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
+| 23 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 24 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 25 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 26 | [coelho](http://twitter.com/search?q=coelho) | Coelho is a Portuguese word meaning "rabbit". |
+| 27 | [ELE VIVE](http://twitter.com/search?q=ELE+VIVE) | N/A |
+| 28 | [Thiago Alcântara](http://twitter.com/search?q=Thiago+Alc%c3%a2ntara) | N/A |
+| 29 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 30 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
+| 31 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 32 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 33 | [Tiana](http://twitter.com/search?q=Tiana) | N/A |
+| 34 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 35 | [O Salah](http://twitter.com/search?q=O+Salah) | N/A |
+| 36 | [Gabriel Magalhães](http://twitter.com/search?q=Gabriel+Magalh%c3%a3es) | N/A |
+| 37 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 38 | [Paul Tierney](http://twitter.com/search?q=Paul+Tierney) | N/A |
+| 39 | [Ganhei](http://twitter.com/search?q=Ganhei) | N/A |
+| 40 | [Lava](http://twitter.com/search?q=Lava) | N/A |
+| 41 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 42 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 43 | [DO YOU WANT TO BE FORGIVEN](http://twitter.com/search?q=DO+YOU+WANT+TO+BE+FORGIVEN) | N/A |
+| 44 | [#UNFORGIVEN_AlbumTrailer](http://twitter.com/search?q=%23UNFORGIVEN_AlbumTrailer) | N/A |
+| 45 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 46 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 47 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 48 | [QUE JOGO](http://twitter.com/search?q=QUE+JOGO) | N/A |
+| 49 | [Bvoy](http://twitter.com/search?q=Bvoy) | N/A |
+| 50 | [ARMY READY FOR D DAY TRACKLIST](http://twitter.com/search?q=ARMY+READY+FOR+D+DAY+TRACKLIST) | N/A |
 
 
 

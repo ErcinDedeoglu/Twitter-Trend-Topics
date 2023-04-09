@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-04-09 17:16:48 UTC`
+📆 Last Updated: `2023-04-09 18:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#1000BungaApresiasiET](http://twitter.com/search?q=%231000BungaApresiasiET) | N/A |
-| 2 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
-| 3 | [#Who_XIUMINxEUNHA](http://twitter.com/search?q=%23Who_XIUMINxEUNHA) | N/A |
-| 4 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
-| 5 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 6 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 7 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
-| 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 9 | [LET ME](http://twitter.com/search?q=LET+ME) | N/A |
-| 10 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
-| 11 | [Lazada](http://twitter.com/search?q=Lazada) | N/A |
-| 12 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 13 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 15 | [STREAMING CHAIN](http://twitter.com/search?q=STREAMING+CHAIN) | N/A |
-| 16 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
-| 17 | [TNI AU](http://twitter.com/search?q=TNI+AU) | N/A |
-| 18 | [1 Rupiah](http://twitter.com/search?q=1+Rupiah) | N/A |
-| 19 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 20 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 21 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 22 | [LOVE ME RIGHT](http://twitter.com/search?q=LOVE+ME+RIGHT) | N/A |
-| 23 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
-| 24 | [Kokas](http://twitter.com/search?q=Kokas) | N/A |
-| 25 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 26 | [Onic](http://twitter.com/search?q=Onic) | N/A |
-| 27 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
-| 28 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 29 | [Kristus](http://twitter.com/search?q=Kristus) | N/A |
-| 30 | [Panas](http://twitter.com/search?q=Panas) | N/A |
-| 31 | [#WhowithXiumin](http://twitter.com/search?q=%23WhowithXiumin) | N/A |
-| 32 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
-| 33 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
-| 34 | [#BukaAjaBukalapak](http://twitter.com/search?q=%23BukaAjaBukalapak) | N/A |
-| 35 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
-| 36 | [#ApologizeToMatthew](http://twitter.com/search?q=%23ApologizeToMatthew) | N/A |
-| 37 | [#IDGLIVvsARS](http://twitter.com/search?q=%23IDGLIVvsARS) | N/A |
-| 38 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
-| 39 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
-| 40 | [#SailingOfLoveNaRa](http://twitter.com/search?q=%23SailingOfLoveNaRa) | N/A |
-| 41 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 42 | [#LISAパワフルステージin東京](http://twitter.com/search?q=%23LISA%e3%83%91%e3%83%af%e3%83%95%e3%83%ab%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b8in%e6%9d%b1%e4%ba%ac) | N/A |
-| 43 | [#IKNSejahterakanIndonesia](http://twitter.com/search?q=%23IKNSejahterakanIndonesia) | N/A |
-| 44 | [#IKNPemerataanEkonomi](http://twitter.com/search?q=%23IKNPemerataanEkonomi) | N/A |
-| 45 | [#IKNNusantara](http://twitter.com/search?q=%23IKNNusantara) | N/A |
-| 46 | [#NarwhalFinance](http://twitter.com/search?q=%23NarwhalFinance) | N/A |
-| 47 | [#TimeForEXO](http://twitter.com/search?q=%23TimeForEXO) | N/A |
-| 48 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
+| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 2 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 3 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 4 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 5 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 6 | [#NCTzenSelcaDay](http://twitter.com/search?q=%23NCTzenSelcaDay) | N/A |
+| 7 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 8 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 9 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 10 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 11 | [Zinny](http://twitter.com/search?q=Zinny) | Zinny is a slang term used to describe someone who is eccentric or quirky. It can also be used to describe someone who is a bit of an oddball. |
+| 12 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 13 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 14 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 15 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 16 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 17 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 18 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 19 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 20 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 21 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 22 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 23 | [#LESSERAFIM_UNFORGIVEN](http://twitter.com/search?q=%23LESSERAFIM_UNFORGIVEN) | N/A |
+| 24 | [DO YOU WANT TO BE FORGIVEN](http://twitter.com/search?q=DO+YOU+WANT+TO+BE+FORGIVEN) | N/A |
+| 25 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 26 | [Zayyan](http://twitter.com/search?q=Zayyan) | N/A |
+| 27 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 28 | [Lebaran 2020](http://twitter.com/search?q=Lebaran+2020) | N/A |
+| 29 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 30 | [Persib](http://twitter.com/search?q=Persib) | N/A |
+| 31 | [Gabjes](http://twitter.com/search?q=Gabjes) | N/A |
+| 32 | [KIM WOOSUNG](http://twitter.com/search?q=KIM+WOOSUNG) | N/A |
+| 33 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 34 | [Babak 2](http://twitter.com/search?q=Babak+2) | N/A |
+| 35 | [Ipul](http://twitter.com/search?q=Ipul) | N/A |
+| 36 | [Butut](http://twitter.com/search?q=Butut) | N/A |
+| 37 | [I FEEL GIDDY](http://twitter.com/search?q=I+FEEL+GIDDY) | N/A |
+| 38 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 39 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 40 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 41 | [ARMY READY FOR D DAY TRACKLIST](http://twitter.com/search?q=ARMY+READY+FOR+D+DAY+TRACKLIST) | N/A |
+| 42 | [JENO DESERVES BETTER](http://twitter.com/search?q=JENO+DESERVES+BETTER) | N/A |
+| 43 | [IVE FIRST ALBUM IS COMING](http://twitter.com/search?q=IVE+FIRST+ALBUM+IS+COMING) | N/A |
+| 44 | [Ripuh](http://twitter.com/search?q=Ripuh) | N/A |
+| 45 | [AllInPrabowo](http://twitter.com/search?q=AllInPrabowo) | N/A |
+| 46 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 47 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
+| 48 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
 
 
 

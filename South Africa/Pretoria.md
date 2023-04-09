@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-04-09 17:16:57 UTC`
+📆 Last Updated: `2023-04-09 18:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tanzania](http://twitter.com/search?q=Tanzania) | N/A |
-| 2 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 3 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 4 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 6 | [Guptas](http://twitter.com/search?q=Guptas) | N/A |
-| 7 | [#McCafeMotivation](http://twitter.com/search?q=%23McCafeMotivation) | N/A |
-| 8 | [#uMjoloWithAzola](http://twitter.com/search?q=%23uMjoloWithAzola) | N/A |
-| 9 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 10 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 11 | [#mamazala](http://twitter.com/search?q=%23mamazala) | N/A |
-| 12 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 13 | [Naledi Pandor](http://twitter.com/search?q=Naledi+Pandor) | N/A |
-| 14 | [TSATSII X SUNRISERS](http://twitter.com/search?q=TSATSII+X+SUNRISERS) | N/A |
-| 15 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 16 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 17 | [#MUNEVE](http://twitter.com/search?q=%23MUNEVE) | #MUNEVE is a hashtag used to promote the Muneve app, which is an online platform that helps people find and book beauty services. The hashtag is used to share user experiences, tips, and advice related to beauty services. In English, #MUNEVE means "My Beauty Experience". |
-| 18 | [Dove](http://twitter.com/search?q=Dove) | N/A |
-| 19 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 20 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 21 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
-| 22 | [Bushiri](http://twitter.com/search?q=Bushiri) | N/A |
-| 23 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 24 | [Gavin Watson](http://twitter.com/search?q=Gavin+Watson) | N/A |
-| 25 | [Nota](http://twitter.com/search?q=Nota) | N/A |
-| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 27 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 28 | [KHOSI THE TOPIC](http://twitter.com/search?q=KHOSI+THE+TOPIC) | N/A |
-| 29 | [BEST MOMENTS WITH KHOSI](http://twitter.com/search?q=BEST+MOMENTS+WITH+KHOSI) | N/A |
-| 30 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 31 | [Mangethe](http://twitter.com/search?q=Mangethe) | N/A |
-| 32 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 33 | [Zwane](http://twitter.com/search?q=Zwane) | Zwane is a South African surname derived from the Zulu word for "king". It is also used as a given name. In English, it can be translated to mean "king". |
-| 34 | [Ronald](http://twitter.com/search?q=Ronald) | N/A |
-| 35 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 36 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 37 | [Stormers](http://twitter.com/search?q=Stormers) | N/A |
-| 38 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
-| 39 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 40 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 41 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
-| 42 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 43 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 45 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 46 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 47 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 48 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
-| 49 | [Rosemary Ndlovu](http://twitter.com/search?q=Rosemary+Ndlovu) | N/A |
-| 50 | [Mozambican](http://twitter.com/search?q=Mozambican) | N/A |
+| 1 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 2 | [Risen](http://twitter.com/search?q=Risen) | N/A |
+| 3 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 5 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 6 | [#MakotiAreYouTheOne](http://twitter.com/search?q=%23MakotiAreYouTheOne) | N/A |
+| 7 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 8 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 9 | [#TeenagePregnancy](http://twitter.com/search?q=%23TeenagePregnancy) | N/A |
+| 10 | [#DateMyFamily](http://twitter.com/search?q=%23DateMyFamily) | N/A |
+| 11 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 12 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 13 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 14 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 15 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 16 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 17 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 18 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 19 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 20 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 21 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 22 | [#Komkhulu](http://twitter.com/search?q=%23Komkhulu) | N/A |
+| 23 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 24 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 25 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 26 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 27 | [Pinky](http://twitter.com/search?q=Pinky) | N/A |
+| 28 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 29 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 30 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 31 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 32 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 33 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 34 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 35 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 36 | [KHOSI THE TOPIC](http://twitter.com/search?q=KHOSI+THE+TOPIC) | N/A |
+| 37 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
+| 38 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 39 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 40 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 41 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 42 | [Swallows](http://twitter.com/search?q=Swallows) | N/A |
+| 43 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
+| 44 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 45 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
+| 46 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 47 | [Nota](http://twitter.com/search?q=Nota) | N/A |
+| 48 | [Chamisa](http://twitter.com/search?q=Chamisa) | N/A |
+| 49 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 50 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
 
 
 

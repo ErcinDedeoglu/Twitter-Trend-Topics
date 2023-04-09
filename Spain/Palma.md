@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-04-09 17:16:46 UTC`
+📆 Last Updated: `2023-04-09 18:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,36 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 2 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 3 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
-| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 6 | [#APOYOROCIO9A](http://twitter.com/search?q=%23APOYOROCIO9A) | N/A |
-| 7 | [#ProtectoresDeLaTierraRadio3](http://twitter.com/search?q=%23ProtectoresDeLaTierraRadio3) | N/A |
-| 8 | [Resucitado](http://twitter.com/search?q=Resucitado) | N/A |
-| 9 | [#YoMeRebelo9A](http://twitter.com/search?q=%23YoMeRebelo9A) | N/A |
-| 10 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
-| 11 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
-| 12 | [#ADMALTRATADOR](http://twitter.com/search?q=%23ADMALTRATADOR) | N/A |
-| 13 | [Iglesias y Montero](http://twitter.com/search?q=Iglesias+y+Montero) | N/A |
-| 14 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 15 | [458 X](http://twitter.com/search?q=458+X) | N/A |
-| 16 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 17 | [Agustín](http://twitter.com/search?q=Agust%c3%adn) | Agustín is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustín is usually translated as "Augustine". |
-| 18 | [Marca](http://twitter.com/search?q=Marca) | N/A |
-| 19 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 20 | [Sanción](http://twitter.com/search?q=Sanci%c3%b3n) | N/A |
-| 21 | [Egun](http://twitter.com/search?q=Egun) | N/A |
-| 22 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 23 | [Moreneta](http://twitter.com/search?q=Moreneta) | N/A |
-| 24 | [Villareal](http://twitter.com/search?q=Villareal) | N/A |
-| 25 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
-| 26 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
-| 27 | [Setien](http://twitter.com/search?q=Setien) | Setien is a Spanish surname derived from the Latin word "Sextius", meaning "sixth". It is most commonly found in the Basque region of Spain. |
-| 28 | [Irán](http://twitter.com/search?q=Ir%c3%a1n) | N/A |
-| 29 | [#BuenosDías](http://twitter.com/search?q=%23BuenosD%c3%adas) | N/A |
-| 30 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 1 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 2 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 3 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 6 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 7 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
+| 8 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 9 | [Ruibal](http://twitter.com/search?q=Ruibal) | Ruibal is a Spanish surname derived from the Latin word "rubellus," which means red. It is also believed to be derived from the Latin word "rubinus," which means ruby. The name is most commonly found in Spain and Latin America. |
+| 10 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 11 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 12 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
+| 13 | [Fali](http://twitter.com/search?q=Fali) | N/A |
+| 14 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 15 | [Foulquier](http://twitter.com/search?q=Foulquier) | Foulquier is a French surname. It is derived from the Old French word "fouler," which means "to trample." The name is thought to have originally been given to someone who was a trampler of grapes in the wine-making process. In English, the name could be translated as "trampler." |
+| 16 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 17 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 18 | [Abner](http://twitter.com/search?q=Abner) | N/A |
+| 19 | [Castillejo](http://twitter.com/search?q=Castillejo) | Castillejo is a Spanish surname derived from the place name Castillejo, which is a small village in the province of Burgos, Spain. In English, it can be translated to mean "little castle". |
+| 20 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 21 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
+| 22 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 23 | [Rober Pier](http://twitter.com/search?q=Rober+Pier) | N/A |
+| 24 | [#LimGoHome](http://twitter.com/search?q=%23LimGoHome) | N/A |
+| 25 | [Degenkolb](http://twitter.com/search?q=Degenkolb) | N/A |
+| 26 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
+| 27 | [Villamarín](http://twitter.com/search?q=Villamar%c3%adn) | N/A |
+| 28 | [Chris Ramos](http://twitter.com/search?q=Chris+Ramos) | N/A |
+| 29 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 30 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
+| 31 | [Diakhaby](http://twitter.com/search?q=Diakhaby) | N/A |
+| 32 | [Alpecin](http://twitter.com/search?q=Alpecin) | N/A |
+| 33 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 34 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 35 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 36 | [Philipsen](http://twitter.com/search?q=Philipsen) | N/A |
+| 37 | [Melero](http://twitter.com/search?q=Melero) | N/A |
+| 38 | [Iglesias Villanueva](http://twitter.com/search?q=Iglesias+Villanueva) | N/A |
+| 39 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 40 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 41 | [Cuadra Fernández](http://twitter.com/search?q=Cuadra+Fern%c3%a1ndez) | N/A |
+| 42 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 43 | [Unionistas](http://twitter.com/search?q=Unionistas) | N/A |
+| 44 | [Sobrino](http://twitter.com/search?q=Sobrino) | Sobrino is a Spanish word meaning "nephew". It is used to refer to a male relative who is the son of one's brother or sister. |
+| 45 | [Alex Moreno](http://twitter.com/search?q=Alex+Moreno) | Alex Moreno is a Spanish name, derived from the Latin name Alexander, which means "defender of men". It is a popular name in Spanish-speaking countries. |
+| 46 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
+| 47 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 48 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 49 | [Celta B](http://twitter.com/search?q=Celta+B) | N/A |
 
 
 

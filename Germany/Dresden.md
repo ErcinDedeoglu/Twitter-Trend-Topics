@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-04-09 17:16:43 UTC`
+📆 Last Updated: `2023-04-09 18:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
-| 4 | [#SCFFCB](http://twitter.com/search?q=%23SCFFCB) | N/A |
-| 5 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
-| 6 | [#BVBFCU](http://twitter.com/search?q=%23BVBFCU) | N/A |
-| 7 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 8 | [Totales Durcheinander](http://twitter.com/search?q=Totales+Durcheinander) | N/A |
-| 9 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 10 | [Rauchwolke](http://twitter.com/search?q=Rauchwolke) | N/A |
-| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 12 | [Heil](http://twitter.com/search?q=Heil) | N/A |
-| 13 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 14 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 15 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 16 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
-| 17 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 18 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
-| 19 | [Dir und Deinen Lieben](http://twitter.com/search?q=Dir+und+Deinen+Lieben) | N/A |
-| 20 | [Genießt den Tag](http://twitter.com/search?q=Genie%c3%9ft+den+Tag) | N/A |
-| 21 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 22 | [Martha](http://twitter.com/search?q=Martha) | N/A |
-| 23 | [Auferstehung](http://twitter.com/search?q=Auferstehung) | N/A |
-| 24 | [Ebenfalls](http://twitter.com/search?q=Ebenfalls) | N/A |
-| 25 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 26 | [heike](http://twitter.com/search?q=heike) | N/A |
-| 27 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 28 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 29 | [Schwarzer](http://twitter.com/search?q=Schwarzer) | N/A |
-| 30 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
-| 31 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
-| 32 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 33 | [stimmung im land](http://twitter.com/search?q=stimmung+im+land) | N/A |
-| 34 | [wunderschönen](http://twitter.com/search?q=wundersch%c3%b6nen) | N/A |
-| 35 | [Pakete](http://twitter.com/search?q=Pakete) | N/A |
-| 36 | [DE LIGT](http://twitter.com/search?q=DE+LIGT) | N/A |
-| 37 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
-| 38 | [Zeit mit der Familie](http://twitter.com/search?q=Zeit+mit+der+Familie) | N/A |
-| 39 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 40 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 41 | [Zuversicht](http://twitter.com/search?q=Zuversicht) | N/A |
-| 42 | [Masken](http://twitter.com/search?q=Masken) | N/A |
-| 43 | [Gleichfalls](http://twitter.com/search?q=Gleichfalls) | N/A |
-| 44 | [gasflaschen](http://twitter.com/search?q=gasflaschen) | N/A |
-| 45 | [Liebsten](http://twitter.com/search?q=Liebsten) | N/A |
-| 46 | [waschbär](http://twitter.com/search?q=waschb%c3%a4r) | N/A |
-| 47 | [heidenheim](http://twitter.com/search?q=heidenheim) | N/A |
-| 48 | [nebel](http://twitter.com/search?q=nebel) | N/A |
-| 49 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 3 | [#BOCVfB](http://twitter.com/search?q=%23BOCVfB) | N/A |
+| 4 | [#TSGS04](http://twitter.com/search?q=%23TSGS04) | N/A |
+| 5 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
+| 6 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 7 | [Eier](http://twitter.com/search?q=Eier) | N/A |
+| 8 | [#BMGWOB](http://twitter.com/search?q=%23BMGWOB) | N/A |
+| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 10 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 11 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
+| 12 | [Millot](http://twitter.com/search?q=Millot) | N/A |
+| 13 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 14 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 15 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 16 | [Morla](http://twitter.com/search?q=Morla) | N/A |
+| 17 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 18 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 19 | [Heimspiel](http://twitter.com/search?q=Heimspiel) | N/A |
+| 20 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 21 | [Jenz](http://twitter.com/search?q=Jenz) | N/A |
+| 22 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 23 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 24 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 25 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
+| 26 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 27 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 28 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 29 | [Stuttgart](http://twitter.com/search?q=Stuttgart) | N/A |
+| 30 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 31 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 32 | [Auslosung](http://twitter.com/search?q=Auslosung) | N/A |
+| 33 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 34 | [Ostergrüße](http://twitter.com/search?q=Ostergr%c3%bc%c3%9fe) | N/A |
+| 35 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 36 | [Totales Durcheinander](http://twitter.com/search?q=Totales+Durcheinander) | N/A |
+| 37 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 38 | [Auswärtssieg](http://twitter.com/search?q=Ausw%c3%a4rtssieg) | N/A |
+| 39 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 40 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 41 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 42 | [Alice Schwarzer](http://twitter.com/search?q=Alice+Schwarzer) | N/A |
+| 43 | [Sinsheim](http://twitter.com/search?q=Sinsheim) | N/A |
+| 44 | [Haraguchi](http://twitter.com/search?q=Haraguchi) | N/A |
+| 45 | [Pfeiffer](http://twitter.com/search?q=Pfeiffer) | N/A |
+| 46 | [Guirassy](http://twitter.com/search?q=Guirassy) | N/A |
+| 47 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 48 | [Auferstehung](http://twitter.com/search?q=Auferstehung) | N/A |
+| 49 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 
 
 

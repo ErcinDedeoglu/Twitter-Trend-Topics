@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-04-09 17:16:37 UTC`
+📆 Last Updated: `2023-04-09 18:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 2 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 3 | [Nebot](http://twitter.com/search?q=Nebot) | N/A |
-| 4 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 5 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 6 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 7 | [melfi nominado x heat](http://twitter.com/search?q=melfi+nominado+x+heat) | N/A |
-| 8 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 9 | [kendry](http://twitter.com/search?q=kendry) | N/A |
-| 10 | [marcelo moreno martins](http://twitter.com/search?q=marcelo+moreno+martins) | N/A |
-| 11 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 12 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 13 | [preciado](http://twitter.com/search?q=preciado) | N/A |
-| 14 | [hoyos](http://twitter.com/search?q=hoyos) | N/A |
-| 15 | [#elnacional](http://twitter.com/search?q=%23elnacional) | N/A |
-| 16 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 17 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 18 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 19 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 20 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 21 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
-| 22 | [#dcuenca](http://twitter.com/search?q=%23dcuenca) | N/A |
-| 23 | [Moisés Caicedo](http://twitter.com/search?q=Mois%c3%a9s+Caicedo) | N/A |
-| 24 | [don alfonso](http://twitter.com/search?q=don+alfonso) | N/A |
-| 25 | [quinindé](http://twitter.com/search?q=quinind%c3%a9) | N/A |
-| 26 | [jorge andrade cantos](http://twitter.com/search?q=jorge+andrade+cantos) | N/A |
-| 27 | [Manuel Turizo](http://twitter.com/search?q=Manuel+Turizo) | N/A |
-| 28 | [#ligaprobet593](http://twitter.com/search?q=%23ligaprobet593) | N/A |
-| 29 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 30 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 31 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 32 | [fecha 5](http://twitter.com/search?q=fecha+5) | N/A |
-| 33 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 34 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
-| 35 | [Manuel Medrano](http://twitter.com/search?q=Manuel+Medrano) | N/A |
-| 36 | [azogues](http://twitter.com/search?q=azogues) | N/A |
-| 37 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 38 | [pervis estupiñán](http://twitter.com/search?q=pervis+estupi%c3%b1%c3%a1n) | N/A |
-| 39 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 40 | [sangolquí](http://twitter.com/search?q=sangolqu%c3%ad) | N/A |
-| 41 | [lautaro díaz](http://twitter.com/search?q=lautaro+d%c3%adaz) | N/A |
-| 42 | [balda](http://twitter.com/search?q=balda) | N/A |
-| 43 | [Brigthon](http://twitter.com/search?q=Brigthon) | N/A |
-| 44 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 45 | [parrales](http://twitter.com/search?q=parrales) | N/A |
-| 46 | [inter de miami](http://twitter.com/search?q=inter+de+miami) | N/A |
-| 47 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 3 | [Marcos Caicedo](http://twitter.com/search?q=Marcos+Caicedo) | N/A |
+| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 5 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 6 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 7 | [Nebot](http://twitter.com/search?q=Nebot) | N/A |
+| 8 | [Briz Sánchez](http://twitter.com/search?q=Briz+S%c3%a1nchez) | N/A |
+| 9 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 10 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 11 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 12 | [Gabriel Jesús](http://twitter.com/search?q=Gabriel+Jes%c3%bas) | N/A |
+| 13 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 14 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 15 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 16 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 17 | [Preciado](http://twitter.com/search?q=Preciado) | N/A |
+| 18 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 19 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 21 | [MELFI NOMINADO X HEAT](http://twitter.com/search?q=MELFI+NOMINADO+X+HEAT) | N/A |
+| 22 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 23 | [Marcelo Moreno Martins](http://twitter.com/search?q=Marcelo+Moreno+Martins) | N/A |
+| 24 | [jorge andrade cantos](http://twitter.com/search?q=jorge+andrade+cantos) | N/A |
+| 25 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 26 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 27 | [Quinindé](http://twitter.com/search?q=Quinind%c3%a9) | N/A |
+| 28 | [Manuel Turizo](http://twitter.com/search?q=Manuel+Turizo) | N/A |
+| 29 | [Manuel Medrano](http://twitter.com/search?q=Manuel+Medrano) | N/A |
+| 30 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
+| 31 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 32 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 33 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 34 | [Neme](http://twitter.com/search?q=Neme) | N/A |
+| 35 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
+| 36 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 37 | [Balda](http://twitter.com/search?q=Balda) | N/A |
+| 38 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
+| 39 | [azogues](http://twitter.com/search?q=azogues) | N/A |
+| 40 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 41 | [#técnicouniversitario](http://twitter.com/search?q=%23t%c3%a9cnicouniversitario) | N/A |
+| 42 | [#UCatólica](http://twitter.com/search?q=%23UCat%c3%b3lica) | N/A |
+| 43 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 44 | [Policías](http://twitter.com/search?q=Polic%c3%adas) | N/A |
+| 45 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 46 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
+| 47 | [gustavo asprilla](http://twitter.com/search?q=gustavo+asprilla) | N/A |
 | 48 | [Flores](http://twitter.com/search?q=Flores) | N/A |
-| 49 | [collahuazo](http://twitter.com/search?q=collahuazo) | N/A |
-| 50 | [emelec](http://twitter.com/search?q=emelec) | N/A |
+| 49 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
+| 50 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 
 
 
