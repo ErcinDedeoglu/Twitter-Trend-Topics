@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montreal
 
-📆 Last Updated: `2023-04-09 04:17:00 UTC`
+📆 Last Updated: `2023-04-09 05:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Losada](http://twitter.com/search?q=Losada) | N/A |
+| 1 | [#cfmtl](http://twitter.com/search?q=%23cfmtl) | N/A |
 | 2 | [Saputo](http://twitter.com/search?q=Saputo) | N/A |
-| 3 | [Renard](http://twitter.com/search?q=Renard) | N/A |
+| 3 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 5 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 6 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 7 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
-| 8 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
-| 9 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 11 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 12 | [Bo Horvat](http://twitter.com/search?q=Bo+Horvat) | N/A |
-| 13 | [Chris Wideman](http://twitter.com/search?q=Chris+Wideman) | N/A |
+| 6 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
+| 7 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 8 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 9 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 10 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 11 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
+| 12 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 13 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
 | 14 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 15 | [Habs](http://twitter.com/search?q=Habs) | N/A |
-| 16 | [Jett Alexander](http://twitter.com/search?q=Jett+Alexander) | N/A |
-| 17 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 18 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 19 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 20 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 21 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
-| 22 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 23 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 24 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 25 | [Cimber](http://twitter.com/search?q=Cimber) | N/A |
-| 26 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
-| 27 | [EBUG](http://twitter.com/search?q=EBUG) | N/A |
+| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 16 | [Chris Wideman](http://twitter.com/search?q=Chris+Wideman) | N/A |
+| 17 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 18 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
+| 19 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
+| 20 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
+| 21 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 22 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 23 | [Habs](http://twitter.com/search?q=Habs) | N/A |
+| 24 | [Demko](http://twitter.com/search?q=Demko) | N/A |
+| 25 | [Belt](http://twitter.com/search?q=Belt) | N/A |
+| 26 | [Jett Alexander](http://twitter.com/search?q=Jett+Alexander) | N/A |
+| 27 | [Burns](http://twitter.com/search?q=Burns) | N/A |
 | 28 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 29 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
-| 30 | [Demko](http://twitter.com/search?q=Demko) | N/A |
-| 31 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 32 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
-| 33 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 34 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 35 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 36 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 37 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
-| 38 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
-| 39 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 40 | [Schneider](http://twitter.com/search?q=Schneider) | N/A |
-| 41 | [Game 7](http://twitter.com/search?q=Game+7) | Game 7 is the seventh and final game of a best-of-seven series in a sports playoff. It is the deciding game that determines which team will win the series. The phrase "Game 7" is used to refer to any situation where the outcome of a single event will determine the winner of a competition. |
-| 42 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
-| 43 | [Isles](http://twitter.com/search?q=Isles) | Isles is a term used to refer to islands, or groups of islands. It is derived from the Old English word īegl, which means island. Isles can also be used to refer to a country or region made up of many islands, such as the British Isles. |
-| 44 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
-| 45 | [John Garrett](http://twitter.com/search?q=John+Garrett) | N/A |
-| 46 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 47 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 48 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 49 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
-| 50 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 29 | [Cimber](http://twitter.com/search?q=Cimber) | N/A |
+| 30 | [EBUG](http://twitter.com/search?q=EBUG) | N/A |
+| 31 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
+| 32 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 33 | [Game 7](http://twitter.com/search?q=Game+7) | Game 7 is the seventh and final game of a best-of-seven series in a sports playoff. It is the deciding game that determines which team will win the series. The phrase "Game 7" is used to refer to any situation where the outcome of a single event will determine the winner of a competition. |
+| 34 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
+| 35 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
+| 36 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 37 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 38 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 39 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 40 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
+| 41 | [schneider](http://twitter.com/search?q=schneider) | N/A |
+| 42 | [Isles](http://twitter.com/search?q=Isles) | Isles is a term used to refer to islands, or groups of islands. It is derived from the Old English word īegl, which means island. Isles can also be used to refer to a country or region made up of many islands, such as the British Isles. |
+| 43 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
+| 44 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 45 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 46 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
+| 47 | [Matthew Knies](http://twitter.com/search?q=Matthew+Knies) | N/A |
+| 48 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
+| 49 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 50 | [Bichette](http://twitter.com/search?q=Bichette) | N/A |
 
 
 

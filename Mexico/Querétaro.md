@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-04-09 04:17:08 UTC`
+📆 Last Updated: `2023-04-09 05:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
 | 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 3 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 4 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 5 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 6 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
-| 7 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 8 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 9 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 10 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
-| 11 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 12 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 13 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 14 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
-| 15 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 16 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 17 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 18 | [#MegaFutbol](http://twitter.com/search?q=%23MegaFutbol) | N/A |
-| 19 | [Tabo](http://twitter.com/search?q=Tabo) | N/A |
-| 20 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 21 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
-| 22 | [Cáceres](http://twitter.com/search?q=C%c3%a1ceres) | Cáceres is a city in western Spain, located in the autonomous community of Extremadura. It is the capital of the province of Cáceres. The city has a rich historical and cultural heritage, and is known for its monuments, which date back to Roman, Moorish and Christian times. In English, Cáceres means "fortress". |
-| 23 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
-| 24 | [Fulgencio](http://twitter.com/search?q=Fulgencio) | N/A |
-| 25 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
-| 26 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
-| 27 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
-| 28 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 29 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
-| 30 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 31 | [#CruzAzul](http://twitter.com/search?q=%23CruzAzul) | N/A |
-| 32 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 33 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
-| 34 | [Papel](http://twitter.com/search?q=Papel) | N/A |
-| 35 | [Culebro](http://twitter.com/search?q=Culebro) | N/A |
-| 36 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 37 | [Tay y Joe](http://twitter.com/search?q=Tay+y+Joe) | N/A |
-| 38 | [TUDN](http://twitter.com/search?q=TUDN) | N/A |
-| 39 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 40 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 41 | [Garza](http://twitter.com/search?q=Garza) | N/A |
-| 42 | [Henry Martín](http://twitter.com/search?q=Henry+Mart%c3%adn) | Henry Martín is a Spanish name, derived from the Germanic name Heimirich, which means "home ruler". In English, it can be translated to mean "ruler of the home". |
-| 43 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
-| 44 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
-| 45 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
-| 46 | [Daniel Guzmán](http://twitter.com/search?q=Daniel+Guzm%c3%a1n) | N/A |
-| 47 | [Universitario](http://twitter.com/search?q=Universitario) | N/A |
-| 48 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 49 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 50 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
+| 3 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 4 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 5 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 6 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 7 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 8 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 9 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 10 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 11 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 12 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 13 | [Duvan](http://twitter.com/search?q=Duvan) | N/A |
+| 14 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 15 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 16 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 17 | [joao](http://twitter.com/search?q=joao) | N/A |
+| 18 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 19 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 20 | [Cáceres](http://twitter.com/search?q=C%c3%a1ceres) | Cáceres is a city in western Spain, located in the autonomous community of Extremadura. It is the capital of the province of Cáceres. The city has a rich historical and cultural heritage, and is known for its monuments, which date back to Roman, Moorish and Christian times. In English, Cáceres means "fortress". |
+| 21 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 22 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
+| 23 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 24 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
+| 25 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 26 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 27 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 28 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 29 | [#MegaFutbol](http://twitter.com/search?q=%23MegaFutbol) | N/A |
+| 30 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
+| 31 | [#ElMotorDeTuPasión](http://twitter.com/search?q=%23ElMotorDeTuPasi%c3%b3n) | N/A |
+| 32 | [Ponchito](http://twitter.com/search?q=Ponchito) | Ponchito is a Spanish term of endearment, similar to "little one" or "darling". It is often used as a nickname for someone who is close to you. |
+| 33 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 34 | [TUDN](http://twitter.com/search?q=TUDN) | N/A |
+| 35 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 36 | [Raúl Pérez](http://twitter.com/search?q=Ra%c3%bal+P%c3%a9rez) | N/A |
+| 37 | [Vuce](http://twitter.com/search?q=Vuce) | N/A |
+| 38 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 39 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 40 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 41 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
+| 42 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
+| 43 | [Fulgencio](http://twitter.com/search?q=Fulgencio) | N/A |
+| 44 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
+| 45 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 46 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 47 | [Tabo](http://twitter.com/search?q=Tabo) | N/A |
+| 48 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 49 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 50 | [Papel](http://twitter.com/search?q=Papel) | N/A |
 
 
 

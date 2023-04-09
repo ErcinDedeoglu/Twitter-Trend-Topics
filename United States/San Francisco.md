@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-09 04:17:57 UTC`
+📆 Last Updated: `2023-04-09 05:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 1 | [#LAGalaxy](http://twitter.com/search?q=%23LAGalaxy) | N/A |
 | 2 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
-| 3 | [Costa](http://twitter.com/search?q=Costa) | N/A |
-| 4 | [Vanney](http://twitter.com/search?q=Vanney) | N/A |
-| 5 | [Hader](http://twitter.com/search?q=Hader) | N/A |
-| 6 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
-| 7 | [#FundoraMendoza](http://twitter.com/search?q=%23FundoraMendoza) | N/A |
-| 8 | [Wacha](http://twitter.com/search?q=Wacha) | N/A |
-| 9 | [#LAFC](http://twitter.com/search?q=%23LAFC) | N/A |
-| 10 | [Syndergaard](http://twitter.com/search?q=Syndergaard) | N/A |
-| 11 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 12 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 3 | [#LTBU](http://twitter.com/search?q=%23LTBU) | N/A |
+| 4 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 5 | [Vanney](http://twitter.com/search?q=Vanney) | N/A |
+| 6 | [Wacha](http://twitter.com/search?q=Wacha) | N/A |
+| 7 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 8 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
+| 9 | [Odor](http://twitter.com/search?q=Odor) | N/A |
+| 10 | [#LAFC](http://twitter.com/search?q=%23LAFC) | N/A |
+| 11 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 12 | [Syndergaard](http://twitter.com/search?q=Syndergaard) | N/A |
 | 13 | [Thor](http://twitter.com/search?q=Thor) | N/A |
-| 14 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 15 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 16 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 17 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 18 | [Kapler](http://twitter.com/search?q=Kapler) | N/A |
-| 19 | [The Mario](http://twitter.com/search?q=The+Mario) | N/A |
-| 20 | [Crow](http://twitter.com/search?q=Crow) | N/A |
-| 21 | [Beef](http://twitter.com/search?q=Beef) | N/A |
-| 22 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 23 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
-| 24 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 25 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
-| 26 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 27 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
-| 28 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 29 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
-| 30 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 31 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 32 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 33 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
-| 34 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 35 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 36 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 37 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
-| 38 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
-| 39 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 40 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
-| 41 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 42 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 43 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 44 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 45 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
-| 46 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 47 | [Yigit](http://twitter.com/search?q=Yigit) | N/A |
-| 48 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 49 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 50 | [Atencio](http://twitter.com/search?q=Atencio) | N/A |
+| 14 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 15 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 16 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
+| 17 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 18 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
+| 19 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 20 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 21 | [stripling](http://twitter.com/search?q=stripling) | N/A |
+| 22 | [Beef](http://twitter.com/search?q=Beef) | N/A |
+| 23 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 24 | [The Mario](http://twitter.com/search?q=The+Mario) | N/A |
+| 25 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 26 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 27 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 28 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
+| 29 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 30 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 31 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
+| 32 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 33 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 34 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
+| 35 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 36 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 37 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
+| 38 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
+| 39 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 40 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
+| 41 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
+| 42 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 43 | [Headstrong](http://twitter.com/search?q=Headstrong) | N/A |
+| 44 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 45 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 46 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 47 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 48 | [Haney](http://twitter.com/search?q=Haney) | N/A |
+| 49 | [OUT COLD](http://twitter.com/search?q=OUT+COLD) | N/A |
+| 50 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
 
 
 

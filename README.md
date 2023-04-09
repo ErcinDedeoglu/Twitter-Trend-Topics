@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-09 04:16:59 UTC`
+📆 Last Updated: `2023-04-09 05:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 1 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 2 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 3 | [ローレル](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%ac%e3%83%ab) | N/A |
-| 4 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
-| 5 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
-| 6 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 7 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 5 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 6 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
+| 7 | [ローレル](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%ac%e3%83%ab) | N/A |
 | 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 9 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 10 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 11 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 12 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
-| 13 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
-| 14 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
-| 15 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 16 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 17 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
-| 18 | [のど自慢](http://twitter.com/search?q=%e3%81%ae%e3%81%a9%e8%87%aa%e6%85%a2) | N/A |
-| 19 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 20 | [#BukberTanpaWacana](http://twitter.com/search?q=%23BukberTanpaWacana) | N/A |
-| 21 | [イースター](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 22 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
-| 23 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 24 | [#Facts_About_EasterSunday](http://twitter.com/search?q=%23Facts_About_EasterSunday) | N/A |
-| 25 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 26 | [Fast Feast Festive](http://twitter.com/search?q=Fast+Feast+Festive) | N/A |
-| 27 | [#スクール革命](http://twitter.com/search?q=%23%e3%82%b9%e3%82%af%e3%83%bc%e3%83%ab%e9%9d%a9%e5%91%bd) | N/A |
-| 28 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 29 | [キングオージャー](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | キングオージャー is a Japanese card game similar to the American game of Crazy Eights. The object of the game is to be the first player to get rid of all their cards. The game is played with a standard deck of 52 cards, with each player receiving seven cards at the start. The remaining cards are placed face down in a pile, and the top card is turned over to begin the discard pile. Players must match either the suit or rank of the card on top of the discard pile in order to play a card from their hand. |
-| 30 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
-| 31 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 32 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
-| 33 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
-| 34 | [Colina](http://twitter.com/search?q=Colina) | N/A |
-| 35 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
-| 36 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 37 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 38 | [ラクレス](http://twitter.com/search?q=%e3%83%a9%e3%82%af%e3%83%ac%e3%82%b9) | N/A |
-| 39 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
-| 40 | [レジエレキ](http://twitter.com/search?q=%e3%83%ac%e3%82%b8%e3%82%a8%e3%83%ac%e3%82%ad) | N/A |
-| 41 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 42 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 43 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 44 | [アウトサイダーズ](http://twitter.com/search?q=%e3%82%a2%e3%82%a6%e3%83%88%e3%82%b5%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ba) | アウトサイダーズ (OutSiders) is a Japanese rock band formed in 2002. The band's name is derived from the English word "outsider", which refers to someone who is excluded from a group or society. In the context of the band, it implies that they are outsiders in the music industry. The band's music has been described as a mix of punk, metal, and alternative rock. |
-| 45 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 46 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
-| 47 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 48 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
-| 49 | [リバティアイランド](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 50 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 9 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
+| 10 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 11 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
+| 12 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 13 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 14 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 15 | [#LazadaTHRSale](http://twitter.com/search?q=%23LazadaTHRSale) | N/A |
+| 16 | [THR Lazada](http://twitter.com/search?q=THR+Lazada) | N/A |
+| 17 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 18 | [#EasterSunday](http://twitter.com/search?q=%23EasterSunday) | N/A |
+| 19 | [ニックス](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 20 | [アデサニヤ](http://twitter.com/search?q=%e3%82%a2%e3%83%87%e3%82%b5%e3%83%8b%e3%83%a4) | N/A |
+| 21 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 22 | [イースター](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 23 | [抹茶ドーナツ](http://twitter.com/search?q=%e6%8a%b9%e8%8c%b6%e3%83%89%e3%83%bc%e3%83%8a%e3%83%84) | N/A |
+| 24 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
+| 25 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
+| 26 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 27 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
+| 28 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
+| 29 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 30 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
+| 31 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 32 | [Fast Feast Festive](http://twitter.com/search?q=Fast+Feast+Festive) | N/A |
+| 33 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 34 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 35 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 36 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 37 | [リバティアイランド](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 38 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 39 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 40 | [キングオージャー](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | キングオージャー is a Japanese card game similar to the American game of Crazy Eights. The object of the game is to be the first player to get rid of all their cards. The game is played with a standard deck of 52 cards, with each player receiving seven cards at the start. The remaining cards are placed face down in a pile, and the top card is turned over to begin the discard pile. Players must match either the suit or rank of the card on top of the discard pile in order to play a card from their hand. |
+| 41 | [ルルーシュ](http://twitter.com/search?q=%e3%83%ab%e3%83%ab%e3%83%bc%e3%82%b7%e3%83%a5) | N/A |
+| 42 | [ノーアウト満塁](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%a2%e3%82%a6%e3%83%88%e6%ba%80%e5%a1%81) | N/A |
+| 43 | [山岡くん](http://twitter.com/search?q=%e5%b1%b1%e5%b2%a1%e3%81%8f%e3%82%93) | N/A |
+| 44 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 45 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 46 | [スタメン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
+| 47 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 48 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 49 | [金村くん](http://twitter.com/search?q=%e9%87%91%e6%9d%91%e3%81%8f%e3%82%93) | N/A |
+| 50 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 
 
 

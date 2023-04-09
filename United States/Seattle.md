@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-04-09 04:17:57 UTC`
+📆 Last Updated: `2023-04-09 05:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SEAvSTL](http://twitter.com/search?q=%23SEAvSTL) | N/A |
-| 2 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 3 | [St. Louis](http://twitter.com/search?q=St.+Louis) | N/A |
-| 4 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 5 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 7 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 10 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
-| 11 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 12 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 13 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
-| 14 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 15 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 17 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 18 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
-| 19 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
-| 20 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
-| 21 | [#bucciovertimechallenge](http://twitter.com/search?q=%23bucciovertimechallenge) | N/A |
-| 22 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 23 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
-| 24 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 25 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 26 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 27 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 28 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
-| 29 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 30 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 31 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 32 | [Atencio](http://twitter.com/search?q=Atencio) | N/A |
-| 33 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
-| 34 | [Frank Martin](http://twitter.com/search?q=Frank+Martin) | N/A |
-| 35 | [Yigit](http://twitter.com/search?q=Yigit) | N/A |
-| 36 | [Bobcats](http://twitter.com/search?q=Bobcats) | N/A |
-| 37 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
-| 38 | [Rand Pecknold](http://twitter.com/search?q=Rand+Pecknold) | N/A |
-| 39 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 40 | [Justin Owen](http://twitter.com/search?q=Justin+Owen) | N/A |
-| 41 | [Big Baby](http://twitter.com/search?q=Big+Baby) | N/A |
-| 42 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
-| 43 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 44 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 45 | [Campa](http://twitter.com/search?q=Campa) | N/A |
-| 46 | [Brandun Lee](http://twitter.com/search?q=Brandun+Lee) | N/A |
-| 47 | [Scarface](http://twitter.com/search?q=Scarface) | N/A |
-| 48 | [Motzko](http://twitter.com/search?q=Motzko) | N/A |
-| 49 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
-| 50 | [Odor](http://twitter.com/search?q=Odor) | N/A |
+| 1 | [Atencio](http://twitter.com/search?q=Atencio) | N/A |
+| 2 | [#SEAvSTL](http://twitter.com/search?q=%23SEAvSTL) | N/A |
+| 3 | [St Louis](http://twitter.com/search?q=St+Louis) | N/A |
+| 4 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 5 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 6 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 7 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 8 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 9 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 10 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 11 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
+| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 14 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
+| 15 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 16 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 17 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 18 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 19 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
+| 20 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 21 | [#FundoraMendoza](http://twitter.com/search?q=%23FundoraMendoza) | N/A |
+| 22 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 23 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
+| 24 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
+| 25 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 26 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
+| 27 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
+| 28 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 29 | [Headstrong](http://twitter.com/search?q=Headstrong) | N/A |
+| 30 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 31 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 32 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 33 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 34 | [Haney](http://twitter.com/search?q=Haney) | N/A |
+| 35 | [OUT COLD](http://twitter.com/search?q=OUT+COLD) | N/A |
+| 36 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
+| 37 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
+| 38 | [WHAT A KNOCKOUT](http://twitter.com/search?q=WHAT+A+KNOCKOUT) | N/A |
+| 39 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 40 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
+| 41 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
+| 42 | [Gamebred](http://twitter.com/search?q=Gamebred) | N/A |
+| 43 | [THE CHAMP IS BACK](http://twitter.com/search?q=THE+CHAMP+IS+BACK) | N/A |
+| 44 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 45 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 46 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 47 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 48 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
+| 49 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 50 | [Streameast](http://twitter.com/search?q=Streameast) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-04-09 04:17:53 UTC`
+📆 Last Updated: `2023-04-09 05:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gophs](http://twitter.com/search?q=Gophs) | N/A |
+| 1 | [Motzko](http://twitter.com/search?q=Motzko) | N/A |
 | 2 | [Cooley](http://twitter.com/search?q=Cooley) | N/A |
-| 3 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 4 | [#MNUFC](http://twitter.com/search?q=%23MNUFC) | N/A |
+| 3 | [#NCAAHockey](http://twitter.com/search?q=%23NCAAHockey) | N/A |
+| 4 | [Gophs](http://twitter.com/search?q=Gophs) | N/A |
 | 5 | [National Championship](http://twitter.com/search?q=National+Championship) | N/A |
-| 6 | [#SkiUMah](http://twitter.com/search?q=%23SkiUMah) | N/A |
-| 7 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 6 | [#MNUFC](http://twitter.com/search?q=%23MNUFC) | N/A |
+| 7 | [#SkiUMah](http://twitter.com/search?q=%23SkiUMah) | N/A |
 | 8 | [#PrideOnIce](http://twitter.com/search?q=%23PrideOnIce) | N/A |
-| 9 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 10 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
-| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 12 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
-| 13 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 14 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 15 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 16 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
-| 17 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 18 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 19 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 20 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 21 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
-| 22 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
-| 23 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 24 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
-| 25 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 26 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 27 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 28 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 29 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
-| 30 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 31 | [Yigit](http://twitter.com/search?q=Yigit) | N/A |
+| 9 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 10 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 11 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 12 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 13 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
+| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 15 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 16 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
+| 17 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 18 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 19 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
+| 20 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 21 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 22 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
+| 23 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
+| 24 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 25 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
+| 26 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
+| 27 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 28 | [Headstrong](http://twitter.com/search?q=Headstrong) | N/A |
+| 29 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 30 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 31 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
 | 32 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 33 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 34 | [Atencio](http://twitter.com/search?q=Atencio) | N/A |
-| 35 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
-| 36 | [Frank Martin](http://twitter.com/search?q=Frank+Martin) | N/A |
-| 37 | [Bobcats](http://twitter.com/search?q=Bobcats) | N/A |
-| 38 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
-| 39 | [Rand Pecknold](http://twitter.com/search?q=Rand+Pecknold) | N/A |
-| 40 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 41 | [Justin Owen](http://twitter.com/search?q=Justin+Owen) | N/A |
-| 42 | [Big Baby](http://twitter.com/search?q=Big+Baby) | N/A |
-| 43 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
-| 44 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
-| 45 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 46 | [Campa](http://twitter.com/search?q=Campa) | N/A |
-| 47 | [Brandun Lee](http://twitter.com/search?q=Brandun+Lee) | N/A |
-| 48 | [Scarface](http://twitter.com/search?q=Scarface) | N/A |
-| 49 | [Motzko](http://twitter.com/search?q=Motzko) | N/A |
-| 50 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
+| 33 | [Haney](http://twitter.com/search?q=Haney) | N/A |
+| 34 | [OUT COLD](http://twitter.com/search?q=OUT+COLD) | N/A |
+| 35 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
+| 36 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
+| 37 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 38 | [WHAT A KNOCKOUT](http://twitter.com/search?q=WHAT+A+KNOCKOUT) | N/A |
+| 39 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
+| 40 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
+| 41 | [Gamebred](http://twitter.com/search?q=Gamebred) | N/A |
+| 42 | [THE CHAMP IS BACK](http://twitter.com/search?q=THE+CHAMP+IS+BACK) | N/A |
+| 43 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 44 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 45 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 46 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 47 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
+| 48 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 49 | [Streameast](http://twitter.com/search?q=Streameast) | N/A |
+| 50 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
 
 
 
