@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-04-09 21:17:16 UTC`
+📆 Last Updated: `2023-04-09 22:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
-| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 4 | [#LESKRO](http://twitter.com/search?q=%23LESKRO) | N/A |
+| 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 2 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [Huberta](http://twitter.com/search?q=Huberta) | N/A |
 | 5 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
-| 6 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
-| 7 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 8 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 9 | [Chrystus Zmartwychwstał](http://twitter.com/search?q=Chrystus+Zmartwychwsta%c5%82) | N/A |
-| 10 | [Chrystus Zmartwychwstał](http://twitter.com/search?q=Chrystus+Zmartwychwsta%c5%82) | N/A |
-| 11 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 6 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 7 | [CHRYSTUS ZMARTWYCHWSTAŁ](http://twitter.com/search?q=CHRYSTUS+ZMARTWYCHWSTA%c5%81) | N/A |
+| 8 | [CHRYSTUS ZMARTWYCHWSTAŁ](http://twitter.com/search?q=CHRYSTUS+ZMARTWYCHWSTA%c5%81) | N/A |
+| 9 | [Agata](http://twitter.com/search?q=Agata) | N/A |
+| 10 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 11 | [#grucze](http://twitter.com/search?q=%23grucze) | N/A |
 | 12 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 13 | [Huberta](http://twitter.com/search?q=Huberta) | N/A |
-| 14 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
-| 15 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 16 | [Raczkowski](http://twitter.com/search?q=Raczkowski) | N/A |
+| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 14 | [#LPOWAR](http://twitter.com/search?q=%23LPOWAR) | N/A |
+| 15 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 16 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
 | 17 | [Francja](http://twitter.com/search?q=Francja) | N/A |
-| 18 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 20 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 21 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 23 | [Agata](http://twitter.com/search?q=Agata) | N/A |
-| 24 | [Grecji](http://twitter.com/search?q=Grecji) | N/A |
-| 25 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
-| 26 | [wielka sobota](http://twitter.com/search?q=wielka+sobota) | N/A |
-| 27 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
-| 28 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 29 | [Jajko](http://twitter.com/search?q=Jajko) | N/A |
-| 30 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 31 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 32 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 33 | [Laslo Djere](http://twitter.com/search?q=Laslo+Djere) | N/A |
-| 34 | [Puszczy](http://twitter.com/search?q=Puszczy) | N/A |
-| 35 | [Lesznie](http://twitter.com/search?q=Lesznie) | N/A |
-| 36 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 37 | [Salaha](http://twitter.com/search?q=Salaha) | N/A |
-| 38 | [Legutko](http://twitter.com/search?q=Legutko) | N/A |
-| 39 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 40 | [Rutkowskiego](http://twitter.com/search?q=Rutkowskiego) | N/A |
+| 18 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 19 | [PRAWDZIWIE ZMARTWYCHWSTAŁ](http://twitter.com/search?q=PRAWDZIWIE+ZMARTWYCHWSTA%c5%81) | N/A |
+| 20 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 21 | [wielka sobota](http://twitter.com/search?q=wielka+sobota) | N/A |
+| 22 | [Jajko](http://twitter.com/search?q=Jajko) | N/A |
+| 23 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 24 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
+| 25 | [Mateusza](http://twitter.com/search?q=Mateusza) | N/A |
+| 26 | [Puszczy](http://twitter.com/search?q=Puszczy) | N/A |
+| 27 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 28 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 29 | [Stany](http://twitter.com/search?q=Stany) | N/A |
+| 30 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 31 | [Wysoki](http://twitter.com/search?q=Wysoki) | N/A |
+| 32 | [Adama](http://twitter.com/search?q=Adama) | N/A |
+| 33 | [Europie](http://twitter.com/search?q=Europie) | N/A |
+| 34 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
+| 35 | [Raczkowski](http://twitter.com/search?q=Raczkowski) | N/A |
+| 36 | [Niepołomicach](http://twitter.com/search?q=Niepo%c5%82omicach) | N/A |
+| 37 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 38 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
+| 39 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 40 | [Warty](http://twitter.com/search?q=Warty) | N/A |
 | 41 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 42 | [Tajwan](http://twitter.com/search?q=Tajwan) | N/A |
-| 43 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 42 | [Francuzi](http://twitter.com/search?q=Francuzi) | N/A |
+| 43 | [Arsenalu](http://twitter.com/search?q=Arsenalu) | N/A |
 | 44 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 45 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 46 | [Rafał Wilczur](http://twitter.com/search?q=Rafa%c5%82+Wilczur) | N/A |
-| 47 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 48 | [Krosno](http://twitter.com/search?q=Krosno) | N/A |
-| 49 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 50 | [Niepołomicach](http://twitter.com/search?q=Niepo%c5%82omicach) | N/A |
+| 45 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 46 | [Liverpoolu](http://twitter.com/search?q=Liverpoolu) | N/A |
+| 47 | [Sienkiewicz](http://twitter.com/search?q=Sienkiewicz) | N/A |
+| 48 | [kujawski](http://twitter.com/search?q=kujawski) | N/A |
+| 49 | [krowa](http://twitter.com/search?q=krowa) | N/A |
+| 50 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 
 
 

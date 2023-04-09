@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-04-09 21:17:59 UTC`
+📆 Last Updated: `2023-04-09 22:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 2 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 3 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 4 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 5 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 6 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
-| 7 | [Bamba](http://twitter.com/search?q=Bamba) | N/A |
-| 8 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 9 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 10 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
-| 11 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 12 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
-| 13 | [Christ](http://twitter.com/search?q=Christ) | N/A |
-| 14 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 15 | [gerard](http://twitter.com/search?q=gerard) | N/A |
-| 16 | [Peeps](http://twitter.com/search?q=Peeps) | N/A |
-| 17 | [#RLCS](http://twitter.com/search?q=%23RLCS) | N/A |
-| 18 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 19 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 20 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 21 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 22 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
-| 23 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 1 | [Detmers](http://twitter.com/search?q=Detmers) | N/A |
+| 2 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 3 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
+| 4 | [Hoppe](http://twitter.com/search?q=Hoppe) | N/A |
+| 5 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
+| 6 | [Wenyen](http://twitter.com/search?q=Wenyen) | N/A |
+| 7 | [Play-In](http://twitter.com/search?q=Play-In) | N/A |
+| 8 | [Golden State](http://twitter.com/search?q=Golden+State) | Golden State is a nickname for the U.S. state of California. It is derived from the state's nickname, The Golden State, which was first used in print by author and historian O.P. Austin in 1876. The term is often used to refer to the entire West Coast of the United States, or more specifically, to the area along the Pacific coast from Oregon to Southern California. |
+| 9 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
+| 10 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 11 | [#RLCS](http://twitter.com/search?q=%23RLCS) | N/A |
+| 12 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 14 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 15 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 16 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 17 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 18 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
+| 19 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 20 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 21 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 22 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 23 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
 | 24 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 25 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 26 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 27 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 28 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 29 | [Brennan](http://twitter.com/search?q=Brennan) | N/A |
-| 30 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 31 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
-| 32 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 33 | [Udonis Haslem](http://twitter.com/search?q=Udonis+Haslem) | N/A |
-| 34 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 35 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 36 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
-| 37 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
-| 38 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 39 | [Tim Connelly](http://twitter.com/search?q=Tim+Connelly) | N/A |
-| 40 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 41 | [Payton Pritchard](http://twitter.com/search?q=Payton+Pritchard) | N/A |
-| 42 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 43 | [SloMo](http://twitter.com/search?q=SloMo) | N/A |
-| 44 | [Seby](http://twitter.com/search?q=Seby) | N/A |
-| 45 | [Dwane Casey](http://twitter.com/search?q=Dwane+Casey) | N/A |
-| 46 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 47 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
-| 48 | [Jimmy Cordero](http://twitter.com/search?q=Jimmy+Cordero) | N/A |
-| 49 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 50 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 25 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 26 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
+| 27 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 28 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 29 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
+| 30 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
+| 31 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 32 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 33 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 34 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 35 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 36 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
+| 37 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 38 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 39 | [Patrick Reed](http://twitter.com/search?q=Patrick+Reed) | Patrick Reed is an American professional golfer who plays on the PGA Tour. He has won several tournaments, including the 2018 Masters Tournament. The phrase "Patrick Reed" is used to refer to his success in golf. |
+| 40 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 41 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 42 | [Kris Dunn](http://twitter.com/search?q=Kris+Dunn) | N/A |
+| 43 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 44 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
+| 45 | [Brennan](http://twitter.com/search?q=Brennan) | N/A |
+| 46 | [Cantlay](http://twitter.com/search?q=Cantlay) | N/A |
+| 47 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 48 | [Clips](http://twitter.com/search?q=Clips) | N/A |
+| 49 | [Udonis Haslem](http://twitter.com/search?q=Udonis+Haslem) | N/A |
+| 50 | [Ant Edwards](http://twitter.com/search?q=Ant+Edwards) | N/A |
 
 
 

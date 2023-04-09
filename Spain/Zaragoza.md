@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-04-09 21:17:24 UTC`
+📆 Last Updated: `2023-04-09 22:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Spain](</Spain>)
 | 2 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
 | 3 | [#CuartoMilenio](http://twitter.com/search?q=%23CuartoMilenio) | N/A |
 | 4 | [Lemar](http://twitter.com/search?q=Lemar) | Lemar is a French male given name derived from the Latin name "Lambertus", meaning "bright land". It is also a surname. |
-| 5 | [Viti](http://twitter.com/search?q=Viti) | N/A |
-| 6 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 7 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 8 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 9 | [Mario Hermoso](http://twitter.com/search?q=Mario+Hermoso) | N/A |
+| 5 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 6 | [Viti](http://twitter.com/search?q=Viti) | N/A |
+| 7 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 8 | [Raquel Bollo](http://twitter.com/search?q=Raquel+Bollo) | N/A |
+| 9 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
 | 10 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 11 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
-| 12 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 13 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 14 | [Fran García](http://twitter.com/search?q=Fran+Garc%c3%ada) | N/A |
-| 15 | [Lejeune](http://twitter.com/search?q=Lejeune) | N/A |
-| 16 | [#LimGoHome](http://twitter.com/search?q=%23LimGoHome) | N/A |
-| 17 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 18 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 19 | [Vallecas](http://twitter.com/search?q=Vallecas) | N/A |
+| 11 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 12 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
+| 13 | [#SecretosFamilia9Abr](http://twitter.com/search?q=%23SecretosFamilia9Abr) | N/A |
+| 14 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 15 | [Arelys](http://twitter.com/search?q=Arelys) | N/A |
+| 16 | [Mario Hermoso](http://twitter.com/search?q=Mario+Hermoso) | N/A |
+| 17 | [Raquel Arias](http://twitter.com/search?q=Raquel+Arias) | N/A |
+| 18 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 19 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 20 | [Pimienta](http://twitter.com/search?q=Pimienta) | N/A |
-| 21 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 22 | [Borja Sánchez](http://twitter.com/search?q=Borja+S%c3%a1nchez) | N/A |
-| 23 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 24 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
+| 21 | [Isa Pi](http://twitter.com/search?q=Isa+Pi) | N/A |
+| 22 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
+| 23 | [Vallecas](http://twitter.com/search?q=Vallecas) | N/A |
+| 24 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
 | 25 | [Angelito](http://twitter.com/search?q=Angelito) | N/A |
-| 26 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
-| 27 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 28 | [Moleiro](http://twitter.com/search?q=Moleiro) | N/A |
-| 29 | [Isa Pi](http://twitter.com/search?q=Isa+Pi) | N/A |
-| 30 | [Peter Lim](http://twitter.com/search?q=Peter+Lim) | N/A |
-| 31 | [Meriton](http://twitter.com/search?q=Meriton) | N/A |
-| 32 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 33 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 34 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
-| 35 | [Arny](http://twitter.com/search?q=Arny) | N/A |
-| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 37 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 38 | [Ortuño](http://twitter.com/search?q=Ortu%c3%b1o) | N/A |
-| 39 | [Foulquier](http://twitter.com/search?q=Foulquier) | Foulquier is a French surname. It is derived from the Old French word "fouler," which means "to trample." The name is thought to have originally been given to someone who was a trampler of grapes in the wine-making process. In English, the name could be translated as "trampler." |
-| 40 | [El Juli](http://twitter.com/search?q=El+Juli) | N/A |
-| 41 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 42 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
-| 43 | [Oblak](http://twitter.com/search?q=Oblak) | Oblak is a Slovenian surname. It is derived from the word "oblak" which means "cloud" in Slovenian. |
-| 44 | [Baraja](http://twitter.com/search?q=Baraja) | N/A |
-| 45 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
-| 46 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
-| 47 | [Castillejo](http://twitter.com/search?q=Castillejo) | Castillejo is a Spanish surname derived from the place name Castillejo, which is a small village in the province of Burgos, Spain. In English, it can be translated to mean "little castle". |
-| 48 | [Marvin](http://twitter.com/search?q=Marvin) | Marvin is a slang term used to describe someone who is feeling depressed or down. It is derived from the character Marvin from the movie The Hitchhiker's Guide to the Galaxy, who was an extremely depressed robot. |
+| 26 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 27 | [Fran García](http://twitter.com/search?q=Fran+Garc%c3%ada) | N/A |
+| 28 | [Kaptoum](http://twitter.com/search?q=Kaptoum) | N/A |
+| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 30 | [Moleiro](http://twitter.com/search?q=Moleiro) | N/A |
+| 31 | [Lejeune](http://twitter.com/search?q=Lejeune) | N/A |
+| 32 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 33 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 34 | [Borja Sánchez](http://twitter.com/search?q=Borja+S%c3%a1nchez) | N/A |
+| 35 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 36 | [Larraitz](http://twitter.com/search?q=Larraitz) | N/A |
+| 37 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 38 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 39 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
+| 40 | [Arny](http://twitter.com/search?q=Arny) | N/A |
+| 41 | [Sandro](http://twitter.com/search?q=Sandro) | N/A |
+| 42 | [Alavés](http://twitter.com/search?q=Alav%c3%a9s) | Alavés is a Spanish football club based in Vitoria-Gasteiz, Álava, in the autonomous community of the Basque Country. The club's name means "the Basques" in English. |
+| 43 | [Camarasa](http://twitter.com/search?q=Camarasa) | N/A |
+| 44 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 45 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 46 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 47 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 48 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
 
 
 

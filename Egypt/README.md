@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-04-09 21:18:03 UTC`
+📆 Last Updated: `2023-04-09 22:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,42 +17,54 @@ This is top 50 for Egypt
 | ------- | ------------ | ------------ |
 | 1 | [#دره_الاجهر](http://twitter.com/search?q=%23%d8%af%d8%b1%d9%87_%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b1) | N/A |
 | 2 | [#مصر_امان_معاك_ياريس](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b1_%d8%a7%d9%85%d8%a7%d9%86_%d9%85%d8%b9%d8%a7%d9%83_%d9%8a%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 3 | [#السيسي_كبير_العيله](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a_%d9%83%d8%a8%d9%8a%d8%b1_%d8%a7%d9%84%d8%b9%d9%8a%d9%84%d9%87) | N/A |
-| 4 | [جعفر](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
-| 5 | [#تغيير_جو](http://twitter.com/search?q=%23%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1_%d8%ac%d9%88) | N/A |
-| 6 | [#حياه_كريمه](http://twitter.com/search?q=%23%d8%ad%d9%8a%d8%a7%d9%87_%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
+| 3 | [#تغيير_جو](http://twitter.com/search?q=%23%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1_%d8%ac%d9%88) | N/A |
+| 4 | [البنك الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 5 | [#السيسي_كبير_العيله](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a_%d9%83%d8%a8%d9%8a%d8%b1_%d8%a7%d9%84%d8%b9%d9%8a%d9%84%d9%87) | N/A |
+| 6 | [#مصطفي_شعبان](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b7%d9%81%d9%8a_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
 | 7 | [باسم مرسي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%85+%d9%85%d8%b1%d8%b3%d9%8a) | N/A |
-| 8 | [البنك الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 9 | [عمرو السيسي](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | عمرو السيسي is the name of the current President of Egypt, Abdel Fattah el-Sisi. In English, it translates to Omar el-Sisi. |
-| 10 | [وائل فرحان](http://twitter.com/search?q=%d9%88%d8%a7%d8%a6%d9%84+%d9%81%d8%b1%d8%ad%d8%a7%d9%86) | N/A |
-| 11 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 12 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
-| 13 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 14 | [مصطفي شلبي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d8%b4%d9%84%d8%a8%d9%8a) | مصطفي شلبي is an Arabic name, and it translates to English as Mustafa Shalabi. |
-| 15 | [عبد الغني](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%ba%d9%86%d9%8a) | عبد الغني is an Arabic name which translates to English as "Servant of the Rich". |
-| 16 | [محمد رمضان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 17 | [محمد سامي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b3%d8%a7%d9%85%d9%8a) | N/A |
-| 18 | [فيرمينو](http://twitter.com/search?q=%d9%81%d9%8a%d8%b1%d9%85%d9%8a%d9%86%d9%88) | N/A |
-| 19 | [امين عمر](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d9%86+%d8%b9%d9%85%d8%b1) | N/A |
-| 20 | [سيد العمده](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af+%d8%a7%d9%84%d8%b9%d9%85%d8%af%d9%87) | N/A |
-| 21 | [حماده فتح](http://twitter.com/search?q=%d8%ad%d9%85%d8%a7%d8%af%d9%87+%d9%81%d8%aa%d8%ad) | N/A |
-| 22 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
-| 23 | [شوقي فتح](http://twitter.com/search?q=%d8%b4%d9%88%d9%82%d9%8a+%d9%81%d8%aa%d8%ad) | N/A |
-| 24 | [تشاكا](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%83%d8%a7) | N/A |
-| 25 | [الشوط التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
-| 26 | [جيسوس](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
-| 27 | [الحلقه الجايه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d9%87) | N/A |
-| 28 | [هندرسون](http://twitter.com/search?q=%d9%87%d9%86%d8%af%d8%b1%d8%b3%d9%88%d9%86) | N/A |
-| 29 | [الدورى](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%89) | N/A |
-| 30 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
-| 31 | [نيوكاسل](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84) | نيوكاسل (Nuqasil) is an Arabic word meaning "to build". It is often used to refer to the process of constructing a building or other structure. |
-| 32 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 33 | [جوارديولا](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
-| 34 | [فان دايك](http://twitter.com/search?q=%d9%81%d8%a7%d9%86+%d8%af%d8%a7%d9%8a%d9%83) | N/A |
-| 35 | [#مصطفي_شعبان](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b7%d9%81%d9%8a_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 36 | [#النصر_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
-| 37 | [#جده_الان](http://twitter.com/search?q=%23%d8%ac%d8%af%d9%87_%d8%a7%d9%84%d8%a7%d9%86) | #جده_الان is a hashtag used on social media to refer to the city of Jeddah, Saudi Arabia. In English, it translates to "Jeddah Now". |
-| 38 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 8 | [جعفر](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
+| 9 | [وائل فرحان](http://twitter.com/search?q=%d9%88%d8%a7%d8%a6%d9%84+%d9%81%d8%b1%d8%ad%d8%a7%d9%86) | N/A |
+| 10 | [مصطفي شلبي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d8%b4%d9%84%d8%a8%d9%8a) | مصطفي شلبي is an Arabic name, and it translates to English as Mustafa Shalabi. |
+| 11 | [عبد الغني](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%ba%d9%86%d9%8a) | عبد الغني is an Arabic name which translates to English as "Servant of the Rich". |
+| 12 | [١٨ رمضان](http://twitter.com/search?q=%d9%a1%d9%a8+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 13 | [المركز الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 14 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | زيزو (zizo) is an Arabic slang term that means "cool" or "awesome". It is often used to express approval or admiration. |
+| 15 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
+| 16 | [حسام عبد المجيد](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a7%d9%85+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d9%8a%d8%af) | N/A |
+| 17 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 18 | [اللاعب المتسلل](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8+%d8%a7%d9%84%d9%85%d8%aa%d8%b3%d9%84%d9%84) | N/A |
+| 19 | [18 رمضان](http://twitter.com/search?q=18+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 20 | [امين عمر](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d9%86+%d8%b9%d9%85%d8%b1) | N/A |
+| 21 | [مدحت عبد الهادي](http://twitter.com/search?q=%d9%85%d8%af%d8%ad%d8%aa+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%87%d8%a7%d8%af%d9%8a) | N/A |
+| 22 | [شوقي فتح](http://twitter.com/search?q=%d8%b4%d9%88%d9%82%d9%8a+%d9%81%d8%aa%d8%ad) | N/A |
+| 23 | [سيد العمده](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af+%d8%a7%d9%84%d8%b9%d9%85%d8%af%d9%87) | N/A |
+| 24 | [سموحة](http://twitter.com/search?q=%d8%b3%d9%85%d9%88%d8%ad%d8%a9) | N/A |
+| 25 | [ناصر منسي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d9%85%d9%86%d8%b3%d9%8a) | N/A |
+| 26 | [المدرب الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 27 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 28 | [سيف الجزيري](http://twitter.com/search?q=%d8%b3%d9%8a%d9%81+%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d9%8a) | سيف الجزيري (Sayf al-Jazīrī) is an Arabic phrase meaning "Sword of the Peninsula". It is a term used to refer to the traditional weapon of the Arabian Peninsula, which was a curved sword with a single-edged blade. |
+| 29 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 30 | [مبارك الاتي](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%b1%d9%83+%d8%a7%d9%84%d8%a7%d8%aa%d9%8a) | N/A |
+| 31 | [محمد سامي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b3%d8%a7%d9%85%d9%8a) | N/A |
+| 32 | [منى زكي](http://twitter.com/search?q=%d9%85%d9%86%d9%89+%d8%b2%d9%83%d9%8a) | N/A |
+| 33 | [محمد رمضان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 34 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 35 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 36 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
+| 37 | [شباب الاهلي](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 38 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 39 | [سبت لعازر](http://twitter.com/search?q=%d8%b3%d8%a8%d8%aa+%d9%84%d8%b9%d8%a7%d8%b2%d8%b1) | N/A |
+| 40 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 41 | [عبد الرازق](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b1%d8%a7%d8%b2%d9%82) | N/A |
+| 42 | [جحش ابن](http://twitter.com/search?q=%d8%ac%d8%ad%d8%b4+%d8%a7%d8%a8%d9%86) | N/A |
+| 43 | [احمد مجدي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d9%85%d8%ac%d8%af%d9%8a) | N/A |
+| 44 | [الدروس المستفاده](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d9%88%d8%b3+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%81%d8%a7%d8%af%d9%87) | N/A |
+| 45 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 46 | [ابراهيم سعيد](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 47 | [علي جحش](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ac%d8%ad%d8%b4) | N/A |
+| 48 | [مصطفي فتحي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d9%81%d8%aa%d8%ad%d9%8a) | N/A |
+| 49 | [التواصل المباشر](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%b5%d9%84+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1) | N/A |
+| 50 | [سمير غانم](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1+%d8%ba%d8%a7%d9%86%d9%85) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-04-09 21:17:27 UTC`
+📆 Last Updated: `2023-04-09 22:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#1000BungaApresiasiET](http://twitter.com/search?q=%231000BungaApresiasiET) | N/A |
-| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [thr lazada](http://twitter.com/search?q=thr+lazada) | N/A |
-| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 5 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
+| 1 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
+| 2 | [thr lazada](http://twitter.com/search?q=thr+lazada) | N/A |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [#1000BungaApresiasiET](http://twitter.com/search?q=%231000BungaApresiasiET) | N/A |
+| 5 | [Lebaran 2020](http://twitter.com/search?q=Lebaran+2020) | N/A |
 | 6 | [fast feast festive](http://twitter.com/search?q=fast+feast+festive) | N/A |
-| 7 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
-| 8 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 9 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 10 | [#NCTzenSelcaDay](http://twitter.com/search?q=%23NCTzenSelcaDay) | N/A |
-| 11 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 12 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 13 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 14 | [Done Ge](http://twitter.com/search?q=Done+Ge) | N/A |
-| 15 | [#To7heWorld_WeAreNCT](http://twitter.com/search?q=%23To7heWorld_WeAreNCT) | N/A |
-| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 17 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 18 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 19 | [DO YOU WANT TO BE FORGIVEN](http://twitter.com/search?q=DO+YOU+WANT+TO+BE+FORGIVEN) | N/A |
-| 20 | [Onic](http://twitter.com/search?q=Onic) | N/A |
-| 21 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 22 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
-| 23 | [Lebaran 2020](http://twitter.com/search?q=Lebaran+2020) | N/A |
-| 24 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
-| 25 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 26 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 27 | [1 rupiah](http://twitter.com/search?q=1+rupiah) | N/A |
-| 28 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 29 | [JENO DESERVES BETTER](http://twitter.com/search?q=JENO+DESERVES+BETTER) | N/A |
-| 30 | [iklan ponds men](http://twitter.com/search?q=iklan+ponds+men) | N/A |
-| 31 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 32 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
-| 33 | [Mas Adam](http://twitter.com/search?q=Mas+Adam) | N/A |
-| 34 | [BESOK SENIN](http://twitter.com/search?q=BESOK+SENIN) | N/A |
-| 35 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 36 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 37 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 38 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
-| 39 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
-| 40 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
-| 41 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 42 | [Zayyan](http://twitter.com/search?q=Zayyan) | N/A |
-| 43 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 44 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 45 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 46 | [Butut](http://twitter.com/search?q=Butut) | N/A |
-| 47 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 48 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 49 | [STREAMING CHAIN](http://twitter.com/search?q=STREAMING+CHAIN) | N/A |
-| 50 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 7 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
+| 8 | [#BukberTanpaWacana](http://twitter.com/search?q=%23BukberTanpaWacana) | N/A |
+| 9 | [#To7heWorld_WeAreNCT](http://twitter.com/search?q=%23To7heWorld_WeAreNCT) | N/A |
+| 10 | [#OurskyyxNeverLetMeGo](http://twitter.com/search?q=%23OurskyyxNeverLetMeGo) | N/A |
+| 11 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 12 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 13 | [Done Ge](http://twitter.com/search?q=Done+Ge) | N/A |
+| 14 | [Band](http://twitter.com/search?q=Band) | Band is a group of musicians who play music together. It can also refer to a group of people who are connected by a common interest or purpose. The word is derived from the Old French word "bande", which means "a company of persons". |
+| 15 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
+| 16 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 18 | [JENO DESERVES BETTER](http://twitter.com/search?q=JENO+DESERVES+BETTER) | N/A |
+| 19 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
+| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 21 | [1 Rupiah](http://twitter.com/search?q=1+Rupiah) | N/A |
+| 22 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
+| 23 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 24 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 25 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 26 | [Iriana](http://twitter.com/search?q=Iriana) | N/A |
+| 27 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
+| 28 | [Ibu Negara](http://twitter.com/search?q=Ibu+Negara) | N/A |
+| 29 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 30 | [it's exo'clock](http://twitter.com/search?q=it%27s+exo%27clock) | N/A |
+| 31 | [Coach](http://twitter.com/search?q=Coach) | N/A |
+| 32 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 33 | [Happy 7th](http://twitter.com/search?q=Happy+7th) | N/A |
+| 34 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 35 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 36 | [Bapakku](http://twitter.com/search?q=Bapakku) | N/A |
+| 37 | [The Eve](http://twitter.com/search?q=The+Eve) | N/A |
+| 38 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 39 | [Kkuma](http://twitter.com/search?q=Kkuma) | N/A |
+| 40 | [Viva la Vida](http://twitter.com/search?q=Viva+la+Vida) | N/A |
+| 41 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 42 | [Sinergi Mengawasi](http://twitter.com/search?q=Sinergi+Mengawasi) | N/A |
+| 43 | [raih kemuliaan ramadhan](http://twitter.com/search?q=raih+kemuliaan+ramadhan) | N/A |
+| 44 | [Imsak](http://twitter.com/search?q=Imsak) | N/A |
+| 45 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 46 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 47 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
+| 48 | [ramadhan bulan suci](http://twitter.com/search?q=ramadhan+bulan+suci) | N/A |
+| 49 | [Love Me Right](http://twitter.com/search?q=Love+Me+Right) | N/A |
+| 50 | [iklan ponds men](http://twitter.com/search?q=iklan+ponds+men) | N/A |
 
 
 

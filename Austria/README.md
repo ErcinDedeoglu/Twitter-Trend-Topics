@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-09 21:18:01 UTC`
+📆 Last Updated: `2023-04-09 22:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Austria
 | ------- | ------------ | ------------ |
 | 1 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
-| 4 | [#Traumschiff](http://twitter.com/search?q=%23Traumschiff) | N/A |
-| 5 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 6 | [#rbsfak](http://twitter.com/search?q=%23rbsfak) | N/A |
-| 7 | [#ASKSTU](http://twitter.com/search?q=%23ASKSTU) | N/A |
-| 8 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 9 | [#SCRSKA](http://twitter.com/search?q=%23SCRSKA) | N/A |
-| 10 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 11 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
-| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 13 | [Coco](http://twitter.com/search?q=Coco) | N/A |
-| 14 | [Karas](http://twitter.com/search?q=Karas) | N/A |
-| 15 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 16 | [Brunner](http://twitter.com/search?q=Brunner) | N/A |
-| 17 | [Osterhasen](http://twitter.com/search?q=Osterhasen) | N/A |
-| 18 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 19 | [Nepp](http://twitter.com/search?q=Nepp) | N/A |
-| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 21 | [Weihnachten](http://twitter.com/search?q=Weihnachten) | Weihnachten is the German word for Christmas. It literally translates to "holy night" in English. |
-| 22 | [Stockinger](http://twitter.com/search?q=Stockinger) | N/A |
-| 23 | [Rosinen](http://twitter.com/search?q=Rosinen) | N/A |
-| 24 | [Armee](http://twitter.com/search?q=Armee) | N/A |
-| 25 | [Kader](http://twitter.com/search?q=Kader) | N/A |
-| 26 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 27 | [Ebenfalls](http://twitter.com/search?q=Ebenfalls) | N/A |
-| 28 | [Zwangsgebühren](http://twitter.com/search?q=Zwangsgeb%c3%bchren) | N/A |
-| 29 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
-| 30 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 31 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
-| 32 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 33 | [Kriege](http://twitter.com/search?q=Kriege) | N/A |
-| 34 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
-| 35 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 36 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
-| 37 | [reindling](http://twitter.com/search?q=reindling) | N/A |
-| 38 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 39 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 40 | [Depp](http://twitter.com/search?q=Depp) | N/A |
-| 41 | [fleischweihe](http://twitter.com/search?q=fleischweihe) | N/A |
-| 42 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 43 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 44 | [Anscheinend](http://twitter.com/search?q=Anscheinend) | N/A |
-| 45 | [schwedenbombe](http://twitter.com/search?q=schwedenbombe) | N/A |
-| 46 | [Akku](http://twitter.com/search?q=Akku) | N/A |
-| 47 | [Ministerium](http://twitter.com/search?q=Ministerium) | N/A |
-| 48 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 49 | [Bezeichnung](http://twitter.com/search?q=Bezeichnung) | N/A |
-| 50 | [Ungeimpfte](http://twitter.com/search?q=Ungeimpfte) | N/A |
+| 3 | [#Traumschiff](http://twitter.com/search?q=%23Traumschiff) | N/A |
+| 4 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 5 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
+| 6 | [Feiertage](http://twitter.com/search?q=Feiertage) | Feiertage is a German word meaning "holidays" or "celebrations". It is used to refer to public holidays, religious holidays, and other special occasions. |
+| 7 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 8 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
+| 9 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
+| 10 | [Coco](http://twitter.com/search?q=Coco) | N/A |
+| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 12 | [#alualt](http://twitter.com/search?q=%23alualt) | N/A |
+| 13 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 14 | [Brunner](http://twitter.com/search?q=Brunner) | N/A |
+| 15 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 16 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 17 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 18 | [#LigaZwa](http://twitter.com/search?q=%23LigaZwa) | N/A |
+| 19 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
+| 20 | [Toten](http://twitter.com/search?q=Toten) | N/A |
+| 21 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 22 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
+| 23 | [Weihnachten](http://twitter.com/search?q=Weihnachten) | Weihnachten is the German word for Christmas. It literally translates to "holy night" in English. |
+| 24 | [Bären](http://twitter.com/search?q=B%c3%a4ren) | N/A |
+| 25 | [Ebenfalls](http://twitter.com/search?q=Ebenfalls) | N/A |
+| 26 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 27 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 28 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
+| 29 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 30 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 31 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 32 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 33 | [fleischweihe](http://twitter.com/search?q=fleischweihe) | N/A |
+| 34 | [Nähe](http://twitter.com/search?q=N%c3%a4he) | N/A |
+| 35 | [Arme](http://twitter.com/search?q=Arme) | N/A |
+| 36 | [bine](http://twitter.com/search?q=bine) | N/A |
+| 37 | [Karin](http://twitter.com/search?q=Karin) | N/A |
+| 38 | [Haider](http://twitter.com/search?q=Haider) | N/A |
+| 39 | [Motivation](http://twitter.com/search?q=Motivation) | N/A |
+| 40 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 41 | [Bezeichnung](http://twitter.com/search?q=Bezeichnung) | N/A |
+| 42 | [Österreicher](http://twitter.com/search?q=%c3%96sterreicher) | N/A |
+| 43 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
+| 44 | [schwedenbombe](http://twitter.com/search?q=schwedenbombe) | N/A |
+| 45 | [Schuhe](http://twitter.com/search?q=Schuhe) | N/A |
+| 46 | [Krone](http://twitter.com/search?q=Krone) | N/A |
+| 47 | [drexxpress](http://twitter.com/search?q=drexxpress) | N/A |
+| 48 | [Guten Morgen Peter](http://twitter.com/search?q=Guten+Morgen+Peter) | N/A |
+| 49 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 50 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-04-09 21:18:07 UTC`
+📆 Last Updated: `2023-04-09 22:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Peru
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Arriba Alianza](http://twitter.com/search?q=Arriba+Alianza) | N/A |
+| 1 | [Arriba Alianza](http://twitter.com/search?q=Arriba+Alianza) | N/A |
+| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 3 | [Sullana](http://twitter.com/search?q=Sullana) | N/A |
 | 4 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
 | 5 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [Jesús Castillo](http://twitter.com/search?q=Jes%c3%bas+Castillo) | N/A |
+| 6 | [#VoleyxMDeportes](http://twitter.com/search?q=%23VoleyxMDeportes) | N/A |
+| 7 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 8 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 9 | [Pablo Sabbag](http://twitter.com/search?q=Pablo+Sabbag) | N/A |
-| 10 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 11 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
-| 12 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 13 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 15 | [Chicho](http://twitter.com/search?q=Chicho) | N/A |
-| 16 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
-| 17 | [Menendez](http://twitter.com/search?q=Menendez) | N/A |
-| 18 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 19 | [#D_DayTracklist](http://twitter.com/search?q=%23D_DayTracklist) | N/A |
-| 20 | [Zanelatto](http://twitter.com/search?q=Zanelatto) | N/A |
-| 21 | [#VoleyxMDeportes](http://twitter.com/search?q=%23VoleyxMDeportes) | N/A |
-| 22 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 23 | [Costa](http://twitter.com/search?q=Costa) | N/A |
-| 24 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
-| 25 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 26 | [Campeones del 36](http://twitter.com/search?q=Campeones+del+36) | N/A |
-| 27 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 28 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
-| 29 | [Lander](http://twitter.com/search?q=Lander) | N/A |
-| 30 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 31 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 9 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 10 | [Pablo Sabbag](http://twitter.com/search?q=Pablo+Sabbag) | N/A |
+| 11 | [Jesús Castillo](http://twitter.com/search?q=Jes%c3%bas+Castillo) | N/A |
+| 12 | [Menendez](http://twitter.com/search?q=Menendez) | N/A |
+| 13 | [Rifle](http://twitter.com/search?q=Rifle) | N/A |
+| 14 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 15 | [#PorElTri](http://twitter.com/search?q=%23PorElTri) | N/A |
+| 16 | [Compagnucci](http://twitter.com/search?q=Compagnucci) | N/A |
+| 17 | [Magnin](http://twitter.com/search?q=Magnin) | N/A |
+| 18 | [#WeCanFeelYourLoveLK](http://twitter.com/search?q=%23WeCanFeelYourLoveLK) | N/A |
+| 19 | [#radiocoti](http://twitter.com/search?q=%23radiocoti) | N/A |
+| 20 | [Huancayo](http://twitter.com/search?q=Huancayo) | N/A |
+| 21 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 22 | [Apertura](http://twitter.com/search?q=Apertura) | N/A |
+| 23 | [Chicho](http://twitter.com/search?q=Chicho) | N/A |
+| 24 | [Zanelatto](http://twitter.com/search?q=Zanelatto) | N/A |
+| 25 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
+| 26 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 27 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
+| 28 | [esidio](http://twitter.com/search?q=esidio) | N/A |
+| 29 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 30 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 31 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
 | 32 | [Lerner](http://twitter.com/search?q=Lerner) | N/A |
-| 33 | [Kanashiro](http://twitter.com/search?q=Kanashiro) | N/A |
-| 34 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 35 | [have a safe flight jungkook](http://twitter.com/search?q=have+a+safe+flight+jungkook) | N/A |
-| 36 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 37 | [#spaceplanetero](http://twitter.com/search?q=%23spaceplanetero) | N/A |
-| 38 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 39 | [Cantolao](http://twitter.com/search?q=Cantolao) | N/A |
-| 40 | [Piura](http://twitter.com/search?q=Piura) | N/A |
-| 41 | [Peruzzi](http://twitter.com/search?q=Peruzzi) | N/A |
-| 42 | [Paro](http://twitter.com/search?q=Paro) | N/A |
-| 43 | [Rifle](http://twitter.com/search?q=Rifle) | N/A |
-| 44 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 45 | [Surco](http://twitter.com/search?q=Surco) | N/A |
-| 46 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 47 | [Cipriani](http://twitter.com/search?q=Cipriani) | N/A |
-| 48 | [ARMY READY FOR D DAY TRACKLIST](http://twitter.com/search?q=ARMY+READY+FOR+D+DAY+TRACKLIST) | N/A |
-| 49 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 50 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 33 | [have a safe flight jungkook](http://twitter.com/search?q=have+a+safe+flight+jungkook) | N/A |
+| 34 | [Olivares](http://twitter.com/search?q=Olivares) | N/A |
+| 35 | [USMP](http://twitter.com/search?q=USMP) | N/A |
+| 36 | [Letras](http://twitter.com/search?q=Letras) | N/A |
+| 37 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 38 | [Sport Boys](http://twitter.com/search?q=Sport+Boys) | N/A |
+| 39 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 40 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
+| 41 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 42 | [Cantolao](http://twitter.com/search?q=Cantolao) | N/A |
+| 43 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 44 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 45 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
+| 46 | [Copa del Rey](http://twitter.com/search?q=Copa+del+Rey) | N/A |
+| 47 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 48 | [ME NIEGO](http://twitter.com/search?q=ME+NIEGO) | N/A |
+| 49 | [Deportivo Municipal](http://twitter.com/search?q=Deportivo+Municipal) | N/A |
+| 50 | [Dooshik](http://twitter.com/search?q=Dooshik) | N/A |
 
 
 

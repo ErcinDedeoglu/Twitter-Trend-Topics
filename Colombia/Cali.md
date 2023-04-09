@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-04-09 21:17:10 UTC`
+📆 Last Updated: `2023-04-09 22:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 3 | [Gaitán](http://twitter.com/search?q=Gait%c3%a1n) | N/A |
-| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 5 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
-| 6 | [#9DeAbril](http://twitter.com/search?q=%239DeAbril) | N/A |
-| 7 | [Víctimas](http://twitter.com/search?q=V%c3%adctimas) | N/A |
+| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 2 | [Gaitán](http://twitter.com/search?q=Gait%c3%a1n) | N/A |
+| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 4 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
+| 5 | [#9DeAbril](http://twitter.com/search?q=%239DeAbril) | N/A |
+| 6 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 8 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 9 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 10 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 11 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 12 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 13 | [#PolloTriste](http://twitter.com/search?q=%23PolloTriste) | N/A |
+| 9 | [Laje](http://twitter.com/search?q=Laje) | N/A |
+| 10 | [Garcés](http://twitter.com/search?q=Garc%c3%a9s) | N/A |
+| 11 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 12 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 13 | [Víctimas](http://twitter.com/search?q=V%c3%adctimas) | N/A |
 | 14 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 15 | [Cadavid](http://twitter.com/search?q=Cadavid) | N/A |
-| 16 | [#SigueSiendoElRey](http://twitter.com/search?q=%23SigueSiendoElRey) | N/A |
-| 17 | [Garcés](http://twitter.com/search?q=Garc%c3%a9s) | N/A |
-| 18 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 19 | [Día Nacional de la Memoria](http://twitter.com/search?q=D%c3%ada+Nacional+de+la+Memoria) | N/A |
-| 20 | [#DomingoDeResurreccion](http://twitter.com/search?q=%23DomingoDeResurreccion) | N/A |
-| 21 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 22 | [Bogotazo](http://twitter.com/search?q=Bogotazo) | N/A |
-| 23 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 24 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 25 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 26 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 27 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 28 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
-| 29 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 30 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 31 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
-| 32 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 33 | [Aladesanmi](http://twitter.com/search?q=Aladesanmi) | N/A |
-| 34 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 35 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 36 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 37 | [Laje](http://twitter.com/search?q=Laje) | N/A |
-| 38 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 39 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
-| 40 | [Hoy 9](http://twitter.com/search?q=Hoy+9) | N/A |
-| 41 | [Pons](http://twitter.com/search?q=Pons) | N/A |
-| 42 | [Aldair Quintana](http://twitter.com/search?q=Aldair+Quintana) | N/A |
-| 43 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
-| 44 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 45 | [El 9](http://twitter.com/search?q=El+9) | N/A |
-| 46 | [El Cali](http://twitter.com/search?q=El+Cali) | N/A |
-| 47 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 48 | [Daniel Coronell](http://twitter.com/search?q=Daniel+Coronell) | N/A |
+| 15 | [#PolloTriste](http://twitter.com/search?q=%23PolloTriste) | N/A |
+| 16 | [#WeCanFeelYourLoveLK](http://twitter.com/search?q=%23WeCanFeelYourLoveLK) | N/A |
+| 17 | [Cadavid](http://twitter.com/search?q=Cadavid) | N/A |
+| 18 | [Aldair Quintana](http://twitter.com/search?q=Aldair+Quintana) | N/A |
+| 19 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 20 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
+| 21 | [Día Nacional de la Memoria](http://twitter.com/search?q=D%c3%ada+Nacional+de+la+Memoria) | N/A |
+| 22 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 23 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 24 | [Aladesanmi](http://twitter.com/search?q=Aladesanmi) | N/A |
+| 25 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
+| 26 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 28 | [Flórez](http://twitter.com/search?q=Fl%c3%b3rez) | N/A |
+| 29 | [Bogotazo](http://twitter.com/search?q=Bogotazo) | N/A |
+| 30 | [Meza](http://twitter.com/search?q=Meza) | N/A |
+| 31 | [Pons](http://twitter.com/search?q=Pons) | N/A |
+| 32 | [Hace 75](http://twitter.com/search?q=Hace+75) | N/A |
+| 33 | [Agustín](http://twitter.com/search?q=Agust%c3%adn) | Agustín is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustín is usually translated as "Augustine". |
+| 34 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 35 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
+| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 37 | [El Cali](http://twitter.com/search?q=El+Cali) | N/A |
+| 38 | [Márquez](http://twitter.com/search?q=M%c3%a1rquez) | N/A |
+| 39 | [Cetré](http://twitter.com/search?q=Cetr%c3%a9) | N/A |
+| 40 | [ASENSIO](http://twitter.com/search?q=ASENSIO) | N/A |
+| 41 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 42 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 43 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
+| 44 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 45 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
+| 46 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 47 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 48 | [pardo](http://twitter.com/search?q=pardo) | N/A |
 
 
 

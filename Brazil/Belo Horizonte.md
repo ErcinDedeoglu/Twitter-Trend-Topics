@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-04-09 21:17:13 UTC`
+📆 Last Updated: `2023-04-09 22:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 2 | [#CAMxAFC](http://twitter.com/search?q=%23CAMxAFC) | N/A |
+| 1 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 2 | [#VamoGalo](http://twitter.com/search?q=%23VamoGalo) | N/A |
 | 3 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
 | 4 | [coelho](http://twitter.com/search?q=coelho) | Coelho is a Portuguese word meaning "rabbit". |
-| 5 | [#VamoGalo](http://twitter.com/search?q=%23VamoGalo) | N/A |
-| 6 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
-| 7 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
-| 8 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 10 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 11 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
-| 12 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 13 | [#TheMaskedSingerBr](http://twitter.com/search?q=%23TheMaskedSingerBr) | #TheMaskedSingerBr is a hashtag used on Twitter to discuss the Brazilian version of the popular singing competition show, The Masked Singer. It is used to share news, updates, and fan reactions about the show. |
-| 14 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 15 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
-| 16 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
-| 17 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 18 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 19 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 20 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
-| 21 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 22 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
-| 23 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
-| 24 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
-| 25 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
-| 26 | [É CAMPEÃO](http://twitter.com/search?q=%c3%89+CAMPE%c3%83O) | É CAMPEÃO is a Portuguese phrase that translates to "It's a Champion" in English. It is typically used to express joy and excitement when someone or something has achieved a great victory or accomplishment. |
-| 27 | [Zé Rafael](http://twitter.com/search?q=Z%c3%a9+Rafael) | Zé Rafael is a Brazilian expression that is used to refer to someone who is very handsome or attractive. In English, it can be translated as "Handsome Joe". |
-| 28 | [Sociedade Esportiva Palmeiras](http://twitter.com/search?q=Sociedade+Esportiva+Palmeiras) | N/A |
-| 29 | [O Palmeiras](http://twitter.com/search?q=O+Palmeiras) | O Palmeiras is a Brazilian football team based in São Paulo. The name literally translates to "The Palms" in English, and is a reference to the state tree of São Paulo, the Palmeira Imperial. |
-| 30 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 31 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 32 | [Sauer](http://twitter.com/search?q=Sauer) | N/A |
-| 33 | [#AvantiPalestra](http://twitter.com/search?q=%23AvantiPalestra) | N/A |
-| 34 | [VAMOS FLAMENGO](http://twitter.com/search?q=VAMOS+FLAMENGO) | N/A |
-| 35 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
-| 36 | [Paulistão](http://twitter.com/search?q=Paulist%c3%a3o) | N/A |
-| 37 | [#PALxAGS](http://twitter.com/search?q=%23PALxAGS) | N/A |
-| 38 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
-| 39 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 40 | [Xamã](http://twitter.com/search?q=Xam%c3%a3) | N/A |
-| 41 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 42 | [Larissa Luz](http://twitter.com/search?q=Larissa+Luz) | N/A |
-| 43 | [EDUARDO PEREIRA RODRIGUES](http://twitter.com/search?q=EDUARDO+PEREIRA+RODRIGUES) | N/A |
-| 44 | [Samuel Xavier](http://twitter.com/search?q=Samuel+Xavier) | N/A |
-| 45 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
-| 46 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 47 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
-| 48 | [Lucas Fernandes](http://twitter.com/search?q=Lucas+Fernandes) | N/A |
-| 49 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
-| 50 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
+| 5 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
+| 6 | [Minas](http://twitter.com/search?q=Minas) | N/A |
+| 7 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
+| 8 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 9 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 10 | [TETRA CAMPEÃO](http://twitter.com/search?q=TETRA+CAMPE%c3%83O) | N/A |
+| 11 | [É TETRA](http://twitter.com/search?q=%c3%89+TETRA) | N/A |
+| 12 | [Givanildo](http://twitter.com/search?q=Givanildo) | N/A |
+| 13 | [Arana](http://twitter.com/search?q=Arana) | Arana is a Spanish word meaning "spider". |
+| 14 | [Lemos](http://twitter.com/search?q=Lemos) | N/A |
+| 15 | [Igor Gomes](http://twitter.com/search?q=Igor+Gomes) | Igor Gomes is a Brazilian professional footballer who plays as an attacking midfielder for São Paulo FC. In English, his name means "warrior of the gods". |
+| 16 | [#CAMxAFC](http://twitter.com/search?q=%23CAMxAFC) | N/A |
+| 17 | [Galão](http://twitter.com/search?q=Gal%c3%a3o) | N/A |
+| 18 | [Battaglia](http://twitter.com/search?q=Battaglia) | N/A |
+| 19 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 20 | [BURRO](http://twitter.com/search?q=BURRO) | N/A |
+| 21 | [Itatiaia](http://twitter.com/search?q=Itatiaia) | N/A |
+| 22 | [Jemerson](http://twitter.com/search?q=Jemerson) | N/A |
+| 23 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 24 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 25 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 26 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 27 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
+| 28 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
+| 29 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
+| 30 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 31 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
+| 32 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 33 | [#FLAxFLU](http://twitter.com/search?q=%23FLAxFLU) | N/A |
+| 34 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
+| 35 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 36 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
+| 37 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 38 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 39 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 40 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 41 | [#CariocaNaBand](http://twitter.com/search?q=%23CariocaNaBand) | N/A |
+| 42 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 43 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
+| 44 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
+| 45 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 46 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
+| 47 | [ATLÉTICO MINEIRO](http://twitter.com/search?q=ATL%c3%89TICO+MINEIRO) | N/A |
+| 48 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
+| 49 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
+| 50 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
 
 
 

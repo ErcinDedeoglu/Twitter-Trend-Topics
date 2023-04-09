@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-04-09 21:17:52 UTC`
+📆 Last Updated: `2023-04-09 22:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 3 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 4 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 5 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
-| 6 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 7 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 8 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 9 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 10 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 11 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 12 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 13 | [Brennan](http://twitter.com/search?q=Brennan) | N/A |
-| 14 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 15 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
-| 16 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 17 | [Udonis Haslem](http://twitter.com/search?q=Udonis+Haslem) | N/A |
-| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 19 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 20 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
-| 21 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
-| 22 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 23 | [Tim Connelly](http://twitter.com/search?q=Tim+Connelly) | N/A |
-| 24 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 25 | [Payton Pritchard](http://twitter.com/search?q=Payton+Pritchard) | N/A |
-| 26 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 27 | [SloMo](http://twitter.com/search?q=SloMo) | N/A |
-| 28 | [Seby](http://twitter.com/search?q=Seby) | N/A |
-| 29 | [Dwane Casey](http://twitter.com/search?q=Dwane+Casey) | N/A |
-| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 31 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
-| 32 | [Jimmy Cordero](http://twitter.com/search?q=Jimmy+Cordero) | N/A |
-| 33 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 34 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 35 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 36 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 37 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
-| 38 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
-| 39 | [Hunter Brown](http://twitter.com/search?q=Hunter+Brown) | N/A |
-| 40 | [Sahith Theegala](http://twitter.com/search?q=Sahith+Theegala) | N/A |
-| 41 | [Cantlay](http://twitter.com/search?q=Cantlay) | N/A |
-| 42 | [Josh Bell](http://twitter.com/search?q=Josh+Bell) | N/A |
-| 43 | [Amed Rosario](http://twitter.com/search?q=Amed+Rosario) | N/A |
-| 44 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
-| 45 | [#ATOBTTR](http://twitter.com/search?q=%23ATOBTTR) | N/A |
-| 46 | [Mickelson](http://twitter.com/search?q=Mickelson) | N/A |
-| 47 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 48 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 49 | [Seranthony](http://twitter.com/search?q=Seranthony) | N/A |
-| 50 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 2 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 3 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 4 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 5 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 6 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
+| 7 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 8 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 9 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 10 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 11 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 12 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 13 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 14 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
+| 15 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 16 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 17 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
+| 18 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
+| 19 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 20 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 21 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 22 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 23 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 24 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 25 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
+| 26 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 27 | [Patrick Reed](http://twitter.com/search?q=Patrick+Reed) | Patrick Reed is an American professional golfer who plays on the PGA Tour. He has won several tournaments, including the 2018 Masters Tournament. The phrase "Patrick Reed" is used to refer to his success in golf. |
+| 28 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 29 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 30 | [Kris Dunn](http://twitter.com/search?q=Kris+Dunn) | N/A |
+| 31 | [Brandon Ingram](http://twitter.com/search?q=Brandon+Ingram) | Brandon Ingram is an American professional basketball player who currently plays for the New Orleans Pelicans of the National Basketball Association (NBA). He was selected second overall in the 2016 NBA draft by the Los Angeles Lakers. He is known for his scoring ability, long wingspan, and defensive versatility. |
+| 32 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
+| 33 | [Brennan](http://twitter.com/search?q=Brennan) | N/A |
+| 34 | [Cantlay](http://twitter.com/search?q=Cantlay) | N/A |
+| 35 | [Josh Bell](http://twitter.com/search?q=Josh+Bell) | N/A |
+| 36 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 37 | [Udonis Haslem](http://twitter.com/search?q=Udonis+Haslem) | N/A |
+| 38 | [Clips](http://twitter.com/search?q=Clips) | N/A |
+| 39 | [Ant Edwards](http://twitter.com/search?q=Ant+Edwards) | N/A |
+| 40 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 41 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
+| 42 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
+| 43 | [Tim Connelly](http://twitter.com/search?q=Tim+Connelly) | N/A |
+| 44 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 45 | [Seby](http://twitter.com/search?q=Seby) | N/A |
+| 46 | [Saben Lee](http://twitter.com/search?q=Saben+Lee) | N/A |
+| 47 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 48 | [Tre Mann](http://twitter.com/search?q=Tre+Mann) | N/A |
+| 49 | [Woosung](http://twitter.com/search?q=Woosung) | N/A |
+| 50 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 
 
 

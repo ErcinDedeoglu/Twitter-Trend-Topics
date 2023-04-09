@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-04-09 21:17:09 UTC`
+📆 Last Updated: `2023-04-09 22:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 2 | [Zaid Romero](http://twitter.com/search?q=Zaid+Romero) | N/A |
-| 3 | [Moyano](http://twitter.com/search?q=Moyano) | N/A |
-| 4 | [Central](http://twitter.com/search?q=Central) | N/A |
-| 5 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 6 | [Malcorra](http://twitter.com/search?q=Malcorra) | N/A |
-| 7 | [Doman](http://twitter.com/search?q=Doman) | N/A |
-| 8 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 9 | [Repetto](http://twitter.com/search?q=Repetto) | N/A |
-| 10 | [#LaPenaDeMorfi](http://twitter.com/search?q=%23LaPenaDeMorfi) | N/A |
-| 11 | [Rosarino](http://twitter.com/search?q=Rosarino) | N/A |
-| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 13 | [Monzón](http://twitter.com/search?q=Monz%c3%b3n) | N/A |
-| 14 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 15 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 16 | [Newell](http://twitter.com/search?q=Newell) | N/A |
-| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 18 | [Cavallero](http://twitter.com/search?q=Cavallero) | N/A |
-| 19 | [Broun](http://twitter.com/search?q=Broun) | N/A |
-| 20 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
-| 21 | [#EDLP](http://twitter.com/search?q=%23EDLP) | N/A |
-| 22 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
-| 23 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
-| 24 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
-| 25 | [Ayuso](http://twitter.com/search?q=Ayuso) | Ayuso is a Spanish surname. It is derived from the Latin word "Auxilius", which means "helpful". In English, it can be translated to mean "helpful one". |
-| 26 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 27 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 28 | [Falcioni](http://twitter.com/search?q=Falcioni) | N/A |
-| 29 | [Coloso](http://twitter.com/search?q=Coloso) | N/A |
-| 30 | [Komar](http://twitter.com/search?q=Komar) | Komar is a Slavic word meaning "mosquito". It is used in many Slavic languages, including Russian, Ukrainian, and Polish. |
-| 31 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
-| 32 | [Elizalde](http://twitter.com/search?q=Elizalde) | N/A |
-| 33 | [Zuqui](http://twitter.com/search?q=Zuqui) | N/A |
-| 34 | [Pincha](http://twitter.com/search?q=Pincha) | N/A |
-| 35 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
-| 36 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
-| 37 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 38 | [Jorge Macri](http://twitter.com/search?q=Jorge+Macri) | N/A |
-| 39 | [Furriel](http://twitter.com/search?q=Furriel) | N/A |
-| 40 | [Boselli](http://twitter.com/search?q=Boselli) | N/A |
-| 41 | [Andujar](http://twitter.com/search?q=Andujar) | N/A |
-| 42 | [Rollheiser](http://twitter.com/search?q=Rollheiser) | N/A |
-| 43 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 44 | [Avellaneda](http://twitter.com/search?q=Avellaneda) | N/A |
-| 45 | [Gustavo López](http://twitter.com/search?q=Gustavo+L%c3%b3pez) | N/A |
-| 46 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
-| 47 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
+| 1 | [Pablo Pérez](http://twitter.com/search?q=Pablo+P%c3%a9rez) | N/A |
+| 2 | [Heinze](http://twitter.com/search?q=Heinze) | N/A |
+| 3 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
+| 4 | [Newell](http://twitter.com/search?q=Newell) | N/A |
+| 5 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 6 | [#OLADESUICID10S](http://twitter.com/search?q=%23OLADESUICID10S) | N/A |
+| 7 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
+| 8 | [Vamos River](http://twitter.com/search?q=Vamos+River) | N/A |
+| 9 | [Rosarino](http://twitter.com/search?q=Rosarino) | N/A |
+| 10 | [Moyano](http://twitter.com/search?q=Moyano) | N/A |
+| 11 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 12 | [Malcorra](http://twitter.com/search?q=Malcorra) | N/A |
+| 13 | [Coccaro](http://twitter.com/search?q=Coccaro) | N/A |
+| 14 | [Doman](http://twitter.com/search?q=Doman) | N/A |
+| 15 | [Broun](http://twitter.com/search?q=Broun) | N/A |
+| 16 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
+| 17 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 18 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
+| 19 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 20 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
+| 21 | [Komar](http://twitter.com/search?q=Komar) | Komar is a Slavic word meaning "mosquito". It is used in many Slavic languages, including Russian, Ukrainian, and Polish. |
+| 22 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 23 | [Cavallero](http://twitter.com/search?q=Cavallero) | N/A |
+| 24 | [Nahuel Molina](http://twitter.com/search?q=Nahuel+Molina) | N/A |
+| 25 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
+| 26 | [Ayuso](http://twitter.com/search?q=Ayuso) | Ayuso is a Spanish surname. It is derived from the Latin word "Auxilius", which means "helpful". In English, it can be translated to mean "helpful one". |
+| 27 | [Salomón](http://twitter.com/search?q=Salom%c3%b3n) | N/A |
+| 28 | [Repetto](http://twitter.com/search?q=Repetto) | N/A |
+| 29 | [Veliz](http://twitter.com/search?q=Veliz) | N/A |
+| 30 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
+| 31 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 32 | [Sforza](http://twitter.com/search?q=Sforza) | N/A |
+| 33 | [Coloso](http://twitter.com/search?q=Coloso) | N/A |
+| 34 | [Monzon](http://twitter.com/search?q=Monzon) | N/A |
+| 35 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 36 | [Borgen](http://twitter.com/search?q=Borgen) | N/A |
+| 37 | [Ducó](http://twitter.com/search?q=Duc%c3%b3) | N/A |
+| 38 | [Pitton](http://twitter.com/search?q=Pitton) | N/A |
+| 39 | [#LaPenaDeMorfi](http://twitter.com/search?q=%23LaPenaDeMorfi) | N/A |
+| 40 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 41 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 42 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
+| 43 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
+| 44 | [Falcioni](http://twitter.com/search?q=Falcioni) | N/A |
+| 45 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
+| 46 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 47 | [#FederalA](http://twitter.com/search?q=%23FederalA) | N/A |
 | 48 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
-| 49 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 50 | [Corcho](http://twitter.com/search?q=Corcho) | N/A |
+| 49 | [Passarella](http://twitter.com/search?q=Passarella) | N/A |
 
 
 

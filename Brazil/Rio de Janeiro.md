@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-04-09 21:17:13 UTC`
+📆 Last Updated: `2023-04-09 22:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 2 | [Campeonato Carioca](http://twitter.com/search?q=Campeonato+Carioca) | N/A |
-| 3 | [Maraca](http://twitter.com/search?q=Maraca) | N/A |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [Sampaio](http://twitter.com/search?q=Sampaio) | N/A |
-| 6 | [Taça Rio](http://twitter.com/search?q=Ta%c3%a7a+Rio) | N/A |
-| 7 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
-| 8 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 1 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
+| 2 | [Matheus Nascimento](http://twitter.com/search?q=Matheus+Nascimento) | N/A |
+| 3 | [Vergonhoso](http://twitter.com/search?q=Vergonhoso) | N/A |
+| 4 | [pardal](http://twitter.com/search?q=pardal) | N/A |
+| 5 | [Diretoria](http://twitter.com/search?q=Diretoria) | N/A |
+| 6 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
+| 7 | [Luis Castro](http://twitter.com/search?q=Luis+Castro) | N/A |
+| 8 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
 | 9 | [João de Deus](http://twitter.com/search?q=Jo%c3%a3o+de+Deus) | N/A |
-| 10 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
-| 11 | [QUE GOLAÇO](http://twitter.com/search?q=QUE+GOLA%c3%87O) | QUE GOLAÇO is an expression used in Portuguese to express admiration or excitement for a particularly impressive feat. It literally translates to "what a goal!" and is often used in soccer contexts. |
-| 12 | [VAMOS FLUMINENSE](http://twitter.com/search?q=VAMOS+FLUMINENSE) | N/A |
-| 13 | [Bruno Henrique](http://twitter.com/search?q=Bruno+Henrique) | N/A |
-| 14 | [Guga](http://twitter.com/search?q=Guga) | N/A |
-| 15 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 16 | [#botafogo](http://twitter.com/search?q=%23botafogo) | N/A |
-| 17 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 18 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 19 | [coelho](http://twitter.com/search?q=coelho) | Coelho is a Portuguese word meaning "rabbit". |
-| 20 | [ELE VIVE](http://twitter.com/search?q=ELE+VIVE) | N/A |
-| 21 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 22 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 23 | [Maranhão](http://twitter.com/search?q=Maranh%c3%a3o) | N/A |
-| 24 | [Ferrero Rocher](http://twitter.com/search?q=Ferrero+Rocher) | N/A |
-| 25 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
-| 26 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 27 | [#TheMaskedSingerBr](http://twitter.com/search?q=%23TheMaskedSingerBr) | #TheMaskedSingerBr is a hashtag used on Twitter to discuss the Brazilian version of the popular singing competition show, The Masked Singer. It is used to share news, updates, and fan reactions about the show. |
-| 28 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 29 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
-| 30 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
-| 31 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 32 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 33 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 34 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
-| 35 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 36 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
-| 37 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
-| 38 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
-| 39 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
-| 40 | [É CAMPEÃO](http://twitter.com/search?q=%c3%89+CAMPE%c3%83O) | É CAMPEÃO is a Portuguese phrase that translates to "It's a Champion" in English. It is typically used to express joy and excitement when someone or something has achieved a great victory or accomplishment. |
-| 41 | [Sociedade Esportiva Palmeiras](http://twitter.com/search?q=Sociedade+Esportiva+Palmeiras) | N/A |
-| 42 | [O Palmeiras](http://twitter.com/search?q=O+Palmeiras) | O Palmeiras is a Brazilian football team based in São Paulo. The name literally translates to "The Palms" in English, and is a reference to the state tree of São Paulo, the Palmeira Imperial. |
-| 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 44 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 45 | [Sauer](http://twitter.com/search?q=Sauer) | N/A |
-| 46 | [#AvantiPalestra](http://twitter.com/search?q=%23AvantiPalestra) | N/A |
-| 47 | [VAMOS FLAMENGO](http://twitter.com/search?q=VAMOS+FLAMENGO) | N/A |
-| 48 | [Paulistão](http://twitter.com/search?q=Paulist%c3%a3o) | N/A |
-| 49 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
-| 50 | [#PALxAGS](http://twitter.com/search?q=%23PALxAGS) | N/A |
+| 10 | [Campeonato Carioca](http://twitter.com/search?q=Campeonato+Carioca) | N/A |
+| 11 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 12 | [Craque](http://twitter.com/search?q=Craque) | N/A |
+| 13 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 14 | [coelho](http://twitter.com/search?q=coelho) | Coelho is a Portuguese word meaning "rabbit". |
+| 15 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 16 | [Gustavo Sauer](http://twitter.com/search?q=Gustavo+Sauer) | N/A |
+| 17 | [Samuel Xavier](http://twitter.com/search?q=Samuel+Xavier) | N/A |
+| 18 | [Lucas Perri](http://twitter.com/search?q=Lucas+Perri) | N/A |
+| 19 | [Xamã](http://twitter.com/search?q=Xam%c3%a3) | N/A |
+| 20 | [Lucas Fernandes](http://twitter.com/search?q=Lucas+Fernandes) | N/A |
+| 21 | [Daniel Borges](http://twitter.com/search?q=Daniel+Borges) | Daniel Borges is a Portuguese name. It is derived from the Hebrew name Daniel, which means “God is my judge”, and the surname Borges, which is derived from the Latin word for “fortress”. |
+| 22 | [Marlon Freitas](http://twitter.com/search?q=Marlon+Freitas) | Marlon Freitas is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (strong). The name can be translated to mean "strong sea". |
+| 23 | [Demite](http://twitter.com/search?q=Demite) | N/A |
+| 24 | [VAI SE FUDER](http://twitter.com/search?q=VAI+SE+FUDER) | N/A |
+| 25 | [BOTAFOGO DE FUTEBOL E REGATAS](http://twitter.com/search?q=BOTAFOGO+DE+FUTEBOL+E+REGATAS) | N/A |
+| 26 | [Faz o M](http://twitter.com/search?q=Faz+o+M) | N/A |
+| 27 | [3 ZAGUEIROS](http://twitter.com/search?q=3+ZAGUEIROS) | N/A |
+| 28 | [Sampaio](http://twitter.com/search?q=Sampaio) | N/A |
+| 29 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
+| 30 | [O Santos](http://twitter.com/search?q=O+Santos) | O Santos is a Brazilian football club based in the city of Santos, São Paulo. The club was founded in 1912 and is one of the most successful clubs in Brazil, having won eight national titles and four international titles. In English, O Santos translates to "The Saints". |
+| 31 | [VAMOS FLUMINENSE](http://twitter.com/search?q=VAMOS+FLUMINENSE) | N/A |
+| 32 | [Zaga](http://twitter.com/search?q=Zaga) | Zaga is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is fashionable or trendy. In English, it can be translated to mean "cool" or "awesome". |
+| 33 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 34 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
+| 35 | [Taça Rio](http://twitter.com/search?q=Ta%c3%a7a+Rio) | N/A |
+| 36 | [Filipe Luis](http://twitter.com/search?q=Filipe+Luis) | N/A |
+| 37 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 38 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 39 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 40 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
+| 41 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 42 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
+| 43 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
+| 44 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 45 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
+| 46 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 47 | [#FLAxFLU](http://twitter.com/search?q=%23FLAxFLU) | N/A |
+| 48 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
+| 49 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
+| 50 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
 
 
 

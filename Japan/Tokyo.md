@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-04-09 21:17:31 UTC`
+📆 Last Updated: `2023-04-09 22:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [引き分け](http://twitter.com/search?q=%e5%bc%95%e3%81%8d%e5%88%86%e3%81%91) | N/A |
-| 2 | [Creepy Nuts](http://twitter.com/search?q=Creepy+Nuts) | N/A |
-| 3 | [宮野真守](http://twitter.com/search?q=%e5%ae%ae%e9%87%8e%e7%9c%9f%e5%ae%88) | 宮野真守 is the stage name of a Japanese voice actor, singer, and radio personality. His real name is Miyamoto Masaru. In English, his stage name translates to "True Guardian of the Palace". |
-| 4 | [大阪府民](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e5%ba%9c%e6%b0%91) | N/A |
-| 5 | [#ジェルくん](http://twitter.com/search?q=%23%e3%82%b8%e3%82%a7%e3%83%ab%e3%81%8f%e3%82%93) | N/A |
-| 6 | [#ひとりぼっち](http://twitter.com/search?q=%23%e3%81%b2%e3%81%a8%e3%82%8a%e3%81%bc%e3%81%a3%e3%81%a1) | N/A |
-| 7 | [開票率0](http://twitter.com/search?q=%e9%96%8b%e7%a5%a8%e7%8e%870) | N/A |
-| 8 | [遠井さん](http://twitter.com/search?q=%e9%81%a0%e4%ba%95%e3%81%95%e3%82%93) | N/A |
-| 9 | [カステラ](http://twitter.com/search?q=%e3%82%ab%e3%82%b9%e3%83%86%e3%83%a9) | N/A |
-| 10 | [ジョッキーカメラ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%83%e3%82%ad%e3%83%bc%e3%82%ab%e3%83%a1%e3%83%a9) | N/A |
-| 11 | [#ABC297](http://twitter.com/search?q=%23ABC297) | N/A |
-| 12 | [海人くん](http://twitter.com/search?q=%e6%b5%b7%e4%ba%ba%e3%81%8f%e3%82%93) | N/A |
-| 13 | [全国ランキング](http://twitter.com/search?q=%e5%85%a8%e5%9b%bd%e3%83%a9%e3%83%b3%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
-| 14 | [煉獄さん](http://twitter.com/search?q=%e7%85%89%e7%8d%84%e3%81%95%e3%82%93) | N/A |
-| 15 | [当選確実](http://twitter.com/search?q=%e5%bd%93%e9%81%b8%e7%a2%ba%e5%ae%9f) | N/A |
-| 16 | [開票速報](http://twitter.com/search?q=%e9%96%8b%e7%a5%a8%e9%80%9f%e5%a0%b1) | N/A |
-| 17 | [#とき宣晴れ舞台2023](http://twitter.com/search?q=%23%e3%81%a8%e3%81%8d%e5%ae%a3%e6%99%b4%e3%82%8c%e8%88%9e%e5%8f%b02023) | N/A |
-| 18 | [保守分裂](http://twitter.com/search?q=%e4%bf%9d%e5%ae%88%e5%88%86%e8%a3%82) | N/A |
-| 19 | [古川さん](http://twitter.com/search?q=%e5%8f%a4%e5%b7%9d%e3%81%95%e3%82%93) | 古川さん is a Japanese honorific title used to refer to someone with the surname Furukawa. It is similar to the English titles of Mr. or Mrs., and is used as a sign of respect. |
-| 20 | [マダガスカル](http://twitter.com/search?q=%e3%83%9e%e3%83%80%e3%82%ac%e3%82%b9%e3%82%ab%e3%83%ab) | N/A |
-| 21 | [#KristPerawat](http://twitter.com/search?q=%23KristPerawat) | N/A |
-| 22 | [ラムズデール](http://twitter.com/search?q=%e3%83%a9%e3%83%a0%e3%82%ba%e3%83%87%e3%83%bc%e3%83%ab) | N/A |
-| 23 | [菊池雄星](http://twitter.com/search?q=%e8%8f%8a%e6%b1%a0%e9%9b%84%e6%98%9f) | N/A |
-| 24 | [アンフィールド](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 25 | [ティアニー](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%8b%e3%83%bc) | N/A |
-| 26 | [蜜璃ちゃん](http://twitter.com/search?q=%e8%9c%9c%e7%92%83%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 27 | [アーセナル](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%ab) | アーセナル is the name of a professional football club based in London, England. The club was founded in 1886 and is one of the most successful teams in English football history. In English, the name Arsenal is derived from the club's original home, Woolwich Arsenal. |
-| 28 | [キヴィオル](http://twitter.com/search?q=%e3%82%ad%e3%83%b4%e3%82%a3%e3%82%aa%e3%83%ab) | N/A |
-| 29 | [フィルミーノ](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%ab%e3%83%9f%e3%83%bc%e3%83%8e) | N/A |
-| 30 | [リヴァプール](http://twitter.com/search?q=%e3%83%aa%e3%83%b4%e3%82%a1%e3%83%97%e3%83%bc%e3%83%ab) | リヴァプール is the Japanese name for the city of Liverpool in England. It is a port city located on the eastern side of the Mersey Estuary in North West England. The English translation of リヴァプール is Liverpool. |
-| 31 | [アーノルド](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%8e%e3%83%ab%e3%83%89) | アーノルド is the Japanese transliteration of the name Arnold. It is a masculine given name of Germanic origin, derived from the elements "arn" (eagle) and "wald" (rule). In English, it means "strong as an eagle". |
-| 32 | [ジンチェンコ](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b3) | ジンチェンコ is a Japanese card game that is similar to the Western game of Go Fish. The name translates to "pulling out a pair" and the goal of the game is to collect as many pairs of cards as possible. |
-| 33 | [アオのハコ](http://twitter.com/search?q=%e3%82%a2%e3%82%aa%e3%81%ae%e3%83%8f%e3%82%b3) | N/A |
-| 34 | [リバプール](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%97%e3%83%bc%e3%83%ab) | リバプール (Ribapuru) is the Japanese name for the English city of Liverpool. It is a port city in northwest England, located on the eastern side of the Mersey Estuary. The city is known for its rich musical and cultural heritage, as well as its football team, Liverpool FC. |
-| 35 | [みつりちゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%a4%e3%82%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 36 | [第444回](http://twitter.com/search?q=%e7%ac%ac444%e5%9b%9e) | N/A |
-| 37 | [大谷ホームラン](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
-| 38 | [上田くん舞台](http://twitter.com/search?q=%e4%b8%8a%e7%94%b0%e3%81%8f%e3%82%93%e8%88%9e%e5%8f%b0) | N/A |
-| 39 | [トップ当選](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%97%e5%bd%93%e9%81%b8) | N/A |
-| 40 | [ヌニェス](http://twitter.com/search?q=%e3%83%8c%e3%83%8b%e3%82%a7%e3%82%b9) | ヌニェス is a Japanese word that means "nonsense". It is used to describe something that is nonsensical or absurd. |
-| 41 | [カーティス](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%86%e3%82%a3%e3%82%b9) | N/A |
-| 42 | [スターブロッサム](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%96%e3%83%ad%e3%83%83%e3%82%b5%e3%83%a0) | N/A |
-| 43 | [アルテタ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%86%e3%82%bf) | N/A |
-| 44 | [きな子ちゃん](http://twitter.com/search?q=%e3%81%8d%e3%81%aa%e5%ad%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 45 | [投票率の低さ](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e7%8e%87%e3%81%ae%e4%bd%8e%e3%81%95) | N/A |
-| 46 | [カナヲちゃん](http://twitter.com/search?q=%e3%82%ab%e3%83%8a%e3%83%b2%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 47 | [ホールディング](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%ab%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | ホールディング is a Japanese term that refers to the ownership of a company or business by one or more individuals or entities. In English, it is often referred to as "holding company" or "parent company". |
-| 48 | [勝ち点1](http://twitter.com/search?q=%e5%8b%9d%e3%81%a1%e7%82%b91) | N/A |
-| 49 | [主題歌SixTONES](http://twitter.com/search?q=%e4%b8%bb%e9%a1%8c%e6%ad%8cSixTONES) | N/A |
-| 50 | [後藤さん](http://twitter.com/search?q=%e5%be%8c%e8%97%a4%e3%81%95%e3%82%93) | N/A |
+| 1 | [#水星の魔女](http://twitter.com/search?q=%23%e6%b0%b4%e6%98%9f%e3%81%ae%e9%ad%94%e5%a5%b3) | #水星の魔女 is a Japanese phrase that translates to "The Witch of Mercury". It is a reference to the planet Mercury, which is associated with witchcraft and magic in many cultures. |
+| 2 | [リバティアイランド](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 3 | [#ohayomorning](http://twitter.com/search?q=%23ohayomorning) | N/A |
+| 4 | [#ちょうどいいラジオ](http://twitter.com/search?q=%23%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e3%81%84%e3%81%84%e3%83%a9%e3%82%b8%e3%82%aa) | N/A |
+| 5 | [菊池雄星](http://twitter.com/search?q=%e8%8f%8a%e6%b1%a0%e9%9b%84%e6%98%9f) | N/A |
+| 6 | [#堂本剛44回目誕生祭_0410](http://twitter.com/search?q=%23%e5%a0%82%e6%9c%ac%e5%89%9b44%e5%9b%9e%e7%9b%ae%e8%aa%95%e7%94%9f%e7%a5%ad_0410) | N/A |
+| 7 | [#おは戦50410ag](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650410ag) | N/A |
+| 8 | [上田くん舞台](http://twitter.com/search?q=%e4%b8%8a%e7%94%b0%e3%81%8f%e3%82%93%e8%88%9e%e5%8f%b0) | N/A |
+| 9 | [第444回](http://twitter.com/search?q=%e7%ac%ac444%e5%9b%9e) | N/A |
+| 10 | [デトマーズ](http://twitter.com/search?q=%e3%83%87%e3%83%88%e3%83%9e%e3%83%bc%e3%82%ba) | N/A |
+| 11 | [トップ当選](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%97%e5%bd%93%e9%81%b8) | N/A |
+| 12 | [大倉くん](http://twitter.com/search?q=%e5%a4%a7%e5%80%89%e3%81%8f%e3%82%93) | 大倉くん is a nickname for the Japanese actor, singer, and television personality Daisuke Ogura. It is a combination of his given name, Daisuke, and the honorific suffix -kun. In English, it can be translated to mean "Mr. Ogura". |
+| 13 | [大谷ホームラン](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
+| 14 | [アオのハコ](http://twitter.com/search?q=%e3%82%a2%e3%82%aa%e3%81%ae%e3%83%8f%e3%82%b3) | N/A |
+| 15 | [菊池の負け](http://twitter.com/search?q=%e8%8f%8a%e6%b1%a0%e3%81%ae%e8%b2%a0%e3%81%91) | N/A |
+| 16 | [ミケルソン](http://twitter.com/search?q=%e3%83%9f%e3%82%b1%e3%83%ab%e3%82%bd%e3%83%b3) | N/A |
+| 17 | [それスノトラック](http://twitter.com/search?q=%e3%81%9d%e3%82%8c%e3%82%b9%e3%83%8e%e3%83%88%e3%83%a9%e3%83%83%e3%82%af) | N/A |
+| 18 | [週の始まり](http://twitter.com/search?q=%e9%80%b1%e3%81%ae%e5%a7%8b%e3%81%be%e3%82%8a) | N/A |
+| 19 | [オホッピー](http://twitter.com/search?q=%e3%82%aa%e3%83%9b%e3%83%83%e3%83%94%e3%83%bc) | N/A |
+| 20 | [花巻東対決](http://twitter.com/search?q=%e8%8a%b1%e5%b7%bb%e6%9d%b1%e5%af%be%e6%b1%ba) | N/A |
+| 21 | [主題歌スト](http://twitter.com/search?q=%e4%b8%bb%e9%a1%8c%e6%ad%8c%e3%82%b9%e3%83%88) | N/A |
+| 22 | [サプライズ解禁](http://twitter.com/search?q=%e3%82%b5%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba%e8%a7%a3%e7%a6%81) | N/A |
+| 23 | [きな子ちゃん](http://twitter.com/search?q=%e3%81%8d%e3%81%aa%e5%ad%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 24 | [駅弁の日](http://twitter.com/search?q=%e9%a7%85%e5%bc%81%e3%81%ae%e6%97%a5) | N/A |
+| 25 | [キャス変](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%82%b9%e5%a4%89) | N/A |
+| 26 | [げつようび](http://twitter.com/search?q=%e3%81%92%e3%81%a4%e3%82%88%e3%81%86%e3%81%b3) | N/A |
+| 27 | [主題歌SixTONES](http://twitter.com/search?q=%e4%b8%bb%e9%a1%8c%e6%ad%8cSixTONES) | N/A |
+| 28 | [投票率の低さ](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e7%8e%87%e3%81%ae%e4%bd%8e%e3%81%95) | N/A |
+| 29 | [スターブロッサム](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%96%e3%83%ad%e3%83%83%e3%82%b5%e3%83%a0) | N/A |
+| 30 | [チャニバン](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%8b%e3%83%90%e3%83%b3) | N/A |
+| 31 | [まちゃおさん](http://twitter.com/search?q=%e3%81%be%e3%81%a1%e3%82%83%e3%81%8a%e3%81%95%e3%82%93) | N/A |
+| 32 | [鬼滅の作画](http://twitter.com/search?q=%e9%ac%bc%e6%bb%85%e3%81%ae%e4%bd%9c%e7%94%bb) | N/A |
+| 33 | [一週間の始まり](http://twitter.com/search?q=%e4%b8%80%e9%80%b1%e9%96%93%e3%81%ae%e5%a7%8b%e3%81%be%e3%82%8a) | N/A |
+| 34 | [Wordle 660](http://twitter.com/search?q=Wordle+660) | N/A |
+| 35 | [理想の上司](http://twitter.com/search?q=%e7%90%86%e6%83%b3%e3%81%ae%e4%b8%8a%e5%8f%b8) | N/A |
+| 36 | [テンの日](http://twitter.com/search?q=%e3%83%86%e3%83%b3%e3%81%ae%e6%97%a5) | N/A |
+| 37 | [奈良知事選](http://twitter.com/search?q=%e5%a5%88%e8%89%af%e7%9f%a5%e4%ba%8b%e9%81%b8) | N/A |
+| 38 | [グラスラ](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%82%b9%e3%83%a9) | N/A |
+| 39 | [菊池投手](http://twitter.com/search?q=%e8%8f%8a%e6%b1%a0%e6%8a%95%e6%89%8b) | N/A |
+| 40 | [トラックリスト](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%83%e3%82%af%e3%83%aa%e3%82%b9%e3%83%88) | N/A |
+| 41 | [女性の日](http://twitter.com/search?q=%e5%a5%b3%e6%80%a7%e3%81%ae%e6%97%a5) | N/A |
+| 42 | [道府県議選](http://twitter.com/search?q=%e9%81%93%e5%ba%9c%e7%9c%8c%e8%ad%b0%e9%81%b8) | N/A |
+| 43 | [新曲解禁](http://twitter.com/search?q=%e6%96%b0%e6%9b%b2%e8%a7%a3%e7%a6%81) | N/A |
+| 44 | [クリッパーズ](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%83%83%e3%83%91%e3%83%bc%e3%82%ba) | N/A |
+| 45 | [満塁ホームラン](http://twitter.com/search?q=%e6%ba%80%e5%a1%81%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
+| 46 | [ブルージェイズ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%82%b8%e3%82%a7%e3%82%a4%e3%82%ba) | N/A |
+| 47 | [上田竜也](http://twitter.com/search?q=%e4%b8%8a%e7%94%b0%e7%ab%9c%e4%b9%9f) | N/A |
+| 48 | [保守分裂](http://twitter.com/search?q=%e4%bf%9d%e5%ae%88%e5%88%86%e8%a3%82) | N/A |
+| 49 | [スニーク](http://twitter.com/search?q=%e3%82%b9%e3%83%8b%e3%83%bc%e3%82%af) | N/A |
+| 50 | [ココアちゃん](http://twitter.com/search?q=%e3%82%b3%e3%82%b3%e3%82%a2%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 
 
 
