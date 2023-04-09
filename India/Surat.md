@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-04-08 23:17:37 UTC`
+📆 Last Updated: `2023-04-09 00:28:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CSKvsMI](http://twitter.com/search?q=%23CSKvsMI) | N/A |
+| 1 | [#MIvsCSK](http://twitter.com/search?q=%23MIvsCSK) | N/A |
 | 2 | [Rahane](http://twitter.com/search?q=Rahane) | Rahane is a Hindu name derived from the Sanskrit word 'rajan', meaning 'king'. It is commonly used as a first name for boys in India. |
-| 3 | [#GoBackModi](http://twitter.com/search?q=%23GoBackModi) | N/A |
-| 4 | [#Vanakkam_Modi](http://twitter.com/search?q=%23Vanakkam_Modi) | N/A |
-| 5 | [Dhoni Review System](http://twitter.com/search?q=Dhoni+Review+System) | N/A |
+| 3 | [#Vanakkam_Modi](http://twitter.com/search?q=%23Vanakkam_Modi) | N/A |
+| 4 | [#GobackModi](http://twitter.com/search?q=%23GobackModi) | N/A |
+| 5 | [dhoni review system](http://twitter.com/search?q=dhoni+review+system) | N/A |
 | 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 7 | [मंगल पांडे](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%97%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%82%e0%a4%a1%e0%a5%87) | N/A |
 | 8 | [शरद पवार](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b0%e0%a4%a6+%e0%a4%aa%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 9 | [Amul](http://twitter.com/search?q=Amul) | N/A |
-| 10 | [Nandini](http://twitter.com/search?q=Nandini) | N/A |
+| 9 | [Nandini](http://twitter.com/search?q=Nandini) | N/A |
+| 10 | [Amul](http://twitter.com/search?q=Amul) | N/A |
 | 11 | [Wankhede](http://twitter.com/search?q=Wankhede) | N/A |
 | 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 13 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 14 | [राष्ट्रीय गीत](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%97%e0%a5%80%e0%a4%a4) | N/A |
-| 15 | [भारतीय स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 16 | [congrats mos utility](http://twitter.com/search?q=congrats+mos+utility) | N/A |
-| 17 | [sterlite copper thoothukudi](http://twitter.com/search?q=sterlite+copper+thoothukudi) | N/A |
-| 18 | [मुद्रा योजना](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
-| 19 | [SRK KA JHANT AKSHAY](http://twitter.com/search?q=SRK+KA+JHANT+AKSHAY) | N/A |
-| 20 | [THARKI BUDDHA KHILODA](http://twitter.com/search?q=THARKI+BUDDHA+KHILODA) | N/A |
-| 21 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 22 | [We Love Sidharth Shukla](http://twitter.com/search?q=We+Love+Sidharth+Shukla) | N/A |
-| 23 | [Sushant A Skilful Person](http://twitter.com/search?q=Sushant+A+Skilful+Person) | N/A |
-| 24 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 25 | [दलित महिला](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 26 | [कैलाश विजयवर्गीय](http://twitter.com/search?q=%e0%a4%95%e0%a5%88%e0%a4%b2%e0%a4%be%e0%a4%b6+%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a5%80%e0%a4%af) | N/A |
-| 27 | [Magala](http://twitter.com/search?q=Magala) | N/A |
-| 28 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
-| 29 | [haafiz ki raan hakloda](http://twitter.com/search?q=haafiz+ki+raan+hakloda) | N/A |
-| 30 | [save pak minorities](http://twitter.com/search?q=save+pak+minorities) | N/A |
-| 31 | [canadian dog akki](http://twitter.com/search?q=canadian+dog+akki) | N/A |
-| 32 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 33 | [Riyan Parag](http://twitter.com/search?q=Riyan+Parag) | N/A |
-| 34 | [Trent Boult](http://twitter.com/search?q=Trent+Boult) | N/A |
-| 35 | [PAKISTANI SUAR SRK](http://twitter.com/search?q=PAKISTANI+SUAR+SRK) | N/A |
-| 36 | [Sukhoi 30 MKI](http://twitter.com/search?q=Sukhoi+30+MKI) | N/A |
-| 37 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 38 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 39 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 40 | [bawasir mariz sahrook](http://twitter.com/search?q=bawasir+mariz+sahrook) | N/A |
-| 41 | [Fastest 50](http://twitter.com/search?q=Fastest+50) | N/A |
-| 42 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 43 | [WE WANT BAWAAL POSTER](http://twitter.com/search?q=WE+WANT+BAWAAL+POSTER) | N/A |
-| 44 | [newlands cricket ground](http://twitter.com/search?q=newlands+cricket+ground) | N/A |
-| 45 | [महान क्रांतिकारी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 46 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
-| 47 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 48 | [SUPER CHARMING DIVA SHEHNAAZ](http://twitter.com/search?q=SUPER+CHARMING+DIVA+SHEHNAAZ) | N/A |
+| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 14 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 15 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 16 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 17 | [Sharad Pawar](http://twitter.com/search?q=Sharad+Pawar) | N/A |
+| 18 | [congrats mos utility](http://twitter.com/search?q=congrats+mos+utility) | N/A |
+| 19 | [Rohit](http://twitter.com/search?q=Rohit) | Rohit is a Hindu name derived from Sanskrit, meaning "red" or "sun". It is commonly used as a male name in India. |
+| 20 | [राष्ट्रीय गीत](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%97%e0%a5%80%e0%a4%a4) | N/A |
+| 21 | [भारतीय स्वतंत्रता संग्राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 22 | [sterlite copper thoothukudi](http://twitter.com/search?q=sterlite+copper+thoothukudi) | N/A |
+| 23 | [SRK KA JHANT AKSHAY](http://twitter.com/search?q=SRK+KA+JHANT+AKSHAY) | N/A |
+| 24 | [मुद्रा योजना](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%af%e0%a5%8b%e0%a4%9c%e0%a4%a8%e0%a4%be) | N/A |
+| 25 | [THARKI BUDDHA KHILODA](http://twitter.com/search?q=THARKI+BUDDHA+KHILODA) | N/A |
+| 26 | [Sushant A Skilful Person](http://twitter.com/search?q=Sushant+A+Skilful+Person) | N/A |
+| 27 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 28 | [We Love Sidharth Shukla](http://twitter.com/search?q=We+Love+Sidharth+Shukla) | N/A |
+| 29 | [Tim David](http://twitter.com/search?q=Tim+David) | N/A |
+| 30 | [दलित महिला](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 31 | [Magala](http://twitter.com/search?q=Magala) | N/A |
+| 32 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 33 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 34 | [Riyan Parag](http://twitter.com/search?q=Riyan+Parag) | N/A |
+| 35 | [Chennai Super Kings](http://twitter.com/search?q=Chennai+Super+Kings) | N/A |
+| 36 | [Tushar Deshpande](http://twitter.com/search?q=Tushar+Deshpande) | N/A |
+| 37 | [Warner](http://twitter.com/search?q=Warner) | N/A |
+| 38 | [haafiz ki raan hakloda](http://twitter.com/search?q=haafiz+ki+raan+hakloda) | N/A |
+| 39 | [महान क्रांतिकारी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 40 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 41 | [कैलाश विजयवर्गीय](http://twitter.com/search?q=%e0%a4%95%e0%a5%88%e0%a4%b2%e0%a4%be%e0%a4%b6+%e0%a4%b5%e0%a4%bf%e0%a4%9c%e0%a4%af%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a5%80%e0%a4%af) | N/A |
+| 42 | [pakistani suar srk](http://twitter.com/search?q=pakistani+suar+srk) | N/A |
+| 43 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 44 | [Trent Boult](http://twitter.com/search?q=Trent+Boult) | N/A |
+| 45 | [Arjun Tendulkar](http://twitter.com/search?q=Arjun+Tendulkar) | N/A |
+| 46 | [Moeen](http://twitter.com/search?q=Moeen) | N/A |
+| 47 | [bawasir mariz sahrook](http://twitter.com/search?q=bawasir+mariz+sahrook) | N/A |
+| 48 | [CANADIAN DOG AKKI](http://twitter.com/search?q=CANADIAN+DOG+AKKI) | N/A |
 
 
 

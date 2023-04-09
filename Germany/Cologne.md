@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-04-08 23:17:12 UTC`
+📆 Last Updated: `2023-04-09 00:28:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#SCFFCB](http://twitter.com/search?q=%23SCFFCB) | N/A |
 | 2 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 3 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
-| 4 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 3 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 4 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
 | 5 | [#BVBFCU](http://twitter.com/search?q=%23BVBFCU) | N/A |
 | 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 7 | [#HSVH96](http://twitter.com/search?q=%23HSVH96) | N/A |
-| 8 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 9 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 10 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 9 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 10 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
 | 11 | [Osterfeuer](http://twitter.com/search?q=Osterfeuer) | N/A |
-| 12 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 13 | [Patricia Kelly](http://twitter.com/search?q=Patricia+Kelly) | N/A |
+| 12 | [Osterfeuer](http://twitter.com/search?q=Osterfeuer) | N/A |
+| 13 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 14 | [Ostersamstag](http://twitter.com/search?q=Ostersamstag) | N/A |
-| 15 | [Big N](http://twitter.com/search?q=Big+N) | N/A |
-| 16 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
+| 15 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
+| 16 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 17 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 18 | [Waschbär](http://twitter.com/search?q=Waschb%c3%a4r) | N/A |
-| 19 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
-| 20 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 21 | [Daniel Boschmann](http://twitter.com/search?q=Daniel+Boschmann) | N/A |
-| 22 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 23 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 24 | [Siege in Folge](http://twitter.com/search?q=Siege+in+Folge) | N/A |
-| 25 | [Stimmung im Land](http://twitter.com/search?q=Stimmung+im+Land) | N/A |
-| 26 | [Katja](http://twitter.com/search?q=Katja) | N/A |
-| 27 | [Kiyan](http://twitter.com/search?q=Kiyan) | N/A |
-| 28 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 29 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
-| 30 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 31 | [Ole Werner](http://twitter.com/search?q=Ole+Werner) | N/A |
-| 32 | [Lorent](http://twitter.com/search?q=Lorent) | N/A |
-| 33 | [Pilz](http://twitter.com/search?q=Pilz) | N/A |
-| 34 | [Gasflaschen](http://twitter.com/search?q=Gasflaschen) | N/A |
-| 35 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 36 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 37 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 38 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 39 | [Ruth](http://twitter.com/search?q=Ruth) | N/A |
-| 40 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 41 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 42 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 43 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
-| 44 | [Marianne Rosenberg](http://twitter.com/search?q=Marianne+Rosenberg) | N/A |
-| 45 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 46 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 47 | [Seepferdchen](http://twitter.com/search?q=Seepferdchen) | N/A |
-| 48 | [Götze](http://twitter.com/search?q=G%c3%b6tze) | N/A |
-| 49 | [Schuhschnabel](http://twitter.com/search?q=Schuhschnabel) | N/A |
-| 50 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
+| 18 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 19 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 20 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
+| 21 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
+| 22 | [Stimmung im Land](http://twitter.com/search?q=Stimmung+im+Land) | N/A |
+| 23 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
+| 24 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
+| 25 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 26 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
+| 27 | [Gasflaschen](http://twitter.com/search?q=Gasflaschen) | N/A |
+| 28 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 29 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 30 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 31 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 32 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 33 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
+| 34 | [Waschbär](http://twitter.com/search?q=Waschb%c3%a4r) | N/A |
+| 35 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 36 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 37 | [Katja](http://twitter.com/search?q=Katja) | N/A |
+| 38 | [Toast](http://twitter.com/search?q=Toast) | N/A |
+| 39 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 40 | [Ole Werner](http://twitter.com/search?q=Ole+Werner) | N/A |
+| 41 | [Moin](http://twitter.com/search?q=Moin) | N/A |
+| 42 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
+| 43 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
+| 44 | [Game One](http://twitter.com/search?q=Game+One) | N/A |
+| 45 | [Patricia Kelly](http://twitter.com/search?q=Patricia+Kelly) | N/A |
+| 46 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 47 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 48 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
+| 49 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 50 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
 
 
 

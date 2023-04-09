@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-04-08 23:17:49 UTC`
+📆 Last Updated: `2023-04-09 00:28:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MFrozenFour](http://twitter.com/search?q=%23MFrozenFour) | N/A |
-| 2 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 3 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 4 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 5 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 6 | [#Easter2023](http://twitter.com/search?q=%23Easter2023) | N/A |
-| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 8 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
-| 9 | [Sam Hughes](http://twitter.com/search?q=Sam+Hughes) | N/A |
-| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [Stott](http://twitter.com/search?q=Stott) | N/A |
-| 12 | [Nick Lodolo](http://twitter.com/search?q=Nick+Lodolo) | N/A |
-| 13 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 14 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 15 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
-| 16 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 17 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 18 | [David Bell](http://twitter.com/search?q=David+Bell) | N/A |
-| 19 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 20 | [Brasier](http://twitter.com/search?q=Brasier) | Brasier is a type of lingerie that covers the breasts and torso. It is similar to a corset, but usually has less boning and is more lightweight. The word comes from the French word for "brazier," which is a type of open-top fireplace. In English, brasier can be used to refer to any type of lingerie that covers the breasts and torso. |
-| 21 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 22 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 23 | [Kapler](http://twitter.com/search?q=Kapler) | N/A |
-| 24 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
-| 25 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
-| 26 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 27 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
-| 28 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
-| 29 | [Salvy](http://twitter.com/search?q=Salvy) | N/A |
-| 30 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 31 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
-| 32 | [Raffy](http://twitter.com/search?q=Raffy) | Raffy is a nickname for Rafael, which is a Spanish name meaning "God has healed". |
-| 33 | [JJ Yeley](http://twitter.com/search?q=JJ+Yeley) | N/A |
-| 34 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
-| 35 | [Taylor Clarke](http://twitter.com/search?q=Taylor+Clarke) | N/A |
-| 36 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 37 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 38 | [Castellanos](http://twitter.com/search?q=Castellanos) | N/A |
-| 39 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 40 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 41 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 42 | [Drew Smith](http://twitter.com/search?q=Drew+Smith) | N/A |
-| 43 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 44 | [Governor Abbott](http://twitter.com/search?q=Governor+Abbott) | N/A |
-| 45 | [Mandarin Hero](http://twitter.com/search?q=Mandarin+Hero) | N/A |
-| 46 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 47 | [Quantrill](http://twitter.com/search?q=Quantrill) | N/A |
-| 48 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 49 | [Webbie](http://twitter.com/search?q=Webbie) | N/A |
+| 2 | [#InterMiamiCF](http://twitter.com/search?q=%23InterMiamiCF) | N/A |
+| 3 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 4 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 5 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 6 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 7 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
+| 8 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 9 | [#Easter2023](http://twitter.com/search?q=%23Easter2023) | N/A |
+| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 11 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 12 | [#TheRenovatorHGTVtonight](http://twitter.com/search?q=%23TheRenovatorHGTVtonight) | N/A |
+| 13 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 14 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
+| 15 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 17 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 18 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
+| 19 | [Sam Hughes](http://twitter.com/search?q=Sam+Hughes) | N/A |
+| 20 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
+| 21 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 22 | [Lauer](http://twitter.com/search?q=Lauer) | N/A |
+| 23 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 24 | [Stott](http://twitter.com/search?q=Stott) | N/A |
+| 25 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 26 | [Tree Paine](http://twitter.com/search?q=Tree+Paine) | N/A |
+| 27 | [Yelich](http://twitter.com/search?q=Yelich) | N/A |
+| 28 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
+| 29 | [Lodolo](http://twitter.com/search?q=Lodolo) | N/A |
+| 30 | [Charlie Morton](http://twitter.com/search?q=Charlie+Morton) | N/A |
+| 31 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 32 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 33 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 34 | [Martell](http://twitter.com/search?q=Martell) | N/A |
+| 35 | [Bahamondes](http://twitter.com/search?q=Bahamondes) | N/A |
+| 36 | [Ogden](http://twitter.com/search?q=Ogden) | N/A |
+| 37 | [Billye Aaron](http://twitter.com/search?q=Billye+Aaron) | N/A |
+| 38 | [Velasquez](http://twitter.com/search?q=Velasquez) | N/A |
+| 39 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 40 | [David Bell](http://twitter.com/search?q=David+Bell) | N/A |
+| 41 | [Calvillo](http://twitter.com/search?q=Calvillo) | N/A |
+| 42 | [Odor](http://twitter.com/search?q=Odor) | N/A |
+| 43 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
+| 44 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 45 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
+| 46 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
+| 47 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
+| 48 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
+| 49 | [Fede](http://twitter.com/search?q=Fede) | N/A |
 
 
 

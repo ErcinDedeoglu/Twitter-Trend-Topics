@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-04-08 23:17:38 UTC`
+📆 Last Updated: `2023-04-09 00:28:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Aytun Çıray](http://twitter.com/search?q=Aytun+%c3%87%c4%b1ray) | N/A |
-| 2 | [#TGRTFutbol](http://twitter.com/search?q=%23TGRTFutbol) | N/A |
-| 3 | [Haliskahrimanvekilimizolsun](http://twitter.com/search?q=Haliskahrimanvekilimizolsun) | N/A |
-| 4 | [#StajyerÇırakMilletle](http://twitter.com/search?q=%23Stajyer%c3%87%c4%b1rakMilletle) | N/A |
-| 5 | [#HadiOradanCHP](http://twitter.com/search?q=%23HadiOradanCHP) | N/A |
-| 6 | [Baraj Altında](http://twitter.com/search?q=Baraj+Alt%c4%b1nda) | N/A |
-| 7 | [Yaşasın Atatürk](http://twitter.com/search?q=Ya%c5%9fas%c4%b1n+Atat%c3%bcrk) | N/A |
-| 8 | [SON KARARIM ERDOĞAN](http://twitter.com/search?q=SON+KARARIM+ERDO%c4%9eAN) | N/A |
-| 9 | [İYİ Parti'de](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti%27de) | N/A |
-| 10 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
-| 11 | [Tuncay Özkan](http://twitter.com/search?q=Tuncay+%c3%96zkan) | N/A |
-| 12 | [Zekai Tunca](http://twitter.com/search?q=Zekai+Tunca) | N/A |
-| 13 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
-| 14 | [CHP Parti Meclisi](http://twitter.com/search?q=CHP+Parti+Meclisi) | N/A |
-| 15 | [YİNE ERDOĞAN KAZANACAK](http://twitter.com/search?q=Y%c4%b0NE+ERDO%c4%9eAN+KAZANACAK) | N/A |
-| 16 | [Mehmet Sevigen](http://twitter.com/search?q=Mehmet+Sevigen) | N/A |
-| 17 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
+| 2 | [CHP Parti Meclisi](http://twitter.com/search?q=CHP+Parti+Meclisi) | N/A |
+| 3 | [#StajyerÇırakMilletle](http://twitter.com/search?q=%23Stajyer%c3%87%c4%b1rakMilletle) | N/A |
+| 4 | [#TGRTFutbol](http://twitter.com/search?q=%23TGRTFutbol) | N/A |
+| 5 | [#beylikdüzü](http://twitter.com/search?q=%23beylikd%c3%bcz%c3%bc) | N/A |
+| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 7 | [Baraj Altında](http://twitter.com/search?q=Baraj+Alt%c4%b1nda) | N/A |
+| 8 | [Yaşasın Atatürk](http://twitter.com/search?q=Ya%c5%9fas%c4%b1n+Atat%c3%bcrk) | N/A |
+| 9 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
+| 10 | [SON KARARIM ERDOĞAN](http://twitter.com/search?q=SON+KARARIM+ERDO%c4%9eAN) | N/A |
+| 11 | [İYİ Parti'de](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti%27de) | N/A |
+| 12 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
+| 13 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
+| 14 | [Tuncay Özkan](http://twitter.com/search?q=Tuncay+%c3%96zkan) | N/A |
+| 15 | [Zekai Tunca](http://twitter.com/search?q=Zekai+Tunca) | N/A |
+| 16 | [YİNE ERDOĞAN KAZANACAK](http://twitter.com/search?q=Y%c4%b0NE+ERDO%c4%9eAN+KAZANACAK) | N/A |
+| 17 | [Trabzonspor](http://twitter.com/search?q=Trabzonspor) | N/A |
 | 18 | [AFyoksa ReydeYok](http://twitter.com/search?q=AFyoksa+ReydeYok) | N/A |
-| 19 | [Cemal](http://twitter.com/search?q=Cemal) | N/A |
-| 20 | [Melih](http://twitter.com/search?q=Melih) | N/A |
-| 21 | [MustafaÇiftçiye AcilTahliye](http://twitter.com/search?q=Mustafa%c3%87ift%c3%a7iye+AcilTahliye) | N/A |
-| 22 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 23 | [Salih Müslim](http://twitter.com/search?q=Salih+M%c3%bcslim) | N/A |
-| 24 | [Zekeriya Yapıcıoğlu](http://twitter.com/search?q=Zekeriya+Yap%c4%b1c%c4%b1o%c4%9flu) | N/A |
-| 25 | [NiceYaşlaraSemaErgenekon](http://twitter.com/search?q=NiceYa%c5%9flaraSemaErgenekon) | N/A |
-| 26 | [Okan Kocakaya](http://twitter.com/search?q=Okan+Kocakaya) | N/A |
-| 27 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
-| 28 | [BİR CHP YALANI YAZ](http://twitter.com/search?q=B%c4%b0R+CHP+YALANI+YAZ) | N/A |
-| 29 | [Erem](http://twitter.com/search?q=Erem) | N/A |
-| 30 | [Uğurcan](http://twitter.com/search?q=U%c4%9furcan) | Uğurcan is a Turkish name, derived from the words "uğur" (meaning luck or fortune) and "can" (meaning soul). It can be translated to English as "lucky soul". |
-| 31 | [Kars](http://twitter.com/search?q=Kars) | N/A |
-| 32 | [Ağaoğlu](http://twitter.com/search?q=A%c4%9fao%c4%9flu) | N/A |
-| 33 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
-| 34 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
-| 35 | [Pazartesi](http://twitter.com/search?q=Pazartesi) | N/A |
-| 36 | [Batan](http://twitter.com/search?q=Batan) | N/A |
+| 19 | [Salih Müslim](http://twitter.com/search?q=Salih+M%c3%bcslim) | N/A |
+| 20 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 21 | [Cemal](http://twitter.com/search?q=Cemal) | N/A |
+| 22 | [Kars](http://twitter.com/search?q=Kars) | N/A |
+| 23 | [Erem](http://twitter.com/search?q=Erem) | N/A |
+| 24 | [Mehmet Sevigen](http://twitter.com/search?q=Mehmet+Sevigen) | N/A |
+| 25 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 26 | [Zekeriya Yapıcıoğlu](http://twitter.com/search?q=Zekeriya+Yap%c4%b1c%c4%b1o%c4%9flu) | N/A |
+| 27 | [MustafaÇiftçiye AcilTahliye](http://twitter.com/search?q=Mustafa%c3%87ift%c3%a7iye+AcilTahliye) | N/A |
+| 28 | [Kriz](http://twitter.com/search?q=Kriz) | N/A |
+| 29 | [Melih](http://twitter.com/search?q=Melih) | N/A |
+| 30 | [BİR CHP YALANI YAZ](http://twitter.com/search?q=B%c4%b0R+CHP+YALANI+YAZ) | N/A |
+| 31 | [Ahmet Ağaoğlu](http://twitter.com/search?q=Ahmet+A%c4%9fao%c4%9flu) | N/A |
+| 32 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
+| 33 | [Aleyna](http://twitter.com/search?q=Aleyna) | N/A |
+| 34 | [Kolundaki](http://twitter.com/search?q=Kolundaki) | N/A |
+| 35 | [Batan](http://twitter.com/search?q=Batan) | N/A |
+| 36 | [Liste](http://twitter.com/search?q=Liste) | N/A |
 | 37 | [ErdoğanTaşerona KulakVer](http://twitter.com/search?q=Erdo%c4%9fanTa%c5%9ferona+KulakVer) | N/A |
-| 38 | [Gemi](http://twitter.com/search?q=Gemi) | N/A |
-| 39 | [Iğdır](http://twitter.com/search?q=I%c4%9fd%c4%b1r) | N/A |
-| 40 | [Kolundaki](http://twitter.com/search?q=Kolundaki) | N/A |
-| 41 | [Aleyna](http://twitter.com/search?q=Aleyna) | N/A |
-| 42 | [Köroğlu](http://twitter.com/search?q=K%c3%b6ro%c4%9flu) | N/A |
-| 43 | [Kriz](http://twitter.com/search?q=Kriz) | N/A |
-| 44 | [Buket Aydın](http://twitter.com/search?q=Buket+Ayd%c4%b1n) | N/A |
+| 38 | [Buket Aydın](http://twitter.com/search?q=Buket+Ayd%c4%b1n) | N/A |
+| 39 | [Uğurcan](http://twitter.com/search?q=U%c4%9furcan) | Uğurcan is a Turkish name, derived from the words "uğur" (meaning luck or fortune) and "can" (meaning soul). It can be translated to English as "lucky soul". |
+| 40 | [Iğdır](http://twitter.com/search?q=I%c4%9fd%c4%b1r) | N/A |
+| 41 | [Gemi](http://twitter.com/search?q=Gemi) | N/A |
+| 42 | [Pazartesi](http://twitter.com/search?q=Pazartesi) | N/A |
+| 43 | [Köroğlu](http://twitter.com/search?q=K%c3%b6ro%c4%9flu) | N/A |
+| 44 | [Papa](http://twitter.com/search?q=Papa) | N/A |
 | 45 | [Saati](http://twitter.com/search?q=Saati) | N/A |
-| 46 | [Millet İttifakı 18](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1+18) | N/A |
+| 46 | [Bolu](http://twitter.com/search?q=Bolu) | N/A |
 | 47 | [Tüpçü](http://twitter.com/search?q=T%c3%bcp%c3%a7%c3%bc) | N/A |
-| 48 | [Liste](http://twitter.com/search?q=Liste) | N/A |
+| 48 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
 
 
 

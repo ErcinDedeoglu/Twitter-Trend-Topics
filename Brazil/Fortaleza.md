@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-04-08 23:17:06 UTC`
+📆 Last Updated: `2023-04-09 00:28:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Romarinho](http://twitter.com/search?q=Romarinho) | Romarinho is a Portuguese nickname meaning "little rosemary". It is often used as a term of endearment for someone small or young. |
-| 2 | [Jean Carlos](http://twitter.com/search?q=Jean+Carlos) | N/A |
-| 3 | [Moisés](http://twitter.com/search?q=Mois%c3%a9s) | N/A |
-| 4 | [Erick](http://twitter.com/search?q=Erick) | N/A |
-| 5 | [Leão](http://twitter.com/search?q=Le%c3%a3o) | N/A |
-| 6 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 7 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 8 | [Chay](http://twitter.com/search?q=Chay) | N/A |
-| 9 | [Castelão](http://twitter.com/search?q=Castel%c3%a3o) | N/A |
-| 10 | [Nordeste](http://twitter.com/search?q=Nordeste) | N/A |
-| 11 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 12 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 13 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 14 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
-| 15 | [KHALIL](http://twitter.com/search?q=KHALIL) | N/A |
-| 16 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 17 | [Vuaden](http://twitter.com/search?q=Vuaden) | N/A |
-| 18 | [Lucas Silva](http://twitter.com/search?q=Lucas+Silva) | N/A |
-| 19 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 20 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
-| 21 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
-| 22 | [#Caldeirão](http://twitter.com/search?q=%23Caldeir%c3%a3o) | N/A |
-| 23 | [Gustavinho](http://twitter.com/search?q=Gustavinho) | N/A |
-| 24 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
-| 25 | [Gauchão](http://twitter.com/search?q=Gauch%c3%a3o) | N/A |
-| 26 | [Jean Dias](http://twitter.com/search?q=Jean+Dias) | N/A |
-| 27 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 28 | [Fernando Miguel](http://twitter.com/search?q=Fernando+Miguel) | N/A |
-| 29 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
-| 30 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 31 | [É CAMPEÃO](http://twitter.com/search?q=%c3%89+CAMPE%c3%83O) | É CAMPEÃO is a Portuguese phrase that translates to "It's a Champion" in English. It is typically used to express joy and excitement when someone or something has achieved a great victory or accomplishment. |
-| 32 | [Rio Grande do Sul](http://twitter.com/search?q=Rio+Grande+do+Sul) | N/A |
-| 33 | [Carol Portaluppi](http://twitter.com/search?q=Carol+Portaluppi) | N/A |
-| 34 | [Geromel](http://twitter.com/search?q=Geromel) | N/A |
-| 35 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 36 | [#VCTAmericas](http://twitter.com/search?q=%23VCTAmericas) | N/A |
-| 37 | [Ponte Preta](http://twitter.com/search?q=Ponte+Preta) | N/A |
-| 38 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 39 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 40 | [Hexa](http://twitter.com/search?q=Hexa) | N/A |
-| 41 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 42 | [Tinga](http://twitter.com/search?q=Tinga) | N/A |
-| 43 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 44 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
-| 45 | [Calebe](http://twitter.com/search?q=Calebe) | N/A |
-| 46 | [Diego Souza](http://twitter.com/search?q=Diego+Souza) | Diego Souza is a Brazilian professional footballer who plays as an attacking midfielder for Sport Club Internacional. In English, the name Diego Souza means "Diego of the South". |
-| 47 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
-| 48 | [Pênalti](http://twitter.com/search?q=P%c3%aanalti) | N/A |
-| 49 | [Fallen](http://twitter.com/search?q=Fallen) | N/A |
-| 50 | [Vitão](http://twitter.com/search?q=Vit%c3%a3o) | N/A |
+| 1 | [Erick](http://twitter.com/search?q=Erick) | N/A |
+| 2 | [Chay](http://twitter.com/search?q=Chay) | N/A |
+| 3 | [Jean Carlos](http://twitter.com/search?q=Jean+Carlos) | N/A |
+| 4 | [É O LAION](http://twitter.com/search?q=%c3%89+O+LAION) | N/A |
+| 5 | [Moisés](http://twitter.com/search?q=Mois%c3%a9s) | N/A |
+| 6 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
+| 7 | [#futebolnacidade](http://twitter.com/search?q=%23futebolnacidade) | N/A |
+| 8 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
+| 9 | [Cearense](http://twitter.com/search?q=Cearense) | N/A |
+| 10 | [Leão](http://twitter.com/search?q=Le%c3%a3o) | N/A |
+| 11 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 12 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 13 | [Castelão](http://twitter.com/search?q=Castel%c3%a3o) | N/A |
+| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 15 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 16 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 17 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 18 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 19 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
+| 20 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 21 | [the great war](http://twitter.com/search?q=the+great+war) | N/A |
+| 22 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 23 | [KHALIL](http://twitter.com/search?q=KHALIL) | N/A |
+| 24 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 25 | [Tree Paine](http://twitter.com/search?q=Tree+Paine) | N/A |
+| 26 | [STELOISA EM ALERTA](http://twitter.com/search?q=STELOISA+EM+ALERTA) | N/A |
+| 27 | [É MENTIRA](http://twitter.com/search?q=%c3%89+MENTIRA) | N/A |
+| 28 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
+| 29 | [ts11](http://twitter.com/search?q=ts11) | N/A |
+| 30 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 31 | [Vuaden](http://twitter.com/search?q=Vuaden) | N/A |
+| 32 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 33 | [Lucas Silva](http://twitter.com/search?q=Lucas+Silva) | N/A |
+| 34 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
+| 35 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 36 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 37 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
+| 38 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
+| 39 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
+| 40 | [NÃO ACEITO](http://twitter.com/search?q=N%c3%83O+ACEITO) | N/A |
+| 41 | [Invisible String](http://twitter.com/search?q=Invisible+String) | N/A |
+| 42 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 43 | [KING OF MY HEART](http://twitter.com/search?q=KING+OF+MY+HEART) | N/A |
+| 44 | [Gustavinho](http://twitter.com/search?q=Gustavinho) | N/A |
+| 45 | [Gauchão](http://twitter.com/search?q=Gauch%c3%a3o) | N/A |
+| 46 | [RECUSO](http://twitter.com/search?q=RECUSO) | N/A |
+| 47 | [Jean Dias](http://twitter.com/search?q=Jean+Dias) | N/A |
+| 48 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
+| 49 | [PAPER RINGS](http://twitter.com/search?q=PAPER+RINGS) | N/A |
+| 50 | [Farid](http://twitter.com/search?q=Farid) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-04-08 23:16:58 UTC`
+📆 Last Updated: `2023-04-09 00:28:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
-| 2 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
-| 3 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 2 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
+| 3 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
 | 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 5 | [#PrePartyES23](http://twitter.com/search?q=%23PrePartyES23) | N/A |
-| 6 | [#SaturdayNightTakeaway](http://twitter.com/search?q=%23SaturdayNightTakeaway) | N/A |
-| 7 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 5 | [#Starstruck](http://twitter.com/search?q=%23Starstruck) | N/A |
+| 6 | [#PrePartyES23](http://twitter.com/search?q=%23PrePartyES23) | N/A |
+| 7 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 | 8 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 10 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
-| 11 | [Sam Cooke](http://twitter.com/search?q=Sam+Cooke) | N/A |
-| 12 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 13 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 14 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 15 | [New Balance](http://twitter.com/search?q=New+Balance) | N/A |
+| 9 | [Burt Bacharach](http://twitter.com/search?q=Burt+Bacharach) | N/A |
+| 10 | [#SaturdayNightTakeaway](http://twitter.com/search?q=%23SaturdayNightTakeaway) | N/A |
+| 11 | [Danny Murphy](http://twitter.com/search?q=Danny+Murphy) | Danny Murphy is a British footballer who played for Liverpool, Tottenham Hotspur, Fulham and Blackburn Rovers. He was known for his passing ability and his ability to score goals from midfield. The phrase "Danny Murphy" is often used to describe a player who is an all-round midfielder with good passing and goal-scoring abilities. |
+| 12 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 14 | [Sam Cooke](http://twitter.com/search?q=Sam+Cooke) | N/A |
+| 15 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
 | 16 | [Easter Vigil](http://twitter.com/search?q=Easter+Vigil) | N/A |
-| 17 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 18 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 19 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 20 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 21 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 22 | [AUOB](http://twitter.com/search?q=AUOB) | N/A |
-| 23 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 24 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 25 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 26 | [The VAR](http://twitter.com/search?q=The+VAR) | N/A |
-| 27 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 28 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
-| 29 | [Stuart Atwell](http://twitter.com/search?q=Stuart+Atwell) | N/A |
-| 30 | [Abbie](http://twitter.com/search?q=Abbie) | N/A |
+| 17 | [New Balance](http://twitter.com/search?q=New+Balance) | N/A |
+| 18 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 19 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 20 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 21 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 22 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
+| 23 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 24 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 25 | [Stuart Atwell](http://twitter.com/search?q=Stuart+Atwell) | N/A |
+| 26 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 27 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
+| 28 | [Abbie](http://twitter.com/search?q=Abbie) | N/A |
+| 29 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
+| 30 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 31 | [Alan Rickman](http://twitter.com/search?q=Alan+Rickman) | N/A |
-| 32 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
-| 33 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 34 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
-| 35 | [Ronnie Scott](http://twitter.com/search?q=Ronnie+Scott) | N/A |
-| 36 | [Morelos](http://twitter.com/search?q=Morelos) | Morelos is a state in Mexico. Its name comes from José María Morelos y Pavón, a Mexican revolutionary leader who fought for independence from Spain in the early 19th century. In English, Morelos means "of Morelos". |
-| 37 | [Maggie](http://twitter.com/search?q=Maggie) | N/A |
-| 38 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 39 | [Johnston](http://twitter.com/search?q=Johnston) | N/A |
-| 40 | [Dudson](http://twitter.com/search?q=Dudson) | N/A |
-| 41 | [Life of Brian](http://twitter.com/search?q=Life+of+Brian) | N/A |
-| 42 | [Neilson](http://twitter.com/search?q=Neilson) | N/A |
-| 43 | [Selles](http://twitter.com/search?q=Selles) | N/A |
-| 44 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
-| 45 | [Ant and Dec](http://twitter.com/search?q=Ant+and+Dec) | N/A |
-| 46 | [Lavia](http://twitter.com/search?q=Lavia) | Lavia is a female given name of Latin origin, derived from the word "lavare" which means "to wash". It is often associated with purity and innocence. In English, Lavia can be translated to mean "pure one". |
-| 47 | [Ding](http://twitter.com/search?q=Ding) | N/A |
-| 48 | [West Bank](http://twitter.com/search?q=West+Bank) | N/A |
-| 49 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 50 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
+| 32 | [Life of Brian](http://twitter.com/search?q=Life+of+Brian) | N/A |
+| 33 | [Maggie](http://twitter.com/search?q=Maggie) | N/A |
+| 34 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
+| 35 | [Selles](http://twitter.com/search?q=Selles) | N/A |
+| 36 | [Neilson](http://twitter.com/search?q=Neilson) | N/A |
+| 37 | [Johnston](http://twitter.com/search?q=Johnston) | N/A |
+| 38 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
+| 39 | [Ding](http://twitter.com/search?q=Ding) | N/A |
+| 40 | [West Bank](http://twitter.com/search?q=West+Bank) | N/A |
+| 41 | [Robbed](http://twitter.com/search?q=Robbed) | N/A |
+| 42 | [Dunk](http://twitter.com/search?q=Dunk) | N/A |
+| 43 | [Corruption](http://twitter.com/search?q=Corruption) | N/A |
+| 44 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
+| 45 | [Hibs](http://twitter.com/search?q=Hibs) | Hibs is an abbreviation for Hibernian Football Club, a professional football club based in Edinburgh, Scotland. The club is also known as the Hibees and plays in the Scottish Premiership. |
+| 46 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 47 | [Robin Hood](http://twitter.com/search?q=Robin+Hood) | N/A |
+| 48 | [Saving](http://twitter.com/search?q=Saving) | N/A |
+| 49 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 50 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
 
 
 

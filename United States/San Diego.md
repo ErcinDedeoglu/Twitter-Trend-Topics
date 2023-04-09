@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-04-08 23:17:49 UTC`
+📆 Last Updated: `2023-04-09 00:28:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 2 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 3 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 4 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 5 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 6 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 7 | [#dreamhacksandiego](http://twitter.com/search?q=%23dreamhacksandiego) | N/A |
-| 8 | [Coors](http://twitter.com/search?q=Coors) | N/A |
-| 9 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 10 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 11 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
-| 12 | [Sam Hughes](http://twitter.com/search?q=Sam+Hughes) | N/A |
-| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 14 | [Stott](http://twitter.com/search?q=Stott) | N/A |
-| 15 | [Nick Lodolo](http://twitter.com/search?q=Nick+Lodolo) | N/A |
-| 16 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 17 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 18 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
-| 19 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 20 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 21 | [David Bell](http://twitter.com/search?q=David+Bell) | N/A |
-| 22 | [Brasier](http://twitter.com/search?q=Brasier) | Brasier is a type of lingerie that covers the breasts and torso. It is similar to a corset, but usually has less boning and is more lightweight. The word comes from the French word for "brazier," which is a type of open-top fireplace. In English, brasier can be used to refer to any type of lingerie that covers the breasts and torso. |
-| 23 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 24 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 25 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 26 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 27 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
-| 28 | [Kapler](http://twitter.com/search?q=Kapler) | N/A |
-| 29 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
-| 30 | [Tapit Trice](http://twitter.com/search?q=Tapit+Trice) | N/A |
-| 31 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 32 | [Salvy](http://twitter.com/search?q=Salvy) | N/A |
-| 33 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
-| 34 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 35 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
-| 36 | [Raffy](http://twitter.com/search?q=Raffy) | Raffy is a nickname for Rafael, which is a Spanish name meaning "God has healed". |
-| 37 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
-| 38 | [Taylor Clarke](http://twitter.com/search?q=Taylor+Clarke) | N/A |
-| 39 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 40 | [JJ Yeley](http://twitter.com/search?q=JJ+Yeley) | N/A |
-| 41 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 42 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 43 | [Castellanos](http://twitter.com/search?q=Castellanos) | N/A |
-| 44 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 45 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 46 | [Drew Smith](http://twitter.com/search?q=Drew+Smith) | N/A |
-| 47 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 1 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 2 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 3 | [#LAFC](http://twitter.com/search?q=%23LAFC) | N/A |
+| 4 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 5 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 6 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
+| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 8 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
+| 9 | [Easter Bunny](http://twitter.com/search?q=Easter+Bunny) | N/A |
+| 10 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
+| 11 | [Coors](http://twitter.com/search?q=Coors) | N/A |
+| 12 | [#dreamhacksandiego](http://twitter.com/search?q=%23dreamhacksandiego) | N/A |
+| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 14 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
+| 15 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 16 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 17 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
+| 18 | [Sam Hughes](http://twitter.com/search?q=Sam+Hughes) | N/A |
+| 19 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 20 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
+| 21 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 22 | [Lauer](http://twitter.com/search?q=Lauer) | N/A |
+| 23 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 24 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 25 | [Stott](http://twitter.com/search?q=Stott) | N/A |
+| 26 | [Tree Paine](http://twitter.com/search?q=Tree+Paine) | N/A |
+| 27 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 28 | [Yelich](http://twitter.com/search?q=Yelich) | N/A |
+| 29 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
+| 30 | [Lodolo](http://twitter.com/search?q=Lodolo) | N/A |
+| 31 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 32 | [Charlie Morton](http://twitter.com/search?q=Charlie+Morton) | N/A |
+| 33 | [Martell](http://twitter.com/search?q=Martell) | N/A |
+| 34 | [Bahamondes](http://twitter.com/search?q=Bahamondes) | N/A |
+| 35 | [Ogden](http://twitter.com/search?q=Ogden) | N/A |
+| 36 | [Billye Aaron](http://twitter.com/search?q=Billye+Aaron) | N/A |
+| 37 | [Velasquez](http://twitter.com/search?q=Velasquez) | N/A |
+| 38 | [David Bell](http://twitter.com/search?q=David+Bell) | N/A |
+| 39 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 40 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
+| 41 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 42 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 43 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
+| 44 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
+| 45 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
+| 46 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 47 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
+| 48 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 49 | [Calvillo](http://twitter.com/search?q=Calvillo) | N/A |
+| 50 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
 
 
 
