@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-04-09 08:16:44 UTC`
+📆 Last Updated: `2023-04-09 09:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 2 | [#LazadaTHRSale](http://twitter.com/search?q=%23LazadaTHRSale) | N/A |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 5 | [1 Rupiah](http://twitter.com/search?q=1+Rupiah) | N/A |
-| 6 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
-| 7 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
-| 8 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
-| 9 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
-| 10 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 12 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 13 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 14 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
-| 15 | [Kokas](http://twitter.com/search?q=Kokas) | N/A |
-| 16 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 17 | [Happy un1ty](http://twitter.com/search?q=Happy+un1ty) | N/A |
-| 18 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 19 | [YOUNGK](http://twitter.com/search?q=YOUNGK) | N/A |
-| 20 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
-| 21 | [TNI AU](http://twitter.com/search?q=TNI+AU) | N/A |
-| 22 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 23 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 24 | [Happy 7th](http://twitter.com/search?q=Happy+7th) | N/A |
-| 25 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 26 | [Sinergi Mengawasi](http://twitter.com/search?q=Sinergi+Mengawasi) | N/A |
-| 27 | [Kristus](http://twitter.com/search?q=Kristus) | N/A |
-| 28 | [Viva La Vida](http://twitter.com/search?q=Viva+La+Vida) | N/A |
-| 29 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
-| 30 | [#NarwhalFinance](http://twitter.com/search?q=%23NarwhalFinance) | N/A |
-| 31 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
-| 32 | [#MusicBankParis](http://twitter.com/search?q=%23MusicBankParis) | N/A |
-| 33 | [#엑스디너리히어로즈](http://twitter.com/search?q=%23%ec%97%91%ec%8a%a4%eb%94%94%eb%84%88%eb%a6%ac%ed%9e%88%ec%96%b4%eb%a1%9c%ec%a6%88) | N/A |
-| 34 | [#XdinaryHeroes](http://twitter.com/search?q=%23XdinaryHeroes) | N/A |
-| 35 | [#TaxiDriver2Ep14](http://twitter.com/search?q=%23TaxiDriver2Ep14) | N/A |
-| 36 | [#WayV](http://twitter.com/search?q=%23WayV) | N/A |
+| 1 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 2 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 3 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 4 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 5 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
+| 6 | [#1000BungaApresiasiET](http://twitter.com/search?q=%231000BungaApresiasiET) | N/A |
+| 7 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
+| 8 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 9 | [#LazadaTHRSale](http://twitter.com/search?q=%23LazadaTHRSale) | N/A |
+| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 11 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 12 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
+| 13 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
+| 14 | [Mas Adam](http://twitter.com/search?q=Mas+Adam) | N/A |
+| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 16 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 17 | [TNI AU](http://twitter.com/search?q=TNI+AU) | N/A |
+| 18 | [Nabrak](http://twitter.com/search?q=Nabrak) | Nabrak is an Indonesian word that means "to crash" or "to collide". It is often used to describe a car accident. |
+| 19 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 20 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 21 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 22 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 23 | [Angkatan Udara](http://twitter.com/search?q=Angkatan+Udara) | N/A |
+| 24 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 25 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
+| 26 | [Love Me Right](http://twitter.com/search?q=Love+Me+Right) | N/A |
+| 27 | [Kokas](http://twitter.com/search?q=Kokas) | N/A |
+| 28 | [Sugeng](http://twitter.com/search?q=Sugeng) | N/A |
+| 29 | [The Eve](http://twitter.com/search?q=The+Eve) | N/A |
+| 30 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 31 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
+| 32 | [Berkah Dalem](http://twitter.com/search?q=Berkah+Dalem) | N/A |
+| 33 | [Panas](http://twitter.com/search?q=Panas) | N/A |
+| 34 | [Kristus](http://twitter.com/search?q=Kristus) | N/A |
+| 35 | [Onic](http://twitter.com/search?q=Onic) | N/A |
+| 36 | [#BukaAjaBukalapak](http://twitter.com/search?q=%23BukaAjaBukalapak) | N/A |
+| 37 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
+| 38 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
+| 39 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
+| 40 | [#Who_XIUMINxEUNHA](http://twitter.com/search?q=%23Who_XIUMINxEUNHA) | N/A |
+| 41 | [#ApologizeToMatthew](http://twitter.com/search?q=%23ApologizeToMatthew) | N/A |
+| 42 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
+| 43 | [#IDGLIVvsARS](http://twitter.com/search?q=%23IDGLIVvsARS) | N/A |
+| 44 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 45 | [#BukberTanpaWacana](http://twitter.com/search?q=%23BukberTanpaWacana) | N/A |
+| 46 | [#NarwhalFinance](http://twitter.com/search?q=%23NarwhalFinance) | N/A |
+| 47 | [#TimeForEXO](http://twitter.com/search?q=%23TimeForEXO) | N/A |
+| 48 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
+| 49 | [#ChoiWooShik](http://twitter.com/search?q=%23ChoiWooShik) | N/A |
 
 
 

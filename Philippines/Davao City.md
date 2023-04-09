@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-09 08:16:51 UTC`
+📆 Last Updated: `2023-04-09 09:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,43 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 5 | [#DONBELLEmpire](http://twitter.com/search?q=%23DONBELLEmpire) | N/A |
-| 6 | [#ACEsOur2ndAnniversary](http://twitter.com/search?q=%23ACEsOur2ndAnniversary) | N/A |
-| 7 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 8 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 9 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 10 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 11 | [GABBLUKE MOSHIES ANNIVERSARY](http://twitter.com/search?q=GABBLUKE+MOSHIES+ANNIVERSARY) | N/A |
-| 12 | [ASAP CHAMPION JM YOSURES](http://twitter.com/search?q=ASAP+CHAMPION+JM+YOSURES) | N/A |
-| 13 | [D-5 TO ANJI PARAISO](http://twitter.com/search?q=D-5+TO+ANJI+PARAISO) | N/A |
-| 14 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 15 | [YOUNG K](http://twitter.com/search?q=YOUNG+K) | N/A |
-| 16 | [Day of Valor](http://twitter.com/search?q=Day+of+Valor) | N/A |
-| 17 | [TANGINA NAMAN](http://twitter.com/search?q=TANGINA+NAMAN) | N/A |
-| 18 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
+| 1 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 2 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
+| 3 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 4 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
+| 5 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
+| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 8 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
+| 9 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 10 | [Doran](http://twitter.com/search?q=Doran) | N/A |
+| 11 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 12 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
+| 13 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 14 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 15 | [Don't Go](http://twitter.com/search?q=Don%27t+Go) | N/A |
+| 16 | [World War II](http://twitter.com/search?q=World+War+II) | N/A |
+| 17 | [ksoo](http://twitter.com/search?q=ksoo) | N/A |
+| 18 | [Suho](http://twitter.com/search?q=Suho) | N/A |
 | 19 | [rosie posie](http://twitter.com/search?q=rosie+posie) | N/A |
-| 20 | [Resurrection Sunday](http://twitter.com/search?q=Resurrection+Sunday) | N/A |
-| 21 | [I REFUSE TO BELIEVE](http://twitter.com/search?q=I+REFUSE+TO+BELIEVE) | N/A |
+| 20 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
+| 21 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
 | 22 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 23 | [NO WAY](http://twitter.com/search?q=NO+WAY) | N/A |
-| 24 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
-| 25 | [London](http://twitter.com/search?q=London) | N/A |
-| 26 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
-| 27 | [MY PARENTS](http://twitter.com/search?q=MY+PARENTS) | N/A |
-| 28 | [SHUT UP](http://twitter.com/search?q=SHUT+UP) | N/A |
-| 29 | [Christ is Risen](http://twitter.com/search?q=Christ+is+Risen) | N/A |
-| 30 | [The Lord](http://twitter.com/search?q=The+Lord) | N/A |
-| 31 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
-| 32 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
-| 33 | [#ASAPalive](http://twitter.com/search?q=%23ASAPalive) | N/A |
-| 34 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
-| 35 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
-| 36 | [#T1Fighting](http://twitter.com/search?q=%23T1Fighting) | N/A |
-| 37 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 38 | [#JMYosuresOnASAP](http://twitter.com/search?q=%23JMYosuresOnASAP) | N/A |
-| 39 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 40 | [#BOYCOTTEBxAPTxGMA760](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA760) | N/A |
-| 41 | [#7년의_우리맘_따뜻하게_감싸준_NCT](http://twitter.com/search?q=%237%eb%85%84%ec%9d%98_%ec%9a%b0%eb%a6%ac%eb%a7%98_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b2%8c_%ea%b0%90%ec%8b%b8%ec%a4%80_NCT) | N/A |
-| 42 | [#To7heWorld_WeAreNCT](http://twitter.com/search?q=%23To7heWorld_WeAreNCT) | N/A |
+| 23 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
+| 24 | [London](http://twitter.com/search?q=London) | N/A |
+| 25 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
+| 26 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
+| 27 | [#ACEsOur2ndAnniversary](http://twitter.com/search?q=%23ACEsOur2ndAnniversary) | N/A |
+| 28 | [#INKSteaDAY](http://twitter.com/search?q=%23INKSteaDAY) | N/A |
+| 29 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 30 | [#T1Fighting](http://twitter.com/search?q=%23T1Fighting) | N/A |
+| 31 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 32 | [#DONBELLEmpire](http://twitter.com/search?q=%23DONBELLEmpire) | N/A |
+| 33 | [#PARKEUNBIN](http://twitter.com/search?q=%23PARKEUNBIN) | N/A |
+| 34 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
+| 35 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
+| 36 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
+| 37 | [#ASAPalive](http://twitter.com/search?q=%23ASAPalive) | N/A |
 
 
 

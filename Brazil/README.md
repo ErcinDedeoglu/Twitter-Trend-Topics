@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-04-09 08:17:13 UTC`
+📆 Last Updated: `2023-04-09 09:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Brazil
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 3 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
-| 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 5 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
-| 6 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 7 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
-| 8 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 9 | [ELE VIVE](http://twitter.com/search?q=ELE+VIVE) | N/A |
-| 10 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 11 | [#altashoras](http://twitter.com/search?q=%23altashoras) | #Altashoras is a Spanish hashtag that translates to "high hours" in English. It is used to refer to the time of day when the sun is at its highest point in the sky, usually around noon. |
-| 12 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
-| 13 | [Durinho](http://twitter.com/search?q=Durinho) | N/A |
-| 14 | [#UFCBR](http://twitter.com/search?q=%23UFCBR) | N/A |
-| 15 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
-| 16 | [ELE RESSUSCITOU](http://twitter.com/search?q=ELE+RESSUSCITOU) | N/A |
-| 17 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 18 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
-| 19 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
-| 20 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 21 | [#NCTzenSelcaDay](http://twitter.com/search?q=%23NCTzenSelcaDay) | N/A |
-| 22 | [Anderson Silva](http://twitter.com/search?q=Anderson+Silva) | N/A |
-| 23 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
-| 24 | [Alex Pereira](http://twitter.com/search?q=Alex+Pereira) | N/A |
-| 25 | [João de Deus](http://twitter.com/search?q=Jo%c3%a3o+de+Deus) | N/A |
-| 26 | [TOH FINALE](http://twitter.com/search?q=TOH+FINALE) | N/A |
-| 27 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 28 | [Legends](http://twitter.com/search?q=Legends) | N/A |
-| 29 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 30 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 31 | [Khalil](http://twitter.com/search?q=Khalil) | N/A |
-| 32 | [Chevette](http://twitter.com/search?q=Chevette) | N/A |
-| 33 | [Monza](http://twitter.com/search?q=Monza) | N/A |
-| 34 | [ENZO GABRIEL](http://twitter.com/search?q=ENZO+GABRIEL) | N/A |
-| 35 | [O PALMEIRAS É O TIME DA VIRADA](http://twitter.com/search?q=O+PALMEIRAS+%c3%89+O+TIME+DA+VIRADA) | N/A |
-| 36 | [the great war](http://twitter.com/search?q=the+great+war) | N/A |
-| 37 | [KING OF MY HEART](http://twitter.com/search?q=KING+OF+MY+HEART) | N/A |
-| 38 | [Vojvoda](http://twitter.com/search?q=Vojvoda) | N/A |
-| 39 | [Porque Ele](http://twitter.com/search?q=Porque+Ele) | N/A |
-| 40 | [Major](http://twitter.com/search?q=Major) | N/A |
-| 41 | [PAPER RINGS](http://twitter.com/search?q=PAPER+RINGS) | N/A |
-| 42 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
-| 43 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
-| 44 | [gerard](http://twitter.com/search?q=gerard) | N/A |
-| 45 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
-| 46 | [Fluxo](http://twitter.com/search?q=Fluxo) | N/A |
-| 47 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 48 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 49 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 50 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 2 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 3 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 4 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
+| 5 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 6 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 8 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
+| 9 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
+| 10 | [Doran](http://twitter.com/search?q=Doran) | N/A |
+| 11 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
+| 12 | [Abra o Spotify](http://twitter.com/search?q=Abra+o+Spotify) | N/A |
+| 13 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 14 | [#provadoanjo](http://twitter.com/search?q=%23provadoanjo) | N/A |
+| 15 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
+| 16 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 17 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
+| 18 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
+| 19 | [#caldeirão](http://twitter.com/search?q=%23caldeir%c3%a3o) | N/A |
+| 20 | [Vuaden](http://twitter.com/search?q=Vuaden) | N/A |
+| 21 | [#altashoras](http://twitter.com/search?q=%23altashoras) | #Altashoras is a Spanish hashtag that translates to "high hours" in English. It is used to refer to the time of day when the sun is at its highest point in the sky, usually around noon. |
+| 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 23 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 25 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
+| 26 | [m&m no ratinho](http://twitter.com/search?q=m%26m+no+ratinho) | N/A |
+| 27 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 28 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 29 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
+| 30 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 31 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 32 | [fernando miguel](http://twitter.com/search?q=fernando+miguel) | N/A |
+| 33 | [ELE VIVE](http://twitter.com/search?q=ELE+VIVE) | N/A |
+| 34 | [#UFCBR](http://twitter.com/search?q=%23UFCBR) | N/A |
+| 35 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
+| 36 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 37 | [Khalil](http://twitter.com/search?q=Khalil) | N/A |
+| 38 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 39 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 40 | [DIOGO BARBOSA](http://twitter.com/search?q=DIOGO+BARBOSA) | N/A |
+| 41 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 42 | [steloisa em alerta](http://twitter.com/search?q=steloisa+em+alerta) | N/A |
+| 43 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
+| 44 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 45 | [OLHA A BOMBA](http://twitter.com/search?q=OLHA+A+BOMBA) | N/A |
+| 46 | [Nestlé](http://twitter.com/search?q=Nestl%c3%a9) | N/A |
+| 47 | [Crimeia](http://twitter.com/search?q=Crimeia) | N/A |
+| 48 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 49 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 50 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
 
 
 

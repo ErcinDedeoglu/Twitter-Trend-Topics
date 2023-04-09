@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-04-09 08:16:26 UTC`
+📆 Last Updated: `2023-04-09 09:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 2 | [Saputo](http://twitter.com/search?q=Saputo) | N/A |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 5 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 6 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 7 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 8 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
+| 1 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 3 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 4 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 5 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 6 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 7 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
+| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 9 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 10 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 11 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 12 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 13 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
-| 14 | [Flames](http://twitter.com/search?q=Flames) | N/A |
-| 15 | [#andNEW](http://twitter.com/search?q=%23andNEW) | N/A |
-| 16 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 18 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 19 | [MEV Bot](http://twitter.com/search?q=MEV+Bot) | N/A |
-| 20 | [200k in ETH](http://twitter.com/search?q=200k+in+ETH) | N/A |
-| 21 | [Chris Wideman](http://twitter.com/search?q=Chris+Wideman) | N/A |
-| 22 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
-| 23 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
-| 24 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
-| 25 | [Demko](http://twitter.com/search?q=Demko) | N/A |
-| 26 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 27 | [Habs](http://twitter.com/search?q=Habs) | N/A |
-| 28 | [Tocchet](http://twitter.com/search?q=Tocchet) | N/A |
-| 29 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 30 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 31 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 32 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 33 | [John Garrett](http://twitter.com/search?q=John+Garrett) | N/A |
-| 34 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 35 | [Game 7](http://twitter.com/search?q=Game+7) | Game 7 is the seventh and final game of a best-of-seven series in a sports playoff. It is the deciding game that determines which team will win the series. The phrase "Game 7" is used to refer to any situation where the outcome of a single event will determine the winner of a competition. |
-| 36 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 37 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
-| 38 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 39 | [Joe Rogan](http://twitter.com/search?q=Joe+Rogan) | N/A |
-| 40 | [EBUG](http://twitter.com/search?q=EBUG) | N/A |
-| 41 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 42 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 43 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
-| 44 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
-| 45 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 46 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 47 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 48 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
-| 49 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 10 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 11 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
+| 12 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 13 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 14 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 15 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
+| 16 | [EBUG](http://twitter.com/search?q=EBUG) | N/A |
+| 17 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 18 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 19 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
+| 20 | [Chris Wideman](http://twitter.com/search?q=Chris+Wideman) | N/A |
+| 21 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 22 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
+| 23 | [Habs](http://twitter.com/search?q=Habs) | N/A |
+| 24 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 25 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 26 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 27 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 28 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 29 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
+| 30 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 31 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
+| 32 | [chris bassitt](http://twitter.com/search?q=chris+bassitt) | N/A |
+| 33 | [MEV Bot](http://twitter.com/search?q=MEV+Bot) | N/A |
+| 34 | [Belt](http://twitter.com/search?q=Belt) | N/A |
+| 35 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
+| 36 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 37 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 38 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 39 | [Saputo](http://twitter.com/search?q=Saputo) | N/A |
+| 40 | [demers](http://twitter.com/search?q=demers) | N/A |
+| 41 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 42 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 43 | [Losada](http://twitter.com/search?q=Losada) | N/A |
+| 44 | [200k in eth](http://twitter.com/search?q=200k+in+eth) | N/A |
+| 45 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 46 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
+| 47 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 48 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 49 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
 
 
 

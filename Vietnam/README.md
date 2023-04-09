@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-04-09 08:17:19 UTC`
+📆 Last Updated: `2023-04-09 09:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,43 +16,41 @@ This is top 50 for Vietnam
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
-| 2 | [#PondPhuwinFMinVietnam](http://twitter.com/search?q=%23PondPhuwinFMinVietnam) | N/A |
-| 3 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
+| 2 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 3 | [#PondPhuwinFMinVietnam](http://twitter.com/search?q=%23PondPhuwinFMinVietnam) | N/A |
 | 4 | [#TheThingsILoveAboutBible](http://twitter.com/search?q=%23TheThingsILoveAboutBible) | N/A |
-| 5 | [#cryptonewstoday](http://twitter.com/search?q=%23cryptonewstoday) | N/A |
-| 6 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 7 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 8 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 9 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 10 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 11 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 12 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 14 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 16 | [HAVE A SAFE FLIGHT JUNGKOOK](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JUNGKOOK) | N/A |
-| 17 | [GenG](http://twitter.com/search?q=GenG) | N/A |
-| 18 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 19 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 20 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
-| 21 | [London](http://twitter.com/search?q=London) | N/A |
-| 22 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 23 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 24 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 25 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 26 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 27 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 28 | [Mình](http://twitter.com/search?q=M%c3%acnh) | N/A |
-| 29 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
-| 30 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 31 | [Kiểu](http://twitter.com/search?q=Ki%e1%bb%83u) | N/A |
-| 32 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 33 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
-| 34 | [#santaxgreatdancecrew2](http://twitter.com/search?q=%23santaxgreatdancecrew2) | N/A |
-| 35 | [#Signals](http://twitter.com/search?q=%23Signals) | N/A |
-| 36 | [#welcomebackleadersantatogdc2](http://twitter.com/search?q=%23welcomebackleadersantatogdc2) | N/A |
-| 37 | [#BIU100KLUVE](http://twitter.com/search?q=%23BIU100KLUVE) | N/A |
-| 38 | [#ShowmeloveTheseriesEP6](http://twitter.com/search?q=%23ShowmeloveTheseriesEP6) | N/A |
+| 5 | [#ShowmeloveTheseriesEP6](http://twitter.com/search?q=%23ShowmeloveTheseriesEP6) | N/A |
+| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 7 | [Grim](http://twitter.com/search?q=Grim) | N/A |
+| 8 | [Grim](http://twitter.com/search?q=Grim) | N/A |
+| 9 | [Grim](http://twitter.com/search?q=Grim) | N/A |
+| 10 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 11 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 12 | [HAVE A SAFE FLIGHT JUNGKOOK](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JUNGKOOK) | N/A |
+| 13 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 14 | [GenG](http://twitter.com/search?q=GenG) | N/A |
+| 15 | [BaBiu](http://twitter.com/search?q=BaBiu) | N/A |
+| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 17 | [London](http://twitter.com/search?q=London) | N/A |
+| 18 | [Biu Biu](http://twitter.com/search?q=Biu+Biu) | N/A |
+| 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 20 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 21 | [Đang](http://twitter.com/search?q=%c4%90ang) | N/A |
+| 22 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
+| 23 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
+| 24 | [America](http://twitter.com/search?q=America) | N/A |
+| 25 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 26 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 27 | [#BIU100KLUVE](http://twitter.com/search?q=%23BIU100KLUVE) | N/A |
+| 28 | [#BedFriendEP8](http://twitter.com/search?q=%23BedFriendEP8) | N/A |
+| 29 | [#น้องนิวเวลาหม่ํา](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%99%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%a7%e0%b8%a5%e0%b8%b2%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b9%8d%e0%b8%b2) | N/A |
+| 30 | [#WhatsUpBIU](http://twitter.com/search?q=%23WhatsUpBIU) | N/A |
+| 31 | [#phuwintang](http://twitter.com/search?q=%23phuwintang) | N/A |
+| 32 | [#ppnaravit](http://twitter.com/search?q=%23ppnaravit) | N/A |
+| 33 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
+| 34 | [#ชมรมคนตาสระอิ](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%a1%e0%b8%a3%e0%b8%a1%e0%b8%84%e0%b8%99%e0%b8%95%e0%b8%b2%e0%b8%aa%e0%b8%a3%e0%b8%b0%e0%b8%ad%e0%b8%b4) | N/A |
+| 35 | [#nimotv](http://twitter.com/search?q=%23nimotv) | N/A |
+| 36 | [#GTA5](http://twitter.com/search?q=%23GTA5) | N/A |
 
 
 
