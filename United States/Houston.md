@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-04-09 09:17:48 UTC`
+📆 Last Updated: `2023-04-09 10:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 2 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 3 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 1 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 2 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
+| 3 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 6 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
 | 7 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 8 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
-| 9 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
-| 10 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 8 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 9 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
+| 10 | [#andNEW](http://twitter.com/search?q=%23andNEW) | N/A |
 | 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 12 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 13 | [#andNEW](http://twitter.com/search?q=%23andNEW) | N/A |
-| 14 | [Doran](http://twitter.com/search?q=Doran) | N/A |
-| 15 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 16 | [Fundora](http://twitter.com/search?q=Fundora) | N/A |
-| 17 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
-| 18 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 19 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 12 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
+| 13 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 14 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 15 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
+| 16 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 17 | [Fundora](http://twitter.com/search?q=Fundora) | N/A |
+| 18 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
+| 19 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
 | 20 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
-| 21 | [Daily Quordle 440](http://twitter.com/search?q=Daily+Quordle+440) | N/A |
-| 22 | [Style Bender](http://twitter.com/search?q=Style+Bender) | N/A |
-| 23 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 21 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 22 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 23 | [Style Bender](http://twitter.com/search?q=Style+Bender) | N/A |
 | 24 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
-| 25 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 26 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 27 | [Belos](http://twitter.com/search?q=Belos) | N/A |
+| 25 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 26 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 27 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
 | 28 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
-| 29 | [Watching and Dreaming](http://twitter.com/search?q=Watching+and+Dreaming) | N/A |
-| 30 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 31 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 32 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 29 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
+| 30 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 31 | [Haney](http://twitter.com/search?q=Haney) | N/A |
+| 32 | [Headstrong](http://twitter.com/search?q=Headstrong) | N/A |
 | 33 | [Raine](http://twitter.com/search?q=Raine) | N/A |
-| 34 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 35 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 36 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 37 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 38 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 39 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
-| 40 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
+| 34 | [Watching and Dreaming](http://twitter.com/search?q=Watching+and+Dreaming) | N/A |
+| 35 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 36 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 37 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
+| 38 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
+| 39 | [Belos](http://twitter.com/search?q=Belos) | N/A |
+| 40 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
 | 41 | [KO'd](http://twitter.com/search?q=KO%27d) | N/A |
-| 42 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 43 | [Whittaker](http://twitter.com/search?q=Whittaker) | N/A |
-| 44 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
-| 45 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 46 | [Suho](http://twitter.com/search?q=Suho) | N/A |
-| 47 | [Darius](http://twitter.com/search?q=Darius) | N/A |
-| 48 | [Sounders](http://twitter.com/search?q=Sounders) | Sounders is the name of a Major League Soccer (MLS) team based in Seattle, Washington. The team was founded in 2007 and plays its home games at CenturyLink Field. The name Sounders is derived from the maritime tradition of the Puget Sound region, and refers to the sound of a foghorn or whistle used to signal ships. |
-| 49 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 50 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 42 | [Periera](http://twitter.com/search?q=Periera) | N/A |
+| 43 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 44 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 45 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
+| 46 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
+| 47 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 48 | [Harada](http://twitter.com/search?q=Harada) | N/A |
+| 49 | [LETS GO BRANDON](http://twitter.com/search?q=LETS+GO+BRANDON) | N/A |
+| 50 | [Whittaker](http://twitter.com/search?q=Whittaker) | N/A |
 
 
 

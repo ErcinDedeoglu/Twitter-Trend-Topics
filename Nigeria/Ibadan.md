@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-04-09 09:17:30 UTC`
+📆 Last Updated: `2023-04-09 10:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,33 +18,28 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 2 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 3 | [Israel Adesanya](http://twitter.com/search?q=Israel+Adesanya) | N/A |
-| 4 | [#AVRListeningParty](http://twitter.com/search?q=%23AVRListeningParty) | N/A |
-| 5 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 7 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 8 | [Asisat](http://twitter.com/search?q=Asisat) | N/A |
-| 9 | [Oshoala](http://twitter.com/search?q=Oshoala) | N/A |
-| 10 | [Perpetual](http://twitter.com/search?q=Perpetual) | N/A |
-| 11 | [Obituary](http://twitter.com/search?q=Obituary) | N/A |
-| 12 | [#makeupyourmind](http://twitter.com/search?q=%23makeupyourmind) | N/A |
-| 13 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
-| 14 | [Champ](http://twitter.com/search?q=Champ) | N/A |
-| 15 | [#ResurrectionSunday](http://twitter.com/search?q=%23ResurrectionSunday) | N/A |
-| 16 | [Proudly Nigerian](http://twitter.com/search?q=Proudly+Nigerian) | N/A |
-| 17 | [Omo Oba](http://twitter.com/search?q=Omo+Oba) | N/A |
-| 18 | [Usman](http://twitter.com/search?q=Usman) | N/A |
-| 19 | [Osasu](http://twitter.com/search?q=Osasu) | N/A |
+| 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 5 | [#AVRListeningParty](http://twitter.com/search?q=%23AVRListeningParty) | N/A |
+| 6 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 7 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 8 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 9 | [#andNEW](http://twitter.com/search?q=%23andNEW) | N/A |
+| 10 | [#Stylebender](http://twitter.com/search?q=%23Stylebender) | N/A |
+| 11 | [Champ](http://twitter.com/search?q=Champ) | N/A |
+| 12 | [Proudly Nigerian](http://twitter.com/search?q=Proudly+Nigerian) | N/A |
+| 13 | [Obituary](http://twitter.com/search?q=Obituary) | N/A |
+| 14 | [Asisat](http://twitter.com/search?q=Asisat) | N/A |
+| 15 | [Omo Oba](http://twitter.com/search?q=Omo+Oba) | N/A |
+| 16 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 17 | [JESUS IS ALIVE](http://twitter.com/search?q=JESUS+IS+ALIVE) | N/A |
+| 18 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 19 | [The King](http://twitter.com/search?q=The+King) | N/A |
 | 20 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 21 | [Isale Eko](http://twitter.com/search?q=Isale+Eko) | N/A |
+| 21 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
 | 22 | [Esther](http://twitter.com/search?q=Esther) | N/A |
-| 23 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 23 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
 | 24 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 25 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 26 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 27 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 28 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 29 | [#Stylebender](http://twitter.com/search?q=%23Stylebender) | N/A |
-| 30 | [#andNEW](http://twitter.com/search?q=%23andNEW) | N/A |
+| 25 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
 
 
 

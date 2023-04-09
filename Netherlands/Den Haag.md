@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-04-09 09:17:15 UTC`
+📆 Last Updated: `2023-04-09 10:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [Vrolijk Pasen](http://twitter.com/search?q=Vrolijk+Pasen) | N/A |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
-| 4 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 5 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
+| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 5 | [De Heer](http://twitter.com/search?q=De+Heer) | N/A |
 | 6 | [#PSVEXC](http://twitter.com/search?q=%23PSVEXC) | N/A |
-| 7 | [#makeupyourmind](http://twitter.com/search?q=%23makeupyourmind) | N/A |
-| 8 | [#eventothier](http://twitter.com/search?q=%23eventothier) | N/A |
-| 9 | [De Heer](http://twitter.com/search?q=De+Heer) | N/A |
-| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 11 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 12 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
-| 13 | [Hema](http://twitter.com/search?q=Hema) | N/A |
-| 14 | [Kees van Kooten](http://twitter.com/search?q=Kees+van+Kooten) | N/A |
-| 15 | [Andries](http://twitter.com/search?q=Andries) | N/A |
-| 16 | [Ongedifferentieerd-Androgyn](http://twitter.com/search?q=Ongedifferentieerd-Androgyn) | N/A |
-| 17 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 18 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 19 | [Enzo Knol](http://twitter.com/search?q=Enzo+Knol) | N/A |
-| 20 | [pec zwolle-supporters](http://twitter.com/search?q=pec+zwolle-supporters) | N/A |
-| 21 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
-| 22 | [Beau](http://twitter.com/search?q=Beau) | N/A |
-| 23 | [Nonchalant Vrouwelijk](http://twitter.com/search?q=Nonchalant+Vrouwelijk) | N/A |
-| 24 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 25 | [Nonchalant Mannelijk](http://twitter.com/search?q=Nonchalant+Mannelijk) | N/A |
+| 7 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 8 | [#makeupyourmind](http://twitter.com/search?q=%23makeupyourmind) | N/A |
+| 9 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
+| 10 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
+| 11 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 12 | [Kees van Kooten](http://twitter.com/search?q=Kees+van+Kooten) | N/A |
+| 13 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 15 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
+| 16 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
+| 17 | [Beau](http://twitter.com/search?q=Beau) | N/A |
+| 18 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
+| 19 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
+| 20 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 21 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 22 | [Stille Zaterdag](http://twitter.com/search?q=Stille+Zaterdag) | N/A |
+| 23 | [Andries](http://twitter.com/search?q=Andries) | N/A |
+| 24 | [Enzo Knol](http://twitter.com/search?q=Enzo+Knol) | N/A |
+| 25 | [pec zwolle-supporters](http://twitter.com/search?q=pec+zwolle-supporters) | N/A |
 | 26 | [Ongeprikt](http://twitter.com/search?q=Ongeprikt) | N/A |
-| 27 | [Jezus](http://twitter.com/search?q=Jezus) | N/A |
-| 28 | [eindhovense](http://twitter.com/search?q=eindhovense) | N/A |
-| 29 | [otten](http://twitter.com/search?q=otten) | N/A |
-| 30 | [Lien](http://twitter.com/search?q=Lien) | N/A |
-| 31 | [bibi dumon tak](http://twitter.com/search?q=bibi+dumon+tak) | N/A |
-| 32 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
-| 33 | [Nieman](http://twitter.com/search?q=Nieman) | N/A |
-| 34 | [Fortuyn](http://twitter.com/search?q=Fortuyn) | N/A |
-| 35 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 36 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 37 | [Tamara](http://twitter.com/search?q=Tamara) | N/A |
-| 38 | [Kees Tol](http://twitter.com/search?q=Kees+Tol) | N/A |
-| 39 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
-| 40 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
-| 41 | [Vogel Rok](http://twitter.com/search?q=Vogel+Rok) | N/A |
+| 27 | [Insgelijks](http://twitter.com/search?q=Insgelijks) | N/A |
+| 28 | [Hema](http://twitter.com/search?q=Hema) | N/A |
+| 29 | [Nonchalant Vrouwelijk](http://twitter.com/search?q=Nonchalant+Vrouwelijk) | N/A |
+| 30 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
+| 31 | [Dave](http://twitter.com/search?q=Dave) | N/A |
+| 32 | [Oostenrijk](http://twitter.com/search?q=Oostenrijk) | N/A |
+| 33 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 34 | [Dion](http://twitter.com/search?q=Dion) | N/A |
+| 35 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 36 | [Ongedifferentieerd-Androgyn](http://twitter.com/search?q=Ongedifferentieerd-Androgyn) | N/A |
+| 37 | [eindhovense](http://twitter.com/search?q=eindhovense) | N/A |
+| 38 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
+| 39 | [Karin](http://twitter.com/search?q=Karin) | N/A |
+| 40 | [Nonchalant Mannelijk](http://twitter.com/search?q=Nonchalant+Mannelijk) | N/A |
+| 41 | [Astrid](http://twitter.com/search?q=Astrid) | N/A |
 | 42 | [nsb'ers](http://twitter.com/search?q=nsb%27ers) | N/A |
-| 43 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 44 | [Pieter Omtzigt](http://twitter.com/search?q=Pieter+Omtzigt) | N/A |
-| 45 | [Optie 5](http://twitter.com/search?q=Optie+5) | N/A |
+| 43 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 44 | [bibi dumon tak](http://twitter.com/search?q=bibi+dumon+tak) | N/A |
+| 45 | [Luuk de Jong](http://twitter.com/search?q=Luuk+de+Jong) | N/A |
 | 46 | [Zondag 9](http://twitter.com/search?q=Zondag+9) | N/A |
-| 47 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 48 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 49 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 47 | [wissel](http://twitter.com/search?q=wissel) | N/A |
+| 48 | [De HELE](http://twitter.com/search?q=De+HELE) | N/A |
+| 49 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 
 
 

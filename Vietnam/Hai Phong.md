@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-04-09 09:17:29 UTC`
+📆 Last Updated: `2023-04-09 10:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,42 +16,45 @@ This is top 50 for [Vietnam](</Vietnam>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
-| 2 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
-| 3 | [#PondPhuwinFMinVietnam](http://twitter.com/search?q=%23PondPhuwinFMinVietnam) | N/A |
+| 2 | [#PondPhuwinFMinVietnam](http://twitter.com/search?q=%23PondPhuwinFMinVietnam) | N/A |
+| 3 | [#cryptonewstoday](http://twitter.com/search?q=%23cryptonewstoday) | N/A |
 | 4 | [#TheThingsILoveAboutBible](http://twitter.com/search?q=%23TheThingsILoveAboutBible) | N/A |
-| 5 | [#ShowmeloveTheseriesEP6](http://twitter.com/search?q=%23ShowmeloveTheseriesEP6) | N/A |
-| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 7 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 8 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 5 | [#Signals](http://twitter.com/search?q=%23Signals) | N/A |
+| 6 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 9 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 10 | [HAVE A SAFE FLIGHT JUNGKOOK](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JUNGKOOK) | N/A |
-| 11 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 12 | [GenG](http://twitter.com/search?q=GenG) | N/A |
-| 13 | [BaBiu](http://twitter.com/search?q=BaBiu) | N/A |
-| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 15 | [London](http://twitter.com/search?q=London) | N/A |
-| 16 | [Biu Biu](http://twitter.com/search?q=Biu+Biu) | N/A |
-| 17 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 18 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 19 | [Đang](http://twitter.com/search?q=%c4%90ang) | N/A |
-| 20 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
-| 21 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
-| 22 | [America](http://twitter.com/search?q=America) | N/A |
-| 23 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 24 | [Mình](http://twitter.com/search?q=M%c3%acnh) | N/A |
-| 25 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
-| 26 | [#BIU100KLUVE](http://twitter.com/search?q=%23BIU100KLUVE) | N/A |
-| 27 | [#BedFriendEP8](http://twitter.com/search?q=%23BedFriendEP8) | N/A |
-| 28 | [#sugarskullgirl](http://twitter.com/search?q=%23sugarskullgirl) | N/A |
-| 29 | [#sugarskullgirl](http://twitter.com/search?q=%23sugarskullgirl) | N/A |
-| 30 | [#น้องนิวเวลาหม่ํา](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%99%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%a7%e0%b8%a5%e0%b8%b2%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b9%8d%e0%b8%b2) | N/A |
-| 31 | [#WhatsUpBIU](http://twitter.com/search?q=%23WhatsUpBIU) | N/A |
-| 32 | [#phuwintang](http://twitter.com/search?q=%23phuwintang) | N/A |
-| 33 | [#ppnaravit](http://twitter.com/search?q=%23ppnaravit) | N/A |
-| 34 | [#ชมรมคนตาสระอิ](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%a1%e0%b8%a3%e0%b8%a1%e0%b8%84%e0%b8%99%e0%b8%95%e0%b8%b2%e0%b8%aa%e0%b8%a3%e0%b8%b0%e0%b8%ad%e0%b8%b4) | N/A |
-| 35 | [#nimotv](http://twitter.com/search?q=%23nimotv) | N/A |
-| 36 | [#GTA5](http://twitter.com/search?q=%23GTA5) | N/A |
-| 37 | [#EXOCLOCK_D1](http://twitter.com/search?q=%23EXOCLOCK_D1) | N/A |
+| 10 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 11 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 12 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 13 | [Grim](http://twitter.com/search?q=Grim) | N/A |
+| 14 | [HAVE A SAFE FLIGHT JUNGKOOK](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JUNGKOOK) | N/A |
+| 15 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 16 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 17 | [GenG](http://twitter.com/search?q=GenG) | N/A |
+| 18 | [Floral](http://twitter.com/search?q=Floral) | N/A |
+| 19 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 20 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
+| 21 | [London](http://twitter.com/search?q=London) | N/A |
+| 22 | [Biu Biu](http://twitter.com/search?q=Biu+Biu) | N/A |
+| 23 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 24 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 25 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 26 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 27 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 28 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
+| 29 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 30 | [Đang](http://twitter.com/search?q=%c4%90ang) | N/A |
+| 31 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 32 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
+| 33 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
+| 34 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 35 | [#SANTAxGreatdancecrew2](http://twitter.com/search?q=%23SANTAxGreatdancecrew2) | N/A |
+| 36 | [#WelcomebackLeaderSANTAtoGDC2](http://twitter.com/search?q=%23WelcomebackLeaderSANTAtoGDC2) | N/A |
+| 37 | [#ShowmeloveTheseriesEP6](http://twitter.com/search?q=%23ShowmeloveTheseriesEP6) | N/A |
+| 38 | [#BIU100KLUVE](http://twitter.com/search?q=%23BIU100KLUVE) | N/A |
+| 39 | [#BedFriendEP8](http://twitter.com/search?q=%23BedFriendEP8) | N/A |
+| 40 | [#น้องนิวเวลาหม่ํา](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%99%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%a7%e0%b8%a5%e0%b8%b2%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b9%8d%e0%b8%b2) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-04-09 09:17:32 UTC`
+📆 Last Updated: `2023-04-09 10:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [Tanzania](http://twitter.com/search?q=Tanzania) | N/A |
 | 2 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 3 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 4 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 6 | [#WolChe](http://twitter.com/search?q=%23WolChe) | N/A |
-| 7 | [Guptas](http://twitter.com/search?q=Guptas) | N/A |
-| 8 | [#urchannelo](http://twitter.com/search?q=%23urchannelo) | N/A |
-| 9 | [#singleandmingle](http://twitter.com/search?q=%23singleandmingle) | N/A |
-| 10 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 11 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 12 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 13 | [TSATSII X SUNRISERS](http://twitter.com/search?q=TSATSII+X+SUNRISERS) | N/A |
-| 14 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 15 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 16 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 17 | [Naledi Pandor](http://twitter.com/search?q=Naledi+Pandor) | N/A |
-| 18 | [Dove](http://twitter.com/search?q=Dove) | N/A |
-| 19 | [best moments with khosi](http://twitter.com/search?q=best+moments+with+khosi) | N/A |
-| 20 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 21 | [Lamola](http://twitter.com/search?q=Lamola) | N/A |
-| 22 | [Gavin Watson](http://twitter.com/search?q=Gavin+Watson) | N/A |
-| 23 | [Nota](http://twitter.com/search?q=Nota) | N/A |
-| 24 | [Bushiri](http://twitter.com/search?q=Bushiri) | N/A |
-| 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 26 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 3 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 4 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 5 | [#EasterSunday](http://twitter.com/search?q=%23EasterSunday) | N/A |
+| 6 | [#WOLCHE](http://twitter.com/search?q=%23WOLCHE) | N/A |
+| 7 | [#McCafeMotivation](http://twitter.com/search?q=%23McCafeMotivation) | N/A |
+| 8 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 9 | [Guptas](http://twitter.com/search?q=Guptas) | N/A |
+| 10 | [Israel Adesanya](http://twitter.com/search?q=Israel+Adesanya) | N/A |
+| 11 | [Naledi Pandor](http://twitter.com/search?q=Naledi+Pandor) | N/A |
+| 12 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 13 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 14 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 15 | [TSATSII X SUNRISERS](http://twitter.com/search?q=TSATSII+X+SUNRISERS) | N/A |
+| 16 | [KHOSI THE TOPIC](http://twitter.com/search?q=KHOSI+THE+TOPIC) | N/A |
+| 17 | [Resurrection Sunday](http://twitter.com/search?q=Resurrection+Sunday) | N/A |
+| 18 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 19 | [Dove](http://twitter.com/search?q=Dove) | N/A |
+| 20 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 21 | [best moments with khosi](http://twitter.com/search?q=best+moments+with+khosi) | N/A |
+| 22 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 24 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 25 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 26 | [Bushiri](http://twitter.com/search?q=Bushiri) | N/A |
 | 27 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
-| 28 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 30 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 31 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
-| 32 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 33 | [Bonnie](http://twitter.com/search?q=Bonnie) | N/A |
-| 34 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 35 | [Zwane](http://twitter.com/search?q=Zwane) | Zwane is a South African surname derived from the Zulu word for "king". It is also used as a given name. In English, it can be translated to mean "king". |
-| 36 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 37 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
-| 38 | [Wan Bissaka](http://twitter.com/search?q=Wan+Bissaka) | Wan Bissaka is a nickname given to Manchester United footballer Aaron Wan-Bissaka. The name is derived from his surname, which is a combination of his first and last names. In English, it means "One Bissaka". |
-| 39 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
-| 40 | [Berita](http://twitter.com/search?q=Berita) | N/A |
-| 41 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 42 | [Mozambican](http://twitter.com/search?q=Mozambican) | N/A |
-| 43 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 44 | [Mako](http://twitter.com/search?q=Mako) | N/A |
-| 45 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 46 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 47 | [Maart](http://twitter.com/search?q=Maart) | N/A |
-| 48 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 49 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 28 | [Lamola](http://twitter.com/search?q=Lamola) | N/A |
+| 29 | [Nota](http://twitter.com/search?q=Nota) | N/A |
+| 30 | [Gavin Watson](http://twitter.com/search?q=Gavin+Watson) | N/A |
+| 31 | [Dating](http://twitter.com/search?q=Dating) | N/A |
+| 32 | [Stormers](http://twitter.com/search?q=Stormers) | N/A |
+| 33 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 34 | [Mangethe](http://twitter.com/search?q=Mangethe) | N/A |
+| 35 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
+| 36 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 37 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 38 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
+| 39 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 40 | [Arthur Zwane](http://twitter.com/search?q=Arthur+Zwane) | N/A |
+| 41 | [grant williams](http://twitter.com/search?q=grant+williams) | N/A |
+| 42 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
+| 43 | [Bonnie](http://twitter.com/search?q=Bonnie) | N/A |
+| 44 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
+| 45 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 46 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 47 | [Gallants](http://twitter.com/search?q=Gallants) | N/A |
+| 48 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 49 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 
 
 
