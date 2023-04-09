@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bristol
 
-📆 Last Updated: `2023-04-09 12:17:34 UTC`
+📆 Last Updated: `2023-04-09 13:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,46 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#thankyouowlhouse](http://twitter.com/search?q=%23thankyouowlhouse) | N/A |
-| 2 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
-| 5 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 6 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 7 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 8 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
-| 9 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 10 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
-| 11 | [Forshaw](http://twitter.com/search?q=Forshaw) | N/A |
-| 12 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
-| 13 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 14 | [Hibs](http://twitter.com/search?q=Hibs) | Hibs is an abbreviation for Hibernian Football Club, a professional football club based in Edinburgh, Scotland. The club is also known as the Hibees and plays in the Scottish Premiership. |
-| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 16 | [Pasg Hapus](http://twitter.com/search?q=Pasg+Hapus) | N/A |
-| 17 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
-| 18 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 1 | [#امپورٹڈ_حکومت_نامنظور](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%be%d9%88%d8%b1%d9%b9%da%88_%d8%ad%da%a9%d9%88%d9%85%d8%aa_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
+| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 3 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 5 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 6 | [Pasg Hapus](http://twitter.com/search?q=Pasg+Hapus) | N/A |
+| 7 | [Wordle 659 X](http://twitter.com/search?q=Wordle+659+X) | N/A |
+| 8 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 9 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 10 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 12 | [Christ is Risen](http://twitter.com/search?q=Christ+is+Risen) | N/A |
+| 13 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
+| 14 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 15 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 16 | [Alleluia](http://twitter.com/search?q=Alleluia) | N/A |
+| 17 | [Daily Quordle 440](http://twitter.com/search?q=Daily+Quordle+440) | N/A |
+| 18 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
 | 19 | [Myra Hindley](http://twitter.com/search?q=Myra+Hindley) | N/A |
-| 20 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 21 | [Tannadice](http://twitter.com/search?q=Tannadice) | N/A |
-| 22 | [James Corden](http://twitter.com/search?q=James+Corden) | James Corden is an English actor, comedian, writer, and television host. He is best known for hosting The Late Late Show with James Corden on CBS. He has also starred in films such as Into the Woods and Peter Rabbit. |
-| 23 | [AUOB](http://twitter.com/search?q=AUOB) | N/A |
-| 24 | [Wordle](http://twitter.com/search?q=Wordle) | N/A |
-| 25 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 26 | [Liverpool v Arsenal](http://twitter.com/search?q=Liverpool+v+Arsenal) | N/A |
-| 27 | [Attwell](http://twitter.com/search?q=Attwell) | N/A |
-| 28 | [Referees](http://twitter.com/search?q=Referees) | N/A |
-| 29 | [Newham](http://twitter.com/search?q=Newham) | N/A |
-| 30 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
-| 31 | [Alleluia](http://twitter.com/search?q=Alleluia) | N/A |
-| 32 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
-| 33 | [Mary Magdalene](http://twitter.com/search?q=Mary+Magdalene) | N/A |
-| 34 | [Bishops](http://twitter.com/search?q=Bishops) | N/A |
-| 35 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 36 | [Angela Rayner](http://twitter.com/search?q=Angela+Rayner) | N/A |
-| 37 | [Daily Quordle 440](http://twitter.com/search?q=Daily+Quordle+440) | N/A |
-| 38 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 39 | [Dunk](http://twitter.com/search?q=Dunk) | N/A |
-| 40 | [Dundee United](http://twitter.com/search?q=Dundee+United) | N/A |
-| 41 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 42 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 43 | [Thomas Frank](http://twitter.com/search?q=Thomas+Frank) | Thomas Frank is an American political analyst, historian, and journalist. He is the author of several books, including What's the Matter with Kansas? and Listen, Liberal. His work focuses on the intersection of politics and economics in the United States. He is a frequent contributor to The Guardian and Harper's Magazine. |
-| 44 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
-| 45 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 46 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 47 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 48 | [Nuremberg](http://twitter.com/search?q=Nuremberg) | N/A |
-| 49 | [Resurrection](http://twitter.com/search?q=Resurrection) | N/A |
-| 50 | [Corruption](http://twitter.com/search?q=Corruption) | N/A |
+| 20 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 21 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 22 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
+| 23 | [Spurs v Brighton](http://twitter.com/search?q=Spurs+v+Brighton) | N/A |
+| 24 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 25 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 26 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 27 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 28 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 29 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 30 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 31 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
+| 32 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 33 | [Corruption](http://twitter.com/search?q=Corruption) | N/A |
+| 34 | [#ToriesOut276](http://twitter.com/search?q=%23ToriesOut276) | N/A |
+| 35 | [#SocialistSunday](http://twitter.com/search?q=%23SocialistSunday) | N/A |
+| 36 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
+| 37 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 38 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
+| 39 | [#Jesus](http://twitter.com/search?q=%23Jesus) | N/A |
+| 40 | [#GiftBetter](http://twitter.com/search?q=%23GiftBetter) | N/A |
 
 
 

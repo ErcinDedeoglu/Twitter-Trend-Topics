@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumamoto
 
-📆 Last Updated: `2023-04-09 12:17:58 UTC`
+📆 Last Updated: `2023-04-09 13:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ロアッソ熊本](http://twitter.com/search?q=%23%e3%83%ad%e3%82%a2%e3%83%83%e3%82%bd%e7%86%8a%e6%9c%ac) | N/A |
-| 2 | [#逃走中](http://twitter.com/search?q=%23%e9%80%83%e8%b5%b0%e4%b8%ad) | N/A |
-| 3 | [水星の魔女](http://twitter.com/search?q=%e6%b0%b4%e6%98%9f%e3%81%ae%e9%ad%94%e5%a5%b3) | 水星の魔女 (Suisei no Majo) is a Japanese manga series written and illustrated by Fumiko Fumi. It follows the story of a young witch named Suisei who lives in a small village and uses her magical powers to help the people around her. The title translates to "The Witch of Mercury" in English. |
-| 4 | [#イッテQ](http://twitter.com/search?q=%23%e3%82%a4%e3%83%83%e3%83%86Q) | #イッテQ is a Japanese hashtag that translates to "ItteQ" in English. It is used to tag posts related to the Japanese variety show ItteQ, which is hosted by comedian duo Downtown. |
-| 5 | [#鉄腕DASH](http://twitter.com/search?q=%23%e9%89%84%e8%85%95DASH) | #鉄腕DASH is a Japanese manga series written and illustrated by Tetsuo Hara. It follows the story of a young man named Kenshiro, who is the successor to an ancient martial art known as Hokuto Shinken. The title of the series translates to "Iron Arm Dash" in English, referring to Kenshiro's superhuman strength and speed. |
-| 6 | [ZETA](http://twitter.com/search?q=ZETA) | ZETA is the sixth letter of the Greek alphabet. In English, it is pronounced "zee-tah" and has a numerical value of 6. It is often used in mathematics and science to represent various values or constants. |
-| 7 | [全国ランキング](http://twitter.com/search?q=%e5%85%a8%e5%9b%bd%e3%83%a9%e3%83%b3%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
-| 8 | [ジョッキーカメラ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%83%e3%82%ad%e3%83%bc%e3%82%ab%e3%83%a1%e3%83%a9) | N/A |
-| 9 | [当選確実](http://twitter.com/search?q=%e5%bd%93%e9%81%b8%e7%a2%ba%e5%ae%9f) | N/A |
-| 10 | [#せっかくグルメ](http://twitter.com/search?q=%23%e3%81%9b%e3%81%a3%e3%81%8b%e3%81%8f%e3%82%b0%e3%83%ab%e3%83%a1) | #せっかくグルメ is a hashtag used on social media in Japan to share photos and experiences of delicious food. It translates to "Delicious Food, What a Treat!" |
-| 11 | [選挙速報](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e9%80%9f%e5%a0%b1) | N/A |
-| 12 | [スレッタ](http://twitter.com/search?q=%e3%82%b9%e3%83%ac%e3%83%83%e3%82%bf) | スレッタ (sretta) is a type of Japanese folk dance that originated in the Edo period. It is characterized by its fast tempo and lively movements, and is often accompanied by singing and clapping. In English, it is sometimes referred to as "Sretta Dance". |
-| 13 | [JRA公式](http://twitter.com/search?q=JRA%e5%85%ac%e5%bc%8f) | N/A |
-| 14 | [レイソル](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%82%bd%e3%83%ab) | N/A |
-| 15 | [浪川さん](http://twitter.com/search?q=%e6%b5%aa%e5%b7%9d%e3%81%95%e3%82%93) | 浪川さん is a Japanese honorific title used to refer to someone with the surname "Namikawa". It is similar to the English title of "Mr. Namikawa". |
-| 16 | [Depさん](http://twitter.com/search?q=Dep%e3%81%95%e3%82%93) | N/A |
-| 17 | [MyGO](http://twitter.com/search?q=MyGO) | N/A |
-| 18 | [crowさん](http://twitter.com/search?q=crow%e3%81%95%e3%82%93) | N/A |
-| 19 | [Depマン](http://twitter.com/search?q=Dep%e3%83%9e%e3%83%b3) | N/A |
-| 20 | [ちょびちゃん](http://twitter.com/search?q=%e3%81%a1%e3%82%87%e3%81%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 21 | [わけほー](http://twitter.com/search?q=%e3%82%8f%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
-| 22 | [奈良県知事](http://twitter.com/search?q=%e5%a5%88%e8%89%af%e7%9c%8c%e7%9f%a5%e4%ba%8b) | N/A |
-| 23 | [開票速報](http://twitter.com/search?q=%e9%96%8b%e7%a5%a8%e9%80%9f%e5%a0%b1) | N/A |
-| 24 | [保守分裂](http://twitter.com/search?q=%e4%bf%9d%e5%ae%88%e5%88%86%e8%a3%82) | N/A |
-| 25 | [ガンダム](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0) | ガンダム is a Japanese media franchise created by Sunrise that features giant robots (mecha) with the name "Gundam". The franchise began on April 7, 1979, with the release of Mobile Suit Gundam, a TV series that defined the "real robot" mecha anime genre by featuring giant robots called mobile suits in a militaristic setting. The term "Gundam" is used to refer to both the mecha and their pilots. In English, Gundam can be translated as "armored warrior". |
-| 26 | [中岡可哀想](http://twitter.com/search?q=%e4%b8%ad%e5%b2%a1%e5%8f%af%e5%93%80%e6%83%b3) | N/A |
-| 27 | [キラーキューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a9%e3%83%bc%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
-| 28 | [中岡さん](http://twitter.com/search?q=%e4%b8%ad%e5%b2%a1%e3%81%95%e3%82%93) | N/A |
-| 29 | [リバティアイランド](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 30 | [引き分け](http://twitter.com/search?q=%e5%bc%95%e3%81%8d%e5%88%86%e3%81%91) | N/A |
-| 31 | [やしきず優勝](http://twitter.com/search?q=%e3%82%84%e3%81%97%e3%81%8d%e3%81%9a%e5%84%aa%e5%8b%9d) | N/A |
-| 32 | [グエルくん](http://twitter.com/search?q=%e3%82%b0%e3%82%a8%e3%83%ab%e3%81%8f%e3%82%93) | グエルくん is a character from the Japanese manga series, Gakuen Babysitters. He is a baby who is taken care of by the main characters, Ryuuichi and Kotarou. His name means "little squirrel" in Japanese. |
-| 33 | [TENNN](http://twitter.com/search?q=TENNN) | N/A |
-| 34 | [出口調査](http://twitter.com/search?q=%e5%87%ba%e5%8f%a3%e8%aa%bf%e6%9f%bb) | N/A |
-| 35 | [ゼロ打ち](http://twitter.com/search?q=%e3%82%bc%e3%83%ad%e6%89%93%e3%81%a1) | N/A |
-| 36 | [ギャビン](http://twitter.com/search?q=%e3%82%ae%e3%83%a3%e3%83%93%e3%83%b3) | N/A |
-| 37 | [イースター](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 38 | [大阪ダブル選](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e3%83%80%e3%83%96%e3%83%ab%e9%81%b8) | N/A |
-| 39 | [ハスキー](http://twitter.com/search?q=%e3%83%8f%e3%82%b9%e3%82%ad%e3%83%bc) | N/A |
-| 40 | [選挙特番](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e7%89%b9%e7%95%aa) | N/A |
-| 41 | [復活カード](http://twitter.com/search?q=%e5%be%a9%e6%b4%bb%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
-| 42 | [クワイエットゼロ](http://twitter.com/search?q=%e3%82%af%e3%83%af%e3%82%a4%e3%82%a8%e3%83%83%e3%83%88%e3%82%bc%e3%83%ad) | N/A |
-| 43 | [ミオリネ](http://twitter.com/search?q=%e3%83%9f%e3%82%aa%e3%83%aa%e3%83%8d) | ミオリネ is a Japanese word that means "to be in love". It is used to describe the feeling of being deeply in love with someone. |
-| 44 | [黒岩さん](http://twitter.com/search?q=%e9%bb%92%e5%b2%a9%e3%81%95%e3%82%93) | N/A |
-| 45 | [帰巣本能](http://twitter.com/search?q=%e5%b8%b0%e5%b7%a3%e6%9c%ac%e8%83%bd) | N/A |
-| 46 | [黒岩祐治氏](http://twitter.com/search?q=%e9%bb%92%e5%b2%a9%e7%a5%90%e6%b2%bb%e6%b0%8f) | N/A |
-| 47 | [パルクールハンター](http://twitter.com/search?q=%e3%83%91%e3%83%ab%e3%82%af%e3%83%bc%e3%83%ab%e3%83%8f%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
-| 48 | [川田将雅騎手](http://twitter.com/search?q=%e5%b7%9d%e7%94%b0%e5%b0%86%e9%9b%85%e9%a8%8e%e6%89%8b) | N/A |
-| 49 | [強制送還](http://twitter.com/search?q=%e5%bc%b7%e5%88%b6%e9%80%81%e9%82%84) | N/A |
-| 50 | [大阪府民](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e5%ba%9c%e6%b0%91) | N/A |
+| 2 | [#水星の魔女](http://twitter.com/search?q=%23%e6%b0%b4%e6%98%9f%e3%81%ae%e9%ad%94%e5%a5%b3) | #水星の魔女 is a Japanese phrase that translates to "The Witch of Mercury". It is a reference to the planet Mercury, which is associated with witchcraft and magic in many cultures. |
+| 3 | [リバティアイランド](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 4 | [スレッタ](http://twitter.com/search?q=%e3%82%b9%e3%83%ac%e3%83%83%e3%82%bf) | スレッタ (sretta) is a type of Japanese folk dance that originated in the Edo period. It is characterized by its fast tempo and lively movements, and is often accompanied by singing and clapping. In English, it is sometimes referred to as "Sretta Dance". |
+| 5 | [グエルくん](http://twitter.com/search?q=%e3%82%b0%e3%82%a8%e3%83%ab%e3%81%8f%e3%82%93) | グエルくん is a character from the Japanese manga series, Gakuen Babysitters. He is a baby who is taken care of by the main characters, Ryuuichi and Kotarou. His name means "little squirrel" in Japanese. |
+| 6 | [コナコースト](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%82%b3%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
+| 7 | [#桜花賞](http://twitter.com/search?q=%23%e6%a1%9c%e8%8a%b1%e8%b3%9e) | N/A |
+| 8 | [ガンダム](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0) | ガンダム is a Japanese media franchise created by Sunrise that features giant robots (mecha) with the name "Gundam". The franchise began on April 7, 1979, with the release of Mobile Suit Gundam, a TV series that defined the "real robot" mecha anime genre by featuring giant robots called mobile suits in a militaristic setting. The term "Gundam" is used to refer to both the mecha and their pilots. In English, Gundam can be translated as "armored warrior". |
+| 9 | [#G_Witch](http://twitter.com/search?q=%23G_Witch) | #G_Witch is a hashtag used on social media to refer to the popular Japanese manga and anime series, Puella Magi Madoka Magica. The hashtag is used to discuss the series, share fan art, and celebrate its characters. In English, it translates to "Magical Girl Witch". |
+| 10 | [ペリファーニア](http://twitter.com/search?q=%e3%83%9a%e3%83%aa%e3%83%95%e3%82%a1%e3%83%bc%e3%83%8b%e3%82%a2) | ペリファーニア (Perifaniya) is a Japanese term for a person who is knowledgeable about a wide range of topics. It is derived from the Greek word "periphanes" which means "all-knowing". In English, it can be translated as "polymath" or "renaissance man/woman". |
+| 11 | [オークス](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%af%e3%82%b9) | N/A |
+| 12 | [ミオリネ](http://twitter.com/search?q=%e3%83%9f%e3%82%aa%e3%83%aa%e3%83%8d) | ミオリネ is a Japanese word that means "to be in love". It is used to describe the feeling of being deeply in love with someone. |
+| 13 | [マルタン](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%bf%e3%83%b3) | N/A |
+| 14 | [シャディク](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%87%e3%82%a3%e3%82%af) | シャディク is a Japanese word that means "shady" or "suspicious". It is often used to describe someone or something that appears to be untrustworthy or dishonest. |
+| 15 | [クワイエットゼロ](http://twitter.com/search?q=%e3%82%af%e3%83%af%e3%82%a4%e3%82%a8%e3%83%83%e3%83%88%e3%82%bc%e3%83%ad) | N/A |
+| 16 | [ハープスター](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%97%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 17 | [エアリアル](http://twitter.com/search?q=%e3%82%a8%e3%82%a2%e3%83%aa%e3%82%a2%e3%83%ab) | エアリアル (Eariaru) is a Japanese word that means "airy" or "ethereal". It is often used to describe something that has a light, airy, or dreamlike quality. |
+| 18 | [#虎バン](http://twitter.com/search?q=%23%e8%99%8e%e3%83%90%e3%83%b3) | N/A |
+| 19 | [エランくん](http://twitter.com/search?q=%e3%82%a8%e3%83%a9%e3%83%b3%e3%81%8f%e3%82%93) | N/A |
+| 20 | [ドゥアイズ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%82%a2%e3%82%a4%e3%82%ba) | N/A |
+| 21 | [ダリルバルデ](http://twitter.com/search?q=%e3%83%80%e3%83%aa%e3%83%ab%e3%83%90%e3%83%ab%e3%83%87) | N/A |
+| 22 | [ライトクオンタム](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%88%e3%82%af%e3%82%aa%e3%83%b3%e3%82%bf%e3%83%a0) | ライトクオンタム (Raito Kuontamu) is a Japanese light novel series written by Kōhei Azano and illustrated by Tsunako. It follows the story of a group of high school students who are chosen to become "Light Quantum" and use their special powers to protect the world from evil forces. The title translates to "Light Quantum" in English. |
+| 23 | [ファラクト](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%a9%e3%82%af%e3%83%88) | N/A |
+| 24 | [セカンド松田](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%83%b3%e3%83%89%e6%9d%be%e7%94%b0) | N/A |
+| 25 | [地球の魔女](http://twitter.com/search?q=%e5%9c%b0%e7%90%83%e3%81%ae%e9%ad%94%e5%a5%b3) | 地球の魔女 (Chikyuu no Majo) is a Japanese manga series written and illustrated by Yumiko Oshima. It follows the story of a young witch named Kaya who lives on Earth and uses her magical powers to help people in need. The title translates to "Earth Witch" in English. |
+| 26 | [グエル先輩](http://twitter.com/search?q=%e3%82%b0%e3%82%a8%e3%83%ab%e5%85%88%e8%bc%a9) | グエル先輩 (Guel Senpai) is a Japanese term used to refer to someone who is more experienced or knowledgeable than oneself. It is often used in the context of a mentor or teacher. In English, it could be translated as "Senior Guel" or "Guel the Mentor". |
+| 27 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
+| 28 | [ノイジー](http://twitter.com/search?q=%e3%83%8e%e3%82%a4%e3%82%b8%e3%83%bc) | N/A |
+| 29 | [ファンファーレ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%83%95%e3%82%a1%e3%83%bc%e3%83%ac) | ファンファーレ is a type of fanfare, which is a short musical piece that is usually played to announce the arrival of an important person or to mark a special occasion. In English, it can be translated as "fanfare". |
+| 30 | [ドゥラメンテ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%a9%e3%83%a1%e3%83%b3%e3%83%86) | N/A |
+| 31 | [ハーパー](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%91%e3%83%bc) | N/A |
+| 32 | [ターシャ](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%82%b7%e3%83%a3) | ターシャ is a Japanese female given name. It is derived from the English name Tasha, which is a diminutive of Natasha. In English, it can be translated to mean "born on Christmas Day". |
+| 33 | [ダービー](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
+| 34 | [わけほー](http://twitter.com/search?q=%e3%82%8f%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
+| 35 | [シンリョクカ](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%aa%e3%83%a7%e3%82%af%e3%82%ab) | N/A |
+| 36 | [天月さん](http://twitter.com/search?q=%e5%a4%a9%e6%9c%88%e3%81%95%e3%82%93) | N/A |
+| 37 | [引き分け](http://twitter.com/search?q=%e5%bc%95%e3%81%8d%e5%88%86%e3%81%91) | N/A |
+| 38 | [ウェンデルケン](http://twitter.com/search?q=%e3%82%a6%e3%82%a7%e3%83%b3%e3%83%87%e3%83%ab%e3%82%b1%e3%83%b3) | N/A |
+| 39 | [才木くん](http://twitter.com/search?q=%e6%89%8d%e6%9c%a8%e3%81%8f%e3%82%93) | N/A |
+| 40 | [エラン5号](http://twitter.com/search?q=%e3%82%a8%e3%83%a9%e3%83%b35%e5%8f%b7) | N/A |
+| 41 | [アラーノ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%83%bc%e3%83%8e) | N/A |
+| 42 | [暴力マシーン](http://twitter.com/search?q=%e6%9a%b4%e5%8a%9b%e3%83%9e%e3%82%b7%e3%83%bc%e3%83%b3) | N/A |
+| 43 | [オフサイド](http://twitter.com/search?q=%e3%82%aa%e3%83%95%e3%82%b5%e3%82%a4%e3%83%89) | オフサイド (Offside) is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field, or closer to the goal line than both the ball and the second-to-last defender, when the ball is passed to them. In English, it is referred to as "offside". |
+| 44 | [モズメイメイ](http://twitter.com/search?q=%e3%83%a2%e3%82%ba%e3%83%a1%e3%82%a4%e3%83%a1%e3%82%a4) | N/A |
+| 45 | [ミオミオ](http://twitter.com/search?q=%e3%83%9f%e3%82%aa%e3%83%9f%e3%82%aa) | ミオミオ is an onomatopoeia in Japanese that is used to describe the sound of something small and light, such as a tiny bell or a light tapping sound. In English, it could be translated as "ting-a-ling" or "tinkle". |
+| 46 | [フロンターレ](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%ac) | N/A |
+| 47 | [メスガキ](http://twitter.com/search?q=%e3%83%a1%e3%82%b9%e3%82%ac%e3%82%ad) | N/A |
+| 48 | [金村くん](http://twitter.com/search?q=%e9%87%91%e6%9d%91%e3%81%8f%e3%82%93) | N/A |
+| 49 | [サトテル](http://twitter.com/search?q=%e3%82%b5%e3%83%88%e3%83%86%e3%83%ab) | サトテル is a Japanese word that means "to be satisfied". It is often used to express contentment or satisfaction with something. |
+| 50 | [ラウダくん](http://twitter.com/search?q=%e3%83%a9%e3%82%a6%e3%83%80%e3%81%8f%e3%82%93) | N/A |
 
 
 

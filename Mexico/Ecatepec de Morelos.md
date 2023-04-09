@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecatepec de Morelos
 
-📆 Last Updated: `2023-04-09 12:17:38 UTC`
+📆 Last Updated: `2023-04-09 13:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 1 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 2 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 3 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 4 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 5 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 6 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 8 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 9 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 10 | [#SabadoDeGloria](http://twitter.com/search?q=%23SabadoDeGloria) | N/A |
-| 11 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 12 | [#LaMañaneraNoSeToca](http://twitter.com/search?q=%23LaMa%c3%b1aneraNoSeToca) | N/A |
-| 13 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 14 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 15 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 16 | [Joao](http://twitter.com/search?q=Joao) | N/A |
-| 17 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 18 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
-| 19 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
-| 20 | [layun](http://twitter.com/search?q=layun) | N/A |
-| 21 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 22 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 23 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 24 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
-| 25 | [Tay y Joe](http://twitter.com/search?q=Tay+y+Joe) | N/A |
-| 26 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 27 | [Duvan](http://twitter.com/search?q=Duvan) | N/A |
-| 28 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
-| 29 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 30 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 31 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 32 | [maxi](http://twitter.com/search?q=maxi) | Maxi is an adjective used to describe a long, loose-fitting garment or dress. It is typically ankle-length or longer and often has a slit up the side. The term is also used to describe a style of skirt that falls below the knee. |
-| 33 | [Papel](http://twitter.com/search?q=Papel) | N/A |
-| 34 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
-| 35 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 36 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
-| 37 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
-| 38 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 39 | [Cáceres](http://twitter.com/search?q=C%c3%a1ceres) | Cáceres is a city in western Spain, located in the autonomous community of Extremadura. It is the capital of the province of Cáceres. The city has a rich historical and cultural heritage, and is known for its monuments, which date back to Roman, Moorish and Christian times. In English, Cáceres means "fortress". |
-| 40 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 41 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 3 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 4 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 5 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 7 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 8 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
+| 9 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 10 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
+| 11 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 12 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
+| 13 | [Joao](http://twitter.com/search?q=Joao) | N/A |
+| 14 | [#InkigayoMCHyungwon](http://twitter.com/search?q=%23InkigayoMCHyungwon) | N/A |
+| 15 | [Vuce](http://twitter.com/search?q=Vuce) | N/A |
+| 16 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 17 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 18 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
+| 19 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 20 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
+| 21 | [Mochis](http://twitter.com/search?q=Mochis) | N/A |
+| 22 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 23 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 24 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 25 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
+| 26 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 27 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 28 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 29 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 30 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 31 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 32 | [Raúl Pérez](http://twitter.com/search?q=Ra%c3%bal+P%c3%a9rez) | N/A |
+| 33 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 34 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 35 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 36 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 37 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 38 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 39 | [Penal](http://twitter.com/search?q=Penal) | N/A |
+| 40 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 41 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
 | 42 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 43 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 44 | [Vuce](http://twitter.com/search?q=Vuce) | N/A |
-| 45 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 46 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
-| 47 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 48 | [Creel](http://twitter.com/search?q=Creel) | N/A |
-| 49 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 50 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 43 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
+| 44 | [TUDN](http://twitter.com/search?q=TUDN) | N/A |
+| 45 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 46 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 47 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 48 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 49 | [Papel](http://twitter.com/search?q=Papel) | N/A |
+| 50 | [Cabecita](http://twitter.com/search?q=Cabecita) | N/A |
 
 
 

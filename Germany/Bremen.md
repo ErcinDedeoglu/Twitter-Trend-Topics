@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-04-09 12:17:49 UTC`
+📆 Last Updated: `2023-04-09 13:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,30 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 2 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
-| 5 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
-| 6 | [#DSCF95](http://twitter.com/search?q=%23DSCF95) | N/A |
-| 7 | [Eier](http://twitter.com/search?q=Eier) | N/A |
-| 8 | [Eier](http://twitter.com/search?q=Eier) | N/A |
-| 9 | [#SVDSCP](http://twitter.com/search?q=%23SVDSCP) | N/A |
-| 10 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
-| 11 | [#Rothenburgsort](http://twitter.com/search?q=%23Rothenburgsort) | N/A |
-| 12 | [Totales Durcheinander](http://twitter.com/search?q=Totales+Durcheinander) | N/A |
-| 13 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
-| 14 | [Ebenfalls](http://twitter.com/search?q=Ebenfalls) | N/A |
-| 15 | [Ostergrüße](http://twitter.com/search?q=Ostergr%c3%bc%c3%9fe) | N/A |
-| 16 | [Pakete](http://twitter.com/search?q=Pakete) | N/A |
-| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 18 | [Liebsten](http://twitter.com/search?q=Liebsten) | N/A |
-| 19 | [Gleichfalls](http://twitter.com/search?q=Gleichfalls) | N/A |
-| 20 | [Schicht](http://twitter.com/search?q=Schicht) | N/A |
-| 21 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
-| 22 | [Auferstehung](http://twitter.com/search?q=Auferstehung) | N/A |
-| 23 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 24 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
-| 25 | [#TSGS04](http://twitter.com/search?q=%23TSGS04) | N/A |
+| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 3 | [#SCFFCB](http://twitter.com/search?q=%23SCFFCB) | N/A |
+| 4 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
+| 5 | [Totales Durcheinander](http://twitter.com/search?q=Totales+Durcheinander) | N/A |
+| 6 | [#BVBFCU](http://twitter.com/search?q=%23BVBFCU) | N/A |
+| 7 | [#fchfcsp](http://twitter.com/search?q=%23fchfcsp) | N/A |
+| 8 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 9 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 10 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 11 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 12 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
+| 13 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 14 | [Großbrand in Hamburg](http://twitter.com/search?q=Gro%c3%9fbrand+in+Hamburg) | N/A |
+| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 16 | [Heil](http://twitter.com/search?q=Heil) | N/A |
+| 17 | [Gleichfalls](http://twitter.com/search?q=Gleichfalls) | N/A |
+| 18 | [Genießt den Tag](http://twitter.com/search?q=Genie%c3%9ft+den+Tag) | N/A |
+| 19 | [Liebsten](http://twitter.com/search?q=Liebsten) | N/A |
+| 20 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 21 | [Rauchwolke](http://twitter.com/search?q=Rauchwolke) | N/A |
+| 22 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
+| 23 | [Dir und Deinen Lieben](http://twitter.com/search?q=Dir+und+Deinen+Lieben) | N/A |
+| 24 | [Lieben Dank](http://twitter.com/search?q=Lieben+Dank) | N/A |
+| 25 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
+| 26 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 27 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 28 | [Zuversicht](http://twitter.com/search?q=Zuversicht) | N/A |
+| 29 | [Häschen](http://twitter.com/search?q=H%c3%a4schen) | N/A |
+| 30 | [Heike](http://twitter.com/search?q=Heike) | N/A |
+| 31 | [Schwarzer](http://twitter.com/search?q=Schwarzer) | N/A |
+| 32 | [Benjamin Ferencz](http://twitter.com/search?q=Benjamin+Ferencz) | N/A |
+| 33 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 34 | [Wünsche Euch](http://twitter.com/search?q=W%c3%bcnsche+Euch) | N/A |
+| 35 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
+| 36 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 37 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 38 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 39 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
+| 40 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 41 | [Stimmung im Land](http://twitter.com/search?q=Stimmung+im+Land) | N/A |
+| 42 | [Wunderschönen](http://twitter.com/search?q=Wundersch%c3%b6nen) | N/A |
+| 43 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 44 | [DE LIGT](http://twitter.com/search?q=DE+LIGT) | N/A |
+| 45 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
+| 46 | [Zeit mit der Familie](http://twitter.com/search?q=Zeit+mit+der+Familie) | N/A |
+| 47 | [leitl](http://twitter.com/search?q=leitl) | N/A |
+| 48 | [Reparatur am Zug](http://twitter.com/search?q=Reparatur+am+Zug) | N/A |
+| 49 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
 
 
 

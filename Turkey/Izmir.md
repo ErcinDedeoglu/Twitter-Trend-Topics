@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-04-09 12:18:16 UTC`
+📆 Last Updated: `2023-04-09 13:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,45 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Yerli Üretim](http://twitter.com/search?q=Yerli+%c3%9cretim) | N/A |
-| 2 | [ŞartsızTayin 4ilinÖğretmenine](http://twitter.com/search?q=%c5%9earts%c4%b1zTayin+4ilin%c3%96%c4%9fretmenine) | N/A |
-| 3 | [Büyük Değişim](http://twitter.com/search?q=B%c3%bcy%c3%bck+De%c4%9fi%c5%9fim) | N/A |
-| 4 | [XproToken Community](http://twitter.com/search?q=XproToken+Community) | N/A |
-| 5 | [MebNisanda4İle ŞartsızTayin](http://twitter.com/search?q=MebNisanda4%c4%b0le+%c5%9earts%c4%b1zTayin) | N/A |
-| 6 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
-| 7 | [#Pazar](http://twitter.com/search?q=%23Pazar) | N/A |
-| 8 | [Bölge 1](http://twitter.com/search?q=B%c3%b6lge+1) | N/A |
-| 9 | [Şaban](http://twitter.com/search?q=%c5%9eaban) | Şaban is a Turkish male name, derived from the Arabic name Sabban. It means "lion" or "brave". |
-| 10 | [İMECE](http://twitter.com/search?q=%c4%b0MECE) | N/A |
-| 11 | [Eren Erdem](http://twitter.com/search?q=Eren+Erdem) | N/A |
-| 12 | [İzmir 1](http://twitter.com/search?q=%c4%b0zmir+1) | N/A |
-| 13 | [Can Atalay](http://twitter.com/search?q=Can+Atalay) | N/A |
-| 14 | [CHP'ye](http://twitter.com/search?q=CHP%27ye) | N/A |
-| 15 | [#yüzdeyüz](http://twitter.com/search?q=%23y%c3%bczdey%c3%bcz) | N/A |
-| 16 | [#listeler](http://twitter.com/search?q=%23listeler) | N/A |
-| 17 | [#depremzedestajmağduru](http://twitter.com/search?q=%23depremzedestajma%c4%9fduru) | N/A |
-| 18 | [Çankaya](http://twitter.com/search?q=%c3%87ankaya) | N/A |
-| 19 | [Yüksel Taşkın](http://twitter.com/search?q=Y%c3%bcksel+Ta%c5%9fk%c4%b1n) | N/A |
-| 20 | [SağlıkYönetimi YoksaOyYok](http://twitter.com/search?q=Sa%c4%9fl%c4%b1kY%c3%b6netimi+YoksaOyYok) | N/A |
-| 21 | [Sezgin Tanrıkulu](http://twitter.com/search?q=Sezgin+Tanr%c4%b1kulu) | N/A |
-| 22 | [Kemal Özkiraz](http://twitter.com/search?q=Kemal+%c3%96zkiraz) | N/A |
-| 23 | [11 Nisan'da](http://twitter.com/search?q=11+Nisan%27da) | N/A |
-| 24 | [#MemleketPartisi](http://twitter.com/search?q=%23MemleketPartisi) | N/A |
-| 25 | [Barış Yarkadaş](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Yarkada%c5%9f) | N/A |
-| 26 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 27 | [İstanbul 1](http://twitter.com/search?q=%c4%b0stanbul+1) | N/A |
-| 28 | [Bolu](http://twitter.com/search?q=Bolu) | N/A |
-| 29 | [AK Parti](http://twitter.com/search?q=AK+Parti) | N/A |
-| 30 | [Ergenekon](http://twitter.com/search?q=Ergenekon) | N/A |
-| 31 | [Tıpış](http://twitter.com/search?q=T%c4%b1p%c4%b1%c5%9f) | N/A |
-| 32 | [Ankara 1](http://twitter.com/search?q=Ankara+1) | N/A |
-| 33 | [Gürsel Tekin](http://twitter.com/search?q=G%c3%bcrsel+Tekin) | N/A |
-| 34 | [Türkan Elçi](http://twitter.com/search?q=T%c3%bcrkan+El%c3%a7i) | N/A |
-| 35 | [İttifak](http://twitter.com/search?q=%c4%b0ttifak) | N/A |
-| 36 | [Milletvekili](http://twitter.com/search?q=Milletvekili) | N/A |
-| 37 | [Taner Yıldız](http://twitter.com/search?q=Taner+Y%c4%b1ld%c4%b1z) | N/A |
-| 38 | [Paskalya](http://twitter.com/search?q=Paskalya) | N/A |
-| 39 | [YİYİN BİRBİRİNİZİ](http://twitter.com/search?q=Y%c4%b0Y%c4%b0N+B%c4%b0RB%c4%b0R%c4%b0N%c4%b0Z%c4%b0) | N/A |
-| 40 | [Hacer Foggo](http://twitter.com/search?q=Hacer+Foggo) | N/A |
-| 41 | [Erzincan](http://twitter.com/search?q=Erzincan) | N/A |
-| 42 | [Deva](http://twitter.com/search?q=Deva) | N/A |
-| 43 | [Fatma Yavuz](http://twitter.com/search?q=Fatma+Yavuz) | N/A |
-| 44 | [Savcı Sayan](http://twitter.com/search?q=Savc%c4%b1+Sayan) | N/A |
-| 45 | [İrem Yaman](http://twitter.com/search?q=%c4%b0rem+Yaman) | N/A |
-| 46 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
-| 47 | [Taraf](http://twitter.com/search?q=Taraf) | N/A |
-| 48 | [CHP İzmir](http://twitter.com/search?q=CHP+%c4%b0zmir) | N/A |
-| 49 | [Mustafa Sarıgül](http://twitter.com/search?q=Mustafa+Sar%c4%b1g%c3%bcl) | N/A |
-| 50 | [İlgezdi](http://twitter.com/search?q=%c4%b0lgezdi) | N/A |
+| 1 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
+| 2 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
+| 3 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
+| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 5 | [#urfa](http://twitter.com/search?q=%23urfa) | N/A |
+| 6 | [Kemal Özkiraz](http://twitter.com/search?q=Kemal+%c3%96zkiraz) | N/A |
+| 7 | [Türkan Elçi](http://twitter.com/search?q=T%c3%bcrkan+El%c3%a7i) | N/A |
+| 8 | [#StajyerÇırakMilletle](http://twitter.com/search?q=%23Stajyer%c3%87%c4%b1rakMilletle) | N/A |
+| 9 | [#Paskalya](http://twitter.com/search?q=%23Paskalya) | N/A |
+| 10 | [Sezgin Tanrıkulu](http://twitter.com/search?q=Sezgin+Tanr%c4%b1kulu) | N/A |
+| 11 | [Taner Yıldız](http://twitter.com/search?q=Taner+Y%c4%b1ld%c4%b1z) | N/A |
+| 12 | [Eren Erdem](http://twitter.com/search?q=Eren+Erdem) | N/A |
+| 13 | [Aytun](http://twitter.com/search?q=Aytun) | N/A |
+| 14 | [Listeler](http://twitter.com/search?q=Listeler) | N/A |
+| 15 | [Tuncay Özkan](http://twitter.com/search?q=Tuncay+%c3%96zkan) | N/A |
+| 16 | [Ankara 1](http://twitter.com/search?q=Ankara+1) | N/A |
+| 17 | [Bayramınız](http://twitter.com/search?q=Bayram%c4%b1n%c4%b1z) | N/A |
+| 18 | [İstanbul 1](http://twitter.com/search?q=%c4%b0stanbul+1) | N/A |
+| 19 | [Mustafa Sarıgül](http://twitter.com/search?q=Mustafa+Sar%c4%b1g%c3%bcl) | N/A |
+| 20 | [CHP Parti Meclisi](http://twitter.com/search?q=CHP+Parti+Meclisi) | N/A |
+| 21 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
+| 22 | [YSK'ya](http://twitter.com/search?q=YSK%27ya) | N/A |
+| 23 | [Gelecek Partisi](http://twitter.com/search?q=Gelecek+Partisi) | N/A |
+| 24 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
+| 25 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 26 | [Ergenekon](http://twitter.com/search?q=Ergenekon) | N/A |
+| 27 | [Tıpış](http://twitter.com/search?q=T%c4%b1p%c4%b1%c5%9f) | N/A |
+| 28 | [Cemal](http://twitter.com/search?q=Cemal) | N/A |
+| 29 | [Dilek](http://twitter.com/search?q=Dilek) | N/A |
+| 30 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 31 | [Oyumu](http://twitter.com/search?q=Oyumu) | N/A |
+| 32 | [Koltuk](http://twitter.com/search?q=Koltuk) | N/A |
+| 33 | [CHP'de](http://twitter.com/search?q=CHP%27de) | N/A |
+| 34 | [Buket Aydın](http://twitter.com/search?q=Buket+Ayd%c4%b1n) | N/A |
+| 35 | [#BJKvGRS](http://twitter.com/search?q=%23BJKvGRS) | N/A |
+| 36 | [#kavga](http://twitter.com/search?q=%23kavga) | N/A |
+| 37 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 38 | [#Haftasonu](http://twitter.com/search?q=%23Haftasonu) | N/A |
+| 39 | [#TGRTFutbol](http://twitter.com/search?q=%23TGRTFutbol) | N/A |
 
 
 
