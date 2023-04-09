@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-04-09 05:16:47 UTC`
+📆 Last Updated: `2023-04-09 06:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Enayi Muammer](http://twitter.com/search?q=Enayi+Muammer) | N/A |
-| 2 | [#Pazar](http://twitter.com/search?q=%23Pazar) | N/A |
+| 2 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
 | 3 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 4 | [#SüleymanÇakır](http://twitter.com/search?q=%23S%c3%bcleyman%c3%87ak%c4%b1r) | N/A |
 | 5 | [token xproject](http://twitter.com/search?q=token+xproject) | N/A |
@@ -26,45 +26,45 @@ This is top 50 for [Turkey](</Turkey>)
 | 9 | [Buket](http://twitter.com/search?q=Buket) | N/A |
 | 10 | [SON KARARIM ERDOĞAN](http://twitter.com/search?q=SON+KARARIM+ERDO%c4%9eAN) | N/A |
 | 11 | [sondurak adanakitabı](http://twitter.com/search?q=sondurak+adanakitab%c4%b1) | N/A |
-| 12 | [remzi çayır](http://twitter.com/search?q=remzi+%c3%a7ay%c4%b1r) | N/A |
-| 13 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
-| 14 | [memuröğrterbakançözer](http://twitter.com/search?q=memur%c3%b6%c4%9frterbakan%c3%a7%c3%b6zer) | N/A |
-| 15 | [belediye iade](http://twitter.com/search?q=belediye+iade) | N/A |
-| 16 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
-| 17 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
-| 18 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 12 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 13 | [remzi çayır](http://twitter.com/search?q=remzi+%c3%a7ay%c4%b1r) | N/A |
+| 14 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 15 | [memuröğrterbakançözer](http://twitter.com/search?q=memur%c3%b6%c4%9frterbakan%c3%a7%c3%b6zer) | N/A |
+| 16 | [belediye iade](http://twitter.com/search?q=belediye+iade) | N/A |
+| 17 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
+| 18 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
 | 19 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 20 | [Tüpçü](http://twitter.com/search?q=T%c3%bcp%c3%a7%c3%bc) | N/A |
-| 21 | [Yaşasın Atatürk](http://twitter.com/search?q=Ya%c5%9fas%c4%b1n+Atat%c3%bcrk) | N/A |
-| 22 | [CHP Parti Meclisi](http://twitter.com/search?q=CHP+Parti+Meclisi) | N/A |
-| 23 | [Baraj Altında](http://twitter.com/search?q=Baraj+Alt%c4%b1nda) | N/A |
+| 20 | [CHP Parti Meclisi](http://twitter.com/search?q=CHP+Parti+Meclisi) | N/A |
+| 21 | [Tüpçü](http://twitter.com/search?q=T%c3%bcp%c3%a7%c3%bc) | N/A |
+| 22 | [Baraj Altında](http://twitter.com/search?q=Baraj+Alt%c4%b1nda) | N/A |
+| 23 | [Yaşasın Atatürk](http://twitter.com/search?q=Ya%c5%9fas%c4%b1n+Atat%c3%bcrk) | N/A |
 | 24 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
-| 25 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 26 | [haliskahrimanvekilimizolsun](http://twitter.com/search?q=haliskahrimanvekilimizolsun) | N/A |
-| 27 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 25 | [haliskahrimanvekilimizolsun](http://twitter.com/search?q=haliskahrimanvekilimizolsun) | N/A |
+| 26 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 27 | [Kolundaki](http://twitter.com/search?q=Kolundaki) | N/A |
 | 28 | [Pire](http://twitter.com/search?q=Pire) | N/A |
-| 29 | [CHP PM](http://twitter.com/search?q=CHP+PM) | N/A |
-| 30 | [Kolundaki](http://twitter.com/search?q=Kolundaki) | N/A |
-| 31 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
-| 32 | [Kredi](http://twitter.com/search?q=Kredi) | N/A |
-| 33 | [Kayaşehir Metro Hattı](http://twitter.com/search?q=Kaya%c5%9fehir+Metro+Hatt%c4%b1) | N/A |
-| 34 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 35 | [Melih](http://twitter.com/search?q=Melih) | N/A |
-| 36 | [vefatının 19](http://twitter.com/search?q=vefat%c4%b1n%c4%b1n+19) | N/A |
-| 37 | [yerli üretim](http://twitter.com/search?q=yerli+%c3%bcretim) | N/A |
-| 38 | [Bay Kemal Gelecek](http://twitter.com/search?q=Bay+Kemal+Gelecek) | N/A |
-| 39 | [Tuncay Özkan](http://twitter.com/search?q=Tuncay+%c3%96zkan) | N/A |
-| 40 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
-| 41 | [MustafaÇiftçiye AcilTahliye](http://twitter.com/search?q=Mustafa%c3%87ift%c3%a7iye+AcilTahliye) | N/A |
-| 42 | [baykemal 35yaşınumudu](http://twitter.com/search?q=baykemal+35ya%c5%9f%c4%b1numudu) | N/A |
-| 43 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 44 | [Zekai Tunca](http://twitter.com/search?q=Zekai+Tunca) | N/A |
-| 45 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 46 | [Millet İttifakı 18](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1+18) | N/A |
-| 47 | [Yesinler](http://twitter.com/search?q=Yesinler) | N/A |
-| 48 | [AFyoksa ReydeYok](http://twitter.com/search?q=AFyoksa+ReydeYok) | N/A |
-| 49 | [25binfahriöğreticidenoyyok](http://twitter.com/search?q=25binfahri%c3%b6%c4%9freticidenoyyok) | N/A |
-| 50 | [YİNE ERDOĞAN KAZANACAK](http://twitter.com/search?q=Y%c4%b0NE+ERDO%c4%9eAN+KAZANACAK) | N/A |
+| 29 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
+| 30 | [kayaşehir metro hattı](http://twitter.com/search?q=kaya%c5%9fehir+metro+hatt%c4%b1) | N/A |
+| 31 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 32 | [İP KOPTU](http://twitter.com/search?q=%c4%b0P+KOPTU) | N/A |
+| 33 | [Melih](http://twitter.com/search?q=Melih) | N/A |
+| 34 | [vefatının 19](http://twitter.com/search?q=vefat%c4%b1n%c4%b1n+19) | N/A |
+| 35 | [yerli üretim](http://twitter.com/search?q=yerli+%c3%bcretim) | N/A |
+| 36 | [Kredi](http://twitter.com/search?q=Kredi) | N/A |
+| 37 | [Bay Kemal Gelecek](http://twitter.com/search?q=Bay+Kemal+Gelecek) | N/A |
+| 38 | [Tuncay Özkan](http://twitter.com/search?q=Tuncay+%c3%96zkan) | N/A |
+| 39 | [MustafaÇiftçiye AcilTahliye](http://twitter.com/search?q=Mustafa%c3%87ift%c3%a7iye+AcilTahliye) | N/A |
+| 40 | [baykemal 35yaşınumudu](http://twitter.com/search?q=baykemal+35ya%c5%9f%c4%b1numudu) | N/A |
+| 41 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
+| 42 | [Zekai Tunca](http://twitter.com/search?q=Zekai+Tunca) | N/A |
+| 43 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 44 | [Millet İttifakı 18](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1+18) | N/A |
+| 45 | [AFyoksa ReydeYok](http://twitter.com/search?q=AFyoksa+ReydeYok) | N/A |
+| 46 | [25binfahriöğreticidenoyyok](http://twitter.com/search?q=25binfahri%c3%b6%c4%9freticidenoyyok) | N/A |
+| 47 | [YİNE ERDOĞAN KAZANACAK](http://twitter.com/search?q=Y%c4%b0NE+ERDO%c4%9eAN+KAZANACAK) | N/A |
+| 48 | [Edip Yüksel](http://twitter.com/search?q=Edip+Y%c3%bcksel) | N/A |
+| 49 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 50 | [CHP PM](http://twitter.com/search?q=CHP+PM) | N/A |
 
 
 

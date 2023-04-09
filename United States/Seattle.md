@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-04-09 05:16:57 UTC`
+📆 Last Updated: `2023-04-09 06:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [#SEAvSTL](http://twitter.com/search?q=%23SEAvSTL) | N/A |
 | 3 | [St Louis](http://twitter.com/search?q=St+Louis) | N/A |
 | 4 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 5 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 6 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 7 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 8 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 9 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 10 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 11 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
+| 5 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 6 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 8 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 9 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 10 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
+| 11 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 14 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
-| 15 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 13 | [#andNEW](http://twitter.com/search?q=%23andNEW) | N/A |
+| 14 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 15 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
 | 16 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 17 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 18 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 19 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
-| 20 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 21 | [#FundoraMendoza](http://twitter.com/search?q=%23FundoraMendoza) | N/A |
-| 22 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 23 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
-| 24 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
-| 25 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 26 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
-| 27 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
-| 28 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 17 | [Fundora](http://twitter.com/search?q=Fundora) | N/A |
+| 18 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
+| 19 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
+| 20 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 21 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 22 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
+| 23 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
+| 24 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 25 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 26 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 27 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 28 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
 | 29 | [Headstrong](http://twitter.com/search?q=Headstrong) | N/A |
-| 30 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
-| 31 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 32 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 33 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 34 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 35 | [OUT COLD](http://twitter.com/search?q=OUT+COLD) | N/A |
-| 36 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
-| 37 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
-| 38 | [WHAT A KNOCKOUT](http://twitter.com/search?q=WHAT+A+KNOCKOUT) | N/A |
-| 39 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 40 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
-| 41 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 42 | [Gamebred](http://twitter.com/search?q=Gamebred) | N/A |
-| 43 | [THE CHAMP IS BACK](http://twitter.com/search?q=THE+CHAMP+IS+BACK) | N/A |
-| 44 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 45 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
-| 46 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
-| 47 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 48 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
-| 49 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 50 | [Streameast](http://twitter.com/search?q=Streameast) | N/A |
+| 30 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 31 | [Haney](http://twitter.com/search?q=Haney) | N/A |
+| 32 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
+| 33 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 34 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 35 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 36 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 37 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
+| 38 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 39 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
+| 40 | [OUT COLD](http://twitter.com/search?q=OUT+COLD) | N/A |
+| 41 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
+| 42 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 43 | [WHAT A KNOCKOUT](http://twitter.com/search?q=WHAT+A+KNOCKOUT) | N/A |
+| 44 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 45 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
+| 46 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
+| 47 | [Gamebred](http://twitter.com/search?q=Gamebred) | N/A |
+| 48 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 49 | [THE CHAMP IS BACK](http://twitter.com/search?q=THE+CHAMP+IS+BACK) | N/A |
+| 50 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-09 05:17:04 UTC`
+📆 Last Updated: `2023-04-09 06:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,31 +40,31 @@ This is top 50 for Panama
 | 23 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
 | 24 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 25 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 26 | [pepitas](http://twitter.com/search?q=pepitas) | N/A |
-| 27 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
-| 28 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 29 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 30 | [Biblia](http://twitter.com/search?q=Biblia) | N/A |
-| 31 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
-| 32 | [Coronado](http://twitter.com/search?q=Coronado) | N/A |
-| 33 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
-| 34 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
-| 35 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 36 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
-| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 38 | [bomberos](http://twitter.com/search?q=bomberos) | N/A |
-| 39 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 40 | [#dreamstime](http://twitter.com/search?q=%23dreamstime) | N/A |
-| 41 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 42 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 43 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 44 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 45 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 46 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
-| 47 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 48 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 49 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 50 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 26 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
+| 27 | [pepitas](http://twitter.com/search?q=pepitas) | N/A |
+| 28 | [#SaludParaTodos](http://twitter.com/search?q=%23SaludParaTodos) | N/A |
+| 29 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 30 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 31 | [Biblia](http://twitter.com/search?q=Biblia) | N/A |
+| 32 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
+| 33 | [Coronado](http://twitter.com/search?q=Coronado) | N/A |
+| 34 | [Ayala](http://twitter.com/search?q=Ayala) | N/A |
+| 35 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 36 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
+| 37 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 38 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
+| 39 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 40 | [bomberos](http://twitter.com/search?q=bomberos) | N/A |
+| 41 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 42 | [#dreamstime](http://twitter.com/search?q=%23dreamstime) | N/A |
+| 43 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 44 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 45 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 46 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 47 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 48 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
+| 49 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 50 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
 
 
 

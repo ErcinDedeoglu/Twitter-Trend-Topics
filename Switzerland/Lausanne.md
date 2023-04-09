@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-09 05:16:28 UTC`
+📆 Last Updated: `2023-04-09 06:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,30 +16,30 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 2 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 5 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 6 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 7 | [#fczfcb](http://twitter.com/search?q=%23fczfcb) | N/A |
-| 8 | [klimakleber](http://twitter.com/search?q=klimakleber) | N/A |
-| 9 | [karfreitag](http://twitter.com/search?q=karfreitag) | N/A |
-| 10 | [gotthard](http://twitter.com/search?q=gotthard) | N/A |
-| 11 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 12 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 2 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
+| 3 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 4 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
+| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 6 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 7 | [Stau](http://twitter.com/search?q=Stau) | N/A |
+| 8 | [#fczfcb](http://twitter.com/search?q=%23fczfcb) | N/A |
+| 9 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 10 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
+| 11 | [gotthard](http://twitter.com/search?q=gotthard) | N/A |
+| 12 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
 | 13 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
 | 14 | [#gshc](http://twitter.com/search?q=%23gshc) | N/A |
-| 15 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 16 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 17 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 18 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
+| 15 | [#LazioJuve](http://twitter.com/search?q=%23LazioJuve) | N/A |
+| 16 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 17 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 18 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
 | 19 | [polymanga](http://twitter.com/search?q=polymanga) | N/A |
-| 20 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 22 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
-| 23 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 24 | [Generation](http://twitter.com/search?q=Generation) | N/A |
-| 25 | [weltwoche](http://twitter.com/search?q=weltwoche) | N/A |
+| 20 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 21 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 22 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 23 | [Generation](http://twitter.com/search?q=Generation) | N/A |
+| 24 | [weltwoche](http://twitter.com/search?q=weltwoche) | N/A |
+| 25 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
 | 26 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 27 | [tessin](http://twitter.com/search?q=tessin) | N/A |
 | 28 | [Spain](http://twitter.com/search?q=Spain) | N/A |
@@ -62,6 +62,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 45 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
 | 46 | [Humor](http://twitter.com/search?q=Humor) | N/A |
 | 47 | [Speicher](http://twitter.com/search?q=Speicher) | N/A |
+| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 
 
 

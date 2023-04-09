@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kyoto
 
-📆 Last Updated: `2023-04-09 05:16:58 UTC`
+📆 Last Updated: `2023-04-09 06:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Japan](</Japan>)
 | ------- | ------------ | ------------ |
 | 1 | [スタメン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
 | 2 | [ローレル](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%ac%e3%83%ab) | N/A |
-| 3 | [ニックス](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 4 | [アデサニヤ](http://twitter.com/search?q=%e3%82%a2%e3%83%87%e3%82%b5%e3%83%8b%e3%83%a4) | N/A |
-| 5 | [抹茶ドーナツ](http://twitter.com/search?q=%e6%8a%b9%e8%8c%b6%e3%83%89%e3%83%bc%e3%83%8a%e3%83%84) | N/A |
+| 3 | [#プロローグ地上波初](http://twitter.com/search?q=%23%e3%83%97%e3%83%ad%e3%83%ad%e3%83%bc%e3%82%b0%e5%9c%b0%e4%b8%8a%e6%b3%a2%e5%88%9d) | N/A |
+| 4 | [#テレ朝で羽生結弦](http://twitter.com/search?q=%23%e3%83%86%e3%83%ac%e6%9c%9d%e3%81%a7%e7%be%bd%e7%94%9f%e7%b5%90%e5%bc%a6) | N/A |
+| 5 | [グランベルナデット](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%99%e3%83%ab%e3%83%8a%e3%83%87%e3%83%83%e3%83%88) | N/A |
 | 6 | [イースター](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 7 | [#リア突WEST](http://twitter.com/search?q=%23%e3%83%aa%e3%82%a2%e7%aa%81WEST) | #リア突WEST is a hashtag used on Twitter in Japan to refer to the West Tokyo area. It is a play on words, combining the Japanese word for "west" (西) with the phrase "rear attack" (リア突). The hashtag is used to refer to events and activities taking place in the West Tokyo area. |
-| 8 | [#にじさんじスマブラ杯](http://twitter.com/search?q=%23%e3%81%ab%e3%81%98%e3%81%95%e3%82%93%e3%81%98%e3%82%b9%e3%83%9e%e3%83%96%e3%83%a9%e6%9d%af) | N/A |
-| 9 | [#プロローグ地上波初](http://twitter.com/search?q=%23%e3%83%97%e3%83%ad%e3%83%ad%e3%83%bc%e3%82%b0%e5%9c%b0%e4%b8%8a%e6%b3%a2%e5%88%9d) | N/A |
-| 10 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 11 | [#テレ朝で羽生結弦](http://twitter.com/search?q=%23%e3%83%86%e3%83%ac%e6%9c%9d%e3%81%a7%e7%be%bd%e7%94%9f%e7%b5%90%e5%bc%a6) | N/A |
-| 12 | [山岡くん](http://twitter.com/search?q=%e5%b1%b1%e5%b2%a1%e3%81%8f%e3%82%93) | N/A |
-| 13 | [のど自慢](http://twitter.com/search?q=%e3%81%ae%e3%81%a9%e8%87%aa%e6%85%a2) | N/A |
-| 14 | [リバティアイランド](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 15 | [ルルーシュ](http://twitter.com/search?q=%e3%83%ab%e3%83%ab%e3%83%bc%e3%82%b7%e3%83%a5) | N/A |
-| 16 | [ノーアウト満塁](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%a2%e3%82%a6%e3%83%88%e6%ba%80%e5%a1%81) | N/A |
+| 7 | [アデサニヤ](http://twitter.com/search?q=%e3%82%a2%e3%83%87%e3%82%b5%e3%83%8b%e3%83%a4) | N/A |
+| 8 | [ニックス](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 9 | [抹茶ドーナツ](http://twitter.com/search?q=%e6%8a%b9%e8%8c%b6%e3%83%89%e3%83%bc%e3%83%8a%e3%83%84) | N/A |
+| 10 | [リバティアイランド](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 11 | [#にじさんじスマブラ杯](http://twitter.com/search?q=%23%e3%81%ab%e3%81%98%e3%81%95%e3%82%93%e3%81%98%e3%82%b9%e3%83%9e%e3%83%96%e3%83%a9%e6%9d%af) | N/A |
+| 12 | [#虎バン](http://twitter.com/search?q=%23%e8%99%8e%e3%83%90%e3%83%b3) | N/A |
+| 13 | [デビッドソン](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%83%e3%83%89%e3%82%bd%e3%83%b3) | N/A |
+| 14 | [#桜花賞](http://twitter.com/search?q=%23%e6%a1%9c%e8%8a%b1%e8%b3%9e) | N/A |
+| 15 | [才木くん](http://twitter.com/search?q=%e6%89%8d%e6%9c%a8%e3%81%8f%e3%82%93) | N/A |
+| 16 | [セカンド松田](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%83%b3%e3%83%89%e6%9d%be%e7%94%b0) | N/A |
 | 17 | [レジエレキ](http://twitter.com/search?q=%e3%83%ac%e3%82%b8%e3%82%a8%e3%83%ac%e3%82%ad) | N/A |
-| 18 | [金村くん](http://twitter.com/search?q=%e9%87%91%e6%9d%91%e3%81%8f%e3%82%93) | N/A |
-| 19 | [キングオージャー](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | キングオージャー is a Japanese card game similar to the American game of Crazy Eights. The object of the game is to be the first player to get rid of all their cards. The game is played with a standard deck of 52 cards, with each player receiving seven cards at the start. The remaining cards are placed face down in a pile, and the top card is turned over to begin the discard pile. Players must match either the suit or rank of the card on top of the discard pile in order to play a card from their hand. |
-| 20 | [投票うぃ](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e3%81%86%e3%81%83) | N/A |
-| 21 | [選挙の日](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%81%ae%e6%97%a5) | N/A |
-| 22 | [アウトサイダーズ](http://twitter.com/search?q=%e3%82%a2%e3%82%a6%e3%83%88%e3%82%b5%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ba) | アウトサイダーズ (OutSiders) is a Japanese rock band formed in 2002. The band's name is derived from the English word "outsider", which refers to someone who is excluded from a group or society. In the context of the band, it implies that they are outsiders in the music industry. The band's music has been described as a mix of punk, metal, and alternative rock. |
-| 23 | [才木くん](http://twitter.com/search?q=%e6%89%8d%e6%9c%a8%e3%81%8f%e3%82%93) | N/A |
-| 24 | [ドゥアイズ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%82%a2%e3%82%a4%e3%82%ba) | N/A |
-| 25 | [清宮野村](http://twitter.com/search?q=%e6%b8%85%e5%ae%ae%e9%87%8e%e6%9d%91) | N/A |
-| 26 | [ペレイラ](http://twitter.com/search?q=%e3%83%9a%e3%83%ac%e3%82%a4%e3%83%a9) | N/A |
-| 27 | [水星の魔女](http://twitter.com/search?q=%e6%b0%b4%e6%98%9f%e3%81%ae%e9%ad%94%e5%a5%b3) | 水星の魔女 (Suisei no Majo) is a Japanese manga series written and illustrated by Fumiko Fumi. It follows the story of a young witch named Suisei who lives in a small village and uses her magical powers to help the people around her. The title translates to "The Witch of Mercury" in English. |
-| 28 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
-| 29 | [HP依存](http://twitter.com/search?q=HP%e4%be%9d%e5%ad%98) | N/A |
-| 30 | [ライトクオンタム](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%88%e3%82%af%e3%82%aa%e3%83%b3%e3%82%bf%e3%83%a0) | ライトクオンタム (Raito Kuontamu) is a Japanese light novel series written by Kōhei Azano and illustrated by Tsunako. It follows the story of a group of high school students who are chosen to become "Light Quantum" and use their special powers to protect the world from evil forces. The title translates to "Light Quantum" in English. |
-| 31 | [ラクレス](http://twitter.com/search?q=%e3%83%a9%e3%82%af%e3%83%ac%e3%82%b9) | N/A |
-| 32 | [泰ちゃん](http://twitter.com/search?q=%e6%b3%b0%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 33 | [ハーパー](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%91%e3%83%bc) | N/A |
-| 34 | [シゲルバクハツ](http://twitter.com/search?q=%e3%82%b7%e3%82%b2%e3%83%ab%e3%83%90%e3%82%af%e3%83%8f%e3%83%84) | N/A |
-| 35 | [チャイちゃん](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%82%a4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 36 | [かけの花](http://twitter.com/search?q=%e3%81%8b%e3%81%91%e3%81%ae%e8%8a%b1) | N/A |
-| 37 | [選挙の投票](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%81%ae%e6%8a%95%e7%a5%a8) | N/A |
-| 38 | [コナコースト](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%82%b3%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
-| 39 | [投票済証](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e6%b8%88%e8%a8%bc) | N/A |
-| 40 | [シャクール](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%82%af%e3%83%bc%e3%83%ab) | N/A |
-| 41 | [レンフロー](http://twitter.com/search?q=%e3%83%ac%e3%83%b3%e3%83%95%e3%83%ad%e3%83%bc) | N/A |
-| 42 | [ドリーミングアップ](http://twitter.com/search?q=%e3%83%89%e3%83%aa%e3%83%bc%e3%83%9f%e3%83%b3%e3%82%b0%e3%82%a2%e3%83%83%e3%83%97) | N/A |
-| 43 | [モズメイメイ](http://twitter.com/search?q=%e3%83%a2%e3%82%ba%e3%83%a1%e3%82%a4%e3%83%a1%e3%82%a4) | N/A |
-| 44 | [エピックレイド](http://twitter.com/search?q=%e3%82%a8%e3%83%94%e3%83%83%e3%82%af%e3%83%ac%e3%82%a4%e3%83%89) | N/A |
-| 45 | [トゥバちゃん](http://twitter.com/search?q=%e3%83%88%e3%82%a5%e3%83%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 46 | [投票完了](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e5%ae%8c%e4%ba%86) | N/A |
-| 47 | [そくほー](http://twitter.com/search?q=%e3%81%9d%e3%81%8f%e3%81%bb%e3%83%bc) | そくほー is an onomatopoeia that is used to express the sound of a siren. In English, it could be translated as "woo-woo". |
-| 48 | [矢澤くん](http://twitter.com/search?q=%e7%9f%a2%e6%be%a4%e3%81%8f%e3%82%93) | N/A |
-| 49 | [推し休暇](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e4%bc%91%e6%9a%87) | N/A |
-| 50 | [リンセン](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%82%bb%e3%83%b3) | N/A |
+| 18 | [打者一巡](http://twitter.com/search?q=%e6%89%93%e8%80%85%e4%b8%80%e5%b7%a1) | N/A |
+| 19 | [山岡くん](http://twitter.com/search?q=%e5%b1%b1%e5%b2%a1%e3%81%8f%e3%82%93) | N/A |
+| 20 | [吉村くん](http://twitter.com/search?q=%e5%90%89%e6%9d%91%e3%81%8f%e3%82%93) | N/A |
+| 21 | [ルルーシュ](http://twitter.com/search?q=%e3%83%ab%e3%83%ab%e3%83%bc%e3%82%b7%e3%83%a5) | N/A |
+| 22 | [ハーパー](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%91%e3%83%bc) | N/A |
+| 23 | [金村くん](http://twitter.com/search?q=%e9%87%91%e6%9d%91%e3%81%8f%e3%82%93) | N/A |
+| 24 | [ドリーミングアップ](http://twitter.com/search?q=%e3%83%89%e3%83%aa%e3%83%bc%e3%83%9f%e3%83%b3%e3%82%b0%e3%82%a2%e3%83%83%e3%83%97) | N/A |
+| 25 | [ドゥアイズ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%82%a2%e3%82%a4%e3%82%ba) | N/A |
+| 26 | [ライトクオンタム](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%88%e3%82%af%e3%82%aa%e3%83%b3%e3%82%bf%e3%83%a0) | ライトクオンタム (Raito Kuontamu) is a Japanese light novel series written by Kōhei Azano and illustrated by Tsunako. It follows the story of a group of high school students who are chosen to become "Light Quantum" and use their special powers to protect the world from evil forces. The title translates to "Light Quantum" in English. |
+| 27 | [のど自慢](http://twitter.com/search?q=%e3%81%ae%e3%81%a9%e8%87%aa%e6%85%a2) | N/A |
+| 28 | [田中広輔](http://twitter.com/search?q=%e7%94%b0%e4%b8%ad%e5%ba%83%e8%bc%94) | N/A |
+| 29 | [オークス](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%af%e3%82%b9) | N/A |
+| 30 | [忘れな草賞](http://twitter.com/search?q=%e5%bf%98%e3%82%8c%e3%81%aa%e8%8d%89%e8%b3%9e) | N/A |
+| 31 | [モズメイメイ](http://twitter.com/search?q=%e3%83%a2%e3%82%ba%e3%83%a1%e3%82%a4%e3%83%a1%e3%82%a4) | N/A |
+| 32 | [コナコースト](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%82%b3%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
+| 33 | [水星の魔女](http://twitter.com/search?q=%e6%b0%b4%e6%98%9f%e3%81%ae%e9%ad%94%e5%a5%b3) | 水星の魔女 (Suisei no Majo) is a Japanese manga series written and illustrated by Fumiko Fumi. It follows the story of a young witch named Suisei who lives in a small village and uses her magical powers to help the people around her. The title translates to "The Witch of Mercury" in English. |
+| 34 | [投票うぃ](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e3%81%86%e3%81%83) | N/A |
+| 35 | [ノーアウト満塁](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%a2%e3%82%a6%e3%83%88%e6%ba%80%e5%a1%81) | N/A |
+| 36 | [選挙の日](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%81%ae%e6%97%a5) | N/A |
+| 37 | [投票済証](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e6%b8%88%e8%a8%bc) | N/A |
+| 38 | [マシンガン打線](http://twitter.com/search?q=%e3%83%9e%e3%82%b7%e3%83%b3%e3%82%ac%e3%83%b3%e6%89%93%e7%b7%9a) | N/A |
+| 39 | [初回6点](http://twitter.com/search?q=%e5%88%9d%e5%9b%9e6%e7%82%b9) | N/A |
+| 40 | [キングオージャー](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | キングオージャー is a Japanese card game similar to the American game of Crazy Eights. The object of the game is to be the first player to get rid of all their cards. The game is played with a standard deck of 52 cards, with each player receiving seven cards at the start. The remaining cards are placed face down in a pile, and the top card is turned over to begin the discard pile. Players must match either the suit or rank of the card on top of the discard pile in order to play a card from their hand. |
+| 41 | [コースケ](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%82%b9%e3%82%b1) | N/A |
+| 42 | [アウトサイダーズ](http://twitter.com/search?q=%e3%82%a2%e3%82%a6%e3%83%88%e3%82%b5%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ba) | アウトサイダーズ (OutSiders) is a Japanese rock band formed in 2002. The band's name is derived from the English word "outsider", which refers to someone who is excluded from a group or society. In the context of the band, it implies that they are outsiders in the music industry. The band's music has been described as a mix of punk, metal, and alternative rock. |
+| 43 | [エピックレイド](http://twitter.com/search?q=%e3%82%a8%e3%83%94%e3%83%83%e3%82%af%e3%83%ac%e3%82%a4%e3%83%89) | N/A |
+| 44 | [ペレイラ](http://twitter.com/search?q=%e3%83%9a%e3%83%ac%e3%82%a4%e3%83%a9) | N/A |
+| 45 | [清宮野村万波](http://twitter.com/search?q=%e6%b8%85%e5%ae%ae%e9%87%8e%e6%9d%91%e4%b8%87%e6%b3%a2) | N/A |
+| 46 | [シンリョクカ](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%aa%e3%83%a7%e3%82%af%e3%82%ab) | N/A |
+| 47 | [泰ちゃん](http://twitter.com/search?q=%e6%b3%b0%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 48 | [かけの花](http://twitter.com/search?q=%e3%81%8b%e3%81%91%e3%81%ae%e8%8a%b1) | N/A |
+| 49 | [選挙の投票](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%81%ae%e6%8a%95%e7%a5%a8) | N/A |
+| 50 | [HP依存](http://twitter.com/search?q=HP%e4%be%9d%e5%ad%98) | N/A |
 
 
 

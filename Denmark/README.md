@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-09 05:17:00 UTC`
+📆 Last Updated: `2023-04-09 06:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,17 +24,17 @@ This is top 50 for Denmark
 | 7 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 | 8 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 9 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 10 | [Major](http://twitter.com/search?q=Major) | N/A |
-| 11 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 12 | [højbjerg](http://twitter.com/search?q=h%c3%b8jbjerg) | N/A |
-| 13 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 10 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 11 | [Major](http://twitter.com/search?q=Major) | N/A |
+| 12 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 13 | [højbjerg](http://twitter.com/search?q=h%c3%b8jbjerg) | N/A |
 | 14 | [siger](http://twitter.com/search?q=siger) | N/A |
 | 15 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
 | 16 | [#pldk](http://twitter.com/search?q=%23pldk) | N/A |
-| 17 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 18 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 19 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 17 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 18 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 19 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 20 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 22 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 23 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
@@ -56,7 +56,7 @@ This is top 50 for Denmark
 | 39 | [Lars Mikkelsen](http://twitter.com/search?q=Lars+Mikkelsen) | N/A |
 | 40 | [Henrik](http://twitter.com/search?q=Henrik) | N/A |
 | 41 | [Indien](http://twitter.com/search?q=Indien) | N/A |
-| 42 | [Palæstina](http://twitter.com/search?q=Pal%c3%a6stina) | N/A |
+| 42 | [palæstina](http://twitter.com/search?q=pal%c3%a6stina) | N/A |
 | 43 | [Manden](http://twitter.com/search?q=Manden) | N/A |
 | 44 | [Irak](http://twitter.com/search?q=Irak) | N/A |
 | 45 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |

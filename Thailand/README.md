@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-04-09 05:17:05 UTC`
+📆 Last Updated: `2023-04-09 06:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Thailand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#แพรี่](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9e%e0%b8%a3%e0%b8%b5%e0%b9%88) | N/A |
+| 1 | [#Photobookแรกของซีนุนิว](http://twitter.com/search?q=%23Photobook%e0%b9%81%e0%b8%a3%e0%b8%81%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%8b%e0%b8%b5%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
 | 2 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
-| 3 | [#BedFriendEP8](http://twitter.com/search?q=%23BedFriendEP8) | N/A |
-| 4 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
-| 5 | [#จับผิดแอคลั่น](http://twitter.com/search?q=%23%e0%b8%88%e0%b8%b1%e0%b8%9a%e0%b8%9c%e0%b8%b4%e0%b8%94%e0%b9%81%e0%b8%ad%e0%b8%84%e0%b8%a5%e0%b8%b1%e0%b9%88%e0%b8%99) | N/A |
-| 6 | [BamBam Abyss](http://twitter.com/search?q=BamBam+Abyss) | N/A |
-| 7 | [7ENSENSE ANNIVERSARY](http://twitter.com/search?q=7ENSENSE+ANNIVERSARY) | N/A |
-| 8 | [Patrick Movie Roadshow](http://twitter.com/search?q=Patrick+Movie+Roadshow) | N/A |
-| 9 | [MELODY OF SCENTS D2](http://twitter.com/search?q=MELODY+OF+SCENTS+D2) | N/A |
-| 10 | [HOLD YOUR HAND09 ENGFA](http://twitter.com/search?q=HOLD+YOUR+HAND09+ENGFA) | N/A |
-| 11 | [preawpak x nookpai](http://twitter.com/search?q=preawpak+x+nookpai) | N/A |
-| 12 | [7TH SPRING WITH JAEHYUN](http://twitter.com/search?q=7TH+SPRING+WITH+JAEHYUN) | N/A |
-| 13 | [DOYOUNG 7TH DEBUT ANNIVERSARY](http://twitter.com/search?q=DOYOUNG+7TH+DEBUT+ANNIVERSARY) | N/A |
-| 14 | [STAY WITH CHOMPU 09](http://twitter.com/search?q=STAY+WITH+CHOMPU+09) | N/A |
-| 15 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
-| 16 | [gba cocacola yangyang](http://twitter.com/search?q=gba+cocacola+yangyang) | N/A |
-| 17 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 18 | [KANTEERA 26th BDAY](http://twitter.com/search?q=KANTEERA+26th+BDAY) | N/A |
-| 19 | [MORNING 09 NNINE](http://twitter.com/search?q=MORNING+09+NNINE) | N/A |
-| 20 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 21 | [09 MORNING YANGREBA](http://twitter.com/search?q=09+MORNING+YANGREBA) | N/A |
-| 22 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
-| 23 | [Morning Win](http://twitter.com/search?q=Morning+Win) | N/A |
-| 24 | [PETRA NARUMIT](http://twitter.com/search?q=PETRA+NARUMIT) | N/A |
-| 25 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
-| 26 | [SUMMER WITH CHARLOTTE 09](http://twitter.com/search?q=SUMMER+WITH+CHARLOTTE+09) | N/A |
-| 27 | [Bright Morning](http://twitter.com/search?q=Bright+Morning) | N/A |
-| 28 | [#ลีน่าจัง](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b5%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%88%e0%b8%b1%e0%b8%87) | N/A |
-| 29 | [#DestinyclinicYinWar](http://twitter.com/search?q=%23DestinyclinicYinWar) | N/A |
-| 30 | [#toge7herwithTENLEE](http://twitter.com/search?q=%23toge7herwithTENLEE) | N/A |
-| 31 | [#น้องนิวเวลาหม่ํา](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%99%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%a7%e0%b8%a5%e0%b8%b2%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b9%8d%e0%b8%b2) | N/A |
-| 32 | [#NontFamxAirport](http://twitter.com/search?q=%23NontFamxAirport) | N/A |
-| 33 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
-| 34 | [#ITZYThe1stWorldTour_BKK](http://twitter.com/search?q=%23ITZYThe1stWorldTour_BKK) | N/A |
-| 35 | [#Rojukiss](http://twitter.com/search?q=%23Rojukiss) | N/A |
-| 36 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
-| 37 | [#LuminousSeries](http://twitter.com/search?q=%23LuminousSeries) | N/A |
-| 38 | [#แสงส่องรักChallenge](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%aa%e0%b8%87%e0%b8%aa%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%81Challenge) | N/A |
-| 39 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 40 | [#บางเขนฮอนด้าคาร์ส์](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%82%e0%b8%99%e0%b8%ae%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%89%e0%b8%b2%e0%b8%84%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%aa%e0%b9%8c) | N/A |
-| 41 | [#ส่งธนนท์ไปทํางาน](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%98%e0%b8%99%e0%b8%99%e0%b8%97%e0%b9%8c%e0%b9%84%e0%b8%9b%e0%b8%97%e0%b9%8d%e0%b8%b2%e0%b8%87%e0%b8%b2%e0%b8%99) | N/A |
-| 42 | [#KaningKawaii](http://twitter.com/search?q=%23KaningKawaii) | N/A |
-| 43 | [#วงเขียวด่าศิลปิน](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%87%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%a7%e0%b8%94%e0%b9%88%e0%b8%b2%e0%b8%a8%e0%b8%b4%e0%b8%a5%e0%b8%9b%e0%b8%b4%e0%b8%99) | N/A |
-| 44 | [#PTGentertainment](http://twitter.com/search?q=%23PTGentertainment) | N/A |
-| 45 | [#Sea24thBDCharity](http://twitter.com/search?q=%23Sea24thBDCharity) | N/A |
-| 46 | [#MOONBIN_SANHA_FANCON_BKK](http://twitter.com/search?q=%23MOONBIN_SANHA_FANCON_BKK) | N/A |
-| 47 | [#โค่นคมพยัคฆ์](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%84%e0%b9%88%e0%b8%99%e0%b8%84%e0%b8%a1%e0%b8%9e%e0%b8%a2%e0%b8%b1%e0%b8%84%e0%b8%86%e0%b9%8c) | N/A |
-| 48 | [#บปทะเลหวานน้ําตาลจืด](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%9b%e0%b8%97%e0%b8%b0%e0%b9%80%e0%b8%a5%e0%b8%ab%e0%b8%a7%e0%b8%b2%e0%b8%99%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b2%e0%b8%a5%e0%b8%88%e0%b8%b7%e0%b8%94) | N/A |
-| 49 | [#SinghaDrinkingWaterxBillkin](http://twitter.com/search?q=%23SinghaDrinkingWaterxBillkin) | N/A |
-| 50 | [#NoeulahSaranghae](http://twitter.com/search?q=%23NoeulahSaranghae) | N/A |
+| 3 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
+| 4 | [#แพรี่](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9e%e0%b8%a3%e0%b8%b5%e0%b9%88) | N/A |
+| 5 | [BamBam Abyss](http://twitter.com/search?q=BamBam+Abyss) | N/A |
+| 6 | [#NoeulahSaranghae](http://twitter.com/search?q=%23NoeulahSaranghae) | N/A |
+| 7 | [BamBam Artis](http://twitter.com/search?q=BamBam+Artis) | N/A |
+| 8 | [BamBam Ahgase](http://twitter.com/search?q=BamBam+Ahgase) | N/A |
+| 9 | [BamBam Album SourandSweet](http://twitter.com/search?q=BamBam+Album+SourandSweet) | N/A |
+| 10 | [SAINT X 12RASI](http://twitter.com/search?q=SAINT+X+12RASI) | N/A |
+| 11 | [HOLD YOUR HAND09 ENGFA](http://twitter.com/search?q=HOLD+YOUR+HAND09+ENGFA) | N/A |
+| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 14 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 15 | [#ลีน่าจัง](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b5%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%88%e0%b8%b1%e0%b8%87) | N/A |
+| 16 | [#บปทะเลหวานน้ําตาลจืด](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%9b%e0%b8%97%e0%b8%b0%e0%b9%80%e0%b8%a5%e0%b8%ab%e0%b8%a7%e0%b8%b2%e0%b8%99%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%95%e0%b8%b2%e0%b8%a5%e0%b8%88%e0%b8%b7%e0%b8%94) | N/A |
+| 17 | [#Sea24thBDCharity](http://twitter.com/search?q=%23Sea24thBDCharity) | N/A |
+| 18 | [#OhmFluke1stJPFM](http://twitter.com/search?q=%23OhmFluke1stJPFM) | N/A |
+| 19 | [#ศึก12ราศีxเซ้นต์ซุป](http://twitter.com/search?q=%23%e0%b8%a8%e0%b8%b6%e0%b8%8112%e0%b8%a3%e0%b8%b2%e0%b8%a8%e0%b8%b5x%e0%b9%80%e0%b8%8b%e0%b9%89%e0%b8%99%e0%b8%95%e0%b9%8c%e0%b8%8b%e0%b8%b8%e0%b8%9b) | N/A |
+| 20 | [#TIPPYTOE](http://twitter.com/search?q=%23TIPPYTOE) | N/A |
+| 21 | [#LuminousSeries](http://twitter.com/search?q=%23LuminousSeries) | N/A |
+| 22 | [#แสงส่องรักChallenge](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%aa%e0%b8%87%e0%b8%aa%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%81Challenge) | N/A |
+| 23 | [#NontFamxAirport](http://twitter.com/search?q=%23NontFamxAirport) | N/A |
+| 24 | [#บางเขนฮอนด้าคาร์ส์](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%82%e0%b8%99%e0%b8%ae%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%89%e0%b8%b2%e0%b8%84%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%aa%e0%b9%8c) | N/A |
+| 25 | [#PTGentertainment](http://twitter.com/search?q=%23PTGentertainment) | N/A |
+| 26 | [#KaningKawaii](http://twitter.com/search?q=%23KaningKawaii) | N/A |
+| 27 | [#HiddenBladeatPavalai](http://twitter.com/search?q=%23HiddenBladeatPavalai) | N/A |
+| 28 | [#RSAxBANGKOK](http://twitter.com/search?q=%23RSAxBANGKOK) | N/A |
+| 29 | [#ส่งธนนท์ไปทํางาน](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%98%e0%b8%99%e0%b8%99%e0%b8%97%e0%b9%8c%e0%b9%84%e0%b8%9b%e0%b8%97%e0%b9%8d%e0%b8%b2%e0%b8%87%e0%b8%b2%e0%b8%99) | N/A |
+| 30 | [#อาสามาหาเธอนะกรุงเทพ](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b2%e0%b8%aa%e0%b8%b2%e0%b8%a1%e0%b8%b2%e0%b8%ab%e0%b8%b2%e0%b9%80%e0%b8%98%e0%b8%ad%e0%b8%99%e0%b8%b0%e0%b8%81%e0%b8%a3%e0%b8%b8%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%9e) | N/A |
+| 31 | [#Rojukiss](http://twitter.com/search?q=%23Rojukiss) | N/A |
+| 32 | [#BangkhenHondacars](http://twitter.com/search?q=%23BangkhenHondacars) | N/A |
+| 33 | [#HiddenBlade_ThaiMTJJ](http://twitter.com/search?q=%23HiddenBlade_ThaiMTJJ) | N/A |
+| 34 | [#KaningCGM48](http://twitter.com/search?q=%23KaningCGM48) | N/A |
+| 35 | [#sea_tawinan](http://twitter.com/search?q=%23sea_tawinan) | N/A |
+| 36 | [#RememberBP](http://twitter.com/search?q=%23RememberBP) | N/A |
+| 37 | [#บุ๋นเปรม](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b8%e0%b9%8b%e0%b8%99%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%a1) | N/A |
+| 38 | [#ForceinCNX](http://twitter.com/search?q=%23ForceinCNX) | N/A |
+| 39 | [#BNK48JankenTournament2023](http://twitter.com/search?q=%23BNK48JankenTournament2023) | N/A |
+| 40 | [#BookfluencerxFirstKhaotung](http://twitter.com/search?q=%23BookfluencerxFirstKhaotung) | N/A |
+| 41 | [#HappyBAS26thDay](http://twitter.com/search?q=%23HappyBAS26thDay) | N/A |
+| 42 | [#Basvpr](http://twitter.com/search?q=%23Basvpr) | N/A |
+| 43 | [#KristSoloAsiaTour2023inJAPAN](http://twitter.com/search?q=%23KristSoloAsiaTour2023inJAPAN) | N/A |
+| 44 | [#สงกรานต์2566](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%87%e0%b8%81%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b9%8c2566) | N/A |
+| 45 | [#HaveABrightDay](http://twitter.com/search?q=%23HaveABrightDay) | N/A |
+| 46 | [#Remembas](http://twitter.com/search?q=%23Remembas) | N/A |
+| 47 | [#ธนาธร](http://twitter.com/search?q=%23%e0%b8%98%e0%b8%99%e0%b8%b2%e0%b8%98%e0%b8%a3) | N/A |
+| 48 | [#เลือกตั้งล่วงหน้า](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%a5%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2) | N/A |
+| 49 | [#บียัวเลิฟบียัวเฟรน](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b5%e0%b8%a2%e0%b8%b1%e0%b8%a7%e0%b9%80%e0%b8%a5%e0%b8%b4%e0%b8%9f%e0%b8%9a%e0%b8%b5%e0%b8%a2%e0%b8%b1%e0%b8%a7%e0%b9%80%e0%b8%9f%e0%b8%a3%e0%b8%99) | N/A |
+| 50 | [#KaewNatruja](http://twitter.com/search?q=%23KaewNatruja) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-04-09 05:16:56 UTC`
+📆 Last Updated: `2023-04-09 06:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [#ForTheCrown](http://twitter.com/search?q=%23ForTheCrown) | N/A |
 | 2 | [#NefariousMovie](http://twitter.com/search?q=%23NefariousMovie) | N/A |
 | 3 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 4 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 5 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 6 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 5 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 6 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
 | 7 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 10 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
-| 11 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 10 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 11 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
 | 12 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 13 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 13 | [Fundora](http://twitter.com/search?q=Fundora) | N/A |
 | 14 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
-| 15 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 16 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 15 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 16 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
 | 17 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
 | 18 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
-| 19 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 20 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
+| 19 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 20 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
 | 21 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
-| 22 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 23 | [Headstrong](http://twitter.com/search?q=Headstrong) | N/A |
-| 24 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
-| 25 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 26 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 27 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 28 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 29 | [OUT COLD](http://twitter.com/search?q=OUT+COLD) | N/A |
-| 30 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
-| 31 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
-| 32 | [WHAT A KNOCKOUT](http://twitter.com/search?q=WHAT+A+KNOCKOUT) | N/A |
-| 33 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 34 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
-| 35 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 36 | [Gamebred](http://twitter.com/search?q=Gamebred) | N/A |
-| 37 | [THE CHAMP IS BACK](http://twitter.com/search?q=THE+CHAMP+IS+BACK) | N/A |
-| 38 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 39 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
-| 40 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
-| 41 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 42 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
-| 43 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 44 | [Streameast](http://twitter.com/search?q=Streameast) | N/A |
-| 45 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 46 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
-| 47 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
-| 48 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 49 | [#FundoraMendoza](http://twitter.com/search?q=%23FundoraMendoza) | N/A |
+| 22 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 23 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 24 | [Headstrong](http://twitter.com/search?q=Headstrong) | N/A |
+| 25 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 26 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 27 | [Haney](http://twitter.com/search?q=Haney) | N/A |
+| 28 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
+| 29 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 30 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 31 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 32 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 33 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
+| 34 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
+| 35 | [OUT COLD](http://twitter.com/search?q=OUT+COLD) | N/A |
+| 36 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
+| 37 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 38 | [WHAT A KNOCKOUT](http://twitter.com/search?q=WHAT+A+KNOCKOUT) | N/A |
+| 39 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 40 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
+| 41 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
+| 42 | [Gamebred](http://twitter.com/search?q=Gamebred) | N/A |
+| 43 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 44 | [THE CHAMP IS BACK](http://twitter.com/search?q=THE+CHAMP+IS+BACK) | N/A |
+| 45 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 46 | [Periera](http://twitter.com/search?q=Periera) | N/A |
+| 47 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
+| 48 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 49 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
 
 
 

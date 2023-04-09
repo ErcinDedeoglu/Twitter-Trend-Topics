@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-04-09 05:16:28 UTC`
+📆 Last Updated: `2023-04-09 06:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,10 +20,10 @@ This is top 50 for [Sweden](</Sweden>)
 | 3 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
 | 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 5 | [Glad Påsk](http://twitter.com/search?q=Glad+P%c3%a5sk) | N/A |
-| 6 | [galajda](http://twitter.com/search?q=galajda) | N/A |
-| 7 | [Vejdemo](http://twitter.com/search?q=Vejdemo) | N/A |
-| 8 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 9 | [ingvar hirdwall](http://twitter.com/search?q=ingvar+hirdwall) | N/A |
+| 6 | [vejdemo](http://twitter.com/search?q=vejdemo) | N/A |
+| 7 | [Galajda](http://twitter.com/search?q=Galajda) | N/A |
+| 8 | [ingvar hirdwall](http://twitter.com/search?q=ingvar+hirdwall) | N/A |
+| 9 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 | 10 | [hutchings](http://twitter.com/search?q=hutchings) | N/A |
 | 11 | [Borg](http://twitter.com/search?q=Borg) | N/A |
 | 12 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
@@ -55,7 +55,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 38 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
 | 39 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
 | 40 | [Malmö FF](http://twitter.com/search?q=Malm%c3%b6+FF) | N/A |
-| 41 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 41 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 42 | [hovet](http://twitter.com/search?q=hovet) | N/A |
 | 43 | [Snygg](http://twitter.com/search?q=Snygg) | N/A |
 | 44 | [vida arena](http://twitter.com/search?q=vida+arena) | N/A |

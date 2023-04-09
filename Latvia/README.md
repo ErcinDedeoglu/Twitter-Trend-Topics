@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-09 05:17:02 UTC`
+📆 Last Updated: `2023-04-09 06:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,18 +16,18 @@ This is top 50 for Latvia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Priecīgas Lieldienas](http://twitter.com/search?q=Priec%c4%abgas+Lieldienas) | N/A |
-| 2 | [Labrīt](http://twitter.com/search?q=Labr%c4%abt) | N/A |
-| 3 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 2 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 3 | [Labrīt](http://twitter.com/search?q=Labr%c4%abt) | N/A |
 | 4 | [Tartu](http://twitter.com/search?q=Tartu) | N/A |
-| 5 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
-| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 6 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 | 7 | [vakar](http://twitter.com/search?q=vakar) | N/A |
 | 8 | [sedlenieks](http://twitter.com/search?q=sedlenieks) | N/A |
 | 9 | [Latvians](http://twitter.com/search?q=Latvians) | N/A |
 | 10 | [vajag](http://twitter.com/search?q=vajag) | N/A |
-| 11 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
-| 12 | [Šodien](http://twitter.com/search?q=%c5%a0odien) | N/A |
-| 13 | [kariņam](http://twitter.com/search?q=kari%c5%86am) | N/A |
+| 11 | [Kariņš](http://twitter.com/search?q=Kari%c5%86%c5%a1) | N/A |
+| 12 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
+| 13 | [Šodien](http://twitter.com/search?q=%c5%a0odien) | N/A |
 | 14 | [laikam](http://twitter.com/search?q=laikam) | N/A |
 | 15 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
 | 16 | [Russians](http://twitter.com/search?q=Russians) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for Latvia
 | 34 | [Langa](http://twitter.com/search?q=Langa) | N/A |
 | 35 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
 | 36 | [Zinu](http://twitter.com/search?q=Zinu) | N/A |
-| 37 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
-| 38 | [viņiem](http://twitter.com/search?q=vi%c5%86iem) | N/A |
-| 39 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
-| 40 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 42 | [Kopš](http://twitter.com/search?q=Kop%c5%a1) | N/A |
-| 43 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
-| 44 | [krievi](http://twitter.com/search?q=krievi) | N/A |
-| 45 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
-| 46 | [nekas](http://twitter.com/search?q=nekas) | N/A |
-| 47 | [pirms](http://twitter.com/search?q=pirms) | N/A |
-| 48 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
-| 49 | [tevis](http://twitter.com/search?q=tevis) | N/A |
-| 50 | [tikko](http://twitter.com/search?q=tikko) | N/A |
+| 37 | [Būtu](http://twitter.com/search?q=B%c5%abtu) | N/A |
+| 38 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
+| 39 | [Krievijas](http://twitter.com/search?q=Krievijas) | N/A |
+| 40 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
+| 41 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 42 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 43 | [Viņiem](http://twitter.com/search?q=Vi%c5%86iem) | N/A |
+| 44 | [Kopš](http://twitter.com/search?q=Kop%c5%a1) | N/A |
+| 45 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 46 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
+| 47 | [nekas](http://twitter.com/search?q=nekas) | N/A |
+| 48 | [pirms](http://twitter.com/search?q=pirms) | N/A |
+| 49 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
+| 50 | [tevis](http://twitter.com/search?q=tevis) | N/A |
 
 
 

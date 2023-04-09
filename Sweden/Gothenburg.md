@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-04-09 05:16:28 UTC`
+📆 Last Updated: `2023-04-09 06:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,10 +20,10 @@ This is top 50 for [Sweden](</Sweden>)
 | 3 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
 | 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 5 | [Glad Påsk](http://twitter.com/search?q=Glad+P%c3%a5sk) | N/A |
-| 6 | [galajda](http://twitter.com/search?q=galajda) | N/A |
-| 7 | [Vejdemo](http://twitter.com/search?q=Vejdemo) | N/A |
-| 8 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 9 | [ingvar hirdwall](http://twitter.com/search?q=ingvar+hirdwall) | N/A |
+| 6 | [vejdemo](http://twitter.com/search?q=vejdemo) | N/A |
+| 7 | [Galajda](http://twitter.com/search?q=Galajda) | N/A |
+| 8 | [ingvar hirdwall](http://twitter.com/search?q=ingvar+hirdwall) | N/A |
+| 9 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 | 10 | [hutchings](http://twitter.com/search?q=hutchings) | N/A |
 | 11 | [Borg](http://twitter.com/search?q=Borg) | N/A |
 | 12 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
@@ -53,15 +53,16 @@ This is top 50 for [Sweden](</Sweden>)
 | 36 | [kiese](http://twitter.com/search?q=kiese) | N/A |
 | 37 | [tack lennart](http://twitter.com/search?q=tack+lennart) | N/A |
 | 38 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 39 | [Malmö FF](http://twitter.com/search?q=Malm%c3%b6+FF) | N/A |
-| 40 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 41 | [hovet](http://twitter.com/search?q=hovet) | N/A |
-| 42 | [Snygg](http://twitter.com/search?q=Snygg) | N/A |
-| 43 | [vida arena](http://twitter.com/search?q=vida+arena) | N/A |
-| 44 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 45 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 46 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 47 | [filippa](http://twitter.com/search?q=filippa) | N/A |
+| 39 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
+| 40 | [Malmö FF](http://twitter.com/search?q=Malm%c3%b6+FF) | N/A |
+| 41 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 42 | [hovet](http://twitter.com/search?q=hovet) | N/A |
+| 43 | [Snygg](http://twitter.com/search?q=Snygg) | N/A |
+| 44 | [vida arena](http://twitter.com/search?q=vida+arena) | N/A |
+| 45 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 46 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 47 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 48 | [filippa](http://twitter.com/search?q=filippa) | N/A |
 
 
 
