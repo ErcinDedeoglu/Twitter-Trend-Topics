@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-04-09 16:17:29 UTC`
+📆 Last Updated: `2023-04-09 17:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PakaiMolis](http://twitter.com/search?q=%23PakaiMolis) | N/A |
-| 2 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 3 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
-| 4 | [#NCTzenSelcaDay](http://twitter.com/search?q=%23NCTzenSelcaDay) | N/A |
-| 5 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 6 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
-| 7 | [DO YOU WANT TO BE FORGIVEN](http://twitter.com/search?q=DO+YOU+WANT+TO+BE+FORGIVEN) | N/A |
-| 8 | [#LESSERAFIM_UNFORGIVEN](http://twitter.com/search?q=%23LESSERAFIM_UNFORGIVEN) | N/A |
-| 9 | [#UNFORGIVEN_AlbumTrailer](http://twitter.com/search?q=%23UNFORGIVEN_AlbumTrailer) | N/A |
-| 10 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 11 | [Persib](http://twitter.com/search?q=Persib) | N/A |
-| 12 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 13 | [Zayyan](http://twitter.com/search?q=Zayyan) | N/A |
-| 14 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 15 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 16 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 17 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 18 | [Butut](http://twitter.com/search?q=Butut) | N/A |
-| 19 | [KIM WOOSUNG](http://twitter.com/search?q=KIM+WOOSUNG) | N/A |
-| 20 | [I FEEL GIDDY](http://twitter.com/search?q=I+FEEL+GIDDY) | N/A |
-| 21 | [ARMY READY FOR D DAY TRACKLIST](http://twitter.com/search?q=ARMY+READY+FOR+D+DAY+TRACKLIST) | N/A |
-| 22 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 23 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 24 | [D DAY TRACKLIST IS COMING](http://twitter.com/search?q=D+DAY+TRACKLIST+IS+COMING) | N/A |
-| 25 | [Almond](http://twitter.com/search?q=Almond) | N/A |
-| 26 | [PEOPLE PT2 PARTY](http://twitter.com/search?q=PEOPLE+PT2+PARTY) | N/A |
-| 27 | [Persita](http://twitter.com/search?q=Persita) | N/A |
-| 28 | [JENO DESERVES BETTER](http://twitter.com/search?q=JENO+DESERVES+BETTER) | N/A |
-| 29 | [Ripuh](http://twitter.com/search?q=Ripuh) | N/A |
-| 30 | [IVE FIRST ALBUM IS COMING](http://twitter.com/search?q=IVE+FIRST+ALBUM+IS+COMING) | N/A |
-| 31 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
-| 32 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 33 | [Bubuk](http://twitter.com/search?q=Bubuk) | N/A |
-| 34 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
-| 35 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 36 | [Onic](http://twitter.com/search?q=Onic) | N/A |
-| 37 | [NT Evos](http://twitter.com/search?q=NT+Evos) | N/A |
-| 38 | [Mas Adam](http://twitter.com/search?q=Mas+Adam) | N/A |
-| 39 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 40 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 41 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 42 | [jeno milan](http://twitter.com/search?q=jeno+milan) | N/A |
-| 43 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 44 | [Bakri](http://twitter.com/search?q=Bakri) | N/A |
-| 45 | [Bagas](http://twitter.com/search?q=Bagas) | N/A |
-| 46 | [Jasmine](http://twitter.com/search?q=Jasmine) | N/A |
-| 47 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
-| 48 | [Cinderella](http://twitter.com/search?q=Cinderella) | N/A |
-| 49 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
+| 1 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 2 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 3 | [Kokas](http://twitter.com/search?q=Kokas) | N/A |
+| 4 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
+| 5 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 6 | [#1000BungaApresiasiET](http://twitter.com/search?q=%231000BungaApresiasiET) | N/A |
+| 7 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 8 | [#Who_XIUMINxEUNHA](http://twitter.com/search?q=%23Who_XIUMINxEUNHA) | N/A |
+| 9 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
+| 10 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
+| 11 | [#WhowithXiumin](http://twitter.com/search?q=%23WhowithXiumin) | N/A |
+| 12 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 13 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
+| 14 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 15 | [LET ME](http://twitter.com/search?q=LET+ME) | N/A |
+| 16 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
+| 17 | [Lazada](http://twitter.com/search?q=Lazada) | N/A |
+| 18 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 19 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 20 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 21 | [STREAMING CHAIN](http://twitter.com/search?q=STREAMING+CHAIN) | N/A |
+| 22 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
+| 23 | [TNI AU](http://twitter.com/search?q=TNI+AU) | N/A |
+| 24 | [1 Rupiah](http://twitter.com/search?q=1+Rupiah) | N/A |
+| 25 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 26 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 28 | [LOVE ME RIGHT](http://twitter.com/search?q=LOVE+ME+RIGHT) | N/A |
+| 29 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
+| 30 | [Onic](http://twitter.com/search?q=Onic) | N/A |
+| 31 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
+| 32 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 33 | [Kristus](http://twitter.com/search?q=Kristus) | N/A |
+| 34 | [Panas](http://twitter.com/search?q=Panas) | N/A |
+| 35 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
+| 36 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
+| 37 | [#BukaAjaBukalapak](http://twitter.com/search?q=%23BukaAjaBukalapak) | N/A |
+| 38 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
+| 39 | [#ApologizeToMatthew](http://twitter.com/search?q=%23ApologizeToMatthew) | N/A |
+| 40 | [#IDGLIVvsARS](http://twitter.com/search?q=%23IDGLIVvsARS) | N/A |
+| 41 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
+| 42 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 43 | [#SailingOfLoveNaRa](http://twitter.com/search?q=%23SailingOfLoveNaRa) | N/A |
+| 44 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 45 | [#LISAパワフルステージin東京](http://twitter.com/search?q=%23LISA%e3%83%91%e3%83%af%e3%83%95%e3%83%ab%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b8in%e6%9d%b1%e4%ba%ac) | N/A |
+| 46 | [#IKNSejahterakanIndonesia](http://twitter.com/search?q=%23IKNSejahterakanIndonesia) | N/A |
+| 47 | [#IKNPemerataanEkonomi](http://twitter.com/search?q=%23IKNPemerataanEkonomi) | N/A |
+| 48 | [#IKNNusantara](http://twitter.com/search?q=%23IKNNusantara) | N/A |
+| 49 | [#NarwhalFinance](http://twitter.com/search?q=%23NarwhalFinance) | N/A |
+| 50 | [#TimeForEXO](http://twitter.com/search?q=%23TimeForEXO) | N/A |
 
 
 

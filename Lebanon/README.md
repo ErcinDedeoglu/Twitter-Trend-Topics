@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-04-09 16:18:09 UTC`
+📆 Last Updated: `2023-04-09 17:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Lebanon
 | 1 | [#فصح_مجيد](http://twitter.com/search?q=%23%d9%81%d8%b5%d8%ad_%d9%85%d8%ac%d9%8a%d8%af) | N/A |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [#المسيح_قام](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad_%d9%82%d8%a7%d9%85) | N/A |
-| 4 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
-| 5 | [#سبت_النور](http://twitter.com/search?q=%23%d8%b3%d8%a8%d8%aa_%d8%a7%d9%84%d9%86%d9%88%d8%b1) | N/A |
-| 6 | [#شعنينه_مباركه](http://twitter.com/search?q=%23%d8%b4%d8%b9%d9%86%d9%8a%d9%86%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 7 | [التقويم الغربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%82%d9%88%d9%8a%d9%85+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a) | N/A |
-| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 9 | [محمد باقر الصدر](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d8%a7%d9%82%d8%b1+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
-| 10 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
-| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 12 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
-| 13 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 14 | [مبارك الاتي](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%b1%d9%83+%d8%a7%d9%84%d8%a7%d8%aa%d9%8a) | N/A |
-| 15 | [طارق تميم](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%aa%d9%85%d9%8a%d9%85) | N/A |
-| 16 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
-| 17 | [الجولان المحتل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%84) | N/A |
-| 18 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
-| 19 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
-| 20 | [الاراضي السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%a7%d8%b6%d9%8a+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 21 | [لواء القدس](http://twitter.com/search?q=%d9%84%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d9%82%d8%af%d8%b3) | N/A |
-| 22 | [بنت الهدي](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa+%d8%a7%d9%84%d9%87%d8%af%d9%8a) | N/A |
-| 23 | [عيد مبارك](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 24 | [الطوايف المسيحيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d9%8a%d9%81+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad%d9%8a%d9%87) | N/A |
-| 25 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
-| 26 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
-| 27 | [الجبهه الجنوبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a8%d9%87%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d9%87) | N/A |
-| 28 | [9 نيسان](http://twitter.com/search?q=9+%d9%86%d9%8a%d8%b3%d8%a7%d9%86) | N/A |
-| 29 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 30 | [لبنان الجديد](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 31 | [صنعاء](http://twitter.com/search?q=%d8%b5%d9%86%d8%b9%d8%a7%d8%a1) | N/A |
-| 32 | [يسوع المسيح](http://twitter.com/search?q=%d9%8a%d8%b3%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad) | N/A |
-| 33 | [أوروبا](http://twitter.com/search?q=%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
-| 34 | [بشار الأسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a3%d8%b3%d8%af) | N/A |
-| 35 | [علي امل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%85%d9%84) | N/A |
-| 36 | [السيد المسيح](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad) | N/A |
-| 37 | [المسيحيين الذين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad%d9%8a%d9%8a%d9%86+%d8%a7%d9%84%d8%b0%d9%8a%d9%86) | N/A |
-| 38 | [ماريو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d9%8a%d9%88) | N/A |
-| 39 | [علي رجاء](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b1%d8%ac%d8%a7%d8%a1) | N/A |
-| 40 | [الدين المسيحي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad%d9%8a) | N/A |
-| 41 | [سيناء](http://twitter.com/search?q=%d8%b3%d9%8a%d9%86%d8%a7%d8%a1) | N/A |
-| 42 | [الولايات المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
-| 43 | [cma cgm](http://twitter.com/search?q=cma+cgm) | N/A |
-| 44 | [بدر الكبري](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
-| 45 | [عيسى](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%89) | N/A |
-| 46 | [الامام الخامنيي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d9%86%d9%8a%d9%8a) | N/A |
-| 47 | [بابا المجال](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8%d8%a7+%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84) | N/A |
+| 4 | [#شعنينه_مباركه](http://twitter.com/search?q=%23%d8%b4%d8%b9%d9%86%d9%8a%d9%86%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 5 | [#عيد_الفصح](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d9%81%d8%b5%d8%ad) | N/A |
+| 6 | [#سبت_النور](http://twitter.com/search?q=%23%d8%b3%d8%a8%d8%aa_%d8%a7%d9%84%d9%86%d9%88%d8%b1) | N/A |
+| 7 | [التقويم الشرقي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%82%d9%88%d9%8a%d9%85+%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a) | N/A |
+| 8 | [مبارك الاتي](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%b1%d9%83+%d8%a7%d9%84%d8%a7%d8%aa%d9%8a) | N/A |
+| 9 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 10 | [عيد مبارك](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 11 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 12 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
+| 13 | [الاراضي السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%a7%d8%b6%d9%8a+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 14 | [طارق تميم](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%aa%d9%85%d9%8a%d9%85) | N/A |
+| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 16 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
+| 17 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 18 | [لواء القدس](http://twitter.com/search?q=%d9%84%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d9%82%d8%af%d8%b3) | N/A |
+| 19 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
+| 20 | [يسوع المسيح](http://twitter.com/search?q=%d9%8a%d8%b3%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad) | N/A |
+| 21 | [سيناء](http://twitter.com/search?q=%d8%b3%d9%8a%d9%86%d8%a7%d8%a1) | N/A |
+| 22 | [سبت مبارك](http://twitter.com/search?q=%d8%b3%d8%a8%d8%aa+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 23 | [محمد باقر الصدر](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d8%a7%d9%82%d8%b1+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
+| 24 | [صنعاء](http://twitter.com/search?q=%d8%b5%d9%86%d8%b9%d8%a7%d8%a1) | N/A |
+| 25 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
+| 26 | [دوله الرييس](http://twitter.com/search?q=%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3) | N/A |
+| 27 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
+| 28 | [CMA CGM](http://twitter.com/search?q=CMA+CGM) | N/A |
+| 29 | [نور مبارك](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 30 | [الجيش المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
+| 31 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
+| 32 | [اليوم السابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9) | N/A |
+| 33 | [المراه الجنوبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d9%87) | N/A |
+| 34 | [السيد المسيح](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad) | N/A |
+| 35 | [بشار الأسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a3%d8%b3%d8%af) | N/A |
+| 36 | [ماريو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d9%8a%d9%88) | N/A |
+| 37 | [الطوايف المسيحيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d9%8a%d9%81+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad%d9%8a%d9%87) | N/A |
+| 38 | [ومصر](http://twitter.com/search?q=%d9%88%d9%85%d8%b5%d8%b1) | N/A |
+| 39 | [الأمم المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
+| 40 | [الكيان الموقت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%aa) | N/A |
+| 41 | [الدين المسيحي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad%d9%8a) | N/A |
+| 42 | [علي امل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%85%d9%84) | N/A |
+| 43 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 44 | [مروان](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86) | N/A |
+| 45 | [بدر الكبري](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
+| 46 | [عيسى](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%89) | N/A |
+| 47 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
 | 48 | [ابو مهدي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d9%87%d8%af%d9%8a) | N/A |
-| 49 | [الوفد السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 50 | [الجيش المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
+| 49 | [بابا المجال](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8%d8%a7+%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84) | N/A |
+| 50 | [علي الموت](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d8%aa) | N/A |
 
 
 

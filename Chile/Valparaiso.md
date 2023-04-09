@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-09 16:17:13 UTC`
+📆 Last Updated: `2023-04-09 17:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MesaCentral](http://twitter.com/search?q=%23MesaCentral) | N/A |
+| 1 | [#loscruzados](http://twitter.com/search?q=%23loscruzados) | N/A |
 | 2 | [Colina](http://twitter.com/search?q=Colina) | N/A |
-| 3 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
-| 4 | [Tenía 19](http://twitter.com/search?q=Ten%c3%ada+19) | N/A |
-| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 8 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
-| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [#enacional](http://twitter.com/search?q=%23enacional) | N/A |
-| 11 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 12 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 13 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 14 | [Coric](http://twitter.com/search?q=Coric) | N/A |
-| 15 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 16 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 17 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 18 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
-| 19 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 20 | [Pamela Jiles](http://twitter.com/search?q=Pamela+Jiles) | N/A |
-| 21 | [Delincuente](http://twitter.com/search?q=Delincuente) | N/A |
-| 22 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 23 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 24 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
-| 25 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
-| 26 | [Conductor](http://twitter.com/search?q=Conductor) | N/A |
-| 27 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 28 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 29 | [Kast](http://twitter.com/search?q=Kast) | N/A |
-| 30 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 31 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 32 | [Sharp](http://twitter.com/search?q=Sharp) | N/A |
-| 33 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
-| 34 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 35 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
-| 36 | [Tamara](http://twitter.com/search?q=Tamara) | N/A |
-| 37 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 5 | [#TeresaDeLosAndesEnTVN](http://twitter.com/search?q=%23TeresaDeLosAndesEnTVN) | N/A |
+| 6 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
+| 7 | [zampedri](http://twitter.com/search?q=zampedri) | N/A |
+| 8 | [dituro](http://twitter.com/search?q=dituro) | N/A |
+| 9 | [pamela jiles](http://twitter.com/search?q=pamela+jiles) | N/A |
+| 10 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
+| 11 | [Kast](http://twitter.com/search?q=Kast) | N/A |
+| 12 | [Conductor](http://twitter.com/search?q=Conductor) | N/A |
+| 13 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 14 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 15 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 16 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
+| 17 | [Isla](http://twitter.com/search?q=Isla) | N/A |
+| 18 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
+| 19 | [Santiago Pavlovic](http://twitter.com/search?q=Santiago+Pavlovic) | N/A |
+| 20 | [cavada](http://twitter.com/search?q=cavada) | N/A |
+| 21 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 22 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 23 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 24 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 25 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 26 | [Delincuente](http://twitter.com/search?q=Delincuente) | N/A |
+| 27 | [cntv](http://twitter.com/search?q=cntv) | N/A |
+| 28 | [Felipe Bianchi](http://twitter.com/search?q=Felipe+Bianchi) | N/A |
+| 29 | [Garin](http://twitter.com/search?q=Garin) | N/A |
+| 30 | [ANFP](http://twitter.com/search?q=ANFP) | N/A |
+| 31 | [Etcheverry](http://twitter.com/search?q=Etcheverry) | N/A |
+| 32 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
+| 33 | [llolleo](http://twitter.com/search?q=llolleo) | N/A |
+| 34 | [borquez](http://twitter.com/search?q=borquez) | N/A |
+| 35 | [Mega](http://twitter.com/search?q=Mega) | N/A |
+| 36 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 37 | [Palma](http://twitter.com/search?q=Palma) | N/A |
 | 38 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 39 | [Weonas](http://twitter.com/search?q=Weonas) | N/A |
-| 40 | [Llolleo](http://twitter.com/search?q=Llolleo) | N/A |
-| 41 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
-| 42 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
-| 43 | [di santo](http://twitter.com/search?q=di+santo) | N/A |
-| 44 | [Conejito](http://twitter.com/search?q=Conejito) | N/A |
-| 45 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 46 | [Garin](http://twitter.com/search?q=Garin) | N/A |
-| 47 | [Montecarlo](http://twitter.com/search?q=Montecarlo) | N/A |
-| 48 | [Santiago Pavlovic](http://twitter.com/search?q=Santiago+Pavlovic) | N/A |
+| 39 | [la uc](http://twitter.com/search?q=la+uc) | N/A |
+| 40 | [tagle](http://twitter.com/search?q=tagle) | N/A |
+| 41 | [Robo](http://twitter.com/search?q=Robo) | N/A |
+| 42 | [osorno](http://twitter.com/search?q=osorno) | N/A |
+| 43 | [tregua](http://twitter.com/search?q=tregua) | N/A |
+| 44 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
+| 45 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
+| 46 | [borghi](http://twitter.com/search?q=borghi) | N/A |
+| 47 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 48 | [carcuro](http://twitter.com/search?q=carcuro) | N/A |
 
 
 

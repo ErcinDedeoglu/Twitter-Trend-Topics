@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-04-09 16:18:05 UTC`
+📆 Last Updated: `2023-04-09 17:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Belgium
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
-| 2 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [#ANTCER](http://twitter.com/search?q=%23ANTCER) | N/A |
-| 5 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 6 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 7 | [Philipsen](http://twitter.com/search?q=Philipsen) | N/A |
-| 8 | [Degenkolb](http://twitter.com/search?q=Degenkolb) | N/A |
-| 9 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
-| 10 | [#ANDWES](http://twitter.com/search?q=%23ANDWES) | N/A |
-| 11 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 12 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
-| 13 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
-| 14 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 15 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 17 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
-| 18 | [Alpecin](http://twitter.com/search?q=Alpecin) | N/A |
-| 19 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 20 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 21 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 22 | [Westerlo](http://twitter.com/search?q=Westerlo) | N/A |
-| 23 | [Jasper](http://twitter.com/search?q=Jasper) | N/A |
-| 24 | [Mazzu](http://twitter.com/search?q=Mazzu) | N/A |
-| 25 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 26 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 27 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 28 | [Kopecky](http://twitter.com/search?q=Kopecky) | N/A |
-| 29 | [Verbruggen](http://twitter.com/search?q=Verbruggen) | N/A |
-| 30 | [Knokke](http://twitter.com/search?q=Knokke) | N/A |
-| 31 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 32 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 33 | [Amuzu](http://twitter.com/search?q=Amuzu) | N/A |
-| 34 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 35 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 36 | [Vanzeir](http://twitter.com/search?q=Vanzeir) | N/A |
-| 37 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
-| 38 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 39 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 40 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 41 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 42 | [pascale](http://twitter.com/search?q=pascale) | N/A |
-| 43 | [Paaszondag](http://twitter.com/search?q=Paaszondag) | N/A |
-| 44 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 45 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 46 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
-| 47 | [zulte](http://twitter.com/search?q=zulte) | N/A |
-| 48 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 49 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 50 | [Paasdag](http://twitter.com/search?q=Paasdag) | N/A |
+| 1 | [Zalig Pasen](http://twitter.com/search?q=Zalig+Pasen) | N/A |
+| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 3 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
+| 4 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
+| 5 | [#gntusg](http://twitter.com/search?q=%23gntusg) | N/A |
+| 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 7 | [Paaszondag](http://twitter.com/search?q=Paaszondag) | N/A |
+| 8 | [#vrtweer](http://twitter.com/search?q=%23vrtweer) | N/A |
+| 9 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
+| 10 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
+| 11 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 12 | [#themaskedsinger](http://twitter.com/search?q=%23themaskedsinger) | N/A |
+| 13 | [Goeiemorgen](http://twitter.com/search?q=Goeiemorgen) | N/A |
+| 14 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
+| 15 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 16 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 17 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 18 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 19 | [Paasdag](http://twitter.com/search?q=Paasdag) | N/A |
+| 20 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 21 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 22 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 23 | [Kopecky](http://twitter.com/search?q=Kopecky) | N/A |
+| 24 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 25 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 26 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 27 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 28 | [knokke](http://twitter.com/search?q=knokke) | N/A |
+| 29 | [Seraing](http://twitter.com/search?q=Seraing) | N/A |
+| 30 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 31 | [Alison Jackson](http://twitter.com/search?q=Alison+Jackson) | N/A |
+| 32 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 33 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 34 | [Stef](http://twitter.com/search?q=Stef) | N/A |
+| 35 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 36 | [Pascale](http://twitter.com/search?q=Pascale) | N/A |
+| 37 | [Mooi](http://twitter.com/search?q=Mooi) | N/A |
+| 38 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 39 | [Jeremie](http://twitter.com/search?q=Jeremie) | N/A |
+| 40 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 41 | [De Sart](http://twitter.com/search?q=De+Sart) | N/A |
+| 42 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 43 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 44 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 45 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 46 | [Anthony](http://twitter.com/search?q=Anthony) | N/A |
+| 47 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 48 | [Zulte](http://twitter.com/search?q=Zulte) | N/A |
+| 49 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 50 | [Jammer](http://twitter.com/search?q=Jammer) | N/A |
 
 
 

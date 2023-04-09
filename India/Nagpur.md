@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-04-09 16:17:48 UTC`
+📆 Last Updated: `2023-04-09 17:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Vi20FANFest](http://twitter.com/search?q=%23Vi20FANFest) | N/A |
-| 2 | [#rinkusingh](http://twitter.com/search?q=%23rinkusingh) | N/A |
-| 3 | [#KKRvsGT](http://twitter.com/search?q=%23KKRvsGT) | N/A |
-| 4 | [#SRHvsPBKS](http://twitter.com/search?q=%23SRHvsPBKS) | N/A |
-| 5 | [#ShikharDhawan](http://twitter.com/search?q=%23ShikharDhawan) | N/A |
-| 6 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 7 | [KBKJ TRAILER OUT TOMORROW](http://twitter.com/search?q=KBKJ+TRAILER+OUT+TOMORROW) | N/A |
-| 8 | [रिंकू सिंह](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%82%e0%a4%95%e0%a5%82+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 9 | [Yash Dayal](http://twitter.com/search?q=Yash+Dayal) | N/A |
-| 10 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
-| 11 | [Gabbar](http://twitter.com/search?q=Gabbar) | N/A |
-| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 13 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
-| 14 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 15 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 16 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 17 | [TAKE A BOW](http://twitter.com/search?q=TAKE+A+BOW) | N/A |
-| 18 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 19 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 20 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 21 | [Kagiso R](http://twitter.com/search?q=Kagiso+R) | N/A |
-| 22 | [Vijay Shankar](http://twitter.com/search?q=Vijay+Shankar) | N/A |
-| 23 | [James F](http://twitter.com/search?q=James+F) | N/A |
-| 24 | [5 Sixes](http://twitter.com/search?q=5+Sixes) | N/A |
-| 25 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 26 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 27 | [REMEMBER THE NAME](http://twitter.com/search?q=REMEMBER+THE+NAME) | N/A |
-| 28 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
-| 29 | [WHAT A MATCH](http://twitter.com/search?q=WHAT+A+MATCH) | N/A |
-| 30 | [AgustD](http://twitter.com/search?q=AgustD) | N/A |
-| 31 | [Foundation Month](http://twitter.com/search?q=Foundation+Month) | N/A |
-| 32 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 33 | [Unbelievable](http://twitter.com/search?q=Unbelievable) | N/A |
-| 34 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 35 | [The Legend](http://twitter.com/search?q=The+Legend) | N/A |
-| 36 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 37 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 38 | [D DAY TRACKLIST IS COMING](http://twitter.com/search?q=D+DAY+TRACKLIST+IS+COMING) | N/A |
-| 39 | [गुजरात पुलिस](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 40 | [Tewatia](http://twitter.com/search?q=Tewatia) | N/A |
-| 41 | [प्रथम चरण](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%9a%e0%a4%b0%e0%a4%a3) | N/A |
-| 42 | [Mayank Markande](http://twitter.com/search?q=Mayank+Markande) | N/A |
-| 43 | [ARMY READY FOR D DAY TRACKLIST](http://twitter.com/search?q=ARMY+READY+FOR+D+DAY+TRACKLIST) | N/A |
-| 44 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 45 | [राशिद खान](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b6%e0%a4%bf%e0%a4%a6+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 46 | [Jai NTR](http://twitter.com/search?q=Jai+NTR) | N/A |
-| 47 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
-| 48 | [Innings](http://twitter.com/search?q=Innings) | N/A |
-| 49 | [Ashish Nehra](http://twitter.com/search?q=Ashish+Nehra) | N/A |
+| 1 | [#askmrunal](http://twitter.com/search?q=%23askmrunal) | N/A |
+| 2 | [#RamBhaktEknath](http://twitter.com/search?q=%23RamBhaktEknath) | N/A |
+| 3 | [#AyodhyaMeEknath](http://twitter.com/search?q=%23AyodhyaMeEknath) | N/A |
+| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 5 | [#MilletsNaturalFarming4Health](http://twitter.com/search?q=%23MilletsNaturalFarming4Health) | N/A |
+| 6 | [#छत्तीसगढ़_बनता_जिहादगढ़](http://twitter.com/search?q=%23%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a5%80%e0%a4%b8%e0%a4%97%e0%a4%a2%e0%a4%bc_%e0%a4%ac%e0%a4%a8%e0%a4%a4%e0%a4%be_%e0%a4%9c%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a4%97%e0%a4%a2%e0%a4%bc) | N/A |
+| 7 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
+| 8 | [Sushant Singh Rajput Matters](http://twitter.com/search?q=Sushant+Singh+Rajput+Matters) | N/A |
+| 9 | [ENDLESS LOVE FOR MUNAWAR](http://twitter.com/search?q=ENDLESS+LOVE+FOR+MUNAWAR) | N/A |
+| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 11 | [The Elephant Whisperers](http://twitter.com/search?q=The+Elephant+Whisperers) | N/A |
+| 12 | [बांदीपुर टाइगर रिजर्व](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%9f%e0%a4%be%e0%a4%87%e0%a4%97%e0%a4%b0+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
+| 13 | [100 EPS OF AMRITA BRAR](http://twitter.com/search?q=100+EPS+OF+AMRITA+BRAR) | N/A |
+| 14 | [राजा बाबू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82) | N/A |
+| 15 | [VEER EPITOME OF EMOTIONS](http://twitter.com/search?q=VEER+EPITOME+OF+EMOTIONS) | N/A |
+| 16 | [Mahindra](http://twitter.com/search?q=Mahindra) | N/A |
+| 17 | [DEMANDING YUKTI AS KARISHMA](http://twitter.com/search?q=DEMANDING+YUKTI+AS+KARISHMA) | N/A |
+| 18 | [Eknath Shinde](http://twitter.com/search?q=Eknath+Shinde) | N/A |
+| 19 | [शहीद स्मारक](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6+%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
+| 20 | [भारतीय राष्ट्रीय छात्र संगठन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a4%a0%e0%a4%a8) | N/A |
+| 21 | [केंद्रीय रिजर्व पुलिस](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 22 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 23 | [ONE DAY FOR HUM](http://twitter.com/search?q=ONE+DAY+FOR+HUM) | N/A |
+| 24 | [Jago Hindus Jago](http://twitter.com/search?q=Jago+Hindus+Jago) | N/A |
+| 25 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
+| 26 | [वसुंधरा राजे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%b8%e0%a5%81%e0%a4%82%e0%a4%a7%e0%a4%b0%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87) | N/A |
+| 27 | [Amul](http://twitter.com/search?q=Amul) | N/A |
+| 28 | [PM Shri](http://twitter.com/search?q=PM+Shri) | N/A |
+| 29 | [राहुल सांकृत्यायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
+| 30 | [सरदार पोस्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%a6%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%8b%e0%a4%b8%e0%a5%8d%e0%a4%9f) | N/A |
+| 31 | [Swag](http://twitter.com/search?q=Swag) | N/A |
+| 32 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 33 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 34 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 35 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 36 | [Deepak Chahar](http://twitter.com/search?q=Deepak+Chahar) | N/A |
+| 37 | [Burnol](http://twitter.com/search?q=Burnol) | N/A |
+| 38 | [दलित महिला](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 39 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
+| 40 | [#QuranForAll](http://twitter.com/search?q=%23QuranForAll) | N/A |
+| 41 | [#SaveOshoLegacy](http://twitter.com/search?q=%23SaveOshoLegacy) | N/A |
+| 42 | [#GTvsKKR](http://twitter.com/search?q=%23GTvsKKR) | N/A |
+| 43 | [#TigerInKarnataka](http://twitter.com/search?q=%23TigerInKarnataka) | N/A |
+| 44 | [#KPpunePoliceBrutality](http://twitter.com/search?q=%23KPpunePoliceBrutality) | N/A |
+| 45 | [#RemoveOIFtrustees](http://twitter.com/search?q=%23RemoveOIFtrustees) | N/A |
+| 46 | [#ParimatchPeJeetKaTyohaar](http://twitter.com/search?q=%23ParimatchPeJeetKaTyohaar) | N/A |
+| 47 | [#गुरु_हैं_चारों_धाम](http://twitter.com/search?q=%23%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81_%e0%a4%b9%e0%a5%88%e0%a4%82_%e0%a4%9a%e0%a4%be%e0%a4%b0%e0%a5%8b%e0%a4%82_%e0%a4%a7%e0%a4%be%e0%a4%ae) | N/A |
+| 48 | [#NSUIFoundationDay](http://twitter.com/search?q=%23NSUIFoundationDay) | N/A |
+| 49 | [#SachinPilot](http://twitter.com/search?q=%23SachinPilot) | N/A |
 
 
 

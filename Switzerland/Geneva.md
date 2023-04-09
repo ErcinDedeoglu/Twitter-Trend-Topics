@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-09 16:17:27 UTC`
+📆 Last Updated: `2023-04-09 17:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 3 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
-| 4 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 2 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
+| 3 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 4 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
 | 5 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 6 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 9 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
-| 10 | [Bundeshaus](http://twitter.com/search?q=Bundeshaus) | N/A |
-| 11 | [bienne](http://twitter.com/search?q=bienne) | N/A |
-| 12 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 13 | [Einheitskasse](http://twitter.com/search?q=Einheitskasse) | N/A |
-| 14 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 15 | [Eier](http://twitter.com/search?q=Eier) | N/A |
-| 16 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
-| 17 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
-| 18 | [Politikern](http://twitter.com/search?q=Politikern) | N/A |
-| 19 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 20 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 21 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 22 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 23 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 24 | [Nähe](http://twitter.com/search?q=N%c3%a4he) | N/A |
-| 25 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 26 | [Häuser](http://twitter.com/search?q=H%c3%a4user) | N/A |
-| 27 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 28 | [Ruefer](http://twitter.com/search?q=Ruefer) | N/A |
-| 29 | [Speicher](http://twitter.com/search?q=Speicher) | N/A |
-| 30 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 31 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 32 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
+| 6 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
+| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 8 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 9 | [Stau](http://twitter.com/search?q=Stau) | N/A |
+| 10 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
+| 11 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 12 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 13 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
+| 14 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
+| 15 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 16 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
+| 17 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 18 | [Eier](http://twitter.com/search?q=Eier) | N/A |
+| 19 | [Bienne](http://twitter.com/search?q=Bienne) | N/A |
+| 20 | [Depends](http://twitter.com/search?q=Depends) | N/A |
+| 21 | [Liste](http://twitter.com/search?q=Liste) | N/A |
+| 22 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 23 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
+| 24 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 25 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 26 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 27 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 28 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 29 | [gotthard](http://twitter.com/search?q=gotthard) | N/A |
+| 30 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 31 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 32 | [tessin](http://twitter.com/search?q=tessin) | N/A |
 | 33 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 34 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 35 | [herr glarner](http://twitter.com/search?q=herr+glarner) | N/A |
-| 36 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 37 | [Renovate](http://twitter.com/search?q=Renovate) | N/A |
-| 38 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 39 | [Behandlung](http://twitter.com/search?q=Behandlung) | N/A |
-| 40 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
-| 41 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
-| 42 | [Gotthard](http://twitter.com/search?q=Gotthard) | N/A |
-| 43 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 44 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
-| 45 | [Turc](http://twitter.com/search?q=Turc) | N/A |
-| 46 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 47 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 34 | [Häuser](http://twitter.com/search?q=H%c3%a4user) | N/A |
+| 35 | [Ruefer](http://twitter.com/search?q=Ruefer) | N/A |
+| 36 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 37 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 38 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 39 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 40 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 41 | [Trottel](http://twitter.com/search?q=Trottel) | N/A |
+| 42 | [Turc](http://twitter.com/search?q=Turc) | N/A |
+| 43 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 44 | [Hotel](http://twitter.com/search?q=Hotel) | N/A |
+| 45 | [herr glarner](http://twitter.com/search?q=herr+glarner) | N/A |
+| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 47 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
+| 48 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
 
 
 

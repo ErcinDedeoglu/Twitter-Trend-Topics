@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-04-09 16:17:19 UTC`
+📆 Last Updated: `2023-04-09 17:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
-| 2 | [#LESKRO](http://twitter.com/search?q=%23LESKRO) | N/A |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
-| 5 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
-| 6 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 7 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 8 | [Chrystus Zmartwychwstał](http://twitter.com/search?q=Chrystus+Zmartwychwsta%c5%82) | N/A |
-| 9 | [Chrystus Zmartwychwstał](http://twitter.com/search?q=Chrystus+Zmartwychwsta%c5%82) | N/A |
-| 10 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 11 | [#PlusLiga](http://twitter.com/search?q=%23PlusLiga) | N/A |
-| 12 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
-| 13 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
-| 14 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
-| 15 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 17 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 3 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
+| 4 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 5 | [Chrystus Zmartwychwstał](http://twitter.com/search?q=Chrystus+Zmartwychwsta%c5%82) | N/A |
+| 6 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 7 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
+| 8 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 10 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 11 | [#grucze](http://twitter.com/search?q=%23grucze) | N/A |
+| 12 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 13 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
+| 14 | [#pogcra](http://twitter.com/search?q=%23pogcra) | N/A |
+| 15 | [#LPOWAR](http://twitter.com/search?q=%23LPOWAR) | N/A |
+| 16 | [Wielka Sobota](http://twitter.com/search?q=Wielka+Sobota) | N/A |
+| 17 | [Puszczy](http://twitter.com/search?q=Puszczy) | N/A |
 | 18 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 19 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
-| 20 | [Grecji](http://twitter.com/search?q=Grecji) | N/A |
-| 21 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 22 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
-| 23 | [Puszczy](http://twitter.com/search?q=Puszczy) | N/A |
-| 24 | [Krosno](http://twitter.com/search?q=Krosno) | N/A |
-| 25 | [Niepołomicach](http://twitter.com/search?q=Niepo%c5%82omicach) | N/A |
-| 26 | [Wielką Sobotę](http://twitter.com/search?q=Wielk%c4%85+Sobot%c4%99) | N/A |
-| 27 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
-| 28 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
-| 29 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 30 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 31 | [Lesznie](http://twitter.com/search?q=Lesznie) | N/A |
-| 32 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 33 | [nicki pedersen](http://twitter.com/search?q=nicki+pedersen) | N/A |
-| 34 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 35 | [Tajwan](http://twitter.com/search?q=Tajwan) | N/A |
-| 36 | [Rutkowskiego](http://twitter.com/search?q=Rutkowskiego) | N/A |
-| 37 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 38 | [Słodycze](http://twitter.com/search?q=S%c5%82odycze) | N/A |
-| 39 | [Panathinaikosu](http://twitter.com/search?q=Panathinaikosu) | N/A |
-| 40 | [Wigilii Paschalnej](http://twitter.com/search?q=Wigilii+Paschalnej) | N/A |
-| 41 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 42 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 43 | [Warty](http://twitter.com/search?q=Warty) | N/A |
-| 44 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
-| 45 | [życzę wam](http://twitter.com/search?q=%c5%bcycz%c4%99+wam) | N/A |
-| 46 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 47 | [Francja](http://twitter.com/search?q=Francja) | N/A |
-| 48 | [Boga](http://twitter.com/search?q=Boga) | N/A |
-| 49 | [kujawski](http://twitter.com/search?q=kujawski) | N/A |
-| 50 | [potop](http://twitter.com/search?q=potop) | N/A |
+| 19 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 20 | [Warta](http://twitter.com/search?q=Warta) | N/A |
+| 21 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
+| 22 | [Niepołomicach](http://twitter.com/search?q=Niepo%c5%82omicach) | N/A |
+| 23 | [Dziękuje](http://twitter.com/search?q=Dzi%c4%99kuje) | N/A |
+| 24 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 25 | [nicki pedersen](http://twitter.com/search?q=nicki+pedersen) | N/A |
+| 26 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
+| 27 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
+| 28 | [ba loua](http://twitter.com/search?q=ba+loua) | N/A |
+| 29 | [Judasza](http://twitter.com/search?q=Judasza) | N/A |
+| 30 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 31 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
+| 32 | [Wigilii Paschalnej](http://twitter.com/search?q=Wigilii+Paschalnej) | N/A |
+| 33 | [Rutkowskiego](http://twitter.com/search?q=Rutkowskiego) | N/A |
+| 34 | [Życzenia](http://twitter.com/search?q=%c5%bbyczenia) | N/A |
+| 35 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 36 | [J 20](http://twitter.com/search?q=J+20) | N/A |
+| 37 | [Boga](http://twitter.com/search?q=Boga) | N/A |
+| 38 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
+| 39 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
+| 40 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
+| 41 | [anna paul](http://twitter.com/search?q=anna+paul) | N/A |
+| 42 | [Kujawski](http://twitter.com/search?q=Kujawski) | N/A |
+| 43 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
+| 44 | [KGHM](http://twitter.com/search?q=KGHM) | N/A |
+| 45 | [krowa](http://twitter.com/search?q=krowa) | N/A |
+| 46 | [Lasyk](http://twitter.com/search?q=Lasyk) | N/A |
+| 47 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
+| 48 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 49 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
+| 50 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
 
 
 

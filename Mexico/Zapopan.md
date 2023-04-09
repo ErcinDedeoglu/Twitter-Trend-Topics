@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zapopan
 
-📆 Last Updated: `2023-04-09 16:17:12 UTC`
+📆 Last Updated: `2023-04-09 17:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 3 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 4 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 6 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 7 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 8 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 9 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 10 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
-| 11 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 12 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
-| 13 | [#D_DayTracklist](http://twitter.com/search?q=%23D_DayTracklist) | N/A |
-| 14 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 15 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 16 | [#LaMañaneraNoSeToca](http://twitter.com/search?q=%23LaMa%c3%b1aneraNoSeToca) | N/A |
-| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 18 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 19 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 20 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 21 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
-| 22 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 23 | [joao](http://twitter.com/search?q=joao) | N/A |
-| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 25 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 26 | [#SabadoDeGloria](http://twitter.com/search?q=%23SabadoDeGloria) | N/A |
-| 27 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 28 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 29 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
-| 30 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 31 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
-| 32 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 33 | [Duvan](http://twitter.com/search?q=Duvan) | N/A |
-| 34 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 35 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 36 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 37 | [Papel](http://twitter.com/search?q=Papel) | N/A |
-| 38 | [Tay y Joe](http://twitter.com/search?q=Tay+y+Joe) | N/A |
-| 39 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
-| 40 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 41 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 42 | [mozo](http://twitter.com/search?q=mozo) | N/A |
-| 43 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 44 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 45 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
-| 46 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
-| 47 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 48 | [Busca 4T](http://twitter.com/search?q=Busca+4T) | N/A |
-| 49 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 50 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 1 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 2 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 5 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 6 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 7 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
+| 8 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 9 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
+| 10 | [Joao](http://twitter.com/search?q=Joao) | N/A |
+| 11 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
+| 12 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 13 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
+| 14 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
+| 15 | [Vuce](http://twitter.com/search?q=Vuce) | N/A |
+| 16 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 17 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 18 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 19 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
+| 20 | [Mochis](http://twitter.com/search?q=Mochis) | N/A |
+| 21 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 22 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
+| 23 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 24 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 25 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 26 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 27 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 28 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 29 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 30 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 31 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 32 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 33 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 34 | [fidalgo](http://twitter.com/search?q=fidalgo) | N/A |
+| 35 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 36 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
+| 37 | [TUDN](http://twitter.com/search?q=TUDN) | N/A |
+| 38 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 39 | [prieto](http://twitter.com/search?q=prieto) | N/A |
+| 40 | [Layún](http://twitter.com/search?q=Lay%c3%ban) | N/A |
+| 41 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 42 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 43 | [Papel](http://twitter.com/search?q=Papel) | N/A |
+| 44 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 45 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 46 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 47 | [Tay y Joe](http://twitter.com/search?q=Tay+y+Joe) | N/A |
+| 48 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 49 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 50 | [#InkigayoMCHyungwon](http://twitter.com/search?q=%23InkigayoMCHyungwon) | N/A |
 
 
 
