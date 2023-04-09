@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-04-09 02:31:30 UTC`
+📆 Last Updated: `2023-04-09 03:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Brazil
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 3 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 4 | [Khalil](http://twitter.com/search?q=Khalil) | N/A |
-| 5 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 6 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 7 | [TOH FINALE](http://twitter.com/search?q=TOH+FINALE) | N/A |
-| 8 | [STELOISA EM ALERTA](http://twitter.com/search?q=STELOISA+EM+ALERTA) | N/A |
-| 9 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
-| 10 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 11 | [SIMONE MENDES](http://twitter.com/search?q=SIMONE+MENDES) | SIMONE MENDES is a Portuguese name. It is composed of two given names, Simone and Mendes. The name Simone is derived from the Hebrew name Shimon, meaning "he who hears". Mendes is a Portuguese surname derived from the Latin word mens, meaning "mind". In English, the name Simone Mendes would translate to "He Who Hears Mind". |
-| 12 | [the great war](http://twitter.com/search?q=the+great+war) | N/A |
-| 13 | [#nascarnobandsports](http://twitter.com/search?q=%23nascarnobandsports) | N/A |
-| 14 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 15 | [#UFCBR](http://twitter.com/search?q=%23UFCBR) | N/A |
-| 16 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
-| 17 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 18 | [#BakeCelebridades](http://twitter.com/search?q=%23BakeCelebridades) | N/A |
-| 19 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
-| 20 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
-| 21 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 22 | [KING OF MY HEART](http://twitter.com/search?q=KING+OF+MY+HEART) | N/A |
-| 23 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 24 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 25 | [ts11](http://twitter.com/search?q=ts11) | N/A |
-| 26 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
-| 27 | [Juma](http://twitter.com/search?q=Juma) | N/A |
-| 28 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 29 | [É MENTIRA](http://twitter.com/search?q=%c3%89+MENTIRA) | N/A |
-| 30 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
-| 31 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
-| 32 | [Invisible String](http://twitter.com/search?q=Invisible+String) | N/A |
-| 33 | [PAPER RINGS](http://twitter.com/search?q=PAPER+RINGS) | N/A |
-| 34 | [Luana Pinheiro](http://twitter.com/search?q=Luana+Pinheiro) | N/A |
-| 35 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 36 | [ENZO GABRIEL](http://twitter.com/search?q=ENZO+GABRIEL) | N/A |
-| 37 | [ME RECUSO](http://twitter.com/search?q=ME+RECUSO) | N/A |
-| 38 | [London Boy](http://twitter.com/search?q=London+Boy) | N/A |
-| 39 | [EU NÃO ACEITO](http://twitter.com/search?q=EU+N%c3%83O+ACEITO) | N/A |
-| 40 | [6 ANOS](http://twitter.com/search?q=6+ANOS) | N/A |
-| 41 | [Farid](http://twitter.com/search?q=Farid) | N/A |
-| 42 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
-| 43 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
-| 44 | [Lucas Silva](http://twitter.com/search?q=Lucas+Silva) | N/A |
-| 45 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 46 | [CALL IT WHAT YOU WANT](http://twitter.com/search?q=CALL+IT+WHAT+YOU+WANT) | N/A |
-| 47 | [Vuaden](http://twitter.com/search?q=Vuaden) | N/A |
-| 48 | [Gauchão](http://twitter.com/search?q=Gauch%c3%a3o) | N/A |
-| 49 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
-| 50 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 2 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
+| 3 | [#altashoras](http://twitter.com/search?q=%23altashoras) | #Altashoras is a Spanish hashtag that translates to "high hours" in English. It is used to refer to the time of day when the sun is at its highest point in the sky, usually around noon. |
+| 4 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 5 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 6 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
+| 7 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 8 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 9 | [Khalil](http://twitter.com/search?q=Khalil) | N/A |
+| 10 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 11 | [TOH FINALE](http://twitter.com/search?q=TOH+FINALE) | N/A |
+| 12 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 13 | [#UFCBR](http://twitter.com/search?q=%23UFCBR) | N/A |
+| 14 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 15 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
+| 16 | [STELOISA EM ALERTA](http://twitter.com/search?q=STELOISA+EM+ALERTA) | N/A |
+| 17 | [#nascarnobandsports](http://twitter.com/search?q=%23nascarnobandsports) | N/A |
+| 18 | [ENZO GABRIEL](http://twitter.com/search?q=ENZO+GABRIEL) | N/A |
+| 19 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 20 | [#IncidenteKojima](http://twitter.com/search?q=%23IncidenteKojima) | N/A |
+| 21 | [the great war](http://twitter.com/search?q=the+great+war) | N/A |
+| 22 | [king of my heart](http://twitter.com/search?q=king+of+my+heart) | N/A |
+| 23 | [TE AMO FURIA](http://twitter.com/search?q=TE+AMO+FURIA) | N/A |
+| 24 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 25 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
+| 26 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 27 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 28 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
+| 29 | [Sophie Charlotte](http://twitter.com/search?q=Sophie+Charlotte) | N/A |
+| 30 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 31 | [João de Deus](http://twitter.com/search?q=Jo%c3%a3o+de+Deus) | N/A |
+| 32 | [Juma](http://twitter.com/search?q=Juma) | N/A |
+| 33 | [DARIUS](http://twitter.com/search?q=DARIUS) | N/A |
+| 34 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
+| 35 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 36 | [ts11](http://twitter.com/search?q=ts11) | N/A |
+| 37 | [6 ANOS](http://twitter.com/search?q=6+ANOS) | N/A |
+| 38 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 39 | [Luana Pinheiro](http://twitter.com/search?q=Luana+Pinheiro) | N/A |
+| 40 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
+| 41 | [Vojvoda](http://twitter.com/search?q=Vojvoda) | N/A |
+| 42 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
+| 43 | [London Boy](http://twitter.com/search?q=London+Boy) | N/A |
+| 44 | [Chevette](http://twitter.com/search?q=Chevette) | N/A |
+| 45 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
+| 46 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 47 | [Letícia Colin](http://twitter.com/search?q=Let%c3%adcia+Colin) | Letícia Colin is a Brazilian actress. Her name is derived from the Latin word "Leticia," which means "joy" or "happiness." In English, her name can be translated to mean "Joyful Colin." |
+| 48 | [SEREMOS CAMPEÕES](http://twitter.com/search?q=SEREMOS+CAMPE%c3%95ES) | N/A |
+| 49 | [Invisible String](http://twitter.com/search?q=Invisible+String) | N/A |
+| 50 | [PAPER RINGS](http://twitter.com/search?q=PAPER+RINGS) | N/A |
 
 
 

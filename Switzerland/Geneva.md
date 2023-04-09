@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-09 02:30:50 UTC`
+📆 Last Updated: `2023-04-09 03:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,9 +24,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 8 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
 | 9 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 10 | [gotthard](http://twitter.com/search?q=gotthard) | N/A |
-| 11 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 12 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 10 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 11 | [gotthard](http://twitter.com/search?q=gotthard) | N/A |
+| 12 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
 | 13 | [#gshc](http://twitter.com/search?q=%23gshc) | N/A |
 | 14 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
 | 15 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
@@ -53,16 +53,16 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 36 | [Hotel](http://twitter.com/search?q=Hotel) | N/A |
 | 37 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 38 | [Willen](http://twitter.com/search?q=Willen) | N/A |
-| 39 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 40 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
-| 41 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
-| 42 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
-| 43 | [herr glarner](http://twitter.com/search?q=herr+glarner) | N/A |
-| 44 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
-| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 46 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 47 | [Speicher](http://twitter.com/search?q=Speicher) | N/A |
-| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 39 | [America](http://twitter.com/search?q=America) | N/A |
+| 40 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 41 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 42 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
+| 43 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
+| 44 | [herr glarner](http://twitter.com/search?q=herr+glarner) | N/A |
+| 45 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
+| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 47 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 48 | [Speicher](http://twitter.com/search?q=Speicher) | N/A |
 
 
 

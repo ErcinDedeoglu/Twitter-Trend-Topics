@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-04-09 02:30:52 UTC`
+📆 Last Updated: `2023-04-09 03:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
-| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 4 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 1 | [#BukberTanpaWacana](http://twitter.com/search?q=%23BukberTanpaWacana) | N/A |
+| 2 | [Fast Feast Festive](http://twitter.com/search?q=Fast+Feast+Festive) | N/A |
+| 3 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
+| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 6 | [#To7heWorld_WeAreNCT](http://twitter.com/search?q=%23To7heWorld_WeAreNCT) | N/A |
-| 7 | [#NarwhalFinance](http://twitter.com/search?q=%23NarwhalFinance) | N/A |
-| 8 | [#7년의_우리맘_따뜻하게_감싸준_NCT](http://twitter.com/search?q=%237%eb%85%84%ec%9d%98_%ec%9a%b0%eb%a6%ac%eb%a7%98_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b2%8c_%ea%b0%90%ec%8b%b8%ec%a4%80_NCT) | N/A |
-| 9 | [Raih Kemuliaan Ramadhan](http://twitter.com/search?q=Raih+Kemuliaan+Ramadhan) | N/A |
+| 6 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
+| 7 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 8 | [#To7heWorld_WeAreNCT](http://twitter.com/search?q=%23To7heWorld_WeAreNCT) | N/A |
+| 9 | [#7년의_우리맘_따뜻하게_감싸준_NCT](http://twitter.com/search?q=%237%eb%85%84%ec%9d%98_%ec%9a%b0%eb%a6%ac%eb%a7%98_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b2%8c_%ea%b0%90%ec%8b%b8%ec%a4%80_NCT) | N/A |
 | 10 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
 | 11 | [Ramadhan Bulan Suci](http://twitter.com/search?q=Ramadhan+Bulan+Suci) | N/A |
 | 12 | [lolos sanksi berat fifa](http://twitter.com/search?q=lolos+sanksi+berat+fifa) | N/A |
-| 13 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 14 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 15 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 16 | [PARK JISUNG THANK YOU](http://twitter.com/search?q=PARK+JISUNG+THANK+YOU) | N/A |
-| 17 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 18 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 19 | [iklan ponds men](http://twitter.com/search?q=iklan+ponds+men) | N/A |
-| 20 | [Dirgahayu TNI Angkatan Udara](http://twitter.com/search?q=Dirgahayu+TNI+Angkatan+Udara) | N/A |
-| 21 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 22 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 23 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
-| 24 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 25 | [z fold4](http://twitter.com/search?q=z+fold4) | N/A |
-| 26 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
-| 27 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 28 | [Sinergi Mengawasi](http://twitter.com/search?q=Sinergi+Mengawasi) | N/A |
-| 29 | [Backstreet](http://twitter.com/search?q=Backstreet) | N/A |
-| 30 | [Jaga Demokrasi](http://twitter.com/search?q=Jaga+Demokrasi) | N/A |
-| 31 | [Disegani di Kawasan](http://twitter.com/search?q=Disegani+di+Kawasan) | N/A |
-| 32 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 33 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
-| 34 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 35 | [Kokas](http://twitter.com/search?q=Kokas) | N/A |
-| 36 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 37 | [Evos](http://twitter.com/search?q=Evos) | N/A |
-| 38 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 39 | [WE WILL STAY HARUTO](http://twitter.com/search?q=WE+WILL+STAY+HARUTO) | N/A |
-| 40 | [Pendiem](http://twitter.com/search?q=Pendiem) | N/A |
-| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 42 | [Kkuma](http://twitter.com/search?q=Kkuma) | N/A |
-| 43 | [Love Me Right](http://twitter.com/search?q=Love+Me+Right) | N/A |
-| 44 | [Tuhan](http://twitter.com/search?q=Tuhan) | N/A |
-| 45 | [Tuhan](http://twitter.com/search?q=Tuhan) | N/A |
-| 46 | [GOLDEN HOUR OUT NOW](http://twitter.com/search?q=GOLDEN+HOUR+OUT+NOW) | N/A |
-| 47 | [Dots](http://twitter.com/search?q=Dots) | N/A |
-| 48 | [Viva La Vida](http://twitter.com/search?q=Viva+La+Vida) | N/A |
-| 49 | [7th Spring with JAEHYUN](http://twitter.com/search?q=7th+Spring+with+JAEHYUN) | N/A |
-| 50 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
+| 13 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
+| 14 | [XH COMEBACK](http://twitter.com/search?q=XH+COMEBACK) | N/A |
+| 15 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 16 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 17 | [Raih Kemuliaan Ramadhan](http://twitter.com/search?q=Raih+Kemuliaan+Ramadhan) | N/A |
+| 18 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 19 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 20 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 21 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 22 | [Tjampolay](http://twitter.com/search?q=Tjampolay) | N/A |
+| 23 | [PARK JISUNG THANK YOU](http://twitter.com/search?q=PARK+JISUNG+THANK+YOU) | N/A |
+| 24 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 25 | [Dirgahayu TNI Angkatan Udara](http://twitter.com/search?q=Dirgahayu+TNI+Angkatan+Udara) | N/A |
+| 26 | [The Librarians](http://twitter.com/search?q=The+Librarians) | N/A |
+| 27 | [Jaga Demokrasi](http://twitter.com/search?q=Jaga+Demokrasi) | N/A |
+| 28 | [Kokas](http://twitter.com/search?q=Kokas) | N/A |
+| 29 | [Sinergi Mengawasi](http://twitter.com/search?q=Sinergi+Mengawasi) | N/A |
+| 30 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 31 | [z fold4](http://twitter.com/search?q=z+fold4) | N/A |
+| 32 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
+| 33 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
+| 34 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
+| 35 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 36 | [Yesus Kristus](http://twitter.com/search?q=Yesus+Kristus) | N/A |
+| 37 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
+| 38 | [Evos](http://twitter.com/search?q=Evos) | N/A |
+| 39 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 40 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 41 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 42 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 43 | [WE WILL STAY HARUTO](http://twitter.com/search?q=WE+WILL+STAY+HARUTO) | N/A |
+| 44 | [Love Me Right](http://twitter.com/search?q=Love+Me+Right) | N/A |
+| 45 | [TNI AU](http://twitter.com/search?q=TNI+AU) | N/A |
+| 46 | [Viva La Vida](http://twitter.com/search?q=Viva+La+Vida) | N/A |
+| 47 | [Pendiem](http://twitter.com/search?q=Pendiem) | N/A |
+| 48 | [Kkuma](http://twitter.com/search?q=Kkuma) | N/A |
+| 49 | [Dots](http://twitter.com/search?q=Dots) | N/A |
+| 50 | [GOLDEN HOUR OUT NOW](http://twitter.com/search?q=GOLDEN+HOUR+OUT+NOW) | N/A |
 
 
 

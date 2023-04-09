@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-04-09 02:30:51 UTC`
+📆 Last Updated: `2023-04-09 03:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 1 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [Glad Påsk](http://twitter.com/search?q=Glad+P%c3%a5sk) | N/A |
-| 4 | [Galajda](http://twitter.com/search?q=Galajda) | N/A |
+| 4 | [galajda](http://twitter.com/search?q=galajda) | N/A |
 | 5 | [Vejdemo](http://twitter.com/search?q=Vejdemo) | N/A |
 | 6 | [Ingvar Hirdwall](http://twitter.com/search?q=Ingvar+Hirdwall) | N/A |
 | 7 | [Borg](http://twitter.com/search?q=Borg) | N/A |
@@ -36,35 +36,35 @@ This is top 50 for [Sweden](</Sweden>)
 | 19 | [Beck](http://twitter.com/search?q=Beck) | N/A |
 | 20 | [malmö ff](http://twitter.com/search?q=malm%c3%b6+ff) | N/A |
 | 21 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
-| 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 23 | [#PrePartyES23](http://twitter.com/search?q=%23PrePartyES23) | N/A |
-| 24 | [taha ali](http://twitter.com/search?q=taha+ali) | N/A |
-| 25 | [Weigel](http://twitter.com/search?q=Weigel) | N/A |
-| 26 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 22 | [taha ali](http://twitter.com/search?q=taha+ali) | N/A |
+| 23 | [Weigel](http://twitter.com/search?q=Weigel) | N/A |
+| 24 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 25 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 26 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 27 | [livets](http://twitter.com/search?q=livets) | N/A |
-| 28 | [Björklöven](http://twitter.com/search?q=Bj%c3%b6rkl%c3%b6ven) | N/A |
+| 28 | [björklöven](http://twitter.com/search?q=bj%c3%b6rkl%c3%b6ven) | N/A |
 | 29 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 30 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
 | 31 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
 | 32 | [Stasi](http://twitter.com/search?q=Stasi) | N/A |
 | 33 | [grimsta](http://twitter.com/search?q=grimsta) | N/A |
-| 34 | [vecchia](http://twitter.com/search?q=vecchia) | N/A |
-| 35 | [#TOTBHA](http://twitter.com/search?q=%23TOTBHA) | N/A |
-| 36 | [Snygg](http://twitter.com/search?q=Snygg) | N/A |
-| 37 | [kiese](http://twitter.com/search?q=kiese) | N/A |
-| 38 | [tack lennart](http://twitter.com/search?q=tack+lennart) | N/A |
-| 39 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 40 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
-| 41 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 42 | [hovet](http://twitter.com/search?q=hovet) | N/A |
-| 43 | [vida arena](http://twitter.com/search?q=vida+arena) | N/A |
-| 44 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 45 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 46 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
-| 47 | [Djurgården](http://twitter.com/search?q=Djurg%c3%a5rden) | N/A |
-| 48 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 49 | [filippa](http://twitter.com/search?q=filippa) | N/A |
-| 50 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 34 | [#TOTBHA](http://twitter.com/search?q=%23TOTBHA) | N/A |
+| 35 | [Snygg](http://twitter.com/search?q=Snygg) | N/A |
+| 36 | [kiese](http://twitter.com/search?q=kiese) | N/A |
+| 37 | [tack lennart](http://twitter.com/search?q=tack+lennart) | N/A |
+| 38 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
+| 39 | [#twittssk](http://twitter.com/search?q=%23twittssk) | N/A |
+| 40 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 41 | [hovet](http://twitter.com/search?q=hovet) | N/A |
+| 42 | [vida arena](http://twitter.com/search?q=vida+arena) | N/A |
+| 43 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 44 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
+| 45 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
+| 46 | [djurgården](http://twitter.com/search?q=djurg%c3%a5rden) | N/A |
+| 47 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 48 | [filippa](http://twitter.com/search?q=filippa) | N/A |
+| 49 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 50 | [nanasi](http://twitter.com/search?q=nanasi) | N/A |
 
 
 

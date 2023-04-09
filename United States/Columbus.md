@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-04-09 02:31:20 UTC`
+📆 Last Updated: `2023-04-09 03:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [FC Cincinnati](http://twitter.com/search?q=FC+Cincinnati) | N/A |
-| 2 | [David Bell](http://twitter.com/search?q=David+Bell) | N/A |
-| 3 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 4 | [Lodolo](http://twitter.com/search?q=Lodolo) | N/A |
-| 5 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 8 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 9 | [#TheRenovatorHGTVtonight](http://twitter.com/search?q=%23TheRenovatorHGTVtonight) | N/A |
-| 10 | [#LAMH](http://twitter.com/search?q=%23LAMH) | N/A |
-| 11 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 12 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
-| 13 | [#PrideOnLifetime](http://twitter.com/search?q=%23PrideOnLifetime) | N/A |
-| 14 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
-| 15 | [Joe Pyfer](http://twitter.com/search?q=Joe+Pyfer) | N/A |
-| 16 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 17 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 18 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 19 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
-| 20 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 21 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 22 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
-| 23 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 24 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
-| 25 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 26 | [Odor](http://twitter.com/search?q=Odor) | N/A |
-| 27 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
-| 28 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 29 | [Syndergaard](http://twitter.com/search?q=Syndergaard) | N/A |
-| 30 | [Air Noland](http://twitter.com/search?q=Air+Noland) | N/A |
-| 31 | [Martell](http://twitter.com/search?q=Martell) | N/A |
-| 32 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 33 | [Calvillo](http://twitter.com/search?q=Calvillo) | N/A |
-| 34 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 35 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
-| 36 | [Stone Garrett](http://twitter.com/search?q=Stone+Garrett) | N/A |
-| 37 | [Logano](http://twitter.com/search?q=Logano) | N/A |
-| 38 | [Stormi](http://twitter.com/search?q=Stormi) | N/A |
-| 39 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 40 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
-| 41 | [Denis Bouanga](http://twitter.com/search?q=Denis+Bouanga) | N/A |
-| 42 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
-| 43 | [Matthew Tkachuk](http://twitter.com/search?q=Matthew+Tkachuk) | N/A |
-| 44 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
-| 45 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 46 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
-| 47 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 48 | [Sam Hughes](http://twitter.com/search?q=Sam+Hughes) | N/A |
-| 49 | [Karate Hottie](http://twitter.com/search?q=Karate+Hottie) | N/A |
-| 50 | [Lauer](http://twitter.com/search?q=Lauer) | N/A |
+| 1 | [#Crew96](http://twitter.com/search?q=%23Crew96) | N/A |
+| 2 | [Air Noland](http://twitter.com/search?q=Air+Noland) | N/A |
+| 3 | [FC Cincinnati](http://twitter.com/search?q=FC+Cincinnati) | N/A |
+| 4 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 5 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 6 | [Josh Bell](http://twitter.com/search?q=Josh+Bell) | N/A |
+| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 9 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 10 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 11 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 12 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 13 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
+| 14 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
+| 15 | [#TheRenovatorHGTVtonight](http://twitter.com/search?q=%23TheRenovatorHGTVtonight) | N/A |
+| 16 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 17 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 18 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
+| 19 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 20 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 21 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 22 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
+| 23 | [Yigit](http://twitter.com/search?q=Yigit) | N/A |
+| 24 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 25 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
+| 26 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
+| 27 | [Frank Martin](http://twitter.com/search?q=Frank+Martin) | N/A |
+| 28 | [Rand Pecknold](http://twitter.com/search?q=Rand+Pecknold) | N/A |
+| 29 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 30 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 31 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 32 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 33 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 34 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 35 | [Motzko](http://twitter.com/search?q=Motzko) | N/A |
+| 36 | [Justin Owen](http://twitter.com/search?q=Justin+Owen) | N/A |
+| 37 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 38 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
+| 39 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 40 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
+| 41 | [Odor](http://twitter.com/search?q=Odor) | N/A |
+| 42 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 43 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 44 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 45 | [Joe Pyfer](http://twitter.com/search?q=Joe+Pyfer) | N/A |
+| 46 | [Robbie Lawler](http://twitter.com/search?q=Robbie+Lawler) | N/A |
+| 47 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 48 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
+| 49 | [Stone Garrett](http://twitter.com/search?q=Stone+Garrett) | N/A |
+| 50 | [Vanney](http://twitter.com/search?q=Vanney) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-04-09 02:31:02 UTC`
+📆 Last Updated: `2023-04-09 03:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
 | 4 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 5 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 6 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 7 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
+| 5 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 6 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
+| 7 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
 | 8 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
-| 9 | [I REFUSE TO BELIEVE](http://twitter.com/search?q=I+REFUSE+TO+BELIEVE) | N/A |
-| 10 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 11 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 12 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 13 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 14 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 15 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 16 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 17 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 18 | [I JUST WOKE UP](http://twitter.com/search?q=I+JUST+WOKE+UP) | N/A |
-| 19 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 20 | [rosie posie](http://twitter.com/search?q=rosie+posie) | N/A |
-| 21 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
-| 22 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 23 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
-| 24 | [Maligayang Pasko](http://twitter.com/search?q=Maligayang+Pasko) | Maligayang Pasko is a Filipino phrase meaning "Merry Christmas". It is used to wish someone a happy and joyous holiday season. |
-| 25 | [jisoo no prepare](http://twitter.com/search?q=jisoo+no+prepare) | N/A |
-| 26 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
-| 27 | [MY PARENTS](http://twitter.com/search?q=MY+PARENTS) | N/A |
-| 28 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
-| 29 | [deesroom](http://twitter.com/search?q=deesroom) | N/A |
-| 30 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 31 | [Resurrection Sunday](http://twitter.com/search?q=Resurrection+Sunday) | N/A |
-| 32 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
-| 33 | [taytay](http://twitter.com/search?q=taytay) | N/A |
-| 34 | [NO WAY](http://twitter.com/search?q=NO+WAY) | N/A |
-| 35 | [The Lord](http://twitter.com/search?q=The+Lord) | N/A |
-| 36 | [TOTOO BA](http://twitter.com/search?q=TOTOO+BA) | N/A |
-| 37 | [Day of Valor](http://twitter.com/search?q=Day+of+Valor) | N/A |
-| 38 | [chanbaek](http://twitter.com/search?q=chanbaek) | N/A |
-| 39 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
-| 40 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
-| 41 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 42 | [I AM MV TEASER OUT NOW](http://twitter.com/search?q=I+AM+MV+TEASER+OUT+NOW) | N/A |
-| 43 | [Kkuma](http://twitter.com/search?q=Kkuma) | N/A |
-| 44 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 45 | [davidxshaira becauseiloveyou](http://twitter.com/search?q=davidxshaira+becauseiloveyou) | N/A |
-| 46 | [jonghyun](http://twitter.com/search?q=jonghyun) | N/A |
-| 47 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 48 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 9 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 10 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
+| 11 | [I REFUSE TO BELIEVE](http://twitter.com/search?q=I+REFUSE+TO+BELIEVE) | N/A |
+| 12 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 13 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 14 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
+| 15 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 16 | [D-5 TO ANJI PARAISO](http://twitter.com/search?q=D-5+TO+ANJI+PARAISO) | N/A |
+| 17 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 18 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
+| 19 | [Rosie posie](http://twitter.com/search?q=Rosie+posie) | N/A |
+| 20 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
+| 21 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
+| 22 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
+| 23 | [I JUST WOKE UP](http://twitter.com/search?q=I+JUST+WOKE+UP) | N/A |
+| 24 | [deesroom](http://twitter.com/search?q=deesroom) | N/A |
+| 25 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
+| 26 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
+| 27 | [TANGINA NAMAN](http://twitter.com/search?q=TANGINA+NAMAN) | N/A |
+| 28 | [MY PARENTS](http://twitter.com/search?q=MY+PARENTS) | N/A |
+| 29 | [Mumei](http://twitter.com/search?q=Mumei) | N/A |
+| 30 | [MAYWARD EGGciting Sunday](http://twitter.com/search?q=MAYWARD+EGGciting+Sunday) | N/A |
+| 31 | [taytay](http://twitter.com/search?q=taytay) | N/A |
+| 32 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
+| 33 | [Maligayang Pasko](http://twitter.com/search?q=Maligayang+Pasko) | Maligayang Pasko is a Filipino phrase meaning "Merry Christmas". It is used to wish someone a happy and joyous holiday season. |
+| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 35 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
+| 36 | [chanbaek](http://twitter.com/search?q=chanbaek) | N/A |
+| 37 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
+| 38 | [London Boy](http://twitter.com/search?q=London+Boy) | N/A |
+| 39 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 40 | [TOTOO BA](http://twitter.com/search?q=TOTOO+BA) | N/A |
+| 41 | [I AM MV TEASER OUT NOW](http://twitter.com/search?q=I+AM+MV+TEASER+OUT+NOW) | N/A |
+| 42 | [Kkuma](http://twitter.com/search?q=Kkuma) | N/A |
+| 43 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 44 | [davidxshaira becauseiloveyou](http://twitter.com/search?q=davidxshaira+becauseiloveyou) | N/A |
+| 45 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 46 | [WDYM JOE](http://twitter.com/search?q=WDYM+JOE) | N/A |
+| 47 | [Resurrection Sunday](http://twitter.com/search?q=Resurrection+Sunday) | N/A |
+| 48 | [Jake](http://twitter.com/search?q=Jake) | N/A |
 | 49 | [rradish for ppop](http://twitter.com/search?q=rradish+for+ppop) | N/A |
-| 50 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 50 | [NO WAY](http://twitter.com/search?q=NO+WAY) | N/A |
 
 
 

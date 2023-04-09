@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-04-09 02:30:27 UTC`
+📆 Last Updated: `2023-04-09 03:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 2 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 3 | [#WomensWorlds](http://twitter.com/search?q=%23WomensWorlds) | N/A |
-| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 5 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
+| 2 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 3 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 4 | [#WomensWorlds](http://twitter.com/search?q=%23WomensWorlds) | N/A |
+| 5 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 6 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 8 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 9 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 10 | [Jett Alexander](http://twitter.com/search?q=Jett+Alexander) | N/A |
-| 11 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
-| 12 | [Habs](http://twitter.com/search?q=Habs) | N/A |
-| 13 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
-| 14 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 15 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 16 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 17 | [Wayne Simmonds](http://twitter.com/search?q=Wayne+Simmonds) | N/A |
-| 18 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 19 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
-| 20 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
-| 21 | [Saputo](http://twitter.com/search?q=Saputo) | N/A |
-| 22 | [EBUG](http://twitter.com/search?q=EBUG) | N/A |
-| 23 | [Losada](http://twitter.com/search?q=Losada) | N/A |
-| 24 | [AUSTON](http://twitter.com/search?q=AUSTON) | N/A |
-| 25 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 26 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
-| 27 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 28 | [Kampf](http://twitter.com/search?q=Kampf) | N/A |
-| 29 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 30 | [Willy](http://twitter.com/search?q=Willy) | N/A |
-| 31 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
-| 32 | [Simmer](http://twitter.com/search?q=Simmer) | N/A |
-| 33 | [Pezzetta](http://twitter.com/search?q=Pezzetta) | N/A |
-| 34 | [Connor McDavid](http://twitter.com/search?q=Connor+McDavid) | N/A |
-| 35 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 36 | [Preds](http://twitter.com/search?q=Preds) | N/A |
-| 37 | [Giroux](http://twitter.com/search?q=Giroux) | N/A |
-| 38 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
-| 39 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 40 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 41 | [Mario Movie](http://twitter.com/search?q=Mario+Movie) | N/A |
-| 42 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
-| 43 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 44 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 45 | [#MLSSeasonPass](http://twitter.com/search?q=%23MLSSeasonPass) | N/A |
-| 46 | [#GoJetsGo](http://twitter.com/search?q=%23GoJetsGo) | N/A |
-| 47 | [#endirectdelunivers](http://twitter.com/search?q=%23endirectdelunivers) | N/A |
-| 48 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 49 | [#WMCC2023](http://twitter.com/search?q=%23WMCC2023) | N/A |
-| 50 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 7 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 9 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
+| 10 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 11 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
+| 12 | [Jett Alexander](http://twitter.com/search?q=Jett+Alexander) | N/A |
+| 13 | [Habs](http://twitter.com/search?q=Habs) | N/A |
+| 14 | [Chris Wideman](http://twitter.com/search?q=Chris+Wideman) | N/A |
+| 15 | [#TFCLive](http://twitter.com/search?q=%23TFCLive) | N/A |
+| 16 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 17 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 18 | [Bo Horvat](http://twitter.com/search?q=Bo+Horvat) | N/A |
+| 19 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 20 | [EBUG](http://twitter.com/search?q=EBUG) | N/A |
+| 21 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 22 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 23 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
+| 24 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 25 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 26 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 27 | [Wayne Simmonds](http://twitter.com/search?q=Wayne+Simmonds) | N/A |
+| 28 | [Saputo](http://twitter.com/search?q=Saputo) | N/A |
+| 29 | [Losada](http://twitter.com/search?q=Losada) | N/A |
+| 30 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 31 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
+| 32 | [Renard](http://twitter.com/search?q=Renard) | N/A |
+| 33 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
+| 34 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 35 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 36 | [AUSTON](http://twitter.com/search?q=AUSTON) | N/A |
+| 37 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
+| 38 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
+| 39 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
+| 40 | [Trout](http://twitter.com/search?q=Trout) | N/A |
+| 41 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
+| 42 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 43 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 44 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 45 | [Belt](http://twitter.com/search?q=Belt) | N/A |
+| 46 | [Simmer](http://twitter.com/search?q=Simmer) | N/A |
+| 47 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 48 | [Willy](http://twitter.com/search?q=Willy) | N/A |
+| 49 | [Giroux](http://twitter.com/search?q=Giroux) | N/A |
+| 50 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-04-09 02:30:48 UTC`
+📆 Last Updated: `2023-04-09 03:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Italy](</Italy>)
 | 10 | [#IlCantanteMascherato](http://twitter.com/search?q=%23IlCantanteMascherato) | N/A |
 | 11 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
 | 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 14 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
-| 15 | [Di Bello](http://twitter.com/search?q=Di+Bello) | N/A |
-| 16 | [Milinkovic](http://twitter.com/search?q=Milinkovic) | N/A |
+| 13 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
+| 14 | [Di Bello](http://twitter.com/search?q=Di+Bello) | N/A |
+| 15 | [Milinkovic](http://twitter.com/search?q=Milinkovic) | N/A |
+| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 17 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
 | 18 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 19 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 19 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
 | 20 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 21 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
-| 22 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 23 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 21 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 22 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 23 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
 | 24 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
 | 25 | [sabato santo](http://twitter.com/search?q=sabato+santo) | N/A |
-| 26 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 27 | [Federica](http://twitter.com/search?q=Federica) | N/A |
-| 28 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
-| 29 | [Israele](http://twitter.com/search?q=Israele) | N/A |
+| 26 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
+| 27 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
+| 28 | [Israele](http://twitter.com/search?q=Israele) | N/A |
+| 29 | [Lorella](http://twitter.com/search?q=Lorella) | N/A |
 | 30 | [Candreva](http://twitter.com/search?q=Candreva) | N/A |
-| 31 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 32 | [Zaccagni](http://twitter.com/search?q=Zaccagni) | Zaccagni is an Italian surname. It is derived from the Latin word "zacchaeus," which means "pure" or "innocent." In English, the name Zaccagni can be translated to mean "pure one." |
-| 33 | [Lorella](http://twitter.com/search?q=Lorella) | N/A |
-| 34 | [Raimondo](http://twitter.com/search?q=Raimondo) | Raimondo is an Italian given name derived from the Germanic name Raginmund, which means "wise protector". It is also a surname. |
+| 31 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 32 | [Raimondo](http://twitter.com/search?q=Raimondo) | Raimondo is an Italian given name derived from the Germanic name Raginmund, which means "wise protector". It is also a surname. |
+| 33 | [Todaro](http://twitter.com/search?q=Todaro) | Todaro is an Italian surname. It is derived from the Latin word "todarius," which means "hunter." The name is most commonly found in the regions of Sicily and Calabria. In English, it can be translated to mean "hunter." |
+| 34 | [Ave Maria](http://twitter.com/search?q=Ave+Maria) | N/A |
 | 35 | [Zerbi](http://twitter.com/search?q=Zerbi) | N/A |
-| 36 | [Todaro](http://twitter.com/search?q=Todaro) | Todaro is an Italian surname. It is derived from the Latin word "todarius," which means "hunter." The name is most commonly found in the regions of Sicily and Calabria. In English, it can be translated to mean "hunter." |
-| 37 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 38 | [Ridicolo](http://twitter.com/search?q=Ridicolo) | N/A |
-| 39 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 40 | [Miretti](http://twitter.com/search?q=Miretti) | N/A |
-| 41 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 42 | [Benedetta](http://twitter.com/search?q=Benedetta) | N/A |
-| 43 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 44 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 45 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
-| 46 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 47 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
-| 48 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
-| 49 | [Medjugorje](http://twitter.com/search?q=Medjugorje) | N/A |
-| 50 | [Pasquetta](http://twitter.com/search?q=Pasquetta) | N/A |
+| 36 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 37 | [Ridicolo](http://twitter.com/search?q=Ridicolo) | N/A |
+| 38 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 39 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 40 | [Benedetta](http://twitter.com/search?q=Benedetta) | N/A |
+| 41 | [Thiago Motta](http://twitter.com/search?q=Thiago+Motta) | N/A |
+| 42 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 43 | [forza roma](http://twitter.com/search?q=forza+roma) | N/A |
+| 44 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
+| 45 | [Medjugorje](http://twitter.com/search?q=Medjugorje) | N/A |
+| 46 | [Cagnotto](http://twitter.com/search?q=Cagnotto) | N/A |
+| 47 | [cuccarini](http://twitter.com/search?q=cuccarini) | N/A |
+| 48 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 49 | [Emanuel Lo](http://twitter.com/search?q=Emanuel+Lo) | N/A |
+| 50 | [pasquetta](http://twitter.com/search?q=pasquetta) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-04-09 02:30:43 UTC`
+📆 Last Updated: `2023-04-09 03:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,32 +16,32 @@ This is top 50 for [Ireland](</Ireland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 3 | [Gaelic Park](http://twitter.com/search?q=Gaelic+Park) | N/A |
+| 2 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 5 | [Andy Moran](http://twitter.com/search?q=Andy+Moran) | N/A |
 | 6 | [#MUNEVE](http://twitter.com/search?q=%23MUNEVE) | #MUNEVE is a hashtag used to promote the Muneve app, which is an online platform that helps people find and book beauty services. The hashtag is used to share user experiences, tips, and advice related to beauty services. In English, #MUNEVE means "My Beauty Experience". |
-| 7 | [#GAAGO](http://twitter.com/search?q=%23GAAGO) | N/A |
-| 8 | [Johnny Glynn](http://twitter.com/search?q=Johnny+Glynn) | N/A |
-| 9 | [#LEIvLEI](http://twitter.com/search?q=%23LEIvLEI) | N/A |
-| 10 | [#thesnapper](http://twitter.com/search?q=%23thesnapper) | N/A |
-| 11 | [Shane Carthy](http://twitter.com/search?q=Shane+Carthy) | N/A |
+| 7 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 8 | [#LEIvLEI](http://twitter.com/search?q=%23LEIvLEI) | N/A |
+| 9 | [#COYGIG](http://twitter.com/search?q=%23COYGIG) | N/A |
+| 10 | [#USAIRL](http://twitter.com/search?q=%23USAIRL) | N/A |
+| 11 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 | 12 | [Bronx](http://twitter.com/search?q=Bronx) | N/A |
-| 13 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 15 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 16 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 17 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 18 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 19 | [Sligo](http://twitter.com/search?q=Sligo) | N/A |
-| 20 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 21 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
-| 22 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 23 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 24 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
-| 25 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
-| 26 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 27 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 13 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 14 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 15 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 16 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 17 | [Gaelic Park](http://twitter.com/search?q=Gaelic+Park) | N/A |
+| 18 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 19 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
+| 20 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 21 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 22 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
+| 23 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 24 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
+| 25 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 26 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 27 | [Sligo](http://twitter.com/search?q=Sligo) | N/A |
 | 28 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
 | 29 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 30 | [Simms](http://twitter.com/search?q=Simms) | N/A |

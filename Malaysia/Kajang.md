@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kajang
 
-📆 Last Updated: `2023-04-09 02:31:00 UTC`
+📆 Last Updated: `2023-04-09 03:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 4 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 5 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 6 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 7 | [#MUNEVE](http://twitter.com/search?q=%23MUNEVE) | #MUNEVE is a hashtag used to promote the Muneve app, which is an online platform that helps people find and book beauty services. The hashtag is used to share user experiences, tips, and advice related to beauty services. In English, #MUNEVE means "My Beauty Experience". |
-| 8 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
-| 9 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 10 | [#EXOCLOCK_D1](http://twitter.com/search?q=%23EXOCLOCK_D1) | N/A |
-| 11 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 12 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
+| 3 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 4 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 5 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 6 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 7 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
+| 8 | [#MUNEVE](http://twitter.com/search?q=%23MUNEVE) | #MUNEVE is a hashtag used to promote the Muneve app, which is an online platform that helps people find and book beauty services. The hashtag is used to share user experiences, tips, and advice related to beauty services. In English, #MUNEVE means "My Beauty Experience". |
+| 9 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
+| 10 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 11 | [#EXOCLOCK_D1](http://twitter.com/search?q=%23EXOCLOCK_D1) | N/A |
+| 12 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
 | 13 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
 | 14 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
 | 15 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 16 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 17 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 19 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
-| 20 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 21 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 22 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [salam nuzul al-quran](http://twitter.com/search?q=salam+nuzul+al-quran) | N/A |
-| 25 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 26 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 27 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 28 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 29 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 16 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 17 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 18 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
+| 19 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 20 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 21 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 22 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 23 | [salam nuzul al-quran](http://twitter.com/search?q=salam+nuzul+al-quran) | N/A |
+| 24 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 25 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 27 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
+| 28 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 29 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 30 | [jjong](http://twitter.com/search?q=jjong) | N/A |
 | 31 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
-| 32 | [Somi](http://twitter.com/search?q=Somi) | N/A |
-| 33 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 32 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 33 | [Somi](http://twitter.com/search?q=Somi) | N/A |
 | 34 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 35 | [Lee Seunggi](http://twitter.com/search?q=Lee+Seunggi) | N/A |
-| 36 | [chanbaek](http://twitter.com/search?q=chanbaek) | N/A |
-| 37 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 38 | [Butterfly](http://twitter.com/search?q=Butterfly) | N/A |
+| 35 | [chanbaek](http://twitter.com/search?q=chanbaek) | N/A |
+| 36 | [lee seunggi](http://twitter.com/search?q=lee+seunggi) | N/A |
+| 37 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 38 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
 | 39 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
-| 40 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 41 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 42 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 40 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 41 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 42 | [Shopee](http://twitter.com/search?q=Shopee) | N/A |
 | 43 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 | 44 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 45 | [Riuh](http://twitter.com/search?q=Riuh) | N/A |
 | 46 | [ksoo](http://twitter.com/search?q=ksoo) | N/A |
 | 47 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
-| 48 | [I AM MV TEASER OUT NOW](http://twitter.com/search?q=I+AM+MV+TEASER+OUT+NOW) | N/A |
-| 49 | [Love Me Right](http://twitter.com/search?q=Love+Me+Right) | N/A |
-| 50 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 48 | [Butterfly](http://twitter.com/search?q=Butterfly) | N/A |
+| 49 | [I AM MV TEASER OUT NOW](http://twitter.com/search?q=I+AM+MV+TEASER+OUT+NOW) | N/A |
+| 50 | [Love Me Right](http://twitter.com/search?q=Love+Me+Right) | N/A |
 
 
 

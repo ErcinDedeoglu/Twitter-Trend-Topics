@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-04-09 02:31:24 UTC`
+📆 Last Updated: `2023-04-09 03:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#InterMiamiCF](http://twitter.com/search?q=%23InterMiamiCF) | N/A |
+| 1 | [Matthew Tkachuk](http://twitter.com/search?q=Matthew+Tkachuk) | N/A |
 | 2 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
-| 3 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 4 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 5 | [#RaysUp](http://twitter.com/search?q=%23RaysUp) | N/A |
-| 6 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 7 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 8 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 9 | [Super Mario Bros](http://twitter.com/search?q=Super+Mario+Bros) | N/A |
-| 10 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
-| 11 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 13 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 14 | [#TheRenovatorHGTVtonight](http://twitter.com/search?q=%23TheRenovatorHGTVtonight) | N/A |
-| 15 | [#LAMH](http://twitter.com/search?q=%23LAMH) | N/A |
-| 16 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
-| 17 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 18 | [Joe Pyfer](http://twitter.com/search?q=Joe+Pyfer) | N/A |
-| 19 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 20 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 21 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 22 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 23 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
-| 24 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 25 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
-| 26 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 27 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
-| 28 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 29 | [Odor](http://twitter.com/search?q=Odor) | N/A |
-| 30 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
-| 31 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 32 | [Syndergaard](http://twitter.com/search?q=Syndergaard) | N/A |
-| 33 | [Martell](http://twitter.com/search?q=Martell) | N/A |
-| 34 | [Air Noland](http://twitter.com/search?q=Air+Noland) | N/A |
-| 35 | [Stone Garrett](http://twitter.com/search?q=Stone+Garrett) | N/A |
-| 36 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 37 | [Calvillo](http://twitter.com/search?q=Calvillo) | N/A |
-| 38 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 39 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
-| 40 | [Logano](http://twitter.com/search?q=Logano) | N/A |
-| 41 | [Stormi](http://twitter.com/search?q=Stormi) | N/A |
-| 42 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 43 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
-| 44 | [Denis Bouanga](http://twitter.com/search?q=Denis+Bouanga) | N/A |
-| 45 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 46 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 47 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
-| 48 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
-| 49 | [Matthew Tkachuk](http://twitter.com/search?q=Matthew+Tkachuk) | N/A |
-| 50 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
+| 3 | [#InterMiamiCF](http://twitter.com/search?q=%23InterMiamiCF) | N/A |
+| 4 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 5 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 6 | [#RaysUp](http://twitter.com/search?q=%23RaysUp) | N/A |
+| 7 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 8 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 9 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 10 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 11 | [Super Mario Bros](http://twitter.com/search?q=Super+Mario+Bros) | N/A |
+| 12 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 14 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 15 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 16 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 17 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 18 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
+| 19 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 20 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 21 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
+| 22 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 23 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
+| 24 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 25 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 26 | [Yigit](http://twitter.com/search?q=Yigit) | N/A |
+| 27 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 28 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
+| 29 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
+| 30 | [Frank Martin](http://twitter.com/search?q=Frank+Martin) | N/A |
+| 31 | [Rand Pecknold](http://twitter.com/search?q=Rand+Pecknold) | N/A |
+| 32 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 33 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 34 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 35 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 36 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 37 | [Motzko](http://twitter.com/search?q=Motzko) | N/A |
+| 38 | [Mike Trout](http://twitter.com/search?q=Mike+Trout) | N/A |
+| 39 | [Justin Owen](http://twitter.com/search?q=Justin+Owen) | N/A |
+| 40 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 41 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
+| 42 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
+| 43 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 44 | [Odor](http://twitter.com/search?q=Odor) | N/A |
+| 45 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 46 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 47 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 48 | [Joe Pyfer](http://twitter.com/search?q=Joe+Pyfer) | N/A |
+| 49 | [Robbie Lawler](http://twitter.com/search?q=Robbie+Lawler) | N/A |
+| 50 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 
 
 

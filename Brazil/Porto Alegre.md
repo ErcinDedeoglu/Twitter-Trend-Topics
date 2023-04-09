@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-04-09 02:30:39 UTC`
+📆 Last Updated: `2023-04-09 03:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 2 | [É CAMPEÃO](http://twitter.com/search?q=%c3%89+CAMPE%c3%83O) | É CAMPEÃO is a Portuguese phrase that translates to "It's a Champion" in English. It is typically used to express joy and excitement when someone or something has achieved a great victory or accomplishment. |
-| 3 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
-| 4 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
-| 5 | [Gustavinho](http://twitter.com/search?q=Gustavinho) | N/A |
-| 6 | [Rio Grande do Sul](http://twitter.com/search?q=Rio+Grande+do+Sul) | N/A |
-| 7 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
-| 8 | [Diego Souza](http://twitter.com/search?q=Diego+Souza) | Diego Souza is a Brazilian professional footballer who plays as an attacking midfielder for Sport Club Internacional. In English, the name Diego Souza means "Diego of the South". |
-| 9 | [Chora](http://twitter.com/search?q=Chora) | N/A |
-| 10 | [Carol Portaluppi](http://twitter.com/search?q=Carol+Portaluppi) | N/A |
-| 11 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
-| 12 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
-| 13 | [Vina](http://twitter.com/search?q=Vina) | N/A |
-| 14 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 15 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 2 | [Jean Dias](http://twitter.com/search?q=Jean+Dias) | N/A |
+| 3 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
+| 4 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
+| 5 | [Geromel](http://twitter.com/search?q=Geromel) | N/A |
+| 6 | [Hexa](http://twitter.com/search?q=Hexa) | N/A |
+| 7 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
+| 8 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 9 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
+| 10 | [Rio Grande do Sul](http://twitter.com/search?q=Rio+Grande+do+Sul) | N/A |
+| 11 | [Gustavinho](http://twitter.com/search?q=Gustavinho) | N/A |
+| 12 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
+| 13 | [Diego Souza](http://twitter.com/search?q=Diego+Souza) | Diego Souza is a Brazilian professional footballer who plays as an attacking midfielder for Sport Club Internacional. In English, the name Diego Souza means "Diego of the South". |
+| 14 | [coelho](http://twitter.com/search?q=coelho) | Coelho is a Portuguese word meaning "rabbit". |
+| 15 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
 | 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 17 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 18 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 19 | [Khalil](http://twitter.com/search?q=Khalil) | N/A |
-| 20 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 21 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 22 | [TOH FINALE](http://twitter.com/search?q=TOH+FINALE) | N/A |
-| 23 | [STELOISA EM ALERTA](http://twitter.com/search?q=STELOISA+EM+ALERTA) | N/A |
-| 24 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 25 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
-| 26 | [the great war](http://twitter.com/search?q=the+great+war) | N/A |
-| 27 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 17 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
+| 18 | [#altashoras](http://twitter.com/search?q=%23altashoras) | #Altashoras is a Spanish hashtag that translates to "high hours" in English. It is used to refer to the time of day when the sun is at its highest point in the sky, usually around noon. |
+| 19 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 20 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 21 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
+| 22 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 23 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 24 | [Khalil](http://twitter.com/search?q=Khalil) | N/A |
+| 25 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 26 | [TOH FINALE](http://twitter.com/search?q=TOH+FINALE) | N/A |
+| 27 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
 | 28 | [#UFCBR](http://twitter.com/search?q=%23UFCBR) | N/A |
-| 29 | [SIMONE MENDES](http://twitter.com/search?q=SIMONE+MENDES) | SIMONE MENDES is a Portuguese name. It is composed of two given names, Simone and Mendes. The name Simone is derived from the Hebrew name Shimon, meaning "he who hears". Mendes is a Portuguese surname derived from the Latin word mens, meaning "mind". In English, the name Simone Mendes would translate to "He Who Hears Mind". |
-| 30 | [#nascarnobandsports](http://twitter.com/search?q=%23nascarnobandsports) | N/A |
-| 31 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
-| 32 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 33 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 34 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
-| 35 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
-| 36 | [#IncidenteKojima](http://twitter.com/search?q=%23IncidenteKojima) | N/A |
-| 37 | [KING OF MY HEART](http://twitter.com/search?q=KING+OF+MY+HEART) | N/A |
-| 38 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 39 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 40 | [ts11](http://twitter.com/search?q=ts11) | N/A |
-| 41 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
-| 42 | [Juma](http://twitter.com/search?q=Juma) | N/A |
-| 43 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 44 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
-| 45 | [É MENTIRA](http://twitter.com/search?q=%c3%89+MENTIRA) | N/A |
-| 46 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
-| 47 | [Invisible String](http://twitter.com/search?q=Invisible+String) | N/A |
-| 48 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 49 | [PAPER RINGS](http://twitter.com/search?q=PAPER+RINGS) | N/A |
+| 29 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
+| 30 | [STELOISA EM ALERTA](http://twitter.com/search?q=STELOISA+EM+ALERTA) | N/A |
+| 31 | [#nascarnobandsports](http://twitter.com/search?q=%23nascarnobandsports) | N/A |
+| 32 | [#BakeCelebridades](http://twitter.com/search?q=%23BakeCelebridades) | N/A |
+| 33 | [ENZO GABRIEL](http://twitter.com/search?q=ENZO+GABRIEL) | N/A |
+| 34 | [the great war](http://twitter.com/search?q=the+great+war) | N/A |
+| 35 | [king of my heart](http://twitter.com/search?q=king+of+my+heart) | N/A |
+| 36 | [TE AMO FURIA](http://twitter.com/search?q=TE+AMO+FURIA) | N/A |
+| 37 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 38 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
+| 39 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
+| 40 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 41 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 42 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 43 | [Juma](http://twitter.com/search?q=Juma) | N/A |
+| 44 | [Sophie Charlotte](http://twitter.com/search?q=Sophie+Charlotte) | N/A |
+| 45 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
+| 46 | [PAPER RINGS](http://twitter.com/search?q=PAPER+RINGS) | N/A |
+| 47 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 48 | [ts11](http://twitter.com/search?q=ts11) | N/A |
+| 49 | [6 ANOS](http://twitter.com/search?q=6+ANOS) | N/A |
 | 50 | [Luana Pinheiro](http://twitter.com/search?q=Luana+Pinheiro) | N/A |
 
 

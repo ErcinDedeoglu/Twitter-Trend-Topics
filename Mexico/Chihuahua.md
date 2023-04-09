@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chihuahua
 
-📆 Last Updated: `2023-04-09 02:30:32 UTC`
+📆 Last Updated: `2023-04-09 03:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 3 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 4 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 5 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 6 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 7 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 8 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 9 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
-| 10 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
-| 11 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
-| 12 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 13 | [Pavel Pérez](http://twitter.com/search?q=Pavel+P%c3%a9rez) | N/A |
-| 14 | [#Chivas](http://twitter.com/search?q=%23Chivas) | N/A |
-| 15 | [Tay y Joe](http://twitter.com/search?q=Tay+y+Joe) | N/A |
-| 16 | [#Tigres](http://twitter.com/search?q=%23Tigres) | N/A |
-| 17 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 18 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 19 | [#HiddenBladeInLATAM](http://twitter.com/search?q=%23HiddenBladeInLATAM) | N/A |
-| 20 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
-| 21 | [NO AUTORIZO](http://twitter.com/search?q=NO+AUTORIZO) | N/A |
+| 2 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 3 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 4 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 5 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 6 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 7 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 8 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 9 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 10 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 11 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
+| 12 | [Tabo](http://twitter.com/search?q=Tabo) | N/A |
+| 13 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 14 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
+| 15 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 16 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
+| 17 | [Fulgencio](http://twitter.com/search?q=Fulgencio) | N/A |
+| 18 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 19 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 20 | [#CruzAzul](http://twitter.com/search?q=%23CruzAzul) | N/A |
+| 21 | [Tay y Joe](http://twitter.com/search?q=Tay+y+Joe) | N/A |
 | 22 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
-| 23 | [Garza](http://twitter.com/search?q=Garza) | N/A |
-| 24 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
-| 25 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
-| 26 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 27 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 28 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 29 | [ME NIEGO](http://twitter.com/search?q=ME+NIEGO) | N/A |
-| 30 | [YA NO CREO EN EL AMOR](http://twitter.com/search?q=YA+NO+CREO+EN+EL+AMOR) | N/A |
-| 31 | [Vega](http://twitter.com/search?q=Vega) | N/A |
-| 32 | [Enrique de la Madrid](http://twitter.com/search?q=Enrique+de+la+Madrid) | N/A |
-| 33 | [NO ES CIERTO](http://twitter.com/search?q=NO+ES+CIERTO) | N/A |
-| 34 | [Pauno](http://twitter.com/search?q=Pauno) | Pauno is a Finnish word meaning "to be brave". It is often used as an encouragement to someone to take on a challenge or difficult task. |
-| 35 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 36 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
-| 37 | [prieto](http://twitter.com/search?q=prieto) | N/A |
-| 38 | [Akron](http://twitter.com/search?q=Akron) | N/A |
-| 39 | [Gurría](http://twitter.com/search?q=Gurr%c3%ada) | N/A |
-| 40 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 41 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 42 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 43 | [Ben Hur](http://twitter.com/search?q=Ben+Hur) | N/A |
-| 44 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
-| 45 | [Sabina](http://twitter.com/search?q=Sabina) | N/A |
-| 46 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
-| 47 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 48 | [Ramón](http://twitter.com/search?q=Ram%c3%b3n) | N/A |
-| 49 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 23 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
+| 24 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 25 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
+| 26 | [Garza](http://twitter.com/search?q=Garza) | N/A |
+| 27 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
+| 28 | [Papel](http://twitter.com/search?q=Papel) | N/A |
+| 29 | [Rotondi](http://twitter.com/search?q=Rotondi) | N/A |
+| 30 | [#Chivas](http://twitter.com/search?q=%23Chivas) | N/A |
+| 31 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 32 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 33 | [Layún](http://twitter.com/search?q=Lay%c3%ban) | N/A |
+| 34 | [#HiddenBladeInLATAM](http://twitter.com/search?q=%23HiddenBladeInLATAM) | N/A |
+| 35 | [Gorriaran](http://twitter.com/search?q=Gorriaran) | N/A |
+| 36 | [Venegas](http://twitter.com/search?q=Venegas) | N/A |
+| 37 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
+| 38 | [NO AUTORIZO](http://twitter.com/search?q=NO+AUTORIZO) | N/A |
+| 39 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
+| 40 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 41 | [ME NIEGO](http://twitter.com/search?q=ME+NIEGO) | N/A |
+| 42 | [Rivero](http://twitter.com/search?q=Rivero) | N/A |
+| 43 | [YA NO CREO EN EL AMOR](http://twitter.com/search?q=YA+NO+CREO+EN+EL+AMOR) | N/A |
+| 44 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 45 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 46 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 47 | [De la Madrid](http://twitter.com/search?q=De+la+Madrid) | N/A |
+| 48 | [prieto](http://twitter.com/search?q=prieto) | N/A |
+| 49 | [Pauno](http://twitter.com/search?q=Pauno) | Pauno is a Finnish word meaning "to be brave". It is often used as an encouragement to someone to take on a challenge or difficult task. |
+| 50 | [Vega](http://twitter.com/search?q=Vega) | N/A |
 
 
 

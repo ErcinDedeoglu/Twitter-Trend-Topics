@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-04-09 02:31:27 UTC`
+📆 Last Updated: `2023-04-09 03:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Link 1](http://twitter.com/search?q=Link+1) | N/A |
 | 2 | [Live Stream](http://twitter.com/search?q=Live+Stream) | N/A |
-| 3 | [Thor](http://twitter.com/search?q=Thor) | N/A |
-| 4 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
-| 5 | [Kapler](http://twitter.com/search?q=Kapler) | N/A |
-| 6 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 7 | [Hader](http://twitter.com/search?q=Hader) | N/A |
-| 8 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 9 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 10 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 11 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 12 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 13 | [#criterion4you](http://twitter.com/search?q=%23criterion4you) | N/A |
-| 14 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 15 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
-| 16 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 17 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
-| 18 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 20 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 21 | [#TheRenovatorHGTVtonight](http://twitter.com/search?q=%23TheRenovatorHGTVtonight) | N/A |
-| 22 | [#LAMH](http://twitter.com/search?q=%23LAMH) | N/A |
-| 23 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 24 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
-| 25 | [#PrideOnLifetime](http://twitter.com/search?q=%23PrideOnLifetime) | N/A |
-| 26 | [Joe Pyfer](http://twitter.com/search?q=Joe+Pyfer) | N/A |
-| 27 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 28 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 29 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 30 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
-| 31 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 32 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 33 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
-| 34 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 35 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
+| 3 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 4 | [Syndergaard](http://twitter.com/search?q=Syndergaard) | N/A |
+| 5 | [Hader](http://twitter.com/search?q=Hader) | N/A |
+| 6 | [#Quakes74](http://twitter.com/search?q=%23Quakes74) | N/A |
+| 7 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
+| 8 | [Thor](http://twitter.com/search?q=Thor) | N/A |
+| 9 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 10 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
+| 11 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 12 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 13 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 14 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 15 | [#boxing](http://twitter.com/search?q=%23boxing) | N/A |
+| 16 | [Kapler](http://twitter.com/search?q=Kapler) | N/A |
+| 17 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 18 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 19 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 20 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 21 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 22 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 23 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
+| 24 | [#criterion4you](http://twitter.com/search?q=%23criterion4you) | N/A |
+| 25 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
+| 26 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 27 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
+| 28 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 29 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 30 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 31 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 32 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 33 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 34 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
+| 35 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
 | 36 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 37 | [Odor](http://twitter.com/search?q=Odor) | N/A |
-| 38 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
-| 39 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 40 | [Syndergaard](http://twitter.com/search?q=Syndergaard) | N/A |
-| 41 | [Martell](http://twitter.com/search?q=Martell) | N/A |
-| 42 | [Air Noland](http://twitter.com/search?q=Air+Noland) | N/A |
-| 43 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 44 | [Calvillo](http://twitter.com/search?q=Calvillo) | N/A |
-| 45 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 46 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
-| 47 | [Stone Garrett](http://twitter.com/search?q=Stone+Garrett) | N/A |
-| 48 | [Logano](http://twitter.com/search?q=Logano) | N/A |
-| 49 | [Stormi](http://twitter.com/search?q=Stormi) | N/A |
-| 50 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 37 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
+| 38 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 39 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 40 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 41 | [Yigit](http://twitter.com/search?q=Yigit) | N/A |
+| 42 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
+| 43 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 44 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
+| 45 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
+| 46 | [Frank Martin](http://twitter.com/search?q=Frank+Martin) | N/A |
+| 47 | [Rand Pecknold](http://twitter.com/search?q=Rand+Pecknold) | N/A |
+| 48 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 49 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 50 | [Brito](http://twitter.com/search?q=Brito) | N/A |
 
 
 
