@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-04-09 18:17:50 UTC`
+📆 Last Updated: `2023-04-09 19:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 1 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
 | 2 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 3 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 4 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 5 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 6 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 7 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 8 | [#LaPenaDeMorfi](http://twitter.com/search?q=%23LaPenaDeMorfi) | N/A |
-| 9 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 10 | [Alexander Arnold](http://twitter.com/search?q=Alexander+Arnold) | N/A |
-| 11 | [Borgen](http://twitter.com/search?q=Borgen) | N/A |
-| 12 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 13 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 14 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
-| 15 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
-| 16 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 17 | [Gabriel Jesús](http://twitter.com/search?q=Gabriel+Jes%c3%bas) | N/A |
-| 18 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
-| 19 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 20 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 21 | [Rambert](http://twitter.com/search?q=Rambert) | N/A |
-| 22 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 23 | [Monzon](http://twitter.com/search?q=Monzon) | N/A |
-| 24 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 25 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
-| 26 | [Furriel](http://twitter.com/search?q=Furriel) | N/A |
-| 27 | [Jorge Macri](http://twitter.com/search?q=Jorge+Macri) | N/A |
-| 28 | [Repetto](http://twitter.com/search?q=Repetto) | N/A |
-| 29 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 30 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
-| 31 | [#D_DayTracklist](http://twitter.com/search?q=%23D_DayTracklist) | N/A |
-| 32 | [Báez](http://twitter.com/search?q=B%c3%a1ez) | N/A |
-| 33 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
-| 34 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
-| 35 | [Tevez](http://twitter.com/search?q=Tevez) | N/A |
-| 36 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
-| 37 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 38 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
+| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 4 | [Zaid Romero](http://twitter.com/search?q=Zaid+Romero) | N/A |
+| 5 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 6 | [Repetto](http://twitter.com/search?q=Repetto) | N/A |
+| 7 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 8 | [Monzon](http://twitter.com/search?q=Monzon) | N/A |
+| 9 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
+| 10 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 11 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 12 | [#LaPenaDeMorfi](http://twitter.com/search?q=%23LaPenaDeMorfi) | N/A |
+| 13 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
+| 14 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 15 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 16 | [Alexander Arnold](http://twitter.com/search?q=Alexander+Arnold) | N/A |
+| 17 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 18 | [Doman](http://twitter.com/search?q=Doman) | N/A |
+| 19 | [Borgen](http://twitter.com/search?q=Borgen) | N/A |
+| 20 | [Libertadores de América](http://twitter.com/search?q=Libertadores+de+Am%c3%a9rica) | N/A |
+| 21 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 22 | [Gustavo López](http://twitter.com/search?q=Gustavo+L%c3%b3pez) | N/A |
+| 23 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 24 | [Boselli](http://twitter.com/search?q=Boselli) | N/A |
+| 25 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
+| 26 | [Corcho](http://twitter.com/search?q=Corcho) | N/A |
+| 27 | [Rollheiser](http://twitter.com/search?q=Rollheiser) | N/A |
+| 28 | [Gabriel Jesús](http://twitter.com/search?q=Gabriel+Jes%c3%bas) | N/A |
+| 29 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 30 | [Furriel](http://twitter.com/search?q=Furriel) | N/A |
+| 31 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 32 | [Rambert](http://twitter.com/search?q=Rambert) | N/A |
+| 33 | [Andujar](http://twitter.com/search?q=Andujar) | N/A |
+| 34 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 35 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 36 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
+| 37 | [Elizalde](http://twitter.com/search?q=Elizalde) | N/A |
+| 38 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
 | 39 | [#GodoyCruz](http://twitter.com/search?q=%23GodoyCruz) | N/A |
-| 40 | [#ElTrenNosUne](http://twitter.com/search?q=%23ElTrenNosUne) | N/A |
-| 41 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 42 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 43 | [Buen Domingo](http://twitter.com/search?q=Buen+Domingo) | N/A |
-| 44 | [Passarella](http://twitter.com/search?q=Passarella) | N/A |
-| 45 | [Angelici](http://twitter.com/search?q=Angelici) | N/A |
-| 46 | [Laura Di Marco](http://twitter.com/search?q=Laura+Di+Marco) | N/A |
-| 47 | [gerard](http://twitter.com/search?q=gerard) | N/A |
-| 48 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 49 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 40 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 41 | [Pincha](http://twitter.com/search?q=Pincha) | N/A |
+| 42 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 43 | [Jorge Macri](http://twitter.com/search?q=Jorge+Macri) | N/A |
+| 44 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 45 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 46 | [#ClasicoRosarino](http://twitter.com/search?q=%23ClasicoRosarino) | N/A |
+| 47 | [Moncho](http://twitter.com/search?q=Moncho) | N/A |
+| 48 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 49 | [Tomba](http://twitter.com/search?q=Tomba) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sendai
 
-📆 Last Updated: `2023-04-09 18:18:08 UTC`
+📆 Last Updated: `2023-04-09 19:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,33 +38,33 @@ This is top 50 for [Japan](</Japan>)
 | 21 | [リバプール](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%97%e3%83%bc%e3%83%ab) | リバプール (Ribapuru) is the Japanese name for the English city of Liverpool. It is a port city in northwest England, located on the eastern side of the Mersey Estuary. The city is known for its rich musical and cultural heritage, as well as its football team, Liverpool FC. |
 | 22 | [みつりちゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%a4%e3%82%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 | 23 | [ヌニェス](http://twitter.com/search?q=%e3%83%8c%e3%83%8b%e3%82%a7%e3%82%b9) | ヌニェス is a Japanese word that means "nonsense". It is used to describe something that is nonsensical or absurd. |
-| 24 | [アルテタ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%86%e3%82%bf) | N/A |
-| 25 | [カーティス](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%86%e3%82%a3%e3%82%b9) | N/A |
-| 26 | [ホールディング](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%ab%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | ホールディング is a Japanese term that refers to the ownership of a company or business by one or more individuals or entities. In English, it is often referred to as "holding company" or "parent company". |
-| 27 | [アオのハコ](http://twitter.com/search?q=%e3%82%a2%e3%82%aa%e3%81%ae%e3%83%8f%e3%82%b3) | N/A |
+| 24 | [アオのハコ](http://twitter.com/search?q=%e3%82%a2%e3%82%aa%e3%81%ae%e3%83%8f%e3%82%b3) | N/A |
+| 25 | [アルテタ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%86%e3%82%bf) | N/A |
+| 26 | [カーティス](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%86%e3%82%a3%e3%82%b9) | N/A |
+| 27 | [ホールディング](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%ab%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | ホールディング is a Japanese term that refers to the ownership of a company or business by one or more individuals or entities. In English, it is often referred to as "holding company" or "parent company". |
 | 28 | [カナヲちゃん](http://twitter.com/search?q=%e3%82%ab%e3%83%8a%e3%83%b2%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 | 29 | [後藤さん](http://twitter.com/search?q=%e5%be%8c%e8%97%a4%e3%81%95%e3%82%93) | N/A |
-| 30 | [勝ち点1](http://twitter.com/search?q=%e5%8b%9d%e3%81%a1%e7%82%b91) | N/A |
-| 31 | [パワハラ会議](http://twitter.com/search?q=%e3%83%91%e3%83%af%e3%83%8f%e3%83%a9%e4%bc%9a%e8%ad%b0) | N/A |
-| 32 | [ファビーニョ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%93%e3%83%bc%e3%83%8b%e3%83%a7) | ファビーニョ is a Japanese onomatopoeia that expresses the sound of something being thrown away. In English, it could be translated as "thwack" or "toss". |
-| 33 | [海ちゃん](http://twitter.com/search?q=%e6%b5%b7%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 30 | [スターブロッサム](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%96%e3%83%ad%e3%83%83%e3%82%b5%e3%83%a0) | N/A |
+| 31 | [勝ち点1](http://twitter.com/search?q=%e5%8b%9d%e3%81%a1%e7%82%b91) | N/A |
+| 32 | [パワハラ会議](http://twitter.com/search?q=%e3%83%91%e3%83%af%e3%83%8f%e3%83%a9%e4%bc%9a%e8%ad%b0) | N/A |
+| 33 | [ファビーニョ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%93%e3%83%bc%e3%83%8b%e3%83%a7) | ファビーニョ is a Japanese onomatopoeia that expresses the sound of something being thrown away. In English, it could be translated as "thwack" or "toss". |
 | 34 | [鬼滅リアタイ](http://twitter.com/search?q=%e9%ac%bc%e6%bb%85%e3%83%aa%e3%82%a2%e3%82%bf%e3%82%a4) | N/A |
-| 35 | [スターブロッサム](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%96%e3%83%ad%e3%83%83%e3%82%b5%e3%83%a0) | N/A |
-| 36 | [マンウィズ](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%82%a6%e3%82%a3%e3%82%ba) | マンウィズ is a Japanese manga series written and illustrated by Yuki Kodama. It follows the story of a young man named Manji, who is cursed with immortality and must fight against evil in order to atone for his past sins. The title of the series translates to "Man with a Sword" in English. |
-| 37 | [投票率の低さ](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e7%8e%87%e3%81%ae%e4%bd%8e%e3%81%95) | N/A |
+| 35 | [投票率の低さ](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e7%8e%87%e3%81%ae%e4%bd%8e%e3%81%95) | N/A |
+| 36 | [海ちゃん](http://twitter.com/search?q=%e6%b5%b7%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 37 | [マンウィズ](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%82%a6%e3%82%a3%e3%82%ba) | マンウィズ is a Japanese manga series written and illustrated by Yuki Kodama. It follows the story of a young man named Manji, who is cursed with immortality and must fight against evil in order to atone for his past sins. The title of the series translates to "Man with a Sword" in English. |
 | 38 | [ウーデゴール](http://twitter.com/search?q=%e3%82%a6%e3%83%bc%e3%83%87%e3%82%b4%e3%83%bc%e3%83%ab) | ウーデゴール (Udego-ru) is a Japanese word that means "to go out and have fun". It is often used to describe a night out with friends or a night of partying. |
-| 39 | [主題歌SixTONES](http://twitter.com/search?q=%e4%b8%bb%e9%a1%8c%e6%ad%8cSixTONES) | N/A |
-| 40 | [甘露寺さん](http://twitter.com/search?q=%e7%94%98%e9%9c%b2%e5%af%ba%e3%81%95%e3%82%93) | N/A |
+| 39 | [甘露寺さん](http://twitter.com/search?q=%e7%94%98%e9%9c%b2%e5%af%ba%e3%81%95%e3%82%93) | N/A |
+| 40 | [トップ当選](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%97%e5%bd%93%e9%81%b8) | N/A |
 | 41 | [鬼滅の作画](http://twitter.com/search?q=%e9%ac%bc%e6%bb%85%e3%81%ae%e4%bd%9c%e7%94%bb) | N/A |
 | 42 | [ファンダイク](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%83%80%e3%82%a4%e3%82%af) | N/A |
-| 43 | [トップ当選](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%97%e5%bd%93%e9%81%b8) | N/A |
-| 44 | [ロバートソン](http://twitter.com/search?q=%e3%83%ad%e3%83%90%e3%83%bc%e3%83%88%e3%82%bd%e3%83%b3) | N/A |
-| 45 | [絢音ちゃん](http://twitter.com/search?q=%e7%b5%a2%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | 絢音ちゃん is a character from the Japanese multimedia franchise "Kiratto Pri☆Chan". Her name translates to "Ayane-chan" in English. She is a cheerful and energetic girl who loves to sing and dance. She is also known for her bright pink hair and her love of fashion. |
-| 46 | [第444回](http://twitter.com/search?q=%e7%ac%ac444%e5%9b%9e) | N/A |
+| 43 | [主題歌SixTONES](http://twitter.com/search?q=%e4%b8%bb%e9%a1%8c%e6%ad%8cSixTONES) | N/A |
+| 44 | [第444回](http://twitter.com/search?q=%e7%ac%ac444%e5%9b%9e) | N/A |
+| 45 | [ロバートソン](http://twitter.com/search?q=%e3%83%ad%e3%83%90%e3%83%bc%e3%83%88%e3%82%bd%e3%83%b3) | N/A |
+| 46 | [無限城の作画](http://twitter.com/search?q=%e7%84%a1%e9%99%90%e5%9f%8e%e3%81%ae%e4%bd%9c%e7%94%bb) | N/A |
 | 47 | [きな子ちゃん](http://twitter.com/search?q=%e3%81%8d%e3%81%aa%e5%ad%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 48 | [無限城の作画](http://twitter.com/search?q=%e7%84%a1%e9%99%90%e5%9f%8e%e3%81%ae%e4%bd%9c%e7%94%bb) | N/A |
-| 49 | [松茸ご飯](http://twitter.com/search?q=%e6%9d%be%e8%8c%b8%e3%81%94%e9%a3%af) | N/A |
-| 50 | [山ちゃん](http://twitter.com/search?q=%e5%b1%b1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 48 | [絢音ちゃん](http://twitter.com/search?q=%e7%b5%a2%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | 絢音ちゃん is a character from the Japanese multimedia franchise "Kiratto Pri☆Chan". Her name translates to "Ayane-chan" in English. She is a cheerful and energetic girl who loves to sing and dance. She is also known for her bright pink hair and her love of fashion. |
+| 49 | [山ちゃん](http://twitter.com/search?q=%e5%b1%b1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 50 | [sword](http://twitter.com/search?q=sword) | N/A |
 
 
 

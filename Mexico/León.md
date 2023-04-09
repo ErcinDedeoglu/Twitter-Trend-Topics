@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-04-09 18:17:43 UTC`
+📆 Last Updated: `2023-04-09 19:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,52 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [RETURN OF CD9](http://twitter.com/search?q=RETURN+OF+CD9) | N/A |
-| 3 | [CD9 COMEBACK](http://twitter.com/search?q=CD9+COMEBACK) | N/A |
-| 4 | [#CD910AÑOS](http://twitter.com/search?q=%23CD910A%c3%91OS) | N/A |
-| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
-| 8 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 10 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 11 | [Rivas](http://twitter.com/search?q=Rivas) | N/A |
-| 12 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 13 | [#Pumas](http://twitter.com/search?q=%23Pumas) | N/A |
-| 14 | [Aldrete](http://twitter.com/search?q=Aldrete) | N/A |
-| 15 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
-| 16 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 17 | [Gutiérrez](http://twitter.com/search?q=Guti%c3%a9rrez) | N/A |
-| 18 | [Monroy](http://twitter.com/search?q=Monroy) | N/A |
-| 19 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
-| 20 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 21 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 22 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
-| 23 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
-| 24 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 25 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 26 | [La Sierra](http://twitter.com/search?q=La+Sierra) | N/A |
-| 27 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 28 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 29 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 30 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
-| 31 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 32 | [Tinder](http://twitter.com/search?q=Tinder) | N/A |
-| 33 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
-| 34 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 35 | [prieto](http://twitter.com/search?q=prieto) | N/A |
-| 36 | [Papel](http://twitter.com/search?q=Papel) | N/A |
-| 37 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 38 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 39 | [Enrique de la Madrid](http://twitter.com/search?q=Enrique+de+la+Madrid) | N/A |
-| 40 | [#LaMañaneraNoSeToca](http://twitter.com/search?q=%23LaMa%c3%b1aneraNoSeToca) | N/A |
-| 41 | [#D_DayTracklist](http://twitter.com/search?q=%23D_DayTracklist) | N/A |
-| 42 | [#OyeTuFandom](http://twitter.com/search?q=%23OyeTuFandom) | N/A |
-| 43 | [#D_DayIsComing](http://twitter.com/search?q=%23D_DayIsComing) | N/A |
+| 1 | [CD9 COMEBACK](http://twitter.com/search?q=CD9+COMEBACK) | N/A |
+| 2 | [#CD910AÑOS](http://twitter.com/search?q=%23CD910A%c3%91OS) | N/A |
+| 3 | [CD9 RETURN](http://twitter.com/search?q=CD9+RETURN) | N/A |
+| 4 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
+| 5 | [Chino Huerta](http://twitter.com/search?q=Chino+Huerta) | N/A |
+| 6 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 9 | [Rivas](http://twitter.com/search?q=Rivas) | N/A |
+| 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 11 | [Freddy](http://twitter.com/search?q=Freddy) | N/A |
+| 12 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 13 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 14 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 15 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 16 | [Alan](http://twitter.com/search?q=Alan) | N/A |
+| 17 | [Aldrete](http://twitter.com/search?q=Aldrete) | N/A |
+| 18 | [Turco](http://twitter.com/search?q=Turco) | N/A |
+| 19 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 20 | [Julio González](http://twitter.com/search?q=Julio+Gonz%c3%a1lez) | N/A |
+| 21 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
+| 22 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
+| 23 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 24 | [Gutiérrez](http://twitter.com/search?q=Guti%c3%a9rrez) | N/A |
+| 25 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
+| 26 | [Monroy](http://twitter.com/search?q=Monroy) | N/A |
+| 27 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 28 | [#LaMañaneraNoSeToca](http://twitter.com/search?q=%23LaMa%c3%b1aneraNoSeToca) | N/A |
+| 29 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
+| 30 | [La Sierra](http://twitter.com/search?q=La+Sierra) | N/A |
+| 31 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 32 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 33 | [Freire](http://twitter.com/search?q=Freire) | N/A |
+| 34 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 35 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 36 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 37 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 38 | [Yaiba](http://twitter.com/search?q=Yaiba) | N/A |
+| 39 | [gerard](http://twitter.com/search?q=gerard) | N/A |
+| 40 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 41 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 42 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 43 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 44 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 45 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 46 | [prieto](http://twitter.com/search?q=prieto) | N/A |
 
 
 
