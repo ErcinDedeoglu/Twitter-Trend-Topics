@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-04-09 07:16:57 UTC`
+📆 Last Updated: `2023-04-09 08:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,38 +15,31 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 2 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 2 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 3 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 4 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 5 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 6 | [#EasterSunday](http://twitter.com/search?q=%23EasterSunday) | N/A |
+| 6 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
 | 7 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
 | 8 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
-| 9 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 10 | [#andNEW](http://twitter.com/search?q=%23andNEW) | N/A |
-| 11 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 9 | [#andNEW](http://twitter.com/search?q=%23andNEW) | N/A |
+| 10 | [Christ is Risen](http://twitter.com/search?q=Christ+is+Risen) | N/A |
+| 11 | [#SocialistSunday](http://twitter.com/search?q=%23SocialistSunday) | N/A |
 | 12 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
-| 13 | [#SocialistSunday](http://twitter.com/search?q=%23SocialistSunday) | N/A |
-| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 15 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
-| 16 | [Wordle 659 X](http://twitter.com/search?q=Wordle+659+X) | N/A |
-| 17 | [#امپورٹڈ_حکومت_نامنظور](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%be%d9%88%d8%b1%d9%b9%da%88_%d8%ad%da%a9%d9%88%d9%85%d8%aa_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
-| 18 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 19 | [Christ is Risen](http://twitter.com/search?q=Christ+is+Risen) | N/A |
-| 20 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 21 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 22 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
-| 23 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 24 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 25 | [Easter Day](http://twitter.com/search?q=Easter+Day) | N/A |
-| 26 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
-| 27 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 28 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
-| 29 | [Easter Bunny](http://twitter.com/search?q=Easter+Bunny) | N/A |
-| 30 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 31 | [#9thAprilBlackDay](http://twitter.com/search?q=%239thAprilBlackDay) | N/A |
-| 32 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
+| 13 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 14 | [Wordle 659 X](http://twitter.com/search?q=Wordle+659+X) | N/A |
+| 15 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 17 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 18 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
+| 19 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
+| 20 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 21 | [#امپورٹڈ_حکومت_نامنظور](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%be%d9%88%d8%b1%d9%b9%da%88_%d8%ad%da%a9%d9%88%d9%85%d8%aa_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
+| 22 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 23 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 24 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 25 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 
 
 

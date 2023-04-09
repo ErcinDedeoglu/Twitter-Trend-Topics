@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-09 07:16:56 UTC`
+📆 Last Updated: `2023-04-09 08:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,9 +21,9 @@ This is top 50 for Spain
 | 4 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
 | 5 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 7 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 8 | [#PrePartyES23](http://twitter.com/search?q=%23PrePartyES23) | N/A |
-| 9 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
+| 7 | [#PrePartyES23](http://twitter.com/search?q=%23PrePartyES23) | N/A |
+| 8 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
+| 9 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
 | 10 | [#SantoEntierroGrande23](http://twitter.com/search?q=%23SantoEntierroGrande23) | N/A |
 | 11 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 12 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
@@ -34,37 +34,37 @@ This is top 50 for Spain
 | 17 | [#UFCEurosport](http://twitter.com/search?q=%23UFCEurosport) | N/A |
 | 18 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
 | 19 | [alberola rojas](http://twitter.com/search?q=alberola+rojas) | N/A |
-| 20 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 20 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 21 | [Setién](http://twitter.com/search?q=Seti%c3%a9n) | Setién is a Spanish surname derived from the Latin name Saturninus. It is a patronymic name meaning "son of Saturn". |
-| 22 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 23 | [Foyth](http://twitter.com/search?q=Foyth) | Foyth is a surname of Spanish origin. It is derived from the Latin word "fidelis", meaning faithful or loyal. |
-| 24 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
-| 25 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
-| 26 | [Mahoma](http://twitter.com/search?q=Mahoma) | N/A |
-| 27 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 28 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 29 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 22 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
+| 23 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
+| 24 | [Mahoma](http://twitter.com/search?q=Mahoma) | N/A |
+| 25 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 26 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 27 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 28 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 29 | [Foyth](http://twitter.com/search?q=Foyth) | Foyth is a surname of Spanish origin. It is derived from the Latin word "fidelis", meaning faithful or loyal. |
 | 30 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 31 | [Mandi](http://twitter.com/search?q=Mandi) | N/A |
-| 32 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 33 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 31 | [Moreneta](http://twitter.com/search?q=Moreneta) | N/A |
+| 32 | [Mandi](http://twitter.com/search?q=Mandi) | N/A |
+| 33 | [gueye](http://twitter.com/search?q=gueye) | N/A |
+| 34 | [Terminator 2](http://twitter.com/search?q=Terminator+2) | N/A |
 | 35 | [Cachorro](http://twitter.com/search?q=Cachorro) | N/A |
-| 36 | [Terminator 2](http://twitter.com/search?q=Terminator+2) | N/A |
-| 37 | [Moreneta](http://twitter.com/search?q=Moreneta) | N/A |
+| 36 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 38 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 39 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 39 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
 | 40 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 41 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 42 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
-| 43 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 41 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 42 | [José Couso](http://twitter.com/search?q=Jos%c3%a9+Couso) | N/A |
+| 43 | [Pau Torres](http://twitter.com/search?q=Pau+Torres) | N/A |
 | 44 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 45 | [Perea](http://twitter.com/search?q=Perea) | N/A |
-| 46 | [José Couso](http://twitter.com/search?q=Jos%c3%a9+Couso) | N/A |
-| 47 | [Pau Torres](http://twitter.com/search?q=Pau+Torres) | N/A |
-| 48 | [San Gonzalo](http://twitter.com/search?q=San+Gonzalo) | N/A |
-| 49 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
-| 50 | [Jacinta](http://twitter.com/search?q=Jacinta) | N/A |
+| 45 | [San Gonzalo](http://twitter.com/search?q=San+Gonzalo) | N/A |
+| 46 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
+| 47 | [Sanción](http://twitter.com/search?q=Sanci%c3%b3n) | N/A |
+| 48 | [Jacinta](http://twitter.com/search?q=Jacinta) | N/A |
+| 49 | [dani garcía](http://twitter.com/search?q=dani+garc%c3%ada) | N/A |
+| 50 | [Catalunya](http://twitter.com/search?q=Catalunya) | N/A |
 
 
 

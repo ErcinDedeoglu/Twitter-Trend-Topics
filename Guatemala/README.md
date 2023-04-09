@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-09 07:16:52 UTC`
+📆 Last Updated: `2023-04-09 08:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,27 +31,27 @@ This is top 50 for Guatemala
 | 14 | [Achuapa](http://twitter.com/search?q=Achuapa) | N/A |
 | 15 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 16 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 17 | [Xinabajul](http://twitter.com/search?q=Xinabajul) | N/A |
-| 18 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
-| 19 | [#LNFG](http://twitter.com/search?q=%23LNFG) | N/A |
-| 20 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
-| 21 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
-| 22 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 23 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 24 | [Duki](http://twitter.com/search?q=Duki) | N/A |
-| 25 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 26 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 27 | [#SismoGT](http://twitter.com/search?q=%23SismoGT) | N/A |
-| 28 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 29 | [chivarreto](http://twitter.com/search?q=chivarreto) | N/A |
+| 17 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
+| 18 | [#lnfg](http://twitter.com/search?q=%23lnfg) | N/A |
+| 19 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
+| 20 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
+| 21 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 22 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 23 | [Duki](http://twitter.com/search?q=Duki) | N/A |
+| 24 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 25 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 26 | [#sismogt](http://twitter.com/search?q=%23sismogt) | N/A |
+| 27 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 28 | [chivarreto](http://twitter.com/search?q=chivarreto) | N/A |
+| 29 | [Duko](http://twitter.com/search?q=Duko) | N/A |
 | 30 | [Calvario](http://twitter.com/search?q=Calvario) | N/A |
 | 31 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 32 | [Tortillas](http://twitter.com/search?q=Tortillas) | N/A |
-| 33 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 34 | [chimaltenango](http://twitter.com/search?q=chimaltenango) | N/A |
-| 35 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 36 | [Jornada 17](http://twitter.com/search?q=Jornada+17) | N/A |
-| 37 | [Duko](http://twitter.com/search?q=Duko) | N/A |
+| 32 | [Xinabajul](http://twitter.com/search?q=Xinabajul) | N/A |
+| 33 | [Tortillas](http://twitter.com/search?q=Tortillas) | N/A |
+| 34 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 35 | [Chimaltenango](http://twitter.com/search?q=Chimaltenango) | N/A |
+| 36 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 37 | [jornada 17](http://twitter.com/search?q=jornada+17) | N/A |
 | 38 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
 | 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 40 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |

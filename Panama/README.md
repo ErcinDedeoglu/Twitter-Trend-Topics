@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-09 07:16:55 UTC`
+📆 Last Updated: `2023-04-09 08:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,13 +31,13 @@ This is top 50 for Panama
 | 14 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
 | 15 | [Motta](http://twitter.com/search?q=Motta) | N/A |
 | 16 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 17 | [Copa](http://twitter.com/search?q=Copa) | N/A |
-| 18 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
-| 19 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 20 | [#SemanaSantaSegura2023](http://twitter.com/search?q=%23SemanaSantaSegura2023) | N/A |
-| 21 | [Multiplaza](http://twitter.com/search?q=Multiplaza) | N/A |
-| 22 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
-| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
+| 18 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 19 | [#SemanaSantaSegura2023](http://twitter.com/search?q=%23SemanaSantaSegura2023) | N/A |
+| 20 | [Multiplaza](http://twitter.com/search?q=Multiplaza) | N/A |
+| 21 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
+| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 23 | [Copa](http://twitter.com/search?q=Copa) | N/A |
 | 24 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
 | 25 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 26 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
@@ -58,7 +58,7 @@ This is top 50 for Panama
 | 41 | [bomberos](http://twitter.com/search?q=bomberos) | N/A |
 | 42 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
 | 43 | [#dreamstime](http://twitter.com/search?q=%23dreamstime) | N/A |
-| 44 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 44 | [monagas](http://twitter.com/search?q=monagas) | N/A |
 | 45 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 | 46 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
 | 47 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |

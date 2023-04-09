@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-09 07:16:46 UTC`
+📆 Last Updated: `2023-04-09 08:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#isles](http://twitter.com/search?q=%23isles) | N/A |
-| 2 | [#RBNY](http://twitter.com/search?q=%23RBNY) | N/A |
-| 3 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
+| 1 | [#RBNY](http://twitter.com/search?q=%23RBNY) | N/A |
+| 2 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 3 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
 | 4 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
-| 5 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 6 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 7 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 8 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 9 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 10 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 11 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
-| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 14 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 15 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
-| 16 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 17 | [Fundora](http://twitter.com/search?q=Fundora) | N/A |
+| 5 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 7 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 8 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 9 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
+| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 11 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 13 | [#andNEW](http://twitter.com/search?q=%23andNEW) | N/A |
+| 14 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
+| 15 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 16 | [Fundora](http://twitter.com/search?q=Fundora) | N/A |
+| 17 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
 | 18 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
-| 19 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 20 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
-| 21 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 22 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
-| 23 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 24 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 25 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 26 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 27 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
-| 28 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 29 | [Headstrong](http://twitter.com/search?q=Headstrong) | N/A |
+| 19 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
+| 20 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
+| 21 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 22 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 23 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 24 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 25 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 26 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
+| 27 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 28 | [Headstrong](http://twitter.com/search?q=Headstrong) | N/A |
+| 29 | [Haney](http://twitter.com/search?q=Haney) | N/A |
 | 30 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
 | 31 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
 | 32 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 33 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 34 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
-| 35 | [OUT COLD](http://twitter.com/search?q=OUT+COLD) | N/A |
-| 36 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 37 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 38 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
-| 39 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
-| 40 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
-| 41 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 42 | [WHAT A KNOCKOUT](http://twitter.com/search?q=WHAT+A+KNOCKOUT) | N/A |
-| 43 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 44 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 45 | [KO'd](http://twitter.com/search?q=KO%27d) | N/A |
-| 46 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
+| 33 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
+| 34 | [OUT COLD](http://twitter.com/search?q=OUT+COLD) | N/A |
+| 35 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
+| 36 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 37 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 38 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 39 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 40 | [WHAT A KNOCKOUT](http://twitter.com/search?q=WHAT+A+KNOCKOUT) | N/A |
+| 41 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 42 | [KO'd](http://twitter.com/search?q=KO%27d) | N/A |
+| 43 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
+| 44 | [Whittaker](http://twitter.com/search?q=Whittaker) | N/A |
+| 45 | [Sounders](http://twitter.com/search?q=Sounders) | Sounders is the name of a Major League Soccer (MLS) team based in Seattle, Washington. The team was founded in 2007 and plays its home games at CenturyLink Field. The name Sounders is derived from the maritime tradition of the Puget Sound region, and refers to the sound of a foghorn or whistle used to signal ships. |
+| 46 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
 | 47 | [THE CHAMP IS BACK](http://twitter.com/search?q=THE+CHAMP+IS+BACK) | N/A |
-| 48 | [Gamebred](http://twitter.com/search?q=Gamebred) | N/A |
-| 49 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
-| 50 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 48 | [Keyshawn](http://twitter.com/search?q=Keyshawn) | N/A |
+| 49 | [Gamebred](http://twitter.com/search?q=Gamebred) | N/A |
+| 50 | [LETS GO BRANDON](http://twitter.com/search?q=LETS+GO+BRANDON) | N/A |
 
 
 

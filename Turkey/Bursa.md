@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-04-09 07:16:39 UTC`
+📆 Last Updated: `2023-04-09 08:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Enayi Muammer](http://twitter.com/search?q=Enayi+Muammer) | N/A |
-| 2 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
-| 3 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 4 | [#SüleymanÇakır](http://twitter.com/search?q=%23S%c3%bcleyman%c3%87ak%c4%b1r) | N/A |
-| 5 | [token xproject](http://twitter.com/search?q=token+xproject) | N/A |
-| 6 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 7 | [Mutlu Pazarlar](http://twitter.com/search?q=Mutlu+Pazarlar) | N/A |
-| 8 | [Aytun Çıray](http://twitter.com/search?q=Aytun+%c3%87%c4%b1ray) | N/A |
-| 9 | [Buket](http://twitter.com/search?q=Buket) | N/A |
-| 10 | [SON KARARIM ERDOĞAN](http://twitter.com/search?q=SON+KARARIM+ERDO%c4%9eAN) | N/A |
-| 11 | [sondurak adanakitabı](http://twitter.com/search?q=sondurak+adanakitab%c4%b1) | N/A |
-| 12 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 13 | [remzi çayır](http://twitter.com/search?q=remzi+%c3%a7ay%c4%b1r) | N/A |
-| 14 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 1 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
+| 2 | [token xproject](http://twitter.com/search?q=token+xproject) | N/A |
+| 3 | [#SüleymanÇakır](http://twitter.com/search?q=%23S%c3%bcleyman%c3%87ak%c4%b1r) | N/A |
+| 4 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
+| 5 | [#HadiOradanCHP](http://twitter.com/search?q=%23HadiOradanCHP) | N/A |
+| 6 | [Aytun Çıray](http://twitter.com/search?q=Aytun+%c3%87%c4%b1ray) | N/A |
+| 7 | [Buket](http://twitter.com/search?q=Buket) | N/A |
+| 8 | [SON KARARIM ERDOĞAN](http://twitter.com/search?q=SON+KARARIM+ERDO%c4%9eAN) | N/A |
+| 9 | [sondurak adanakitabı](http://twitter.com/search?q=sondurak+adanakitab%c4%b1) | N/A |
+| 10 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 11 | [Enayi Muammer](http://twitter.com/search?q=Enayi+Muammer) | N/A |
+| 12 | [remzi çayır](http://twitter.com/search?q=remzi+%c3%a7ay%c4%b1r) | N/A |
+| 13 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 14 | [Taner Yıldız](http://twitter.com/search?q=Taner+Y%c4%b1ld%c4%b1z) | N/A |
 | 15 | [memuröğrterbakançözer](http://twitter.com/search?q=memur%c3%b6%c4%9frterbakan%c3%a7%c3%b6zer) | N/A |
-| 16 | [İP KOPTU](http://twitter.com/search?q=%c4%b0P+KOPTU) | N/A |
-| 17 | [belediye iade](http://twitter.com/search?q=belediye+iade) | N/A |
+| 16 | [belediye iade](http://twitter.com/search?q=belediye+iade) | N/A |
+| 17 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
 | 18 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
 | 19 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
-| 20 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 21 | [Tüpçü](http://twitter.com/search?q=T%c3%bcp%c3%a7%c3%bc) | N/A |
-| 22 | [CHP Parti Meclisi](http://twitter.com/search?q=CHP+Parti+Meclisi) | N/A |
-| 23 | [Taner Yıldız](http://twitter.com/search?q=Taner+Y%c4%b1ld%c4%b1z) | N/A |
-| 24 | [Yaşasın Atatürk](http://twitter.com/search?q=Ya%c5%9fas%c4%b1n+Atat%c3%bcrk) | N/A |
-| 25 | [Baraj Altında](http://twitter.com/search?q=Baraj+Alt%c4%b1nda) | N/A |
-| 26 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
-| 27 | [haliskahrimanvekilimizolsun](http://twitter.com/search?q=haliskahrimanvekilimizolsun) | N/A |
-| 28 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 29 | [Kolundaki](http://twitter.com/search?q=Kolundaki) | N/A |
+| 20 | [Tüpçü](http://twitter.com/search?q=T%c3%bcp%c3%a7%c3%bc) | N/A |
+| 21 | [CHP Parti Meclisi](http://twitter.com/search?q=CHP+Parti+Meclisi) | N/A |
+| 22 | [Yaşasın Atatürk](http://twitter.com/search?q=Ya%c5%9fas%c4%b1n+Atat%c3%bcrk) | N/A |
+| 23 | [Baraj Altında](http://twitter.com/search?q=Baraj+Alt%c4%b1nda) | N/A |
+| 24 | [haliskahrimanvekilimizolsun](http://twitter.com/search?q=haliskahrimanvekilimizolsun) | N/A |
+| 25 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
+| 26 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 27 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 28 | [Kolundaki](http://twitter.com/search?q=Kolundaki) | N/A |
+| 29 | [İP KOPTU](http://twitter.com/search?q=%c4%b0P+KOPTU) | N/A |
 | 30 | [Pire](http://twitter.com/search?q=Pire) | N/A |
 | 31 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
 | 32 | [kayaşehir metro hattı](http://twitter.com/search?q=kaya%c5%9fehir+metro+hatt%c4%b1) | N/A |
 | 33 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 34 | [Melih](http://twitter.com/search?q=Melih) | N/A |
-| 35 | [vefatının 19](http://twitter.com/search?q=vefat%c4%b1n%c4%b1n+19) | N/A |
-| 36 | [yerli üretim](http://twitter.com/search?q=yerli+%c3%bcretim) | N/A |
-| 37 | [Bay Kemal Gelecek](http://twitter.com/search?q=Bay+Kemal+Gelecek) | N/A |
-| 38 | [Kredi](http://twitter.com/search?q=Kredi) | N/A |
-| 39 | [Tuncay Özkan](http://twitter.com/search?q=Tuncay+%c3%96zkan) | N/A |
-| 40 | [baykemal 35yaşınumudu](http://twitter.com/search?q=baykemal+35ya%c5%9f%c4%b1numudu) | N/A |
-| 41 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
-| 42 | [zekai tunca](http://twitter.com/search?q=zekai+tunca) | N/A |
-| 43 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 44 | [MustafaÇiftçiye AcilTahliye](http://twitter.com/search?q=Mustafa%c3%87ift%c3%a7iye+AcilTahliye) | N/A |
-| 45 | [Millet İttifakı 18](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1+18) | N/A |
-| 46 | [25binfahriöğreticidenoyyok](http://twitter.com/search?q=25binfahri%c3%b6%c4%9freticidenoyyok) | N/A |
-| 47 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 48 | [AFyoksa ReydeYok](http://twitter.com/search?q=AFyoksa+ReydeYok) | N/A |
+| 34 | [vefatının 19](http://twitter.com/search?q=vefat%c4%b1n%c4%b1n+19) | N/A |
+| 35 | [Melih](http://twitter.com/search?q=Melih) | N/A |
+| 36 | [Kredi](http://twitter.com/search?q=Kredi) | N/A |
+| 37 | [Tuncay Özkan](http://twitter.com/search?q=Tuncay+%c3%96zkan) | N/A |
+| 38 | [Bay Kemal Gelecek](http://twitter.com/search?q=Bay+Kemal+Gelecek) | N/A |
+| 39 | [baykemal 35yaşınumudu](http://twitter.com/search?q=baykemal+35ya%c5%9f%c4%b1numudu) | N/A |
+| 40 | [zekai tunca](http://twitter.com/search?q=zekai+tunca) | N/A |
+| 41 | [MustafaÇiftçiye AcilTahliye](http://twitter.com/search?q=Mustafa%c3%87ift%c3%a7iye+AcilTahliye) | N/A |
+| 42 | [Millet İttifakı 18](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1+18) | N/A |
+| 43 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
+| 44 | [Mimar Sinan](http://twitter.com/search?q=Mimar+Sinan) | N/A |
+| 45 | [25binfahriöğreticidenoyyok](http://twitter.com/search?q=25binfahri%c3%b6%c4%9freticidenoyyok) | N/A |
+| 46 | [YERLİ ÜRETİM](http://twitter.com/search?q=YERL%c4%b0+%c3%9cRET%c4%b0M) | N/A |
+| 47 | [AFyoksa ReydeYok](http://twitter.com/search?q=AFyoksa+ReydeYok) | N/A |
+| 48 | [YİNE ERDOĞAN KAZANACAK](http://twitter.com/search?q=Y%c4%b0NE+ERDO%c4%9eAN+KAZANACAK) | N/A |
 
 
 

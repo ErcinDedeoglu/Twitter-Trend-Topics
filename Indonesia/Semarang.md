@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-04-09 07:16:21 UTC`
+📆 Last Updated: `2023-04-09 08:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,45 +16,41 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LazadaTHRSale](http://twitter.com/search?q=%23LazadaTHRSale) | N/A |
-| 2 | [1 Rupiah](http://twitter.com/search?q=1+Rupiah) | N/A |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
-| 5 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 7 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
-| 8 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 9 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 10 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
-| 11 | [Happy un1ty](http://twitter.com/search?q=Happy+un1ty) | N/A |
-| 12 | [#NarwhalFinance](http://twitter.com/search?q=%23NarwhalFinance) | N/A |
-| 13 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 14 | [YOUNGK](http://twitter.com/search?q=YOUNGK) | N/A |
-| 15 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 3 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
+| 4 | [1 Rupiah](http://twitter.com/search?q=1+Rupiah) | N/A |
+| 5 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
+| 6 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
+| 7 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
+| 8 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
+| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 10 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 11 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 12 | [Kokas](http://twitter.com/search?q=Kokas) | N/A |
+| 13 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 14 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
+| 15 | [Happy un1ty](http://twitter.com/search?q=Happy+un1ty) | N/A |
 | 16 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 17 | [Kokas](http://twitter.com/search?q=Kokas) | N/A |
+| 17 | [YOUNGK](http://twitter.com/search?q=YOUNGK) | N/A |
 | 18 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
 | 19 | [TNI AU](http://twitter.com/search?q=TNI+AU) | N/A |
-| 20 | [Happy 7th](http://twitter.com/search?q=Happy+7th) | N/A |
+| 20 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
 | 21 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 22 | [Kristus](http://twitter.com/search?q=Kristus) | N/A |
+| 22 | [Happy 7th](http://twitter.com/search?q=Happy+7th) | N/A |
 | 23 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 24 | [Sinergi Mengawasi](http://twitter.com/search?q=Sinergi+Mengawasi) | N/A |
-| 25 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 26 | [Jaga Demokrasi](http://twitter.com/search?q=Jaga+Demokrasi) | N/A |
-| 27 | [Viva La Vida](http://twitter.com/search?q=Viva+La+Vida) | N/A |
-| 28 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
-| 29 | [#엑스디너리히어로즈](http://twitter.com/search?q=%23%ec%97%91%ec%8a%a4%eb%94%94%eb%84%88%eb%a6%ac%ed%9e%88%ec%96%b4%eb%a1%9c%ec%a6%88) | N/A |
-| 30 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
-| 31 | [#XdinaryHeroes](http://twitter.com/search?q=%23XdinaryHeroes) | N/A |
+| 25 | [Kristus](http://twitter.com/search?q=Kristus) | N/A |
+| 26 | [Viva La Vida](http://twitter.com/search?q=Viva+La+Vida) | N/A |
+| 27 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 28 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 29 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
+| 30 | [#NarwhalFinance](http://twitter.com/search?q=%23NarwhalFinance) | N/A |
+| 31 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
 | 32 | [#MusicBankParis](http://twitter.com/search?q=%23MusicBankParis) | N/A |
-| 33 | [#To7heWorld_WeAreNCT](http://twitter.com/search?q=%23To7heWorld_WeAreNCT) | N/A |
-| 34 | [#RamadhanDay18](http://twitter.com/search?q=%23RamadhanDay18) | N/A |
-| 35 | [#7년의_우리맘_따뜻하게_감싸준_NCT](http://twitter.com/search?q=%237%eb%85%84%ec%9d%98_%ec%9a%b0%eb%a6%ac%eb%a7%98_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b2%8c_%ea%b0%90%ec%8b%b8%ec%a4%80_NCT) | N/A |
-| 36 | [#TaxiDriver2Ep14](http://twitter.com/search?q=%23TaxiDriver2Ep14) | N/A |
-| 37 | [#HAPPYNCTDAY](http://twitter.com/search?q=%23HAPPYNCTDAY) | N/A |
-| 38 | [#NCTDREAM](http://twitter.com/search?q=%23NCTDREAM) | N/A |
-| 39 | [#WayV](http://twitter.com/search?q=%23WayV) | N/A |
-| 40 | [#NCT127](http://twitter.com/search?q=%23NCT127) | N/A |
+| 33 | [#엑스디너리히어로즈](http://twitter.com/search?q=%23%ec%97%91%ec%8a%a4%eb%94%94%eb%84%88%eb%a6%ac%ed%9e%88%ec%96%b4%eb%a1%9c%ec%a6%88) | N/A |
+| 34 | [#XdinaryHeroes](http://twitter.com/search?q=%23XdinaryHeroes) | N/A |
+| 35 | [#TaxiDriver2Ep14](http://twitter.com/search?q=%23TaxiDriver2Ep14) | N/A |
+| 36 | [#WayV](http://twitter.com/search?q=%23WayV) | N/A |
 
 
 

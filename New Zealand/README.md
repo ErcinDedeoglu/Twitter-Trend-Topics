@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-09 07:16:54 UTC`
+📆 Last Updated: `2023-04-09 08:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,17 +21,17 @@ This is top 50 for New Zealand
 | 4 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 5 | [Israel Adesanya](http://twitter.com/search?q=Israel+Adesanya) | N/A |
 | 6 | [Disinformation Project](http://twitter.com/search?q=Disinformation+Project) | N/A |
-| 7 | [#higvhur](http://twitter.com/search?q=%23higvhur) | N/A |
-| 8 | [David Fisher](http://twitter.com/search?q=David+Fisher) | N/A |
+| 7 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 8 | [#higvhur](http://twitter.com/search?q=%23higvhur) | N/A |
 | 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 11 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
+| 10 | [David Fisher](http://twitter.com/search?q=David+Fisher) | N/A |
+| 11 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
 | 12 | [#sdws](http://twitter.com/search?q=%23sdws) | N/A |
-| 13 | [Kate Hannah](http://twitter.com/search?q=Kate+Hannah) | N/A |
-| 14 | [David Seymour](http://twitter.com/search?q=David+Seymour) | N/A |
-| 15 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 16 | [Herald](http://twitter.com/search?q=Herald) | N/A |
-| 17 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 13 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
+| 14 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 15 | [Kate Hannah](http://twitter.com/search?q=Kate+Hannah) | N/A |
+| 16 | [David Seymour](http://twitter.com/search?q=David+Seymour) | N/A |
+| 17 | [Herald](http://twitter.com/search?q=Herald) | N/A |
 | 18 | [Sanjana](http://twitter.com/search?q=Sanjana) | N/A |
 | 19 | [Sande](http://twitter.com/search?q=Sande) | N/A |
 | 20 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for New Zealand
 | 29 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 30 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 31 | [Roger Douglas](http://twitter.com/search?q=Roger+Douglas) | N/A |
-| 32 | [Randwick](http://twitter.com/search?q=Randwick) | N/A |
-| 33 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 34 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 35 | [nz msm](http://twitter.com/search?q=nz+msm) | N/A |
-| 36 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 37 | [Ditto](http://twitter.com/search?q=Ditto) | N/A |
-| 38 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 39 | [Governments](http://twitter.com/search?q=Governments) | N/A |
-| 40 | [London](http://twitter.com/search?q=London) | N/A |
+| 32 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 33 | [NZ MSM](http://twitter.com/search?q=NZ+MSM) | N/A |
+| 34 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 35 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 36 | [Ditto](http://twitter.com/search?q=Ditto) | N/A |
+| 37 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 38 | [Governments](http://twitter.com/search?q=Governments) | N/A |
+| 39 | [London](http://twitter.com/search?q=London) | N/A |
+| 40 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
 | 41 | [brag award](http://twitter.com/search?q=brag+award) | N/A |
 | 42 | [Crikey](http://twitter.com/search?q=Crikey) | N/A |
 | 43 | [every five minutes](http://twitter.com/search?q=every+five+minutes) | N/A |
-| 44 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 45 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 46 | [Grant Robertson](http://twitter.com/search?q=Grant+Robertson) | N/A |
-| 47 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 48 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 49 | [Maths](http://twitter.com/search?q=Maths) | Maths is short for mathematics, which is the study of numbers, shapes, and patterns. Mathematics is used to solve problems and understand the world around us. It is a fundamental part of science, engineering, technology, finance, and many other fields. |
-| 50 | [Unbelievable](http://twitter.com/search?q=Unbelievable) | N/A |
+| 44 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 45 | [grant robertson](http://twitter.com/search?q=grant+robertson) | N/A |
+| 46 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 47 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 48 | [Maths](http://twitter.com/search?q=Maths) | Maths is short for mathematics, which is the study of numbers, shapes, and patterns. Mathematics is used to solve problems and understand the world around us. It is a fundamental part of science, engineering, technology, finance, and many other fields. |
+| 49 | [Unbelievable](http://twitter.com/search?q=Unbelievable) | N/A |
+| 50 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
 
 
 

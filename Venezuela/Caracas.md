@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Caracas
 
-📆 Last Updated: `2023-04-09 07:16:09 UTC`
+📆 Last Updated: `2023-04-09 08:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 13 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 14 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
 | 15 | [Sandro](http://twitter.com/search?q=Sandro) | N/A |
-| 16 | [#VINOTINTOSUB17xMTV](http://twitter.com/search?q=%23VINOTINTOSUB17xMTV) | N/A |
+| 16 | [#vinotintosub17xmtv](http://twitter.com/search?q=%23vinotintosub17xmtv) | N/A |
 | 17 | [Chataing](http://twitter.com/search?q=Chataing) | N/A |
-| 18 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
-| 19 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 20 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
+| 18 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 19 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
+| 20 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
 | 21 | [Rafael Cadenas](http://twitter.com/search?q=Rafael+Cadenas) | N/A |
 | 22 | [Papel](http://twitter.com/search?q=Papel) | N/A |
 | 23 | [#7abr](http://twitter.com/search?q=%237abr) | N/A |
 | 24 | [Jim Carrey](http://twitter.com/search?q=Jim+Carrey) | N/A |
 | 25 | [Barbies](http://twitter.com/search?q=Barbies) | N/A |
-| 26 | [Frazzani](http://twitter.com/search?q=Frazzani) | N/A |
+| 26 | [frazzani](http://twitter.com/search?q=frazzani) | N/A |
 | 27 | [Edecio](http://twitter.com/search?q=Edecio) | N/A |
 | 28 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
 | 29 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 30 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 31 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 32 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 33 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 34 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 35 | [Héctor Cabrera](http://twitter.com/search?q=H%c3%a9ctor+Cabrera) | N/A |
-| 36 | [Pilar](http://twitter.com/search?q=Pilar) | N/A |
-| 37 | [tatiana capote](http://twitter.com/search?q=tatiana+capote) | N/A |
-| 38 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 39 | [Pilín León](http://twitter.com/search?q=Pil%c3%adn+Le%c3%b3n) | N/A |
-| 40 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 41 | [Pueblo Nuevo](http://twitter.com/search?q=Pueblo+Nuevo) | N/A |
-| 42 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 43 | [Guyana](http://twitter.com/search?q=Guyana) | N/A |
-| 44 | [Resucitado](http://twitter.com/search?q=Resucitado) | N/A |
-| 45 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
-| 46 | [Guernica](http://twitter.com/search?q=Guernica) | N/A |
-| 47 | [Practical Move](http://twitter.com/search?q=Practical+Move) | N/A |
-| 48 | [Colonia Tovar](http://twitter.com/search?q=Colonia+Tovar) | N/A |
-| 49 | [Rafael Romero](http://twitter.com/search?q=Rafael+Romero) | N/A |
-| 50 | [Dracufest](http://twitter.com/search?q=Dracufest) | N/A |
+| 32 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 33 | [Héctor Cabrera](http://twitter.com/search?q=H%c3%a9ctor+Cabrera) | N/A |
+| 34 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 35 | [Pilar](http://twitter.com/search?q=Pilar) | N/A |
+| 36 | [tatiana capote](http://twitter.com/search?q=tatiana+capote) | N/A |
+| 37 | [pilín león](http://twitter.com/search?q=pil%c3%adn+le%c3%b3n) | N/A |
+| 38 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 39 | [Pueblo Nuevo](http://twitter.com/search?q=Pueblo+Nuevo) | N/A |
+| 40 | [Guyana](http://twitter.com/search?q=Guyana) | N/A |
+| 41 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 42 | [Resucitado](http://twitter.com/search?q=Resucitado) | N/A |
+| 43 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
+| 44 | [Guernica](http://twitter.com/search?q=Guernica) | N/A |
+| 45 | [Practical Move](http://twitter.com/search?q=Practical+Move) | N/A |
+| 46 | [Rafael Romero](http://twitter.com/search?q=Rafael+Romero) | N/A |
+| 47 | [Colonia Tovar](http://twitter.com/search?q=Colonia+Tovar) | N/A |
+| 48 | [Dracufest](http://twitter.com/search?q=Dracufest) | N/A |
+| 49 | [cherry navarro](http://twitter.com/search?q=cherry+navarro) | N/A |
+| 50 | [Isa Dobles](http://twitter.com/search?q=Isa+Dobles) | N/A |
 
 
 

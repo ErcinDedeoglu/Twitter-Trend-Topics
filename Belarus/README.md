@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-09 07:16:50 UTC`
+📆 Last Updated: `2023-04-09 08:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Belarus
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
+| 1 | [ОООО](http://twitter.com/search?q=%d0%9e%d0%9e%d0%9e%d0%9e) | N/A |
 | 2 | [минск](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
 | 3 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 4 | [#newmusic](http://twitter.com/search?q=%23newmusic) | N/A |
