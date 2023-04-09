@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-04-09 01:43:45 UTC`
+📆 Last Updated: `2023-04-09 02:31:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 2 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 3 | [#InterMiamiCF](http://twitter.com/search?q=%23InterMiamiCF) | N/A |
-| 4 | [#RaysUp](http://twitter.com/search?q=%23RaysUp) | N/A |
+| 1 | [#InterMiamiCF](http://twitter.com/search?q=%23InterMiamiCF) | N/A |
+| 2 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
+| 3 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 4 | [#MFrozenFour](http://twitter.com/search?q=%23MFrozenFour) | N/A |
 | 5 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 6 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 7 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 8 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
-| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 11 | [#LAMH](http://twitter.com/search?q=%23LAMH) | N/A |
-| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 13 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 14 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 15 | [Joe Pyfer](http://twitter.com/search?q=Joe+Pyfer) | N/A |
-| 16 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 17 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 18 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 19 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
-| 20 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 21 | [Odor](http://twitter.com/search?q=Odor) | N/A |
-| 22 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 23 | [Air Noland](http://twitter.com/search?q=Air+Noland) | N/A |
-| 24 | [Martell](http://twitter.com/search?q=Martell) | N/A |
-| 25 | [Syndergaard](http://twitter.com/search?q=Syndergaard) | N/A |
-| 26 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
-| 27 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
-| 28 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 29 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 30 | [Stormi](http://twitter.com/search?q=Stormi) | N/A |
-| 31 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
-| 32 | [Calvillo](http://twitter.com/search?q=Calvillo) | N/A |
-| 33 | [Sam Hughes](http://twitter.com/search?q=Sam+Hughes) | N/A |
-| 34 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 35 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
-| 36 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 37 | [Lauer](http://twitter.com/search?q=Lauer) | N/A |
-| 38 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 39 | [Charlie Morton](http://twitter.com/search?q=Charlie+Morton) | N/A |
-| 40 | [Loopy](http://twitter.com/search?q=Loopy) | N/A |
-| 41 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
-| 42 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 43 | [Tree Paine](http://twitter.com/search?q=Tree+Paine) | N/A |
-| 44 | [Austin Voth](http://twitter.com/search?q=Austin+Voth) | N/A |
-| 45 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 46 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
-| 47 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 48 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
-| 49 | [Bouanga](http://twitter.com/search?q=Bouanga) | N/A |
+| 6 | [#RaysUp](http://twitter.com/search?q=%23RaysUp) | N/A |
+| 7 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 8 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 9 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 10 | [Super Mario Bros](http://twitter.com/search?q=Super+Mario+Bros) | N/A |
+| 11 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
+| 12 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 14 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 15 | [#TheRenovatorHGTVtonight](http://twitter.com/search?q=%23TheRenovatorHGTVtonight) | N/A |
+| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 17 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
+| 18 | [Joe Pyfer](http://twitter.com/search?q=Joe+Pyfer) | N/A |
+| 19 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 20 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 21 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 22 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
+| 23 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 24 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 25 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 26 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 27 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
+| 28 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 29 | [Odor](http://twitter.com/search?q=Odor) | N/A |
+| 30 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
+| 31 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 32 | [Syndergaard](http://twitter.com/search?q=Syndergaard) | N/A |
+| 33 | [Air Noland](http://twitter.com/search?q=Air+Noland) | N/A |
+| 34 | [Martell](http://twitter.com/search?q=Martell) | N/A |
+| 35 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 36 | [Calvillo](http://twitter.com/search?q=Calvillo) | N/A |
+| 37 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 38 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
+| 39 | [Stone Garrett](http://twitter.com/search?q=Stone+Garrett) | N/A |
+| 40 | [Logano](http://twitter.com/search?q=Logano) | N/A |
+| 41 | [Stormi](http://twitter.com/search?q=Stormi) | N/A |
+| 42 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 43 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
+| 44 | [Denis Bouanga](http://twitter.com/search?q=Denis+Bouanga) | N/A |
+| 45 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
+| 46 | [Matthew Tkachuk](http://twitter.com/search?q=Matthew+Tkachuk) | N/A |
+| 47 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
+| 48 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 49 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
 
 
 

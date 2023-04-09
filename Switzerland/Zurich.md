@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-04-09 01:43:16 UTC`
+📆 Last Updated: `2023-04-09 02:30:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 2 | [Stau](http://twitter.com/search?q=Stau) | N/A |
 | 3 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
 | 4 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
 | 5 | [#fczfcb](http://twitter.com/search?q=%23fczfcb) | N/A |
@@ -26,8 +26,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 9 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
 | 10 | [gotthard](http://twitter.com/search?q=gotthard) | N/A |
 | 11 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 12 | [#GSHC](http://twitter.com/search?q=%23GSHC) | N/A |
-| 13 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 12 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 13 | [#gshc](http://twitter.com/search?q=%23gshc) | N/A |
 | 14 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
 | 15 | [#LazioJuve](http://twitter.com/search?q=%23LazioJuve) | N/A |
 | 16 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |

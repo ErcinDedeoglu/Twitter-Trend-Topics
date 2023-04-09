@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-04-09 01:43:05 UTC`
+📆 Last Updated: `2023-04-09 02:30:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Quilpué](http://twitter.com/search?q=Quilpu%c3%a9) | N/A |
-| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 1 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
+| 2 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
 | 3 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
-| 4 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 5 | [Colina](http://twitter.com/search?q=Colina) | N/A |
-| 6 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
-| 7 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 8 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 9 | [#CLNvsUCxTNTSports](http://twitter.com/search?q=%23CLNvsUCxTNTSports) | N/A |
-| 10 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
-| 11 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
-| 12 | [Pamela Jiles](http://twitter.com/search?q=Pamela+Jiles) | N/A |
-| 13 | [Jaula](http://twitter.com/search?q=Jaula) | N/A |
-| 14 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
-| 15 | [#JesusDeNazarethEnTVN](http://twitter.com/search?q=%23JesusDeNazarethEnTVN) | N/A |
-| 16 | [Garin](http://twitter.com/search?q=Garin) | N/A |
-| 17 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 18 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 19 | [Kast](http://twitter.com/search?q=Kast) | N/A |
-| 20 | [Llolleo](http://twitter.com/search?q=Llolleo) | N/A |
-| 21 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 22 | [Peranic](http://twitter.com/search?q=Peranic) | N/A |
-| 23 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
-| 24 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
-| 25 | [Etcheverry](http://twitter.com/search?q=Etcheverry) | N/A |
-| 26 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
-| 27 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 28 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 29 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 30 | [Santiago Pavlovic](http://twitter.com/search?q=Santiago+Pavlovic) | N/A |
-| 31 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
-| 32 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 33 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 34 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
-| 35 | [Carabinero](http://twitter.com/search?q=Carabinero) | N/A |
-| 36 | [Mega](http://twitter.com/search?q=Mega) | N/A |
-| 37 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 38 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
-| 39 | [Felipe Bianchi](http://twitter.com/search?q=Felipe+Bianchi) | N/A |
-| 40 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
-| 41 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
-| 42 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
-| 43 | [NO AUTORIZO](http://twitter.com/search?q=NO+AUTORIZO) | N/A |
-| 44 | [Isla](http://twitter.com/search?q=Isla) | N/A |
-| 45 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
-| 46 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
-| 47 | [Pinilla](http://twitter.com/search?q=Pinilla) | N/A |
-| 48 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 49 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 4 | [Colina](http://twitter.com/search?q=Colina) | N/A |
+| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 6 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 7 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
+| 8 | [#CLNvsUCxTNTSports](http://twitter.com/search?q=%23CLNvsUCxTNTSports) | N/A |
+| 9 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 10 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 11 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 12 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
+| 13 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
+| 14 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
+| 15 | [Garin](http://twitter.com/search?q=Garin) | N/A |
+| 16 | [Pamela Jiles](http://twitter.com/search?q=Pamela+Jiles) | N/A |
+| 17 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 18 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
+| 19 | [Jaula](http://twitter.com/search?q=Jaula) | N/A |
+| 20 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
+| 21 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 22 | [#JesusDeNazarethEnTVN](http://twitter.com/search?q=%23JesusDeNazarethEnTVN) | N/A |
+| 23 | [Llolleo](http://twitter.com/search?q=Llolleo) | N/A |
+| 24 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 25 | [Kast](http://twitter.com/search?q=Kast) | N/A |
+| 26 | [Etcheverry](http://twitter.com/search?q=Etcheverry) | N/A |
+| 27 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
+| 28 | [Isla](http://twitter.com/search?q=Isla) | N/A |
+| 29 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 30 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 31 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
+| 32 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
+| 33 | [Conductor](http://twitter.com/search?q=Conductor) | N/A |
+| 34 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 35 | [Delincuente](http://twitter.com/search?q=Delincuente) | N/A |
+| 36 | [Santiago Pavlovic](http://twitter.com/search?q=Santiago+Pavlovic) | N/A |
+| 37 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 38 | [Felipe Bianchi](http://twitter.com/search?q=Felipe+Bianchi) | N/A |
+| 39 | [Peranic](http://twitter.com/search?q=Peranic) | N/A |
+| 40 | [Parot](http://twitter.com/search?q=Parot) | N/A |
+| 41 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
+| 42 | [Carabinero](http://twitter.com/search?q=Carabinero) | N/A |
+| 43 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
+| 44 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
+| 45 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 46 | [Mega](http://twitter.com/search?q=Mega) | N/A |
+| 47 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 48 | [Toro](http://twitter.com/search?q=Toro) | N/A |
+| 49 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
 
 
 

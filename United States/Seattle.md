@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-04-09 01:43:45 UTC`
+📆 Last Updated: `2023-04-09 02:31:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marco](http://twitter.com/search?q=Marco) | N/A |
-| 2 | [Kelenic](http://twitter.com/search?q=Kelenic) | N/A |
-| 3 | [Cleveland](http://twitter.com/search?q=Cleveland) | N/A |
-| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 1 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 2 | [Marco](http://twitter.com/search?q=Marco) | N/A |
+| 3 | [Kelenic](http://twitter.com/search?q=Kelenic) | N/A |
+| 4 | [Cleveland](http://twitter.com/search?q=Cleveland) | N/A |
 | 5 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 6 | [#LAMH](http://twitter.com/search?q=%23LAMH) | N/A |
-| 7 | [#TheRenovatorHGTVtonight](http://twitter.com/search?q=%23TheRenovatorHGTVtonight) | N/A |
-| 8 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
-| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 10 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 11 | [Joe Pyfer](http://twitter.com/search?q=Joe+Pyfer) | N/A |
-| 12 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 13 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 14 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 15 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 16 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 17 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
-| 18 | [Odor](http://twitter.com/search?q=Odor) | N/A |
-| 19 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 20 | [Air Noland](http://twitter.com/search?q=Air+Noland) | N/A |
-| 21 | [Martell](http://twitter.com/search?q=Martell) | N/A |
+| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 7 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 8 | [#TheRenovatorHGTVtonight](http://twitter.com/search?q=%23TheRenovatorHGTVtonight) | N/A |
+| 9 | [#LAMH](http://twitter.com/search?q=%23LAMH) | N/A |
+| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 11 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
+| 12 | [#PrideOnLifetime](http://twitter.com/search?q=%23PrideOnLifetime) | N/A |
+| 13 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
+| 14 | [Joe Pyfer](http://twitter.com/search?q=Joe+Pyfer) | N/A |
+| 15 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 16 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 17 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 18 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
+| 19 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 20 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 21 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
 | 22 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 23 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
-| 24 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 25 | [Calvillo](http://twitter.com/search?q=Calvillo) | N/A |
-| 26 | [Syndergaard](http://twitter.com/search?q=Syndergaard) | N/A |
-| 27 | [Stormi](http://twitter.com/search?q=Stormi) | N/A |
-| 28 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
-| 29 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 30 | [Sam Hughes](http://twitter.com/search?q=Sam+Hughes) | N/A |
-| 31 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 32 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
-| 33 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 34 | [Lauer](http://twitter.com/search?q=Lauer) | N/A |
-| 35 | [Charlie Morton](http://twitter.com/search?q=Charlie+Morton) | N/A |
-| 36 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
-| 37 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 38 | [Loopy](http://twitter.com/search?q=Loopy) | N/A |
-| 39 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
-| 40 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 41 | [Tree Paine](http://twitter.com/search?q=Tree+Paine) | N/A |
-| 42 | [Austin Voth](http://twitter.com/search?q=Austin+Voth) | N/A |
-| 43 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 23 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
+| 24 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 25 | [Odor](http://twitter.com/search?q=Odor) | N/A |
+| 26 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
+| 27 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 28 | [Syndergaard](http://twitter.com/search?q=Syndergaard) | N/A |
+| 29 | [Air Noland](http://twitter.com/search?q=Air+Noland) | N/A |
+| 30 | [Martell](http://twitter.com/search?q=Martell) | N/A |
+| 31 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 32 | [Calvillo](http://twitter.com/search?q=Calvillo) | N/A |
+| 33 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 34 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
+| 35 | [Stone Garrett](http://twitter.com/search?q=Stone+Garrett) | N/A |
+| 36 | [Logano](http://twitter.com/search?q=Logano) | N/A |
+| 37 | [Stormi](http://twitter.com/search?q=Stormi) | N/A |
+| 38 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 39 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
+| 40 | [Denis Bouanga](http://twitter.com/search?q=Denis+Bouanga) | N/A |
+| 41 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
+| 42 | [Matthew Tkachuk](http://twitter.com/search?q=Matthew+Tkachuk) | N/A |
+| 43 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
 | 44 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
-| 45 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 46 | [Yelich](http://twitter.com/search?q=Yelich) | N/A |
-| 47 | [Denis Bouanga](http://twitter.com/search?q=Denis+Bouanga) | N/A |
-| 48 | [Bahamondes](http://twitter.com/search?q=Bahamondes) | N/A |
-| 49 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
-| 50 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
+| 45 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 46 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 47 | [Sam Hughes](http://twitter.com/search?q=Sam+Hughes) | N/A |
+| 48 | [Karate Hottie](http://twitter.com/search?q=Karate+Hottie) | N/A |
+| 49 | [Lauer](http://twitter.com/search?q=Lauer) | N/A |
+| 50 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
 
 
 

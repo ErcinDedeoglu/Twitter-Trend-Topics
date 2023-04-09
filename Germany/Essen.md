@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-04-09 01:43:13 UTC`
+📆 Last Updated: `2023-04-09 02:30:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [#BVBFCU](http://twitter.com/search?q=%23BVBFCU) | N/A |
 | 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 6 | [#hsvh96](http://twitter.com/search?q=%23hsvh96) | N/A |
-| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 7 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
 | 8 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 9 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 10 | [Osterfeuer](http://twitter.com/search?q=Osterfeuer) | N/A |
 | 11 | [Osterfeuer](http://twitter.com/search?q=Osterfeuer) | N/A |
 | 12 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 13 | [Ostersamstag](http://twitter.com/search?q=Ostersamstag) | N/A |
+| 13 | [ostersamstag](http://twitter.com/search?q=ostersamstag) | N/A |
 | 14 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 15 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
 | 16 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 17 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 18 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
-| 19 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 20 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
-| 21 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
-| 22 | [Stimmung im Land](http://twitter.com/search?q=Stimmung+im+Land) | N/A |
-| 23 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
-| 24 | [Handspiel](http://twitter.com/search?q=Handspiel) | N/A |
-| 25 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
+| 17 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 18 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 19 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 20 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 21 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
+| 22 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
+| 23 | [Stimmung im Land](http://twitter.com/search?q=Stimmung+im+Land) | N/A |
+| 24 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
+| 25 | [handspiel](http://twitter.com/search?q=handspiel) | N/A |
 | 26 | [Gasflaschen](http://twitter.com/search?q=Gasflaschen) | N/A |
-| 27 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 27 | [schiri](http://twitter.com/search?q=schiri) | N/A |
 | 28 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
 | 29 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 30 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 31 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
-| 32 | [Waschbär](http://twitter.com/search?q=Waschb%c3%a4r) | N/A |
-| 33 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 34 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 35 | [Katja](http://twitter.com/search?q=Katja) | N/A |
+| 31 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
+| 32 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 33 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
+| 34 | [waschbär](http://twitter.com/search?q=waschb%c3%a4r) | N/A |
+| 35 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
 | 36 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 37 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 38 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 39 | [Ole Werner](http://twitter.com/search?q=Ole+Werner) | N/A |
-| 40 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 41 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
+| 37 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 38 | [Katja](http://twitter.com/search?q=Katja) | N/A |
+| 39 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 40 | [moin](http://twitter.com/search?q=moin) | N/A |
+| 41 | [leitl](http://twitter.com/search?q=leitl) | N/A |
 | 42 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
 | 43 | [Game One](http://twitter.com/search?q=Game+One) | N/A |
-| 44 | [Patricia Kelly](http://twitter.com/search?q=Patricia+Kelly) | N/A |
+| 44 | [patricia kelly](http://twitter.com/search?q=patricia+kelly) | N/A |
 | 45 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
 | 46 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
 | 47 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
 | 48 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 49 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 49 | [Ole Werner](http://twitter.com/search?q=Ole+Werner) | N/A |
 
 
 

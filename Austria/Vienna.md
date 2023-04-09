@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-09 01:43:10 UTC`
+📆 Last Updated: `2023-04-09 02:30:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for [Austria](</Austria>)
 | ------- | ------------ | ------------ |
 | 1 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
 | 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 3 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
 | 5 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
 | 6 | [#Karfreitag](http://twitter.com/search?q=%23Karfreitag) | N/A |
 | 7 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
@@ -32,21 +32,21 @@ This is top 50 for [Austria](</Austria>)
 | 15 | [reindling](http://twitter.com/search?q=reindling) | N/A |
 | 16 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
 | 17 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 18 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
-| 19 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
-| 20 | [Roten](http://twitter.com/search?q=Roten) | N/A |
-| 21 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
-| 22 | [guten morgen andrea](http://twitter.com/search?q=guten+morgen+andrea) | N/A |
-| 23 | [Weihnachten](http://twitter.com/search?q=Weihnachten) | Weihnachten is the German word for Christmas. It literally translates to "holy night" in English. |
-| 24 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 26 | [Aussehen](http://twitter.com/search?q=Aussehen) | N/A |
-| 27 | [Bären](http://twitter.com/search?q=B%c3%a4ren) | N/A |
-| 28 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
+| 18 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
+| 19 | [Roten](http://twitter.com/search?q=Roten) | N/A |
+| 20 | [Osterwochenende](http://twitter.com/search?q=Osterwochenende) | N/A |
+| 21 | [guten morgen andrea](http://twitter.com/search?q=guten+morgen+andrea) | N/A |
+| 22 | [Weihnachten](http://twitter.com/search?q=Weihnachten) | Weihnachten is the German word for Christmas. It literally translates to "holy night" in English. |
+| 23 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 25 | [Aussehen](http://twitter.com/search?q=Aussehen) | N/A |
+| 26 | [Bären](http://twitter.com/search?q=B%c3%a4ren) | N/A |
+| 27 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
+| 28 | [Dialog](http://twitter.com/search?q=Dialog) | N/A |
 | 29 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
 | 30 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
 | 31 | [pressesprecher](http://twitter.com/search?q=pressesprecher) | N/A |
-| 32 | [Truppe](http://twitter.com/search?q=Truppe) | N/A |
+| 32 | [truppe](http://twitter.com/search?q=truppe) | N/A |
 | 33 | [sanktionen](http://twitter.com/search?q=sanktionen) | N/A |
 | 34 | [guten morgen peter](http://twitter.com/search?q=guten+morgen+peter) | N/A |
 | 35 | [Hasen](http://twitter.com/search?q=Hasen) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Austria](</Austria>)
 | 45 | [stadt wien](http://twitter.com/search?q=stadt+wien) | N/A |
 | 46 | [Händen](http://twitter.com/search?q=H%c3%a4nden) | N/A |
 | 47 | [Florian](http://twitter.com/search?q=Florian) | N/A |
-| 48 | [Burgenland](http://twitter.com/search?q=Burgenland) | N/A |
+| 48 | [burgenland](http://twitter.com/search?q=burgenland) | N/A |
 | 49 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
 | 50 | [lercher](http://twitter.com/search?q=lercher) | N/A |
 

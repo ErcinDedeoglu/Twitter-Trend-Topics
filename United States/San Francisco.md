@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-09 01:43:45 UTC`
+📆 Last Updated: `2023-04-09 02:31:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Thor](http://twitter.com/search?q=Thor) | N/A |
-| 2 | [#LAGalaxy](http://twitter.com/search?q=%23LAGalaxy) | N/A |
+| 1 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 2 | [Thor](http://twitter.com/search?q=Thor) | N/A |
 | 3 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
 | 4 | [Kapler](http://twitter.com/search?q=Kapler) | N/A |
-| 5 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
-| 6 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 7 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 8 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 9 | [#criterion4you](http://twitter.com/search?q=%23criterion4you) | N/A |
-| 10 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 11 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 12 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 13 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 14 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
-| 15 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 16 | [Easter Bunny](http://twitter.com/search?q=Easter+Bunny) | N/A |
-| 17 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
+| 5 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 6 | [Hader](http://twitter.com/search?q=Hader) | N/A |
+| 7 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 8 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 9 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 10 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 11 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 12 | [#criterion4you](http://twitter.com/search?q=%23criterion4you) | N/A |
+| 13 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 14 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
+| 15 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
+| 16 | [Supreme Court Justice](http://twitter.com/search?q=Supreme+Court+Justice) | N/A |
+| 17 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 19 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 20 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 21 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 22 | [Joe Pyfer](http://twitter.com/search?q=Joe+Pyfer) | N/A |
-| 23 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 24 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 25 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 26 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
-| 27 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 28 | [Odor](http://twitter.com/search?q=Odor) | N/A |
-| 29 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 30 | [Air Noland](http://twitter.com/search?q=Air+Noland) | N/A |
-| 31 | [Martell](http://twitter.com/search?q=Martell) | N/A |
-| 32 | [Syndergaard](http://twitter.com/search?q=Syndergaard) | N/A |
-| 33 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
-| 34 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
-| 35 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 36 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 37 | [Stormi](http://twitter.com/search?q=Stormi) | N/A |
-| 38 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
-| 39 | [Calvillo](http://twitter.com/search?q=Calvillo) | N/A |
-| 40 | [Sam Hughes](http://twitter.com/search?q=Sam+Hughes) | N/A |
-| 41 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 42 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
-| 43 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 44 | [Lauer](http://twitter.com/search?q=Lauer) | N/A |
-| 45 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 46 | [Charlie Morton](http://twitter.com/search?q=Charlie+Morton) | N/A |
-| 47 | [Loopy](http://twitter.com/search?q=Loopy) | N/A |
-| 48 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
-| 49 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 50 | [Tree Paine](http://twitter.com/search?q=Tree+Paine) | N/A |
+| 19 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 20 | [#TheRenovatorHGTVtonight](http://twitter.com/search?q=%23TheRenovatorHGTVtonight) | N/A |
+| 21 | [#LAMH](http://twitter.com/search?q=%23LAMH) | N/A |
+| 22 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 23 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
+| 24 | [Joe Pyfer](http://twitter.com/search?q=Joe+Pyfer) | N/A |
+| 25 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 26 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 27 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 28 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
+| 29 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 30 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 31 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 32 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 33 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
+| 34 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 35 | [Odor](http://twitter.com/search?q=Odor) | N/A |
+| 36 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
+| 37 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 38 | [Syndergaard](http://twitter.com/search?q=Syndergaard) | N/A |
+| 39 | [Air Noland](http://twitter.com/search?q=Air+Noland) | N/A |
+| 40 | [Martell](http://twitter.com/search?q=Martell) | N/A |
+| 41 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 42 | [Calvillo](http://twitter.com/search?q=Calvillo) | N/A |
+| 43 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 44 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
+| 45 | [Stone Garrett](http://twitter.com/search?q=Stone+Garrett) | N/A |
+| 46 | [Logano](http://twitter.com/search?q=Logano) | N/A |
+| 47 | [Stormi](http://twitter.com/search?q=Stormi) | N/A |
+| 48 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 49 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
+| 50 | [Denis Bouanga](http://twitter.com/search?q=Denis+Bouanga) | N/A |
 
 
 

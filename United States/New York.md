@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-09 01:43:43 UTC`
+📆 Last Updated: `2023-04-09 02:31:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NYCFC](http://twitter.com/search?q=%23NYCFC) | N/A |
-| 2 | [Kodai Senga](http://twitter.com/search?q=Kodai+Senga) | N/A |
-| 3 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 4 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 5 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
-| 6 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
+| 2 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 3 | [Senga](http://twitter.com/search?q=Senga) | N/A |
+| 4 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
+| 5 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 6 | [Luigi](http://twitter.com/search?q=Luigi) | N/A |
 | 7 | [#criterion4you](http://twitter.com/search?q=%23criterion4you) | N/A |
 | 8 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 9 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 10 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
-| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 12 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 9 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 11 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 12 | [#TheRenovatorHGTVtonight](http://twitter.com/search?q=%23TheRenovatorHGTVtonight) | N/A |
 | 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 14 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 14 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
 | 15 | [Joe Pyfer](http://twitter.com/search?q=Joe+Pyfer) | N/A |
-| 16 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 17 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 18 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 19 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 20 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
-| 21 | [Odor](http://twitter.com/search?q=Odor) | N/A |
-| 22 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 23 | [Air Noland](http://twitter.com/search?q=Air+Noland) | N/A |
-| 24 | [Martell](http://twitter.com/search?q=Martell) | N/A |
-| 25 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 26 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
-| 27 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 28 | [Calvillo](http://twitter.com/search?q=Calvillo) | N/A |
+| 16 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 17 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 18 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 19 | [RAINE](http://twitter.com/search?q=RAINE) | RAINE is an acronym for the Regional Alliance for Infrastructure and Network Exchange. It is a regional organization that works to promote the development of infrastructure and network services in the Pacific Northwest region of the United States. |
+| 20 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 21 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 22 | [Kirby Yates](http://twitter.com/search?q=Kirby+Yates) | N/A |
+| 23 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 24 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
+| 25 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 26 | [Odor](http://twitter.com/search?q=Odor) | N/A |
+| 27 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
+| 28 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
 | 29 | [Syndergaard](http://twitter.com/search?q=Syndergaard) | N/A |
-| 30 | [Stormi](http://twitter.com/search?q=Stormi) | N/A |
-| 31 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
-| 32 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 33 | [Sam Hughes](http://twitter.com/search?q=Sam+Hughes) | N/A |
-| 34 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 30 | [Air Noland](http://twitter.com/search?q=Air+Noland) | N/A |
+| 31 | [Martell](http://twitter.com/search?q=Martell) | N/A |
+| 32 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 33 | [Calvillo](http://twitter.com/search?q=Calvillo) | N/A |
+| 34 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
 | 35 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
-| 36 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 37 | [Lauer](http://twitter.com/search?q=Lauer) | N/A |
-| 38 | [Charlie Morton](http://twitter.com/search?q=Charlie+Morton) | N/A |
-| 39 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
-| 40 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 41 | [Loopy](http://twitter.com/search?q=Loopy) | N/A |
-| 42 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
-| 43 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 44 | [Tree Paine](http://twitter.com/search?q=Tree+Paine) | N/A |
-| 45 | [Austin Voth](http://twitter.com/search?q=Austin+Voth) | N/A |
-| 46 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 47 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
-| 48 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 49 | [Yelich](http://twitter.com/search?q=Yelich) | N/A |
-| 50 | [Denis Bouanga](http://twitter.com/search?q=Denis+Bouanga) | N/A |
+| 36 | [Stone Garrett](http://twitter.com/search?q=Stone+Garrett) | N/A |
+| 37 | [Logano](http://twitter.com/search?q=Logano) | N/A |
+| 38 | [Stormi](http://twitter.com/search?q=Stormi) | N/A |
+| 39 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 40 | [WHAT A FIGHT](http://twitter.com/search?q=WHAT+A+FIGHT) | N/A |
+| 41 | [Denis Bouanga](http://twitter.com/search?q=Denis+Bouanga) | N/A |
+| 42 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
+| 43 | [Matthew Tkachuk](http://twitter.com/search?q=Matthew+Tkachuk) | N/A |
+| 44 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
+| 45 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
+| 46 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 47 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 48 | [Sam Hughes](http://twitter.com/search?q=Sam+Hughes) | N/A |
+| 49 | [Karate Hottie](http://twitter.com/search?q=Karate+Hottie) | N/A |
+| 50 | [Lauer](http://twitter.com/search?q=Lauer) | N/A |
 
 
 
