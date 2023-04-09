@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-04-09 06:16:55 UTC`
+📆 Last Updated: `2023-04-09 07:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,46 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 5 | [#ACEsOur2ndAnniversary](http://twitter.com/search?q=%23ACEsOur2ndAnniversary) | N/A |
-| 6 | [#ASAPalive](http://twitter.com/search?q=%23ASAPalive) | N/A |
+| 1 | [I REFUSE TO BELIEVE](http://twitter.com/search?q=I+REFUSE+TO+BELIEVE) | N/A |
+| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 5 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 6 | [#ACEsOur2ndAnniversary](http://twitter.com/search?q=%23ACEsOur2ndAnniversary) | N/A |
 | 7 | [#DONBELLEmpire](http://twitter.com/search?q=%23DONBELLEmpire) | N/A |
-| 8 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 9 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
-| 10 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 11 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 12 | [D-5 TO ANJI PARAISO](http://twitter.com/search?q=D-5+TO+ANJI+PARAISO) | N/A |
+| 8 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
+| 9 | [#ASAPalive](http://twitter.com/search?q=%23ASAPalive) | N/A |
+| 10 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
+| 11 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 12 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
 | 13 | [ASAP CHAMPION JM YOSURES](http://twitter.com/search?q=ASAP+CHAMPION+JM+YOSURES) | N/A |
-| 14 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 15 | [YOUNG K](http://twitter.com/search?q=YOUNG+K) | N/A |
-| 16 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
-| 17 | [TANGINA NAMAN](http://twitter.com/search?q=TANGINA+NAMAN) | N/A |
-| 18 | [rosie posie](http://twitter.com/search?q=rosie+posie) | N/A |
-| 19 | [I REFUSE TO BELIEVE](http://twitter.com/search?q=I+REFUSE+TO+BELIEVE) | N/A |
-| 20 | [Resurrection Sunday](http://twitter.com/search?q=Resurrection+Sunday) | N/A |
-| 21 | [Sweet Nothing](http://twitter.com/search?q=Sweet+Nothing) | N/A |
-| 22 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 23 | [Mumei](http://twitter.com/search?q=Mumei) | N/A |
-| 24 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 25 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
-| 26 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 27 | [London](http://twitter.com/search?q=London) | N/A |
-| 28 | [I JUST WOKE UP](http://twitter.com/search?q=I+JUST+WOKE+UP) | N/A |
-| 29 | [MY PARENTS](http://twitter.com/search?q=MY+PARENTS) | N/A |
-| 30 | [NO WAY](http://twitter.com/search?q=NO+WAY) | N/A |
-| 31 | [SHUT UP](http://twitter.com/search?q=SHUT+UP) | N/A |
-| 32 | [The Lord](http://twitter.com/search?q=The+Lord) | N/A |
-| 33 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
-| 34 | [#JMYosuresOnASAP](http://twitter.com/search?q=%23JMYosuresOnASAP) | N/A |
-| 35 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
+| 14 | [D-5 TO ANJI PARAISO](http://twitter.com/search?q=D-5+TO+ANJI+PARAISO) | N/A |
+| 15 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 16 | [YOUNG K](http://twitter.com/search?q=YOUNG+K) | N/A |
+| 17 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
+| 18 | [Day of Valor](http://twitter.com/search?q=Day+of+Valor) | N/A |
+| 19 | [TANGINA NAMAN](http://twitter.com/search?q=TANGINA+NAMAN) | N/A |
+| 20 | [rosie posie](http://twitter.com/search?q=rosie+posie) | N/A |
+| 21 | [Resurrection Sunday](http://twitter.com/search?q=Resurrection+Sunday) | N/A |
+| 22 | [London](http://twitter.com/search?q=London) | N/A |
+| 23 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 24 | [NO WAY](http://twitter.com/search?q=NO+WAY) | N/A |
+| 25 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 26 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
+| 27 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
+| 28 | [MY PARENTS](http://twitter.com/search?q=MY+PARENTS) | N/A |
+| 29 | [SHUT UP](http://twitter.com/search?q=SHUT+UP) | N/A |
+| 30 | [Christ is Risen](http://twitter.com/search?q=Christ+is+Risen) | N/A |
+| 31 | [The Lord](http://twitter.com/search?q=The+Lord) | N/A |
+| 32 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
+| 33 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 34 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
+| 35 | [#JMYosuresOnASAP](http://twitter.com/search?q=%23JMYosuresOnASAP) | N/A |
 | 36 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
 | 37 | [#Darling](http://twitter.com/search?q=%23Darling) | N/A |
 | 38 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
-| 39 | [#BOYCOTTEBxAPTxGMA760](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA760) | N/A |
+| 39 | [#7년의_우리맘_따뜻하게_감싸준_NCT](http://twitter.com/search?q=%237%eb%85%84%ec%9d%98_%ec%9a%b0%eb%a6%ac%eb%a7%98_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b2%8c_%ea%b0%90%ec%8b%b8%ec%a4%80_NCT) | N/A |
 | 40 | [#To7heWorld_WeAreNCT](http://twitter.com/search?q=%23To7heWorld_WeAreNCT) | N/A |
-| 41 | [#7년의_우리맘_따뜻하게_감싸준_NCT](http://twitter.com/search?q=%237%eb%85%84%ec%9d%98_%ec%9a%b0%eb%a6%ac%eb%a7%98_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b2%8c_%ea%b0%90%ec%8b%b8%ec%a4%80_NCT) | N/A |
 
 
 

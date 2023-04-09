@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-04-09 06:16:43 UTC`
+📆 Last Updated: `2023-04-09 07:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 2 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 3 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
+| 2 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 4 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 5 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 6 | [#SCFFCB](http://twitter.com/search?q=%23SCFFCB) | N/A |
-| 7 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
-| 8 | [#BVBFCU](http://twitter.com/search?q=%23BVBFCU) | N/A |
+| 7 | [#Rothenburgsort](http://twitter.com/search?q=%23Rothenburgsort) | N/A |
+| 8 | [#maskedsinger](http://twitter.com/search?q=%23maskedsinger) | N/A |
 | 9 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 10 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 11 | [Osterfeuer](http://twitter.com/search?q=Osterfeuer) | N/A |
-| 12 | [Osterfeuer](http://twitter.com/search?q=Osterfeuer) | N/A |
-| 13 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 10 | [Osterfeuer](http://twitter.com/search?q=Osterfeuer) | N/A |
+| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 12 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 13 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 14 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
 | 15 | [Guten Morgen Claudia](http://twitter.com/search?q=Guten+Morgen+Claudia) | N/A |
 | 16 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 17 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
-| 18 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 19 | [Ostersamstag](http://twitter.com/search?q=Ostersamstag) | N/A |
-| 20 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 21 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 22 | [DE LIGT](http://twitter.com/search?q=DE+LIGT) | N/A |
-| 23 | [Osterhasen](http://twitter.com/search?q=Osterhasen) | N/A |
-| 24 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 25 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
-| 26 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
-| 27 | [stimmung im land](http://twitter.com/search?q=stimmung+im+land) | N/A |
-| 28 | [handspiel](http://twitter.com/search?q=handspiel) | N/A |
-| 29 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
-| 30 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 31 | [schiri](http://twitter.com/search?q=schiri) | N/A |
-| 32 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 33 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 34 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 35 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
-| 36 | [letzte generation](http://twitter.com/search?q=letzte+generation) | N/A |
-| 37 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 17 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
+| 18 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
+| 19 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
+| 20 | [Guten Morgen Tina](http://twitter.com/search?q=Guten+Morgen+Tina) | N/A |
+| 21 | [Ostersamstag](http://twitter.com/search?q=Ostersamstag) | N/A |
+| 22 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 23 | [DE LIGT](http://twitter.com/search?q=DE+LIGT) | N/A |
+| 24 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
+| 25 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 26 | [Christus](http://twitter.com/search?q=Christus) | N/A |
+| 27 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
+| 28 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
+| 29 | [stimmung im land](http://twitter.com/search?q=stimmung+im+land) | N/A |
+| 30 | [handspiel](http://twitter.com/search?q=handspiel) | N/A |
+| 31 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
+| 32 | [schiri](http://twitter.com/search?q=schiri) | N/A |
+| 33 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 34 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 35 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 36 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
+| 37 | [letzte generation](http://twitter.com/search?q=letzte+generation) | N/A |
 | 38 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
 | 39 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
 | 40 | [Gasflaschen](http://twitter.com/search?q=Gasflaschen) | N/A |
-| 41 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 41 | [katja](http://twitter.com/search?q=katja) | N/A |
 | 42 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 44 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 45 | [katja](http://twitter.com/search?q=katja) | N/A |
-| 46 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
-| 47 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
-| 48 | [Game One](http://twitter.com/search?q=Game+One) | N/A |
-| 49 | [patricia kelly](http://twitter.com/search?q=patricia+kelly) | N/A |
+| 43 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 44 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
+| 45 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
+| 46 | [Game One](http://twitter.com/search?q=Game+One) | N/A |
+| 47 | [patricia kelly](http://twitter.com/search?q=patricia+kelly) | N/A |
+| 48 | [sané](http://twitter.com/search?q=san%c3%a9) | N/A |
+| 49 | [Substack](http://twitter.com/search?q=Substack) | N/A |
 
 
 

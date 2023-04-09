@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kanpur
 
-📆 Last Updated: `2023-04-09 06:17:03 UTC`
+📆 Last Updated: `2023-04-09 07:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 2 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 3 | [#NSUIFoundationDay](http://twitter.com/search?q=%23NSUIFoundationDay) | N/A |
-| 4 | [#AIIMS_FOR_SAHARSA](http://twitter.com/search?q=%23AIIMS_FOR_SAHARSA) | N/A |
+| 3 | [#50YearsofProjectTiger](http://twitter.com/search?q=%2350YearsofProjectTiger) | N/A |
+| 4 | [#NSUIFoundationDay](http://twitter.com/search?q=%23NSUIFoundationDay) | N/A |
 | 5 | [#MalaikottaiVaaliban](http://twitter.com/search?q=%23MalaikottaiVaaliban) | N/A |
-| 6 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 6 | [#AIIMS_FOR_SAHARSA](http://twitter.com/search?q=%23AIIMS_FOR_SAHARSA) | N/A |
 | 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 8 | [#IslamAhmadiyyat](http://twitter.com/search?q=%23IslamAhmadiyyat) | N/A |
-| 9 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
-| 10 | [केंद्रीय रिजर्व पुलिस](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 11 | [Sushant Singh Rajput Matters](http://twitter.com/search?q=Sushant+Singh+Rajput+Matters) | N/A |
-| 12 | [भारतीय राष्ट्रीय छात्र संगठन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a4%a0%e0%a4%a8) | N/A |
-| 13 | [Jeevan Darshan](http://twitter.com/search?q=Jeevan+Darshan) | N/A |
-| 14 | [टाइगर रिजर्व](http://twitter.com/search?q=%e0%a4%9f%e0%a4%be%e0%a4%87%e0%a4%97%e0%a4%b0+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
-| 15 | [राहुल सांकृत्यायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
+| 8 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 9 | [बांदीपुर टाइगर रिजर्व](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%9f%e0%a4%be%e0%a4%87%e0%a4%97%e0%a4%b0+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
+| 10 | [Sushant Singh Rajput Matters](http://twitter.com/search?q=Sushant+Singh+Rajput+Matters) | N/A |
+| 11 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
+| 12 | [केंद्रीय रिजर्व पुलिस](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 13 | [भारतीय राष्ट्रीय छात्र संगठन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a4%a0%e0%a4%a8) | N/A |
+| 14 | [राहुल सांकृत्यायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
+| 15 | [Jeevan Darshan](http://twitter.com/search?q=Jeevan+Darshan) | N/A |
 | 16 | [Brahmgyani Sant](http://twitter.com/search?q=Brahmgyani+Sant) | N/A |
-| 17 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 18 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 19 | [राजा बाबू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82) | N/A |
-| 20 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 21 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 22 | [यात्रा साहित्य](http://twitter.com/search?q=%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af) | N/A |
-| 23 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 24 | [सरदार पोस्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%a6%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%8b%e0%a4%b8%e0%a5%8d%e0%a4%9f) | N/A |
-| 25 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 26 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 27 | [Hazrat Mirza Masroor Ahmad](http://twitter.com/search?q=Hazrat+Mirza+Masroor+Ahmad) | N/A |
-| 28 | [Amul](http://twitter.com/search?q=Amul) | N/A |
-| 29 | [ईसा मसीह](http://twitter.com/search?q=%e0%a4%88%e0%a4%b8%e0%a4%be+%e0%a4%ae%e0%a4%b8%e0%a5%80%e0%a4%b9) | N/A |
-| 30 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 31 | [Nandini](http://twitter.com/search?q=Nandini) | N/A |
-| 32 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 33 | [Holy Bible](http://twitter.com/search?q=Holy+Bible) | N/A |
-| 34 | [पवित्र बाइबल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ac%e0%a4%be%e0%a4%87%e0%a4%ac%e0%a4%b2) | N/A |
+| 17 | [राजा बाबू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82) | N/A |
+| 18 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 19 | [Jago Hindus Jago](http://twitter.com/search?q=Jago+Hindus+Jago) | N/A |
+| 20 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 21 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 22 | [Amul](http://twitter.com/search?q=Amul) | N/A |
+| 23 | [सरदार पोस्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%a6%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%8b%e0%a4%b8%e0%a5%8d%e0%a4%9f) | N/A |
+| 24 | [यात्रा साहित्य](http://twitter.com/search?q=%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af) | N/A |
+| 25 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 26 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
+| 27 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 28 | [Hazrat Mirza Masroor Ahmad](http://twitter.com/search?q=Hazrat+Mirza+Masroor+Ahmad) | N/A |
+| 29 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 30 | [ईसा मसीह](http://twitter.com/search?q=%e0%a4%88%e0%a4%b8%e0%a4%be+%e0%a4%ae%e0%a4%b8%e0%a5%80%e0%a4%b9) | N/A |
+| 31 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 32 | [Nandini](http://twitter.com/search?q=Nandini) | N/A |
+| 33 | [दलित महिला](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 34 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 35 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
-| 36 | [दलित महिला](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 37 | [ISRO](http://twitter.com/search?q=ISRO) | N/A |
-| 38 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
-| 39 | [#हम_मुकेश_भाकर_के_साथ_हैं](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%ae_%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%b6_%e0%a4%ad%e0%a4%be%e0%a4%95%e0%a4%b0_%e0%a4%95%e0%a5%87_%e0%a4%b8%e0%a4%be%e0%a4%a5_%e0%a4%b9%e0%a5%88%e0%a4%82) | N/A |
-| 40 | [#Mohanlal](http://twitter.com/search?q=%23Mohanlal) | N/A |
-| 41 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 42 | [#SpiritualSunday](http://twitter.com/search?q=%23SpiritualSunday) | N/A |
-| 43 | [#विश्व_के_लिए_प्रेरणास्त्रोत](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5_%e0%a4%95%e0%a5%87_%e0%a4%b2%e0%a4%bf%e0%a4%8f_%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%8b%e0%a4%a4) | N/A |
-| 44 | [#CRPFValourDay](http://twitter.com/search?q=%23CRPFValourDay) | N/A |
-| 45 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 46 | [#Simhadri4K](http://twitter.com/search?q=%23Simhadri4K) | N/A |
-| 47 | [#2YearsForVakeelSaab](http://twitter.com/search?q=%232YearsForVakeelSaab) | N/A |
-| 48 | [#Shramev_Jayate](http://twitter.com/search?q=%23Shramev_Jayate) | N/A |
-| 49 | [#LijoJosePellissery](http://twitter.com/search?q=%23LijoJosePellissery) | N/A |
+| 36 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 37 | [पवित्र बाइबल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ac%e0%a4%be%e0%a4%87%e0%a4%ac%e0%a4%b2) | N/A |
+| 38 | [Holy Bible](http://twitter.com/search?q=Holy+Bible) | N/A |
+| 39 | [PM Shri](http://twitter.com/search?q=PM+Shri) | N/A |
+| 40 | [ISRO](http://twitter.com/search?q=ISRO) | N/A |
+| 41 | [#हम_मुकेश_भाकर_के_साथ_हैं](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%ae_%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%b6_%e0%a4%ad%e0%a4%be%e0%a4%95%e0%a4%b0_%e0%a4%95%e0%a5%87_%e0%a4%b8%e0%a4%be%e0%a4%a5_%e0%a4%b9%e0%a5%88%e0%a4%82) | N/A |
+| 42 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 43 | [#Mohanlal](http://twitter.com/search?q=%23Mohanlal) | N/A |
+| 44 | [#IslamAhmadiyyat](http://twitter.com/search?q=%23IslamAhmadiyyat) | N/A |
+| 45 | [#CRPF](http://twitter.com/search?q=%23CRPF) | N/A |
+| 46 | [#2YearsForVakeelSaab](http://twitter.com/search?q=%232YearsForVakeelSaab) | N/A |
+| 47 | [#Shramev_Jayate](http://twitter.com/search?q=%23Shramev_Jayate) | N/A |
+| 48 | [#Simhadri4K](http://twitter.com/search?q=%23Simhadri4K) | N/A |
+| 49 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
 
 
 

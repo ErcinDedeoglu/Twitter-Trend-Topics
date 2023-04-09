@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-04-09 06:16:56 UTC`
+📆 Last Updated: `2023-04-09 07:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,28 +19,28 @@ This is top 50 for [Algeria](</Algeria>)
 | 2 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
 | 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 4 | [بدر الكبري](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
-| 5 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 6 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 7 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 8 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 9 | [الدرك الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d9%83+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 10 | [وزير الشوون الدينيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 11 | [17 رمضان](http://twitter.com/search?q=17+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 12 | [#وليد_مهساس](http://twitter.com/search?q=%23%d9%88%d9%84%d9%8a%d8%af_%d9%85%d9%87%d8%b3%d8%a7%d8%b3) | N/A |
-| 13 | [الدين الداخلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a) | N/A |
-| 14 | [#GW30](http://twitter.com/search?q=%23GW30) | N/A |
-| 15 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 17 | [وفاق سطيف](http://twitter.com/search?q=%d9%88%d9%81%d8%a7%d9%82+%d8%b3%d8%b7%d9%8a%d9%81) | وفاق سطيف is an Arabic phrase meaning "the covenant of trust". It is used to refer to a mutual agreement between two parties that involves trust and loyalty. |
-| 18 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
-| 19 | [الافطار الجماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%81%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
-| 20 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
-| 21 | [المعني المردود](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%86%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d8%af%d9%88%d8%af) | N/A |
-| 22 | [اتحاد العاصمه](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d9%87) | N/A |
-| 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 24 | [الدين الخارجي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a) | N/A |
-| 25 | [مسجد ابي بكر الصديق](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d8%a8%d9%8a+%d8%a8%d9%83%d8%b1+%d8%a7%d9%84%d8%b5%d8%af%d9%8a%d9%82) | N/A |
-| 26 | [ولي الامر](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1) | N/A |
+| 5 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 6 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 7 | [الدرك الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d9%83+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 8 | [وزير الشوون الدينيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%87) | N/A |
+| 9 | [17 رمضان](http://twitter.com/search?q=17+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 10 | [#وليد_مهساس](http://twitter.com/search?q=%23%d9%88%d9%84%d9%8a%d8%af_%d9%85%d9%87%d8%b3%d8%a7%d8%b3) | N/A |
+| 11 | [الدين الداخلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a) | N/A |
+| 12 | [#GW30](http://twitter.com/search?q=%23GW30) | N/A |
+| 13 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 15 | [وفاق سطيف](http://twitter.com/search?q=%d9%88%d9%81%d8%a7%d9%82+%d8%b3%d8%b7%d9%8a%d9%81) | وفاق سطيف is an Arabic phrase meaning "the covenant of trust". It is used to refer to a mutual agreement between two parties that involves trust and loyalty. |
+| 16 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
+| 17 | [الافطار الجماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%81%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
+| 18 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 19 | [#عطر_الكلام](http://twitter.com/search?q=%23%d8%b9%d8%b7%d8%b1_%d8%a7%d9%84%d9%83%d9%84%d8%a7%d9%85) | N/A |
+| 20 | [المعني المردود](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%86%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d8%af%d9%88%d8%af) | N/A |
+| 21 | [اتحاد العاصمه](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d9%87) | N/A |
+| 22 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 23 | [الدين الخارجي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a) | N/A |
+| 24 | [مسجد ابي بكر الصديق](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d8%a8%d9%8a+%d8%a8%d9%83%d8%b1+%d8%a7%d9%84%d8%b5%d8%af%d9%8a%d9%82) | N/A |
+| 25 | [ولي الامر](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1) | N/A |
+| 26 | [#ElissaAlbum13](http://twitter.com/search?q=%23ElissaAlbum13) | N/A |
 | 27 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
 | 28 | [الامام الشافعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d9%81%d8%b9%d9%8a) | N/A |
 | 29 | [يوسف بلمهدي](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a8%d9%84%d9%85%d9%87%d8%af%d9%8a) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-04-09 06:17:11 UTC`
+📆 Last Updated: `2023-04-09 07:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [United States](</United States>)
 | 7 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
 | 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [#andNEW](http://twitter.com/search?q=%23andNEW) | N/A |
-| 11 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 10 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 11 | [#andNEW](http://twitter.com/search?q=%23andNEW) | N/A |
 | 12 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
 | 13 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
 | 14 | [Fundora](http://twitter.com/search?q=Fundora) | N/A |
 | 15 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
 | 16 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
 | 17 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 18 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 19 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
+| 18 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
+| 19 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
 | 20 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
 | 21 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 22 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 23 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
-| 24 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 25 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 26 | [Headstrong](http://twitter.com/search?q=Headstrong) | N/A |
-| 27 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 28 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 29 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
-| 30 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 31 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 32 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 33 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 34 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
-| 35 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
-| 36 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
-| 37 | [OUT COLD](http://twitter.com/search?q=OUT+COLD) | N/A |
-| 38 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
-| 39 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 22 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 23 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 24 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 25 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
+| 26 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 27 | [Headstrong](http://twitter.com/search?q=Headstrong) | N/A |
+| 28 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
+| 29 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 30 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 31 | [Haney](http://twitter.com/search?q=Haney) | N/A |
+| 32 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
+| 33 | [OUT COLD](http://twitter.com/search?q=OUT+COLD) | N/A |
+| 34 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 35 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 36 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 37 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
+| 38 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
+| 39 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
 | 40 | [WHAT A KNOCKOUT](http://twitter.com/search?q=WHAT+A+KNOCKOUT) | N/A |
-| 41 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 42 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
-| 43 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 44 | [Gamebred](http://twitter.com/search?q=Gamebred) | N/A |
-| 45 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
-| 46 | [THE CHAMP IS BACK](http://twitter.com/search?q=THE+CHAMP+IS+BACK) | N/A |
-| 47 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
-| 48 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
-| 49 | [Periera](http://twitter.com/search?q=Periera) | N/A |
+| 41 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 42 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 43 | [KO'd](http://twitter.com/search?q=KO%27d) | N/A |
+| 44 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
+| 45 | [THE CHAMP IS BACK](http://twitter.com/search?q=THE+CHAMP+IS+BACK) | N/A |
+| 46 | [Gamebred](http://twitter.com/search?q=Gamebred) | N/A |
+| 47 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 48 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 49 | [Sounders](http://twitter.com/search?q=Sounders) | Sounders is the name of a Major League Soccer (MLS) team based in Seattle, Washington. The team was founded in 2007 and plays its home games at CenturyLink Field. The name Sounders is derived from the maritime tradition of the Puget Sound region, and refers to the sound of a foghorn or whistle used to signal ships. |
 
 
 

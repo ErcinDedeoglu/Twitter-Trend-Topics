@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-04-09 06:17:15 UTC`
+📆 Last Updated: `2023-04-09 07:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [United States](</United States>)
 | 1 | [Atencio](http://twitter.com/search?q=Atencio) | N/A |
 | 2 | [#SEAvSTL](http://twitter.com/search?q=%23SEAvSTL) | N/A |
 | 3 | [St Louis](http://twitter.com/search?q=St+Louis) | N/A |
-| 4 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 5 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 4 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 5 | [Wong](http://twitter.com/search?q=Wong) | N/A |
 | 6 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 8 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
@@ -27,44 +27,44 @@ This is top 50 for [United States](</United States>)
 | 10 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
 | 11 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 13 | [#andNEW](http://twitter.com/search?q=%23andNEW) | N/A |
-| 14 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 13 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 14 | [#andNEW](http://twitter.com/search?q=%23andNEW) | N/A |
 | 15 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
 | 16 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
 | 17 | [Fundora](http://twitter.com/search?q=Fundora) | N/A |
-| 18 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
-| 19 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
+| 18 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
+| 19 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
 | 20 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 21 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 22 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
+| 21 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
+| 22 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
 | 23 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
 | 24 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 25 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 26 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 27 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 25 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 26 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 27 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
 | 28 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
-| 29 | [Headstrong](http://twitter.com/search?q=Headstrong) | N/A |
-| 30 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 31 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 32 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
-| 33 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 34 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 35 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 36 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 37 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
-| 38 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
-| 39 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
-| 40 | [OUT COLD](http://twitter.com/search?q=OUT+COLD) | N/A |
-| 41 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
-| 42 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 29 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 30 | [Headstrong](http://twitter.com/search?q=Headstrong) | N/A |
+| 31 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
+| 32 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 33 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 34 | [Haney](http://twitter.com/search?q=Haney) | N/A |
+| 35 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
+| 36 | [OUT COLD](http://twitter.com/search?q=OUT+COLD) | N/A |
+| 37 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 38 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 39 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 40 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
+| 41 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
+| 42 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
 | 43 | [WHAT A KNOCKOUT](http://twitter.com/search?q=WHAT+A+KNOCKOUT) | N/A |
-| 44 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 45 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
-| 46 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 47 | [Gamebred](http://twitter.com/search?q=Gamebred) | N/A |
-| 48 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
-| 49 | [THE CHAMP IS BACK](http://twitter.com/search?q=THE+CHAMP+IS+BACK) | N/A |
-| 50 | [Bruce Buffer](http://twitter.com/search?q=Bruce+Buffer) | N/A |
+| 44 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 45 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 46 | [KO'd](http://twitter.com/search?q=KO%27d) | N/A |
+| 47 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
+| 48 | [THE CHAMP IS BACK](http://twitter.com/search?q=THE+CHAMP+IS+BACK) | N/A |
+| 49 | [Gamebred](http://twitter.com/search?q=Gamebred) | N/A |
+| 50 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
 
 
 

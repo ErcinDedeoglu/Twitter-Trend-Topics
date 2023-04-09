@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Alexandria
 
-📆 Last Updated: `2023-04-09 06:16:57 UTC`
+📆 Last Updated: `2023-04-09 07:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,11 +33,11 @@ This is top 50 for [Egypt](</Egypt>)
 | 16 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
 | 17 | [بحر البقر](http://twitter.com/search?q=%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d8%a8%d9%82%d8%b1) | N/A |
 | 18 | [ملوك الصالات](http://twitter.com/search?q=%d9%85%d9%84%d9%88%d9%83+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
-| 19 | [رمضان فانا](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%81%d8%a7%d9%86%d8%a7) | N/A |
-| 20 | [مبارك الاتي](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%b1%d9%83+%d8%a7%d9%84%d8%a7%d8%aa%d9%8a) | N/A |
-| 21 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 22 | [فينورد](http://twitter.com/search?q=%d9%81%d9%8a%d9%86%d9%88%d8%b1%d8%af) | N/A |
-| 23 | [عبد الرازق](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b1%d8%a7%d8%b2%d9%82) | N/A |
+| 19 | [مبارك الاتي](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%b1%d9%83+%d8%a7%d9%84%d8%a7%d8%aa%d9%8a) | N/A |
+| 20 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 21 | [فينورد](http://twitter.com/search?q=%d9%81%d9%8a%d9%86%d9%88%d8%b1%d8%af) | N/A |
+| 22 | [عبد الرازق](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b1%d8%a7%d8%b2%d9%82) | N/A |
+| 23 | [رمضان فانا](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%81%d8%a7%d9%86%d8%a7) | N/A |
 | 24 | [جعفر العمده](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d8%af%d9%87) | N/A |
 | 25 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
 | 26 | [عمر سيد معوض](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%b3%d9%8a%d8%af+%d9%85%d8%b9%d9%88%d8%b6) | N/A |
@@ -52,17 +52,17 @@ This is top 50 for [Egypt](</Egypt>)
 | 35 | [مارسيال](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7%d9%84) | مارسيال is a Spanish word meaning "march" or "march on". It is often used as a rallying cry for marches and protests. |
 | 36 | [بيرنلي](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%86%d9%84%d9%8a) | بيرنلي (pronounced "birnlee") is an Arabic word meaning "pearl". |
 | 37 | [اللمه الكدابه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%85%d9%87+%d8%a7%d9%84%d9%83%d8%af%d8%a7%d8%a8%d9%87) | N/A |
-| 38 | [شلبي](http://twitter.com/search?q=%d8%b4%d9%84%d8%a8%d9%8a) | N/A |
-| 39 | [محمد سامي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b3%d8%a7%d9%85%d9%8a) | N/A |
-| 40 | [العاب الصالات](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d8%a8+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
-| 41 | [منذر ريحانه](http://twitter.com/search?q=%d9%85%d9%86%d8%b0%d8%b1+%d8%b1%d9%8a%d8%ad%d8%a7%d9%86%d9%87) | N/A |
-| 42 | [العبايات المفتوحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d9%87) | N/A |
-| 43 | [اليوم الثامن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86) | N/A |
-| 44 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
-| 45 | [ابراهيم الخولي](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a7%d9%84%d8%ae%d9%88%d9%84%d9%8a) | N/A |
-| 46 | [الجيش المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
+| 38 | [محمد سامي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b3%d8%a7%d9%85%d9%8a) | N/A |
+| 39 | [شلبي](http://twitter.com/search?q=%d8%b4%d9%84%d8%a8%d9%8a) | N/A |
+| 40 | [منذر ريحانه](http://twitter.com/search?q=%d9%85%d9%86%d8%b0%d8%b1+%d8%b1%d9%8a%d8%ad%d8%a7%d9%86%d9%87) | N/A |
+| 41 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 42 | [اليوم الثامن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86) | N/A |
+| 43 | [عيد سعيد](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 44 | [ابراهيم الخولي](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a7%d9%84%d8%ae%d9%88%d9%84%d9%8a) | N/A |
+| 45 | [الجيش المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
+| 46 | [الشاروبيم اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d8%b1%d9%88%d8%a8%d9%8a%d9%85+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
 | 47 | [المستشفي الوحيده](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%b4%d9%81%d9%8a+%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af%d9%87) | N/A |
-| 48 | [عيد سعيد](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 48 | [العبايات المفتوحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d9%87) | N/A |
 | 49 | [قصر عابدين](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%b9%d8%a7%d8%a8%d8%af%d9%8a%d9%86) | N/A |
 | 50 | [لوريس](http://twitter.com/search?q=%d9%84%d9%88%d8%b1%d9%8a%d8%b3) | لوريس is a transliteration of the Arabic name "Lawrence" and it means "from Laurentum" in English. |
 

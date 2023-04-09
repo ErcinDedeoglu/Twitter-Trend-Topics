@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-04-09 06:17:20 UTC`
+📆 Last Updated: `2023-04-09 07:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,24 +34,24 @@ This is top 50 for Kuwait
 | 17 | [عثمان بن عفان](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d9%81%d8%a7%d9%86) | N/A |
 | 18 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
 | 19 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 20 | [اليرموك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83) | N/A |
-| 21 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
-| 22 | [المذاهب الاربعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b0%d8%a7%d9%87%d8%a8+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d9%87) | N/A |
-| 23 | [سمير](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1) | N/A |
-| 24 | [نساء الكويت](http://twitter.com/search?q=%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
-| 25 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
+| 20 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
+| 21 | [المذاهب الاربعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b0%d8%a7%d9%87%d8%a8+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d9%87) | N/A |
+| 22 | [سمير](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1) | N/A |
+| 23 | [نساء الكويت](http://twitter.com/search?q=%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
+| 24 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
+| 25 | [اليرموك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%b1%d9%85%d9%88%d9%83) | N/A |
 | 26 | [الظواهر السلبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b8%d9%88%d8%a7%d9%87%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%a8%d9%8a%d9%87) | N/A |
 | 27 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 28 | [للسيتي](http://twitter.com/search?q=%d9%84%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
-| 29 | [كوادرادو](http://twitter.com/search?q=%d9%83%d9%88%d8%a7%d8%af%d8%b1%d8%a7%d8%af%d9%88) | N/A |
-| 30 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 31 | [دي بروين](http://twitter.com/search?q=%d8%af%d9%8a+%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | N/A |
-| 32 | [المناطق الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 28 | [المناطق الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 29 | [للسيتي](http://twitter.com/search?q=%d9%84%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
+| 30 | [كوادرادو](http://twitter.com/search?q=%d9%83%d9%88%d8%a7%d8%af%d8%b1%d8%a7%d8%af%d9%88) | N/A |
+| 31 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 32 | [دي بروين](http://twitter.com/search?q=%d8%af%d9%8a+%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | N/A |
 | 33 | [سافيتش](http://twitter.com/search?q=%d8%b3%d8%a7%d9%81%d9%8a%d8%aa%d8%b4) | سافيتش is an Arabic word that means "sophisticated" or "refined". It is used to describe someone or something that is elegant, stylish, and sophisticated. |
-| 34 | [دوري الطايره](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
-| 35 | [الجمعيه الوصخه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d9%88%d8%b5%d8%ae%d9%87) | N/A |
-| 36 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
-| 37 | [عدنان درجال](http://twitter.com/search?q=%d8%b9%d8%af%d9%86%d8%a7%d9%86+%d8%af%d8%b1%d8%ac%d8%a7%d9%84) | N/A |
+| 34 | [عدنان درجال](http://twitter.com/search?q=%d8%b9%d8%af%d9%86%d8%a7%d9%86+%d8%af%d8%b1%d8%ac%d8%a7%d9%84) | N/A |
+| 35 | [دوري الطايره](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d8%b1%d9%87) | N/A |
+| 36 | [الجمعيه الوصخه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d9%88%d8%b5%d8%ae%d9%87) | N/A |
+| 37 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
 | 38 | [طلال الفهد](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%81%d9%87%d8%af) | N/A |
 | 39 | [رعد حمودي](http://twitter.com/search?q=%d8%b1%d8%b9%d8%af+%d8%ad%d9%85%d9%88%d8%af%d9%8a) | N/A |
 | 40 | [مارسيال](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7%d9%84) | مارسيال is a Spanish word meaning "march" or "march on". It is often used as a rallying cry for marches and protests. |

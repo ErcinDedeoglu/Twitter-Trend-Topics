@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-04-09 06:17:21 UTC`
+📆 Last Updated: `2023-04-09 07:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,40 +16,40 @@ This is top 50 for Portugal
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 2 | [#UFCnaSPORTTV](http://twitter.com/search?q=%23UFCnaSPORTTV) | N/A |
-| 3 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 2 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 3 | [#UFCnaSPORTTV](http://twitter.com/search?q=%23UFCnaSPORTTV) | N/A |
 | 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 6 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
 | 7 | [Porto](http://twitter.com/search?q=Porto) | N/A |
 | 8 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 9 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 10 | [Matheus Nunes](http://twitter.com/search?q=Matheus+Nunes) | N/A |
+| 10 | [Matheus nunes](http://twitter.com/search?q=Matheus+nunes) | N/A |
 | 11 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 12 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 13 | [Galeno](http://twitter.com/search?q=Galeno) | N/A |
-| 14 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 15 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
-| 16 | [#BruEmFamilia](http://twitter.com/search?q=%23BruEmFamilia) | N/A |
-| 17 | [#premiereleven](http://twitter.com/search?q=%23premiereleven) | N/A |
-| 18 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 19 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
-| 20 | [Ivan Jaime](http://twitter.com/search?q=Ivan+Jaime) | N/A |
-| 21 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 14 | [Otávio](http://twitter.com/search?q=Ot%c3%a1vio) | Otávio is a Portuguese name derived from the Latin Octavius, meaning "eighth". It is also a variant of the Italian name Ottavio. |
+| 15 | [#bruemfamilia](http://twitter.com/search?q=%23bruemfamilia) | N/A |
+| 16 | [#premiereleven](http://twitter.com/search?q=%23premiereleven) | N/A |
+| 17 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 18 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
+| 19 | [Ivan Jaime](http://twitter.com/search?q=Ivan+Jaime) | N/A |
+| 20 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 21 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
 | 22 | [#taskmaster](http://twitter.com/search?q=%23taskmaster) | N/A |
-| 23 | [Dragão](http://twitter.com/search?q=Drag%c3%a3o) | N/A |
-| 24 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 25 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 26 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 27 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 28 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | N/A |
-| 29 | [TAREMI](http://twitter.com/search?q=TAREMI) | N/A |
-| 30 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
+| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 24 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 26 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 27 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | N/A |
+| 28 | [TAREMI](http://twitter.com/search?q=TAREMI) | N/A |
+| 29 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
+| 30 | [Dragão](http://twitter.com/search?q=Drag%c3%a3o) | N/A |
 | 31 | [manafá](http://twitter.com/search?q=manaf%c3%a1) | N/A |
 | 32 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
 | 33 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 34 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 35 | [mctominay](http://twitter.com/search?q=mctominay) | N/A |
+| 35 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
 | 36 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
 | 37 | [Pizzi](http://twitter.com/search?q=Pizzi) | N/A |
 | 38 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
@@ -63,7 +63,7 @@ This is top 50 for Portugal
 | 46 | [sérgio conceição](http://twitter.com/search?q=s%c3%a9rgio+concei%c3%a7%c3%a3o) | N/A |
 | 47 | [Gonçalo Ramos](http://twitter.com/search?q=Gon%c3%a7alo+Ramos) | N/A |
 | 48 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 49 | [NERES](http://twitter.com/search?q=NERES) | N/A |
+| 49 | [neres](http://twitter.com/search?q=neres) | N/A |
 | 50 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-04-09 06:17:24 UTC`
+📆 Last Updated: `2023-04-09 07:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,41 @@ This is top 50 for Vietnam
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PondPhuwinFMinVietnam](http://twitter.com/search?q=%23PondPhuwinFMinVietnam) | N/A |
-| 2 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 1 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
+| 2 | [#PondPhuwinFMinVietnam](http://twitter.com/search?q=%23PondPhuwinFMinVietnam) | N/A |
 | 3 | [#TheThingsILoveAboutBible](http://twitter.com/search?q=%23TheThingsILoveAboutBible) | N/A |
-| 4 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
-| 5 | [#BIU100KLUVE](http://twitter.com/search?q=%23BIU100KLUVE) | N/A |
-| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 8 | [#ShowmeloveTheseriesEP6](http://twitter.com/search?q=%23ShowmeloveTheseriesEP6) | N/A |
-| 9 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 10 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 11 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 12 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 13 | [Grim](http://twitter.com/search?q=Grim) | N/A |
+| 4 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 7 | [#santaxgreatdancecrew2](http://twitter.com/search?q=%23santaxgreatdancecrew2) | N/A |
+| 8 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 9 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 10 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 11 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 12 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 13 | [Flower](http://twitter.com/search?q=Flower) | N/A |
 | 14 | [Grim](http://twitter.com/search?q=Grim) | N/A |
 | 15 | [HAVE A SAFE FLIGHT JUNGKOOK](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+JUNGKOOK) | N/A |
 | 16 | [GenG](http://twitter.com/search?q=GenG) | N/A |
 | 17 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
 | 18 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 19 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 19 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
 | 20 | [London](http://twitter.com/search?q=London) | N/A |
-| 21 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 22 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 23 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 21 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 22 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 23 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 24 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 25 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 26 | [America](http://twitter.com/search?q=America) | N/A |
-| 27 | [Scam](http://twitter.com/search?q=Scam) | N/A |
-| 28 | [Nguyên](http://twitter.com/search?q=Nguy%c3%aan) | N/A |
-| 29 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 30 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
-| 31 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 32 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 33 | [#BedFriendEP8](http://twitter.com/search?q=%23BedFriendEP8) | N/A |
-| 34 | [#น้องนิวเวลาหม่ํา](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%99%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%a7%e0%b8%a5%e0%b8%b2%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b9%8d%e0%b8%b2) | N/A |
-| 35 | [#phuwintang](http://twitter.com/search?q=%23phuwintang) | N/A |
+| 25 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 26 | [Mình](http://twitter.com/search?q=M%c3%acnh) | N/A |
+| 27 | [America](http://twitter.com/search?q=America) | N/A |
+| 28 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
+| 29 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 30 | [Kiểu](http://twitter.com/search?q=Ki%e1%bb%83u) | N/A |
+| 31 | [Nguyên](http://twitter.com/search?q=Nguy%c3%aan) | N/A |
+| 32 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 33 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 34 | [#welcomebackleadersantatogdc2](http://twitter.com/search?q=%23welcomebackleadersantatogdc2) | N/A |
+| 35 | [#BIU100KLUVE](http://twitter.com/search?q=%23BIU100KLUVE) | N/A |
 
 
 

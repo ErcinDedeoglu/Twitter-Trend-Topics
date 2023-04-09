@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-04-09 06:17:09 UTC`
+📆 Last Updated: `2023-04-09 07:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 2 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 3 | [Devin](http://twitter.com/search?q=Devin) | N/A |
-| 4 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 5 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 6 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 1 | [Devin](http://twitter.com/search?q=Devin) | N/A |
+| 2 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 3 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 4 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
+| 5 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 6 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 7 | [#AustinFC](http://twitter.com/search?q=%23AustinFC) | N/A |
-| 8 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 9 | [#HoldItDown](http://twitter.com/search?q=%23HoldItDown) | N/A |
-| 10 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 11 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
-| 12 | [#Verde](http://twitter.com/search?q=%23Verde) | N/A |
-| 13 | [Governor Abbott](http://twitter.com/search?q=Governor+Abbott) | N/A |
-| 14 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 15 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 16 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 17 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 18 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
-| 19 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 20 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 21 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
-| 22 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 23 | [Fundora](http://twitter.com/search?q=Fundora) | N/A |
-| 24 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
-| 25 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 26 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 27 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
-| 28 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
-| 29 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 30 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 31 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
-| 32 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 33 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 34 | [Headstrong](http://twitter.com/search?q=Headstrong) | N/A |
-| 35 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 36 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 37 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 38 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
-| 39 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
-| 40 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 41 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 42 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 43 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
-| 44 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
-| 45 | [OUT COLD](http://twitter.com/search?q=OUT+COLD) | N/A |
-| 46 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
+| 8 | [#HoldItDown](http://twitter.com/search?q=%23HoldItDown) | N/A |
+| 9 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 10 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 11 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 12 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 13 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
+| 14 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 16 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 17 | [#andNEW](http://twitter.com/search?q=%23andNEW) | N/A |
+| 18 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
+| 19 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 20 | [Fundora](http://twitter.com/search?q=Fundora) | N/A |
+| 21 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
+| 22 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 23 | [The Last Stylebender](http://twitter.com/search?q=The+Last+Stylebender) | N/A |
+| 24 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 25 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
+| 26 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 27 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 28 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 29 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 30 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
+| 31 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 32 | [Headstrong](http://twitter.com/search?q=Headstrong) | N/A |
+| 33 | [Jared Anderson](http://twitter.com/search?q=Jared+Anderson) | N/A |
+| 34 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 35 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 36 | [Haney](http://twitter.com/search?q=Haney) | N/A |
+| 37 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
+| 38 | [OUT COLD](http://twitter.com/search?q=OUT+COLD) | N/A |
+| 39 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 40 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 41 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 42 | [Keyshawn Davis](http://twitter.com/search?q=Keyshawn+Davis) | N/A |
+| 43 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
+| 44 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 45 | [WHAT A KNOCKOUT](http://twitter.com/search?q=WHAT+A+KNOCKOUT) | N/A |
+| 46 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
 | 47 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 48 | [WHAT A KNOCKOUT](http://twitter.com/search?q=WHAT+A+KNOCKOUT) | N/A |
-| 49 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 50 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
+| 48 | [KO'd](http://twitter.com/search?q=KO%27d) | N/A |
+| 49 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
+| 50 | [THE CHAMP IS BACK](http://twitter.com/search?q=THE+CHAMP+IS+BACK) | N/A |
 
 
 

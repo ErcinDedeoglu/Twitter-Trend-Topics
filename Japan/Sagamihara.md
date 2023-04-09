@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sagamihara
 
-📆 Last Updated: `2023-04-09 06:16:51 UTC`
+📆 Last Updated: `2023-04-09 07:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [投票証明書](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e8%a8%bc%e6%98%8e%e6%9b%b8) | N/A |
-| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [日向ぼっこ](http://twitter.com/search?q=%e6%97%a5%e5%90%91%e3%81%bc%e3%81%a3%e3%81%93) | N/A |
-| 4 | [クワゴン](http://twitter.com/search?q=%e3%82%af%e3%83%af%e3%82%b4%e3%83%b3) | N/A |
-| 5 | [#神奈川県知事選](http://twitter.com/search?q=%23%e7%a5%9e%e5%a5%88%e5%b7%9d%e7%9c%8c%e7%9f%a5%e4%ba%8b%e9%81%b8) | N/A |
-| 6 | [#統一地方選挙2023](http://twitter.com/search?q=%23%e7%b5%b1%e4%b8%80%e5%9c%b0%e6%96%b9%e9%81%b8%e6%8c%992023) | N/A |
-| 7 | [#仮面ライダーギーツ](http://twitter.com/search?q=%23%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ae%e3%83%bc%e3%83%84) | #仮面ライダーギーツ is the Japanese title for the television series Kamen Rider Gaim. The English translation of the title is Masked Rider Gaim. The series follows a young man named Kouta Kazuraba, who transforms into a superhero known as Kamen Rider Gaim to fight against an evil organization called the Inves. |
-| 8 | [サソリーヌ](http://twitter.com/search?q=%e3%82%b5%e3%82%bd%e3%83%aa%e3%83%bc%e3%83%8c) | N/A |
-| 9 | [シューイチ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%bc%e3%82%a4%e3%83%81) | シューイチ is a Japanese phrase that translates to "shoe store". It is used to refer to a store that specializes in selling shoes. |
-| 10 | [#SFormula](http://twitter.com/search?q=%23SFormula) | N/A |
-| 11 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
-| 12 | [ツバサくん](http://twitter.com/search?q=%e3%83%84%e3%83%90%e3%82%b5%e3%81%8f%e3%82%93) | N/A |
-| 13 | [マンダリンヒーロー](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%83%80%e3%83%aa%e3%83%b3%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc) | N/A |
-| 14 | [たい焼き](http://twitter.com/search?q=%e3%81%9f%e3%81%84%e7%84%bc%e3%81%8d) | N/A |
-| 15 | [トロフィー](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%83%95%e3%82%a3%e3%83%bc) | N/A |
-| 16 | [ローレル](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%ac%e3%83%ab) | N/A |
-| 17 | [グランベルナデット](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%99%e3%83%ab%e3%83%8a%e3%83%87%e3%83%83%e3%83%88) | N/A |
-| 18 | [イースター](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 19 | [アデサニヤ](http://twitter.com/search?q=%e3%82%a2%e3%83%87%e3%82%b5%e3%83%8b%e3%83%a4) | N/A |
-| 20 | [ニックス](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 21 | [抹茶ドーナツ](http://twitter.com/search?q=%e6%8a%b9%e8%8c%b6%e3%83%89%e3%83%bc%e3%83%8a%e3%83%84) | N/A |
-| 22 | [リバティアイランド](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 23 | [デビッドソン](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%83%e3%83%89%e3%82%bd%e3%83%b3) | N/A |
-| 24 | [才木くん](http://twitter.com/search?q=%e6%89%8d%e6%9c%a8%e3%81%8f%e3%82%93) | N/A |
-| 25 | [レジエレキ](http://twitter.com/search?q=%e3%83%ac%e3%82%b8%e3%82%a8%e3%83%ac%e3%82%ad) | N/A |
-| 26 | [打者一巡](http://twitter.com/search?q=%e6%89%93%e8%80%85%e4%b8%80%e5%b7%a1) | N/A |
-| 27 | [山岡くん](http://twitter.com/search?q=%e5%b1%b1%e5%b2%a1%e3%81%8f%e3%82%93) | N/A |
-| 28 | [セカンド松田](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%83%b3%e3%83%89%e6%9d%be%e7%94%b0) | N/A |
-| 29 | [吉村くん](http://twitter.com/search?q=%e5%90%89%e6%9d%91%e3%81%8f%e3%82%93) | N/A |
-| 30 | [ルルーシュ](http://twitter.com/search?q=%e3%83%ab%e3%83%ab%e3%83%bc%e3%82%b7%e3%83%a5) | N/A |
-| 31 | [金村くん](http://twitter.com/search?q=%e9%87%91%e6%9d%91%e3%81%8f%e3%82%93) | N/A |
-| 32 | [ハーパー](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%91%e3%83%bc) | N/A |
-| 33 | [ドリーミングアップ](http://twitter.com/search?q=%e3%83%89%e3%83%aa%e3%83%bc%e3%83%9f%e3%83%b3%e3%82%b0%e3%82%a2%e3%83%83%e3%83%97) | N/A |
-| 34 | [のど自慢](http://twitter.com/search?q=%e3%81%ae%e3%81%a9%e8%87%aa%e6%85%a2) | N/A |
-| 35 | [ドゥアイズ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%82%a2%e3%82%a4%e3%82%ba) | N/A |
-| 36 | [ライトクオンタム](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%88%e3%82%af%e3%82%aa%e3%83%b3%e3%82%bf%e3%83%a0) | ライトクオンタム (Raito Kuontamu) is a Japanese light novel series written by Kōhei Azano and illustrated by Tsunako. It follows the story of a group of high school students who are chosen to become "Light Quantum" and use their special powers to protect the world from evil forces. The title translates to "Light Quantum" in English. |
-| 37 | [忘れな草賞](http://twitter.com/search?q=%e5%bf%98%e3%82%8c%e3%81%aa%e8%8d%89%e8%b3%9e) | N/A |
-| 38 | [オークス](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%af%e3%82%b9) | N/A |
-| 39 | [モズメイメイ](http://twitter.com/search?q=%e3%83%a2%e3%82%ba%e3%83%a1%e3%82%a4%e3%83%a1%e3%82%a4) | N/A |
-| 40 | [田中広輔](http://twitter.com/search?q=%e7%94%b0%e4%b8%ad%e5%ba%83%e8%bc%94) | N/A |
-| 41 | [水星の魔女](http://twitter.com/search?q=%e6%b0%b4%e6%98%9f%e3%81%ae%e9%ad%94%e5%a5%b3) | 水星の魔女 (Suisei no Majo) is a Japanese manga series written and illustrated by Fumiko Fumi. It follows the story of a young witch named Suisei who lives in a small village and uses her magical powers to help the people around her. The title translates to "The Witch of Mercury" in English. |
-| 42 | [コナコースト](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%82%b3%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
-| 43 | [投票うぃ](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e3%81%86%e3%81%83) | N/A |
-| 44 | [選挙の日](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e3%81%ae%e6%97%a5) | N/A |
-| 45 | [ノーアウト満塁](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%a2%e3%82%a6%e3%83%88%e6%ba%80%e5%a1%81) | N/A |
-| 46 | [投票済証](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e6%b8%88%e8%a8%bc) | N/A |
-| 47 | [マシンガン打線](http://twitter.com/search?q=%e3%83%9e%e3%82%b7%e3%83%b3%e3%82%ac%e3%83%b3%e6%89%93%e7%b7%9a) | N/A |
-| 48 | [キングオージャー](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | キングオージャー is a Japanese card game similar to the American game of Crazy Eights. The object of the game is to be the first player to get rid of all their cards. The game is played with a standard deck of 52 cards, with each player receiving seven cards at the start. The remaining cards are placed face down in a pile, and the top card is turned over to begin the discard pile. Players must match either the suit or rank of the card on top of the discard pile in order to play a card from their hand. |
-| 49 | [エピックレイド](http://twitter.com/search?q=%e3%82%a8%e3%83%94%e3%83%83%e3%82%af%e3%83%ac%e3%82%a4%e3%83%89) | N/A |
+| 1 | [ブライト](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%83%88) | N/A |
+| 2 | [投票証明書](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e8%a8%bc%e6%98%8e%e6%9b%b8) | N/A |
+| 3 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
+| 4 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 5 | [#ニノさん](http://twitter.com/search?q=%23%e3%83%8b%e3%83%8e%e3%81%95%e3%82%93) | #ニノさん is a hashtag used on Twitter to refer to Nino, a Japanese singer and actor. It is used to show support for him or to discuss topics related to him. In English, it translates to "#Nino-san". |
+| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 7 | [投票完了](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e5%ae%8c%e4%ba%86) | N/A |
+| 8 | [#統一地方選挙2023](http://twitter.com/search?q=%23%e7%b5%b1%e4%b8%80%e5%9c%b0%e6%96%b9%e9%81%b8%e6%8c%992023) | N/A |
+| 9 | [神奈川県民](http://twitter.com/search?q=%e7%a5%9e%e5%a5%88%e5%b7%9d%e7%9c%8c%e6%b0%91) | N/A |
+| 10 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
+| 11 | [クワゴン](http://twitter.com/search?q=%e3%82%af%e3%83%af%e3%82%b4%e3%83%b3) | N/A |
+| 12 | [ラクレス](http://twitter.com/search?q=%e3%83%a9%e3%82%af%e3%83%ac%e3%82%b9) | N/A |
+| 13 | [#中日ドラゴンズ](http://twitter.com/search?q=%23%e4%b8%ad%e6%97%a5%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%ba) | N/A |
+| 14 | [#仮面ライダーギーツ](http://twitter.com/search?q=%23%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ae%e3%83%bc%e3%83%84) | #仮面ライダーギーツ is the Japanese title for the television series Kamen Rider Gaim. The English translation of the title is Masked Rider Gaim. The series follows a young man named Kouta Kazuraba, who transforms into a superhero known as Kamen Rider Gaim to fight against an evil organization called the Inves. |
+| 15 | [サソリーヌ](http://twitter.com/search?q=%e3%82%b5%e3%82%bd%e3%83%aa%e3%83%bc%e3%83%8c) | N/A |
+| 16 | [投票用紙](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e7%94%a8%e7%b4%99) | N/A |
+| 17 | [オフサイド](http://twitter.com/search?q=%e3%82%aa%e3%83%95%e3%82%b5%e3%82%a4%e3%83%89) | オフサイド (Offside) is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field, or closer to the goal line than both the ball and the second-to-last defender, when the ball is passed to them. In English, it is referred to as "offside". |
+| 18 | [シューイチ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%bc%e3%82%a4%e3%83%81) | シューイチ is a Japanese phrase that translates to "shoe store". It is used to refer to a store that specializes in selling shoes. |
+| 19 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
+| 20 | [ツバサくん](http://twitter.com/search?q=%e3%83%84%e3%83%90%e3%82%b5%e3%81%8f%e3%82%93) | N/A |
+| 21 | [マンダリンヒーロー](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%83%80%e3%83%aa%e3%83%b3%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc) | N/A |
+| 22 | [セカンド松田](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%83%b3%e3%83%89%e6%9d%be%e7%94%b0) | N/A |
+| 23 | [リバティアイランド](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 24 | [セイウンハーデス](http://twitter.com/search?q=%e3%82%bb%e3%82%a4%e3%82%a6%e3%83%b3%e3%83%8f%e3%83%bc%e3%83%87%e3%82%b9) | N/A |
+| 25 | [ローレル](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%ac%e3%83%ab) | N/A |
+| 26 | [ライトクオンタム](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%88%e3%82%af%e3%82%aa%e3%83%b3%e3%82%bf%e3%83%a0) | ライトクオンタム (Raito Kuontamu) is a Japanese light novel series written by Kōhei Azano and illustrated by Tsunako. It follows the story of a group of high school students who are chosen to become "Light Quantum" and use their special powers to protect the world from evil forces. The title translates to "Light Quantum" in English. |
+| 27 | [ドゥアイズ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%82%a2%e3%82%a4%e3%82%ba) | N/A |
+| 28 | [ハーパー](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%91%e3%83%bc) | N/A |
+| 29 | [モズメイメイ](http://twitter.com/search?q=%e3%83%a2%e3%82%ba%e3%83%a1%e3%82%a4%e3%83%a1%e3%82%a4) | N/A |
+| 30 | [才木くん](http://twitter.com/search?q=%e6%89%8d%e6%9c%a8%e3%81%8f%e3%82%93) | N/A |
+| 31 | [コナコースト](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%82%b3%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
+| 32 | [イースター](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 33 | [グランベルナデット](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%99%e3%83%ab%e3%83%8a%e3%83%87%e3%83%83%e3%83%88) | N/A |
+| 34 | [シンリョクカ](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%aa%e3%83%a7%e3%82%af%e3%82%ab) | N/A |
+| 35 | [アデサニヤ](http://twitter.com/search?q=%e3%82%a2%e3%83%87%e3%82%b5%e3%83%8b%e3%83%a4) | N/A |
+| 36 | [デビッドソン](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%83%e3%83%89%e3%82%bd%e3%83%b3) | N/A |
+| 37 | [ニックス](http://twitter.com/search?q=%e3%83%8b%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 38 | [抹茶ドーナツ](http://twitter.com/search?q=%e6%8a%b9%e8%8c%b6%e3%83%89%e3%83%bc%e3%83%8a%e3%83%84) | N/A |
+| 39 | [ペリファーニア](http://twitter.com/search?q=%e3%83%9a%e3%83%aa%e3%83%95%e3%82%a1%e3%83%bc%e3%83%8b%e3%82%a2) | ペリファーニア (Perifaniya) is a Japanese term for a person who is knowledgeable about a wide range of topics. It is derived from the Greek word "periphanes" which means "all-knowing". In English, it can be translated as "polymath" or "renaissance man/woman". |
+| 40 | [金村くん](http://twitter.com/search?q=%e9%87%91%e6%9d%91%e3%81%8f%e3%82%93) | N/A |
+| 41 | [打者一巡](http://twitter.com/search?q=%e6%89%93%e8%80%85%e4%b8%80%e5%b7%a1) | N/A |
+| 42 | [レジエレキ](http://twitter.com/search?q=%e3%83%ac%e3%82%b8%e3%82%a8%e3%83%ac%e3%82%ad) | N/A |
+| 43 | [ラヴェル](http://twitter.com/search?q=%e3%83%a9%e3%83%b4%e3%82%a7%e3%83%ab) | N/A |
+| 44 | [ドゥーラ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%bc%e3%83%a9) | N/A |
+| 45 | [ドリーミングアップ](http://twitter.com/search?q=%e3%83%89%e3%83%aa%e3%83%bc%e3%83%9f%e3%83%b3%e3%82%b0%e3%82%a2%e3%83%83%e3%83%97) | N/A |
+| 46 | [吉村くん](http://twitter.com/search?q=%e5%90%89%e6%9d%91%e3%81%8f%e3%82%93) | N/A |
+| 47 | [山岡くん](http://twitter.com/search?q=%e5%b1%b1%e5%b2%a1%e3%81%8f%e3%82%93) | N/A |
+| 48 | [ルルーシュ](http://twitter.com/search?q=%e3%83%ab%e3%83%ab%e3%83%bc%e3%82%b7%e3%83%a5) | N/A |
+| 49 | [オークス](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%af%e3%82%b9) | N/A |
 
 
 
