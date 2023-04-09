@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fukuoka
 
-📆 Last Updated: `2023-04-09 22:16:41 UTC`
+📆 Last Updated: `2023-04-09 23:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#水星の魔女](http://twitter.com/search?q=%23%e6%b0%b4%e6%98%9f%e3%81%ae%e9%ad%94%e5%a5%b3) | #水星の魔女 is a Japanese phrase that translates to "The Witch of Mercury". It is a reference to the planet Mercury, which is associated with witchcraft and magic in many cultures. |
-| 2 | [スレッタ](http://twitter.com/search?q=%e3%82%b9%e3%83%ac%e3%83%83%e3%82%bf) | スレッタ (sretta) is a type of Japanese folk dance that originated in the Edo period. It is characterized by its fast tempo and lively movements, and is often accompanied by singing and clapping. In English, it is sometimes referred to as "Sretta Dance". |
-| 3 | [リバティアイランド](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 4 | [たかほー](http://twitter.com/search?q=%e3%81%9f%e3%81%8b%e3%81%bb%e3%83%bc) | N/A |
-| 5 | [アビスパ](http://twitter.com/search?q=%e3%82%a2%e3%83%93%e3%82%b9%e3%83%91) | N/A |
-| 6 | [正木くん](http://twitter.com/search?q=%e6%ad%a3%e6%9c%a8%e3%81%8f%e3%82%93) | N/A |
-| 7 | [ペリファーニア](http://twitter.com/search?q=%e3%83%9a%e3%83%aa%e3%83%95%e3%82%a1%e3%83%bc%e3%83%8b%e3%82%a2) | ペリファーニア (Perifaniya) is a Japanese term for a person who is knowledgeable about a wide range of topics. It is derived from the Greek word "periphanes" which means "all-knowing". In English, it can be translated as "polymath" or "renaissance man/woman". |
-| 8 | [エアリアル](http://twitter.com/search?q=%e3%82%a8%e3%82%a2%e3%83%aa%e3%82%a2%e3%83%ab) | エアリアル (Eariaru) is a Japanese word that means "airy" or "ethereal". It is often used to describe something that has a light, airy, or dreamlike quality. |
-| 9 | [ガンダム](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0) | ガンダム is a Japanese media franchise created by Sunrise that features giant robots (mecha) with the name "Gundam". The franchise began on April 7, 1979, with the release of Mobile Suit Gundam, a TV series that defined the "real robot" mecha anime genre by featuring giant robots called mobile suits in a militaristic setting. The term "Gundam" is used to refer to both the mecha and their pilots. In English, Gundam can be translated as "armored warrior". |
-| 10 | [#桜花賞](http://twitter.com/search?q=%23%e6%a1%9c%e8%8a%b1%e8%b3%9e) | N/A |
-| 11 | [オークス](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%af%e3%82%b9) | N/A |
-| 12 | [コナコースト](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%82%b3%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
-| 13 | [セカンド](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%83%b3%e3%83%89) | N/A |
-| 14 | [菊池雄星](http://twitter.com/search?q=%e8%8f%8a%e6%b1%a0%e9%9b%84%e6%98%9f) | N/A |
-| 15 | [#堂本剛44回目誕生祭_0410](http://twitter.com/search?q=%23%e5%a0%82%e6%9c%ac%e5%89%9b44%e5%9b%9e%e7%9b%ae%e8%aa%95%e7%94%9f%e7%a5%ad_0410) | N/A |
-| 16 | [#おは戦50410ag](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650410ag) | N/A |
-| 17 | [上田くん舞台](http://twitter.com/search?q=%e4%b8%8a%e7%94%b0%e3%81%8f%e3%82%93%e8%88%9e%e5%8f%b0) | N/A |
-| 18 | [第444回](http://twitter.com/search?q=%e7%ac%ac444%e5%9b%9e) | N/A |
-| 19 | [デトマーズ](http://twitter.com/search?q=%e3%83%87%e3%83%88%e3%83%9e%e3%83%bc%e3%82%ba) | N/A |
-| 20 | [トップ当選](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%97%e5%bd%93%e9%81%b8) | N/A |
-| 21 | [大倉くん](http://twitter.com/search?q=%e5%a4%a7%e5%80%89%e3%81%8f%e3%82%93) | 大倉くん is a nickname for the Japanese actor, singer, and television personality Daisuke Ogura. It is a combination of his given name, Daisuke, and the honorific suffix -kun. In English, it can be translated to mean "Mr. Ogura". |
-| 22 | [大谷ホームラン](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
-| 23 | [アオのハコ](http://twitter.com/search?q=%e3%82%a2%e3%82%aa%e3%81%ae%e3%83%8f%e3%82%b3) | N/A |
-| 24 | [菊池の負け](http://twitter.com/search?q=%e8%8f%8a%e6%b1%a0%e3%81%ae%e8%b2%a0%e3%81%91) | N/A |
-| 25 | [ミケルソン](http://twitter.com/search?q=%e3%83%9f%e3%82%b1%e3%83%ab%e3%82%bd%e3%83%b3) | N/A |
-| 26 | [それスノトラック](http://twitter.com/search?q=%e3%81%9d%e3%82%8c%e3%82%b9%e3%83%8e%e3%83%88%e3%83%a9%e3%83%83%e3%82%af) | N/A |
-| 27 | [週の始まり](http://twitter.com/search?q=%e9%80%b1%e3%81%ae%e5%a7%8b%e3%81%be%e3%82%8a) | N/A |
-| 28 | [花巻東対決](http://twitter.com/search?q=%e8%8a%b1%e5%b7%bb%e6%9d%b1%e5%af%be%e6%b1%ba) | N/A |
-| 29 | [きな子ちゃん](http://twitter.com/search?q=%e3%81%8d%e3%81%aa%e5%ad%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 30 | [主題歌スト](http://twitter.com/search?q=%e4%b8%bb%e9%a1%8c%e6%ad%8c%e3%82%b9%e3%83%88) | N/A |
-| 31 | [サプライズ解禁](http://twitter.com/search?q=%e3%82%b5%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba%e8%a7%a3%e7%a6%81) | N/A |
-| 32 | [オホッピー](http://twitter.com/search?q=%e3%82%aa%e3%83%9b%e3%83%83%e3%83%94%e3%83%bc) | N/A |
-| 33 | [駅弁の日](http://twitter.com/search?q=%e9%a7%85%e5%bc%81%e3%81%ae%e6%97%a5) | N/A |
-| 34 | [げつようび](http://twitter.com/search?q=%e3%81%92%e3%81%a4%e3%82%88%e3%81%86%e3%81%b3) | N/A |
-| 35 | [スターブロッサム](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%96%e3%83%ad%e3%83%83%e3%82%b5%e3%83%a0) | N/A |
-| 36 | [主題歌SixTONES](http://twitter.com/search?q=%e4%b8%bb%e9%a1%8c%e6%ad%8cSixTONES) | N/A |
-| 37 | [キャス変](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%82%b9%e5%a4%89) | N/A |
-| 38 | [投票率の低さ](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e7%8e%87%e3%81%ae%e4%bd%8e%e3%81%95) | N/A |
-| 39 | [チャニバン](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%8b%e3%83%90%e3%83%b3) | N/A |
-| 40 | [まちゃおさん](http://twitter.com/search?q=%e3%81%be%e3%81%a1%e3%82%83%e3%81%8a%e3%81%95%e3%82%93) | N/A |
-| 41 | [鬼滅の作画](http://twitter.com/search?q=%e9%ac%bc%e6%bb%85%e3%81%ae%e4%bd%9c%e7%94%bb) | N/A |
-| 42 | [一週間の始まり](http://twitter.com/search?q=%e4%b8%80%e9%80%b1%e9%96%93%e3%81%ae%e5%a7%8b%e3%81%be%e3%82%8a) | N/A |
+| 1 | [エンゼルス](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%bc%e3%83%ab%e3%82%b9) | N/A |
+| 2 | [#青春の味ベーコンポテトパイってどんな味](http://twitter.com/search?q=%23%e9%9d%92%e6%98%a5%e3%81%ae%e5%91%b3%e3%83%99%e3%83%bc%e3%82%b3%e3%83%b3%e3%83%9d%e3%83%86%e3%83%88%e3%83%91%e3%82%a4%e3%81%a3%e3%81%a6%e3%81%a9%e3%82%93%e3%81%aa%e5%91%b3) | N/A |
+| 3 | [#サブウェイ春のごちそうサンド](http://twitter.com/search?q=%23%e3%82%b5%e3%83%96%e3%82%a6%e3%82%a7%e3%82%a4%e6%98%a5%e3%81%ae%e3%81%94%e3%81%a1%e3%81%9d%e3%81%86%e3%82%b5%e3%83%b3%e3%83%89) | N/A |
+| 4 | [#SixTONES_こっから](http://twitter.com/search?q=%23SixTONES_%e3%81%93%e3%81%a3%e3%81%8b%e3%82%89) | N/A |
+| 5 | [上田くん舞台](http://twitter.com/search?q=%e4%b8%8a%e7%94%b0%e3%81%8f%e3%82%93%e8%88%9e%e5%8f%b0) | N/A |
+| 6 | [菊池雄星](http://twitter.com/search?q=%e8%8f%8a%e6%b1%a0%e9%9b%84%e6%98%9f) | N/A |
+| 7 | [#おは戦50410ag](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650410ag) | N/A |
+| 8 | [ゴーストバスターズ](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%82%b9%e3%83%88%e3%83%90%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba) | N/A |
+| 9 | [大倉くん](http://twitter.com/search?q=%e5%a4%a7%e5%80%89%e3%81%8f%e3%82%93) | 大倉くん is a nickname for the Japanese actor, singer, and television personality Daisuke Ogura. It is a combination of his given name, Daisuke, and the honorific suffix -kun. In English, it can be translated to mean "Mr. Ogura". |
+| 10 | [菊池の負け](http://twitter.com/search?q=%e8%8f%8a%e6%b1%a0%e3%81%ae%e8%b2%a0%e3%81%91) | N/A |
+| 11 | [スニーク](http://twitter.com/search?q=%e3%82%b9%e3%83%8b%e3%83%bc%e3%82%af) | N/A |
+| 12 | [ジョブカン](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%96%e3%82%ab%e3%83%b3) | N/A |
+| 13 | [大谷ホームラン](http://twitter.com/search?q=%e5%a4%a7%e8%b0%b7%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
+| 14 | [第444回](http://twitter.com/search?q=%e7%ac%ac444%e5%9b%9e) | N/A |
+| 15 | [駅弁の日](http://twitter.com/search?q=%e9%a7%85%e5%bc%81%e3%81%ae%e6%97%a5) | N/A |
+| 16 | [デトマーズ](http://twitter.com/search?q=%e3%83%87%e3%83%88%e3%83%9e%e3%83%bc%e3%82%ba) | N/A |
+| 17 | [週の始まり](http://twitter.com/search?q=%e9%80%b1%e3%81%ae%e5%a7%8b%e3%81%be%e3%82%8a) | N/A |
+| 18 | [ぼくのうち](http://twitter.com/search?q=%e3%81%bc%e3%81%8f%e3%81%ae%e3%81%86%e3%81%a1) | N/A |
+| 19 | [レンフロー](http://twitter.com/search?q=%e3%83%ac%e3%83%b3%e3%83%95%e3%83%ad%e3%83%bc) | N/A |
+| 20 | [エンジェルス](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%82%a7%e3%83%ab%e3%82%b9) | N/A |
+| 21 | [ブルージェイズ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%82%b8%e3%82%a7%e3%82%a4%e3%82%ba) | N/A |
+| 22 | [アオのハコ](http://twitter.com/search?q=%e3%82%a2%e3%82%aa%e3%81%ae%e3%83%8f%e3%82%b3) | N/A |
+| 23 | [大阪府議会・市議会](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e5%ba%9c%e8%ad%b0%e4%bc%9a%e3%83%bb%e5%b8%82%e8%ad%b0%e4%bc%9a) | N/A |
+| 24 | [トップ当選](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%97%e5%bd%93%e9%81%b8) | N/A |
+| 25 | [げつようび](http://twitter.com/search?q=%e3%81%92%e3%81%a4%e3%82%88%e3%81%86%e3%81%b3) | N/A |
+| 26 | [新学期スタート](http://twitter.com/search?q=%e6%96%b0%e5%ad%a6%e6%9c%9f%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88) | N/A |
+| 27 | [新ポスター](http://twitter.com/search?q=%e6%96%b0%e3%83%9d%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 28 | [テンの日](http://twitter.com/search?q=%e3%83%86%e3%83%b3%e3%81%ae%e6%97%a5) | N/A |
+| 29 | [理想の上司](http://twitter.com/search?q=%e7%90%86%e6%83%b3%e3%81%ae%e4%b8%8a%e5%8f%b8) | N/A |
+| 30 | [ウーロン茶ロック](http://twitter.com/search?q=%e3%82%a6%e3%83%bc%e3%83%ad%e3%83%b3%e8%8c%b6%e3%83%ad%e3%83%83%e3%82%af) | N/A |
+| 31 | [白スーツ](http://twitter.com/search?q=%e7%99%bd%e3%82%b9%e3%83%bc%e3%83%84) | N/A |
+| 32 | [スターブロッサム](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%96%e3%83%ad%e3%83%83%e3%82%b5%e3%83%a0) | N/A |
+| 33 | [ミケルソン](http://twitter.com/search?q=%e3%83%9f%e3%82%b1%e3%83%ab%e3%82%bd%e3%83%b3) | N/A |
+| 34 | [ネジバナ](http://twitter.com/search?q=%e3%83%8d%e3%82%b8%e3%83%90%e3%83%8a) | N/A |
+| 35 | [はみぉーん](http://twitter.com/search?q=%e3%81%af%e3%81%bf%e3%81%89%e3%83%bc%e3%82%93) | N/A |
+| 36 | [月曜1限](http://twitter.com/search?q=%e6%9c%88%e6%9b%9c1%e9%99%90) | N/A |
+| 37 | [きな子ちゃん](http://twitter.com/search?q=%e3%81%8d%e3%81%aa%e5%ad%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 38 | [キャス変](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%82%b9%e5%a4%89) | N/A |
+| 39 | [花巻東対決](http://twitter.com/search?q=%e8%8a%b1%e5%b7%bb%e6%9d%b1%e5%af%be%e6%b1%ba) | N/A |
+| 40 | [ラムズデール](http://twitter.com/search?q=%e3%83%a9%e3%83%a0%e3%82%ba%e3%83%87%e3%83%bc%e3%83%ab) | N/A |
+| 41 | [一週間の始まり](http://twitter.com/search?q=%e4%b8%80%e9%80%b1%e9%96%93%e3%81%ae%e5%a7%8b%e3%81%be%e3%82%8a) | N/A |
+| 42 | [集団登校](http://twitter.com/search?q=%e9%9b%86%e5%9b%a3%e7%99%bb%e6%a0%a1) | N/A |
 | 43 | [Wordle 660](http://twitter.com/search?q=Wordle+660) | N/A |
-| 44 | [理想の上司](http://twitter.com/search?q=%e7%90%86%e6%83%b3%e3%81%ae%e4%b8%8a%e5%8f%b8) | N/A |
-| 45 | [テンの日](http://twitter.com/search?q=%e3%83%86%e3%83%b3%e3%81%ae%e6%97%a5) | N/A |
-| 46 | [奈良知事選](http://twitter.com/search?q=%e5%a5%88%e8%89%af%e7%9f%a5%e4%ba%8b%e9%81%b8) | N/A |
-| 47 | [グラスラ](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%82%b9%e3%83%a9) | N/A |
+| 44 | [サプライズ解禁](http://twitter.com/search?q=%e3%82%b5%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba%e8%a7%a3%e7%a6%81) | N/A |
+| 45 | [女性参入](http://twitter.com/search?q=%e5%a5%b3%e6%80%a7%e5%8f%82%e5%85%a5) | N/A |
+| 46 | [クックルン](http://twitter.com/search?q=%e3%82%af%e3%83%83%e3%82%af%e3%83%ab%e3%83%b3) | N/A |
+| 47 | [単独CM](http://twitter.com/search?q=%e5%8d%98%e7%8b%acCM) | N/A |
+| 48 | [クラス替え緊張](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b9%e6%9b%bf%e3%81%88%e7%b7%8a%e5%bc%b5) | N/A |
+| 49 | [アンフィールド](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
 
 
 

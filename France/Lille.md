@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-04-09 22:16:31 UTC`
+📆 Last Updated: `2023-04-09 23:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 2 | [#FCLOM](http://twitter.com/search?q=%23FCLOM) | N/A |
-| 3 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
-| 4 | [#TeamOM](http://twitter.com/search?q=%23TeamOM) | N/A |
-| 5 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
-| 6 | [Lorient](http://twitter.com/search?q=Lorient) | N/A |
-| 7 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 8 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
-| 9 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 10 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 11 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 12 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 1 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
+| 2 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 3 | [#FCLOM](http://twitter.com/search?q=%23FCLOM) | N/A |
+| 4 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
+| 5 | [#TeamOM](http://twitter.com/search?q=%23TeamOM) | N/A |
+| 6 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
+| 7 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 8 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 9 | [Lorient](http://twitter.com/search?q=Lorient) | N/A |
+| 10 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
+| 11 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 12 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
 | 13 | [#EnqueteExclusive](http://twitter.com/search?q=%23EnqueteExclusive) | N/A |
-| 14 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
-| 15 | [#LGBTQIASunBeam](http://twitter.com/search?q=%23LGBTQIASunBeam) | N/A |
-| 16 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
+| 14 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 15 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
+| 16 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
 | 17 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 18 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 19 | [Françoise Hardy](http://twitter.com/search?q=Fran%c3%a7oise+Hardy) | N/A |
-| 20 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 21 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 22 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 23 | [Pau Lopez](http://twitter.com/search?q=Pau+Lopez) | N/A |
-| 24 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
-| 25 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
-| 26 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 27 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 28 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 29 | [Gigot](http://twitter.com/search?q=Gigot) | N/A |
-| 30 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 31 | [Zlan](http://twitter.com/search?q=Zlan) | N/A |
-| 32 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 33 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
-| 34 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
-| 35 | [Troyes](http://twitter.com/search?q=Troyes) | Troyes is a city in northeastern France. It is the capital of the Aube department in the Grand Est region. The name Troyes comes from the Latin word "Tricassium", which means "three roads". In English, Troyes can be translated to mean "three roads". |
-| 36 | [Longoria](http://twitter.com/search?q=Longoria) | N/A |
-| 37 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 38 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 39 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 40 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
-| 41 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 42 | [Olympique de Marseille](http://twitter.com/search?q=Olympique+de+Marseille) | N/A |
-| 43 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
-| 44 | [Dieng](http://twitter.com/search?q=Dieng) | Dieng is a plateau located in Central Java, Indonesia. It is known for its volcanic landscape and Hindu temples. The name Dieng comes from the Javanese term "di-hayu", which means "abode of the gods". In English, it can be translated to mean "the home of the gods". |
-| 45 | [Rocket League](http://twitter.com/search?q=Rocket+League) | N/A |
-| 46 | [Nuno](http://twitter.com/search?q=Nuno) | N/A |
-| 47 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 48 | [Nawell Madani](http://twitter.com/search?q=Nawell+Madani) | N/A |
-| 49 | [Marseillais](http://twitter.com/search?q=Marseillais) | N/A |
-| 50 | [#ZoneInterdite](http://twitter.com/search?q=%23ZoneInterdite) | N/A |
+| 18 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 19 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 20 | [Zlan](http://twitter.com/search?q=Zlan) | N/A |
+| 21 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 22 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 23 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
+| 24 | [Vitinha](http://twitter.com/search?q=Vitinha) | Vitinha is a Portuguese nickname for someone named Vitor, which is a common name in Portugal. In English, it translates to "little Vitor". |
+| 25 | [Play-In](http://twitter.com/search?q=Play-In) | N/A |
+| 26 | [Tanjiro](http://twitter.com/search?q=Tanjiro) | N/A |
+| 27 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 28 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 29 | [Pau Lopez](http://twitter.com/search?q=Pau+Lopez) | N/A |
+| 30 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 31 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 32 | [Françoise Hardy](http://twitter.com/search?q=Fran%c3%a7oise+Hardy) | N/A |
+| 33 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 34 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
+| 35 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
+| 36 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 37 | [80eme](http://twitter.com/search?q=80eme) | N/A |
+| 38 | [Longoria](http://twitter.com/search?q=Longoria) | N/A |
+| 39 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 40 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 41 | [Gigot](http://twitter.com/search?q=Gigot) | N/A |
+| 42 | [Bailly](http://twitter.com/search?q=Bailly) | Bailly is a French surname derived from the Old French word baillis, meaning "bailiff" or "steward". It is also a given name in France, derived from the same source. |
+| 43 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 44 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
+| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 46 | [Dieng](http://twitter.com/search?q=Dieng) | Dieng is a plateau located in Central Java, Indonesia. It is known for its volcanic landscape and Hindu temples. The name Dieng comes from the Javanese term "di-hayu", which means "abode of the gods". In English, it can be translated to mean "the home of the gods". |
+| 47 | [Olympique de Marseille](http://twitter.com/search?q=Olympique+de+Marseille) | N/A |
+| 48 | [Playoffs](http://twitter.com/search?q=Playoffs) | N/A |
+| 49 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 50 | [Troyes](http://twitter.com/search?q=Troyes) | Troyes is a city in northeastern France. It is the capital of the Aube department in the Grand Est region. The name Troyes comes from the Latin word "Tricassium", which means "three roads". In English, Troyes can be translated to mean "three roads". |
 
 
 

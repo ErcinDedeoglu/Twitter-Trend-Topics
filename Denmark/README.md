@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-09 22:17:09 UTC`
+📆 Last Updated: `2023-04-09 23:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Denmark
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 3 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 4 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 5 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
-| 6 | [Højbjerg](http://twitter.com/search?q=H%c3%b8jbjerg) | N/A |
-| 7 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 8 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 9 | [Legends](http://twitter.com/search?q=Legends) | N/A |
-| 10 | [Mads P](http://twitter.com/search?q=Mads+P) | N/A |
-| 11 | [#mufcdk](http://twitter.com/search?q=%23mufcdk) | N/A |
-| 12 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 13 | [Glædelig](http://twitter.com/search?q=Gl%c3%a6delig) | N/A |
-| 14 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 17 | [artiklen](http://twitter.com/search?q=artiklen) | N/A |
-| 18 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 19 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
-| 20 | [palæstina](http://twitter.com/search?q=pal%c3%a6stina) | N/A |
-| 21 | [God Påske](http://twitter.com/search?q=God+P%c3%a5ske) | N/A |
-| 22 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 23 | [Vingegaard](http://twitter.com/search?q=Vingegaard) | N/A |
-| 24 | [#ultratwitteragf](http://twitter.com/search?q=%23ultratwitteragf) | N/A |
-| 25 | [Fedt](http://twitter.com/search?q=Fedt) | N/A |
-| 26 | [fremragende](http://twitter.com/search?q=fremragende) | N/A |
-| 27 | [Touren](http://twitter.com/search?q=Touren) | N/A |
-| 28 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 30 | [#twrundk](http://twitter.com/search?q=%23twrundk) | N/A |
-| 31 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 32 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 33 | [København](http://twitter.com/search?q=K%c3%b8benhavn) | N/A |
-| 34 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 35 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 36 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 37 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 38 | [siger](http://twitter.com/search?q=siger) | N/A |
-| 39 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 40 | [Wauw](http://twitter.com/search?q=Wauw) | N/A |
-| 41 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 42 | [Major](http://twitter.com/search?q=Major) | N/A |
-| 43 | [danske](http://twitter.com/search?q=danske) | N/A |
-| 44 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 45 | [Rolf](http://twitter.com/search?q=Rolf) | N/A |
-| 46 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 47 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 48 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 49 | [Tusind](http://twitter.com/search?q=Tusind) | N/A |
-| 50 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
+| 2 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 3 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
+| 4 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 5 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 8 | [#pldk](http://twitter.com/search?q=%23pldk) | N/A |
+| 9 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 10 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 11 | [#lfcdk](http://twitter.com/search?q=%23lfcdk) | N/A |
+| 12 | [jesper hansen](http://twitter.com/search?q=jesper+hansen) | N/A |
+| 13 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 14 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
+| 15 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 16 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 17 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 18 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 21 | [Paul Tierney](http://twitter.com/search?q=Paul+Tierney) | N/A |
+| 22 | [Mads P](http://twitter.com/search?q=Mads+P) | N/A |
+| 23 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 24 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 25 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 26 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 27 | [Arenberg](http://twitter.com/search?q=Arenberg) | N/A |
+| 28 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 29 | [Faze](http://twitter.com/search?q=Faze) | N/A |
+| 30 | [Asgreen](http://twitter.com/search?q=Asgreen) | N/A |
+| 31 | [SU'en](http://twitter.com/search?q=SU%27en) | N/A |
+| 32 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 33 | [Legends](http://twitter.com/search?q=Legends) | N/A |
+| 34 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 35 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 36 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 37 | [Rolf](http://twitter.com/search?q=Rolf) | N/A |
+| 38 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 39 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 41 | [Slava Ukraini](http://twitter.com/search?q=Slava+Ukraini) | N/A |
+| 42 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 43 | [slet](http://twitter.com/search?q=slet) | N/A |
+| 44 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 45 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 46 | [Manden](http://twitter.com/search?q=Manden) | N/A |
+| 47 | [touren](http://twitter.com/search?q=touren) | N/A |
+| 48 | [Verden](http://twitter.com/search?q=Verden) | N/A |
+| 49 | [Højbjerg](http://twitter.com/search?q=H%c3%b8jbjerg) | N/A |
+| 50 | [USAs](http://twitter.com/search?q=USAs) | N/A |
 
 
 

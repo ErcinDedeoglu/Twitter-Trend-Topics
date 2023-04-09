@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangalore
 
-📆 Last Updated: `2023-04-09 22:16:57 UTC`
+📆 Last Updated: `2023-04-09 23:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RinkuSingh](http://twitter.com/search?q=%23RinkuSingh) | N/A |
-| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [#CSKvsMI](http://twitter.com/search?q=%23CSKvsMI) | N/A |
-| 4 | [#VakeelSaab2](http://twitter.com/search?q=%23VakeelSaab2) | N/A |
-| 5 | [#NSUIFoundationDay](http://twitter.com/search?q=%23NSUIFoundationDay) | N/A |
-| 6 | [KBKJ TRAILER OUT TOMORROW](http://twitter.com/search?q=KBKJ+TRAILER+OUT+TOMORROW) | N/A |
-| 7 | [रिंकू सिंह](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%82%e0%a4%95%e0%a5%82+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 8 | [#YashDayal](http://twitter.com/search?q=%23YashDayal) | N/A |
-| 9 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
-| 10 | [rahane](http://twitter.com/search?q=rahane) | N/A |
-| 11 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 13 | [बांदीपुर टाइगर रिजर्व](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%9f%e0%a4%be%e0%a4%87%e0%a4%97%e0%a4%b0+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
-| 14 | [dhoni review system](http://twitter.com/search?q=dhoni+review+system) | N/A |
-| 15 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 16 | [Amul](http://twitter.com/search?q=Amul) | N/A |
-| 17 | [केंद्रीय रिजर्व पुलिस](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 18 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 2 | [#KKRvsGT](http://twitter.com/search?q=%23KKRvsGT) | N/A |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [#SRHvsPBKS](http://twitter.com/search?q=%23SRHvsPBKS) | N/A |
+| 5 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 6 | [#cskvsmi](http://twitter.com/search?q=%23cskvsmi) | N/A |
+| 7 | [Vijay Shankar](http://twitter.com/search?q=Vijay+Shankar) | N/A |
+| 8 | [KBKJ TRAILER OUT TOMORROW](http://twitter.com/search?q=KBKJ+TRAILER+OUT+TOMORROW) | N/A |
+| 9 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 10 | [रिंकू सिंह](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%82%e0%a4%95%e0%a5%82+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 11 | [supreme god kabir](http://twitter.com/search?q=supreme+god+kabir) | N/A |
+| 12 | [Yash Dayal](http://twitter.com/search?q=Yash+Dayal) | N/A |
+| 13 | [Rahane](http://twitter.com/search?q=Rahane) | Rahane is a Hindu name derived from the Sanskrit word 'rajan', meaning 'king'. It is commonly used as a first name for boys in India. |
+| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 15 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
+| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 17 | [Amul](http://twitter.com/search?q=Amul) | N/A |
+| 18 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 19 | [Sushant Singh Rajput Matters](http://twitter.com/search?q=Sushant+Singh+Rajput+Matters) | N/A |
 | 20 | [Nandini](http://twitter.com/search?q=Nandini) | N/A |
-| 21 | [छात्र संगठन](http://twitter.com/search?q=%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a4%a0%e0%a4%a8) | N/A |
-| 22 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
-| 23 | [राहुल सांकृत्यायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
-| 24 | [jeevan darshan](http://twitter.com/search?q=jeevan+darshan) | N/A |
-| 25 | [शरद पवार](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b0%e0%a4%a6+%e0%a4%aa%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 26 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 27 | [brahmgyani sant](http://twitter.com/search?q=brahmgyani+sant) | N/A |
-| 28 | [नूपुर शर्मा](http://twitter.com/search?q=%e0%a4%a8%e0%a5%82%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 29 | [sushant a skilful person](http://twitter.com/search?q=sushant+a+skilful+person) | N/A |
-| 30 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 31 | [राजा बाबू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82) | N/A |
-| 32 | [100 EPS OF AMRITA BRAR](http://twitter.com/search?q=100+EPS+OF+AMRITA+BRAR) | N/A |
-| 33 | [दलित महिला](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 34 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 35 | [Wankhede](http://twitter.com/search?q=Wankhede) | N/A |
-| 36 | [srk ka jhant akshay](http://twitter.com/search?q=srk+ka+jhant+akshay) | N/A |
-| 37 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 38 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 39 | [ईसा मसीह](http://twitter.com/search?q=%e0%a4%88%e0%a4%b8%e0%a4%be+%e0%a4%ae%e0%a4%b8%e0%a5%80%e0%a4%b9) | N/A |
-| 40 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 41 | [VEER EPITOME OF EMOTIONS](http://twitter.com/search?q=VEER+EPITOME+OF+EMOTIONS) | N/A |
-| 42 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 43 | [Mahindra](http://twitter.com/search?q=Mahindra) | N/A |
-| 44 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 45 | [मंगल पांडे](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%97%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%82%e0%a4%a1%e0%a5%87) | N/A |
-| 46 | [Jago Hindus Jago](http://twitter.com/search?q=Jago+Hindus+Jago) | N/A |
-| 47 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 48 | [Mass God](http://twitter.com/search?q=Mass+God) | N/A |
-| 49 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 21 | [केंद्रीय रिजर्व पुलिस](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 22 | [बांदीपुर टाइगर रिजर्व](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%9f%e0%a4%be%e0%a4%87%e0%a4%97%e0%a4%b0+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
+| 23 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 24 | [भारतीय राष्ट्रीय छात्र संगठन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a4%a0%e0%a4%a8) | N/A |
+| 25 | [Life Goes On](http://twitter.com/search?q=Life+Goes+On) | N/A |
+| 26 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 27 | [dhoni review system](http://twitter.com/search?q=dhoni+review+system) | N/A |
+| 28 | [राजा बाबू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82) | N/A |
+| 29 | [शरद पवार](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b0%e0%a4%a6+%e0%a4%aa%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 30 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 31 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 32 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 33 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 34 | [राहुल सांकृत्यायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
+| 35 | [REMEMBER THE NAME](http://twitter.com/search?q=REMEMBER+THE+NAME) | N/A |
+| 36 | [Woosung](http://twitter.com/search?q=Woosung) | N/A |
+| 37 | [Take A Bow](http://twitter.com/search?q=Take+A+Bow) | N/A |
+| 38 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 39 | [Kagiso R](http://twitter.com/search?q=Kagiso+R) | N/A |
+| 40 | [5 Sixes](http://twitter.com/search?q=5+Sixes) | N/A |
+| 41 | [James F](http://twitter.com/search?q=James+F) | N/A |
+| 42 | [Gabbar](http://twitter.com/search?q=Gabbar) | N/A |
+| 43 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 44 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 45 | [Stephen F](http://twitter.com/search?q=Stephen+F) | N/A |
+| 46 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 47 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 48 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 49 | [Shaun M](http://twitter.com/search?q=Shaun+M) | N/A |
+| 50 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 
 
 
