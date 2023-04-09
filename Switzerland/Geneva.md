@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-09 13:17:02 UTC`
+📆 Last Updated: `2023-04-09 14:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 3 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
-| 4 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
-| 5 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 6 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
-| 7 | [Liste](http://twitter.com/search?q=Liste) | N/A |
+| 2 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
+| 3 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
+| 4 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 5 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
+| 6 | [Liste](http://twitter.com/search?q=Liste) | N/A |
+| 7 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
 | 8 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 9 | [Eier](http://twitter.com/search?q=Eier) | N/A |
-| 10 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 9 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 10 | [Eier](http://twitter.com/search?q=Eier) | N/A |
 | 11 | [Stau](http://twitter.com/search?q=Stau) | N/A |
 | 12 | [Energie](http://twitter.com/search?q=Energie) | N/A |
 | 13 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
 | 14 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
 | 15 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
-| 16 | [#gshc](http://twitter.com/search?q=%23gshc) | N/A |
+| 16 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
 | 17 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
 | 18 | [Virus](http://twitter.com/search?q=Virus) | N/A |
-| 19 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 20 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
-| 21 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
-| 22 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 23 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 24 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 25 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 26 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 27 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
-| 28 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
-| 29 | [tessin](http://twitter.com/search?q=tessin) | N/A |
-| 30 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 31 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 32 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 33 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 34 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 35 | [Trottel](http://twitter.com/search?q=Trottel) | N/A |
-| 36 | [Logisch](http://twitter.com/search?q=Logisch) | N/A |
-| 37 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 38 | [Hotel](http://twitter.com/search?q=Hotel) | N/A |
-| 39 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 40 | [herr glarner](http://twitter.com/search?q=herr+glarner) | N/A |
-| 41 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
-| 42 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
-| 43 | [Garten](http://twitter.com/search?q=Garten) | N/A |
-| 44 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 45 | [Speicher](http://twitter.com/search?q=Speicher) | N/A |
-| 46 | [Generation](http://twitter.com/search?q=Generation) | N/A |
-| 47 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 48 | [finma](http://twitter.com/search?q=finma) | N/A |
+| 19 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
+| 20 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 21 | [Bauern](http://twitter.com/search?q=Bauern) | N/A |
+| 22 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
+| 23 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 24 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 25 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 26 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 27 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 28 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 29 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
+| 30 | [tessin](http://twitter.com/search?q=tessin) | N/A |
+| 31 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 32 | [Häuser](http://twitter.com/search?q=H%c3%a4user) | N/A |
+| 33 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 34 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 35 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 36 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 37 | [Trottel](http://twitter.com/search?q=Trottel) | N/A |
+| 38 | [Logisch](http://twitter.com/search?q=Logisch) | N/A |
+| 39 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 40 | [Hotel](http://twitter.com/search?q=Hotel) | N/A |
+| 41 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 42 | [herr glarner](http://twitter.com/search?q=herr+glarner) | N/A |
+| 43 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
+| 44 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
+| 45 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 46 | [Garten](http://twitter.com/search?q=Garten) | N/A |
+| 47 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 48 | [Speicher](http://twitter.com/search?q=Speicher) | N/A |
 
 
 

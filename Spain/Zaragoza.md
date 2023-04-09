@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-04-09 13:17:02 UTC`
+📆 Last Updated: `2023-04-09 14:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,26 +17,26 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 2 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 3 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 3 | [Feliz Domingo de Resurrección](http://twitter.com/search?q=Feliz+Domingo+de+Resurrecci%c3%b3n) | N/A |
 | 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 5 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 6 | [#PrePartyES23](http://twitter.com/search?q=%23PrePartyES23) | N/A |
-| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 7 | [#PrePartyES23](http://twitter.com/search?q=%23PrePartyES23) | N/A |
 | 8 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
 | 9 | [#APOYOROCIO9A](http://twitter.com/search?q=%23APOYOROCIO9A) | N/A |
 | 10 | [#SantoEntierroGrande23](http://twitter.com/search?q=%23SantoEntierroGrande23) | N/A |
 | 11 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
 | 12 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 13 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
-| 14 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 15 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 16 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 17 | [458 X](http://twitter.com/search?q=458+X) | N/A |
-| 18 | [Resucitado](http://twitter.com/search?q=Resucitado) | N/A |
-| 19 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
-| 20 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 21 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
-| 22 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 13 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 14 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
+| 15 | [Resucitado](http://twitter.com/search?q=Resucitado) | N/A |
+| 16 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 17 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 18 | [#OnceSeguro](http://twitter.com/search?q=%23OnceSeguro) | N/A |
+| 19 | [458 X](http://twitter.com/search?q=458+X) | N/A |
+| 20 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
+| 21 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 22 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
 | 23 | [Mahoma](http://twitter.com/search?q=Mahoma) | N/A |
 | 24 | [Setién](http://twitter.com/search?q=Seti%c3%a9n) | Setién is a Spanish surname derived from the Latin name Saturninus. It is a patronymic name meaning "son of Saturn". |
 | 25 | [Alberola Rojas](http://twitter.com/search?q=Alberola+Rojas) | Alberola Rojas is a Spanish surname. It is derived from the words "albero" (alder tree) and "roja" (red). In English, it can be translated to mean "Red Alder". |
@@ -49,21 +49,21 @@ This is top 50 for [Spain](</Spain>)
 | 32 | [Foyth](http://twitter.com/search?q=Foyth) | Foyth is a surname of Spanish origin. It is derived from the Latin word "fidelis", meaning faithful or loyal. |
 | 33 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
 | 34 | [Materazzi](http://twitter.com/search?q=Materazzi) | N/A |
-| 35 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
-| 36 | [Juan 20](http://twitter.com/search?q=Juan+20) | N/A |
-| 37 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 38 | [Terminator 2](http://twitter.com/search?q=Terminator+2) | N/A |
-| 39 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
-| 40 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 41 | [Catalunya](http://twitter.com/search?q=Catalunya) | N/A |
-| 42 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
-| 43 | [Mandi](http://twitter.com/search?q=Mandi) | N/A |
-| 44 | [La Carrerita](http://twitter.com/search?q=La+Carrerita) | N/A |
-| 45 | [Cachorro](http://twitter.com/search?q=Cachorro) | N/A |
-| 46 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 48 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 49 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
+| 35 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 36 | [Terminator 2](http://twitter.com/search?q=Terminator+2) | N/A |
+| 37 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 38 | [Catalunya](http://twitter.com/search?q=Catalunya) | N/A |
+| 39 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 40 | [Mandi](http://twitter.com/search?q=Mandi) | N/A |
+| 41 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 42 | [La Carrerita](http://twitter.com/search?q=La+Carrerita) | N/A |
+| 43 | [Cachorro](http://twitter.com/search?q=Cachorro) | N/A |
+| 44 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 46 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
+| 47 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 48 | [Justificando](http://twitter.com/search?q=Justificando) | N/A |
+| 49 | [San Gonzalo](http://twitter.com/search?q=San+Gonzalo) | N/A |
 
 
 

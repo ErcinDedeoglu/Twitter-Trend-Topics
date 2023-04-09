@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-04-09 13:17:35 UTC`
+📆 Last Updated: `2023-04-09 14:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -59,8 +59,8 @@ This is top 50 for Peru
 | 42 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
 | 43 | [Pirata](http://twitter.com/search?q=Pirata) | N/A |
 | 44 | [castañeda](http://twitter.com/search?q=casta%c3%b1eda) | N/A |
-| 45 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 46 | [Sanguinetti](http://twitter.com/search?q=Sanguinetti) | N/A |
+| 45 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 46 | [sanguinetti](http://twitter.com/search?q=sanguinetti) | N/A |
 | 47 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
 | 48 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 49 | [Hernán](http://twitter.com/search?q=Hern%c3%a1n) | Hernán is a Spanish name derived from the Germanic name Hernan, which means "army man". It is also a variant of the name Fernando, which means "brave and daring". |

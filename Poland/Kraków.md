@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-04-09 13:16:56 UTC`
+📆 Last Updated: `2023-04-09 14:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
-| 4 | [Chrystus Zmartwychwstał](http://twitter.com/search?q=Chrystus+Zmartwychwsta%c5%82) | N/A |
-| 5 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
-| 6 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 7 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 8 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 9 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
-| 10 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 11 | [#GRUCZE](http://twitter.com/search?q=%23GRUCZE) | N/A |
-| 12 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 13 | [#LPOWAR](http://twitter.com/search?q=%23LPOWAR) | N/A |
-| 14 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 16 | [#pogcra](http://twitter.com/search?q=%23pogcra) | N/A |
-| 17 | [wielka sobota](http://twitter.com/search?q=wielka+sobota) | N/A |
-| 18 | [Puszczy](http://twitter.com/search?q=Puszczy) | N/A |
-| 19 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
-| 20 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 21 | [Najlepszości](http://twitter.com/search?q=Najlepszo%c5%9bci) | N/A |
-| 22 | [Warta](http://twitter.com/search?q=Warta) | N/A |
-| 23 | [Niepołomicach](http://twitter.com/search?q=Niepo%c5%82omicach) | N/A |
-| 24 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 25 | [Rutkowski](http://twitter.com/search?q=Rutkowski) | N/A |
-| 26 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
-| 27 | [J 20](http://twitter.com/search?q=J+20) | N/A |
-| 28 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 29 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 30 | [nicki pedersen](http://twitter.com/search?q=nicki+pedersen) | N/A |
-| 31 | [wielki piątek](http://twitter.com/search?q=wielki+pi%c4%85tek) | N/A |
-| 32 | [lasyk](http://twitter.com/search?q=lasyk) | N/A |
-| 33 | [kujawski](http://twitter.com/search?q=kujawski) | N/A |
-| 34 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
-| 35 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
-| 36 | [znachora](http://twitter.com/search?q=znachora) | N/A |
-| 37 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 38 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
-| 39 | [nawalnego](http://twitter.com/search?q=nawalnego) | N/A |
-| 40 | [Wigilii Paschalnej](http://twitter.com/search?q=Wigilii+Paschalnej) | N/A |
-| 41 | [Wurst](http://twitter.com/search?q=Wurst) | N/A |
-| 42 | [Miłości](http://twitter.com/search?q=Mi%c5%82o%c5%9bci) | N/A |
-| 43 | [Kościele](http://twitter.com/search?q=Ko%c5%9bciele) | N/A |
-| 44 | [Życzenia](http://twitter.com/search?q=%c5%bbyczenia) | N/A |
-| 45 | [Judasza](http://twitter.com/search?q=Judasza) | N/A |
-| 46 | [Boga](http://twitter.com/search?q=Boga) | N/A |
-| 47 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
-| 48 | [Bożego](http://twitter.com/search?q=Bo%c5%bcego) | N/A |
-| 49 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
-| 50 | [KGHM](http://twitter.com/search?q=KGHM) | N/A |
+| 4 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 5 | [Chrystus Zmartwychwstał](http://twitter.com/search?q=Chrystus+Zmartwychwsta%c5%82) | N/A |
+| 6 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 7 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 8 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
+| 9 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 10 | [#GRUCZE](http://twitter.com/search?q=%23GRUCZE) | N/A |
+| 11 | [#lpowar](http://twitter.com/search?q=%23lpowar) | N/A |
+| 12 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 14 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 15 | [#pogcra](http://twitter.com/search?q=%23pogcra) | N/A |
+| 16 | [Wielka Sobota](http://twitter.com/search?q=Wielka+Sobota) | N/A |
+| 17 | [Puszczy](http://twitter.com/search?q=Puszczy) | N/A |
+| 18 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
+| 19 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 20 | [Najlepszości](http://twitter.com/search?q=Najlepszo%c5%9bci) | N/A |
+| 21 | [Warta](http://twitter.com/search?q=Warta) | N/A |
+| 22 | [Niepołomicach](http://twitter.com/search?q=Niepo%c5%82omicach) | N/A |
+| 23 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
+| 24 | [Rutkowski](http://twitter.com/search?q=Rutkowski) | N/A |
+| 25 | [J 20](http://twitter.com/search?q=J+20) | N/A |
+| 26 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 27 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 28 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
+| 29 | [nicki pedersen](http://twitter.com/search?q=nicki+pedersen) | N/A |
+| 30 | [lasyk](http://twitter.com/search?q=lasyk) | N/A |
+| 31 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
+| 32 | [kujawski](http://twitter.com/search?q=kujawski) | N/A |
+| 33 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
+| 34 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 35 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
+| 36 | [Winiary](http://twitter.com/search?q=Winiary) | N/A |
+| 37 | [nawalnego](http://twitter.com/search?q=nawalnego) | N/A |
+| 38 | [Wigilii Paschalnej](http://twitter.com/search?q=Wigilii+Paschalnej) | N/A |
+| 39 | [Wurst](http://twitter.com/search?q=Wurst) | N/A |
+| 40 | [Kościele](http://twitter.com/search?q=Ko%c5%9bciele) | N/A |
+| 41 | [Życzenia](http://twitter.com/search?q=%c5%bbyczenia) | N/A |
+| 42 | [Judasza](http://twitter.com/search?q=Judasza) | N/A |
+| 43 | [Boga](http://twitter.com/search?q=Boga) | N/A |
+| 44 | [Kielecki](http://twitter.com/search?q=Kielecki) | N/A |
+| 45 | [Miłości](http://twitter.com/search?q=Mi%c5%82o%c5%9bci) | N/A |
+| 46 | [Wielki Piątek](http://twitter.com/search?q=Wielki+Pi%c4%85tek) | N/A |
+| 47 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
+| 48 | [KGHM](http://twitter.com/search?q=KGHM) | N/A |
+| 49 | [krowa](http://twitter.com/search?q=krowa) | N/A |
+| 50 | [Ducha](http://twitter.com/search?q=Ducha) | N/A |
 
 
 

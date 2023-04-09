@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-04-09 13:17:19 UTC`
+📆 Last Updated: `2023-04-09 14:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#askmrunal](http://twitter.com/search?q=%23askmrunal) | N/A |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [#TigerInKarnataka](http://twitter.com/search?q=%23TigerInKarnataka) | N/A |
-| 4 | [#MilletsNaturalFarming4Health](http://twitter.com/search?q=%23MilletsNaturalFarming4Health) | N/A |
+| 3 | [#MilletsNaturalFarming4Health](http://twitter.com/search?q=%23MilletsNaturalFarming4Health) | N/A |
+| 4 | [#TigerInKarnataka](http://twitter.com/search?q=%23TigerInKarnataka) | N/A |
 | 5 | [#AyodhyaMeEknath](http://twitter.com/search?q=%23AyodhyaMeEknath) | N/A |
 | 6 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
-| 7 | [बांदीपुर टाइगर रिजर्व](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%9f%e0%a4%be%e0%a4%87%e0%a4%97%e0%a4%b0+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Sushant Singh Rajput Matters](http://twitter.com/search?q=Sushant+Singh+Rajput+Matters) | N/A |
-| 10 | [Mahindra](http://twitter.com/search?q=Mahindra) | N/A |
-| 11 | [100 EPS OF AMRITA BRAR](http://twitter.com/search?q=100+EPS+OF+AMRITA+BRAR) | N/A |
-| 12 | [केंद्रीय रिजर्व पुलिस](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 13 | [VEER EPITOME OF EMOTIONS](http://twitter.com/search?q=VEER+EPITOME+OF+EMOTIONS) | N/A |
-| 14 | [शहीद स्मारक](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6+%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
-| 15 | [भारतीय राष्ट्रीय छात्र संगठन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a4%a0%e0%a4%a8) | N/A |
-| 16 | [राजा बाबू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82) | N/A |
+| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 8 | [बांदीपुर टाइगर रिजर्व](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%9f%e0%a4%be%e0%a4%87%e0%a4%97%e0%a4%b0+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
+| 9 | [100 EPS OF AMRITA BRAR](http://twitter.com/search?q=100+EPS+OF+AMRITA+BRAR) | N/A |
+| 10 | [Sushant Singh Rajput Matters](http://twitter.com/search?q=Sushant+Singh+Rajput+Matters) | N/A |
+| 11 | [Mahindra](http://twitter.com/search?q=Mahindra) | N/A |
+| 12 | [VEER EPITOME OF EMOTIONS](http://twitter.com/search?q=VEER+EPITOME+OF+EMOTIONS) | N/A |
+| 13 | [राजा बाबू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82) | N/A |
+| 14 | [केंद्रीय रिजर्व पुलिस](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 15 | [शहीद स्मारक](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6+%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
+| 16 | [भारतीय राष्ट्रीय छात्र संगठन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a4%a0%e0%a4%a8) | N/A |
 | 17 | [Jago Hindus Jago](http://twitter.com/search?q=Jago+Hindus+Jago) | N/A |
-| 18 | [The Elephant Whisperers](http://twitter.com/search?q=The+Elephant+Whisperers) | N/A |
-| 19 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
-| 20 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 18 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
+| 19 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 20 | [Eknath Shinde](http://twitter.com/search?q=Eknath+Shinde) | N/A |
 | 21 | [राहुल सांकृत्यायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
 | 22 | [Amul](http://twitter.com/search?q=Amul) | N/A |
 | 23 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
 | 24 | [वसुंधरा राजे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%b8%e0%a5%81%e0%a4%82%e0%a4%a7%e0%a4%b0%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87) | N/A |
 | 25 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
 | 26 | [सरदार पोस्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%a6%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%8b%e0%a4%b8%e0%a5%8d%e0%a4%9f) | N/A |
-| 27 | [छात्र शक्ति](http://twitter.com/search?q=%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 28 | [Mysuru](http://twitter.com/search?q=Mysuru) | N/A |
+| 27 | [एकनाथ शिंदे](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%a8%e0%a4%be%e0%a4%a5+%e0%a4%b6%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%87) | N/A |
+| 28 | [Burnol](http://twitter.com/search?q=Burnol) | N/A |
 | 29 | [Swag](http://twitter.com/search?q=Swag) | N/A |
 | 30 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 31 | [PM Shri](http://twitter.com/search?q=PM+Shri) | N/A |
-| 32 | [एकनाथ शिंदे](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%a8%e0%a4%be%e0%a4%a5+%e0%a4%b6%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%87) | N/A |
-| 33 | [Burnol](http://twitter.com/search?q=Burnol) | N/A |
-| 34 | [Nandini](http://twitter.com/search?q=Nandini) | N/A |
-| 35 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 36 | [Lion](http://twitter.com/search?q=Lion) | N/A |
+| 32 | [Nandini](http://twitter.com/search?q=Nandini) | N/A |
+| 33 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 34 | [दलित महिला](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 35 | [Lion](http://twitter.com/search?q=Lion) | N/A |
+| 36 | [ईसा मसीह](http://twitter.com/search?q=%e0%a4%88%e0%a4%b8%e0%a4%be+%e0%a4%ae%e0%a4%b8%e0%a5%80%e0%a4%b9) | N/A |
 | 37 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 38 | [Abhir](http://twitter.com/search?q=Abhir) | N/A |
-| 39 | [ईसा मसीह](http://twitter.com/search?q=%e0%a4%88%e0%a4%b8%e0%a4%be+%e0%a4%ae%e0%a4%b8%e0%a5%80%e0%a4%b9) | N/A |
-| 40 | [दलित महिला](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 41 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
-| 42 | [#गुरु_हैं_चारों_धाम](http://twitter.com/search?q=%23%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81_%e0%a4%b9%e0%a5%88%e0%a4%82_%e0%a4%9a%e0%a4%be%e0%a4%b0%e0%a5%8b%e0%a4%82_%e0%a4%a7%e0%a4%be%e0%a4%ae) | N/A |
-| 43 | [#NSUIFoundationDay](http://twitter.com/search?q=%23NSUIFoundationDay) | N/A |
-| 44 | [#QuranForAll](http://twitter.com/search?q=%23QuranForAll) | N/A |
-| 45 | [#AIIMS_FOR_SAHARSA](http://twitter.com/search?q=%23AIIMS_FOR_SAHARSA) | N/A |
-| 46 | [#SachinPilot](http://twitter.com/search?q=%23SachinPilot) | N/A |
-| 47 | [#हम_मुकेश_भाकर_के_साथ_हैं](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%ae_%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%b6_%e0%a4%ad%e0%a4%be%e0%a4%95%e0%a4%b0_%e0%a4%95%e0%a5%87_%e0%a4%b8%e0%a4%be%e0%a4%a5_%e0%a4%b9%e0%a5%88%e0%a4%82) | N/A |
+| 38 | [#QuranForAll](http://twitter.com/search?q=%23QuranForAll) | N/A |
+| 39 | [#RamBhaktEknath](http://twitter.com/search?q=%23RamBhaktEknath) | N/A |
+| 40 | [#NSUIFoundationDay](http://twitter.com/search?q=%23NSUIFoundationDay) | N/A |
+| 41 | [#गुरु_हैं_चारों_धाम](http://twitter.com/search?q=%23%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81_%e0%a4%b9%e0%a5%88%e0%a4%82_%e0%a4%9a%e0%a4%be%e0%a4%b0%e0%a5%8b%e0%a4%82_%e0%a4%a7%e0%a4%be%e0%a4%ae) | N/A |
+| 42 | [#SachinPilot](http://twitter.com/search?q=%23SachinPilot) | N/A |
+| 43 | [#AIIMS_FOR_SAHARSA](http://twitter.com/search?q=%23AIIMS_FOR_SAHARSA) | N/A |
+| 44 | [#GTvsKKR](http://twitter.com/search?q=%23GTvsKKR) | N/A |
+| 45 | [#हम_मुकेश_भाकर_के_साथ_हैं](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%ae_%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%b6_%e0%a4%ad%e0%a4%be%e0%a4%95%e0%a4%b0_%e0%a4%95%e0%a5%87_%e0%a4%b8%e0%a4%be%e0%a4%a5_%e0%a4%b9%e0%a5%88%e0%a4%82) | N/A |
+| 46 | [#Thangalaan](http://twitter.com/search?q=%23Thangalaan) | N/A |
+| 47 | [#KPpunePoliceBrutality](http://twitter.com/search?q=%23KPpunePoliceBrutality) | N/A |
 
 
 

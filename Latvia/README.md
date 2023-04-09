@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-09 13:17:34 UTC`
+📆 Last Updated: `2023-04-09 14:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,45 +19,45 @@ This is top 50 for Latvia
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [Kariņš](http://twitter.com/search?q=Kari%c5%86%c5%a1) | N/A |
 | 4 | [tartu](http://twitter.com/search?q=tartu) | N/A |
-| 5 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
-| 6 | [sedlenieks](http://twitter.com/search?q=sedlenieks) | N/A |
-| 7 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 8 | [Jēzus](http://twitter.com/search?q=J%c4%93zus) | N/A |
-| 9 | [Vakar](http://twitter.com/search?q=Vakar) | N/A |
-| 10 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
-| 11 | [Būtu](http://twitter.com/search?q=B%c5%abtu) | N/A |
-| 12 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
-| 13 | [Latvians](http://twitter.com/search?q=Latvians) | N/A |
-| 14 | [izraēlas](http://twitter.com/search?q=izra%c4%93las) | N/A |
-| 15 | [igaunijas](http://twitter.com/search?q=igaunijas) | N/A |
-| 16 | [ukrainai](http://twitter.com/search?q=ukrainai) | N/A |
-| 17 | [somijas](http://twitter.com/search?q=somijas) | N/A |
-| 18 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
-| 19 | [vienkārši](http://twitter.com/search?q=vienk%c4%81r%c5%a1i) | N/A |
-| 20 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
-| 21 | [toties](http://twitter.com/search?q=toties) | N/A |
-| 22 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
-| 23 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
-| 24 | [Vajag](http://twitter.com/search?q=Vajag) | N/A |
-| 25 | [daugavpils](http://twitter.com/search?q=daugavpils) | N/A |
-| 26 | [domāju](http://twitter.com/search?q=dom%c4%81ju) | N/A |
-| 27 | [liepāju](http://twitter.com/search?q=liep%c4%81ju) | N/A |
-| 28 | [krimu](http://twitter.com/search?q=krimu) | N/A |
-| 29 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
-| 30 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
-| 31 | [langa](http://twitter.com/search?q=langa) | N/A |
-| 32 | [zinu](http://twitter.com/search?q=zinu) | N/A |
-| 33 | [Galvenais](http://twitter.com/search?q=Galvenais) | N/A |
+| 5 | [Tātad](http://twitter.com/search?q=T%c4%81tad) | N/A |
+| 6 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 7 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 8 | [sedlenieks](http://twitter.com/search?q=sedlenieks) | N/A |
+| 9 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 10 | [Jēzus](http://twitter.com/search?q=J%c4%93zus) | N/A |
+| 11 | [Vakar](http://twitter.com/search?q=Vakar) | N/A |
+| 12 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
+| 13 | [Būtu](http://twitter.com/search?q=B%c5%abtu) | N/A |
+| 14 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
+| 15 | [Latvians](http://twitter.com/search?q=Latvians) | N/A |
+| 16 | [izraēlas](http://twitter.com/search?q=izra%c4%93las) | N/A |
+| 17 | [igaunijas](http://twitter.com/search?q=igaunijas) | N/A |
+| 18 | [ukrainai](http://twitter.com/search?q=ukrainai) | N/A |
+| 19 | [somijas](http://twitter.com/search?q=somijas) | N/A |
+| 20 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
+| 21 | [vienkārši](http://twitter.com/search?q=vienk%c4%81r%c5%a1i) | N/A |
+| 22 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
+| 23 | [toties](http://twitter.com/search?q=toties) | N/A |
+| 24 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
+| 25 | [Vajag](http://twitter.com/search?q=Vajag) | N/A |
+| 26 | [daugavpils](http://twitter.com/search?q=daugavpils) | N/A |
+| 27 | [domāju](http://twitter.com/search?q=dom%c4%81ju) | N/A |
+| 28 | [liepāju](http://twitter.com/search?q=liep%c4%81ju) | N/A |
+| 29 | [krimu](http://twitter.com/search?q=krimu) | N/A |
+| 30 | [langa](http://twitter.com/search?q=langa) | N/A |
+| 31 | [zinu](http://twitter.com/search?q=zinu) | N/A |
+| 32 | [galvenais](http://twitter.com/search?q=galvenais) | N/A |
+| 33 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
 | 34 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
-| 35 | [daudz](http://twitter.com/search?q=daudz) | N/A |
-| 36 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 38 | [viņiem](http://twitter.com/search?q=vi%c5%86iem) | N/A |
-| 39 | [Kopš](http://twitter.com/search?q=Kop%c5%a1) | N/A |
-| 40 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
-| 41 | [krievi](http://twitter.com/search?q=krievi) | N/A |
-| 42 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | N/A |
-| 43 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
+| 35 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 36 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 37 | [viņiem](http://twitter.com/search?q=vi%c5%86iem) | N/A |
+| 38 | [Kopš](http://twitter.com/search?q=Kop%c5%a1) | N/A |
+| 39 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
+| 40 | [krievi](http://twitter.com/search?q=krievi) | N/A |
+| 41 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | N/A |
+| 42 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
+| 43 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
 | 44 | [tikko](http://twitter.com/search?q=tikko) | N/A |
 | 45 | [#1188play](http://twitter.com/search?q=%231188play) | N/A |
 | 46 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |

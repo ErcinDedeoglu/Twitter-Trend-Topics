@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-04-09 13:16:52 UTC`
+📆 Last Updated: `2023-04-09 14:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,8 +28,8 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 11 | [kendry](http://twitter.com/search?q=kendry) | N/A |
 | 12 | [marcelo moreno martins](http://twitter.com/search?q=marcelo+moreno+martins) | N/A |
 | 13 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 14 | [Preciado](http://twitter.com/search?q=Preciado) | N/A |
-| 15 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
+| 14 | [preciado](http://twitter.com/search?q=preciado) | N/A |
+| 15 | [hoyos](http://twitter.com/search?q=hoyos) | N/A |
 | 16 | [#elnacional](http://twitter.com/search?q=%23elnacional) | N/A |
 | 17 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 18 | [Baena](http://twitter.com/search?q=Baena) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 47 | [inter de miami](http://twitter.com/search?q=inter+de+miami) | N/A |
 | 48 | [Flores](http://twitter.com/search?q=Flores) | N/A |
 | 49 | [collahuazo](http://twitter.com/search?q=collahuazo) | N/A |
-| 50 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
+| 50 | [emelec](http://twitter.com/search?q=emelec) | N/A |
 
 
 

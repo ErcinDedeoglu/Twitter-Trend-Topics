@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-04-09 13:17:32 UTC`
+📆 Last Updated: `2023-04-09 14:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,8 +28,8 @@ This is top 50 for Ecuador
 | 11 | [kendry](http://twitter.com/search?q=kendry) | N/A |
 | 12 | [marcelo moreno martins](http://twitter.com/search?q=marcelo+moreno+martins) | N/A |
 | 13 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 14 | [Preciado](http://twitter.com/search?q=Preciado) | N/A |
-| 15 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
+| 14 | [preciado](http://twitter.com/search?q=preciado) | N/A |
+| 15 | [hoyos](http://twitter.com/search?q=hoyos) | N/A |
 | 16 | [#elnacional](http://twitter.com/search?q=%23elnacional) | N/A |
 | 17 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 18 | [Baena](http://twitter.com/search?q=Baena) | N/A |
@@ -37,7 +37,7 @@ This is top 50 for Ecuador
 | 20 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 21 | [Neme](http://twitter.com/search?q=Neme) | N/A |
 | 22 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 23 | [#niunamenos](http://twitter.com/search?q=%23niunamenos) | N/A |
+| 23 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
 | 24 | [Manuel Turizo](http://twitter.com/search?q=Manuel+Turizo) | N/A |
 | 25 | [#dcuenca](http://twitter.com/search?q=%23dcuenca) | N/A |
 | 26 | [Moisés Caicedo](http://twitter.com/search?q=Mois%c3%a9s+Caicedo) | N/A |
@@ -58,7 +58,7 @@ This is top 50 for Ecuador
 | 41 | [sangolquí](http://twitter.com/search?q=sangolqu%c3%ad) | N/A |
 | 42 | [lautaro díaz](http://twitter.com/search?q=lautaro+d%c3%adaz) | N/A |
 | 43 | [balda](http://twitter.com/search?q=balda) | N/A |
-| 44 | [Brigthon](http://twitter.com/search?q=Brigthon) | N/A |
+| 44 | [brigthon](http://twitter.com/search?q=brigthon) | N/A |
 | 45 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 46 | [parrales](http://twitter.com/search?q=parrales) | N/A |
 | 47 | [inter de miami](http://twitter.com/search?q=inter+de+miami) | N/A |

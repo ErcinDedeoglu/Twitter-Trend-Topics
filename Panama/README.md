@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-09 13:17:36 UTC`
+📆 Last Updated: `2023-04-09 14:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -48,20 +48,20 @@ This is top 50 for Panama
 | 31 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 32 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
 | 33 | [Biblia](http://twitter.com/search?q=Biblia) | N/A |
-| 34 | [Jesucristo](http://twitter.com/search?q=Jesucristo) | Jesucristo is the Spanish name for Jesus Christ. It is derived from the Latin name Iesus Christus, which translates to "Jesus the Anointed One" or "Jesus the Messiah". |
-| 35 | [coronado](http://twitter.com/search?q=coronado) | N/A |
-| 36 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 37 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
-| 38 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 39 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
-| 40 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
-| 41 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 34 | [coronado](http://twitter.com/search?q=coronado) | N/A |
+| 35 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 36 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
+| 37 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 38 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
+| 39 | [bomberos](http://twitter.com/search?q=bomberos) | N/A |
+| 40 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 41 | [La Pasión de Cristo](http://twitter.com/search?q=La+Pasi%c3%b3n+de+Cristo) | N/A |
 | 42 | [#dreamstime](http://twitter.com/search?q=%23dreamstime) | N/A |
 | 43 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
 | 44 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 | 45 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
 | 46 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 47 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
+| 47 | [cinépolis](http://twitter.com/search?q=cin%c3%a9polis) | N/A |
 | 48 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 49 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
 | 50 | [Israel](http://twitter.com/search?q=Israel) | N/A |

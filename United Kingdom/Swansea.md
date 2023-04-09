@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-04-09 13:16:48 UTC`
+📆 Last Updated: `2023-04-09 14:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,45 +16,48 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 3 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 2 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 3 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 4 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
 | 5 | [Pasg Hapus](http://twitter.com/search?q=Pasg+Hapus) | N/A |
-| 6 | [Wordle 659 X](http://twitter.com/search?q=Wordle+659+X) | N/A |
-| 7 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 8 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 9 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
-| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 6 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 7 | [Wordle 659 X](http://twitter.com/search?q=Wordle+659+X) | N/A |
+| 8 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 10 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 11 | [Christ is Risen](http://twitter.com/search?q=Christ+is+Risen) | N/A |
-| 12 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
+| 12 | [Israel Adesanya](http://twitter.com/search?q=Israel+Adesanya) | N/A |
 | 13 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
 | 14 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 15 | [Alleluia](http://twitter.com/search?q=Alleluia) | N/A |
-| 16 | [Daily Quordle 440](http://twitter.com/search?q=Daily+Quordle+440) | N/A |
-| 17 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
-| 18 | [Myra Hindley](http://twitter.com/search?q=Myra+Hindley) | N/A |
-| 19 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 20 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 21 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
-| 22 | [Spurs v Brighton](http://twitter.com/search?q=Spurs+v+Brighton) | N/A |
-| 23 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 24 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 25 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 26 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 27 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 28 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 15 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
+| 16 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
+| 17 | [Alleluia](http://twitter.com/search?q=Alleluia) | N/A |
+| 18 | [Daily Quordle 440](http://twitter.com/search?q=Daily+Quordle+440) | N/A |
+| 19 | [Myra Hindley](http://twitter.com/search?q=Myra+Hindley) | N/A |
+| 20 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 21 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
+| 22 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
+| 23 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 24 | [Spurs v Brighton](http://twitter.com/search?q=Spurs+v+Brighton) | N/A |
+| 25 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 26 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 27 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 28 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 29 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
 | 30 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 31 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 32 | [Corruption](http://twitter.com/search?q=Corruption) | N/A |
-| 33 | [#ToriesOut276](http://twitter.com/search?q=%23ToriesOut276) | N/A |
-| 34 | [#SocialistSunday](http://twitter.com/search?q=%23SocialistSunday) | N/A |
-| 35 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
-| 36 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
-| 37 | [#امپورٹڈ_حکومت_نامنظور](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%be%d9%88%d8%b1%d9%b9%da%88_%d8%ad%da%a9%d9%88%d9%85%d8%aa_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
-| 38 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
-| 39 | [#Jesus](http://twitter.com/search?q=%23Jesus) | N/A |
-| 40 | [#GiftBetter](http://twitter.com/search?q=%23GiftBetter) | N/A |
+| 31 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 32 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 33 | [Corruption](http://twitter.com/search?q=Corruption) | N/A |
+| 34 | [Ding](http://twitter.com/search?q=Ding) | N/A |
+| 35 | [#ToriesOut276](http://twitter.com/search?q=%23ToriesOut276) | N/A |
+| 36 | [#SocialistSunday](http://twitter.com/search?q=%23SocialistSunday) | N/A |
+| 37 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
+| 38 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 39 | [#امپورٹڈ_حکومت_نامنظور](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%be%d9%88%d8%b1%d9%b9%da%88_%d8%ad%da%a9%d9%88%d9%85%d8%aa_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
+| 40 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 41 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
+| 42 | [#Jesus](http://twitter.com/search?q=%23Jesus) | N/A |
+| 43 | [#GiftBetter](http://twitter.com/search?q=%23GiftBetter) | N/A |
 
 
 

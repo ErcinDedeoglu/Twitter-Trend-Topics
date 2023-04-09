@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-09 13:16:52 UTC`
+📆 Last Updated: `2023-04-09 14:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#loscruzados](http://twitter.com/search?q=%23loscruzados) | N/A |
-| 2 | [colina](http://twitter.com/search?q=colina) | N/A |
+| 2 | [Colina](http://twitter.com/search?q=Colina) | N/A |
 | 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 4 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 5 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 5 | [zampedri](http://twitter.com/search?q=zampedri) | N/A |
 | 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 7 | [dituro](http://twitter.com/search?q=dituro) | N/A |
 | 8 | [#clnvsucxtntsports](http://twitter.com/search?q=%23clnvsucxtntsports) | N/A |
@@ -32,8 +32,8 @@ This is top 50 for [Chile](</Chile>)
 | 15 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
 | 16 | [di santo](http://twitter.com/search?q=di+santo) | N/A |
 | 17 | [Isla](http://twitter.com/search?q=Isla) | N/A |
-| 18 | [santiago pavlovic](http://twitter.com/search?q=santiago+pavlovic) | N/A |
-| 19 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
+| 18 | [Santiago Pavlovic](http://twitter.com/search?q=Santiago+Pavlovic) | N/A |
+| 19 | [cavada](http://twitter.com/search?q=cavada) | N/A |
 | 20 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 21 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
 | 22 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
@@ -41,8 +41,8 @@ This is top 50 for [Chile](</Chile>)
 | 24 | [anfp](http://twitter.com/search?q=anfp) | N/A |
 | 25 | [Delincuente](http://twitter.com/search?q=Delincuente) | N/A |
 | 26 | [cntv](http://twitter.com/search?q=cntv) | N/A |
-| 27 | [garin](http://twitter.com/search?q=garin) | N/A |
-| 28 | [felipe bianchi](http://twitter.com/search?q=felipe+bianchi) | N/A |
+| 27 | [Felipe Bianchi](http://twitter.com/search?q=Felipe+Bianchi) | N/A |
+| 28 | [Garin](http://twitter.com/search?q=Garin) | N/A |
 | 29 | [Etcheverry](http://twitter.com/search?q=Etcheverry) | N/A |
 | 30 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
 | 31 | [llolleo](http://twitter.com/search?q=llolleo) | N/A |
@@ -54,15 +54,15 @@ This is top 50 for [Chile](</Chile>)
 | 37 | [tagle](http://twitter.com/search?q=tagle) | N/A |
 | 38 | [Robo](http://twitter.com/search?q=Robo) | N/A |
 | 39 | [Osorno](http://twitter.com/search?q=Osorno) | N/A |
-| 40 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
+| 40 | [tregua](http://twitter.com/search?q=tregua) | N/A |
 | 41 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
 | 42 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
 | 43 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 44 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 45 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 46 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
-| 47 | [carcuro](http://twitter.com/search?q=carcuro) | N/A |
-| 48 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 44 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 45 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 46 | [carcuro](http://twitter.com/search?q=carcuro) | N/A |
+| 47 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 48 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
 
 
 

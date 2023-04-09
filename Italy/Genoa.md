@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-04-09 13:17:00 UTC`
+📆 Last Updated: `2023-04-09 14:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,23 +21,25 @@ This is top 50 for [Italy](</Italy>)
 | 4 | [Tanti](http://twitter.com/search?q=Tanti) | N/A |
 | 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 6 | [Altrettanto](http://twitter.com/search?q=Altrettanto) | N/A |
-| 7 | [Gesù](http://twitter.com/search?q=Ges%c3%b9) | N/A |
-| 8 | [Auguroni](http://twitter.com/search?q=Auguroni) | N/A |
+| 7 | [Auguroni](http://twitter.com/search?q=Auguroni) | N/A |
+| 8 | [Gesù](http://twitter.com/search?q=Ges%c3%b9) | N/A |
 | 9 | [Augurissimi](http://twitter.com/search?q=Augurissimi) | N/A |
-| 10 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
-| 11 | [Risorto](http://twitter.com/search?q=Risorto) | N/A |
-| 12 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 13 | [Ricambio](http://twitter.com/search?q=Ricambio) | N/A |
-| 14 | [#pace](http://twitter.com/search?q=%23pace) | N/A |
-| 15 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 10 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 11 | [Pace](http://twitter.com/search?q=Pace) | N/A |
+| 12 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 13 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 14 | [Risorto](http://twitter.com/search?q=Risorto) | N/A |
+| 15 | [Ricambio](http://twitter.com/search?q=Ricambio) | N/A |
 | 16 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
-| 17 | [#Cassano](http://twitter.com/search?q=%23Cassano) | N/A |
+| 17 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
 | 18 | [Milinkovic](http://twitter.com/search?q=Milinkovic) | N/A |
-| 19 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 20 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 21 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 22 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 23 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
+| 19 | [#Cassano](http://twitter.com/search?q=%23Cassano) | N/A |
+| 20 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
+| 21 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 22 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 23 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 24 | [#Pasquetta](http://twitter.com/search?q=%23Pasquetta) | N/A |
+| 25 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
 
 
 

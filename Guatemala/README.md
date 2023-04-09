@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-09 13:17:33 UTC`
+📆 Last Updated: `2023-04-09 14:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,8 +34,8 @@ This is top 50 for Guatemala
 | 17 | [Duko](http://twitter.com/search?q=Duko) | N/A |
 | 18 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 19 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
-| 20 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 21 | [#lnfg](http://twitter.com/search?q=%23lnfg) | N/A |
+| 20 | [#lnfg](http://twitter.com/search?q=%23lnfg) | N/A |
+| 21 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
 | 22 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
 | 23 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
 | 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-04-09 13:17:31 UTC`
+📆 Last Updated: `2023-04-09 14:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,12 +29,12 @@ This is top 50 for Algeria
 | 12 | [#وليد_مهساس](http://twitter.com/search?q=%23%d9%88%d9%84%d9%8a%d8%af_%d9%85%d9%87%d8%b3%d8%a7%d8%b3) | N/A |
 | 13 | [الدين الداخلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a) | N/A |
 | 14 | [#GW30](http://twitter.com/search?q=%23GW30) | N/A |
-| 15 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 17 | [وفاق سطيف](http://twitter.com/search?q=%d9%88%d9%81%d8%a7%d9%82+%d8%b3%d8%b7%d9%8a%d9%81) | وفاق سطيف is an Arabic phrase meaning "the covenant of trust". It is used to refer to a mutual agreement between two parties that involves trust and loyalty. |
-| 18 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
-| 19 | [الافطار الجماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%81%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
-| 20 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 16 | [وفاق سطيف](http://twitter.com/search?q=%d9%88%d9%81%d8%a7%d9%82+%d8%b3%d8%b7%d9%8a%d9%81) | وفاق سطيف is an Arabic phrase meaning "the covenant of trust". It is used to refer to a mutual agreement between two parties that involves trust and loyalty. |
+| 17 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
+| 18 | [الافطار الجماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%81%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
+| 19 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
+| 20 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
 | 21 | [المعني المردود](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%86%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d8%af%d9%88%d8%af) | N/A |
 | 22 | [اتحاد العاصمه](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d9%87) | N/A |
 | 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
@@ -54,17 +54,17 @@ This is top 50 for Algeria
 | 37 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
 | 38 | [مانشستر سيتي](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1+%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
 | 39 | [الجيش الوطني الشعبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a) | N/A |
-| 40 | [بيس المصير](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d8%b5%d9%8a%d8%b1) | N/A |
-| 41 | [علي الناس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
-| 42 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 43 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
-| 44 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
-| 45 | [مراكش](http://twitter.com/search?q=%d9%85%d8%b1%d8%a7%d9%83%d8%b4) | N/A |
-| 46 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 47 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 48 | [الصحراء الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 49 | [نهار كامل](http://twitter.com/search?q=%d9%86%d9%87%d8%a7%d8%b1+%d9%83%d8%a7%d9%85%d9%84) | N/A |
-| 50 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 40 | [مراكش](http://twitter.com/search?q=%d9%85%d8%b1%d8%a7%d9%83%d8%b4) | N/A |
+| 41 | [بيس المصير](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d8%b5%d9%8a%d8%b1) | N/A |
+| 42 | [علي الناس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
+| 43 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
+| 44 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 45 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 46 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 47 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
+| 48 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
+| 49 | [الصحراء الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 50 | [نهار كامل](http://twitter.com/search?q=%d9%86%d9%87%d8%a7%d8%b1+%d9%83%d8%a7%d9%85%d9%84) | N/A |
 
 
 

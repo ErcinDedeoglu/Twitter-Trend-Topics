@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-04-09 13:17:38 UTC`
+📆 Last Updated: `2023-04-09 14:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,13 +24,13 @@ This is top 50 for Venezuela
 | 7 | [Lacava](http://twitter.com/search?q=Lacava) | N/A |
 | 8 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
 | 9 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
-| 10 | [tocuyito](http://twitter.com/search?q=tocuyito) | N/A |
-| 11 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
+| 10 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
+| 11 | [Tocuyito](http://twitter.com/search?q=Tocuyito) | N/A |
 | 12 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
-| 13 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 14 | [#vinotintosub17xmtv](http://twitter.com/search?q=%23vinotintosub17xmtv) | N/A |
-| 15 | [Sandro](http://twitter.com/search?q=Sandro) | N/A |
-| 16 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 13 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 14 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 15 | [#vinotintosub17xmtv](http://twitter.com/search?q=%23vinotintosub17xmtv) | N/A |
+| 16 | [Sandro](http://twitter.com/search?q=Sandro) | N/A |
 | 17 | [Chataing](http://twitter.com/search?q=Chataing) | N/A |
 | 18 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 19 | [Rafael Cadenas](http://twitter.com/search?q=Rafael+Cadenas) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Venezuela
 | 45 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
 | 46 | [cherry navarro](http://twitter.com/search?q=cherry+navarro) | N/A |
 | 47 | [isa dobles](http://twitter.com/search?q=isa+dobles) | N/A |
-| 48 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
+| 48 | [salvador pérez](http://twitter.com/search?q=salvador+p%c3%a9rez) | N/A |
 | 49 | [Guyana](http://twitter.com/search?q=Guyana) | N/A |
-| 50 | [El Llanero Solitario](http://twitter.com/search?q=El+Llanero+Solitario) | N/A |
+| 50 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 
 
 

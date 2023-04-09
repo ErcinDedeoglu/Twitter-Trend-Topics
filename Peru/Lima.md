@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-04-09 13:16:53 UTC`
+📆 Last Updated: `2023-04-09 14:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Peru](</Peru>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
-| 3 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
+| 2 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
+| 3 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
 | 4 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 5 | [#radiocoti](http://twitter.com/search?q=%23radiocoti) | N/A |
 | 6 | [Baena](http://twitter.com/search?q=Baena) | N/A |
@@ -26,12 +26,12 @@ This is top 50 for [Peru](</Peru>)
 | 9 | [Lerner](http://twitter.com/search?q=Lerner) | N/A |
 | 10 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
 | 11 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 12 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 13 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 14 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 15 | [esidio](http://twitter.com/search?q=esidio) | N/A |
-| 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 17 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 12 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 13 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
+| 14 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 15 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 16 | [esidio](http://twitter.com/search?q=esidio) | N/A |
+| 17 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 18 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
 | 19 | [serums](http://twitter.com/search?q=serums) | N/A |
 | 20 | [have a safe flight jungkook](http://twitter.com/search?q=have+a+safe+flight+jungkook) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for [Peru](</Peru>)
 | 42 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
 | 43 | [Pirata](http://twitter.com/search?q=Pirata) | N/A |
 | 44 | [castañeda](http://twitter.com/search?q=casta%c3%b1eda) | N/A |
-| 45 | [Sanguinetti](http://twitter.com/search?q=Sanguinetti) | N/A |
-| 46 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
-| 47 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 48 | [Hernán](http://twitter.com/search?q=Hern%c3%a1n) | Hernán is a Spanish name derived from the Germanic name Hernan, which means "army man". It is also a variant of the name Fernando, which means "brave and daring". |
-| 49 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 50 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 45 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 46 | [sanguinetti](http://twitter.com/search?q=sanguinetti) | N/A |
+| 47 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
+| 48 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 49 | [Hernán](http://twitter.com/search?q=Hern%c3%a1n) | Hernán is a Spanish name derived from the Germanic name Hernan, which means "army man". It is also a variant of the name Fernando, which means "brave and daring". |
+| 50 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
 
 
 

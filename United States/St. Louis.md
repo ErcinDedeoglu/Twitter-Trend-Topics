@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-04-09 13:17:29 UTC`
+📆 Last Updated: `2023-04-09 14:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,13 +18,13 @@ This is top 50 for [United States](</United States>)
 | 1 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 2 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 5 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 6 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 4 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 5 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 6 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
 | 7 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
 | 8 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
-| 9 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
-| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 10 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
 | 11 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
 | 12 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
 | 13 | [Doran](http://twitter.com/search?q=Doran) | N/A |
@@ -33,36 +33,36 @@ This is top 50 for [United States](</United States>)
 | 16 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
 | 17 | [Watching and Dreaming](http://twitter.com/search?q=Watching+and+Dreaming) | N/A |
 | 18 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 19 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 20 | [Gilbert](http://twitter.com/search?q=Gilbert) | N/A |
+| 19 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
+| 20 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
 | 21 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 22 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 23 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 24 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
-| 25 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 26 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
-| 27 | [Belos](http://twitter.com/search?q=Belos) | N/A |
-| 28 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 29 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 30 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 31 | [Raine](http://twitter.com/search?q=Raine) | N/A |
-| 32 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
-| 33 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
-| 34 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 35 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 36 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
-| 37 | [KO'd](http://twitter.com/search?q=KO%27d) | N/A |
-| 38 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
-| 39 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 40 | [Darius](http://twitter.com/search?q=Darius) | N/A |
-| 41 | [Whittaker](http://twitter.com/search?q=Whittaker) | N/A |
+| 22 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 23 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 24 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 25 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
+| 26 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 27 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
+| 28 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 29 | [Belos](http://twitter.com/search?q=Belos) | N/A |
+| 30 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 31 | [gerard](http://twitter.com/search?q=gerard) | N/A |
+| 32 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 33 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 34 | [Raine](http://twitter.com/search?q=Raine) | N/A |
+| 35 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
+| 36 | [Haney](http://twitter.com/search?q=Haney) | N/A |
+| 37 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
+| 38 | [KO'd](http://twitter.com/search?q=KO%27d) | N/A |
+| 39 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
+| 40 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 41 | [DARIUS](http://twitter.com/search?q=DARIUS) | N/A |
 | 42 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 43 | [Sanji](http://twitter.com/search?q=Sanji) | N/A |
-| 44 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 45 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 46 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
-| 47 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 48 | [Keyshawn](http://twitter.com/search?q=Keyshawn) | N/A |
+| 43 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 44 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
+| 45 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 46 | [Keyshawn](http://twitter.com/search?q=Keyshawn) | N/A |
+| 47 | [Gamebred](http://twitter.com/search?q=Gamebred) | N/A |
+| 48 | [Justin Owen](http://twitter.com/search?q=Justin+Owen) | N/A |
 
 
 

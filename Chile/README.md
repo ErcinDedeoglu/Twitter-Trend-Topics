@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-04-09 13:17:32 UTC`
+📆 Last Updated: `2023-04-09 14:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,13 +19,13 @@ This is top 50 for Chile
 | 2 | [Colina](http://twitter.com/search?q=Colina) | N/A |
 | 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 4 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 5 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 5 | [zampedri](http://twitter.com/search?q=zampedri) | N/A |
 | 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 7 | [dituro](http://twitter.com/search?q=dituro) | N/A |
 | 8 | [#clnvsucxtntsports](http://twitter.com/search?q=%23clnvsucxtntsports) | N/A |
-| 9 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 10 | [Pamela Jiles](http://twitter.com/search?q=Pamela+Jiles) | N/A |
-| 11 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
+| 9 | [Pamela Jiles](http://twitter.com/search?q=Pamela+Jiles) | N/A |
+| 10 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
+| 11 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
 | 12 | [#copachileeasy](http://twitter.com/search?q=%23copachileeasy) | N/A |
 | 13 | [Kast](http://twitter.com/search?q=Kast) | N/A |
 | 14 | [Conductor](http://twitter.com/search?q=Conductor) | N/A |
@@ -43,8 +43,8 @@ This is top 50 for Chile
 | 26 | [anfp](http://twitter.com/search?q=anfp) | N/A |
 | 27 | [Delincuente](http://twitter.com/search?q=Delincuente) | N/A |
 | 28 | [cntv](http://twitter.com/search?q=cntv) | N/A |
-| 29 | [Garin](http://twitter.com/search?q=Garin) | N/A |
-| 30 | [felipe bianchi](http://twitter.com/search?q=felipe+bianchi) | N/A |
+| 29 | [Felipe Bianchi](http://twitter.com/search?q=Felipe+Bianchi) | N/A |
+| 30 | [Garin](http://twitter.com/search?q=Garin) | N/A |
 | 31 | [Etcheverry](http://twitter.com/search?q=Etcheverry) | N/A |
 | 32 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
 | 33 | [llolleo](http://twitter.com/search?q=llolleo) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Chile
 | 39 | [tagle](http://twitter.com/search?q=tagle) | N/A |
 | 40 | [Robo](http://twitter.com/search?q=Robo) | N/A |
 | 41 | [Osorno](http://twitter.com/search?q=Osorno) | N/A |
-| 42 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
+| 42 | [tregua](http://twitter.com/search?q=tregua) | N/A |
 | 43 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
 | 44 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
 | 45 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 46 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 47 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 48 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
-| 49 | [carcuro](http://twitter.com/search?q=carcuro) | N/A |
-| 50 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 46 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 47 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 48 | [carcuro](http://twitter.com/search?q=carcuro) | N/A |
+| 49 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 50 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
 
 
 

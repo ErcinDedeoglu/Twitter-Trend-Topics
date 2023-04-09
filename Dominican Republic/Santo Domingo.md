@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-04-09 13:16:48 UTC`
+📆 Last Updated: `2023-04-09 14:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,17 +35,17 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 18 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
 | 19 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
 | 20 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 21 | [rafael devers](http://twitter.com/search?q=rafael+devers) | N/A |
+| 21 | [Rafael Devers](http://twitter.com/search?q=Rafael+Devers) | N/A |
 | 22 | [gaga](http://twitter.com/search?q=gaga) | N/A |
 | 23 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
 | 24 | [francisco álvarez castellanos](http://twitter.com/search?q=francisco+%c3%a1lvarez+castellanos) | N/A |
 | 25 | [wander franco](http://twitter.com/search?q=wander+franco) | N/A |
 | 26 | [pico duarte](http://twitter.com/search?q=pico+duarte) | N/A |
-| 27 | [julio Rodríguez](http://twitter.com/search?q=julio+Rodr%c3%adguez) | N/A |
+| 27 | [julio rodríguez](http://twitter.com/search?q=julio+rodr%c3%adguez) | N/A |
 | 28 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
 | 29 | [san juan de la maguana](http://twitter.com/search?q=san+juan+de+la+maguana) | N/A |
 | 30 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 31 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
+| 31 | [ferxxo](http://twitter.com/search?q=ferxxo) | N/A |
 | 32 | [Irving](http://twitter.com/search?q=Irving) | N/A |
 | 33 | [boca chica](http://twitter.com/search?q=boca+chica) | N/A |
 | 34 | [ministro de medio ambiente](http://twitter.com/search?q=ministro+de+medio+ambiente) | N/A |
@@ -58,7 +58,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 41 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
 | 42 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
 | 43 | [Vigilia Pascual](http://twitter.com/search?q=Vigilia+Pascual) | N/A |
-| 44 | [#DiaMundialdelaSalud](http://twitter.com/search?q=%23DiaMundialdelaSalud) | N/A |
+| 44 | [#diamundialdelasalud](http://twitter.com/search?q=%23diamundialdelasalud) | N/A |
 | 45 | [haitiana](http://twitter.com/search?q=haitiana) | N/A |
 | 46 | [arcadas](http://twitter.com/search?q=arcadas) | N/A |
 | 47 | [Australia](http://twitter.com/search?q=Australia) | N/A |

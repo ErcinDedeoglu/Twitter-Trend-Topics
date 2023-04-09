@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracaibo
 
-📆 Last Updated: `2023-04-09 13:16:53 UTC`
+📆 Last Updated: `2023-04-09 14:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,8 +24,8 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 7 | [Lacava](http://twitter.com/search?q=Lacava) | N/A |
 | 8 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
 | 9 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
-| 10 | [tocuyito](http://twitter.com/search?q=tocuyito) | N/A |
-| 11 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
+| 10 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
+| 11 | [Tocuyito](http://twitter.com/search?q=Tocuyito) | N/A |
 | 12 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
 | 13 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 14 | [#vinotintosub17xmtv](http://twitter.com/search?q=%23vinotintosub17xmtv) | N/A |
