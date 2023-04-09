@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-09 19:16:41 UTC`
+📆 Last Updated: `2023-04-09 20:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 4 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 5 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 6 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 7 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 8 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 9 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
-| 10 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 11 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 12 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 13 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 14 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 15 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 16 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
-| 17 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 18 | [Hayırlı](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1) | N/A |
-| 19 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 20 | [#شكرا_قيادتنا](http://twitter.com/search?q=%23%d8%b4%d9%83%d8%b1%d8%a7_%d9%82%d9%8a%d8%a7%d8%af%d8%aa%d9%86%d8%a7) | N/A |
-| 21 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 22 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 23 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 24 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 25 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 26 | [ラムズデール](http://twitter.com/search?q=%e3%83%a9%e3%83%a0%e3%82%ba%e3%83%87%e3%83%bc%e3%83%ab) | N/A |
-| 27 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 28 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 29 | [#النصر_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
-| 30 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 31 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
-| 32 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 33 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 34 | [#BJKvGRS](http://twitter.com/search?q=%23BJKvGRS) | N/A |
-| 35 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 36 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 37 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 38 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 39 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
-| 40 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 41 | [#TheMaskedSingerBr](http://twitter.com/search?q=%23TheMaskedSingerBr) | #TheMaskedSingerBr is a hashtag used on Twitter to discuss the Brazilian version of the popular singing competition show, The Masked Singer. It is used to share news, updates, and fan reactions about the show. |
-| 42 | [アンフィールド](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 43 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
-| 44 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 45 | [جعفر](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
-| 46 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
-| 47 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 48 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
-| 49 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 50 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 1 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
+| 2 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
+| 3 | [#النصر_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
+| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 5 | [#İstanbulunYüzü](http://twitter.com/search?q=%23%c4%b0stanbulunY%c3%bcz%c3%bc) | N/A |
+| 6 | [#TheMaskedSingerBr](http://twitter.com/search?q=%23TheMaskedSingerBr) | #TheMaskedSingerBr is a hashtag used on Twitter to discuss the Brazilian version of the popular singing competition show, The Masked Singer. It is used to share news, updates, and fan reactions about the show. |
+| 7 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
+| 8 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 9 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
+| 10 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 11 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 12 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 13 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
+| 14 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
+| 15 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 16 | [#شكرا_قيادتنا](http://twitter.com/search?q=%23%d8%b4%d9%83%d8%b1%d8%a7_%d9%82%d9%8a%d8%a7%d8%af%d8%aa%d9%86%d8%a7) | N/A |
+| 17 | [#FCLOM](http://twitter.com/search?q=%23FCLOM) | N/A |
+| 18 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 19 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 20 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 21 | [Zé Rafael](http://twitter.com/search?q=Z%c3%a9+Rafael) | Zé Rafael is a Brazilian expression that is used to refer to someone who is very handsome or attractive. In English, it can be translated as "Handsome Joe". |
+| 22 | [Udonis Haslem](http://twitter.com/search?q=Udonis+Haslem) | N/A |
+| 23 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
+| 24 | [CD9 COMEBACK](http://twitter.com/search?q=CD9+COMEBACK) | N/A |
+| 25 | [CD9 RETURN](http://twitter.com/search?q=CD9+RETURN) | N/A |
+| 26 | [Lucas Fernandes](http://twitter.com/search?q=Lucas+Fernandes) | N/A |
+| 27 | [EDUARDO PEREIRA RODRIGUES](http://twitter.com/search?q=EDUARDO+PEREIRA+RODRIGUES) | N/A |
+| 28 | [O Palmeiras](http://twitter.com/search?q=O+Palmeiras) | O Palmeiras is a Brazilian football team based in São Paulo. The name literally translates to "The Palms" in English, and is a reference to the state tree of São Paulo, the Palmeira Imperial. |
+| 29 | [Stephen Silas](http://twitter.com/search?q=Stephen+Silas) | N/A |
+| 30 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 31 | [Xamã](http://twitter.com/search?q=Xam%c3%a3) | N/A |
+| 32 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 33 | [Sauer](http://twitter.com/search?q=Sauer) | N/A |
+| 34 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 35 | [Payton Pritchard](http://twitter.com/search?q=Payton+Pritchard) | N/A |
+| 36 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 37 | [Dwane Casey](http://twitter.com/search?q=Dwane+Casey) | N/A |
+| 38 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
+| 39 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
+| 40 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 41 | [Vitória Régia](http://twitter.com/search?q=Vit%c3%b3ria+R%c3%a9gia) | N/A |
+| 42 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
+| 43 | [ايمن يحيى](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d9%86+%d9%8a%d8%ad%d9%8a%d9%89) | "ايمن يحيى" is an Arabic name, and it translates to "Iman Yahya" in English. |
+| 44 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 45 | [Gudugo](http://twitter.com/search?q=Gudugo) | N/A |
+| 46 | [Tebrikler Beşiktaş'ım](http://twitter.com/search?q=Tebrikler+Be%c5%9fikta%c5%9f%27%c4%b1m) | "Tebrikler Beşiktaş'ım" is a Turkish phrase that translates to "Congratulations, my Beşiktaş!" It is a phrase of encouragement and support for the Turkish football team Beşiktaş. |
+| 47 | [Woosung](http://twitter.com/search?q=Woosung) | N/A |
+| 48 | [BED BUGS](http://twitter.com/search?q=BED+BUGS) | N/A |
+| 49 | [Nahuel Molina](http://twitter.com/search?q=Nahuel+Molina) | N/A |
+| 50 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
 
 
 

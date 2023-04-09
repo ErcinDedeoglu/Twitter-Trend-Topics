@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-09 19:17:15 UTC`
+📆 Last Updated: `2023-04-09 20:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,48 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 3 | [#SB19SummerSpecialDunkinPH](http://twitter.com/search?q=%23SB19SummerSpecialDunkinPH) | N/A |
-| 4 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 5 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
-| 6 | [WE LOVE YOU BELLE](http://twitter.com/search?q=WE+LOVE+YOU+BELLE) | N/A |
-| 7 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
-| 8 | [SAKURA MOMENTS WITHKDLEX](http://twitter.com/search?q=SAKURA+MOMENTS+WITHKDLEX) | N/A |
-| 9 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 10 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
-| 11 | [#UNFORGIVEN_AlbumTrailer](http://twitter.com/search?q=%23UNFORGIVEN_AlbumTrailer) | N/A |
-| 12 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
-| 13 | [ACEs STRONGER 2GETHER](http://twitter.com/search?q=ACEs+STRONGER+2GETHER) | N/A |
-| 14 | [DO YOU WANT TO BE FORGIVEN](http://twitter.com/search?q=DO+YOU+WANT+TO+BE+FORGIVEN) | N/A |
-| 15 | [31MONTHS WITH BRENTMANALO](http://twitter.com/search?q=31MONTHS+WITH+BRENTMANALO) | N/A |
-| 16 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 17 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 18 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 19 | [Belle Mariano](http://twitter.com/search?q=Belle+Mariano) | N/A |
-| 20 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 21 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
-| 22 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 23 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 24 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 25 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 26 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 27 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
-| 28 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
-| 29 | [WHERE YOU AT](http://twitter.com/search?q=WHERE+YOU+AT) | N/A |
-| 30 | [Amygdala](http://twitter.com/search?q=Amygdala) | N/A |
-| 31 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 32 | [LET ME](http://twitter.com/search?q=LET+ME) | N/A |
-| 33 | [World War II](http://twitter.com/search?q=World+War+II) | N/A |
-| 34 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
-| 35 | [HAPPY BIRTHDAY YML ELI](http://twitter.com/search?q=HAPPY+BIRTHDAY+YML+ELI) | N/A |
-| 36 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
-| 37 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
-| 38 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 39 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
-| 40 | [gabbluke moshies anniversary](http://twitter.com/search?q=gabbluke+moshies+anniversary) | N/A |
-| 41 | [I REFUSE TO BELIEVE](http://twitter.com/search?q=I+REFUSE+TO+BELIEVE) | N/A |
-| 42 | [Kkuma](http://twitter.com/search?q=Kkuma) | N/A |
-| 43 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 44 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
-| 45 | [Don't Go](http://twitter.com/search?q=Don%27t+Go) | N/A |
-| 46 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 47 | [d-5 to anji paraiso](http://twitter.com/search?q=d-5+to+anji+paraiso) | N/A |
+| 1 | [SAKURA MOMENTS WITHKDLEX](http://twitter.com/search?q=SAKURA+MOMENTS+WITHKDLEX) | N/A |
+| 2 | [#SB19SummerSpecialDunkinPH](http://twitter.com/search?q=%23SB19SummerSpecialDunkinPH) | N/A |
+| 3 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 4 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 5 | [31MONTHS WITH BRENTMANALO](http://twitter.com/search?q=31MONTHS+WITH+BRENTMANALO) | N/A |
+| 6 | [#JISOOatInkigayo](http://twitter.com/search?q=%23JISOOatInkigayo) | N/A |
+| 7 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
+| 8 | [LET ME](http://twitter.com/search?q=LET+ME) | N/A |
+| 9 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
+| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 11 | [Dropping](http://twitter.com/search?q=Dropping) | N/A |
+| 12 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
+| 13 | [BAEKHYUN](http://twitter.com/search?q=BAEKHYUN) | N/A |
+| 14 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
+| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 16 | [GABBLUKE MOSHIES ANNIVERSARY](http://twitter.com/search?q=GABBLUKE+MOSHIES+ANNIVERSARY) | N/A |
+| 17 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
+| 18 | [KYUNGSOO](http://twitter.com/search?q=KYUNGSOO) | N/A |
+| 19 | [JUNMYEON](http://twitter.com/search?q=JUNMYEON) | N/A |
+| 20 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 21 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 22 | [KSOO](http://twitter.com/search?q=KSOO) | N/A |
+| 23 | [CHANYEOL](http://twitter.com/search?q=CHANYEOL) | N/A |
+| 24 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
+| 25 | [#시우민은_봄을_안고와](http://twitter.com/search?q=%23%ec%8b%9c%ec%9a%b0%eb%af%bc%ec%9d%80_%eb%b4%84%ec%9d%84_%ec%95%88%ea%b3%a0%ec%99%80) | N/A |
+| 26 | [#WhowithXiumin](http://twitter.com/search?q=%23WhowithXiumin) | N/A |
+| 27 | [#Who_XIUMINxEUNHA](http://twitter.com/search?q=%23Who_XIUMINxEUNHA) | N/A |
+| 28 | [#TroPIETrobol](http://twitter.com/search?q=%23TroPIETrobol) | N/A |
+| 29 | [#ACEsOur2ndAnniversary](http://twitter.com/search?q=%23ACEsOur2ndAnniversary) | N/A |
+| 30 | [#INKSteaDAY](http://twitter.com/search?q=%23INKSteaDAY) | N/A |
+| 31 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
+| 32 | [#t1win](http://twitter.com/search?q=%23t1win) | N/A |
+| 33 | [#LISAパワフルステージin東京](http://twitter.com/search?q=%23LISA%e3%83%91%e3%83%af%e3%83%95%e3%83%ab%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b8in%e6%9d%b1%e4%ba%ac) | N/A |
+| 34 | [#T1FIGHTING](http://twitter.com/search?q=%23T1FIGHTING) | N/A |
+| 35 | [#BOYCOTTEBxAPTxGMA760](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA760) | N/A |
+| 36 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 37 | [#FirstEightWP](http://twitter.com/search?q=%23FirstEightWP) | N/A |
+| 38 | [#PARKEUNBIN](http://twitter.com/search?q=%23PARKEUNBIN) | N/A |
+| 39 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
+| 40 | [#DONBELLEmpire](http://twitter.com/search?q=%23DONBELLEmpire) | N/A |
+| 41 | [#MHMA2023FELIPSUSON](http://twitter.com/search?q=%23MHMA2023FELIPSUSON) | N/A |
+| 42 | [#AlJay](http://twitter.com/search?q=%23AlJay) | N/A |
 
 
 

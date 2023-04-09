@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-04-09 19:17:25 UTC`
+📆 Last Updated: `2023-04-09 20:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RinkuSingh](http://twitter.com/search?q=%23RinkuSingh) | N/A |
-| 2 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
-| 3 | [#SRHvsPBKS](http://twitter.com/search?q=%23SRHvsPBKS) | N/A |
+| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 3 | [#CSKvsMI](http://twitter.com/search?q=%23CSKvsMI) | N/A |
 | 4 | [#KKRvsGT](http://twitter.com/search?q=%23KKRvsGT) | N/A |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 7 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 8 | [KBKJ TRAILER OUT TOMORROW](http://twitter.com/search?q=KBKJ+TRAILER+OUT+TOMORROW) | N/A |
-| 9 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 10 | [रिंकू सिंह](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%82%e0%a4%95%e0%a5%82+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 11 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 12 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 13 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 14 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 15 | [Stephen F](http://twitter.com/search?q=Stephen+F) | N/A |
-| 16 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 17 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 18 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 19 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 20 | [Shaun M](http://twitter.com/search?q=Shaun+M) | N/A |
-| 21 | [James F](http://twitter.com/search?q=James+F) | N/A |
-| 22 | [Kagiso R](http://twitter.com/search?q=Kagiso+R) | N/A |
-| 23 | [Yash Dayal](http://twitter.com/search?q=Yash+Dayal) | N/A |
-| 24 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 25 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 26 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 27 | [Gabbar](http://twitter.com/search?q=Gabbar) | N/A |
-| 28 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 29 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
-| 30 | [नूपुर शर्मा](http://twitter.com/search?q=%e0%a4%a8%e0%a5%82%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 31 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 32 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 33 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 34 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
-| 35 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 36 | [Chris G & Nitin M](http://twitter.com/search?q=Chris+G+%26+Nitin+M) | N/A |
-| 37 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 38 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 39 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 40 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 41 | [Van Disney](http://twitter.com/search?q=Van+Disney) | Van Disney is a term used to describe the merchandise and products associated with the Disney brand. It is often used to refer to items that are sold in Disney stores or online, such as toys, clothing, and other memorabilia. The term is derived from the name of Walt Disney's first animation studio, which was called "The Van Beuren Studio." |
-| 42 | [गुजरात पुलिस](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 43 | [REMEMBER THE NAME](http://twitter.com/search?q=REMEMBER+THE+NAME) | N/A |
-| 44 | [गुजरात सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 45 | [TAKE A BOW](http://twitter.com/search?q=TAKE+A+BOW) | N/A |
-| 46 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 47 | [Industry Hit](http://twitter.com/search?q=Industry+Hit) | N/A |
+| 5 | [रिंकू सिंह](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%82%e0%a4%95%e0%a5%82+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 6 | [KBKJ TRAILER OUT TOMORROW](http://twitter.com/search?q=KBKJ+TRAILER+OUT+TOMORROW) | N/A |
+| 7 | [#NSUIFoundationDay](http://twitter.com/search?q=%23NSUIFoundationDay) | N/A |
+| 8 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
+| 9 | [rahane](http://twitter.com/search?q=rahane) | N/A |
+| 10 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 12 | [बांदीपुर टाइगर रिजर्व](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%9f%e0%a4%be%e0%a4%87%e0%a4%97%e0%a4%b0+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
+| 13 | [Amul](http://twitter.com/search?q=Amul) | N/A |
+| 14 | [Dhoni Review System](http://twitter.com/search?q=Dhoni+Review+System) | N/A |
+| 15 | [केंद्रीय रिजर्व पुलिस](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 16 | [Nandini](http://twitter.com/search?q=Nandini) | N/A |
+| 17 | [भारतीय राष्ट्रीय छात्र संगठन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a4%a0%e0%a4%a8) | N/A |
+| 18 | [Sushant Singh Rajput Matters](http://twitter.com/search?q=Sushant+Singh+Rajput+Matters) | N/A |
+| 19 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
+| 20 | [शरद पवार](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b0%e0%a4%a6+%e0%a4%aa%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 21 | [राहुल सांकृत्यायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
+| 22 | [jeevan darshan](http://twitter.com/search?q=jeevan+darshan) | N/A |
+| 23 | [brahmgyani sant](http://twitter.com/search?q=brahmgyani+sant) | N/A |
+| 24 | [राजा बाबू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82) | N/A |
+| 25 | [Dhawan](http://twitter.com/search?q=Dhawan) | N/A |
+| 26 | [sushant a skilful person](http://twitter.com/search?q=sushant+a+skilful+person) | N/A |
+| 27 | [नूपुर शर्मा](http://twitter.com/search?q=%e0%a4%a8%e0%a5%82%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 28 | [Sharad Pawar](http://twitter.com/search?q=Sharad+Pawar) | N/A |
+| 29 | [दलित महिला](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 30 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 31 | [100 EPS OF AMRITA BRAR](http://twitter.com/search?q=100+EPS+OF+AMRITA+BRAR) | N/A |
+| 32 | [Wankhede](http://twitter.com/search?q=Wankhede) | N/A |
+| 33 | [Arijit Singh](http://twitter.com/search?q=Arijit+Singh) | N/A |
+| 34 | [srk ka jhant akshay](http://twitter.com/search?q=srk+ka+jhant+akshay) | N/A |
+| 35 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 36 | [ईसा मसीह](http://twitter.com/search?q=%e0%a4%88%e0%a4%b8%e0%a4%be+%e0%a4%ae%e0%a4%b8%e0%a5%80%e0%a4%b9) | N/A |
+| 37 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 38 | [VEER EPITOME OF EMOTIONS](http://twitter.com/search?q=VEER+EPITOME+OF+EMOTIONS) | N/A |
+| 39 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 40 | [Mahindra](http://twitter.com/search?q=Mahindra) | N/A |
+| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 42 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 43 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 44 | [मंगल पांडे](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%97%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%82%e0%a4%a1%e0%a5%87) | N/A |
+| 45 | [Jago Hindus Jago](http://twitter.com/search?q=Jago+Hindus+Jago) | N/A |
+| 46 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 47 | [Kajal](http://twitter.com/search?q=Kajal) | N/A |
 
 
 

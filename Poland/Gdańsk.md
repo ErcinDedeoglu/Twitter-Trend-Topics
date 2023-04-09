@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-09 19:16:56 UTC`
+📆 Last Updated: `2023-04-09 20:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
-| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
-| 4 | [#LESKRO](http://twitter.com/search?q=%23LESKRO) | N/A |
+| 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 2 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [Huberta](http://twitter.com/search?q=Huberta) | N/A |
 | 5 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
-| 6 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 7 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 9 | [Chrystus Zmartwychwstał](http://twitter.com/search?q=Chrystus+Zmartwychwsta%c5%82) | N/A |
-| 10 | [Chrystus Zmartwychwstał](http://twitter.com/search?q=Chrystus+Zmartwychwsta%c5%82) | N/A |
-| 11 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 12 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 13 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
-| 14 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 15 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 16 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
-| 17 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 18 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 19 | [Raczkowski](http://twitter.com/search?q=Raczkowski) | N/A |
-| 20 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 21 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 22 | [Salaha](http://twitter.com/search?q=Salaha) | N/A |
-| 23 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 24 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 25 | [Hubi](http://twitter.com/search?q=Hubi) | N/A |
-| 26 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 27 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
-| 28 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
-| 29 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 30 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
-| 31 | [Grecji](http://twitter.com/search?q=Grecji) | N/A |
-| 32 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
-| 33 | [Puszczy](http://twitter.com/search?q=Puszczy) | N/A |
-| 34 | [Wielka Sobota](http://twitter.com/search?q=Wielka+Sobota) | N/A |
-| 35 | [Tajwan](http://twitter.com/search?q=Tajwan) | N/A |
-| 36 | [Zamordowany](http://twitter.com/search?q=Zamordowany) | N/A |
-| 37 | [Jajko](http://twitter.com/search?q=Jajko) | N/A |
-| 38 | [nicki pedersen](http://twitter.com/search?q=nicki+pedersen) | N/A |
-| 39 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 40 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 41 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 42 | [Lesznie](http://twitter.com/search?q=Lesznie) | N/A |
-| 43 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 44 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 45 | [Rutkowskiego](http://twitter.com/search?q=Rutkowskiego) | N/A |
-| 46 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 47 | [Francja](http://twitter.com/search?q=Francja) | N/A |
-| 48 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 49 | [Monte Carlo](http://twitter.com/search?q=Monte+Carlo) | N/A |
+| 6 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
+| 7 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
+| 8 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
+| 9 | [Agata](http://twitter.com/search?q=Agata) | N/A |
+| 10 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 11 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 12 | [#grucze](http://twitter.com/search?q=%23grucze) | N/A |
+| 13 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 14 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
+| 15 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 16 | [Francja](http://twitter.com/search?q=Francja) | N/A |
+| 17 | [Wielka Sobota](http://twitter.com/search?q=Wielka+Sobota) | N/A |
+| 18 | [Puszczy](http://twitter.com/search?q=Puszczy) | N/A |
+| 19 | [Jajko](http://twitter.com/search?q=Jajko) | N/A |
+| 20 | [Adama](http://twitter.com/search?q=Adama) | N/A |
+| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 22 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
+| 23 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 24 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 25 | [Monte Carlo](http://twitter.com/search?q=Monte+Carlo) | N/A |
+| 26 | [Arsenalu](http://twitter.com/search?q=Arsenalu) | N/A |
+| 27 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 28 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 29 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
+| 30 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
+| 31 | [Warta](http://twitter.com/search?q=Warta) | N/A |
+| 32 | [Niepołomicach](http://twitter.com/search?q=Niepo%c5%82omicach) | N/A |
+| 33 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 34 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 35 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
+| 36 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 37 | [Rutkowski](http://twitter.com/search?q=Rutkowski) | N/A |
+| 38 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 39 | [kujawski](http://twitter.com/search?q=kujawski) | N/A |
+| 40 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
+| 41 | [krowa](http://twitter.com/search?q=krowa) | N/A |
+| 42 | [Watykan](http://twitter.com/search?q=Watykan) | N/A |
+| 43 | [Kościele](http://twitter.com/search?q=Ko%c5%9bciele) | N/A |
+| 44 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
+| 45 | [Wigilii Paschalnej](http://twitter.com/search?q=Wigilii+Paschalnej) | N/A |
+| 46 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 47 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 48 | [Boga](http://twitter.com/search?q=Boga) | N/A |
+| 49 | [Nawalnego](http://twitter.com/search?q=Nawalnego) | N/A |
 
 
 

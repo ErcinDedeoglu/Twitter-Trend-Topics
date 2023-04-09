@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexicali
 
-📆 Last Updated: `2023-04-09 19:16:49 UTC`
+📆 Last Updated: `2023-04-09 20:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 1 | [#CD910AÑOS](http://twitter.com/search?q=%23CD910A%c3%91OS) | N/A |
 | 2 | [CD9 COMEBACK](http://twitter.com/search?q=CD9+COMEBACK) | N/A |
-| 3 | [#CD910AÑOS](http://twitter.com/search?q=%23CD910A%c3%91OS) | N/A |
-| 4 | [CD9 RETURN](http://twitter.com/search?q=CD9+RETURN) | N/A |
+| 3 | [CD9 RETURN](http://twitter.com/search?q=CD9+RETURN) | N/A |
+| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 5 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
-| 6 | [Chino Huerta](http://twitter.com/search?q=Chino+Huerta) | N/A |
-| 7 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 10 | [Rivas](http://twitter.com/search?q=Rivas) | N/A |
-| 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 12 | [Freddy](http://twitter.com/search?q=Freddy) | N/A |
-| 13 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 14 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 15 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 16 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 17 | [Alan](http://twitter.com/search?q=Alan) | N/A |
-| 18 | [Aldrete](http://twitter.com/search?q=Aldrete) | N/A |
-| 19 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 20 | [Turco](http://twitter.com/search?q=Turco) | N/A |
-| 21 | [Julio González](http://twitter.com/search?q=Julio+Gonz%c3%a1lez) | N/A |
-| 22 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
-| 23 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 24 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 25 | [Gutiérrez](http://twitter.com/search?q=Guti%c3%a9rrez) | N/A |
-| 26 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
-| 27 | [Monroy](http://twitter.com/search?q=Monroy) | N/A |
-| 28 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 29 | [#LaMañaneraNoSeToca](http://twitter.com/search?q=%23LaMa%c3%b1aneraNoSeToca) | N/A |
-| 30 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
-| 31 | [La Sierra](http://twitter.com/search?q=La+Sierra) | N/A |
-| 32 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 33 | [#OyeTuFandom](http://twitter.com/search?q=%23OyeTuFandom) | N/A |
-| 34 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
-| 35 | [Freire](http://twitter.com/search?q=Freire) | N/A |
-| 36 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 37 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 38 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
-| 39 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 40 | [Yaiba](http://twitter.com/search?q=Yaiba) | N/A |
-| 41 | [gerard](http://twitter.com/search?q=gerard) | N/A |
-| 42 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
-| 43 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 44 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 45 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 46 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
-| 47 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 48 | [prieto](http://twitter.com/search?q=prieto) | N/A |
-| 49 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 50 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 6 | [Julio González](http://twitter.com/search?q=Julio+Gonz%c3%a1lez) | N/A |
+| 7 | [ANDRADA](http://twitter.com/search?q=ANDRADA) | N/A |
+| 8 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 9 | [Santiago Giménez](http://twitter.com/search?q=Santiago+Gim%c3%a9nez) | N/A |
+| 10 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 11 | [Ruvalcaba](http://twitter.com/search?q=Ruvalcaba) | N/A |
+| 12 | [#WeCanFeelYourLoveLK](http://twitter.com/search?q=%23WeCanFeelYourLoveLK) | N/A |
+| 13 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 14 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
+| 15 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 16 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 17 | [Bebote](http://twitter.com/search?q=Bebote) | N/A |
+| 18 | [RETURN OF CD9](http://twitter.com/search?q=RETURN+OF+CD9) | N/A |
+| 19 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 20 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
+| 21 | [Freddy](http://twitter.com/search?q=Freddy) | N/A |
+| 22 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 23 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 24 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 25 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 26 | [Chan's Room](http://twitter.com/search?q=Chan%27s+Room) | N/A |
+| 27 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
+| 28 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
+| 29 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 30 | [#LaMañaneraNoSeToca](http://twitter.com/search?q=%23LaMa%c3%b1aneraNoSeToca) | N/A |
+| 31 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 32 | [Rivas](http://twitter.com/search?q=Rivas) | N/A |
+| 33 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 34 | [#DomingoDePascua](http://twitter.com/search?q=%23DomingoDePascua) | N/A |
+| 35 | [LAYUN](http://twitter.com/search?q=LAYUN) | N/A |
+| 36 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
+| 37 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 38 | [VIÑAS](http://twitter.com/search?q=VI%c3%91AS) | N/A |
+| 39 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 40 | [Joao](http://twitter.com/search?q=Joao) | N/A |
+| 41 | [Eredivisie](http://twitter.com/search?q=Eredivisie) | N/A |
+| 42 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 43 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 44 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 45 | [Huerta](http://twitter.com/search?q=Huerta) | N/A |
+| 46 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 47 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 48 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 49 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
+| 50 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
 
 
 

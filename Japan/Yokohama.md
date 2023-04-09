@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Yokohama
 
-📆 Last Updated: `2023-04-09 19:17:11 UTC`
+📆 Last Updated: `2023-04-09 20:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,51 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [煉獄さん](http://twitter.com/search?q=%e7%85%89%e7%8d%84%e3%81%95%e3%82%93) | N/A |
-| 2 | [出口調査](http://twitter.com/search?q=%e5%87%ba%e5%8f%a3%e8%aa%bf%e6%9f%bb) | N/A |
-| 3 | [#逃走中](http://twitter.com/search?q=%23%e9%80%83%e8%b5%b0%e4%b8%ad) | N/A |
-| 4 | [黒岩さん](http://twitter.com/search?q=%e9%bb%92%e5%b2%a9%e3%81%95%e3%82%93) | N/A |
-| 5 | [ジョッキーカメラ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%83%e3%82%ad%e3%83%bc%e3%82%ab%e3%83%a1%e3%83%a9) | N/A |
-| 6 | [全国ランキング](http://twitter.com/search?q=%e5%85%a8%e5%9b%bd%e3%83%a9%e3%83%b3%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
-| 7 | [BLACKPINK](http://twitter.com/search?q=BLACKPINK) | BLACKPINK is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name BLACKPINK is a combination of the words "black" and "pink," which represent the duality of the group's music, which combines both feminine and powerful elements. |
-| 8 | [無事帰宅](http://twitter.com/search?q=%e7%84%a1%e4%ba%8b%e5%b8%b0%e5%ae%85) | 無事帰宅 (Mujiki Kitaku) is a Japanese phrase that means "safely returned home". It is often used to express relief when someone has returned home safely after being away for a while. |
-| 9 | [ラムズデール](http://twitter.com/search?q=%e3%83%a9%e3%83%a0%e3%82%ba%e3%83%87%e3%83%bc%e3%83%ab) | N/A |
-| 10 | [#鬼滅の刃](http://twitter.com/search?q=%23%e9%ac%bc%e6%bb%85%e3%81%ae%e5%88%83) | #鬼滅の刃 is a Japanese manga series written and illustrated by Koyoharu Gotouge. It follows the story of Tanjiro Kamado, a young boy who becomes a demon slayer after his family is slaughtered by demons. The title translates to "Blade of Demon Destruction" in English. |
-| 11 | [アンフィールド](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 12 | [#だが情熱はある](http://twitter.com/search?q=%23%e3%81%a0%e3%81%8c%e6%83%85%e7%86%b1%e3%81%af%e3%81%82%e3%82%8b) | N/A |
-| 13 | [蜜璃ちゃん](http://twitter.com/search?q=%e8%9c%9c%e7%92%83%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 14 | [アーセナル](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%bb%e3%83%8a%e3%83%ab) | アーセナル is the name of a professional football club based in London, England. The club was founded in 1886 and is one of the most successful teams in English football history. In English, the name Arsenal is derived from the club's original home, Woolwich Arsenal. |
-| 15 | [ティアニー](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%8b%e3%83%bc) | N/A |
-| 16 | [キヴィオル](http://twitter.com/search?q=%e3%82%ad%e3%83%b4%e3%82%a3%e3%82%aa%e3%83%ab) | N/A |
-| 17 | [フィルミーノ](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%ab%e3%83%9f%e3%83%bc%e3%83%8e) | N/A |
-| 18 | [#今週のワンピ](http://twitter.com/search?q=%23%e4%bb%8a%e9%80%b1%e3%81%ae%e3%83%af%e3%83%b3%e3%83%94) | N/A |
-| 19 | [リヴァプール](http://twitter.com/search?q=%e3%83%aa%e3%83%b4%e3%82%a1%e3%83%97%e3%83%bc%e3%83%ab) | リヴァプール is the Japanese name for the city of Liverpool in England. It is a port city located on the eastern side of the Mersey Estuary in North West England. The English translation of リヴァプール is Liverpool. |
-| 20 | [#乃木坂工事中](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%82%e5%b7%a5%e4%ba%8b%e4%b8%ad) | #乃木坂工事中 is a hashtag used by fans of the Japanese idol group Nogizaka46. It translates to "Nogizaka46 Under Construction" and is used to show support for the group's activities and projects. |
-| 21 | [ジェズス](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%ba%e3%82%b9) | N/A |
-| 22 | [アーノルド](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%8e%e3%83%ab%e3%83%89) | アーノルド is the Japanese transliteration of the name Arnold. It is a masculine given name of Germanic origin, derived from the elements "arn" (eagle) and "wald" (rule). In English, it means "strong as an eagle". |
-| 23 | [マルティネッリ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%83%86%e3%82%a3%e3%83%8d%e3%83%83%e3%83%aa) | マルティネッリ is a type of Italian pasta dish. It is made with a combination of cooked macaroni, cheese, and cream. The name comes from the Italian words for "cooked" (malti) and "nest" (nestri). In English, it can be translated as "macaroni and cheese". |
-| 24 | [ジンチェンコ](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b3) | ジンチェンコ is a Japanese card game that is similar to the Western game of Go Fish. The name translates to "pulling out a pair" and the goal of the game is to collect as many pairs of cards as possible. |
-| 25 | [トロサール](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%82%b5%e3%83%bc%e3%83%ab) | トロサール (torosāru) is a type of Japanese pastry made from a sweet dough filled with custard cream. The name comes from the French word "trousser", which means "to wrap". In English, it can be translated as "custard-filled pastry". |
-| 26 | [リバプール](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%97%e3%83%bc%e3%83%ab) | リバプール (Ribapuru) is the Japanese name for the English city of Liverpool. It is a port city in northwest England, located on the eastern side of the Mersey Estuary. The city is known for its rich musical and cultural heritage, as well as its football team, Liverpool FC. |
-| 27 | [みつりちゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%a4%e3%82%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 28 | [ヌニェス](http://twitter.com/search?q=%e3%83%8c%e3%83%8b%e3%82%a7%e3%82%b9) | ヌニェス is a Japanese word that means "nonsense". It is used to describe something that is nonsensical or absurd. |
-| 29 | [アルテタ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%86%e3%82%bf) | N/A |
-| 30 | [アオのハコ](http://twitter.com/search?q=%e3%82%a2%e3%82%aa%e3%81%ae%e3%83%8f%e3%82%b3) | N/A |
-| 31 | [カーティス](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%86%e3%82%a3%e3%82%b9) | N/A |
-| 32 | [ホールディング](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%ab%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | ホールディング is a Japanese term that refers to the ownership of a company or business by one or more individuals or entities. In English, it is often referred to as "holding company" or "parent company". |
-| 33 | [カナヲちゃん](http://twitter.com/search?q=%e3%82%ab%e3%83%8a%e3%83%b2%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 34 | [後藤さん](http://twitter.com/search?q=%e5%be%8c%e8%97%a4%e3%81%95%e3%82%93) | N/A |
-| 35 | [スターブロッサム](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%96%e3%83%ad%e3%83%83%e3%82%b5%e3%83%a0) | N/A |
-| 36 | [勝ち点1](http://twitter.com/search?q=%e5%8b%9d%e3%81%a1%e7%82%b91) | N/A |
-| 37 | [パワハラ会議](http://twitter.com/search?q=%e3%83%91%e3%83%af%e3%83%8f%e3%83%a9%e4%bc%9a%e8%ad%b0) | N/A |
-| 38 | [ファビーニョ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%93%e3%83%bc%e3%83%8b%e3%83%a7) | ファビーニョ is a Japanese onomatopoeia that expresses the sound of something being thrown away. In English, it could be translated as "thwack" or "toss". |
-| 39 | [鬼滅リアタイ](http://twitter.com/search?q=%e9%ac%bc%e6%bb%85%e3%83%aa%e3%82%a2%e3%82%bf%e3%82%a4) | N/A |
-| 40 | [海ちゃん](http://twitter.com/search?q=%e6%b5%b7%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 41 | [投票率の低さ](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e7%8e%87%e3%81%ae%e4%bd%8e%e3%81%95) | N/A |
-| 42 | [マンウィズ](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%82%a6%e3%82%a3%e3%82%ba) | マンウィズ is a Japanese manga series written and illustrated by Yuki Kodama. It follows the story of a young man named Manji, who is cursed with immortality and must fight against evil in order to atone for his past sins. The title of the series translates to "Man with a Sword" in English. |
-| 43 | [ウーデゴール](http://twitter.com/search?q=%e3%82%a6%e3%83%bc%e3%83%87%e3%82%b4%e3%83%bc%e3%83%ab) | ウーデゴール (Udego-ru) is a Japanese word that means "to go out and have fun". It is often used to describe a night out with friends or a night of partying. |
-| 44 | [甘露寺さん](http://twitter.com/search?q=%e7%94%98%e9%9c%b2%e5%af%ba%e3%81%95%e3%82%93) | N/A |
-| 45 | [トップ当選](http://twitter.com/search?q=%e3%83%88%e3%83%83%e3%83%97%e5%bd%93%e9%81%b8) | N/A |
-| 46 | [鬼滅の作画](http://twitter.com/search?q=%e9%ac%bc%e6%bb%85%e3%81%ae%e4%bd%9c%e7%94%bb) | N/A |
-| 47 | [ファンダイク](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%83%80%e3%82%a4%e3%82%af) | N/A |
-| 48 | [主題歌SixTONES](http://twitter.com/search?q=%e4%b8%bb%e9%a1%8c%e6%ad%8cSixTONES) | N/A |
-| 49 | [第444回](http://twitter.com/search?q=%e7%ac%ac444%e5%9b%9e) | N/A |
+| 1 | [グエル先輩](http://twitter.com/search?q=%e3%82%b0%e3%82%a8%e3%83%ab%e5%85%88%e8%bc%a9) | グエル先輩 (Guel Senpai) is a Japanese term used to refer to someone who is more experienced or knowledgeable than oneself. It is often used in the context of a mentor or teacher. In English, it could be translated as "Senior Guel" or "Guel the Mentor". |
+| 2 | [ターシャ](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%82%b7%e3%83%a3) | ターシャ is a Japanese female given name. It is derived from the English name Tasha, which is a diminutive of Natasha. In English, it can be translated to mean "born on Christmas Day". |
+| 3 | [借金完済](http://twitter.com/search?q=%e5%80%9f%e9%87%91%e5%ae%8c%e6%b8%88) | N/A |
+| 4 | [#jspocycle](http://twitter.com/search?q=%23jspocycle) | N/A |
+| 5 | [#frontale](http://twitter.com/search?q=%23frontale) | N/A |
+| 6 | [ラウダくん](http://twitter.com/search?q=%e3%83%a9%e3%82%a6%e3%83%80%e3%81%8f%e3%82%93) | N/A |
+| 7 | [#swallows](http://twitter.com/search?q=%23swallows) | N/A |
+| 8 | [地球の魔女](http://twitter.com/search?q=%e5%9c%b0%e7%90%83%e3%81%ae%e9%ad%94%e5%a5%b3) | 地球の魔女 (Chikyuu no Majo) is a Japanese manga series written and illustrated by Yumiko Oshima. It follows the story of a young witch named Kaya who lives on Earth and uses her magical powers to help people in need. The title translates to "Earth Witch" in English. |
+| 9 | [ヤクルト](http://twitter.com/search?q=%e3%83%a4%e3%82%af%e3%83%ab%e3%83%88) | N/A |
+| 10 | [ウェンデルケン](http://twitter.com/search?q=%e3%82%a6%e3%82%a7%e3%83%b3%e3%83%87%e3%83%ab%e3%82%b1%e3%83%b3) | N/A |
+| 11 | [#ビーコル](http://twitter.com/search?q=%23%e3%83%93%e3%83%bc%e3%82%b3%e3%83%ab) | N/A |
+| 12 | [フロンターレ](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%ac) | N/A |
+| 13 | [スレミオ](http://twitter.com/search?q=%e3%82%b9%e3%83%ac%e3%83%9f%e3%82%aa) | スレミオ (Sleimio) is a Japanese word that means "sleeping beauty". It is often used to describe someone who is sleeping soundly and peacefully. |
+| 14 | [#bellmare](http://twitter.com/search?q=%23bellmare) | N/A |
+| 15 | [ノイジー](http://twitter.com/search?q=%e3%83%8e%e3%82%a4%e3%82%b8%e3%83%bc) | N/A |
+| 16 | [まりほー](http://twitter.com/search?q=%e3%81%be%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
+| 17 | [メスガキ](http://twitter.com/search?q=%e3%83%a1%e3%82%b9%e3%82%ac%e3%82%ad) | N/A |
+| 18 | [強制送還](http://twitter.com/search?q=%e5%bc%b7%e5%88%b6%e9%80%81%e9%82%84) | N/A |
+| 19 | [投票証明書](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e8%a8%bc%e6%98%8e%e6%9b%b8) | N/A |
+| 20 | [阿修羅ちゃん](http://twitter.com/search?q=%e9%98%bf%e4%bf%ae%e7%be%85%e3%81%a1%e3%82%83%e3%82%93) | 阿修羅ちゃん is a Japanese nickname for the character Asura from the video game series Soulcalibur. It translates to "Asura-chan" in English. |
+| 21 | [借金返済](http://twitter.com/search?q=%e5%80%9f%e9%87%91%e8%bf%94%e6%b8%88) | N/A |
+| 22 | [パレード](http://twitter.com/search?q=%e3%83%91%e3%83%ac%e3%83%bc%e3%83%89) | パレード (Pareedo) is a Japanese word meaning "parade". It is used to refer to a procession of people or vehicles, usually accompanied by music, that moves along a street or other public area. It can also refer to a festive event featuring marching bands, floats, and other entertainment. |
+| 23 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
+| 24 | [リバティアイランド](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 25 | [コナコースト](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%82%b3%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
+| 26 | [イースター](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 27 | [スレッタ](http://twitter.com/search?q=%e3%82%b9%e3%83%ac%e3%83%83%e3%82%bf) | スレッタ (sretta) is a type of Japanese folk dance that originated in the Edo period. It is characterized by its fast tempo and lively movements, and is often accompanied by singing and clapping. In English, it is sometimes referred to as "Sretta Dance". |
+| 28 | [モリーナ](http://twitter.com/search?q=%e3%83%a2%e3%83%aa%e3%83%bc%e3%83%8a) | N/A |
+| 29 | [エルモソ](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%83%a2%e3%82%bd) | N/A |
+| 30 | [ペリファーニア](http://twitter.com/search?q=%e3%83%9a%e3%83%aa%e3%83%95%e3%82%a1%e3%83%bc%e3%83%8b%e3%82%a2) | ペリファーニア (Perifaniya) is a Japanese term for a person who is knowledgeable about a wide range of topics. It is derived from the Greek word "periphanes" which means "all-knowing". In English, it can be translated as "polymath" or "renaissance man/woman". |
+| 31 | [ドゥアイズ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%82%a2%e3%82%a4%e3%82%ba) | N/A |
+| 32 | [ライトクオンタム](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%88%e3%82%af%e3%82%aa%e3%83%b3%e3%82%bf%e3%83%a0) | ライトクオンタム (Raito Kuontamu) is a Japanese light novel series written by Kōhei Azano and illustrated by Tsunako. It follows the story of a group of high school students who are chosen to become "Light Quantum" and use their special powers to protect the world from evil forces. The title translates to "Light Quantum" in English. |
+| 33 | [第444回](http://twitter.com/search?q=%e7%ac%ac444%e5%9b%9e) | N/A |
+| 34 | [オークス](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%af%e3%82%b9) | N/A |
+| 35 | [チャニバン](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%8b%e3%83%90%e3%83%b3) | N/A |
+| 36 | [ハーパー](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%91%e3%83%bc) | N/A |
+| 37 | [モズメイメイ](http://twitter.com/search?q=%e3%83%a2%e3%82%ba%e3%83%a1%e3%82%a4%e3%83%a1%e3%82%a4) | N/A |
+| 38 | [ローレル](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%ac%e3%83%ab) | N/A |
+| 39 | [シンリョクカ](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%aa%e3%83%a7%e3%82%af%e3%82%ab) | N/A |
+| 40 | [全国一斉クイズ](http://twitter.com/search?q=%e5%85%a8%e5%9b%bd%e4%b8%80%e6%96%89%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
+| 41 | [ガンダム](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0) | ガンダム is a Japanese media franchise created by Sunrise that features giant robots (mecha) with the name "Gundam". The franchise began on April 7, 1979, with the release of Mobile Suit Gundam, a TV series that defined the "real robot" mecha anime genre by featuring giant robots called mobile suits in a militaristic setting. The term "Gundam" is used to refer to both the mecha and their pilots. In English, Gundam can be translated as "armored warrior". |
+| 42 | [レジエレキ](http://twitter.com/search?q=%e3%83%ac%e3%82%b8%e3%82%a8%e3%83%ac%e3%82%ad) | N/A |
+| 43 | [ハープスター](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%97%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 44 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
+| 45 | [セカンド松田](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%83%b3%e3%83%89%e6%9d%be%e7%94%b0) | N/A |
 
 
 

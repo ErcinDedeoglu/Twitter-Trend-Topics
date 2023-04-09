@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-04-09 19:17:39 UTC`
+📆 Last Updated: `2023-04-09 20:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 2 | [Mahomes](http://twitter.com/search?q=Mahomes) | Mahomes is a surname derived from the French name Mahomme, which means “man of the house”. It is most commonly associated with American football quarterback Patrick Mahomes, who plays for the Kansas City Chiefs. |
-| 3 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 6 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 7 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 9 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 10 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 11 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 12 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
-| 13 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 14 | [Haslem](http://twitter.com/search?q=Haslem) | N/A |
-| 15 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 16 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 17 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
-| 18 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 19 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 20 | [Pritchard](http://twitter.com/search?q=Pritchard) | Pritchard is a surname of English origin. It is derived from the Old English personal name Prichard, which means "strong" or "brave". |
-| 21 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 22 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
-| 23 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
-| 24 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 25 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
-| 26 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 27 | [Franchy Cordero](http://twitter.com/search?q=Franchy+Cordero) | N/A |
-| 28 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 29 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 30 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 31 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 32 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 33 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 34 | [Albert Abreu](http://twitter.com/search?q=Albert+Abreu) | N/A |
-| 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 36 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 37 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 38 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 39 | [Dusty Wathan](http://twitter.com/search?q=Dusty+Wathan) | N/A |
-| 40 | [Hauser](http://twitter.com/search?q=Hauser) | N/A |
-| 41 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 42 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 43 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
-| 44 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 45 | [Happy Resurrection](http://twitter.com/search?q=Happy+Resurrection) | N/A |
-| 46 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 47 | [Taillon](http://twitter.com/search?q=Taillon) | N/A |
+| 1 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 2 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 5 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 6 | [Udonis Haslem](http://twitter.com/search?q=Udonis+Haslem) | N/A |
+| 7 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 8 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 9 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 10 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 11 | [Brennan](http://twitter.com/search?q=Brennan) | N/A |
+| 12 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 13 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 14 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 15 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 16 | [Albert Abreu](http://twitter.com/search?q=Albert+Abreu) | N/A |
+| 17 | [Dwane Casey](http://twitter.com/search?q=Dwane+Casey) | N/A |
+| 18 | [Payton Pritchard](http://twitter.com/search?q=Payton+Pritchard) | N/A |
+| 19 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
+| 20 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
+| 21 | [Jimmy Cordero](http://twitter.com/search?q=Jimmy+Cordero) | N/A |
+| 22 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 23 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
+| 24 | [#ATOBTTR](http://twitter.com/search?q=%23ATOBTTR) | N/A |
+| 25 | [Josh Bell](http://twitter.com/search?q=Josh+Bell) | N/A |
+| 26 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 27 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
+| 28 | [Kimbrel](http://twitter.com/search?q=Kimbrel) | Kimbrel is a surname of German origin. It is derived from the Old German word "kimbar" which means "warrior". In English, it can be translated to mean "brave warrior". |
+| 29 | [Seranthony](http://twitter.com/search?q=Seranthony) | N/A |
+| 30 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 31 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
+| 32 | [Hunter Brown](http://twitter.com/search?q=Hunter+Brown) | N/A |
+| 33 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
+| 34 | [Seby](http://twitter.com/search?q=Seby) | N/A |
+| 35 | [George Kirby](http://twitter.com/search?q=George+Kirby) | N/A |
+| 36 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 37 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
+| 38 | [BED BUGS](http://twitter.com/search?q=BED+BUGS) | N/A |
+| 39 | [Woosung](http://twitter.com/search?q=Woosung) | N/A |
+| 40 | [Chas McCormick](http://twitter.com/search?q=Chas+McCormick) | N/A |
+| 41 | [Knizner](http://twitter.com/search?q=Knizner) | N/A |
+| 42 | [Bubba Thompson](http://twitter.com/search?q=Bubba+Thompson) | N/A |
+| 43 | [Rake Fraley](http://twitter.com/search?q=Rake+Fraley) | N/A |
+| 44 | [Cantlay](http://twitter.com/search?q=Cantlay) | N/A |
+| 45 | [Triston Casas](http://twitter.com/search?q=Triston+Casas) | N/A |
+| 46 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 47 | [Kenny Atkinson](http://twitter.com/search?q=Kenny+Atkinson) | N/A |
 | 48 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
-| 49 | [Game 82](http://twitter.com/search?q=Game+82) | N/A |
-| 50 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
 
 
 
