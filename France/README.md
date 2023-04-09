@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-04-09 15:17:20 UTC`
+📆 Last Updated: `2023-04-09 16:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 2 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 3 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 4 | [#OGCNPSG](http://twitter.com/search?q=%23OGCNPSG) | N/A |
-| 5 | [#Marseille](http://twitter.com/search?q=%23Marseille) | N/A |
-| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 7 | [Tivoli](http://twitter.com/search?q=Tivoli) | N/A |
-| 8 | [#MusicBankParis](http://twitter.com/search?q=%23MusicBankParis) | N/A |
-| 9 | [#MrR4bb1tLeGOAT](http://twitter.com/search?q=%23MrR4bb1tLeGOAT) | N/A |
-| 10 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 11 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 12 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 13 | [Premier Anime](http://twitter.com/search?q=Premier+Anime) | N/A |
-| 14 | [Dernier Anime](http://twitter.com/search?q=Dernier+Anime) | N/A |
-| 15 | [Pire Anime](http://twitter.com/search?q=Pire+Anime) | N/A |
-| 16 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 17 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 18 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 19 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 20 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 21 | [Doran](http://twitter.com/search?q=Doran) | N/A |
-| 22 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 23 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 24 | [Françoise Hardy](http://twitter.com/search?q=Fran%c3%a7oise+Hardy) | N/A |
-| 25 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
-| 26 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
-| 27 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 28 | [Aubagne](http://twitter.com/search?q=Aubagne) | N/A |
-| 29 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 30 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 31 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 32 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 33 | [Marseillais](http://twitter.com/search?q=Marseillais) | N/A |
-| 34 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 35 | [Le Christ](http://twitter.com/search?q=Le+Christ) | N/A |
-| 36 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 37 | [Todibo](http://twitter.com/search?q=Todibo) | N/A |
-| 38 | [Soler](http://twitter.com/search?q=Soler) | Soler is a Spanish verb meaning "to be able to" or "to know how to". It is used to express the ability to do something, either physically or mentally. For example, "Yo sé soler nadar" means "I know how to swim". |
-| 39 | [Angers](http://twitter.com/search?q=Angers) | Angers is a city in western France, located on the Maine River. It is the capital of the Maine-et-Loire department and the historic capital of Anjou. The meaning of Angers in English is "anger". |
-| 40 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 41 | [Debré](http://twitter.com/search?q=Debr%c3%a9) | N/A |
-| 42 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 43 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 44 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
-| 45 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 46 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 47 | [Eminem](http://twitter.com/search?q=Eminem) | N/A |
-| 48 | [Bastia](http://twitter.com/search?q=Bastia) | N/A |
-| 49 | [Rodriguez](http://twitter.com/search?q=Rodriguez) | N/A |
-| 50 | [Nuno Mendes](http://twitter.com/search?q=Nuno+Mendes) | N/A |
+| 1 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 2 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [#LGBTQIASunbeam](http://twitter.com/search?q=%23LGBTQIASunbeam) | N/A |
+| 5 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 6 | [#FCNASM](http://twitter.com/search?q=%23FCNASM) | N/A |
+| 7 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
+| 8 | [Van Djik](http://twitter.com/search?q=Van+Djik) | N/A |
+| 9 | [#MHSCTFC](http://twitter.com/search?q=%23MHSCTFC) | N/A |
+| 10 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 11 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 12 | [Philipsen](http://twitter.com/search?q=Philipsen) | N/A |
+| 13 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 14 | [Degenkolb](http://twitter.com/search?q=Degenkolb) | N/A |
+| 15 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
+| 16 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 17 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 18 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 19 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 20 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 21 | [Françoise Hardy](http://twitter.com/search?q=Fran%c3%a7oise+Hardy) | N/A |
+| 22 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 23 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 24 | [Genesio](http://twitter.com/search?q=Genesio) | N/A |
+| 25 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 26 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 27 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 28 | [Genreau](http://twitter.com/search?q=Genreau) | N/A |
+| 29 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
+| 30 | [La Rochelle](http://twitter.com/search?q=La+Rochelle) | N/A |
+| 31 | [Troyes](http://twitter.com/search?q=Troyes) | Troyes is a city in northeastern France. It is the capital of the Aube department in the Grand Est region. The name Troyes comes from the Latin word "Tricassium", which means "three roads". In English, Troyes can be translated to mean "three roads". |
+| 32 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 33 | [HOBI](http://twitter.com/search?q=HOBI) | N/A |
+| 34 | [Zlan](http://twitter.com/search?q=Zlan) | N/A |
+| 35 | [Auxerre](http://twitter.com/search?q=Auxerre) | N/A |
+| 36 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 37 | [Étrange](http://twitter.com/search?q=%c3%89trange) | N/A |
+| 38 | [Ajaccio](http://twitter.com/search?q=Ajaccio) | N/A |
+| 39 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 40 | [Doué](http://twitter.com/search?q=Dou%c3%a9) | N/A |
+| 41 | [Delort](http://twitter.com/search?q=Delort) | N/A |
+| 42 | [Gouiri](http://twitter.com/search?q=Gouiri) | N/A |
+| 43 | [Barcola](http://twitter.com/search?q=Barcola) | N/A |
+| 44 | [Terrier](http://twitter.com/search?q=Terrier) | Terrier is a type of dog breed that is known for its intelligence, loyalty, and energy. They are typically small to medium-sized dogs with short coats and long legs. The name "terrier" comes from the Latin word terra, meaning "earth," as these dogs were originally bred to hunt small animals that lived in burrows underground. |
+| 45 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
+| 46 | [Benoît Paire](http://twitter.com/search?q=Beno%c3%aet+Paire) | N/A |
+| 47 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 48 | [Tivoli](http://twitter.com/search?q=Tivoli) | N/A |
+| 49 | [Nawell Madani](http://twitter.com/search?q=Nawell+Madani) | N/A |
+| 50 | [Cravity](http://twitter.com/search?q=Cravity) | N/A |
 
 
 

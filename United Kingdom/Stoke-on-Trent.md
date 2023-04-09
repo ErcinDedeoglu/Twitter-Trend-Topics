@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-04-09 15:16:36 UTC`
+📆 Last Updated: `2023-04-09 16:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ToriesOut276](http://twitter.com/search?q=%23ToriesOut276) | N/A |
-| 2 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 3 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 4 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 6 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 7 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 8 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 9 | [Pasg Hapus](http://twitter.com/search?q=Pasg+Hapus) | N/A |
-| 10 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
-| 11 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 12 | [Wordle](http://twitter.com/search?q=Wordle) | N/A |
-| 13 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 15 | [Israel Adesanya](http://twitter.com/search?q=Israel+Adesanya) | N/A |
-| 16 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
-| 17 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 18 | [Douglas Ross](http://twitter.com/search?q=Douglas+Ross) | N/A |
-| 19 | [Alleluia](http://twitter.com/search?q=Alleluia) | N/A |
-| 20 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 21 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
-| 22 | [Daily Quordle 440](http://twitter.com/search?q=Daily+Quordle+440) | N/A |
-| 23 | [Myra Hindley](http://twitter.com/search?q=Myra+Hindley) | N/A |
-| 24 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
-| 25 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 26 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 27 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 28 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 29 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 30 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 31 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 32 | [Corruption](http://twitter.com/search?q=Corruption) | N/A |
-| 33 | [Ding](http://twitter.com/search?q=Ding) | N/A |
-| 34 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
-| 35 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
-| 36 | [#SocialistSunday](http://twitter.com/search?q=%23SocialistSunday) | N/A |
-| 37 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 38 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 39 | [#امپورٹڈ_حکومت_نامنظور](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%be%d9%88%d8%b1%d9%b9%da%88_%d8%ad%da%a9%d9%88%d9%85%d8%aa_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
-| 40 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
-| 41 | [#Jesus](http://twitter.com/search?q=%23Jesus) | N/A |
-| 42 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
-| 43 | [#GiftBetter](http://twitter.com/search?q=%23GiftBetter) | N/A |
+| 1 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 2 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 3 | [schlupp](http://twitter.com/search?q=schlupp) | N/A |
+| 4 | [Guehi](http://twitter.com/search?q=Guehi) | N/A |
+| 5 | [#TeamPOGradio](http://twitter.com/search?q=%23TeamPOGradio) | N/A |
+| 6 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
+| 7 | [Ashroe Diamond](http://twitter.com/search?q=Ashroe+Diamond) | N/A |
+| 8 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 9 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 10 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 11 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 12 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 13 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 14 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 15 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 17 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 18 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
+| 19 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 20 | [#LEECRY](http://twitter.com/search?q=%23LEECRY) | N/A |
+| 21 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 22 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 23 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
+| 24 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 25 | [Van Disney](http://twitter.com/search?q=Van+Disney) | Van Disney is a term used to describe the merchandise and products associated with the Disney brand. It is often used to refer to items that are sold in Disney stores or online, such as toys, clothing, and other memorabilia. The term is derived from the name of Walt Disney's first animation studio, which was called "The Van Beuren Studio." |
+| 26 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 27 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 28 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 29 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 30 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 31 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
+| 32 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 33 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 34 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 35 | [La Rochelle](http://twitter.com/search?q=La+Rochelle) | N/A |
+| 36 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 37 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
+| 38 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
+| 39 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 40 | [Van Djik](http://twitter.com/search?q=Van+Djik) | N/A |
+| 41 | [Andrew Brace](http://twitter.com/search?q=Andrew+Brace) | N/A |
+| 42 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 43 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 44 | [Van Dyke](http://twitter.com/search?q=Van+Dyke) | N/A |
+| 45 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 46 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 47 | [Rinku Singh](http://twitter.com/search?q=Rinku+Singh) | N/A |
+| 48 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 49 | [Sam Johnstone](http://twitter.com/search?q=Sam+Johnstone) | N/A |
+| 50 | [Paul Tierney](http://twitter.com/search?q=Paul+Tierney) | N/A |
 
 
 

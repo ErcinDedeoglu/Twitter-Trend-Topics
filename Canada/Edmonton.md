@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-04-09 15:16:34 UTC`
+📆 Last Updated: `2023-04-09 16:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 2 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 2 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 3 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 4 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 5 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 6 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
-| 7 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 10 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 11 | [Bo Horvat](http://twitter.com/search?q=Bo+Horvat) | N/A |
-| 12 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
-| 13 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 14 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 15 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 16 | [ebug](http://twitter.com/search?q=ebug) | N/A |
-| 17 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 18 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 19 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
-| 20 | [wayne simmonds](http://twitter.com/search?q=wayne+simmonds) | N/A |
-| 21 | [Chris Wideman](http://twitter.com/search?q=Chris+Wideman) | N/A |
-| 22 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 23 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 24 | [Habs](http://twitter.com/search?q=Habs) | N/A |
-| 25 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
-| 26 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 27 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 28 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 29 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
-| 30 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 31 | [marner](http://twitter.com/search?q=marner) | N/A |
-| 32 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 33 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 34 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 35 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 36 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
-| 37 | [chris bassitt](http://twitter.com/search?q=chris+bassitt) | N/A |
-| 38 | [saputo](http://twitter.com/search?q=saputo) | N/A |
-| 39 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 40 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 41 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 42 | [200k in eth](http://twitter.com/search?q=200k+in+eth) | N/A |
-| 43 | [MEV Bot](http://twitter.com/search?q=MEV+Bot) | N/A |
-| 44 | [demers](http://twitter.com/search?q=demers) | N/A |
-| 45 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 46 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 47 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 48 | [losada](http://twitter.com/search?q=losada) | N/A |
-| 49 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 50 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 7 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
+| 8 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 9 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 10 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 11 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 12 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 13 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 14 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 15 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 16 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 17 | [Wideman](http://twitter.com/search?q=Wideman) | N/A |
+| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 19 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
+| 20 | [EBUG](http://twitter.com/search?q=EBUG) | N/A |
+| 21 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 22 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 23 | [Habs](http://twitter.com/search?q=Habs) | N/A |
+| 24 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 25 | [Jett Alexander](http://twitter.com/search?q=Jett+Alexander) | N/A |
+| 26 | [#KKRvsGT](http://twitter.com/search?q=%23KKRvsGT) | N/A |
+| 27 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 28 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 29 | [Kevin holland](http://twitter.com/search?q=Kevin+holland) | N/A |
+| 30 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 31 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 32 | [#itsbudtime](http://twitter.com/search?q=%23itsbudtime) | N/A |
+| 33 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 34 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 35 | [Bo Horvat](http://twitter.com/search?q=Bo+Horvat) | N/A |
+| 36 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
+| 37 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 38 | [Rinku Singh](http://twitter.com/search?q=Rinku+Singh) | N/A |
+| 39 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 40 | [gastelum](http://twitter.com/search?q=gastelum) | N/A |
+| 41 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
+| 42 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 43 | [Chris Bassitt](http://twitter.com/search?q=Chris+Bassitt) | N/A |
+| 44 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 45 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 46 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 47 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 48 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 49 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 50 | [demers](http://twitter.com/search?q=demers) | N/A |
 
 
 

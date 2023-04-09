@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-04-09 15:16:43 UTC`
+📆 Last Updated: `2023-04-09 16:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
-| 3 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
-| 4 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 5 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 6 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 8 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
-| 9 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
-| 10 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 11 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 12 | [Abra o Spotify](http://twitter.com/search?q=Abra+o+Spotify) | N/A |
-| 13 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
-| 14 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
-| 15 | [#provadoanjo](http://twitter.com/search?q=%23provadoanjo) | N/A |
-| 16 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 17 | [Doran](http://twitter.com/search?q=Doran) | N/A |
-| 18 | [#caldeirão](http://twitter.com/search?q=%23caldeir%c3%a3o) | N/A |
-| 19 | [Vuaden](http://twitter.com/search?q=Vuaden) | N/A |
-| 20 | [Galeão](http://twitter.com/search?q=Gale%c3%a3o) | Galeão is a Portuguese word that refers to a large sailing ship. In English, it can be translated as "galleon". |
-| 21 | [#altashoras](http://twitter.com/search?q=%23altashoras) | #Altashoras is a Spanish hashtag that translates to "high hours" in English. It is used to refer to the time of day when the sun is at its highest point in the sky, usually around noon. |
-| 22 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 23 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 24 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 25 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 26 | [m&m no ratinho](http://twitter.com/search?q=m%26m+no+ratinho) | N/A |
-| 27 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 28 | [pitty](http://twitter.com/search?q=pitty) | N/A |
-| 29 | [fernando miguel](http://twitter.com/search?q=fernando+miguel) | N/A |
-| 30 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 31 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 32 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 33 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 34 | [#ufcbr](http://twitter.com/search?q=%23ufcbr) | N/A |
-| 35 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 36 | [KHALIL](http://twitter.com/search?q=KHALIL) | N/A |
-| 37 | [ELE VIVE](http://twitter.com/search?q=ELE+VIVE) | N/A |
-| 38 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 39 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 40 | [diogo barbosa](http://twitter.com/search?q=diogo+barbosa) | N/A |
-| 41 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 42 | [steloisa em alerta](http://twitter.com/search?q=steloisa+em+alerta) | N/A |
-| 43 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 44 | [Lacta](http://twitter.com/search?q=Lacta) | N/A |
-| 45 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 46 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 47 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 48 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 49 | [GenG](http://twitter.com/search?q=GenG) | N/A |
-| 50 | [olha a bomba](http://twitter.com/search?q=olha+a+bomba) | N/A |
+| 1 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 2 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 3 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 4 | [Gabriel Jesus](http://twitter.com/search?q=Gabriel+Jesus) | Gabriel Jesus is a Brazilian professional footballer who plays as a forward for Premier League club Manchester City and the Brazil national team. His name in English translates to "God is my salvation". |
+| 5 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 6 | [#PremiereLeagueNaESPN](http://twitter.com/search?q=%23PremiereLeagueNaESPN) | N/A |
+| 7 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 8 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 9 | [ELE VIVE](http://twitter.com/search?q=ELE+VIVE) | N/A |
+| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 11 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 12 | [coelho](http://twitter.com/search?q=coelho) | Coelho is a Portuguese word meaning "rabbit". |
+| 13 | [#D_DayTracklist](http://twitter.com/search?q=%23D_DayTracklist) | N/A |
+| 14 | [DO YOU WANT TO BE FORGIVEN](http://twitter.com/search?q=DO+YOU+WANT+TO+BE+FORGIVEN) | N/A |
+| 15 | [#UNFORGIVEN_AlbumTrailer](http://twitter.com/search?q=%23UNFORGIVEN_AlbumTrailer) | N/A |
+| 16 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 17 | [#LESSERAFIM_UNFORGIVEN](http://twitter.com/search?q=%23LESSERAFIM_UNFORGIVEN) | N/A |
+| 18 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 19 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 20 | [ARMY READY FOR D DAY TRACKLIST](http://twitter.com/search?q=ARMY+READY+FOR+D+DAY+TRACKLIST) | N/A |
+| 21 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 22 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 23 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 24 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 25 | [I FEEL GIDDY](http://twitter.com/search?q=I+FEEL+GIDDY) | N/A |
+| 26 | [D DAY TRACKLIST IS COMING](http://twitter.com/search?q=D+DAY+TRACKLIST+IS+COMING) | N/A |
+| 27 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 28 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 29 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 30 | [Ganhei](http://twitter.com/search?q=Ganhei) | N/A |
+| 31 | [Kep1er](http://twitter.com/search?q=Kep1er) | N/A |
+| 32 | [Chevette](http://twitter.com/search?q=Chevette) | N/A |
+| 33 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 34 | [Belém do Pará](http://twitter.com/search?q=Bel%c3%a9m+do+Par%c3%a1) | N/A |
+| 35 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 36 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 37 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 38 | [Enchanted](http://twitter.com/search?q=Enchanted) | N/A |
+| 39 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 40 | [Monza](http://twitter.com/search?q=Monza) | N/A |
+| 41 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 42 | [Esporte Espetacular](http://twitter.com/search?q=Esporte+Espetacular) | N/A |
+| 43 | [Bacabal](http://twitter.com/search?q=Bacabal) | N/A |
+| 44 | [Magrão](http://twitter.com/search?q=Magr%c3%a3o) | N/A |
+| 45 | [ELE REINA](http://twitter.com/search?q=ELE+REINA) | N/A |
+| 46 | [Feliz Natal](http://twitter.com/search?q=Feliz+Natal) | Feliz Natal is a Portuguese phrase meaning "Merry Christmas". It is commonly used in Brazil and other Portuguese-speaking countries during the holiday season. |
+| 47 | [D-Day](http://twitter.com/search?q=D-Day) | N/A |
+| 48 | [Mais Médicos](http://twitter.com/search?q=Mais+M%c3%a9dicos) | N/A |
+| 49 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 50 | [O Rei](http://twitter.com/search?q=O+Rei) | N/A |
 
 
 

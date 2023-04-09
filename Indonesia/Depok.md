@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-04-09 15:16:51 UTC`
+📆 Last Updated: `2023-04-09 16:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#1000BungaApresiasiET](http://twitter.com/search?q=%231000BungaApresiasiET) | N/A |
-| 2 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
-| 3 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 4 | [#Who_XIUMINxEUNHA](http://twitter.com/search?q=%23Who_XIUMINxEUNHA) | N/A |
-| 5 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
-| 6 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 7 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
-| 8 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
-| 9 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
-| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
-| 12 | [Lazada](http://twitter.com/search?q=Lazada) | N/A |
-| 13 | [Mas Adam](http://twitter.com/search?q=Mas+Adam) | N/A |
-| 14 | [TNI AU](http://twitter.com/search?q=TNI+AU) | N/A |
-| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 16 | [1 Rupiah](http://twitter.com/search?q=1+Rupiah) | N/A |
-| 17 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 18 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 19 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
-| 20 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 21 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 23 | [STREAMING CHAIN](http://twitter.com/search?q=STREAMING+CHAIN) | N/A |
-| 24 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 25 | [Kokas](http://twitter.com/search?q=Kokas) | N/A |
-| 26 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 27 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
-| 28 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 29 | [Love Me Right](http://twitter.com/search?q=Love+Me+Right) | N/A |
-| 30 | [Kristus](http://twitter.com/search?q=Kristus) | N/A |
-| 31 | [Panas](http://twitter.com/search?q=Panas) | N/A |
-| 32 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
-| 33 | [#BukaAjaBukalapak](http://twitter.com/search?q=%23BukaAjaBukalapak) | N/A |
-| 34 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
-| 35 | [#ApologizeToMatthew](http://twitter.com/search?q=%23ApologizeToMatthew) | N/A |
-| 36 | [#IDGLIVvsARS](http://twitter.com/search?q=%23IDGLIVvsARS) | N/A |
-| 37 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
-| 38 | [#NarwhalFinance](http://twitter.com/search?q=%23NarwhalFinance) | N/A |
-| 39 | [#TimeForEXO](http://twitter.com/search?q=%23TimeForEXO) | N/A |
-| 40 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
-| 41 | [#IKNNusantara](http://twitter.com/search?q=%23IKNNusantara) | N/A |
-| 42 | [#BukberTanpaWacana](http://twitter.com/search?q=%23BukberTanpaWacana) | N/A |
-| 43 | [#LISAパワフルステージin東京](http://twitter.com/search?q=%23LISA%e3%83%91%e3%83%af%e3%83%95%e3%83%ab%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b8in%e6%9d%b1%e4%ba%ac) | N/A |
+| 1 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 2 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 3 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 4 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 5 | [#NCTzenSelcaDay](http://twitter.com/search?q=%23NCTzenSelcaDay) | N/A |
+| 6 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 7 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 8 | [DO YOU WANT TO BE FORGIVEN](http://twitter.com/search?q=DO+YOU+WANT+TO+BE+FORGIVEN) | N/A |
+| 9 | [#LESSERAFIM_UNFORGIVEN](http://twitter.com/search?q=%23LESSERAFIM_UNFORGIVEN) | N/A |
+| 10 | [#UNFORGIVEN_AlbumTrailer](http://twitter.com/search?q=%23UNFORGIVEN_AlbumTrailer) | N/A |
+| 11 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 12 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 13 | [Persib](http://twitter.com/search?q=Persib) | N/A |
+| 14 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 15 | [Zayyan](http://twitter.com/search?q=Zayyan) | N/A |
+| 16 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 17 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 18 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 19 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 20 | [Butut](http://twitter.com/search?q=Butut) | N/A |
+| 21 | [KIM WOOSUNG](http://twitter.com/search?q=KIM+WOOSUNG) | N/A |
+| 22 | [I FEEL GIDDY](http://twitter.com/search?q=I+FEEL+GIDDY) | N/A |
+| 23 | [ARMY READY FOR D DAY TRACKLIST](http://twitter.com/search?q=ARMY+READY+FOR+D+DAY+TRACKLIST) | N/A |
+| 24 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 25 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 26 | [D DAY TRACKLIST IS COMING](http://twitter.com/search?q=D+DAY+TRACKLIST+IS+COMING) | N/A |
+| 27 | [Almond](http://twitter.com/search?q=Almond) | N/A |
+| 28 | [PEOPLE PT2 PARTY](http://twitter.com/search?q=PEOPLE+PT2+PARTY) | N/A |
+| 29 | [Persita](http://twitter.com/search?q=Persita) | N/A |
+| 30 | [JENO DESERVES BETTER](http://twitter.com/search?q=JENO+DESERVES+BETTER) | N/A |
+| 31 | [Ripuh](http://twitter.com/search?q=Ripuh) | N/A |
+| 32 | [IVE FIRST ALBUM IS COMING](http://twitter.com/search?q=IVE+FIRST+ALBUM+IS+COMING) | N/A |
+| 33 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 34 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
+| 35 | [Bubuk](http://twitter.com/search?q=Bubuk) | N/A |
+| 36 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 37 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 38 | [Onic](http://twitter.com/search?q=Onic) | N/A |
+| 39 | [NT Evos](http://twitter.com/search?q=NT+Evos) | N/A |
+| 40 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 41 | [Mas Adam](http://twitter.com/search?q=Mas+Adam) | N/A |
+| 42 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 43 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 44 | [jeno milan](http://twitter.com/search?q=jeno+milan) | N/A |
+| 45 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 46 | [Bakri](http://twitter.com/search?q=Bakri) | N/A |
+| 47 | [Bagas](http://twitter.com/search?q=Bagas) | N/A |
+| 48 | [Jasmine](http://twitter.com/search?q=Jasmine) | N/A |
+| 49 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
 
 
 

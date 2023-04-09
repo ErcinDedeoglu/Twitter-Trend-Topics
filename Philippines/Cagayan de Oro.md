@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-04-09 15:16:58 UTC`
+📆 Last Updated: `2023-04-09 16:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [SAKURA MOMENTS WITHKDLEX](http://twitter.com/search?q=SAKURA+MOMENTS+WITHKDLEX) | N/A |
-| 2 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 3 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
-| 4 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
-| 5 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 6 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
-| 7 | [#Who_XIUMINxEUNHA](http://twitter.com/search?q=%23Who_XIUMINxEUNHA) | N/A |
-| 8 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
-| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 11 | [Doran](http://twitter.com/search?q=Doran) | N/A |
-| 12 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 13 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 14 | [GABBLUKE MOSHIES ANNIVERSARY](http://twitter.com/search?q=GABBLUKE+MOSHIES+ANNIVERSARY) | N/A |
-| 15 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 16 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 17 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 18 | [Suho](http://twitter.com/search?q=Suho) | N/A |
-| 19 | [Araw](http://twitter.com/search?q=Araw) | N/A |
-| 20 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
-| 21 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 22 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
-| 23 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
-| 24 | [#ACEsOur2ndAnniversary](http://twitter.com/search?q=%23ACEsOur2ndAnniversary) | N/A |
-| 25 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
-| 26 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 27 | [#T1Fighting](http://twitter.com/search?q=%23T1Fighting) | N/A |
-| 28 | [#INKSteaDAY](http://twitter.com/search?q=%23INKSteaDAY) | N/A |
-| 29 | [#BelleMariano](http://twitter.com/search?q=%23BelleMariano) | N/A |
-| 30 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
-| 31 | [#PARKEUNBIN](http://twitter.com/search?q=%23PARKEUNBIN) | N/A |
-| 32 | [#EUNBINNOTE_HIBINGO](http://twitter.com/search?q=%23EUNBINNOTE_HIBINGO) | N/A |
-| 33 | [#BOYCOTTEBxAPTxGMA760](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA760) | N/A |
-| 34 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
-| 35 | [#DONBELLEmpire](http://twitter.com/search?q=%23DONBELLEmpire) | N/A |
-| 36 | [#MHMA2023FELIPSUSON](http://twitter.com/search?q=%23MHMA2023FELIPSUSON) | N/A |
-| 37 | [#ASAPalive](http://twitter.com/search?q=%23ASAPalive) | N/A |
-| 38 | [#AlJay](http://twitter.com/search?q=%23AlJay) | N/A |
+| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 2 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 3 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 4 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 5 | [#UNFORGIVEN_AlbumTrailer](http://twitter.com/search?q=%23UNFORGIVEN_AlbumTrailer) | N/A |
+| 6 | [DO YOU WANT TO BE FORGIVEN](http://twitter.com/search?q=DO+YOU+WANT+TO+BE+FORGIVEN) | N/A |
+| 7 | [#Giddy_MV_RELEASED](http://twitter.com/search?q=%23Giddy_MV_RELEASED) | N/A |
+| 8 | [WE LOVE YOU BELLE](http://twitter.com/search?q=WE+LOVE+YOU+BELLE) | N/A |
+| 9 | [I FEEL GIDDY](http://twitter.com/search?q=I+FEEL+GIDDY) | N/A |
+| 10 | [#Giddy_MV配信開始](http://twitter.com/search?q=%23Giddy_MV%e9%85%8d%e4%bf%a1%e9%96%8b%e5%a7%8b) | N/A |
+| 11 | [#SB19SummerSpecialDunkinPH](http://twitter.com/search?q=%23SB19SummerSpecialDunkinPH) | N/A |
+| 12 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 13 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 14 | [#D_DayTracklist](http://twitter.com/search?q=%23D_DayTracklist) | N/A |
+| 15 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 16 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
+| 17 | [Belle Mariano](http://twitter.com/search?q=Belle+Mariano) | N/A |
+| 18 | [D DAY TRACKLIST IS COMING](http://twitter.com/search?q=D+DAY+TRACKLIST+IS+COMING) | N/A |
+| 19 | [31MONTHS WITH BRENTMANALO](http://twitter.com/search?q=31MONTHS+WITH+BRENTMANALO) | N/A |
+| 20 | [ARMY READY FOR D DAY TRACKLIST](http://twitter.com/search?q=ARMY+READY+FOR+D+DAY+TRACKLIST) | N/A |
+| 21 | [HAPPY BIRTHDAY BOSS](http://twitter.com/search?q=HAPPY+BIRTHDAY+BOSS) | N/A |
+| 22 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 23 | [SAKURA MOMENTS WITHKDLEX](http://twitter.com/search?q=SAKURA+MOMENTS+WITHKDLEX) | N/A |
+| 24 | [chaewon](http://twitter.com/search?q=chaewon) | N/A |
+| 25 | [Eunkwang](http://twitter.com/search?q=Eunkwang) | N/A |
+| 26 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 27 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
+| 28 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 29 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 30 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
+| 31 | [Ninang](http://twitter.com/search?q=Ninang) | N/A |
+| 32 | [ACEs STRONGER 2GETHER](http://twitter.com/search?q=ACEs+STRONGER+2GETHER) | N/A |
+| 33 | [LET ME](http://twitter.com/search?q=LET+ME) | N/A |
+| 34 | [#NCTzenSelcaDay](http://twitter.com/search?q=%23NCTzenSelcaDay) | N/A |
+| 35 | [#KkobugiPHTDS2Giveaway](http://twitter.com/search?q=%23KkobugiPHTDS2Giveaway) | N/A |
+| 36 | [#IveIVE_HIGHLIGHTMEDLEY](http://twitter.com/search?q=%23IveIVE_HIGHLIGHTMEDLEY) | N/A |
+| 37 | [#GGCKultoNiRon](http://twitter.com/search?q=%23GGCKultoNiRon) | N/A |
+| 38 | [#donbellempire](http://twitter.com/search?q=%23donbellempire) | N/A |
+| 39 | [#JohnCanSeeYourVoice](http://twitter.com/search?q=%23JohnCanSeeYourVoice) | N/A |
+| 40 | [#TheClash3On3](http://twitter.com/search?q=%23TheClash3On3) | N/A |
+| 41 | [#LE_SSERAFIM](http://twitter.com/search?q=%23LE_SSERAFIM) | N/A |
+| 42 | [#7YearsWithNCT](http://twitter.com/search?q=%237YearsWithNCT) | N/A |
+| 43 | [#HUENING_BAHIYYIH](http://twitter.com/search?q=%23HUENING_BAHIYYIH) | N/A |
+| 44 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 45 | [#kentin](http://twitter.com/search?q=%23kentin) | N/A |
+| 46 | [#LeeJongSukInManila](http://twitter.com/search?q=%23LeeJongSukInManila) | N/A |
+| 47 | [#Easter](http://twitter.com/search?q=%23Easter) | N/A |
+| 48 | [#TREASURE_HELLO_ASIA_TOUR](http://twitter.com/search?q=%23TREASURE_HELLO_ASIA_TOUR) | N/A |
+| 49 | [#아이해브아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ed%95%b4%eb%b8%8c%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
+| 50 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
 
 
 

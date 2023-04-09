@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-04-09 15:17:20 UTC`
+📆 Last Updated: `2023-04-09 16:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Ireland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 3 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 4 | [Cásca](http://twitter.com/search?q=C%c3%a1sca) | N/A |
-| 5 | [#MUNEVE](http://twitter.com/search?q=%23MUNEVE) | #MUNEVE is a hashtag used to promote the Muneve app, which is an online platform that helps people find and book beauty services. The hashtag is used to share user experiences, tips, and advice related to beauty services. In English, #MUNEVE means "My Beauty Experience". |
-| 6 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 7 | [#leivlei](http://twitter.com/search?q=%23leivlei) | N/A |
-| 8 | [#usairl](http://twitter.com/search?q=%23usairl) | N/A |
-| 9 | [#COYGIG](http://twitter.com/search?q=%23COYGIG) | N/A |
-| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 11 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 12 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 13 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 14 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 15 | [Gaelic Park](http://twitter.com/search?q=Gaelic+Park) | N/A |
-| 16 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 17 | [Bronx](http://twitter.com/search?q=Bronx) | N/A |
-| 18 | [Kyogo](http://twitter.com/search?q=Kyogo) | Kyogo is a Japanese term that translates to "experience" or "practice". It is often used to refer to the practice of gaining knowledge and experience through hands-on learning. |
-| 19 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
-| 20 | [Joan](http://twitter.com/search?q=Joan) | N/A |
-| 21 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 22 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 23 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 24 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
-| 25 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 26 | [joe mcdonagh](http://twitter.com/search?q=joe+mcdonagh) | N/A |
-| 27 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 28 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 29 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 30 | [Lee Chin](http://twitter.com/search?q=Lee+Chin) | N/A |
-| 31 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
-| 32 | [Fine Gael](http://twitter.com/search?q=Fine+Gael) | N/A |
-| 33 | [May God](http://twitter.com/search?q=May+God) | N/A |
-| 34 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 35 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 36 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 37 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 38 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
-| 39 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 40 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 41 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
-| 42 | [Mick](http://twitter.com/search?q=Mick) | N/A |
-| 43 | [Johnny Glynn](http://twitter.com/search?q=Johnny+Glynn) | N/A |
-| 44 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 45 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 46 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 47 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 48 | [Geila Ibram](http://twitter.com/search?q=Geila+Ibram) | N/A |
-| 49 | [04mins 1st half](http://twitter.com/search?q=04mins+1st+half) | N/A |
-| 50 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 2 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 3 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 4 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 5 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 6 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 7 | [#LEECRY](http://twitter.com/search?q=%23LEECRY) | N/A |
+| 8 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 9 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 10 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 11 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 12 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 13 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 14 | [#LARvSAR](http://twitter.com/search?q=%23LARvSAR) | N/A |
+| 15 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 16 | [Tailteann Cup](http://twitter.com/search?q=Tailteann+Cup) | N/A |
+| 17 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 18 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 19 | [Clare](http://twitter.com/search?q=Clare) | N/A |
+| 20 | [Limerick](http://twitter.com/search?q=Limerick) | N/A |
+| 21 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 22 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 23 | [Roscommon](http://twitter.com/search?q=Roscommon) | N/A |
+| 24 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
+| 25 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 26 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 27 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 28 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 29 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 30 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 31 | [Barry Nash](http://twitter.com/search?q=Barry+Nash) | N/A |
+| 32 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 33 | [Cork](http://twitter.com/search?q=Cork) | N/A |
+| 34 | [Colm Collins](http://twitter.com/search?q=Colm+Collins) | N/A |
+| 35 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 36 | [Meath](http://twitter.com/search?q=Meath) | N/A |
+| 37 | [Ashroe Diamond](http://twitter.com/search?q=Ashroe+Diamond) | N/A |
+| 38 | [Fairyhouse](http://twitter.com/search?q=Fairyhouse) | N/A |
+| 39 | [Roy Hodgson](http://twitter.com/search?q=Roy+Hodgson) | N/A |
+| 40 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 41 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 42 | [Cásca](http://twitter.com/search?q=C%c3%a1sca) | N/A |
+| 43 | [joe mcdonagh](http://twitter.com/search?q=joe+mcdonagh) | N/A |
+| 44 | [Castlebar](http://twitter.com/search?q=Castlebar) | N/A |
+| 45 | [Lee Chin](http://twitter.com/search?q=Lee+Chin) | N/A |
+| 46 | [Gaelic Park](http://twitter.com/search?q=Gaelic+Park) | N/A |
+| 47 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 48 | [La Rochelle](http://twitter.com/search?q=La+Rochelle) | N/A |
+| 49 | [Bronx](http://twitter.com/search?q=Bronx) | N/A |
+| 50 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 
 
 

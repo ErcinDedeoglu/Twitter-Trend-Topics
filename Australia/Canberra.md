@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-09 15:16:53 UTC`
+📆 Last Updated: `2023-04-09 16:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [#NRLTitansDragons](http://twitter.com/search?q=%23NRLTitansDragons) | N/A |
-| 3 | [#AFLDonsGiants](http://twitter.com/search?q=%23AFLDonsGiants) | N/A |
-| 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 5 | [#AFLEaglesDees](http://twitter.com/search?q=%23AFLEaglesDees) | N/A |
-| 6 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 7 | [Ben Hunt](http://twitter.com/search?q=Ben+Hunt) | N/A |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Stringer](http://twitter.com/search?q=Stringer) | N/A |
-| 10 | [Lomax](http://twitter.com/search?q=Lomax) | N/A |
-| 11 | [Rapana](http://twitter.com/search?q=Rapana) | N/A |
-| 12 | [Dame Edna](http://twitter.com/search?q=Dame+Edna) | N/A |
-| 13 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 14 | [Bruce Haigh](http://twitter.com/search?q=Bruce+Haigh) | N/A |
-| 15 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
-| 16 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 17 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 18 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 19 | [Sloan](http://twitter.com/search?q=Sloan) | N/A |
-| 20 | [West Coast](http://twitter.com/search?q=West+Coast) | West Coast is a term used to refer to the western region of the United States, including California, Oregon, and Washington. It is also sometimes used to refer to the entire western coast of North America, including Canada and Mexico. The term is often used to describe a particular lifestyle or culture associated with the region, such as its relaxed attitude and laid-back atmosphere. |
+| 2 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 3 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 4 | [#AFLDonsGiants](http://twitter.com/search?q=%23AFLDonsGiants) | N/A |
+| 5 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [#aflswanspower](http://twitter.com/search?q=%23aflswanspower) | N/A |
+| 8 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 9 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 10 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 11 | [Rinku Singh](http://twitter.com/search?q=Rinku+Singh) | N/A |
+| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 13 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 14 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 15 | [dame edna](http://twitter.com/search?q=dame+edna) | N/A |
+| 16 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 17 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 18 | [Ben Hunt](http://twitter.com/search?q=Ben+Hunt) | N/A |
+| 19 | [Rapana](http://twitter.com/search?q=Rapana) | N/A |
+| 20 | [bruce haigh](http://twitter.com/search?q=bruce+haigh) | N/A |
 | 21 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 22 | [Ponga](http://twitter.com/search?q=Ponga) | N/A |
-| 23 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 24 | [Slippery](http://twitter.com/search?q=Slippery) | N/A |
-| 25 | [Adam Goodes](http://twitter.com/search?q=Adam+Goodes) | N/A |
-| 26 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 27 | [Davey](http://twitter.com/search?q=Davey) | N/A |
-| 28 | [Langford](http://twitter.com/search?q=Langford) | N/A |
-| 29 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 30 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 31 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 32 | [Buddy](http://twitter.com/search?q=Buddy) | N/A |
-| 33 | [witts](http://twitter.com/search?q=witts) | N/A |
-| 34 | [aliir](http://twitter.com/search?q=aliir) | N/A |
-| 35 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 36 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 22 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 23 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 24 | [KEATH](http://twitter.com/search?q=KEATH) | N/A |
+| 25 | [Slippery](http://twitter.com/search?q=Slippery) | N/A |
+| 26 | [adam goodes](http://twitter.com/search?q=adam+goodes) | N/A |
+| 27 | [Stringer](http://twitter.com/search?q=Stringer) | N/A |
+| 28 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 29 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 30 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 31 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 32 | [Deborah Harry](http://twitter.com/search?q=Deborah+Harry) | N/A |
+| 33 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 34 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
+| 35 | [Richo](http://twitter.com/search?q=Richo) | N/A |
+| 36 | [gastelum](http://twitter.com/search?q=gastelum) | N/A |
 | 37 | [Marty](http://twitter.com/search?q=Marty) | N/A |
-| 38 | [Mills](http://twitter.com/search?q=Mills) | N/A |
-| 39 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 40 | [Sheens](http://twitter.com/search?q=Sheens) | N/A |
-| 41 | [Cook](http://twitter.com/search?q=Cook) | N/A |
-| 42 | [Keath](http://twitter.com/search?q=Keath) | N/A |
-| 43 | [Aunty Jack](http://twitter.com/search?q=Aunty+Jack) | N/A |
-| 44 | [Murdoch Press](http://twitter.com/search?q=Murdoch+Press) | N/A |
-| 45 | [paddy mccartin](http://twitter.com/search?q=paddy+mccartin) | N/A |
-| 46 | [Sha Tin](http://twitter.com/search?q=Sha+Tin) | N/A |
-| 47 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
-| 48 | [taupau](http://twitter.com/search?q=taupau) | N/A |
-| 49 | [Flegler](http://twitter.com/search?q=Flegler) | N/A |
+| 38 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 39 | [aunty jack](http://twitter.com/search?q=aunty+jack) | N/A |
+| 40 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 41 | [Langford](http://twitter.com/search?q=Langford) | N/A |
+| 42 | [paddy mccartin](http://twitter.com/search?q=paddy+mccartin) | N/A |
+| 43 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 44 | [Sha Tin](http://twitter.com/search?q=Sha+Tin) | N/A |
+| 45 | [Lomax](http://twitter.com/search?q=Lomax) | N/A |
+| 46 | [will day](http://twitter.com/search?q=will+day) | N/A |
+| 47 | [Barry Humphries](http://twitter.com/search?q=Barry+Humphries) | N/A |
+| 48 | [Witts](http://twitter.com/search?q=Witts) | N/A |
+| 49 | [Wordle 659 X](http://twitter.com/search?q=Wordle+659+X) | N/A |
 
 
 

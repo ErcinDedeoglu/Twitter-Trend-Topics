@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-04-09 15:16:44 UTC`
+📆 Last Updated: `2023-04-09 16:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
-| 3 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
-| 4 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 5 | [Cardona](http://twitter.com/search?q=Cardona) | N/A |
-| 6 | [Galvan](http://twitter.com/search?q=Galvan) | Galvan is a term used to describe the process of electroplating, which is a method of coating one metal with another. It involves passing an electric current through a solution containing dissolved metal salts, which causes the metal to be deposited onto the surface of the object being plated. The term comes from Luigi Galvani, an Italian scientist who discovered this process in 1791. |
-| 7 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
-| 8 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
-| 9 | [niembro](http://twitter.com/search?q=niembro) | N/A |
-| 10 | [Insua](http://twitter.com/search?q=Insua) | N/A |
-| 11 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 12 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 13 | [soldano](http://twitter.com/search?q=soldano) | N/A |
-| 14 | [Florencia](http://twitter.com/search?q=Florencia) | N/A |
-| 15 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
-| 16 | [Samoa](http://twitter.com/search?q=Samoa) | N/A |
-| 17 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 18 | [lamolina](http://twitter.com/search?q=lamolina) | N/A |
-| 19 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 20 | [leguizamón](http://twitter.com/search?q=leguizam%c3%b3n) | N/A |
-| 21 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
-| 22 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 23 | [#frodoyboffeenlagamergy](http://twitter.com/search?q=%23frodoyboffeenlagamergy) | N/A |
-| 24 | [Mura](http://twitter.com/search?q=Mura) | N/A |
-| 25 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 26 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 27 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 28 | [Atlético Tucumán](http://twitter.com/search?q=Atl%c3%a9tico+Tucum%c3%a1n) | N/A |
-| 29 | [Barbies](http://twitter.com/search?q=Barbies) | N/A |
-| 30 | [Lanús](http://twitter.com/search?q=Lan%c3%bas) | Lanús is a city in Argentina, located in the province of Buenos Aires. The name Lanús comes from the Mapuche language and means "place of the sun". |
-| 31 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
-| 32 | [Di Marco](http://twitter.com/search?q=Di+Marco) | N/A |
-| 33 | [Manguel](http://twitter.com/search?q=Manguel) | N/A |
-| 34 | [reniero](http://twitter.com/search?q=reniero) | N/A |
-| 35 | [#sdtv](http://twitter.com/search?q=%23sdtv) | N/A |
-| 36 | [Tarragona](http://twitter.com/search?q=Tarragona) | N/A |
-| 37 | [#radiocoti](http://twitter.com/search?q=%23radiocoti) | N/A |
-| 38 | [#undinamoesquizo](http://twitter.com/search?q=%23undinamoesquizo) | N/A |
-| 39 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 40 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
-| 41 | [la continental](http://twitter.com/search?q=la+continental) | N/A |
-| 42 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 43 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 44 | [Canosa](http://twitter.com/search?q=Canosa) | N/A |
-| 45 | [pusineri](http://twitter.com/search?q=pusineri) | N/A |
-| 46 | [Hernández](http://twitter.com/search?q=Hern%c3%a1ndez) | N/A |
-| 47 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 48 | [Moralez](http://twitter.com/search?q=Moralez) | N/A |
-| 49 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 50 | [zapelli](http://twitter.com/search?q=zapelli) | N/A |
+| 1 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 2 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [Borgen](http://twitter.com/search?q=Borgen) | N/A |
+| 6 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 7 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 8 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 9 | [#D_DayTracklist](http://twitter.com/search?q=%23D_DayTracklist) | N/A |
+| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 11 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 12 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
+| 13 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 14 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 15 | [#BuenDomingo](http://twitter.com/search?q=%23BuenDomingo) | N/A |
+| 16 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 17 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 18 | [HOSEOK](http://twitter.com/search?q=HOSEOK) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is often used to refer to someone who is strong and reliable. |
+| 19 | [D DAY TRACKLIST IS COMING](http://twitter.com/search?q=D+DAY+TRACKLIST+IS+COMING) | N/A |
+| 20 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 21 | [#ElTrenNosUne](http://twitter.com/search?q=%23ElTrenNosUne) | N/A |
+| 22 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 23 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 24 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
+| 25 | [#detrasdelasnoticias](http://twitter.com/search?q=%23detrasdelasnoticias) | N/A |
+| 26 | [Di Marco](http://twitter.com/search?q=Di+Marco) | N/A |
+| 27 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 28 | [Florencia](http://twitter.com/search?q=Florencia) | N/A |
+| 29 | [Manguel](http://twitter.com/search?q=Manguel) | N/A |
+| 30 | [#estefinde](http://twitter.com/search?q=%23estefinde) | N/A |
+| 31 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 32 | [Laurita](http://twitter.com/search?q=Laurita) | N/A |
+| 33 | [Canosa](http://twitter.com/search?q=Canosa) | N/A |
+| 34 | [Angelici](http://twitter.com/search?q=Angelici) | N/A |
+| 35 | [Ganen](http://twitter.com/search?q=Ganen) | N/A |
+| 36 | [Concordia](http://twitter.com/search?q=Concordia) | N/A |
+| 37 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 38 | [Afterlife](http://twitter.com/search?q=Afterlife) | N/A |
+| 39 | [Bragarnik](http://twitter.com/search?q=Bragarnik) | N/A |
+| 40 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 41 | [Antonia](http://twitter.com/search?q=Antonia) | N/A |
+| 42 | [#TNenParana](http://twitter.com/search?q=%23TNenParana) | N/A |
+| 43 | [#AgustD](http://twitter.com/search?q=%23AgustD) | #AgustD is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name Agust (short for Agust D) and the letter D, which stands for “Daegu Town”, his hometown in South Korea. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-04-09 15:17:17 UTC`
+📆 Last Updated: `2023-04-09 16:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 4 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 5 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 6 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 7 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 8 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 9 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
-| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 11 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
-| 12 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 13 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 14 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
-| 15 | [Doran](http://twitter.com/search?q=Doran) | N/A |
-| 16 | [Fundora](http://twitter.com/search?q=Fundora) | N/A |
-| 17 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 18 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
-| 19 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 20 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 22 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 23 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 24 | [gerard](http://twitter.com/search?q=gerard) | N/A |
-| 25 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 26 | [Belos](http://twitter.com/search?q=Belos) | N/A |
-| 27 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 28 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 29 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 30 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 31 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 32 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 33 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
-| 34 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
-| 35 | [Raine](http://twitter.com/search?q=Raine) | N/A |
-| 36 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 37 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
-| 38 | [KO'd](http://twitter.com/search?q=KO%27d) | N/A |
-| 39 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
-| 40 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 41 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 42 | [DARIUS](http://twitter.com/search?q=DARIUS) | N/A |
-| 43 | [Devin](http://twitter.com/search?q=Devin) | N/A |
-| 44 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 45 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 46 | [Keyshawn](http://twitter.com/search?q=Keyshawn) | N/A |
-| 47 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 48 | [Sanji](http://twitter.com/search?q=Sanji) | N/A |
-| 49 | [Gamebred](http://twitter.com/search?q=Gamebred) | N/A |
+| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 2 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 3 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 7 | [Resurrection Sunday](http://twitter.com/search?q=Resurrection+Sunday) | N/A |
+| 8 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 9 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 10 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 11 | [Tristan Thompson](http://twitter.com/search?q=Tristan+Thompson) | N/A |
+| 12 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 13 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 14 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 15 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 16 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 17 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 18 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 19 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 20 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 21 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 22 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 23 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 24 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 25 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 26 | [Shaq Harrison](http://twitter.com/search?q=Shaq+Harrison) | N/A |
+| 27 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 28 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 29 | [Gunners](http://twitter.com/search?q=Gunners) | Gunners is a slang term used to refer to members of the British Armed Forces, particularly those in the Royal Artillery. It is derived from the nickname of the Royal Artillery, which is "The Gunners". |
+| 30 | [#D_DayTracklist](http://twitter.com/search?q=%23D_DayTracklist) | N/A |
+| 31 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
+| 32 | [#ArsLiv](http://twitter.com/search?q=%23ArsLiv) | N/A |
+| 33 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 34 | [Van Disney](http://twitter.com/search?q=Van+Disney) | Van Disney is a term used to describe the merchandise and products associated with the Disney brand. It is often used to refer to items that are sold in Disney stores or online, such as toys, clothing, and other memorabilia. The term is derived from the name of Walt Disney's first animation studio, which was called "The Van Beuren Studio." |
+| 35 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 36 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 37 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 38 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
+| 39 | [Agust D](http://twitter.com/search?q=Agust+D) | N/A |
+| 40 | [Rob Holding](http://twitter.com/search?q=Rob+Holding) | Rob Holding is a professional footballer who plays for Arsenal in the English Premier League. He is a centre-back and has been with the club since 2016. The phrase "Rob Holding" is used to refer to the player himself. |
+| 41 | [Trusty](http://twitter.com/search?q=Trusty) | N/A |
+| 42 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 43 | [Peeps](http://twitter.com/search?q=Peeps) | N/A |
+| 44 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 45 | [HE GOT UP](http://twitter.com/search?q=HE+GOT+UP) | N/A |
+| 46 | [Davon Reed](http://twitter.com/search?q=Davon+Reed) | N/A |
+| 47 | [Paul Tierney](http://twitter.com/search?q=Paul+Tierney) | N/A |
+| 48 | [DO YOU WANT TO BE FORGIVEN](http://twitter.com/search?q=DO+YOU+WANT+TO+BE+FORGIVEN) | N/A |
+| 49 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
+| 50 | [Amygdala](http://twitter.com/search?q=Amygdala) | N/A |
 
 
 
