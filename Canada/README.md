@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-04-09 10:17:28 UTC`
+📆 Last Updated: `2023-04-09 11:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for Canada
 | 8 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 9 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
 | 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 11 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
-| 12 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
-| 13 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
-| 14 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 15 | [200k in ETH](http://twitter.com/search?q=200k+in+ETH) | N/A |
+| 11 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
+| 12 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
+| 13 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 14 | [Flames](http://twitter.com/search?q=Flames) | N/A |
+| 15 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
 | 16 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
-| 17 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 17 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
 | 18 | [EBUG](http://twitter.com/search?q=EBUG) | N/A |
-| 19 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 19 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
 | 20 | [Habs](http://twitter.com/search?q=Habs) | N/A |
 | 21 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 22 | [MEV Bot](http://twitter.com/search?q=MEV+Bot) | N/A |
 | 23 | [wayne simmonds](http://twitter.com/search?q=wayne+simmonds) | N/A |
 | 24 | [Wideman](http://twitter.com/search?q=Wideman) | N/A |
-| 25 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 26 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
+| 25 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
+| 26 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
 | 27 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
 | 28 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 29 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 29 | [Degen](http://twitter.com/search?q=Degen) | N/A |
 | 30 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 31 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 32 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
+| 32 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
 | 33 | [Demko](http://twitter.com/search?q=Demko) | N/A |
 | 34 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
 | 35 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
 | 36 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 37 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
 | 38 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
-| 39 | [Tocchet](http://twitter.com/search?q=Tocchet) | N/A |
-| 40 | [After Hours](http://twitter.com/search?q=After+Hours) | N/A |
-| 41 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 42 | [Saputo](http://twitter.com/search?q=Saputo) | N/A |
-| 43 | [chris bassitt](http://twitter.com/search?q=chris+bassitt) | N/A |
-| 44 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 45 | [200k Earned](http://twitter.com/search?q=200k+Earned) | N/A |
-| 46 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 39 | [Belt](http://twitter.com/search?q=Belt) | N/A |
+| 40 | [chris bassitt](http://twitter.com/search?q=chris+bassitt) | N/A |
+| 41 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 42 | [200k Earned](http://twitter.com/search?q=200k+Earned) | N/A |
+| 43 | [Saputo](http://twitter.com/search?q=Saputo) | N/A |
+| 44 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 45 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 46 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
 | 47 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 48 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 49 | [demers](http://twitter.com/search?q=demers) | N/A |
-| 50 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 48 | [200k in ETH](http://twitter.com/search?q=200k+in+ETH) | N/A |
+| 49 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 50 | [demers](http://twitter.com/search?q=demers) | N/A |
 
 
 

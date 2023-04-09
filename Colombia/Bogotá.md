@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-04-09 10:16:46 UTC`
+📆 Last Updated: `2023-04-09 11:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Colombia](</Colombia>)
 | 2 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
 | 3 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
 | 4 | [#losdesiempre](http://twitter.com/search?q=%23losdesiempre) | N/A |
-| 5 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 6 | [Cadavid](http://twitter.com/search?q=Cadavid) | N/A |
-| 7 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 8 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
-| 9 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 10 | [Millos](http://twitter.com/search?q=Millos) | N/A |
+| 5 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 6 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 7 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 8 | [Millos](http://twitter.com/search?q=Millos) | N/A |
+| 9 | [Cadavid](http://twitter.com/search?q=Cadavid) | N/A |
+| 10 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
 | 11 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
 | 12 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 13 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
 | 14 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
 | 15 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 16 | [Pons](http://twitter.com/search?q=Pons) | N/A |
-| 17 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 18 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 19 | [#PolloTriste](http://twitter.com/search?q=%23PolloTriste) | N/A |
-| 20 | [#felizsabado](http://twitter.com/search?q=%23felizsabado) | N/A |
-| 21 | [El Cali](http://twitter.com/search?q=El+Cali) | N/A |
+| 16 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 17 | [#PolloTriste](http://twitter.com/search?q=%23PolloTriste) | N/A |
+| 18 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 19 | [#felizsabado](http://twitter.com/search?q=%23felizsabado) | N/A |
+| 20 | [El Cali](http://twitter.com/search?q=El+Cali) | N/A |
+| 21 | [Pons](http://twitter.com/search?q=Pons) | N/A |
 | 22 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 23 | [Gamero](http://twitter.com/search?q=Gamero) | N/A |
-| 24 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 25 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 26 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 27 | [cetré](http://twitter.com/search?q=cetr%c3%a9) | N/A |
+| 24 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
+| 25 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 26 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 27 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 28 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 29 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
-| 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 31 | [Pardo](http://twitter.com/search?q=Pardo) | N/A |
-| 32 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 33 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
-| 34 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
-| 35 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 36 | [Ramiro Sánchez](http://twitter.com/search?q=Ramiro+S%c3%a1nchez) | N/A |
-| 37 | [Chanty](http://twitter.com/search?q=Chanty) | N/A |
-| 38 | [Monroy](http://twitter.com/search?q=Monroy) | N/A |
-| 39 | [fabry](http://twitter.com/search?q=fabry) | N/A |
-| 40 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 41 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 42 | [Autoridad](http://twitter.com/search?q=Autoridad) | N/A |
-| 43 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 44 | [jader valencia](http://twitter.com/search?q=jader+valencia) | N/A |
-| 45 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 46 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 47 | [Gaitán](http://twitter.com/search?q=Gait%c3%a1n) | N/A |
-| 48 | [once caldas](http://twitter.com/search?q=once+caldas) | N/A |
-| 49 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 50 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 30 | [Cetré](http://twitter.com/search?q=Cetr%c3%a9) | N/A |
+| 31 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 32 | [Pardo](http://twitter.com/search?q=Pardo) | N/A |
+| 33 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 34 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
+| 35 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
+| 36 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 37 | [Ramiro Sánchez](http://twitter.com/search?q=Ramiro+S%c3%a1nchez) | N/A |
+| 38 | [Chanty](http://twitter.com/search?q=Chanty) | N/A |
+| 39 | [Monroy](http://twitter.com/search?q=Monroy) | N/A |
+| 40 | [fabry](http://twitter.com/search?q=fabry) | N/A |
+| 41 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
+| 42 | [ASENSIO](http://twitter.com/search?q=ASENSIO) | N/A |
+| 43 | [autoridad](http://twitter.com/search?q=autoridad) | N/A |
+| 44 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 45 | [jader valencia](http://twitter.com/search?q=jader+valencia) | N/A |
+| 46 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 47 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 48 | [Gaitán](http://twitter.com/search?q=Gait%c3%a1n) | N/A |
+| 49 | [once caldas](http://twitter.com/search?q=once+caldas) | N/A |
+| 50 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
 
 
 

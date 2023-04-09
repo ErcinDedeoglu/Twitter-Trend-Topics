@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-04-09 10:17:01 UTC`
+📆 Last Updated: `2023-04-09 11:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [#AFLDonsGiants](http://twitter.com/search?q=%23AFLDonsGiants) | N/A |
-| 3 | [#NRLTitansDragons](http://twitter.com/search?q=%23NRLTitansDragons) | N/A |
+| 2 | [#NRLTitansDragons](http://twitter.com/search?q=%23NRLTitansDragons) | N/A |
+| 3 | [#AFLDonsGiants](http://twitter.com/search?q=%23AFLDonsGiants) | N/A |
 | 4 | [#MVCvPER](http://twitter.com/search?q=%23MVCvPER) | N/A |
 | 5 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 6 | [#THUvGIA](http://twitter.com/search?q=%23THUvGIA) | N/A |
+| 6 | [#AFLEaglesDees](http://twitter.com/search?q=%23AFLEaglesDees) | N/A |
 | 7 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 8 | [Jake Stringer](http://twitter.com/search?q=Jake+Stringer) | N/A |
-| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [Ben Hunt](http://twitter.com/search?q=Ben+Hunt) | N/A |
-| 11 | [Sloan](http://twitter.com/search?q=Sloan) | N/A |
-| 12 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 13 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
-| 14 | [Rapana](http://twitter.com/search?q=Rapana) | N/A |
-| 15 | [Liberty Island](http://twitter.com/search?q=Liberty+Island) | N/A |
-| 16 | [Dame Edna](http://twitter.com/search?q=Dame+Edna) | N/A |
-| 17 | [Bruce Haigh](http://twitter.com/search?q=Bruce+Haigh) | N/A |
-| 18 | [Langford](http://twitter.com/search?q=Langford) | N/A |
-| 19 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 20 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 21 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 22 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 23 | [Redman](http://twitter.com/search?q=Redman) | N/A |
-| 24 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 25 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 26 | [Perkins](http://twitter.com/search?q=Perkins) | N/A |
-| 27 | [Slippery](http://twitter.com/search?q=Slippery) | N/A |
-| 28 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
-| 29 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 9 | [Ben Hunt](http://twitter.com/search?q=Ben+Hunt) | N/A |
+| 10 | [Stringer](http://twitter.com/search?q=Stringer) | N/A |
+| 11 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 12 | [Rapana](http://twitter.com/search?q=Rapana) | N/A |
+| 13 | [Lomax](http://twitter.com/search?q=Lomax) | N/A |
+| 14 | [Dame Edna](http://twitter.com/search?q=Dame+Edna) | N/A |
+| 15 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
+| 16 | [Bruce Haigh](http://twitter.com/search?q=Bruce+Haigh) | N/A |
+| 17 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 18 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 19 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 20 | [Sloan](http://twitter.com/search?q=Sloan) | N/A |
+| 21 | [Langford](http://twitter.com/search?q=Langford) | N/A |
+| 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 23 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 24 | [Liberty Island](http://twitter.com/search?q=Liberty+Island) | N/A |
+| 25 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 26 | [Slippery](http://twitter.com/search?q=Slippery) | N/A |
+| 27 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 28 | [Adam Goodes](http://twitter.com/search?q=Adam+Goodes) | N/A |
+| 29 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 | 30 | [Buddy](http://twitter.com/search?q=Buddy) | N/A |
-| 31 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 32 | [Adam Goodes](http://twitter.com/search?q=Adam+Goodes) | N/A |
-| 33 | [Witts](http://twitter.com/search?q=Witts) | N/A |
-| 34 | [Aliir](http://twitter.com/search?q=Aliir) | N/A |
-| 35 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 36 | [paddy mccartin](http://twitter.com/search?q=paddy+mccartin) | N/A |
-| 37 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 38 | [Mills](http://twitter.com/search?q=Mills) | N/A |
-| 39 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
-| 40 | [Davey](http://twitter.com/search?q=Davey) | N/A |
-| 41 | [flegler](http://twitter.com/search?q=flegler) | N/A |
-| 42 | [Clark](http://twitter.com/search?q=Clark) | N/A |
-| 43 | [Whittaker](http://twitter.com/search?q=Whittaker) | N/A |
-| 44 | [Marty](http://twitter.com/search?q=Marty) | N/A |
-| 45 | [Cook](http://twitter.com/search?q=Cook) | N/A |
-| 46 | [Mundine](http://twitter.com/search?q=Mundine) | N/A |
-| 47 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 48 | [Keath](http://twitter.com/search?q=Keath) | N/A |
-| 49 | [AAMI Park](http://twitter.com/search?q=AAMI+Park) | N/A |
-| 50 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 31 | [Witts](http://twitter.com/search?q=Witts) | N/A |
+| 32 | [Aliir](http://twitter.com/search?q=Aliir) | N/A |
+| 33 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 34 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 35 | [Mills](http://twitter.com/search?q=Mills) | N/A |
+| 36 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
+| 37 | [flegler](http://twitter.com/search?q=flegler) | N/A |
+| 38 | [Clark](http://twitter.com/search?q=Clark) | N/A |
+| 39 | [Whittaker](http://twitter.com/search?q=Whittaker) | N/A |
+| 40 | [Marty](http://twitter.com/search?q=Marty) | N/A |
+| 41 | [Cook](http://twitter.com/search?q=Cook) | N/A |
+| 42 | [Mundine](http://twitter.com/search?q=Mundine) | N/A |
+| 43 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 44 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 45 | [Keath](http://twitter.com/search?q=Keath) | N/A |
+| 46 | [Paddy McCartin](http://twitter.com/search?q=Paddy+McCartin) | N/A |
+| 47 | [Aunty Jack](http://twitter.com/search?q=Aunty+Jack) | N/A |
+| 48 | [Dubai Honour](http://twitter.com/search?q=Dubai+Honour) | N/A |
+| 49 | [Taupau](http://twitter.com/search?q=Taupau) | N/A |
+| 50 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-04-09 10:17:26 UTC`
+📆 Last Updated: `2023-04-09 11:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
+| 1 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 2 | [Beef](http://twitter.com/search?q=Beef) | N/A |
 | 3 | [#LAGalaxy](http://twitter.com/search?q=%23LAGalaxy) | N/A |
-| 4 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 5 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 6 | [Super Mario](http://twitter.com/search?q=Super+Mario) | N/A |
-| 7 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 8 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 9 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 12 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 13 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 14 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
-| 15 | [#andNEW](http://twitter.com/search?q=%23andNEW) | N/A |
-| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 5 | [Super Mario](http://twitter.com/search?q=Super+Mario) | N/A |
+| 6 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 9 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 10 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 11 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 12 | [Shakur](http://twitter.com/search?q=Shakur) | N/A |
+| 13 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 14 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
+| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 16 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
 | 17 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 18 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 19 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
+| 18 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
+| 19 | [Fundora](http://twitter.com/search?q=Fundora) | N/A |
 | 20 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 21 | [Fundora](http://twitter.com/search?q=Fundora) | N/A |
-| 22 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 23 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
-| 24 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 25 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 26 | [Style Bender](http://twitter.com/search?q=Style+Bender) | N/A |
-| 27 | [What a KO](http://twitter.com/search?q=What+a+KO) | N/A |
-| 28 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 29 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 30 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 31 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
-| 32 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 33 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 34 | [Headstrong](http://twitter.com/search?q=Headstrong) | N/A |
-| 35 | [Raine](http://twitter.com/search?q=Raine) | N/A |
-| 36 | [Watching and Dreaming](http://twitter.com/search?q=Watching+and+Dreaming) | N/A |
-| 37 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
-| 38 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 21 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 22 | [Yanez](http://twitter.com/search?q=Yanez) | N/A |
+| 23 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 24 | [Doran](http://twitter.com/search?q=Doran) | N/A |
+| 25 | [Style Bender](http://twitter.com/search?q=Style+Bender) | N/A |
+| 26 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 27 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 28 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 29 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
+| 30 | [OUT COLD](http://twitter.com/search?q=OUT+COLD) | N/A |
+| 31 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 32 | [Watching and Dreaming](http://twitter.com/search?q=Watching+and+Dreaming) | N/A |
+| 33 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
+| 34 | [Haney](http://twitter.com/search?q=Haney) | N/A |
+| 35 | [Belos](http://twitter.com/search?q=Belos) | N/A |
+| 36 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
+| 37 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 38 | [Mike Tyson](http://twitter.com/search?q=Mike+Tyson) | N/A |
 | 39 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
-| 40 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
-| 41 | [Belos](http://twitter.com/search?q=Belos) | N/A |
+| 40 | [Raine](http://twitter.com/search?q=Raine) | N/A |
+| 41 | [KO'd](http://twitter.com/search?q=KO%27d) | N/A |
 | 42 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 43 | [KO'd](http://twitter.com/search?q=KO%27d) | N/A |
-| 44 | [Periera](http://twitter.com/search?q=Periera) | N/A |
-| 45 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 46 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 47 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
-| 48 | [Trapt](http://twitter.com/search?q=Trapt) | N/A |
-| 49 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
-| 50 | [Harada](http://twitter.com/search?q=Harada) | N/A |
+| 43 | [Sally O'Malley](http://twitter.com/search?q=Sally+O%27Malley) | N/A |
+| 44 | [Daily Quordle 440](http://twitter.com/search?q=Daily+Quordle+440) | N/A |
+| 45 | [Periera](http://twitter.com/search?q=Periera) | N/A |
+| 46 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 47 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 48 | [Curtis](http://twitter.com/search?q=Curtis) | N/A |
+| 49 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 50 | [Whittaker](http://twitter.com/search?q=Whittaker) | N/A |
 
 
 

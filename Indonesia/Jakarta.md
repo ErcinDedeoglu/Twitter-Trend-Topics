@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-04-09 10:16:59 UTC`
+📆 Last Updated: `2023-04-09 11:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 1 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
 | 2 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
 | 3 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
 | 4 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
 | 5 | [#LazadaTHRSale](http://twitter.com/search?q=%23LazadaTHRSale) | N/A |
-| 6 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
-| 7 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 8 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
-| 9 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
+| 6 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 7 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
+| 8 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
+| 9 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
 | 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
-| 12 | [1 Rupiah](http://twitter.com/search?q=1+Rupiah) | N/A |
+| 11 | [1 Rupiah](http://twitter.com/search?q=1+Rupiah) | N/A |
+| 12 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
 | 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 14 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 15 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 16 | [HUT TNI AU](http://twitter.com/search?q=HUT+TNI+AU) | N/A |
-| 17 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 14 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 15 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 16 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 17 | [Kokas](http://twitter.com/search?q=Kokas) | N/A |
 | 18 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 19 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 19 | [TNI AU](http://twitter.com/search?q=TNI+AU) | N/A |
 | 20 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
-| 21 | [Kokas](http://twitter.com/search?q=Kokas) | N/A |
-| 22 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
-| 23 | [YOUNG K](http://twitter.com/search?q=YOUNG+K) | N/A |
-| 24 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 25 | [The Eve](http://twitter.com/search?q=The+Eve) | N/A |
-| 26 | [Sugeng](http://twitter.com/search?q=Sugeng) | N/A |
-| 27 | [Berkah Dalem](http://twitter.com/search?q=Berkah+Dalem) | N/A |
-| 28 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 29 | [Male](http://twitter.com/search?q=Male) | N/A |
-| 30 | [Onic](http://twitter.com/search?q=Onic) | N/A |
-| 31 | [Kristus](http://twitter.com/search?q=Kristus) | N/A |
-| 32 | [Panas](http://twitter.com/search?q=Panas) | N/A |
-| 33 | [Love Me Right](http://twitter.com/search?q=Love+Me+Right) | N/A |
-| 34 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
-| 35 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
-| 36 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 37 | [#BukberTanpaWacana](http://twitter.com/search?q=%23BukberTanpaWacana) | N/A |
+| 21 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
+| 22 | [Sugeng](http://twitter.com/search?q=Sugeng) | N/A |
+| 23 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 24 | [The Eve](http://twitter.com/search?q=The+Eve) | N/A |
+| 25 | [Berkah Dalem](http://twitter.com/search?q=Berkah+Dalem) | N/A |
+| 26 | [Kristus](http://twitter.com/search?q=Kristus) | N/A |
+| 27 | [Onic](http://twitter.com/search?q=Onic) | N/A |
+| 28 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 29 | [Panas](http://twitter.com/search?q=Panas) | N/A |
+| 30 | [Love Me Right](http://twitter.com/search?q=Love+Me+Right) | N/A |
+| 31 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
+| 32 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
+| 33 | [#BukaAjaBukalapak](http://twitter.com/search?q=%23BukaAjaBukalapak) | N/A |
+| 34 | [#EUNHA](http://twitter.com/search?q=%23EUNHA) | N/A |
+| 35 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 36 | [#BukberTanpaWacana](http://twitter.com/search?q=%23BukberTanpaWacana) | N/A |
+| 37 | [#NarwhalFinance](http://twitter.com/search?q=%23NarwhalFinance) | N/A |
 | 38 | [#MusicBankParis](http://twitter.com/search?q=%23MusicBankParis) | N/A |
-| 39 | [#NarwhalFinance](http://twitter.com/search?q=%23NarwhalFinance) | N/A |
-| 40 | [#TimeForEXO](http://twitter.com/search?q=%23TimeForEXO) | N/A |
-| 41 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
-| 42 | [#ChoiWooShik](http://twitter.com/search?q=%23ChoiWooShik) | N/A |
-| 43 | [#TaxiDriver2Ep14](http://twitter.com/search?q=%23TaxiDriver2Ep14) | N/A |
-| 44 | [#GueBarengErickThohir](http://twitter.com/search?q=%23GueBarengErickThohir) | N/A |
+| 39 | [#TimeForEXO](http://twitter.com/search?q=%23TimeForEXO) | N/A |
+| 40 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
+| 41 | [#ChoiWooShik](http://twitter.com/search?q=%23ChoiWooShik) | N/A |
+| 42 | [#TaxiDriver2Ep14](http://twitter.com/search?q=%23TaxiDriver2Ep14) | N/A |
+| 43 | [#GueBarengErickThohir](http://twitter.com/search?q=%23GueBarengErickThohir) | N/A |
 
 
 

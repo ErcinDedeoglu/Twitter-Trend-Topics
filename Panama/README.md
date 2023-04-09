@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-09 10:17:33 UTC`
+📆 Last Updated: `2023-04-09 11:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,7 +33,7 @@ This is top 50 for Panama
 | 16 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 | 17 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
 | 18 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 19 | [#semanasantasegura2023](http://twitter.com/search?q=%23semanasantasegura2023) | N/A |
+| 19 | [#SemanaSantaSegura2023](http://twitter.com/search?q=%23SemanaSantaSegura2023) | N/A |
 | 20 | [multiplaza](http://twitter.com/search?q=multiplaza) | N/A |
 | 21 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
 | 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |

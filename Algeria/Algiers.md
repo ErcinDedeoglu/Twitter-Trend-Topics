@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-04-09 10:17:07 UTC`
+📆 Last Updated: `2023-04-09 11:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for [Algeria](</Algeria>)
 | 3 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 4 | [بدر الكبري](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
 | 5 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 6 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 7 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 6 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 7 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
 | 8 | [الدرك الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d9%83+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
 | 9 | [وزير الشوون الدينيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%87) | N/A |
 | 10 | [17 رمضان](http://twitter.com/search?q=17+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
@@ -45,26 +45,26 @@ This is top 50 for [Algeria](</Algeria>)
 | 28 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
 | 29 | [الامام الشافعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d9%81%d8%b9%d9%8a) | N/A |
 | 30 | [يوسف بلمهدي](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a8%d9%84%d9%85%d9%87%d8%af%d9%8a) | N/A |
-| 31 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 32 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 33 | [الشيخ الحداد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%ad%d8%af%d8%a7%d8%af) | N/A |
-| 34 | [بالاك](http://twitter.com/search?q=%d8%a8%d8%a7%d9%84%d8%a7%d9%83) | N/A |
-| 35 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 36 | [مانشستر سيتي](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1+%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
-| 37 | [عمر بن الخطاب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a8%d9%86+%d8%a7%d9%84%d8%ae%d8%b7%d8%a7%d8%a8) | N/A |
+| 31 | [عبد العزيز](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
+| 32 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 33 | [عمر بن الخطاب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a8%d9%86+%d8%a7%d9%84%d8%ae%d8%b7%d8%a7%d8%a8) | N/A |
+| 34 | [الشيخ الحداد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%ad%d8%af%d8%a7%d8%af) | N/A |
+| 35 | [بالاك](http://twitter.com/search?q=%d8%a8%d8%a7%d9%84%d8%a7%d9%83) | N/A |
+| 36 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 37 | [مانشستر سيتي](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1+%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
 | 38 | [الجيش الوطني الشعبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a) | N/A |
 | 39 | [الدوله العثمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%ab%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 40 | [بيس المصير](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d8%b5%d9%8a%d8%b1) | N/A |
-| 41 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 42 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
-| 43 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
-| 44 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 46 | [الصحراء الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 47 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 48 | [نهار كامل](http://twitter.com/search?q=%d9%86%d9%87%d8%a7%d8%b1+%d9%83%d8%a7%d9%85%d9%84) | N/A |
-| 49 | [Korean](http://twitter.com/search?q=Korean) | N/A |
-| 50 | [غير المسلمين](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 41 | [علي الناس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
+| 42 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 43 | [Queen](http://twitter.com/search?q=Queen) | N/A |
+| 44 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 45 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
+| 46 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 47 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
+| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 49 | [الصحراء الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 50 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
 
 
 

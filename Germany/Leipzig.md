@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-04-09 10:16:54 UTC`
+📆 Last Updated: `2023-04-09 11:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
 | 5 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
 | 6 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 7 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
-| 8 | [#BVBFCU](http://twitter.com/search?q=%23BVBFCU) | N/A |
-| 9 | [Totales Durcheinander](http://twitter.com/search?q=Totales+Durcheinander) | N/A |
+| 7 | [#BVBFCU](http://twitter.com/search?q=%23BVBFCU) | N/A |
+| 8 | [Totales Durcheinander](http://twitter.com/search?q=Totales+Durcheinander) | N/A |
+| 9 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
 | 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 11 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 12 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 11 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 12 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
 | 13 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
 | 14 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 15 | [Genießt den Tag](http://twitter.com/search?q=Genie%c3%9ft+den+Tag) | N/A |
-| 16 | [Gleichfalls](http://twitter.com/search?q=Gleichfalls) | N/A |
-| 17 | [Dir und Deinen Lieben](http://twitter.com/search?q=Dir+und+Deinen+Lieben) | N/A |
-| 18 | [Benjamin Ferencz](http://twitter.com/search?q=Benjamin+Ferencz) | N/A |
-| 19 | [Heil](http://twitter.com/search?q=Heil) | N/A |
+| 16 | [Benjamin Ferencz](http://twitter.com/search?q=Benjamin+Ferencz) | N/A |
+| 17 | [Heil](http://twitter.com/search?q=Heil) | N/A |
+| 18 | [Gleichfalls](http://twitter.com/search?q=Gleichfalls) | N/A |
+| 19 | [Dir und Deinen Lieben](http://twitter.com/search?q=Dir+und+Deinen+Lieben) | N/A |
 | 20 | [Häschen](http://twitter.com/search?q=H%c3%a4schen) | N/A |
-| 21 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 22 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
-| 23 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 24 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 25 | [Warnung](http://twitter.com/search?q=Warnung) | N/A |
+| 21 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
+| 22 | [Liebsten](http://twitter.com/search?q=Liebsten) | N/A |
+| 23 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 24 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
+| 25 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 26 | [Christine](http://twitter.com/search?q=Christine) | N/A |
 | 27 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
 | 28 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 29 | [Genießt die Zeit](http://twitter.com/search?q=Genie%c3%9ft+die+Zeit) | N/A |
-| 30 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 31 | [Guten Morgen Claudia](http://twitter.com/search?q=Guten+Morgen+Claudia) | N/A |
-| 32 | [Heike](http://twitter.com/search?q=Heike) | N/A |
-| 33 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 34 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
+| 29 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 30 | [Ebenfalls](http://twitter.com/search?q=Ebenfalls) | N/A |
+| 31 | [Schwarzer](http://twitter.com/search?q=Schwarzer) | N/A |
+| 32 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 33 | [Weltordnung](http://twitter.com/search?q=Weltordnung) | N/A |
+| 34 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 35 | [DE LIGT](http://twitter.com/search?q=DE+LIGT) | N/A |
-| 36 | [Ebenfalls](http://twitter.com/search?q=Ebenfalls) | N/A |
-| 37 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 38 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
-| 39 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
-| 40 | [Letzte Generation](http://twitter.com/search?q=Letzte+Generation) | N/A |
-| 41 | [Sinne](http://twitter.com/search?q=Sinne) | N/A |
-| 42 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 43 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 44 | [Moin ihr Lieben](http://twitter.com/search?q=Moin+ihr+Lieben) | N/A |
-| 45 | [Stimmung im Land](http://twitter.com/search?q=Stimmung+im+Land) | N/A |
-| 46 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
-| 47 | [Gasflaschen](http://twitter.com/search?q=Gasflaschen) | N/A |
-| 48 | [leitl](http://twitter.com/search?q=leitl) | N/A |
-| 49 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 50 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
+| 36 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 37 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 38 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 39 | [Moin Schubsi](http://twitter.com/search?q=Moin+Schubsi) | N/A |
+| 40 | [Wunderschönen](http://twitter.com/search?q=Wundersch%c3%b6nen) | N/A |
+| 41 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 42 | [Stimmung im Land](http://twitter.com/search?q=Stimmung+im+Land) | N/A |
+| 43 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
+| 44 | [Genießt die Zeit](http://twitter.com/search?q=Genie%c3%9ft+die+Zeit) | N/A |
+| 45 | [leitl](http://twitter.com/search?q=leitl) | N/A |
+| 46 | [Reparatur am Zug](http://twitter.com/search?q=Reparatur+am+Zug) | N/A |
+| 47 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 48 | [Dir und Deiner Familie](http://twitter.com/search?q=Dir+und+Deiner+Familie) | N/A |
+| 49 | [patricia kelly](http://twitter.com/search?q=patricia+kelly) | N/A |
+| 50 | [Gasflaschen](http://twitter.com/search?q=Gasflaschen) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-04-09 10:17:06 UTC`
+📆 Last Updated: `2023-04-09 11:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,41 +17,40 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
 | 2 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
-| 6 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
-| 7 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
-| 8 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
+| 5 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 7 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
+| 8 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
 | 9 | [#DONBELLEmpire](http://twitter.com/search?q=%23DONBELLEmpire) | N/A |
-| 10 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 11 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 12 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 13 | [GABBLUKE MOSHIES ANNIVERSARY](http://twitter.com/search?q=GABBLUKE+MOSHIES+ANNIVERSARY) | N/A |
-| 14 | [D-5 TO ANJI PARAISO](http://twitter.com/search?q=D-5+TO+ANJI+PARAISO) | N/A |
-| 15 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 16 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 17 | [rosie posie](http://twitter.com/search?q=rosie+posie) | N/A |
-| 18 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 19 | [TANGINA NAMAN](http://twitter.com/search?q=TANGINA+NAMAN) | N/A |
-| 20 | [Suho](http://twitter.com/search?q=Suho) | N/A |
-| 21 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 22 | [London](http://twitter.com/search?q=London) | N/A |
-| 23 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
-| 24 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 25 | [#ACEsOur2ndAnniversary](http://twitter.com/search?q=%23ACEsOur2ndAnniversary) | N/A |
-| 26 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
-| 27 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
-| 28 | [#EUNBINNOTE_HIBINGO](http://twitter.com/search?q=%23EUNBINNOTE_HIBINGO) | N/A |
-| 29 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
-| 30 | [#T1Fighting](http://twitter.com/search?q=%23T1Fighting) | N/A |
-| 31 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
-| 32 | [#PARKEUNBIN](http://twitter.com/search?q=%23PARKEUNBIN) | N/A |
-| 33 | [#BOYCOTTEBxAPTxGMA760](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA760) | N/A |
-| 34 | [#AlJay](http://twitter.com/search?q=%23AlJay) | N/A |
-| 35 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 36 | [#7년의_우리맘_따뜻하게_감싸준_NCT](http://twitter.com/search?q=%237%eb%85%84%ec%9d%98_%ec%9a%b0%eb%a6%ac%eb%a7%98_%eb%94%b0%eb%9c%bb%ed%95%98%ea%b2%8c_%ea%b0%90%ec%8b%b8%ec%a4%80_NCT) | N/A |
-| 37 | [#To7heWorld_WeAreNCT](http://twitter.com/search?q=%23To7heWorld_WeAreNCT) | N/A |
+| 10 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 11 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 12 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
+| 13 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 14 | [GABBLUKE MOSHIES ANNIVERSARY](http://twitter.com/search?q=GABBLUKE+MOSHIES+ANNIVERSARY) | N/A |
+| 15 | [D-5 TO ANJI PARAISO](http://twitter.com/search?q=D-5+TO+ANJI+PARAISO) | N/A |
+| 16 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 17 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 18 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 19 | [rosie posie](http://twitter.com/search?q=rosie+posie) | N/A |
+| 20 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
+| 21 | [TANGINA NAMAN](http://twitter.com/search?q=TANGINA+NAMAN) | N/A |
+| 22 | [Don't Go](http://twitter.com/search?q=Don%27t+Go) | N/A |
+| 23 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 24 | [London](http://twitter.com/search?q=London) | N/A |
+| 25 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
+| 26 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 27 | [#ACEsOur2ndAnniversary](http://twitter.com/search?q=%23ACEsOur2ndAnniversary) | N/A |
+| 28 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
+| 29 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
+| 30 | [#EUNBINNOTE_HIBINGO](http://twitter.com/search?q=%23EUNBINNOTE_HIBINGO) | N/A |
+| 31 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 32 | [#T1Fighting](http://twitter.com/search?q=%23T1Fighting) | N/A |
+| 33 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
+| 34 | [#PARKEUNBIN](http://twitter.com/search?q=%23PARKEUNBIN) | N/A |
+| 35 | [#BOYCOTTEBxAPTxGMA760](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA760) | N/A |
+| 36 | [#AlJay](http://twitter.com/search?q=%23AlJay) | N/A |
 
 
 

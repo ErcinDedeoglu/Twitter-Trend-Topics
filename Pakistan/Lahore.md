@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-04-09 10:17:13 UTC`
+📆 Last Updated: `2023-04-09 11:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#BOLDossierUffKyaZulmHai](http://twitter.com/search?q=%23BOLDossierUffKyaZulmHai) | N/A |
 | 4 | [#چوروں_کا_ایک_سال](http://twitter.com/search?q=%23%da%86%d9%88%d8%b1%d9%88%da%ba_%da%a9%d8%a7_%d8%a7%db%8c%da%a9_%d8%b3%d8%a7%d9%84) | N/A |
 | 5 | [#یوم_چپیڑ](http://twitter.com/search?q=%23%db%8c%d9%88%d9%85_%da%86%d9%be%db%8c%da%91) | N/A |
-| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 8 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 6 | [Axact](http://twitter.com/search?q=Axact) | N/A |
+| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 9 | [Ousted But Not Defeated](http://twitter.com/search?q=Ousted+But+Not+Defeated) | N/A |
 | 10 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
 | 11 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
-| 12 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 13 | [Battle of Badr](http://twitter.com/search?q=Battle+of+Badr) | N/A |
-| 14 | [FATF](http://twitter.com/search?q=FATF) | N/A |
-| 15 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 12 | [Battle of Badr](http://twitter.com/search?q=Battle+of+Badr) | N/A |
+| 13 | [FATF](http://twitter.com/search?q=FATF) | N/A |
+| 14 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 15 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 16 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 17 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 18 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 19 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 | 20 | [umer ruling khel kay jeet](http://twitter.com/search?q=umer+ruling+khel+kay+jeet) | N/A |
 | 21 | [Local](http://twitter.com/search?q=Local) | N/A |
-| 22 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 23 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 25 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
-| 26 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
-| 27 | [SUPER CHARMING DIVA SHEHNAAZ](http://twitter.com/search?q=SUPER+CHARMING+DIVA+SHEHNAAZ) | N/A |
-| 28 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
-| 29 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 30 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 31 | [Nation](http://twitter.com/search?q=Nation) | N/A |
-| 32 | [Kufa](http://twitter.com/search?q=Kufa) | N/A |
-| 33 | [president alvi](http://twitter.com/search?q=president+alvi) | N/A |
-| 34 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 35 | [Baat](http://twitter.com/search?q=Baat) | N/A |
-| 36 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 22 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 23 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 24 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
+| 25 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 26 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
+| 27 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 28 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 29 | [Kufa](http://twitter.com/search?q=Kufa) | N/A |
+| 30 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 31 | [Saim](http://twitter.com/search?q=Saim) | N/A |
+| 32 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 33 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 34 | [Nation](http://twitter.com/search?q=Nation) | N/A |
+| 35 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
+| 36 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
 | 37 | [Mera](http://twitter.com/search?q=Mera) | N/A |
-| 38 | [Niazi](http://twitter.com/search?q=Niazi) | N/A |
-| 39 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
-| 40 | [Mjhy](http://twitter.com/search?q=Mjhy) | N/A |
+| 38 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 39 | [Niazi](http://twitter.com/search?q=Niazi) | N/A |
+| 40 | [Hamid Mir](http://twitter.com/search?q=Hamid+Mir) | N/A |
 | 41 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
-| 42 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 43 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 44 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
-| 45 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
-| 46 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
-| 47 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 48 | [Praying](http://twitter.com/search?q=Praying) | Praying is the act of communicating with a higher power, such as God, in order to express gratitude, ask for guidance, or seek forgiveness. It is an important part of many religions and spiritual practices. |
-| 49 | [Faisalabad](http://twitter.com/search?q=Faisalabad) | N/A |
-| 50 | [Haram](http://twitter.com/search?q=Haram) | N/A |
+| 42 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 43 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
+| 44 | [Insha'Allah](http://twitter.com/search?q=Insha%27Allah) | N/A |
+| 45 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 46 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 47 | [Praying](http://twitter.com/search?q=Praying) | Praying is the act of communicating with a higher power, such as God, in order to express gratitude, ask for guidance, or seek forgiveness. It is an important part of many religions and spiritual practices. |
+| 48 | [Faisalabad](http://twitter.com/search?q=Faisalabad) | N/A |
+| 49 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
+| 50 | [Emotional](http://twitter.com/search?q=Emotional) | N/A |
 
 
 
