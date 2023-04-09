@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-04-09 00:28:40 UTC`
+📆 Last Updated: `2023-04-09 01:43:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
 | 4 | [#11YearsWithEXO](http://twitter.com/search?q=%2311YearsWithEXO) | N/A |
-| 5 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
-| 6 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 5 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 6 | [#Eterna11oveForEXO](http://twitter.com/search?q=%23Eterna11oveForEXO) | N/A |
 | 7 | [#ENSD](http://twitter.com/search?q=%23ENSD) | N/A |
-| 8 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 9 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
-| 10 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 11 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 12 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 13 | [I JUST WOKE UP](http://twitter.com/search?q=I+JUST+WOKE+UP) | N/A |
-| 14 | [Maligayang Pasko](http://twitter.com/search?q=Maligayang+Pasko) | Maligayang Pasko is a Filipino phrase meaning "Merry Christmas". It is used to wish someone a happy and joyous holiday season. |
-| 15 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
-| 16 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
-| 17 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 18 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 19 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
-| 20 | [Resurrection Sunday](http://twitter.com/search?q=Resurrection+Sunday) | N/A |
-| 21 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 23 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
-| 24 | [jisoo no prepare](http://twitter.com/search?q=jisoo+no+prepare) | N/A |
-| 25 | [NO WAY](http://twitter.com/search?q=NO+WAY) | N/A |
-| 26 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 27 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 8 | [#ENGENESelcaDay](http://twitter.com/search?q=%23ENGENESelcaDay) | N/A |
+| 9 | [I REFUSE TO BELIEVE](http://twitter.com/search?q=I+REFUSE+TO+BELIEVE) | N/A |
+| 10 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 11 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
+| 12 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 13 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 14 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 15 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 16 | [I JUST WOKE UP](http://twitter.com/search?q=I+JUST+WOKE+UP) | N/A |
+| 17 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 18 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
+| 19 | [rosie posie](http://twitter.com/search?q=rosie+posie) | N/A |
+| 20 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
+| 21 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
+| 22 | [Maligayang Pasko](http://twitter.com/search?q=Maligayang+Pasko) | Maligayang Pasko is a Filipino phrase meaning "Merry Christmas". It is used to wish someone a happy and joyous holiday season. |
+| 23 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
+| 24 | [Black Saturday](http://twitter.com/search?q=Black+Saturday) | N/A |
+| 25 | [jisoo no prepare](http://twitter.com/search?q=jisoo+no+prepare) | N/A |
+| 26 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
+| 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 28 | [deesroom](http://twitter.com/search?q=deesroom) | N/A |
-| 29 | [The Lord](http://twitter.com/search?q=The+Lord) | N/A |
-| 30 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 31 | [chanbaek](http://twitter.com/search?q=chanbaek) | N/A |
-| 32 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
-| 33 | [Kkuma](http://twitter.com/search?q=Kkuma) | N/A |
-| 34 | [I AM MV TEASER OUT NOW](http://twitter.com/search?q=I+AM+MV+TEASER+OUT+NOW) | N/A |
-| 35 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
-| 36 | [MALIGAYANG UNANG KA1ARAWAN](http://twitter.com/search?q=MALIGAYANG+UNANG+KA1ARAWAN) | N/A |
-| 37 | [davidxshaira becauseiloveyou](http://twitter.com/search?q=davidxshaira+becauseiloveyou) | N/A |
-| 38 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 39 | [jonghyun](http://twitter.com/search?q=jonghyun) | N/A |
-| 40 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
-| 41 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 42 | [Don't Go](http://twitter.com/search?q=Don%27t+Go) | N/A |
-| 43 | [rradish for ppop](http://twitter.com/search?q=rradish+for+ppop) | N/A |
-| 44 | [jjong](http://twitter.com/search?q=jjong) | N/A |
-| 45 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 46 | [chansoo](http://twitter.com/search?q=chansoo) | N/A |
-| 47 | [SIM JAEYUN](http://twitter.com/search?q=SIM+JAEYUN) | N/A |
-| 48 | [Salubong](http://twitter.com/search?q=Salubong) | N/A |
-| 49 | [LOVE IS RE4L WITH REYSTER](http://twitter.com/search?q=LOVE+IS+RE4L+WITH+REYSTER) | N/A |
-| 50 | [jiayou becky](http://twitter.com/search?q=jiayou+becky) | N/A |
+| 29 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 30 | [NO WAY](http://twitter.com/search?q=NO+WAY) | N/A |
+| 31 | [Resurrection Sunday](http://twitter.com/search?q=Resurrection+Sunday) | N/A |
+| 32 | [chanbaek](http://twitter.com/search?q=chanbaek) | N/A |
+| 33 | [Day of Valor](http://twitter.com/search?q=Day+of+Valor) | N/A |
+| 34 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 35 | [MY PARENTS](http://twitter.com/search?q=MY+PARENTS) | N/A |
+| 36 | [The Lord](http://twitter.com/search?q=The+Lord) | N/A |
+| 37 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
+| 38 | [SHUT UP](http://twitter.com/search?q=SHUT+UP) | N/A |
+| 39 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
+| 40 | [I AM MV TEASER OUT NOW](http://twitter.com/search?q=I+AM+MV+TEASER+OUT+NOW) | N/A |
+| 41 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 42 | [Kkuma](http://twitter.com/search?q=Kkuma) | N/A |
+| 43 | [davidxshaira becauseiloveyou](http://twitter.com/search?q=davidxshaira+becauseiloveyou) | N/A |
+| 44 | [jonghyun](http://twitter.com/search?q=jonghyun) | N/A |
+| 45 | [eunwoo](http://twitter.com/search?q=eunwoo) | N/A |
+| 46 | [Don't Go](http://twitter.com/search?q=Don%27t+Go) | N/A |
+| 47 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 48 | [rradish for ppop](http://twitter.com/search?q=rradish+for+ppop) | N/A |
+| 49 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 50 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
 
 
 

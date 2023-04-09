@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-09 00:28:14 UTC`
+📆 Last Updated: `2023-04-09 01:42:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,54 +22,54 @@ This is top 50
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 2 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 3 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 4 | [#precure](http://twitter.com/search?q=%23precure) | #Precure is a Japanese media franchise created by Izumi Todo and produced by Toei Animation. It is a magical girl anime series aimed at young girls, featuring teams of teenage girls who transform into legendary warriors to fight evil. The English translation of the term "Precure" is "Pretty Cure". |
-| 5 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
-| 6 | [#仮面ライダーギーツ](http://twitter.com/search?q=%23%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ae%e3%83%bc%e3%83%84) | #仮面ライダーギーツ is the Japanese title for the television series Kamen Rider Gaim. The English translation of the title is Masked Rider Gaim. The series follows a young man named Kouta Kazuraba, who transforms into a superhero known as Kamen Rider Gaim to fight against an evil organization called the Inves. |
-| 7 | [ツバサくん](http://twitter.com/search?q=%e3%83%84%e3%83%90%e3%82%b5%e3%81%8f%e3%82%93) | N/A |
+| 3 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
+| 4 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
+| 5 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 6 | [#キングオージャー](http://twitter.com/search?q=%23%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
+| 7 | [ラクレス](http://twitter.com/search?q=%e3%83%a9%e3%82%af%e3%83%ac%e3%82%b9) | N/A |
 | 8 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 9 | [#فوازير_غازي_الذيابي9](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a9) | N/A |
-| 10 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
-| 11 | [カバトン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%88%e3%83%b3) | N/A |
-| 12 | [ヤーキターイ](http://twitter.com/search?q=%e3%83%a4%e3%83%bc%e3%82%ad%e3%82%bf%e3%83%bc%e3%82%a4) | N/A |
-| 13 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 14 | [プリキュア](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | プリキュア is short for "Pretty Cure," a popular Japanese magical girl anime series. The series follows the adventures of a group of girls who transform into powerful warriors to protect the world from evil forces. In English, it can be translated as "Pretty Cure." |
-| 15 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 16 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 17 | [たい焼き](http://twitter.com/search?q=%e3%81%9f%e3%81%84%e7%84%bc%e3%81%8d) | N/A |
-| 18 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 19 | [キュアスター](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 20 | [マンダリンヒーロー](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%83%80%e3%83%aa%e3%83%b3%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc) | N/A |
-| 21 | [プリズム](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0) | N/A |
-| 22 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 23 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 24 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 25 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 26 | [つばさくん](http://twitter.com/search?q=%e3%81%a4%e3%81%b0%e3%81%95%e3%81%8f%e3%82%93) | N/A |
-| 27 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 28 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
-| 29 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
-| 30 | [ましろちゃん](http://twitter.com/search?q=%e3%81%be%e3%81%97%e3%82%8d%e3%81%a1%e3%82%83%e3%82%93) | ましろちゃん is a nickname for the Japanese anime character Mashiro Shiina from the series The Pet Girl of Sakurasou. It translates to "Mashiro-chan" in English. |
-| 31 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 32 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
-| 33 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
-| 34 | [あげはさん](http://twitter.com/search?q=%e3%81%82%e3%81%92%e3%81%af%e3%81%95%e3%82%93) | N/A |
-| 35 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
-| 36 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
-| 37 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 38 | [ショタ回](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%82%bf%e5%9b%9e) | N/A |
-| 39 | [Cardona](http://twitter.com/search?q=Cardona) | N/A |
-| 40 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
-| 41 | [Sam Hughes](http://twitter.com/search?q=Sam+Hughes) | N/A |
-| 42 | [ツバサ君](http://twitter.com/search?q=%e3%83%84%e3%83%90%e3%82%b5%e5%90%9b) | N/A |
-| 43 | [あげはちゃん](http://twitter.com/search?q=%e3%81%82%e3%81%92%e3%81%af%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 44 | [Galvan](http://twitter.com/search?q=Galvan) | Galvan is a term used to describe the process of electroplating, which is a method of coating one metal with another. It involves passing an electric current through a solution containing dissolved metal salts, which causes the metal to be deposited onto the surface of the object being plated. The term comes from Luigi Galvani, an Italian scientist who discovered this process in 1791. |
-| 45 | [Soldano](http://twitter.com/search?q=Soldano) | N/A |
-| 46 | [Tree Paine](http://twitter.com/search?q=Tree+Paine) | N/A |
-| 47 | [ケンタッキーダービー](http://twitter.com/search?q=%e3%82%b1%e3%83%b3%e3%82%bf%e3%83%83%e3%82%ad%e3%83%bc%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
-| 48 | [道長くん](http://twitter.com/search?q=%e9%81%93%e9%95%b7%e3%81%8f%e3%82%93) | 道長くん is a Japanese nickname meaning "Mr. Long Road". It is often used to refer to someone who has been on a long journey or has experienced many hardships. |
-| 49 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
-| 50 | [Belgrano](http://twitter.com/search?q=Belgrano) | Belgrano is a city in Argentina, located in the province of Buenos Aires. It is named after Manuel Belgrano, an Argentine politician and military leader who played an important role in the country's struggle for independence from Spain. In English, Belgrano means "the brave one". |
+| 9 | [#仮面ライダーギーツ](http://twitter.com/search?q=%23%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ae%e3%83%bc%e3%83%84) | #仮面ライダーギーツ is the Japanese title for the television series Kamen Rider Gaim. The English translation of the title is Masked Rider Gaim. The series follows a young man named Kouta Kazuraba, who transforms into a superhero known as Kamen Rider Gaim to fight against an evil organization called the Inves. |
+| 10 | [サソリーヌ](http://twitter.com/search?q=%e3%82%b5%e3%82%bd%e3%83%aa%e3%83%bc%e3%83%8c) | N/A |
+| 11 | [クワゴン](http://twitter.com/search?q=%e3%82%af%e3%83%af%e3%82%b4%e3%83%b3) | N/A |
+| 12 | [#precure](http://twitter.com/search?q=%23precure) | #Precure is a Japanese media franchise created by Izumi Todo and produced by Toei Animation. It is a magical girl anime series aimed at young girls, featuring teams of teenage girls who transform into legendary warriors to fight evil. The English translation of the term "Precure" is "Pretty Cure". |
+| 13 | [#シューイチ](http://twitter.com/search?q=%23%e3%82%b7%e3%83%a5%e3%83%bc%e3%82%a4%e3%83%81) | N/A |
+| 14 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 15 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 16 | [ツバサくん](http://twitter.com/search?q=%e3%83%84%e3%83%90%e3%82%b5%e3%81%8f%e3%82%93) | N/A |
+| 17 | [ヒメノ様](http://twitter.com/search?q=%e3%83%92%e3%83%a1%e3%83%8e%e6%a7%98) | N/A |
+| 18 | [ギラくん](http://twitter.com/search?q=%e3%82%ae%e3%83%a9%e3%81%8f%e3%82%93) | N/A |
+| 19 | [プリキュア](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | プリキュア is short for "Pretty Cure," a popular Japanese magical girl anime series. The series follows the adventures of a group of girls who transform into powerful warriors to protect the world from evil forces. In English, it can be translated as "Pretty Cure." |
+| 20 | [カバトン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%88%e3%83%b3) | N/A |
+| 21 | [ヤーキターイ](http://twitter.com/search?q=%e3%83%a4%e3%83%bc%e3%82%ad%e3%82%bf%e3%83%bc%e3%82%a4) | N/A |
+| 22 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 23 | [たい焼き](http://twitter.com/search?q=%e3%81%9f%e3%81%84%e7%84%bc%e3%81%8d) | N/A |
+| 24 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 25 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
+| 26 | [マンダリンヒーロー](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%83%80%e3%83%aa%e3%83%b3%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc) | N/A |
+| 27 | [全国一斉クイズ](http://twitter.com/search?q=%e5%85%a8%e5%9b%bd%e4%b8%80%e6%96%89%e3%82%af%e3%82%a4%e3%82%ba) | N/A |
+| 28 | [バグナラク](http://twitter.com/search?q=%e3%83%90%e3%82%b0%e3%83%8a%e3%83%a9%e3%82%af) | N/A |
+| 29 | [創世の女神](http://twitter.com/search?q=%e5%89%b5%e4%b8%96%e3%81%ae%e5%a5%b3%e7%a5%9e) | 創世の女神 is a Japanese phrase that translates to "Goddess of Creation" in English. It is used to refer to a female deity or spirit who is responsible for the creation of the universe, or some other aspect of the world. |
+| 30 | [ゼルダの伝説](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e3%81%ae%e4%bc%9d%e8%aa%ac) | N/A |
+| 31 | [ワイルド](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%83%ab%e3%83%89) | N/A |
+| 32 | [キュアスター](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 33 | [イースター](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 34 | [Joe Pyfer](http://twitter.com/search?q=Joe+Pyfer) | N/A |
+| 35 | [Niembro](http://twitter.com/search?q=Niembro) | N/A |
+| 36 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
+| 37 | [プリズム](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0) | N/A |
+| 38 | [ヤンマ総長](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%9e%e7%b7%8f%e9%95%b7) | N/A |
+| 39 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
+| 40 | [逃走中のアニメ](http://twitter.com/search?q=%e9%80%83%e8%b5%b0%e4%b8%ad%e3%81%ae%e3%82%a2%e3%83%8b%e3%83%a1) | N/A |
+| 41 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 42 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 43 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
+| 44 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 45 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 46 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 47 | [ドゲンジャーズ](http://twitter.com/search?q=%e3%83%89%e3%82%b2%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc%e3%82%ba) | N/A |
+| 48 | [祢音ちゃん](http://twitter.com/search?q=%e7%a5%a2%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 49 | [シュゴッド](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%82%b4%e3%83%83%e3%83%89) | N/A |
+| 50 | [世界の危機](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e3%81%ae%e5%8d%b1%e6%a9%9f) | N/A |
 
 
 

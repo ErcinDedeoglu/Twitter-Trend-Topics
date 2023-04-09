@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-09 00:29:01 UTC`
+📆 Last Updated: `2023-04-09 01:43:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,13 +23,13 @@ This is top 50 for Belarus
 | 6 | [#фото](http://twitter.com/search?q=%23%d1%84%d0%be%d1%82%d0%be) | N/A |
 | 7 | [скоро](http://twitter.com/search?q=%d1%81%d0%ba%d0%be%d1%80%d0%be) | N/A |
 | 8 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
-| 9 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
+| 9 | [дааа](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b0%d0%b0) | N/A |
 | 10 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
 | 11 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
 | 12 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
 | 13 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 14 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
-| 15 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 15 | [красиво](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
 | 16 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 17 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
 | 18 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |

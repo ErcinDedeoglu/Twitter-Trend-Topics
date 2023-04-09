@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-04-09 00:28:32 UTC`
+📆 Last Updated: `2023-04-09 01:43:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,9 +18,9 @@ This is top 50 for [Sweden](</Sweden>)
 | 1 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [Glad Påsk](http://twitter.com/search?q=Glad+P%c3%a5sk) | N/A |
-| 4 | [Vejdemo](http://twitter.com/search?q=Vejdemo) | N/A |
-| 5 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 6 | [Galajda](http://twitter.com/search?q=Galajda) | N/A |
+| 4 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 5 | [Galajda](http://twitter.com/search?q=Galajda) | N/A |
+| 6 | [Vejdemo](http://twitter.com/search?q=Vejdemo) | N/A |
 | 7 | [Weigel](http://twitter.com/search?q=Weigel) | N/A |
 | 8 | [Ingvar Hirdwall](http://twitter.com/search?q=Ingvar+Hirdwall) | N/A |
 | 9 | [Borg](http://twitter.com/search?q=Borg) | N/A |
@@ -41,27 +41,27 @@ This is top 50 for [Sweden](</Sweden>)
 | 24 | [Detsamma](http://twitter.com/search?q=Detsamma) | N/A |
 | 25 | [#PrePartyES23](http://twitter.com/search?q=%23PrePartyES23) | N/A |
 | 26 | [taha ali](http://twitter.com/search?q=taha+ali) | N/A |
-| 27 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 28 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 29 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 30 | [Livets](http://twitter.com/search?q=Livets) | N/A |
-| 31 | [Björklöven](http://twitter.com/search?q=Bj%c3%b6rkl%c3%b6ven) | N/A |
+| 27 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 28 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 29 | [Livets](http://twitter.com/search?q=Livets) | N/A |
+| 30 | [Björklöven](http://twitter.com/search?q=Bj%c3%b6rkl%c3%b6ven) | N/A |
+| 31 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 32 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
 | 33 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
 | 34 | [Stasi](http://twitter.com/search?q=Stasi) | N/A |
 | 35 | [grimsta](http://twitter.com/search?q=grimsta) | N/A |
-| 36 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
+| 36 | [vecchia](http://twitter.com/search?q=vecchia) | N/A |
 | 37 | [#TOTBHA](http://twitter.com/search?q=%23TOTBHA) | N/A |
 | 38 | [Snygg](http://twitter.com/search?q=Snygg) | N/A |
 | 39 | [kiese](http://twitter.com/search?q=kiese) | N/A |
 | 40 | [tack lennart](http://twitter.com/search?q=tack+lennart) | N/A |
 | 41 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 42 | [Djurgården](http://twitter.com/search?q=Djurg%c3%a5rden) | N/A |
-| 43 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 44 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 45 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 46 | [Hovet](http://twitter.com/search?q=Hovet) | N/A |
-| 47 | [vida arena](http://twitter.com/search?q=vida+arena) | N/A |
+| 42 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 43 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 44 | [hovet](http://twitter.com/search?q=hovet) | N/A |
+| 45 | [vida arena](http://twitter.com/search?q=vida+arena) | N/A |
+| 46 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 47 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
 
 
 

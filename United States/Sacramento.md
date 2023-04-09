@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-04-09 00:28:58 UTC`
+📆 Last Updated: `2023-04-09 01:43:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Link 1](http://twitter.com/search?q=Link+1) | N/A |
 | 2 | [Live Stream](http://twitter.com/search?q=Live+Stream) | N/A |
-| 3 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 4 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
-| 5 | [#LAFC](http://twitter.com/search?q=%23LAFC) | N/A |
-| 6 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 7 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 8 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
-| 9 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 10 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 11 | [Easter Bunny](http://twitter.com/search?q=Easter+Bunny) | N/A |
-| 12 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
-| 13 | [Coors](http://twitter.com/search?q=Coors) | N/A |
-| 14 | [#dreamhacksandiego](http://twitter.com/search?q=%23dreamhacksandiego) | N/A |
-| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 16 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
-| 17 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 18 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 19 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 20 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 21 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
-| 22 | [Sam Hughes](http://twitter.com/search?q=Sam+Hughes) | N/A |
-| 23 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
-| 24 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 25 | [Lauer](http://twitter.com/search?q=Lauer) | N/A |
-| 26 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 27 | [Stott](http://twitter.com/search?q=Stott) | N/A |
-| 28 | [Tree Paine](http://twitter.com/search?q=Tree+Paine) | N/A |
-| 29 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 30 | [Yelich](http://twitter.com/search?q=Yelich) | N/A |
-| 31 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 32 | [Lodolo](http://twitter.com/search?q=Lodolo) | N/A |
-| 33 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 34 | [Charlie Morton](http://twitter.com/search?q=Charlie+Morton) | N/A |
-| 35 | [Martell](http://twitter.com/search?q=Martell) | N/A |
-| 36 | [Bahamondes](http://twitter.com/search?q=Bahamondes) | N/A |
-| 37 | [Ogden](http://twitter.com/search?q=Ogden) | N/A |
-| 38 | [Billye Aaron](http://twitter.com/search?q=Billye+Aaron) | N/A |
-| 39 | [Velasquez](http://twitter.com/search?q=Velasquez) | N/A |
-| 40 | [David Bell](http://twitter.com/search?q=David+Bell) | N/A |
-| 41 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 42 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
-| 43 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 44 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 45 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
-| 46 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
-| 47 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
-| 48 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 49 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 50 | [Kolten Wong](http://twitter.com/search?q=Kolten+Wong) | N/A |
+| 3 | [Thor](http://twitter.com/search?q=Thor) | N/A |
+| 4 | [#LAGalaxy](http://twitter.com/search?q=%23LAGalaxy) | N/A |
+| 5 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
+| 6 | [Kapler](http://twitter.com/search?q=Kapler) | N/A |
+| 7 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 8 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
+| 9 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 10 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 11 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 12 | [#criterion4you](http://twitter.com/search?q=%23criterion4you) | N/A |
+| 13 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 14 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
+| 15 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
+| 16 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
+| 17 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 18 | [Easter Bunny](http://twitter.com/search?q=Easter+Bunny) | N/A |
+| 19 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
+| 20 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 21 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 22 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 23 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 24 | [Joe Pyfer](http://twitter.com/search?q=Joe+Pyfer) | N/A |
+| 25 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 26 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 27 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 28 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
+| 29 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 30 | [Odor](http://twitter.com/search?q=Odor) | N/A |
+| 31 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 32 | [Air Noland](http://twitter.com/search?q=Air+Noland) | N/A |
+| 33 | [Martell](http://twitter.com/search?q=Martell) | N/A |
+| 34 | [Syndergaard](http://twitter.com/search?q=Syndergaard) | N/A |
+| 35 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
+| 36 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
+| 37 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 38 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 39 | [Stormi](http://twitter.com/search?q=Stormi) | N/A |
+| 40 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
+| 41 | [Calvillo](http://twitter.com/search?q=Calvillo) | N/A |
+| 42 | [Sam Hughes](http://twitter.com/search?q=Sam+Hughes) | N/A |
+| 43 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 44 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
+| 45 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 46 | [Lauer](http://twitter.com/search?q=Lauer) | N/A |
+| 47 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 48 | [Charlie Morton](http://twitter.com/search?q=Charlie+Morton) | N/A |
+| 49 | [Loopy](http://twitter.com/search?q=Loopy) | N/A |
+| 50 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
 
 
 

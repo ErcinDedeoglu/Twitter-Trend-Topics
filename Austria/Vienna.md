@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-09 00:28:26 UTC`
+📆 Last Updated: `2023-04-09 01:43:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,12 +16,12 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 2 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
-| 5 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
-| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 7 | [#karfreitag](http://twitter.com/search?q=%23karfreitag) | N/A |
+| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 3 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 5 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 6 | [#Karfreitag](http://twitter.com/search?q=%23Karfreitag) | N/A |
+| 7 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
 | 8 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
 | 9 | [Coco](http://twitter.com/search?q=Coco) | N/A |
 | 10 | [#svrhtb](http://twitter.com/search?q=%23svrhtb) | N/A |
@@ -45,9 +45,9 @@ This is top 50 for [Austria](</Austria>)
 | 28 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
 | 29 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
 | 30 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 31 | [Pressesprecher](http://twitter.com/search?q=Pressesprecher) | N/A |
+| 31 | [pressesprecher](http://twitter.com/search?q=pressesprecher) | N/A |
 | 32 | [Truppe](http://twitter.com/search?q=Truppe) | N/A |
-| 33 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 33 | [sanktionen](http://twitter.com/search?q=sanktionen) | N/A |
 | 34 | [guten morgen peter](http://twitter.com/search?q=guten+morgen+peter) | N/A |
 | 35 | [Hasen](http://twitter.com/search?q=Hasen) | N/A |
 | 36 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |

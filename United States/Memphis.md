@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-04-09 00:28:56 UTC`
+📆 Last Updated: `2023-04-09 01:43:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 3 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 4 | [#TheRenovatorHGTVtonight](http://twitter.com/search?q=%23TheRenovatorHGTVtonight) | N/A |
+| 2 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
+| 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 5 | [#LAMH](http://twitter.com/search?q=%23LAMH) | N/A |
-| 6 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
+| 6 | [#TheRenovatorHGTVtonight](http://twitter.com/search?q=%23TheRenovatorHGTVtonight) | N/A |
 | 7 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
 | 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 9 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 10 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
-| 11 | [Sam Hughes](http://twitter.com/search?q=Sam+Hughes) | N/A |
-| 12 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
-| 13 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
-| 14 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 15 | [Lauer](http://twitter.com/search?q=Lauer) | N/A |
-| 16 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 17 | [Stott](http://twitter.com/search?q=Stott) | N/A |
-| 18 | [Tree Paine](http://twitter.com/search?q=Tree+Paine) | N/A |
-| 19 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 20 | [Yelich](http://twitter.com/search?q=Yelich) | N/A |
-| 21 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 22 | [Lodolo](http://twitter.com/search?q=Lodolo) | N/A |
-| 23 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 24 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 25 | [Charlie Morton](http://twitter.com/search?q=Charlie+Morton) | N/A |
-| 26 | [Martell](http://twitter.com/search?q=Martell) | N/A |
-| 27 | [Bahamondes](http://twitter.com/search?q=Bahamondes) | N/A |
-| 28 | [Ogden](http://twitter.com/search?q=Ogden) | N/A |
-| 29 | [Billye Aaron](http://twitter.com/search?q=Billye+Aaron) | N/A |
-| 30 | [Velasquez](http://twitter.com/search?q=Velasquez) | N/A |
-| 31 | [David Bell](http://twitter.com/search?q=David+Bell) | N/A |
-| 32 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
-| 33 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
-| 34 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 35 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 36 | [Kapler](http://twitter.com/search?q=Kapler) | N/A |
-| 37 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
-| 38 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
-| 39 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
-| 40 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 41 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
-| 42 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 43 | [Nolan Arenado](http://twitter.com/search?q=Nolan+Arenado) | N/A |
-| 44 | [The Old Dark House](http://twitter.com/search?q=The+Old+Dark+House) | N/A |
-| 45 | [Calvillo](http://twitter.com/search?q=Calvillo) | N/A |
-| 46 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 47 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 48 | [Brasier](http://twitter.com/search?q=Brasier) | Brasier is a type of lingerie that covers the breasts and torso. It is similar to a corset, but usually has less boning and is more lightweight. The word comes from the French word for "brazier," which is a type of open-top fireplace. In English, brasier can be used to refer to any type of lingerie that covers the breasts and torso. |
-| 49 | [Out The Trunk](http://twitter.com/search?q=Out+The+Trunk) | N/A |
+| 9 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 10 | [Joe Pyfer](http://twitter.com/search?q=Joe+Pyfer) | N/A |
+| 11 | [Zacha](http://twitter.com/search?q=Zacha) | Zacha is a name of Slavic origin, derived from the name Zachary. It is a variant of Zachariah, which means "God remembers" in Hebrew. |
+| 12 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 13 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 14 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 15 | [Steve Garcia](http://twitter.com/search?q=Steve+Garcia) | N/A |
+| 16 | [Odor](http://twitter.com/search?q=Odor) | N/A |
+| 17 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
+| 18 | [Air Noland](http://twitter.com/search?q=Air+Noland) | N/A |
+| 19 | [Martell](http://twitter.com/search?q=Martell) | N/A |
+| 20 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
+| 21 | [Aaron Hicks](http://twitter.com/search?q=Aaron+Hicks) | N/A |
+| 22 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 23 | [Calvillo](http://twitter.com/search?q=Calvillo) | N/A |
+| 24 | [Syndergaard](http://twitter.com/search?q=Syndergaard) | N/A |
+| 25 | [Stormi](http://twitter.com/search?q=Stormi) | N/A |
+| 26 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
+| 27 | [Gophers](http://twitter.com/search?q=Gophers) | N/A |
+| 28 | [Sam Hughes](http://twitter.com/search?q=Sam+Hughes) | N/A |
+| 29 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 30 | [Christiana Mall](http://twitter.com/search?q=Christiana+Mall) | N/A |
+| 31 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 32 | [Lauer](http://twitter.com/search?q=Lauer) | N/A |
+| 33 | [Charlie Morton](http://twitter.com/search?q=Charlie+Morton) | N/A |
+| 34 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 35 | [Loopy](http://twitter.com/search?q=Loopy) | N/A |
+| 36 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
+| 37 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 38 | [Tree Paine](http://twitter.com/search?q=Tree+Paine) | N/A |
+| 39 | [Austin Voth](http://twitter.com/search?q=Austin+Voth) | N/A |
+| 40 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 41 | [Greg Abbott](http://twitter.com/search?q=Greg+Abbott) | Greg Abbott is the Governor of Texas. He was elected in 2014 and is the 48th Governor of the state. His name is derived from the Latin phrase "Gregis Abbot", which means "guardian of the abbey". |
+| 42 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 43 | [Yelich](http://twitter.com/search?q=Yelich) | N/A |
+| 44 | [Waterson](http://twitter.com/search?q=Waterson) | N/A |
+| 45 | [Denis Bouanga](http://twitter.com/search?q=Denis+Bouanga) | N/A |
+| 46 | [Bahamondes](http://twitter.com/search?q=Bahamondes) | N/A |
+| 47 | [Herbert](http://twitter.com/search?q=Herbert) | Herbert is a masculine given name of Germanic origin, derived from the elements "heri" meaning "army" and "berht" meaning "bright". It is also a surname. In English, Herbert means "illustrious warrior". |
+| 48 | [Pinheiro](http://twitter.com/search?q=Pinheiro) | N/A |
+| 49 | [Billye Aaron](http://twitter.com/search?q=Billye+Aaron) | N/A |
 
 
 

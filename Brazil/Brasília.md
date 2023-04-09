@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-04-09 00:28:23 UTC`
+📆 Last Updated: `2023-04-09 01:43:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Brazil](</Brazil>)
 | 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 3 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 4 | [cornelia street](http://twitter.com/search?q=cornelia+street) | N/A |
-| 5 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 6 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
-| 7 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 8 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 9 | [the great war](http://twitter.com/search?q=the+great+war) | N/A |
-| 10 | [KHALIL](http://twitter.com/search?q=KHALIL) | N/A |
+| 5 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 6 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 7 | [STELOISA EM ALERTA](http://twitter.com/search?q=STELOISA+EM+ALERTA) | N/A |
+| 8 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 9 | [KHALIL](http://twitter.com/search?q=KHALIL) | N/A |
+| 10 | [the great war](http://twitter.com/search?q=the+great+war) | N/A |
 | 11 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 12 | [Tree Paine](http://twitter.com/search?q=Tree+Paine) | N/A |
-| 13 | [STELOISA EM ALERTA](http://twitter.com/search?q=STELOISA+EM+ALERTA) | N/A |
-| 14 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 15 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
-| 16 | [É MENTIRA](http://twitter.com/search?q=%c3%89+MENTIRA) | N/A |
-| 17 | [ts11](http://twitter.com/search?q=ts11) | N/A |
-| 18 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 19 | [Vuaden](http://twitter.com/search?q=Vuaden) | N/A |
-| 20 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
-| 21 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 22 | [Lucas Silva](http://twitter.com/search?q=Lucas+Silva) | N/A |
-| 23 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 24 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
-| 25 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
-| 26 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
-| 27 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
-| 28 | [NÃO ACEITO](http://twitter.com/search?q=N%c3%83O+ACEITO) | N/A |
-| 29 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 30 | [Invisible String](http://twitter.com/search?q=Invisible+String) | N/A |
-| 31 | [Gustavinho](http://twitter.com/search?q=Gustavinho) | N/A |
-| 32 | [KING OF MY HEART](http://twitter.com/search?q=KING+OF+MY+HEART) | N/A |
-| 33 | [Gauchão](http://twitter.com/search?q=Gauch%c3%a3o) | N/A |
-| 34 | [RECUSO](http://twitter.com/search?q=RECUSO) | N/A |
-| 35 | [Jean Dias](http://twitter.com/search?q=Jean+Dias) | N/A |
-| 36 | [Criciúma](http://twitter.com/search?q=Crici%c3%bama) | N/A |
-| 37 | [PAPER RINGS](http://twitter.com/search?q=PAPER+RINGS) | N/A |
-| 38 | [Farid](http://twitter.com/search?q=Farid) | N/A |
-| 39 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
-| 40 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
-| 41 | [#LOUDWIN](http://twitter.com/search?q=%23LOUDWIN) | N/A |
-| 42 | [MEUS PAIS](http://twitter.com/search?q=MEUS+PAIS) | N/A |
-| 43 | [NÃO NÃO NÃO](http://twitter.com/search?q=N%c3%83O+N%c3%83O+N%c3%83O) | N/A |
-| 44 | [#nascarnobandsports](http://twitter.com/search?q=%23nascarnobandsports) | N/A |
-| 45 | [É CAMPEÃO](http://twitter.com/search?q=%c3%89+CAMPE%c3%83O) | É CAMPEÃO is a Portuguese phrase that translates to "It's a Champion" in English. It is typically used to express joy and excitement when someone or something has achieved a great victory or accomplishment. |
-| 46 | [Calebe](http://twitter.com/search?q=Calebe) | N/A |
-| 47 | [TERMINARAM](http://twitter.com/search?q=TERMINARAM) | N/A |
-| 48 | [#IncidenteKojima](http://twitter.com/search?q=%23IncidenteKojima) | N/A |
-| 49 | [Geromel](http://twitter.com/search?q=Geromel) | N/A |
-| 50 | [Hexa](http://twitter.com/search?q=Hexa) | N/A |
+| 12 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
+| 13 | [#nascarnobandsports](http://twitter.com/search?q=%23nascarnobandsports) | N/A |
+| 14 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
+| 15 | [Daylight](http://twitter.com/search?q=Daylight) | N/A |
+| 16 | [TOH FINALE](http://twitter.com/search?q=TOH+FINALE) | N/A |
+| 17 | [SWEET NOTHING](http://twitter.com/search?q=SWEET+NOTHING) | N/A |
+| 18 | [KING OF MY HEART](http://twitter.com/search?q=KING+OF+MY+HEART) | N/A |
+| 19 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 20 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 21 | [É MENTIRA](http://twitter.com/search?q=%c3%89+MENTIRA) | N/A |
+| 22 | [all of the girls](http://twitter.com/search?q=all+of+the+girls) | N/A |
+| 23 | [ts11](http://twitter.com/search?q=ts11) | N/A |
+| 24 | [#IncidenteKojima](http://twitter.com/search?q=%23IncidenteKojima) | N/A |
+| 25 | [Invisible String](http://twitter.com/search?q=Invisible+String) | N/A |
+| 26 | [EU ME RECUSO](http://twitter.com/search?q=EU+ME+RECUSO) | N/A |
+| 27 | [Farid](http://twitter.com/search?q=Farid) | N/A |
+| 28 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 29 | [EU NÃO ACEITO](http://twitter.com/search?q=EU+N%c3%83O+ACEITO) | N/A |
+| 30 | [AJAY](http://twitter.com/search?q=AJAY) | N/A |
+| 31 | [London Boy](http://twitter.com/search?q=London+Boy) | N/A |
+| 32 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 33 | [PAPER RINGS](http://twitter.com/search?q=PAPER+RINGS) | N/A |
+| 34 | [Lucas Silva](http://twitter.com/search?q=Lucas+Silva) | N/A |
+| 35 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
+| 36 | [Vuaden](http://twitter.com/search?q=Vuaden) | N/A |
+| 37 | [Juma](http://twitter.com/search?q=Juma) | N/A |
+| 38 | [NÃO NÃO NÃO](http://twitter.com/search?q=N%c3%83O+N%c3%83O+N%c3%83O) | N/A |
+| 39 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 40 | [Gauchão](http://twitter.com/search?q=Gauch%c3%a3o) | N/A |
+| 41 | [Deuxmoi](http://twitter.com/search?q=Deuxmoi) | N/A |
+| 42 | [meredith](http://twitter.com/search?q=meredith) | N/A |
+| 43 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
+| 44 | [MEUS PAIS](http://twitter.com/search?q=MEUS+PAIS) | N/A |
+| 45 | [CALL IT WHAT YOU WANT](http://twitter.com/search?q=CALL+IT+WHAT+YOU+WANT) | N/A |
+| 46 | [The 1](http://twitter.com/search?q=The+1) | N/A |
+| 47 | [NÃO PODE SER](http://twitter.com/search?q=N%c3%83O+PODE+SER) | N/A |
+| 48 | [Gustavinho](http://twitter.com/search?q=Gustavinho) | N/A |
+| 49 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
+| 50 | [BRINCADEIRA TEM HORA](http://twitter.com/search?q=BRINCADEIRA+TEM+HORA) | N/A |
 
 
 
