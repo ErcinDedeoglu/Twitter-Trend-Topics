@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-09 14:17:24 UTC`
+📆 Last Updated: `2023-04-09 15:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for Panama
 | 6 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 7 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
 | 8 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 9 | [MELFI NOMINADO X HEAT](http://twitter.com/search?q=MELFI+NOMINADO+X+HEAT) | N/A |
+| 9 | [melfi nominado x heat](http://twitter.com/search?q=melfi+nominado+x+heat) | N/A |
 | 10 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 11 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 12 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
@@ -33,38 +33,38 @@ This is top 50 for Panama
 | 16 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 | 17 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
 | 18 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 19 | [#SemanaSantaSegura2023](http://twitter.com/search?q=%23SemanaSantaSegura2023) | N/A |
-| 20 | [multiplaza](http://twitter.com/search?q=multiplaza) | N/A |
-| 21 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
-| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 23 | [Copa](http://twitter.com/search?q=Copa) | N/A |
-| 24 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 25 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
-| 26 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 27 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 28 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
-| 29 | [pepitas](http://twitter.com/search?q=pepitas) | N/A |
-| 30 | [#saludparatodos](http://twitter.com/search?q=%23saludparatodos) | N/A |
-| 31 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 32 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 33 | [Biblia](http://twitter.com/search?q=Biblia) | N/A |
-| 34 | [coronado](http://twitter.com/search?q=coronado) | N/A |
-| 35 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 36 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
-| 37 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 38 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
-| 39 | [bomberos](http://twitter.com/search?q=bomberos) | N/A |
-| 40 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 41 | [La Pasión de Cristo](http://twitter.com/search?q=La+Pasi%c3%b3n+de+Cristo) | N/A |
-| 42 | [#dreamstime](http://twitter.com/search?q=%23dreamstime) | N/A |
-| 43 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 44 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 45 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 46 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 47 | [cinépolis](http://twitter.com/search?q=cin%c3%a9polis) | N/A |
-| 48 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 49 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 50 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 19 | [multiplaza](http://twitter.com/search?q=multiplaza) | N/A |
+| 20 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
+| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 22 | [Copa](http://twitter.com/search?q=Copa) | N/A |
+| 23 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 24 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
+| 25 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 26 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 27 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
+| 28 | [pepitas](http://twitter.com/search?q=pepitas) | N/A |
+| 29 | [#saludparatodos](http://twitter.com/search?q=%23saludparatodos) | N/A |
+| 30 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 31 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 32 | [Biblia](http://twitter.com/search?q=Biblia) | N/A |
+| 33 | [Coronado](http://twitter.com/search?q=Coronado) | N/A |
+| 34 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 35 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
+| 36 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 37 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
+| 38 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
+| 39 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 40 | [La Pasión de Cristo](http://twitter.com/search?q=La+Pasi%c3%b3n+de+Cristo) | N/A |
+| 41 | [#dreamstime](http://twitter.com/search?q=%23dreamstime) | N/A |
+| 42 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 43 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 44 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 45 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 46 | [cinépolis](http://twitter.com/search?q=cin%c3%a9polis) | N/A |
+| 47 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 48 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 49 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 50 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Guayana
 
-📆 Last Updated: `2023-04-09 14:16:39 UTC`
+📆 Last Updated: `2023-04-09 15:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Venezuela](</Venezuela>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [#8abr](http://twitter.com/search?q=%238abr) | N/A |
-| 3 | [#PuebloEnAmorYPaz](http://twitter.com/search?q=%23PuebloEnAmorYPaz) | N/A |
+| 2 | [#PuebloEnAmorYPaz](http://twitter.com/search?q=%23PuebloEnAmorYPaz) | N/A |
+| 3 | [#8Abr](http://twitter.com/search?q=%238Abr) | N/A |
 | 4 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 5 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 6 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
@@ -27,13 +27,13 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 10 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
 | 11 | [Tocuyito](http://twitter.com/search?q=Tocuyito) | N/A |
 | 12 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
-| 13 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 13 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
 | 14 | [#vinotintosub17xmtv](http://twitter.com/search?q=%23vinotintosub17xmtv) | N/A |
 | 15 | [Sandro](http://twitter.com/search?q=Sandro) | N/A |
-| 16 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 17 | [Chataing](http://twitter.com/search?q=Chataing) | N/A |
 | 18 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 19 | [Rafael Cadenas](http://twitter.com/search?q=Rafael+Cadenas) | N/A |
+| 19 | [rafael cadenas](http://twitter.com/search?q=rafael+cadenas) | N/A |
 | 20 | [#felizsabado](http://twitter.com/search?q=%23felizsabado) | N/A |
 | 21 | [Vigilia Pascual](http://twitter.com/search?q=Vigilia+Pascual) | N/A |
 | 22 | [Jim Carrey](http://twitter.com/search?q=Jim+Carrey) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 45 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
 | 46 | [cherry navarro](http://twitter.com/search?q=cherry+navarro) | N/A |
 | 47 | [isa dobles](http://twitter.com/search?q=isa+dobles) | N/A |
-| 48 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
+| 48 | [salvador pérez](http://twitter.com/search?q=salvador+p%c3%a9rez) | N/A |
 | 49 | [Guyana](http://twitter.com/search?q=Guyana) | N/A |
 
 

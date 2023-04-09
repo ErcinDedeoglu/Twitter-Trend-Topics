@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-09 14:17:21 UTC`
+📆 Last Updated: `2023-04-09 15:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,9 +19,9 @@ This is top 50 for Guatemala
 | 2 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 3 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 4 | [#temblorgt](http://twitter.com/search?q=%23temblorgt) | N/A |
-| 5 | [Danny Ocean](http://twitter.com/search?q=Danny+Ocean) | N/A |
-| 6 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
-| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 5 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
+| 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 7 | [Danny Ocean](http://twitter.com/search?q=Danny+Ocean) | N/A |
 | 8 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
 | 9 | [Duki](http://twitter.com/search?q=Duki) | N/A |
 | 10 | [rotondi](http://twitter.com/search?q=rotondi) | N/A |
@@ -49,20 +49,20 @@ This is top 50 for Guatemala
 | 32 | [xinabajul](http://twitter.com/search?q=xinabajul) | N/A |
 | 33 | [tortillas](http://twitter.com/search?q=tortillas) | N/A |
 | 34 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 35 | [chimaltenango](http://twitter.com/search?q=chimaltenango) | N/A |
-| 36 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 37 | [jornada 17](http://twitter.com/search?q=jornada+17) | N/A |
-| 38 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
-| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 40 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 41 | [conasa](http://twitter.com/search?q=conasa) | N/A |
-| 42 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
+| 35 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 36 | [jornada 17](http://twitter.com/search?q=jornada+17) | N/A |
+| 37 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
+| 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 39 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 40 | [conasa](http://twitter.com/search?q=conasa) | N/A |
+| 41 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
+| 42 | [Chimaltenango](http://twitter.com/search?q=Chimaltenango) | N/A |
 | 43 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 44 | [Judas](http://twitter.com/search?q=Judas) | N/A |
 | 45 | [palín-escuintla](http://twitter.com/search?q=pal%c3%adn-escuintla) | N/A |
 | 46 | [Virgen](http://twitter.com/search?q=Virgen) | N/A |
 | 47 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 48 | [san felipe](http://twitter.com/search?q=san+felipe) | N/A |
+| 48 | [San Felipe](http://twitter.com/search?q=San+Felipe) | N/A |
 | 49 | [Premier](http://twitter.com/search?q=Premier) | N/A |
 | 50 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calgary
 
-📆 Last Updated: `2023-04-09 14:16:31 UTC`
+📆 Last Updated: `2023-04-09 15:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Canada](</Canada>)
 | 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 4 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 5 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 6 | [#Canucks](http://twitter.com/search?q=%23Canucks) | N/A |
-| 7 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 8 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
-| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 11 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
+| 6 | [Canucks](http://twitter.com/search?q=Canucks) | Canucks is a slang term for Canadians. It is derived from the word "Canadian" and is often used in a jocular or affectionate manner. |
+| 7 | [c1y  VBA](http://twitter.com/search?q=c1y++VBA) | N/A |
+| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 9 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 10 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
+| 11 | [Bo Horvat](http://twitter.com/search?q=Bo+Horvat) | N/A |
 | 12 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
 | 13 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
 | 14 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 15 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
-| 16 | [EBUG](http://twitter.com/search?q=EBUG) | N/A |
+| 15 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 16 | [ebug](http://twitter.com/search?q=ebug) | N/A |
 | 17 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
 | 18 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 19 | [wayne simmonds](http://twitter.com/search?q=wayne+simmonds) | N/A |
-| 20 | [Chris Wideman](http://twitter.com/search?q=Chris+Wideman) | N/A |
-| 21 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 22 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
-| 23 | [Habs](http://twitter.com/search?q=Habs) | N/A |
-| 24 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
-| 25 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 26 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 27 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 28 | [rob font](http://twitter.com/search?q=rob+font) | N/A |
-| 29 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 19 | [#AndNew](http://twitter.com/search?q=%23AndNew) | N/A |
+| 20 | [wayne simmonds](http://twitter.com/search?q=wayne+simmonds) | N/A |
+| 21 | [Chris Wideman](http://twitter.com/search?q=Chris+Wideman) | N/A |
+| 22 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 23 | [Kevin Holland](http://twitter.com/search?q=Kevin+Holland) | N/A |
+| 24 | [Habs](http://twitter.com/search?q=Habs) | N/A |
+| 25 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
+| 26 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 27 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 28 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 29 | [Rob Font](http://twitter.com/search?q=Rob+Font) | N/A |
 | 30 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
 | 31 | [marner](http://twitter.com/search?q=marner) | N/A |
 | 32 | [Gastelum](http://twitter.com/search?q=Gastelum) | N/A |
 | 33 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 34 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
+| 34 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 35 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 36 | [chris bassitt](http://twitter.com/search?q=chris+bassitt) | N/A |
-| 37 | [Saputo](http://twitter.com/search?q=Saputo) | N/A |
-| 38 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 36 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
+| 37 | [chris bassitt](http://twitter.com/search?q=chris+bassitt) | N/A |
+| 38 | [saputo](http://twitter.com/search?q=saputo) | N/A |
 | 39 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
 | 40 | [Trout](http://twitter.com/search?q=Trout) | N/A |
-| 41 | [200k in eth](http://twitter.com/search?q=200k+in+eth) | N/A |
-| 42 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 41 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 42 | [200k in eth](http://twitter.com/search?q=200k+in+eth) | N/A |
 | 43 | [MEV Bot](http://twitter.com/search?q=MEV+Bot) | N/A |
 | 44 | [demers](http://twitter.com/search?q=demers) | N/A |
 | 45 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 46 | [losada](http://twitter.com/search?q=losada) | N/A |
-| 47 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
-| 48 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 49 | [Isles](http://twitter.com/search?q=Isles) | Isles is a term used to refer to islands, or groups of islands. It is derived from the Old English word īegl, which means island. Isles can also be used to refer to a country or region made up of many islands, such as the British Isles. |
-| 50 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 46 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 47 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 48 | [losada](http://twitter.com/search?q=losada) | N/A |
+| 49 | [Rex Manning](http://twitter.com/search?q=Rex+Manning) | N/A |
+| 50 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
 
 
 

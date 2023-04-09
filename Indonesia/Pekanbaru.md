@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-04-09 14:16:50 UTC`
+📆 Last Updated: `2023-04-09 15:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,41 +25,39 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 8 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
 | 9 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
 | 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [Lazada](http://twitter.com/search?q=Lazada) | N/A |
-| 12 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
+| 11 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
+| 12 | [Lazada](http://twitter.com/search?q=Lazada) | N/A |
 | 13 | [Mas Adam](http://twitter.com/search?q=Mas+Adam) | N/A |
-| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 15 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 14 | [TNI AU](http://twitter.com/search?q=TNI+AU) | N/A |
+| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 16 | [1 Rupiah](http://twitter.com/search?q=1+Rupiah) | N/A |
-| 17 | [TNI AU](http://twitter.com/search?q=TNI+AU) | N/A |
-| 18 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 17 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 18 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
 | 19 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
 | 20 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 21 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 22 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 23 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 25 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 26 | [Kokas](http://twitter.com/search?q=Kokas) | N/A |
-| 27 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 28 | [Sugeng](http://twitter.com/search?q=Sugeng) | N/A |
-| 29 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 30 | [Love Me Right](http://twitter.com/search?q=Love+Me+Right) | N/A |
-| 31 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
-| 32 | [Kristus](http://twitter.com/search?q=Kristus) | N/A |
-| 33 | [Panas](http://twitter.com/search?q=Panas) | N/A |
-| 34 | [Onic](http://twitter.com/search?q=Onic) | N/A |
-| 35 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
-| 36 | [#BukaAjaBukalapak](http://twitter.com/search?q=%23BukaAjaBukalapak) | N/A |
-| 37 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
-| 38 | [#ApologizeToMatthew](http://twitter.com/search?q=%23ApologizeToMatthew) | N/A |
-| 39 | [#IDGLIVvsARS](http://twitter.com/search?q=%23IDGLIVvsARS) | N/A |
-| 40 | [#SailingOfLoveNaRa](http://twitter.com/search?q=%23SailingOfLoveNaRa) | N/A |
-| 41 | [#TimeForEXO](http://twitter.com/search?q=%23TimeForEXO) | N/A |
-| 42 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
-| 43 | [#BukberTanpaWacana](http://twitter.com/search?q=%23BukberTanpaWacana) | N/A |
-| 44 | [#NarwhalFinance](http://twitter.com/search?q=%23NarwhalFinance) | N/A |
-| 45 | [#TaxiDriver2Ep14](http://twitter.com/search?q=%23TaxiDriver2Ep14) | N/A |
+| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 23 | [STREAMING CHAIN](http://twitter.com/search?q=STREAMING+CHAIN) | N/A |
+| 24 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 25 | [Kokas](http://twitter.com/search?q=Kokas) | N/A |
+| 26 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 27 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
+| 28 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 29 | [Love Me Right](http://twitter.com/search?q=Love+Me+Right) | N/A |
+| 30 | [Kristus](http://twitter.com/search?q=Kristus) | N/A |
+| 31 | [Panas](http://twitter.com/search?q=Panas) | N/A |
+| 32 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
+| 33 | [#BukaAjaBukalapak](http://twitter.com/search?q=%23BukaAjaBukalapak) | N/A |
+| 34 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
+| 35 | [#ApologizeToMatthew](http://twitter.com/search?q=%23ApologizeToMatthew) | N/A |
+| 36 | [#IDGLIVvsARS](http://twitter.com/search?q=%23IDGLIVvsARS) | N/A |
+| 37 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 38 | [#NarwhalFinance](http://twitter.com/search?q=%23NarwhalFinance) | N/A |
+| 39 | [#TimeForEXO](http://twitter.com/search?q=%23TimeForEXO) | N/A |
+| 40 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
+| 41 | [#IKNNusantara](http://twitter.com/search?q=%23IKNNusantara) | N/A |
+| 42 | [#BukberTanpaWacana](http://twitter.com/search?q=%23BukberTanpaWacana) | N/A |
+| 43 | [#LISAパワフルステージin東京](http://twitter.com/search?q=%23LISA%e3%83%91%e3%83%af%e3%83%95%e3%83%ab%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b8in%e6%9d%b1%e4%ba%ac) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-04-09 14:16:57 UTC`
+📆 Last Updated: `2023-04-09 15:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,47 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 2 | [SAKURA MOMENTS WITHKDLEX](http://twitter.com/search?q=SAKURA+MOMENTS+WITHKDLEX) | N/A |
-| 3 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 4 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
-| 5 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
-| 6 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 7 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
-| 8 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
-| 9 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
-| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 12 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
-| 13 | [Doran](http://twitter.com/search?q=Doran) | N/A |
-| 14 | [ACEs STRONGER 2GETHER](http://twitter.com/search?q=ACEs+STRONGER+2GETHER) | N/A |
-| 15 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 1 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 2 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 3 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 4 | [SAKURA MOMENTS WITHKDLEX](http://twitter.com/search?q=SAKURA+MOMENTS+WITHKDLEX) | N/A |
+| 5 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 6 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
+| 7 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 8 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
+| 9 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
+| 10 | [#Who_XIUMINxEUNHA](http://twitter.com/search?q=%23Who_XIUMINxEUNHA) | N/A |
+| 11 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
+| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 14 | [Doran](http://twitter.com/search?q=Doran) | N/A |
+| 15 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 16 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 17 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 18 | [GABBLUKE MOSHIES ANNIVERSARY](http://twitter.com/search?q=GABBLUKE+MOSHIES+ANNIVERSARY) | N/A |
-| 19 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 20 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 21 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 22 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 17 | [GABBLUKE MOSHIES ANNIVERSARY](http://twitter.com/search?q=GABBLUKE+MOSHIES+ANNIVERSARY) | N/A |
+| 18 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 19 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 20 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 21 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 22 | [Araw](http://twitter.com/search?q=Araw) | N/A |
 | 23 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
 | 24 | [Lover](http://twitter.com/search?q=Lover) | N/A |
 | 25 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
-| 26 | [#Who_XIUMINxEUNHA](http://twitter.com/search?q=%23Who_XIUMINxEUNHA) | N/A |
-| 27 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
-| 28 | [#DONBELLEmpire](http://twitter.com/search?q=%23DONBELLEmpire) | N/A |
+| 26 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
+| 27 | [#ACEsOur2ndAnniversary](http://twitter.com/search?q=%23ACEsOur2ndAnniversary) | N/A |
+| 28 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
 | 29 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
 | 30 | [#T1Fighting](http://twitter.com/search?q=%23T1Fighting) | N/A |
-| 31 | [#BelleMariano](http://twitter.com/search?q=%23BelleMariano) | N/A |
-| 32 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
-| 33 | [#PARKEUNBIN](http://twitter.com/search?q=%23PARKEUNBIN) | N/A |
-| 34 | [#BOYCOTTEBxAPTxGMA760](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA760) | N/A |
+| 31 | [#INKSteaDAY](http://twitter.com/search?q=%23INKSteaDAY) | N/A |
+| 32 | [#BelleMariano](http://twitter.com/search?q=%23BelleMariano) | N/A |
+| 33 | [#DonnyPangilinan](http://twitter.com/search?q=%23DonnyPangilinan) | N/A |
+| 34 | [#PARKEUNBIN](http://twitter.com/search?q=%23PARKEUNBIN) | N/A |
 | 35 | [#EUNBINNOTE_HIBINGO](http://twitter.com/search?q=%23EUNBINNOTE_HIBINGO) | N/A |
-| 36 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
-| 37 | [#ASAPalive](http://twitter.com/search?q=%23ASAPalive) | N/A |
-| 38 | [#AlJay](http://twitter.com/search?q=%23AlJay) | N/A |
-| 39 | [#FELIPSUSON](http://twitter.com/search?q=%23FELIPSUSON) | N/A |
+| 36 | [#BOYCOTTEBxAPTxGMA760](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA760) | N/A |
+| 37 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
+| 38 | [#DONBELLEmpire](http://twitter.com/search?q=%23DONBELLEmpire) | N/A |
+| 39 | [#MHMA2023FELIPSUSON](http://twitter.com/search?q=%23MHMA2023FELIPSUSON) | N/A |
+| 40 | [#ASAPalive](http://twitter.com/search?q=%23ASAPalive) | N/A |
+| 41 | [#AlJay](http://twitter.com/search?q=%23AlJay) | N/A |
 
 
 

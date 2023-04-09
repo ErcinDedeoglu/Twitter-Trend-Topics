@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-09 14:16:38 UTC`
+📆 Last Updated: `2023-04-09 15:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,41 +28,41 @@ This is top 50 for [Chile](</Chile>)
 | 11 | [Kast](http://twitter.com/search?q=Kast) | N/A |
 | 12 | [Conductor](http://twitter.com/search?q=Conductor) | N/A |
 | 13 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 14 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 15 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 16 | [di santo](http://twitter.com/search?q=di+santo) | N/A |
-| 17 | [Isla](http://twitter.com/search?q=Isla) | N/A |
-| 18 | [Santiago Pavlovic](http://twitter.com/search?q=Santiago+Pavlovic) | N/A |
-| 19 | [cavada](http://twitter.com/search?q=cavada) | N/A |
-| 20 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 21 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
-| 22 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 23 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 24 | [anfp](http://twitter.com/search?q=anfp) | N/A |
+| 14 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 15 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 16 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 17 | [di santo](http://twitter.com/search?q=di+santo) | N/A |
+| 18 | [Isla](http://twitter.com/search?q=Isla) | N/A |
+| 19 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
+| 20 | [Santiago Pavlovic](http://twitter.com/search?q=Santiago+Pavlovic) | N/A |
+| 21 | [cavada](http://twitter.com/search?q=cavada) | N/A |
+| 22 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 23 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 24 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
 | 25 | [Delincuente](http://twitter.com/search?q=Delincuente) | N/A |
 | 26 | [cntv](http://twitter.com/search?q=cntv) | N/A |
 | 27 | [Felipe Bianchi](http://twitter.com/search?q=Felipe+Bianchi) | N/A |
 | 28 | [Garin](http://twitter.com/search?q=Garin) | N/A |
-| 29 | [Etcheverry](http://twitter.com/search?q=Etcheverry) | N/A |
-| 30 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
-| 31 | [llolleo](http://twitter.com/search?q=llolleo) | N/A |
-| 32 | [borquez](http://twitter.com/search?q=borquez) | N/A |
-| 33 | [Mega](http://twitter.com/search?q=Mega) | N/A |
-| 34 | [Palma](http://twitter.com/search?q=Palma) | N/A |
-| 35 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 36 | [la uc](http://twitter.com/search?q=la+uc) | N/A |
-| 37 | [tagle](http://twitter.com/search?q=tagle) | N/A |
-| 38 | [Robo](http://twitter.com/search?q=Robo) | N/A |
-| 39 | [Osorno](http://twitter.com/search?q=Osorno) | N/A |
-| 40 | [tregua](http://twitter.com/search?q=tregua) | N/A |
-| 41 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
-| 42 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
-| 43 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 44 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 45 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
-| 46 | [carcuro](http://twitter.com/search?q=carcuro) | N/A |
-| 47 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 48 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
+| 29 | [ANFP](http://twitter.com/search?q=ANFP) | N/A |
+| 30 | [Etcheverry](http://twitter.com/search?q=Etcheverry) | N/A |
+| 31 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
+| 32 | [llolleo](http://twitter.com/search?q=llolleo) | N/A |
+| 33 | [borquez](http://twitter.com/search?q=borquez) | N/A |
+| 34 | [Mega](http://twitter.com/search?q=Mega) | N/A |
+| 35 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 36 | [Palma](http://twitter.com/search?q=Palma) | N/A |
+| 37 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 38 | [la uc](http://twitter.com/search?q=la+uc) | N/A |
+| 39 | [tagle](http://twitter.com/search?q=tagle) | N/A |
+| 40 | [Robo](http://twitter.com/search?q=Robo) | N/A |
+| 41 | [Osorno](http://twitter.com/search?q=Osorno) | N/A |
+| 42 | [tregua](http://twitter.com/search?q=tregua) | N/A |
+| 43 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
+| 44 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
+| 45 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 46 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 47 | [carcuro](http://twitter.com/search?q=carcuro) | N/A |
+| 48 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-04-09 14:17:19 UTC`
+📆 Last Updated: `2023-04-09 15:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,11 +21,11 @@ This is top 50 for Algeria
 | 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 5 | [بدر الكبري](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
 | 6 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 7 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 8 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 9 | [الدرك الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d9%83+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 10 | [وزير الشوون الدينيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 11 | [17 رمضان](http://twitter.com/search?q=17+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 7 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 8 | [الدرك الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d9%83+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 9 | [وزير الشوون الدينيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%87) | N/A |
+| 10 | [17 رمضان](http://twitter.com/search?q=17+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 11 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
 | 12 | [#وليد_مهساس](http://twitter.com/search?q=%23%d9%88%d9%84%d9%8a%d8%af_%d9%85%d9%87%d8%b3%d8%a7%d8%b3) | N/A |
 | 13 | [الدين الداخلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a) | N/A |
 | 14 | [#GW30](http://twitter.com/search?q=%23GW30) | N/A |
@@ -35,36 +35,36 @@ This is top 50 for Algeria
 | 18 | [الافطار الجماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%81%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
 | 19 | [فلسطين](http://twitter.com/search?q=%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | فلسطين (Palestine) is a region in the Middle East that is considered to be the ancestral homeland of the Palestinian people. It is bordered by Israel, Jordan, and Egypt. In English, Palestine means "Land of the Philistines". |
 | 20 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 21 | [المعني المردود](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%86%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d8%af%d9%88%d8%af) | N/A |
-| 22 | [اتحاد العاصمه](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d9%87) | N/A |
-| 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 24 | [الدين الخارجي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a) | N/A |
-| 25 | [مسجد ابي بكر الصديق](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d8%a8%d9%8a+%d8%a8%d9%83%d8%b1+%d8%a7%d9%84%d8%b5%d8%af%d9%8a%d9%82) | N/A |
-| 26 | [سلم تسليما](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%aa%d8%b3%d9%84%d9%8a%d9%85%d8%a7) | N/A |
-| 27 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
-| 28 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
-| 29 | [الامام الشافعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d9%81%d8%b9%d9%8a) | N/A |
-| 30 | [يوسف بلمهدي](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a8%d9%84%d9%85%d9%87%d8%af%d9%8a) | N/A |
-| 31 | [ولي الامر](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1) | N/A |
-| 32 | [عبد العزيز](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
-| 33 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 34 | [عمر بن الخطاب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a8%d9%86+%d8%a7%d9%84%d8%ae%d8%b7%d8%a7%d8%a8) | N/A |
-| 35 | [الشيخ الحداد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%ad%d8%af%d8%a7%d8%af) | N/A |
-| 36 | [بالاك](http://twitter.com/search?q=%d8%a8%d8%a7%d9%84%d8%a7%d9%83) | N/A |
-| 37 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 38 | [مانشستر سيتي](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1+%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
-| 39 | [الجيش الوطني الشعبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a) | N/A |
-| 40 | [مراكش](http://twitter.com/search?q=%d9%85%d8%b1%d8%a7%d9%83%d8%b4) | N/A |
-| 41 | [بيس المصير](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d8%b5%d9%8a%d8%b1) | N/A |
-| 42 | [علي الناس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
-| 43 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
+| 21 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 22 | [المعني المردود](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%86%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d8%af%d9%88%d8%af) | N/A |
+| 23 | [اتحاد العاصمه](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d9%87) | N/A |
+| 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 25 | [الدين الخارجي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a) | N/A |
+| 26 | [مسجد ابي بكر الصديق](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d8%a8%d9%8a+%d8%a8%d9%83%d8%b1+%d8%a7%d9%84%d8%b5%d8%af%d9%8a%d9%82) | N/A |
+| 27 | [سلم تسليما](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%aa%d8%b3%d9%84%d9%8a%d9%85%d8%a7) | N/A |
+| 28 | [Premier League](http://twitter.com/search?q=Premier+League) | N/A |
+| 29 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
+| 30 | [الامام الشافعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d9%81%d8%b9%d9%8a) | N/A |
+| 31 | [يوسف بلمهدي](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a8%d9%84%d9%85%d9%87%d8%af%d9%8a) | N/A |
+| 32 | [ولي الامر](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1) | N/A |
+| 33 | [عبد العزيز](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
+| 34 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 35 | [عمر بن الخطاب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a8%d9%86+%d8%a7%d9%84%d8%ae%d8%b7%d8%a7%d8%a8) | N/A |
+| 36 | [الشيخ الحداد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%ad%d8%af%d8%a7%d8%af) | N/A |
+| 37 | [بالاك](http://twitter.com/search?q=%d8%a8%d8%a7%d9%84%d8%a7%d9%83) | N/A |
+| 38 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 39 | [مانشستر سيتي](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1+%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
+| 40 | [الجيش الوطني الشعبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a) | N/A |
+| 41 | [مراكش](http://twitter.com/search?q=%d9%85%d8%b1%d8%a7%d9%83%d8%b4) | N/A |
+| 42 | [بيس المصير](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d8%b5%d9%8a%d8%b1) | N/A |
+| 43 | [علي الناس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
 | 44 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 45 | [Queen](http://twitter.com/search?q=Queen) | N/A |
 | 46 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
 | 47 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
 | 48 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 49 | [الصحراء الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 50 | [نهار كامل](http://twitter.com/search?q=%d9%86%d9%87%d8%a7%d8%b1+%d9%83%d8%a7%d9%85%d9%84) | N/A |
+| 49 | [نهار كامل](http://twitter.com/search?q=%d9%86%d9%87%d8%a7%d8%b1+%d9%83%d8%a7%d9%85%d9%84) | N/A |
+| 50 | [Korean](http://twitter.com/search?q=Korean) | N/A |
 
 
 

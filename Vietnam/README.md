@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-04-09 14:17:26 UTC`
+📆 Last Updated: `2023-04-09 15:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,48 +19,48 @@ This is top 50 for Vietnam
 | 2 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
 | 3 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
 | 4 | [#PondPhuwinFMinVietnam](http://twitter.com/search?q=%23PondPhuwinFMinVietnam) | N/A |
-| 5 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
-| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 7 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 8 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 9 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 10 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 11 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 12 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 14 | [have a safe flight jungkook](http://twitter.com/search?q=have+a+safe+flight+jungkook) | N/A |
+| 5 | [#thethingsiloveaboutbible](http://twitter.com/search?q=%23thethingsiloveaboutbible) | N/A |
+| 6 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 7 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 8 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 9 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 10 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 11 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 13 | [have a safe flight jungkook](http://twitter.com/search?q=have+a+safe+flight+jungkook) | N/A |
+| 14 | [GenG](http://twitter.com/search?q=GenG) | N/A |
 | 15 | [vinh](http://twitter.com/search?q=vinh) | N/A |
-| 16 | [GenG](http://twitter.com/search?q=GenG) | N/A |
-| 17 | [BaBiu](http://twitter.com/search?q=BaBiu) | N/A |
-| 18 | [Flaming](http://twitter.com/search?q=Flaming) | N/A |
-| 19 | [London](http://twitter.com/search?q=London) | N/A |
-| 20 | [biu biu](http://twitter.com/search?q=biu+biu) | N/A |
-| 21 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 22 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 23 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
-| 24 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 25 | [America](http://twitter.com/search?q=America) | N/A |
-| 26 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 27 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 28 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
-| 29 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 30 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 31 | [Không](http://twitter.com/search?q=Kh%c3%b4ng) | N/A |
-| 32 | [Mình](http://twitter.com/search?q=M%c3%acnh) | N/A |
-| 33 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 34 | [#TheThingsILoveAboutBible](http://twitter.com/search?q=%23TheThingsILoveAboutBible) | N/A |
-| 35 | [#showmelovetheseriesep6](http://twitter.com/search?q=%23showmelovetheseriesep6) | N/A |
-| 36 | [#BIU100KLUVE](http://twitter.com/search?q=%23BIU100KLUVE) | N/A |
-| 37 | [#BedFriendEP8](http://twitter.com/search?q=%23BedFriendEP8) | N/A |
-| 38 | [#CryptoNews](http://twitter.com/search?q=%23CryptoNews) | N/A |
-| 39 | [#tradecoin](http://twitter.com/search?q=%23tradecoin) | N/A |
-| 40 | [#GameFi](http://twitter.com/search?q=%23GameFi) | N/A |
-| 41 | [#HKracing](http://twitter.com/search?q=%23HKracing) | N/A |
-| 42 | [#น้องนิวเวลาหม่ํา](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%99%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%a7%e0%b8%a5%e0%b8%b2%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b9%8d%e0%b8%b2) | N/A |
-| 43 | [#phuwintang](http://twitter.com/search?q=%23phuwintang) | N/A |
-| 44 | [#ชมรมคนตาสระอิ](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%a1%e0%b8%a3%e0%b8%a1%e0%b8%84%e0%b8%99%e0%b8%95%e0%b8%b2%e0%b8%aa%e0%b8%a3%e0%b8%b0%e0%b8%ad%e0%b8%b4) | N/A |
-| 45 | [#whatsupbiu](http://twitter.com/search?q=%23whatsupbiu) | N/A |
-| 46 | [#nimotv](http://twitter.com/search?q=%23nimotv) | N/A |
+| 16 | [BaBiu](http://twitter.com/search?q=BaBiu) | N/A |
+| 17 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 18 | [London](http://twitter.com/search?q=London) | N/A |
+| 19 | [biu biu](http://twitter.com/search?q=biu+biu) | N/A |
+| 20 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 21 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 22 | [America](http://twitter.com/search?q=America) | N/A |
+| 23 | [Không](http://twitter.com/search?q=Kh%c3%b4ng) | N/A |
+| 24 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 25 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
+| 26 | [Floor](http://twitter.com/search?q=Floor) | N/A |
+| 27 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 28 | [Mình](http://twitter.com/search?q=M%c3%acnh) | N/A |
+| 29 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
+| 30 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 31 | [#Easter2023](http://twitter.com/search?q=%23Easter2023) | N/A |
+| 32 | [#ShowmeloveTheseriesEP6](http://twitter.com/search?q=%23ShowmeloveTheseriesEP6) | N/A |
+| 33 | [#BIU100KLUVE](http://twitter.com/search?q=%23BIU100KLUVE) | N/A |
+| 34 | [#BedFriendEP8](http://twitter.com/search?q=%23BedFriendEP8) | N/A |
+| 35 | [#CryptoNews](http://twitter.com/search?q=%23CryptoNews) | N/A |
+| 36 | [#tradecoin](http://twitter.com/search?q=%23tradecoin) | N/A |
+| 37 | [#HKracing](http://twitter.com/search?q=%23HKracing) | N/A |
+| 38 | [#น้องนิวเวลาหม่ํา](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%99%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%a7%e0%b8%a5%e0%b8%b2%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b9%8d%e0%b8%b2) | N/A |
+| 39 | [#phuwintang](http://twitter.com/search?q=%23phuwintang) | N/A |
+| 40 | [#ppnaravit](http://twitter.com/search?q=%23ppnaravit) | N/A |
+| 41 | [#ปอนด์ภูวินทร์](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%a0%e0%b8%b9%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c) | N/A |
+| 42 | [#ชมรมคนตาสระอิ](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%a1%e0%b8%a3%e0%b8%a1%e0%b8%84%e0%b8%99%e0%b8%95%e0%b8%b2%e0%b8%aa%e0%b8%a3%e0%b8%b0%e0%b8%ad%e0%b8%b4) | N/A |
+| 43 | [#whatsupbiu](http://twitter.com/search?q=%23whatsupbiu) | N/A |
+| 44 | [#nimotv](http://twitter.com/search?q=%23nimotv) | N/A |
+| 45 | [#GTA5](http://twitter.com/search?q=%23GTA5) | N/A |
+| 46 | [#EXOCLOCK_D1](http://twitter.com/search?q=%23EXOCLOCK_D1) | N/A |
 
 
 

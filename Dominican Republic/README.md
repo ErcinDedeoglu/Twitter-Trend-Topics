@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-09 14:17:20 UTC`
+📆 Last Updated: `2023-04-09 15:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,11 +32,11 @@ This is top 50 for Dominican Republic
 | 15 | [#temblor](http://twitter.com/search?q=%23temblor) | N/A |
 | 16 | [villa altagracia](http://twitter.com/search?q=villa+altagracia) | N/A |
 | 17 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 18 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
+| 18 | [francisco javier](http://twitter.com/search?q=francisco+javier) | N/A |
 | 19 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
 | 20 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
 | 21 | [Rafael Devers](http://twitter.com/search?q=Rafael+Devers) | N/A |
-| 22 | [gaga](http://twitter.com/search?q=gaga) | N/A |
+| 22 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
 | 23 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
 | 24 | [francisco álvarez castellanos](http://twitter.com/search?q=francisco+%c3%a1lvarez+castellanos) | N/A |
 | 25 | [wander franco](http://twitter.com/search?q=wander+franco) | N/A |
@@ -44,7 +44,7 @@ This is top 50 for Dominican Republic
 | 27 | [julio rodríguez](http://twitter.com/search?q=julio+rodr%c3%adguez) | N/A |
 | 28 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
 | 29 | [san juan de la maguana](http://twitter.com/search?q=san+juan+de+la+maguana) | N/A |
-| 30 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 30 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 31 | [ferxxo](http://twitter.com/search?q=ferxxo) | N/A |
 | 32 | [Irving](http://twitter.com/search?q=Irving) | N/A |
 | 33 | [boca chica](http://twitter.com/search?q=boca+chica) | N/A |
@@ -52,7 +52,7 @@ This is top 50 for Dominican Republic
 | 35 | [siete palabras](http://twitter.com/search?q=siete+palabras) | N/A |
 | 36 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
 | 37 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 38 | [#ss2023](http://twitter.com/search?q=%23ss2023) | N/A |
+| 38 | [#SS2023](http://twitter.com/search?q=%23SS2023) | N/A |
 | 39 | [sermón](http://twitter.com/search?q=serm%c3%b3n) | N/A |
 | 40 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
 | 41 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |

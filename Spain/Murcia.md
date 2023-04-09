@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-04-09 14:16:48 UTC`
+📆 Last Updated: `2023-04-09 15:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,31 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 2 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 3 | [Feliz Domingo de Resurrección](http://twitter.com/search?q=Feliz+Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 2 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 3 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
 | 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 5 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 7 | [#PrePartyES23](http://twitter.com/search?q=%23PrePartyES23) | N/A |
-| 8 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
-| 9 | [#APOYOROCIO9A](http://twitter.com/search?q=%23APOYOROCIO9A) | N/A |
-| 10 | [#SantoEntierroGrande23](http://twitter.com/search?q=%23SantoEntierroGrande23) | N/A |
-| 11 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 12 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 13 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 14 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
-| 15 | [Resucitado](http://twitter.com/search?q=Resucitado) | N/A |
-| 16 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 17 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 18 | [#OnceSeguro](http://twitter.com/search?q=%23OnceSeguro) | N/A |
-| 19 | [#ProtectoresDeLaTierraRadio3](http://twitter.com/search?q=%23ProtectoresDeLaTierraRadio3) | N/A |
-| 20 | [458 X](http://twitter.com/search?q=458+X) | N/A |
-| 21 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
-| 22 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 23 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
-| 24 | [Mahoma](http://twitter.com/search?q=Mahoma) | N/A |
-| 25 | [Setién](http://twitter.com/search?q=Seti%c3%a9n) | Setién is a Spanish surname derived from the Latin name Saturninus. It is a patronymic name meaning "son of Saturn". |
-| 26 | [Alberola Rojas](http://twitter.com/search?q=Alberola+Rojas) | Alberola Rojas is a Spanish surname. It is derived from the words "albero" (alder tree) and "roja" (red). In English, it can be translated to mean "Red Alder". |
-| 27 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
-| 28 | [Pezzella](http://twitter.com/search?q=Pezzella) | N/A |
-| 29 | [Moreneta](http://twitter.com/search?q=Moreneta) | N/A |
-| 30 | [Jn 20](http://twitter.com/search?q=Jn+20) | N/A |
-| 31 | [ASENSIO](http://twitter.com/search?q=ASENSIO) | N/A |
-| 32 | [Agustín](http://twitter.com/search?q=Agust%c3%adn) | Agustín is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustín is usually translated as "Augustine". |
-| 33 | [Foyth](http://twitter.com/search?q=Foyth) | Foyth is a surname of Spanish origin. It is derived from the Latin word "fidelis", meaning faithful or loyal. |
-| 34 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 35 | [Materazzi](http://twitter.com/search?q=Materazzi) | N/A |
-| 36 | [Terminator 2](http://twitter.com/search?q=Terminator+2) | N/A |
-| 37 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
-| 38 | [Catalunya](http://twitter.com/search?q=Catalunya) | N/A |
-| 39 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 40 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
-| 41 | [Mandi](http://twitter.com/search?q=Mandi) | N/A |
-| 42 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 43 | [La Carrerita](http://twitter.com/search?q=La+Carrerita) | N/A |
-| 44 | [Cachorro](http://twitter.com/search?q=Cachorro) | N/A |
-| 45 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 47 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
-| 48 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 49 | [Justificando](http://twitter.com/search?q=Justificando) | N/A |
-| 50 | [San Gonzalo](http://twitter.com/search?q=San+Gonzalo) | N/A |
+| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 6 | [#APOYOROCIO9A](http://twitter.com/search?q=%23APOYOROCIO9A) | N/A |
+| 7 | [#ProtectoresDeLaTierraRadio3](http://twitter.com/search?q=%23ProtectoresDeLaTierraRadio3) | N/A |
+| 8 | [Resucitado](http://twitter.com/search?q=Resucitado) | N/A |
+| 9 | [#YoMeRebelo9A](http://twitter.com/search?q=%23YoMeRebelo9A) | N/A |
+| 10 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
+| 11 | [458 X](http://twitter.com/search?q=458+X) | N/A |
+| 12 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 13 | [Agustín](http://twitter.com/search?q=Agust%c3%adn) | Agustín is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustín is usually translated as "Augustine". |
+| 14 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 15 | [#BuenosDías](http://twitter.com/search?q=%23BuenosD%c3%adas) | N/A |
+| 16 | [Sanción](http://twitter.com/search?q=Sanci%c3%b3n) | N/A |
+| 17 | [Egun](http://twitter.com/search?q=Egun) | N/A |
+| 18 | [Marca](http://twitter.com/search?q=Marca) | N/A |
+| 19 | [Albert Rivera](http://twitter.com/search?q=Albert+Rivera) | N/A |
+| 20 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 21 | [Villareal](http://twitter.com/search?q=Villareal) | N/A |
+| 22 | [Moreneta](http://twitter.com/search?q=Moreneta) | N/A |
+| 23 | [Setien](http://twitter.com/search?q=Setien) | Setien is a Spanish surname derived from the Latin word "Sextius", meaning "sixth". It is most commonly found in the Basque region of Spain. |
+| 24 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
+| 25 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
+| 26 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 
 
 

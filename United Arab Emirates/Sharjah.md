@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sharjah
 
-📆 Last Updated: `2023-04-09 14:17:02 UTC`
+📆 Last Updated: `2023-04-09 15:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 1 | [#امپورٹڈ_حکومت_نامنظور](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%be%d9%88%d8%b1%d9%b9%da%88_%d8%ad%da%a9%d9%88%d9%85%d8%aa_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [#9thAprilBlackDay](http://twitter.com/search?q=%239thAprilBlackDay) | N/A |
-| 4 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 5 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 5 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 6 | [#چوروں_کا_ایک_سال](http://twitter.com/search?q=%23%da%86%d9%88%d8%b1%d9%88%da%ba_%da%a9%d8%a7_%d8%a7%db%8c%da%a9_%d8%b3%d8%a7%d9%84) | N/A |
 | 7 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
 | 8 | [#صالح_المغامسي](http://twitter.com/search?q=%23%d8%b5%d8%a7%d9%84%d8%ad_%d8%a7%d9%84%d9%85%d8%ba%d8%a7%d9%85%d8%b3%d9%8a) | N/A |
@@ -31,37 +31,40 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 14 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
 | 15 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 16 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 17 | [17 رمضان](http://twitter.com/search?q=17+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 18 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 19 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 20 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 21 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 22 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 23 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 24 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 25 | [بيدرو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%af%d8%b1%d9%88) | N/A |
-| 26 | [ساندرو](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%af%d8%b1%d9%88) | N/A |
-| 27 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
-| 28 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 29 | [بيرنلي](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%86%d9%84%d9%8a) | بيرنلي (pronounced "birnlee") is an Arabic word meaning "pearl". |
-| 30 | [ماجد ناصر](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 31 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
-| 32 | [صنعاء](http://twitter.com/search?q=%d8%b5%d9%86%d8%b9%d8%a7%d8%a1) | N/A |
-| 33 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
-| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 35 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 36 | [بنا الطرق](http://twitter.com/search?q=%d8%a8%d9%86%d8%a7+%d8%a7%d9%84%d8%b7%d8%b1%d9%82) | N/A |
-| 37 | [البرج اللبناني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%ac+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
-| 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 39 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
-| 40 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 41 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
-| 42 | [اكبر صندوق](http://twitter.com/search?q=%d8%a7%d9%83%d8%a8%d8%b1+%d8%b5%d9%86%d8%af%d9%88%d9%82) | N/A |
-| 43 | [التفسير البلاغي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%81%d8%b3%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%ba%d9%8a) | N/A |
-| 44 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 45 | [القايد الموسس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3) | N/A |
-| 46 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 47 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
+| 17 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 18 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 19 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
+| 20 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
+| 21 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 22 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 23 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 24 | [بيدرو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%af%d8%b1%d9%88) | N/A |
+| 25 | [ساندرو](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%af%d8%b1%d9%88) | N/A |
+| 26 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
+| 27 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 28 | [بيرنلي](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%86%d9%84%d9%8a) | بيرنلي (pronounced "birnlee") is an Arabic word meaning "pearl". |
+| 29 | [ماجد ناصر](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
+| 30 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
+| 31 | [صنعاء](http://twitter.com/search?q=%d8%b5%d9%86%d8%b9%d8%a7%d8%a1) | N/A |
+| 32 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
+| 33 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
+| 34 | [بنا الطرق](http://twitter.com/search?q=%d8%a8%d9%86%d8%a7+%d8%a7%d9%84%d8%b7%d8%b1%d9%82) | N/A |
+| 35 | [البرج اللبناني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%ac+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
+| 36 | [ساوثهامبتون](http://twitter.com/search?q=%d8%b3%d8%a7%d9%88%d8%ab%d9%87%d8%a7%d9%85%d8%a8%d8%aa%d9%88%d9%86) | ساوثهامبتون is a proper noun and it is the name of a town in England. In English, it is pronounced "Southampton". |
+| 37 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 38 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 39 | [اكبر صندوق](http://twitter.com/search?q=%d8%a7%d9%83%d8%a8%d8%b1+%d8%b5%d9%86%d8%af%d9%88%d9%82) | N/A |
+| 40 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
+| 41 | [التفسير البلاغي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%81%d8%b3%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%ba%d9%8a) | N/A |
+| 42 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 43 | [القايد الموسس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3) | N/A |
+| 44 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 45 | [ايفرتون](http://twitter.com/search?q=%d8%a7%d9%8a%d9%81%d8%b1%d8%aa%d9%88%d9%86) | ايفرتون (Ifton) is an Arabic name meaning "gift of God". |
+| 46 | [الأهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a) | الأهلي is the name of a professional Saudi Arabian football club based in Jeddah. In English, it translates to "The Family". |
+| 47 | [بيريرا](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b1%d8%a7) | بيريرا is an Arabic word that means "beautiful". |
+| 48 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 49 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
+| 50 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
 
 
 

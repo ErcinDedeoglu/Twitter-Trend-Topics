@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-04-09 14:17:05 UTC`
+📆 Last Updated: `2023-04-09 15:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [#یوم_چپیڑ](http://twitter.com/search?q=%23%db%8c%d9%88%d9%85_%da%86%d9%be%db%8c%da%91) | N/A |
 | 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 7 | [Axact](http://twitter.com/search?q=Axact) | N/A |
-| 8 | [BOL Network](http://twitter.com/search?q=BOL+Network) | N/A |
-| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
+| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 9 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
+| 10 | [BOL Network](http://twitter.com/search?q=BOL+Network) | N/A |
 | 11 | [BOL Media Group](http://twitter.com/search?q=BOL+Media+Group) | N/A |
 | 12 | [Ousted But Not Defeated](http://twitter.com/search?q=Ousted+But+Not+Defeated) | N/A |
 | 13 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 14 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
-| 15 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 16 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 17 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 18 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 19 | [The Battle of Badr](http://twitter.com/search?q=The+Battle+of+Badr) | N/A |
-| 20 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 21 | [FATF](http://twitter.com/search?q=FATF) | N/A |
-| 22 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 23 | [umer ruling khel kay jeet](http://twitter.com/search?q=umer+ruling+khel+kay+jeet) | N/A |
-| 24 | [Local](http://twitter.com/search?q=Local) | N/A |
-| 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 26 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
-| 27 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 14 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 15 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
+| 16 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 17 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 18 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 19 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 20 | [The Battle of Badr](http://twitter.com/search?q=The+Battle+of+Badr) | N/A |
+| 21 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 22 | [FATF](http://twitter.com/search?q=FATF) | N/A |
+| 23 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 24 | [umer ruling khel kay jeet](http://twitter.com/search?q=umer+ruling+khel+kay+jeet) | N/A |
+| 25 | [Local](http://twitter.com/search?q=Local) | N/A |
+| 26 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 27 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
 | 28 | [Pete Davidson](http://twitter.com/search?q=Pete+Davidson) | Pete Davidson is an American comedian, actor, and writer. He is best known for being a cast member on Saturday Night Live since 2014. He has also appeared in films such as Big Time Adolescence and The King of Staten Island. |
 | 29 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 30 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
+| 30 | [haider ali](http://twitter.com/search?q=haider+ali) | N/A |
 | 31 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 | 32 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 33 | [justice isa](http://twitter.com/search?q=justice+isa) | N/A |
-| 34 | [Kufa](http://twitter.com/search?q=Kufa) | N/A |
-| 35 | [Saim](http://twitter.com/search?q=Saim) | N/A |
-| 36 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 37 | [Kandhkot](http://twitter.com/search?q=Kandhkot) | N/A |
-| 38 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
+| 33 | [Justice Isa](http://twitter.com/search?q=Justice+Isa) | N/A |
+| 34 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 35 | [Kandhkot](http://twitter.com/search?q=Kandhkot) | N/A |
+| 36 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 37 | [Wishing](http://twitter.com/search?q=Wishing) | N/A |
+| 38 | [Mera](http://twitter.com/search?q=Mera) | N/A |
 | 39 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
-| 40 | [Wishing](http://twitter.com/search?q=Wishing) | N/A |
-| 41 | [Mera](http://twitter.com/search?q=Mera) | N/A |
-| 42 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 43 | [Inshallah](http://twitter.com/search?q=Inshallah) | N/A |
-| 44 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 45 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 46 | [Hamid Mir](http://twitter.com/search?q=Hamid+Mir) | N/A |
-| 47 | [Babar Azam](http://twitter.com/search?q=Babar+Azam) | N/A |
-| 48 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
-| 49 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 50 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
+| 40 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 41 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
+| 42 | [Fiverr](http://twitter.com/search?q=Fiverr) | N/A |
+| 43 | [Patwari](http://twitter.com/search?q=Patwari) | N/A |
+| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 45 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 46 | [World Bank](http://twitter.com/search?q=World+Bank) | N/A |
+| 47 | [Nation](http://twitter.com/search?q=Nation) | N/A |
+| 48 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 49 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
+| 50 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
 
 
 
