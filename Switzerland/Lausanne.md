@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-09 20:16:49 UTC`
+📆 Last Updated: `2023-04-09 21:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 2 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
 | 3 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
-| 4 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 5 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 7 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 8 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
-| 9 | [Klimakrise](http://twitter.com/search?q=Klimakrise) | N/A |
-| 10 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 4 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 5 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 8 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 9 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
+| 10 | [Einheitskasse](http://twitter.com/search?q=Einheitskasse) | N/A |
+| 11 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 | 12 | [Bundeshaus](http://twitter.com/search?q=Bundeshaus) | N/A |
-| 13 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 14 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
-| 15 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 16 | [bienne](http://twitter.com/search?q=bienne) | N/A |
-| 17 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 18 | [#fczfcb](http://twitter.com/search?q=%23fczfcb) | N/A |
-| 19 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
-| 20 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
-| 21 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 22 | [London](http://twitter.com/search?q=London) | N/A |
-| 23 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 24 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
-| 25 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 26 | [Gotthard](http://twitter.com/search?q=Gotthard) | N/A |
-| 27 | [Quatsch](http://twitter.com/search?q=Quatsch) | N/A |
-| 28 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 29 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 30 | [Häuser](http://twitter.com/search?q=H%c3%a4user) | N/A |
-| 31 | [Eier](http://twitter.com/search?q=Eier) | N/A |
-| 32 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 33 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 34 | [Trottel](http://twitter.com/search?q=Trottel) | N/A |
-| 35 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 37 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
-| 38 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
-| 39 | [Speicher](http://twitter.com/search?q=Speicher) | N/A |
-| 40 | [European](http://twitter.com/search?q=European) | N/A |
-| 41 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 42 | [Turc](http://twitter.com/search?q=Turc) | N/A |
-| 43 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
-| 44 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 45 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
-| 46 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 47 | [Sascha Ruefer](http://twitter.com/search?q=Sascha+Ruefer) | N/A |
-| 48 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
+| 13 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
+| 14 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
+| 15 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 16 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 17 | [Bienne](http://twitter.com/search?q=Bienne) | N/A |
+| 18 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 19 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
+| 20 | [Eier](http://twitter.com/search?q=Eier) | N/A |
+| 21 | [Schweden](http://twitter.com/search?q=Schweden) | N/A |
+| 22 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 23 | [Häuser](http://twitter.com/search?q=H%c3%a4user) | N/A |
+| 24 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 25 | [Politikern](http://twitter.com/search?q=Politikern) | N/A |
+| 26 | [Jesus Christ](http://twitter.com/search?q=Jesus+Christ) | N/A |
+| 27 | [Nähe](http://twitter.com/search?q=N%c3%a4he) | N/A |
+| 28 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 30 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 31 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 32 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
+| 33 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
+| 34 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 36 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 37 | [Ruefer](http://twitter.com/search?q=Ruefer) | N/A |
+| 38 | [Verlauf](http://twitter.com/search?q=Verlauf) | N/A |
+| 39 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
+| 40 | [Renovate](http://twitter.com/search?q=Renovate) | N/A |
+| 41 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
+| 42 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 43 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 44 | [Moral](http://twitter.com/search?q=Moral) | N/A |
+| 45 | [Behandlung](http://twitter.com/search?q=Behandlung) | N/A |
+| 46 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
+| 47 | [gotthard](http://twitter.com/search?q=gotthard) | N/A |
+| 48 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-04-09 20:16:41 UTC`
+📆 Last Updated: `2023-04-09 21:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 3 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
-| 4 | [#LaPenaDeMorfi](http://twitter.com/search?q=%23LaPenaDeMorfi) | N/A |
-| 5 | [Malcorra](http://twitter.com/search?q=Malcorra) | N/A |
-| 6 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
-| 7 | [Central](http://twitter.com/search?q=Central) | N/A |
-| 8 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 9 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 10 | [Broun](http://twitter.com/search?q=Broun) | N/A |
-| 11 | [Zaid Romero](http://twitter.com/search?q=Zaid+Romero) | N/A |
-| 12 | [Doman](http://twitter.com/search?q=Doman) | N/A |
-| 13 | [Moyano](http://twitter.com/search?q=Moyano) | N/A |
-| 14 | [Repetto](http://twitter.com/search?q=Repetto) | N/A |
-| 15 | [#WeCanFeelYourLoveLK](http://twitter.com/search?q=%23WeCanFeelYourLoveLK) | N/A |
-| 16 | [Cavallero](http://twitter.com/search?q=Cavallero) | N/A |
-| 17 | [Angelito Correa](http://twitter.com/search?q=Angelito+Correa) | N/A |
-| 18 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 19 | [Newell](http://twitter.com/search?q=Newell) | N/A |
-| 20 | [Cardona](http://twitter.com/search?q=Cardona) | N/A |
-| 21 | [#EDLP](http://twitter.com/search?q=%23EDLP) | N/A |
-| 22 | [Monzon](http://twitter.com/search?q=Monzon) | N/A |
-| 23 | [Galvan](http://twitter.com/search?q=Galvan) | Galvan is a term used to describe the process of electroplating, which is a method of coating one metal with another. It involves passing an electric current through a solution containing dissolved metal salts, which causes the metal to be deposited onto the surface of the object being plated. The term comes from Luigi Galvani, an Italian scientist who discovered this process in 1791. |
-| 24 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
-| 25 | [Coloso](http://twitter.com/search?q=Coloso) | N/A |
-| 26 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 27 | [Florencia](http://twitter.com/search?q=Florencia) | N/A |
-| 28 | [Borgen](http://twitter.com/search?q=Borgen) | N/A |
-| 29 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
-| 30 | [niembro](http://twitter.com/search?q=niembro) | N/A |
-| 31 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 32 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 33 | [Falcioni](http://twitter.com/search?q=Falcioni) | N/A |
-| 34 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
-| 35 | [Pablo Pérez](http://twitter.com/search?q=Pablo+P%c3%a9rez) | N/A |
-| 36 | [#frodoyboffeenlagamergy](http://twitter.com/search?q=%23frodoyboffeenlagamergy) | N/A |
-| 37 | [Insua](http://twitter.com/search?q=Insua) | N/A |
-| 38 | [Rayo Vallecano](http://twitter.com/search?q=Rayo+Vallecano) | N/A |
-| 39 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 40 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 41 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
-| 42 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 43 | [Marcelo Bielsa](http://twitter.com/search?q=Marcelo+Bielsa) | N/A |
-| 44 | [Lollo](http://twitter.com/search?q=Lollo) | N/A |
-| 45 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
-| 46 | [Miguelo](http://twitter.com/search?q=Miguelo) | N/A |
-| 47 | [Leguizamón](http://twitter.com/search?q=Leguizam%c3%b3n) | N/A |
-| 48 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
-| 49 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
-| 50 | [Soldano](http://twitter.com/search?q=Soldano) | N/A |
+| 1 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
+| 2 | [Moyano](http://twitter.com/search?q=Moyano) | N/A |
+| 3 | [Zaid Romero](http://twitter.com/search?q=Zaid+Romero) | N/A |
+| 4 | [Central](http://twitter.com/search?q=Central) | N/A |
+| 5 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 6 | [Malcorra](http://twitter.com/search?q=Malcorra) | N/A |
+| 7 | [Doman](http://twitter.com/search?q=Doman) | N/A |
+| 8 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 9 | [Repetto](http://twitter.com/search?q=Repetto) | N/A |
+| 10 | [#LaPenaDeMorfi](http://twitter.com/search?q=%23LaPenaDeMorfi) | N/A |
+| 11 | [Rosarino](http://twitter.com/search?q=Rosarino) | N/A |
+| 12 | [Monzón](http://twitter.com/search?q=Monz%c3%b3n) | N/A |
+| 13 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 14 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 15 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 16 | [Newell](http://twitter.com/search?q=Newell) | N/A |
+| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 18 | [Cavallero](http://twitter.com/search?q=Cavallero) | N/A |
+| 19 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
+| 20 | [#EDLP](http://twitter.com/search?q=%23EDLP) | N/A |
+| 21 | [Broun](http://twitter.com/search?q=Broun) | N/A |
+| 22 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
+| 23 | [Ayuso](http://twitter.com/search?q=Ayuso) | Ayuso is a Spanish surname. It is derived from the Latin word "Auxilius", which means "helpful". In English, it can be translated to mean "helpful one". |
+| 24 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 25 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
+| 26 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 27 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 28 | [Falcioni](http://twitter.com/search?q=Falcioni) | N/A |
+| 29 | [Komar](http://twitter.com/search?q=Komar) | Komar is a Slavic word meaning "mosquito". It is used in many Slavic languages, including Russian, Ukrainian, and Polish. |
+| 30 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 31 | [Elizalde](http://twitter.com/search?q=Elizalde) | N/A |
+| 32 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
+| 33 | [Coloso](http://twitter.com/search?q=Coloso) | N/A |
+| 34 | [Zuqui](http://twitter.com/search?q=Zuqui) | N/A |
+| 35 | [Pincha](http://twitter.com/search?q=Pincha) | N/A |
+| 36 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
+| 37 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 38 | [Jorge Macri](http://twitter.com/search?q=Jorge+Macri) | N/A |
+| 39 | [Furriel](http://twitter.com/search?q=Furriel) | N/A |
+| 40 | [Boselli](http://twitter.com/search?q=Boselli) | N/A |
+| 41 | [Andujar](http://twitter.com/search?q=Andujar) | N/A |
+| 42 | [Rollheiser](http://twitter.com/search?q=Rollheiser) | N/A |
+| 43 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 44 | [Gustavo López](http://twitter.com/search?q=Gustavo+L%c3%b3pez) | N/A |
+| 45 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 46 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
+| 47 | [Avellaneda](http://twitter.com/search?q=Avellaneda) | N/A |
+| 48 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
+| 49 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
 
 
 

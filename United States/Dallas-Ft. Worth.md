@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-04-09 20:17:12 UTC`
+📆 Last Updated: `2023-04-09 21:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 2 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 3 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 6 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 7 | [Udonis Haslem](http://twitter.com/search?q=Udonis+Haslem) | N/A |
-| 8 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 9 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 10 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 11 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 12 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 13 | [Payton Pritchard](http://twitter.com/search?q=Payton+Pritchard) | N/A |
-| 14 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
-| 15 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
-| 16 | [Albert Abreu](http://twitter.com/search?q=Albert+Abreu) | N/A |
-| 17 | [Dwane Casey](http://twitter.com/search?q=Dwane+Casey) | N/A |
-| 18 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 19 | [Brennan](http://twitter.com/search?q=Brennan) | N/A |
-| 20 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
-| 21 | [Seby](http://twitter.com/search?q=Seby) | N/A |
-| 22 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
-| 23 | [Jimmy Cordero](http://twitter.com/search?q=Jimmy+Cordero) | N/A |
-| 24 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 25 | [#ATOBTTR](http://twitter.com/search?q=%23ATOBTTR) | N/A |
-| 26 | [Josh Bell](http://twitter.com/search?q=Josh+Bell) | N/A |
-| 27 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
-| 28 | [Seranthony](http://twitter.com/search?q=Seranthony) | N/A |
-| 29 | [#RaiseIt](http://twitter.com/search?q=%23RaiseIt) | N/A |
-| 30 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 31 | [Kimbrel](http://twitter.com/search?q=Kimbrel) | Kimbrel is a surname of German origin. It is derived from the Old German word "kimbar" which means "warrior". In English, it can be translated to mean "brave warrior". |
-| 32 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 33 | [Hunter Brown](http://twitter.com/search?q=Hunter+Brown) | N/A |
-| 34 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 35 | [Duvall](http://twitter.com/search?q=Duvall) | N/A |
-| 36 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
-| 37 | [George Kirby](http://twitter.com/search?q=George+Kirby) | N/A |
-| 38 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 39 | [BED BUGS](http://twitter.com/search?q=BED+BUGS) | N/A |
-| 40 | [Chas McCormick](http://twitter.com/search?q=Chas+McCormick) | N/A |
-| 41 | [Rake Fraley](http://twitter.com/search?q=Rake+Fraley) | N/A |
-| 42 | [Knizner](http://twitter.com/search?q=Knizner) | N/A |
-| 43 | [Woosung](http://twitter.com/search?q=Woosung) | N/A |
-| 44 | [Bubba Thompson](http://twitter.com/search?q=Bubba+Thompson) | N/A |
-| 45 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
-| 46 | [Cantlay](http://twitter.com/search?q=Cantlay) | N/A |
-| 47 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
-| 48 | [Triston Casas](http://twitter.com/search?q=Triston+Casas) | N/A |
-| 49 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 50 | [Kenny Atkinson](http://twitter.com/search?q=Kenny+Atkinson) | N/A |
+| 1 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
+| 2 | [#HornsForward](http://twitter.com/search?q=%23HornsForward) | N/A |
+| 3 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 4 | [Bubba](http://twitter.com/search?q=Bubba) | N/A |
+| 5 | [Hardy](http://twitter.com/search?q=Hardy) | Hardy is an adjective that means able to withstand difficult conditions or rough treatment. It can also refer to someone who is brave and resilient. |
+| 6 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 7 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 8 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 9 | [Christ](http://twitter.com/search?q=Christ) | N/A |
+| 10 | [Jack Black](http://twitter.com/search?q=Jack+Black) | N/A |
+| 11 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 12 | [#TOHSPOILERS](http://twitter.com/search?q=%23TOHSPOILERS) | N/A |
+| 13 | [AK-47](http://twitter.com/search?q=AK-47) | N/A |
+| 14 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 15 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 16 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 17 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 18 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
+| 19 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 20 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 21 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 23 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 24 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 25 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 26 | [Brennan](http://twitter.com/search?q=Brennan) | N/A |
+| 27 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 28 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
+| 29 | [Cam Thomas](http://twitter.com/search?q=Cam+Thomas) | Cam Thomas is a slang term used to describe someone who is overly confident and cocky. It is derived from the phrase "came to win," which implies that the person in question has an unwavering belief in their own abilities. |
+| 30 | [Udonis Haslem](http://twitter.com/search?q=Udonis+Haslem) | N/A |
+| 31 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 32 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
+| 33 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
+| 34 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 35 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 36 | [Tim Connelly](http://twitter.com/search?q=Tim+Connelly) | N/A |
+| 37 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 38 | [Payton Pritchard](http://twitter.com/search?q=Payton+Pritchard) | N/A |
+| 39 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 40 | [SloMo](http://twitter.com/search?q=SloMo) | N/A |
+| 41 | [Seby](http://twitter.com/search?q=Seby) | N/A |
+| 42 | [Dwane Casey](http://twitter.com/search?q=Dwane+Casey) | N/A |
+| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 44 | [Taurean Prince](http://twitter.com/search?q=Taurean+Prince) | N/A |
+| 45 | [Jimmy Cordero](http://twitter.com/search?q=Jimmy+Cordero) | N/A |
+| 46 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 47 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 48 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 49 | [Nestor](http://twitter.com/search?q=Nestor) | Nestor is a Greek name derived from the word "nestorios" which means "wise and prudent". It is often used as a male given name, and can also be used as a surname. |
+| 50 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
 
 
 

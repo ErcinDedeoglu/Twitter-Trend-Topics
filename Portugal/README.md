@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-04-09 20:17:24 UTC`
+📆 Last Updated: `2023-04-09 21:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Portugal
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 2 | [Trincão](http://twitter.com/search?q=Trinc%c3%a3o) | Trincão is a Portuguese slang term that means "little troublemaker". It is often used to describe someone who is mischievous or causes trouble. |
-| 3 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
-| 4 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 7 | [Casa Pia](http://twitter.com/search?q=Casa+Pia) | Casa Pia is a Portuguese charity organization that provides social services to vulnerable children and young people. The name translates to "Pious House" in English. |
-| 8 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 9 | [Jamor](http://twitter.com/search?q=Jamor) | N/A |
-| 10 | [Pote](http://twitter.com/search?q=Pote) | N/A |
-| 11 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 12 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 13 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 14 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 15 | [#premiereleven](http://twitter.com/search?q=%23premiereleven) | N/A |
-| 16 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 18 | [Matheus Nunes](http://twitter.com/search?q=Matheus+Nunes) | N/A |
-| 19 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 20 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 21 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 22 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 23 | [#taskmaster](http://twitter.com/search?q=%23taskmaster) | N/A |
-| 24 | [#NBAnaSPORTTV](http://twitter.com/search?q=%23NBAnaSPORTTV) | N/A |
-| 25 | [Chermiti](http://twitter.com/search?q=Chermiti) | N/A |
-| 26 | [#ufcnasporttv](http://twitter.com/search?q=%23ufcnasporttv) | N/A |
-| 27 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 28 | [Galeno](http://twitter.com/search?q=Galeno) | N/A |
-| 29 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 30 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 31 | [AJay](http://twitter.com/search?q=AJay) | N/A |
-| 32 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
-| 33 | [Alcochete](http://twitter.com/search?q=Alcochete) | N/A |
-| 34 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 35 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
-| 36 | [Vila](http://twitter.com/search?q=Vila) | N/A |
-| 37 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 38 | [pizzi](http://twitter.com/search?q=pizzi) | N/A |
-| 39 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 40 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 41 | [Leiria](http://twitter.com/search?q=Leiria) | N/A |
-| 42 | [Monte Real](http://twitter.com/search?q=Monte+Real) | N/A |
-| 43 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 44 | [Guimarães](http://twitter.com/search?q=Guimar%c3%a3es) | N/A |
-| 45 | [doran](http://twitter.com/search?q=doran) | N/A |
-| 46 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 47 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 48 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
-| 49 | [Ivan Jaime](http://twitter.com/search?q=Ivan+Jaime) | N/A |
-| 50 | [Lisboa](http://twitter.com/search?q=Lisboa) | N/A |
+| 1 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 2 | [#OsTraidores](http://twitter.com/search?q=%23OsTraidores) | N/A |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [Trincão](http://twitter.com/search?q=Trinc%c3%a3o) | Trincão is a Portuguese slang term that means "little troublemaker". It is often used to describe someone who is mischievous or causes trouble. |
+| 5 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 6 | [#OTrianguloTvi](http://twitter.com/search?q=%23OTrianguloTvi) | N/A |
+| 7 | [Rochinha](http://twitter.com/search?q=Rochinha) | N/A |
+| 8 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 10 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 11 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
+| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 13 | [Coates](http://twitter.com/search?q=Coates) | N/A |
+| 14 | [Casa Pia](http://twitter.com/search?q=Casa+Pia) | Casa Pia is a Portuguese charity organization that provides social services to vulnerable children and young people. The name translates to "Pious House" in English. |
+| 15 | [#thevoicept](http://twitter.com/search?q=%23thevoicept) | N/A |
+| 16 | [Fatawu](http://twitter.com/search?q=Fatawu) | N/A |
+| 17 | [#PremierELEVEN](http://twitter.com/search?q=%23PremierELEVEN) | N/A |
+| 18 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [Daniela Ruah](http://twitter.com/search?q=Daniela+Ruah) | N/A |
+| 21 | [Jamor](http://twitter.com/search?q=Jamor) | N/A |
+| 22 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 23 | [Esgaio](http://twitter.com/search?q=Esgaio) | N/A |
+| 24 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 25 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 26 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 27 | [Inácio](http://twitter.com/search?q=In%c3%a1cio) | N/A |
+| 28 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 29 | [Chermiti](http://twitter.com/search?q=Chermiti) | N/A |
+| 30 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 31 | [Pote](http://twitter.com/search?q=Pote) | N/A |
+| 32 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
+| 33 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 34 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
+| 35 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
+| 36 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 37 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 38 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 39 | [Morita](http://twitter.com/search?q=Morita) | N/A |
+| 40 | [Matheus Reis](http://twitter.com/search?q=Matheus+Reis) | N/A |
+| 41 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 42 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 43 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 44 | [Van der Poel](http://twitter.com/search?q=Van+der+Poel) | N/A |
+| 45 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
+| 46 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 47 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 48 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 49 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 50 | [Turim](http://twitter.com/search?q=Turim) | N/A |
 
 
 

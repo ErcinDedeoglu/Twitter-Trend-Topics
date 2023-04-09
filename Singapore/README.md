@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-04-09 20:17:25 UTC`
+📆 Last Updated: `2023-04-09 21:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Singapore
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [#Treasure_Hello_IN_Singapore](http://twitter.com/search?q=%23Treasure_Hello_IN_Singapore) | N/A |
-| 4 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 5 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
-| 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 8 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 9 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 11 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 12 | [KYUNGSOO](http://twitter.com/search?q=KYUNGSOO) | N/A |
-| 13 | [#ASAHI](http://twitter.com/search?q=%23ASAHI) | N/A |
-| 14 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 15 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 16 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 17 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 18 | [BAEKHYUN](http://twitter.com/search?q=BAEKHYUN) | N/A |
-| 19 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 20 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 21 | [Jongdae](http://twitter.com/search?q=Jongdae) | N/A |
-| 22 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 23 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 24 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 25 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 26 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 27 | [KSOO](http://twitter.com/search?q=KSOO) | N/A |
-| 28 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 29 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
-| 30 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 31 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 32 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 33 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 34 | [Join Suiswap Crew3](http://twitter.com/search?q=Join+Suiswap+Crew3) | N/A |
-| 35 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 36 | [Yeap](http://twitter.com/search?q=Yeap) | N/A |
-| 37 | [XP and Suiswap Points](http://twitter.com/search?q=XP+and+Suiswap+Points) | N/A |
-| 38 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 39 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 40 | [SEHUN](http://twitter.com/search?q=SEHUN) | SEHUN is the stage name of Oh Se-hun, a South Korean singer, rapper, dancer, and actor. He is a member of the K-pop boy group EXO. The name SEHUN is derived from his given name Se-hun and does not have an English translation. |
-| 41 | [Whatsapp Link](http://twitter.com/search?q=Whatsapp+Link) | N/A |
-| 42 | [Tele Group](http://twitter.com/search?q=Tele+Group) | N/A |
-| 43 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 44 | [Cheol](http://twitter.com/search?q=Cheol) | N/A |
-| 45 | [Thai](http://twitter.com/search?q=Thai) | N/A |
-| 46 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 47 | [NO WAY](http://twitter.com/search?q=NO+WAY) | N/A |
-| 48 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 49 | [Youngji](http://twitter.com/search?q=Youngji) | N/A |
-| 50 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 5 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 6 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 7 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 8 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 9 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 10 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 11 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 13 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 14 | [#TREASURE_HELLO_IN_SINGAPORE](http://twitter.com/search?q=%23TREASURE_HELLO_IN_SINGAPORE) | N/A |
+| 15 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 16 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 17 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 18 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 19 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 20 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 21 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
+| 22 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 23 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 24 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 25 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 26 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 27 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 28 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 29 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 30 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 31 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 32 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 33 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 34 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 35 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 36 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 37 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 38 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 39 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 40 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
+| 41 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 42 | [Karnataka](http://twitter.com/search?q=Karnataka) | N/A |
+| 43 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
+| 44 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 45 | [Islamic](http://twitter.com/search?q=Islamic) | N/A |
+| 46 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 47 | [Minjae](http://twitter.com/search?q=Minjae) | N/A |
+| 48 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 49 | [Baek](http://twitter.com/search?q=Baek) | N/A |
+| 50 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 
 
 

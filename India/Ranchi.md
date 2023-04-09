@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ranchi
 
-📆 Last Updated: `2023-04-09 20:17:06 UTC`
+📆 Last Updated: `2023-04-09 21:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RinkuSingh](http://twitter.com/search?q=%23RinkuSingh) | N/A |
-| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [#CSKvsMI](http://twitter.com/search?q=%23CSKvsMI) | N/A |
+| 2 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 3 | [#SRHvsPBKS](http://twitter.com/search?q=%23SRHvsPBKS) | N/A |
 | 4 | [#KKRvsGT](http://twitter.com/search?q=%23KKRvsGT) | N/A |
-| 5 | [रिंकू सिंह](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%82%e0%a4%95%e0%a5%82+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 6 | [KBKJ TRAILER OUT TOMORROW](http://twitter.com/search?q=KBKJ+TRAILER+OUT+TOMORROW) | N/A |
-| 7 | [#NSUIFoundationDay](http://twitter.com/search?q=%23NSUIFoundationDay) | N/A |
-| 8 | [#VakeelSaab2](http://twitter.com/search?q=%23VakeelSaab2) | N/A |
-| 9 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
-| 10 | [rahane](http://twitter.com/search?q=rahane) | N/A |
-| 11 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 13 | [बांदीपुर टाइगर रिजर्व](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%9f%e0%a4%be%e0%a4%87%e0%a4%97%e0%a4%b0+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
-| 14 | [Amul](http://twitter.com/search?q=Amul) | N/A |
-| 15 | [Dhoni Review System](http://twitter.com/search?q=Dhoni+Review+System) | N/A |
-| 16 | [केंद्रीय रिजर्व पुलिस](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 17 | [Nandini](http://twitter.com/search?q=Nandini) | N/A |
-| 18 | [भारतीय राष्ट्रीय छात्र संगठन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a4%a0%e0%a4%a8) | N/A |
-| 19 | [Sushant Singh Rajput Matters](http://twitter.com/search?q=Sushant+Singh+Rajput+Matters) | N/A |
-| 20 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
-| 21 | [शरद पवार](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b0%e0%a4%a6+%e0%a4%aa%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 22 | [राहुल सांकृत्यायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
-| 23 | [jeevan darshan](http://twitter.com/search?q=jeevan+darshan) | N/A |
-| 24 | [brahmgyani sant](http://twitter.com/search?q=brahmgyani+sant) | N/A |
-| 25 | [नूपुर शर्मा](http://twitter.com/search?q=%e0%a4%a8%e0%a5%82%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 26 | [राजा बाबू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82) | N/A |
-| 27 | [Dhawan](http://twitter.com/search?q=Dhawan) | N/A |
-| 28 | [sushant a skilful person](http://twitter.com/search?q=sushant+a+skilful+person) | N/A |
-| 29 | [Sharad Pawar](http://twitter.com/search?q=Sharad+Pawar) | N/A |
-| 30 | [दलित महिला](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 31 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 32 | [100 EPS OF AMRITA BRAR](http://twitter.com/search?q=100+EPS+OF+AMRITA+BRAR) | N/A |
-| 33 | [Wankhede](http://twitter.com/search?q=Wankhede) | N/A |
-| 34 | [Arijit Singh](http://twitter.com/search?q=Arijit+Singh) | N/A |
-| 35 | [srk ka jhant akshay](http://twitter.com/search?q=srk+ka+jhant+akshay) | N/A |
-| 36 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 37 | [ईसा मसीह](http://twitter.com/search?q=%e0%a4%88%e0%a4%b8%e0%a4%be+%e0%a4%ae%e0%a4%b8%e0%a5%80%e0%a4%b9) | N/A |
-| 38 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 39 | [VEER EPITOME OF EMOTIONS](http://twitter.com/search?q=VEER+EPITOME+OF+EMOTIONS) | N/A |
-| 40 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 41 | [Mahindra](http://twitter.com/search?q=Mahindra) | N/A |
-| 42 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 44 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 45 | [मंगल पांडे](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%97%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%82%e0%a4%a1%e0%a5%87) | N/A |
-| 46 | [Jago Hindus Jago](http://twitter.com/search?q=Jago+Hindus+Jago) | N/A |
-| 47 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 48 | [Kajal](http://twitter.com/search?q=Kajal) | N/A |
-| 49 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [#ShikharDhawan](http://twitter.com/search?q=%23ShikharDhawan) | N/A |
+| 7 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 8 | [KBKJ TRAILER OUT TOMORROW](http://twitter.com/search?q=KBKJ+TRAILER+OUT+TOMORROW) | N/A |
+| 9 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 10 | [रिंकू सिंह](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%82%e0%a4%95%e0%a5%82+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 11 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 12 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 13 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 14 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 15 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 16 | [Stephen F](http://twitter.com/search?q=Stephen+F) | N/A |
+| 17 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 18 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 19 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 21 | [Shaun M](http://twitter.com/search?q=Shaun+M) | N/A |
+| 22 | [James F](http://twitter.com/search?q=James+F) | N/A |
+| 23 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 24 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 25 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 26 | [नूपुर शर्मा](http://twitter.com/search?q=%e0%a4%a8%e0%a5%82%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 27 | [Kagiso R](http://twitter.com/search?q=Kagiso+R) | N/A |
+| 28 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 29 | [Gabbar](http://twitter.com/search?q=Gabbar) | N/A |
+| 30 | [Woosung](http://twitter.com/search?q=Woosung) | N/A |
+| 31 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 32 | [REMEMBER THE NAME](http://twitter.com/search?q=REMEMBER+THE+NAME) | N/A |
+| 33 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 34 | [Take A Bow](http://twitter.com/search?q=Take+A+Bow) | N/A |
+| 35 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 36 | [Venkatesh Iyer](http://twitter.com/search?q=Venkatesh+Iyer) | N/A |
+| 37 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 38 | [#VakeelSaab2](http://twitter.com/search?q=%23VakeelSaab2) | N/A |
+| 39 | [#KajalHindustani](http://twitter.com/search?q=%23KajalHindustani) | N/A |
+| 40 | [#OrangeArmy](http://twitter.com/search?q=%23OrangeArmy) | N/A |
+| 41 | [#RahulTripathi](http://twitter.com/search?q=%23RahulTripathi) | N/A |
+| 42 | [#काजल_हिंदुस्तानी](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%be%e0%a4%9c%e0%a4%b2_%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 43 | [#YashDayal](http://twitter.com/search?q=%23YashDayal) | N/A |
+| 44 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 45 | [#Simhadri4KOnMay20](http://twitter.com/search?q=%23Simhadri4KOnMay20) | N/A |
+| 46 | [#VenuSriram](http://twitter.com/search?q=%23VenuSriram) | N/A |
+| 47 | [#OrangeFireIdhi](http://twitter.com/search?q=%23OrangeFireIdhi) | N/A |
+| 48 | [#PunjabKings](http://twitter.com/search?q=%23PunjabKings) | N/A |
+| 49 | [#RashidKhan](http://twitter.com/search?q=%23RashidKhan) | N/A |
 
 
 

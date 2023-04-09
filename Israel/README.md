@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-04-09 20:17:22 UTC`
+📆 Last Updated: `2023-04-09 21:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Israel
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [מיכאל חי](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%90%d7%9c+%d7%97%d7%99) | N/A |
-| 2 | [טל רוסו](http://twitter.com/search?q=%d7%98%d7%9c+%d7%a8%d7%95%d7%a1%d7%95) | N/A |
-| 3 | [שבוע טוב](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%98%d7%95%d7%91) | שבוע טוב is a Hebrew phrase meaning "have a good week". It is often used as a greeting or farewell. |
-| 4 | [יורק טיימס](http://twitter.com/search?q=%d7%99%d7%95%d7%a8%d7%a7+%d7%98%d7%99%d7%99%d7%9e%d7%a1) | N/A |
-| 5 | [של ערוץ](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a2%d7%a8%d7%95%d7%a5) | N/A |
-| 6 | [גלית דיסטל](http://twitter.com/search?q=%d7%92%d7%9c%d7%99%d7%aa+%d7%93%d7%99%d7%a1%d7%98%d7%9c) | N/A |
-| 7 | [דעת קהל](http://twitter.com/search?q=%d7%93%d7%a2%d7%aa+%d7%a7%d7%94%d7%9c) | N/A |
-| 8 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 9 | [נגד הממשלה](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
-| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [אריה דרעי](http://twitter.com/search?q=%d7%90%d7%a8%d7%99%d7%94+%d7%93%d7%a8%d7%a2%d7%99) | N/A |
-| 12 | [ראש המוסד](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%95%d7%a1%d7%93) | N/A |
+| 2 | [יורק טיימס](http://twitter.com/search?q=%d7%99%d7%95%d7%a8%d7%a7+%d7%98%d7%99%d7%99%d7%9e%d7%a1) | N/A |
+| 3 | [גלית דיסטל](http://twitter.com/search?q=%d7%92%d7%9c%d7%99%d7%aa+%d7%93%d7%99%d7%a1%d7%98%d7%9c) | N/A |
+| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 5 | [שבוע טוב](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%98%d7%95%d7%91) | שבוע טוב is a Hebrew phrase meaning "have a good week". It is often used as a greeting or farewell. |
+| 6 | [של ערוץ](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a2%d7%a8%d7%95%d7%a5) | N/A |
+| 7 | [טל רוסו](http://twitter.com/search?q=%d7%98%d7%9c+%d7%a8%d7%95%d7%a1%d7%95) | N/A |
+| 8 | [של המוסד](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9e%d7%95%d7%a1%d7%93) | N/A |
+| 9 | [דעת קהל](http://twitter.com/search?q=%d7%93%d7%a2%d7%aa+%d7%a7%d7%94%d7%9c) | N/A |
+| 10 | [נגד הממשלה](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
+| 11 | [מנהל מחלקה](http://twitter.com/search?q=%d7%9e%d7%a0%d7%94%d7%9c+%d7%9e%d7%97%d7%9c%d7%a7%d7%94) | N/A |
+| 12 | [סקר שקר](http://twitter.com/search?q=%d7%a1%d7%a7%d7%a8+%d7%a9%d7%a7%d7%a8) | N/A |
 | 13 | [מיליציה פרו איראנית](http://twitter.com/search?q=%d7%9e%d7%99%d7%9c%d7%99%d7%a6%d7%99%d7%94+%d7%a4%d7%a8%d7%95+%d7%90%d7%99%d7%a8%d7%90%d7%a0%d7%99%d7%aa) | N/A |
-| 14 | [ישראל כץ](http://twitter.com/search?q=%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%9b%d7%a5) | N/A |
-| 15 | [Golan Heights](http://twitter.com/search?q=Golan+Heights) | N/A |
-| 16 | [קוסטה בלאק](http://twitter.com/search?q=%d7%a7%d7%95%d7%a1%d7%98%d7%94+%d7%91%d7%9c%d7%90%d7%a7) | N/A |
-| 17 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
-| 18 | [ארבע שנים](http://twitter.com/search?q=%d7%90%d7%a8%d7%91%d7%a2+%d7%a9%d7%a0%d7%99%d7%9d) | N/A |
-| 19 | [נו ו](http://twitter.com/search?q=%d7%a0%d7%95+%d7%95) | N/A |
-| 20 | [תם עידן נתניהו](http://twitter.com/search?q=%d7%aa%d7%9d+%d7%a2%d7%99%d7%93%d7%9f+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
-| 21 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 22 | [או לכל](http://twitter.com/search?q=%d7%90%d7%95+%d7%9c%d7%9b%d7%9c) | N/A |
-| 23 | [משטח סוריה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%98%d7%97+%d7%a1%d7%95%d7%a8%d7%99%d7%94) | N/A |
-| 24 | [ביום השואה](http://twitter.com/search?q=%d7%91%d7%99%d7%95%d7%9d+%d7%94%d7%a9%d7%95%d7%90%d7%94) | N/A |
-| 25 | [יאיר גולן](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%92%d7%95%d7%9c%d7%9f) | N/A |
+| 14 | [סקר ערוץ](http://twitter.com/search?q=%d7%a1%d7%a7%d7%a8+%d7%a2%d7%a8%d7%95%d7%a5) | N/A |
+| 15 | [עמיחי אליהו](http://twitter.com/search?q=%d7%a2%d7%9e%d7%99%d7%97%d7%99+%d7%90%d7%9c%d7%99%d7%94%d7%95) | N/A |
+| 16 | [Mossad](http://twitter.com/search?q=Mossad) | N/A |
+| 17 | [של רבין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a8%d7%91%d7%99%d7%9f) | N/A |
+| 18 | [רמי לוי](http://twitter.com/search?q=%d7%a8%d7%9e%d7%99+%d7%9c%d7%95%d7%99) | N/A |
+| 19 | [ראש המוסד](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%95%d7%a1%d7%93) | N/A |
+| 20 | [אריה דרעי](http://twitter.com/search?q=%d7%90%d7%a8%d7%99%d7%94+%d7%93%d7%a8%d7%a2%d7%99) | N/A |
+| 21 | [סקר חדשות](http://twitter.com/search?q=%d7%a1%d7%a7%d7%a8+%d7%97%d7%93%d7%a9%d7%95%d7%aa) | N/A |
+| 22 | [די הי](http://twitter.com/search?q=%d7%93%d7%99+%d7%94%d7%99) | N/A |
+| 23 | [של הגבעטרון](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%92%d7%91%d7%a2%d7%98%d7%a8%d7%95%d7%9f) | N/A |
+| 24 | [של חנן בן ארי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%a0%d7%9f+%d7%91%d7%9f+%d7%90%d7%a8%d7%99) | N/A |
+| 25 | [צבי סוכות](http://twitter.com/search?q=%d7%a6%d7%91%d7%99+%d7%a1%d7%95%d7%9b%d7%95%d7%aa) | N/A |
 | 26 | [גורם מדיני](http://twitter.com/search?q=%d7%92%d7%95%d7%a8%d7%9d+%d7%9e%d7%93%d7%99%d7%a0%d7%99) | N/A |
-| 27 | [המוסד עודד](http://twitter.com/search?q=%d7%94%d7%9e%d7%95%d7%a1%d7%93+%d7%a2%d7%95%d7%93%d7%93) | N/A |
-| 28 | [בן שטרית](http://twitter.com/search?q=%d7%91%d7%9f+%d7%a9%d7%98%d7%a8%d7%99%d7%aa) | N/A |
-| 29 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 30 | [של פרעה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%a8%d7%a2%d7%94) | N/A |
-| 31 | [בוקר אור](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%90%d7%95%d7%a8) | N/A |
-| 32 | [של קוסטה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%95%d7%a1%d7%98%d7%94) | N/A |
-| 33 | [כפר קאסם](http://twitter.com/search?q=%d7%9b%d7%a4%d7%a8+%d7%a7%d7%90%d7%a1%d7%9d) | N/A |
-| 34 | [הדבר האחרון](http://twitter.com/search?q=%d7%94%d7%93%d7%91%d7%a8+%d7%94%d7%90%d7%97%d7%a8%d7%95%d7%9f) | N/A |
-| 35 | [גל טרור](http://twitter.com/search?q=%d7%92%d7%9c+%d7%98%d7%a8%d7%95%d7%a8) | N/A |
-| 36 | [אלוף בצה](http://twitter.com/search?q=%d7%90%d7%9c%d7%95%d7%a3+%d7%91%d7%a6%d7%94) | N/A |
-| 37 | [פה ג](http://twitter.com/search?q=%d7%a4%d7%94+%d7%92) | N/A |
-| 38 | [#דמוקרטיה](http://twitter.com/search?q=%23%d7%93%d7%9e%d7%95%d7%a7%d7%a8%d7%98%d7%99%d7%94) | N/A |
-| 39 | [ערב רב](http://twitter.com/search?q=%d7%a2%d7%a8%d7%91+%d7%a8%d7%91) | N/A |
-| 40 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 41 | [ערבי ישראלי](http://twitter.com/search?q=%d7%a2%d7%a8%d7%91%d7%99+%d7%99%d7%a9%d7%a8%d7%90%d7%9c%d7%99) | N/A |
-| 42 | [של רבין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a8%d7%91%d7%99%d7%9f) | N/A |
-| 43 | [קו אדום](http://twitter.com/search?q=%d7%a7%d7%95+%d7%90%d7%93%d7%95%d7%9d) | N/A |
-| 44 | [דיווח ראשוני](http://twitter.com/search?q=%d7%93%d7%99%d7%95%d7%95%d7%97+%d7%a8%d7%90%d7%a9%d7%95%d7%a0%d7%99) | N/A |
-| 45 | [נגד העם](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%94%d7%a2%d7%9d) | N/A |
-| 46 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 47 | [משרד הסברה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a8%d7%93+%d7%94%d7%a1%d7%91%d7%a8%d7%94) | N/A |
-| 48 | [Western Wall](http://twitter.com/search?q=Western+Wall) | N/A |
-| 49 | [מערך הסברה](http://twitter.com/search?q=%d7%9e%d7%a2%d7%a8%d7%9a+%d7%94%d7%a1%d7%91%d7%a8%d7%94) | N/A |
-| 50 | [תומך טרור](http://twitter.com/search?q=%d7%aa%d7%95%d7%9e%d7%9a+%d7%98%d7%a8%d7%95%d7%a8) | N/A |
+| 27 | [משטח סוריה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%98%d7%97+%d7%a1%d7%95%d7%a8%d7%99%d7%94) | N/A |
+| 28 | [יאיר גולן](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%92%d7%95%d7%9c%d7%9f) | N/A |
+| 29 | [קוסטה בלאק](http://twitter.com/search?q=%d7%a7%d7%95%d7%a1%d7%98%d7%94+%d7%91%d7%9c%d7%90%d7%a7) | N/A |
+| 30 | [תם עידן נתניהו](http://twitter.com/search?q=%d7%aa%d7%9d+%d7%a2%d7%99%d7%93%d7%9f+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
+| 31 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
+| 32 | [Likud](http://twitter.com/search?q=Likud) | N/A |
+| 33 | [ביום השואה](http://twitter.com/search?q=%d7%91%d7%99%d7%95%d7%9d+%d7%94%d7%a9%d7%95%d7%90%d7%94) | N/A |
+| 34 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 35 | [רונן ברגמן](http://twitter.com/search?q=%d7%a8%d7%95%d7%a0%d7%9f+%d7%91%d7%a8%d7%92%d7%9e%d7%9f) | N/A |
+| 36 | [של פרעה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%a8%d7%a2%d7%94) | N/A |
+| 37 | [סקר של](http://twitter.com/search?q=%d7%a1%d7%a7%d7%a8+%d7%a9%d7%9c) | N/A |
+| 38 | [בחירות בקרוב](http://twitter.com/search?q=%d7%91%d7%97%d7%99%d7%a8%d7%95%d7%aa+%d7%91%d7%a7%d7%a8%d7%95%d7%91) | N/A |
+| 39 | [עוד ארבע שנים](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%90%d7%a8%d7%91%d7%a2+%d7%a9%d7%a0%d7%99%d7%9d) | N/A |
+| 40 | [פה ג](http://twitter.com/search?q=%d7%a4%d7%94+%d7%92) | N/A |
+| 41 | [מאי גולן](http://twitter.com/search?q=%d7%9e%d7%90%d7%99+%d7%92%d7%95%d7%9c%d7%9f) | N/A |
+| 42 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 43 | [מסר של אחדות](http://twitter.com/search?q=%d7%9e%d7%a1%d7%a8+%d7%a9%d7%9c+%d7%90%d7%97%d7%93%d7%95%d7%aa) | N/A |
+| 44 | [Maia](http://twitter.com/search?q=Maia) | N/A |
+| 45 | [בחירות עכשיו](http://twitter.com/search?q=%d7%91%d7%97%d7%99%d7%a8%d7%95%d7%aa+%d7%a2%d7%9b%d7%a9%d7%99%d7%95) | N/A |
+| 46 | [פוליטיקה קטנה](http://twitter.com/search?q=%d7%a4%d7%95%d7%9c%d7%99%d7%98%d7%99%d7%a7%d7%94+%d7%a7%d7%98%d7%a0%d7%94) | N/A |
+| 47 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 48 | [הליכוד עם](http://twitter.com/search?q=%d7%94%d7%9c%d7%99%d7%9b%d7%95%d7%93+%d7%a2%d7%9d) | N/A |
+| 49 | [ואן דייק](http://twitter.com/search?q=%d7%95%d7%90%d7%9f+%d7%93%d7%99%d7%99%d7%a7) | N/A |
+| 50 | [גוב האריות](http://twitter.com/search?q=%d7%92%d7%95%d7%91+%d7%94%d7%90%d7%a8%d7%99%d7%95%d7%aa) | N/A |
 
 
 

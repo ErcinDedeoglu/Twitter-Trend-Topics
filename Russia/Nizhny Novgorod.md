@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nizhny Novgorod
 
-📆 Last Updated: `2023-04-09 20:17:04 UTC`
+📆 Last Updated: `2023-04-09 21:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Russia](</Russia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 2 | [#NFTdrop](http://twitter.com/search?q=%23NFTdrop) | N/A |
-| 3 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 4 | [Rate](http://twitter.com/search?q=Rate) | N/A |
-| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 6 | [Thee](http://twitter.com/search?q=Thee) | N/A |
-| 7 | [Bull](http://twitter.com/search?q=Bull) | N/A |
-| 8 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 9 | [Hype](http://twitter.com/search?q=Hype) | N/A |
-| 10 | [002 ONLY](http://twitter.com/search?q=002+ONLY) | N/A |
-| 11 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 12 | [Onee](http://twitter.com/search?q=Onee) | N/A |
-| 13 | [Pretty Coooool](http://twitter.com/search?q=Pretty+Coooool) | Pretty Coooool is an expression of enthusiasm or approval. It is often used to express excitement or admiration for something. In English, it can be translated to mean "very cool" or "awesome". |
-| 14 | [cryptoo](http://twitter.com/search?q=cryptoo) | N/A |
-| 15 | [Thiss](http://twitter.com/search?q=Thiss) | N/A |
-| 16 | [Employ](http://twitter.com/search?q=Employ) | N/A |
-| 17 | [Didd](http://twitter.com/search?q=Didd) | N/A |
-| 18 | [alreadyy](http://twitter.com/search?q=alreadyy) | N/A |
-| 19 | [Thankss](http://twitter.com/search?q=Thankss) | N/A |
-| 20 | [#BNBB](http://twitter.com/search?q=%23BNBB) | N/A |
-| 21 | [#Binance](http://twitter.com/search?q=%23Binance) | N/A |
-| 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 23 | [Users](http://twitter.com/search?q=Users) | N/A |
-| 24 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
-| 25 | [Recommendd](http://twitter.com/search?q=Recommendd) | N/A |
-| 26 | [dope xd](http://twitter.com/search?q=dope+xd) | N/A |
-| 27 | [Logical](http://twitter.com/search?q=Logical) | N/A |
-| 28 | [чонгука](http://twitter.com/search?q=%d1%87%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
-| 29 | [Питере](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
-| 30 | [Gmorning](http://twitter.com/search?q=Gmorning) | N/A |
-| 31 | [Whyy](http://twitter.com/search?q=Whyy) | N/A |
-| 32 | [Европу](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%83) | N/A |
-| 33 | [Havee](http://twitter.com/search?q=Havee) | N/A |
-| 34 | [Neww](http://twitter.com/search?q=Neww) | N/A |
-| 35 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
-| 36 | [TOPP TEAM](http://twitter.com/search?q=TOPP+TEAM) | N/A |
-| 37 | [Forr](http://twitter.com/search?q=Forr) | N/A |
-| 38 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
-| 39 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
-| 40 | [судя](http://twitter.com/search?q=%d1%81%d1%83%d0%b4%d1%8f) | N/A |
-| 41 | [Простите](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%81%d1%82%d0%b8%d1%82%d0%b5) | N/A |
-| 42 | [everythingg](http://twitter.com/search?q=everythingg) | N/A |
-| 43 | [Красивое](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be%d0%b5) | N/A |
-| 44 | [Theyy](http://twitter.com/search?q=Theyy) | N/A |
-| 45 | [Смотри](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d0%b8) | N/A |
-| 46 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 47 | [хорошая](http://twitter.com/search?q=%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b0%d1%8f) | N/A |
-| 48 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
-| 49 | [помню](http://twitter.com/search?q=%d0%bf%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
-| 50 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
+| 1 | [#маска](http://twitter.com/search?q=%23%d0%bc%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
+| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 3 | [Pretty Coooool](http://twitter.com/search?q=Pretty+Coooool) | Pretty Coooool is an expression of enthusiasm or approval. It is often used to express excitement or admiration for something. In English, it can be translated to mean "very cool" or "awesome". |
+| 4 | [Thee](http://twitter.com/search?q=Thee) | N/A |
+| 5 | [Rate](http://twitter.com/search?q=Rate) | N/A |
+| 6 | [Bull](http://twitter.com/search?q=Bull) | N/A |
+| 7 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 8 | [Hype](http://twitter.com/search?q=Hype) | N/A |
+| 9 | [Employ](http://twitter.com/search?q=Employ) | N/A |
+| 10 | [#BNBB](http://twitter.com/search?q=%23BNBB) | N/A |
+| 11 | [Thiss](http://twitter.com/search?q=Thiss) | N/A |
+| 12 | [Users](http://twitter.com/search?q=Users) | N/A |
+| 13 | [Thankss](http://twitter.com/search?q=Thankss) | N/A |
+| 14 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 15 | [#Binancee](http://twitter.com/search?q=%23Binancee) | N/A |
+| 16 | [Cann](http://twitter.com/search?q=Cann) | N/A |
+| 17 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 18 | [#NFTdrop](http://twitter.com/search?q=%23NFTdrop) | N/A |
+| 19 | [Forr](http://twitter.com/search?q=Forr) | N/A |
+| 20 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
+| 21 | [Finallyy](http://twitter.com/search?q=Finallyy) | N/A |
+| 22 | [Onee](http://twitter.com/search?q=Onee) | N/A |
+| 23 | [Logical](http://twitter.com/search?q=Logical) | N/A |
+| 24 | [Recommendd](http://twitter.com/search?q=Recommendd) | N/A |
+| 25 | [002 ONLY](http://twitter.com/search?q=002+ONLY) | N/A |
+| 26 | [Didd](http://twitter.com/search?q=Didd) | N/A |
+| 27 | [Havee](http://twitter.com/search?q=Havee) | N/A |
+| 28 | [Theyy](http://twitter.com/search?q=Theyy) | N/A |
+| 29 | [Top Team](http://twitter.com/search?q=Top+Team) | N/A |
+| 30 | [alreadyy](http://twitter.com/search?q=alreadyy) | N/A |
+| 31 | [ЦСКА](http://twitter.com/search?q=%d0%a6%d0%a1%d0%9a%d0%90) | N/A |
+| 32 | [Cryptoo](http://twitter.com/search?q=Cryptoo) | N/A |
+| 33 | [Howw](http://twitter.com/search?q=Howw) | N/A |
+| 34 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 35 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 36 | [Neww](http://twitter.com/search?q=Neww) | N/A |
+| 37 | [Dope xD](http://twitter.com/search?q=Dope+xD) | N/A |
+| 38 | [Покажи](http://twitter.com/search?q=%d0%9f%d0%be%d0%ba%d0%b0%d0%b6%d0%b8) | N/A |
+| 39 | [worthh](http://twitter.com/search?q=worthh) | N/A |
+| 40 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
+| 41 | [Whyy](http://twitter.com/search?q=Whyy) | N/A |
+| 42 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
+| 43 | [Everythingg](http://twitter.com/search?q=Everythingg) | N/A |
+| 44 | [Отличная](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%b0%d1%8f) | N/A |
+| 45 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
+| 46 | [Нормально](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 47 | [Чонгука](http://twitter.com/search?q=%d0%a7%d0%be%d0%bd%d0%b3%d1%83%d0%ba%d0%b0) | N/A |
+| 48 | [Keepss](http://twitter.com/search?q=Keepss) | N/A |
+| 49 | [С ДНЁМ РОЖДЕНИЯ](http://twitter.com/search?q=%d0%a1+%d0%94%d0%9d%d0%81%d0%9c+%d0%a0%d0%9e%d0%96%d0%94%d0%95%d0%9d%d0%98%d0%af) | N/A |
+| 50 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
 
 
 

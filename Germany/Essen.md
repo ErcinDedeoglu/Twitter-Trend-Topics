@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-04-09 20:16:45 UTC`
+📆 Last Updated: `2023-04-09 21:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 2 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 3 | [#Traumschiff](http://twitter.com/search?q=%23Traumschiff) | N/A |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [#TSGS04](http://twitter.com/search?q=%23TSGS04) | N/A |
-| 6 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
-| 7 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
-| 8 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 9 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
-| 10 | [#SCFfcb](http://twitter.com/search?q=%23SCFfcb) | N/A |
-| 11 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 3 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 4 | [#TSGS04](http://twitter.com/search?q=%23TSGS04) | N/A |
+| 5 | [#Traumschiff](http://twitter.com/search?q=%23Traumschiff) | N/A |
+| 6 | [#BOCVfB](http://twitter.com/search?q=%23BOCVfB) | N/A |
+| 7 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
+| 8 | [Eier](http://twitter.com/search?q=Eier) | N/A |
+| 9 | [#BMGWOB](http://twitter.com/search?q=%23BMGWOB) | N/A |
+| 10 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 11 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
 | 12 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 13 | [Eier](http://twitter.com/search?q=Eier) | N/A |
-| 14 | [Teil 2](http://twitter.com/search?q=Teil+2) | N/A |
-| 15 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
-| 16 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 17 | [Flori](http://twitter.com/search?q=Flori) | N/A |
-| 18 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 19 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
-| 20 | [Liga 2](http://twitter.com/search?q=Liga+2) | Liga 2 is the second tier of the Romanian football league system. It is also known as the Liga II Serie A and Liga II Serie B. In English, it translates to League 2. |
-| 21 | [Abstieg](http://twitter.com/search?q=Abstieg) | N/A |
-| 22 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 23 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 24 | [Torwart](http://twitter.com/search?q=Torwart) | N/A |
-| 25 | [karsamstag](http://twitter.com/search?q=karsamstag) | N/A |
-| 26 | [Antisemiten](http://twitter.com/search?q=Antisemiten) | N/A |
-| 27 | [Totales Durcheinander](http://twitter.com/search?q=Totales+Durcheinander) | N/A |
-| 28 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 29 | [Drehbuch](http://twitter.com/search?q=Drehbuch) | N/A |
-| 30 | [Ostersamstag](http://twitter.com/search?q=Ostersamstag) | N/A |
-| 31 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 32 | [Kleid](http://twitter.com/search?q=Kleid) | N/A |
-| 33 | [Relegation](http://twitter.com/search?q=Relegation) | N/A |
-| 34 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 35 | [Lebewesen](http://twitter.com/search?q=Lebewesen) | N/A |
-| 36 | [Flugzeug](http://twitter.com/search?q=Flugzeug) | N/A |
-| 37 | [Hubschrauber](http://twitter.com/search?q=Hubschrauber) | N/A |
-| 38 | [Mediathek](http://twitter.com/search?q=Mediathek) | N/A |
-| 39 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 40 | [FOUL](http://twitter.com/search?q=FOUL) | N/A |
-| 41 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 42 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
-| 43 | [weltordnung](http://twitter.com/search?q=weltordnung) | N/A |
-| 44 | [DE LIGT](http://twitter.com/search?q=DE+LIGT) | N/A |
-| 45 | [Ostergrüße](http://twitter.com/search?q=Ostergr%c3%bc%c3%9fe) | N/A |
-| 46 | [Mindestlohn](http://twitter.com/search?q=Mindestlohn) | N/A |
-| 47 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 48 | [waschbär](http://twitter.com/search?q=waschb%c3%a4r) | N/A |
-| 49 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
-| 50 | [Stimmung im Land](http://twitter.com/search?q=Stimmung+im+Land) | N/A |
+| 13 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 14 | [Bruce Darnell](http://twitter.com/search?q=Bruce+Darnell) | N/A |
+| 15 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 16 | [WOOSUNG](http://twitter.com/search?q=WOOSUNG) | N/A |
+| 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 18 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 20 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 21 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 22 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 23 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 24 | [Jenz](http://twitter.com/search?q=Jenz) | N/A |
+| 25 | [Fährmann](http://twitter.com/search?q=F%c3%a4hrmann) | N/A |
+| 26 | [Flori](http://twitter.com/search?q=Flori) | N/A |
+| 27 | [Millot](http://twitter.com/search?q=Millot) | N/A |
+| 28 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 29 | [Alice Schwarzer](http://twitter.com/search?q=Alice+Schwarzer) | N/A |
+| 30 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 31 | [Ostergrüße](http://twitter.com/search?q=Ostergr%c3%bc%c3%9fe) | N/A |
+| 32 | [Totales Durcheinander](http://twitter.com/search?q=Totales+Durcheinander) | N/A |
+| 33 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 34 | [Corinna Harfouch](http://twitter.com/search?q=Corinna+Harfouch) | N/A |
+| 35 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
+| 36 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 37 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 38 | [Auferstehung](http://twitter.com/search?q=Auferstehung) | N/A |
+| 39 | [Morla](http://twitter.com/search?q=Morla) | N/A |
+| 40 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 41 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 42 | [LIFE GOES ON](http://twitter.com/search?q=LIFE+GOES+ON) | N/A |
+| 43 | [Auswärtssieg](http://twitter.com/search?q=Ausw%c3%a4rtssieg) | N/A |
+| 44 | [Ostergeschenk](http://twitter.com/search?q=Ostergeschenk) | N/A |
+| 45 | [Teil 2](http://twitter.com/search?q=Teil+2) | N/A |
+| 46 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
+| 47 | [Antisemiten](http://twitter.com/search?q=Antisemiten) | N/A |
+| 48 | [Ritter der Kokosnuss](http://twitter.com/search?q=Ritter+der+Kokosnuss) | N/A |
+| 49 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 50 | [Heimspiel](http://twitter.com/search?q=Heimspiel) | N/A |
 
 
 
