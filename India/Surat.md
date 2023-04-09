@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-04-09 11:16:38 UTC`
+📆 Last Updated: `2023-04-09 12:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#askmrunal](http://twitter.com/search?q=%23askmrunal) | N/A |
-| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [#TigerInKarnataka](http://twitter.com/search?q=%23TigerInKarnataka) | N/A |
-| 4 | [#AyodhyaMeEknath](http://twitter.com/search?q=%23AyodhyaMeEknath) | N/A |
-| 5 | [बांदीपुर टाइगर रिजर्व](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%9f%e0%a4%be%e0%a4%87%e0%a4%97%e0%a4%b0+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
-| 6 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
-| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 8 | [भारतीय राष्ट्रीय छात्र संगठन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a4%a0%e0%a4%a8) | N/A |
-| 9 | [Sushant Singh Rajput Matters](http://twitter.com/search?q=Sushant+Singh+Rajput+Matters) | N/A |
-| 10 | [Mahindra](http://twitter.com/search?q=Mahindra) | N/A |
-| 11 | [VEER EPITOME OF EMOTIONS](http://twitter.com/search?q=VEER+EPITOME+OF+EMOTIONS) | N/A |
-| 12 | [केंद्रीय रिजर्व पुलिस](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 13 | [100 EPS OF AMRITA BRAR](http://twitter.com/search?q=100+EPS+OF+AMRITA+BRAR) | N/A |
-| 14 | [राजा बाबू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82) | N/A |
-| 15 | [शहीद स्मारक](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6+%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
-| 16 | [Jago Hindus Jago](http://twitter.com/search?q=Jago+Hindus+Jago) | N/A |
-| 17 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 18 | [Supreme God Kabir](http://twitter.com/search?q=Supreme+God+Kabir) | N/A |
-| 19 | [राहुल सांकृत्यायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
-| 20 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 21 | [वसुंधरा राजे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%b8%e0%a5%81%e0%a4%82%e0%a4%a7%e0%a4%b0%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87) | N/A |
-| 22 | [Amul](http://twitter.com/search?q=Amul) | N/A |
-| 23 | [Brahmgyani Sant](http://twitter.com/search?q=Brahmgyani+Sant) | N/A |
-| 24 | [Jeevan Darshan](http://twitter.com/search?q=Jeevan+Darshan) | N/A |
-| 25 | [छात्र शक्ति](http://twitter.com/search?q=%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 26 | [Mysuru](http://twitter.com/search?q=Mysuru) | N/A |
-| 27 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 28 | [PM Shri](http://twitter.com/search?q=PM+Shri) | N/A |
-| 29 | [सरदार पोस्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%a6%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%8b%e0%a4%b8%e0%a5%8d%e0%a4%9f) | N/A |
-| 30 | [Swag](http://twitter.com/search?q=Swag) | N/A |
-| 31 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 32 | [Nandini](http://twitter.com/search?q=Nandini) | N/A |
-| 33 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 34 | [यात्रा साहित्य](http://twitter.com/search?q=%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af) | N/A |
-| 35 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 36 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 37 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 38 | [ईसा मसीह](http://twitter.com/search?q=%e0%a4%88%e0%a4%b8%e0%a4%be+%e0%a4%ae%e0%a4%b8%e0%a5%80%e0%a4%b9) | N/A |
-| 39 | [Lion](http://twitter.com/search?q=Lion) | N/A |
-| 40 | [Abhir](http://twitter.com/search?q=Abhir) | N/A |
-| 41 | [ISRO](http://twitter.com/search?q=ISRO) | N/A |
-| 42 | [#NSUIFoundationDay](http://twitter.com/search?q=%23NSUIFoundationDay) | N/A |
-| 43 | [#AIIMS_FOR_SAHARSA](http://twitter.com/search?q=%23AIIMS_FOR_SAHARSA) | N/A |
-| 44 | [#हम_मुकेश_भाकर_के_साथ_हैं](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%ae_%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%87%e0%a4%b6_%e0%a4%ad%e0%a4%be%e0%a4%95%e0%a4%b0_%e0%a4%95%e0%a5%87_%e0%a4%b8%e0%a4%be%e0%a4%a5_%e0%a4%b9%e0%a5%88%e0%a4%82) | N/A |
-| 45 | [#SachinPilot](http://twitter.com/search?q=%23SachinPilot) | N/A |
-| 46 | [#गुरु_हैं_चारों_धाम](http://twitter.com/search?q=%23%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81_%e0%a4%b9%e0%a5%88%e0%a4%82_%e0%a4%9a%e0%a4%be%e0%a4%b0%e0%a5%8b%e0%a4%82_%e0%a4%a7%e0%a4%be%e0%a4%ae) | N/A |
-| 47 | [#MilletsNaturalFarming4Health](http://twitter.com/search?q=%23MilletsNaturalFarming4Health) | N/A |
-| 48 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 1 | [Vijay Shankar](http://twitter.com/search?q=Vijay+Shankar) | N/A |
+| 2 | [#GTvKKR](http://twitter.com/search?q=%23GTvKKR) | N/A |
+| 3 | [#askmrunal](http://twitter.com/search?q=%23askmrunal) | N/A |
+| 4 | [#AttentionBJPKarnataka](http://twitter.com/search?q=%23AttentionBJPKarnataka) | N/A |
+| 5 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 6 | [Suresh R](http://twitter.com/search?q=Suresh+R) | N/A |
+| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 8 | [Ishan K](http://twitter.com/search?q=Ishan+K) | N/A |
+| 9 | [Lockie](http://twitter.com/search?q=Lockie) | N/A |
+| 10 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
+| 11 | [Sai Sudarshan](http://twitter.com/search?q=Sai+Sudarshan) | N/A |
+| 12 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 13 | [बांदीपुर टाइगर रिजर्व](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%82%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a5%81%e0%a4%b0+%e0%a4%9f%e0%a4%be%e0%a4%87%e0%a4%97%e0%a4%b0+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5) | N/A |
+| 14 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
+| 15 | [Priyanshu Rajawat](http://twitter.com/search?q=Priyanshu+Rajawat) | N/A |
+| 16 | [राजा बाबू](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82) | N/A |
+| 17 | [Mahindra](http://twitter.com/search?q=Mahindra) | N/A |
+| 18 | [Eknath Shinde](http://twitter.com/search?q=Eknath+Shinde) | N/A |
+| 19 | [Sunil Narine](http://twitter.com/search?q=Sunil+Narine) | N/A |
+| 20 | [Match 13](http://twitter.com/search?q=Match+13) | N/A |
+| 21 | [विनय दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a8%e0%a4%af+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 22 | [भारतीय राष्ट्रीय छात्र संगठन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%9b%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a4%a0%e0%a4%a8) | N/A |
+| 23 | [Sushant Singh Rajput Matters](http://twitter.com/search?q=Sushant+Singh+Rajput+Matters) | N/A |
+| 24 | [100 EPS OF AMRITA BRAR](http://twitter.com/search?q=100+EPS+OF+AMRITA+BRAR) | N/A |
+| 25 | [Suyash Sharma](http://twitter.com/search?q=Suyash+Sharma) | N/A |
+| 26 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 27 | [VEER EPITOME OF EMOTIONS](http://twitter.com/search?q=VEER+EPITOME+OF+EMOTIONS) | N/A |
+| 28 | [एकनाथ शिंदे](http://twitter.com/search?q=%e0%a4%8f%e0%a4%95%e0%a4%a8%e0%a4%be%e0%a4%a5+%e0%a4%b6%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%87) | N/A |
+| 29 | [केंद्रीय रिजर्व पुलिस](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%bf%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 30 | [Our PM](http://twitter.com/search?q=Our+PM) | N/A |
+| 31 | [शहीद स्मारक](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6+%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
+| 32 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
+| 33 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 34 | [Mudra](http://twitter.com/search?q=Mudra) | N/A |
+| 35 | [Hardik](http://twitter.com/search?q=Hardik) | N/A |
+| 36 | [Swag](http://twitter.com/search?q=Swag) | N/A |
+| 37 | [Burnol](http://twitter.com/search?q=Burnol) | N/A |
+| 38 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 39 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 40 | [राहुल सांकृत्यायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
+| 41 | [#AyodhyaMeEknath](http://twitter.com/search?q=%23AyodhyaMeEknath) | N/A |
+| 42 | [#RamBhaktEknath](http://twitter.com/search?q=%23RamBhaktEknath) | N/A |
+| 43 | [#छत्तीसगढ़_बनता_जिहादगढ़](http://twitter.com/search?q=%23%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a5%80%e0%a4%b8%e0%a4%97%e0%a4%a2%e0%a4%bc_%e0%a4%ac%e0%a4%a8%e0%a4%a4%e0%a4%be_%e0%a4%9c%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a4%97%e0%a4%a2%e0%a4%bc) | N/A |
+| 44 | [#SachinPilot](http://twitter.com/search?q=%23SachinPilot) | N/A |
+| 45 | [#ProjectTiger](http://twitter.com/search?q=%23ProjectTiger) | N/A |
+| 46 | [#Simhadri4K](http://twitter.com/search?q=%23Simhadri4K) | N/A |
+| 47 | [#NSUIFoundationDay](http://twitter.com/search?q=%23NSUIFoundationDay) | N/A |
+| 48 | [#OrleansMaster2023](http://twitter.com/search?q=%23OrleansMaster2023) | N/A |
 
 
 

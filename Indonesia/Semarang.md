@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-04-09 11:16:23 UTC`
+📆 Last Updated: `2023-04-09 12:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 2 | [#LazadaTHRSale](http://twitter.com/search?q=%23LazadaTHRSale) | N/A |
-| 3 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 4 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
-| 5 | [#JISOOatINKIGAYO](http://twitter.com/search?q=%23JISOOatINKIGAYO) | N/A |
-| 6 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
-| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 8 | [1 Rupiah](http://twitter.com/search?q=1+Rupiah) | N/A |
-| 9 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
-| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 11 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 12 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 13 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 14 | [Kokas](http://twitter.com/search?q=Kokas) | N/A |
-| 15 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 16 | [TNI AU](http://twitter.com/search?q=TNI+AU) | N/A |
-| 17 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
-| 18 | [Kristiani](http://twitter.com/search?q=Kristiani) | N/A |
-| 19 | [Sugeng](http://twitter.com/search?q=Sugeng) | N/A |
-| 20 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 21 | [The Eve](http://twitter.com/search?q=The+Eve) | N/A |
-| 22 | [Berkah Dalem](http://twitter.com/search?q=Berkah+Dalem) | N/A |
-| 23 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 24 | [Kristus](http://twitter.com/search?q=Kristus) | N/A |
-| 25 | [Onic](http://twitter.com/search?q=Onic) | N/A |
-| 26 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 27 | [Panas](http://twitter.com/search?q=Panas) | N/A |
-| 28 | [Love Me Right](http://twitter.com/search?q=Love+Me+Right) | N/A |
-| 29 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
-| 30 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
-| 31 | [#BukaAjaBukalapak](http://twitter.com/search?q=%23BukaAjaBukalapak) | N/A |
-| 32 | [#EUNHA](http://twitter.com/search?q=%23EUNHA) | N/A |
-| 33 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 34 | [#BukberTanpaWacana](http://twitter.com/search?q=%23BukberTanpaWacana) | N/A |
-| 35 | [#NarwhalFinance](http://twitter.com/search?q=%23NarwhalFinance) | N/A |
-| 36 | [#MusicBankParis](http://twitter.com/search?q=%23MusicBankParis) | N/A |
-| 37 | [#TimeForEXO](http://twitter.com/search?q=%23TimeForEXO) | N/A |
-| 38 | [#ZeeNuNew1stPhotobook](http://twitter.com/search?q=%23ZeeNuNew1stPhotobook) | N/A |
-| 39 | [#ChoiWooShik](http://twitter.com/search?q=%23ChoiWooShik) | N/A |
-| 40 | [#TaxiDriver2Ep14](http://twitter.com/search?q=%23TaxiDriver2Ep14) | N/A |
-| 41 | [#GueBarengErickThohir](http://twitter.com/search?q=%23GueBarengErickThohir) | N/A |
+| 1 | [#1000BungaApresiasiET](http://twitter.com/search?q=%231000BungaApresiasiET) | N/A |
+| 2 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 3 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
+| 4 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
+| 5 | [#Who_XIUMINxEUNHA](http://twitter.com/search?q=%23Who_XIUMINxEUNHA) | N/A |
+| 6 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
+| 7 | [LET ME](http://twitter.com/search?q=LET+ME) | N/A |
+| 8 | [#WhowithXiumin](http://twitter.com/search?q=%23WhowithXiumin) | N/A |
+| 9 | [jeno milan](http://twitter.com/search?q=jeno+milan) | N/A |
+| 10 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 11 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 12 | [Onic](http://twitter.com/search?q=Onic) | N/A |
+| 13 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
+| 14 | [bruno mars](http://twitter.com/search?q=bruno+mars) | N/A |
+| 15 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 17 | [Mas Adam](http://twitter.com/search?q=Mas+Adam) | N/A |
+| 18 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
+| 19 | [Cinderella](http://twitter.com/search?q=Cinderella) | N/A |
+| 20 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
+| 21 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
+| 22 | [Arema](http://twitter.com/search?q=Arema) | N/A |
+| 23 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 24 | [Telur](http://twitter.com/search?q=Telur) | N/A |
+| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 26 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 27 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 28 | [1 Rupiah](http://twitter.com/search?q=1+Rupiah) | N/A |
+| 29 | [Lazada](http://twitter.com/search?q=Lazada) | N/A |
+| 30 | [Sugeng](http://twitter.com/search?q=Sugeng) | N/A |
+| 31 | [Angkatan Udara](http://twitter.com/search?q=Angkatan+Udara) | N/A |
+| 32 | [TNI AU](http://twitter.com/search?q=TNI+AU) | N/A |
+| 33 | [STREAMING CHAIN](http://twitter.com/search?q=STREAMING+CHAIN) | N/A |
+| 34 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 35 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 36 | [Nabrak](http://twitter.com/search?q=Nabrak) | Nabrak is an Indonesian word that means "to crash" or "to collide". It is often used to describe a car accident. |
+| 37 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 38 | [CHANYEOL](http://twitter.com/search?q=CHANYEOL) | N/A |
+| 39 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
+| 40 | [Kokas](http://twitter.com/search?q=Kokas) | N/A |
+| 41 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 42 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 43 | [#BukaAjaBukalapak](http://twitter.com/search?q=%23BukaAjaBukalapak) | N/A |
+| 44 | [#ItsEXOTime](http://twitter.com/search?q=%23ItsEXOTime) | N/A |
+| 45 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 46 | [#IDGLIVvsARS](http://twitter.com/search?q=%23IDGLIVvsARS) | N/A |
+| 47 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
+| 48 | [#Del16htfulElin](http://twitter.com/search?q=%23Del16htfulElin) | N/A |
+| 49 | [#LISAパワフルステージin東京](http://twitter.com/search?q=%23LISA%e3%83%91%e3%83%af%e3%83%95%e3%83%ab%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b8in%e6%9d%b1%e4%ba%ac) | N/A |
 
 
 

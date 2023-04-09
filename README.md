@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-09 11:16:03 UTC`
+📆 Last Updated: `2023-04-09 12:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#水星の魔女](http://twitter.com/search?q=%23%e6%b0%b4%e6%98%9f%e3%81%ae%e9%ad%94%e5%a5%b3) | #水星の魔女 is a Japanese phrase that translates to "The Witch of Mercury". It is a reference to the planet Mercury, which is associated with witchcraft and magic in many cultures. |
-| 2 | [リバティアイランド](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 5 | [#桜花賞](http://twitter.com/search?q=%23%e6%a1%9c%e8%8a%b1%e8%b3%9e) | N/A |
-| 6 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
-| 7 | [スレッタ](http://twitter.com/search?q=%e3%82%b9%e3%83%ac%e3%83%83%e3%82%bf) | スレッタ (sretta) is a type of Japanese folk dance that originated in the Edo period. It is characterized by its fast tempo and lively movements, and is often accompanied by singing and clapping. In English, it is sometimes referred to as "Sretta Dance". |
-| 8 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 9 | [コナコースト](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%82%b3%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
-| 10 | [ペリファーニア](http://twitter.com/search?q=%e3%83%9a%e3%83%aa%e3%83%95%e3%82%a1%e3%83%bc%e3%83%8b%e3%82%a2) | ペリファーニア (Perifaniya) is a Japanese term for a person who is knowledgeable about a wide range of topics. It is derived from the Greek word "periphanes" which means "all-knowing". In English, it can be translated as "polymath" or "renaissance man/woman". |
-| 11 | [オークス](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%af%e3%82%b9) | N/A |
-| 12 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 13 | [ライトクオンタム](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%88%e3%82%af%e3%82%aa%e3%83%b3%e3%82%bf%e3%83%a0) | ライトクオンタム (Raito Kuontamu) is a Japanese light novel series written by Kōhei Azano and illustrated by Tsunako. It follows the story of a group of high school students who are chosen to become "Light Quantum" and use their special powers to protect the world from evil forces. The title translates to "Light Quantum" in English. |
-| 14 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 15 | [ハープスター](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%97%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 16 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 17 | [#G_Witch](http://twitter.com/search?q=%23G_Witch) | #G_Witch is a hashtag used on social media to refer to the popular Japanese manga and anime series, Puella Magi Madoka Magica. The hashtag is used to discuss the series, share fan art, and celebrate its characters. In English, it translates to "Magical Girl Witch". |
-| 18 | [グエルくん](http://twitter.com/search?q=%e3%82%b0%e3%82%a8%e3%83%ab%e3%81%8f%e3%82%93) | グエルくん is a character from the Japanese manga series, Gakuen Babysitters. He is a baby who is taken care of by the main characters, Ryuuichi and Kotarou. His name means "little squirrel" in Japanese. |
-| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 20 | [ガンダム](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0) | ガンダム is a Japanese media franchise created by Sunrise that features giant robots (mecha) with the name "Gundam". The franchise began on April 7, 1979, with the release of Mobile Suit Gundam, a TV series that defined the "real robot" mecha anime genre by featuring giant robots called mobile suits in a militaristic setting. The term "Gundam" is used to refer to both the mecha and their pilots. In English, Gundam can be translated as "armored warrior". |
-| 21 | [セカンド松田](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%83%b3%e3%83%89%e6%9d%be%e7%94%b0) | N/A |
-| 22 | [ドゥアイズ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%82%a2%e3%82%a4%e3%82%ba) | N/A |
-| 23 | [ハーパー](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%91%e3%83%bc) | N/A |
-| 24 | [ファンファーレ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%83%95%e3%82%a1%e3%83%bc%e3%83%ac) | ファンファーレ is a type of fanfare, which is a short musical piece that is usually played to announce the arrival of an important person or to mark a special occasion. In English, it can be translated as "fanfare". |
-| 25 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 26 | [モズメイメイ](http://twitter.com/search?q=%e3%83%a2%e3%82%ba%e3%83%a1%e3%82%a4%e3%83%a1%e3%82%a4) | N/A |
-| 27 | [シャディク](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%87%e3%82%a3%e3%82%af) | シャディク is a Japanese word that means "shady" or "suspicious". It is often used to describe someone or something that appears to be untrustworthy or dishonest. |
-| 28 | [シンリョクカ](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%aa%e3%83%a7%e3%82%af%e3%82%ab) | N/A |
-| 29 | [マルタン](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%bf%e3%83%b3) | N/A |
-| 30 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
-| 31 | [クワイエットゼロ](http://twitter.com/search?q=%e3%82%af%e3%83%af%e3%82%a4%e3%82%a8%e3%83%83%e3%83%88%e3%82%bc%e3%83%ad) | N/A |
-| 32 | [ダービー](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
-| 33 | [金村くん](http://twitter.com/search?q=%e9%87%91%e6%9d%91%e3%81%8f%e3%82%93) | N/A |
-| 34 | [ドゥラメンテ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%a9%e3%83%a1%e3%83%b3%e3%83%86) | N/A |
-| 35 | [才木くん](http://twitter.com/search?q=%e6%89%8d%e6%9c%a8%e3%81%8f%e3%82%93) | N/A |
-| 36 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 37 | [オフサイド](http://twitter.com/search?q=%e3%82%aa%e3%83%95%e3%82%b5%e3%82%a4%e3%83%89) | オフサイド (Offside) is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field, or closer to the goal line than both the ball and the second-to-last defender, when the ball is passed to them. In English, it is referred to as "offside". |
-| 38 | [エアリアル](http://twitter.com/search?q=%e3%82%a8%e3%82%a2%e3%83%aa%e3%82%a2%e3%83%ab) | エアリアル (Eariaru) is a Japanese word that means "airy" or "ethereal". It is often used to describe something that has a light, airy, or dreamlike quality. |
-| 39 | [ターシャ](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%82%b7%e3%83%a3) | ターシャ is a Japanese female given name. It is derived from the English name Tasha, which is a diminutive of Natasha. In English, it can be translated to mean "born on Christmas Day". |
-| 40 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
-| 41 | [ミオリネ](http://twitter.com/search?q=%e3%83%9f%e3%82%aa%e3%83%aa%e3%83%8d) | ミオリネ is a Japanese word that means "to be in love". It is used to describe the feeling of being deeply in love with someone. |
-| 42 | [地球の魔女](http://twitter.com/search?q=%e5%9c%b0%e7%90%83%e3%81%ae%e9%ad%94%e5%a5%b3) | 地球の魔女 (Chikyuu no Majo) is a Japanese manga series written and illustrated by Yumiko Oshima. It follows the story of a young witch named Kaya who lives on Earth and uses her magical powers to help people in need. The title translates to "Earth Witch" in English. |
-| 43 | [ドゥーラ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%bc%e3%83%a9) | N/A |
-| 44 | [ウェンデルケン](http://twitter.com/search?q=%e3%82%a6%e3%82%a7%e3%83%b3%e3%83%87%e3%83%ab%e3%82%b1%e3%83%b3) | N/A |
-| 45 | [アラーノ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%83%bc%e3%83%8e) | N/A |
-| 46 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 47 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
-| 48 | [イースター](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 49 | [ダリルバルデ](http://twitter.com/search?q=%e3%83%80%e3%83%aa%e3%83%ab%e3%83%90%e3%83%ab%e3%83%87) | N/A |
-| 50 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 2 | [#逃走中](http://twitter.com/search?q=%23%e9%80%83%e8%b5%b0%e4%b8%ad) | N/A |
+| 3 | [Feliz Páscoa](http://twitter.com/search?q=Feliz+P%c3%a1scoa) | N/A |
+| 4 | [#水星の魔女](http://twitter.com/search?q=%23%e6%b0%b4%e6%98%9f%e3%81%ae%e9%ad%94%e5%a5%b3) | #水星の魔女 is a Japanese phrase that translates to "The Witch of Mercury". It is a reference to the planet Mercury, which is associated with witchcraft and magic in many cultures. |
+| 5 | [#鉄腕DASH](http://twitter.com/search?q=%23%e9%89%84%e8%85%95DASH) | #鉄腕DASH is a Japanese manga series written and illustrated by Tetsuo Hara. It follows the story of a young man named Kenshiro, who is the successor to an ancient martial art known as Hokuto Shinken. The title of the series translates to "Iron Arm Dash" in English, referring to Kenshiro's superhuman strength and speed. |
+| 6 | [#イッテQ](http://twitter.com/search?q=%23%e3%82%a4%e3%83%83%e3%83%86Q) | #イッテQ is a Japanese hashtag that translates to "ItteQ" in English. It is used to tag posts related to the Japanese variety show ItteQ, which is hosted by comedian duo Downtown. |
+| 7 | [#ZETAWIN](http://twitter.com/search?q=%23ZETAWIN) | #ZETAWIN is a hashtag used by the Zeta Global marketing and technology company. It is used to promote their products and services, as well as to share news and updates about the company. The hashtag can be translated to mean “Win with Zeta” in English. |
+| 8 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
+| 9 | [全国ランキング](http://twitter.com/search?q=%e5%85%a8%e5%9b%bd%e3%83%a9%e3%83%b3%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
+| 10 | [ジョッキーカメラ](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%83%e3%82%ad%e3%83%bc%e3%82%ab%e3%83%a1%e3%83%a9) | N/A |
+| 11 | [Vijay Shankar](http://twitter.com/search?q=Vijay+Shankar) | N/A |
+| 12 | [Yerli Üretim](http://twitter.com/search?q=Yerli+%c3%9cretim) | N/A |
+| 13 | [当選確実](http://twitter.com/search?q=%e5%bd%93%e9%81%b8%e7%a2%ba%e5%ae%9f) | N/A |
+| 14 | [スレッタ](http://twitter.com/search?q=%e3%82%b9%e3%83%ac%e3%83%83%e3%82%bf) | スレッタ (sretta) is a type of Japanese folk dance that originated in the Edo period. It is characterized by its fast tempo and lively movements, and is often accompanied by singing and clapping. In English, it is sometimes referred to as "Sretta Dance". |
+| 15 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 16 | [ŞartsızTayin 4ilinÖğretmenine](http://twitter.com/search?q=%c5%9earts%c4%b1zTayin+4ilin%c3%96%c4%9fretmenine) | N/A |
+| 17 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
+| 18 | [選挙速報](http://twitter.com/search?q=%e9%81%b8%e6%8c%99%e9%80%9f%e5%a0%b1) | N/A |
+| 19 | [JRA公式](http://twitter.com/search?q=JRA%e5%85%ac%e5%bc%8f) | N/A |
+| 20 | [レイソル](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%82%bd%e3%83%ab) | N/A |
+| 21 | [浪川さん](http://twitter.com/search?q=%e6%b5%aa%e5%b7%9d%e3%81%95%e3%82%93) | 浪川さん is a Japanese honorific title used to refer to someone with the surname "Namikawa". It is similar to the English title of "Mr. Namikawa". |
+| 22 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
+| 23 | [Depさん](http://twitter.com/search?q=Dep%e3%81%95%e3%82%93) | N/A |
+| 24 | [ガンダム](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0) | ガンダム is a Japanese media franchise created by Sunrise that features giant robots (mecha) with the name "Gundam". The franchise began on April 7, 1979, with the release of Mobile Suit Gundam, a TV series that defined the "real robot" mecha anime genre by featuring giant robots called mobile suits in a militaristic setting. The term "Gundam" is used to refer to both the mecha and their pilots. In English, Gundam can be translated as "armored warrior". |
+| 25 | [MyGO](http://twitter.com/search?q=MyGO) | N/A |
+| 26 | [crowさん](http://twitter.com/search?q=crow%e3%81%95%e3%82%93) | N/A |
+| 27 | [わけほー](http://twitter.com/search?q=%e3%82%8f%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
+| 28 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 29 | [ちょびちゃん](http://twitter.com/search?q=%e3%81%a1%e3%82%87%e3%81%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 30 | [奈良県知事](http://twitter.com/search?q=%e5%a5%88%e8%89%af%e7%9c%8c%e7%9f%a5%e4%ba%8b) | N/A |
+| 31 | [Depマン](http://twitter.com/search?q=Dep%e3%83%9e%e3%83%b3) | N/A |
+| 32 | [開票速報](http://twitter.com/search?q=%e9%96%8b%e7%a5%a8%e9%80%9f%e5%a0%b1) | N/A |
+| 33 | [リバティアイランド](http://twitter.com/search?q=%e3%83%aa%e3%83%90%e3%83%86%e3%82%a3%e3%82%a2%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 34 | [イースター](http://twitter.com/search?q=%e3%82%a4%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 35 | [引き分け](http://twitter.com/search?q=%e5%bc%95%e3%81%8d%e5%88%86%e3%81%91) | N/A |
+| 36 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 37 | [XproToken Community](http://twitter.com/search?q=XproToken+Community) | N/A |
+| 38 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 39 | [グエルくん](http://twitter.com/search?q=%e3%82%b0%e3%82%a8%e3%83%ab%e3%81%8f%e3%82%93) | グエルくん is a character from the Japanese manga series, Gakuen Babysitters. He is a baby who is taken care of by the main characters, Ryuuichi and Kotarou. His name means "little squirrel" in Japanese. |
+| 40 | [保守分裂](http://twitter.com/search?q=%e4%bf%9d%e5%ae%88%e5%88%86%e8%a3%82) | N/A |
+| 41 | [MebNisanda4İle ŞartsızTayin](http://twitter.com/search?q=MebNisanda4%c4%b0le+%c5%9earts%c4%b1zTayin) | N/A |
+| 42 | [中岡さん](http://twitter.com/search?q=%e4%b8%ad%e5%b2%a1%e3%81%95%e3%82%93) | N/A |
+| 43 | [キラーキューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a9%e3%83%bc%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
+| 44 | [やしきず優勝](http://twitter.com/search?q=%e3%82%84%e3%81%97%e3%81%8d%e3%81%9a%e5%84%aa%e5%8b%9d) | N/A |
+| 45 | [出口調査](http://twitter.com/search?q=%e5%87%ba%e5%8f%a3%e8%aa%bf%e6%9f%bb) | N/A |
+| 46 | [中岡可哀想](http://twitter.com/search?q=%e4%b8%ad%e5%b2%a1%e5%8f%af%e5%93%80%e6%83%b3) | N/A |
+| 47 | [ゼロ打ち](http://twitter.com/search?q=%e3%82%bc%e3%83%ad%e6%89%93%e3%81%a1) | N/A |
+| 48 | [TENNN](http://twitter.com/search?q=TENNN) | N/A |
+| 49 | [ハスキー](http://twitter.com/search?q=%e3%83%8f%e3%82%b9%e3%82%ad%e3%83%bc) | N/A |
+| 50 | [ギャビン](http://twitter.com/search?q=%e3%82%ae%e3%83%a3%e3%83%93%e3%83%b3) | N/A |
 
 
 

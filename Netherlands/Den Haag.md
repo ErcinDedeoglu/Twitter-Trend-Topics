@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-04-09 11:16:19 UTC`
+📆 Last Updated: `2023-04-09 12:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vrolijk Pasen](http://twitter.com/search?q=Vrolijk+Pasen) | N/A |
-| 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
-| 5 | [De Heer](http://twitter.com/search?q=De+Heer) | N/A |
-| 6 | [#PSVEXC](http://twitter.com/search?q=%23PSVEXC) | N/A |
-| 7 | [#VITGAE](http://twitter.com/search?q=%23VITGAE) | N/A |
-| 8 | [#makeupyourmind](http://twitter.com/search?q=%23makeupyourmind) | N/A |
-| 9 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 11 | [Kees van Kooten](http://twitter.com/search?q=Kees+van+Kooten) | N/A |
-| 12 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
-| 13 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 14 | [Andries](http://twitter.com/search?q=Andries) | N/A |
-| 15 | [Ongedifferentieerd-Androgyn](http://twitter.com/search?q=Ongedifferentieerd-Androgyn) | N/A |
-| 16 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
-| 17 | [Beau](http://twitter.com/search?q=Beau) | N/A |
-| 18 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 19 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
-| 20 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 21 | [Stille Zaterdag](http://twitter.com/search?q=Stille+Zaterdag) | N/A |
-| 22 | [pec zwolle-supporters](http://twitter.com/search?q=pec+zwolle-supporters) | N/A |
-| 23 | [Insgelijks](http://twitter.com/search?q=Insgelijks) | N/A |
-| 24 | [Ongeprikt](http://twitter.com/search?q=Ongeprikt) | N/A |
-| 25 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 26 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 27 | [Nonchalant Vrouwelijk](http://twitter.com/search?q=Nonchalant+Vrouwelijk) | N/A |
-| 28 | [Hema](http://twitter.com/search?q=Hema) | N/A |
-| 29 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
-| 30 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 31 | [Enzo Knol](http://twitter.com/search?q=Enzo+Knol) | N/A |
-| 32 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 33 | [Oostenrijk](http://twitter.com/search?q=Oostenrijk) | N/A |
-| 34 | [Zondag 9](http://twitter.com/search?q=Zondag+9) | N/A |
-| 35 | [Anneke](http://twitter.com/search?q=Anneke) | N/A |
-| 36 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 37 | [Dion](http://twitter.com/search?q=Dion) | N/A |
-| 38 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 39 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 40 | [eindhovense](http://twitter.com/search?q=eindhovense) | N/A |
-| 41 | [Jezus](http://twitter.com/search?q=Jezus) | N/A |
-| 42 | [nsb'ers](http://twitter.com/search?q=nsb%27ers) | N/A |
-| 43 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 44 | [bibi dumon tak](http://twitter.com/search?q=bibi+dumon+tak) | N/A |
-| 45 | [De HELE](http://twitter.com/search?q=De+HELE) | N/A |
-| 46 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 47 | [Kees Tol](http://twitter.com/search?q=Kees+Tol) | N/A |
-| 48 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 49 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
+| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 2 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
+| 3 | [#twecam](http://twitter.com/search?q=%23twecam) | N/A |
+| 4 | [#buitenhof](http://twitter.com/search?q=%23buitenhof) | N/A |
+| 5 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
+| 6 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
+| 7 | [#PSVEXC](http://twitter.com/search?q=%23PSVEXC) | N/A |
+| 8 | [Geert Mak](http://twitter.com/search?q=Geert+Mak) | N/A |
+| 9 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
+| 10 | [Vlap](http://twitter.com/search?q=Vlap) | N/A |
+| 11 | [De Heer](http://twitter.com/search?q=De+Heer) | N/A |
+| 12 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 13 | [Hamburg](http://twitter.com/search?q=Hamburg) | N/A |
+| 14 | [Kees van Kooten](http://twitter.com/search?q=Kees+van+Kooten) | N/A |
+| 15 | [Peter Bakker](http://twitter.com/search?q=Peter+Bakker) | N/A |
+| 16 | [Peter Bakker](http://twitter.com/search?q=Peter+Bakker) | N/A |
+| 17 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 18 | [Hema](http://twitter.com/search?q=Hema) | N/A |
+| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 20 | [wim de bie](http://twitter.com/search?q=wim+de+bie) | N/A |
+| 21 | [Ongedifferentieerd-Androgyn](http://twitter.com/search?q=Ongedifferentieerd-Androgyn) | N/A |
+| 22 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
+| 23 | [Hoopvol](http://twitter.com/search?q=Hoopvol) | N/A |
+| 24 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 25 | [enzo knol](http://twitter.com/search?q=enzo+knol) | N/A |
+| 26 | [pec zwolle-supporters](http://twitter.com/search?q=pec+zwolle-supporters) | N/A |
+| 27 | [Nonchalant Mannelijk](http://twitter.com/search?q=Nonchalant+Mannelijk) | N/A |
+| 28 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
+| 29 | [nonchalant vrouwelijk](http://twitter.com/search?q=nonchalant+vrouwelijk) | N/A |
+| 30 | [Vogel Rok](http://twitter.com/search?q=Vogel+Rok) | N/A |
+| 31 | [Jezus](http://twitter.com/search?q=Jezus) | N/A |
+| 32 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 33 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 34 | [Eindhovense](http://twitter.com/search?q=Eindhovense) | N/A |
+| 35 | [Onno Ruding](http://twitter.com/search?q=Onno+Ruding) | N/A |
+| 36 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 37 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 38 | [Fortuyn](http://twitter.com/search?q=Fortuyn) | N/A |
+| 39 | [Ongeprikt](http://twitter.com/search?q=Ongeprikt) | N/A |
+| 40 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
+| 41 | [Nieman](http://twitter.com/search?q=Nieman) | N/A |
+| 42 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
+| 43 | [Emmen](http://twitter.com/search?q=Emmen) | Emmen is a municipality and a town in the northeastern Netherlands. The name Emmen comes from the word "em" which means "water" or "lake". In English, Emmen can be translated to mean "watery place". |
+| 44 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
+| 45 | [Pieter Omtzigt](http://twitter.com/search?q=Pieter+Omtzigt) | N/A |
+| 46 | [Insgelijks](http://twitter.com/search?q=Insgelijks) | N/A |
+| 47 | [Beau](http://twitter.com/search?q=Beau) | N/A |
+| 48 | [Ben Ferencz](http://twitter.com/search?q=Ben+Ferencz) | N/A |
+| 49 | [Rambo](http://twitter.com/search?q=Rambo) | N/A |
 
 
 

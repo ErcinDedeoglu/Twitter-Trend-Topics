@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-04-09 11:16:10 UTC`
+📆 Last Updated: `2023-04-09 12:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
-| 2 | [Colina](http://twitter.com/search?q=Colina) | N/A |
+| 1 | [Colina](http://twitter.com/search?q=Colina) | N/A |
+| 2 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
 | 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 4 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 5 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 5 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
 | 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 7 | [#radiocoti](http://twitter.com/search?q=%23radiocoti) | N/A |
-| 8 | [dituro](http://twitter.com/search?q=dituro) | N/A |
-| 9 | [#clnvsucxtntsports](http://twitter.com/search?q=%23clnvsucxtntsports) | N/A |
-| 10 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
+| 7 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 8 | [#clnvsucxtntsports](http://twitter.com/search?q=%23clnvsucxtntsports) | N/A |
+| 9 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
+| 10 | [#JesusDeNazarethEnTVN](http://twitter.com/search?q=%23JesusDeNazarethEnTVN) | N/A |
 | 11 | [Pamela Jiles](http://twitter.com/search?q=Pamela+Jiles) | N/A |
 | 12 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 13 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 14 | [Kast](http://twitter.com/search?q=Kast) | N/A |
-| 15 | [Conductor](http://twitter.com/search?q=Conductor) | N/A |
-| 16 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 13 | [#vamoschileportvn](http://twitter.com/search?q=%23vamoschileportvn) | N/A |
+| 14 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 15 | [Kast](http://twitter.com/search?q=Kast) | N/A |
+| 16 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
 | 17 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 18 | [di santo](http://twitter.com/search?q=di+santo) | N/A |
-| 19 | [Isla](http://twitter.com/search?q=Isla) | N/A |
-| 20 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 21 | [Delincuente](http://twitter.com/search?q=Delincuente) | N/A |
-| 22 | [santiago pavlovic](http://twitter.com/search?q=santiago+pavlovic) | N/A |
-| 23 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
-| 24 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 25 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
-| 26 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 27 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 28 | [ANFP](http://twitter.com/search?q=ANFP) | N/A |
-| 29 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
+| 18 | [Conductor](http://twitter.com/search?q=Conductor) | N/A |
+| 19 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 20 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
+| 21 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 22 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 23 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 24 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
+| 25 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 26 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 27 | [Santiago Pavlovic](http://twitter.com/search?q=Santiago+Pavlovic) | N/A |
+| 28 | [Delincuente](http://twitter.com/search?q=Delincuente) | N/A |
+| 29 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
 | 30 | [Garin](http://twitter.com/search?q=Garin) | N/A |
-| 31 | [felipe bianchi](http://twitter.com/search?q=felipe+bianchi) | N/A |
-| 32 | [etcheverry](http://twitter.com/search?q=etcheverry) | N/A |
-| 33 | [Osorno](http://twitter.com/search?q=Osorno) | N/A |
-| 34 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
-| 35 | [llolleo](http://twitter.com/search?q=llolleo) | N/A |
-| 36 | [Borquez](http://twitter.com/search?q=Borquez) | N/A |
-| 37 | [Mega](http://twitter.com/search?q=Mega) | N/A |
-| 38 | [Palma](http://twitter.com/search?q=Palma) | N/A |
-| 39 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 40 | [Feliz Pascua](http://twitter.com/search?q=Feliz+Pascua) | N/A |
-| 41 | [la uc](http://twitter.com/search?q=la+uc) | N/A |
-| 42 | [tagle](http://twitter.com/search?q=tagle) | N/A |
-| 43 | [Robo](http://twitter.com/search?q=Robo) | N/A |
-| 44 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
-| 45 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
-| 46 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
-| 47 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 48 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
-| 49 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
-| 50 | [carcuro](http://twitter.com/search?q=carcuro) | N/A |
+| 31 | [Isla](http://twitter.com/search?q=Isla) | N/A |
+| 32 | [CNTV](http://twitter.com/search?q=CNTV) | N/A |
+| 33 | [Felipe Bianchi](http://twitter.com/search?q=Felipe+Bianchi) | N/A |
+| 34 | [Etcheverry](http://twitter.com/search?q=Etcheverry) | N/A |
+| 35 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
+| 36 | [Carabinero](http://twitter.com/search?q=Carabinero) | N/A |
+| 37 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
+| 38 | [Mega](http://twitter.com/search?q=Mega) | N/A |
+| 39 | [borquez](http://twitter.com/search?q=borquez) | N/A |
+| 40 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 41 | [tagle](http://twitter.com/search?q=tagle) | N/A |
+| 42 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 43 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
+| 44 | [carcuro](http://twitter.com/search?q=carcuro) | N/A |
+| 45 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 46 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
+| 47 | [La UC](http://twitter.com/search?q=La+UC) | N/A |
+| 48 | [Tregua](http://twitter.com/search?q=Tregua) | N/A |
+| 49 | [Llolleo](http://twitter.com/search?q=Llolleo) | N/A |
+| 50 | [Schalper](http://twitter.com/search?q=Schalper) | Schalper is a German word that means "to scrape or scratch." It is often used to describe the sound of scraping or scratching on a surface. |
 
 
 
