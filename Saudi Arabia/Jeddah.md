@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-04-10 03:17:30 UTC`
+📆 Last Updated: `2023-04-10 04:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#مكه_الان](http://twitter.com/search?q=%23%d9%85%d9%83%d9%87_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
-| 2 | [الثلث الاخير](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%84%d8%ab+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1) | N/A |
-| 3 | [علي قبور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d9%88%d8%b1) | N/A |
-| 4 | [البنك الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 5 | [#الوطنيه_للاسكان](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87_%d9%84%d9%84%d8%a7%d8%b3%d9%83%d8%a7%d9%86) | N/A |
-| 6 | [علي الصداره](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%a7%d8%b1%d9%87) | N/A |
-| 7 | [تاليسكا](http://twitter.com/search?q=%d8%aa%d8%a7%d9%84%d9%8a%d8%b3%d9%83%d8%a7) | تاليسكا is a type of traditional dance from the Middle East. It is an energetic, fast-paced dance that involves spinning and clapping. In English, it is sometimes referred to as the "Tahleekah Dance". |
-| 8 | [#الاهلي_العين](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%8a%d9%86) | N/A |
-| 9 | [فوز الاتحاد](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
-| 10 | [زكريا](http://twitter.com/search?q=%d8%b2%d9%83%d8%b1%d9%8a%d8%a7) | زكريا (Zakariya) is an Arabic name meaning "God remembers". It is also a variant of the Hebrew name Zechariah. |
-| 11 | [#مكه_المكرمه_الان](http://twitter.com/search?q=%23%d9%85%d9%83%d9%87_%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85%d9%87_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
-| 12 | [#امطار_المدينه](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87) | N/A |
-| 13 | [الطائف](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d8%a6%d9%81) | N/A |
-| 14 | [١٩ رمضان](http://twitter.com/search?q=%d9%a1%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 15 | [تمويل الاولي](http://twitter.com/search?q=%d8%aa%d9%85%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 16 | [مطر الفجر](http://twitter.com/search?q=%d9%85%d8%b7%d8%b1+%d8%a7%d9%84%d9%81%d8%ac%d8%b1) | N/A |
-| 17 | [19 رمضان](http://twitter.com/search?q=19+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 18 | [مطر الليل](http://twitter.com/search?q=%d9%85%d8%b7%d8%b1+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | N/A |
-| 19 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
-| 20 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
-| 21 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 22 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
-| 23 | [قصر شبرا](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%b4%d8%a8%d8%b1%d8%a7) | N/A |
-| 24 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
-| 25 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
+| 1 | [حمزة بن عبدالمطلب](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d8%b7%d9%84%d8%a8) | N/A |
+| 2 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
+| 3 | [البنك الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 4 | [تاليسكا](http://twitter.com/search?q=%d8%aa%d8%a7%d9%84%d9%8a%d8%b3%d9%83%d8%a7) | تاليسكا is a type of traditional dance from the Middle East. It is an energetic, fast-paced dance that involves spinning and clapping. In English, it is sometimes referred to as the "Tahleekah Dance". |
+| 5 | [#مكه_المكرمه_الان](http://twitter.com/search?q=%23%d9%85%d9%83%d9%87_%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85%d9%87_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
+| 6 | [#امطار_المدينه](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87) | N/A |
+| 7 | [#فيندر](http://twitter.com/search?q=%23%d9%81%d9%8a%d9%86%d8%af%d8%b1) | N/A |
+| 8 | [١٩ رمضان](http://twitter.com/search?q=%d9%a1%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 9 | [#مسابقه_طرق_الرياض19](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b619) | N/A |
+| 10 | [الطائف](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d8%a6%d9%81) | N/A |
+| 11 | [تمويل الاولي](http://twitter.com/search?q=%d8%aa%d9%85%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 12 | [#مسابقه_المربع_نت19](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa19) | N/A |
+| 13 | [19 رمضان](http://twitter.com/search?q=19+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 14 | [مطر الفجر](http://twitter.com/search?q=%d9%85%d8%b7%d8%b1+%d8%a7%d9%84%d9%81%d8%ac%d8%b1) | N/A |
+| 15 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
+| 16 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
+| 17 | [مطر الليل](http://twitter.com/search?q=%d9%85%d8%b7%d8%b1+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | N/A |
+| 18 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 19 | [قصر شبرا](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%b4%d8%a8%d8%b1%d8%a7) | N/A |
+| 20 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
+| 21 | [الفيحاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | الفيحاء is a newspaper published in the United Arab Emirates. Its name translates to "The Phoenix" in English. |
+| 22 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
+| 23 | [مطر غزير](http://twitter.com/search?q=%d9%85%d8%b7%d8%b1+%d8%ba%d8%b2%d9%8a%d8%b1) | N/A |
+| 24 | [جاستن](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d8%aa%d9%86) | N/A |
+| 25 | [13 سبتمبر](http://twitter.com/search?q=13+%d8%b3%d8%a8%d8%aa%d9%85%d8%a8%d8%b1) | N/A |
 | 26 | [سيده المدن](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%86) | N/A |
-| 27 | [جاستن](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d8%aa%d9%86) | N/A |
-| 28 | [13 سبتمبر](http://twitter.com/search?q=13+%d8%b3%d8%a8%d8%aa%d9%85%d8%a8%d8%b1) | N/A |
-| 29 | [مطر غزير](http://twitter.com/search?q=%d9%85%d8%b7%d8%b1+%d8%ba%d8%b2%d9%8a%d8%b1) | N/A |
-| 30 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 31 | [الحكم المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | الحكم المحلي is a term used in Arabic to refer to local government or local rule. In English, it can be translated as "local governance" or "local authority". |
-| 32 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
-| 33 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
-| 34 | [الدمام](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%85%d8%a7%d9%85) | N/A |
-| 35 | [حمزة بن عبدالمطلب](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d8%b7%d9%84%d8%a8) | N/A |
-| 36 | [الدعم الاضافي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%85+%d8%a7%d9%84%d8%a7%d8%b6%d8%a7%d9%81%d9%8a) | N/A |
-| 37 | [الوحدة](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d8%a9) | N/A |
-| 38 | [جانا مطر](http://twitter.com/search?q=%d8%ac%d8%a7%d9%86%d8%a7+%d9%85%d8%b7%d8%b1) | N/A |
-| 39 | [ومكة](http://twitter.com/search?q=%d9%88%d9%85%d9%83%d8%a9) | N/A |
-| 40 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
-| 41 | [الخيبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d8%a8%d8%b1%d9%8a) | الخيبري is an Arabic word that means "the one from Khyber". Khyber is a region in Pakistan, located in the northwest of the country. In English, الخيبري can be translated as "the Khyberi". |
-| 42 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
-| 43 | [مجيب اللهم](http://twitter.com/search?q=%d9%85%d8%ac%d9%8a%d8%a8+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
-| 44 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
-| 45 | [نونو سانتو](http://twitter.com/search?q=%d9%86%d9%88%d9%86%d9%88+%d8%b3%d8%a7%d9%86%d8%aa%d9%88) | نونو سانتو (Nunu Santo) is a traditional dance from the Caribbean island of Trinidad and Tobago. It is a form of African-influenced dance that combines elements of African, Indian, and European cultures. The dance is performed in a circle with two or more people, and involves intricate footwork and hand movements. The name "Nunu Santo" translates to "Holy Dance" in English. |
-| 46 | [الكوكب الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%83%d8%a8+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
-| 47 | [المباريات القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
-| 48 | [القمر الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 49 | [ايمن يحيى](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d9%86+%d9%8a%d8%ad%d9%8a%d9%89) | "ايمن يحيى" is an Arabic name, and it translates to "Iman Yahya" in English. |
-| 50 | [فوز صعب](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%b5%d8%b9%d8%a8) | N/A |
+| 27 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
+| 28 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
+| 29 | [علي قبور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d9%88%d8%b1) | N/A |
+| 30 | [الدمام](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%85%d8%a7%d9%85) | N/A |
+| 31 | [الدعم الاضافي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%85+%d8%a7%d9%84%d8%a7%d8%b6%d8%a7%d9%81%d9%8a) | N/A |
+| 32 | [جانا مطر](http://twitter.com/search?q=%d8%ac%d8%a7%d9%86%d8%a7+%d9%85%d8%b7%d8%b1) | N/A |
+| 33 | [الثلث الاخير](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%84%d8%ab+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1) | N/A |
+| 34 | [ومكة](http://twitter.com/search?q=%d9%88%d9%85%d9%83%d8%a9) | N/A |
+| 35 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
+| 36 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 37 | [نونو سانتو](http://twitter.com/search?q=%d9%86%d9%88%d9%86%d9%88+%d8%b3%d8%a7%d9%86%d8%aa%d9%88) | نونو سانتو (Nunu Santo) is a traditional dance from the Caribbean island of Trinidad and Tobago. It is a form of African-influenced dance that combines elements of African, Indian, and European cultures. The dance is performed in a circle with two or more people, and involves intricate footwork and hand movements. The name "Nunu Santo" translates to "Holy Dance" in English. |
+| 38 | [الكوكب الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%83%d8%a8+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
+| 39 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
+| 40 | [برد علي](http://twitter.com/search?q=%d8%a8%d8%b1%d8%af+%d8%b9%d9%84%d9%8a) | N/A |
+| 41 | [عبدالرحمن غريب](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86+%d8%ba%d8%b1%d9%8a%d8%a8) | N/A |
+| 42 | [علي الصداره](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%a7%d8%b1%d9%87) | N/A |
+| 43 | [جماهير النصر](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
+| 44 | [قلب دفاع](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d8%af%d9%81%d8%a7%d8%b9) | N/A |
+| 45 | [خالد الغنام](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%ba%d9%86%d8%a7%d9%85) | خالد الغنام is an Arabic name meaning "Khalid the Generous". It is a popular name in the Middle East. |
+| 46 | [والباطن](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
+| 47 | [والمدينة](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9) | N/A |
+| 48 | [فريق جورجينا](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a%d9%82+%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d9%86%d8%a7) | N/A |
+| 49 | [النصر اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 50 | [والتعاون](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | N/A |
 
 
 

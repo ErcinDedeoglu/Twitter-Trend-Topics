@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-10 03:17:18 UTC`
+📆 Last Updated: `2023-04-10 04:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,9 +39,9 @@ This is top 50 for [Norway](</Norway>)
 | 22 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
 | 23 | [Tate](http://twitter.com/search?q=Tate) | N/A |
 | 24 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 25 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 26 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
-| 27 | [Christ](http://twitter.com/search?q=Christ) | N/A |
+| 25 | [Christ](http://twitter.com/search?q=Christ) | N/A |
+| 26 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 27 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
 | 28 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 30 | [Paris-Roubaix](http://twitter.com/search?q=Paris-Roubaix) | N/A |
@@ -50,17 +50,17 @@ This is top 50 for [Norway](</Norway>)
 | 33 | [Masters](http://twitter.com/search?q=Masters) | N/A |
 | 34 | [Leste](http://twitter.com/search?q=Leste) | N/A |
 | 35 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 36 | [HamKam](http://twitter.com/search?q=HamKam) | N/A |
-| 37 | [greit](http://twitter.com/search?q=greit) | N/A |
-| 38 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 39 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 40 | [vetlesen](http://twitter.com/search?q=vetlesen) | N/A |
-| 41 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 42 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 43 | [#esngolf](http://twitter.com/search?q=%23esngolf) | N/A |
-| 44 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 46 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 36 | [hamkam](http://twitter.com/search?q=hamkam) | N/A |
+| 37 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 38 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 39 | [vetlesen](http://twitter.com/search?q=vetlesen) | N/A |
+| 40 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 41 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 42 | [#esngolf](http://twitter.com/search?q=%23esngolf) | N/A |
+| 43 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 45 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 46 | [Greit](http://twitter.com/search?q=Greit) | N/A |
 | 47 | [Putins](http://twitter.com/search?q=Putins) | N/A |
 | 48 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 49 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |

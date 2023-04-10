@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-10 03:17:17 UTC`
+📆 Last Updated: `2023-04-10 04:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,44 +24,44 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 7 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
 | 8 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
 | 9 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 11 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
-| 12 | [bienne](http://twitter.com/search?q=bienne) | N/A |
-| 13 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
-| 14 | [gotthard](http://twitter.com/search?q=gotthard) | N/A |
-| 15 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
-| 16 | [stau](http://twitter.com/search?q=stau) | N/A |
-| 17 | [Bundeshaus](http://twitter.com/search?q=Bundeshaus) | N/A |
-| 18 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
-| 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 21 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
-| 22 | [häuser](http://twitter.com/search?q=h%c3%a4user) | N/A |
-| 23 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 10 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
+| 11 | [Bienne](http://twitter.com/search?q=Bienne) | N/A |
+| 12 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
+| 13 | [gotthard](http://twitter.com/search?q=gotthard) | N/A |
+| 14 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
+| 15 | [stau](http://twitter.com/search?q=stau) | N/A |
+| 16 | [Bundeshaus](http://twitter.com/search?q=Bundeshaus) | N/A |
+| 17 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 18 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 19 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 20 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
+| 21 | [häuser](http://twitter.com/search?q=h%c3%a4user) | N/A |
+| 22 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 23 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 24 | [Yess](http://twitter.com/search?q=Yess) | N/A |
 | 25 | [polymanga](http://twitter.com/search?q=polymanga) | N/A |
-| 26 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 27 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
-| 28 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
-| 29 | [Turc](http://twitter.com/search?q=Turc) | N/A |
-| 30 | [Einfluss](http://twitter.com/search?q=Einfluss) | N/A |
-| 31 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
-| 32 | [European](http://twitter.com/search?q=European) | N/A |
-| 33 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 34 | [Eiern](http://twitter.com/search?q=Eiern) | N/A |
-| 35 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 36 | [Tiere](http://twitter.com/search?q=Tiere) | N/A |
-| 37 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 38 | [Willen](http://twitter.com/search?q=Willen) | N/A |
-| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 40 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 41 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
-| 42 | [Alternativen](http://twitter.com/search?q=Alternativen) | N/A |
-| 43 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
-| 44 | [Spinner](http://twitter.com/search?q=Spinner) | N/A |
-| 45 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 46 | [Wege](http://twitter.com/search?q=Wege) | N/A |
-| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 26 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
+| 29 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
+| 30 | [European](http://twitter.com/search?q=European) | N/A |
+| 31 | [Turc](http://twitter.com/search?q=Turc) | N/A |
+| 32 | [Einfluss](http://twitter.com/search?q=Einfluss) | N/A |
+| 33 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 34 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 35 | [Eiern](http://twitter.com/search?q=Eiern) | N/A |
+| 36 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 37 | [Tiere](http://twitter.com/search?q=Tiere) | N/A |
+| 38 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 39 | [Willen](http://twitter.com/search?q=Willen) | N/A |
+| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 41 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 42 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
+| 43 | [Alternativen](http://twitter.com/search?q=Alternativen) | N/A |
+| 44 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
+| 45 | [Spinner](http://twitter.com/search?q=Spinner) | N/A |
+| 46 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 47 | [Wege](http://twitter.com/search?q=Wege) | N/A |
 | 48 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
 
 

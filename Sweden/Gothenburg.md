@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-04-10 03:17:18 UTC`
+📆 Last Updated: `2023-04-10 04:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,8 +31,8 @@ This is top 50 for [Sweden](</Sweden>)
 | 14 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 15 | [Glad Påsk](http://twitter.com/search?q=Glad+P%c3%a5sk) | N/A |
 | 16 | [Mannerheim](http://twitter.com/search?q=Mannerheim) | N/A |
-| 17 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 18 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 19 | [#kristusäruppstånden](http://twitter.com/search?q=%23kristus%c3%a4ruppst%c3%a5nden) | N/A |
 | 20 | [irland](http://twitter.com/search?q=irland) | N/A |
 | 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
@@ -52,18 +52,18 @@ This is top 50 for [Sweden](</Sweden>)
 | 35 | [portugallien](http://twitter.com/search?q=portugallien) | N/A |
 | 36 | [Prag](http://twitter.com/search?q=Prag) | N/A |
 | 37 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 38 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
+| 38 | [vecchia](http://twitter.com/search?q=vecchia) | N/A |
 | 39 | [hbtq](http://twitter.com/search?q=hbtq) | N/A |
-| 40 | [solvalla](http://twitter.com/search?q=solvalla) | N/A |
-| 41 | [Hisingen](http://twitter.com/search?q=Hisingen) | N/A |
-| 42 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
-| 43 | [#kalmarff](http://twitter.com/search?q=%23kalmarff) | N/A |
-| 44 | [Henrik](http://twitter.com/search?q=Henrik) | N/A |
-| 45 | [kejsaren](http://twitter.com/search?q=kejsaren) | N/A |
-| 46 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 47 | [livets](http://twitter.com/search?q=livets) | N/A |
-| 48 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 49 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 40 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 41 | [solvalla](http://twitter.com/search?q=solvalla) | N/A |
+| 42 | [hisingen](http://twitter.com/search?q=hisingen) | N/A |
+| 43 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
+| 44 | [#kalmarff](http://twitter.com/search?q=%23kalmarff) | N/A |
+| 45 | [Henrik](http://twitter.com/search?q=Henrik) | N/A |
+| 46 | [kejsaren](http://twitter.com/search?q=kejsaren) | N/A |
+| 47 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 48 | [livets](http://twitter.com/search?q=livets) | N/A |
+| 49 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 
 
 

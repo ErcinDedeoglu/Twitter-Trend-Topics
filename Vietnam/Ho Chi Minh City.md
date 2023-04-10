@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-04-10 03:17:27 UTC`
+📆 Last Updated: `2023-04-10 04:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,46 +21,40 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 4 | [#BedFriendEP8](http://twitter.com/search?q=%23BedFriendEP8) | N/A |
 | 5 | [#JISOOatInkigayo](http://twitter.com/search?q=%23JISOOatInkigayo) | N/A |
 | 6 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 7 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 8 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 9 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 10 | [#PondPhuwinFMinVietnam](http://twitter.com/search?q=%23PondPhuwinFMinVietnam) | N/A |
-| 11 | [Gothic](http://twitter.com/search?q=Gothic) | N/A |
-| 12 | [GenG](http://twitter.com/search?q=GenG) | N/A |
-| 13 | [Floral](http://twitter.com/search?q=Floral) | N/A |
-| 14 | [Car Seat Cover](http://twitter.com/search?q=Car+Seat+Cover) | N/A |
-| 15 | [Car Seat Cover](http://twitter.com/search?q=Car+Seat+Cover) | N/A |
-| 16 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 18 | [babiu](http://twitter.com/search?q=babiu) | N/A |
-| 19 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
-| 20 | [Toàn](http://twitter.com/search?q=To%c3%a0n) | N/A |
-| 21 | [biu biu](http://twitter.com/search?q=biu+biu) | N/A |
+| 7 | [Grim](http://twitter.com/search?q=Grim) | N/A |
+| 8 | [Grim](http://twitter.com/search?q=Grim) | N/A |
+| 9 | [Grim](http://twitter.com/search?q=Grim) | N/A |
+| 10 | [Grim](http://twitter.com/search?q=Grim) | N/A |
+| 11 | [Grim](http://twitter.com/search?q=Grim) | N/A |
+| 12 | [Grim](http://twitter.com/search?q=Grim) | N/A |
+| 13 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 14 | [#ปอนด์ภูวินทร์](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%a0%e0%b8%b9%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c) | N/A |
+| 15 | [Floral](http://twitter.com/search?q=Floral) | N/A |
+| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 17 | [babiu](http://twitter.com/search?q=babiu) | N/A |
+| 18 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
+| 19 | [Toàn](http://twitter.com/search?q=To%c3%a0n) | N/A |
+| 20 | [Biu Biu](http://twitter.com/search?q=Biu+Biu) | N/A |
+| 21 | [geng](http://twitter.com/search?q=geng) | N/A |
 | 22 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
-| 23 | [Đài Loan](http://twitter.com/search?q=%c4%90%c3%a0i+Loan) | N/A |
+| 23 | [Skeleton](http://twitter.com/search?q=Skeleton) | N/A |
 | 24 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 25 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
-| 26 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 27 | [America](http://twitter.com/search?q=America) | N/A |
-| 28 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 29 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
-| 30 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 31 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 32 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
-| 33 | [#ปอนด์ภูวินทร์](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%a0%e0%b8%b9%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c) | N/A |
-| 34 | [#BIU100KLUVE](http://twitter.com/search?q=%23BIU100KLUVE) | N/A |
-| 35 | [#ชมรมคนตาสระอิ](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%a1%e0%b8%a3%e0%b8%a1%e0%b8%84%e0%b8%99%e0%b8%95%e0%b8%b2%e0%b8%aa%e0%b8%a3%e0%b8%b0%e0%b8%ad%e0%b8%b4) | N/A |
-| 36 | [#horrorseatcoverprotector](http://twitter.com/search?q=%23horrorseatcoverprotector) | N/A |
+| 25 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 26 | [America](http://twitter.com/search?q=America) | N/A |
+| 27 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 28 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 29 | [#PondPhuwinFMinVietnam](http://twitter.com/search?q=%23PondPhuwinFMinVietnam) | N/A |
+| 30 | [#BIU100KLUVE](http://twitter.com/search?q=%23BIU100KLUVE) | N/A |
+| 31 | [#ชมรมคนตาสระอิ](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%a1%e0%b8%a3%e0%b8%a1%e0%b8%84%e0%b8%99%e0%b8%95%e0%b8%b2%e0%b8%aa%e0%b8%a3%e0%b8%b0%e0%b8%ad%e0%b8%b4) | N/A |
+| 32 | [#mexicocarseatprotector](http://twitter.com/search?q=%23mexicocarseatprotector) | N/A |
+| 33 | [#T1fighting](http://twitter.com/search?q=%23T1fighting) | N/A |
+| 34 | [#Python](http://twitter.com/search?q=%23Python) | N/A |
+| 35 | [#horrorseatcoverprotector](http://twitter.com/search?q=%23horrorseatcoverprotector) | N/A |
+| 36 | [#t1win](http://twitter.com/search?q=%23t1win) | N/A |
 | 37 | [#calaverasskullcarseat](http://twitter.com/search?q=%23calaverasskullcarseat) | N/A |
 | 38 | [#skullinfirecarseatprotector](http://twitter.com/search?q=%23skullinfirecarseatprotector) | N/A |
-| 39 | [#t1win](http://twitter.com/search?q=%23t1win) | N/A |
-| 40 | [#LoveinTheAirInTaipei](http://twitter.com/search?q=%23LoveinTheAirInTaipei) | N/A |
-| 41 | [#ppnaravit](http://twitter.com/search?q=%23ppnaravit) | N/A |
-| 42 | [#skullinfirecarseattool](http://twitter.com/search?q=%23skullinfirecarseattool) | N/A |
-| 43 | [#LISAパワフルステージin東京](http://twitter.com/search?q=%23LISA%e3%83%91%e3%83%af%e3%83%95%e3%83%ab%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b8in%e6%9d%b1%e4%ba%ac) | N/A |
-| 44 | [#diadelosmuertosskullcarseat](http://twitter.com/search?q=%23diadelosmuertosskullcarseat) | N/A |
-| 45 | [#deathskullsuitcasetag](http://twitter.com/search?q=%23deathskullsuitcasetag) | N/A |
-| 46 | [#HKracing](http://twitter.com/search?q=%23HKracing) | N/A |
+| 39 | [#LoveinTheAirInTaipei](http://twitter.com/search?q=%23LoveinTheAirInTaipei) | N/A |
+| 40 | [#ppnaravit](http://twitter.com/search?q=%23ppnaravit) | N/A |
 
 
 

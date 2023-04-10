@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hermosillo
 
-📆 Last Updated: `2023-04-10 03:17:04 UTC`
+📆 Last Updated: `2023-04-10 04:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 3 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 4 | [#DomingoGlorioso](http://twitter.com/search?q=%23DomingoGlorioso) | N/A |
-| 5 | [#AtletasPorUnAuto](http://twitter.com/search?q=%23AtletasPorUnAuto) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [ESTAMOS CONTIGO NAT](http://twitter.com/search?q=ESTAMOS+CONTIGO+NAT) | N/A |
-| 8 | [#Vecinos](http://twitter.com/search?q=%23Vecinos) | N/A |
-| 9 | [#MYCON_EN_MEXICO](http://twitter.com/search?q=%23MYCON_EN_MEXICO) | N/A |
-| 10 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
-| 11 | [Paseo Bravo](http://twitter.com/search?q=Paseo+Bravo) | N/A |
-| 12 | [MEXICO LOVES MAMAMOO](http://twitter.com/search?q=MEXICO+LOVES+MAMAMOO) | N/A |
-| 13 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 14 | [Perote](http://twitter.com/search?q=Perote) | N/A |
-| 15 | [MARIE CLAIRE](http://twitter.com/search?q=MARIE+CLAIRE) | MARIE CLAIRE is a French magazine for women that was first published in 1937. It covers topics such as fashion, beauty, health, entertainment, and lifestyle. The name of the magazine is derived from the French phrase "Marie Claire de Coeur," which translates to "Mary of the Heart." |
-| 16 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 17 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 18 | [Slime](http://twitter.com/search?q=Slime) | N/A |
-| 19 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 20 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 21 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 22 | [Santos Laguna](http://twitter.com/search?q=Santos+Laguna) | N/A |
-| 23 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 24 | [Informados](http://twitter.com/search?q=Informados) | N/A |
-| 25 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 26 | [Zitlaltepec](http://twitter.com/search?q=Zitlaltepec) | N/A |
-| 27 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 28 | [Mustang](http://twitter.com/search?q=Mustang) | N/A |
-| 29 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 30 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 31 | [Seguirán](http://twitter.com/search?q=Seguir%c3%a1n) | N/A |
-| 32 | [Dante](http://twitter.com/search?q=Dante) | N/A |
-| 33 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 34 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
-| 35 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
-| 36 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 37 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 38 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 39 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 40 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 41 | [CODERS CLOWNS](http://twitter.com/search?q=CODERS+CLOWNS) | N/A |
-| 42 | [CD9 COMEBACK](http://twitter.com/search?q=CD9+COMEBACK) | N/A |
-| 43 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
-| 44 | [prieto](http://twitter.com/search?q=prieto) | N/A |
-| 45 | [Yaiba](http://twitter.com/search?q=Yaiba) | N/A |
-| 46 | [CD9 RETURN](http://twitter.com/search?q=CD9+RETURN) | N/A |
-| 47 | [Freddy](http://twitter.com/search?q=Freddy) | N/A |
-| 48 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 49 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 2 | [#AtletasPorUnAuto](http://twitter.com/search?q=%23AtletasPorUnAuto) | N/A |
+| 3 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
+| 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 5 | [#DomingoGlorioso](http://twitter.com/search?q=%23DomingoGlorioso) | N/A |
+| 6 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 7 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
+| 8 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
+| 9 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
+| 10 | [ESTAMOS CONTIGO NAT](http://twitter.com/search?q=ESTAMOS+CONTIGO+NAT) | N/A |
+| 11 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
+| 12 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 14 | [#엘프가_이특을_안아줘요](http://twitter.com/search?q=%23%ec%97%98%ed%94%84%ea%b0%80_%ec%9d%b4%ed%8a%b9%ec%9d%84_%ec%95%88%ec%95%84%ec%a4%98%ec%9a%94) | N/A |
+| 15 | [#Vecinos](http://twitter.com/search?q=%23Vecinos) | N/A |
+| 16 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
+| 17 | [Paseo Bravo](http://twitter.com/search?q=Paseo+Bravo) | N/A |
+| 18 | [DT de Tigres](http://twitter.com/search?q=DT+de+Tigres) | N/A |
+| 19 | [Julián Quiñones](http://twitter.com/search?q=Juli%c3%a1n+Qui%c3%b1ones) | N/A |
+| 20 | [Slime](http://twitter.com/search?q=Slime) | N/A |
+| 21 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 22 | [Perote](http://twitter.com/search?q=Perote) | N/A |
+| 23 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 24 | [MEXICO LOVES MAMAMOO](http://twitter.com/search?q=MEXICO+LOVES+MAMAMOO) | N/A |
+| 25 | [MARIE CLAIRE](http://twitter.com/search?q=MARIE+CLAIRE) | MARIE CLAIRE is a French magazine for women that was first published in 1937. It covers topics such as fashion, beauty, health, entertainment, and lifestyle. The name of the magazine is derived from the French phrase "Marie Claire de Coeur," which translates to "Mary of the Heart." |
+| 26 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 27 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
+| 28 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 29 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 30 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 31 | [Logrado](http://twitter.com/search?q=Logrado) | N/A |
+| 32 | [Zitlaltepec](http://twitter.com/search?q=Zitlaltepec) | N/A |
+| 33 | [Santos Laguna](http://twitter.com/search?q=Santos+Laguna) | N/A |
+| 34 | [Informados](http://twitter.com/search?q=Informados) | N/A |
+| 35 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 36 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 37 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 38 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 39 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 40 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 41 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 42 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 43 | [Mustang](http://twitter.com/search?q=Mustang) | N/A |
+| 44 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 45 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
+| 46 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 47 | [CODERS CLOWNS](http://twitter.com/search?q=CODERS+CLOWNS) | N/A |
+| 48 | [Missa](http://twitter.com/search?q=Missa) | N/A |
+| 49 | [prieto](http://twitter.com/search?q=prieto) | N/A |
 
 
 

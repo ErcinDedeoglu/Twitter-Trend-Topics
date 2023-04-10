@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baton Rouge
 
-📆 Last Updated: `2023-04-10 03:17:39 UTC`
+📆 Last Updated: `2023-04-10 04:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 2 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 3 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 2 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [Logan](http://twitter.com/search?q=Logan) | N/A |
 | 5 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 6 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 7 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 8 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 9 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
-| 10 | [kendall](http://twitter.com/search?q=kendall) | N/A |
-| 11 | [Preece](http://twitter.com/search?q=Preece) | N/A |
-| 12 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 13 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 14 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 15 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
-| 16 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 17 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
-| 18 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
-| 19 | [Odell](http://twitter.com/search?q=Odell) | N/A |
-| 20 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 21 | [Willa](http://twitter.com/search?q=Willa) | N/A |
-| 22 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 23 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 24 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 25 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 26 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 27 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 28 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 29 | [Briscoe](http://twitter.com/search?q=Briscoe) | N/A |
-| 30 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
-| 31 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 32 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
-| 33 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
-| 34 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 35 | [Christopher Bell](http://twitter.com/search?q=Christopher+Bell) | N/A |
-| 36 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
-| 37 | [Paty](http://twitter.com/search?q=Paty) | N/A |
-| 38 | [Joan Baez](http://twitter.com/search?q=Joan+Baez) | N/A |
-| 39 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 40 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
-| 41 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 42 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 43 | [Dusty Rhodes](http://twitter.com/search?q=Dusty+Rhodes) | N/A |
-| 44 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 45 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 46 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 47 | [Kieran](http://twitter.com/search?q=Kieran) | Kieran is an Irish name derived from the Gaelic name Ciarán, which means "little dark one". It is also a variant of the name Kieron, which is derived from the Latin name Ciaran. |
-| 48 | [Chastain](http://twitter.com/search?q=Chastain) | N/A |
+| 6 | [kendall](http://twitter.com/search?q=kendall) | N/A |
+| 7 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
+| 8 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 9 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
+| 10 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 11 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 12 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 13 | [Preece](http://twitter.com/search?q=Preece) | N/A |
+| 14 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 15 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 16 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 17 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
+| 18 | [Willa](http://twitter.com/search?q=Willa) | N/A |
+| 19 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 20 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
+| 21 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
+| 22 | [Titter](http://twitter.com/search?q=Titter) | N/A |
+| 23 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 24 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 25 | [Odell](http://twitter.com/search?q=Odell) | N/A |
+| 26 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
+| 27 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
+| 28 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
+| 29 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 30 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
+| 31 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
+| 32 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 33 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 34 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 35 | [Chuckles the Clown](http://twitter.com/search?q=Chuckles+the+Clown) | N/A |
+| 36 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
+| 37 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 38 | [Briscoe](http://twitter.com/search?q=Briscoe) | N/A |
+| 39 | [Christopher Bell](http://twitter.com/search?q=Christopher+Bell) | N/A |
+| 40 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 41 | [Kieran](http://twitter.com/search?q=Kieran) | Kieran is an Irish name derived from the Gaelic name Ciarán, which means "little dark one". It is also a variant of the name Kieron, which is derived from the Latin name Ciaran. |
+| 42 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
+| 43 | [Paty](http://twitter.com/search?q=Paty) | N/A |
+| 44 | [Joan Baez](http://twitter.com/search?q=Joan+Baez) | N/A |
+| 45 | [Red Wedding](http://twitter.com/search?q=Red+Wedding) | N/A |
+| 46 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 47 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 48 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
 
 
 

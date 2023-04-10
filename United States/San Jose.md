@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-04-10 03:17:46 UTC`
+📆 Last Updated: `2023-04-10 04:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 2 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 3 | [Nelly](http://twitter.com/search?q=Nelly) | Nelly is a nickname for the female given name Eleanor, which is derived from the Greek name Helenē, meaning “light” or “bright one.” It can also be used as a diminutive form of the name Cornelia. |
-| 4 | [Lugo](http://twitter.com/search?q=Lugo) | N/A |
-| 5 | [#FlyTogether](http://twitter.com/search?q=%23FlyTogether) | N/A |
-| 6 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 7 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
-| 8 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 9 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
-| 10 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 11 | [Newsom](http://twitter.com/search?q=Newsom) | N/A |
-| 12 | [McDaniels](http://twitter.com/search?q=McDaniels) | McDaniels is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
-| 13 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
-| 14 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 15 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 16 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
-| 17 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 18 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
-| 19 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 20 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 21 | [#RLCS](http://twitter.com/search?q=%23RLCS) | N/A |
-| 22 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 23 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 24 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 25 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 26 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 27 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 28 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
-| 29 | [kendall](http://twitter.com/search?q=kendall) | N/A |
-| 30 | [Preece](http://twitter.com/search?q=Preece) | N/A |
-| 31 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 32 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 33 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 2 | [Lugo](http://twitter.com/search?q=Lugo) | N/A |
+| 3 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 4 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 5 | [Masters](http://twitter.com/search?q=Masters) | N/A |
+| 6 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 7 | [Chase](http://twitter.com/search?q=Chase) | Chase is a verb meaning to pursue or follow someone or something in order to catch them. It can also mean to try hard to achieve something. |
+| 8 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 9 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
+| 10 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 11 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 12 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
+| 13 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 14 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 15 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 17 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 18 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 19 | [kendall](http://twitter.com/search?q=kendall) | N/A |
+| 20 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
+| 21 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 22 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
+| 23 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 24 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 25 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 26 | [Preece](http://twitter.com/search?q=Preece) | N/A |
+| 27 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 28 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 29 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 30 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
+| 31 | [Willa](http://twitter.com/search?q=Willa) | N/A |
+| 32 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 33 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
 | 34 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
-| 35 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 36 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
-| 37 | [Odell](http://twitter.com/search?q=Odell) | N/A |
-| 38 | [Willa](http://twitter.com/search?q=Willa) | N/A |
-| 39 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 40 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 41 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 35 | [Titter](http://twitter.com/search?q=Titter) | N/A |
+| 36 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 37 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 38 | [Odell](http://twitter.com/search?q=Odell) | N/A |
+| 39 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
+| 40 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
+| 41 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
 | 42 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 43 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 44 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 45 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 46 | [Briscoe](http://twitter.com/search?q=Briscoe) | N/A |
-| 47 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
-| 48 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 49 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
-| 50 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
+| 43 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
+| 44 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
+| 45 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 46 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 47 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 48 | [Chuckles the Clown](http://twitter.com/search?q=Chuckles+the+Clown) | N/A |
+| 49 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
+| 50 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
 
 
 
