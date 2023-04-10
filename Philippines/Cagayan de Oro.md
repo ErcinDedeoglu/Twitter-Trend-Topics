@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-04-10 12:19:10 UTC`
+📆 Last Updated: `2023-04-10 13:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,52 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AskPau](http://twitter.com/search?q=%23AskPau) | N/A |
-| 2 | [#OurSkyy2](http://twitter.com/search?q=%23OurSkyy2) | N/A |
-| 3 | [FRANSETH 1M PROMLOVE](http://twitter.com/search?q=FRANSETH+1M+PROMLOVE) | N/A |
-| 4 | [#FELIP_COMPLEXlive](http://twitter.com/search?q=%23FELIP_COMPLEXlive) | N/A |
-| 5 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 6 | [#IVE_1ST_ALBUM_RELEASE](http://twitter.com/search?q=%23IVE_1ST_ALBUM_RELEASE) | N/A |
-| 7 | [#FELIP_ROCKSTA](http://twitter.com/search?q=%23FELIP_ROCKSTA) | #FELIP_ROCKSTA is a hashtag used to show support for the artist Felip Rocksta. It is often used on social media platforms such as Twitter and Instagram to show appreciation for his music and artistry. |
-| 8 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 9 | [Good Works and Giving](http://twitter.com/search?q=Good+Works+and+Giving) | N/A |
-| 10 | [VoteFiLay AsiasIconicLoveteam](http://twitter.com/search?q=VoteFiLay+AsiasIconicLoveteam) | N/A |
-| 11 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 12 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 13 | [jieun](http://twitter.com/search?q=jieun) | N/A |
-| 14 | [D4 KDLEXPETA COMEBACK](http://twitter.com/search?q=D4+KDLEXPETA+COMEBACK) | N/A |
-| 15 | [Back to the City](http://twitter.com/search?q=Back+to+the+City) | N/A |
+| 1 | [#OurSkyy2](http://twitter.com/search?q=%23OurSkyy2) | N/A |
+| 2 | [#AskPau](http://twitter.com/search?q=%23AskPau) | N/A |
+| 3 | [#FELIP_COMPLEXlive](http://twitter.com/search?q=%23FELIP_COMPLEXlive) | N/A |
+| 4 | [#FELIP_ROCKSTA](http://twitter.com/search?q=%23FELIP_ROCKSTA) | #FELIP_ROCKSTA is a hashtag used to show support for the artist Felip Rocksta. It is often used on social media platforms such as Twitter and Instagram to show appreciation for his music and artistry. |
+| 5 | [FRANSETH 1M PROMLOVE](http://twitter.com/search?q=FRANSETH+1M+PROMLOVE) | N/A |
+| 6 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 7 | [#FPJBQDebut](http://twitter.com/search?q=%23FPJBQDebut) | N/A |
+| 8 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 9 | [Mokang](http://twitter.com/search?q=Mokang) | N/A |
+| 10 | [Marie Claire](http://twitter.com/search?q=Marie+Claire) | N/A |
+| 11 | [VoteFiLay AsiasIconicLoveteam](http://twitter.com/search?q=VoteFiLay+AsiasIconicLoveteam) | N/A |
+| 12 | [Good Works and Giving](http://twitter.com/search?q=Good+Works+and+Giving) | N/A |
+| 13 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 14 | [Back to the City](http://twitter.com/search?q=Back+to+the+City) | N/A |
+| 15 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 16 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 17 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 18 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 17 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 18 | [yujin](http://twitter.com/search?q=yujin) | N/A |
 | 19 | [Shine With Me](http://twitter.com/search?q=Shine+With+Me) | N/A |
-| 20 | [NOT YOUR GIRL](http://twitter.com/search?q=NOT+YOUR+GIRL) | N/A |
-| 21 | [Palette](http://twitter.com/search?q=Palette) | N/A |
-| 22 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 23 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
-| 24 | [Celine](http://twitter.com/search?q=Celine) | N/A |
-| 25 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
-| 26 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 20 | [jieun](http://twitter.com/search?q=jieun) | N/A |
+| 21 | [NOT YOUR GIRL](http://twitter.com/search?q=NOT+YOUR+GIRL) | N/A |
+| 22 | [Palette](http://twitter.com/search?q=Palette) | N/A |
+| 23 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 24 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 25 | [D4 KDLEXPETA COMEBACK](http://twitter.com/search?q=D4+KDLEXPETA+COMEBACK) | N/A |
+| 26 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 27 | [Aespa](http://twitter.com/search?q=Aespa) | N/A |
-| 28 | [Jollibee](http://twitter.com/search?q=Jollibee) | N/A |
-| 29 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 30 | [Intramuros](http://twitter.com/search?q=Intramuros) | N/A |
-| 31 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 32 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 33 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
-| 34 | [#FiLayAILxMCI](http://twitter.com/search?q=%23FiLayAILxMCI) | N/A |
-| 35 | [#lucalive](http://twitter.com/search?q=%23lucalive) | N/A |
-| 36 | [#IveIVE](http://twitter.com/search?q=%23IveIVE) | N/A |
-| 37 | [#FirstEightWP](http://twitter.com/search?q=%23FirstEightWP) | N/A |
-| 38 | [#KVersePH](http://twitter.com/search?q=%23KVersePH) | N/A |
-| 39 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 40 | [#Kep1er](http://twitter.com/search?q=%23Kep1er) | N/A |
-| 41 | [#HereComesTheGroom](http://twitter.com/search?q=%23HereComesTheGroom) | N/A |
+| 28 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 29 | [Metro Manila](http://twitter.com/search?q=Metro+Manila) | N/A |
+| 30 | [Jollibee](http://twitter.com/search?q=Jollibee) | N/A |
+| 31 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 32 | [Intramuros](http://twitter.com/search?q=Intramuros) | N/A |
+| 33 | [Celine](http://twitter.com/search?q=Celine) | N/A |
+| 34 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
+| 35 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
+| 36 | [#LegendofSRICHANDxMileApo](http://twitter.com/search?q=%23LegendofSRICHANDxMileApo) | N/A |
+| 37 | [#FiLayAILxMCI](http://twitter.com/search?q=%23FiLayAILxMCI) | N/A |
+| 38 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 39 | [#IVE_1ST_ALBUM_RELEASE](http://twitter.com/search?q=%23IVE_1ST_ALBUM_RELEASE) | N/A |
+| 40 | [#lucalive](http://twitter.com/search?q=%23lucalive) | N/A |
+| 41 | [#IveIVE](http://twitter.com/search?q=%23IveIVE) | N/A |
+| 42 | [#KVersePH](http://twitter.com/search?q=%23KVersePH) | N/A |
+| 43 | [#FirstEightWP](http://twitter.com/search?q=%23FirstEightWP) | N/A |
+| 44 | [#JOHNPAULONASE](http://twitter.com/search?q=%23JOHNPAULONASE) | N/A |
+| 45 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 46 | [#Kep1er](http://twitter.com/search?q=%23Kep1er) | N/A |
 
 
 

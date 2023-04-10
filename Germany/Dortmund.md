@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-04-10 12:18:57 UTC`
+📆 Last Updated: `2023-04-10 13:18:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Germany](</Germany>)
 | 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 4 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
 | 5 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 6 | [#scffcb](http://twitter.com/search?q=%23scffcb) | N/A |
-| 7 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 6 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 7 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
 | 8 | [#Traumschiff](http://twitter.com/search?q=%23Traumschiff) | N/A |
 | 9 | [Anfangsverdacht](http://twitter.com/search?q=Anfangsverdacht) | N/A |
-| 10 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
-| 11 | [#tsgs04](http://twitter.com/search?q=%23tsgs04) | N/A |
-| 12 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 13 | [#BSCBVB](http://twitter.com/search?q=%23BSCBVB) | N/A |
+| 10 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 11 | [#TSGS04](http://twitter.com/search?q=%23TSGS04) | N/A |
+| 12 | [#BSCBVB](http://twitter.com/search?q=%23BSCBVB) | N/A |
+| 13 | [Özil](http://twitter.com/search?q=%c3%96zil) | N/A |
 | 14 | [Eier](http://twitter.com/search?q=Eier) | N/A |
-| 15 | [Özil](http://twitter.com/search?q=%c3%96zil) | N/A |
+| 15 | [Antisemiten](http://twitter.com/search?q=Antisemiten) | N/A |
 | 16 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 17 | [Antisemiten](http://twitter.com/search?q=Antisemiten) | N/A |
-| 18 | [Technologien der Zukunft](http://twitter.com/search?q=Technologien+der+Zukunft) | N/A |
-| 19 | ['Nachwuchs'](http://twitter.com/search?q=%27Nachwuchs%27) | N/A |
-| 20 | [Tod Israel](http://twitter.com/search?q=Tod+Israel) | N/A |
-| 21 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 22 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 23 | [Dienstwagen](http://twitter.com/search?q=Dienstwagen) | N/A |
+| 17 | [Dienstwagen](http://twitter.com/search?q=Dienstwagen) | N/A |
+| 18 | ['nachwuchs'](http://twitter.com/search?q=%27nachwuchs%27) | N/A |
+| 19 | [Tod Israel](http://twitter.com/search?q=Tod+Israel) | N/A |
+| 20 | [Technologien der Zukunft](http://twitter.com/search?q=Technologien+der+Zukunft) | N/A |
+| 21 | [#ImamAli](http://twitter.com/search?q=%23ImamAli) | N/A |
+| 22 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 23 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
 | 24 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
-| 25 | [Ostertag](http://twitter.com/search?q=Ostertag) | N/A |
-| 26 | [KILIDSCH](http://twitter.com/search?q=KILIDSCH) | N/A |
-| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 28 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 26 | [Ostertag](http://twitter.com/search?q=Ostertag) | N/A |
+| 27 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 28 | [Berliner Polizei](http://twitter.com/search?q=Berliner+Polizei) | N/A |
 | 29 | [Energieversorgung](http://twitter.com/search?q=Energieversorgung) | N/A |
-| 30 | [Hofreiter](http://twitter.com/search?q=Hofreiter) | N/A |
-| 31 | [Berliner Polizei](http://twitter.com/search?q=Berliner+Polizei) | N/A |
-| 32 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
-| 33 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 34 | [Reisepass](http://twitter.com/search?q=Reisepass) | N/A |
-| 35 | [autonomie](http://twitter.com/search?q=autonomie) | N/A |
-| 36 | [Parolen](http://twitter.com/search?q=Parolen) | N/A |
-| 37 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 38 | [Null Ahnung](http://twitter.com/search?q=Null+Ahnung) | N/A |
-| 39 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 40 | [Karlspreis](http://twitter.com/search?q=Karlspreis) | N/A |
-| 41 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 42 | [Effizienz](http://twitter.com/search?q=Effizienz) | N/A |
-| 43 | [Morla](http://twitter.com/search?q=Morla) | N/A |
-| 44 | [Totales Durcheinander](http://twitter.com/search?q=Totales+Durcheinander) | N/A |
-| 45 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 46 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 47 | [Garantie](http://twitter.com/search?q=Garantie) | N/A |
-| 48 | [Türke](http://twitter.com/search?q=T%c3%bcrke) | N/A |
-| 49 | [Ach Mist](http://twitter.com/search?q=Ach+Mist) | N/A |
-| 50 | [Jenz](http://twitter.com/search?q=Jenz) | N/A |
+| 30 | [kilidsch](http://twitter.com/search?q=kilidsch) | N/A |
+| 31 | [Hofreiter](http://twitter.com/search?q=Hofreiter) | N/A |
+| 32 | [sportler](http://twitter.com/search?q=sportler) | N/A |
+| 33 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 34 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 35 | [Parolen](http://twitter.com/search?q=Parolen) | N/A |
+| 36 | [Reisepass](http://twitter.com/search?q=Reisepass) | N/A |
+| 37 | [Autonomie](http://twitter.com/search?q=Autonomie) | N/A |
+| 38 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 39 | [Null Ahnung](http://twitter.com/search?q=Null+Ahnung) | N/A |
+| 40 | [chan](http://twitter.com/search?q=chan) | N/A |
+| 41 | [Streamplan](http://twitter.com/search?q=Streamplan) | N/A |
+| 42 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 43 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
+| 44 | [Norddeutschland](http://twitter.com/search?q=Norddeutschland) | N/A |
+| 45 | [Karlspreis](http://twitter.com/search?q=Karlspreis) | N/A |
+| 46 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 47 | [Holz](http://twitter.com/search?q=Holz) | N/A |
+| 48 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 49 | [Einreiseverbot](http://twitter.com/search?q=Einreiseverbot) | N/A |
+| 50 | [Politico](http://twitter.com/search?q=Politico) | N/A |
 
 
 

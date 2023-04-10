@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Washington
 
-📆 Last Updated: `2023-04-10 12:19:33 UTC`
+📆 Last Updated: `2023-04-10 13:19:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
 | 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 5 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 6 | [#Mondaymorning](http://twitter.com/search?q=%23Mondaymorning) | N/A |
-| 7 | [#LegendofSRICHANDxMileApo](http://twitter.com/search?q=%23LegendofSRICHANDxMileApo) | N/A |
-| 8 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 5 | [#Mondaymorning](http://twitter.com/search?q=%23Mondaymorning) | N/A |
+| 6 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 7 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 8 | [#StarWarsVisions](http://twitter.com/search?q=%23StarWarsVisions) | N/A |
 | 9 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 10 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 11 | [Daily Quordle 441](http://twitter.com/search?q=Daily+Quordle+441) | N/A |
-| 12 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 13 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 14 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 15 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 16 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
-| 17 | [I AM IS OUT NOW](http://twitter.com/search?q=I+AM+IS+OUT+NOW) | N/A |
-| 18 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
+| 10 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 11 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
+| 12 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 13 | [Daily Quordle 441](http://twitter.com/search?q=Daily+Quordle+441) | N/A |
+| 14 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 15 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 16 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
+| 17 | [Paved](http://twitter.com/search?q=Paved) | N/A |
+| 18 | [No VIP](http://twitter.com/search?q=No+VIP) | N/A |
 | 19 | [Titter](http://twitter.com/search?q=Titter) | N/A |
-| 20 | [greg heffley](http://twitter.com/search?q=greg+heffley) | N/A |
-| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 22 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
-| 23 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 24 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 25 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
-| 26 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 27 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 28 | [Bonnie](http://twitter.com/search?q=Bonnie) | N/A |
-| 29 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 30 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 31 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 32 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
-| 33 | [Popovich](http://twitter.com/search?q=Popovich) | N/A |
-| 34 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 35 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 36 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 37 | [Newsom](http://twitter.com/search?q=Newsom) | N/A |
-| 38 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 39 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 40 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 41 | [Joan Baez](http://twitter.com/search?q=Joan+Baez) | N/A |
-| 42 | [Musical](http://twitter.com/search?q=Musical) | N/A |
-| 43 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 20 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
+| 21 | [I AM IS OUT NOW](http://twitter.com/search?q=I+AM+IS+OUT+NOW) | N/A |
+| 22 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 23 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
+| 24 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 25 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
+| 26 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
+| 27 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 28 | [The Beast](http://twitter.com/search?q=The+Beast) | N/A |
+| 29 | [Bonnie and Clyde](http://twitter.com/search?q=Bonnie+and+Clyde) | N/A |
+| 30 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 31 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 32 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
+| 33 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 34 | [Newsom](http://twitter.com/search?q=Newsom) | N/A |
+| 35 | [Anne Frank](http://twitter.com/search?q=Anne+Frank) | N/A |
+| 36 | [Drift](http://twitter.com/search?q=Drift) | N/A |
+| 37 | [Kevin Gates](http://twitter.com/search?q=Kevin+Gates) | N/A |
+| 38 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 39 | [Lizzo and Jack Black](http://twitter.com/search?q=Lizzo+and+Jack+Black) | N/A |
+| 40 | [Musical](http://twitter.com/search?q=Musical) | N/A |
+| 41 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 42 | [OWGR](http://twitter.com/search?q=OWGR) | N/A |
+| 43 | [Popovich](http://twitter.com/search?q=Popovich) | N/A |
 | 44 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 45 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
-| 46 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
-| 47 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 48 | [Shade](http://twitter.com/search?q=Shade) | N/A |
-| 49 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 50 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
+| 45 | [Buddhist](http://twitter.com/search?q=Buddhist) | N/A |
+| 46 | [Connor's Wedding](http://twitter.com/search?q=Connor%27s+Wedding) | N/A |
+| 47 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
+| 48 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 49 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 50 | [Advantage](http://twitter.com/search?q=Advantage) | N/A |
 
 
 

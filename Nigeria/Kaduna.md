@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-04-10 12:19:12 UTC`
+📆 Last Updated: `2023-04-10 13:19:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [Dropshipping Guy](http://twitter.com/search?q=Dropshipping+Guy) | N/A |
-| 3 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 6 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 7 | [Uberfacts](http://twitter.com/search?q=Uberfacts) | N/A |
+| 1 | [Dropshipping Guy](http://twitter.com/search?q=Dropshipping+Guy) | N/A |
+| 2 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 3 | [Toyin Ijakumo](http://twitter.com/search?q=Toyin+Ijakumo) | N/A |
+| 4 | [#SantaDaps](http://twitter.com/search?q=%23SantaDaps) | N/A |
+| 5 | [My Obidients](http://twitter.com/search?q=My+Obidients) | N/A |
+| 6 | [Made in Lagos](http://twitter.com/search?q=Made+in+Lagos) | N/A |
+| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 8 | [$460,000 to the US](http://twitter.com/search?q=%24460%2c000+to+the+US) | N/A |
-| 9 | [Israel Adesanya](http://twitter.com/search?q=Israel+Adesanya) | N/A |
-| 10 | [My Obidients](http://twitter.com/search?q=My+Obidients) | N/A |
-| 11 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 12 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 13 | [#SANTADaps](http://twitter.com/search?q=%23SANTADaps) | N/A |
-| 14 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 15 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
-| 16 | [Wes Brown](http://twitter.com/search?q=Wes+Brown) | N/A |
-| 17 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 18 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 19 | [#AtikuMyPresident](http://twitter.com/search?q=%23AtikuMyPresident) | N/A |
-| 20 | [Galilee](http://twitter.com/search?q=Galilee) | N/A |
-| 21 | [Pa Adebanjo](http://twitter.com/search?q=Pa+Adebanjo) | N/A |
-| 22 | [Adamu Garba](http://twitter.com/search?q=Adamu+Garba) | N/A |
-| 23 | [IT CAME TO PASS](http://twitter.com/search?q=IT+CAME+TO+PASS) | N/A |
-| 24 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 25 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 26 | [AUTHENTIC YVONNE](http://twitter.com/search?q=AUTHENTIC+YVONNE) | N/A |
-| 27 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 28 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 30 | [University of Ibadan](http://twitter.com/search?q=University+of+Ibadan) | N/A |
-| 31 | [Made in Lagos](http://twitter.com/search?q=Made+in+Lagos) | N/A |
-| 32 | [Pa Ayo Adebanjo](http://twitter.com/search?q=Pa+Ayo+Adebanjo) | N/A |
-| 33 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
-| 34 | [Bola Ahmed Tinubu](http://twitter.com/search?q=Bola+Ahmed+Tinubu) | N/A |
-| 35 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 36 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 37 | [Chimamanda](http://twitter.com/search?q=Chimamanda) | N/A |
-| 38 | [Tade](http://twitter.com/search?q=Tade) | N/A |
-| 39 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
-| 40 | [Pablo Escobar](http://twitter.com/search?q=Pablo+Escobar) | N/A |
-| 41 | [Daniel Regha](http://twitter.com/search?q=Daniel+Regha) | N/A |
-| 42 | [Sagay](http://twitter.com/search?q=Sagay) | N/A |
-| 43 | [MY LOVE FOR BELLA](http://twitter.com/search?q=MY+LOVE+FOR+BELLA) | N/A |
-| 44 | [Bovi](http://twitter.com/search?q=Bovi) | N/A |
-| 45 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 46 | [Sunlight](http://twitter.com/search?q=Sunlight) | N/A |
-| 47 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 48 | [Asisat](http://twitter.com/search?q=Asisat) | N/A |
-| 49 | [Channels TV](http://twitter.com/search?q=Channels+TV) | N/A |
+| 9 | [#EasterMonday](http://twitter.com/search?q=%23EasterMonday) | N/A |
+| 10 | [Wes Brown](http://twitter.com/search?q=Wes+Brown) | N/A |
+| 11 | [Adamu Garba](http://twitter.com/search?q=Adamu+Garba) | N/A |
+| 12 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 13 | [PA Adebanjo](http://twitter.com/search?q=PA+Adebanjo) | N/A |
+| 14 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
+| 15 | [University of Ibadan](http://twitter.com/search?q=University+of+Ibadan) | N/A |
+| 16 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 17 | [AUTHENTIC YVONNE](http://twitter.com/search?q=AUTHENTIC+YVONNE) | N/A |
+| 18 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
+| 19 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 20 | [Sunlight](http://twitter.com/search?q=Sunlight) | N/A |
+| 21 | [MY LOVE FOR BELLA](http://twitter.com/search?q=MY+LOVE+FOR+BELLA) | N/A |
+| 22 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 23 | [Bola Tinubu](http://twitter.com/search?q=Bola+Tinubu) | N/A |
+| 24 | [Daniel Regha](http://twitter.com/search?q=Daniel+Regha) | N/A |
+| 25 | [Pablo Escobar](http://twitter.com/search?q=Pablo+Escobar) | N/A |
+| 26 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 27 | [Tade](http://twitter.com/search?q=Tade) | N/A |
+| 28 | [Bola Ahmed Tinubu](http://twitter.com/search?q=Bola+Ahmed+Tinubu) | N/A |
+| 29 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 30 | [Galilee](http://twitter.com/search?q=Galilee) | N/A |
+| 31 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 32 | [$CGPT](http://twitter.com/search?q=%24CGPT) | N/A |
+| 33 | [IT CAME TO PASS](http://twitter.com/search?q=IT+CAME+TO+PASS) | N/A |
+| 34 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 35 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 36 | [Channels TV](http://twitter.com/search?q=Channels+TV) | N/A |
+| 37 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 38 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 39 | [International](http://twitter.com/search?q=International) | N/A |
+| 40 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
+| 41 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 42 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 43 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 44 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 45 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 46 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 47 | [#atikumypresident](http://twitter.com/search?q=%23atikumypresident) | N/A |
+| 48 | [#NewWeek](http://twitter.com/search?q=%23NewWeek) | N/A |
+| 49 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
 
 
 
