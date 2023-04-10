@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-10 16:18:04 UTC`
+📆 Last Updated: `2023-04-10 17:19:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,11 +19,11 @@ This is top 50 for New Zealand
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [#mcyvwel](http://twitter.com/search?q=%23mcyvwel) | N/A |
 | 4 | [the disinformation project](http://twitter.com/search?q=the+disinformation+project) | N/A |
-| 5 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 7 | [Helen](http://twitter.com/search?q=Helen) | N/A |
-| 8 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 9 | [#nrlknightswarriors](http://twitter.com/search?q=%23nrlknightswarriors) | N/A |
+| 5 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 6 | [Helen](http://twitter.com/search?q=Helen) | N/A |
+| 7 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 8 | [#nrlknightswarriors](http://twitter.com/search?q=%23nrlknightswarriors) | N/A |
+| 9 | [Chantelle Baker](http://twitter.com/search?q=Chantelle+Baker) | N/A |
 | 10 | [Herald](http://twitter.com/search?q=Herald) | N/A |
 | 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
@@ -41,10 +41,10 @@ This is top 50 for New Zealand
 | 24 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 25 | [Logan](http://twitter.com/search?q=Logan) | N/A |
 | 26 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 27 | [Sanjana Hattotuwa](http://twitter.com/search?q=Sanjana+Hattotuwa) | N/A |
-| 28 | [tasman](http://twitter.com/search?q=tasman) | N/A |
-| 29 | [david fisher](http://twitter.com/search?q=david+fisher) | N/A |
-| 30 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 28 | [sanjana hattotuwa](http://twitter.com/search?q=sanjana+hattotuwa) | N/A |
+| 29 | [tasman](http://twitter.com/search?q=tasman) | N/A |
+| 30 | [david fisher](http://twitter.com/search?q=david+fisher) | N/A |
 | 31 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
 | 32 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 33 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-04-10 16:17:54 UTC`
+📆 Last Updated: `2023-04-10 17:19:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,45 +24,45 @@ This is top 50 for [United States](</United States>)
 | 7 | [#ItsTheGuns](http://twitter.com/search?q=%23ItsTheGuns) | N/A |
 | 8 | [Old National Bank](http://twitter.com/search?q=Old+National+Bank) | N/A |
 | 9 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 10 | [Monday in America](http://twitter.com/search?q=Monday+in+America) | N/A |
-| 11 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
-| 12 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 13 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
+| 10 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
+| 11 | [Monday in America](http://twitter.com/search?q=Monday+in+America) | N/A |
+| 12 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 13 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
 | 14 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
-| 15 | [JCTC](http://twitter.com/search?q=JCTC) | N/A |
-| 16 | [Active Shooter](http://twitter.com/search?q=Active+Shooter) | N/A |
-| 17 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
-| 18 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 19 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 20 | [Andy Beshear](http://twitter.com/search?q=Andy+Beshear) | N/A |
-| 21 | [Olay](http://twitter.com/search?q=Olay) | N/A |
-| 22 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
-| 23 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
-| 24 | [BLOOMING KARINA DAY](http://twitter.com/search?q=BLOOMING+KARINA+DAY) | N/A |
-| 25 | [Al Roker](http://twitter.com/search?q=Al+Roker) | N/A |
-| 26 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
-| 27 | [Slugger Field](http://twitter.com/search?q=Slugger+Field) | N/A |
-| 28 | [HAPPY BIRTHDAY DANIELLE](http://twitter.com/search?q=HAPPY+BIRTHDAY+DANIELLE) | N/A |
-| 29 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 30 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 31 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 32 | [Fahrenheit 451](http://twitter.com/search?q=Fahrenheit+451) | N/A |
-| 33 | [Nancy Mace](http://twitter.com/search?q=Nancy+Mace) | N/A |
-| 34 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 35 | [Gulf of Mexico](http://twitter.com/search?q=Gulf+of+Mexico) | N/A |
-| 36 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 37 | [Neil Young](http://twitter.com/search?q=Neil+Young) | N/A |
-| 38 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 39 | [Celebration](http://twitter.com/search?q=Celebration) | N/A |
-| 40 | [My Monday](http://twitter.com/search?q=My+Monday) | N/A |
-| 41 | [Dwayne Haskins](http://twitter.com/search?q=Dwayne+Haskins) | N/A |
-| 42 | [Huckleberry](http://twitter.com/search?q=Huckleberry) | N/A |
-| 43 | [Red Pill](http://twitter.com/search?q=Red+Pill) | N/A |
-| 44 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 45 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
-| 46 | [Will Zalatoris](http://twitter.com/search?q=Will+Zalatoris) | N/A |
-| 47 | [Titter](http://twitter.com/search?q=Titter) | N/A |
-| 48 | [jesper](http://twitter.com/search?q=jesper) | N/A |
+| 15 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
+| 16 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
+| 17 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 18 | [JCTC](http://twitter.com/search?q=JCTC) | N/A |
+| 19 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 20 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
+| 21 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
+| 22 | [Active Shooter](http://twitter.com/search?q=Active+Shooter) | N/A |
+| 23 | [Andy Beshear](http://twitter.com/search?q=Andy+Beshear) | N/A |
+| 24 | [Olay](http://twitter.com/search?q=Olay) | N/A |
+| 25 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 26 | [Marcus Domask](http://twitter.com/search?q=Marcus+Domask) | N/A |
+| 27 | [ryan murphy](http://twitter.com/search?q=ryan+murphy) | N/A |
+| 28 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 29 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
+| 30 | [Armadillo](http://twitter.com/search?q=Armadillo) | N/A |
+| 31 | [Japan in 2025](http://twitter.com/search?q=Japan+in+2025) | N/A |
+| 32 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 33 | [HAPPY BIRTHDAY DANIELLE](http://twitter.com/search?q=HAPPY+BIRTHDAY+DANIELLE) | N/A |
+| 34 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 35 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 36 | [Al Roker](http://twitter.com/search?q=Al+Roker) | N/A |
+| 37 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
+| 38 | [BLOOMING KARINA DAY](http://twitter.com/search?q=BLOOMING+KARINA+DAY) | N/A |
+| 39 | [Red Pill](http://twitter.com/search?q=Red+Pill) | N/A |
+| 40 | [Slugger Field](http://twitter.com/search?q=Slugger+Field) | N/A |
+| 41 | [Nancy Mace](http://twitter.com/search?q=Nancy+Mace) | N/A |
+| 42 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 43 | [Fahrenheit 451](http://twitter.com/search?q=Fahrenheit+451) | N/A |
+| 44 | [Celebration](http://twitter.com/search?q=Celebration) | N/A |
+| 45 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
+| 46 | [Neil Young](http://twitter.com/search?q=Neil+Young) | N/A |
+| 47 | [Gulf of Mexico](http://twitter.com/search?q=Gulf+of+Mexico) | N/A |
+| 48 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
 
 
 

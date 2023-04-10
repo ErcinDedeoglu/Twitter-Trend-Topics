@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-04-10 16:18:06 UTC`
+📆 Last Updated: `2023-04-10 17:19:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,19 +16,19 @@ This is top 50 for Singapore
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LegendofSRICHANDxMileApo](http://twitter.com/search?q=%23LegendofSRICHANDxMileApo) | N/A |
-| 2 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 3 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 6 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 7 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 8 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 2 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 5 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 6 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 7 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 8 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 9 | [#OurSkyy2](http://twitter.com/search?q=%23OurSkyy2) | N/A |
 | 10 | [#XiaoZhan](http://twitter.com/search?q=%23XiaoZhan) | N/A |
 | 11 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 12 | [Taemin](http://twitter.com/search?q=Taemin) | N/A |
-| 13 | [singaporeans](http://twitter.com/search?q=singaporeans) | N/A |
-| 14 | [#lioncitysailors](http://twitter.com/search?q=%23lioncitysailors) | N/A |
+| 12 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 13 | [#DestinyclinicZeeNunew](http://twitter.com/search?q=%23DestinyclinicZeeNunew) | #DestinyclinicZeeNunew is a hashtag used to promote the Destiny Clinic, a medical clinic in Nigeria. The hashtag is used to spread awareness about the clinic and its services. In English, it means "Destiny Clinic - See What's New". |
+| 14 | [singaporeans](http://twitter.com/search?q=singaporeans) | N/A |
 | 15 | [#TREASURE_HELLO_IN_SINGAPORE](http://twitter.com/search?q=%23TREASURE_HELLO_IN_SINGAPORE) | N/A |
 | 16 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 17 | [jhope](http://twitter.com/search?q=jhope) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Singapore
 | 33 | [Florida](http://twitter.com/search?q=Florida) | N/A |
 | 34 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 35 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
-| 36 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 37 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 38 | [Indians](http://twitter.com/search?q=Indians) | N/A |
-| 39 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 40 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
-| 41 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 42 | [Malay](http://twitter.com/search?q=Malay) | N/A |
-| 43 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 44 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 46 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
-| 47 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 48 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 49 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 50 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 36 | [Y'all](http://twitter.com/search?q=Y%27all) | N/A |
+| 37 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 38 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 39 | [Indians](http://twitter.com/search?q=Indians) | N/A |
+| 40 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
+| 41 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 42 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
+| 43 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 44 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
+| 45 | [Malay](http://twitter.com/search?q=Malay) | N/A |
+| 46 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 47 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 48 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 49 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 50 | [yujin](http://twitter.com/search?q=yujin) | N/A |
 
 
 

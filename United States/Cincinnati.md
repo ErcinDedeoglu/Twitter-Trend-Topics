@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-04-10 16:17:52 UTC`
+📆 Last Updated: `2023-04-10 17:19:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,45 +25,45 @@ This is top 50 for [United States](</United States>)
 | 8 | [#ItsTheGuns](http://twitter.com/search?q=%23ItsTheGuns) | N/A |
 | 9 | [Old National Bank](http://twitter.com/search?q=Old+National+Bank) | N/A |
 | 10 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 11 | [Monday in America](http://twitter.com/search?q=Monday+in+America) | N/A |
-| 12 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
-| 13 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 14 | [#Mondaymorning](http://twitter.com/search?q=%23Mondaymorning) | N/A |
-| 15 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
-| 16 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
-| 17 | [JCTC](http://twitter.com/search?q=JCTC) | N/A |
-| 18 | [Active Shooter](http://twitter.com/search?q=Active+Shooter) | N/A |
-| 19 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
-| 20 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 21 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 22 | [Andy Beshear](http://twitter.com/search?q=Andy+Beshear) | N/A |
-| 23 | [Olay](http://twitter.com/search?q=Olay) | N/A |
-| 24 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
-| 25 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
-| 26 | [BLOOMING KARINA DAY](http://twitter.com/search?q=BLOOMING+KARINA+DAY) | N/A |
-| 27 | [Al Roker](http://twitter.com/search?q=Al+Roker) | N/A |
-| 28 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
-| 29 | [Slugger Field](http://twitter.com/search?q=Slugger+Field) | N/A |
-| 30 | [HAPPY BIRTHDAY DANIELLE](http://twitter.com/search?q=HAPPY+BIRTHDAY+DANIELLE) | N/A |
-| 31 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 32 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 33 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 34 | [Fahrenheit 451](http://twitter.com/search?q=Fahrenheit+451) | N/A |
-| 35 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 36 | [Nancy Mace](http://twitter.com/search?q=Nancy+Mace) | N/A |
-| 37 | [Gulf of Mexico](http://twitter.com/search?q=Gulf+of+Mexico) | N/A |
-| 38 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 39 | [Neil Young](http://twitter.com/search?q=Neil+Young) | N/A |
-| 40 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 41 | [Celebration](http://twitter.com/search?q=Celebration) | N/A |
-| 42 | [My Monday](http://twitter.com/search?q=My+Monday) | N/A |
-| 43 | [Dwayne Haskins](http://twitter.com/search?q=Dwayne+Haskins) | N/A |
-| 44 | [Red Pill](http://twitter.com/search?q=Red+Pill) | N/A |
-| 45 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
-| 46 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
-| 47 | [Huckleberry](http://twitter.com/search?q=Huckleberry) | N/A |
-| 48 | [Will Zalatoris](http://twitter.com/search?q=Will+Zalatoris) | N/A |
-| 49 | [Titter](http://twitter.com/search?q=Titter) | N/A |
+| 11 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
+| 12 | [Monday in America](http://twitter.com/search?q=Monday+in+America) | N/A |
+| 13 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 14 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 15 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
+| 16 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
+| 17 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
+| 18 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
+| 19 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 20 | [JCTC](http://twitter.com/search?q=JCTC) | N/A |
+| 21 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 22 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
+| 23 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
+| 24 | [Active Shooter](http://twitter.com/search?q=Active+Shooter) | N/A |
+| 25 | [Andy Beshear](http://twitter.com/search?q=Andy+Beshear) | N/A |
+| 26 | [Olay](http://twitter.com/search?q=Olay) | N/A |
+| 27 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 28 | [Marcus Domask](http://twitter.com/search?q=Marcus+Domask) | N/A |
+| 29 | [ryan murphy](http://twitter.com/search?q=ryan+murphy) | N/A |
+| 30 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 31 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
+| 32 | [Armadillo](http://twitter.com/search?q=Armadillo) | N/A |
+| 33 | [Japan in 2025](http://twitter.com/search?q=Japan+in+2025) | N/A |
+| 34 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 35 | [HAPPY BIRTHDAY DANIELLE](http://twitter.com/search?q=HAPPY+BIRTHDAY+DANIELLE) | N/A |
+| 36 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 37 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 38 | [Al Roker](http://twitter.com/search?q=Al+Roker) | N/A |
+| 39 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
+| 40 | [BLOOMING KARINA DAY](http://twitter.com/search?q=BLOOMING+KARINA+DAY) | N/A |
+| 41 | [Red Pill](http://twitter.com/search?q=Red+Pill) | N/A |
+| 42 | [Slugger Field](http://twitter.com/search?q=Slugger+Field) | N/A |
+| 43 | [Nancy Mace](http://twitter.com/search?q=Nancy+Mace) | N/A |
+| 44 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 45 | [Fahrenheit 451](http://twitter.com/search?q=Fahrenheit+451) | N/A |
+| 46 | [Celebration](http://twitter.com/search?q=Celebration) | N/A |
+| 47 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
+| 48 | [Neil Young](http://twitter.com/search?q=Neil+Young) | N/A |
+| 49 | [Gulf of Mexico](http://twitter.com/search?q=Gulf+of+Mexico) | N/A |
 
 
 

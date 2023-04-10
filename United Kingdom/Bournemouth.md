@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-04-10 16:17:11 UTC`
+📆 Last Updated: `2023-04-10 17:18:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
-| 2 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
+| 1 | [Monkfish](http://twitter.com/search?q=Monkfish) | N/A |
+| 2 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
 | 3 | [#YTFC](http://twitter.com/search?q=%23YTFC) | N/A |
-| 4 | [Albion](http://twitter.com/search?q=Albion) | N/A |
-| 5 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
-| 6 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
-| 7 | [Afternoon](http://twitter.com/search?q=Afternoon) | N/A |
-| 8 | [Evans](http://twitter.com/search?q=Evans) | N/A |
-| 9 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 10 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 11 | [#htafc](http://twitter.com/search?q=%23htafc) | N/A |
-| 12 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 13 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
-| 14 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
-| 15 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 16 | [Carra](http://twitter.com/search?q=Carra) | N/A |
-| 17 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 18 | [Ferdinand](http://twitter.com/search?q=Ferdinand) | N/A |
-| 19 | [Stam](http://twitter.com/search?q=Stam) | N/A |
-| 20 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 21 | [Cardiff](http://twitter.com/search?q=Cardiff) | Cardiff is the capital and largest city of Wales. It is located in the south of the country, on the coast of the Bristol Channel. The name Cardiff comes from the Welsh language and means "fort on the river Taff". |
-| 22 | [Leonard](http://twitter.com/search?q=Leonard) | N/A |
-| 23 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
-| 24 | [West Bank](http://twitter.com/search?q=West+Bank) | N/A |
-| 25 | [#Colu](http://twitter.com/search?q=%23Colu) | N/A |
-| 26 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 27 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 28 | [#WRXNCO](http://twitter.com/search?q=%23WRXNCO) | N/A |
-| 29 | [Bostock](http://twitter.com/search?q=Bostock) | N/A |
-| 30 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
+| 4 | [MK Dons](http://twitter.com/search?q=MK+Dons) | N/A |
+| 5 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 6 | [#BestOfBritish](http://twitter.com/search?q=%23BestOfBritish) | N/A |
+| 7 | [#pvfc](http://twitter.com/search?q=%23pvfc) | N/A |
+| 8 | [Albion](http://twitter.com/search?q=Albion) | N/A |
+| 9 | [#ntfc](http://twitter.com/search?q=%23ntfc) | N/A |
+| 10 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
+| 11 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 12 | [Woking](http://twitter.com/search?q=Woking) | N/A |
+| 13 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
+| 14 | [Sarr](http://twitter.com/search?q=Sarr) | Sarr is a French surname. It is derived from the Latin word "sarra", which means "prince". In English, it can be translated to mean "princely". |
+| 15 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
+| 16 | [Fletcher](http://twitter.com/search?q=Fletcher) | N/A |
+| 17 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
+| 18 | [Northampton](http://twitter.com/search?q=Northampton) | N/A |
+| 19 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
+| 20 | [Burke](http://twitter.com/search?q=Burke) | N/A |
+| 21 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 22 | [Carlisle](http://twitter.com/search?q=Carlisle) | N/A |
+| 23 | [Swindon](http://twitter.com/search?q=Swindon) | N/A |
+| 24 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 25 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 26 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 27 | [Ince](http://twitter.com/search?q=Ince) | N/A |
+| 28 | [I Am Maximus](http://twitter.com/search?q=I+Am+Maximus) | N/A |
+| 29 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
+| 30 | [John Bostock](http://twitter.com/search?q=John+Bostock) | N/A |
 | 31 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 32 | [Ince](http://twitter.com/search?q=Ince) | N/A |
-| 33 | [Monkfish](http://twitter.com/search?q=Monkfish) | N/A |
-| 34 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 35 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
-| 36 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 37 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 38 | [Elliot Lee](http://twitter.com/search?q=Elliot+Lee) | N/A |
-| 39 | [Keith Stroud](http://twitter.com/search?q=Keith+Stroud) | N/A |
-| 40 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 41 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 42 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 43 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 44 | [Pukki](http://twitter.com/search?q=Pukki) | N/A |
-| 45 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
-| 46 | [Hamer](http://twitter.com/search?q=Hamer) | N/A |
-| 47 | [GoPro](http://twitter.com/search?q=GoPro) | N/A |
-| 48 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
-| 49 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
+| 32 | [Paul Townend](http://twitter.com/search?q=Paul+Townend) | N/A |
+| 33 | [GoPro](http://twitter.com/search?q=GoPro) | N/A |
+| 34 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 35 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 36 | [Keith Stroud](http://twitter.com/search?q=Keith+Stroud) | N/A |
+| 37 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
+| 38 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 39 | [WHAT A SAVE](http://twitter.com/search?q=WHAT+A+SAVE) | N/A |
+| 40 | [Langstaff](http://twitter.com/search?q=Langstaff) | N/A |
+| 41 | [Fozzy](http://twitter.com/search?q=Fozzy) | N/A |
+| 42 | [Neil Mellor](http://twitter.com/search?q=Neil+Mellor) | N/A |
+| 43 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
+| 44 | [Mbete](http://twitter.com/search?q=Mbete) | N/A |
+| 45 | [Elliot Lee](http://twitter.com/search?q=Elliot+Lee) | N/A |
+| 46 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 47 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 48 | [Pukki](http://twitter.com/search?q=Pukki) | N/A |
+| 49 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
 
 
 

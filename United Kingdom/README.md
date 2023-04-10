@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-04-10 16:18:07 UTC`
+📆 Last Updated: `2023-04-10 17:19:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for United Kingdom
 | 2 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
 | 3 | [#WRXNCO](http://twitter.com/search?q=%23WRXNCO) | N/A |
 | 4 | [#WXMNOT](http://twitter.com/search?q=%23WXMNOT) | N/A |
-| 5 | [#wrenot](http://twitter.com/search?q=%23wrenot) | N/A |
-| 6 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
-| 7 | [John Bostock](http://twitter.com/search?q=John+Bostock) | N/A |
+| 5 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
+| 6 | [#wrenot](http://twitter.com/search?q=%23wrenot) | N/A |
+| 7 | [National League](http://twitter.com/search?q=National+League) | N/A |
 | 8 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
 | 9 | [Ince](http://twitter.com/search?q=Ince) | N/A |
-| 10 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 10 | [I Am Maximus](http://twitter.com/search?q=I+Am+Maximus) | N/A |
 | 11 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 12 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 13 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 14 | [I Am Maximus](http://twitter.com/search?q=I+Am+Maximus) | N/A |
-| 15 | [Monkfish](http://twitter.com/search?q=Monkfish) | N/A |
-| 16 | [GoPro](http://twitter.com/search?q=GoPro) | N/A |
+| 12 | [John Bostock](http://twitter.com/search?q=John+Bostock) | N/A |
+| 13 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 14 | [Paul Townend](http://twitter.com/search?q=Paul+Townend) | N/A |
+| 15 | [GoPro](http://twitter.com/search?q=GoPro) | N/A |
+| 16 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
 | 17 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 18 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
-| 19 | [Keith Stroud](http://twitter.com/search?q=Keith+Stroud) | N/A |
-| 20 | [Paul Townend](http://twitter.com/search?q=Paul+Townend) | N/A |
+| 18 | [Keith Stroud](http://twitter.com/search?q=Keith+Stroud) | N/A |
+| 19 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
+| 20 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 21 | [WHAT A SAVE](http://twitter.com/search?q=WHAT+A+SAVE) | N/A |
-| 22 | [Neil Mellor](http://twitter.com/search?q=Neil+Mellor) | N/A |
-| 23 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 24 | [Elliot Lee](http://twitter.com/search?q=Elliot+Lee) | N/A |
-| 25 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 26 | [Fozzy](http://twitter.com/search?q=Fozzy) | N/A |
-| 27 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 28 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
-| 29 | [Pukki](http://twitter.com/search?q=Pukki) | N/A |
-| 30 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 31 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 32 | [Hamer](http://twitter.com/search?q=Hamer) | N/A |
-| 33 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
-| 34 | [Langstaff](http://twitter.com/search?q=Langstaff) | N/A |
-| 35 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
-| 36 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 37 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
-| 38 | [Walton](http://twitter.com/search?q=Walton) | N/A |
-| 39 | [Easy Game](http://twitter.com/search?q=Easy+Game) | N/A |
-| 40 | [Asterion Forlonge](http://twitter.com/search?q=Asterion+Forlonge) | N/A |
-| 41 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
-| 42 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
-| 43 | [Olay](http://twitter.com/search?q=Olay) | N/A |
-| 44 | [Blood Destiny](http://twitter.com/search?q=Blood+Destiny) | N/A |
-| 45 | [Derry](http://twitter.com/search?q=Derry) | N/A |
-| 46 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 47 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
-| 48 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
-| 49 | [Harness](http://twitter.com/search?q=Harness) | N/A |
-| 50 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
+| 22 | [Langstaff](http://twitter.com/search?q=Langstaff) | N/A |
+| 23 | [Fozzy](http://twitter.com/search?q=Fozzy) | N/A |
+| 24 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
+| 25 | [Mbete](http://twitter.com/search?q=Mbete) | N/A |
+| 26 | [Neil Mellor](http://twitter.com/search?q=Neil+Mellor) | N/A |
+| 27 | [Elliot Lee](http://twitter.com/search?q=Elliot+Lee) | N/A |
+| 28 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 29 | [Monkfish](http://twitter.com/search?q=Monkfish) | N/A |
+| 30 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 31 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 32 | [Pukki](http://twitter.com/search?q=Pukki) | N/A |
+| 33 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
+| 34 | [Walton](http://twitter.com/search?q=Walton) | N/A |
+| 35 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 36 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
+| 37 | [Derry](http://twitter.com/search?q=Derry) | N/A |
+| 38 | [Hamer](http://twitter.com/search?q=Hamer) | N/A |
+| 39 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
+| 40 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 41 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
+| 42 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
+| 43 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
+| 44 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
+| 45 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
+| 46 | [Olay](http://twitter.com/search?q=Olay) | N/A |
+| 47 | [Sargent](http://twitter.com/search?q=Sargent) | N/A |
+| 48 | [Irish National](http://twitter.com/search?q=Irish+National) | N/A |
+| 49 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
+| 50 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
 
 
 

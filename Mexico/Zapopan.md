@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zapopan
 
-📆 Last Updated: `2023-04-10 16:17:17 UTC`
+📆 Last Updated: `2023-04-10 17:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,44 +19,47 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [Mora](http://twitter.com/search?q=Mora) | N/A |
 | 3 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
 | 4 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 5 | [#DulcePoderoso](http://twitter.com/search?q=%23DulcePoderoso) | N/A |
-| 6 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
-| 7 | [#OlalloYKornoContigo](http://twitter.com/search?q=%23OlalloYKornoContigo) | N/A |
-| 8 | [Emiliano Zapata](http://twitter.com/search?q=Emiliano+Zapata) | N/A |
+| 5 | [Emiliano Zapata](http://twitter.com/search?q=Emiliano+Zapata) | N/A |
+| 6 | [#OlalloYKornoContigo](http://twitter.com/search?q=%23OlalloYKornoContigo) | N/A |
+| 7 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
+| 8 | [#DulcePoderoso](http://twitter.com/search?q=%23DulcePoderoso) | N/A |
 | 9 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
 | 10 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 11 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 12 | [Leona Vicario](http://twitter.com/search?q=Leona+Vicario) | N/A |
-| 13 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
-| 14 | [Lunes 10](http://twitter.com/search?q=Lunes+10) | N/A |
-| 15 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
-| 16 | [Robert Dante Siboldi](http://twitter.com/search?q=Robert+Dante+Siboldi) | N/A |
-| 17 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 18 | [#AsiVeoLaMañanera](http://twitter.com/search?q=%23AsiVeoLaMa%c3%b1anera) | N/A |
-| 19 | [Entrona](http://twitter.com/search?q=Entrona) | N/A |
-| 20 | [Chinameca](http://twitter.com/search?q=Chinameca) | N/A |
-| 21 | [Caudillo del Sur](http://twitter.com/search?q=Caudillo+del+Sur) | N/A |
-| 22 | [Revolución Mexicana](http://twitter.com/search?q=Revoluci%c3%b3n+Mexicana) | N/A |
-| 23 | [El 10](http://twitter.com/search?q=El+10) | N/A |
-| 24 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
-| 25 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 26 | [La UNAM](http://twitter.com/search?q=La+UNAM) | N/A |
-| 27 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 28 | [Enrique de la Madrid](http://twitter.com/search?q=Enrique+de+la+Madrid) | N/A |
-| 29 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 30 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
-| 31 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
-| 32 | [Jardines del Pedregal](http://twitter.com/search?q=Jardines+del+Pedregal) | N/A |
-| 33 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
-| 34 | [#JefeMañanero](http://twitter.com/search?q=%23JefeMa%c3%b1anero) | N/A |
-| 35 | [#EstáVivo](http://twitter.com/search?q=%23Est%c3%a1Vivo) | N/A |
-| 36 | [#FelizInicioDeSemana](http://twitter.com/search?q=%23FelizInicioDeSemana) | N/A |
-| 37 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
-| 38 | [#StarWarsVisions](http://twitter.com/search?q=%23StarWarsVisions) | N/A |
-| 39 | [#10DeAbril](http://twitter.com/search?q=%2310DeAbril) | N/A |
-| 40 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
-| 41 | [#BuenosDiasATodos](http://twitter.com/search?q=%23BuenosDiasATodos) | N/A |
-| 42 | [#Espectáculos](http://twitter.com/search?q=%23Espect%c3%a1culos) | N/A |
+| 13 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 14 | [Entrona](http://twitter.com/search?q=Entrona) | N/A |
+| 15 | [Robert Dante Siboldi](http://twitter.com/search?q=Robert+Dante+Siboldi) | N/A |
+| 16 | [El Caudillo del Sur](http://twitter.com/search?q=El+Caudillo+del+Sur) | N/A |
+| 17 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
+| 18 | [#BienestarEnTuColonia](http://twitter.com/search?q=%23BienestarEnTuColonia) | N/A |
+| 19 | [Lunes 10](http://twitter.com/search?q=Lunes+10) | N/A |
+| 20 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
+| 21 | [Revolución Mexicana](http://twitter.com/search?q=Revoluci%c3%b3n+Mexicana) | N/A |
+| 22 | [Chinameca](http://twitter.com/search?q=Chinameca) | N/A |
+| 23 | [ENARM](http://twitter.com/search?q=ENARM) | N/A |
+| 24 | [Ejército Libertador del Sur](http://twitter.com/search?q=Ej%c3%a9rcito+Libertador+del+Sur) | N/A |
+| 25 | [El 10](http://twitter.com/search?q=El+10) | N/A |
+| 26 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
+| 27 | [La UNAM](http://twitter.com/search?q=La+UNAM) | N/A |
+| 28 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
+| 29 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 30 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 31 | [Enrique de la Madrid](http://twitter.com/search?q=Enrique+de+la+Madrid) | N/A |
+| 32 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 33 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
+| 34 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
+| 35 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
+| 36 | [Jardines del Pedregal](http://twitter.com/search?q=Jardines+del+Pedregal) | N/A |
+| 37 | [#FelizInicioDeSemana](http://twitter.com/search?q=%23FelizInicioDeSemana) | N/A |
+| 38 | [#AsiVeoLaMañanera](http://twitter.com/search?q=%23AsiVeoLaMa%c3%b1anera) | N/A |
+| 39 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
+| 40 | [#StarWarsVisions](http://twitter.com/search?q=%23StarWarsVisions) | N/A |
+| 41 | [#10DeAbril](http://twitter.com/search?q=%2310DeAbril) | N/A |
+| 42 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
+| 43 | [#EstaVivo](http://twitter.com/search?q=%23EstaVivo) | N/A |
+| 44 | [#BuenosDiasATodos](http://twitter.com/search?q=%23BuenosDiasATodos) | N/A |
+| 45 | [#Espectáculos](http://twitter.com/search?q=%23Espect%c3%a1culos) | N/A |
 
 
 
