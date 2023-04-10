@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-04-10 20:17:22 UTC`
+📆 Last Updated: `2023-04-10 21:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MIELEG](http://twitter.com/search?q=%23MIELEG) | N/A |
-| 2 | [#Disney100](http://twitter.com/search?q=%23Disney100) | N/A |
-| 3 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 2 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 3 | [#Disney100](http://twitter.com/search?q=%23Disney100) | N/A |
 | 4 | [#JAGLGD](http://twitter.com/search?q=%23JAGLGD) | N/A |
 | 5 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
-| 6 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
-| 7 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 8 | [#RADRCZ](http://twitter.com/search?q=%23RADRCZ) | N/A |
-| 9 | [Zamach](http://twitter.com/search?q=Zamach) | N/A |
-| 10 | [#10kwietnia](http://twitter.com/search?q=%2310kwietnia) | N/A |
-| 11 | [Baku](http://twitter.com/search?q=Baku) | N/A |
-| 12 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
-| 13 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 15 | [Katyniu](http://twitter.com/search?q=Katyniu) | N/A |
-| 16 | [Lech Kaczyński](http://twitter.com/search?q=Lech+Kaczy%c5%84ski) | N/A |
-| 17 | [Macierewicza](http://twitter.com/search?q=Macierewicza) | N/A |
-| 18 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
-| 19 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 20 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 21 | [Perugii](http://twitter.com/search?q=Perugii) | N/A |
-| 22 | [Imaz](http://twitter.com/search?q=Imaz) | N/A |
-| 23 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
-| 24 | [Spokojnych](http://twitter.com/search?q=Spokojnych) | N/A |
-| 25 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
-| 26 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
-| 27 | [Kosta](http://twitter.com/search?q=Kosta) | N/A |
-| 28 | [Francja](http://twitter.com/search?q=Francja) | N/A |
-| 29 | [Nawrocki](http://twitter.com/search?q=Nawrocki) | N/A |
-| 30 | [Deer](http://twitter.com/search?q=Deer) | N/A |
-| 31 | [Jaga](http://twitter.com/search?q=Jaga) | N/A |
-| 32 | [Jagi](http://twitter.com/search?q=Jagi) | N/A |
-| 33 | [Kaliszu](http://twitter.com/search?q=Kaliszu) | N/A |
-| 34 | [Radomiak](http://twitter.com/search?q=Radomiak) | N/A |
-| 35 | [Tajwan](http://twitter.com/search?q=Tajwan) | N/A |
-| 36 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 37 | [Dalajlama](http://twitter.com/search?q=Dalajlama) | N/A |
-| 38 | [Baśka](http://twitter.com/search?q=Ba%c5%9bka) | N/A |
-| 39 | [Kaczyńscy](http://twitter.com/search?q=Kaczy%c5%84scy) | N/A |
-| 40 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
-| 41 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
-| 42 | [Familiadzie](http://twitter.com/search?q=Familiadzie) | N/A |
-| 43 | [ZAKSA](http://twitter.com/search?q=ZAKSA) | N/A |
-| 44 | [Tupolewa](http://twitter.com/search?q=Tupolewa) | N/A |
-| 45 | [Wysoki](http://twitter.com/search?q=Wysoki) | N/A |
-| 46 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 47 | [Cześć Ich Pamięci](http://twitter.com/search?q=Cze%c5%9b%c4%87+Ich+Pami%c4%99ci) | N/A |
-| 48 | [prawdziwie zmartwychwstał](http://twitter.com/search?q=prawdziwie+zmartwychwsta%c5%82) | N/A |
-| 49 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
-| 50 | [Wesołych](http://twitter.com/search?q=Weso%c5%82ych) | N/A |
+| 6 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 7 | [Rakowa](http://twitter.com/search?q=Rakowa) | N/A |
+| 8 | [#LaZabawa](http://twitter.com/search?q=%23LaZabawa) | N/A |
+| 9 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
+| 10 | [Zamach](http://twitter.com/search?q=Zamach) | N/A |
+| 11 | [Kaliszu](http://twitter.com/search?q=Kaliszu) | N/A |
+| 12 | [Baku](http://twitter.com/search?q=Baku) | N/A |
+| 13 | [Legnicy](http://twitter.com/search?q=Legnicy) | N/A |
+| 14 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
+| 15 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 16 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 17 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 18 | [Macierewicza](http://twitter.com/search?q=Macierewicza) | N/A |
+| 19 | [Lech Kaczyński](http://twitter.com/search?q=Lech+Kaczy%c5%84ski) | N/A |
+| 20 | [Katyniu](http://twitter.com/search?q=Katyniu) | N/A |
+| 21 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
+| 22 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 23 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 24 | [Robert Lewandowski](http://twitter.com/search?q=Robert+Lewandowski) | N/A |
+| 25 | [Imaz](http://twitter.com/search?q=Imaz) | N/A |
+| 26 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
+| 27 | [Kaczyńskich](http://twitter.com/search?q=Kaczy%c5%84skich) | N/A |
+| 28 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 29 | [Spokojnych](http://twitter.com/search?q=Spokojnych) | N/A |
+| 30 | [Perugii](http://twitter.com/search?q=Perugii) | N/A |
+| 31 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
+| 32 | [Deer](http://twitter.com/search?q=Deer) | N/A |
+| 33 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
+| 34 | [Kosta](http://twitter.com/search?q=Kosta) | N/A |
+| 35 | [Radomiak](http://twitter.com/search?q=Radomiak) | N/A |
+| 36 | [Tajwan](http://twitter.com/search?q=Tajwan) | N/A |
+| 37 | [Jaga](http://twitter.com/search?q=Jaga) | N/A |
+| 38 | [Dalajlama](http://twitter.com/search?q=Dalajlama) | N/A |
+| 39 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 40 | [Jagi](http://twitter.com/search?q=Jagi) | N/A |
+| 41 | [Francja](http://twitter.com/search?q=Francja) | N/A |
+| 42 | [Nawrocki](http://twitter.com/search?q=Nawrocki) | N/A |
+| 43 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 44 | [Wszołek](http://twitter.com/search?q=Wszo%c5%82ek) | N/A |
+| 45 | [Familiadzie](http://twitter.com/search?q=Familiadzie) | N/A |
+| 46 | [Wszołka](http://twitter.com/search?q=Wszo%c5%82ka) | N/A |
+| 47 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
+| 48 | [Baśka](http://twitter.com/search?q=Ba%c5%9bka) | N/A |
+| 49 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
+| 50 | [Tupolewa](http://twitter.com/search?q=Tupolewa) | N/A |
 
 
 

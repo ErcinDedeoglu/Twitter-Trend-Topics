@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Newcastle
 
-📆 Last Updated: `2023-04-10 20:17:11 UTC`
+📆 Last Updated: `2023-04-10 21:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 2 | [#coronationstreet](http://twitter.com/search?q=%23coronationstreet) | N/A |
-| 3 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 4 | [#WXMNOT](http://twitter.com/search?q=%23WXMNOT) | N/A |
-| 5 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
-| 6 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 7 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
-| 8 | [Monkfish](http://twitter.com/search?q=Monkfish) | N/A |
-| 9 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 10 | [Woking](http://twitter.com/search?q=Woking) | N/A |
-| 11 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
-| 12 | [#colu](http://twitter.com/search?q=%23colu) | N/A |
-| 13 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
-| 14 | [Luton](http://twitter.com/search?q=Luton) | N/A |
-| 15 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
-| 16 | [Albion](http://twitter.com/search?q=Albion) | N/A |
-| 17 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 18 | [West Bank](http://twitter.com/search?q=West+Bank) | N/A |
-| 19 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
-| 20 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 21 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 22 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 23 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
-| 24 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 25 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 26 | [Chip](http://twitter.com/search?q=Chip) | N/A |
-| 27 | [Damon](http://twitter.com/search?q=Damon) | N/A |
-| 28 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 29 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
-| 30 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
-| 31 | [tommys](http://twitter.com/search?q=tommys) | N/A |
-| 32 | [Kenny Miller](http://twitter.com/search?q=Kenny+Miller) | N/A |
-| 33 | [The SFA](http://twitter.com/search?q=The+SFA) | N/A |
-| 34 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 35 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 36 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
-| 37 | [Warne](http://twitter.com/search?q=Warne) | N/A |
-| 38 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 39 | [Neil Mellor](http://twitter.com/search?q=Neil+Mellor) | N/A |
-| 40 | [Derry](http://twitter.com/search?q=Derry) | N/A |
-| 41 | [Langstaff](http://twitter.com/search?q=Langstaff) | N/A |
-| 42 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 43 | [Blades](http://twitter.com/search?q=Blades) | N/A |
-| 44 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
-| 45 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
-| 46 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 47 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
-| 48 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
-| 49 | [Keith Stroud](http://twitter.com/search?q=Keith+Stroud) | N/A |
+| 1 | [#Mastermind](http://twitter.com/search?q=%23Mastermind) | N/A |
+| 2 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 3 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 4 | [#coronationstreet](http://twitter.com/search?q=%23coronationstreet) | N/A |
+| 5 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 6 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
+| 7 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 8 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 9 | [Middlesbrough](http://twitter.com/search?q=Middlesbrough) | N/A |
+| 10 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
+| 11 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 12 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 13 | [Beef](http://twitter.com/search?q=Beef) | N/A |
+| 14 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
+| 15 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 16 | [#oafc](http://twitter.com/search?q=%23oafc) | N/A |
+| 17 | [Ipswich](http://twitter.com/search?q=Ipswich) | N/A |
+| 18 | [Woking](http://twitter.com/search?q=Woking) | N/A |
+| 19 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
+| 20 | [League 1](http://twitter.com/search?q=League+1) | N/A |
+| 21 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
+| 22 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
+| 23 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 24 | [Albion](http://twitter.com/search?q=Albion) | N/A |
+| 25 | [West Bank](http://twitter.com/search?q=West+Bank) | N/A |
+| 26 | [Bogle](http://twitter.com/search?q=Bogle) | N/A |
+| 27 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 28 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 29 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 30 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
+| 31 | [Chip](http://twitter.com/search?q=Chip) | N/A |
+| 32 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 33 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
+| 34 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 35 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 36 | [Egan](http://twitter.com/search?q=Egan) | N/A |
+| 37 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
+| 38 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 39 | [Damon](http://twitter.com/search?q=Damon) | N/A |
+| 40 | [The SFA](http://twitter.com/search?q=The+SFA) | N/A |
+| 41 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
+| 42 | [Warne](http://twitter.com/search?q=Warne) | N/A |
+| 43 | [Lani](http://twitter.com/search?q=Lani) | N/A |
+| 44 | [Kenny Miller](http://twitter.com/search?q=Kenny+Miller) | N/A |
+| 45 | [Benson](http://twitter.com/search?q=Benson) | Benson is a given name of English origin, derived from the surname Benson. It is a variant of the name Benedict, which means "blessed". |
+| 46 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
+| 47 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 48 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
+| 49 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
 
 
 

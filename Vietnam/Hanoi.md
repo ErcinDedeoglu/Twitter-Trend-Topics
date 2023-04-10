@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-04-10 20:17:41 UTC`
+📆 Last Updated: `2023-04-10 21:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 6 | [protect your artist](http://twitter.com/search?q=protect+your+artist) | N/A |
 | 7 | [Spring Romance With Xiao Zhan](http://twitter.com/search?q=Spring+Romance+With+Xiao+Zhan) | N/A |
 | 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 9 | [Chiến](http://twitter.com/search?q=Chi%e1%ba%bfn) | N/A |
+| 9 | [chiến](http://twitter.com/search?q=chi%e1%ba%bfn) | N/A |
 | 10 | [Grim](http://twitter.com/search?q=Grim) | N/A |
 | 11 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 12 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
@@ -38,9 +38,9 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 21 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
 | 22 | [Whitelist](http://twitter.com/search?q=Whitelist) | N/A |
 | 23 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 24 | [Pool](http://twitter.com/search?q=Pool) | N/A |
-| 25 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
-| 26 | [Skeleton](http://twitter.com/search?q=Skeleton) | N/A |
+| 24 | [Skeleton](http://twitter.com/search?q=Skeleton) | N/A |
+| 25 | [Pool](http://twitter.com/search?q=Pool) | N/A |
+| 26 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
 | 27 | [toàn](http://twitter.com/search?q=to%c3%a0n) | N/A |
 | 28 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
 | 29 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
@@ -61,6 +61,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 44 | [#XiaoZhanTasogareLive23](http://twitter.com/search?q=%23XiaoZhanTasogareLive23) | N/A |
 | 45 | [#แฉxBuaeกันแดดชาล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%89xBuae%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%94%e0%b8%94%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
 | 46 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
+| 47 | [#ชาล็อตออสติน](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95%e0%b8%ad%e0%b8%ad%e0%b8%aa%e0%b8%95%e0%b8%b4%e0%b8%99) | N/A |
 
 
 

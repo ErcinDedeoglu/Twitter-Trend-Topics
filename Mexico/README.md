@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-04-10 20:18:09 UTC`
+📆 Last Updated: `2023-04-10 21:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Mexico
 | 1 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
 | 2 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
 | 3 | [#motomami](http://twitter.com/search?q=%23motomami) | N/A |
-| 4 | [Claudia Sheinbaum](http://twitter.com/search?q=Claudia+Sheinbaum) | Claudia Sheinbaum is the current mayor of Mexico City. She is the first woman to hold this position and was elected in 2018. Sheinbaum is a scientist, engineer, and environmentalist who has worked to improve the quality of life in Mexico City. Her name has become synonymous with progressive policies and social justice initiatives. |
-| 5 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
-| 6 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
-| 7 | [Emiliano Zapata](http://twitter.com/search?q=Emiliano+Zapata) | N/A |
-| 8 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 9 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 10 | [Gratuito](http://twitter.com/search?q=Gratuito) | N/A |
-| 11 | [DSMP](http://twitter.com/search?q=DSMP) | N/A |
-| 12 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 13 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 14 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 15 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
-| 16 | [Pan y Circo](http://twitter.com/search?q=Pan+y+Circo) | N/A |
-| 17 | [Leona Vicario](http://twitter.com/search?q=Leona+Vicario) | N/A |
-| 18 | [#DulcePoderoso](http://twitter.com/search?q=%23DulcePoderoso) | N/A |
-| 19 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
-| 20 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 21 | [#BienestarEnTuColonia](http://twitter.com/search?q=%23BienestarEnTuColonia) | N/A |
-| 22 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
+| 4 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 5 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 6 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
+| 7 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 8 | [Emiliano Zapata](http://twitter.com/search?q=Emiliano+Zapata) | N/A |
+| 9 | [GRACIAS DSMP](http://twitter.com/search?q=GRACIAS+DSMP) | N/A |
+| 10 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
+| 11 | [Gratuito](http://twitter.com/search?q=Gratuito) | N/A |
+| 12 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 13 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 14 | [Tove](http://twitter.com/search?q=Tove) | N/A |
+| 15 | [Es Delfina](http://twitter.com/search?q=Es+Delfina) | N/A |
+| 16 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 17 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 18 | [#CiudadDelBienestar](http://twitter.com/search?q=%23CiudadDelBienestar) | N/A |
+| 19 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
+| 20 | [Pan y Circo](http://twitter.com/search?q=Pan+y+Circo) | N/A |
+| 21 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 22 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
 | 23 | [Caudillo del Sur](http://twitter.com/search?q=Caudillo+del+Sur) | N/A |
-| 24 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 25 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 26 | [Cienfuegos](http://twitter.com/search?q=Cienfuegos) | N/A |
-| 27 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 28 | [Revolución Mexicana](http://twitter.com/search?q=Revoluci%c3%b3n+Mexicana) | N/A |
-| 29 | [ENARM](http://twitter.com/search?q=ENARM) | N/A |
-| 30 | [Independencia de México](http://twitter.com/search?q=Independencia+de+M%c3%a9xico) | N/A |
-| 31 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 32 | [Robert Dante Siboldi](http://twitter.com/search?q=Robert+Dante+Siboldi) | N/A |
-| 33 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 34 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 35 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
-| 36 | [El 10](http://twitter.com/search?q=El+10) | N/A |
-| 37 | [Entrona](http://twitter.com/search?q=Entrona) | N/A |
-| 38 | [Chinameca](http://twitter.com/search?q=Chinameca) | N/A |
-| 39 | [Lunes 10](http://twitter.com/search?q=Lunes+10) | N/A |
-| 40 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
-| 41 | [La UNAM](http://twitter.com/search?q=La+UNAM) | N/A |
-| 42 | [CHAIFA](http://twitter.com/search?q=CHAIFA) | N/A |
-| 43 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
-| 44 | [#FelizInicioDeSemana](http://twitter.com/search?q=%23FelizInicioDeSemana) | N/A |
-| 45 | [#Mañanera](http://twitter.com/search?q=%23Ma%c3%b1anera) | N/A |
-| 46 | [#TrenMaya](http://twitter.com/search?q=%23TrenMaya) | N/A |
-| 47 | [#MoratoriaConstitucional](http://twitter.com/search?q=%23MoratoriaConstitucional) | N/A |
-| 48 | [#Espectáculos](http://twitter.com/search?q=%23Espect%c3%a1culos) | N/A |
-| 49 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
-| 50 | [#Clima](http://twitter.com/search?q=%23Clima) | N/A |
+| 24 | [#DulcePoderoso](http://twitter.com/search?q=%23DulcePoderoso) | N/A |
+| 25 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
+| 26 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 27 | [Leona Vicario](http://twitter.com/search?q=Leona+Vicario) | N/A |
+| 28 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
+| 29 | [Sorpresa](http://twitter.com/search?q=Sorpresa) | N/A |
+| 30 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
+| 31 | [Robert Dante Siboldi](http://twitter.com/search?q=Robert+Dante+Siboldi) | N/A |
+| 32 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 33 | [Cienfuegos](http://twitter.com/search?q=Cienfuegos) | N/A |
+| 34 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 35 | [Revolución Mexicana](http://twitter.com/search?q=Revoluci%c3%b3n+Mexicana) | N/A |
+| 36 | [Entrona](http://twitter.com/search?q=Entrona) | N/A |
+| 37 | [Independencia de México](http://twitter.com/search?q=Independencia+de+M%c3%a9xico) | N/A |
+| 38 | [ENARM](http://twitter.com/search?q=ENARM) | N/A |
+| 39 | [El 10](http://twitter.com/search?q=El+10) | N/A |
+| 40 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 41 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 42 | [Enrique Vargas](http://twitter.com/search?q=Enrique+Vargas) | N/A |
+| 43 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
+| 44 | [Chinameca](http://twitter.com/search?q=Chinameca) | N/A |
+| 45 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 46 | [Lunes 10](http://twitter.com/search?q=Lunes+10) | N/A |
+| 47 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
+| 48 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 49 | [La UNAM](http://twitter.com/search?q=La+UNAM) | N/A |
+| 50 | [Mañaneras](http://twitter.com/search?q=Ma%c3%b1aneras) | N/A |
 
 
 

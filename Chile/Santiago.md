@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-04-10 20:17:16 UTC`
+📆 Last Updated: `2023-04-10 21:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Chile](</Chile>)
 | ------- | ------------ | ------------ |
 | 1 | [Ovimarlixion](http://twitter.com/search?q=Ovimarlixion) | N/A |
 | 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 3 | [#JuegoDeIlusiones](http://twitter.com/search?q=%23JuegoDeIlusiones) | N/A |
+| 3 | [#contigoendirecto](http://twitter.com/search?q=%23contigoendirecto) | N/A |
 | 4 | [Chimbarongo](http://twitter.com/search?q=Chimbarongo) | N/A |
-| 5 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
-| 6 | [#ToleranciaCero](http://twitter.com/search?q=%23ToleranciaCero) | N/A |
-| 7 | [#benhurentvn](http://twitter.com/search?q=%23benhurentvn) | N/A |
-| 8 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 9 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
+| 5 | [#ToleranciaCero](http://twitter.com/search?q=%23ToleranciaCero) | N/A |
+| 6 | [#benhurentvn](http://twitter.com/search?q=%23benhurentvn) | N/A |
+| 7 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
+| 8 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 9 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
 | 10 | [Paulsen](http://twitter.com/search?q=Paulsen) | N/A |
 | 11 | [Luis Lugo Machado](http://twitter.com/search?q=Luis+Lugo+Machado) | N/A |
-| 12 | [Tenía 19](http://twitter.com/search?q=Ten%c3%ada+19) | N/A |
-| 13 | [Santiago City](http://twitter.com/search?q=Santiago+City) | N/A |
-| 14 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 12 | [Santiago City](http://twitter.com/search?q=Santiago+City) | N/A |
+| 13 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 14 | [Tenía 19](http://twitter.com/search?q=Ten%c3%ada+19) | N/A |
 | 15 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
 | 16 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
 | 17 | [Arlixon](http://twitter.com/search?q=Arlixon) | N/A |
 | 18 | [Buleke](http://twitter.com/search?q=Buleke) | N/A |
-| 19 | [Baby Shower](http://twitter.com/search?q=Baby+Shower) | N/A |
-| 20 | [Quinta Normal](http://twitter.com/search?q=Quinta+Normal) | N/A |
-| 21 | [Iorana](http://twitter.com/search?q=Iorana) | N/A |
-| 22 | [Colina](http://twitter.com/search?q=Colina) | N/A |
-| 23 | [Lucas Soto](http://twitter.com/search?q=Lucas+Soto) | N/A |
-| 24 | [Ministra Vallejo](http://twitter.com/search?q=Ministra+Vallejo) | N/A |
-| 25 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
-| 26 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 19 | [Ministra Vallejo](http://twitter.com/search?q=Ministra+Vallejo) | N/A |
+| 20 | [Lucas Soto](http://twitter.com/search?q=Lucas+Soto) | N/A |
+| 21 | [Baby Shower](http://twitter.com/search?q=Baby+Shower) | N/A |
+| 22 | [Quinta Normal](http://twitter.com/search?q=Quinta+Normal) | N/A |
+| 23 | [Colina](http://twitter.com/search?q=Colina) | N/A |
+| 24 | [Rodolfo Noriega](http://twitter.com/search?q=Rodolfo+Noriega) | N/A |
+| 25 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 26 | [Iorana](http://twitter.com/search?q=Iorana) | N/A |
 | 27 | [Amparo Noguera](http://twitter.com/search?q=Amparo+Noguera) | N/A |
-| 28 | [Copa Chile](http://twitter.com/search?q=Copa+Chile) | N/A |
-| 29 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
-| 30 | [Toha](http://twitter.com/search?q=Toha) | N/A |
-| 31 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 32 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 33 | [Kike Acuña](http://twitter.com/search?q=Kike+Acu%c3%b1a) | N/A |
-| 34 | [Saldivia](http://twitter.com/search?q=Saldivia) | N/A |
-| 35 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 36 | [Batuco](http://twitter.com/search?q=Batuco) | N/A |
+| 28 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
+| 29 | [Copa Chile](http://twitter.com/search?q=Copa+Chile) | N/A |
+| 30 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
+| 31 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 32 | [Toha](http://twitter.com/search?q=Toha) | N/A |
+| 33 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
+| 34 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 35 | [Bukake](http://twitter.com/search?q=Bukake) | N/A |
+| 36 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
 | 37 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 38 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
-| 39 | [Bukake](http://twitter.com/search?q=Bukake) | N/A |
-| 40 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 41 | [Feliz Pascua](http://twitter.com/search?q=Feliz+Pascua) | N/A |
-| 42 | [vicente pizarro](http://twitter.com/search?q=vicente+pizarro) | N/A |
-| 43 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
-| 44 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 45 | [mateos](http://twitter.com/search?q=mateos) | N/A |
+| 38 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
+| 39 | [Feliz Pascua](http://twitter.com/search?q=Feliz+Pascua) | N/A |
+| 40 | [Batuco](http://twitter.com/search?q=Batuco) | N/A |
+| 41 | [Saldivia](http://twitter.com/search?q=Saldivia) | N/A |
+| 42 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 43 | [mateos](http://twitter.com/search?q=mateos) | N/A |
+| 44 | [Palma](http://twitter.com/search?q=Palma) | N/A |
+| 45 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
 | 46 | [Diario Oficial](http://twitter.com/search?q=Diario+Oficial) | N/A |
-| 47 | [Nació Simón](http://twitter.com/search?q=Naci%c3%b3+Sim%c3%b3n) | N/A |
-| 48 | [Palma](http://twitter.com/search?q=Palma) | N/A |
+| 47 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 48 | [Gobierno Feminista](http://twitter.com/search?q=Gobierno+Feminista) | N/A |
 | 49 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
-| 50 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
+| 50 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 
 
 

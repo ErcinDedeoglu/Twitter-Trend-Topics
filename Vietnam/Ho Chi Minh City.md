@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-04-10 20:17:41 UTC`
+📆 Last Updated: `2023-04-10 21:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 6 | [protect your artist](http://twitter.com/search?q=protect+your+artist) | N/A |
 | 7 | [Spring Romance With Xiao Zhan](http://twitter.com/search?q=Spring+Romance+With+Xiao+Zhan) | N/A |
 | 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 9 | [Chiến](http://twitter.com/search?q=Chi%e1%ba%bfn) | N/A |
+| 9 | [chiến](http://twitter.com/search?q=chi%e1%ba%bfn) | N/A |
 | 10 | [Grim](http://twitter.com/search?q=Grim) | N/A |
 | 11 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 12 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
@@ -61,6 +61,9 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 44 | [#XiaoZhanTasogareLive23](http://twitter.com/search?q=%23XiaoZhanTasogareLive23) | N/A |
 | 45 | [#แฉxBuaeกันแดดชาล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%89xBuae%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%94%e0%b8%94%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
 | 46 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
+| 47 | [#ชาล็อตออสติน](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95%e0%b8%ad%e0%b8%ad%e0%b8%aa%e0%b8%95%e0%b8%b4%e0%b8%99) | N/A |
+| 48 | [#4월에_핀_해바라기_다니엘](http://twitter.com/search?q=%234%ec%9b%94%ec%97%90_%ed%95%80_%ed%95%b4%eb%b0%94%eb%9d%bc%ea%b8%b0_%eb%8b%a4%eb%8b%88%ec%97%98) | N/A |
+| 49 | [#CharlotteAustin](http://twitter.com/search?q=%23CharlotteAustin) | N/A |
 
 
 

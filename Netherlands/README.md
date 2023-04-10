@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-04-10 20:18:10 UTC`
+📆 Last Updated: `2023-04-10 21:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Netherlands
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HMMIK](http://twitter.com/search?q=%23HMMIK) | N/A |
-| 2 | [Huub Oosterhuis](http://twitter.com/search?q=Huub+Oosterhuis) | N/A |
-| 3 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
-| 4 | [Vragen](http://twitter.com/search?q=Vragen) | N/A |
-| 5 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
+| 1 | [Huub Oosterhuis](http://twitter.com/search?q=Huub+Oosterhuis) | N/A |
+| 2 | [#HMMIK](http://twitter.com/search?q=%23HMMIK) | N/A |
+| 3 | [Vragen](http://twitter.com/search?q=Vragen) | N/A |
+| 4 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
+| 5 | [Laurens Buijs](http://twitter.com/search?q=Laurens+Buijs) | N/A |
 | 6 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 8 | [#chateaumeiland](http://twitter.com/search?q=%23chateaumeiland) | N/A |
-| 9 | [#feyrkc](http://twitter.com/search?q=%23feyrkc) | N/A |
-| 10 | [2e Paasdag](http://twitter.com/search?q=2e+Paasdag) | N/A |
-| 11 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 12 | [Laurens Buijs](http://twitter.com/search?q=Laurens+Buijs) | N/A |
-| 13 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 14 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 15 | [Joost Prinsen](http://twitter.com/search?q=Joost+Prinsen) | N/A |
-| 16 | [Op de Poeh-pathologietest](http://twitter.com/search?q=Op+de+Poeh-pathologietest) | N/A |
-| 17 | [Etten-Leur](http://twitter.com/search?q=Etten-Leur) | N/A |
-| 18 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 19 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 20 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
-| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 22 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 23 | [Erica](http://twitter.com/search?q=Erica) | N/A |
-| 24 | [Erisman](http://twitter.com/search?q=Erisman) | N/A |
+| 7 | [#feyrkc](http://twitter.com/search?q=%23feyrkc) | N/A |
+| 8 | [2e Paasdag](http://twitter.com/search?q=2e+Paasdag) | N/A |
+| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 10 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
+| 11 | [#manc](http://twitter.com/search?q=%23manc) | N/A |
+| 12 | [#chateaumeiland](http://twitter.com/search?q=%23chateaumeiland) | N/A |
+| 13 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 14 | [Op de Poeh-pathologietest](http://twitter.com/search?q=Op+de+Poeh-pathologietest) | N/A |
+| 15 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 16 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 17 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 18 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 19 | [Welterusten](http://twitter.com/search?q=Welterusten) | N/A |
+| 20 | [Joost Prinsen](http://twitter.com/search?q=Joost+Prinsen) | N/A |
+| 21 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
+| 22 | [Erisman](http://twitter.com/search?q=Erisman) | N/A |
+| 23 | [Dora](http://twitter.com/search?q=Dora) | N/A |
+| 24 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
 | 25 | [Meilandjes](http://twitter.com/search?q=Meilandjes) | N/A |
-| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 27 | [Geert Mak](http://twitter.com/search?q=Geert+Mak) | N/A |
-| 28 | [KNVB](http://twitter.com/search?q=KNVB) | N/A |
-| 29 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
-| 30 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
-| 31 | [Trijntje](http://twitter.com/search?q=Trijntje) | N/A |
-| 32 | [LHBTI](http://twitter.com/search?q=LHBTI) | N/A |
-| 33 | [Konijn](http://twitter.com/search?q=Konijn) | N/A |
-| 34 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
-| 35 | [Zeg Nee](http://twitter.com/search?q=Zeg+Nee) | N/A |
-| 36 | [Ninefornews](http://twitter.com/search?q=Ninefornews) | N/A |
-| 37 | [Philipsen](http://twitter.com/search?q=Philipsen) | N/A |
-| 38 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 39 | [Piet](http://twitter.com/search?q=Piet) | N/A |
-| 40 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
-| 41 | [Ciska](http://twitter.com/search?q=Ciska) | N/A |
-| 42 | [Schimmelpenninck](http://twitter.com/search?q=Schimmelpenninck) | N/A |
+| 26 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 28 | [Erica](http://twitter.com/search?q=Erica) | N/A |
+| 29 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 30 | [Ninefornews](http://twitter.com/search?q=Ninefornews) | N/A |
+| 31 | [LHBTI](http://twitter.com/search?q=LHBTI) | N/A |
+| 32 | [Ciska](http://twitter.com/search?q=Ciska) | N/A |
+| 33 | [Trusten](http://twitter.com/search?q=Trusten) | N/A |
+| 34 | [Geert Mak](http://twitter.com/search?q=Geert+Mak) | N/A |
+| 35 | [Konijn](http://twitter.com/search?q=Konijn) | N/A |
+| 36 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
+| 37 | [Trijntje](http://twitter.com/search?q=Trijntje) | N/A |
+| 38 | [Paasmaandag](http://twitter.com/search?q=Paasmaandag) | N/A |
+| 39 | [Zeg Nee](http://twitter.com/search?q=Zeg+Nee) | N/A |
+| 40 | [Schimmelpenninck](http://twitter.com/search?q=Schimmelpenninck) | N/A |
+| 41 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 42 | [Philipsen](http://twitter.com/search?q=Philipsen) | N/A |
 | 43 | [Mislintat](http://twitter.com/search?q=Mislintat) | N/A |
-| 44 | [prinses ariane](http://twitter.com/search?q=prinses+ariane) | N/A |
-| 45 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 46 | [Scott Ritter](http://twitter.com/search?q=Scott+Ritter) | N/A |
-| 47 | [Talpa](http://twitter.com/search?q=Talpa) | N/A |
-| 48 | [Nordsjaelland](http://twitter.com/search?q=Nordsjaelland) | N/A |
-| 49 | [Geertruida](http://twitter.com/search?q=Geertruida) | N/A |
-| 50 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
+| 44 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 45 | [KNVB](http://twitter.com/search?q=KNVB) | N/A |
+| 46 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
+| 47 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
+| 48 | [Piet](http://twitter.com/search?q=Piet) | N/A |
+| 49 | [Teigetje](http://twitter.com/search?q=Teigetje) | N/A |
+| 50 | [Scott Ritter](http://twitter.com/search?q=Scott+Ritter) | N/A |
 
 
 

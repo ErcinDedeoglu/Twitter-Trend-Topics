@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-04-10 20:17:21 UTC`
+📆 Last Updated: `2023-04-10 21:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,44 +24,44 @@ This is top 50 for [Brazil](</Brazil>)
 | 7 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
 | 8 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
 | 9 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
-| 10 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 11 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 12 | [#CarolBiazinNoVenus](http://twitter.com/search?q=%23CarolBiazinNoVenus) | N/A |
-| 13 | [#OBrasilVoltou](http://twitter.com/search?q=%23OBrasilVoltou) | N/A |
-| 14 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
-| 15 | [Fase Copa](http://twitter.com/search?q=Fase+Copa) | N/A |
-| 16 | [Fase Sul-americana](http://twitter.com/search?q=Fase+Sul-americana) | N/A |
-| 17 | [Midnight Rain](http://twitter.com/search?q=Midnight+Rain) | N/A |
-| 18 | [#AtardeESua](http://twitter.com/search?q=%23AtardeESua) | N/A |
-| 19 | [Ryan Murphy](http://twitter.com/search?q=Ryan+Murphy) | Ryan Murphy is an American screenwriter, director, and producer. He is best known for creating the television series Glee, American Horror Story, Pose, and 9-1-1. He has also directed several feature films including The Normal Heart and Eat Pray Love. Murphy's work often focuses on themes of acceptance and inclusion. |
-| 20 | [Mc Gui](http://twitter.com/search?q=Mc+Gui) | N/A |
-| 21 | [Guto Ferreira](http://twitter.com/search?q=Guto+Ferreira) | N/A |
-| 22 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 23 | [Vovô](http://twitter.com/search?q=Vov%c3%b4) | N/A |
-| 24 | [#ForaFredNicacio](http://twitter.com/search?q=%23ForaFredNicacio) | N/A |
-| 25 | [Miguel e Helena](http://twitter.com/search?q=Miguel+e+Helena) | N/A |
-| 26 | [biel xcamoso](http://twitter.com/search?q=biel+xcamoso) | N/A |
-| 27 | [#osdonosdabola](http://twitter.com/search?q=%23osdonosdabola) | N/A |
-| 28 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
-| 29 | [Destaque](http://twitter.com/search?q=Destaque) | N/A |
-| 30 | [Freud](http://twitter.com/search?q=Freud) | N/A |
-| 31 | [Nena](http://twitter.com/search?q=Nena) | N/A |
-| 32 | [Prior](http://twitter.com/search?q=Prior) | Prior is an adjective that means earlier in time, order, or importance. It can also be used as a noun to refer to someone who holds a higher rank or position. |
-| 33 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 34 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
-| 35 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 36 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
-| 37 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 10 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 11 | [Quadrado](http://twitter.com/search?q=Quadrado) | N/A |
+| 12 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
+| 13 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 14 | [#OBrasilVoltou](http://twitter.com/search?q=%23OBrasilVoltou) | N/A |
+| 15 | [Midnight Rain](http://twitter.com/search?q=Midnight+Rain) | N/A |
+| 16 | [Destaque](http://twitter.com/search?q=Destaque) | N/A |
+| 17 | [#CarolBiazinNoVenus](http://twitter.com/search?q=%23CarolBiazinNoVenus) | N/A |
+| 18 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 19 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 20 | [UFBA](http://twitter.com/search?q=UFBA) | N/A |
+| 21 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
+| 22 | [Fase Copa](http://twitter.com/search?q=Fase+Copa) | N/A |
+| 23 | [MC Gui](http://twitter.com/search?q=MC+Gui) | N/A |
+| 24 | [Guto Ferreira](http://twitter.com/search?q=Guto+Ferreira) | N/A |
+| 25 | [Fase Sul-americana](http://twitter.com/search?q=Fase+Sul-americana) | N/A |
+| 26 | [CNCO](http://twitter.com/search?q=CNCO) | N/A |
+| 27 | [Miguel e Helena](http://twitter.com/search?q=Miguel+e+Helena) | N/A |
+| 28 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
+| 29 | [#AtardeESua](http://twitter.com/search?q=%23AtardeESua) | N/A |
+| 30 | [Ryan Murphy](http://twitter.com/search?q=Ryan+Murphy) | Ryan Murphy is an American screenwriter, director, and producer. He is best known for creating the television series Glee, American Horror Story, Pose, and 9-1-1. He has also directed several feature films including The Normal Heart and Eat Pray Love. Murphy's work often focuses on themes of acceptance and inclusion. |
+| 31 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
+| 32 | [Nena](http://twitter.com/search?q=Nena) | N/A |
+| 33 | [Vovô](http://twitter.com/search?q=Vov%c3%b4) | N/A |
+| 34 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 35 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
+| 36 | [biel xcamoso](http://twitter.com/search?q=biel+xcamoso) | N/A |
+| 37 | [#ForaFredNicacio](http://twitter.com/search?q=%23ForaFredNicacio) | N/A |
 | 38 | [Em 100](http://twitter.com/search?q=Em+100) | N/A |
-| 39 | [Hércules](http://twitter.com/search?q=H%c3%a9rcules) | N/A |
-| 40 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
-| 41 | [TRAILER LUAN CITY 2](http://twitter.com/search?q=TRAILER+LUAN+CITY+2) | N/A |
-| 42 | [Pedófilo](http://twitter.com/search?q=Ped%c3%b3filo) | N/A |
-| 43 | [eiza](http://twitter.com/search?q=eiza) | N/A |
-| 44 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 45 | [IPVA](http://twitter.com/search?q=IPVA) | N/A |
-| 46 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 47 | [Dia 10](http://twitter.com/search?q=Dia+10) | N/A |
+| 39 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 40 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 41 | [Hércules](http://twitter.com/search?q=H%c3%a9rcules) | N/A |
+| 42 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
+| 43 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 44 | [Freud](http://twitter.com/search?q=Freud) | N/A |
+| 45 | [Prior](http://twitter.com/search?q=Prior) | Prior is an adjective that means earlier in time, order, or importance. It can also be used as a noun to refer to someone who holds a higher rank or position. |
+| 46 | [nora](http://twitter.com/search?q=nora) | N/A |
+| 47 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
 
 
 

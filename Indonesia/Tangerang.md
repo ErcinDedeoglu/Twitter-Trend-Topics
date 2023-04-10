@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-04-10 20:17:33 UTC`
+📆 Last Updated: `2023-04-10 21:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,42 +22,42 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 5 | [bri banyak untungnya](http://twitter.com/search?q=bri+banyak+untungnya) | N/A |
 | 6 | [silaturahmi kebangsaan](http://twitter.com/search?q=silaturahmi+kebangsaan) | N/A |
 | 7 | [OPPO Reno8 T](http://twitter.com/search?q=OPPO+Reno8+T) | OPPO Reno8 T is a smartphone made by the Chinese electronics company OPPO. It features a 6.43-inch OLED display, a triple rear camera setup, and a MediaTek Dimensity 800U processor. The "T" in the name stands for "Turbo", indicating that the device has been optimized for faster performance. |
-| 8 | [penuhi hak kesehatan helmut](http://twitter.com/search?q=penuhi+hak+kesehatan+helmut) | N/A |
-| 9 | [partai perindo](http://twitter.com/search?q=partai+perindo) | N/A |
-| 10 | [WELCOME BACK YOUNGK](http://twitter.com/search?q=WELCOME+BACK+YOUNGK) | N/A |
-| 11 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 8 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 9 | [penuhi hak kesehatan helmut](http://twitter.com/search?q=penuhi+hak+kesehatan+helmut) | N/A |
+| 10 | [partai perindo](http://twitter.com/search?q=partai+perindo) | N/A |
+| 11 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
 | 12 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 13 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 13 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
 | 14 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 15 | [Lebaran 2020](http://twitter.com/search?q=Lebaran+2020) | N/A |
-| 16 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 17 | [Pak Taka](http://twitter.com/search?q=Pak+Taka) | N/A |
-| 18 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 19 | [HANSAMU YAMA](http://twitter.com/search?q=HANSAMU+YAMA) | N/A |
-| 20 | [JEON JUNGKOOK IS COMING](http://twitter.com/search?q=JEON+JUNGKOOK+IS+COMING) | N/A |
-| 21 | [7 years with nct](http://twitter.com/search?q=7+years+with+nct) | N/A |
-| 22 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 23 | [JK x JB](http://twitter.com/search?q=JK+x+JB) | N/A |
-| 24 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 25 | [who out now](http://twitter.com/search?q=who+out+now) | N/A |
-| 26 | [Ibu Negara](http://twitter.com/search?q=Ibu+Negara) | N/A |
-| 27 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
-| 28 | [MELODY OF SCENTS D3](http://twitter.com/search?q=MELODY+OF+SCENTS+D3) | N/A |
-| 29 | [JJK1 IS COMING](http://twitter.com/search?q=JJK1+IS+COMING) | N/A |
-| 30 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
-| 31 | [prabowo menangkan rakyat](http://twitter.com/search?q=prabowo+menangkan+rakyat) | N/A |
-| 32 | [koalisi besar tercapai](http://twitter.com/search?q=koalisi+besar+tercapai) | N/A |
+| 15 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 16 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
+| 17 | [Lebaran 2020](http://twitter.com/search?q=Lebaran+2020) | N/A |
+| 18 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 19 | [Pak Taka](http://twitter.com/search?q=Pak+Taka) | N/A |
+| 20 | [7 years with nct](http://twitter.com/search?q=7+years+with+nct) | N/A |
+| 21 | [JK X JB](http://twitter.com/search?q=JK+X+JB) | N/A |
+| 22 | [Gw 15](http://twitter.com/search?q=Gw+15) | N/A |
+| 23 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 24 | [who out now](http://twitter.com/search?q=who+out+now) | N/A |
+| 25 | [Ibu Negara](http://twitter.com/search?q=Ibu+Negara) | N/A |
+| 26 | [JJK1 IS COMING](http://twitter.com/search?q=JJK1+IS+COMING) | N/A |
+| 27 | [HANSAMU YAMA](http://twitter.com/search?q=HANSAMU+YAMA) | N/A |
+| 28 | [Akaza](http://twitter.com/search?q=Akaza) | N/A |
+| 29 | [JEON JUNGKOOK IS COMING](http://twitter.com/search?q=JEON+JUNGKOOK+IS+COMING) | N/A |
+| 30 | [prabowo menangkan rakyat](http://twitter.com/search?q=prabowo+menangkan+rakyat) | N/A |
+| 31 | [koalisi besar tercapai](http://twitter.com/search?q=koalisi+besar+tercapai) | N/A |
+| 32 | [Salma x Judika](http://twitter.com/search?q=Salma+x+Judika) | N/A |
 | 33 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 34 | [Akaza](http://twitter.com/search?q=Akaza) | N/A |
+| 34 | [MELODY OF SCENTS D3](http://twitter.com/search?q=MELODY+OF+SCENTS+D3) | N/A |
 | 35 | [selamat hari paskah](http://twitter.com/search?q=selamat+hari+paskah) | N/A |
 | 36 | [LYLYAWITHRENJUN](http://twitter.com/search?q=LYLYAWITHRENJUN) | N/A |
 | 37 | [Isyana](http://twitter.com/search?q=Isyana) | N/A |
-| 38 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
-| 39 | [Survei LSI](http://twitter.com/search?q=Survei+LSI) | N/A |
-| 40 | [Pasar Selo](http://twitter.com/search?q=Pasar+Selo) | N/A |
-| 41 | [TWELVE YEARS WITH LISA](http://twitter.com/search?q=TWELVE+YEARS+WITH+LISA) | N/A |
-| 42 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 43 | [Douma](http://twitter.com/search?q=Douma) | N/A |
+| 38 | [survei lsi](http://twitter.com/search?q=survei+lsi) | N/A |
+| 39 | [Pasar Selo](http://twitter.com/search?q=Pasar+Selo) | N/A |
+| 40 | [R to V in JAKARTA](http://twitter.com/search?q=R+to+V+in+JAKARTA) | N/A |
+| 41 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 42 | [Douma](http://twitter.com/search?q=Douma) | N/A |
+| 43 | [Gue 15](http://twitter.com/search?q=Gue+15) | N/A |
 | 44 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
 | 45 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
 | 46 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
