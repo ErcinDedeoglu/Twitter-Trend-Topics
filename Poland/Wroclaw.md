@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-04-10 02:29:12 UTC`
+📆 Last Updated: `2023-04-10 03:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
+| 1 | [wesołych świąt](http://twitter.com/search?q=weso%c5%82ych+%c5%9bwi%c4%85t) | N/A |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
 | 4 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
@@ -28,9 +28,9 @@ This is top 50 for [Poland](</Poland>)
 | 11 | [Fede](http://twitter.com/search?q=Fede) | N/A |
 | 12 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
 | 13 | [wielka sobota](http://twitter.com/search?q=wielka+sobota) | N/A |
-| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 15 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 16 | [nawzajem](http://twitter.com/search?q=nawzajem) | N/A |
+| 14 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 15 | [nawzajem](http://twitter.com/search?q=nawzajem) | N/A |
+| 16 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 17 | [puszczy](http://twitter.com/search?q=puszczy) | N/A |
 | 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 19 | [huberta](http://twitter.com/search?q=huberta) | N/A |
@@ -41,30 +41,30 @@ This is top 50 for [Poland](</Poland>)
 | 24 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
 | 25 | [warty](http://twitter.com/search?q=warty) | N/A |
 | 26 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 27 | [Arsenalu](http://twitter.com/search?q=Arsenalu) | N/A |
-| 28 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 29 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 30 | [Francja](http://twitter.com/search?q=Francja) | N/A |
-| 31 | [Wysoka](http://twitter.com/search?q=Wysoka) | N/A |
-| 32 | [Raczkowski](http://twitter.com/search?q=Raczkowski) | N/A |
-| 33 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 34 | [kujawski](http://twitter.com/search?q=kujawski) | N/A |
-| 35 | [krowa](http://twitter.com/search?q=krowa) | N/A |
-| 36 | [znachora](http://twitter.com/search?q=znachora) | N/A |
-| 37 | [Sienkiewicz](http://twitter.com/search?q=Sienkiewicz) | N/A |
-| 38 | [Boga](http://twitter.com/search?q=Boga) | N/A |
-| 39 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 40 | [Legutko](http://twitter.com/search?q=Legutko) | N/A |
-| 41 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 42 | [Chinami](http://twitter.com/search?q=Chinami) | N/A |
-| 43 | [wielki piątek](http://twitter.com/search?q=wielki+pi%c4%85tek) | N/A |
-| 44 | [wigilii paschalnej](http://twitter.com/search?q=wigilii+paschalnej) | N/A |
-| 45 | [murawa](http://twitter.com/search?q=murawa) | N/A |
-| 46 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
-| 47 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
-| 48 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 49 | [Rutkowskiego](http://twitter.com/search?q=Rutkowskiego) | N/A |
-| 50 | [Tajwanu](http://twitter.com/search?q=Tajwanu) | N/A |
+| 27 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 28 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
+| 29 | [Wysoka](http://twitter.com/search?q=Wysoka) | N/A |
+| 30 | [Raczkowski](http://twitter.com/search?q=Raczkowski) | N/A |
+| 31 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 32 | [kujawski](http://twitter.com/search?q=kujawski) | N/A |
+| 33 | [krowa](http://twitter.com/search?q=krowa) | N/A |
+| 34 | [znachora](http://twitter.com/search?q=znachora) | N/A |
+| 35 | [Sienkiewicz](http://twitter.com/search?q=Sienkiewicz) | N/A |
+| 36 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 37 | [Francja](http://twitter.com/search?q=Francja) | N/A |
+| 38 | [Legutko](http://twitter.com/search?q=Legutko) | N/A |
+| 39 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 40 | [wielki piątek](http://twitter.com/search?q=wielki+pi%c4%85tek) | N/A |
+| 41 | [Boga](http://twitter.com/search?q=Boga) | N/A |
+| 42 | [wigilii paschalnej](http://twitter.com/search?q=wigilii+paschalnej) | N/A |
+| 43 | [murawa](http://twitter.com/search?q=murawa) | N/A |
+| 44 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
+| 45 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
+| 46 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 47 | [rutkowskiego](http://twitter.com/search?q=rutkowskiego) | N/A |
+| 48 | [Tajwanu](http://twitter.com/search?q=Tajwanu) | N/A |
+| 49 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
+| 50 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
 
 
 

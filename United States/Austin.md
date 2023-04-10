@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-04-10 02:29:38 UTC`
+📆 Last Updated: `2023-04-10 03:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 1 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
 | 2 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
-| 3 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 4 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 5 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
-| 6 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 3 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 4 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 5 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 6 | [Sam Bennett](http://twitter.com/search?q=Sam+Bennett) | N/A |
 | 7 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
 | 8 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
 | 9 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
 | 10 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 11 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 12 | [AK-47](http://twitter.com/search?q=AK-47) | N/A |
-| 13 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 14 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 15 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 16 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 17 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 18 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 19 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 20 | [Preece](http://twitter.com/search?q=Preece) | N/A |
+| 11 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 13 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 14 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 15 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 16 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 17 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
+| 18 | [kendall](http://twitter.com/search?q=kendall) | N/A |
+| 19 | [Preece](http://twitter.com/search?q=Preece) | N/A |
+| 20 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
 | 21 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 22 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
-| 23 | [Odell](http://twitter.com/search?q=Odell) | N/A |
-| 24 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 25 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
-| 26 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 27 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
-| 28 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 29 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
-| 30 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 31 | [willa](http://twitter.com/search?q=willa) | N/A |
-| 32 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 33 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 34 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 35 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 36 | [Briscoe](http://twitter.com/search?q=Briscoe) | N/A |
-| 37 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 38 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 22 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 23 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
+| 24 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 25 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
+| 26 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 27 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 28 | [Odell](http://twitter.com/search?q=Odell) | N/A |
+| 29 | [Willa](http://twitter.com/search?q=Willa) | N/A |
+| 30 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
+| 31 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
+| 32 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 33 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 34 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 35 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 36 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 37 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 38 | [Briscoe](http://twitter.com/search?q=Briscoe) | N/A |
 | 39 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
-| 40 | [Christopher Bell](http://twitter.com/search?q=Christopher+Bell) | N/A |
-| 41 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 42 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 43 | [Dusty Rhodes](http://twitter.com/search?q=Dusty+Rhodes) | N/A |
-| 44 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
-| 45 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 46 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 47 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 48 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 49 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 50 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
+| 40 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 41 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
+| 42 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
+| 43 | [Christopher Bell](http://twitter.com/search?q=Christopher+Bell) | N/A |
+| 44 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
+| 45 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
+| 46 | [Paty](http://twitter.com/search?q=Paty) | N/A |
+| 47 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
+| 48 | [Joan Baez](http://twitter.com/search?q=Joan+Baez) | N/A |
+| 49 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 50 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-10 02:29:43 UTC`
+📆 Last Updated: `2023-04-10 03:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [kendall](http://twitter.com/search?q=kendall) | N/A |
-| 2 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 3 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 4 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 5 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 6 | [Beef](http://twitter.com/search?q=Beef) | N/A |
-| 7 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 1 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 2 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 3 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 4 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 5 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 6 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
+| 7 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
 | 8 | [Augusta](http://twitter.com/search?q=Augusta) | N/A |
-| 9 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 9 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
 | 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 12 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 13 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 14 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 15 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 16 | [Preece](http://twitter.com/search?q=Preece) | N/A |
-| 17 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 18 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
-| 19 | [Odell](http://twitter.com/search?q=Odell) | N/A |
-| 20 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 21 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
-| 22 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
-| 23 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 24 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 25 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
-| 26 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 27 | [willa](http://twitter.com/search?q=willa) | N/A |
-| 28 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 29 | [#TheQueensOfRB](http://twitter.com/search?q=%23TheQueensOfRB) | N/A |
-| 30 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 31 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 32 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 33 | [Briscoe](http://twitter.com/search?q=Briscoe) | N/A |
-| 34 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 35 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 11 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 12 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 13 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 14 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 15 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
+| 16 | [kendall](http://twitter.com/search?q=kendall) | N/A |
+| 17 | [Preece](http://twitter.com/search?q=Preece) | N/A |
+| 18 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
+| 19 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 20 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 21 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
+| 22 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 23 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
+| 24 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 25 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 26 | [Odell](http://twitter.com/search?q=Odell) | N/A |
+| 27 | [Willa](http://twitter.com/search?q=Willa) | N/A |
+| 28 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
+| 29 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 30 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 31 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 32 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 33 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 34 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 35 | [Briscoe](http://twitter.com/search?q=Briscoe) | N/A |
 | 36 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
-| 37 | [Christopher Bell](http://twitter.com/search?q=Christopher+Bell) | N/A |
-| 38 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 39 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 40 | [Dusty Rhodes](http://twitter.com/search?q=Dusty+Rhodes) | N/A |
-| 41 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
-| 42 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 43 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 44 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 45 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 46 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 47 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
-| 48 | [Coko](http://twitter.com/search?q=Coko) | N/A |
-| 49 | [Paty](http://twitter.com/search?q=Paty) | N/A |
-| 50 | [Chastain](http://twitter.com/search?q=Chastain) | N/A |
+| 37 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 38 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
+| 39 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
+| 40 | [Christopher Bell](http://twitter.com/search?q=Christopher+Bell) | N/A |
+| 41 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
+| 42 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
+| 43 | [Paty](http://twitter.com/search?q=Paty) | N/A |
+| 44 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
+| 45 | [Joan Baez](http://twitter.com/search?q=Joan+Baez) | N/A |
+| 46 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 47 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 48 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 49 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 50 | [Dusty Rhodes](http://twitter.com/search?q=Dusty+Rhodes) | N/A |
 
 
 

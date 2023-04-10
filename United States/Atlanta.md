@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-10 02:29:38 UTC`
+📆 Last Updated: `2023-04-10 03:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Ozzie](http://twitter.com/search?q=Ozzie) | N/A |
-| 3 | [#THEDREAMSHOW2_in_ATLANTA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_ATLANTA) | N/A |
+| 1 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 2 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 3 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
 | 4 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 5 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 6 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
-| 7 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 8 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 9 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 10 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 11 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 12 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 13 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 14 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 15 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 16 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 17 | [Preece](http://twitter.com/search?q=Preece) | N/A |
-| 18 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 19 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
-| 20 | [Odell](http://twitter.com/search?q=Odell) | N/A |
-| 21 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
-| 22 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 23 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
-| 24 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 25 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 26 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
-| 27 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 28 | [willa](http://twitter.com/search?q=willa) | N/A |
-| 29 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 30 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 31 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 32 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 33 | [Briscoe](http://twitter.com/search?q=Briscoe) | N/A |
-| 34 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 35 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 36 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
-| 37 | [Christopher Bell](http://twitter.com/search?q=Christopher+Bell) | N/A |
-| 38 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 39 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 40 | [Dusty Rhodes](http://twitter.com/search?q=Dusty+Rhodes) | N/A |
-| 41 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
-| 42 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 43 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 44 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 45 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 46 | [Cantlay](http://twitter.com/search?q=Cantlay) | N/A |
-| 47 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
-| 48 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 49 | [Coko](http://twitter.com/search?q=Coko) | N/A |
-| 50 | [Paty](http://twitter.com/search?q=Paty) | N/A |
+| 5 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 6 | [#NCTDREAM_THEDREAMSHOW2](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2) | N/A |
+| 7 | [#THEDREAMSHOW2_in_ATLANTA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_ATLANTA) | N/A |
+| 8 | [Ozzie](http://twitter.com/search?q=Ozzie) | N/A |
+| 9 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 10 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 11 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
+| 12 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 13 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 14 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 15 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 16 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 17 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 18 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 19 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 20 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
+| 21 | [kendall](http://twitter.com/search?q=kendall) | N/A |
+| 22 | [Preece](http://twitter.com/search?q=Preece) | N/A |
+| 23 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
+| 24 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 25 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 26 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
+| 27 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 28 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
+| 29 | [Odell](http://twitter.com/search?q=Odell) | N/A |
+| 30 | [Willa](http://twitter.com/search?q=Willa) | N/A |
+| 31 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
+| 32 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 33 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 34 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 35 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 36 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 37 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 38 | [Briscoe](http://twitter.com/search?q=Briscoe) | N/A |
+| 39 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
+| 40 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 41 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
+| 42 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
+| 43 | [Christopher Bell](http://twitter.com/search?q=Christopher+Bell) | N/A |
+| 44 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
+| 45 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
+| 46 | [Paty](http://twitter.com/search?q=Paty) | N/A |
+| 47 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
+| 48 | [Joan Baez](http://twitter.com/search?q=Joan+Baez) | N/A |
+| 49 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 50 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
 
 
 

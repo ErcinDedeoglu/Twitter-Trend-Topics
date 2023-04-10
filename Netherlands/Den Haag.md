@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-04-10 02:29:16 UTC`
+📆 Last Updated: `2023-04-10 03:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 6 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
 | 7 | [#vitgae](http://twitter.com/search?q=%23vitgae) | N/A |
 | 8 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 9 | [De HEER](http://twitter.com/search?q=De+HEER) | N/A |
+| 9 | [de heer](http://twitter.com/search?q=de+heer) | N/A |
 | 10 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
 | 11 | [Ongedifferentieerd-Androgyn](http://twitter.com/search?q=Ongedifferentieerd-Androgyn) | N/A |
 | 12 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
@@ -34,36 +34,36 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 17 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
 | 18 | [Degenkolb](http://twitter.com/search?q=Degenkolb) | N/A |
 | 19 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
-| 20 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 21 | [Nonchalant Mannelijk](http://twitter.com/search?q=Nonchalant+Mannelijk) | N/A |
-| 22 | [ongeprikt](http://twitter.com/search?q=ongeprikt) | N/A |
-| 23 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 24 | [Philipsen](http://twitter.com/search?q=Philipsen) | N/A |
-| 25 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
-| 26 | [Eindhovense](http://twitter.com/search?q=Eindhovense) | N/A |
-| 27 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
+| 20 | [Nonchalant Mannelijk](http://twitter.com/search?q=Nonchalant+Mannelijk) | N/A |
+| 21 | [ongeprikt](http://twitter.com/search?q=ongeprikt) | N/A |
+| 22 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 23 | [Philipsen](http://twitter.com/search?q=Philipsen) | N/A |
+| 24 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
+| 25 | [Eindhovense](http://twitter.com/search?q=Eindhovense) | N/A |
+| 26 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
+| 27 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
 | 28 | [Beau](http://twitter.com/search?q=Beau) | N/A |
 | 29 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
 | 30 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
 | 31 | [kooten](http://twitter.com/search?q=kooten) | N/A |
-| 32 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 33 | [Truste](http://twitter.com/search?q=Truste) | N/A |
-| 34 | [Piet](http://twitter.com/search?q=Piet) | N/A |
-| 35 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 36 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 37 | [vogel rok](http://twitter.com/search?q=vogel+rok) | N/A |
-| 38 | [hoopvol](http://twitter.com/search?q=hoopvol) | N/A |
-| 39 | [typisch mannelijk](http://twitter.com/search?q=typisch+mannelijk) | N/A |
-| 40 | [Rechts](http://twitter.com/search?q=Rechts) | N/A |
-| 41 | [Lekkerkerk](http://twitter.com/search?q=Lekkerkerk) | N/A |
-| 42 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 43 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
-| 44 | [hato](http://twitter.com/search?q=hato) | N/A |
-| 45 | [Jezus](http://twitter.com/search?q=Jezus) | N/A |
-| 46 | [onno ruding](http://twitter.com/search?q=onno+ruding) | N/A |
-| 47 | [RKC Waalwijk](http://twitter.com/search?q=RKC+Waalwijk) | N/A |
-| 48 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
-| 49 | [Fortuyn](http://twitter.com/search?q=Fortuyn) | N/A |
+| 32 | [Truste](http://twitter.com/search?q=Truste) | N/A |
+| 33 | [Piet](http://twitter.com/search?q=Piet) | N/A |
+| 34 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 35 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 36 | [vogel rok](http://twitter.com/search?q=vogel+rok) | N/A |
+| 37 | [hoopvol](http://twitter.com/search?q=hoopvol) | N/A |
+| 38 | [Lekkerkerk](http://twitter.com/search?q=Lekkerkerk) | N/A |
+| 39 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 40 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
+| 41 | [Hato](http://twitter.com/search?q=Hato) | N/A |
+| 42 | [Jezus](http://twitter.com/search?q=Jezus) | N/A |
+| 43 | [onno ruding](http://twitter.com/search?q=onno+ruding) | N/A |
+| 44 | [RKC Waalwijk](http://twitter.com/search?q=RKC+Waalwijk) | N/A |
+| 45 | [Typisch Mannelijk](http://twitter.com/search?q=Typisch+Mannelijk) | N/A |
+| 46 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 47 | [America](http://twitter.com/search?q=America) | N/A |
+| 48 | [Fortuyn](http://twitter.com/search?q=Fortuyn) | N/A |
+| 49 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
 
 
 

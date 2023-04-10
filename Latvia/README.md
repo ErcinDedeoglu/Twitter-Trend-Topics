@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-10 02:29:50 UTC`
+📆 Last Updated: `2023-04-10 03:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,33 +38,33 @@ This is top 50 for Latvia
 | 21 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
 | 22 | [#1188play](http://twitter.com/search?q=%231188play) | N/A |
 | 23 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
-| 24 | [viņiem](http://twitter.com/search?q=vi%c5%86iem) | N/A |
-| 25 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
-| 26 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
-| 27 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
-| 28 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
-| 29 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 30 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
-| 31 | [pirms](http://twitter.com/search?q=pirms) | N/A |
-| 32 | [kādi](http://twitter.com/search?q=k%c4%81di) | N/A |
-| 33 | [viņš](http://twitter.com/search?q=vi%c5%86%c5%a1) | N/A |
-| 34 | [vienīgais](http://twitter.com/search?q=vien%c4%abgais) | N/A |
-| 35 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
-| 36 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
-| 37 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | N/A |
-| 38 | [pareizi](http://twitter.com/search?q=pareizi) | N/A |
-| 39 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
-| 40 | [Domāju](http://twitter.com/search?q=Dom%c4%81ju) | N/A |
-| 41 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
-| 42 | [Mūsu](http://twitter.com/search?q=M%c5%absu) | N/A |
-| 43 | [pievienojos](http://twitter.com/search?q=pievienojos) | N/A |
-| 44 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
-| 45 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
-| 46 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
-| 47 | [ķīnas](http://twitter.com/search?q=%c4%b7%c4%abnas) | N/A |
-| 48 | [laikam](http://twitter.com/search?q=laikam) | N/A |
-| 49 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
-| 50 | [vai tu](http://twitter.com/search?q=vai+tu) | N/A |
+| 24 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
+| 25 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
+| 26 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
+| 27 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
+| 28 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 29 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
+| 30 | [pirms](http://twitter.com/search?q=pirms) | N/A |
+| 31 | [kādi](http://twitter.com/search?q=k%c4%81di) | N/A |
+| 32 | [viņš](http://twitter.com/search?q=vi%c5%86%c5%a1) | N/A |
+| 33 | [vienīgais](http://twitter.com/search?q=vien%c4%abgais) | N/A |
+| 34 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
+| 35 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
+| 36 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | N/A |
+| 37 | [pareizi](http://twitter.com/search?q=pareizi) | N/A |
+| 38 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
+| 39 | [domāju](http://twitter.com/search?q=dom%c4%81ju) | N/A |
+| 40 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
+| 41 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
+| 42 | [pievienojos](http://twitter.com/search?q=pievienojos) | N/A |
+| 43 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
+| 44 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
+| 45 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
+| 46 | [ķīnas](http://twitter.com/search?q=%c4%b7%c4%abnas) | N/A |
+| 47 | [laikam](http://twitter.com/search?q=laikam) | N/A |
+| 48 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
+| 49 | [vai tu](http://twitter.com/search?q=vai+tu) | N/A |
+| 50 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
 
 
 

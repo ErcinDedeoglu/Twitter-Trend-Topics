@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-04-10 02:29:53 UTC`
+📆 Last Updated: `2023-04-10 03:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,11 +34,11 @@ This is top 50 for Sweden
 | 17 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 19 | [#kristusäruppstånden](http://twitter.com/search?q=%23kristus%c3%a4ruppst%c3%a5nden) | N/A |
-| 20 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 21 | [Irland](http://twitter.com/search?q=Irland) | N/A |
+| 20 | [irland](http://twitter.com/search?q=irland) | N/A |
+| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 22 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
 | 23 | [linnér](http://twitter.com/search?q=linn%c3%a9r) | N/A |
-| 24 | [Stråhle](http://twitter.com/search?q=Str%c3%a5hle) | N/A |
+| 24 | [stråhle](http://twitter.com/search?q=str%c3%a5hle) | N/A |
 | 25 | [ingvar hirdwall](http://twitter.com/search?q=ingvar+hirdwall) | N/A |
 | 26 | [mustonen](http://twitter.com/search?q=mustonen) | N/A |
 | 27 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
@@ -53,7 +53,7 @@ This is top 50 for Sweden
 | 36 | [Prag](http://twitter.com/search?q=Prag) | N/A |
 | 37 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
 | 38 | [Vecchia](http://twitter.com/search?q=Vecchia) | N/A |
-| 39 | [HBTQ](http://twitter.com/search?q=HBTQ) | N/A |
+| 39 | [hbtq](http://twitter.com/search?q=hbtq) | N/A |
 | 40 | [solvalla](http://twitter.com/search?q=solvalla) | N/A |
 | 41 | [Hisingen](http://twitter.com/search?q=Hisingen) | N/A |
 | 42 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |

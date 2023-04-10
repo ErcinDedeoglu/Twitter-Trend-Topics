@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-04-10 02:29:20 UTC`
+📆 Last Updated: `2023-04-10 03:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#JaksaHarusTurunTangan](http://twitter.com/search?q=%23JaksaHarusTurunTangan) | N/A |
 | 2 | [Penuhi Hak Kesehatan Helmut](http://twitter.com/search?q=Penuhi+Hak+Kesehatan+Helmut) | N/A |
-| 3 | [Polda Sulsel](http://twitter.com/search?q=Polda+Sulsel) | N/A |
-| 4 | [thr lazada](http://twitter.com/search?q=thr+lazada) | N/A |
-| 5 | [fast feast festive](http://twitter.com/search?q=fast+feast+festive) | N/A |
-| 6 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 8 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
-| 9 | [#1000BungaApresiasiET](http://twitter.com/search?q=%231000BungaApresiasiET) | N/A |
-| 10 | [JJK1 IS COMING](http://twitter.com/search?q=JJK1+IS+COMING) | N/A |
-| 11 | [JEON JUNGKOOK IS COMING](http://twitter.com/search?q=JEON+JUNGKOOK+IS+COMING) | N/A |
-| 12 | [JK x JB](http://twitter.com/search?q=JK+x+JB) | N/A |
-| 13 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
+| 3 | [thr lazada](http://twitter.com/search?q=thr+lazada) | N/A |
+| 4 | [fast feast festive](http://twitter.com/search?q=fast+feast+festive) | N/A |
+| 5 | [JJK1 IS COMING](http://twitter.com/search?q=JJK1+IS+COMING) | N/A |
+| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 7 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 8 | [JEON JUNGKOOK IS COMING](http://twitter.com/search?q=JEON+JUNGKOOK+IS+COMING) | N/A |
+| 9 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
+| 10 | [#1000BungaApresiasiET](http://twitter.com/search?q=%231000BungaApresiasiET) | N/A |
+| 11 | [Polda Sulsel](http://twitter.com/search?q=Polda+Sulsel) | N/A |
+| 12 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
+| 13 | [JK x JB](http://twitter.com/search?q=JK+x+JB) | N/A |
 | 14 | [#bukbertanpawacana](http://twitter.com/search?q=%23bukbertanpawacana) | N/A |
-| 15 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 16 | [Halius Hosen](http://twitter.com/search?q=Halius+Hosen) | N/A |
-| 17 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
-| 18 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
-| 19 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 20 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 21 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 22 | [Lebaran 2020](http://twitter.com/search?q=Lebaran+2020) | N/A |
-| 23 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 25 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 26 | [1 rupiah](http://twitter.com/search?q=1+rupiah) | N/A |
-| 27 | [Istiqomah Dalam Dakwah](http://twitter.com/search?q=Istiqomah+Dalam+Dakwah) | N/A |
-| 28 | [exo'clock fanmeeting](http://twitter.com/search?q=exo%27clock+fanmeeting) | N/A |
-| 29 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
-| 30 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
-| 31 | [Spacetoon](http://twitter.com/search?q=Spacetoon) | N/A |
-| 32 | [Ramadhan Penuh Kebahagiaan](http://twitter.com/search?q=Ramadhan+Penuh+Kebahagiaan) | N/A |
-| 33 | [Ibu Negara](http://twitter.com/search?q=Ibu+Negara) | N/A |
-| 34 | [it's exo'clock](http://twitter.com/search?q=it%27s+exo%27clock) | N/A |
-| 35 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 36 | [Happy 7th](http://twitter.com/search?q=Happy+7th) | N/A |
-| 37 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 38 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 39 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 40 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
-| 41 | [Survei LSI](http://twitter.com/search?q=Survei+LSI) | N/A |
-| 42 | [Ibu Iriana](http://twitter.com/search?q=Ibu+Iriana) | N/A |
-| 43 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 44 | [Love Me Right](http://twitter.com/search?q=Love+Me+Right) | N/A |
-| 45 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 46 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
-| 47 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
-| 48 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 49 | [Angkatan Udara](http://twitter.com/search?q=Angkatan+Udara) | N/A |
+| 15 | [#EXOCLOCK_D2](http://twitter.com/search?q=%23EXOCLOCK_D2) | N/A |
+| 16 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 17 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 18 | [Lebaran 2020](http://twitter.com/search?q=Lebaran+2020) | N/A |
+| 19 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 20 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 21 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 22 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
+| 23 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 24 | [1 rupiah](http://twitter.com/search?q=1+rupiah) | N/A |
+| 25 | [exo'clock fanmeeting](http://twitter.com/search?q=exo%27clock+fanmeeting) | N/A |
+| 26 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
+| 27 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
+| 28 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
+| 29 | [Halius Hosen](http://twitter.com/search?q=Halius+Hosen) | N/A |
+| 30 | [Ibu Negara](http://twitter.com/search?q=Ibu+Negara) | N/A |
+| 31 | [Istiqomah Dalam Dakwah](http://twitter.com/search?q=Istiqomah+Dalam+Dakwah) | N/A |
+| 32 | [it's exo'clock](http://twitter.com/search?q=it%27s+exo%27clock) | N/A |
+| 33 | [Iriana](http://twitter.com/search?q=Iriana) | N/A |
+| 34 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 35 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 36 | [Spacetoon](http://twitter.com/search?q=Spacetoon) | N/A |
+| 37 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 38 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 39 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
+| 40 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 41 | [Dini](http://twitter.com/search?q=Dini) | N/A |
+| 42 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
+| 43 | [Coach](http://twitter.com/search?q=Coach) | N/A |
+| 44 | [Ramadhan Penuh Kebahagiaan](http://twitter.com/search?q=Ramadhan+Penuh+Kebahagiaan) | N/A |
+| 45 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 46 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 47 | [Angkatan Udara](http://twitter.com/search?q=Angkatan+Udara) | N/A |
+| 48 | [Apel](http://twitter.com/search?q=Apel) | N/A |
+| 49 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
 
 
 

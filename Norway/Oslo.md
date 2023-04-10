@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-04-10 02:29:18 UTC`
+📆 Last Updated: `2023-04-10 03:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,13 +16,13 @@ This is top 50 for [Norway](</Norway>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [godset](http://twitter.com/search?q=godset) | N/A |
-| 3 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 2 | [Hovland](http://twitter.com/search?q=Hovland) | N/A |
+| 3 | [Godset](http://twitter.com/search?q=Godset) | N/A |
 | 4 | [steinkjer](http://twitter.com/search?q=steinkjer) | N/A |
 | 5 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 6 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 8 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 8 | [STELLINI](http://twitter.com/search?q=STELLINI) | N/A |
 | 9 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
@@ -35,7 +35,7 @@ This is top 50 for [Norway](</Norway>)
 | 18 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 | 19 | [Viktor](http://twitter.com/search?q=Viktor) | N/A |
 | 20 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 21 | [Narvik](http://twitter.com/search?q=Narvik) | N/A |
+| 21 | [narvik](http://twitter.com/search?q=narvik) | N/A |
 | 22 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
 | 23 | [Tate](http://twitter.com/search?q=Tate) | N/A |
 | 24 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
@@ -57,7 +57,7 @@ This is top 50 for [Norway](</Norway>)
 | 40 | [vetlesen](http://twitter.com/search?q=vetlesen) | N/A |
 | 41 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
 | 42 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 43 | [#ESNgolf](http://twitter.com/search?q=%23ESNgolf) | N/A |
+| 43 | [#esngolf](http://twitter.com/search?q=%23esngolf) | N/A |
 | 44 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
 | 45 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 46 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
