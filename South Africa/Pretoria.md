@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-04-10 08:17:47 UTC`
+📆 Last Updated: `2023-04-10 09:19:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [South Africa](</South Africa>)
 | 6 | [#ItCanBe](http://twitter.com/search?q=%23ItCanBe) | N/A |
 | 7 | [Tanzania](http://twitter.com/search?q=Tanzania) | N/A |
 | 8 | [Pineapple](http://twitter.com/search?q=Pineapple) | N/A |
-| 9 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 10 | [FNB App](http://twitter.com/search?q=FNB+App) | N/A |
-| 11 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 12 | [Chris Hani](http://twitter.com/search?q=Chris+Hani) | N/A |
-| 13 | [Mango](http://twitter.com/search?q=Mango) | N/A |
-| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 15 | [Nandipha](http://twitter.com/search?q=Nandipha) | N/A |
-| 16 | [THABANG JUST ARRIVED](http://twitter.com/search?q=THABANG+JUST+ARRIVED) | N/A |
-| 17 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
-| 18 | [KHOSI THE TOPIC](http://twitter.com/search?q=KHOSI+THE+TOPIC) | N/A |
-| 19 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 20 | [Thando](http://twitter.com/search?q=Thando) | Thando is a South African name that means "love" in Zulu. It is also used as a unisex name in other African countries. |
-| 21 | [Siyacela](http://twitter.com/search?q=Siyacela) | Siyacela is a Zulu word that means "please" or "I beg you". It is used as a polite request or to show respect. |
-| 22 | [Shoes](http://twitter.com/search?q=Shoes) | N/A |
-| 23 | [Naledi Pandor](http://twitter.com/search?q=Naledi+Pandor) | N/A |
-| 24 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 25 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 26 | [Nota](http://twitter.com/search?q=Nota) | N/A |
-| 27 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
-| 28 | [Dove](http://twitter.com/search?q=Dove) | N/A |
-| 29 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 30 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 31 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 32 | [Rainbow](http://twitter.com/search?q=Rainbow) | N/A |
-| 33 | [Sakina](http://twitter.com/search?q=Sakina) | N/A |
-| 34 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 35 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
-| 36 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 37 | [THE LAST STYLEBENDER](http://twitter.com/search?q=THE+LAST+STYLEBENDER) | N/A |
-| 38 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 39 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 40 | [Gavin Watson](http://twitter.com/search?q=Gavin+Watson) | N/A |
-| 41 | [Xolani](http://twitter.com/search?q=Xolani) | N/A |
-| 42 | [TSATSII X SUNRISERS](http://twitter.com/search?q=TSATSII+X+SUNRISERS) | N/A |
-| 43 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 44 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 45 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 46 | [best moments with khosi](http://twitter.com/search?q=best+moments+with+khosi) | N/A |
-| 47 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 48 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 49 | [Zimbabweans](http://twitter.com/search?q=Zimbabweans) | N/A |
-| 50 | [Hopewell](http://twitter.com/search?q=Hopewell) | N/A |
+| 9 | [FNB App](http://twitter.com/search?q=FNB+App) | N/A |
+| 10 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 11 | [Chris Hani](http://twitter.com/search?q=Chris+Hani) | N/A |
+| 12 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 13 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 14 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
+| 15 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
+| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 17 | [THABANG JUST ARRIVED](http://twitter.com/search?q=THABANG+JUST+ARRIVED) | N/A |
+| 18 | [Nandipha](http://twitter.com/search?q=Nandipha) | N/A |
+| 19 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 20 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 21 | [KHOSI THE TOPIC](http://twitter.com/search?q=KHOSI+THE+TOPIC) | N/A |
+| 22 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 23 | [JUICY JAY X TRAVELBETA](http://twitter.com/search?q=JUICY+JAY+X+TRAVELBETA) | N/A |
+| 24 | [Mango and Peach](http://twitter.com/search?q=Mango+and+Peach) | N/A |
+| 25 | [YVONNE GODSWILL X TRAVELBETA](http://twitter.com/search?q=YVONNE+GODSWILL+X+TRAVELBETA) | N/A |
+| 26 | [Siyacela](http://twitter.com/search?q=Siyacela) | Siyacela is a Zulu word that means "please" or "I beg you". It is used as a polite request or to show respect. |
+| 27 | [Thando](http://twitter.com/search?q=Thando) | Thando is a South African name that means "love" in Zulu. It is also used as a unisex name in other African countries. |
+| 28 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 29 | [KHOSI X GOOD DEEDS](http://twitter.com/search?q=KHOSI+X+GOOD+DEEDS) | N/A |
+| 30 | [Naledi Pandor](http://twitter.com/search?q=Naledi+Pandor) | N/A |
+| 31 | [Nota](http://twitter.com/search?q=Nota) | N/A |
+| 32 | [Sakina](http://twitter.com/search?q=Sakina) | N/A |
+| 33 | [Minnie](http://twitter.com/search?q=Minnie) | N/A |
+| 34 | [Shoes](http://twitter.com/search?q=Shoes) | N/A |
+| 35 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 36 | [Dove](http://twitter.com/search?q=Dove) | N/A |
+| 37 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 38 | [Rainbow](http://twitter.com/search?q=Rainbow) | N/A |
+| 39 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
+| 40 | [Micho](http://twitter.com/search?q=Micho) | N/A |
+| 41 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 42 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 43 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 44 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 45 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 46 | [Gavin Watson](http://twitter.com/search?q=Gavin+Watson) | N/A |
+| 47 | [Zimbabweans](http://twitter.com/search?q=Zimbabweans) | N/A |
+| 48 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 49 | [Xolani](http://twitter.com/search?q=Xolani) | N/A |
+| 50 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 
 
 

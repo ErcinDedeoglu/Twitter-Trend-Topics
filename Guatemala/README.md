@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-10 08:18:07 UTC`
+📆 Last Updated: `2023-04-10 09:19:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Guatemala
 | 3 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 4 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 5 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 6 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 7 | [Danny Ocean](http://twitter.com/search?q=Danny+Ocean) | N/A |
 | 8 | [Duki](http://twitter.com/search?q=Duki) | N/A |
 | 9 | [iztapa](http://twitter.com/search?q=iztapa) | N/A |

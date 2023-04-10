@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-04-10 08:17:25 UTC`
+📆 Last Updated: `2023-04-10 09:18:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Chile](</Chile>)
 | ------- | ------------ | ------------ |
 | 1 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
 | 2 | [Chimbarongo](http://twitter.com/search?q=Chimbarongo) | N/A |
-| 3 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 3 | [lezcano](http://twitter.com/search?q=lezcano) | N/A |
 | 4 | [#ToleranciaCero](http://twitter.com/search?q=%23ToleranciaCero) | N/A |
 | 5 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
 | 6 | [Colina](http://twitter.com/search?q=Colina) | N/A |
@@ -29,41 +29,41 @@ This is top 50 for [Chile](</Chile>)
 | 12 | [Tenía 19](http://twitter.com/search?q=Ten%c3%ada+19) | N/A |
 | 13 | [lucas soto](http://twitter.com/search?q=lucas+soto) | N/A |
 | 14 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 15 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 16 | [assadi](http://twitter.com/search?q=assadi) | N/A |
 | 17 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
 | 18 | [Baby Shower](http://twitter.com/search?q=Baby+Shower) | N/A |
-| 19 | [Fernando Paulsen](http://twitter.com/search?q=Fernando+Paulsen) | N/A |
-| 20 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 21 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
-| 22 | [mateos](http://twitter.com/search?q=mateos) | N/A |
-| 23 | [zaldivia](http://twitter.com/search?q=zaldivia) | N/A |
-| 24 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
-| 25 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 26 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 27 | [nico guerra](http://twitter.com/search?q=nico+guerra) | N/A |
-| 28 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 29 | [dituro](http://twitter.com/search?q=dituro) | N/A |
-| 30 | [kike acuña](http://twitter.com/search?q=kike+acu%c3%b1a) | N/A |
-| 31 | [Toha](http://twitter.com/search?q=Toha) | N/A |
-| 32 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
-| 33 | [Nació Simón](http://twitter.com/search?q=Naci%c3%b3+Sim%c3%b3n) | N/A |
-| 34 | [benegas](http://twitter.com/search?q=benegas) | N/A |
-| 35 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 19 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 20 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
+| 21 | [mateos](http://twitter.com/search?q=mateos) | N/A |
+| 22 | [zaldivia](http://twitter.com/search?q=zaldivia) | N/A |
+| 23 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
+| 24 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 25 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 26 | [nico guerra](http://twitter.com/search?q=nico+guerra) | N/A |
+| 27 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 28 | [dituro](http://twitter.com/search?q=dituro) | N/A |
+| 29 | [kike acuña](http://twitter.com/search?q=kike+acu%c3%b1a) | N/A |
+| 30 | [Toha](http://twitter.com/search?q=Toha) | N/A |
+| 31 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
+| 32 | [Nació Simón](http://twitter.com/search?q=Naci%c3%b3+Sim%c3%b3n) | N/A |
+| 33 | [benegas](http://twitter.com/search?q=benegas) | N/A |
+| 34 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 35 | [Paulsen](http://twitter.com/search?q=Paulsen) | N/A |
 | 36 | [Huerta](http://twitter.com/search?q=Huerta) | N/A |
 | 37 | [Feliz Pascua](http://twitter.com/search?q=Feliz+Pascua) | N/A |
 | 38 | [Batuco](http://twitter.com/search?q=Batuco) | N/A |
 | 39 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
 | 40 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 41 | [Vicente Pizarro](http://twitter.com/search?q=Vicente+Pizarro) | N/A |
-| 42 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 43 | [vicho pizarro](http://twitter.com/search?q=vicho+pizarro) | N/A |
+| 41 | [vicente pizarro](http://twitter.com/search?q=vicente+pizarro) | N/A |
+| 42 | [vicho pizarro](http://twitter.com/search?q=vicho+pizarro) | N/A |
+| 43 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 44 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 45 | [Juana](http://twitter.com/search?q=Juana) | N/A |
-| 46 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 47 | [Colchagua](http://twitter.com/search?q=Colchagua) | N/A |
-| 48 | [kiwi rojas](http://twitter.com/search?q=kiwi+rojas) | N/A |
-| 49 | [Chorri](http://twitter.com/search?q=Chorri) | N/A |
+| 45 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 46 | [Colchagua](http://twitter.com/search?q=Colchagua) | N/A |
+| 47 | [kiwi rojas](http://twitter.com/search?q=kiwi+rojas) | N/A |
+| 48 | [chorri](http://twitter.com/search?q=chorri) | N/A |
+| 49 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
 | 50 | [San Fernando](http://twitter.com/search?q=San+Fernando) | N/A |
 
 

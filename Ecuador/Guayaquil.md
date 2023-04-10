@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-04-10 08:17:26 UTC`
+📆 Last Updated: `2023-04-10 09:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,19 +16,19 @@ This is top 50 for [Ecuador](</Ecuador>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
-| 2 | [Guayaquil City](http://twitter.com/search?q=Guayaquil+City) | N/A |
+| 2 | [guayaquil city](http://twitter.com/search?q=guayaquil+city) | N/A |
 | 3 | [Otero](http://twitter.com/search?q=Otero) | N/A |
 | 4 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
-| 5 | [MAR EN MARIE CLAIRE](http://twitter.com/search?q=MAR+EN+MARIE+CLAIRE) | N/A |
+| 5 | [mar en marie claire](http://twitter.com/search?q=mar+en+marie+claire) | N/A |
 | 6 | [Cifuentes](http://twitter.com/search?q=Cifuentes) | N/A |
 | 7 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 8 | [Romario Caicedo](http://twitter.com/search?q=Romario+Caicedo) | N/A |
 | 9 | [Alberti](http://twitter.com/search?q=Alberti) | N/A |
 | 10 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
 | 11 | [Cevallos](http://twitter.com/search?q=Cevallos) | N/A |
-| 12 | [Zubeldia](http://twitter.com/search?q=Zubeldia) | N/A |
+| 12 | [zubeldia](http://twitter.com/search?q=zubeldia) | N/A |
 | 13 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
-| 14 | [#LigaPro](http://twitter.com/search?q=%23LigaPro) | N/A |
+| 14 | [#ligapro](http://twitter.com/search?q=%23ligapro) | N/A |
 | 15 | [piovi](http://twitter.com/search?q=piovi) | N/A |
 | 16 | [García](http://twitter.com/search?q=Garc%c3%ada) | N/A |
 | 17 | [Neme](http://twitter.com/search?q=Neme) | N/A |
@@ -38,14 +38,14 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 21 | [bauman](http://twitter.com/search?q=bauman) | N/A |
 | 22 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
 | 23 | [González](http://twitter.com/search?q=Gonz%c3%a1lez) | N/A |
-| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 24 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 25 | [alejandro cabeza](http://twitter.com/search?q=alejandro+cabeza) | N/A |
 | 26 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
 | 27 | [cabezas](http://twitter.com/search?q=cabezas) | N/A |
 | 28 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
 | 29 | [fecha 5](http://twitter.com/search?q=fecha+5) | N/A |
 | 30 | [Napa](http://twitter.com/search?q=Napa) | N/A |
-| 31 | [#Aucas](http://twitter.com/search?q=%23Aucas) | N/A |
+| 31 | [#aucas](http://twitter.com/search?q=%23aucas) | N/A |
 | 32 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
 | 33 | [mushuc runa](http://twitter.com/search?q=mushuc+runa) | N/A |
 | 34 | [Miller](http://twitter.com/search?q=Miller) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 44 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 45 | [bagner delgado](http://twitter.com/search?q=bagner+delgado) | N/A |
 | 46 | [klebinho](http://twitter.com/search?q=klebinho) | N/A |
-| 47 | [Alzugaray](http://twitter.com/search?q=Alzugaray) | N/A |
+| 47 | [alzugaray](http://twitter.com/search?q=alzugaray) | N/A |
 | 48 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
 | 49 | [Berry](http://twitter.com/search?q=Berry) | N/A |
 | 50 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |

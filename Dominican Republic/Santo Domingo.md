@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-04-10 08:17:22 UTC`
+📆 Last Updated: `2023-04-10 09:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -46,7 +46,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 29 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 30 | [jensy graciano](http://twitter.com/search?q=jensy+graciano) | N/A |
 | 31 | [Laje](http://twitter.com/search?q=Laje) | N/A |
-| 32 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 32 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 33 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 34 | [#vivirsinviolenciaesposible](http://twitter.com/search?q=%23vivirsinviolenciaesposible) | N/A |
 | 35 | [las terrenas](http://twitter.com/search?q=las+terrenas) | N/A |

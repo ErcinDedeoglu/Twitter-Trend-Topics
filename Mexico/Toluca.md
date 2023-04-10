@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toluca
 
-📆 Last Updated: `2023-04-10 08:17:24 UTC`
+📆 Last Updated: `2023-04-10 09:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,44 +17,54 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
 | 2 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 3 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
-| 4 | [Jardines del Pedregal](http://twitter.com/search?q=Jardines+del+Pedregal) | N/A |
+| 3 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 5 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 6 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
-| 7 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 8 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
-| 9 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
-| 10 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 11 | [#DomingoGlorioso](http://twitter.com/search?q=%23DomingoGlorioso) | N/A |
-| 12 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 13 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
-| 14 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 15 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 16 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 17 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
-| 18 | [Changbin](http://twitter.com/search?q=Changbin) | N/A |
-| 19 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 20 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 21 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
-| 22 | [Arreola](http://twitter.com/search?q=Arreola) | N/A |
-| 23 | [#엘프가_이특을_안아줘요](http://twitter.com/search?q=%23%ec%97%98%ed%94%84%ea%b0%80_%ec%9d%b4%ed%8a%b9%ec%9d%84_%ec%95%88%ec%95%84%ec%a4%98%ec%9a%94) | N/A |
-| 24 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 25 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
-| 26 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 27 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 28 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 29 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 30 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 31 | [Enrique de la Madrid](http://twitter.com/search?q=Enrique+de+la+Madrid) | N/A |
-| 32 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 33 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 34 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 35 | [Logrado](http://twitter.com/search?q=Logrado) | N/A |
-| 36 | [#ConLosNiñosNo](http://twitter.com/search?q=%23ConLosNi%c3%b1osNo) | N/A |
-| 37 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 38 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
-| 39 | [#Vecinos](http://twitter.com/search?q=%23Vecinos) | N/A |
-| 40 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
+| 6 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
+| 7 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
+| 8 | [#CD910AÑOS](http://twitter.com/search?q=%23CD910A%c3%91OS) | N/A |
+| 9 | [Jardines del Pedregal](http://twitter.com/search?q=Jardines+del+Pedregal) | N/A |
+| 10 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
+| 11 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 12 | [CD9 COMEBACK](http://twitter.com/search?q=CD9+COMEBACK) | N/A |
+| 13 | [#DomingoGlorioso](http://twitter.com/search?q=%23DomingoGlorioso) | N/A |
+| 14 | [CD9 RETURN](http://twitter.com/search?q=CD9+RETURN) | N/A |
+| 15 | [#LaMañaneraNoSeToca](http://twitter.com/search?q=%23LaMa%c3%b1aneraNoSeToca) | N/A |
+| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 17 | [#AtletasPorUnAuto](http://twitter.com/search?q=%23AtletasPorUnAuto) | N/A |
+| 18 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 19 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 20 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 21 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
+| 22 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 23 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
+| 24 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 25 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 26 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 27 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 28 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
+| 29 | [prieto](http://twitter.com/search?q=prieto) | N/A |
+| 30 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
+| 31 | [Perote](http://twitter.com/search?q=Perote) | N/A |
+| 32 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
+| 33 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 34 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 35 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 36 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 37 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 38 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 39 | [MEXICO LOVES MAMAMOO](http://twitter.com/search?q=MEXICO+LOVES+MAMAMOO) | N/A |
+| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 41 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 42 | [CODERS CLOWNS](http://twitter.com/search?q=CODERS+CLOWNS) | N/A |
+| 43 | [Joao](http://twitter.com/search?q=Joao) | N/A |
+| 44 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 45 | [ESTAMOS CONTIGO NAT](http://twitter.com/search?q=ESTAMOS+CONTIGO+NAT) | N/A |
+| 46 | [VIÑAS](http://twitter.com/search?q=VI%c3%91AS) | N/A |
+| 47 | [return of cd9](http://twitter.com/search?q=return+of+cd9) | N/A |
+| 48 | [Paseo Bravo](http://twitter.com/search?q=Paseo+Bravo) | N/A |
+| 49 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 50 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
 
 
 

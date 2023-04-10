@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-04-10 08:17:30 UTC`
+📆 Last Updated: `2023-04-10 09:18:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [France](</France>)
 | 1 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
 | 2 | [#FCLOM](http://twitter.com/search?q=%23FCLOM) | N/A |
 | 3 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 4 | [#TrashTalkBracketContest](http://twitter.com/search?q=%23TrashTalkBracketContest) | N/A |
 | 5 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
-| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 7 | [Françoise Hardy](http://twitter.com/search?q=Fran%c3%a7oise+Hardy) | N/A |
+| 6 | [Françoise Hardy](http://twitter.com/search?q=Fran%c3%a7oise+Hardy) | N/A |
+| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 8 | [Lorient](http://twitter.com/search?q=Lorient) | N/A |
-| 9 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 10 | [Playoffs 2023](http://twitter.com/search?q=Playoffs+2023) | N/A |
-| 11 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 12 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 13 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
-| 14 | [Impavide](http://twitter.com/search?q=Impavide) | N/A |
-| 15 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
-| 16 | [Tivoli](http://twitter.com/search?q=Tivoli) | N/A |
-| 17 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 18 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 9 | [Playoffs 2023](http://twitter.com/search?q=Playoffs+2023) | N/A |
+| 10 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 11 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
+| 12 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 13 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 14 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
+| 15 | [Tivoli](http://twitter.com/search?q=Tivoli) | N/A |
+| 16 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 17 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 18 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
 | 19 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
 | 20 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 21 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 22 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 23 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 24 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 21 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 22 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 23 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 24 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 25 | [Premier Anime](http://twitter.com/search?q=Premier+Anime) | N/A |
 | 26 | [Nawell Madani](http://twitter.com/search?q=Nawell+Madani) | N/A |
-| 27 | [Dernier Anime](http://twitter.com/search?q=Dernier+Anime) | N/A |
-| 28 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 29 | [Pire Anime](http://twitter.com/search?q=Pire+Anime) | N/A |
-| 30 | [Haute-Savoie](http://twitter.com/search?q=Haute-Savoie) | N/A |
-| 31 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
-| 32 | [Kurama](http://twitter.com/search?q=Kurama) | N/A |
-| 33 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 34 | [Bonjour Guillaume](http://twitter.com/search?q=Bonjour+Guillaume) | N/A |
-| 35 | [Faze](http://twitter.com/search?q=Faze) | N/A |
-| 36 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 37 | [eversax](http://twitter.com/search?q=eversax) | N/A |
-| 38 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
-| 39 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 40 | [rosas jr](http://twitter.com/search?q=rosas+jr) | N/A |
+| 27 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
+| 28 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 29 | [Dernier Anime](http://twitter.com/search?q=Dernier+Anime) | N/A |
+| 30 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 31 | [Faze](http://twitter.com/search?q=Faze) | N/A |
+| 32 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 33 | [Pire Anime](http://twitter.com/search?q=Pire+Anime) | N/A |
+| 34 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 35 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
+| 36 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
+| 37 | [rosas jr](http://twitter.com/search?q=rosas+jr) | N/A |
+| 38 | [Icône](http://twitter.com/search?q=Ic%c3%b4ne) | N/A |
+| 39 | [Impavide](http://twitter.com/search?q=Impavide) | N/A |
+| 40 | [Kurama](http://twitter.com/search?q=Kurama) | N/A |
 | 41 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 42 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 43 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
+| 42 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 43 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
 | 44 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 45 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 45 | [Haute-Savoie](http://twitter.com/search?q=Haute-Savoie) | N/A |
 | 46 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 47 | [ddos](http://twitter.com/search?q=ddos) | N/A |
-| 48 | [Vallaud](http://twitter.com/search?q=Vallaud) | N/A |
+| 48 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
 
 
 

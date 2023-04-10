@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-10 08:18:10 UTC`
+📆 Last Updated: `2023-04-10 09:19:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,14 +32,14 @@ This is top 50 for Panama
 | 15 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
 | 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 17 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 18 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 19 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
 | 20 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
 | 21 | [#MiAniversarioDeTwitter](http://twitter.com/search?q=%23MiAniversarioDeTwitter) | N/A |
 | 22 | [Resucitado](http://twitter.com/search?q=Resucitado) | N/A |
 | 23 | [Nombe](http://twitter.com/search?q=Nombe) | N/A |
 | 24 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 25 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
+| 25 | [sábado de gloria](http://twitter.com/search?q=s%c3%a1bado+de+gloria) | N/A |
 | 26 | [#EEUU](http://twitter.com/search?q=%23EEUU) | N/A |
 | 27 | [#Rusia](http://twitter.com/search?q=%23Rusia) | N/A |
 | 28 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
@@ -49,11 +49,11 @@ This is top 50 for Panama
 | 32 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
 | 33 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 34 | [Motta](http://twitter.com/search?q=Motta) | N/A |
-| 35 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 36 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 37 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 38 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
-| 39 | [$0.01 ETH](http://twitter.com/search?q=%240.01+ETH) | N/A |
+| 35 | [$0.01 ETH](http://twitter.com/search?q=%240.01+ETH) | N/A |
+| 36 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 37 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 38 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 39 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
 | 40 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
 | 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 42 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
