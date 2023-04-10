@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-04-10 19:17:42 UTC`
+📆 Last Updated: `2023-04-10 20:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 2 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 3 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 4 | [#Masterchef](http://twitter.com/search?q=%23Masterchef) | N/A |
-| 5 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
-| 6 | [#WXMNOT](http://twitter.com/search?q=%23WXMNOT) | N/A |
-| 7 | [#pnefc](http://twitter.com/search?q=%23pnefc) | N/A |
-| 8 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 9 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 10 | [Kenny Miller](http://twitter.com/search?q=Kenny+Miller) | N/A |
-| 11 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 12 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 13 | [I Am Maximus](http://twitter.com/search?q=I+Am+Maximus) | N/A |
-| 14 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 15 | [Warne](http://twitter.com/search?q=Warne) | N/A |
-| 16 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 17 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
-| 18 | [Langstaff](http://twitter.com/search?q=Langstaff) | N/A |
-| 19 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
-| 20 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 21 | [Neil Mellor](http://twitter.com/search?q=Neil+Mellor) | N/A |
-| 22 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
-| 23 | [Londonderry](http://twitter.com/search?q=Londonderry) | N/A |
-| 24 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
-| 25 | [Mbete](http://twitter.com/search?q=Mbete) | N/A |
-| 26 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
-| 27 | [A. Game](http://twitter.com/search?q=A.+Game) | N/A |
-| 28 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 29 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
-| 30 | [Keith Stroud](http://twitter.com/search?q=Keith+Stroud) | N/A |
-| 31 | [GoPro](http://twitter.com/search?q=GoPro) | N/A |
-| 32 | [Creggan](http://twitter.com/search?q=Creggan) | N/A |
+| 1 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
+| 2 | [#Masterchef](http://twitter.com/search?q=%23Masterchef) | N/A |
+| 3 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 4 | [#mastermind](http://twitter.com/search?q=%23mastermind) | N/A |
+| 5 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 6 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 7 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
+| 8 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 9 | [#MarriedatfirstsightAustralia](http://twitter.com/search?q=%23MarriedatfirstsightAustralia) | N/A |
+| 10 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
+| 11 | [Chip](http://twitter.com/search?q=Chip) | N/A |
+| 12 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 13 | [Damon](http://twitter.com/search?q=Damon) | N/A |
+| 14 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
+| 15 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
+| 16 | [tommys](http://twitter.com/search?q=tommys) | N/A |
+| 17 | [Kenny Miller](http://twitter.com/search?q=Kenny+Miller) | N/A |
+| 18 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 19 | [The SFA](http://twitter.com/search?q=The+SFA) | N/A |
+| 20 | [Warne](http://twitter.com/search?q=Warne) | N/A |
+| 21 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 22 | [Benson](http://twitter.com/search?q=Benson) | Benson is a given name of English origin, derived from the surname Benson. It is a variant of the name Benedict, which means "blessed". |
+| 23 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
+| 24 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 25 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 26 | [Derry](http://twitter.com/search?q=Derry) | N/A |
+| 27 | [Langstaff](http://twitter.com/search?q=Langstaff) | N/A |
+| 28 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 29 | [Blades](http://twitter.com/search?q=Blades) | N/A |
+| 30 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
+| 31 | [Neil Mellor](http://twitter.com/search?q=Neil+Mellor) | N/A |
+| 32 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
 | 33 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 34 | [Pukki](http://twitter.com/search?q=Pukki) | N/A |
-| 35 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
-| 36 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 37 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
-| 38 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
-| 39 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
-| 40 | [McNair](http://twitter.com/search?q=McNair) | N/A |
-| 41 | [Giles](http://twitter.com/search?q=Giles) | N/A |
-| 42 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 43 | [Nkunku](http://twitter.com/search?q=Nkunku) | Nkunku is a traditional African name of Ghanaian origin. It is derived from the Akan language and means "God's gift". |
-| 44 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
-| 45 | [Walton](http://twitter.com/search?q=Walton) | N/A |
-| 46 | [Monkfish](http://twitter.com/search?q=Monkfish) | N/A |
-| 47 | [Olay](http://twitter.com/search?q=Olay) | N/A |
-| 48 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 49 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
+| 34 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
+| 35 | [Keith Stroud](http://twitter.com/search?q=Keith+Stroud) | N/A |
+| 36 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
+| 37 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
+| 38 | [I Am Maximus](http://twitter.com/search?q=I+Am+Maximus) | N/A |
+| 39 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
+| 40 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
+| 41 | [League One](http://twitter.com/search?q=League+One) | N/A |
+| 42 | [A. Game](http://twitter.com/search?q=A.+Game) | N/A |
+| 43 | [Archer](http://twitter.com/search?q=Archer) | N/A |
+| 44 | [Creggan](http://twitter.com/search?q=Creggan) | N/A |
+| 45 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 46 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
+| 47 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 48 | [GoPro](http://twitter.com/search?q=GoPro) | N/A |
+| 49 | [Olay](http://twitter.com/search?q=Olay) | N/A |
 
 
 

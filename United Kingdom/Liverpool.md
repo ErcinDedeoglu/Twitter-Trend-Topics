@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-04-10 19:17:41 UTC`
+📆 Last Updated: `2023-04-10 20:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Keith Stroud](http://twitter.com/search?q=Keith+Stroud) | N/A |
-| 2 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
-| 3 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 4 | [GoPro](http://twitter.com/search?q=GoPro) | N/A |
-| 5 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 6 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 7 | [#colu](http://twitter.com/search?q=%23colu) | N/A |
-| 8 | [Northampton](http://twitter.com/search?q=Northampton) | N/A |
-| 9 | [Luton](http://twitter.com/search?q=Luton) | N/A |
-| 10 | [Burke](http://twitter.com/search?q=Burke) | N/A |
-| 11 | [#BankHolidayMonday](http://twitter.com/search?q=%23BankHolidayMonday) | N/A |
-| 12 | [Albion](http://twitter.com/search?q=Albion) | N/A |
+| 1 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 2 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 3 | [#coronationstreet](http://twitter.com/search?q=%23coronationstreet) | N/A |
+| 4 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
+| 5 | [#WXMNOT](http://twitter.com/search?q=%23WXMNOT) | N/A |
+| 6 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
+| 7 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
+| 8 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
+| 9 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 10 | [Monkfish](http://twitter.com/search?q=Monkfish) | N/A |
+| 11 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 12 | [Woking](http://twitter.com/search?q=Woking) | N/A |
 | 13 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
-| 14 | [West Bank](http://twitter.com/search?q=West+Bank) | N/A |
-| 15 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
-| 16 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 17 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 18 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 19 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 20 | [#Masterchef](http://twitter.com/search?q=%23Masterchef) | N/A |
-| 21 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
-| 22 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 23 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 24 | [Kenny Miller](http://twitter.com/search?q=Kenny+Miller) | N/A |
-| 25 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 26 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 27 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 28 | [I Am Maximus](http://twitter.com/search?q=I+Am+Maximus) | N/A |
-| 29 | [Warne](http://twitter.com/search?q=Warne) | N/A |
-| 30 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 31 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
-| 32 | [Langstaff](http://twitter.com/search?q=Langstaff) | N/A |
-| 33 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
-| 34 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 35 | [Neil Mellor](http://twitter.com/search?q=Neil+Mellor) | N/A |
-| 36 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
-| 37 | [Londonderry](http://twitter.com/search?q=Londonderry) | N/A |
-| 38 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
-| 39 | [Mbete](http://twitter.com/search?q=Mbete) | N/A |
-| 40 | [A. Game](http://twitter.com/search?q=A.+Game) | N/A |
-| 41 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 42 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
-| 43 | [Creggan](http://twitter.com/search?q=Creggan) | N/A |
-| 44 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 45 | [Pukki](http://twitter.com/search?q=Pukki) | N/A |
-| 46 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
-| 47 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 48 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
-| 49 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 50 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
+| 14 | [League 2](http://twitter.com/search?q=League+2) | N/A |
+| 15 | [#colu](http://twitter.com/search?q=%23colu) | N/A |
+| 16 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
+| 17 | [Luton](http://twitter.com/search?q=Luton) | N/A |
+| 18 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
+| 19 | [Albion](http://twitter.com/search?q=Albion) | N/A |
+| 20 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 21 | [West Bank](http://twitter.com/search?q=West+Bank) | N/A |
+| 22 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
+| 23 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 24 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 25 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 26 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
+| 27 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 28 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
+| 29 | [Chip](http://twitter.com/search?q=Chip) | N/A |
+| 30 | [Damon](http://twitter.com/search?q=Damon) | N/A |
+| 31 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 32 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
+| 33 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
+| 34 | [tommys](http://twitter.com/search?q=tommys) | N/A |
+| 35 | [Kenny Miller](http://twitter.com/search?q=Kenny+Miller) | N/A |
+| 36 | [The SFA](http://twitter.com/search?q=The+SFA) | N/A |
+| 37 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 38 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 39 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
+| 40 | [Warne](http://twitter.com/search?q=Warne) | N/A |
+| 41 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 42 | [Neil Mellor](http://twitter.com/search?q=Neil+Mellor) | N/A |
+| 43 | [Derry](http://twitter.com/search?q=Derry) | N/A |
+| 44 | [Langstaff](http://twitter.com/search?q=Langstaff) | N/A |
+| 45 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 46 | [Blades](http://twitter.com/search?q=Blades) | N/A |
+| 47 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
+| 48 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
+| 49 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 50 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
 
 
 

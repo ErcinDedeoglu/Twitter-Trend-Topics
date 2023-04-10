@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-04-10 19:18:33 UTC`
+📆 Last Updated: `2023-04-10 20:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,36 +34,36 @@ This is top 50 for Singapore
 | 17 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 18 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 19 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 20 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 21 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 22 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 23 | [Karnataka](http://twitter.com/search?q=Karnataka) | N/A |
-| 24 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 25 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 26 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 27 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 28 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 29 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 30 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 31 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 32 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 33 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 34 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 35 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
-| 36 | [Y'all](http://twitter.com/search?q=Y%27all) | N/A |
+| 20 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 21 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 22 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 23 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
+| 24 | [Karnataka](http://twitter.com/search?q=Karnataka) | N/A |
+| 25 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 26 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 27 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 28 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 29 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 30 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 31 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 32 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 33 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 34 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 35 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 36 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
 | 37 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 38 | [Washington](http://twitter.com/search?q=Washington) | N/A |
 | 39 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
 | 40 | [Indians](http://twitter.com/search?q=Indians) | N/A |
 | 41 | [SHUT UP](http://twitter.com/search?q=SHUT+UP) | N/A |
-| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 43 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
-| 44 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
-| 45 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 46 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 47 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 48 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 49 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 42 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
+| 43 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
+| 44 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 46 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 47 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 48 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 49 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 50 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 
 

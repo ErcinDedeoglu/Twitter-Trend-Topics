@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-04-10 19:17:52 UTC`
+📆 Last Updated: `2023-04-10 20:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 2 | [#FCLOM](http://twitter.com/search?q=%23FCLOM) | N/A |
-| 3 | [Françoise Hardy](http://twitter.com/search?q=Fran%c3%a7oise+Hardy) | N/A |
-| 4 | [#TrashTalkBracketContest](http://twitter.com/search?q=%23TrashTalkBracketContest) | N/A |
-| 5 | [#GA2023](http://twitter.com/search?q=%23GA2023) | N/A |
-| 6 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 7 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
-| 8 | [#QuiEstCe](http://twitter.com/search?q=%23QuiEstCe) | N/A |
+| 1 | [#MAPR](http://twitter.com/search?q=%23MAPR) | N/A |
+| 2 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 3 | [#MariesAuPremierRegard](http://twitter.com/search?q=%23MariesAuPremierRegard) | N/A |
+| 4 | [#MariesAu1erRegard](http://twitter.com/search?q=%23MariesAu1erRegard) | N/A |
+| 5 | [#FCLOM](http://twitter.com/search?q=%23FCLOM) | N/A |
+| 6 | [Françoise Hardy](http://twitter.com/search?q=Fran%c3%a7oise+Hardy) | N/A |
+| 7 | [#TrashTalkBracketContest](http://twitter.com/search?q=%23TrashTalkBracketContest) | N/A |
+| 8 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
 | 9 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
-| 10 | [Hervé Temime](http://twitter.com/search?q=Herv%c3%a9+Temime) | N/A |
-| 11 | [Samir Nasri](http://twitter.com/search?q=Samir+Nasri) | N/A |
-| 12 | [Lorient](http://twitter.com/search?q=Lorient) | N/A |
-| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 14 | [Liga NOS](http://twitter.com/search?q=Liga+NOS) | N/A |
-| 15 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 16 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 17 | [Playoffs 2023](http://twitter.com/search?q=Playoffs+2023) | N/A |
-| 18 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 19 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 20 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 21 | [Tivoli](http://twitter.com/search?q=Tivoli) | N/A |
-| 22 | [Dalaï Lama](http://twitter.com/search?q=Dala%c3%af+Lama) | N/A |
-| 23 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 24 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
-| 25 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 26 | [Baloo](http://twitter.com/search?q=Baloo) | N/A |
-| 27 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 28 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 29 | [Le PCF](http://twitter.com/search?q=Le+PCF) | N/A |
-| 30 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 31 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 32 | [TOTS](http://twitter.com/search?q=TOTS) | N/A |
-| 33 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
-| 34 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
-| 35 | [Lomepal](http://twitter.com/search?q=Lomepal) | N/A |
-| 36 | [Rosas Jr](http://twitter.com/search?q=Rosas+Jr) | N/A |
-| 37 | [Nawell Madani](http://twitter.com/search?q=Nawell+Madani) | N/A |
-| 38 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 39 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 40 | [Saizen](http://twitter.com/search?q=Saizen) | N/A |
-| 41 | [Premier Anime](http://twitter.com/search?q=Premier+Anime) | N/A |
-| 42 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
-| 43 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
-| 44 | [Dernier Anime](http://twitter.com/search?q=Dernier+Anime) | N/A |
-| 45 | [Pierre Lacotte](http://twitter.com/search?q=Pierre+Lacotte) | N/A |
-| 46 | [Akaza](http://twitter.com/search?q=Akaza) | N/A |
-| 47 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 48 | [Pire Anime](http://twitter.com/search?q=Pire+Anime) | N/A |
-| 49 | [Impavide](http://twitter.com/search?q=Impavide) | N/A |
-| 50 | [Balti](http://twitter.com/search?q=Balti) | N/A |
+| 10 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
+| 11 | [Hervé Temime](http://twitter.com/search?q=Herv%c3%a9+Temime) | N/A |
+| 12 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
+| 13 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 14 | [Nasri](http://twitter.com/search?q=Nasri) | N/A |
+| 15 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 16 | [Lorient](http://twitter.com/search?q=Lorient) | N/A |
+| 17 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 18 | [Liga NOS](http://twitter.com/search?q=Liga+NOS) | N/A |
+| 19 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 20 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 21 | [Estelle](http://twitter.com/search?q=Estelle) | N/A |
+| 22 | [Playoffs 2023](http://twitter.com/search?q=Playoffs+2023) | N/A |
+| 23 | [Baloo](http://twitter.com/search?q=Baloo) | N/A |
+| 24 | [Lomepal](http://twitter.com/search?q=Lomepal) | N/A |
+| 25 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 26 | [Dalaï Lama](http://twitter.com/search?q=Dala%c3%af+Lama) | N/A |
+| 27 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 28 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 29 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 30 | [Jefferson](http://twitter.com/search?q=Jefferson) | Jefferson is a surname of English origin. It is derived from the personal name Jeffrey, which is derived from the Old French name Jefroi, meaning "God's peace". |
+| 31 | [Tivoli](http://twitter.com/search?q=Tivoli) | N/A |
+| 32 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
+| 33 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
+| 34 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 35 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 36 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 37 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 38 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 39 | [Nawell Madani](http://twitter.com/search?q=Nawell+Madani) | N/A |
+| 40 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 41 | [Le PCF](http://twitter.com/search?q=Le+PCF) | N/A |
+| 42 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
+| 43 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 44 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 45 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
+| 46 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 47 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
+| 48 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 49 | [Saizen](http://twitter.com/search?q=Saizen) | N/A |
+| 50 | [Jean Massiet](http://twitter.com/search?q=Jean+Massiet) | N/A |
 
 
 

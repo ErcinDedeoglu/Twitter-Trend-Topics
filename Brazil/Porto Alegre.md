@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-04-10 19:17:48 UTC`
+📆 Last Updated: `2023-04-10 20:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 2 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 3 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 1 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 3 | [Fecha](http://twitter.com/search?q=Fecha) | N/A |
 | 4 | [Purple Kiss](http://twitter.com/search?q=Purple+Kiss) | N/A |
-| 5 | [#OBrasilVoltou](http://twitter.com/search?q=%23OBrasilVoltou) | N/A |
+| 5 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
 | 6 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
-| 7 | [#CarolBiazinNoVenus](http://twitter.com/search?q=%23CarolBiazinNoVenus) | N/A |
-| 8 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
-| 9 | [Fase Copa](http://twitter.com/search?q=Fase+Copa) | N/A |
-| 10 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
-| 11 | [Fase Sul-americana](http://twitter.com/search?q=Fase+Sul-americana) | N/A |
-| 12 | [biel xcamoso](http://twitter.com/search?q=biel+xcamoso) | N/A |
-| 13 | [TRAILER LUAN CITY 2](http://twitter.com/search?q=TRAILER+LUAN+CITY+2) | N/A |
-| 14 | [#ForaFredNicacio](http://twitter.com/search?q=%23ForaFredNicacio) | N/A |
-| 15 | [#osdonosdabola](http://twitter.com/search?q=%23osdonosdabola) | N/A |
-| 16 | [Guto Ferreira](http://twitter.com/search?q=Guto+Ferreira) | N/A |
+| 7 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
+| 8 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 9 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 10 | [#CarolBiazinNoVenus](http://twitter.com/search?q=%23CarolBiazinNoVenus) | N/A |
+| 11 | [#OBrasilVoltou](http://twitter.com/search?q=%23OBrasilVoltou) | N/A |
+| 12 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
+| 13 | [Fase Copa](http://twitter.com/search?q=Fase+Copa) | N/A |
+| 14 | [Fase Sul-americana](http://twitter.com/search?q=Fase+Sul-americana) | N/A |
+| 15 | [Midnight Rain](http://twitter.com/search?q=Midnight+Rain) | N/A |
+| 16 | [#AtardeESua](http://twitter.com/search?q=%23AtardeESua) | N/A |
 | 17 | [Ryan Murphy](http://twitter.com/search?q=Ryan+Murphy) | Ryan Murphy is an American screenwriter, director, and producer. He is best known for creating the television series Glee, American Horror Story, Pose, and 9-1-1. He has also directed several feature films including The Normal Heart and Eat Pray Love. Murphy's work often focuses on themes of acceptance and inclusion. |
-| 18 | [Vovô](http://twitter.com/search?q=Vov%c3%b4) | N/A |
-| 19 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 20 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 21 | [Destaque](http://twitter.com/search?q=Destaque) | N/A |
-| 22 | [midnight rain](http://twitter.com/search?q=midnight+rain) | N/A |
-| 23 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 24 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
-| 25 | [eiza](http://twitter.com/search?q=eiza) | N/A |
-| 26 | [Freud](http://twitter.com/search?q=Freud) | N/A |
-| 27 | [ufes](http://twitter.com/search?q=ufes) | N/A |
-| 28 | [Em 100](http://twitter.com/search?q=Em+100) | N/A |
-| 29 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
-| 30 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
-| 31 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 32 | [BLOOMING KARINA DAY](http://twitter.com/search?q=BLOOMING+KARINA+DAY) | N/A |
-| 33 | [Governo Lula](http://twitter.com/search?q=Governo+Lula) | N/A |
-| 34 | [Durval](http://twitter.com/search?q=Durval) | N/A |
-| 35 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
-| 36 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 37 | [Pedófilo](http://twitter.com/search?q=Ped%c3%b3filo) | N/A |
-| 38 | [Dia 10](http://twitter.com/search?q=Dia+10) | N/A |
-| 39 | [HAPPY BIRTHDAY DANIELLE](http://twitter.com/search?q=HAPPY+BIRTHDAY+DANIELLE) | N/A |
-| 40 | [Luan City 2.0](http://twitter.com/search?q=Luan+City+2.0) | N/A |
-| 41 | [Souza Amorim](http://twitter.com/search?q=Souza+Amorim) | N/A |
-| 42 | [IPVA](http://twitter.com/search?q=IPVA) | N/A |
-| 43 | [Galo e Cruzeiro](http://twitter.com/search?q=Galo+e+Cruzeiro) | N/A |
-| 44 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 45 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
-| 46 | [Pesquisa](http://twitter.com/search?q=Pesquisa) | N/A |
-| 47 | [Kit 10 Cuecas Boxer Algodão](http://twitter.com/search?q=Kit+10+Cuecas+Boxer+Algod%c3%a3o) | N/A |
-| 48 | [Itatiaia](http://twitter.com/search?q=Itatiaia) | N/A |
-| 49 | [Ana Thais](http://twitter.com/search?q=Ana+Thais) | N/A |
-| 50 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 18 | [#ForaFredNicacio](http://twitter.com/search?q=%23ForaFredNicacio) | N/A |
+| 19 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 20 | [Vovô](http://twitter.com/search?q=Vov%c3%b4) | N/A |
+| 21 | [Guto Ferreira](http://twitter.com/search?q=Guto+Ferreira) | N/A |
+| 22 | [Mc Gui](http://twitter.com/search?q=Mc+Gui) | N/A |
+| 23 | [biel xcamoso](http://twitter.com/search?q=biel+xcamoso) | N/A |
+| 24 | [#osdonosdabola](http://twitter.com/search?q=%23osdonosdabola) | N/A |
+| 25 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
+| 26 | [Miguel e Helena](http://twitter.com/search?q=Miguel+e+Helena) | N/A |
+| 27 | [Destaque](http://twitter.com/search?q=Destaque) | N/A |
+| 28 | [Nena](http://twitter.com/search?q=Nena) | N/A |
+| 29 | [Freud](http://twitter.com/search?q=Freud) | N/A |
+| 30 | [Prior](http://twitter.com/search?q=Prior) | Prior is an adjective that means earlier in time, order, or importance. It can also be used as a noun to refer to someone who holds a higher rank or position. |
+| 31 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 32 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
+| 33 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 34 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
+| 35 | [Em 100](http://twitter.com/search?q=Em+100) | N/A |
+| 36 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 37 | [Hércules](http://twitter.com/search?q=H%c3%a9rcules) | N/A |
+| 38 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
+| 39 | [TRAILER LUAN CITY 2](http://twitter.com/search?q=TRAILER+LUAN+CITY+2) | N/A |
+| 40 | [Pedófilo](http://twitter.com/search?q=Ped%c3%b3filo) | N/A |
+| 41 | [eiza](http://twitter.com/search?q=eiza) | N/A |
+| 42 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 43 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 44 | [IPVA](http://twitter.com/search?q=IPVA) | N/A |
+| 45 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 46 | [Dia 10](http://twitter.com/search?q=Dia+10) | N/A |
+| 47 | [Governo Lula](http://twitter.com/search?q=Governo+Lula) | N/A |
+| 48 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 49 | [HAPPY BIRTHDAY DANIELLE](http://twitter.com/search?q=HAPPY+BIRTHDAY+DANIELLE) | N/A |
+| 50 | [ufes](http://twitter.com/search?q=ufes) | N/A |
 
 
 

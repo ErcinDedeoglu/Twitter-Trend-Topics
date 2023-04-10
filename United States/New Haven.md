@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-04-10 19:18:23 UTC`
+📆 Last Updated: `2023-04-10 20:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,49 +17,48 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
 | 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 3 | [#NationalSiblingsDay](http://twitter.com/search?q=%23NationalSiblingsDay) | N/A |
-| 4 | [CALLAHAN](http://twitter.com/search?q=CALLAHAN) | Callahan is an Irish surname derived from the Gaelic name Ó Cathaláin, meaning "descendant of Cathalán". It is most commonly found in County Cork, Ireland. |
-| 5 | [#D3Week](http://twitter.com/search?q=%23D3Week) | N/A |
-| 6 | [#WhyD3](http://twitter.com/search?q=%23WhyD3) | N/A |
-| 7 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 8 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 9 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
-| 10 | [Pronouns](http://twitter.com/search?q=Pronouns) | N/A |
-| 11 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 12 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
-| 13 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
+| 3 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 4 | [#MassShooting](http://twitter.com/search?q=%23MassShooting) | N/A |
+| 5 | [#NationalSiblingsDay](http://twitter.com/search?q=%23NationalSiblingsDay) | N/A |
+| 6 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 7 | [Lil Baby](http://twitter.com/search?q=Lil+Baby) | N/A |
+| 8 | [DSMP](http://twitter.com/search?q=DSMP) | N/A |
+| 9 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
+| 10 | [#MyChildhoodSmelledOf](http://twitter.com/search?q=%23MyChildhoodSmelledOf) | N/A |
+| 11 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
+| 12 | [CALLAHAN](http://twitter.com/search?q=CALLAHAN) | Callahan is an Irish surname derived from the Gaelic name Ó Cathaláin, meaning "descendant of Cathalán". It is most commonly found in County Cork, Ireland. |
+| 13 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
 | 14 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
-| 15 | [Cody Ware](http://twitter.com/search?q=Cody+Ware) | N/A |
-| 16 | [Old National Bank](http://twitter.com/search?q=Old+National+Bank) | N/A |
-| 17 | [Hanser Alberto](http://twitter.com/search?q=Hanser+Alberto) | N/A |
-| 18 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 19 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
-| 20 | [Olay](http://twitter.com/search?q=Olay) | N/A |
-| 21 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 22 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 23 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
-| 24 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
-| 25 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 26 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 27 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 28 | [DSMP](http://twitter.com/search?q=DSMP) | N/A |
-| 29 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
-| 30 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 31 | [Andy Beshear](http://twitter.com/search?q=Andy+Beshear) | N/A |
-| 32 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
-| 33 | [Ryan Murphy](http://twitter.com/search?q=Ryan+Murphy) | Ryan Murphy is an American screenwriter, director, and producer. He is best known for creating the television series Glee, American Horror Story, Pose, and 9-1-1. He has also directed several feature films including The Normal Heart and Eat Pray Love. Murphy's work often focuses on themes of acceptance and inclusion. |
+| 15 | [Evan Gattis](http://twitter.com/search?q=Evan+Gattis) | N/A |
+| 16 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
+| 17 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
+| 18 | [Old National Bank](http://twitter.com/search?q=Old+National+Bank) | N/A |
+| 19 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 20 | [Pronouns](http://twitter.com/search?q=Pronouns) | N/A |
+| 21 | [Gavin Sheets](http://twitter.com/search?q=Gavin+Sheets) | N/A |
+| 22 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
+| 23 | [Dream SMP](http://twitter.com/search?q=Dream+SMP) | N/A |
+| 24 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
+| 25 | [Cody Ware](http://twitter.com/search?q=Cody+Ware) | N/A |
+| 26 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 27 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 28 | [Andy Beshear](http://twitter.com/search?q=Andy+Beshear) | N/A |
+| 29 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
+| 30 | [Rosalina](http://twitter.com/search?q=Rosalina) | N/A |
+| 31 | [Olay](http://twitter.com/search?q=Olay) | N/A |
+| 32 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 33 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
 | 34 | [Another Democrat](http://twitter.com/search?q=Another+Democrat) | N/A |
-| 35 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
-| 36 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
-| 37 | [JCTC](http://twitter.com/search?q=JCTC) | N/A |
-| 38 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 39 | [Monday in America](http://twitter.com/search?q=Monday+in+America) | N/A |
-| 40 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 41 | [Marcus Domask](http://twitter.com/search?q=Marcus+Domask) | N/A |
-| 42 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
-| 43 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
-| 44 | [Red Pill](http://twitter.com/search?q=Red+Pill) | N/A |
-| 45 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 35 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 36 | [Ryan Murphy](http://twitter.com/search?q=Ryan+Murphy) | Ryan Murphy is an American screenwriter, director, and producer. He is best known for creating the television series Glee, American Horror Story, Pose, and 9-1-1. He has also directed several feature films including The Normal Heart and Eat Pray Love. Murphy's work often focuses on themes of acceptance and inclusion. |
+| 37 | [Cardi](http://twitter.com/search?q=Cardi) | Cardi is short for Cardigan, a type of knitted sweater or jacket that opens down the front. It is usually made of wool or cotton and can be worn as a light jacket or over a shirt. |
+| 38 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
+| 39 | [Twitter Circles](http://twitter.com/search?q=Twitter+Circles) | N/A |
+| 40 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 41 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
+| 42 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 43 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
+| 44 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
 
 
 

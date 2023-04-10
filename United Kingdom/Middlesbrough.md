@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Middlesbrough
 
-📆 Last Updated: `2023-04-10 19:17:41 UTC`
+📆 Last Updated: `2023-04-10 20:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Keith Stroud](http://twitter.com/search?q=Keith+Stroud) | N/A |
-| 2 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
+| 1 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 2 | [#coronationstreet](http://twitter.com/search?q=%23coronationstreet) | N/A |
 | 3 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 4 | [GoPro](http://twitter.com/search?q=GoPro) | N/A |
-| 5 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
-| 6 | [MK Dons](http://twitter.com/search?q=MK+Dons) | N/A |
-| 7 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 8 | [#colu](http://twitter.com/search?q=%23colu) | N/A |
-| 9 | [Northampton](http://twitter.com/search?q=Northampton) | N/A |
-| 10 | [Luton](http://twitter.com/search?q=Luton) | N/A |
-| 11 | [Burke](http://twitter.com/search?q=Burke) | N/A |
-| 12 | [#BankHolidayMonday](http://twitter.com/search?q=%23BankHolidayMonday) | N/A |
-| 13 | [Albion](http://twitter.com/search?q=Albion) | N/A |
-| 14 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
-| 15 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
-| 16 | [West Bank](http://twitter.com/search?q=West+Bank) | N/A |
-| 17 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
-| 18 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 19 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 20 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 21 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 22 | [#Masterchef](http://twitter.com/search?q=%23Masterchef) | N/A |
-| 23 | [#readingfc](http://twitter.com/search?q=%23readingfc) | N/A |
-| 24 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 25 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 26 | [Kenny Miller](http://twitter.com/search?q=Kenny+Miller) | N/A |
-| 27 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 28 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 29 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 30 | [I Am Maximus](http://twitter.com/search?q=I+Am+Maximus) | N/A |
-| 31 | [Warne](http://twitter.com/search?q=Warne) | N/A |
-| 32 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 33 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
-| 34 | [Langstaff](http://twitter.com/search?q=Langstaff) | N/A |
-| 35 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
-| 36 | [Neil Mellor](http://twitter.com/search?q=Neil+Mellor) | N/A |
-| 37 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 38 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
-| 39 | [Londonderry](http://twitter.com/search?q=Londonderry) | N/A |
-| 40 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
-| 41 | [Mbete](http://twitter.com/search?q=Mbete) | N/A |
-| 42 | [A. Game](http://twitter.com/search?q=A.+Game) | N/A |
-| 43 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 44 | [Bristol City](http://twitter.com/search?q=Bristol+City) | N/A |
-| 45 | [Creggan](http://twitter.com/search?q=Creggan) | N/A |
-| 46 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 47 | [Pukki](http://twitter.com/search?q=Pukki) | N/A |
-| 48 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
-| 49 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 4 | [#WXMNOT](http://twitter.com/search?q=%23WXMNOT) | N/A |
+| 5 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
+| 6 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
+| 7 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
+| 8 | [Millwall](http://twitter.com/search?q=Millwall) | N/A |
+| 9 | [Plymouth](http://twitter.com/search?q=Plymouth) | N/A |
+| 10 | [Monkfish](http://twitter.com/search?q=Monkfish) | N/A |
+| 11 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 12 | [Woking](http://twitter.com/search?q=Woking) | N/A |
+| 13 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
+| 14 | [League 2](http://twitter.com/search?q=League+2) | N/A |
+| 15 | [#colu](http://twitter.com/search?q=%23colu) | N/A |
+| 16 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
+| 17 | [Luton](http://twitter.com/search?q=Luton) | N/A |
+| 18 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
+| 19 | [#pufc](http://twitter.com/search?q=%23pufc) | N/A |
+| 20 | [Albion](http://twitter.com/search?q=Albion) | N/A |
+| 21 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 22 | [West Bank](http://twitter.com/search?q=West+Bank) | N/A |
+| 23 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
+| 24 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 25 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 26 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 27 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
+| 28 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 29 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
+| 30 | [Chip](http://twitter.com/search?q=Chip) | N/A |
+| 31 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 32 | [Damon](http://twitter.com/search?q=Damon) | N/A |
+| 33 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
+| 34 | [Elvis Costello](http://twitter.com/search?q=Elvis+Costello) | N/A |
+| 35 | [tommys](http://twitter.com/search?q=tommys) | N/A |
+| 36 | [Kenny Miller](http://twitter.com/search?q=Kenny+Miller) | N/A |
+| 37 | [The SFA](http://twitter.com/search?q=The+SFA) | N/A |
+| 38 | [Warne](http://twitter.com/search?q=Warne) | N/A |
+| 39 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 40 | [Benson](http://twitter.com/search?q=Benson) | Benson is a given name of English origin, derived from the surname Benson. It is a variant of the name Benedict, which means "blessed". |
+| 41 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
+| 42 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 43 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 44 | [Derry](http://twitter.com/search?q=Derry) | N/A |
+| 45 | [Langstaff](http://twitter.com/search?q=Langstaff) | N/A |
+| 46 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 47 | [Blades](http://twitter.com/search?q=Blades) | N/A |
+| 48 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
+| 49 | [Neil Mellor](http://twitter.com/search?q=Neil+Mellor) | N/A |
 
 
 

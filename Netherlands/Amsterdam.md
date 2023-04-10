@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-04-10 19:17:55 UTC`
+📆 Last Updated: `2023-04-10 20:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Huub Oosterhuis](http://twitter.com/search?q=Huub+Oosterhuis) | N/A |
-| 2 | [#hmmik](http://twitter.com/search?q=%23hmmik) | N/A |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
+| 1 | [#HMMIK](http://twitter.com/search?q=%23HMMIK) | N/A |
+| 2 | [Huub Oosterhuis](http://twitter.com/search?q=Huub+Oosterhuis) | N/A |
+| 3 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
+| 4 | [Vragen](http://twitter.com/search?q=Vragen) | N/A |
 | 5 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
-| 6 | [Vragen](http://twitter.com/search?q=Vragen) | N/A |
-| 7 | [#chateauMeiland](http://twitter.com/search?q=%23chateauMeiland) | N/A |
-| 8 | [2e Paasdag](http://twitter.com/search?q=2e+Paasdag) | N/A |
-| 9 | [#feyrkc](http://twitter.com/search?q=%23feyrkc) | N/A |
-| 10 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 11 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 12 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 7 | [#chateaumeiland](http://twitter.com/search?q=%23chateaumeiland) | N/A |
+| 8 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 9 | [2e Paasdag](http://twitter.com/search?q=2e+Paasdag) | N/A |
+| 10 | [#feyrkc](http://twitter.com/search?q=%23feyrkc) | N/A |
+| 11 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
+| 12 | [Laurens Buijs](http://twitter.com/search?q=Laurens+Buijs) | N/A |
 | 13 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 14 | [Laurens Buijs](http://twitter.com/search?q=Laurens+Buijs) | N/A |
-| 15 | [Op de Poeh-pathologietest](http://twitter.com/search?q=Op+de+Poeh-pathologietest) | N/A |
-| 16 | [Etten-Leur](http://twitter.com/search?q=Etten-Leur) | N/A |
-| 17 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 18 | [Joost Prinsen](http://twitter.com/search?q=Joost+Prinsen) | N/A |
-| 19 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
-| 20 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 21 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
+| 14 | [Joost Prinsen](http://twitter.com/search?q=Joost+Prinsen) | N/A |
+| 15 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 16 | [Op de Poeh-pathologietest](http://twitter.com/search?q=Op+de+Poeh-pathologietest) | N/A |
+| 17 | [Etten-Leur](http://twitter.com/search?q=Etten-Leur) | N/A |
+| 18 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 19 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 20 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
+| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 22 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 23 | [Meilandjes](http://twitter.com/search?q=Meilandjes) | N/A |
-| 24 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 25 | [Geert Mak](http://twitter.com/search?q=Geert+Mak) | N/A |
-| 26 | [Piet](http://twitter.com/search?q=Piet) | N/A |
-| 27 | [Trijntje](http://twitter.com/search?q=Trijntje) | N/A |
-| 28 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
-| 29 | [KNVB](http://twitter.com/search?q=KNVB) | N/A |
-| 30 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
-| 31 | [Scott Ritter](http://twitter.com/search?q=Scott+Ritter) | N/A |
-| 32 | [Ninefornews](http://twitter.com/search?q=Ninefornews) | N/A |
-| 33 | [LHBTI](http://twitter.com/search?q=LHBTI) | N/A |
-| 34 | [Philipsen](http://twitter.com/search?q=Philipsen) | N/A |
-| 35 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 36 | [Schimmelpenninck](http://twitter.com/search?q=Schimmelpenninck) | N/A |
-| 37 | [Konijn](http://twitter.com/search?q=Konijn) | N/A |
-| 38 | [prinses ariane](http://twitter.com/search?q=prinses+ariane) | N/A |
-| 39 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 40 | [Zeg Nee](http://twitter.com/search?q=Zeg+Nee) | N/A |
-| 41 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
-| 42 | [Talpa](http://twitter.com/search?q=Talpa) | N/A |
-| 43 | [Nordsjaelland](http://twitter.com/search?q=Nordsjaelland) | N/A |
-| 44 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
-| 45 | [Degenkolb](http://twitter.com/search?q=Degenkolb) | N/A |
-| 46 | [Ongedifferentieerd-Androgyn](http://twitter.com/search?q=Ongedifferentieerd-Androgyn) | N/A |
-| 47 | [aalberts](http://twitter.com/search?q=aalberts) | N/A |
-| 48 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 49 | [Sterkte Arthur](http://twitter.com/search?q=Sterkte+Arthur) | N/A |
-| 50 | [Mislintat](http://twitter.com/search?q=Mislintat) | N/A |
+| 23 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 24 | [Erica](http://twitter.com/search?q=Erica) | N/A |
+| 25 | [Meilandjes](http://twitter.com/search?q=Meilandjes) | N/A |
+| 26 | [Erisman](http://twitter.com/search?q=Erisman) | N/A |
+| 27 | [Geert Mak](http://twitter.com/search?q=Geert+Mak) | N/A |
+| 28 | [KNVB](http://twitter.com/search?q=KNVB) | N/A |
+| 29 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
+| 30 | [LHBTI](http://twitter.com/search?q=LHBTI) | N/A |
+| 31 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
+| 32 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
+| 33 | [Trijntje](http://twitter.com/search?q=Trijntje) | N/A |
+| 34 | [Konijn](http://twitter.com/search?q=Konijn) | N/A |
+| 35 | [Piet](http://twitter.com/search?q=Piet) | N/A |
+| 36 | [Zeg Nee](http://twitter.com/search?q=Zeg+Nee) | N/A |
+| 37 | [Ninefornews](http://twitter.com/search?q=Ninefornews) | N/A |
+| 38 | [Philipsen](http://twitter.com/search?q=Philipsen) | N/A |
+| 39 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 40 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 41 | [Schimmelpenninck](http://twitter.com/search?q=Schimmelpenninck) | N/A |
+| 42 | [Mislintat](http://twitter.com/search?q=Mislintat) | N/A |
+| 43 | [prinses ariane](http://twitter.com/search?q=prinses+ariane) | N/A |
+| 44 | [Ciska](http://twitter.com/search?q=Ciska) | N/A |
+| 45 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 46 | [Scott Ritter](http://twitter.com/search?q=Scott+Ritter) | N/A |
+| 47 | [Talpa](http://twitter.com/search?q=Talpa) | N/A |
+| 48 | [Nordsjaelland](http://twitter.com/search?q=Nordsjaelland) | N/A |
+| 49 | [Geertruida](http://twitter.com/search?q=Geertruida) | N/A |
+| 50 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
 
 
 

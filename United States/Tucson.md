@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-04-10 19:18:26 UTC`
+📆 Last Updated: `2023-04-10 20:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 3 | [#NationalSiblingsDay](http://twitter.com/search?q=%23NationalSiblingsDay) | N/A |
-| 4 | [CALLAHAN](http://twitter.com/search?q=CALLAHAN) | Callahan is an Irish surname derived from the Gaelic name Ó Cathaláin, meaning "descendant of Cathalán". It is most commonly found in County Cork, Ireland. |
-| 5 | [#D3Week](http://twitter.com/search?q=%23D3Week) | N/A |
-| 6 | [#WhyD3](http://twitter.com/search?q=%23WhyD3) | N/A |
-| 7 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 8 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 10 | [#ItsTheGuns](http://twitter.com/search?q=%23ItsTheGuns) | N/A |
-| 11 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
-| 12 | [Pronouns](http://twitter.com/search?q=Pronouns) | N/A |
+| 1 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 2 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 4 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 5 | [#MassShooting](http://twitter.com/search?q=%23MassShooting) | N/A |
+| 6 | [#NationalSiblingsDay](http://twitter.com/search?q=%23NationalSiblingsDay) | N/A |
+| 7 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 8 | [Lil Baby](http://twitter.com/search?q=Lil+Baby) | N/A |
+| 9 | [DSMP](http://twitter.com/search?q=DSMP) | N/A |
+| 10 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
+| 11 | [#MyChildhoodSmelledOf](http://twitter.com/search?q=%23MyChildhoodSmelledOf) | N/A |
+| 12 | [#PLTXD](http://twitter.com/search?q=%23PLTXD) | N/A |
 | 13 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
-| 14 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 15 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
-| 16 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
-| 17 | [Cody Ware](http://twitter.com/search?q=Cody+Ware) | N/A |
-| 18 | [Old National Bank](http://twitter.com/search?q=Old+National+Bank) | N/A |
-| 19 | [Hanser Alberto](http://twitter.com/search?q=Hanser+Alberto) | N/A |
-| 20 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 21 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
-| 22 | [Olay](http://twitter.com/search?q=Olay) | N/A |
-| 23 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 24 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 25 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
-| 26 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
-| 27 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 28 | [DSMP](http://twitter.com/search?q=DSMP) | N/A |
-| 29 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 30 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 31 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
-| 32 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 33 | [Andy Beshear](http://twitter.com/search?q=Andy+Beshear) | N/A |
-| 34 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
-| 35 | [Ryan Murphy](http://twitter.com/search?q=Ryan+Murphy) | Ryan Murphy is an American screenwriter, director, and producer. He is best known for creating the television series Glee, American Horror Story, Pose, and 9-1-1. He has also directed several feature films including The Normal Heart and Eat Pray Love. Murphy's work often focuses on themes of acceptance and inclusion. |
-| 36 | [Another Democrat](http://twitter.com/search?q=Another+Democrat) | N/A |
-| 37 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
-| 38 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
-| 39 | [JCTC](http://twitter.com/search?q=JCTC) | N/A |
-| 40 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 41 | [Monday in America](http://twitter.com/search?q=Monday+in+America) | N/A |
-| 42 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 43 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
-| 44 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
-| 45 | [Red Pill](http://twitter.com/search?q=Red+Pill) | N/A |
-| 46 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 47 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 48 | [Rochelle](http://twitter.com/search?q=Rochelle) | N/A |
-| 49 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
+| 14 | [CALLAHAN](http://twitter.com/search?q=CALLAHAN) | Callahan is an Irish surname derived from the Gaelic name Ó Cathaláin, meaning "descendant of Cathalán". It is most commonly found in County Cork, Ireland. |
+| 15 | [#D3Week](http://twitter.com/search?q=%23D3Week) | N/A |
+| 16 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
+| 17 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
+| 18 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
+| 19 | [Evan Gattis](http://twitter.com/search?q=Evan+Gattis) | N/A |
+| 20 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
+| 21 | [Old National Bank](http://twitter.com/search?q=Old+National+Bank) | N/A |
+| 22 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 23 | [Pronouns](http://twitter.com/search?q=Pronouns) | N/A |
+| 24 | [Cody Ware](http://twitter.com/search?q=Cody+Ware) | N/A |
+| 25 | [Gavin Sheets](http://twitter.com/search?q=Gavin+Sheets) | N/A |
+| 26 | [Dream SMP](http://twitter.com/search?q=Dream+SMP) | N/A |
+| 27 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
+| 28 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
+| 29 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 30 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 31 | [Andy Beshear](http://twitter.com/search?q=Andy+Beshear) | N/A |
+| 32 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
+| 33 | [Rosalina](http://twitter.com/search?q=Rosalina) | N/A |
+| 34 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 35 | [Olay](http://twitter.com/search?q=Olay) | N/A |
+| 36 | [Ryan Murphy](http://twitter.com/search?q=Ryan+Murphy) | Ryan Murphy is an American screenwriter, director, and producer. He is best known for creating the television series Glee, American Horror Story, Pose, and 9-1-1. He has also directed several feature films including The Normal Heart and Eat Pray Love. Murphy's work often focuses on themes of acceptance and inclusion. |
+| 37 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
+| 38 | [Another Democrat](http://twitter.com/search?q=Another+Democrat) | N/A |
+| 39 | [Cardi](http://twitter.com/search?q=Cardi) | Cardi is short for Cardigan, a type of knitted sweater or jacket that opens down the front. It is usually made of wool or cotton and can be worn as a light jacket or over a shirt. |
+| 40 | [Maeda](http://twitter.com/search?q=Maeda) | Maeda is a Japanese surname. It is derived from the Japanese words for “front” and “field”, and it can be translated to mean “in the front of the field”. |
+| 41 | [Twitter Circles](http://twitter.com/search?q=Twitter+Circles) | N/A |
+| 42 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 43 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 44 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 45 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
+| 46 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
+| 47 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 48 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
+| 49 | [Civale](http://twitter.com/search?q=Civale) | N/A |
 
 
 

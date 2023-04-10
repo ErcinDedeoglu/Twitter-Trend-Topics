@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-10 19:17:38 UTC`
+📆 Last Updated: `2023-04-10 20:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RCBvsLSG](http://twitter.com/search?q=%23RCBvsLSG) | N/A |
-| 2 | [#FKGvFB](http://twitter.com/search?q=%23FKGvFB) | N/A |
-| 3 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 5 | [Dexgame](http://twitter.com/search?q=Dexgame) | N/A |
-| 6 | [#الهلال_الطايي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
-| 7 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 8 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
-| 9 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 10 | [Altay](http://twitter.com/search?q=Altay) | Altay is a region in Central Asia that spans parts of Russia, China, Kazakhstan, and Mongolia. The name Altay is derived from the Turkic word for "golden mountain," and it is known for its mountainous terrain and rich cultural heritage. In English, Altay means "Golden Mountain." |
-| 11 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 12 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
-| 13 | [#Welcome_to_MyKarina](http://twitter.com/search?q=%23Welcome_to_MyKarina) | N/A |
-| 14 | [#MasDeLoMismo](http://twitter.com/search?q=%23MasDeLoMismo) | N/A |
-| 15 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
-| 16 | [Harshal](http://twitter.com/search?q=Harshal) | N/A |
-| 17 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
-| 18 | [CALLAHAN](http://twitter.com/search?q=CALLAHAN) | Callahan is an Irish surname derived from the Gaelic name Ó Cathaláin, meaning "descendant of Cathalán". It is most commonly found in County Cork, Ireland. |
-| 19 | [Borini](http://twitter.com/search?q=Borini) | Borini is an Italian surname. It is derived from the Latin word "Borinus", which means "a man of the woods". In English, it can be translated to mean "woodsman". |
-| 20 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
-| 21 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 22 | [Samet](http://twitter.com/search?q=Samet) | Samet is a Turkish word meaning "same". It is used to describe something that is the same or similar. |
-| 23 | [Pooran](http://twitter.com/search?q=Pooran) | Pooran is a Hindu name derived from the Sanskrit word "purana," which means "old." It is often used as a given name for boys and girls in India. In English, it can be translated to mean "old one" or "ancient one." |
-| 24 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 25 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 26 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
-| 27 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
-| 28 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
-| 29 | [CABA](http://twitter.com/search?q=CABA) | N/A |
-| 30 | [Biliniyo](http://twitter.com/search?q=Biliniyo) | Biliniyo is a term used in the Yoruba language of Nigeria, and it means "friendship". |
-| 31 | [Mankad](http://twitter.com/search?q=Mankad) | Mankad is a term used in cricket to describe a controversial form of run out. It occurs when the bowler, after entering his delivery stride, stops and breaks the wicket with the batsman out of his crease. The term is named after Vinoo Mankad, an Indian cricketer who was known for this tactic. |
-| 32 | [Stoinis](http://twitter.com/search?q=Stoinis) | N/A |
-| 33 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
-| 34 | [TWELVE YEARS WITH LISA](http://twitter.com/search?q=TWELVE+YEARS+WITH+LISA) | N/A |
-| 35 | [राष्ट्रीय पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 36 | [音也くん](http://twitter.com/search?q=%e9%9f%b3%e4%b9%9f%e3%81%8f%e3%82%93) | N/A |
-| 37 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 38 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
-| 39 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
-| 40 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
-| 41 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 42 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 43 | [Bishnoi](http://twitter.com/search?q=Bishnoi) | N/A |
-| 44 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 45 | [Chinnaswamy](http://twitter.com/search?q=Chinnaswamy) | N/A |
-| 46 | [Taşeronİçin SeçimVakti](http://twitter.com/search?q=Ta%c5%9feron%c4%b0%c3%a7in+Se%c3%a7imVakti) | N/A |
-| 47 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 48 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 49 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
-| 50 | [Gautam Gambhir](http://twitter.com/search?q=Gautam+Gambhir) | N/A |
+| 1 | [#الهلال_الطايي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
+| 2 | [#RCBvsLSG](http://twitter.com/search?q=%23RCBvsLSG) | N/A |
+| 3 | [#FKGvFB](http://twitter.com/search?q=%23FKGvFB) | N/A |
+| 4 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 5 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 6 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
+| 7 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 8 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 9 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 10 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
+| 11 | [#نص_حبه_مع_الرز](http://twitter.com/search?q=%23%d9%86%d8%b5_%d8%ad%d8%a8%d9%87_%d9%85%d8%b9_%d8%a7%d9%84%d8%b1%d8%b2) | N/A |
+| 12 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 13 | [عطيف](http://twitter.com/search?q=%d8%b9%d8%b7%d9%8a%d9%81) | عطيف (pronounced 'aTif) is an Arabic word meaning generous or kind. It is often used to describe someone who is generous with their time, money, or resources. |
+| 14 | [#الاهلي_العين](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%8a%d9%86) | N/A |
+| 15 | [Dexgame](http://twitter.com/search?q=Dexgame) | N/A |
+| 16 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 17 | [جحفلي](http://twitter.com/search?q=%d8%ac%d8%ad%d9%81%d9%84%d9%8a) | N/A |
+| 18 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 19 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
+| 20 | [البريك](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%83) | البريك is an Arabic word that means "blessing". It is used to express a wish for good fortune or success. |
+| 21 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
+| 22 | [امين عمر](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d9%86+%d8%b9%d9%85%d8%b1) | N/A |
+| 23 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 24 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 25 | [مدحت شلبي](http://twitter.com/search?q=%d9%85%d8%af%d8%ad%d8%aa+%d8%b4%d9%84%d8%a8%d9%8a) | N/A |
+| 26 | [صالح الشهري](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | صالح الشهري is an Arabic phrase that translates to "monthly good deed". It is a phrase used to describe a charitable act or donation that is done on a regular basis. |
+| 27 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 28 | [DSMP](http://twitter.com/search?q=DSMP) | N/A |
+| 29 | [Altay](http://twitter.com/search?q=Altay) | Altay is a region in Central Asia that spans parts of Russia, China, Kazakhstan, and Mongolia. The name Altay is derived from the Turkic word for "golden mountain," and it is known for its mountainous terrain and rich cultural heritage. In English, Altay means "Golden Mountain." |
+| 30 | [رمضان صبحي](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%b5%d8%a8%d8%ad%d9%8a) | N/A |
+| 31 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
+| 32 | [ناصر الدوسري](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | ناصر الدوسري is the name of a prominent Iraqi politician who served as Prime Minister of Iraq from 2006 to 2014. In English, it translates to Nouri al-Maliki. |
+| 33 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 34 | [الحمدان](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%af%d8%a7%d9%86) | الحمدان is an Arabic phrase meaning "praise be to God". It is often used as a form of expression of gratitude and appreciation. |
+| 35 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 36 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 37 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
+| 38 | [Daily Loud](http://twitter.com/search?q=Daily+Loud) | N/A |
+| 39 | [دفاع الهلال](http://twitter.com/search?q=%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 40 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 41 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
+| 42 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | Penaltı is a term used in soccer (football) to refer to a penalty kick. It is a kick taken from the penalty spot by a player of the team that has been fouled, and it is usually taken with the aim of scoring a goal. In English, it is simply referred to as a "penalty kick". |
+| 43 | [Samet](http://twitter.com/search?q=Samet) | Samet is a Turkish word meaning "same". It is used to describe something that is the same or similar. |
+| 44 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 45 | [CALLAHAN](http://twitter.com/search?q=CALLAHAN) | Callahan is an Irish surname derived from the Gaelic name Ó Cathaláin, meaning "descendant of Cathalán". It is most commonly found in County Cork, Ireland. |
+| 46 | [Borini](http://twitter.com/search?q=Borini) | Borini is an Italian surname. It is derived from the Latin word "Borinus", which means "a man of the woods". In English, it can be translated to mean "woodsman". |
+| 47 | [Harshal](http://twitter.com/search?q=Harshal) | N/A |
+| 48 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
+| 49 | [العويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3) | العويس is an Arabic phrase that translates to "the one who is away". It is often used to refer to someone who has gone away or is absent. |
+| 50 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
 
 
 
