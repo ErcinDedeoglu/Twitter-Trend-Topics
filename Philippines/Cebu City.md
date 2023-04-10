@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-04-10 01:44:03 UTC`
+📆 Last Updated: `2023-04-10 02:29:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 3 | [#MaineGoalsSeason3](http://twitter.com/search?q=%23MaineGoalsSeason3) | N/A |
-| 4 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 5 | [#JISOOatInkigayo](http://twitter.com/search?q=%23JISOOatInkigayo) | N/A |
-| 6 | [SAKURA MOMENTS WITHKDLEX](http://twitter.com/search?q=SAKURA+MOMENTS+WITHKDLEX) | N/A |
-| 7 | [#HappyBirthdayDrCarlBalita](http://twitter.com/search?q=%23HappyBirthdayDrCarlBalita) | N/A |
-| 8 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
-| 9 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 10 | [#ensd](http://twitter.com/search?q=%23ensd) | N/A |
-| 11 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 12 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 13 | [JK x JB](http://twitter.com/search?q=JK+x+JB) | N/A |
-| 14 | [aces stronger 2gether](http://twitter.com/search?q=aces+stronger+2gether) | N/A |
-| 15 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 16 | [Woosung](http://twitter.com/search?q=Woosung) | N/A |
-| 17 | [justin bieber](http://twitter.com/search?q=justin+bieber) | N/A |
-| 18 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 19 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 20 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 3 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 4 | [#JISOOatInkigayo](http://twitter.com/search?q=%23JISOOatInkigayo) | N/A |
+| 5 | [ITS TIKTOCLOCK TIME BINI](http://twitter.com/search?q=ITS+TIKTOCLOCK+TIME+BINI) | N/A |
+| 6 | [JEON JUNGKOOK IS COMING](http://twitter.com/search?q=JEON+JUNGKOOK+IS+COMING) | N/A |
+| 7 | [SAKURA MOMENTS WITHKDLEX](http://twitter.com/search?q=SAKURA+MOMENTS+WITHKDLEX) | N/A |
+| 8 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
+| 9 | [JJK1 IS COMING](http://twitter.com/search?q=JJK1+IS+COMING) | N/A |
+| 10 | [#PLUUS_Amigo1MViews](http://twitter.com/search?q=%23PLUUS_Amigo1MViews) | N/A |
+| 11 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 12 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 13 | [#ensd](http://twitter.com/search?q=%23ensd) | N/A |
+| 14 | [JK x JB](http://twitter.com/search?q=JK+x+JB) | N/A |
+| 15 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
+| 16 | [#HappyBirthdayDrCarlBalita](http://twitter.com/search?q=%23HappyBirthdayDrCarlBalita) | N/A |
+| 17 | [aces stronger 2gether](http://twitter.com/search?q=aces+stronger+2gether) | N/A |
+| 18 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 19 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 20 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
 | 21 | [Jongdae](http://twitter.com/search?q=Jongdae) | N/A |
 | 22 | [Pabulong](http://twitter.com/search?q=Pabulong) | N/A |
-| 23 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 24 | [Fall of Bataan](http://twitter.com/search?q=Fall+of+Bataan) | N/A |
+| 23 | [Woosung](http://twitter.com/search?q=Woosung) | N/A |
+| 24 | [jeno](http://twitter.com/search?q=jeno) | N/A |
 | 25 | [exo'clock fanmeeting](http://twitter.com/search?q=exo%27clock+fanmeeting) | N/A |
-| 26 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 27 | [d-5 to anji paraiso](http://twitter.com/search?q=d-5+to+anji+paraiso) | N/A |
-| 28 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 29 | [gabbluke moshies anniversary](http://twitter.com/search?q=gabbluke+moshies+anniversary) | N/A |
-| 30 | [maligayang pasko](http://twitter.com/search?q=maligayang+pasko) | N/A |
-| 31 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 32 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
-| 33 | [WE LOVE YOU BELLE](http://twitter.com/search?q=WE+LOVE+YOU+BELLE) | N/A |
-| 34 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 35 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 36 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
-| 37 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 38 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
-| 39 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
-| 40 | [enhypen s'empare de paris](http://twitter.com/search?q=enhypen+s%27empare+de+paris) | N/A |
-| 41 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
+| 26 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 27 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 28 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 29 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 30 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 31 | [d-5 to anji paraiso](http://twitter.com/search?q=d-5+to+anji+paraiso) | N/A |
+| 32 | [gabbluke moshies anniversary](http://twitter.com/search?q=gabbluke+moshies+anniversary) | N/A |
+| 33 | [maligayang pasko](http://twitter.com/search?q=maligayang+pasko) | N/A |
+| 34 | [Fall of Bataan](http://twitter.com/search?q=Fall+of+Bataan) | N/A |
+| 35 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
+| 36 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
+| 37 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 38 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
+| 39 | [enhypen s'empare de paris](http://twitter.com/search?q=enhypen+s%27empare+de+paris) | N/A |
+| 40 | [World War II](http://twitter.com/search?q=World+War+II) | N/A |
+| 41 | [Logan](http://twitter.com/search?q=Logan) | N/A |
 | 42 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 43 | [World War II](http://twitter.com/search?q=World+War+II) | N/A |
-| 44 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 45 | [kendall](http://twitter.com/search?q=kendall) | N/A |
-| 46 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 47 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 48 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 49 | [31months with brentmanalo](http://twitter.com/search?q=31months+with+brentmanalo) | N/A |
-| 50 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
+| 43 | [kendall](http://twitter.com/search?q=kendall) | N/A |
+| 44 | [Day of Valor](http://twitter.com/search?q=Day+of+Valor) | N/A |
+| 45 | [31months with brentmanalo](http://twitter.com/search?q=31months+with+brentmanalo) | N/A |
+| 46 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
+| 47 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
+| 48 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 49 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 50 | [London Boy](http://twitter.com/search?q=London+Boy) | N/A |
 
 
 

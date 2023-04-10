@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oklahoma City
 
-📆 Last Updated: `2023-04-10 01:44:21 UTC`
+📆 Last Updated: `2023-04-10 02:29:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 3 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
 | 4 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
 | 5 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 6 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 7 | [Preece](http://twitter.com/search?q=Preece) | N/A |
-| 8 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 9 | [Odell](http://twitter.com/search?q=Odell) | N/A |
-| 10 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 11 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
-| 12 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 13 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
-| 14 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 15 | [#TheQueensOfRB](http://twitter.com/search?q=%23TheQueensOfRB) | N/A |
-| 16 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 17 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 18 | [#WWHL](http://twitter.com/search?q=%23WWHL) | N/A |
-| 19 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 20 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 21 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 22 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
-| 23 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 24 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
-| 25 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 26 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
-| 27 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 28 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 29 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 30 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 31 | [Coko](http://twitter.com/search?q=Coko) | N/A |
-| 32 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 33 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 34 | [Cantlay](http://twitter.com/search?q=Cantlay) | N/A |
-| 35 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
-| 36 | [willa](http://twitter.com/search?q=willa) | N/A |
-| 37 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 38 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
-| 39 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 40 | [Tyler Huntley](http://twitter.com/search?q=Tyler+Huntley) | Tyler Huntley is a name. It does not have a specific meaning in English. |
-| 41 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 42 | [McDowell](http://twitter.com/search?q=McDowell) | N/A |
-| 43 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
-| 44 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 45 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
-| 46 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 47 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
-| 48 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 49 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
-| 50 | [Dusty Rhodes](http://twitter.com/search?q=Dusty+Rhodes) | N/A |
+| 6 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 7 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 8 | [Preece](http://twitter.com/search?q=Preece) | N/A |
+| 9 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 10 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
+| 11 | [Odell](http://twitter.com/search?q=Odell) | N/A |
+| 12 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 13 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
+| 14 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
+| 15 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
+| 16 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
+| 17 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
+| 18 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 19 | [willa](http://twitter.com/search?q=willa) | N/A |
+| 20 | [#TheQueensOfRB](http://twitter.com/search?q=%23TheQueensOfRB) | N/A |
+| 21 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 22 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 23 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 24 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 25 | [Briscoe](http://twitter.com/search?q=Briscoe) | N/A |
+| 26 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 27 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
+| 28 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 29 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 30 | [Christopher Bell](http://twitter.com/search?q=Christopher+Bell) | N/A |
+| 31 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
+| 32 | [Dusty Rhodes](http://twitter.com/search?q=Dusty+Rhodes) | N/A |
+| 33 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
+| 34 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 35 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 36 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 37 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 38 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 39 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
+| 40 | [Coko](http://twitter.com/search?q=Coko) | N/A |
+| 41 | [Paty](http://twitter.com/search?q=Paty) | N/A |
+| 42 | [Chastain](http://twitter.com/search?q=Chastain) | N/A |
+| 43 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 44 | [Cantlay](http://twitter.com/search?q=Cantlay) | N/A |
+| 45 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 46 | [jesse armstrong](http://twitter.com/search?q=jesse+armstrong) | N/A |
+| 47 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 48 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 49 | [Joan Baez](http://twitter.com/search?q=Joan+Baez) | N/A |
+| 50 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
 
 
 

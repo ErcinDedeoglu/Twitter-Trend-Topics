@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-04-10 01:43:51 UTC`
+📆 Last Updated: `2023-04-10 02:29:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Germany](</Germany>)
 | 3 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
 | 4 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
 | 5 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 6 | [#Traumschiff](http://twitter.com/search?q=%23Traumschiff) | N/A |
-| 7 | [#scffcb](http://twitter.com/search?q=%23scffcb) | N/A |
+| 6 | [#traumschiff](http://twitter.com/search?q=%23traumschiff) | N/A |
+| 7 | [#SCFFCB](http://twitter.com/search?q=%23SCFFCB) | N/A |
 | 8 | [Eier](http://twitter.com/search?q=Eier) | N/A |
 | 9 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 11 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
+| 10 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
+| 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 12 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
 | 13 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 14 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 15 | [totales durcheinander](http://twitter.com/search?q=totales+durcheinander) | N/A |
 | 16 | [ostersamstag](http://twitter.com/search?q=ostersamstag) | N/A |
 | 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 18 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 19 | [Özil](http://twitter.com/search?q=%c3%96zil) | N/A |
-| 20 | [karfreitag](http://twitter.com/search?q=karfreitag) | N/A |
-| 21 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 22 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 23 | [Jenz](http://twitter.com/search?q=Jenz) | N/A |
-| 24 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 25 | [Alice Schwarzer](http://twitter.com/search?q=Alice+Schwarzer) | N/A |
-| 26 | [Ostergrüße](http://twitter.com/search?q=Ostergr%c3%bc%c3%9fe) | N/A |
-| 27 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 28 | [karsamstag](http://twitter.com/search?q=karsamstag) | N/A |
-| 29 | [Düsseldorf](http://twitter.com/search?q=D%c3%bcsseldorf) | N/A |
-| 30 | [gleichfalls](http://twitter.com/search?q=gleichfalls) | N/A |
-| 31 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
-| 32 | [Auswärtssieg](http://twitter.com/search?q=Ausw%c3%a4rtssieg) | N/A |
-| 33 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 34 | [Großbrand](http://twitter.com/search?q=Gro%c3%9fbrand) | N/A |
-| 35 | [Restprogramm](http://twitter.com/search?q=Restprogramm) | N/A |
-| 36 | [Corinna Harfouch](http://twitter.com/search?q=Corinna+Harfouch) | N/A |
-| 37 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 38 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
-| 39 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 40 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 42 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 43 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 44 | [Heil](http://twitter.com/search?q=Heil) | N/A |
-| 45 | [Abstiegskampf](http://twitter.com/search?q=Abstiegskampf) | N/A |
-| 46 | [Dir und Deinen Lieben](http://twitter.com/search?q=Dir+und+Deinen+Lieben) | N/A |
-| 47 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 49 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 18 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 20 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 21 | [Özil](http://twitter.com/search?q=%c3%96zil) | N/A |
+| 22 | [karfreitag](http://twitter.com/search?q=karfreitag) | N/A |
+| 23 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 24 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 25 | [Jenz](http://twitter.com/search?q=Jenz) | N/A |
+| 26 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 27 | [Alice Schwarzer](http://twitter.com/search?q=Alice+Schwarzer) | N/A |
+| 28 | [Ostergrüße](http://twitter.com/search?q=Ostergr%c3%bc%c3%9fe) | N/A |
+| 29 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 30 | [karsamstag](http://twitter.com/search?q=karsamstag) | N/A |
+| 31 | [Düsseldorf](http://twitter.com/search?q=D%c3%bcsseldorf) | N/A |
+| 32 | [gleichfalls](http://twitter.com/search?q=gleichfalls) | N/A |
+| 33 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
+| 34 | [Auswärtssieg](http://twitter.com/search?q=Ausw%c3%a4rtssieg) | N/A |
+| 35 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 36 | [Großbrand](http://twitter.com/search?q=Gro%c3%9fbrand) | N/A |
+| 37 | [Restprogramm](http://twitter.com/search?q=Restprogramm) | N/A |
+| 38 | [Corinna Harfouch](http://twitter.com/search?q=Corinna+Harfouch) | N/A |
+| 39 | [Bruder](http://twitter.com/search?q=Bruder) | N/A |
+| 40 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 41 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
+| 42 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 43 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 44 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 45 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 46 | [Antisemiten](http://twitter.com/search?q=Antisemiten) | N/A |
+| 47 | [Abstiegskampf](http://twitter.com/search?q=Abstiegskampf) | N/A |
+| 48 | [Dir und Deinen Lieben](http://twitter.com/search?q=Dir+und+Deinen+Lieben) | N/A |
+| 49 | [Türken](http://twitter.com/search?q=T%c3%bcrken) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-04-10 01:44:17 UTC`
+📆 Last Updated: `2023-04-10 02:29:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 2 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
 | 3 | [Seby](http://twitter.com/search?q=Seby) | N/A |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
 | 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 6 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 7 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 8 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 9 | [Preece](http://twitter.com/search?q=Preece) | N/A |
-| 10 | [Odell](http://twitter.com/search?q=Odell) | N/A |
-| 11 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 12 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 13 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
-| 14 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 15 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 16 | [#TheQueensOfRB](http://twitter.com/search?q=%23TheQueensOfRB) | N/A |
-| 17 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
-| 18 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 19 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 20 | [#WWHL](http://twitter.com/search?q=%23WWHL) | N/A |
-| 21 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 22 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 23 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
-| 24 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 25 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 26 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 27 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
-| 28 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
-| 29 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 30 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 31 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 32 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 33 | [Coko](http://twitter.com/search?q=Coko) | N/A |
-| 34 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 35 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 36 | [Dodd](http://twitter.com/search?q=Dodd) | N/A |
-| 37 | [Cantlay](http://twitter.com/search?q=Cantlay) | N/A |
-| 38 | [willa](http://twitter.com/search?q=willa) | N/A |
-| 39 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 40 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
-| 41 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 42 | [Tyler Huntley](http://twitter.com/search?q=Tyler+Huntley) | Tyler Huntley is a name. It does not have a specific meaning in English. |
-| 43 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 44 | [McDowell](http://twitter.com/search?q=McDowell) | N/A |
-| 45 | [David Pastrnak](http://twitter.com/search?q=David+Pastrnak) | N/A |
-| 46 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 47 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
-| 48 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 49 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
-| 50 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
+| 6 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 7 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 8 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 9 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 10 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 11 | [Preece](http://twitter.com/search?q=Preece) | N/A |
+| 12 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 13 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
+| 14 | [Odell](http://twitter.com/search?q=Odell) | N/A |
+| 15 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
+| 16 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 17 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
+| 18 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
+| 19 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
+| 20 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
+| 21 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 22 | [willa](http://twitter.com/search?q=willa) | N/A |
+| 23 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 24 | [#TheQueensOfRB](http://twitter.com/search?q=%23TheQueensOfRB) | N/A |
+| 25 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 26 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 27 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 28 | [Briscoe](http://twitter.com/search?q=Briscoe) | N/A |
+| 29 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 30 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 31 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
+| 32 | [Christopher Bell](http://twitter.com/search?q=Christopher+Bell) | N/A |
+| 33 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 34 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
+| 35 | [Dusty Rhodes](http://twitter.com/search?q=Dusty+Rhodes) | N/A |
+| 36 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
+| 37 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 38 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 39 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 40 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 41 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
+| 42 | [Cantlay](http://twitter.com/search?q=Cantlay) | N/A |
+| 43 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 44 | [Coko](http://twitter.com/search?q=Coko) | N/A |
+| 45 | [Paty](http://twitter.com/search?q=Paty) | N/A |
+| 46 | [Chastain](http://twitter.com/search?q=Chastain) | N/A |
+| 47 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 48 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 49 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 50 | [jesse armstrong](http://twitter.com/search?q=jesse+armstrong) | N/A |
 
 
 

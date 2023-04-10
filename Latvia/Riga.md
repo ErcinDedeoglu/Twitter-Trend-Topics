@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-10 01:43:55 UTC`
+📆 Last Updated: `2023-04-10 02:29:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for [Latvia](</Latvia>)
 | ------- | ------------ | ------------ |
 | 1 | [priecīgas lieldienas](http://twitter.com/search?q=priec%c4%abgas+lieldienas) | N/A |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 3 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 | 4 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 5 | [Jēzus](http://twitter.com/search?q=J%c4%93zus) | N/A |
+| 5 | [jēzus](http://twitter.com/search?q=j%c4%93zus) | N/A |
 | 6 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
 | 7 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
 | 8 | [vakar](http://twitter.com/search?q=vakar) | N/A |
@@ -43,8 +43,8 @@ This is top 50 for [Latvia](</Latvia>)
 | 26 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
 | 27 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
 | 28 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
-| 29 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
-| 30 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 29 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 30 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
 | 31 | [pirms](http://twitter.com/search?q=pirms) | N/A |
 | 32 | [kādi](http://twitter.com/search?q=k%c4%81di) | N/A |
 | 33 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 45 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
 | 46 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
 | 47 | [ķīnas](http://twitter.com/search?q=%c4%b7%c4%abnas) | N/A |
-| 48 | ["Laikam"](http://twitter.com/search?q=%22Laikam%22) | N/A |
+| 48 | [laikam](http://twitter.com/search?q=laikam) | N/A |
 | 49 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
 | 50 | [vai tu](http://twitter.com/search?q=vai+tu) | N/A |
 

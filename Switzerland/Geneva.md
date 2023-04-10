@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-10 01:43:55 UTC`
+📆 Last Updated: `2023-04-10 02:29:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 4 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
+| 3 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
+| 4 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
 | 5 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
 | 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 7 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
@@ -31,7 +31,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 14 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
 | 15 | [Gotthard](http://twitter.com/search?q=Gotthard) | N/A |
 | 16 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
-| 17 | [Stau](http://twitter.com/search?q=Stau) | N/A |
+| 17 | [stau](http://twitter.com/search?q=stau) | N/A |
 | 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 19 | [Bundeshaus](http://twitter.com/search?q=Bundeshaus) | N/A |
 | 20 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
@@ -40,15 +40,15 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 23 | [Häuser](http://twitter.com/search?q=H%c3%a4user) | N/A |
 | 24 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 25 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 26 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
-| 27 | [European](http://twitter.com/search?q=European) | N/A |
-| 28 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 29 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
-| 30 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
-| 31 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 32 | [Turc](http://twitter.com/search?q=Turc) | N/A |
-| 33 | [Einfluss](http://twitter.com/search?q=Einfluss) | N/A |
-| 34 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 26 | [polymanga](http://twitter.com/search?q=polymanga) | N/A |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
+| 29 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
+| 30 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 31 | [Turc](http://twitter.com/search?q=Turc) | N/A |
+| 32 | [Einfluss](http://twitter.com/search?q=Einfluss) | N/A |
+| 33 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 34 | [Russian](http://twitter.com/search?q=Russian) | N/A |
 | 35 | [Eiern](http://twitter.com/search?q=Eiern) | N/A |
 | 36 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
 | 37 | [Tiere](http://twitter.com/search?q=Tiere) | N/A |
@@ -56,13 +56,13 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 39 | [Willen](http://twitter.com/search?q=Willen) | N/A |
 | 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 41 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 42 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
-| 43 | [Alternativen](http://twitter.com/search?q=Alternativen) | N/A |
-| 44 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
-| 45 | [Spinner](http://twitter.com/search?q=Spinner) | N/A |
-| 46 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 47 | [Wege](http://twitter.com/search?q=Wege) | N/A |
-| 48 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 42 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 43 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
+| 44 | [Alternativen](http://twitter.com/search?q=Alternativen) | N/A |
+| 45 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
+| 46 | [Spinner](http://twitter.com/search?q=Spinner) | N/A |
+| 47 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 48 | [Wege](http://twitter.com/search?q=Wege) | N/A |
 
 
 

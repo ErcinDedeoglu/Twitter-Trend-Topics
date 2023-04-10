@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-04-10 01:43:45 UTC`
+📆 Last Updated: `2023-04-10 02:29:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,49 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 5 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 7 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
-| 8 | [#PuebloEnAmorYPaz](http://twitter.com/search?q=%23PuebloEnAmorYPaz) | N/A |
+| 8 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
 | 9 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
 | 10 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
 | 11 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
-| 12 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
+| 12 | [#PuebloEnAmorYPaz](http://twitter.com/search?q=%23PuebloEnAmorYPaz) | N/A |
 | 13 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
-| 14 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 15 | [#vinotintosub17xmtv](http://twitter.com/search?q=%23vinotintosub17xmtv) | N/A |
+| 14 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
+| 15 | [Otero](http://twitter.com/search?q=Otero) | N/A |
 | 16 | [Lacava](http://twitter.com/search?q=Lacava) | N/A |
-| 17 | [Otero](http://twitter.com/search?q=Otero) | N/A |
-| 18 | [Edecio](http://twitter.com/search?q=Edecio) | N/A |
-| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 17 | [Edecio](http://twitter.com/search?q=Edecio) | N/A |
+| 18 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 19 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
 | 20 | [Felipe González](http://twitter.com/search?q=Felipe+Gonz%c3%a1lez) | N/A |
-| 21 | [#SabadoDeGloria](http://twitter.com/search?q=%23SabadoDeGloria) | N/A |
-| 22 | [Eladio Lares](http://twitter.com/search?q=Eladio+Lares) | N/A |
-| 23 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 24 | [Lusinchi](http://twitter.com/search?q=Lusinchi) | N/A |
-| 25 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 26 | [Ivonne Attas](http://twitter.com/search?q=Ivonne+Attas) | N/A |
-| 27 | [Papel](http://twitter.com/search?q=Papel) | N/A |
-| 28 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 29 | [Barco](http://twitter.com/search?q=Barco) | N/A |
+| 21 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
+| 22 | [#SabadoDeGloria](http://twitter.com/search?q=%23SabadoDeGloria) | N/A |
+| 23 | [Eladio Lares](http://twitter.com/search?q=Eladio+Lares) | N/A |
+| 24 | [Ivonne Attas](http://twitter.com/search?q=Ivonne+Attas) | N/A |
+| 25 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 26 | [Lusinchi](http://twitter.com/search?q=Lusinchi) | N/A |
+| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 28 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 29 | [Papel](http://twitter.com/search?q=Papel) | N/A |
 | 30 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
-| 31 | [Tocuyito](http://twitter.com/search?q=Tocuyito) | N/A |
-| 32 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 33 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
-| 34 | [María Félix](http://twitter.com/search?q=Mar%c3%ada+F%c3%a9lix) | N/A |
+| 31 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 32 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
+| 33 | [Tocuyito](http://twitter.com/search?q=Tocuyito) | N/A |
+| 34 | [Tíbet](http://twitter.com/search?q=T%c3%adbet) | N/A |
 | 35 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 36 | [Piñerua](http://twitter.com/search?q=Pi%c3%b1erua) | N/A |
-| 37 | [ASENSIO](http://twitter.com/search?q=ASENSIO) | N/A |
-| 38 | [Tíbet](http://twitter.com/search?q=T%c3%adbet) | N/A |
-| 39 | [Angostura](http://twitter.com/search?q=Angostura) | N/A |
-| 40 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
-| 41 | [Alex Saab](http://twitter.com/search?q=Alex+Saab) | N/A |
-| 42 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 43 | [Sobrador](http://twitter.com/search?q=Sobrador) | N/A |
-| 44 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
-| 45 | [Chataing](http://twitter.com/search?q=Chataing) | N/A |
-| 46 | [Brave Yole](http://twitter.com/search?q=Brave+Yole) | N/A |
-| 47 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
-| 48 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
-| 49 | [Tom Selleck](http://twitter.com/search?q=Tom+Selleck) | N/A |
+| 36 | [María Félix](http://twitter.com/search?q=Mar%c3%ada+F%c3%a9lix) | N/A |
+| 37 | [Piñerua](http://twitter.com/search?q=Pi%c3%b1erua) | N/A |
+| 38 | [ASENSIO](http://twitter.com/search?q=ASENSIO) | N/A |
+| 39 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
+| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 41 | [Brave Yole](http://twitter.com/search?q=Brave+Yole) | N/A |
+| 42 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
+| 43 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 44 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 45 | [Sobrador](http://twitter.com/search?q=Sobrador) | N/A |
+| 46 | [Alex Saab](http://twitter.com/search?q=Alex+Saab) | N/A |
+| 47 | [Tom Selleck](http://twitter.com/search?q=Tom+Selleck) | N/A |
+| 48 | [Chataing](http://twitter.com/search?q=Chataing) | N/A |
+| 49 | [Velasquez](http://twitter.com/search?q=Velasquez) | N/A |
+| 50 | [El Bogotazo](http://twitter.com/search?q=El+Bogotazo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-04-10 01:43:50 UTC`
+📆 Last Updated: `2023-04-10 02:29:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,44 +25,44 @@ This is top 50 for [France](</France>)
 | 8 | [Lorient](http://twitter.com/search?q=Lorient) | N/A |
 | 9 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 10 | [Kurama](http://twitter.com/search?q=Kurama) | N/A |
-| 11 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 12 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
-| 13 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 14 | [Rocket League](http://twitter.com/search?q=Rocket+League) | N/A |
-| 15 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 16 | [Françoise Hardy](http://twitter.com/search?q=Fran%c3%a7oise+Hardy) | N/A |
-| 17 | [Eversax](http://twitter.com/search?q=Eversax) | N/A |
-| 18 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 19 | [Tivoli](http://twitter.com/search?q=Tivoli) | N/A |
-| 20 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 21 | [Vatigoat](http://twitter.com/search?q=Vatigoat) | N/A |
-| 22 | [Faze](http://twitter.com/search?q=Faze) | N/A |
-| 23 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 24 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
-| 25 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 26 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
-| 27 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 28 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 29 | [Premier Anime](http://twitter.com/search?q=Premier+Anime) | N/A |
-| 30 | [Dernier Anime](http://twitter.com/search?q=Dernier+Anime) | N/A |
+| 11 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
+| 12 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 13 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 14 | [Françoise Hardy](http://twitter.com/search?q=Fran%c3%a7oise+Hardy) | N/A |
+| 15 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 16 | [Tivoli](http://twitter.com/search?q=Tivoli) | N/A |
+| 17 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 18 | [Eversax](http://twitter.com/search?q=Eversax) | N/A |
+| 19 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 20 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 21 | [Rocket League](http://twitter.com/search?q=Rocket+League) | N/A |
+| 22 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 23 | [VATIGOAT](http://twitter.com/search?q=VATIGOAT) | N/A |
+| 24 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 25 | [Faze](http://twitter.com/search?q=Faze) | N/A |
+| 26 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 27 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 28 | [Premier Anime](http://twitter.com/search?q=Premier+Anime) | N/A |
+| 29 | [Dernier Anime](http://twitter.com/search?q=Dernier+Anime) | N/A |
+| 30 | [Vatira](http://twitter.com/search?q=Vatira) | N/A |
 | 31 | [Pire Anime](http://twitter.com/search?q=Pire+Anime) | N/A |
 | 32 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 33 | [Zlan](http://twitter.com/search?q=Zlan) | N/A |
-| 34 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 35 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
-| 36 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 37 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 38 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
-| 39 | [Exotiik](http://twitter.com/search?q=Exotiik) | N/A |
-| 40 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
-| 41 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 42 | [Nawell Madani](http://twitter.com/search?q=Nawell+Madani) | N/A |
-| 43 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 44 | [Play-In](http://twitter.com/search?q=Play-In) | N/A |
-| 45 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 46 | [ONE MORE](http://twitter.com/search?q=ONE+MORE) | N/A |
-| 47 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 48 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 33 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
+| 34 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 35 | [Exotiik](http://twitter.com/search?q=Exotiik) | N/A |
+| 36 | [Guendouzi](http://twitter.com/search?q=Guendouzi) | Guendouzi is a French surname. It is derived from the Basque word "gendouz", which means "good luck". In English, it can be translated to mean "lucky one". |
+| 37 | [Nawell Madani](http://twitter.com/search?q=Nawell+Madani) | N/A |
+| 38 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 39 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 40 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 41 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 42 | [ONE MORE](http://twitter.com/search?q=ONE+MORE) | N/A |
+| 43 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
+| 44 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 45 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 46 | [Top 2](http://twitter.com/search?q=Top+2) | N/A |
+| 47 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 48 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 
 
 

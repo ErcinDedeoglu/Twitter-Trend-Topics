@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-04-10 01:43:43 UTC`
+📆 Last Updated: `2023-04-10 02:29:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,42 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 2 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 3 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
-| 4 | [Chimbarongo](http://twitter.com/search?q=Chimbarongo) | N/A |
-| 5 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 6 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
-| 7 | [Colina](http://twitter.com/search?q=Colina) | N/A |
-| 8 | [#Cadem](http://twitter.com/search?q=%23Cadem) | N/A |
-| 9 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 10 | [Santiago City](http://twitter.com/search?q=Santiago+City) | N/A |
-| 11 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 12 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 13 | [Tenía 19](http://twitter.com/search?q=Ten%c3%ada+19) | N/A |
-| 14 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 16 | [Lucas Soto](http://twitter.com/search?q=Lucas+Soto) | N/A |
-| 17 | [Baby Shower](http://twitter.com/search?q=Baby+Shower) | N/A |
-| 18 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 19 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
-| 20 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 21 | [Toha](http://twitter.com/search?q=Toha) | N/A |
-| 22 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
+| 2 | [Vicente Pizarro](http://twitter.com/search?q=Vicente+Pizarro) | N/A |
+| 3 | [#FranjaElectoral](http://twitter.com/search?q=%23FranjaElectoral) | N/A |
+| 4 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 5 | [#Cadem](http://twitter.com/search?q=%23Cadem) | N/A |
+| 6 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
+| 7 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 8 | [Baby Shower](http://twitter.com/search?q=Baby+Shower) | N/A |
+| 9 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 10 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
+| 11 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
+| 12 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 13 | [Santiago City](http://twitter.com/search?q=Santiago+City) | N/A |
+| 14 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 15 | [Lucas Soto](http://twitter.com/search?q=Lucas+Soto) | N/A |
+| 16 | [Toha](http://twitter.com/search?q=Toha) | N/A |
+| 17 | [Tenía 19](http://twitter.com/search?q=Ten%c3%ada+19) | N/A |
+| 18 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 19 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 20 | [Saldivia](http://twitter.com/search?q=Saldivia) | N/A |
+| 21 | [Simón](http://twitter.com/search?q=Sim%c3%b3n) | N/A |
+| 22 | [Kike Acuña](http://twitter.com/search?q=Kike+Acu%c3%b1a) | N/A |
 | 23 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 24 | [Saldivia](http://twitter.com/search?q=Saldivia) | N/A |
-| 25 | [Nico Guerra](http://twitter.com/search?q=Nico+Guerra) | N/A |
-| 26 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 27 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 28 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 29 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 30 | [Kike Acuña](http://twitter.com/search?q=Kike+Acu%c3%b1a) | N/A |
-| 31 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
-| 32 | [Simón](http://twitter.com/search?q=Sim%c3%b3n) | N/A |
-| 33 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
-| 34 | [Buleke](http://twitter.com/search?q=Buleke) | N/A |
-| 35 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 36 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
-| 37 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
-| 38 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
-| 39 | [Feliz Pascua](http://twitter.com/search?q=Feliz+Pascua) | N/A |
-| 40 | [Huerta](http://twitter.com/search?q=Huerta) | N/A |
-| 41 | [Delincuente](http://twitter.com/search?q=Delincuente) | N/A |
-| 42 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 43 | [Garin](http://twitter.com/search?q=Garin) | N/A |
-| 44 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
-| 45 | [Pamela Jiles](http://twitter.com/search?q=Pamela+Jiles) | N/A |
-| 46 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
-| 47 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 48 | [Colchagua](http://twitter.com/search?q=Colchagua) | N/A |
-| 49 | [Chorri](http://twitter.com/search?q=Chorri) | N/A |
+| 24 | [Chimbarongo](http://twitter.com/search?q=Chimbarongo) | N/A |
+| 25 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 26 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
+| 27 | [Copa Chile](http://twitter.com/search?q=Copa+Chile) | N/A |
+| 28 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
+| 29 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
+| 30 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
+| 31 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
+| 32 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
+| 33 | [#SCTvsCCxTNTSports](http://twitter.com/search?q=%23SCTvsCCxTNTSports) | N/A |
+| 34 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
+| 35 | [#SecretoBancario](http://twitter.com/search?q=%23SecretoBancario) | N/A |
+| 36 | [#BenHurEnTVN](http://twitter.com/search?q=%23BenHurEnTVN) | N/A |
+| 37 | [#UdeChile](http://twitter.com/search?q=%23UdeChile) | N/A |
 
 
 
