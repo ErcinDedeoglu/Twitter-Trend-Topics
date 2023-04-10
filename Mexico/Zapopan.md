@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zapopan
 
-📆 Last Updated: `2023-04-10 09:18:36 UTC`
+📆 Last Updated: `2023-04-10 10:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Juárez](http://twitter.com/search?q=Ju%c3%a1rez) | N/A |
 | 2 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
-| 3 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 4 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 3 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 5 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
 | 6 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
 | 7 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
 | 8 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
@@ -32,39 +32,39 @@ This is top 50 for [Mexico](</Mexico>)
 | 15 | [CD9 RETURN](http://twitter.com/search?q=CD9+RETURN) | N/A |
 | 16 | [#LaMañaneraNoSeToca](http://twitter.com/search?q=%23LaMa%c3%b1aneraNoSeToca) | N/A |
 | 17 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 18 | [#AtletasPorUnAuto](http://twitter.com/search?q=%23AtletasPorUnAuto) | N/A |
-| 19 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 20 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 21 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 22 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
-| 23 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 18 | [#atletasporunauto](http://twitter.com/search?q=%23atletasporunauto) | N/A |
+| 19 | [I AM IS OUT NOW](http://twitter.com/search?q=I+AM+IS+OUT+NOW) | N/A |
+| 20 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 21 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 22 | [Chima](http://twitter.com/search?q=Chima) | N/A |
+| 23 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
 | 24 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 25 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 26 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 25 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 26 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
 | 27 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 28 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 29 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
-| 30 | [prieto](http://twitter.com/search?q=prieto) | N/A |
-| 31 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
-| 32 | [Perote](http://twitter.com/search?q=Perote) | N/A |
-| 33 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
-| 34 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 28 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 29 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 30 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
+| 31 | [Perote](http://twitter.com/search?q=Perote) | N/A |
+| 32 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
+| 33 | [prieto](http://twitter.com/search?q=prieto) | N/A |
+| 34 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
 | 35 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 36 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 37 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 38 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
-| 39 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 36 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 37 | [jisoo debut stage](http://twitter.com/search?q=jisoo+debut+stage) | N/A |
+| 38 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 39 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
 | 40 | [MEXICO LOVES MAMAMOO](http://twitter.com/search?q=MEXICO+LOVES+MAMAMOO) | N/A |
 | 41 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 42 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 42 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
 | 43 | [CODERS CLOWNS](http://twitter.com/search?q=CODERS+CLOWNS) | N/A |
 | 44 | [Joao](http://twitter.com/search?q=Joao) | N/A |
-| 45 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 46 | [ESTAMOS CONTIGO NAT](http://twitter.com/search?q=ESTAMOS+CONTIGO+NAT) | N/A |
-| 47 | [VIÑAS](http://twitter.com/search?q=VI%c3%91AS) | N/A |
-| 48 | [return of cd9](http://twitter.com/search?q=return+of+cd9) | N/A |
-| 49 | [Paseo Bravo](http://twitter.com/search?q=Paseo+Bravo) | N/A |
-| 50 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 45 | [estamos contigo nat](http://twitter.com/search?q=estamos+contigo+nat) | N/A |
+| 46 | [VIÑAS](http://twitter.com/search?q=VI%c3%91AS) | N/A |
+| 47 | [return of cd9](http://twitter.com/search?q=return+of+cd9) | N/A |
+| 48 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 49 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 50 | [paseo bravo](http://twitter.com/search?q=paseo+bravo) | N/A |
 
 
 

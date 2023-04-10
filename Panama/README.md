@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-10 09:19:34 UTC`
+📆 Last Updated: `2023-04-10 10:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,10 +32,10 @@ This is top 50 for Panama
 | 15 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
 | 16 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 17 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 18 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 19 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
-| 20 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
-| 21 | [#MiAniversarioDeTwitter](http://twitter.com/search?q=%23MiAniversarioDeTwitter) | N/A |
+| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 19 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 20 | [#MiAniversarioDeTwitter](http://twitter.com/search?q=%23MiAniversarioDeTwitter) | N/A |
+| 21 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
 | 22 | [Resucitado](http://twitter.com/search?q=Resucitado) | N/A |
 | 23 | [Nombe](http://twitter.com/search?q=Nombe) | N/A |
 | 24 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
@@ -45,26 +45,26 @@ This is top 50 for Panama
 | 28 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
 | 29 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
 | 30 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 31 | [Antón](http://twitter.com/search?q=Ant%c3%b3n) | N/A |
-| 32 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 33 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 34 | [Motta](http://twitter.com/search?q=Motta) | N/A |
-| 35 | [$0.01 ETH](http://twitter.com/search?q=%240.01+ETH) | N/A |
-| 36 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 37 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 38 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 39 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
-| 40 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 42 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 44 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
-| 45 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 46 | [Biblia](http://twitter.com/search?q=Biblia) | N/A |
-| 47 | [chitré](http://twitter.com/search?q=chitr%c3%a9) | N/A |
-| 48 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 49 | [la espiga](http://twitter.com/search?q=la+espiga) | N/A |
-| 50 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 31 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 32 | [Motta](http://twitter.com/search?q=Motta) | N/A |
+| 33 | [$0.01 ETH](http://twitter.com/search?q=%240.01+ETH) | N/A |
+| 34 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 35 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 36 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
+| 37 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 39 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 40 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 41 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
+| 42 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 43 | [Biblia](http://twitter.com/search?q=Biblia) | N/A |
+| 44 | [chitré](http://twitter.com/search?q=chitr%c3%a9) | N/A |
+| 45 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 46 | [la espiga](http://twitter.com/search?q=la+espiga) | N/A |
+| 47 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 48 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 50 | [Colon](http://twitter.com/search?q=Colon) | N/A |
 
 
 

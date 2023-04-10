@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-10 09:19:31 UTC`
+📆 Last Updated: `2023-04-10 10:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,15 +20,15 @@ This is top 50 for Guatemala
 | 3 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 4 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 5 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 6 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 7 | [Danny Ocean](http://twitter.com/search?q=Danny+Ocean) | N/A |
+| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 7 | [danny ocean](http://twitter.com/search?q=danny+ocean) | N/A |
 | 8 | [Duki](http://twitter.com/search?q=Duki) | N/A |
 | 9 | [iztapa](http://twitter.com/search?q=iztapa) | N/A |
-| 10 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
-| 11 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 12 | [autopista palín](http://twitter.com/search?q=autopista+pal%c3%adn) | N/A |
-| 13 | [palín-escuintla](http://twitter.com/search?q=pal%c3%adn-escuintla) | N/A |
-| 14 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 10 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 11 | [autopista palín](http://twitter.com/search?q=autopista+pal%c3%adn) | N/A |
+| 12 | [palín-escuintla](http://twitter.com/search?q=pal%c3%adn-escuintla) | N/A |
+| 13 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 14 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
 | 15 | [#lnfg](http://twitter.com/search?q=%23lnfg) | N/A |
 | 16 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
 | 17 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
@@ -38,9 +38,9 @@ This is top 50 for Guatemala
 | 21 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
 | 22 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
 | 23 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 24 | [Prince Royce](http://twitter.com/search?q=Prince+Royce) | N/A |
-| 25 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
-| 26 | [#temblorgt](http://twitter.com/search?q=%23temblorgt) | N/A |
+| 24 | [#TemblorGt](http://twitter.com/search?q=%23TemblorGt) | N/A |
+| 25 | [Prince Royce](http://twitter.com/search?q=Prince+Royce) | N/A |
+| 26 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
 | 27 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 29 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for Guatemala
 | 37 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
 | 38 | [jornada 17](http://twitter.com/search?q=jornada+17) | N/A |
 | 39 | [#SS2023](http://twitter.com/search?q=%23SS2023) | N/A |
-| 40 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 41 | [CONASA](http://twitter.com/search?q=CONASA) | N/A |
-| 42 | [xinabajul](http://twitter.com/search?q=xinabajul) | N/A |
-| 43 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 44 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 45 | [#SS23](http://twitter.com/search?q=%23SS23) | N/A |
-| 46 | [Lamentable](http://twitter.com/search?q=Lamentable) | N/A |
-| 47 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
-| 48 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 49 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 50 | [hueco](http://twitter.com/search?q=hueco) | N/A |
+| 40 | [conasa](http://twitter.com/search?q=conasa) | N/A |
+| 41 | [xinabajul](http://twitter.com/search?q=xinabajul) | N/A |
+| 42 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 43 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 44 | [#SS23](http://twitter.com/search?q=%23SS23) | N/A |
+| 45 | [Lamentable](http://twitter.com/search?q=Lamentable) | N/A |
+| 46 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
+| 47 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 48 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 49 | [hueco](http://twitter.com/search?q=hueco) | N/A |
+| 50 | [utaaa compañere](http://twitter.com/search?q=utaaa+compa%c3%b1ere) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-04-10 09:18:38 UTC`
+📆 Last Updated: `2023-04-10 10:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,12 +22,12 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 5 | [mar en marie claire](http://twitter.com/search?q=mar+en+marie+claire) | N/A |
 | 6 | [Cifuentes](http://twitter.com/search?q=Cifuentes) | N/A |
 | 7 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 8 | [Romario Caicedo](http://twitter.com/search?q=Romario+Caicedo) | N/A |
+| 8 | [romario caicedo](http://twitter.com/search?q=romario+caicedo) | N/A |
 | 9 | [Alberti](http://twitter.com/search?q=Alberti) | N/A |
 | 10 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
 | 11 | [Cevallos](http://twitter.com/search?q=Cevallos) | N/A |
 | 12 | [zubeldia](http://twitter.com/search?q=zubeldia) | N/A |
-| 13 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
+| 13 | [rondelli](http://twitter.com/search?q=rondelli) | N/A |
 | 14 | [#ligapro](http://twitter.com/search?q=%23ligapro) | N/A |
 | 15 | [piovi](http://twitter.com/search?q=piovi) | N/A |
 | 16 | [García](http://twitter.com/search?q=Garc%c3%ada) | N/A |
@@ -51,7 +51,7 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 34 | [Miller](http://twitter.com/search?q=Miller) | N/A |
 | 35 | [Nebot](http://twitter.com/search?q=Nebot) | N/A |
 | 36 | [#LibertadPresosPoliticos](http://twitter.com/search?q=%23LibertadPresosPoliticos) | N/A |
-| 37 | [#LosQueremosLibres](http://twitter.com/search?q=%23LosQueremosLibres) | N/A |
+| 37 | [#losqueremoslibres](http://twitter.com/search?q=%23losqueremoslibres) | N/A |
 | 38 | [chillogallo](http://twitter.com/search?q=chillogallo) | N/A |
 | 39 | [vamos liga](http://twitter.com/search?q=vamos+liga) | N/A |
 | 40 | [melfi nominado x heat](http://twitter.com/search?q=melfi+nominado+x+heat) | N/A |

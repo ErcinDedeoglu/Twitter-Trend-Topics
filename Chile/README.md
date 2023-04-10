@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-04-10 09:19:29 UTC`
+📆 Last Updated: `2023-04-10 10:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,33 +20,33 @@ This is top 50 for Chile
 | 3 | [lezcano](http://twitter.com/search?q=lezcano) | N/A |
 | 4 | [#ToleranciaCero](http://twitter.com/search?q=%23ToleranciaCero) | N/A |
 | 5 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 6 | [Colina](http://twitter.com/search?q=Colina) | N/A |
-| 7 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 8 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 9 | [Santiago City](http://twitter.com/search?q=Santiago+City) | N/A |
-| 10 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
-| 11 | [#benhurentvn](http://twitter.com/search?q=%23benhurentvn) | N/A |
+| 6 | [colina](http://twitter.com/search?q=colina) | N/A |
+| 7 | [PALACIOS](http://twitter.com/search?q=PALACIOS) | N/A |
+| 8 | [santiago city](http://twitter.com/search?q=santiago+city) | N/A |
+| 9 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 10 | [#BenHurEnTVN](http://twitter.com/search?q=%23BenHurEnTVN) | N/A |
+| 11 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
 | 12 | [Tenía 19](http://twitter.com/search?q=Ten%c3%ada+19) | N/A |
 | 13 | [lucas soto](http://twitter.com/search?q=lucas+soto) | N/A |
 | 14 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 15 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 16 | [assadi](http://twitter.com/search?q=assadi) | N/A |
-| 17 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
-| 18 | [Baby Shower](http://twitter.com/search?q=Baby+Shower) | N/A |
+| 15 | [assadi](http://twitter.com/search?q=assadi) | N/A |
+| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 17 | [Baby Shower](http://twitter.com/search?q=Baby+Shower) | N/A |
+| 18 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
 | 19 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
 | 20 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
 | 21 | [mateos](http://twitter.com/search?q=mateos) | N/A |
 | 22 | [zaldivia](http://twitter.com/search?q=zaldivia) | N/A |
 | 23 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
-| 24 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 24 | [zampedri](http://twitter.com/search?q=zampedri) | N/A |
 | 25 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
 | 26 | [nico guerra](http://twitter.com/search?q=nico+guerra) | N/A |
 | 27 | [Logan](http://twitter.com/search?q=Logan) | N/A |
 | 28 | [dituro](http://twitter.com/search?q=dituro) | N/A |
 | 29 | [kike acuña](http://twitter.com/search?q=kike+acu%c3%b1a) | N/A |
 | 30 | [Toha](http://twitter.com/search?q=Toha) | N/A |
-| 31 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
-| 32 | [benegas](http://twitter.com/search?q=benegas) | N/A |
+| 31 | [benegas](http://twitter.com/search?q=benegas) | N/A |
+| 32 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
 | 33 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
 | 34 | [Paulsen](http://twitter.com/search?q=Paulsen) | N/A |
 | 35 | [Nació Simón](http://twitter.com/search?q=Naci%c3%b3+Sim%c3%b3n) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Chile
 | 43 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 44 | [gallegos](http://twitter.com/search?q=gallegos) | N/A |
 | 45 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 46 | [Colchagua](http://twitter.com/search?q=Colchagua) | N/A |
-| 47 | [kiwi rojas](http://twitter.com/search?q=kiwi+rojas) | N/A |
-| 48 | [chorri](http://twitter.com/search?q=chorri) | N/A |
-| 49 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
-| 50 | [San Fernando](http://twitter.com/search?q=San+Fernando) | N/A |
+| 46 | [colchagua](http://twitter.com/search?q=colchagua) | N/A |
+| 47 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 48 | [kiwi rojas](http://twitter.com/search?q=kiwi+rojas) | N/A |
+| 49 | [chorri](http://twitter.com/search?q=chorri) | N/A |
+| 50 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
 
 
 

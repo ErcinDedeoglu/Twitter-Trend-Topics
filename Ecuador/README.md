@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-04-10 09:19:30 UTC`
+📆 Last Updated: `2023-04-10 10:18:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,17 +17,17 @@ This is top 50 for Ecuador
 | ------- | ------------ | ------------ |
 | 1 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
 | 2 | [guayaquil city](http://twitter.com/search?q=guayaquil+city) | N/A |
-| 3 | [Otero](http://twitter.com/search?q=Otero) | N/A |
+| 3 | [otero](http://twitter.com/search?q=otero) | N/A |
 | 4 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
 | 5 | [mar en marie claire](http://twitter.com/search?q=mar+en+marie+claire) | N/A |
 | 6 | [Cifuentes](http://twitter.com/search?q=Cifuentes) | N/A |
 | 7 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 8 | [Romario Caicedo](http://twitter.com/search?q=Romario+Caicedo) | N/A |
+| 8 | [romario caicedo](http://twitter.com/search?q=romario+caicedo) | N/A |
 | 9 | [Alberti](http://twitter.com/search?q=Alberti) | N/A |
 | 10 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
 | 11 | [Cevallos](http://twitter.com/search?q=Cevallos) | N/A |
 | 12 | [zubeldia](http://twitter.com/search?q=zubeldia) | N/A |
-| 13 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
+| 13 | [rondelli](http://twitter.com/search?q=rondelli) | N/A |
 | 14 | [#ligapro](http://twitter.com/search?q=%23ligapro) | N/A |
 | 15 | [piovi](http://twitter.com/search?q=piovi) | N/A |
 | 16 | [García](http://twitter.com/search?q=Garc%c3%ada) | N/A |
@@ -38,7 +38,7 @@ This is top 50 for Ecuador
 | 21 | [bauman](http://twitter.com/search?q=bauman) | N/A |
 | 22 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
 | 23 | [González](http://twitter.com/search?q=Gonz%c3%a1lez) | N/A |
-| 24 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 25 | [alejandro cabeza](http://twitter.com/search?q=alejandro+cabeza) | N/A |
 | 26 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
 | 27 | [cabezas](http://twitter.com/search?q=cabezas) | N/A |
@@ -50,8 +50,8 @@ This is top 50 for Ecuador
 | 33 | [mushuc runa](http://twitter.com/search?q=mushuc+runa) | N/A |
 | 34 | [Miller](http://twitter.com/search?q=Miller) | N/A |
 | 35 | [Nebot](http://twitter.com/search?q=Nebot) | N/A |
-| 36 | [#LibertadPresosPoliticos](http://twitter.com/search?q=%23LibertadPresosPoliticos) | N/A |
-| 37 | [#LosQueremosLibres](http://twitter.com/search?q=%23LosQueremosLibres) | N/A |
+| 36 | [#libertadpresospoliticos](http://twitter.com/search?q=%23libertadpresospoliticos) | N/A |
+| 37 | [#losqueremoslibres](http://twitter.com/search?q=%23losqueremoslibres) | N/A |
 | 38 | [chillogallo](http://twitter.com/search?q=chillogallo) | N/A |
 | 39 | [vamos liga](http://twitter.com/search?q=vamos+liga) | N/A |
 | 40 | [melfi nominado x heat](http://twitter.com/search?q=melfi+nominado+x+heat) | N/A |
