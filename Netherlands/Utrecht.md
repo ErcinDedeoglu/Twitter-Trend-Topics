@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-04-10 00:29:14 UTC`
+📆 Last Updated: `2023-04-10 01:43:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 2 | [#feyrkc](http://twitter.com/search?q=%23feyrkc) | N/A |
 | 3 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
 | 4 | [#studiovoetbal](http://twitter.com/search?q=%23studiovoetbal) | N/A |
-| 5 | [#humberto](http://twitter.com/search?q=%23humberto) | N/A |
-| 6 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 7 | [#boerzoektvrouw](http://twitter.com/search?q=%23boerzoektvrouw) | N/A |
-| 8 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 9 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
-| 10 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
-| 11 | [De HEER](http://twitter.com/search?q=De+HEER) | N/A |
-| 12 | [Ongedifferentieerd-Androgyn](http://twitter.com/search?q=Ongedifferentieerd-Androgyn) | N/A |
-| 13 | [Peter Bosz](http://twitter.com/search?q=Peter+Bosz) | N/A |
-| 14 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 15 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
-| 16 | [Piet](http://twitter.com/search?q=Piet) | N/A |
-| 17 | [Rechts](http://twitter.com/search?q=Rechts) | N/A |
-| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 19 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 20 | [pec zwolle-supporters](http://twitter.com/search?q=pec+zwolle-supporters) | N/A |
-| 21 | [Nonchalant Mannelijk](http://twitter.com/search?q=Nonchalant+Mannelijk) | N/A |
-| 22 | [Degenkolb](http://twitter.com/search?q=Degenkolb) | N/A |
-| 23 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
-| 24 | [Geert Mak](http://twitter.com/search?q=Geert+Mak) | N/A |
+| 5 | [#boerzoektvrouw](http://twitter.com/search?q=%23boerzoektvrouw) | N/A |
+| 6 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
+| 7 | [#vitgae](http://twitter.com/search?q=%23vitgae) | N/A |
+| 8 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 9 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 10 | [De HEER](http://twitter.com/search?q=De+HEER) | N/A |
+| 11 | [Ongedifferentieerd-Androgyn](http://twitter.com/search?q=Ongedifferentieerd-Androgyn) | N/A |
+| 12 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
+| 13 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 14 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
+| 15 | [Piet](http://twitter.com/search?q=Piet) | N/A |
+| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 17 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 18 | [Geert Mak](http://twitter.com/search?q=Geert+Mak) | N/A |
+| 19 | [pec zwolle-supporters](http://twitter.com/search?q=pec+zwolle-supporters) | N/A |
+| 20 | [Nonchalant Mannelijk](http://twitter.com/search?q=Nonchalant+Mannelijk) | N/A |
+| 21 | [Degenkolb](http://twitter.com/search?q=Degenkolb) | N/A |
+| 22 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 23 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
+| 24 | [Truste](http://twitter.com/search?q=Truste) | N/A |
 | 25 | [ongeprikt](http://twitter.com/search?q=ongeprikt) | N/A |
-| 26 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
-| 27 | [Philipsen](http://twitter.com/search?q=Philipsen) | N/A |
-| 28 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 29 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 30 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
-| 31 | [Truste](http://twitter.com/search?q=Truste) | N/A |
-| 32 | [Eindhovense](http://twitter.com/search?q=Eindhovense) | N/A |
-| 33 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
-| 34 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 35 | [Beau](http://twitter.com/search?q=Beau) | N/A |
-| 36 | [kooten](http://twitter.com/search?q=kooten) | N/A |
-| 37 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 38 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 39 | [vogel rok](http://twitter.com/search?q=vogel+rok) | N/A |
-| 40 | [Hoopvol](http://twitter.com/search?q=Hoopvol) | N/A |
-| 41 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 42 | [Sander Wieringa](http://twitter.com/search?q=Sander+Wieringa) | N/A |
-| 43 | [Typisch Mannelijk](http://twitter.com/search?q=Typisch+Mannelijk) | N/A |
-| 44 | [Lekkerkerk](http://twitter.com/search?q=Lekkerkerk) | N/A |
-| 45 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 46 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
-| 47 | [Hato](http://twitter.com/search?q=Hato) | N/A |
-| 48 | [Rick Nieman](http://twitter.com/search?q=Rick+Nieman) | N/A |
-| 49 | [Japie](http://twitter.com/search?q=Japie) | N/A |
+| 26 | [Philipsen](http://twitter.com/search?q=Philipsen) | N/A |
+| 27 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 28 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
+| 29 | [Eindhovense](http://twitter.com/search?q=Eindhovense) | N/A |
+| 30 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
+| 31 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 32 | [Beau](http://twitter.com/search?q=Beau) | N/A |
+| 33 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
+| 34 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 35 | [kooten](http://twitter.com/search?q=kooten) | N/A |
+| 36 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 37 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 38 | [vogel rok](http://twitter.com/search?q=vogel+rok) | N/A |
+| 39 | [Hoopvol](http://twitter.com/search?q=Hoopvol) | N/A |
+| 40 | [typisch mannelijk](http://twitter.com/search?q=typisch+mannelijk) | N/A |
+| 41 | [Rechts](http://twitter.com/search?q=Rechts) | N/A |
+| 42 | [Lekkerkerk](http://twitter.com/search?q=Lekkerkerk) | N/A |
+| 43 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 44 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
+| 45 | [Hato](http://twitter.com/search?q=Hato) | N/A |
+| 46 | [Jezus](http://twitter.com/search?q=Jezus) | N/A |
+| 47 | [Onno Ruding](http://twitter.com/search?q=Onno+Ruding) | N/A |
+| 48 | [RKC Waalwijk](http://twitter.com/search?q=RKC+Waalwijk) | N/A |
+| 49 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
 
 
 

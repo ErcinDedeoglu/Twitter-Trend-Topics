@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-04-10 00:29:54 UTC`
+📆 Last Updated: `2023-04-10 01:44:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Colombia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 2 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 1 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 2 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
 | 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 4 | [Kelvin Osorio](http://twitter.com/search?q=Kelvin+Osorio) | N/A |
-| 5 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
-| 6 | [Gaitán](http://twitter.com/search?q=Gait%c3%a1n) | N/A |
-| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 8 | [Espitia](http://twitter.com/search?q=Espitia) | N/A |
-| 9 | [#9DeAbril](http://twitter.com/search?q=%239DeAbril) | N/A |
-| 10 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
-| 11 | [Alianza](http://twitter.com/search?q=Alianza) | N/A |
-| 12 | [#PolloTriste](http://twitter.com/search?q=%23PolloTriste) | N/A |
-| 13 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 14 | [Delgado](http://twitter.com/search?q=Delgado) | N/A |
-| 15 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 4 | [Marcela García](http://twitter.com/search?q=Marcela+Garc%c3%ada) | N/A |
+| 5 | [Gaitán](http://twitter.com/search?q=Gait%c3%a1n) | N/A |
+| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 7 | [#PolloTriste](http://twitter.com/search?q=%23PolloTriste) | N/A |
+| 8 | [#9DeAbril](http://twitter.com/search?q=%239DeAbril) | N/A |
+| 9 | [Kelvin Osorio](http://twitter.com/search?q=Kelvin+Osorio) | N/A |
+| 10 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
+| 11 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
+| 12 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 13 | [Alianza Petrolera](http://twitter.com/search?q=Alianza+Petrolera) | N/A |
+| 14 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 15 | [Espitia](http://twitter.com/search?q=Espitia) | N/A |
 | 16 | [Barranca](http://twitter.com/search?q=Barranca) | N/A |
-| 17 | [Marcela García](http://twitter.com/search?q=Marcela+Garc%c3%ada) | N/A |
-| 18 | [FECODE](http://twitter.com/search?q=FECODE) | N/A |
-| 19 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 20 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 21 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
-| 22 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 23 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
-| 24 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 25 | [Cadavid](http://twitter.com/search?q=Cadavid) | N/A |
-| 26 | [#PlanRetorno](http://twitter.com/search?q=%23PlanRetorno) | N/A |
-| 27 | [Laje](http://twitter.com/search?q=Laje) | N/A |
-| 28 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
-| 29 | [Oligarquía](http://twitter.com/search?q=Oligarqu%c3%ada) | N/A |
-| 30 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 31 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 32 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
+| 17 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 18 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
+| 19 | [Delgado](http://twitter.com/search?q=Delgado) | N/A |
+| 20 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 21 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
+| 22 | [Chunga](http://twitter.com/search?q=Chunga) | N/A |
+| 23 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 24 | [Laje](http://twitter.com/search?q=Laje) | N/A |
+| 25 | [Víctimas](http://twitter.com/search?q=V%c3%adctimas) | N/A |
+| 26 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 27 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 28 | [Fecode](http://twitter.com/search?q=Fecode) | N/A |
+| 29 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 30 | [Bogotazo](http://twitter.com/search?q=Bogotazo) | N/A |
+| 31 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
+| 32 | [Cadavid](http://twitter.com/search?q=Cadavid) | N/A |
 | 33 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 34 | [Aladesanmi](http://twitter.com/search?q=Aladesanmi) | N/A |
-| 35 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 34 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
+| 35 | [Aladesanmi](http://twitter.com/search?q=Aladesanmi) | N/A |
 | 36 | [Pons](http://twitter.com/search?q=Pons) | N/A |
-| 37 | [Bituima](http://twitter.com/search?q=Bituima) | N/A |
-| 38 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 39 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 37 | [Méndez](http://twitter.com/search?q=M%c3%a9ndez) | N/A |
+| 38 | [Sambueza](http://twitter.com/search?q=Sambueza) | N/A |
+| 39 | [Pedro Franco](http://twitter.com/search?q=Pedro+Franco) | N/A |
 | 40 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 41 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
-| 42 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
-| 43 | [Día Nacional de la Memoria](http://twitter.com/search?q=D%c3%ada+Nacional+de+la+Memoria) | N/A |
-| 44 | [Cetré](http://twitter.com/search?q=Cetr%c3%a9) | N/A |
+| 41 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 42 | [Día Nacional de la Memoria](http://twitter.com/search?q=D%c3%ada+Nacional+de+la+Memoria) | N/A |
+| 43 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
+| 44 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
 | 45 | [Garcés](http://twitter.com/search?q=Garc%c3%a9s) | N/A |
-| 46 | [Germán Cano](http://twitter.com/search?q=Germ%c3%a1n+Cano) | N/A |
-| 47 | [El Cali](http://twitter.com/search?q=El+Cali) | N/A |
-| 48 | [Bogotazo](http://twitter.com/search?q=Bogotazo) | N/A |
-| 49 | [Aldair Quintana](http://twitter.com/search?q=Aldair+Quintana) | N/A |
-| 50 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 46 | [Gio Hernández](http://twitter.com/search?q=Gio+Hern%c3%a1ndez) | N/A |
+| 47 | [Fidel Castro](http://twitter.com/search?q=Fidel+Castro) | N/A |
+| 48 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 49 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
+| 50 | [Fede](http://twitter.com/search?q=Fede) | N/A |
 
 
 

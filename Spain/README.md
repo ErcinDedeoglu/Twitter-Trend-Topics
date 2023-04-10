@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-10 00:30:00 UTC`
+📆 Last Updated: `2023-04-10 01:44:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Spain
 | 1 | [#ConexiónHonduras6](http://twitter.com/search?q=%23Conexi%c3%b3nHonduras6) | N/A |
 | 2 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
 | 3 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 4 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 5 | [Adara](http://twitter.com/search?q=Adara) | N/A |
-| 6 | [#ChiringuitoPolémica](http://twitter.com/search?q=%23ChiringuitoPol%c3%a9mica) | N/A |
-| 7 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
+| 4 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 5 | [#ChiringuitoPolémica](http://twitter.com/search?q=%23ChiringuitoPol%c3%a9mica) | N/A |
+| 6 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
+| 7 | [Raquel Bollo](http://twitter.com/search?q=Raquel+Bollo) | N/A |
 | 8 | [Seve](http://twitter.com/search?q=Seve) | N/A |
 | 9 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
-| 10 | [Raquel Bollo](http://twitter.com/search?q=Raquel+Bollo) | N/A |
-| 11 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
-| 12 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 10 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
+| 11 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 12 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
 | 13 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 14 | [Lemar](http://twitter.com/search?q=Lemar) | Lemar is a French male given name derived from the Latin name "Lambertus", meaning "bright land". It is also a surname. |
-| 15 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
-| 16 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
-| 17 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 18 | [Isa Pi](http://twitter.com/search?q=Isa+Pi) | N/A |
-| 19 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 20 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 21 | [Viti](http://twitter.com/search?q=Viti) | N/A |
-| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 23 | [Pimienta](http://twitter.com/search?q=Pimienta) | N/A |
-| 24 | [Vamos Jon](http://twitter.com/search?q=Vamos+Jon) | N/A |
-| 25 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
-| 26 | [Eneko](http://twitter.com/search?q=Eneko) | N/A |
-| 27 | [Cervera](http://twitter.com/search?q=Cervera) | N/A |
-| 28 | [Arrepentirse](http://twitter.com/search?q=Arrepentirse) | N/A |
-| 29 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 30 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 31 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 32 | [Raquel Arias](http://twitter.com/search?q=Raquel+Arias) | N/A |
-| 33 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 34 | [Mario Hermoso](http://twitter.com/search?q=Mario+Hermoso) | N/A |
-| 35 | [Larraitz](http://twitter.com/search?q=Larraitz) | N/A |
-| 36 | [Arelys](http://twitter.com/search?q=Arelys) | N/A |
-| 37 | [Las Palmas](http://twitter.com/search?q=Las+Palmas) | N/A |
-| 38 | [Fray Marcos](http://twitter.com/search?q=Fray+Marcos) | N/A |
-| 39 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 40 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
-| 41 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 42 | [Kaptoum](http://twitter.com/search?q=Kaptoum) | N/A |
-| 43 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
-| 44 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 45 | [Angelito](http://twitter.com/search?q=Angelito) | N/A |
-| 46 | [Lejeune](http://twitter.com/search?q=Lejeune) | N/A |
-| 47 | [Borja Sánchez](http://twitter.com/search?q=Borja+S%c3%a1nchez) | N/A |
-| 48 | [Cristina Porta](http://twitter.com/search?q=Cristina+Porta) | N/A |
-| 49 | [Peter Lim](http://twitter.com/search?q=Peter+Lim) | N/A |
-| 50 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 14 | [Isa Pi](http://twitter.com/search?q=Isa+Pi) | N/A |
+| 15 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
+| 16 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 17 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 18 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 19 | [Vamos Jon](http://twitter.com/search?q=Vamos+Jon) | N/A |
+| 20 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 21 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 22 | [Viti](http://twitter.com/search?q=Viti) | N/A |
+| 23 | [Arrepentirse](http://twitter.com/search?q=Arrepentirse) | N/A |
+| 24 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 26 | [Las Palmas](http://twitter.com/search?q=Las+Palmas) | N/A |
+| 27 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
+| 28 | [Arelys](http://twitter.com/search?q=Arelys) | N/A |
+| 29 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
+| 30 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
+| 31 | [Kaptoum](http://twitter.com/search?q=Kaptoum) | N/A |
+| 32 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 33 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 34 | [Angelito](http://twitter.com/search?q=Angelito) | N/A |
+| 35 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 36 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
+| 37 | [Vallecas](http://twitter.com/search?q=Vallecas) | N/A |
+| 38 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 39 | [Meriton](http://twitter.com/search?q=Meriton) | N/A |
+| 40 | [Edgar](http://twitter.com/search?q=Edgar) | N/A |
+| 41 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 42 | [Baena a Valverde](http://twitter.com/search?q=Baena+a+Valverde) | N/A |
+| 43 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 44 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 45 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 46 | [Negre](http://twitter.com/search?q=Negre) | N/A |
+| 47 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
+| 48 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 49 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
+| 50 | [#CuartoMilenio](http://twitter.com/search?q=%23CuartoMilenio) | N/A |
 
 
 

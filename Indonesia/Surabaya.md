@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-04-10 00:29:17 UTC`
+📆 Last Updated: `2023-04-10 01:43:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#bersamajuara](http://twitter.com/search?q=%23bersamajuara) | N/A |
 | 2 | [thr lazada](http://twitter.com/search?q=thr+lazada) | N/A |
-| 3 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [fast feast festive](http://twitter.com/search?q=fast+feast+festive) | N/A |
-| 6 | [#1000BungaApresiasiET](http://twitter.com/search?q=%231000BungaApresiasiET) | N/A |
-| 7 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 8 | [Istiqomah Dalam Dakwah](http://twitter.com/search?q=Istiqomah+Dalam+Dakwah) | N/A |
-| 9 | [#RamadhanDay19](http://twitter.com/search?q=%23RamadhanDay19) | N/A |
-| 10 | [#TDS2inATLANTA](http://twitter.com/search?q=%23TDS2inATLANTA) | N/A |
-| 11 | [Lebaran 2020](http://twitter.com/search?q=Lebaran+2020) | N/A |
-| 12 | [#BukberTanpaWacana](http://twitter.com/search?q=%23BukberTanpaWacana) | N/A |
+| 3 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 4 | [Selamat Paskah](http://twitter.com/search?q=Selamat+Paskah) | N/A |
+| 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 6 | [fast feast festive](http://twitter.com/search?q=fast+feast+festive) | N/A |
+| 7 | [#1000BungaApresiasiET](http://twitter.com/search?q=%231000BungaApresiasiET) | N/A |
+| 8 | [JK x JB](http://twitter.com/search?q=JK+x+JB) | N/A |
+| 9 | [Istiqomah Dalam Dakwah](http://twitter.com/search?q=Istiqomah+Dalam+Dakwah) | N/A |
+| 10 | [#bukbertanpawacana](http://twitter.com/search?q=%23bukbertanpawacana) | N/A |
+| 11 | [#THEDREAMSHOW2_in_ATLANTA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_ATLANTA) | N/A |
+| 12 | [#timeforexo](http://twitter.com/search?q=%23timeforexo) | N/A |
 | 13 | [Ramadhan Penuh Kebahagiaan](http://twitter.com/search?q=Ramadhan+Penuh+Kebahagiaan) | N/A |
 | 14 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
-| 15 | [7 Years With NCT](http://twitter.com/search?q=7+Years+With+NCT) | N/A |
-| 16 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 15 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 16 | [Lebaran 2020](http://twitter.com/search?q=Lebaran+2020) | N/A |
 | 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 18 | [1 rupiah](http://twitter.com/search?q=1+rupiah) | N/A |
-| 19 | [exo'clock fanmeeting](http://twitter.com/search?q=exo%27clock+fanmeeting) | N/A |
-| 20 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
-| 21 | [Bapakku](http://twitter.com/search?q=Bapakku) | N/A |
-| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 18 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
+| 19 | [1 rupiah](http://twitter.com/search?q=1+rupiah) | N/A |
+| 20 | [exo'clock fanmeeting](http://twitter.com/search?q=exo%27clock+fanmeeting) | N/A |
+| 21 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
+| 22 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
 | 23 | [Spacetoon](http://twitter.com/search?q=Spacetoon) | N/A |
-| 24 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
+| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 25 | [Ibu Negara](http://twitter.com/search?q=Ibu+Negara) | N/A |
-| 26 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 26 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
 | 27 | [it's exo'clock](http://twitter.com/search?q=it%27s+exo%27clock) | N/A |
-| 28 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 28 | [Zayyan](http://twitter.com/search?q=Zayyan) | N/A |
 | 29 | [Happy 7th](http://twitter.com/search?q=Happy+7th) | N/A |
-| 30 | [JENO DESERVES BETTER](http://twitter.com/search?q=JENO+DESERVES+BETTER) | N/A |
-| 31 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
-| 32 | [Semangat](http://twitter.com/search?q=Semangat) | N/A |
-| 33 | [Iriana](http://twitter.com/search?q=Iriana) | N/A |
-| 34 | [Coach](http://twitter.com/search?q=Coach) | N/A |
-| 35 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 36 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 37 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 38 | [sinergi mengawasi](http://twitter.com/search?q=sinergi+mengawasi) | N/A |
-| 39 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 40 | [raih kemuliaan ramadhan](http://twitter.com/search?q=raih+kemuliaan+ramadhan) | N/A |
-| 41 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 42 | [Survei LSI](http://twitter.com/search?q=Survei+LSI) | N/A |
-| 43 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 44 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
-| 45 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 46 | [ramadhan bulan suci](http://twitter.com/search?q=ramadhan+bulan+suci) | N/A |
-| 47 | [Imsak](http://twitter.com/search?q=Imsak) | N/A |
-| 48 | [Love Me Right](http://twitter.com/search?q=Love+Me+Right) | N/A |
-| 49 | [iklan ponds men](http://twitter.com/search?q=iklan+ponds+men) | N/A |
-| 50 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 30 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
+| 31 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 32 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 33 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 34 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 35 | [raih kemuliaan ramadhan](http://twitter.com/search?q=raih+kemuliaan+ramadhan) | N/A |
+| 36 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 37 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 38 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 39 | [Fix You](http://twitter.com/search?q=Fix+You) | "Fix You" is a song by the British rock band Coldplay. It was released in 2005 as the second single from their third studio album, X&Y. The song's lyrics are about a person trying to help another person who is down and out, offering words of encouragement and support. The song has become an anthem for those going through difficult times, and its uplifting message has resonated with many people around the world. |
+| 40 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 41 | [Survei LSI](http://twitter.com/search?q=Survei+LSI) | N/A |
+| 42 | [Love Me Right](http://twitter.com/search?q=Love+Me+Right) | N/A |
+| 43 | [Coach](http://twitter.com/search?q=Coach) | N/A |
+| 44 | [iklan ponds men](http://twitter.com/search?q=iklan+ponds+men) | N/A |
+| 45 | [Happy Passover](http://twitter.com/search?q=Happy+Passover) | N/A |
+| 46 | [Angkatan Udara](http://twitter.com/search?q=Angkatan+Udara) | N/A |
+| 47 | [Ibu Iriana](http://twitter.com/search?q=Ibu+Iriana) | N/A |
+| 48 | [tjampolay](http://twitter.com/search?q=tjampolay) | N/A |
+| 49 | [Safa](http://twitter.com/search?q=Safa) | N/A |
+| 50 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
 
 
 
