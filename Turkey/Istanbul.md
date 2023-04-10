@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-04-10 13:19:18 UTC`
+📆 Last Updated: `2023-04-10 14:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BorsaIstanbul](http://twitter.com/search?q=%23BorsaIstanbul) | N/A |
+| 1 | [#CVKMD](http://twitter.com/search?q=%23CVKMD) | N/A |
 | 2 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
 | 3 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
 | 4 | [Ümit](http://twitter.com/search?q=%c3%9cmit) | N/A |
-| 5 | [#StajyerMüjdeyiBekliyor](http://twitter.com/search?q=%23StajyerM%c3%bcjdeyiBekliyor) | N/A |
-| 6 | [#EUPWR](http://twitter.com/search?q=%23EUPWR) | N/A |
-| 7 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
-| 8 | [Levent Uysal](http://twitter.com/search?q=Levent+Uysal) | N/A |
-| 9 | [SİHA](http://twitter.com/search?q=S%c4%b0HA) | N/A |
-| 10 | [#PolisHaftası](http://twitter.com/search?q=%23PolisHaftas%c4%b1) | N/A |
-| 11 | [#TürkiyeTarihYazacak](http://twitter.com/search?q=%23T%c3%bcrkiyeTarihYazacak) | N/A |
-| 12 | [Merzifon](http://twitter.com/search?q=Merzifon) | N/A |
-| 13 | [Amasya](http://twitter.com/search?q=Amasya) | N/A |
+| 5 | [#TürkiyeTarihYazacak](http://twitter.com/search?q=%23T%c3%bcrkiyeTarihYazacak) | N/A |
+| 6 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
+| 7 | [SİHA](http://twitter.com/search?q=S%c4%b0HA) | N/A |
+| 8 | [Teyiti Engelliyoruz](http://twitter.com/search?q=Teyiti+Engelliyoruz) | N/A |
+| 9 | [Levent Uysal Mersin](http://twitter.com/search?q=Levent+Uysal+Mersin) | N/A |
+| 10 | [Asalet](http://twitter.com/search?q=Asalet) | N/A |
+| 11 | [#OyumEk55BinÖğretmene](http://twitter.com/search?q=%23OyumEk55Bin%c3%96%c4%9fretmene) | N/A |
+| 12 | [#PolisHaftası](http://twitter.com/search?q=%23PolisHaftas%c4%b1) | N/A |
+| 13 | [#altın](http://twitter.com/search?q=%23alt%c4%b1n) | N/A |
 | 14 | [58 Hizbullah](http://twitter.com/search?q=58+Hizbullah) | N/A |
-| 15 | [Kuruluş Yıl Dönümü](http://twitter.com/search?q=Kurulu%c5%9f+Y%c4%b1l+D%c3%b6n%c3%bcm%c3%bc) | N/A |
-| 16 | [Şule Çet](http://twitter.com/search?q=%c5%9eule+%c3%87et) | N/A |
-| 17 | [Genelkurmay Başkanı](http://twitter.com/search?q=Genelkurmay+Ba%c5%9fkan%c4%b1) | N/A |
-| 18 | [Emniyet Teşkilatımızın 178](http://twitter.com/search?q=Emniyet+Te%c5%9fkilat%c4%b1m%c4%b1z%c4%b1n+178) | N/A |
-| 19 | [Kuzey Kore](http://twitter.com/search?q=Kuzey+Kore) | N/A |
-| 20 | [Uçak](http://twitter.com/search?q=U%c3%a7ak) | N/A |
-| 21 | [Türk Silahlı Kuvvetleri](http://twitter.com/search?q=T%c3%bcrk+Silahl%c4%b1+Kuvvetleri) | N/A |
-| 22 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 23 | [Ahmet Adanur](http://twitter.com/search?q=Ahmet+Adanur) | N/A |
-| 24 | [Abdullah Öcalan](http://twitter.com/search?q=Abdullah+%c3%96calan) | N/A |
-| 25 | [Cem Garipoğlu](http://twitter.com/search?q=Cem+Garipo%c4%9flu) | N/A |
-| 26 | [Mareşal Fevzi Çakmak](http://twitter.com/search?q=Mare%c5%9fal+Fevzi+%c3%87akmak) | N/A |
-| 27 | [Kızılelma](http://twitter.com/search?q=K%c4%b1z%c4%b1lelma) | N/A |
-| 28 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
-| 29 | [Özet Döviz Pozisyon Raporu](http://twitter.com/search?q=%c3%96zet+D%c3%b6viz+Pozisyon+Raporu) | N/A |
-| 30 | [Kaymakamımız Sn](http://twitter.com/search?q=Kaymakam%c4%b1m%c4%b1z+Sn) | N/A |
-| 31 | [OyumSenin BayKemal](http://twitter.com/search?q=OyumSenin+BayKemal) | N/A |
-| 32 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
-| 33 | [Deniz Kuvvetleri Komutanlığına](http://twitter.com/search?q=Deniz+Kuvvetleri+Komutanl%c4%b1%c4%9f%c4%b1na) | N/A |
-| 34 | [Ece Güner](http://twitter.com/search?q=Ece+G%c3%bcner) | N/A |
-| 35 | [Füzyon](http://twitter.com/search?q=F%c3%bczyon) | N/A |
-| 36 | [Gemi](http://twitter.com/search?q=Gemi) | N/A |
-| 37 | [Kolin](http://twitter.com/search?q=Kolin) | N/A |
-| 38 | [11 Nisan Salı](http://twitter.com/search?q=11+Nisan+Sal%c4%b1) | N/A |
-| 39 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
-| 40 | [İdris Naim Şahin](http://twitter.com/search?q=%c4%b0dris+Naim+%c5%9eahin) | N/A |
-| 41 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
-| 42 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
-| 43 | [Şubat](http://twitter.com/search?q=%c5%9eubat) | N/A |
-| 44 | [Ankara 1](http://twitter.com/search?q=Ankara+1) | N/A |
-| 45 | [Şırnak](http://twitter.com/search?q=%c5%9e%c4%b1rnak) | N/A |
-| 46 | [AK Parti'de](http://twitter.com/search?q=AK+Parti%27de) | N/A |
-| 47 | [Bölge 2](http://twitter.com/search?q=B%c3%b6lge+2) | N/A |
-| 48 | [haluk levent](http://twitter.com/search?q=haluk+levent) | N/A |
-| 49 | [Şirin](http://twitter.com/search?q=%c5%9eirin) | N/A |
-| 50 | [Can Atalay](http://twitter.com/search?q=Can+Atalay) | N/A |
+| 15 | [Amasya](http://twitter.com/search?q=Amasya) | N/A |
+| 16 | [Merzifon](http://twitter.com/search?q=Merzifon) | N/A |
+| 17 | [Uçak](http://twitter.com/search?q=U%c3%a7ak) | N/A |
+| 18 | [Şule Çet](http://twitter.com/search?q=%c5%9eule+%c3%87et) | N/A |
+| 19 | [Türk Silahlı Kuvvetleri](http://twitter.com/search?q=T%c3%bcrk+Silahl%c4%b1+Kuvvetleri) | N/A |
+| 20 | [Kuruluş Yıldönümü](http://twitter.com/search?q=Kurulu%c5%9f+Y%c4%b1ld%c3%b6n%c3%bcm%c3%bc) | N/A |
+| 21 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
+| 22 | [Tokat](http://twitter.com/search?q=Tokat) | N/A |
+| 23 | [Osman Naim Kaya](http://twitter.com/search?q=Osman+Naim+Kaya) | N/A |
+| 24 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 25 | [Kuzey Kore](http://twitter.com/search?q=Kuzey+Kore) | N/A |
+| 26 | [Ahmet Adanur](http://twitter.com/search?q=Ahmet+Adanur) | N/A |
+| 27 | [Genelkurmay Başkanı](http://twitter.com/search?q=Genelkurmay+Ba%c5%9fkan%c4%b1) | N/A |
+| 28 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
+| 29 | [Mareşal Fevzi Çakmak](http://twitter.com/search?q=Mare%c5%9fal+Fevzi+%c3%87akmak) | N/A |
+| 30 | [Emeği](http://twitter.com/search?q=Eme%c4%9fi) | N/A |
+| 31 | [Kızılelma](http://twitter.com/search?q=K%c4%b1z%c4%b1lelma) | N/A |
+| 32 | [Emniyet Teşkilatımızın 178](http://twitter.com/search?q=Emniyet+Te%c5%9fkilat%c4%b1m%c4%b1z%c4%b1n+178) | N/A |
+| 33 | [Diagne](http://twitter.com/search?q=Diagne) | N/A |
+| 34 | [Cem Garipoğlu](http://twitter.com/search?q=Cem+Garipo%c4%9flu) | N/A |
+| 35 | [Pide](http://twitter.com/search?q=Pide) | N/A |
+| 36 | [12 Nisan Çarşamba](http://twitter.com/search?q=12+Nisan+%c3%87ar%c5%9famba) | N/A |
+| 37 | [Deniz Kuvvetleri Komutanlığına](http://twitter.com/search?q=Deniz+Kuvvetleri+Komutanl%c4%b1%c4%9f%c4%b1na) | N/A |
+| 38 | [Savunma](http://twitter.com/search?q=Savunma) | N/A |
+| 39 | [Abdullah Öcalan](http://twitter.com/search?q=Abdullah+%c3%96calan) | N/A |
+| 40 | [Kaymakamımız Sn](http://twitter.com/search?q=Kaymakam%c4%b1m%c4%b1z+Sn) | N/A |
+| 41 | [11 Nisan Salı](http://twitter.com/search?q=11+Nisan+Sal%c4%b1) | N/A |
+| 42 | [OyumSenin BayKemal](http://twitter.com/search?q=OyumSenin+BayKemal) | N/A |
+| 43 | [Gemi](http://twitter.com/search?q=Gemi) | N/A |
+| 44 | [Alırsın](http://twitter.com/search?q=Al%c4%b1rs%c4%b1n) | N/A |
+| 45 | [Füzyon](http://twitter.com/search?q=F%c3%bczyon) | N/A |
+| 46 | [Kolin](http://twitter.com/search?q=Kolin) | N/A |
+| 47 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 48 | [Ece Güner](http://twitter.com/search?q=Ece+G%c3%bcner) | N/A |
+| 49 | [AK Parti'de](http://twitter.com/search?q=AK+Parti%27de) | N/A |
+| 50 | [İdris Naim Şahin](http://twitter.com/search?q=%c4%b0dris+Naim+%c5%9eahin) | N/A |
 
 
 

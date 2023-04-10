@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Abu Dhabi
 
-📆 Last Updated: `2023-04-10 13:19:10 UTC`
+📆 Last Updated: `2023-04-10 14:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ذكري_وفاه_الشيخ_زايد](http://twitter.com/search?q=%23%d8%b0%d9%83%d8%b1%d9%8a_%d9%88%d9%81%d8%a7%d9%87_%d8%a7%d9%84%d8%b4%d9%8a%d8%ae_%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
-| 2 | [العمل الانساني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
-| 3 | [#امپورٹڈ_حکومت_نامنظور](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%be%d9%88%d8%b1%d9%b9%da%88_%d8%ad%da%a9%d9%88%d9%85%d8%aa_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
-| 4 | [ابريل الجاري](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d9%8a%d9%84+%d8%a7%d9%84%d8%ac%d8%a7%d8%b1%d9%8a) | N/A |
+| 1 | [#يوم_زايد_للعمل_الانساني](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%b2%d8%a7%d9%8a%d8%af_%d9%84%d9%84%d8%b9%d9%85%d9%84_%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
+| 2 | [#قاضی_چوروں_کا_ساتھی](http://twitter.com/search?q=%23%d9%82%d8%a7%d8%b6%db%8c_%da%86%d9%88%d8%b1%d9%88%da%ba_%da%a9%d8%a7_%d8%b3%d8%a7%d8%aa%da%be%db%8c) | N/A |
+| 3 | [العمل الانساني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
+| 4 | [#امپورٹڈ_حکومت_نامنظور](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%be%d9%88%d8%b1%d9%b9%da%88_%d8%ad%da%a9%d9%88%d9%85%d8%aa_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
 | 5 | [Sheikh Zayed](http://twitter.com/search?q=Sheikh+Zayed) | N/A |
-| 6 | [#قاضی_چوروں_کا_ساتھی](http://twitter.com/search?q=%23%d9%82%d8%a7%d8%b6%db%8c_%da%86%d9%88%d8%b1%d9%88%da%ba_%da%a9%d8%a7_%d8%b3%d8%a7%d8%aa%da%be%db%8c) | N/A |
-| 7 | [#ZayedHumanitarianDay](http://twitter.com/search?q=%23ZayedHumanitarianDay) | N/A |
-| 8 | [19 رمضان](http://twitter.com/search?q=19+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 9 | [١٩ رمضان](http://twitter.com/search?q=%d9%a1%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [Sultan Al Nahyan](http://twitter.com/search?q=Sultan+Al+Nahyan) | N/A |
-| 12 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 13 | [اكرم الاكرمين](http://twitter.com/search?q=%d8%a7%d9%83%d8%b1%d9%85+%d8%a7%d9%84%d8%a7%d9%83%d8%b1%d9%85%d9%8a%d9%86) | N/A |
+| 6 | [#ZayedHumanitarianDay](http://twitter.com/search?q=%23ZayedHumanitarianDay) | N/A |
+| 7 | [19 رمضان](http://twitter.com/search?q=19+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 8 | [١٩ رمضان](http://twitter.com/search?q=%d9%a1%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 9 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 10 | [sultan al nahyan](http://twitter.com/search?q=sultan+al+nahyan) | N/A |
+| 11 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 12 | [اكرم الاكرمين](http://twitter.com/search?q=%d8%a7%d9%83%d8%b1%d9%85+%d8%a7%d9%84%d8%a7%d9%83%d8%b1%d9%85%d9%8a%d9%86) | N/A |
+| 13 | [ابريل الجاري](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d9%8a%d9%84+%d8%a7%d9%84%d8%ac%d8%a7%d8%b1%d9%8a) | N/A |
 | 14 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
 | 15 | [الحكومه الاتحاديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af%d9%8a%d9%87) | N/A |
 | 16 | [الدنا الشيخ](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%86%d8%a7+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
 | 17 | [باني الدار](http://twitter.com/search?q=%d8%a8%d8%a7%d9%86%d9%8a+%d8%a7%d9%84%d8%af%d8%a7%d8%b1) | N/A |
 | 18 | [#9thAprilBlackDay](http://twitter.com/search?q=%239thAprilBlackDay) | N/A |
-| 19 | [سالم صالح](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
-| 20 | [العمل الخيري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%d9%8a) | N/A |
+| 19 | [العمل الخيري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%d9%8a) | N/A |
+| 20 | [سالم صالح](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
 | 21 | [اسعد شعب](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b9%d8%af+%d8%b4%d8%b9%d8%a8) | N/A |
-| 22 | [الوالد الموسس الشيخ](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
+| 22 | [الوالد الموسس المغفور](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3+%d8%a7%d9%84%d9%85%d8%ba%d9%81%d9%88%d8%b1) | N/A |
 | 23 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
 | 24 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
-| 25 | [اسعد شعوب العالم](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b9%d8%af+%d8%b4%d8%b9%d9%88%d8%a8+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 26 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 27 | [صاحب السمو الشيخ](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 28 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
-| 29 | [علي الدوري](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
-| 30 | [رحمن اللهم](http://twitter.com/search?q=%d8%b1%d8%ad%d9%85%d9%86+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
-| 31 | [الإمارات العربية المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
+| 25 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 26 | [اسعد شعوب العالم](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b9%d8%af+%d8%b4%d8%b9%d9%88%d8%a8+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 27 | [رحمن اللهم](http://twitter.com/search?q=%d8%b1%d8%ad%d9%85%d9%86+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
+| 28 | [حكيم العرب](http://twitter.com/search?q=%d8%ad%d9%83%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
+| 29 | [صاحب السمو الشيخ](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
+| 30 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 31 | [علي الدوري](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a) | N/A |
 | 32 | [عقب العيد](http://twitter.com/search?q=%d8%b9%d9%82%d8%a8+%d8%a7%d9%84%d8%b9%d9%8a%d8%af) | N/A |
-| 33 | [حكيم العرب](http://twitter.com/search?q=%d8%ad%d9%83%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
-| 34 | [نموذج العطاء الانساني](http://twitter.com/search?q=%d9%86%d9%85%d9%88%d8%b0%d8%ac+%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
-| 35 | [الجامعه الامريكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d9%87) | N/A |
-| 36 | [المركز السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
-| 37 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 38 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 39 | [صندوق ابوظبي](http://twitter.com/search?q=%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a7%d8%a8%d9%88%d8%b8%d8%a8%d9%8a) | N/A |
-| 40 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 42 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 43 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 44 | [صنعاء](http://twitter.com/search?q=%d8%b5%d9%86%d8%b9%d8%a7%d8%a1) | N/A |
-| 45 | [ايريك](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d9%8a%d9%83) | N/A |
-| 46 | [دوري المحترفين](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%b1%d9%81%d9%8a%d9%86) | N/A |
-| 47 | [موت الغفله](http://twitter.com/search?q=%d9%85%d9%88%d8%aa+%d8%a7%d9%84%d8%ba%d9%81%d9%84%d9%87) | N/A |
-| 48 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 49 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 50 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 33 | [نموذج العطاء الانساني](http://twitter.com/search?q=%d9%86%d9%85%d9%88%d8%b0%d8%ac+%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
+| 34 | [الجامعه الامريكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d9%87) | N/A |
+| 35 | [المركز السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 36 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 37 | [صندوق ابوظبي](http://twitter.com/search?q=%d8%b5%d9%86%d8%af%d9%88%d9%82+%d8%a7%d8%a8%d9%88%d8%b8%d8%a8%d9%8a) | N/A |
+| 38 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 39 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 40 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 41 | [الإمارات العربية المتحدة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%a9) | N/A |
+| 42 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 43 | [صنعاء](http://twitter.com/search?q=%d8%b5%d9%86%d8%b9%d8%a7%d8%a1) | N/A |
+| 44 | [ايريك](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d9%8a%d9%83) | N/A |
+| 45 | [دوري المحترفين](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d8%b1%d9%81%d9%8a%d9%86) | N/A |
+| 46 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
+| 47 | [جنات النعيم](http://twitter.com/search?q=%d8%ac%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d8%b9%d9%8a%d9%85) | N/A |
+| 48 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 49 | [Karnataka](http://twitter.com/search?q=Karnataka) | N/A |
+| 50 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
 
 
 

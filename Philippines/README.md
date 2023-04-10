@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-04-10 13:19:35 UTC`
+📆 Last Updated: `2023-04-10 14:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OurSkyy2](http://twitter.com/search?q=%23OurSkyy2) | N/A |
-| 2 | [#AskPau](http://twitter.com/search?q=%23AskPau) | N/A |
-| 3 | [#FELIP_COMPLEXlive](http://twitter.com/search?q=%23FELIP_COMPLEXlive) | N/A |
-| 4 | [#FELIP_ROCKSTA](http://twitter.com/search?q=%23FELIP_ROCKSTA) | #FELIP_ROCKSTA is a hashtag used to show support for the artist Felip Rocksta. It is often used on social media platforms such as Twitter and Instagram to show appreciation for his music and artistry. |
-| 5 | [FRANSETH 1M PROMLOVE](http://twitter.com/search?q=FRANSETH+1M+PROMLOVE) | N/A |
-| 6 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 7 | [#SOFAxWishclusive](http://twitter.com/search?q=%23SOFAxWishclusive) | N/A |
-| 8 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 9 | [Mokang](http://twitter.com/search?q=Mokang) | N/A |
-| 10 | [VoteFiLay AsiasIconicLoveteam](http://twitter.com/search?q=VoteFiLay+AsiasIconicLoveteam) | N/A |
-| 11 | [Good Works and Giving](http://twitter.com/search?q=Good+Works+and+Giving) | N/A |
-| 12 | [Carson](http://twitter.com/search?q=Carson) | N/A |
-| 13 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 14 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 15 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 16 | [Back to the City](http://twitter.com/search?q=Back+to+the+City) | N/A |
-| 17 | [Shine With Me](http://twitter.com/search?q=Shine+With+Me) | N/A |
-| 18 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 19 | [jieun](http://twitter.com/search?q=jieun) | N/A |
-| 20 | [NOT YOUR GIRL](http://twitter.com/search?q=NOT+YOUR+GIRL) | N/A |
-| 21 | [Palette](http://twitter.com/search?q=Palette) | N/A |
-| 22 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 23 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 24 | [D4 KDLEXPETA COMEBACK](http://twitter.com/search?q=D4+KDLEXPETA+COMEBACK) | N/A |
-| 25 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 26 | [Aespa](http://twitter.com/search?q=Aespa) | N/A |
-| 27 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 28 | [Metro Manila](http://twitter.com/search?q=Metro+Manila) | N/A |
-| 29 | [Jollibee](http://twitter.com/search?q=Jollibee) | N/A |
-| 30 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 31 | [Intramuros](http://twitter.com/search?q=Intramuros) | N/A |
-| 32 | [Celine](http://twitter.com/search?q=Celine) | N/A |
-| 33 | [#FPJBQDebut](http://twitter.com/search?q=%23FPJBQDebut) | N/A |
-| 34 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
-| 35 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
-| 36 | [#LegendofSRICHANDxMileApo](http://twitter.com/search?q=%23LegendofSRICHANDxMileApo) | N/A |
-| 37 | [#SUGAxMarieClaireKorea](http://twitter.com/search?q=%23SUGAxMarieClaireKorea) | N/A |
-| 38 | [#LaysMaxExclusiveLiveXBright](http://twitter.com/search?q=%23LaysMaxExclusiveLiveXBright) | N/A |
-| 39 | [#FiLayAILxMCI](http://twitter.com/search?q=%23FiLayAILxMCI) | N/A |
-| 40 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 41 | [#IVE_1ST_ALBUM_RELEASE](http://twitter.com/search?q=%23IVE_1ST_ALBUM_RELEASE) | N/A |
-| 42 | [#lucalive](http://twitter.com/search?q=%23lucalive) | N/A |
-| 43 | [#IveIVE](http://twitter.com/search?q=%23IveIVE) | N/A |
-| 44 | [#KVersePH](http://twitter.com/search?q=%23KVersePH) | N/A |
-| 45 | [#FirstEightWP](http://twitter.com/search?q=%23FirstEightWP) | N/A |
-| 46 | [#JOHNPAULONASE](http://twitter.com/search?q=%23JOHNPAULONASE) | N/A |
-| 47 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 48 | [#Kep1er](http://twitter.com/search?q=%23Kep1er) | N/A |
+| 1 | [#Welcome_to_MyKarina](http://twitter.com/search?q=%23Welcome_to_MyKarina) | N/A |
+| 2 | [#지민아_마이의_푸른봄은_너야](http://twitter.com/search?q=%23%ec%a7%80%eb%af%bc%ec%95%84_%eb%a7%88%ec%9d%b4%ec%9d%98_%ed%91%b8%eb%a5%b8%eb%b4%84%ec%9d%80_%eb%84%88%ec%95%bc) | N/A |
+| 3 | [BLOOMING KARINA DAY](http://twitter.com/search?q=BLOOMING+KARINA+DAY) | N/A |
+| 4 | [#SOFAxWishclusive](http://twitter.com/search?q=%23SOFAxWishclusive) | N/A |
+| 5 | [#OurSkyy2](http://twitter.com/search?q=%23OurSkyy2) | N/A |
+| 6 | [#AskPau](http://twitter.com/search?q=%23AskPau) | N/A |
+| 7 | [BOARD THE WISHBUS with JC](http://twitter.com/search?q=BOARD+THE+WISHBUS+with+JC) | N/A |
+| 8 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 9 | [ANGELA SOFA WISHBUS](http://twitter.com/search?q=ANGELA+SOFA+WISHBUS) | N/A |
+| 10 | [OchoTheBullet On WishBus](http://twitter.com/search?q=OchoTheBullet+On+WishBus) | N/A |
+| 11 | [FRANSETH 1M PROMLOVE](http://twitter.com/search?q=FRANSETH+1M+PROMLOVE) | N/A |
+| 12 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 13 | [Marie Claire](http://twitter.com/search?q=Marie+Claire) | N/A |
+| 14 | [LaysMax x Bright](http://twitter.com/search?q=LaysMax+x+Bright) | N/A |
+| 15 | [Good Works and Giving](http://twitter.com/search?q=Good+Works+and+Giving) | N/A |
+| 16 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 17 | [Mokang](http://twitter.com/search?q=Mokang) | N/A |
+| 18 | [VoteFiLay AsiasIconicLoveteam](http://twitter.com/search?q=VoteFiLay+AsiasIconicLoveteam) | N/A |
+| 19 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 20 | [Back to the City](http://twitter.com/search?q=Back+to+the+City) | N/A |
+| 21 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 22 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 23 | [D4 KDLEXPETA COMEBACK](http://twitter.com/search?q=D4+KDLEXPETA+COMEBACK) | N/A |
+| 24 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 25 | [jieun](http://twitter.com/search?q=jieun) | N/A |
+| 26 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 27 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 28 | [Ningning](http://twitter.com/search?q=Ningning) | Ningning is a Chinese term of endearment, similar to "honey" or "sweetheart" in English. It is used to express affection and fondness for someone. |
+| 29 | [Aespa](http://twitter.com/search?q=Aespa) | N/A |
+| 30 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 31 | [Metro Manila](http://twitter.com/search?q=Metro+Manila) | N/A |
+| 32 | [#FELIP_COMPLEXlive](http://twitter.com/search?q=%23FELIP_COMPLEXlive) | N/A |
+| 33 | [#DLTakeTheRisk](http://twitter.com/search?q=%23DLTakeTheRisk) | N/A |
+| 34 | [#FELIP_ROCKSTA](http://twitter.com/search?q=%23FELIP_ROCKSTA) | #FELIP_ROCKSTA is a hashtag used to show support for the artist Felip Rocksta. It is often used on social media platforms such as Twitter and Instagram to show appreciation for his music and artistry. |
+| 35 | [#KAIA_ANGELA](http://twitter.com/search?q=%23KAIA_ANGELA) | N/A |
+| 36 | [#ANGELAonSofaRemix](http://twitter.com/search?q=%23ANGELAonSofaRemix) | N/A |
+| 37 | [#OurSkyyxBadBuddy](http://twitter.com/search?q=%23OurSkyyxBadBuddy) | N/A |
+| 38 | [#DirtyLinen](http://twitter.com/search?q=%23DirtyLinen) | N/A |
+| 39 | [#onceselcaday](http://twitter.com/search?q=%23onceselcaday) | N/A |
+| 40 | [#JOSHCULLEN](http://twitter.com/search?q=%23JOSHCULLEN) | N/A |
+| 41 | [#HOIHuliKa](http://twitter.com/search?q=%23HOIHuliKa) | N/A |
+| 42 | [#FPJBQDebut](http://twitter.com/search?q=%23FPJBQDebut) | N/A |
+| 43 | [#LaysMaxExclusiveLiveXBright](http://twitter.com/search?q=%23LaysMaxExclusiveLiveXBright) | N/A |
+| 44 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
+| 45 | [#LegendofSRICHANDxMileApo](http://twitter.com/search?q=%23LegendofSRICHANDxMileApo) | N/A |
+| 46 | [#FiLayAILxMCI](http://twitter.com/search?q=%23FiLayAILxMCI) | N/A |
+| 47 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 48 | [#lucalive](http://twitter.com/search?q=%23lucalive) | N/A |
+| 49 | [#IVE_1ST_ALBUM_RELEASE](http://twitter.com/search?q=%23IVE_1ST_ALBUM_RELEASE) | N/A |
+| 50 | [#DAESUNG](http://twitter.com/search?q=%23DAESUNG) | N/A |
 
 
 

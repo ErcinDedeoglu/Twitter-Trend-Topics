@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-04-10 13:18:41 UTC`
+📆 Last Updated: `2023-04-10 14:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 2 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
-| 3 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 6 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 7 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
-| 8 | [#EstaVivo](http://twitter.com/search?q=%23EstaVivo) | N/A |
-| 9 | [cd9 is back](http://twitter.com/search?q=cd9+is+back) | N/A |
-| 10 | [#cd910años](http://twitter.com/search?q=%23cd910a%c3%b1os) | N/A |
-| 11 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
-| 12 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 13 | [cd9 comeback](http://twitter.com/search?q=cd9+comeback) | N/A |
-| 14 | [#DespiertoyAgradezco](http://twitter.com/search?q=%23DespiertoyAgradezco) | N/A |
-| 15 | [cd9 return](http://twitter.com/search?q=cd9+return) | N/A |
-| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 17 | [Jardines del Pedregal](http://twitter.com/search?q=Jardines+del+Pedregal) | N/A |
-| 18 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 19 | [Lunes 10](http://twitter.com/search?q=Lunes+10) | N/A |
-| 20 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 21 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 22 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 23 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
-| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 25 | [Emiliano Zapata](http://twitter.com/search?q=Emiliano+Zapata) | N/A |
-| 26 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 27 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 28 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 29 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
-| 30 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
+| 3 | [#olalloykornocontigo](http://twitter.com/search?q=%23olalloykornocontigo) | N/A |
+| 4 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
+| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 7 | [Emiliano Zapata](http://twitter.com/search?q=Emiliano+Zapata) | N/A |
+| 8 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 9 | [#EstaVivo](http://twitter.com/search?q=%23EstaVivo) | N/A |
+| 10 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
+| 11 | [cd9 is back](http://twitter.com/search?q=cd9+is+back) | N/A |
+| 12 | [#cd910años](http://twitter.com/search?q=%23cd910a%c3%b1os) | N/A |
+| 13 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 14 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
+| 15 | [cd9 comeback](http://twitter.com/search?q=cd9+comeback) | N/A |
+| 16 | [cd9 return](http://twitter.com/search?q=cd9+return) | N/A |
+| 17 | [Entrona](http://twitter.com/search?q=Entrona) | N/A |
+| 18 | [Jardines del Pedregal](http://twitter.com/search?q=Jardines+del+Pedregal) | N/A |
+| 19 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 20 | [Lunes 10](http://twitter.com/search?q=Lunes+10) | N/A |
+| 21 | [Chinameca](http://twitter.com/search?q=Chinameca) | N/A |
+| 22 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 23 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 24 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
+| 25 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 26 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
+| 27 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
+| 28 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 29 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 30 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
 | 31 | [prieto](http://twitter.com/search?q=prieto) | N/A |
-| 32 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 33 | [Perote](http://twitter.com/search?q=Perote) | N/A |
+| 32 | [Caudillo del Sur](http://twitter.com/search?q=Caudillo+del+Sur) | N/A |
+| 33 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
 | 34 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
-| 35 | [jisoo debut stage](http://twitter.com/search?q=jisoo+debut+stage) | N/A |
-| 36 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 37 | [Faby](http://twitter.com/search?q=Faby) | N/A |
-| 38 | [mexico loves mamamoo](http://twitter.com/search?q=mexico+loves+mamamoo) | N/A |
-| 39 | [coders clowns](http://twitter.com/search?q=coders+clowns) | N/A |
-| 40 | [estamos contigo nat](http://twitter.com/search?q=estamos+contigo+nat) | N/A |
-| 41 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 42 | [return of cd9](http://twitter.com/search?q=return+of+cd9) | N/A |
-| 43 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 44 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 45 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 46 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 47 | [La UNAM](http://twitter.com/search?q=La+UNAM) | N/A |
-| 48 | [malagón](http://twitter.com/search?q=malag%c3%b3n) | N/A |
-| 49 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 35 | [Perote](http://twitter.com/search?q=Perote) | N/A |
+| 36 | [El 10](http://twitter.com/search?q=El+10) | N/A |
+| 37 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 38 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 39 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 40 | [La UNAM](http://twitter.com/search?q=La+UNAM) | N/A |
+| 41 | [coders clowns](http://twitter.com/search?q=coders+clowns) | N/A |
+| 42 | [estamos contigo nat](http://twitter.com/search?q=estamos+contigo+nat) | N/A |
+| 43 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 44 | [return of cd9](http://twitter.com/search?q=return+of+cd9) | N/A |
+| 45 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 46 | [Revolución Mexicana](http://twitter.com/search?q=Revoluci%c3%b3n+Mexicana) | N/A |
+| 47 | [Julio González](http://twitter.com/search?q=Julio+Gonz%c3%a1lez) | N/A |
+| 48 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 49 | [Leona Vicario](http://twitter.com/search?q=Leona+Vicario) | N/A |
+| 50 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
 
 
 
