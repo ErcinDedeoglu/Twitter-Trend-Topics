@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-04-10 21:17:28 UTC`
+📆 Last Updated: `2023-04-10 22:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 2 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 3 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 4 | [#MassShooting](http://twitter.com/search?q=%23MassShooting) | N/A |
-| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 6 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 1 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
+| 2 | [#GunControlNow](http://twitter.com/search?q=%23GunControlNow) | N/A |
+| 3 | [Frank Ocean](http://twitter.com/search?q=Frank+Ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his distinctive sound and his emotionally charged lyrics. His music has been described as having a wide range of influences, including soul, hip hop, jazz, funk, and R&B. |
+| 4 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 5 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
+| 6 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
 | 7 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 8 | [#NationalSiblingsDay](http://twitter.com/search?q=%23NationalSiblingsDay) | N/A |
-| 9 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 10 | [DSMP](http://twitter.com/search?q=DSMP) | N/A |
-| 11 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
-| 12 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
-| 13 | [Lil Baby](http://twitter.com/search?q=Lil+Baby) | N/A |
-| 14 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 15 | [Evan Gattis](http://twitter.com/search?q=Evan+Gattis) | N/A |
-| 16 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 17 | [#PLTXD](http://twitter.com/search?q=%23PLTXD) | N/A |
-| 18 | [#GarbageUniversity](http://twitter.com/search?q=%23GarbageUniversity) | N/A |
-| 19 | [#MyChildhoodSmelledOf](http://twitter.com/search?q=%23MyChildhoodSmelledOf) | N/A |
+| 8 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 9 | [#MassShooting](http://twitter.com/search?q=%23MassShooting) | N/A |
+| 10 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 12 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
+| 13 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 14 | [Nashville Metro Council](http://twitter.com/search?q=Nashville+Metro+Council) | N/A |
+| 15 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
+| 16 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 17 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 18 | [Trey Lance](http://twitter.com/search?q=Trey+Lance) | Trey Lance is the name of an American football player. He is a quarterback for the San Francisco 49ers of the National Football League (NFL). The name Trey is derived from the Latin word "tres" meaning "three," and Lance is a French word meaning "lance" or "spear." |
+| 19 | [Evan Gattis](http://twitter.com/search?q=Evan+Gattis) | N/A |
 | 20 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
-| 21 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 22 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 23 | [Cody Ware](http://twitter.com/search?q=Cody+Ware) | N/A |
-| 24 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 25 | [Pronouns](http://twitter.com/search?q=Pronouns) | N/A |
-| 26 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 27 | [Old National Bank](http://twitter.com/search?q=Old+National+Bank) | N/A |
-| 28 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
-| 29 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
-| 30 | [CALLAHAN](http://twitter.com/search?q=CALLAHAN) | Callahan is an Irish surname derived from the Gaelic name Ó Cathaláin, meaning "descendant of Cathalán". It is most commonly found in County Cork, Ireland. |
-| 31 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 32 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
-| 33 | [Dream SMP](http://twitter.com/search?q=Dream+SMP) | N/A |
-| 34 | [Cardi](http://twitter.com/search?q=Cardi) | Cardi is short for Cardigan, a type of knitted sweater or jacket that opens down the front. It is usually made of wool or cotton and can be worn as a light jacket or over a shirt. |
-| 35 | [Gavin Sheets](http://twitter.com/search?q=Gavin+Sheets) | N/A |
-| 36 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
-| 37 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 38 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
-| 39 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
-| 40 | [Juliana Farmer](http://twitter.com/search?q=Juliana+Farmer) | N/A |
-| 41 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 42 | [Night 6](http://twitter.com/search?q=Night+6) | N/A |
+| 21 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 22 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
+| 23 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 24 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 25 | [DSMP](http://twitter.com/search?q=DSMP) | N/A |
+| 26 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
+| 27 | [Pronouns](http://twitter.com/search?q=Pronouns) | N/A |
+| 28 | [Lil Baby](http://twitter.com/search?q=Lil+Baby) | N/A |
+| 29 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 30 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
+| 31 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 32 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 33 | [Cody Ware](http://twitter.com/search?q=Cody+Ware) | N/A |
+| 34 | [CALLAHAN](http://twitter.com/search?q=CALLAHAN) | Callahan is an Irish surname derived from the Gaelic name Ó Cathaláin, meaning "descendant of Cathalán". It is most commonly found in County Cork, Ireland. |
+| 35 | [Rapinoe](http://twitter.com/search?q=Rapinoe) | N/A |
+| 36 | [Chris Simms](http://twitter.com/search?q=Chris+Simms) | N/A |
+| 37 | [Will Anderson](http://twitter.com/search?q=Will+Anderson) | N/A |
+| 38 | [Bruce Banner](http://twitter.com/search?q=Bruce+Banner) | N/A |
+| 39 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 40 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 41 | [Dream SMP](http://twitter.com/search?q=Dream+SMP) | N/A |
+| 42 | [Cardi](http://twitter.com/search?q=Cardi) | Cardi is short for Cardigan, a type of knitted sweater or jacket that opens down the front. It is usually made of wool or cotton and can be worn as a light jacket or over a shirt. |
 | 43 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 44 | [Rapinoe](http://twitter.com/search?q=Rapinoe) | N/A |
-| 45 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 46 | [Blue Raspberry](http://twitter.com/search?q=Blue+Raspberry) | N/A |
-| 47 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 48 | [John Collins](http://twitter.com/search?q=John+Collins) | John Collins is a cocktail made with gin, lemon juice, sugar, and soda water. It is a popular drink that originated in the 18th century and is named after the headwaiter at Limmer's Old House in London. The drink is typically served in a Collins glass over ice. |
-| 49 | [Adam Duvall](http://twitter.com/search?q=Adam+Duvall) | N/A |
+| 44 | [Hasan](http://twitter.com/search?q=Hasan) | N/A |
+| 45 | [Tony Stark](http://twitter.com/search?q=Tony+Stark) | N/A |
+| 46 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
+| 47 | [Blue Raspberry](http://twitter.com/search?q=Blue+Raspberry) | N/A |
+| 48 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 49 | [Metroid](http://twitter.com/search?q=Metroid) | N/A |
 
 
 

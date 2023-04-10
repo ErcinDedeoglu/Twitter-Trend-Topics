@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-04-10 21:17:06 UTC`
+📆 Last Updated: `2023-04-10 22:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#kopkenbotolaslienak](http://twitter.com/search?q=%23kopkenbotolaslienak) | N/A |
-| 2 | [oppo ramadan 2023](http://twitter.com/search?q=oppo+ramadan+2023) | N/A |
+| 1 | [oppo ramadan 2023](http://twitter.com/search?q=oppo+ramadan+2023) | N/A |
+| 2 | [#Welcome_to_MyKarina](http://twitter.com/search?q=%23Welcome_to_MyKarina) | N/A |
 | 3 | [Oatside Mini](http://twitter.com/search?q=Oatside+Mini) | N/A |
-| 4 | [#Welcome_to_MyKarina](http://twitter.com/search?q=%23Welcome_to_MyKarina) | N/A |
+| 4 | [#지민아_마이의_푸른봄은_너야](http://twitter.com/search?q=%23%ec%a7%80%eb%af%bc%ec%95%84_%eb%a7%88%ec%9d%b4%ec%9d%98_%ed%91%b8%eb%a5%b8%eb%b4%84%ec%9d%80_%eb%84%88%ec%95%bc) | N/A |
 | 5 | [bri banyak untungnya](http://twitter.com/search?q=bri+banyak+untungnya) | N/A |
 | 6 | [silaturahmi kebangsaan](http://twitter.com/search?q=silaturahmi+kebangsaan) | N/A |
-| 7 | [OPPO Reno8 T](http://twitter.com/search?q=OPPO+Reno8+T) | OPPO Reno8 T is a smartphone made by the Chinese electronics company OPPO. It features a 6.43-inch OLED display, a triple rear camera setup, and a MediaTek Dimensity 800U processor. The "T" in the name stands for "Turbo", indicating that the device has been optimized for faster performance. |
+| 7 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
 | 8 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 9 | [penuhi hak kesehatan helmut](http://twitter.com/search?q=penuhi+hak+kesehatan+helmut) | N/A |
-| 10 | [partai perindo](http://twitter.com/search?q=partai+perindo) | N/A |
-| 11 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 12 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 9 | [OPPO Reno8 T](http://twitter.com/search?q=OPPO+Reno8+T) | OPPO Reno8 T is a smartphone made by the Chinese electronics company OPPO. It features a 6.43-inch OLED display, a triple rear camera setup, and a MediaTek Dimensity 800U processor. The "T" in the name stands for "Turbo", indicating that the device has been optimized for faster performance. |
+| 10 | [penuhi hak kesehatan helmut](http://twitter.com/search?q=penuhi+hak+kesehatan+helmut) | N/A |
+| 11 | [partai perindo](http://twitter.com/search?q=partai+perindo) | N/A |
+| 12 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
 | 13 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 14 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 15 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 14 | [Aku 15](http://twitter.com/search?q=Aku+15) | N/A |
+| 15 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
 | 16 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
-| 17 | [Lebaran 2020](http://twitter.com/search?q=Lebaran+2020) | N/A |
-| 18 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 19 | [Pak Taka](http://twitter.com/search?q=Pak+Taka) | N/A |
-| 20 | [7 years with nct](http://twitter.com/search?q=7+years+with+nct) | N/A |
-| 21 | [JK X JB](http://twitter.com/search?q=JK+X+JB) | N/A |
-| 22 | [Gw 15](http://twitter.com/search?q=Gw+15) | N/A |
-| 23 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 24 | [who out now](http://twitter.com/search?q=who+out+now) | N/A |
-| 25 | [Ibu Negara](http://twitter.com/search?q=Ibu+Negara) | N/A |
-| 26 | [JJK1 IS COMING](http://twitter.com/search?q=JJK1+IS+COMING) | N/A |
-| 27 | [HANSAMU YAMA](http://twitter.com/search?q=HANSAMU+YAMA) | N/A |
-| 28 | [Akaza](http://twitter.com/search?q=Akaza) | N/A |
-| 29 | [JEON JUNGKOOK IS COMING](http://twitter.com/search?q=JEON+JUNGKOOK+IS+COMING) | N/A |
-| 30 | [prabowo menangkan rakyat](http://twitter.com/search?q=prabowo+menangkan+rakyat) | N/A |
-| 31 | [koalisi besar tercapai](http://twitter.com/search?q=koalisi+besar+tercapai) | N/A |
-| 32 | [Salma x Judika](http://twitter.com/search?q=Salma+x+Judika) | N/A |
-| 33 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 34 | [MELODY OF SCENTS D3](http://twitter.com/search?q=MELODY+OF+SCENTS+D3) | N/A |
-| 35 | [selamat hari paskah](http://twitter.com/search?q=selamat+hari+paskah) | N/A |
-| 36 | [LYLYAWITHRENJUN](http://twitter.com/search?q=LYLYAWITHRENJUN) | N/A |
-| 37 | [Isyana](http://twitter.com/search?q=Isyana) | N/A |
-| 38 | [survei lsi](http://twitter.com/search?q=survei+lsi) | N/A |
-| 39 | [Pasar Selo](http://twitter.com/search?q=Pasar+Selo) | N/A |
-| 40 | [R to V in JAKARTA](http://twitter.com/search?q=R+to+V+in+JAKARTA) | N/A |
-| 41 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 17 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 18 | [Lebaran 2020](http://twitter.com/search?q=Lebaran+2020) | N/A |
+| 19 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 20 | [Gue 15](http://twitter.com/search?q=Gue+15) | N/A |
+| 21 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 22 | [Pak Taka](http://twitter.com/search?q=Pak+Taka) | N/A |
+| 23 | [7 years with nct](http://twitter.com/search?q=7+years+with+nct) | N/A |
+| 24 | [LEGENDARY LIKE BANG CHAN](http://twitter.com/search?q=LEGENDARY+LIKE+BANG+CHAN) | N/A |
+| 25 | [who out now](http://twitter.com/search?q=who+out+now) | N/A |
+| 26 | [Akaza](http://twitter.com/search?q=Akaza) | N/A |
+| 27 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 28 | [Gw 15](http://twitter.com/search?q=Gw+15) | N/A |
+| 29 | [JJK1 IS COMING](http://twitter.com/search?q=JJK1+IS+COMING) | N/A |
+| 30 | [HANSAMU YAMA](http://twitter.com/search?q=HANSAMU+YAMA) | N/A |
+| 31 | [Ibu Negara](http://twitter.com/search?q=Ibu+Negara) | N/A |
+| 32 | [prabowo menangkan rakyat](http://twitter.com/search?q=prabowo+menangkan+rakyat) | N/A |
+| 33 | [koalisi besar tercapai](http://twitter.com/search?q=koalisi+besar+tercapai) | N/A |
+| 34 | [JEON JUNGKOOK IS COMING](http://twitter.com/search?q=JEON+JUNGKOOK+IS+COMING) | N/A |
+| 35 | [Pasar Selo](http://twitter.com/search?q=Pasar+Selo) | N/A |
+| 36 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 37 | [Salma x Judika](http://twitter.com/search?q=Salma+x+Judika) | N/A |
+| 38 | [MELODY OF SCENTS D3](http://twitter.com/search?q=MELODY+OF+SCENTS+D3) | N/A |
+| 39 | [selamat hari paskah](http://twitter.com/search?q=selamat+hari+paskah) | N/A |
+| 40 | [lylyawithrenjun](http://twitter.com/search?q=lylyawithrenjun) | N/A |
+| 41 | [Isyana](http://twitter.com/search?q=Isyana) | N/A |
 | 42 | [Douma](http://twitter.com/search?q=Douma) | N/A |
-| 43 | [Gue 15](http://twitter.com/search?q=Gue+15) | N/A |
-| 44 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
+| 43 | [JK X JB](http://twitter.com/search?q=JK+X+JB) | N/A |
+| 44 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 45 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
-| 46 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 47 | [Selamat PASKAH](http://twitter.com/search?q=Selamat+PASKAH) | N/A |
+| 46 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 47 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
 
 
 

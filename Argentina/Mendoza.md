@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-04-10 21:16:53 UTC`
+📆 Last Updated: `2023-04-10 22:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,53 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 2 | [#MasDeLoMismo](http://twitter.com/search?q=%23MasDeLoMismo) | N/A |
-| 3 | [CABA](http://twitter.com/search?q=CABA) | N/A |
-| 4 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
-| 5 | [#EntreNosotros](http://twitter.com/search?q=%23EntreNosotros) | N/A |
-| 6 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 7 | [Jorge Macri](http://twitter.com/search?q=Jorge+Macri) | N/A |
-| 8 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
-| 9 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 10 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 11 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 12 | [Jefe de Gobierno](http://twitter.com/search?q=Jefe+de+Gobierno) | N/A |
-| 13 | [#ALaTarde](http://twitter.com/search?q=%23ALaTarde) | N/A |
-| 14 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
+| 2 | [CABA](http://twitter.com/search?q=CABA) | N/A |
+| 3 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
+| 4 | [#13ADemocraciaOMafia](http://twitter.com/search?q=%2313ADemocraciaOMafia) | N/A |
+| 5 | [#MasDeLoMismo](http://twitter.com/search?q=%23MasDeLoMismo) | N/A |
+| 6 | [#entrenosotros](http://twitter.com/search?q=%23entrenosotros) | N/A |
+| 7 | [Barraza](http://twitter.com/search?q=Barraza) | N/A |
+| 8 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 9 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 10 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 11 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 12 | [Jorge Macri](http://twitter.com/search?q=Jorge+Macri) | N/A |
+| 13 | [Municipios a la Obra](http://twitter.com/search?q=Municipios+a+la+Obra) | N/A |
+| 14 | [Jefe de Gobierno](http://twitter.com/search?q=Jefe+de+Gobierno) | N/A |
 | 15 | [Marra](http://twitter.com/search?q=Marra) | N/A |
-| 16 | [Boleta Única](http://twitter.com/search?q=Boleta+%c3%9anica) | N/A |
-| 17 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
-| 18 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 19 | [OSDE](http://twitter.com/search?q=OSDE) | N/A |
-| 20 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 21 | [Almironeta](http://twitter.com/search?q=Almironeta) | N/A |
-| 22 | [Radicales](http://twitter.com/search?q=Radicales) | N/A |
-| 23 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
-| 24 | [#ATAV2](http://twitter.com/search?q=%23ATAV2) | N/A |
-| 25 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 26 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 27 | [Favaloro](http://twitter.com/search?q=Favaloro) | N/A |
-| 28 | [Ameal](http://twitter.com/search?q=Ameal) | Ameal is a Spanish word that means "meal" in English. It is used to refer to a meal that is eaten at a specific time of day, such as breakfast, lunch, or dinner. |
-| 29 | [La UCR](http://twitter.com/search?q=La+UCR) | N/A |
-| 30 | [ENACOM](http://twitter.com/search?q=ENACOM) | N/A |
-| 31 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 16 | [Flandria](http://twitter.com/search?q=Flandria) | N/A |
+| 17 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 18 | [#ALaTarde](http://twitter.com/search?q=%23ALaTarde) | N/A |
+| 19 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
+| 20 | [Kami](http://twitter.com/search?q=Kami) | N/A |
+| 21 | [Boleta Única](http://twitter.com/search?q=Boleta+%c3%9anica) | N/A |
+| 22 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
+| 23 | [#ATAV2](http://twitter.com/search?q=%23ATAV2) | N/A |
+| 24 | [Radicales](http://twitter.com/search?q=Radicales) | N/A |
+| 25 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 26 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
+| 27 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
+| 28 | [Villa Soldati](http://twitter.com/search?q=Villa+Soldati) | N/A |
+| 29 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 30 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 31 | [OSDE](http://twitter.com/search?q=OSDE) | N/A |
 | 32 | [Tetaz](http://twitter.com/search?q=Tetaz) | N/A |
-| 33 | [El PRO](http://twitter.com/search?q=El+PRO) | N/A |
-| 34 | [López Murphy](http://twitter.com/search?q=L%c3%b3pez+Murphy) | N/A |
-| 35 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 36 | [Pelado](http://twitter.com/search?q=Pelado) | N/A |
-| 37 | [Vicente López](http://twitter.com/search?q=Vicente+L%c3%b3pez) | N/A |
-| 38 | [Zeballos](http://twitter.com/search?q=Zeballos) | Zeballos is a Spanish surname derived from the Basque name Zabal, which means "valley". In English, it can be translated to mean "valley dweller". |
-| 39 | [Mariu](http://twitter.com/search?q=Mariu) | N/A |
-| 40 | [Ciudad de Buenos Aires](http://twitter.com/search?q=Ciudad+de+Buenos+Aires) | N/A |
-| 41 | [Laura Di Marco](http://twitter.com/search?q=Laura+Di+Marco) | N/A |
-| 42 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
-| 43 | [Bernardo Houssay](http://twitter.com/search?q=Bernardo+Houssay) | N/A |
-| 44 | [Bienvenida Eva](http://twitter.com/search?q=Bienvenida+Eva) | N/A |
-| 45 | [#DesayunoAmericano](http://twitter.com/search?q=%23DesayunoAmericano) | N/A |
+| 33 | [ENACOM](http://twitter.com/search?q=ENACOM) | N/A |
+| 34 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 35 | [Jorgito](http://twitter.com/search?q=Jorgito) | N/A |
+| 36 | [Favaloro](http://twitter.com/search?q=Favaloro) | N/A |
+| 37 | [Di Marco](http://twitter.com/search?q=Di+Marco) | N/A |
+| 38 | [La UCR](http://twitter.com/search?q=La+UCR) | N/A |
+| 39 | [López Murphy](http://twitter.com/search?q=L%c3%b3pez+Murphy) | N/A |
+| 40 | [Pelado](http://twitter.com/search?q=Pelado) | N/A |
+| 41 | [Vicente López](http://twitter.com/search?q=Vicente+L%c3%b3pez) | N/A |
+| 42 | [Zeballos](http://twitter.com/search?q=Zeballos) | Zeballos is a Spanish surname derived from the Basque name Zabal, which means "valley". In English, it can be translated to mean "valley dweller". |
+| 43 | [Ameal](http://twitter.com/search?q=Ameal) | Ameal is a Spanish word that means "meal" in English. It is used to refer to a meal that is eaten at a specific time of day, such as breakfast, lunch, or dinner. |
+| 44 | [El PRO](http://twitter.com/search?q=El+PRO) | N/A |
+| 45 | [Ciudad de Buenos Aires](http://twitter.com/search?q=Ciudad+de+Buenos+Aires) | N/A |
+| 46 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
+| 47 | [Bernardo Houssay](http://twitter.com/search?q=Bernardo+Houssay) | N/A |
+| 48 | [#Elecciones2023](http://twitter.com/search?q=%23Elecciones2023) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-04-10 21:16:56 UTC`
+📆 Last Updated: `2023-04-10 22:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brahma](http://twitter.com/search?q=Brahma) | N/A |
+| 1 | [#foraBRUNAGRIPHAO](http://twitter.com/search?q=%23foraBRUNAGRIPHAO) | N/A |
 | 2 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
-| 3 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 5 | [Fecha](http://twitter.com/search?q=Fecha) | N/A |
-| 6 | [Purple Kiss](http://twitter.com/search?q=Purple+Kiss) | N/A |
-| 7 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
-| 8 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
-| 9 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
-| 10 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 11 | [Quadrado](http://twitter.com/search?q=Quadrado) | N/A |
-| 12 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
-| 13 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 14 | [#OBrasilVoltou](http://twitter.com/search?q=%23OBrasilVoltou) | N/A |
-| 15 | [Midnight Rain](http://twitter.com/search?q=Midnight+Rain) | N/A |
-| 16 | [Destaque](http://twitter.com/search?q=Destaque) | N/A |
-| 17 | [#CarolBiazinNoVenus](http://twitter.com/search?q=%23CarolBiazinNoVenus) | N/A |
-| 18 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 19 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 20 | [UFBA](http://twitter.com/search?q=UFBA) | N/A |
-| 21 | [#FofocalizandoNoSBT](http://twitter.com/search?q=%23FofocalizandoNoSBT) | N/A |
-| 22 | [Fase Copa](http://twitter.com/search?q=Fase+Copa) | N/A |
+| 3 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
+| 4 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 6 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
+| 7 | [Manaus](http://twitter.com/search?q=Manaus) | N/A |
+| 8 | [Fecha](http://twitter.com/search?q=Fecha) | N/A |
+| 9 | [Quadrado](http://twitter.com/search?q=Quadrado) | N/A |
+| 10 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
+| 11 | [Purple Kiss](http://twitter.com/search?q=Purple+Kiss) | N/A |
+| 12 | [Sambô](http://twitter.com/search?q=Samb%c3%b4) | N/A |
+| 13 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
+| 14 | [#ESPNFCBR](http://twitter.com/search?q=%23ESPNFCBR) | N/A |
+| 15 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
+| 16 | [#ADona085](http://twitter.com/search?q=%23ADona085) | N/A |
+| 17 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 18 | [Destaque](http://twitter.com/search?q=Destaque) | N/A |
+| 19 | [#CidadeAlertarj](http://twitter.com/search?q=%23CidadeAlertarj) | N/A |
+| 20 | [Midnight Rain](http://twitter.com/search?q=Midnight+Rain) | N/A |
+| 21 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 22 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
 | 23 | [MC Gui](http://twitter.com/search?q=MC+Gui) | N/A |
-| 24 | [Guto Ferreira](http://twitter.com/search?q=Guto+Ferreira) | N/A |
-| 25 | [Fase Sul-americana](http://twitter.com/search?q=Fase+Sul-americana) | N/A |
-| 26 | [CNCO](http://twitter.com/search?q=CNCO) | N/A |
-| 27 | [Miguel e Helena](http://twitter.com/search?q=Miguel+e+Helena) | N/A |
-| 28 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
-| 29 | [#AtardeESua](http://twitter.com/search?q=%23AtardeESua) | N/A |
-| 30 | [Ryan Murphy](http://twitter.com/search?q=Ryan+Murphy) | Ryan Murphy is an American screenwriter, director, and producer. He is best known for creating the television series Glee, American Horror Story, Pose, and 9-1-1. He has also directed several feature films including The Normal Heart and Eat Pray Love. Murphy's work often focuses on themes of acceptance and inclusion. |
-| 31 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
-| 32 | [Nena](http://twitter.com/search?q=Nena) | N/A |
-| 33 | [Vovô](http://twitter.com/search?q=Vov%c3%b4) | N/A |
-| 34 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
-| 35 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
-| 36 | [biel xcamoso](http://twitter.com/search?q=biel+xcamoso) | N/A |
-| 37 | [#ForaFredNicacio](http://twitter.com/search?q=%23ForaFredNicacio) | N/A |
-| 38 | [Em 100](http://twitter.com/search?q=Em+100) | N/A |
-| 39 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 40 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 41 | [Hércules](http://twitter.com/search?q=H%c3%a9rcules) | N/A |
-| 42 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
-| 43 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 44 | [Freud](http://twitter.com/search?q=Freud) | N/A |
-| 45 | [Prior](http://twitter.com/search?q=Prior) | Prior is an adjective that means earlier in time, order, or importance. It can also be used as a noun to refer to someone who holds a higher rank or position. |
-| 46 | [nora](http://twitter.com/search?q=nora) | N/A |
-| 47 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
+| 24 | [Mantuan](http://twitter.com/search?q=Mantuan) | Mantuan is an adjective used to describe something that is related to the city of Mantua in Italy. It can also refer to the dialect spoken in Mantua, which is a variant of the Lombard language. In English, it means "of or pertaining to Mantua". |
+| 25 | [UFBA](http://twitter.com/search?q=UFBA) | N/A |
+| 26 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 27 | [Guto Ferreira](http://twitter.com/search?q=Guto+Ferreira) | N/A |
+| 28 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 29 | [Em 100](http://twitter.com/search?q=Em+100) | N/A |
+| 30 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
+| 31 | [Nena](http://twitter.com/search?q=Nena) | N/A |
+| 32 | [CNCO](http://twitter.com/search?q=CNCO) | N/A |
+| 33 | [Fase Copa](http://twitter.com/search?q=Fase+Copa) | N/A |
+| 34 | [Miguel e Helena](http://twitter.com/search?q=Miguel+e+Helena) | N/A |
+| 35 | [Fase Sul-americana](http://twitter.com/search?q=Fase+Sul-americana) | N/A |
+| 36 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
+| 37 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 38 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
+| 39 | [Ryan Murphy](http://twitter.com/search?q=Ryan+Murphy) | Ryan Murphy is an American screenwriter, director, and producer. He is best known for creating the television series Glee, American Horror Story, Pose, and 9-1-1. He has also directed several feature films including The Normal Heart and Eat Pray Love. Murphy's work often focuses on themes of acceptance and inclusion. |
+| 40 | [Vovô](http://twitter.com/search?q=Vov%c3%b4) | N/A |
+| 41 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
+| 42 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 43 | [biel xcamoso](http://twitter.com/search?q=biel+xcamoso) | N/A |
+| 44 | [Hércules](http://twitter.com/search?q=H%c3%a9rcules) | N/A |
+| 45 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
+| 46 | [Freud](http://twitter.com/search?q=Freud) | N/A |
+| 47 | [Pedófilo](http://twitter.com/search?q=Ped%c3%b3filo) | N/A |
 | 48 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
-| 49 | [TRAILER LUAN CITY 2](http://twitter.com/search?q=TRAILER+LUAN+CITY+2) | N/A |
-| 50 | [Pedófilo](http://twitter.com/search?q=Ped%c3%b3filo) | N/A |
+| 49 | [Prior](http://twitter.com/search?q=Prior) | Prior is an adjective that means earlier in time, order, or importance. It can also be used as a noun to refer to someone who holds a higher rank or position. |
+| 50 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
 
 
 
