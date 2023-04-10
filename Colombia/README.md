@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-04-10 14:18:14 UTC`
+📆 Last Updated: `2023-04-10 15:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Colombia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NoAlcanzaPara](http://twitter.com/search?q=%23NoAlcanzaPara) | N/A |
-| 2 | [#MeAngustia](http://twitter.com/search?q=%23MeAngustia) | N/A |
-| 3 | [#PolloTriste](http://twitter.com/search?q=%23PolloTriste) | N/A |
-| 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 5 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 6 | [Gaitán](http://twitter.com/search?q=Gait%c3%a1n) | N/A |
-| 7 | [Marcela García](http://twitter.com/search?q=Marcela+Garc%c3%ada) | N/A |
-| 8 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 9 | [RTVC](http://twitter.com/search?q=RTVC) | N/A |
-| 10 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 2 | [#PolloTriste](http://twitter.com/search?q=%23PolloTriste) | N/A |
+| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 4 | [#MeAngustia](http://twitter.com/search?q=%23MeAngustia) | N/A |
+| 5 | [Gaitán](http://twitter.com/search?q=Gait%c3%a1n) | N/A |
+| 6 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 7 | [Natalia Lafourcade](http://twitter.com/search?q=Natalia+Lafourcade) | N/A |
+| 8 | [Marcela García](http://twitter.com/search?q=Marcela+Garc%c3%ada) | N/A |
+| 9 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 10 | [RTVC](http://twitter.com/search?q=RTVC) | N/A |
 | 11 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
-| 12 | [Hollman Morris](http://twitter.com/search?q=Hollman+Morris) | N/A |
-| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 14 | [espitia](http://twitter.com/search?q=espitia) | N/A |
+| 12 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 13 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 14 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 15 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
 | 16 | [Laje](http://twitter.com/search?q=Laje) | N/A |
-| 17 | [Natalia](http://twitter.com/search?q=Natalia) | N/A |
+| 17 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
 | 18 | [Kelvin Osorio](http://twitter.com/search?q=Kelvin+Osorio) | N/A |
-| 19 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 20 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
-| 21 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
-| 22 | [Víctimas](http://twitter.com/search?q=V%c3%adctimas) | N/A |
+| 19 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
+| 20 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 21 | [espitia](http://twitter.com/search?q=espitia) | N/A |
+| 22 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
 | 23 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 24 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
-| 25 | [perlaza](http://twitter.com/search?q=perlaza) | N/A |
-| 26 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 27 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 28 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 29 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 30 | [Cadavid](http://twitter.com/search?q=Cadavid) | N/A |
-| 31 | [Bogotazo](http://twitter.com/search?q=Bogotazo) | N/A |
+| 25 | [Panamericana](http://twitter.com/search?q=Panamericana) | N/A |
+| 26 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 27 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 28 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 29 | [Cadavid](http://twitter.com/search?q=Cadavid) | N/A |
+| 30 | [Bogotazo](http://twitter.com/search?q=Bogotazo) | N/A |
+| 31 | [Neto Volpi](http://twitter.com/search?q=Neto+Volpi) | N/A |
 | 32 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
-| 33 | [Panamericana](http://twitter.com/search?q=Panamericana) | N/A |
-| 34 | [chunga](http://twitter.com/search?q=chunga) | N/A |
-| 35 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
-| 36 | [Oligarquía](http://twitter.com/search?q=Oligarqu%c3%ada) | N/A |
+| 33 | [Zapateiro](http://twitter.com/search?q=Zapateiro) | N/A |
+| 34 | [El Tío](http://twitter.com/search?q=El+T%c3%ado) | N/A |
+| 35 | [Oligarquía](http://twitter.com/search?q=Oligarqu%c3%ada) | N/A |
+| 36 | [aladesanmi](http://twitter.com/search?q=aladesanmi) | N/A |
 | 37 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 38 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
-| 39 | [aladesanmi](http://twitter.com/search?q=aladesanmi) | N/A |
-| 40 | [Zapateiro](http://twitter.com/search?q=Zapateiro) | N/A |
-| 41 | [barranca](http://twitter.com/search?q=barranca) | N/A |
-| 42 | [Mussolini](http://twitter.com/search?q=Mussolini) | N/A |
-| 43 | [delgado](http://twitter.com/search?q=delgado) | N/A |
-| 44 | [sambueza](http://twitter.com/search?q=sambueza) | N/A |
-| 45 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
-| 46 | [Día Nacional de la Memoria](http://twitter.com/search?q=D%c3%ada+Nacional+de+la+Memoria) | N/A |
-| 47 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 48 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 49 | [Transporte](http://twitter.com/search?q=Transporte) | N/A |
-| 50 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 38 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 39 | [delgado](http://twitter.com/search?q=delgado) | N/A |
+| 40 | [Día Nacional de la Memoria](http://twitter.com/search?q=D%c3%ada+Nacional+de+la+Memoria) | N/A |
+| 41 | [sambueza](http://twitter.com/search?q=sambueza) | N/A |
+| 42 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
+| 43 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
+| 44 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
+| 45 | [Mussolini](http://twitter.com/search?q=Mussolini) | N/A |
+| 46 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 47 | [Bituima](http://twitter.com/search?q=Bituima) | N/A |
+| 48 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 49 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 50 | [Connor](http://twitter.com/search?q=Connor) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-10 14:18:02 UTC`
+📆 Last Updated: `2023-04-10 15:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,30 +20,30 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 3 | [#mcyvwel](http://twitter.com/search?q=%23mcyvwel) | N/A |
 | 4 | [Helen](http://twitter.com/search?q=Helen) | N/A |
 | 5 | [the disinformation project](http://twitter.com/search?q=the+disinformation+project) | N/A |
-| 6 | [chantelle](http://twitter.com/search?q=chantelle) | N/A |
+| 6 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
 | 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 8 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
 | 9 | [#nrlknightswarriors](http://twitter.com/search?q=%23nrlknightswarriors) | N/A |
 | 10 | [Herald](http://twitter.com/search?q=Herald) | N/A |
 | 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 12 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 13 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 14 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 13 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 14 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 15 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
 | 16 | [Pompey](http://twitter.com/search?q=Pompey) | N/A |
 | 17 | [simon o'connor](http://twitter.com/search?q=simon+o%27connor) | N/A |
 | 18 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 19 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 20 | [kate hannah](http://twitter.com/search?q=kate+hannah) | N/A |
-| 21 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 22 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 23 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 19 | [kate hannah](http://twitter.com/search?q=kate+hannah) | N/A |
+| 20 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 21 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 22 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
+| 23 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
 | 24 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 26 | [Logan](http://twitter.com/search?q=Logan) | N/A |
 | 27 | [Greg](http://twitter.com/search?q=Greg) | N/A |
 | 28 | [Sanjana Hattotuwa](http://twitter.com/search?q=Sanjana+Hattotuwa) | N/A |
-| 29 | [Tasman](http://twitter.com/search?q=Tasman) | N/A |
+| 29 | [tasman](http://twitter.com/search?q=tasman) | N/A |
 | 30 | [david fisher](http://twitter.com/search?q=david+fisher) | N/A |
 | 31 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
 | 32 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
@@ -52,17 +52,17 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 35 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 36 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
 | 37 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 38 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 39 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 40 | [Winston](http://twitter.com/search?q=Winston) | N/A |
-| 41 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
-| 42 | [Y'all](http://twitter.com/search?q=Y%27all) | N/A |
-| 43 | [Genuinely](http://twitter.com/search?q=Genuinely) | N/A |
-| 44 | [david seymour](http://twitter.com/search?q=david+seymour) | N/A |
-| 45 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 46 | [Mass](http://twitter.com/search?q=Mass) | N/A |
-| 47 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 48 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 38 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 39 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 40 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 41 | [Y'all](http://twitter.com/search?q=Y%27all) | N/A |
+| 42 | [Genuinely](http://twitter.com/search?q=Genuinely) | N/A |
+| 43 | [david seymour](http://twitter.com/search?q=david+seymour) | N/A |
+| 44 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
+| 45 | [Mass](http://twitter.com/search?q=Mass) | N/A |
+| 46 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 47 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 49 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 50 | [Parker](http://twitter.com/search?q=Parker) | N/A |
 

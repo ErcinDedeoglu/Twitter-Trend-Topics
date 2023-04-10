@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-04-10 14:17:22 UTC`
+📆 Last Updated: `2023-04-10 15:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 2 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
-| 3 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 4 | [#OlalloYKornoContigo](http://twitter.com/search?q=%23OlalloYKornoContigo) | N/A |
+| 3 | [#OlalloYKornoContigo](http://twitter.com/search?q=%23OlalloYKornoContigo) | N/A |
+| 4 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
 | 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 7 | [Emiliano Zapata](http://twitter.com/search?q=Emiliano+Zapata) | N/A |
-| 8 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 9 | [#EstaVivo](http://twitter.com/search?q=%23EstaVivo) | N/A |
-| 10 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
-| 11 | [cd9 is back](http://twitter.com/search?q=cd9+is+back) | N/A |
-| 12 | [#cd910años](http://twitter.com/search?q=%23cd910a%c3%b1os) | N/A |
-| 13 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 14 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
-| 15 | [cd9 comeback](http://twitter.com/search?q=cd9+comeback) | N/A |
-| 16 | [cd9 return](http://twitter.com/search?q=cd9+return) | N/A |
-| 17 | [Entrona](http://twitter.com/search?q=Entrona) | N/A |
-| 18 | [Jardines del Pedregal](http://twitter.com/search?q=Jardines+del+Pedregal) | N/A |
-| 19 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 20 | [Lunes 10](http://twitter.com/search?q=Lunes+10) | N/A |
-| 21 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 22 | [Chinameca](http://twitter.com/search?q=Chinameca) | N/A |
-| 23 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 24 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
-| 25 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 26 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 27 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
-| 28 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 29 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 30 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 31 | [prieto](http://twitter.com/search?q=prieto) | N/A |
-| 32 | [Caudillo del Sur](http://twitter.com/search?q=Caudillo+del+Sur) | N/A |
-| 33 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
-| 34 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
-| 35 | [Perote](http://twitter.com/search?q=Perote) | N/A |
-| 36 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 37 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 38 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 39 | [coders clowns](http://twitter.com/search?q=coders+clowns) | N/A |
-| 40 | [estamos contigo nat](http://twitter.com/search?q=estamos+contigo+nat) | N/A |
-| 41 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 42 | [return of cd9](http://twitter.com/search?q=return+of+cd9) | N/A |
-| 43 | [El 10](http://twitter.com/search?q=El+10) | N/A |
-| 44 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 45 | [Revolución Mexicana](http://twitter.com/search?q=Revoluci%c3%b3n+Mexicana) | N/A |
-| 46 | [Julio González](http://twitter.com/search?q=Julio+Gonz%c3%a1lez) | N/A |
-| 47 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 48 | [La UNAM](http://twitter.com/search?q=La+UNAM) | N/A |
-| 49 | [Leona Vicario](http://twitter.com/search?q=Leona+Vicario) | N/A |
-| 50 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 6 | [Emiliano Zapata](http://twitter.com/search?q=Emiliano+Zapata) | N/A |
+| 7 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 8 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
+| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 10 | [cd9 is back](http://twitter.com/search?q=cd9+is+back) | N/A |
+| 11 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 12 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
+| 13 | [#CD910AÑOS](http://twitter.com/search?q=%23CD910A%c3%91OS) | N/A |
+| 14 | [#estávivo](http://twitter.com/search?q=%23est%c3%a1vivo) | N/A |
+| 15 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 16 | [CD9 COMEBACK](http://twitter.com/search?q=CD9+COMEBACK) | N/A |
+| 17 | [Lunes 10](http://twitter.com/search?q=Lunes+10) | N/A |
+| 18 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 19 | [CD9 RETURN](http://twitter.com/search?q=CD9+RETURN) | N/A |
+| 20 | [Jardines del Pedregal](http://twitter.com/search?q=Jardines+del+Pedregal) | N/A |
+| 21 | [Caudillo del Sur](http://twitter.com/search?q=Caudillo+del+Sur) | N/A |
+| 22 | [Entrona](http://twitter.com/search?q=Entrona) | N/A |
+| 23 | [Leona Vicario](http://twitter.com/search?q=Leona+Vicario) | N/A |
+| 24 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 25 | [Chinameca](http://twitter.com/search?q=Chinameca) | N/A |
+| 26 | [Chinameca](http://twitter.com/search?q=Chinameca) | N/A |
+| 27 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 28 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
+| 29 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 30 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 31 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 32 | [Ejército Libertador del Sur](http://twitter.com/search?q=Ej%c3%a9rcito+Libertador+del+Sur) | N/A |
+| 33 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
+| 34 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
+| 35 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 36 | [Prieto](http://twitter.com/search?q=Prieto) | N/A |
+| 37 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 38 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 39 | [El 10](http://twitter.com/search?q=El+10) | N/A |
+| 40 | [Excelente Lunes](http://twitter.com/search?q=Excelente+Lunes) | N/A |
+| 41 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
+| 42 | [Perote](http://twitter.com/search?q=Perote) | N/A |
+| 43 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
+| 44 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
+| 45 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 46 | [Revolución Mexicana](http://twitter.com/search?q=Revoluci%c3%b3n+Mexicana) | N/A |
+| 47 | [coders clowns](http://twitter.com/search?q=coders+clowns) | N/A |
+| 48 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 49 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 50 | [estamos contigo nat](http://twitter.com/search?q=estamos+contigo+nat) | N/A |
 
 
 

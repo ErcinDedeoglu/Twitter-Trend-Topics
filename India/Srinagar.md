@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-04-10 14:17:58 UTC`
+📆 Last Updated: `2023-04-10 15:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KisiKaBhaiKisiKiJaanTrailer](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaanTrailer) | N/A |
-| 2 | [#rheaonroadies](http://twitter.com/search?q=%23rheaonroadies) | N/A |
-| 3 | [#ShikharDhawanLeakedVideo](http://twitter.com/search?q=%23ShikharDhawanLeakedVideo) | N/A |
-| 4 | [#vishwaguruawards](http://twitter.com/search?q=%23vishwaguruawards) | N/A |
-| 5 | [1M IG POSTS FOR PRANALI](http://twitter.com/search?q=1M+IG+POSTS+FOR+PRANALI) | N/A |
-| 6 | [Amul](http://twitter.com/search?q=Amul) | N/A |
-| 7 | [2nd Innings Score](http://twitter.com/search?q=2nd+Innings+Score) | N/A |
-| 8 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 9 | [BRING IT ON](http://twitter.com/search?q=BRING+IT+ON) | N/A |
-| 10 | [Bhupesh Ka TalibaniRaj](http://twitter.com/search?q=Bhupesh+Ka+TalibaniRaj) | N/A |
-| 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 12 | [IRCTC](http://twitter.com/search?q=IRCTC) | N/A |
-| 13 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 14 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 15 | [Batsman](http://twitter.com/search?q=Batsman) | Batsman is a term used in cricket to refer to the player who stands at the batting crease and faces the bowler. The batsman's primary role is to score runs by hitting the ball with their bat. |
-| 16 | [Lucknow Super Giants](http://twitter.com/search?q=Lucknow+Super+Giants) | N/A |
-| 17 | [विलेज प्रोग्राम](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b2%e0%a5%87%e0%a4%9c+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%8b%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 18 | [Chinnaswamy](http://twitter.com/search?q=Chinnaswamy) | N/A |
-| 19 | [विवेक अग्निहोत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b5%e0%a5%87%e0%a4%95+%e0%a4%85%e0%a4%97%e0%a5%8d%e0%a4%a8%e0%a4%bf%e0%a4%b9%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 20 | [फुले जयंती](http://twitter.com/search?q=%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 21 | [रिंकू सिंह](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%82%e0%a4%95%e0%a5%82+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 22 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 23 | [महिला मोर्चा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%ae%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9a%e0%a4%be) | N/A |
-| 24 | [दलाई लामा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%be%e0%a4%88+%e0%a4%b2%e0%a4%be%e0%a4%ae%e0%a4%be) | N/A |
-| 25 | [शहीद स्मारक जयपुर](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6+%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a4%95+%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a5%81%e0%a4%b0) | N/A |
-| 26 | [Kibithoo](http://twitter.com/search?q=Kibithoo) | N/A |
-| 27 | [गुलाम नबी आजाद](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b2%e0%a4%be%e0%a4%ae+%e0%a4%a8%e0%a4%ac%e0%a5%80+%e0%a4%86%e0%a4%9c%e0%a4%be%e0%a4%a6) | N/A |
-| 28 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
-| 29 | [Homeopathy](http://twitter.com/search?q=Homeopathy) | N/A |
-| 30 | [Kannadigas](http://twitter.com/search?q=Kannadigas) | N/A |
-| 31 | [स्वास्थ्य विभाग](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
-| 32 | [#RCBvLSG](http://twitter.com/search?q=%23RCBvLSG) | N/A |
-| 33 | [#SalmanKhan](http://twitter.com/search?q=%23SalmanKhan) | N/A |
-| 34 | [#ShehnaazGill](http://twitter.com/search?q=%23ShehnaazGill) | N/A |
-| 35 | [#PoojaHegde](http://twitter.com/search?q=%23PoojaHegde) | N/A |
-| 36 | [#EveryAnswerCounts](http://twitter.com/search?q=%23EveryAnswerCounts) | N/A |
-| 37 | [#CricketContestByArjun](http://twitter.com/search?q=%23CricketContestByArjun) | #CricketContestByArjun is a hashtag used to promote a cricket contest hosted by Arjun. It is used to encourage people to participate in the contest and to spread awareness about it. |
-| 38 | [#onlinerummy](http://twitter.com/search?q=%23onlinerummy) | N/A |
-| 39 | [#Chhattisgarh_Me_TuglakRaj](http://twitter.com/search?q=%23Chhattisgarh_Me_TuglakRaj) | N/A |
-| 40 | [#ArunachalPradesh](http://twitter.com/search?q=%23ArunachalPradesh) | N/A |
-| 41 | [#CustodyOnMay12](http://twitter.com/search?q=%23CustodyOnMay12) | N/A |
-| 42 | [#AmitShah](http://twitter.com/search?q=%23AmitShah) | N/A |
-| 43 | [#HeadUpHigh](http://twitter.com/search?q=%23HeadUpHigh) | N/A |
-| 44 | [#vibrantvillagesprogram](http://twitter.com/search?q=%23vibrantvillagesprogram) | N/A |
-| 45 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 46 | [#LGSaxenaCreditLelo](http://twitter.com/search?q=%23LGSaxenaCreditLelo) | N/A |
-| 47 | [#PapalpreetSingh](http://twitter.com/search?q=%23PapalpreetSingh) | N/A |
+| 1 | [#RCBvsLSG](http://twitter.com/search?q=%23RCBvsLSG) | N/A |
+| 2 | [राष्ट्रीय पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 3 | [#KisiKaBhaiKisiKiJaanTrailer](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaanTrailer) | N/A |
+| 4 | [#rheaonroadies](http://twitter.com/search?q=%23rheaonroadies) | N/A |
+| 5 | [#vishwaguruawards](http://twitter.com/search?q=%23vishwaguruawards) | N/A |
+| 6 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
+| 7 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 8 | [Chinnaswamy](http://twitter.com/search?q=Chinnaswamy) | N/A |
+| 9 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
+| 10 | [Aam Aadmi Party](http://twitter.com/search?q=Aam+Aadmi+Party) | N/A |
+| 11 | [Mark Wood](http://twitter.com/search?q=Mark+Wood) | N/A |
+| 12 | [Trinamool Congress](http://twitter.com/search?q=Trinamool+Congress) | N/A |
+| 13 | [Amit Mishra](http://twitter.com/search?q=Amit+Mishra) | N/A |
+| 14 | [Amul](http://twitter.com/search?q=Amul) | N/A |
+| 15 | [1M IG POSTS FOR PRANALI](http://twitter.com/search?q=1M+IG+POSTS+FOR+PRANALI) | N/A |
+| 16 | [2nd Innings Score](http://twitter.com/search?q=2nd+Innings+Score) | N/A |
+| 17 | [Bishnoi](http://twitter.com/search?q=Bishnoi) | N/A |
+| 18 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 19 | [Bhupesh Ka TalibaniRaj](http://twitter.com/search?q=Bhupesh+Ka+TalibaniRaj) | N/A |
+| 20 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 21 | [IRCTC](http://twitter.com/search?q=IRCTC) | N/A |
+| 22 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 23 | [BRING IT ON](http://twitter.com/search?q=BRING+IT+ON) | N/A |
+| 24 | [अरुणाचल प्रदेश](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a5%81%e0%a4%a3%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 25 | [Lucknow Super Giants](http://twitter.com/search?q=Lucknow+Super+Giants) | N/A |
+| 26 | [Batsman](http://twitter.com/search?q=Batsman) | Batsman is a term used in cricket to refer to the player who stands at the batting crease and faces the bowler. The batsman's primary role is to score runs by hitting the ball with their bat. |
+| 27 | [महिला मोर्चा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%ae%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9a%e0%a4%be) | N/A |
+| 28 | [रिंकू सिंह](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%82%e0%a4%95%e0%a5%82+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 29 | [फुले जयंती](http://twitter.com/search?q=%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 30 | [शहीद स्मारक जयपुर](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6+%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a4%95+%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a5%81%e0%a4%b0) | N/A |
+| 31 | [दलाई लामा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b2%e0%a4%be%e0%a4%88+%e0%a4%b2%e0%a4%be%e0%a4%ae%e0%a4%be) | N/A |
+| 32 | [विवेक अग्निहोत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b5%e0%a5%87%e0%a4%95+%e0%a4%85%e0%a4%97%e0%a5%8d%e0%a4%a8%e0%a4%bf%e0%a4%b9%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 33 | [गुलाम नबी आजाद](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b2%e0%a4%be%e0%a4%ae+%e0%a4%a8%e0%a4%ac%e0%a5%80+%e0%a4%86%e0%a4%9c%e0%a4%be%e0%a4%a6) | N/A |
+| 34 | [Kannadigas](http://twitter.com/search?q=Kannadigas) | N/A |
+| 35 | [#ShikharDhawanLeakedVideo](http://twitter.com/search?q=%23ShikharDhawanLeakedVideo) | N/A |
+| 36 | [#SalmanKhan](http://twitter.com/search?q=%23SalmanKhan) | N/A |
+| 37 | [#RPSC_सभी_परिणाम_एकसाथ_दो](http://twitter.com/search?q=%23RPSC_%e0%a4%b8%e0%a4%ad%e0%a5%80_%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%a3%e0%a4%be%e0%a4%ae_%e0%a4%8f%e0%a4%95%e0%a4%b8%e0%a4%be%e0%a4%a5_%e0%a4%a6%e0%a5%8b) | N/A |
+| 38 | [#ElectionCommission](http://twitter.com/search?q=%23ElectionCommission) | N/A |
+| 39 | [#KingKohli](http://twitter.com/search?q=%23KingKohli) | N/A |
+| 40 | [#FafDuPlessis](http://twitter.com/search?q=%23FafDuPlessis) | N/A |
+| 41 | [#ShehnaazGill](http://twitter.com/search?q=%23ShehnaazGill) | N/A |
+| 42 | [#OnlineRummy](http://twitter.com/search?q=%23OnlineRummy) | N/A |
+| 43 | [#PoojaHegde](http://twitter.com/search?q=%23PoojaHegde) | N/A |
+| 44 | [#EveryAnswerCounts](http://twitter.com/search?q=%23EveryAnswerCounts) | N/A |
+| 45 | [#CricketContestByArjun](http://twitter.com/search?q=%23CricketContestByArjun) | #CricketContestByArjun is a hashtag used to promote a cricket contest hosted by Arjun. It is used to encourage people to participate in the contest and to spread awareness about it. |
+| 46 | [#IPLHindi](http://twitter.com/search?q=%23IPLHindi) | N/A |
+| 47 | [#Chhattisgarh_Me_TuglakRaj](http://twitter.com/search?q=%23Chhattisgarh_Me_TuglakRaj) | N/A |
 
 
 

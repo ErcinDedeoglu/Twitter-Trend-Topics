@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-04-10 14:18:19 UTC`
+📆 Last Updated: `2023-04-10 15:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Poland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JAGLGD](http://twitter.com/search?q=%23JAGLGD) | N/A |
-| 2 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
-| 3 | [Imaz](http://twitter.com/search?q=Imaz) | N/A |
-| 4 | [Zamach](http://twitter.com/search?q=Zamach) | N/A |
-| 5 | [#Pamiętamy](http://twitter.com/search?q=%23Pami%c4%99tamy) | N/A |
+| 2 | [#PlusLiga](http://twitter.com/search?q=%23PlusLiga) | N/A |
+| 3 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
+| 4 | [#Pamiętamy](http://twitter.com/search?q=%23Pami%c4%99tamy) | N/A |
+| 5 | [Zamach](http://twitter.com/search?q=Zamach) | N/A |
 | 6 | [#10kwietnia](http://twitter.com/search?q=%2310kwietnia) | N/A |
-| 7 | [Nene](http://twitter.com/search?q=Nene) | N/A |
-| 8 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 7 | [Imaz](http://twitter.com/search?q=Imaz) | N/A |
+| 8 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
+| 9 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 10 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
 | 11 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
-| 12 | [Lech Kaczyński](http://twitter.com/search?q=Lech+Kaczy%c5%84ski) | N/A |
-| 13 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 14 | [Katyniu](http://twitter.com/search?q=Katyniu) | N/A |
-| 15 | [#PlusLiga](http://twitter.com/search?q=%23PlusLiga) | N/A |
-| 16 | [Macierewicza](http://twitter.com/search?q=Macierewicza) | N/A |
-| 17 | [Jagiellonii](http://twitter.com/search?q=Jagiellonii) | N/A |
-| 18 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
-| 19 | [Familiadzie](http://twitter.com/search?q=Familiadzie) | N/A |
-| 20 | [chrystus zmartwychwstał](http://twitter.com/search?q=chrystus+zmartwychwsta%c5%82) | N/A |
-| 21 | [Jaga](http://twitter.com/search?q=Jaga) | N/A |
-| 22 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
-| 23 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 24 | [Francja](http://twitter.com/search?q=Francja) | N/A |
-| 25 | [Święta](http://twitter.com/search?q=%c5%9awi%c4%99ta) | N/A |
-| 26 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
-| 27 | [Wysoka](http://twitter.com/search?q=Wysoka) | N/A |
-| 28 | [Jędza](http://twitter.com/search?q=J%c4%99dza) | N/A |
-| 29 | [Baśka](http://twitter.com/search?q=Ba%c5%9bka) | N/A |
-| 30 | [Cześć Ich Pamięci](http://twitter.com/search?q=Cze%c5%9b%c4%87+Ich+Pami%c4%99ci) | N/A |
-| 31 | [Tajwanu](http://twitter.com/search?q=Tajwanu) | N/A |
-| 32 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
-| 33 | [jajko](http://twitter.com/search?q=jajko) | N/A |
-| 34 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
-| 35 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 36 | [prawdziwie zmartwychwstał](http://twitter.com/search?q=prawdziwie+zmartwychwsta%c5%82) | N/A |
-| 37 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
-| 38 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
-| 39 | [Antek](http://twitter.com/search?q=Antek) | N/A |
-| 40 | [Wawelu](http://twitter.com/search?q=Wawelu) | N/A |
-| 41 | [Dudą](http://twitter.com/search?q=Dud%c4%85) | N/A |
-| 42 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 43 | [Kain](http://twitter.com/search?q=Kain) | N/A |
+| 12 | [Macierewicza](http://twitter.com/search?q=Macierewicza) | N/A |
+| 13 | [Katynia](http://twitter.com/search?q=Katynia) | N/A |
+| 14 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 15 | [Jaga](http://twitter.com/search?q=Jaga) | N/A |
+| 16 | [Jagi](http://twitter.com/search?q=Jagi) | N/A |
+| 17 | [#ŚmigusDyngus](http://twitter.com/search?q=%23%c5%9amigusDyngus) | N/A |
+| 18 | [Nene](http://twitter.com/search?q=Nene) | N/A |
+| 19 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
+| 20 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
+| 21 | [Familiadzie](http://twitter.com/search?q=Familiadzie) | N/A |
+| 22 | [chrystus zmartwychwstał](http://twitter.com/search?q=chrystus+zmartwychwsta%c5%82) | N/A |
+| 23 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
+| 24 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 25 | [Francja](http://twitter.com/search?q=Francja) | N/A |
+| 26 | [Wysoka](http://twitter.com/search?q=Wysoka) | N/A |
+| 27 | [Święta](http://twitter.com/search?q=%c5%9awi%c4%99ta) | N/A |
+| 28 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
+| 29 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
+| 30 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
+| 31 | [Baśka](http://twitter.com/search?q=Ba%c5%9bka) | N/A |
+| 32 | [tajwanu](http://twitter.com/search?q=tajwanu) | N/A |
+| 33 | [cześć ich pamięci](http://twitter.com/search?q=cze%c5%9b%c4%87+ich+pami%c4%99ci) | N/A |
+| 34 | [Wawelu](http://twitter.com/search?q=Wawelu) | N/A |
+| 35 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
+| 36 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 37 | [prawdziwie zmartwychwstał](http://twitter.com/search?q=prawdziwie+zmartwychwsta%c5%82) | N/A |
+| 38 | [Znachora](http://twitter.com/search?q=Znachora) | N/A |
+| 39 | [Dudą](http://twitter.com/search?q=Dud%c4%85) | N/A |
+| 40 | [Jezusa](http://twitter.com/search?q=Jezusa) | N/A |
+| 41 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
+| 42 | [Antek](http://twitter.com/search?q=Antek) | N/A |
+| 43 | [Jajko](http://twitter.com/search?q=Jajko) | N/A |
 | 44 | [bogdan](http://twitter.com/search?q=bogdan) | N/A |
-| 45 | [Tu-154M](http://twitter.com/search?q=Tu-154M) | N/A |
-| 46 | [Kaczyńscy](http://twitter.com/search?q=Kaczy%c5%84scy) | N/A |
-| 47 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 48 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
-| 49 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
-| 50 | [Tbilisi](http://twitter.com/search?q=Tbilisi) | N/A |
+| 45 | [Kain](http://twitter.com/search?q=Kain) | N/A |
+| 46 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 47 | [Tu-154M](http://twitter.com/search?q=Tu-154M) | N/A |
+| 48 | [Antoniego](http://twitter.com/search?q=Antoniego) | N/A |
+| 49 | [Kaczyńscy](http://twitter.com/search?q=Kaczy%c5%84scy) | N/A |
+| 50 | [Zmartwychwstania Pańskiego](http://twitter.com/search?q=Zmartwychwstania+Pa%c5%84skiego) | N/A |
 
 
 

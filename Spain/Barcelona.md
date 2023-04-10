@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-04-10 14:17:35 UTC`
+📆 Last Updated: `2023-04-10 15:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Spain](</Spain>)
 | 1 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
 | 2 | [#PcComponentesLenovo](http://twitter.com/search?q=%23PcComponentesLenovo) | N/A |
 | 3 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 4 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 6 | [Umbreon](http://twitter.com/search?q=Umbreon) | N/A |
-| 7 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 8 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
-| 9 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 10 | [Pederasta](http://twitter.com/search?q=Pederasta) | N/A |
-| 11 | [Habidis](http://twitter.com/search?q=Habidis) | N/A |
-| 12 | [Luis Tosar](http://twitter.com/search?q=Luis+Tosar) | N/A |
-| 13 | [#StarWarsVisions](http://twitter.com/search?q=%23StarWarsVisions) | N/A |
-| 14 | [Vaporeon](http://twitter.com/search?q=Vaporeon) | N/A |
-| 15 | [David Gallego](http://twitter.com/search?q=David+Gallego) | N/A |
-| 16 | [Anticorrupción](http://twitter.com/search?q=Anticorrupci%c3%b3n) | N/A |
-| 17 | [Don Fernando](http://twitter.com/search?q=Don+Fernando) | N/A |
-| 18 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 19 | [#PrimaveraConOrangeySamsung](http://twitter.com/search?q=%23PrimaveraConOrangeySamsung) | N/A |
-| 20 | [Ceuta y Melilla](http://twitter.com/search?q=Ceuta+y+Melilla) | N/A |
-| 21 | [Dani Olmo](http://twitter.com/search?q=Dani+Olmo) | N/A |
-| 22 | [Aday Mara](http://twitter.com/search?q=Aday+Mara) | N/A |
-| 23 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 24 | [José Zaragoza](http://twitter.com/search?q=Jos%c3%a9+Zaragoza) | N/A |
-| 25 | [Fans de Valverde](http://twitter.com/search?q=Fans+de+Valverde) | N/A |
-| 26 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 27 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
-| 28 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 29 | [Carlos Alcaraz](http://twitter.com/search?q=Carlos+Alcaraz) | Carlos Alcaraz is a Spanish professional tennis player. He is the youngest player to ever win a match on the ATP Tour, having done so at the age of 15 in 2021. The name Carlos Alcaraz means "strong warrior" in English. |
-| 30 | [arda](http://twitter.com/search?q=arda) | N/A |
-| 31 | [Alessandro Lequio](http://twitter.com/search?q=Alessandro+Lequio) | N/A |
-| 32 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
-| 33 | [Castilfrío de la Sierra](http://twitter.com/search?q=Castilfr%c3%ado+de+la+Sierra) | N/A |
-| 34 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
-| 35 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 36 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
-| 37 | [Las 3](http://twitter.com/search?q=Las+3) | N/A |
-| 38 | [Tokio](http://twitter.com/search?q=Tokio) | N/A |
-| 39 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 40 | [Tailandia](http://twitter.com/search?q=Tailandia) | Tailandia is a misspelling of Thailand, a country in Southeast Asia. The official name of the country is the Kingdom of Thailand. It is bordered by Myanmar, Laos, Cambodia, and Malaysia. The capital city is Bangkok. |
-| 41 | [Infierno](http://twitter.com/search?q=Infierno) | N/A |
-| 42 | [Soria](http://twitter.com/search?q=Soria) | N/A |
-| 43 | [Mona](http://twitter.com/search?q=Mona) | N/A |
-| 44 | [Condenas](http://twitter.com/search?q=Condenas) | N/A |
-| 45 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
-| 46 | [San Martín](http://twitter.com/search?q=San+Mart%c3%adn) | N/A |
-| 47 | [Juanma Moreno](http://twitter.com/search?q=Juanma+Moreno) | N/A |
-| 48 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 49 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 50 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
+| 4 | [Umbreon](http://twitter.com/search?q=Umbreon) | N/A |
+| 5 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 6 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 7 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
+| 8 | [Vaporeon](http://twitter.com/search?q=Vaporeon) | N/A |
+| 9 | [Pederasta](http://twitter.com/search?q=Pederasta) | N/A |
+| 10 | [Luis Tosar](http://twitter.com/search?q=Luis+Tosar) | N/A |
+| 11 | [Nano](http://twitter.com/search?q=Nano) | N/A |
+| 12 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 13 | [Habidis](http://twitter.com/search?q=Habidis) | N/A |
+| 14 | [Ceuta y Melilla](http://twitter.com/search?q=Ceuta+y+Melilla) | N/A |
+| 15 | [#StarWarsVisions](http://twitter.com/search?q=%23StarWarsVisions) | N/A |
+| 16 | [José Zaragoza](http://twitter.com/search?q=Jos%c3%a9+Zaragoza) | N/A |
+| 17 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
+| 18 | [Anticorrupción](http://twitter.com/search?q=Anticorrupci%c3%b3n) | N/A |
+| 19 | [David Gallego](http://twitter.com/search?q=David+Gallego) | N/A |
+| 20 | [Don Fernando](http://twitter.com/search?q=Don+Fernando) | N/A |
+| 21 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 22 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
+| 23 | [Dani Olmo](http://twitter.com/search?q=Dani+Olmo) | N/A |
+| 24 | [Fans de Valverde](http://twitter.com/search?q=Fans+de+Valverde) | N/A |
+| 25 | [Aday Mara](http://twitter.com/search?q=Aday+Mara) | N/A |
+| 26 | [#PrimaveraConOrangeySamsung](http://twitter.com/search?q=%23PrimaveraConOrangeySamsung) | N/A |
+| 27 | [Juanfran](http://twitter.com/search?q=Juanfran) | N/A |
+| 28 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 29 | [Sanxenxo](http://twitter.com/search?q=Sanxenxo) | N/A |
+| 30 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 31 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
+| 32 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
+| 33 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 34 | [Alessandro Lequio](http://twitter.com/search?q=Alessandro+Lequio) | N/A |
+| 35 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
+| 36 | [TOKIO](http://twitter.com/search?q=TOKIO) | N/A |
+| 37 | [carlos alcaraz](http://twitter.com/search?q=carlos+alcaraz) | N/A |
+| 38 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 39 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 40 | [Las 3](http://twitter.com/search?q=Las+3) | N/A |
+| 41 | [Tailandia](http://twitter.com/search?q=Tailandia) | Tailandia is a misspelling of Thailand, a country in Southeast Asia. The official name of the country is the Kingdom of Thailand. It is bordered by Myanmar, Laos, Cambodia, and Malaysia. The capital city is Bangkok. |
+| 42 | [Feliz Lunes](http://twitter.com/search?q=Feliz+Lunes) | N/A |
+| 43 | [Infierno](http://twitter.com/search?q=Infierno) | N/A |
+| 44 | [Soria](http://twitter.com/search?q=Soria) | N/A |
+| 45 | [Ponferradina](http://twitter.com/search?q=Ponferradina) | N/A |
+| 46 | [Condenas](http://twitter.com/search?q=Condenas) | N/A |
+| 47 | [San Martín](http://twitter.com/search?q=San+Mart%c3%adn) | N/A |
+| 48 | [Mona](http://twitter.com/search?q=Mona) | N/A |
+| 49 | [Cuca](http://twitter.com/search?q=Cuca) | N/A |
+| 50 | [Juanma Moreno](http://twitter.com/search?q=Juanma+Moreno) | N/A |
 
 
 

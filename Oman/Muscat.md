@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-04-10 14:17:57 UTC`
+📆 Last Updated: `2023-04-10 15:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,35 +23,35 @@ This is top 50 for [Oman](</Oman>)
 | 6 | [وزير الاوقاف](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%82%d8%a7%d9%81) | N/A |
 | 7 | [#ذكري_وفاه_الشيخ_زايد](http://twitter.com/search?q=%23%d8%b0%d9%83%d8%b1%d9%8a_%d9%88%d9%81%d8%a7%d9%87_%d8%a7%d9%84%d8%b4%d9%8a%d8%ae_%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
 | 8 | [جابر بن زيد الوقفيه](http://twitter.com/search?q=%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a8%d9%86+%d8%b2%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d9%82%d9%81%d9%8a%d9%87) | N/A |
-| 9 | [صوت القران](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
+| 9 | [صوت الاذان](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d9%86) | N/A |
 | 10 | [الصوت الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 11 | [صوت الاذان](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d9%86) | N/A |
-| 12 | [وادي بني](http://twitter.com/search?q=%d9%88%d8%a7%d8%af%d9%8a+%d8%a8%d9%86%d9%8a) | N/A |
-| 13 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
+| 11 | [صوت القران](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
+| 12 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
+| 13 | [وادي بني](http://twitter.com/search?q=%d9%88%d8%a7%d8%af%d9%8a+%d8%a8%d9%86%d9%8a) | N/A |
 | 14 | [١٩ رمضان](http://twitter.com/search?q=%d9%a1%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 15 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 16 | [وادي الحواسنه](http://twitter.com/search?q=%d9%88%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b3%d9%86%d9%87) | N/A |
-| 17 | [احمد بن ماجد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%85%d8%a7%d8%ac%d8%af) | N/A |
+| 15 | [وادي الحواسنه](http://twitter.com/search?q=%d9%88%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b3%d9%86%d9%87) | N/A |
+| 16 | [احمد بن ماجد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%85%d8%a7%d8%ac%d8%af) | N/A |
+| 17 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
 | 18 | [صوت الامام](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85) | N/A |
 | 19 | [عثمان بن عفان](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d9%81%d8%a7%d9%86) | N/A |
-| 20 | [مازن بن](http://twitter.com/search?q=%d9%85%d8%a7%d8%b2%d9%86+%d8%a8%d9%86) | N/A |
-| 21 | [نصر بن محمد الطايي](http://twitter.com/search?q=%d9%86%d8%b5%d8%b1+%d8%a8%d9%86+%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
+| 20 | [نصر بن محمد الطايي](http://twitter.com/search?q=%d9%86%d8%b5%d8%b1+%d8%a8%d9%86+%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
+| 21 | [مازن بن](http://twitter.com/search?q=%d9%85%d8%a7%d8%b2%d9%86+%d8%a8%d9%86) | N/A |
 | 22 | [سماحة الشيخ](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7%d8%ad%d8%a9+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
 | 23 | [الشوون الدينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 24 | [بلده الفياض](http://twitter.com/search?q=%d8%a8%d9%84%d8%af%d9%87+%d8%a7%d9%84%d9%81%d9%8a%d8%a7%d8%b6) | N/A |
-| 25 | [الايرادات العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 26 | [محمود الخاطري](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%ae%d8%a7%d8%b7%d8%b1%d9%8a) | N/A |
-| 27 | [حقل الطماطم](http://twitter.com/search?q=%d8%ad%d9%82%d9%84+%d8%a7%d9%84%d8%b7%d9%85%d8%a7%d8%b7%d9%85) | N/A |
-| 28 | [علي جبال الحجر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ac%d8%a8%d8%a7%d9%84+%d8%a7%d9%84%d8%ad%d8%ac%d8%b1) | N/A |
-| 29 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 24 | [الايرادات العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 25 | [علي جبال الحجر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ac%d8%a8%d8%a7%d9%84+%d8%a7%d9%84%d8%ad%d8%ac%d8%b1) | N/A |
+| 26 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 27 | [بلده الفياض](http://twitter.com/search?q=%d8%a8%d9%84%d8%af%d9%87+%d8%a7%d9%84%d9%81%d9%8a%d8%a7%d8%b6) | N/A |
+| 28 | [احمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
+| 29 | [الموسسات الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
 | 30 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 31 | [الرياضه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 31 | [محمود الخاطري](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%ae%d8%a7%d8%b7%d8%b1%d9%8a) | N/A |
 | 32 | [الحديد المختزل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d8%b2%d9%84) | N/A |
-| 33 | [الراي العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 34 | [الموسسات الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
-| 35 | [صوت الصلاه](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
-| 36 | [المكبرات الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a8%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 37 | [احمد الخليلي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
+| 33 | [الرياضه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 34 | [حقل الطماطم](http://twitter.com/search?q=%d8%ad%d9%82%d9%84+%d8%a7%d9%84%d8%b7%d9%85%d8%a7%d8%b7%d9%85) | N/A |
+| 35 | [الراي العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 36 | [صوت الصلاه](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
+| 37 | [المكبرات الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a8%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
 | 38 | [قدم الاستاذ](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0) | N/A |
 | 39 | [الاجواء الجميله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
 | 40 | [القبول الموحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a8%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%88%d8%ad%d8%af) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-04-10 14:17:19 UTC`
+📆 Last Updated: `2023-04-10 15:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Afternoon](http://twitter.com/search?q=Afternoon) | N/A |
-| 2 | [Rain](http://twitter.com/search?q=Rain) | N/A |
-| 3 | [Dermot Gallagher](http://twitter.com/search?q=Dermot+Gallagher) | N/A |
-| 4 | [#AbolishTheMonarchy](http://twitter.com/search?q=%23AbolishTheMonarchy) | N/A |
-| 5 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 6 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 7 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
-| 8 | [Leicester City](http://twitter.com/search?q=Leicester+City) | N/A |
-| 9 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 10 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 11 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
-| 12 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 13 | [West Bank](http://twitter.com/search?q=West+Bank) | N/A |
-| 14 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 15 | [#YesSWC2023](http://twitter.com/search?q=%23YesSWC2023) | N/A |
-| 16 | [Alison](http://twitter.com/search?q=Alison) | N/A |
-| 17 | [Neville](http://twitter.com/search?q=Neville) | N/A |
-| 18 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 19 | [Daily Quordle 441](http://twitter.com/search?q=Daily+Quordle+441) | N/A |
-| 20 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 21 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 22 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 23 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 24 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
-| 25 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 26 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 27 | [#Rovers](http://twitter.com/search?q=%23Rovers) | N/A |
-| 28 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
-| 29 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
-| 30 | [Blood Destiny](http://twitter.com/search?q=Blood+Destiny) | N/A |
-| 31 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 32 | [#WXMNOT](http://twitter.com/search?q=%23WXMNOT) | N/A |
-| 33 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 34 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 35 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 36 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 37 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
-| 38 | [Aardman](http://twitter.com/search?q=Aardman) | N/A |
-| 39 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
-| 40 | [Dele Alli](http://twitter.com/search?q=Dele+Alli) | Dele Alli is the nickname of English professional footballer Dele Alli, who plays for Tottenham Hotspur and the England national team. The name is a combination of his given name, Bamidele, and his surname, Alli. |
-| 41 | [Ferdinand](http://twitter.com/search?q=Ferdinand) | N/A |
-| 42 | [Team GB](http://twitter.com/search?q=Team+GB) | N/A |
-| 43 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
-| 44 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 45 | [The Scotsman](http://twitter.com/search?q=The+Scotsman) | N/A |
-| 46 | [Stam](http://twitter.com/search?q=Stam) | N/A |
-| 47 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 48 | [Leonard](http://twitter.com/search?q=Leonard) | N/A |
-| 49 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
+| 1 | [neil warnock](http://twitter.com/search?q=neil+warnock) | N/A |
+| 2 | [Afternoon](http://twitter.com/search?q=Afternoon) | N/A |
+| 3 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 4 | [Evans](http://twitter.com/search?q=Evans) | N/A |
+| 5 | [Rain](http://twitter.com/search?q=Rain) | N/A |
+| 6 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 7 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
+| 8 | [Constantine Hatzidakis](http://twitter.com/search?q=Constantine+Hatzidakis) | N/A |
+| 9 | [Jimmy Saville](http://twitter.com/search?q=Jimmy+Saville) | N/A |
+| 10 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
+| 11 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 12 | [#NotMyKing](http://twitter.com/search?q=%23NotMyKing) | N/A |
+| 13 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 14 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 15 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
+| 16 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
+| 17 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 18 | [#AbolishTheMonarchy](http://twitter.com/search?q=%23AbolishTheMonarchy) | N/A |
+| 19 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 20 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 21 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 22 | [Good Friday Agreement](http://twitter.com/search?q=Good+Friday+Agreement) | N/A |
+| 23 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 24 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
+| 25 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 26 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 27 | [John Bostock](http://twitter.com/search?q=John+Bostock) | N/A |
+| 28 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 29 | [Monkfish](http://twitter.com/search?q=Monkfish) | N/A |
+| 30 | [#WXMNOT](http://twitter.com/search?q=%23WXMNOT) | N/A |
+| 31 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
+| 32 | [#wafc](http://twitter.com/search?q=%23wafc) | N/A |
+| 33 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 34 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 35 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 36 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 37 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
+| 38 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 39 | [Harness](http://twitter.com/search?q=Harness) | N/A |
+| 40 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 41 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
+| 42 | [huddersfield](http://twitter.com/search?q=huddersfield) | N/A |
+| 43 | [Blood Destiny](http://twitter.com/search?q=Blood+Destiny) | N/A |
+| 44 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 45 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 46 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 47 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 48 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
+| 49 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
 
 
 

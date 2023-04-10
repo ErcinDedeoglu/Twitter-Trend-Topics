@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-04-10 14:18:01 UTC`
+📆 Last Updated: `2023-04-10 15:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Hayırlı](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1) | N/A |
-| 2 | [#TürkiyeTarihYazacak](http://twitter.com/search?q=%23T%c3%bcrkiyeTarihYazacak) | N/A |
-| 3 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
-| 4 | [SİHA](http://twitter.com/search?q=S%c4%b0HA) | N/A |
-| 5 | [Teyiti Engelliyoruz](http://twitter.com/search?q=Teyiti+Engelliyoruz) | N/A |
-| 6 | [Levent Uysal Mersin](http://twitter.com/search?q=Levent+Uysal+Mersin) | N/A |
+| 2 | [#AsistanHekimEğitimHakkı](http://twitter.com/search?q=%23AsistanHekimE%c4%9fitimHakk%c4%b1) | N/A |
+| 3 | [#TürkiyeTarihYazacak](http://twitter.com/search?q=%23T%c3%bcrkiyeTarihYazacak) | N/A |
+| 4 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
+| 5 | [SİHA](http://twitter.com/search?q=S%c4%b0HA) | N/A |
+| 6 | [Teyiti Engelliyoruz](http://twitter.com/search?q=Teyiti+Engelliyoruz) | N/A |
 | 7 | [#OyumEk55BinÖğretmene](http://twitter.com/search?q=%23OyumEk55Bin%c3%96%c4%9fretmene) | N/A |
-| 8 | [Asalet](http://twitter.com/search?q=Asalet) | N/A |
-| 9 | [#PolisHaftası](http://twitter.com/search?q=%23PolisHaftas%c4%b1) | N/A |
-| 10 | [#altın](http://twitter.com/search?q=%23alt%c4%b1n) | N/A |
-| 11 | [#Secim2023](http://twitter.com/search?q=%23Secim2023) | N/A |
-| 12 | [58 Hizbullah](http://twitter.com/search?q=58+Hizbullah) | N/A |
-| 13 | [Amasya](http://twitter.com/search?q=Amasya) | N/A |
-| 14 | [Merzifon](http://twitter.com/search?q=Merzifon) | N/A |
-| 15 | [Uçak](http://twitter.com/search?q=U%c3%a7ak) | N/A |
-| 16 | [Şule Çet](http://twitter.com/search?q=%c5%9eule+%c3%87et) | N/A |
-| 17 | [Türk Silahlı Kuvvetleri](http://twitter.com/search?q=T%c3%bcrk+Silahl%c4%b1+Kuvvetleri) | N/A |
-| 18 | [Kuruluş Yıldönümü](http://twitter.com/search?q=Kurulu%c5%9f+Y%c4%b1ld%c3%b6n%c3%bcm%c3%bc) | N/A |
-| 19 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
+| 8 | [DevrimErtan İbrahimSelime](http://twitter.com/search?q=DevrimErtan+%c4%b0brahimSelime) | N/A |
+| 9 | [Asalet](http://twitter.com/search?q=Asalet) | N/A |
+| 10 | [Levent Uysal](http://twitter.com/search?q=Levent+Uysal) | N/A |
+| 11 | [#PolisHaftası](http://twitter.com/search?q=%23PolisHaftas%c4%b1) | N/A |
+| 12 | [#CVKMD](http://twitter.com/search?q=%23CVKMD) | N/A |
+| 13 | [Umut Nayir](http://twitter.com/search?q=Umut+Nayir) | Umut Nayir is a Turkish phrase that translates to "hope for the future". It is often used as a motto or slogan to express optimism and positivity. |
+| 14 | [Amasya](http://twitter.com/search?q=Amasya) | N/A |
+| 15 | [58 Hizbullah](http://twitter.com/search?q=58+Hizbullah) | N/A |
+| 16 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
+| 17 | [Uçak](http://twitter.com/search?q=U%c3%a7ak) | N/A |
+| 18 | [Merzifon](http://twitter.com/search?q=Merzifon) | N/A |
+| 19 | [F-35](http://twitter.com/search?q=F-35) | N/A |
 | 20 | [Tokat](http://twitter.com/search?q=Tokat) | N/A |
-| 21 | [Osman Naim Kaya](http://twitter.com/search?q=Osman+Naim+Kaya) | N/A |
-| 22 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 23 | [Kuzey Kore](http://twitter.com/search?q=Kuzey+Kore) | N/A |
-| 24 | [Ahmet Adanur](http://twitter.com/search?q=Ahmet+Adanur) | N/A |
-| 25 | [Genelkurmay Başkanı](http://twitter.com/search?q=Genelkurmay+Ba%c5%9fkan%c4%b1) | N/A |
-| 26 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
-| 27 | [Mareşal Fevzi Çakmak](http://twitter.com/search?q=Mare%c5%9fal+Fevzi+%c3%87akmak) | N/A |
-| 28 | [Emeği](http://twitter.com/search?q=Eme%c4%9fi) | N/A |
-| 29 | [Kızılelma](http://twitter.com/search?q=K%c4%b1z%c4%b1lelma) | N/A |
-| 30 | [Emniyet Teşkilatımızın 178](http://twitter.com/search?q=Emniyet+Te%c5%9fkilat%c4%b1m%c4%b1z%c4%b1n+178) | N/A |
-| 31 | [Diagne](http://twitter.com/search?q=Diagne) | N/A |
-| 32 | [Cem Garipoğlu](http://twitter.com/search?q=Cem+Garipo%c4%9flu) | N/A |
-| 33 | [Pide](http://twitter.com/search?q=Pide) | N/A |
-| 34 | [12 Nisan Çarşamba](http://twitter.com/search?q=12+Nisan+%c3%87ar%c5%9famba) | N/A |
-| 35 | [Abdullah Öcalan](http://twitter.com/search?q=Abdullah+%c3%96calan) | N/A |
-| 36 | [Deniz Kuvvetleri Komutanlığına](http://twitter.com/search?q=Deniz+Kuvvetleri+Komutanl%c4%b1%c4%9f%c4%b1na) | N/A |
-| 37 | [Savunma](http://twitter.com/search?q=Savunma) | N/A |
-| 38 | [Kaymakamımız Sn](http://twitter.com/search?q=Kaymakam%c4%b1m%c4%b1z+Sn) | N/A |
-| 39 | [11 Nisan Salı](http://twitter.com/search?q=11+Nisan+Sal%c4%b1) | N/A |
-| 40 | [OyumSenin BayKemal](http://twitter.com/search?q=OyumSenin+BayKemal) | N/A |
-| 41 | [Gemi](http://twitter.com/search?q=Gemi) | N/A |
-| 42 | [Alırsın](http://twitter.com/search?q=Al%c4%b1rs%c4%b1n) | N/A |
-| 43 | [Füzyon](http://twitter.com/search?q=F%c3%bczyon) | N/A |
-| 44 | [Kolin](http://twitter.com/search?q=Kolin) | N/A |
-| 45 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
-| 46 | [Ece Güner](http://twitter.com/search?q=Ece+G%c3%bcner) | N/A |
-| 47 | [AK Parti'de](http://twitter.com/search?q=AK+Parti%27de) | N/A |
-| 48 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
-| 49 | [İdris Naim Şahin](http://twitter.com/search?q=%c4%b0dris+Naim+%c5%9eahin) | N/A |
-| 50 | [Şırnak](http://twitter.com/search?q=%c5%9e%c4%b1rnak) | N/A |
+| 21 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
+| 22 | [Kuzey Kore](http://twitter.com/search?q=Kuzey+Kore) | N/A |
+| 23 | [Pide](http://twitter.com/search?q=Pide) | N/A |
+| 24 | [Genelkurmay Başkanı](http://twitter.com/search?q=Genelkurmay+Ba%c5%9fkan%c4%b1) | N/A |
+| 25 | [Kızılelma](http://twitter.com/search?q=K%c4%b1z%c4%b1lelma) | N/A |
+| 26 | [osman naim kaya](http://twitter.com/search?q=osman+naim+kaya) | N/A |
+| 27 | [Kuruluş Yıl Dönümü](http://twitter.com/search?q=Kurulu%c5%9f+Y%c4%b1l+D%c3%b6n%c3%bcm%c3%bc) | N/A |
+| 28 | [Mareşal Fevzi Çakmak](http://twitter.com/search?q=Mare%c5%9fal+Fevzi+%c3%87akmak) | N/A |
+| 29 | [Diagne](http://twitter.com/search?q=Diagne) | N/A |
+| 30 | [Şule Çet](http://twitter.com/search?q=%c5%9eule+%c3%87et) | N/A |
+| 31 | [Türk Silahlı Kuvvetleri](http://twitter.com/search?q=T%c3%bcrk+Silahl%c4%b1+Kuvvetleri) | N/A |
+| 32 | [Ahmet Adanur](http://twitter.com/search?q=Ahmet+Adanur) | N/A |
+| 33 | [Emeği](http://twitter.com/search?q=Eme%c4%9fi) | N/A |
+| 34 | [Kolin](http://twitter.com/search?q=Kolin) | N/A |
+| 35 | [Fuat](http://twitter.com/search?q=Fuat) | Fuat is a Turkish name derived from the Arabic word "Fawwaz", meaning "successful". It is also used as a surname in Turkey. |
+| 36 | [11 Nisan Salı](http://twitter.com/search?q=11+Nisan+Sal%c4%b1) | N/A |
+| 37 | [Emniyet](http://twitter.com/search?q=Emniyet) | N/A |
+| 38 | [12 Nisan Çarşamba](http://twitter.com/search?q=12+Nisan+%c3%87ar%c5%9famba) | N/A |
+| 39 | [savunma](http://twitter.com/search?q=savunma) | N/A |
+| 40 | [Cem Garipoğlu](http://twitter.com/search?q=Cem+Garipo%c4%9flu) | N/A |
+| 41 | [Alırsın](http://twitter.com/search?q=Al%c4%b1rs%c4%b1n) | N/A |
+| 42 | [Abdullah Öcalan](http://twitter.com/search?q=Abdullah+%c3%96calan) | N/A |
+| 43 | [Deniz Kuvvetleri Komutanlığına](http://twitter.com/search?q=Deniz+Kuvvetleri+Komutanl%c4%b1%c4%9f%c4%b1na) | N/A |
+| 44 | [Kaymakamımız Sn](http://twitter.com/search?q=Kaymakam%c4%b1m%c4%b1z+Sn) | N/A |
+| 45 | [Ece Güner](http://twitter.com/search?q=Ece+G%c3%bcner) | N/A |
+| 46 | [HAYIRLI OLSUN](http://twitter.com/search?q=HAYIRLI+OLSUN) | N/A |
+| 47 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
+| 48 | [Ferhat](http://twitter.com/search?q=Ferhat) | N/A |
+| 49 | [AK Parti'de](http://twitter.com/search?q=AK+Parti%27de) | N/A |
+| 50 | [idris naim şahin](http://twitter.com/search?q=idris+naim+%c5%9fahin) | N/A |
 
 
 
