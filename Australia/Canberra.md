@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-10 18:17:24 UTC`
+📆 Last Updated: `2023-04-10 19:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Australia](</Australia>)
 | 7 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 8 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 9 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 10 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
+| 10 | [hawthorn](http://twitter.com/search?q=hawthorn) | N/A |
 | 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 12 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 13 | [harley reid](http://twitter.com/search?q=harley+reid) | N/A |
-| 14 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
-| 15 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 16 | [Jezza](http://twitter.com/search?q=Jezza) | N/A |
-| 17 | [will day](http://twitter.com/search?q=will+day) | N/A |
-| 18 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 19 | [Bill of Rights](http://twitter.com/search?q=Bill+of+Rights) | N/A |
-| 20 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 21 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 22 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 23 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 24 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
-| 25 | [Sicily](http://twitter.com/search?q=Sicily) | N/A |
-| 26 | [Kale](http://twitter.com/search?q=Kale) | N/A |
-| 27 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 28 | [Debunking 10](http://twitter.com/search?q=Debunking+10) | N/A |
-| 29 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 30 | [sheens](http://twitter.com/search?q=sheens) | N/A |
-| 31 | [doueihi](http://twitter.com/search?q=doueihi) | N/A |
-| 32 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 33 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 34 | [Happy Birthday Katy](http://twitter.com/search?q=Happy+Birthday+Katy) | N/A |
-| 35 | [Staines](http://twitter.com/search?q=Staines) | N/A |
-| 36 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 37 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
-| 38 | [Keath](http://twitter.com/search?q=Keath) | N/A |
-| 39 | [Gather Round](http://twitter.com/search?q=Gather+Round) | N/A |
-| 40 | [oakbank](http://twitter.com/search?q=oakbank) | N/A |
-| 41 | [warwick farm](http://twitter.com/search?q=warwick+farm) | N/A |
-| 42 | [sam mitchell](http://twitter.com/search?q=sam+mitchell) | N/A |
-| 43 | [Ollie Henry](http://twitter.com/search?q=Ollie+Henry) | N/A |
-| 44 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
-| 45 | [Swifts](http://twitter.com/search?q=Swifts) | N/A |
-| 46 | [murdoch press](http://twitter.com/search?q=murdoch+press) | N/A |
-| 47 | [adam goodes](http://twitter.com/search?q=adam+goodes) | N/A |
-| 48 | [meek](http://twitter.com/search?q=meek) | N/A |
-| 49 | [dangerfield](http://twitter.com/search?q=dangerfield) | N/A |
+| 12 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 13 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 14 | [harley reid](http://twitter.com/search?q=harley+reid) | N/A |
+| 15 | [Jezza](http://twitter.com/search?q=Jezza) | N/A |
+| 16 | [will day](http://twitter.com/search?q=will+day) | N/A |
+| 17 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 18 | [Bill of Rights](http://twitter.com/search?q=Bill+of+Rights) | N/A |
+| 19 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
+| 20 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
+| 21 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 22 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
+| 23 | [Sicily](http://twitter.com/search?q=Sicily) | N/A |
+| 24 | [Kale](http://twitter.com/search?q=Kale) | N/A |
+| 25 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
+| 26 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 27 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 28 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
+| 29 | [Debunking 10](http://twitter.com/search?q=Debunking+10) | N/A |
+| 30 | [doueihi](http://twitter.com/search?q=doueihi) | N/A |
+| 31 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 32 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 33 | [Happy Birthday Katy](http://twitter.com/search?q=Happy+Birthday+Katy) | N/A |
+| 34 | [staines](http://twitter.com/search?q=staines) | N/A |
+| 35 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 36 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 37 | [Keath](http://twitter.com/search?q=Keath) | N/A |
+| 38 | [Gather Round](http://twitter.com/search?q=Gather+Round) | N/A |
+| 39 | [oakbank](http://twitter.com/search?q=oakbank) | N/A |
+| 40 | [warwick farm](http://twitter.com/search?q=warwick+farm) | N/A |
+| 41 | [Sam Mitchell](http://twitter.com/search?q=Sam+Mitchell) | N/A |
+| 42 | [Ollie Henry](http://twitter.com/search?q=Ollie+Henry) | N/A |
+| 43 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
+| 44 | [Swifts](http://twitter.com/search?q=Swifts) | N/A |
+| 45 | [murdoch press](http://twitter.com/search?q=murdoch+press) | N/A |
+| 46 | [adam goodes](http://twitter.com/search?q=adam+goodes) | N/A |
+| 47 | [meek](http://twitter.com/search?q=meek) | N/A |
+| 48 | [dangerfield](http://twitter.com/search?q=dangerfield) | N/A |
+| 49 | [nank](http://twitter.com/search?q=nank) | N/A |
 
 
 

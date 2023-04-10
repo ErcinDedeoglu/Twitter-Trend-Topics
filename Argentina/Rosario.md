@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-04-10 18:17:14 UTC`
+📆 Last Updated: `2023-04-10 19:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,41 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 2 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
-| 3 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
-| 4 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 5 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 6 | [#DesayunoAmericano](http://twitter.com/search?q=%23DesayunoAmericano) | N/A |
-| 7 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 8 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 2 | [#MasDeLoMismo](http://twitter.com/search?q=%23MasDeLoMismo) | N/A |
+| 3 | [CABA](http://twitter.com/search?q=CABA) | N/A |
+| 4 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
+| 5 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 6 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 7 | [Jefe de Gobierno](http://twitter.com/search?q=Jefe+de+Gobierno) | N/A |
+| 8 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
 | 9 | [Marra](http://twitter.com/search?q=Marra) | N/A |
-| 10 | [Jefe de Gobierno](http://twitter.com/search?q=Jefe+de+Gobierno) | N/A |
-| 11 | [Tetaz](http://twitter.com/search?q=Tetaz) | N/A |
-| 12 | [#LanataSinFiltro](http://twitter.com/search?q=%23LanataSinFiltro) | N/A |
+| 10 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 11 | [#DesayunoAmericano](http://twitter.com/search?q=%23DesayunoAmericano) | N/A |
+| 12 | [Jorge Macri](http://twitter.com/search?q=Jorge+Macri) | N/A |
 | 13 | [Boleta Única](http://twitter.com/search?q=Boleta+%c3%9anica) | N/A |
-| 14 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
-| 15 | [CABA](http://twitter.com/search?q=CABA) | N/A |
-| 16 | [Ciudad de Buenos Aires](http://twitter.com/search?q=Ciudad+de+Buenos+Aires) | N/A |
-| 17 | [El PRO](http://twitter.com/search?q=El+PRO) | N/A |
+| 14 | [Tetaz](http://twitter.com/search?q=Tetaz) | N/A |
+| 15 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
+| 16 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 17 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 18 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
-| 19 | [Pelado](http://twitter.com/search?q=Pelado) | N/A |
-| 20 | [#TorneoProyección](http://twitter.com/search?q=%23TorneoProyecci%c3%b3n) | N/A |
-| 21 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
+| 19 | [El PRO](http://twitter.com/search?q=El+PRO) | N/A |
+| 20 | [La UCR](http://twitter.com/search?q=La+UCR) | N/A |
+| 21 | [Morales](http://twitter.com/search?q=Morales) | N/A |
 | 22 | [Mariu](http://twitter.com/search?q=Mariu) | N/A |
-| 23 | [Mammana](http://twitter.com/search?q=Mammana) | Mammana is a traditional Italian dessert made with ricotta cheese, sugar, and candied fruit. It is usually served during the Christmas season. In English, the word Mammana translates to "ricotta cake". |
-| 24 | [Frank Fabra](http://twitter.com/search?q=Frank+Fabra) | N/A |
-| 25 | [Dr. Bernardo Houssay](http://twitter.com/search?q=Dr.+Bernardo+Houssay) | N/A |
-| 26 | [María Eugenia](http://twitter.com/search?q=Mar%c3%ada+Eugenia) | N/A |
-| 27 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 28 | [Pamela](http://twitter.com/search?q=Pamela) | N/A |
-| 29 | [Mundial Sub 20](http://twitter.com/search?q=Mundial+Sub+20) | N/A |
-| 30 | [Paloma](http://twitter.com/search?q=Paloma) | N/A |
-| 31 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 32 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 33 | [López Murphy](http://twitter.com/search?q=L%c3%b3pez+Murphy) | N/A |
-| 34 | [Enacom](http://twitter.com/search?q=Enacom) | N/A |
-| 35 | [Favaloro](http://twitter.com/search?q=Favaloro) | N/A |
-| 36 | [CONICET](http://twitter.com/search?q=CONICET) | N/A |
-| 37 | [Ganancias](http://twitter.com/search?q=Ganancias) | N/A |
-| 38 | [Florencia Kirchner](http://twitter.com/search?q=Florencia+Kirchner) | N/A |
-| 39 | [Laura Di Marco](http://twitter.com/search?q=Laura+Di+Marco) | N/A |
-| 40 | [Viviana Canosa](http://twitter.com/search?q=Viviana+Canosa) | N/A |
-| 41 | [Vicente López](http://twitter.com/search?q=Vicente+L%c3%b3pez) | N/A |
-| 42 | [Rosario Central](http://twitter.com/search?q=Rosario+Central) | N/A |
-| 43 | [Impuesto](http://twitter.com/search?q=Impuesto) | N/A |
-| 44 | [Sergio Massa](http://twitter.com/search?q=Sergio+Massa) | N/A |
-| 45 | [Villa Soldati](http://twitter.com/search?q=Villa+Soldati) | N/A |
-| 46 | [Dillom](http://twitter.com/search?q=Dillom) | N/A |
-| 47 | [Xeneize](http://twitter.com/search?q=Xeneize) | N/A |
-| 48 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
-| 49 | [#Elecciones](http://twitter.com/search?q=%23Elecciones) | N/A |
-| 50 | [#AntesQueNadie](http://twitter.com/search?q=%23AntesQueNadie) | N/A |
+| 23 | [Ciudad de Buenos Aires](http://twitter.com/search?q=Ciudad+de+Buenos+Aires) | N/A |
+| 24 | [López Murphy](http://twitter.com/search?q=L%c3%b3pez+Murphy) | N/A |
+| 25 | [Bernardo Houssay](http://twitter.com/search?q=Bernardo+Houssay) | N/A |
+| 26 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 27 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
+| 28 | [Vicente López](http://twitter.com/search?q=Vicente+L%c3%b3pez) | N/A |
+| 29 | [Lanata](http://twitter.com/search?q=Lanata) | N/A |
+| 30 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 31 | [Enacom](http://twitter.com/search?q=Enacom) | N/A |
+| 32 | [Pelado](http://twitter.com/search?q=Pelado) | N/A |
+| 33 | [Florencia Kirchner](http://twitter.com/search?q=Florencia+Kirchner) | N/A |
+| 34 | [Laura Di Marco](http://twitter.com/search?q=Laura+Di+Marco) | N/A |
+| 35 | [Bienvenida Eva](http://twitter.com/search?q=Bienvenida+Eva) | N/A |
+| 36 | [Viviana Canosa](http://twitter.com/search?q=Viviana+Canosa) | N/A |
 
 
 

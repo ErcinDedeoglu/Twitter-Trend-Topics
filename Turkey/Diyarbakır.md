@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-04-10 18:17:41 UTC`
+📆 Last Updated: `2023-04-10 19:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FKGvFB](http://twitter.com/search?q=%23FKGvFB) | N/A |
-| 2 | [#nolcakşimdi](http://twitter.com/search?q=%23nolcak%c5%9fimdi) | N/A |
-| 3 | [#AsistanHekimEğitimHakkı](http://twitter.com/search?q=%23AsistanHekimE%c4%9fitimHakk%c4%b1) | N/A |
-| 4 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
-| 5 | [#TürkiyeTarihYazacak](http://twitter.com/search?q=%23T%c3%bcrkiyeTarihYazacak) | N/A |
-| 6 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
-| 7 | [SİHA](http://twitter.com/search?q=S%c4%b0HA) | N/A |
-| 8 | [Sözcü](http://twitter.com/search?q=S%c3%b6zc%c3%bc) | N/A |
-| 9 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
-| 10 | [TetikçininOğlu FOXta](http://twitter.com/search?q=Tetik%c3%a7ininO%c4%9flu+FOXta) | N/A |
-| 11 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
-| 12 | [Teyiti Engelliyoruz](http://twitter.com/search?q=Teyiti+Engelliyoruz) | N/A |
-| 13 | [Ekrem İmamoğlu](http://twitter.com/search?q=Ekrem+%c4%b0mamo%c4%9flu) | N/A |
-| 14 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
-| 15 | [Uçak](http://twitter.com/search?q=U%c3%a7ak) | N/A |
-| 16 | [58 Hizbullah](http://twitter.com/search?q=58+Hizbullah) | N/A |
-| 17 | [Mutlu Akşamlar](http://twitter.com/search?q=Mutlu+Ak%c5%9famlar) | N/A |
-| 18 | [Diagne](http://twitter.com/search?q=Diagne) | N/A |
-| 19 | [Ümraniyespor](http://twitter.com/search?q=%c3%9cmraniyespor) | N/A |
-| 20 | [Amasya](http://twitter.com/search?q=Amasya) | N/A |
-| 21 | [Destici](http://twitter.com/search?q=Destici) | N/A |
+| 2 | [Dexgame](http://twitter.com/search?q=Dexgame) | N/A |
+| 3 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
+| 4 | [Altay](http://twitter.com/search?q=Altay) | Altay is a region in Central Asia that spans parts of Russia, China, Kazakhstan, and Mongolia. The name Altay is derived from the Turkic word for "golden mountain," and it is known for its mountainous terrain and rich cultural heritage. In English, Altay means "Golden Mountain." |
+| 5 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
+| 6 | [#HukukDevletiİstiyoruz](http://twitter.com/search?q=%23HukukDevleti%c4%b0stiyoruz) | N/A |
+| 7 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 8 | [Borini](http://twitter.com/search?q=Borini) | Borini is an Italian surname. It is derived from the Latin word "Borinus", which means "a man of the woods". In English, it can be translated to mean "woodsman". |
+| 9 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
+| 10 | [#DünyaLideri](http://twitter.com/search?q=%23D%c3%bcnyaLideri) | N/A |
+| 11 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 12 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
+| 13 | [Samet](http://twitter.com/search?q=Samet) | Samet is a Turkish word meaning "same". It is used to describe something that is the same or similar. |
+| 14 | [Biliniyo](http://twitter.com/search?q=Biliniyo) | Biliniyo is a term used in the Yoruba language of Nigeria, and it means "friendship". |
+| 15 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
+| 16 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | Penaltı is a term used in soccer (football) to refer to a penalty kick. It is a kick taken from the penalty spot by a player of the team that has been fouled, and it is usually taken with the aim of scoring a goal. In English, it is simply referred to as a "penalty kick". |
+| 17 | [#fenerinmacivar](http://twitter.com/search?q=%23fenerinmacivar) | N/A |
+| 18 | [Taşeronİçin SeçimVakti](http://twitter.com/search?q=Ta%c5%9feron%c4%b0%c3%a7in+Se%c3%a7imVakti) | N/A |
+| 19 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
+| 20 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 21 | [Abdülkadir Bitigen](http://twitter.com/search?q=Abd%c3%bclkadir+Bitigen) | Abdülkadir Bitigen is a Turkish name. It is composed of two parts: Abdülkadir, which means "servant of the powerful one," and Bitigen, which means "the brave one." In English, the name would be translated as "Servant of the Powerful Brave One." |
 | 22 | [Hüseyin Baş](http://twitter.com/search?q=H%c3%bcseyin+Ba%c5%9f) | N/A |
-| 23 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 24 | [Fulya](http://twitter.com/search?q=Fulya) | N/A |
-| 25 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
-| 26 | [Herif](http://twitter.com/search?q=Herif) | N/A |
-| 27 | [Emrullah](http://twitter.com/search?q=Emrullah) | N/A |
-| 28 | [Tokat](http://twitter.com/search?q=Tokat) | N/A |
-| 29 | [Takla](http://twitter.com/search?q=Takla) | N/A |
-| 30 | [Türk Polis Teşkilatı'nın 178](http://twitter.com/search?q=T%c3%bcrk+Polis+Te%c5%9fkilat%c4%b1%27n%c4%b1n+178) | N/A |
-| 31 | [Kuzey Kore](http://twitter.com/search?q=Kuzey+Kore) | N/A |
-| 32 | [İspanyol](http://twitter.com/search?q=%c4%b0spanyol) | N/A |
-| 33 | [Pide](http://twitter.com/search?q=Pide) | N/A |
-| 34 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
-| 35 | [Fuat](http://twitter.com/search?q=Fuat) | Fuat is a Turkish name derived from the Arabic word "Fawwaz", meaning "successful". It is also used as a surname in Turkey. |
-| 36 | [Cem Garipoğlu](http://twitter.com/search?q=Cem+Garipo%c4%9flu) | N/A |
-| 37 | [Savunma](http://twitter.com/search?q=Savunma) | N/A |
-| 38 | [Kızılelma](http://twitter.com/search?q=K%c4%b1z%c4%b1lelma) | N/A |
-| 39 | [Merzifon](http://twitter.com/search?q=Merzifon) | N/A |
-| 40 | [Genelkurmay Başkanı](http://twitter.com/search?q=Genelkurmay+Ba%c5%9fkan%c4%b1) | N/A |
-| 41 | [Emeği](http://twitter.com/search?q=Eme%c4%9fi) | N/A |
-| 42 | [Kolin](http://twitter.com/search?q=Kolin) | N/A |
-| 43 | [Vizyon](http://twitter.com/search?q=Vizyon) | N/A |
-| 44 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
-| 45 | [Şule Çet](http://twitter.com/search?q=%c5%9eule+%c3%87et) | N/A |
-| 46 | [11 Nisan Salı](http://twitter.com/search?q=11+Nisan+Sal%c4%b1) | N/A |
-| 47 | [Mareşal Fevzi Çakmak](http://twitter.com/search?q=Mare%c5%9fal+Fevzi+%c3%87akmak) | N/A |
-| 48 | [Alırsın](http://twitter.com/search?q=Al%c4%b1rs%c4%b1n) | N/A |
+| 23 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
+| 24 | [Joao Pedro](http://twitter.com/search?q=Joao+Pedro) | N/A |
+| 25 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
+| 26 | [Diagne](http://twitter.com/search?q=Diagne) | N/A |
+| 27 | [Sözcü](http://twitter.com/search?q=S%c3%b6zc%c3%bc) | N/A |
+| 28 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
+| 29 | [Batuhan](http://twitter.com/search?q=Batuhan) | N/A |
+| 30 | [Colley](http://twitter.com/search?q=Colley) | N/A |
+| 31 | [SİHA](http://twitter.com/search?q=S%c4%b0HA) | N/A |
+| 32 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
+| 33 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
+| 34 | [TetikçininOğlu FOXta](http://twitter.com/search?q=Tetik%c3%a7ininO%c4%9flu+FOXta) | N/A |
+| 35 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
+| 36 | [Alioski](http://twitter.com/search?q=Alioski) | N/A |
+| 37 | [Halk TV'den](http://twitter.com/search?q=Halk+TV%27den) | N/A |
+| 38 | [Bunak](http://twitter.com/search?q=Bunak) | N/A |
+| 39 | [Kaleci](http://twitter.com/search?q=Kaleci) | N/A |
+| 40 | [Öznur](http://twitter.com/search?q=%c3%96znur) | N/A |
+| 41 | [Merve](http://twitter.com/search?q=Merve) | N/A |
+| 42 | [Ekrem İmamoğlu](http://twitter.com/search?q=Ekrem+%c4%b0mamo%c4%9flu) | N/A |
+| 43 | [Dele Alli](http://twitter.com/search?q=Dele+Alli) | Dele Alli is the nickname of English professional footballer Dele Alli, who plays for Tottenham Hotspur and the England national team. The name is a combination of his given name, Bamidele, and his surname, Alli. |
+| 44 | [DevrimErtan İbrahimSelime](http://twitter.com/search?q=DevrimErtan+%c4%b0brahimSelime) | N/A |
+| 45 | [Uçak](http://twitter.com/search?q=U%c3%a7ak) | N/A |
+| 46 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
+| 47 | [Fulya](http://twitter.com/search?q=Fulya) | N/A |
+| 48 | [Nisa](http://twitter.com/search?q=Nisa) | N/A |
 
 
 

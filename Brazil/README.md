@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-04-10 18:17:51 UTC`
+📆 Last Updated: `2023-04-10 19:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 2 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 3 | [TRAILER LUAN CITY 2](http://twitter.com/search?q=TRAILER+LUAN+CITY+2) | N/A |
-| 4 | [#OBrasilVoltou](http://twitter.com/search?q=%23OBrasilVoltou) | N/A |
-| 5 | [biel xcamoso](http://twitter.com/search?q=biel+xcamoso) | N/A |
-| 6 | [#osdonosdabola](http://twitter.com/search?q=%23osdonosdabola) | N/A |
-| 7 | [ufes](http://twitter.com/search?q=ufes) | N/A |
-| 8 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 9 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 10 | [Ryan Murphy](http://twitter.com/search?q=Ryan+Murphy) | Ryan Murphy is an American screenwriter, director, and producer. He is best known for creating the television series Glee, American Horror Story, Pose, and 9-1-1. He has also directed several feature films including The Normal Heart and Eat Pray Love. Murphy's work often focuses on themes of acceptance and inclusion. |
-| 11 | [#지민아_마이의_푸른봄은_너야](http://twitter.com/search?q=%23%ec%a7%80%eb%af%bc%ec%95%84_%eb%a7%88%ec%9d%b4%ec%9d%98_%ed%91%b8%eb%a5%b8%eb%b4%84%ec%9d%80_%eb%84%88%ec%95%bc) | N/A |
-| 12 | [#Sbtsportsrio](http://twitter.com/search?q=%23Sbtsportsrio) | N/A |
-| 13 | [eiza](http://twitter.com/search?q=eiza) | N/A |
-| 14 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 15 | [BLOOMING KARINA DAY](http://twitter.com/search?q=BLOOMING+KARINA+DAY) | N/A |
-| 16 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
-| 17 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
-| 18 | [Freud](http://twitter.com/search?q=Freud) | N/A |
-| 19 | [Em 100](http://twitter.com/search?q=Em+100) | N/A |
-| 20 | [Durval](http://twitter.com/search?q=Durval) | N/A |
-| 21 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 22 | [HAPPY BIRTHDAY DANIELLE](http://twitter.com/search?q=HAPPY+BIRTHDAY+DANIELLE) | N/A |
-| 23 | [Governo Lula](http://twitter.com/search?q=Governo+Lula) | N/A |
-| 24 | [Pesquisa](http://twitter.com/search?q=Pesquisa) | N/A |
-| 25 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
-| 26 | [Pedófilo](http://twitter.com/search?q=Ped%c3%b3filo) | N/A |
-| 27 | [Dia 10](http://twitter.com/search?q=Dia+10) | N/A |
+| 1 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 3 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 4 | [Purple Kiss](http://twitter.com/search?q=Purple+Kiss) | N/A |
+| 5 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
+| 6 | [#OBrasilVoltou](http://twitter.com/search?q=%23OBrasilVoltou) | N/A |
+| 7 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
+| 8 | [#CarolBiazinNoVenus](http://twitter.com/search?q=%23CarolBiazinNoVenus) | N/A |
+| 9 | [Fase Copa](http://twitter.com/search?q=Fase+Copa) | N/A |
+| 10 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
+| 11 | [Fase Sul-americana](http://twitter.com/search?q=Fase+Sul-americana) | N/A |
+| 12 | [biel xcamoso](http://twitter.com/search?q=biel+xcamoso) | N/A |
+| 13 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
+| 14 | [Guto Ferreira](http://twitter.com/search?q=Guto+Ferreira) | N/A |
+| 15 | [Ryan Murphy](http://twitter.com/search?q=Ryan+Murphy) | Ryan Murphy is an American screenwriter, director, and producer. He is best known for creating the television series Glee, American Horror Story, Pose, and 9-1-1. He has also directed several feature films including The Normal Heart and Eat Pray Love. Murphy's work often focuses on themes of acceptance and inclusion. |
+| 16 | [TRAILER LUAN CITY 2](http://twitter.com/search?q=TRAILER+LUAN+CITY+2) | N/A |
+| 17 | [#osdonosdabola](http://twitter.com/search?q=%23osdonosdabola) | N/A |
+| 18 | [#ForaFredNicacio](http://twitter.com/search?q=%23ForaFredNicacio) | N/A |
+| 19 | [midnight rain](http://twitter.com/search?q=midnight+rain) | N/A |
+| 20 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
+| 21 | [Vovô](http://twitter.com/search?q=Vov%c3%b4) | N/A |
+| 22 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 23 | [Destaque](http://twitter.com/search?q=Destaque) | N/A |
+| 24 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 25 | [eiza](http://twitter.com/search?q=eiza) | N/A |
+| 26 | [Freud](http://twitter.com/search?q=Freud) | N/A |
+| 27 | [ufes](http://twitter.com/search?q=ufes) | N/A |
 | 28 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 29 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
-| 30 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 31 | [Souza Amorim](http://twitter.com/search?q=Souza+Amorim) | N/A |
-| 32 | [Itatiaia](http://twitter.com/search?q=Itatiaia) | N/A |
-| 33 | [IPVA](http://twitter.com/search?q=IPVA) | N/A |
-| 34 | [Galo e Cruzeiro](http://twitter.com/search?q=Galo+e+Cruzeiro) | N/A |
-| 35 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
-| 36 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 37 | [Eric Faria](http://twitter.com/search?q=Eric+Faria) | N/A |
-| 38 | [Cruzeiro e Atlético](http://twitter.com/search?q=Cruzeiro+e+Atl%c3%a9tico) | N/A |
-| 39 | [Kit 10 Cuecas Boxer Algodão](http://twitter.com/search?q=Kit+10+Cuecas+Boxer+Algod%c3%a3o) | N/A |
-| 40 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 41 | [BBB 20](http://twitter.com/search?q=BBB+20) | N/A |
-| 42 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 43 | [Nota 13](http://twitter.com/search?q=Nota+13) | N/A |
-| 44 | [Menin](http://twitter.com/search?q=Menin) | N/A |
-| 45 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 46 | [midnight rain](http://twitter.com/search?q=midnight+rain) | N/A |
-| 47 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 48 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
-| 49 | [Inha](http://twitter.com/search?q=Inha) | N/A |
-| 50 | [inep](http://twitter.com/search?q=inep) | N/A |
+| 29 | [Em 100](http://twitter.com/search?q=Em+100) | N/A |
+| 30 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
+| 31 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
+| 32 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 33 | [Governo Lula](http://twitter.com/search?q=Governo+Lula) | N/A |
+| 34 | [Prior](http://twitter.com/search?q=Prior) | Prior is an adjective that means earlier in time, order, or importance. It can also be used as a noun to refer to someone who holds a higher rank or position. |
+| 35 | [BLOOMING KARINA DAY](http://twitter.com/search?q=BLOOMING+KARINA+DAY) | N/A |
+| 36 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
+| 37 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 38 | [Pedófilo](http://twitter.com/search?q=Ped%c3%b3filo) | N/A |
+| 39 | [HAPPY BIRTHDAY DANIELLE](http://twitter.com/search?q=HAPPY+BIRTHDAY+DANIELLE) | N/A |
+| 40 | [Dia 10](http://twitter.com/search?q=Dia+10) | N/A |
+| 41 | [IPVA](http://twitter.com/search?q=IPVA) | N/A |
+| 42 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
+| 43 | [Calvin](http://twitter.com/search?q=Calvin) | N/A |
+| 44 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 45 | [Durval](http://twitter.com/search?q=Durval) | N/A |
+| 46 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 47 | [Pesquisa](http://twitter.com/search?q=Pesquisa) | N/A |
+| 48 | [Itatiaia](http://twitter.com/search?q=Itatiaia) | N/A |
+| 49 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 50 | [Ana Thais](http://twitter.com/search?q=Ana+Thais) | N/A |
 
 
 

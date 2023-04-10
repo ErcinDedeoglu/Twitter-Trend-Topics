@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-10 18:17:42 UTC`
+📆 Last Updated: `2023-04-10 19:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,31 +18,31 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 1 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [#MCYvWEL](http://twitter.com/search?q=%23MCYvWEL) | N/A |
-| 4 | [the disinformation project](http://twitter.com/search?q=the+disinformation+project) | N/A |
-| 5 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 6 | [Helen](http://twitter.com/search?q=Helen) | N/A |
-| 7 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 8 | [#nrlknightswarriors](http://twitter.com/search?q=%23nrlknightswarriors) | N/A |
-| 9 | [Chantelle Baker](http://twitter.com/search?q=Chantelle+Baker) | N/A |
+| 4 | [Helen](http://twitter.com/search?q=Helen) | N/A |
+| 5 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 6 | [#NRLKnightsWarriors](http://twitter.com/search?q=%23NRLKnightsWarriors) | N/A |
+| 7 | [Chantelle Baker](http://twitter.com/search?q=Chantelle+Baker) | N/A |
+| 8 | [President](http://twitter.com/search?q=President) | N/A |
+| 9 | [The Disinformation Project](http://twitter.com/search?q=The+Disinformation+Project) | N/A |
 | 10 | [Herald](http://twitter.com/search?q=Herald) | N/A |
 | 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 13 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 14 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 15 | [Pompey](http://twitter.com/search?q=Pompey) | N/A |
-| 16 | [simon o'connor](http://twitter.com/search?q=simon+o%27connor) | N/A |
-| 17 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 18 | [kate hannah](http://twitter.com/search?q=kate+hannah) | N/A |
-| 19 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 20 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 21 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 22 | [#themasters](http://twitter.com/search?q=%23themasters) | N/A |
-| 23 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 24 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 25 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 12 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 14 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 15 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 16 | [Pompey](http://twitter.com/search?q=Pompey) | N/A |
+| 17 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 18 | [Simon O'Connor](http://twitter.com/search?q=Simon+O%27Connor) | N/A |
+| 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 20 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
+| 21 | [kate hannah](http://twitter.com/search?q=kate+hannah) | N/A |
+| 22 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 23 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 24 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 25 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 27 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 28 | [sanjana hattotuwa](http://twitter.com/search?q=sanjana+hattotuwa) | N/A |
+| 27 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 28 | [Sanjana Hattotuwa](http://twitter.com/search?q=Sanjana+Hattotuwa) | N/A |
 | 29 | [tasman](http://twitter.com/search?q=tasman) | N/A |
 | 30 | [david fisher](http://twitter.com/search?q=david+fisher) | N/A |
 | 31 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |

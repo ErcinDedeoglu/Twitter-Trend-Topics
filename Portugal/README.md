@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-04-10 18:17:55 UTC`
+📆 Last Updated: `2023-04-10 19:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Portugal
 | ------- | ------------ | ------------ |
 | 1 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 2 | [#OsTraidores](http://twitter.com/search?q=%23OsTraidores) | N/A |
-| 3 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 4 | [#thevoicept](http://twitter.com/search?q=%23thevoicept) | N/A |
+| 3 | [#thevoicept](http://twitter.com/search?q=%23thevoicept) | N/A |
+| 4 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
 | 5 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 6 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 7 | [#BruNoTriangulo](http://twitter.com/search?q=%23BruNoTriangulo) | N/A |
-| 8 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 9 | [#valetudo](http://twitter.com/search?q=%23valetudo) | N/A |
-| 10 | [Vítor Pereira](http://twitter.com/search?q=V%c3%adtor+Pereira) | N/A |
-| 11 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
-| 12 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 13 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 14 | [Jandira](http://twitter.com/search?q=Jandira) | N/A |
-| 15 | [Hugo Mendes](http://twitter.com/search?q=Hugo+Mendes) | N/A |
+| 6 | [#BruNoTriangulo](http://twitter.com/search?q=%23BruNoTriangulo) | N/A |
+| 7 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 8 | [Vítor Pereira](http://twitter.com/search?q=V%c3%adtor+Pereira) | N/A |
+| 9 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 10 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 11 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 12 | [Jandira](http://twitter.com/search?q=Jandira) | N/A |
+| 13 | [Hugo Mendes](http://twitter.com/search?q=Hugo+Mendes) | N/A |
+| 14 | [#OTrianguloTvi](http://twitter.com/search?q=%23OTrianguloTvi) | N/A |
+| 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 16 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 18 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 19 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 17 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 18 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 19 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
 | 20 | [Daniela Ruah](http://twitter.com/search?q=Daniela+Ruah) | N/A |
-| 21 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 21 | [Tibete](http://twitter.com/search?q=Tibete) | N/A |
 | 22 | [Trincão](http://twitter.com/search?q=Trinc%c3%a3o) | Trincão is a Portuguese slang term that means "little troublemaker". It is often used to describe someone who is mischievous or causes trouble. |
 | 23 | [Red Pass](http://twitter.com/search?q=Red+Pass) | N/A |
-| 24 | [Coates](http://twitter.com/search?q=Coates) | N/A |
-| 25 | [Tibete](http://twitter.com/search?q=Tibete) | N/A |
-| 26 | [fernando daniel](http://twitter.com/search?q=fernando+daniel) | N/A |
-| 27 | [Ristic](http://twitter.com/search?q=Ristic) | N/A |
-| 28 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 24 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 25 | [Coates](http://twitter.com/search?q=Coates) | N/A |
+| 26 | [ristic](http://twitter.com/search?q=ristic) | N/A |
+| 27 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 28 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
 | 29 | [Roger Schmidt](http://twitter.com/search?q=Roger+Schmidt) | Roger Schmidt is a German football manager and former player. He is currently the manager of Chinese Super League club Beijing Sinobo Guoan. His name is associated with an attacking, high-pressing style of football that he has implemented at various clubs throughout his career. |
-| 30 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 31 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
-| 32 | [Beja](http://twitter.com/search?q=Beja) | N/A |
-| 33 | [o domingos](http://twitter.com/search?q=o+domingos) | N/A |
-| 34 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
-| 35 | [Portela](http://twitter.com/search?q=Portela) | N/A |
+| 30 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 31 | [o domingos](http://twitter.com/search?q=o+domingos) | N/A |
+| 32 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
+| 33 | [Beja](http://twitter.com/search?q=Beja) | N/A |
+| 34 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 35 | [Coreia do Sul](http://twitter.com/search?q=Coreia+do+Sul) | N/A |
 | 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 37 | [Coreia do Sul](http://twitter.com/search?q=Coreia+do+Sul) | N/A |
-| 38 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 39 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 40 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 41 | [Santarém](http://twitter.com/search?q=Santar%c3%a9m) | N/A |
-| 42 | [O Zezinho](http://twitter.com/search?q=O+Zezinho) | N/A |
-| 43 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 44 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 45 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
-| 46 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 47 | [Provavelmente](http://twitter.com/search?q=Provavelmente) | N/A |
-| 48 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 49 | [Irlanda](http://twitter.com/search?q=Irlanda) | N/A |
-| 50 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 37 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 38 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 39 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 40 | [Portela](http://twitter.com/search?q=Portela) | N/A |
+| 41 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 42 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
+| 43 | [Santarém](http://twitter.com/search?q=Santar%c3%a9m) | N/A |
+| 44 | [O Zezinho](http://twitter.com/search?q=O+Zezinho) | N/A |
+| 45 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 46 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
+| 47 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
+| 48 | [Irlanda](http://twitter.com/search?q=Irlanda) | N/A |
+| 49 | [Provavelmente](http://twitter.com/search?q=Provavelmente) | N/A |
+| 50 | [Liliana](http://twitter.com/search?q=Liliana) | N/A |
 
 
 

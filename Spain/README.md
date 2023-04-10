@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-10 18:17:56 UTC`
+📆 Last Updated: `2023-04-10 19:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,55 @@ This is top 50 for Spain
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
-| 2 | [#PcComponentesLenovo](http://twitter.com/search?q=%23PcComponentesLenovo) | N/A |
-| 3 | [#MercatoKings2](http://twitter.com/search?q=%23MercatoKings2) | N/A |
-| 4 | [#Pecado10Abr](http://twitter.com/search?q=%23Pecado10Abr) | N/A |
-| 5 | [Melilla](http://twitter.com/search?q=Melilla) | N/A |
-| 6 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 7 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 8 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 9 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 10 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 11 | [Umbreon](http://twitter.com/search?q=Umbreon) | N/A |
-| 12 | [José Zaragoza](http://twitter.com/search?q=Jos%c3%a9+Zaragoza) | N/A |
-| 13 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
-| 14 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
-| 15 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 16 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 17 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 18 | [Vaporeon](http://twitter.com/search?q=Vaporeon) | N/A |
-| 19 | [Pederasta](http://twitter.com/search?q=Pederasta) | N/A |
-| 20 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 21 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 22 | [#PrimaveraConOrangeySamsung](http://twitter.com/search?q=%23PrimaveraConOrangeySamsung) | N/A |
-| 23 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 24 | [Fans de Valverde](http://twitter.com/search?q=Fans+de+Valverde) | N/A |
-| 25 | [Monchi](http://twitter.com/search?q=Monchi) | Monchi is a Spanish nickname derived from the name Ramón. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
-| 26 | [Sanxenxo](http://twitter.com/search?q=Sanxenxo) | N/A |
-| 27 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 28 | [D.E.P](http://twitter.com/search?q=D.E.P) | N/A |
-| 29 | [Habidis](http://twitter.com/search?q=Habidis) | N/A |
-| 30 | [Don Fernando](http://twitter.com/search?q=Don+Fernando) | N/A |
+| 2 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 3 | [#PcComponentesLenovo](http://twitter.com/search?q=%23PcComponentesLenovo) | N/A |
+| 4 | [#ConexiónHonduras6](http://twitter.com/search?q=%23Conexi%c3%b3nHonduras6) | N/A |
+| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 6 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
+| 7 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 8 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 9 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 10 | [#Masterchef](http://twitter.com/search?q=%23Masterchef) | N/A |
+| 11 | [#Pasapalabra742](http://twitter.com/search?q=%23Pasapalabra742) | N/A |
+| 12 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 13 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 14 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
+| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 16 | [Pederasta](http://twitter.com/search?q=Pederasta) | N/A |
+| 17 | [Masters de Augusta](http://twitter.com/search?q=Masters+de+Augusta) | N/A |
+| 18 | [Umbreon](http://twitter.com/search?q=Umbreon) | N/A |
+| 19 | [Habidis](http://twitter.com/search?q=Habidis) | N/A |
+| 20 | [Ceuta y Melilla](http://twitter.com/search?q=Ceuta+y+Melilla) | N/A |
+| 21 | [Don Fernando](http://twitter.com/search?q=Don+Fernando) | N/A |
+| 22 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 23 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 24 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 25 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 26 | [Seve](http://twitter.com/search?q=Seve) | N/A |
+| 27 | [José Zaragoza](http://twitter.com/search?q=Jos%c3%a9+Zaragoza) | N/A |
+| 28 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 29 | [Vaporeon](http://twitter.com/search?q=Vaporeon) | N/A |
+| 30 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
 | 31 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
-| 32 | [Dani Olmo](http://twitter.com/search?q=Dani+Olmo) | N/A |
-| 33 | [Carlos Alcaraz](http://twitter.com/search?q=Carlos+Alcaraz) | Carlos Alcaraz is a Spanish professional tennis player. He is the youngest player to ever win a match on the ATP Tour, having done so at the age of 15 in 2021. The name Carlos Alcaraz means "strong warrior" in English. |
-| 34 | [Nano](http://twitter.com/search?q=Nano) | N/A |
-| 35 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 36 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 37 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
-| 38 | [Wyoming](http://twitter.com/search?q=Wyoming) | N/A |
-| 39 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 40 | [Teruel](http://twitter.com/search?q=Teruel) | N/A |
-| 41 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 42 | [Las 3](http://twitter.com/search?q=Las+3) | N/A |
-| 43 | [Condenas](http://twitter.com/search?q=Condenas) | N/A |
-| 44 | [Tokio](http://twitter.com/search?q=Tokio) | N/A |
-| 45 | [#AdaraSv10A](http://twitter.com/search?q=%23AdaraSv10A) | N/A |
-| 46 | [#StarWarsVisions](http://twitter.com/search?q=%23StarWarsVisions) | N/A |
-| 47 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
-| 48 | [#APOYOROCIO10A](http://twitter.com/search?q=%23APOYOROCIO10A) | N/A |
+| 32 | [Raquel Bollo](http://twitter.com/search?q=Raquel+Bollo) | N/A |
+| 33 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
+| 34 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 35 | [Valencia 2012](http://twitter.com/search?q=Valencia+2012) | N/A |
+| 36 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
+| 37 | [Dani Olmo](http://twitter.com/search?q=Dani+Olmo) | N/A |
+| 38 | [Luis Tosar](http://twitter.com/search?q=Luis+Tosar) | N/A |
+| 39 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 40 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 41 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
+| 42 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
+| 43 | [Sanxenxo](http://twitter.com/search?q=Sanxenxo) | N/A |
+| 44 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 45 | [David Gallego](http://twitter.com/search?q=David+Gallego) | N/A |
+| 46 | [Cataluña](http://twitter.com/search?q=Catalu%c3%b1a) | N/A |
+| 47 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 48 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 49 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
+| 50 | [Mahoma](http://twitter.com/search?q=Mahoma) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-04-10 18:17:53 UTC`
+📆 Last Updated: `2023-04-10 19:18:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Italy
 | ------- | ------------ | ------------ |
 | 1 | [Pasquetta](http://twitter.com/search?q=Pasquetta) | N/A |
 | 2 | [Pasquetta](http://twitter.com/search?q=Pasquetta) | N/A |
-| 3 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
-| 4 | [#10aprile](http://twitter.com/search?q=%2310aprile) | N/A |
-| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 3 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 5 | [#10aprile](http://twitter.com/search?q=%2310aprile) | N/A |
 | 6 | [#atuttoreality](http://twitter.com/search?q=%23atuttoreality) | N/A |
-| 7 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 8 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
-| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 11 | [Non Comunista](http://twitter.com/search?q=Non+Comunista) | N/A |
-| 12 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
-| 13 | [#leredita](http://twitter.com/search?q=%23leredita) | N/A |
-| 14 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 15 | [Corsica](http://twitter.com/search?q=Corsica) | N/A |
-| 16 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 17 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
-| 18 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 19 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 20 | [Ciao Bruna](http://twitter.com/search?q=Ciao+Bruna) | N/A |
-| 21 | [Gazzelle](http://twitter.com/search?q=Gazzelle) | N/A |
-| 22 | [Buon Lunedì](http://twitter.com/search?q=Buon+Luned%c3%ac) | N/A |
-| 23 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 24 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
-| 25 | [Enea](http://twitter.com/search?q=Enea) | N/A |
-| 26 | [Lampedusa](http://twitter.com/search?q=Lampedusa) | N/A |
-| 27 | [Parzialmente Comunista](http://twitter.com/search?q=Parzialmente+Comunista) | N/A |
-| 28 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
-| 29 | [Nellina](http://twitter.com/search?q=Nellina) | N/A |
-| 30 | [jesper](http://twitter.com/search?q=jesper) | N/A |
-| 31 | [Benedetta](http://twitter.com/search?q=Benedetta) | N/A |
-| 32 | [Wanna Marchi](http://twitter.com/search?q=Wanna+Marchi) | N/A |
-| 33 | [Livaja](http://twitter.com/search?q=Livaja) | N/A |
-| 34 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 35 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 36 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 37 | [DICIAMO NO](http://twitter.com/search?q=DICIAMO+NO) | N/A |
-| 38 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
-| 39 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
-| 40 | [Massimo Mauro](http://twitter.com/search?q=Massimo+Mauro) | N/A |
-| 41 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
-| 42 | [Malta](http://twitter.com/search?q=Malta) | N/A |
-| 43 | [Deer](http://twitter.com/search?q=Deer) | N/A |
-| 44 | [Sheila](http://twitter.com/search?q=Sheila) | N/A |
-| 45 | [Mario Mario e Jun](http://twitter.com/search?q=Mario+Mario+e+Jun) | N/A |
-| 46 | [Gesù](http://twitter.com/search?q=Ges%c3%b9) | N/A |
-| 47 | [Cressy](http://twitter.com/search?q=Cressy) | N/A |
-| 48 | [Il 10](http://twitter.com/search?q=Il+10) | N/A |
-| 49 | [De Gaulle](http://twitter.com/search?q=De+Gaulle) | N/A |
-| 50 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
+| 7 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
+| 8 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 9 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
+| 10 | [Ezio Greggio](http://twitter.com/search?q=Ezio+Greggio) | N/A |
+| 11 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 14 | [Non Comunista](http://twitter.com/search?q=Non+Comunista) | N/A |
+| 15 | [Enea](http://twitter.com/search?q=Enea) | N/A |
+| 16 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 17 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
+| 18 | [Corsica](http://twitter.com/search?q=Corsica) | N/A |
+| 19 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
+| 20 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 21 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 22 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 23 | [Parzialmente Comunista](http://twitter.com/search?q=Parzialmente+Comunista) | N/A |
+| 24 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 25 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
+| 26 | [Buon Lunedì](http://twitter.com/search?q=Buon+Luned%c3%ac) | N/A |
+| 27 | [Lampedusa](http://twitter.com/search?q=Lampedusa) | N/A |
+| 28 | [Livaja](http://twitter.com/search?q=Livaja) | N/A |
+| 29 | [Wanna Marchi](http://twitter.com/search?q=Wanna+Marchi) | N/A |
+| 30 | [Barbero](http://twitter.com/search?q=Barbero) | N/A |
+| 31 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 32 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 33 | [DICIAMO NO](http://twitter.com/search?q=DICIAMO+NO) | N/A |
+| 34 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 35 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
+| 36 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 37 | [Ciao Bruna](http://twitter.com/search?q=Ciao+Bruna) | N/A |
+| 38 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 39 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 40 | [Nellina](http://twitter.com/search?q=Nellina) | N/A |
+| 41 | [Massimo Mauro](http://twitter.com/search?q=Massimo+Mauro) | N/A |
+| 42 | [Deer](http://twitter.com/search?q=Deer) | N/A |
+| 43 | [Decisamente Comunista](http://twitter.com/search?q=Decisamente+Comunista) | N/A |
+| 44 | [Mario Mario e Jun](http://twitter.com/search?q=Mario+Mario+e+Jun) | N/A |
+| 45 | [Benedetta](http://twitter.com/search?q=Benedetta) | N/A |
+| 46 | [Malta](http://twitter.com/search?q=Malta) | N/A |
+| 47 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
+| 48 | [Fugatti](http://twitter.com/search?q=Fugatti) | N/A |
+| 49 | [L'Europa](http://twitter.com/search?q=L%27Europa) | N/A |
+| 50 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
 
 
 

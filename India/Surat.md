@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-04-10 18:17:39 UTC`
+📆 Last Updated: `2023-04-10 19:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RCBvsLSG](http://twitter.com/search?q=%23RCBvsLSG) | N/A |
-| 2 | [#DeelanceBinanceLive](http://twitter.com/search?q=%23DeelanceBinanceLive) | N/A |
-| 3 | [राष्ट्रीय पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 4 | [Harshal](http://twitter.com/search?q=Harshal) | N/A |
-| 5 | [#JCOnKarnatakaElection](http://twitter.com/search?q=%23JCOnKarnatakaElection) | N/A |
-| 6 | [Stoinis](http://twitter.com/search?q=Stoinis) | N/A |
-| 7 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
-| 8 | [Chinnaswamy](http://twitter.com/search?q=Chinnaswamy) | N/A |
-| 9 | [Pooran](http://twitter.com/search?q=Pooran) | Pooran is a Hindu name derived from the Sanskrit word "purana," which means "old." It is often used as a given name for boys and girls in India. In English, it can be translated to mean "old one" or "ancient one." |
-| 10 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 11 | [Shikhar Dhawan Viral Video](http://twitter.com/search?q=Shikhar+Dhawan+Viral+Video) | N/A |
-| 12 | [Parnell](http://twitter.com/search?q=Parnell) | N/A |
-| 13 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 14 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
-| 15 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 16 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
+| 2 | [Harshal](http://twitter.com/search?q=Harshal) | N/A |
+| 3 | [#ViratKohli](http://twitter.com/search?q=%23ViratKohli) | N/A |
+| 4 | [#dineshkarthik](http://twitter.com/search?q=%23dineshkarthik) | N/A |
+| 5 | [Pooran](http://twitter.com/search?q=Pooran) | Pooran is a Hindu name derived from the Sanskrit word "purana," which means "old." It is often used as a given name for boys and girls in India. In English, it can be translated to mean "old one" or "ancient one." |
+| 6 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
+| 7 | [Mankad](http://twitter.com/search?q=Mankad) | Mankad is a term used in cricket to describe a controversial form of run out. It occurs when the bowler, after entering his delivery stride, stops and breaks the wicket with the batsman out of his crease. The term is named after Vinoo Mankad, an Indian cricketer who was known for this tactic. |
+| 8 | [Stoinis](http://twitter.com/search?q=Stoinis) | N/A |
+| 9 | [राष्ट्रीय पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 10 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
+| 11 | [Gautam Gambhir](http://twitter.com/search?q=Gautam+Gambhir) | N/A |
+| 12 | [Bishnoi](http://twitter.com/search?q=Bishnoi) | N/A |
+| 13 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 14 | [Chinnaswamy](http://twitter.com/search?q=Chinnaswamy) | N/A |
+| 15 | [Avesh](http://twitter.com/search?q=Avesh) | N/A |
+| 16 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
 | 17 | [Siraj](http://twitter.com/search?q=Siraj) | Siraj is an Arabic name meaning "lamp" or "light". It is also used as a surname. |
-| 18 | [Avesh](http://twitter.com/search?q=Avesh) | N/A |
-| 19 | [Hooda](http://twitter.com/search?q=Hooda) | Hooda is a slang term used to describe someone who is from the hood or a tough neighborhood. It can also be used to describe someone who has a tough attitude or demeanor. |
-| 20 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 21 | [Aam Aadmi Party](http://twitter.com/search?q=Aam+Aadmi+Party) | N/A |
-| 22 | [Bishnoi](http://twitter.com/search?q=Bishnoi) | N/A |
-| 23 | [नेशनल पार्टी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 24 | [Mark Wood](http://twitter.com/search?q=Mark+Wood) | N/A |
-| 25 | [Simon Doull](http://twitter.com/search?q=Simon+Doull) | N/A |
-| 26 | [Mayers](http://twitter.com/search?q=Mayers) | N/A |
-| 27 | [Krunal Pandya](http://twitter.com/search?q=Krunal+Pandya) | N/A |
-| 28 | [Unadkat](http://twitter.com/search?q=Unadkat) | Unadkat is a surname of Indian origin. It is derived from the Sanskrit word “unad”, which means “not bound” or “free”. The literal meaning of Unadkat is "one who is not bound". |
-| 29 | [Karn Sharma](http://twitter.com/search?q=Karn+Sharma) | N/A |
-| 30 | [Trinamool Congress](http://twitter.com/search?q=Trinamool+Congress) | N/A |
-| 31 | [Amul](http://twitter.com/search?q=Amul) | N/A |
-| 32 | [तृणमूल कांग्रेस](http://twitter.com/search?q=%e0%a4%a4%e0%a5%83%e0%a4%a3%e0%a4%ae%e0%a5%82%e0%a4%b2+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 33 | [Amit Mishra](http://twitter.com/search?q=Amit+Mishra) | N/A |
-| 34 | [BPSC](http://twitter.com/search?q=BPSC) | N/A |
-| 35 | [Lucknow Super Giants](http://twitter.com/search?q=Lucknow+Super+Giants) | N/A |
-| 36 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 37 | [IRCTC](http://twitter.com/search?q=IRCTC) | N/A |
-| 38 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 39 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 40 | [Jarur](http://twitter.com/search?q=Jarur) | N/A |
-| 41 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 42 | [विराट कोहली](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
-| 43 | [शहीद स्मारक जयपुर](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6+%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a4%95+%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a5%81%e0%a4%b0) | N/A |
-| 44 | [Amit Shah](http://twitter.com/search?q=Amit+Shah) | N/A |
-| 45 | [Kannadigas](http://twitter.com/search?q=Kannadigas) | N/A |
-| 46 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 47 | [महिला मोर्चा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%ae%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9a%e0%a4%be) | N/A |
-| 48 | [#ViratKohli](http://twitter.com/search?q=%23ViratKohli) | N/A |
+| 18 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
+| 19 | [Parnell](http://twitter.com/search?q=Parnell) | N/A |
+| 20 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 21 | [Badoni](http://twitter.com/search?q=Badoni) | N/A |
+| 22 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
+| 23 | [Shikhar Dhawan Viral Video](http://twitter.com/search?q=Shikhar+Dhawan+Viral+Video) | N/A |
+| 24 | [Chokers](http://twitter.com/search?q=Chokers) | N/A |
+| 25 | [Brad H](http://twitter.com/search?q=Brad+H) | N/A |
+| 26 | [RCBians](http://twitter.com/search?q=RCBians) | N/A |
+| 27 | [Karn Sharma](http://twitter.com/search?q=Karn+Sharma) | N/A |
+| 28 | [Hooda](http://twitter.com/search?q=Hooda) | Hooda is a slang term used to describe someone who is from the hood or a tough neighborhood. It can also be used to describe someone who has a tough attitude or demeanor. |
+| 29 | [Simon Doull](http://twitter.com/search?q=Simon+Doull) | N/A |
+| 30 | [Bowlers](http://twitter.com/search?q=Bowlers) | N/A |
+| 31 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 32 | [Aam Aadmi Party](http://twitter.com/search?q=Aam+Aadmi+Party) | N/A |
+| 33 | [Anushka](http://twitter.com/search?q=Anushka) | N/A |
+| 34 | [नेशनल पार्टी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 35 | [Unadkat](http://twitter.com/search?q=Unadkat) | Unadkat is a surname of Indian origin. It is derived from the Sanskrit word “unad”, which means “not bound” or “free”. The literal meaning of Unadkat is "one who is not bound". |
+| 36 | [Mayers](http://twitter.com/search?q=Mayers) | N/A |
+| 37 | [Mark Wood](http://twitter.com/search?q=Mark+Wood) | N/A |
+| 38 | [Krunal](http://twitter.com/search?q=Krunal) | N/A |
+| 39 | [Trinamool Congress](http://twitter.com/search?q=Trinamool+Congress) | N/A |
+| 40 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 41 | [तृणमूल कांग्रेस](http://twitter.com/search?q=%e0%a4%a4%e0%a5%83%e0%a4%a3%e0%a4%ae%e0%a5%82%e0%a4%b2+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 42 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 43 | [Amul](http://twitter.com/search?q=Amul) | N/A |
+| 44 | [BPSC](http://twitter.com/search?q=BPSC) | N/A |
+| 45 | [Amit Mishra](http://twitter.com/search?q=Amit+Mishra) | N/A |
+| 46 | [IRCTC](http://twitter.com/search?q=IRCTC) | N/A |
+| 47 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 48 | [SHEHNAAZ IN KBKJ TRAILER](http://twitter.com/search?q=SHEHNAAZ+IN+KBKJ+TRAILER) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-04-10 18:17:16 UTC`
+📆 Last Updated: `2023-04-10 19:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [France](</France>)
 | 2 | [#FCLOM](http://twitter.com/search?q=%23FCLOM) | N/A |
 | 3 | [Françoise Hardy](http://twitter.com/search?q=Fran%c3%a7oise+Hardy) | N/A |
 | 4 | [#TrashTalkBracketContest](http://twitter.com/search?q=%23TrashTalkBracketContest) | N/A |
-| 5 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 6 | [#GA2023](http://twitter.com/search?q=%23GA2023) | N/A |
+| 5 | [#GA2023](http://twitter.com/search?q=%23GA2023) | N/A |
+| 6 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
 | 7 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
 | 8 | [#QuiEstCe](http://twitter.com/search?q=%23QuiEstCe) | N/A |
 | 9 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
 | 10 | [Hervé Temime](http://twitter.com/search?q=Herv%c3%a9+Temime) | N/A |
-| 11 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 11 | [Samir Nasri](http://twitter.com/search?q=Samir+Nasri) | N/A |
 | 12 | [Lorient](http://twitter.com/search?q=Lorient) | N/A |
-| 13 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 14 | [Liga NOS](http://twitter.com/search?q=Liga+NOS) | N/A |
-| 15 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 16 | [Playoffs 2023](http://twitter.com/search?q=Playoffs+2023) | N/A |
-| 17 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 18 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 19 | [Tivoli](http://twitter.com/search?q=Tivoli) | N/A |
-| 20 | [Dalaï Lama](http://twitter.com/search?q=Dala%c3%af+Lama) | N/A |
-| 21 | [Nasri](http://twitter.com/search?q=Nasri) | N/A |
-| 22 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
-| 23 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 24 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 25 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 26 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
-| 27 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 28 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 29 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
-| 30 | [Saizen](http://twitter.com/search?q=Saizen) | N/A |
-| 31 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 32 | [Le PCF](http://twitter.com/search?q=Le+PCF) | N/A |
-| 33 | [Baloo](http://twitter.com/search?q=Baloo) | N/A |
+| 15 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 16 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 17 | [Playoffs 2023](http://twitter.com/search?q=Playoffs+2023) | N/A |
+| 18 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 19 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 20 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 21 | [Tivoli](http://twitter.com/search?q=Tivoli) | N/A |
+| 22 | [Dalaï Lama](http://twitter.com/search?q=Dala%c3%af+Lama) | N/A |
+| 23 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 24 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
+| 25 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 26 | [Baloo](http://twitter.com/search?q=Baloo) | N/A |
+| 27 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
+| 28 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 29 | [Le PCF](http://twitter.com/search?q=Le+PCF) | N/A |
+| 30 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 31 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 32 | [TOTS](http://twitter.com/search?q=TOTS) | N/A |
+| 33 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
 | 34 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
-| 35 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 36 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 37 | [Rosas Jr](http://twitter.com/search?q=Rosas+Jr) | N/A |
-| 38 | [Nawell Madani](http://twitter.com/search?q=Nawell+Madani) | N/A |
-| 39 | [Premier Anime](http://twitter.com/search?q=Premier+Anime) | N/A |
-| 40 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
-| 41 | [Dernier Anime](http://twitter.com/search?q=Dernier+Anime) | N/A |
-| 42 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 43 | [Pierre Lacotte](http://twitter.com/search?q=Pierre+Lacotte) | N/A |
-| 44 | [Pire Anime](http://twitter.com/search?q=Pire+Anime) | N/A |
-| 45 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 46 | [Lunatic](http://twitter.com/search?q=Lunatic) | N/A |
-| 47 | [Haute-Savoie](http://twitter.com/search?q=Haute-Savoie) | N/A |
-| 48 | [Akaza](http://twitter.com/search?q=Akaza) | N/A |
-| 49 | [Clermont](http://twitter.com/search?q=Clermont) | Clermont is a French city located in the Auvergne-Rhône-Alpes region. In English, it means "clear mountain". |
-| 50 | [Impavide](http://twitter.com/search?q=Impavide) | N/A |
+| 35 | [Lomepal](http://twitter.com/search?q=Lomepal) | N/A |
+| 36 | [Rosas Jr](http://twitter.com/search?q=Rosas+Jr) | N/A |
+| 37 | [Nawell Madani](http://twitter.com/search?q=Nawell+Madani) | N/A |
+| 38 | [Clauss](http://twitter.com/search?q=Clauss) | Clauss is a German surname. It is derived from the Latin word "clausus," which means "closed" or "shut." In English, the name Clauss can be translated to mean "closed off" or "shut away." |
+| 39 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 40 | [Saizen](http://twitter.com/search?q=Saizen) | N/A |
+| 41 | [Premier Anime](http://twitter.com/search?q=Premier+Anime) | N/A |
+| 42 | [Kim K](http://twitter.com/search?q=Kim+K) | N/A |
+| 43 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
+| 44 | [Dernier Anime](http://twitter.com/search?q=Dernier+Anime) | N/A |
+| 45 | [Pierre Lacotte](http://twitter.com/search?q=Pierre+Lacotte) | N/A |
+| 46 | [Akaza](http://twitter.com/search?q=Akaza) | N/A |
+| 47 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 48 | [Pire Anime](http://twitter.com/search?q=Pire+Anime) | N/A |
+| 49 | [Impavide](http://twitter.com/search?q=Impavide) | N/A |
+| 50 | [Balti](http://twitter.com/search?q=Balti) | N/A |
 
 
 
