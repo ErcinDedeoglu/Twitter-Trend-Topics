@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-10 10:18:18 UTC`
+📆 Last Updated: `2023-04-10 11:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [United States](</United States>)
 | 5 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
 | 6 | [jeno](http://twitter.com/search?q=jeno) | N/A |
 | 7 | [#THEDREAMSHOW2_in_ATLANTA](http://twitter.com/search?q=%23THEDREAMSHOW2_in_ATLANTA) | N/A |
-| 8 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 9 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 10 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 12 | [Daily Quordle 441](http://twitter.com/search?q=Daily+Quordle+441) | N/A |
+| 8 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 9 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 10 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 11 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 12 | [#Mondaymorning](http://twitter.com/search?q=%23Mondaymorning) | N/A |
 | 13 | [#Wordle660](http://twitter.com/search?q=%23Wordle660) | N/A |
-| 14 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
-| 15 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
-| 16 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
-| 17 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 18 | [Titter](http://twitter.com/search?q=Titter) | N/A |
-| 19 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 20 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
-| 21 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 22 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
-| 23 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 24 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 25 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 26 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 27 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 28 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 29 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
-| 30 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 31 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
-| 32 | [Willa](http://twitter.com/search?q=Willa) | N/A |
-| 33 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 34 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 35 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 36 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 37 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
-| 38 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 39 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 40 | [Chuckles the Clown](http://twitter.com/search?q=Chuckles+the+Clown) | N/A |
-| 41 | [Musical](http://twitter.com/search?q=Musical) | N/A |
-| 42 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 43 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 44 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
-| 45 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
-| 46 | [The Boys](http://twitter.com/search?q=The+Boys) | N/A |
-| 47 | [Kieran Culkin](http://twitter.com/search?q=Kieran+Culkin) | N/A |
-| 48 | [Drift](http://twitter.com/search?q=Drift) | N/A |
-| 49 | [Gate](http://twitter.com/search?q=Gate) | N/A |
-| 50 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 14 | [#IVE_1ST_ALBUM_RELEASE](http://twitter.com/search?q=%23IVE_1ST_ALBUM_RELEASE) | N/A |
+| 15 | [Daily Quordle 441](http://twitter.com/search?q=Daily+Quordle+441) | N/A |
+| 16 | [I AM IS OUT NOW](http://twitter.com/search?q=I+AM+IS+OUT+NOW) | N/A |
+| 17 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
+| 18 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 19 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
+| 20 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
+| 21 | [Titter](http://twitter.com/search?q=Titter) | N/A |
+| 22 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 23 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 24 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 25 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
+| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 27 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
+| 28 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
+| 29 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 30 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 31 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 32 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 33 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 34 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
+| 35 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 36 | [Musical](http://twitter.com/search?q=Musical) | N/A |
+| 37 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 38 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
+| 39 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
+| 40 | [willa](http://twitter.com/search?q=willa) | N/A |
+| 41 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 42 | [Snug](http://twitter.com/search?q=Snug) | N/A |
+| 43 | [Drift](http://twitter.com/search?q=Drift) | N/A |
+| 44 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 45 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
+| 46 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
+| 47 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 48 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 49 | [Emmys](http://twitter.com/search?q=Emmys) | N/A |
+| 50 | [Shade](http://twitter.com/search?q=Shade) | N/A |
 
 
 

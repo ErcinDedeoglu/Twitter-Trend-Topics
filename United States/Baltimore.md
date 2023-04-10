@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-04-10 10:18:19 UTC`
+📆 Last Updated: `2023-04-10 11:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
 | 2 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
 | 3 | [Odell](http://twitter.com/search?q=Odell) | N/A |
-| 4 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 5 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 6 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 7 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 8 | [Daily Quordle 441](http://twitter.com/search?q=Daily+Quordle+441) | N/A |
-| 9 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
-| 10 | [#Wordle660](http://twitter.com/search?q=%23Wordle660) | N/A |
-| 11 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
-| 12 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
-| 13 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 14 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 15 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 16 | [Titter](http://twitter.com/search?q=Titter) | N/A |
-| 17 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
-| 18 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
+| 4 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 5 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 6 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 7 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 8 | [#Mondaymorning](http://twitter.com/search?q=%23Mondaymorning) | N/A |
+| 9 | [#Wordle660](http://twitter.com/search?q=%23Wordle660) | N/A |
+| 10 | [#IVE_1ST_ALBUM_RELEASE](http://twitter.com/search?q=%23IVE_1ST_ALBUM_RELEASE) | N/A |
+| 11 | [Daily Quordle 441](http://twitter.com/search?q=Daily+Quordle+441) | N/A |
+| 12 | [I AM IS OUT NOW](http://twitter.com/search?q=I+AM+IS+OUT+NOW) | N/A |
+| 13 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 14 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
+| 15 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 16 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
+| 17 | [Titter](http://twitter.com/search?q=Titter) | N/A |
+| 18 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
 | 19 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 20 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 22 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 23 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 24 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 25 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
-| 26 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 27 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
-| 28 | [Willa](http://twitter.com/search?q=Willa) | N/A |
-| 29 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 30 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 20 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 21 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 22 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
+| 23 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
+| 24 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 25 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
+| 26 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 27 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 28 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 29 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 30 | [Collected](http://twitter.com/search?q=Collected) | N/A |
 | 31 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 32 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 33 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
-| 34 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 35 | [Snug](http://twitter.com/search?q=Snug) | N/A |
-| 36 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
-| 37 | [Chuckles the Clown](http://twitter.com/search?q=Chuckles+the+Clown) | N/A |
-| 38 | [Musical](http://twitter.com/search?q=Musical) | N/A |
-| 39 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 40 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 41 | [Dwelling](http://twitter.com/search?q=Dwelling) | N/A |
-| 42 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
-| 43 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 44 | [The Boys](http://twitter.com/search?q=The+Boys) | N/A |
-| 45 | [Kieran Culkin](http://twitter.com/search?q=Kieran+Culkin) | N/A |
-| 46 | [Gate](http://twitter.com/search?q=Gate) | N/A |
-| 47 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 48 | [#Taiwan](http://twitter.com/search?q=%23Taiwan) | N/A |
-| 49 | [Departure](http://twitter.com/search?q=Departure) | N/A |
-| 50 | [Drift](http://twitter.com/search?q=Drift) | N/A |
+| 32 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 33 | [Musical](http://twitter.com/search?q=Musical) | N/A |
+| 34 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 35 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
+| 36 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
+| 37 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 38 | [willa](http://twitter.com/search?q=willa) | N/A |
+| 39 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 40 | [Snug](http://twitter.com/search?q=Snug) | N/A |
+| 41 | [Drift](http://twitter.com/search?q=Drift) | N/A |
+| 42 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 43 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
+| 44 | [Vanity](http://twitter.com/search?q=Vanity) | N/A |
+| 45 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 46 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 47 | [Emmys](http://twitter.com/search?q=Emmys) | N/A |
+| 48 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 49 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 50 | [Silent](http://twitter.com/search?q=Silent) | N/A |
 
 
 

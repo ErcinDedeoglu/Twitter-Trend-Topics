@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-04-10 10:18:34 UTC`
+📆 Last Updated: `2023-04-10 11:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,37 +17,37 @@ This is top 50 for Peru
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 2 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 4 | [Grau](http://twitter.com/search?q=Grau) | N/A |
-| 5 | [carvallo](http://twitter.com/search?q=carvallo) | N/A |
-| 6 | [Sullana](http://twitter.com/search?q=Sullana) | N/A |
-| 7 | [osores](http://twitter.com/search?q=osores) | N/A |
-| 8 | [calcaterra](http://twitter.com/search?q=calcaterra) | N/A |
-| 9 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 10 | [#voleyxmdeportes](http://twitter.com/search?q=%23voleyxmdeportes) | N/A |
-| 11 | [Valera](http://twitter.com/search?q=Valera) | N/A |
-| 12 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
-| 13 | [JEON JUNGKOOK IS COMING](http://twitter.com/search?q=JEON+JUNGKOOK+IS+COMING) | N/A |
-| 14 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
-| 15 | [Polo](http://twitter.com/search?q=Polo) | N/A |
-| 16 | [corzo](http://twitter.com/search?q=corzo) | N/A |
-| 17 | [sheput](http://twitter.com/search?q=sheput) | N/A |
-| 18 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 3 | [#rpsp](http://twitter.com/search?q=%23rpsp) | N/A |
+| 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 5 | [Carvallo](http://twitter.com/search?q=Carvallo) | N/A |
+| 6 | [sullana](http://twitter.com/search?q=sullana) | N/A |
+| 7 | [Grau](http://twitter.com/search?q=Grau) | N/A |
+| 8 | [#PrimeroDios](http://twitter.com/search?q=%23PrimeroDios) | N/A |
+| 9 | [osores](http://twitter.com/search?q=osores) | N/A |
+| 10 | [calcaterra](http://twitter.com/search?q=calcaterra) | N/A |
+| 11 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 12 | [#voleyxmdeportes](http://twitter.com/search?q=%23voleyxmdeportes) | N/A |
+| 13 | [Valera](http://twitter.com/search?q=Valera) | N/A |
+| 14 | [JEON JUNGKOOK IS COMING](http://twitter.com/search?q=JEON+JUNGKOOK+IS+COMING) | N/A |
+| 15 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
+| 16 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
+| 17 | [Polo](http://twitter.com/search?q=Polo) | N/A |
+| 18 | [corzo](http://twitter.com/search?q=corzo) | N/A |
 | 19 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
-| 20 | [Butters](http://twitter.com/search?q=Butters) | N/A |
-| 21 | [Apertura](http://twitter.com/search?q=Apertura) | N/A |
-| 22 | [#PuntoFinal](http://twitter.com/search?q=%23PuntoFinal) | N/A |
-| 23 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 24 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 25 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 26 | [jesús castillo](http://twitter.com/search?q=jes%c3%bas+castillo) | N/A |
-| 27 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 28 | [urruti](http://twitter.com/search?q=urruti) | N/A |
-| 29 | [#radiocoti](http://twitter.com/search?q=%23radiocoti) | N/A |
+| 20 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 21 | [Butters](http://twitter.com/search?q=Butters) | N/A |
+| 22 | [Apertura](http://twitter.com/search?q=Apertura) | N/A |
+| 23 | [#puntofinal](http://twitter.com/search?q=%23puntofinal) | N/A |
+| 24 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 25 | [Sheput](http://twitter.com/search?q=Sheput) | N/A |
+| 26 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
+| 27 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 28 | [jesús castillo](http://twitter.com/search?q=jes%c3%bas+castillo) | N/A |
+| 29 | [urruti](http://twitter.com/search?q=urruti) | N/A |
 | 30 | [jorge fossati](http://twitter.com/search?q=jorge+fossati) | N/A |
 | 31 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
-| 32 | [lerner](http://twitter.com/search?q=lerner) | N/A |
-| 33 | [Piero Quispe](http://twitter.com/search?q=Piero+Quispe) | N/A |
+| 32 | [Lerner](http://twitter.com/search?q=Lerner) | N/A |
+| 33 | [piero quispe](http://twitter.com/search?q=piero+quispe) | N/A |
 | 34 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
 | 35 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
 | 36 | [Connor](http://twitter.com/search?q=Connor) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Peru
 | 42 | [pablo sabbag](http://twitter.com/search?q=pablo+sabbag) | N/A |
 | 43 | [Paro](http://twitter.com/search?q=Paro) | N/A |
 | 44 | [vamos alianza](http://twitter.com/search?q=vamos+alianza) | N/A |
-| 45 | [Surco](http://twitter.com/search?q=Surco) | N/A |
-| 46 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 47 | [celi](http://twitter.com/search?q=celi) | N/A |
-| 48 | [bryan reyna](http://twitter.com/search?q=bryan+reyna) | N/A |
+| 45 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 46 | [Celi](http://twitter.com/search?q=Celi) | N/A |
+| 47 | [bryan reyna](http://twitter.com/search?q=bryan+reyna) | N/A |
+| 48 | [Surco](http://twitter.com/search?q=Surco) | N/A |
 | 49 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 50 | [compagnucci](http://twitter.com/search?q=compagnucci) | N/A |
+| 50 | [Fede](http://twitter.com/search?q=Fede) | N/A |
 
 
 

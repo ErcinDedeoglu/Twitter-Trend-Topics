@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-04-10 10:18:31 UTC`
+📆 Last Updated: `2023-04-10 11:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Germany
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 2 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 3 | [Ostermontag](http://twitter.com/search?q=Ostermontag) | N/A |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 6 | [#scffcb](http://twitter.com/search?q=%23scffcb) | N/A |
-| 7 | [#Traumschiff](http://twitter.com/search?q=%23Traumschiff) | N/A |
-| 8 | [#BSCBVB](http://twitter.com/search?q=%23BSCBVB) | N/A |
-| 9 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 10 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 2 | [Ostermontag](http://twitter.com/search?q=Ostermontag) | N/A |
+| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 4 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 5 | [#scffcb](http://twitter.com/search?q=%23scffcb) | N/A |
+| 6 | [Anfangsverdacht](http://twitter.com/search?q=Anfangsverdacht) | N/A |
+| 7 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 8 | [#Traumschiff](http://twitter.com/search?q=%23Traumschiff) | N/A |
+| 9 | [#tsgs04](http://twitter.com/search?q=%23tsgs04) | N/A |
+| 10 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
 | 11 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 12 | [Reisepass](http://twitter.com/search?q=Reisepass) | N/A |
+| 12 | [#BSCBVB](http://twitter.com/search?q=%23BSCBVB) | N/A |
 | 13 | [Eier](http://twitter.com/search?q=Eier) | N/A |
-| 14 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
-| 15 | [Özil](http://twitter.com/search?q=%c3%96zil) | N/A |
-| 16 | ['Nachwuchs'](http://twitter.com/search?q=%27Nachwuchs%27) | N/A |
-| 17 | [Technologien der Zukunft](http://twitter.com/search?q=Technologien+der+Zukunft) | N/A |
-| 18 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
-| 19 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 20 | [Energieversorgung](http://twitter.com/search?q=Energieversorgung) | N/A |
-| 21 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 22 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 23 | [Antisemiten](http://twitter.com/search?q=Antisemiten) | N/A |
-| 24 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 25 | [Tod Israel](http://twitter.com/search?q=Tod+Israel) | N/A |
-| 26 | [KILIDSCH](http://twitter.com/search?q=KILIDSCH) | N/A |
-| 27 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 28 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 29 | [Hofreiter](http://twitter.com/search?q=Hofreiter) | N/A |
-| 30 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 31 | [Epoche](http://twitter.com/search?q=Epoche) | N/A |
-| 32 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 33 | [Effizienz](http://twitter.com/search?q=Effizienz) | N/A |
-| 34 | [Bündnispartner](http://twitter.com/search?q=B%c3%bcndnispartner) | N/A |
-| 35 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 36 | [Karlspreis](http://twitter.com/search?q=Karlspreis) | N/A |
-| 37 | [Blackout](http://twitter.com/search?q=Blackout) | N/A |
-| 38 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 39 | [Morla](http://twitter.com/search?q=Morla) | N/A |
-| 40 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 41 | [Steckdose](http://twitter.com/search?q=Steckdose) | N/A |
-| 42 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 43 | [Autonomie](http://twitter.com/search?q=Autonomie) | N/A |
-| 44 | [Dienstwagen](http://twitter.com/search?q=Dienstwagen) | N/A |
-| 45 | [Berliner Polizei](http://twitter.com/search?q=Berliner+Polizei) | N/A |
-| 46 | [Alice Schwarzer](http://twitter.com/search?q=Alice+Schwarzer) | N/A |
-| 47 | [Totales Durcheinander](http://twitter.com/search?q=Totales+Durcheinander) | N/A |
-| 48 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 49 | [Politico](http://twitter.com/search?q=Politico) | N/A |
-| 50 | [Braunkohle](http://twitter.com/search?q=Braunkohle) | N/A |
+| 14 | [Özil](http://twitter.com/search?q=%c3%96zil) | N/A |
+| 15 | ['Nachwuchs'](http://twitter.com/search?q=%27Nachwuchs%27) | N/A |
+| 16 | [Technologien der Zukunft](http://twitter.com/search?q=Technologien+der+Zukunft) | N/A |
+| 17 | [Energieversorgung](http://twitter.com/search?q=Energieversorgung) | N/A |
+| 18 | [Antisemiten](http://twitter.com/search?q=Antisemiten) | N/A |
+| 19 | [Reisepass](http://twitter.com/search?q=Reisepass) | N/A |
+| 20 | [Tod Israel](http://twitter.com/search?q=Tod+Israel) | N/A |
+| 21 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 22 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
+| 23 | [Effizienz](http://twitter.com/search?q=Effizienz) | N/A |
+| 24 | [KILIDSCH](http://twitter.com/search?q=KILIDSCH) | N/A |
+| 25 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 26 | [Ostertag](http://twitter.com/search?q=Ostertag) | N/A |
+| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 28 | [Hofreiter](http://twitter.com/search?q=Hofreiter) | N/A |
+| 29 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 30 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 31 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 32 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
+| 33 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 34 | [Dienstwagen](http://twitter.com/search?q=Dienstwagen) | N/A |
+| 35 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 36 | [Autonomie](http://twitter.com/search?q=Autonomie) | N/A |
+| 37 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 38 | [Morla](http://twitter.com/search?q=Morla) | N/A |
+| 39 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 40 | [Berliner Polizei](http://twitter.com/search?q=Berliner+Polizei) | N/A |
+| 41 | [Null Ahnung](http://twitter.com/search?q=Null+Ahnung) | N/A |
+| 42 | [Karlspreis](http://twitter.com/search?q=Karlspreis) | N/A |
+| 43 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 44 | [Totales Durcheinander](http://twitter.com/search?q=Totales+Durcheinander) | N/A |
+| 45 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 46 | [Holz](http://twitter.com/search?q=Holz) | N/A |
+| 47 | [Politico](http://twitter.com/search?q=Politico) | N/A |
+| 48 | [Parolen](http://twitter.com/search?q=Parolen) | N/A |
+| 49 | [Braunkohle](http://twitter.com/search?q=Braunkohle) | N/A |
+| 50 | [Garantie](http://twitter.com/search?q=Garantie) | N/A |
 
 
 

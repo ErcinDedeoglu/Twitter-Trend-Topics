@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Culiacán
 
-📆 Last Updated: `2023-04-10 10:17:37 UTC`
+📆 Last Updated: `2023-04-10 11:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
 | 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 4 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 5 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 6 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
-| 7 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
-| 8 | [#CD910AÑOS](http://twitter.com/search?q=%23CD910A%c3%91OS) | N/A |
-| 9 | [Jardines del Pedregal](http://twitter.com/search?q=Jardines+del+Pedregal) | N/A |
-| 10 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
-| 11 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 12 | [CD9 COMEBACK](http://twitter.com/search?q=CD9+COMEBACK) | N/A |
-| 13 | [#DomingoGlorioso](http://twitter.com/search?q=%23DomingoGlorioso) | N/A |
-| 14 | [CD9 RETURN](http://twitter.com/search?q=CD9+RETURN) | N/A |
-| 15 | [#LaMañaneraNoSeToca](http://twitter.com/search?q=%23LaMa%c3%b1aneraNoSeToca) | N/A |
-| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 17 | [#atletasporunauto](http://twitter.com/search?q=%23atletasporunauto) | N/A |
-| 18 | [I AM IS OUT NOW](http://twitter.com/search?q=I+AM+IS+OUT+NOW) | N/A |
-| 19 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 20 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 21 | [Chima](http://twitter.com/search?q=Chima) | N/A |
-| 22 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
+| 4 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 5 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
+| 6 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
+| 7 | [#CD910AÑOS](http://twitter.com/search?q=%23CD910A%c3%91OS) | N/A |
+| 8 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
+| 9 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
+| 10 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 11 | [CD9 COMEBACK](http://twitter.com/search?q=CD9+COMEBACK) | N/A |
+| 12 | [#DomingoGlorioso](http://twitter.com/search?q=%23DomingoGlorioso) | N/A |
+| 13 | [CD9 RETURN](http://twitter.com/search?q=CD9+RETURN) | N/A |
+| 14 | [#LaMañaneraNoSeToca](http://twitter.com/search?q=%23LaMa%c3%b1aneraNoSeToca) | N/A |
+| 15 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 16 | [#AtletasPorUnAuto](http://twitter.com/search?q=%23AtletasPorUnAuto) | N/A |
+| 17 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 18 | [Jardines del Pedregal](http://twitter.com/search?q=Jardines+del+Pedregal) | N/A |
+| 19 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 20 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
+| 21 | [I AM IS OUT NOW](http://twitter.com/search?q=I+AM+IS+OUT+NOW) | N/A |
+| 22 | [Chima](http://twitter.com/search?q=Chima) | N/A |
 | 23 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
 | 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 25 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
 | 26 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 27 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 28 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 29 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
-| 30 | [Perote](http://twitter.com/search?q=Perote) | N/A |
-| 31 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
-| 32 | [prieto](http://twitter.com/search?q=prieto) | N/A |
+| 28 | [manu chao](http://twitter.com/search?q=manu+chao) | N/A |
+| 29 | [Perote](http://twitter.com/search?q=Perote) | N/A |
+| 30 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
+| 31 | [prieto](http://twitter.com/search?q=prieto) | N/A |
+| 32 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
 | 33 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
 | 34 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 35 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
 | 36 | [jisoo debut stage](http://twitter.com/search?q=jisoo+debut+stage) | N/A |
-| 37 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 38 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
-| 39 | [MEXICO LOVES MAMAMOO](http://twitter.com/search?q=MEXICO+LOVES+MAMAMOO) | N/A |
-| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 41 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 42 | [CODERS CLOWNS](http://twitter.com/search?q=CODERS+CLOWNS) | N/A |
-| 43 | [Joao](http://twitter.com/search?q=Joao) | N/A |
-| 44 | [estamos contigo nat](http://twitter.com/search?q=estamos+contigo+nat) | N/A |
-| 45 | [VIÑAS](http://twitter.com/search?q=VI%c3%91AS) | N/A |
-| 46 | [return of cd9](http://twitter.com/search?q=return+of+cd9) | N/A |
-| 47 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 48 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 49 | [paseo bravo](http://twitter.com/search?q=paseo+bravo) | N/A |
-| 50 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 37 | [MEXICO LOVES MAMAMOO](http://twitter.com/search?q=MEXICO+LOVES+MAMAMOO) | N/A |
+| 38 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 39 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 40 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 41 | [CODERS CLOWNS](http://twitter.com/search?q=CODERS+CLOWNS) | N/A |
+| 42 | [estamos contigo nat](http://twitter.com/search?q=estamos+contigo+nat) | N/A |
+| 43 | [VIÑAS](http://twitter.com/search?q=VI%c3%91AS) | N/A |
+| 44 | [return of cd9](http://twitter.com/search?q=return+of+cd9) | N/A |
+| 45 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 46 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 47 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 48 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 49 | [julio gonzález](http://twitter.com/search?q=julio+gonz%c3%a1lez) | N/A |
+| 50 | [joao](http://twitter.com/search?q=joao) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-10 10:18:31 UTC`
+📆 Last Updated: `2023-04-10 11:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,36 +35,36 @@ This is top 50 for Guatemala
 | 18 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
 | 19 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 | 20 | [duko](http://twitter.com/search?q=duko) | N/A |
-| 21 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
-| 22 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 21 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 22 | [#TemblorGt](http://twitter.com/search?q=%23TemblorGt) | N/A |
 | 23 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 24 | [#TemblorGt](http://twitter.com/search?q=%23TemblorGt) | N/A |
-| 25 | [Prince Royce](http://twitter.com/search?q=Prince+Royce) | N/A |
+| 24 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
+| 25 | [prince royce](http://twitter.com/search?q=prince+royce) | N/A |
 | 26 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
 | 27 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 29 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
-| 30 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 31 | [Contexto](http://twitter.com/search?q=Contexto) | N/A |
-| 32 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 33 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
-| 34 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
-| 35 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 36 | [igss](http://twitter.com/search?q=igss) | N/A |
-| 37 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
-| 38 | [jornada 17](http://twitter.com/search?q=jornada+17) | N/A |
-| 39 | [#SS2023](http://twitter.com/search?q=%23SS2023) | N/A |
-| 40 | [conasa](http://twitter.com/search?q=conasa) | N/A |
-| 41 | [xinabajul](http://twitter.com/search?q=xinabajul) | N/A |
-| 42 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 43 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 44 | [#SS23](http://twitter.com/search?q=%23SS23) | N/A |
-| 45 | [Lamentable](http://twitter.com/search?q=Lamentable) | N/A |
-| 46 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
-| 47 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 48 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 49 | [hueco](http://twitter.com/search?q=hueco) | N/A |
-| 50 | [utaaa compañere](http://twitter.com/search?q=utaaa+compa%c3%b1ere) | N/A |
+| 29 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 30 | [Contexto](http://twitter.com/search?q=Contexto) | N/A |
+| 31 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
+| 32 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
+| 33 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 34 | [Igss](http://twitter.com/search?q=Igss) | N/A |
+| 35 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
+| 36 | [jornada 17](http://twitter.com/search?q=jornada+17) | N/A |
+| 37 | [#SS2023](http://twitter.com/search?q=%23SS2023) | N/A |
+| 38 | [conasa](http://twitter.com/search?q=conasa) | N/A |
+| 39 | [xinabajul](http://twitter.com/search?q=xinabajul) | N/A |
+| 40 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 41 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 42 | [#ss23](http://twitter.com/search?q=%23ss23) | N/A |
+| 43 | [Lamentable](http://twitter.com/search?q=Lamentable) | N/A |
+| 44 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
+| 45 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 46 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
+| 47 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 48 | [hueco](http://twitter.com/search?q=hueco) | N/A |
+| 49 | [utaaa compañere](http://twitter.com/search?q=utaaa+compa%c3%b1ere) | N/A |
+| 50 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
 
 
 

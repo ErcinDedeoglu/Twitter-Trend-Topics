@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-04-10 10:18:37 UTC`
+📆 Last Updated: `2023-04-10 11:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Venezuela
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#10Abr](http://twitter.com/search?q=%2310Abr) | N/A |
-| 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 3 | [#9Abr](http://twitter.com/search?q=%239Abr) | N/A |
-| 4 | [#DomingoDeReencuentro](http://twitter.com/search?q=%23DomingoDeReencuentro) | N/A |
-| 5 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 6 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 7 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 8 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
-| 11 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 2 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 3 | [#EsteEsMiPaís](http://twitter.com/search?q=%23EsteEsMiPa%c3%ads) | N/A |
+| 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 5 | [#9Abr](http://twitter.com/search?q=%239Abr) | N/A |
+| 6 | [#saludoplanetario](http://twitter.com/search?q=%23saludoplanetario) | N/A |
+| 7 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 8 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 9 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 11 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
 | 12 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
 | 13 | [Jorge Negrete](http://twitter.com/search?q=Jorge+Negrete) | N/A |
 | 14 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
 | 15 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
 | 16 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
-| 17 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
-| 18 | [Felipe González](http://twitter.com/search?q=Felipe+Gonz%c3%a1lez) | N/A |
-| 19 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 20 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 21 | [Ivonne Attas](http://twitter.com/search?q=Ivonne+Attas) | N/A |
-| 22 | [Eladio Lares](http://twitter.com/search?q=Eladio+Lares) | N/A |
-| 23 | [edecio](http://twitter.com/search?q=edecio) | N/A |
-| 24 | [sábado de gloria](http://twitter.com/search?q=s%c3%a1bado+de+gloria) | N/A |
-| 25 | [Jaime Lusinchi](http://twitter.com/search?q=Jaime+Lusinchi) | N/A |
-| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 27 | [Lacava](http://twitter.com/search?q=Lacava) | N/A |
-| 28 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 29 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 30 | [Papel](http://twitter.com/search?q=Papel) | N/A |
-| 31 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 32 | [Tíbet](http://twitter.com/search?q=T%c3%adbet) | N/A |
-| 33 | [María Félix](http://twitter.com/search?q=Mar%c3%ada+F%c3%a9lix) | N/A |
+| 17 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 18 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 19 | [Eladio Lares](http://twitter.com/search?q=Eladio+Lares) | N/A |
+| 20 | [Ivonne Attas](http://twitter.com/search?q=Ivonne+Attas) | N/A |
+| 21 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
+| 22 | [Felipe González](http://twitter.com/search?q=Felipe+Gonz%c3%a1lez) | N/A |
+| 23 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
+| 24 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 25 | [Edecio](http://twitter.com/search?q=Edecio) | N/A |
+| 26 | [Lacava](http://twitter.com/search?q=Lacava) | N/A |
+| 27 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 28 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 29 | [Papel](http://twitter.com/search?q=Papel) | N/A |
+| 30 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
+| 31 | [Kika](http://twitter.com/search?q=Kika) | N/A |
+| 32 | [Jaime Lusinchi](http://twitter.com/search?q=Jaime+Lusinchi) | N/A |
+| 33 | [Tíbet](http://twitter.com/search?q=T%c3%adbet) | N/A |
 | 34 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 35 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
-| 36 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 37 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
-| 38 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
-| 39 | [tocuyito](http://twitter.com/search?q=tocuyito) | N/A |
+| 35 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
+| 36 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
+| 37 | [María Félix](http://twitter.com/search?q=Mar%c3%ada+F%c3%a9lix) | N/A |
+| 38 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 39 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
 | 40 | [brave yole](http://twitter.com/search?q=brave+yole) | N/A |
-| 41 | [Tom Selleck](http://twitter.com/search?q=Tom+Selleck) | N/A |
-| 42 | [El Bogotazo](http://twitter.com/search?q=El+Bogotazo) | N/A |
+| 41 | [El Bogotazo](http://twitter.com/search?q=El+Bogotazo) | N/A |
+| 42 | [Piñerua](http://twitter.com/search?q=Pi%c3%b1erua) | N/A |
 | 43 | [ramón arias](http://twitter.com/search?q=ram%c3%b3n+arias) | N/A |
-| 44 | [otero](http://twitter.com/search?q=otero) | N/A |
-| 45 | [grecia colmenares](http://twitter.com/search?q=grecia+colmenares) | N/A |
-| 46 | [Piñerua](http://twitter.com/search?q=Pi%c3%b1erua) | N/A |
+| 44 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
+| 45 | [Tocuyito](http://twitter.com/search?q=Tocuyito) | N/A |
+| 46 | [Rómulo Betancourt](http://twitter.com/search?q=R%c3%b3mulo+Betancourt) | N/A |
 | 47 | [Velásquez](http://twitter.com/search?q=Vel%c3%a1squez) | N/A |
-| 48 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
-| 49 | [sobrador](http://twitter.com/search?q=sobrador) | N/A |
-| 50 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 48 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
+| 49 | [Tom Selleck](http://twitter.com/search?q=Tom+Selleck) | N/A |
+| 50 | [América Alonso](http://twitter.com/search?q=Am%c3%a9rica+Alonso) | N/A |
 
 
 

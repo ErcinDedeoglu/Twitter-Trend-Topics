@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Faisalabad
 
-📆 Last Updated: `2023-04-10 10:18:13 UTC`
+📆 Last Updated: `2023-04-10 11:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#امپورٹڈ_حکومت_نامنظور](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%be%d9%88%d8%b1%d9%b9%da%88_%d8%ad%da%a9%d9%88%d9%85%d8%aa_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
-| 2 | [#9thAprilBlackDay](http://twitter.com/search?q=%239thAprilBlackDay) | N/A |
-| 3 | [#قاضی_چوروں_کا_ساتھی](http://twitter.com/search?q=%23%d9%82%d8%a7%d8%b6%db%8c_%da%86%d9%88%d8%b1%d9%88%da%ba_%da%a9%d8%a7_%d8%b3%d8%a7%d8%aa%da%be%db%8c) | N/A |
-| 4 | [#چوروں_کا_ایک_سال](http://twitter.com/search?q=%23%da%86%d9%88%d8%b1%d9%88%da%ba_%da%a9%d8%a7_%d8%a7%db%8c%da%a9_%d8%b3%d8%a7%d9%84) | N/A |
+| 1 | [#قاضی_چوروں_کا_ساتھی](http://twitter.com/search?q=%23%d9%82%d8%a7%d8%b6%db%8c_%da%86%d9%88%d8%b1%d9%88%da%ba_%da%a9%d8%a7_%d8%b3%d8%a7%d8%aa%da%be%db%8c) | N/A |
+| 2 | [#امپورٹڈ_حکومت_نامنظور](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%be%d9%88%d8%b1%d9%b9%da%88_%d8%ad%da%a9%d9%88%d9%85%d8%aa_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
+| 3 | [#9thAprilBlackDay](http://twitter.com/search?q=%239thAprilBlackDay) | N/A |
+| 4 | [#50YearsOfConstitution](http://twitter.com/search?q=%2350YearsOfConstitution) | N/A |
 | 5 | [#فزت_ورب_الكعبه](http://twitter.com/search?q=%23%d9%81%d8%b2%d8%aa_%d9%88%d8%b1%d8%a8_%d8%a7%d9%84%d9%83%d8%b9%d8%a8%d9%87) | N/A |
-| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 7 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
-| 8 | [ousted but not defeated](http://twitter.com/search?q=ousted+but+not+defeated) | N/A |
-| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [Consummate](http://twitter.com/search?q=Consummate) | N/A |
-| 11 | [bol network](http://twitter.com/search?q=bol+network) | N/A |
+| 6 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 8 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
+| 9 | [Ousted But Not Defeated](http://twitter.com/search?q=Ousted+But+Not+Defeated) | N/A |
+| 10 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 11 | [Consummate](http://twitter.com/search?q=Consummate) | N/A |
 | 12 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
-| 13 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 14 | [bol media group](http://twitter.com/search?q=bol+media+group) | N/A |
+| 13 | [bol network](http://twitter.com/search?q=bol+network) | N/A |
+| 14 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
 | 15 | [Iqrar](http://twitter.com/search?q=Iqrar) | N/A |
-| 16 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 16 | [bol media group](http://twitter.com/search?q=bol+media+group) | N/A |
 | 17 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 18 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 19 | [Baluchistan](http://twitter.com/search?q=Baluchistan) | N/A |
-| 20 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
-| 21 | [Ya Ali](http://twitter.com/search?q=Ya+Ali) | N/A |
-| 22 | [Kufa](http://twitter.com/search?q=Kufa) | N/A |
-| 23 | [Abi Talib](http://twitter.com/search?q=Abi+Talib) | N/A |
-| 24 | [Axact](http://twitter.com/search?q=Axact) | N/A |
-| 25 | [commander of faithful](http://twitter.com/search?q=commander+of+faithful) | N/A |
-| 26 | [ameerul momineen](http://twitter.com/search?q=ameerul+momineen) | N/A |
-| 27 | [Armeena](http://twitter.com/search?q=Armeena) | N/A |
-| 28 | [By the Lord of Kaaba](http://twitter.com/search?q=By+the+Lord+of+Kaaba) | N/A |
-| 29 | [By God](http://twitter.com/search?q=By+God) | N/A |
-| 30 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
-| 31 | [Roza](http://twitter.com/search?q=Roza) | N/A |
-| 32 | [Justice Qazi Faez Isa](http://twitter.com/search?q=Justice+Qazi+Faez+Isa) | N/A |
+| 18 | [Baluchistan](http://twitter.com/search?q=Baluchistan) | N/A |
+| 19 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 20 | [Ya Ali](http://twitter.com/search?q=Ya+Ali) | N/A |
+| 21 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 22 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
+| 23 | [Kufa](http://twitter.com/search?q=Kufa) | N/A |
+| 24 | [Abi Talib](http://twitter.com/search?q=Abi+Talib) | N/A |
+| 25 | [Axact](http://twitter.com/search?q=Axact) | N/A |
+| 26 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 27 | [ameerul momineen](http://twitter.com/search?q=ameerul+momineen) | N/A |
+| 28 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 29 | [Armeena](http://twitter.com/search?q=Armeena) | N/A |
+| 30 | [By God](http://twitter.com/search?q=By+God) | N/A |
+| 31 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
+| 32 | [By the Lord of Kaaba](http://twitter.com/search?q=By+the+Lord+of+Kaaba) | N/A |
 | 33 | [Shahid Afridi](http://twitter.com/search?q=Shahid+Afridi) | Shahid Afridi is a Pakistani cricketer who is known for his aggressive batting style and powerful hitting. He is one of the most popular cricketers in the world and has been playing international cricket since 1996. The name "Shahid Afridi" translates to "Hero of Afridi" in English. |
 | 34 | [bol news](http://twitter.com/search?q=bol+news) | N/A |
-| 35 | [Sujood](http://twitter.com/search?q=Sujood) | N/A |
-| 36 | [Haya](http://twitter.com/search?q=Haya) | N/A |
-| 37 | [Hajj](http://twitter.com/search?q=Hajj) | N/A |
-| 38 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 39 | [My Twitter Interaction Circle](http://twitter.com/search?q=My+Twitter+Interaction+Circle) | N/A |
-| 40 | [Epic](http://twitter.com/search?q=Epic) | N/A |
-| 41 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 42 | [Pathans](http://twitter.com/search?q=Pathans) | N/A |
-| 43 | [Chairman](http://twitter.com/search?q=Chairman) | N/A |
-| 44 | [Imran Riaz](http://twitter.com/search?q=Imran+Riaz) | N/A |
-| 45 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
-| 46 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 47 | [Yellow](http://twitter.com/search?q=Yellow) | N/A |
-| 48 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
-| 49 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 50 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
+| 35 | [Hajj](http://twitter.com/search?q=Hajj) | N/A |
+| 36 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 37 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
+| 38 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 39 | [Roza](http://twitter.com/search?q=Roza) | N/A |
+| 40 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 41 | [Pathans](http://twitter.com/search?q=Pathans) | N/A |
+| 42 | [Imran Riaz](http://twitter.com/search?q=Imran+Riaz) | N/A |
+| 43 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
+| 44 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 45 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
+| 46 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 47 | [Babar Azam](http://twitter.com/search?q=Babar+Azam) | N/A |
+| 48 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
+| 49 | [My Twitter Interaction Circle](http://twitter.com/search?q=My+Twitter+Interaction+Circle) | N/A |
+| 50 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 
 
 

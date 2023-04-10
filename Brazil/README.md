@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-04-10 10:18:29 UTC`
+📆 Last Updated: `2023-04-10 11:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for Brazil
 | 12 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
 | 13 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
 | 14 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
-| 15 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 16 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 15 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 16 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
 | 17 | [biel xcamoso](http://twitter.com/search?q=biel+xcamoso) | N/A |
-| 18 | [#FLAxFLU](http://twitter.com/search?q=%23FLAxFLU) | N/A |
-| 19 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 20 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 21 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
-| 22 | [#themaskedsingerbr](http://twitter.com/search?q=%23themaskedsingerbr) | N/A |
+| 18 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 19 | [#FLAxFLU](http://twitter.com/search?q=%23FLAxFLU) | N/A |
+| 20 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
+| 21 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 22 | [Água Santa](http://twitter.com/search?q=%c3%81gua+Santa) | Água Santa is a Portuguese phrase meaning "Holy Water". It is often used to refer to a type of mineral water that is believed to have healing properties. |
 | 23 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
 | 24 | [DAVID LUIZ](http://twitter.com/search?q=DAVID+LUIZ) | N/A |
 | 25 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 26 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
-| 27 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
-| 28 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 29 | [é campeão](http://twitter.com/search?q=%c3%a9+campe%c3%a3o) | N/A |
-| 30 | [inep](http://twitter.com/search?q=inep) | N/A |
-| 31 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 32 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 33 | [BRUNO HENRIQUE](http://twitter.com/search?q=BRUNO+HENRIQUE) | N/A |
-| 34 | [O Fluminense](http://twitter.com/search?q=O+Fluminense) | N/A |
-| 35 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 36 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 37 | [I AM IS OUT NOW](http://twitter.com/search?q=I+AM+IS+OUT+NOW) | N/A |
-| 38 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
-| 39 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 40 | [O VP](http://twitter.com/search?q=O+VP) | N/A |
+| 26 | [gabriel menino](http://twitter.com/search?q=gabriel+menino) | N/A |
+| 27 | [inep](http://twitter.com/search?q=inep) | N/A |
+| 28 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
+| 29 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 30 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 31 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 32 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 33 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 34 | [BRUNO HENRIQUE](http://twitter.com/search?q=BRUNO+HENRIQUE) | N/A |
+| 35 | [O Fluminense](http://twitter.com/search?q=O+Fluminense) | N/A |
+| 36 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 37 | [Bom di4](http://twitter.com/search?q=Bom+di4) | N/A |
+| 38 | [Acordei e o VP](http://twitter.com/search?q=Acordei+e+o+VP) | N/A |
+| 39 | [É CAMPEÃO](http://twitter.com/search?q=%c3%89+CAMPE%c3%83O) | É CAMPEÃO is a Portuguese phrase that translates to "It's a Champion" in English. It is typically used to express joy and excitement when someone or something has achieved a great victory or accomplishment. |
+| 40 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
 | 41 | [The Owl House](http://twitter.com/search?q=The+Owl+House) | N/A |
-| 42 | [THIAGO MAIA](http://twitter.com/search?q=THIAGO+MAIA) | N/A |
-| 43 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 44 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 45 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 46 | [Fluzão](http://twitter.com/search?q=Fluz%c3%a3o) | N/A |
-| 47 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 48 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
-| 49 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
-| 50 | [XURRASCO](http://twitter.com/search?q=XURRASCO) | N/A |
+| 42 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 43 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 44 | [THIAGO MAIA](http://twitter.com/search?q=THIAGO+MAIA) | N/A |
+| 45 | [I AM IS OUT NOW](http://twitter.com/search?q=I+AM+IS+OUT+NOW) | N/A |
+| 46 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 47 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 48 | [Fluzão](http://twitter.com/search?q=Fluz%c3%a3o) | N/A |
+| 49 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 50 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
 
 
 
