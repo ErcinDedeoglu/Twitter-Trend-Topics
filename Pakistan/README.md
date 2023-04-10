@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-04-10 07:18:29 UTC`
+📆 Last Updated: `2023-04-10 08:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Pakistan
 | 5 | [#فُزتُ_وَرَبِّ_الكعبةِ](http://twitter.com/search?q=%23%d9%81%d9%8f%d8%b2%d8%aa%d9%8f_%d9%88%d9%8e%d8%b1%d9%8e%d8%a8%d9%90%d9%91_%d8%a7%d9%84%d9%83%d8%b9%d8%a8%d8%a9%d9%90) | N/A |
 | 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 7 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [OUSTED BUT NOT DEFEATED](http://twitter.com/search?q=OUSTED+BUT+NOT+DEFEATED) | N/A |
+| 8 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 9 | [ousted but not defeated](http://twitter.com/search?q=ousted+but+not+defeated) | N/A |
 | 10 | [Consummate](http://twitter.com/search?q=Consummate) | N/A |
 | 11 | [bol network](http://twitter.com/search?q=bol+network) | N/A |
 | 12 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
 | 13 | [bol media group](http://twitter.com/search?q=bol+media+group) | N/A |
-| 14 | [Iqrar](http://twitter.com/search?q=Iqrar) | N/A |
+| 14 | [iqrar](http://twitter.com/search?q=iqrar) | N/A |
 | 15 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 16 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 17 | [Abi Talib](http://twitter.com/search?q=Abi+Talib) | N/A |
-| 18 | [the battle of badr](http://twitter.com/search?q=the+battle+of+badr) | N/A |
-| 19 | [Ya Ali](http://twitter.com/search?q=Ya+Ali) | N/A |
-| 20 | [Kufa](http://twitter.com/search?q=Kufa) | N/A |
-| 21 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 22 | [Axact](http://twitter.com/search?q=Axact) | N/A |
-| 23 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 24 | [commander of faithful](http://twitter.com/search?q=commander+of+faithful) | N/A |
-| 25 | [ameerul momineen](http://twitter.com/search?q=ameerul+momineen) | N/A |
-| 26 | [By the Lord of Kaaba](http://twitter.com/search?q=By+the+Lord+of+Kaaba) | N/A |
-| 27 | [Sujood](http://twitter.com/search?q=Sujood) | N/A |
-| 28 | [19th of Ramadan](http://twitter.com/search?q=19th+of+Ramadan) | N/A |
-| 29 | [By God](http://twitter.com/search?q=By+God) | N/A |
-| 30 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
-| 31 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 32 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 33 | [Haya](http://twitter.com/search?q=Haya) | N/A |
-| 34 | [Roza](http://twitter.com/search?q=Roza) | N/A |
-| 35 | [FATF](http://twitter.com/search?q=FATF) | N/A |
-| 36 | [Orphans](http://twitter.com/search?q=Orphans) | N/A |
-| 37 | [Source](http://twitter.com/search?q=Source) | N/A |
-| 38 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 16 | [the battle of badr](http://twitter.com/search?q=the+battle+of+badr) | N/A |
+| 17 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 18 | [Ya Ali](http://twitter.com/search?q=Ya+Ali) | N/A |
+| 19 | [Kufa](http://twitter.com/search?q=Kufa) | N/A |
+| 20 | [Abi Talib](http://twitter.com/search?q=Abi+Talib) | N/A |
+| 21 | [Axact](http://twitter.com/search?q=Axact) | N/A |
+| 22 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 23 | [commander of faithful](http://twitter.com/search?q=commander+of+faithful) | N/A |
+| 24 | [ameerul momineen](http://twitter.com/search?q=ameerul+momineen) | N/A |
+| 25 | [By the Lord of Kaaba](http://twitter.com/search?q=By+the+Lord+of+Kaaba) | N/A |
+| 26 | [Armeena](http://twitter.com/search?q=Armeena) | N/A |
+| 27 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
+| 28 | [By God](http://twitter.com/search?q=By+God) | N/A |
+| 29 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 30 | [Sujood](http://twitter.com/search?q=Sujood) | N/A |
+| 31 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
+| 32 | [Haya](http://twitter.com/search?q=Haya) | N/A |
+| 33 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 34 | [FATF](http://twitter.com/search?q=FATF) | N/A |
+| 35 | [Orphans](http://twitter.com/search?q=Orphans) | N/A |
+| 36 | [Epic](http://twitter.com/search?q=Epic) | N/A |
+| 37 | [Roza](http://twitter.com/search?q=Roza) | N/A |
+| 38 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
 | 39 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
 | 40 | [News Headlines](http://twitter.com/search?q=News+Headlines) | N/A |
-| 41 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
-| 42 | [Arshad Shareef](http://twitter.com/search?q=Arshad+Shareef) | N/A |
-| 43 | [Local](http://twitter.com/search?q=Local) | N/A |
-| 44 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
-| 45 | [Generals](http://twitter.com/search?q=Generals) | N/A |
-| 46 | [Bhutto](http://twitter.com/search?q=Bhutto) | N/A |
-| 47 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
-| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 49 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
-| 50 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
+| 41 | [Bhutto](http://twitter.com/search?q=Bhutto) | N/A |
+| 42 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
+| 43 | [Generals](http://twitter.com/search?q=Generals) | N/A |
+| 44 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 45 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
+| 46 | [Shop Now](http://twitter.com/search?q=Shop+Now) | N/A |
+| 47 | [Babar Azam](http://twitter.com/search?q=Babar+Azam) | N/A |
+| 48 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
+| 49 | [Mery](http://twitter.com/search?q=Mery) | N/A |
+| 50 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
 
 
 

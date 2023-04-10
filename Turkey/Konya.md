@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-04-10 07:18:12 UTC`
+📆 Last Updated: `2023-04-10 08:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 2 | [#PolisHaftası](http://twitter.com/search?q=%23PolisHaftas%c4%b1) | N/A |
-| 3 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 4 | [#BaşkaBirÜlkeBulamazsınız](http://twitter.com/search?q=%23Ba%c5%9fkaBir%c3%9clkeBulamazs%c4%b1n%c4%b1z) | N/A |
-| 5 | [OyumSenin BayKemal](http://twitter.com/search?q=OyumSenin+BayKemal) | N/A |
-| 6 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 7 | [Kuruluş Yıl Dönümü](http://twitter.com/search?q=Kurulu%c5%9f+Y%c4%b1l+D%c3%b6n%c3%bcm%c3%bc) | N/A |
-| 8 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
-| 9 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
-| 10 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
-| 11 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
-| 12 | [Bitecek](http://twitter.com/search?q=Bitecek) | N/A |
-| 13 | [SİHA](http://twitter.com/search?q=S%c4%b0HA) | N/A |
-| 14 | [Başarılar](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar) | N/A |
-| 15 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
-| 16 | [TİP'e](http://twitter.com/search?q=T%c4%b0P%27e) | N/A |
-| 17 | [Yumruk](http://twitter.com/search?q=Yumruk) | N/A |
-| 18 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 19 | [Can Atalay](http://twitter.com/search?q=Can+Atalay) | N/A |
-| 20 | [İbrahim Tatlıses](http://twitter.com/search?q=%c4%b0brahim+Tatl%c4%b1ses) | N/A |
-| 21 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
-| 22 | [Yolunuz](http://twitter.com/search?q=Yolunuz) | N/A |
-| 23 | [Aday](http://twitter.com/search?q=Aday) | N/A |
-| 24 | [Ankara 1](http://twitter.com/search?q=Ankara+1) | N/A |
-| 25 | [Özlem](http://twitter.com/search?q=%c3%96zlem) | N/A |
-| 26 | [ERDOĞAN KAZANACAK](http://twitter.com/search?q=ERDO%c4%9eAN+KAZANACAK) | N/A |
-| 27 | [İzmir 1](http://twitter.com/search?q=%c4%b0zmir+1) | N/A |
-| 28 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
-| 29 | [Durmak](http://twitter.com/search?q=Durmak) | N/A |
-| 30 | [Çankaya](http://twitter.com/search?q=%c3%87ankaya) | N/A |
-| 31 | [Tıpış](http://twitter.com/search?q=T%c4%b1p%c4%b1%c5%9f) | N/A |
-| 32 | [Mehmet Ali Çelebi](http://twitter.com/search?q=Mehmet+Ali+%c3%87elebi) | N/A |
+| 1 | [#Pazartesi](http://twitter.com/search?q=%23Pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 2 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 3 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 4 | [OyumSenin BayKemal](http://twitter.com/search?q=OyumSenin+BayKemal) | N/A |
+| 5 | [Kuruluş Yıl Dönümü](http://twitter.com/search?q=Kurulu%c5%9f+Y%c4%b1l+D%c3%b6n%c3%bcm%c3%bc) | N/A |
+| 6 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
+| 7 | [#BaşkaBirÜlkeBulamazsınız](http://twitter.com/search?q=%23Ba%c5%9fkaBir%c3%9clkeBulamazs%c4%b1n%c4%b1z) | N/A |
+| 8 | [#iyihaftalar](http://twitter.com/search?q=%23iyihaftalar) | N/A |
+| 9 | [Turgay](http://twitter.com/search?q=Turgay) | Turgay is a Turkish name derived from the Turkish words "tur" (meaning "strong") and "gay" (meaning "man"). It can be translated to mean "strong man" in English. |
+| 10 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 11 | [Ece Güner](http://twitter.com/search?q=Ece+G%c3%bcner) | N/A |
+| 12 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
+| 13 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 14 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 15 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
+| 16 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
+| 17 | [Kolin](http://twitter.com/search?q=Kolin) | N/A |
+| 18 | [Başarılar](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar) | N/A |
+| 19 | [SİHA](http://twitter.com/search?q=S%c4%b0HA) | N/A |
+| 20 | [Bitecek](http://twitter.com/search?q=Bitecek) | N/A |
+| 21 | [Yolunuz](http://twitter.com/search?q=Yolunuz) | N/A |
+| 22 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 23 | [TİP'e](http://twitter.com/search?q=T%c4%b0P%27e) | N/A |
+| 24 | [İbrahim Tatlıses](http://twitter.com/search?q=%c4%b0brahim+Tatl%c4%b1ses) | N/A |
+| 25 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
+| 26 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
+| 27 | [Can Atalay](http://twitter.com/search?q=Can+Atalay) | N/A |
+| 28 | [Yumruk](http://twitter.com/search?q=Yumruk) | N/A |
+| 29 | [Sezen Aksu](http://twitter.com/search?q=Sezen+Aksu) | N/A |
+| 30 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
+| 31 | [Aday](http://twitter.com/search?q=Aday) | N/A |
+| 32 | [Özlem](http://twitter.com/search?q=%c3%96zlem) | N/A |
 | 33 | [Bölge 1](http://twitter.com/search?q=B%c3%b6lge+1) | N/A |
-| 34 | [Sezen Aksu](http://twitter.com/search?q=Sezen+Aksu) | N/A |
-| 35 | [İstanbul 2](http://twitter.com/search?q=%c4%b0stanbul+2) | N/A |
-| 36 | [Vekilim](http://twitter.com/search?q=Vekilim) | N/A |
-| 37 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
-| 38 | [#iyihaftalar](http://twitter.com/search?q=%23iyihaftalar) | N/A |
-| 39 | [#StajLoading](http://twitter.com/search?q=%23StajLoading) | N/A |
-| 40 | [#ŞimdiSıraSizde](http://twitter.com/search?q=%23%c5%9eimdiS%c4%b1raSizde) | N/A |
-| 41 | [#gunaydin](http://twitter.com/search?q=%23gunaydin) | N/A |
-| 42 | [#StajyerMüjdeyiBekliyor](http://twitter.com/search?q=%23StajyerM%c3%bcjdeyiBekliyor) | N/A |
-| 43 | [#SelahattinDemirtas](http://twitter.com/search?q=%23SelahattinDemirtas) | N/A |
-| 44 | [#mutluhaftalar](http://twitter.com/search?q=%23mutluhaftalar) | N/A |
-| 45 | [#BambaşkaDünyalar](http://twitter.com/search?q=%23Bamba%c5%9fkaD%c3%bcnyalar) | N/A |
-| 46 | [#TipSeninMeclisSenin](http://twitter.com/search?q=%23TipSeninMeclisSenin) | N/A |
-| 47 | [#Savcı](http://twitter.com/search?q=%23Savc%c4%b1) | N/A |
-| 48 | [#MemurunCebindeYangınVar](http://twitter.com/search?q=%23MemurunCebindeYang%c4%b1nVar) | N/A |
+| 34 | [Tıpış](http://twitter.com/search?q=T%c4%b1p%c4%b1%c5%9f) | N/A |
+| 35 | [İzmir 1](http://twitter.com/search?q=%c4%b0zmir+1) | N/A |
+| 36 | [İttifak](http://twitter.com/search?q=%c4%b0ttifak) | N/A |
+| 37 | [ERDOĞAN KAZANACAK](http://twitter.com/search?q=ERDO%c4%9eAN+KAZANACAK) | N/A |
+| 38 | [Ankara 1](http://twitter.com/search?q=Ankara+1) | N/A |
+| 39 | [İstanbul 2](http://twitter.com/search?q=%c4%b0stanbul+2) | N/A |
+| 40 | [Durmak](http://twitter.com/search?q=Durmak) | N/A |
+| 41 | [Mehmet Ali Çelebi](http://twitter.com/search?q=Mehmet+Ali+%c3%87elebi) | N/A |
+| 42 | [Çankaya](http://twitter.com/search?q=%c3%87ankaya) | N/A |
+| 43 | [Meclise](http://twitter.com/search?q=Meclise) | N/A |
+| 44 | [Giresun](http://twitter.com/search?q=Giresun) | Giresun is a province in the Black Sea region of Turkey. Its name in English translates to "Sunny Place". |
+| 45 | [Vekilim](http://twitter.com/search?q=Vekilim) | N/A |
+| 46 | [#StajLoading](http://twitter.com/search?q=%23StajLoading) | N/A |
+| 47 | [#FevziÇakmak](http://twitter.com/search?q=%23Fevzi%c3%87akmak) | N/A |
+| 48 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
+| 49 | [#ŞimdiSıraSizde](http://twitter.com/search?q=%23%c5%9eimdiS%c4%b1raSizde) | N/A |
 
 
 

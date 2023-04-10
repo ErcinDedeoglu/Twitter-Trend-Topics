@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-10 07:18:29 UTC`
+📆 Last Updated: `2023-04-10 08:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,11 +19,11 @@ This is top 50 for Panama
 | 2 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 3 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
 | 4 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
-| 5 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 5 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
 | 6 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 7 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 8 | [marta cox](http://twitter.com/search?q=marta+cox) | N/A |
-| 9 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 7 | [marta cox](http://twitter.com/search?q=marta+cox) | N/A |
+| 8 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 9 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 10 | [rommel fernández](http://twitter.com/search?q=rommel+fern%c3%a1ndez) | N/A |
 | 11 | [Fede](http://twitter.com/search?q=Fede) | N/A |
 | 12 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
@@ -41,30 +41,30 @@ This is top 50 for Panama
 | 24 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 25 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
 | 26 | [#EEUU](http://twitter.com/search?q=%23EEUU) | N/A |
-| 27 | [David](http://twitter.com/search?q=David) | N/A |
-| 28 | [#Rusia](http://twitter.com/search?q=%23Rusia) | N/A |
-| 29 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
-| 30 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 31 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 32 | [Antón](http://twitter.com/search?q=Ant%c3%b3n) | N/A |
-| 33 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 34 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 35 | [Motta](http://twitter.com/search?q=Motta) | N/A |
-| 36 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 37 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 38 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 39 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
+| 27 | [#Rusia](http://twitter.com/search?q=%23Rusia) | N/A |
+| 28 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
+| 29 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 30 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 31 | [Antón](http://twitter.com/search?q=Ant%c3%b3n) | N/A |
+| 32 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 33 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 34 | [Motta](http://twitter.com/search?q=Motta) | N/A |
+| 35 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 36 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 37 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 38 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
+| 39 | [$0.01 ETH](http://twitter.com/search?q=%240.01+ETH) | N/A |
 | 40 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
 | 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 42 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 43 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 42 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 44 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
 | 45 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 | 46 | [Biblia](http://twitter.com/search?q=Biblia) | N/A |
-| 47 | [Chitré](http://twitter.com/search?q=Chitr%c3%a9) | N/A |
-| 48 | [$0.01 ETH](http://twitter.com/search?q=%240.01+ETH) | N/A |
-| 49 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 50 | [la espiga](http://twitter.com/search?q=la+espiga) | N/A |
+| 47 | [chitré](http://twitter.com/search?q=chitr%c3%a9) | N/A |
+| 48 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 49 | [la espiga](http://twitter.com/search?q=la+espiga) | N/A |
+| 50 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 
 
 

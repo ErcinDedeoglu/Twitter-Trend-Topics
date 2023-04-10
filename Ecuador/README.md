@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-04-10 07:18:25 UTC`
+📆 Last Updated: `2023-04-10 08:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,15 +33,15 @@ This is top 50 for Ecuador
 | 16 | [García](http://twitter.com/search?q=Garc%c3%ada) | N/A |
 | 17 | [Neme](http://twitter.com/search?q=Neme) | N/A |
 | 18 | [parrales](http://twitter.com/search?q=parrales) | N/A |
-| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 20 | [Gonzalo Pozo Ripalda](http://twitter.com/search?q=Gonzalo+Pozo+Ripalda) | N/A |
-| 21 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 22 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
-| 23 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
-| 24 | [González](http://twitter.com/search?q=Gonz%c3%a1lez) | N/A |
+| 19 | [gonzalo pozo ripalda](http://twitter.com/search?q=gonzalo+pozo+ripalda) | N/A |
+| 20 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 21 | [bauman](http://twitter.com/search?q=bauman) | N/A |
+| 22 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
+| 23 | [González](http://twitter.com/search?q=Gonz%c3%a1lez) | N/A |
+| 24 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 25 | [alejandro cabeza](http://twitter.com/search?q=alejandro+cabeza) | N/A |
 | 26 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 27 | [Cabezas](http://twitter.com/search?q=Cabezas) | Cabezas is a Spanish word meaning "heads". It can refer to the heads of people, animals, or objects. It can also be used figuratively to refer to a leader or someone in charge. |
+| 27 | [cabezas](http://twitter.com/search?q=cabezas) | N/A |
 | 28 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
 | 29 | [fecha 5](http://twitter.com/search?q=fecha+5) | N/A |
 | 30 | [Napa](http://twitter.com/search?q=Napa) | N/A |
@@ -56,7 +56,7 @@ This is top 50 for Ecuador
 | 39 | [vamos liga](http://twitter.com/search?q=vamos+liga) | N/A |
 | 40 | [melfi nominado x heat](http://twitter.com/search?q=melfi+nominado+x+heat) | N/A |
 | 41 | [Fara](http://twitter.com/search?q=Fara) | N/A |
-| 42 | [Liga de Quito](http://twitter.com/search?q=Liga+de+Quito) | N/A |
+| 42 | [liga de quito](http://twitter.com/search?q=liga+de+quito) | N/A |
 | 43 | [bombillo](http://twitter.com/search?q=bombillo) | N/A |
 | 44 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 45 | [bagner delgado](http://twitter.com/search?q=bagner+delgado) | N/A |

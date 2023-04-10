@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-04-10 07:17:28 UTC`
+📆 Last Updated: `2023-04-10 08:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 2 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
 | 3 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 4 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 6 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 7 | [#fortheloveofpaulogrady](http://twitter.com/search?q=%23fortheloveofpaulogrady) | N/A |
-| 8 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 9 | [Daily Quordle 441](http://twitter.com/search?q=Daily+Quordle+441) | N/A |
-| 10 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 11 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 12 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 13 | [#wildflowerhour](http://twitter.com/search?q=%23wildflowerhour) | N/A |
-| 14 | [Bank Holiday Monday](http://twitter.com/search?q=Bank+Holiday+Monday) | N/A |
-| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 16 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 6 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 7 | [Bank Holiday Monday](http://twitter.com/search?q=Bank+Holiday+Monday) | N/A |
+| 8 | [#fortheloveofpaulogrady](http://twitter.com/search?q=%23fortheloveofpaulogrady) | N/A |
+| 9 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 11 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 12 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 13 | [#Coronation](http://twitter.com/search?q=%23Coronation) | N/A |
+| 14 | [Daily Quordle 441](http://twitter.com/search?q=Daily+Quordle+441) | N/A |
+| 15 | [Emily Thornberry](http://twitter.com/search?q=Emily+Thornberry) | N/A |
+| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 17 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 19 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
-| 20 | [Emily Thornberry](http://twitter.com/search?q=Emily+Thornberry) | N/A |
-| 21 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
-| 22 | [Seve](http://twitter.com/search?q=Seve) | N/A |
-| 23 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
-| 24 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
-| 25 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 26 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 27 | [Morelos](http://twitter.com/search?q=Morelos) | Morelos is a state in Mexico. Its name comes from José María Morelos y Pavón, a Mexican revolutionary leader who fought for independence from Spain in the early 19th century. In English, Morelos means "of Morelos". |
-| 28 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 29 | [Mickelson](http://twitter.com/search?q=Mickelson) | N/A |
-| 30 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 31 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 18 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 19 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 20 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
+| 21 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 22 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
+| 23 | [PGMOL](http://twitter.com/search?q=PGMOL) | N/A |
+| 24 | [Seve](http://twitter.com/search?q=Seve) | N/A |
+| 25 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 26 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 27 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 28 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 29 | [Wren](http://twitter.com/search?q=Wren) | N/A |
+| 30 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 31 | [Mickelson](http://twitter.com/search?q=Mickelson) | N/A |
 | 32 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 33 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 34 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 35 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 36 | [Cantlay](http://twitter.com/search?q=Cantlay) | N/A |
-| 37 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 38 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
-| 39 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 40 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 41 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
-| 42 | [Wordle 659 X](http://twitter.com/search?q=Wordle+659+X) | N/A |
-| 43 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 44 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
-| 45 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 46 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 47 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 48 | [TOH SPOILERS](http://twitter.com/search?q=TOH+SPOILERS) | TOH SPOILERS is an acronym for "The Office Hours Spoilers," which refers to the unofficial spoilers and news about upcoming episodes of the popular American television show The Office. It is used by fans of the show to discuss potential plot points and other information related to upcoming episodes. |
-| 49 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 50 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 34 | [Cantlay](http://twitter.com/search?q=Cantlay) | N/A |
+| 35 | [Spieth](http://twitter.com/search?q=Spieth) | N/A |
+| 36 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 37 | [Morelos](http://twitter.com/search?q=Morelos) | Morelos is a state in Mexico. Its name comes from José María Morelos y Pavón, a Mexican revolutionary leader who fought for independence from Spain in the early 19th century. In English, Morelos means "of Morelos". |
+| 38 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 39 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 40 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
+| 41 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 42 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 43 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 44 | [Howard Webb](http://twitter.com/search?q=Howard+Webb) | Howard Webb is a retired English professional football referee who officiated in the Premier League, Football League, FA Cup, League Cup, UEFA Champions League and FIFA World Cup. He is widely regarded as one of the best referees of his generation. |
+| 45 | [Wordle 659 X](http://twitter.com/search?q=Wordle+659+X) | N/A |
+| 46 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
+| 47 | [Clancy](http://twitter.com/search?q=Clancy) | N/A |
+| 48 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 49 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
+| 50 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
 
 
 

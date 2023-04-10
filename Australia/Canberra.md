@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-10 07:17:50 UTC`
+📆 Last Updated: `2023-04-10 08:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#AFLCatsHawks](http://twitter.com/search?q=%23AFLCatsHawks) | N/A |
 | 2 | [#NRLTigersEels](http://twitter.com/search?q=%23NRLTigersEels) | N/A |
 | 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 5 | [Jeremy Cameron](http://twitter.com/search?q=Jeremy+Cameron) | N/A |
-| 6 | [#mvcvper](http://twitter.com/search?q=%23mvcvper) | N/A |
-| 7 | [#AFLDonsGiants](http://twitter.com/search?q=%23AFLDonsGiants) | N/A |
-| 8 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
-| 9 | [Will Day](http://twitter.com/search?q=Will+Day) | N/A |
-| 10 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 11 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 12 | [Gary Rohan](http://twitter.com/search?q=Gary+Rohan) | N/A |
-| 13 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 14 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 15 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 16 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 18 | [Sheens](http://twitter.com/search?q=Sheens) | N/A |
-| 19 | [Ollie Henry](http://twitter.com/search?q=Ollie+Henry) | N/A |
-| 20 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 21 | [Harley Reid](http://twitter.com/search?q=Harley+Reid) | N/A |
-| 22 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
-| 23 | [Jezza](http://twitter.com/search?q=Jezza) | N/A |
-| 24 | [Debunking 10](http://twitter.com/search?q=Debunking+10) | N/A |
-| 25 | [Fever](http://twitter.com/search?q=Fever) | N/A |
-| 26 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 27 | [Dangerfield](http://twitter.com/search?q=Dangerfield) | N/A |
-| 28 | [Luke Brooks](http://twitter.com/search?q=Luke+Brooks) | N/A |
-| 29 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
-| 30 | [Soldo](http://twitter.com/search?q=Soldo) | N/A |
-| 31 | [Keath](http://twitter.com/search?q=Keath) | N/A |
-| 32 | [Adam Goodes](http://twitter.com/search?q=Adam+Goodes) | N/A |
-| 33 | [Happy Birthday Katy](http://twitter.com/search?q=Happy+Birthday+Katy) | N/A |
-| 34 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 35 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 36 | [Mark Carroll](http://twitter.com/search?q=Mark+Carroll) | N/A |
-| 37 | [Warwick Farm](http://twitter.com/search?q=Warwick+Farm) | N/A |
-| 38 | [Richo](http://twitter.com/search?q=Richo) | N/A |
-| 39 | [vale bruce haigh](http://twitter.com/search?q=vale+bruce+haigh) | N/A |
-| 40 | [Nank](http://twitter.com/search?q=Nank) | N/A |
-| 41 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 42 | [Ben Hunt](http://twitter.com/search?q=Ben+Hunt) | N/A |
-| 43 | [Dame Edna](http://twitter.com/search?q=Dame+Edna) | N/A |
-| 44 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
-| 45 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 46 | [Edge](http://twitter.com/search?q=Edge) | N/A |
-| 47 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 48 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 49 | [Murdoch Press](http://twitter.com/search?q=Murdoch+Press) | N/A |
+| 4 | [Jeremy Cameron](http://twitter.com/search?q=Jeremy+Cameron) | N/A |
+| 5 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
+| 6 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
+| 7 | [#mvcvper](http://twitter.com/search?q=%23mvcvper) | N/A |
+| 8 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 9 | [#afldonsgiants](http://twitter.com/search?q=%23afldonsgiants) | N/A |
+| 10 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 11 | [Jezza](http://twitter.com/search?q=Jezza) | N/A |
+| 12 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
+| 13 | [Staines](http://twitter.com/search?q=Staines) | N/A |
+| 14 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 15 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 16 | [Harley Reid](http://twitter.com/search?q=Harley+Reid) | N/A |
+| 17 | [Ollie Henry](http://twitter.com/search?q=Ollie+Henry) | N/A |
+| 18 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 19 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 20 | [Sicily](http://twitter.com/search?q=Sicily) | N/A |
+| 21 | [Doueihi](http://twitter.com/search?q=Doueihi) | N/A |
+| 22 | [Gary Rohan](http://twitter.com/search?q=Gary+Rohan) | N/A |
+| 23 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 24 | [Will Day](http://twitter.com/search?q=Will+Day) | N/A |
+| 25 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
+| 26 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
+| 27 | [Bill of Rights](http://twitter.com/search?q=Bill+of+Rights) | N/A |
+| 28 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
+| 29 | [Debunking 10](http://twitter.com/search?q=Debunking+10) | N/A |
+| 30 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
+| 31 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
+| 32 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 33 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 34 | [Keath](http://twitter.com/search?q=Keath) | N/A |
+| 35 | [Happy Birthday Katy](http://twitter.com/search?q=Happy+Birthday+Katy) | N/A |
+| 36 | [Dangerfield](http://twitter.com/search?q=Dangerfield) | N/A |
+| 37 | [Sheens](http://twitter.com/search?q=Sheens) | N/A |
+| 38 | [Warwick Farm](http://twitter.com/search?q=Warwick+Farm) | N/A |
+| 39 | [Richo](http://twitter.com/search?q=Richo) | N/A |
+| 40 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 41 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 42 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 43 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 44 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 45 | [Adam Goodes](http://twitter.com/search?q=Adam+Goodes) | N/A |
+| 46 | [Oakbank](http://twitter.com/search?q=Oakbank) | N/A |
+| 47 | [Murdoch Press](http://twitter.com/search?q=Murdoch+Press) | N/A |
+| 48 | [Fever](http://twitter.com/search?q=Fever) | N/A |
+| 49 | [Aries](http://twitter.com/search?q=Aries) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-04-10 07:17:36 UTC`
+📆 Last Updated: `2023-04-10 08:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,30 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
-| 2 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 3 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
+| 2 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
+| 3 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
 | 4 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
 | 5 | [Succession](http://twitter.com/search?q=Succession) | N/A |
 | 6 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
-| 7 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
-| 8 | [inep](http://twitter.com/search?q=inep) | N/A |
-| 9 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 10 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
-| 11 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
-| 12 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 13 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
-| 14 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 15 | [xurrasco](http://twitter.com/search?q=xurrasco) | N/A |
-| 16 | [Fantástico](http://twitter.com/search?q=Fant%c3%a1stico) | N/A |
-| 17 | [bogum](http://twitter.com/search?q=bogum) | N/A |
-| 18 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
-| 19 | [ELIMINAR](http://twitter.com/search?q=ELIMINAR) | N/A |
-| 20 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
-| 21 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 22 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 23 | [COM FORÇA](http://twitter.com/search?q=COM+FOR%c3%87A) | N/A |
-| 24 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 25 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 26 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
-| 27 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 28 | [Expulso](http://twitter.com/search?q=Expulso) | N/A |
-| 29 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 30 | [Dinâmica](http://twitter.com/search?q=Din%c3%a2mica) | N/A |
-| 31 | [#ForaAmanda](http://twitter.com/search?q=%23ForaAmanda) | N/A |
-| 32 | [Eliminado](http://twitter.com/search?q=Eliminado) | N/A |
-| 33 | [nora](http://twitter.com/search?q=nora) | N/A |
-| 34 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
-| 35 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 36 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 37 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 38 | [Bruneca](http://twitter.com/search?q=Bruneca) | N/A |
-| 39 | [Brumanda](http://twitter.com/search?q=Brumanda) | N/A |
-| 40 | [Impurity Test](http://twitter.com/search?q=Impurity+Test) | N/A |
-| 41 | [Yaiba](http://twitter.com/search?q=Yaiba) | N/A |
-| 42 | [bela adormecida](http://twitter.com/search?q=bela+adormecida) | N/A |
-| 43 | [Lisca](http://twitter.com/search?q=Lisca) | N/A |
-| 44 | [Tudo NORMAL](http://twitter.com/search?q=Tudo+NORMAL) | N/A |
+| 7 | [inep](http://twitter.com/search?q=inep) | N/A |
+| 8 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 9 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 10 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
+| 11 | [#FicaFred](http://twitter.com/search?q=%23FicaFred) | N/A |
+| 12 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
+| 13 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 14 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
+| 15 | [Fantástico](http://twitter.com/search?q=Fant%c3%a1stico) | N/A |
+| 16 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
+| 17 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 18 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 19 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
+| 20 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 21 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 22 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 23 | [Nora](http://twitter.com/search?q=Nora) | N/A |
+| 24 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
+| 25 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-10 07:18:26 UTC`
+📆 Last Updated: `2023-04-10 08:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,9 +33,9 @@ This is top 50 for Guatemala
 | 16 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
 | 17 | [Biza](http://twitter.com/search?q=Biza) | Biza is a slang term used in Spanish to refer to money. In English, it can be translated as "cash" or "dough". |
 | 18 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 19 | [duko](http://twitter.com/search?q=duko) | N/A |
-| 20 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
-| 21 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 19 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 20 | [duko](http://twitter.com/search?q=duko) | N/A |
+| 21 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
 | 22 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
 | 23 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
 | 24 | [Prince Royce](http://twitter.com/search?q=Prince+Royce) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for Guatemala
 | 35 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
 | 36 | [igss](http://twitter.com/search?q=igss) | N/A |
 | 37 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
-| 38 | [Diosito](http://twitter.com/search?q=Diosito) | N/A |
-| 39 | [jornada 17](http://twitter.com/search?q=jornada+17) | N/A |
-| 40 | [#SS2023](http://twitter.com/search?q=%23SS2023) | N/A |
+| 38 | [jornada 17](http://twitter.com/search?q=jornada+17) | N/A |
+| 39 | [#SS2023](http://twitter.com/search?q=%23SS2023) | N/A |
+| 40 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
 | 41 | [CONASA](http://twitter.com/search?q=CONASA) | N/A |
 | 42 | [xinabajul](http://twitter.com/search?q=xinabajul) | N/A |
 | 43 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 44 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 45 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 44 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 45 | [#SS23](http://twitter.com/search?q=%23SS23) | N/A |
 | 46 | [Lamentable](http://twitter.com/search?q=Lamentable) | N/A |
 | 47 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
 | 48 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
 | 49 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 50 | [#SS23](http://twitter.com/search?q=%23SS23) | N/A |
+| 50 | [hueco](http://twitter.com/search?q=hueco) | N/A |
 
 
 
