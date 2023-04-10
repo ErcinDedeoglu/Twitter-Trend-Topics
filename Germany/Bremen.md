@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-04-09 23:17:23 UTC`
+📆 Last Updated: `2023-04-10 00:29:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 2 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [#TSGS04](http://twitter.com/search?q=%23TSGS04) | N/A |
-| 5 | [#BOCVfB](http://twitter.com/search?q=%23BOCVfB) | N/A |
-| 6 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
-| 7 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 8 | [#Traumschiff](http://twitter.com/search?q=%23Traumschiff) | N/A |
-| 9 | [Eier](http://twitter.com/search?q=Eier) | N/A |
-| 10 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
-| 11 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
-| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 13 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 14 | [Woosung](http://twitter.com/search?q=Woosung) | N/A |
-| 15 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 16 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 3 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
+| 4 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 5 | [#MaskedSinger](http://twitter.com/search?q=%23MaskedSinger) | N/A |
+| 6 | [#Traumschiff](http://twitter.com/search?q=%23Traumschiff) | N/A |
+| 7 | [#GronkhTV](http://twitter.com/search?q=%23GronkhTV) | N/A |
+| 8 | [Eier](http://twitter.com/search?q=Eier) | N/A |
+| 9 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 10 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 11 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
+| 12 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 13 | [totales durcheinander](http://twitter.com/search?q=totales+durcheinander) | N/A |
+| 14 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 15 | [ostersamstag](http://twitter.com/search?q=ostersamstag) | N/A |
+| 16 | [Jenz](http://twitter.com/search?q=Jenz) | N/A |
 | 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 18 | [Jenz](http://twitter.com/search?q=Jenz) | N/A |
-| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 20 | [Millot](http://twitter.com/search?q=Millot) | N/A |
-| 21 | [Totales Durcheinander](http://twitter.com/search?q=Totales+Durcheinander) | N/A |
-| 22 | [Alice Schwarzer](http://twitter.com/search?q=Alice+Schwarzer) | N/A |
-| 23 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 24 | [Ostergrüße](http://twitter.com/search?q=Ostergr%c3%bc%c3%9fe) | N/A |
-| 25 | [Riemann](http://twitter.com/search?q=Riemann) | N/A |
-| 26 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 27 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 28 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 29 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 30 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 31 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 32 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 33 | [Life Goes On](http://twitter.com/search?q=Life+Goes+On) | N/A |
-| 34 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 35 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 36 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 37 | [Auswärtssieg](http://twitter.com/search?q=Ausw%c3%a4rtssieg) | N/A |
-| 38 | [Morla](http://twitter.com/search?q=Morla) | N/A |
-| 39 | [Tod Israel](http://twitter.com/search?q=Tod+Israel) | N/A |
-| 40 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 41 | [Großbrand](http://twitter.com/search?q=Gro%c3%9fbrand) | N/A |
-| 42 | [Ben Hur](http://twitter.com/search?q=Ben+Hur) | N/A |
-| 43 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
-| 44 | [Özil](http://twitter.com/search?q=%c3%96zil) | N/A |
-| 45 | [Sinsheim](http://twitter.com/search?q=Sinsheim) | N/A |
-| 46 | [Corinna Harfouch](http://twitter.com/search?q=Corinna+Harfouch) | N/A |
-| 47 | [Häschen](http://twitter.com/search?q=H%c3%a4schen) | N/A |
-| 48 | [Heimspiel](http://twitter.com/search?q=Heimspiel) | N/A |
-| 49 | [Neubeginn](http://twitter.com/search?q=Neubeginn) | N/A |
+| 18 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 19 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 20 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 21 | [Özil](http://twitter.com/search?q=%c3%96zil) | N/A |
+| 22 | [Karfreitag](http://twitter.com/search?q=Karfreitag) | N/A |
+| 23 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 24 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 25 | [Ostergrüße](http://twitter.com/search?q=Ostergr%c3%bc%c3%9fe) | N/A |
+| 26 | [Düsseldorf](http://twitter.com/search?q=D%c3%bcsseldorf) | N/A |
+| 27 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 28 | [Alice Schwarzer](http://twitter.com/search?q=Alice+Schwarzer) | N/A |
+| 29 | [Demonstration](http://twitter.com/search?q=Demonstration) | N/A |
+| 30 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 31 | [rauchwolke](http://twitter.com/search?q=rauchwolke) | N/A |
+| 32 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 33 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 34 | [Bruder](http://twitter.com/search?q=Bruder) | N/A |
+| 35 | [Karsamstag](http://twitter.com/search?q=Karsamstag) | N/A |
+| 36 | [dir und deinen lieben](http://twitter.com/search?q=dir+und+deinen+lieben) | N/A |
+| 37 | [Gleichfalls](http://twitter.com/search?q=Gleichfalls) | N/A |
+| 38 | [Staatsfeinde](http://twitter.com/search?q=Staatsfeinde) | N/A |
+| 39 | [Auswärtssieg](http://twitter.com/search?q=Ausw%c3%a4rtssieg) | N/A |
+| 40 | [Großbrand](http://twitter.com/search?q=Gro%c3%9fbrand) | N/A |
+| 41 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
+| 42 | [Restprogramm](http://twitter.com/search?q=Restprogramm) | N/A |
+| 43 | [Joker](http://twitter.com/search?q=Joker) | N/A |
+| 44 | [Corinna Harfouch](http://twitter.com/search?q=Corinna+Harfouch) | N/A |
+| 45 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
+| 46 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 47 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
+| 48 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 49 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
 
 
 

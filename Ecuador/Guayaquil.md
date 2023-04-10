@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-04-09 23:17:17 UTC`
+📆 Last Updated: `2023-04-10 00:29:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Guayaquil City](http://twitter.com/search?q=Guayaquil+City) | N/A |
-| 2 | [Zubeldia](http://twitter.com/search?q=Zubeldia) | N/A |
-| 3 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 4 | [Liga de Quito](http://twitter.com/search?q=Liga+de+Quito) | N/A |
+| 1 | [Zubeldía](http://twitter.com/search?q=Zubeld%c3%ada) | N/A |
+| 2 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
+| 3 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 4 | [Guayaquil City](http://twitter.com/search?q=Guayaquil+City) | N/A |
 | 5 | [González](http://twitter.com/search?q=Gonz%c3%a1lez) | N/A |
-| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [Piovi](http://twitter.com/search?q=Piovi) | Piovi is an Italian word that means "to rain". It is used to describe the sound of rain falling. |
-| 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 9 | [Briz Sánchez](http://twitter.com/search?q=Briz+S%c3%a1nchez) | N/A |
-| 10 | [Nebot](http://twitter.com/search?q=Nebot) | N/A |
-| 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 12 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 13 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 14 | [Anangono](http://twitter.com/search?q=Anangono) | N/A |
-| 15 | [Klebinho](http://twitter.com/search?q=Klebinho) | N/A |
-| 16 | [Alzugaray](http://twitter.com/search?q=Alzugaray) | N/A |
-| 17 | [Vamos Liga](http://twitter.com/search?q=Vamos+Liga) | N/A |
-| 18 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 19 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 20 | [Miguel Parrales](http://twitter.com/search?q=Miguel+Parrales) | N/A |
-| 21 | [#LDUQ](http://twitter.com/search?q=%23LDUQ) | N/A |
-| 22 | [Marcos Caicedo](http://twitter.com/search?q=Marcos+Caicedo) | N/A |
-| 23 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 24 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 25 | [#LigaPro](http://twitter.com/search?q=%23LigaPro) | N/A |
-| 26 | [#MushucRuna](http://twitter.com/search?q=%23MushucRuna) | N/A |
-| 27 | [MELFI NOMINADO X HEAT](http://twitter.com/search?q=MELFI+NOMINADO+X+HEAT) | N/A |
-| 28 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 29 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 30 | [Chucho Benítez](http://twitter.com/search?q=Chucho+Ben%c3%adtez) | N/A |
-| 31 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 32 | [Christian Benítez](http://twitter.com/search?q=Christian+Ben%c3%adtez) | N/A |
-| 33 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
-| 34 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 35 | [Gonzalo Pozo Ripalda](http://twitter.com/search?q=Gonzalo+Pozo+Ripalda) | N/A |
-| 36 | [Parque Samanes](http://twitter.com/search?q=Parque+Samanes) | N/A |
-| 37 | [marcelo moreno martins](http://twitter.com/search?q=marcelo+moreno+martins) | N/A |
-| 38 | [jorge andrade cantos](http://twitter.com/search?q=jorge+andrade+cantos) | N/A |
+| 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 7 | [Otero](http://twitter.com/search?q=Otero) | N/A |
+| 8 | [Cevallos](http://twitter.com/search?q=Cevallos) | N/A |
+| 9 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 10 | [Alberti](http://twitter.com/search?q=Alberti) | N/A |
+| 11 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
+| 12 | [Alejandro Cabeza](http://twitter.com/search?q=Alejandro+Cabeza) | N/A |
+| 13 | [Liga de Quito](http://twitter.com/search?q=Liga+de+Quito) | N/A |
+| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 15 | [Pedro Ortiz](http://twitter.com/search?q=Pedro+Ortiz) | N/A |
+| 16 | [Anangono](http://twitter.com/search?q=Anangono) | N/A |
+| 17 | [Piovi](http://twitter.com/search?q=Piovi) | Piovi is an Italian word that means "to rain". It is used to describe the sound of rain falling. |
+| 18 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
+| 19 | [Gonzalo Pozo Ripalda](http://twitter.com/search?q=Gonzalo+Pozo+Ripalda) | N/A |
+| 20 | [Fara](http://twitter.com/search?q=Fara) | N/A |
+| 21 | [Cabezas](http://twitter.com/search?q=Cabezas) | Cabezas is a Spanish word meaning "heads". It can refer to the heads of people, animals, or objects. It can also be used figuratively to refer to a leader or someone in charge. |
+| 22 | [Vamos Liga](http://twitter.com/search?q=Vamos+Liga) | N/A |
+| 23 | [Romario Caicedo](http://twitter.com/search?q=Romario+Caicedo) | N/A |
+| 24 | [Alzugaray](http://twitter.com/search?q=Alzugaray) | N/A |
+| 25 | [Choclo](http://twitter.com/search?q=Choclo) | N/A |
+| 26 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 27 | [Nebot](http://twitter.com/search?q=Nebot) | N/A |
+| 28 | [Parrales](http://twitter.com/search?q=Parrales) | N/A |
+| 29 | [#LigaPro](http://twitter.com/search?q=%23LigaPro) | N/A |
+| 30 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 31 | [Napa](http://twitter.com/search?q=Napa) | N/A |
+| 32 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 33 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
+| 34 | [García](http://twitter.com/search?q=Garc%c3%ada) | N/A |
+| 35 | [#LDUQ](http://twitter.com/search?q=%23LDUQ) | N/A |
+| 36 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 37 | [Mushuc Runa](http://twitter.com/search?q=Mushuc+Runa) | N/A |
+| 38 | [#elnacional](http://twitter.com/search?q=%23elnacional) | N/A |
 | 39 | [Fecha 5](http://twitter.com/search?q=Fecha+5) | N/A |
-| 40 | [Gye City](http://twitter.com/search?q=Gye+City) | N/A |
-| 41 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 42 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 43 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 44 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
-| 45 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 46 | [Manuel Turizo](http://twitter.com/search?q=Manuel+Turizo) | N/A |
-| 47 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 48 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 49 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 50 | [Echaleche](http://twitter.com/search?q=Echaleche) | N/A |
+| 40 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
+| 41 | [Christian Benítez](http://twitter.com/search?q=Christian+Ben%c3%adtez) | N/A |
+| 42 | [MELFI NOMINADO X HEAT](http://twitter.com/search?q=MELFI+NOMINADO+X+HEAT) | N/A |
+| 43 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 44 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 45 | [Gye City](http://twitter.com/search?q=Gye+City) | N/A |
+| 46 | [jorge andrade cantos](http://twitter.com/search?q=jorge+andrade+cantos) | N/A |
+| 47 | [Chucho Benítez](http://twitter.com/search?q=Chucho+Ben%c3%adtez) | N/A |
+| 48 | [#delfín](http://twitter.com/search?q=%23delf%c3%adn) | N/A |
+| 49 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 50 | [Bagner Delgado](http://twitter.com/search?q=Bagner+Delgado) | N/A |
 
 
 

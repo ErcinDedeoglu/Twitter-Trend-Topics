@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-09 23:17:27 UTC`
+📆 Last Updated: `2023-04-10 00:29:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,51 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 2 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
 | 3 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
-| 4 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 5 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 8 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
-| 9 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 10 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
-| 11 | [Einheitskasse](http://twitter.com/search?q=Einheitskasse) | N/A |
-| 12 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 13 | [bundeshaus](http://twitter.com/search?q=bundeshaus) | N/A |
-| 14 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
-| 15 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
-| 16 | [Adesanya](http://twitter.com/search?q=Adesanya) | N/A |
-| 17 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 18 | [bienne](http://twitter.com/search?q=bienne) | N/A |
-| 19 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 20 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
-| 21 | [Schweden](http://twitter.com/search?q=Schweden) | N/A |
-| 22 | [Eier](http://twitter.com/search?q=Eier) | N/A |
+| 4 | [Osterfest](http://twitter.com/search?q=Osterfest) | N/A |
+| 5 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 7 | [Ostersonntag](http://twitter.com/search?q=Ostersonntag) | N/A |
+| 8 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
+| 9 | [Bundeshaus](http://twitter.com/search?q=Bundeshaus) | N/A |
+| 10 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 11 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
+| 12 | [bienne](http://twitter.com/search?q=bienne) | N/A |
+| 13 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
+| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 15 | [#fczfcb](http://twitter.com/search?q=%23fczfcb) | N/A |
+| 16 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 17 | [Gotthard](http://twitter.com/search?q=Gotthard) | N/A |
+| 18 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
+| 19 | [Stau](http://twitter.com/search?q=Stau) | N/A |
+| 20 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 22 | [Autofahrer](http://twitter.com/search?q=Autofahrer) | N/A |
 | 23 | [Häuser](http://twitter.com/search?q=H%c3%a4user) | N/A |
-| 24 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
-| 25 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 26 | [J'aurais](http://twitter.com/search?q=J%27aurais) | N/A |
-| 27 | [Politikern](http://twitter.com/search?q=Politikern) | N/A |
-| 28 | [Jesus Christ](http://twitter.com/search?q=Jesus+Christ) | N/A |
-| 29 | [Nähe](http://twitter.com/search?q=N%c3%a4he) | N/A |
-| 30 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 31 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 32 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 33 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 34 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 35 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
-| 36 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 37 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 38 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 39 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 40 | [Ruefer](http://twitter.com/search?q=Ruefer) | N/A |
-| 41 | [Verlauf](http://twitter.com/search?q=Verlauf) | N/A |
-| 42 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
-| 43 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 44 | [Osterhase](http://twitter.com/search?q=Osterhase) | N/A |
-| 45 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 46 | [Moral](http://twitter.com/search?q=Moral) | N/A |
-| 47 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
+| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 25 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 26 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 27 | [Polymanga](http://twitter.com/search?q=Polymanga) | N/A |
+| 28 | [European](http://twitter.com/search?q=European) | N/A |
+| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 30 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
+| 31 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
+| 32 | [Turc](http://twitter.com/search?q=Turc) | N/A |
+| 33 | [Einfluss](http://twitter.com/search?q=Einfluss) | N/A |
+| 34 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 35 | [Eier](http://twitter.com/search?q=Eier) | N/A |
+| 36 | [Ostertage](http://twitter.com/search?q=Ostertage) | N/A |
+| 37 | [Tiere](http://twitter.com/search?q=Tiere) | N/A |
+| 38 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 39 | [Willen](http://twitter.com/search?q=Willen) | N/A |
+| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 41 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 42 | [Zustand](http://twitter.com/search?q=Zustand) | N/A |
+| 43 | [Alternativen](http://twitter.com/search?q=Alternativen) | N/A |
+| 44 | [Süden](http://twitter.com/search?q=S%c3%bcden) | N/A |
+| 45 | [Spinner](http://twitter.com/search?q=Spinner) | N/A |
+| 46 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 47 | [Wege](http://twitter.com/search?q=Wege) | N/A |
+| 48 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
 
 
 

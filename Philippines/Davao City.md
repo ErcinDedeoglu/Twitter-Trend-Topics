@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-09 23:17:35 UTC`
+📆 Last Updated: `2023-04-10 00:29:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 3 | [#SB19SummerSpecialDunkinPH](http://twitter.com/search?q=%23SB19SummerSpecialDunkinPH) | N/A |
-| 4 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 5 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
-| 6 | [WE LOVE YOU BELLE](http://twitter.com/search?q=WE+LOVE+YOU+BELLE) | N/A |
-| 7 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 8 | [SAKURA MOMENTS WITHKDLEX](http://twitter.com/search?q=SAKURA+MOMENTS+WITHKDLEX) | N/A |
-| 9 | [#MgaKalatDuringTravel](http://twitter.com/search?q=%23MgaKalatDuringTravel) | N/A |
-| 10 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
-| 11 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 12 | [Woosung](http://twitter.com/search?q=Woosung) | N/A |
-| 13 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 14 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 15 | [31months with brentmanalo](http://twitter.com/search?q=31months+with+brentmanalo) | N/A |
-| 16 | [ACEs STRONGER 2GETHER](http://twitter.com/search?q=ACEs+STRONGER+2GETHER) | N/A |
-| 17 | [Life Goes On](http://twitter.com/search?q=Life+Goes+On) | N/A |
-| 18 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 19 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 20 | [DO YOU WANT TO BE FORGIVEN](http://twitter.com/search?q=DO+YOU+WANT+TO+BE+FORGIVEN) | N/A |
-| 21 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 23 | [I FEEL GIDDY](http://twitter.com/search?q=I+FEEL+GIDDY) | N/A |
-| 24 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 25 | [Belle Mariano](http://twitter.com/search?q=Belle+Mariano) | N/A |
-| 26 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 27 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 28 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
-| 29 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 30 | [Pabulong](http://twitter.com/search?q=Pabulong) | N/A |
-| 31 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 32 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
-| 33 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 34 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
-| 35 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 36 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 37 | [Ryuichi Sakamoto](http://twitter.com/search?q=Ryuichi+Sakamoto) | N/A |
-| 38 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 39 | [gabbluke moshies anniversary](http://twitter.com/search?q=gabbluke+moshies+anniversary) | N/A |
-| 40 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
-| 41 | [SOPE](http://twitter.com/search?q=SOPE) | N/A |
-| 42 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
-| 43 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
-| 44 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 45 | [Don't Go](http://twitter.com/search?q=Don%27t+Go) | N/A |
-| 46 | [d-5 to anji paraiso](http://twitter.com/search?q=d-5+to+anji+paraiso) | N/A |
-| 47 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 48 | [Lover](http://twitter.com/search?q=Lover) | N/A |
+| 3 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 4 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 5 | [#JISOOatInkigayo](http://twitter.com/search?q=%23JISOOatInkigayo) | N/A |
+| 6 | [SAKURA MOMENTS WITHKDLEX](http://twitter.com/search?q=SAKURA+MOMENTS+WITHKDLEX) | N/A |
+| 7 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 8 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 9 | [#MaineGoalsSeason3](http://twitter.com/search?q=%23MaineGoalsSeason3) | N/A |
+| 10 | [#MgaKalatDuringTravel](http://twitter.com/search?q=%23MgaKalatDuringTravel) | N/A |
+| 11 | [Woosung](http://twitter.com/search?q=Woosung) | N/A |
+| 12 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 13 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 14 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 15 | [ACEs STRONGER 2GETHER](http://twitter.com/search?q=ACEs+STRONGER+2GETHER) | N/A |
+| 16 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
+| 17 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 18 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 19 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 20 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 21 | [Pabulong](http://twitter.com/search?q=Pabulong) | N/A |
+| 22 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 23 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 24 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 25 | [Jongdae](http://twitter.com/search?q=Jongdae) | N/A |
+| 26 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 27 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 28 | [exo'clock fanmeeting](http://twitter.com/search?q=exo%27clock+fanmeeting) | N/A |
+| 29 | [don't go](http://twitter.com/search?q=don%27t+go) | N/A |
+| 30 | [Where you at](http://twitter.com/search?q=Where+you+at) | N/A |
+| 31 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
+| 32 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 33 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
+| 34 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 35 | [d-5 to anji paraiso](http://twitter.com/search?q=d-5+to+anji+paraiso) | N/A |
+| 36 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 37 | [gabbluke moshies anniversary](http://twitter.com/search?q=gabbluke+moshies+anniversary) | N/A |
+| 38 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
+| 39 | [maligayang pasko](http://twitter.com/search?q=maligayang+pasko) | N/A |
+| 40 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
+| 41 | [Happy 11th](http://twitter.com/search?q=Happy+11th) | N/A |
+| 42 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
+| 43 | [Resurrection Sunday](http://twitter.com/search?q=Resurrection+Sunday) | N/A |
+| 44 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
+| 45 | [7 Years With NCT](http://twitter.com/search?q=7+Years+With+NCT) | N/A |
+| 46 | [love is re4l with reyster](http://twitter.com/search?q=love+is+re4l+with+reyster) | N/A |
+| 47 | [Pagkabuhay](http://twitter.com/search?q=Pagkabuhay) | N/A |
+| 48 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
 
 
 

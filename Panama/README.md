@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-09 23:18:01 UTC`
+📆 Last Updated: `2023-04-10 00:29:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Panama
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 2 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
+| 1 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 2 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 3 | [Marta Cox](http://twitter.com/search?q=Marta+Cox) | N/A |
-| 4 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 5 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 9 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 10 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 11 | [MELFI NOMINADO X HEAT](http://twitter.com/search?q=MELFI+NOMINADO+X+HEAT) | N/A |
-| 12 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 13 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 14 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 15 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 16 | [Resucitado](http://twitter.com/search?q=Resucitado) | N/A |
+| 4 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 5 | [Rommel Fernández](http://twitter.com/search?q=Rommel+Fern%c3%a1ndez) | N/A |
+| 6 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 7 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 8 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 9 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 10 | [MELFI NOMINADO X HEAT](http://twitter.com/search?q=MELFI+NOMINADO+X+HEAT) | N/A |
+| 11 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 12 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 13 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
+| 14 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 15 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 16 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
 | 17 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
-| 18 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 19 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
-| 20 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 21 | [Mario Bros](http://twitter.com/search?q=Mario+Bros) | N/A |
-| 22 | [#palabrasdebendicion](http://twitter.com/search?q=%23palabrasdebendicion) | N/A |
-| 23 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
-| 24 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 25 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
-| 26 | [Las Uvas](http://twitter.com/search?q=Las+Uvas) | N/A |
-| 27 | [Sajalices y de Campana](http://twitter.com/search?q=Sajalices+y+de+Campana) | N/A |
-| 28 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 29 | [#ViernesSanto](http://twitter.com/search?q=%23ViernesSanto) | N/A |
-| 30 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 31 | [Motta](http://twitter.com/search?q=Motta) | N/A |
-| 32 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 33 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 34 | [Nombe](http://twitter.com/search?q=Nombe) | N/A |
-| 35 | [Rubén Blades](http://twitter.com/search?q=Rub%c3%a9n+Blades) | N/A |
-| 36 | [La Espiga](http://twitter.com/search?q=La+Espiga) | N/A |
-| 37 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 38 | [Antón](http://twitter.com/search?q=Ant%c3%b3n) | N/A |
-| 39 | [Coronado](http://twitter.com/search?q=Coronado) | N/A |
-| 40 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
-| 41 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 42 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 43 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 44 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 45 | [Edmundo Sosa](http://twitter.com/search?q=Edmundo+Sosa) | N/A |
-| 46 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
-| 47 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 48 | [Multiplaza](http://twitter.com/search?q=Multiplaza) | N/A |
-| 49 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 50 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 18 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 19 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 20 | [Nombe](http://twitter.com/search?q=Nombe) | N/A |
+| 21 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 22 | [Multiplaza](http://twitter.com/search?q=Multiplaza) | N/A |
+| 23 | [Motta](http://twitter.com/search?q=Motta) | N/A |
+| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
+| 26 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 27 | [#EEUU](http://twitter.com/search?q=%23EEUU) | N/A |
+| 28 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 29 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 30 | [Coronado](http://twitter.com/search?q=Coronado) | N/A |
+| 31 | [#Rusia](http://twitter.com/search?q=%23Rusia) | N/A |
+| 32 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
+| 33 | [Antón](http://twitter.com/search?q=Ant%c3%b3n) | N/A |
+| 34 | [Bomberos](http://twitter.com/search?q=Bomberos) | N/A |
+| 35 | [#SemanaSantaSegura2023](http://twitter.com/search?q=%23SemanaSantaSegura2023) | N/A |
+| 36 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 37 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 38 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 39 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 40 | [#Ucrania](http://twitter.com/search?q=%23Ucrania) | N/A |
+| 41 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 42 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 43 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 44 | [Copa](http://twitter.com/search?q=Copa) | N/A |
+| 45 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 46 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
+| 47 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 48 | [Vaticano](http://twitter.com/search?q=Vaticano) | N/A |
+| 49 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 50 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 
 
 

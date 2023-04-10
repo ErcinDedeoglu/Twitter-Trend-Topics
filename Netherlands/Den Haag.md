@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-04-09 23:17:25 UTC`
+📆 Last Updated: `2023-04-10 00:29:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 2 | [#feyrkc](http://twitter.com/search?q=%23feyrkc) | N/A |
 | 3 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 4 | [#ajafor](http://twitter.com/search?q=%23ajafor) | N/A |
-| 5 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
-| 6 | [#studiovoetbal](http://twitter.com/search?q=%23studiovoetbal) | N/A |
-| 7 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
-| 8 | [Degenkolb](http://twitter.com/search?q=Degenkolb) | N/A |
-| 9 | [Philipsen](http://twitter.com/search?q=Philipsen) | N/A |
-| 10 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
-| 11 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
-| 12 | [Rechts](http://twitter.com/search?q=Rechts) | N/A |
-| 13 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 14 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 15 | [Grillitsch](http://twitter.com/search?q=Grillitsch) | N/A |
-| 16 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 17 | [Hato](http://twitter.com/search?q=Hato) | N/A |
-| 18 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 19 | [Geert Mak](http://twitter.com/search?q=Geert+Mak) | N/A |
-| 20 | [Ongedifferentieerd-Androgyn](http://twitter.com/search?q=Ongedifferentieerd-Androgyn) | N/A |
-| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 22 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 23 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 24 | [Nonchalant Mannelijk](http://twitter.com/search?q=Nonchalant+Mannelijk) | N/A |
-| 25 | [Hema](http://twitter.com/search?q=Hema) | N/A |
-| 26 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 27 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
-| 28 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 29 | [De Heer](http://twitter.com/search?q=De+Heer) | N/A |
-| 30 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 32 | [Paaszondag](http://twitter.com/search?q=Paaszondag) | N/A |
-| 33 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 34 | [Dimata](http://twitter.com/search?q=Dimata) | N/A |
-| 35 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 36 | [Enzo Knol](http://twitter.com/search?q=Enzo+Knol) | N/A |
-| 37 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 38 | [Piet](http://twitter.com/search?q=Piet) | N/A |
-| 39 | [Woosung](http://twitter.com/search?q=Woosung) | N/A |
-| 40 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 41 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 42 | [Godts](http://twitter.com/search?q=Godts) | N/A |
-| 43 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
-| 44 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 45 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 46 | [Lekkerkerk](http://twitter.com/search?q=Lekkerkerk) | N/A |
-| 47 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
-| 48 | [Hoopvol](http://twitter.com/search?q=Hoopvol) | N/A |
-| 49 | [Slowakije](http://twitter.com/search?q=Slowakije) | N/A |
+| 4 | [#studiovoetbal](http://twitter.com/search?q=%23studiovoetbal) | N/A |
+| 5 | [#humberto](http://twitter.com/search?q=%23humberto) | N/A |
+| 6 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 7 | [#boerzoektvrouw](http://twitter.com/search?q=%23boerzoektvrouw) | N/A |
+| 8 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
+| 9 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
+| 10 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 11 | [De HEER](http://twitter.com/search?q=De+HEER) | N/A |
+| 12 | [Ongedifferentieerd-Androgyn](http://twitter.com/search?q=Ongedifferentieerd-Androgyn) | N/A |
+| 13 | [Peter Bosz](http://twitter.com/search?q=Peter+Bosz) | N/A |
+| 14 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 15 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
+| 16 | [Piet](http://twitter.com/search?q=Piet) | N/A |
+| 17 | [Rechts](http://twitter.com/search?q=Rechts) | N/A |
+| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 19 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 20 | [pec zwolle-supporters](http://twitter.com/search?q=pec+zwolle-supporters) | N/A |
+| 21 | [Nonchalant Mannelijk](http://twitter.com/search?q=Nonchalant+Mannelijk) | N/A |
+| 22 | [Degenkolb](http://twitter.com/search?q=Degenkolb) | N/A |
+| 23 | [MVDP](http://twitter.com/search?q=MVDP) | N/A |
+| 24 | [Geert Mak](http://twitter.com/search?q=Geert+Mak) | N/A |
+| 25 | [ongeprikt](http://twitter.com/search?q=ongeprikt) | N/A |
+| 26 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
+| 27 | [Philipsen](http://twitter.com/search?q=Philipsen) | N/A |
+| 28 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 29 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 30 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
+| 31 | [Truste](http://twitter.com/search?q=Truste) | N/A |
+| 32 | [Eindhovense](http://twitter.com/search?q=Eindhovense) | N/A |
+| 33 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
+| 34 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 35 | [Beau](http://twitter.com/search?q=Beau) | N/A |
+| 36 | [kooten](http://twitter.com/search?q=kooten) | N/A |
+| 37 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 38 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 39 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 40 | [vogel rok](http://twitter.com/search?q=vogel+rok) | N/A |
+| 41 | [Hoopvol](http://twitter.com/search?q=Hoopvol) | N/A |
+| 42 | [Sander Wieringa](http://twitter.com/search?q=Sander+Wieringa) | N/A |
+| 43 | [Typisch Mannelijk](http://twitter.com/search?q=Typisch+Mannelijk) | N/A |
+| 44 | [Lekkerkerk](http://twitter.com/search?q=Lekkerkerk) | N/A |
+| 45 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 46 | [Purmerend](http://twitter.com/search?q=Purmerend) | N/A |
+| 47 | [Hato](http://twitter.com/search?q=Hato) | N/A |
+| 48 | [Rick Nieman](http://twitter.com/search?q=Rick+Nieman) | N/A |
+| 49 | [Japie](http://twitter.com/search?q=Japie) | N/A |
 
 
 

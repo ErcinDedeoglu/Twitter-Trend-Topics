@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-04-09 23:18:00 UTC`
+📆 Last Updated: `2023-04-10 00:29:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Peru
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Sullana](http://twitter.com/search?q=Sullana) | N/A |
-| 3 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 4 | [Arriba Alianza](http://twitter.com/search?q=Arriba+Alianza) | N/A |
-| 5 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 8 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 9 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
-| 10 | [Jesús Castillo](http://twitter.com/search?q=Jes%c3%bas+Castillo) | N/A |
-| 11 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 14 | [Huancayo](http://twitter.com/search?q=Huancayo) | N/A |
-| 15 | [Pablo Sabbag](http://twitter.com/search?q=Pablo+Sabbag) | N/A |
-| 16 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
-| 17 | [#VoleyxMDeportes](http://twitter.com/search?q=%23VoleyxMDeportes) | N/A |
-| 18 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 19 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 20 | [Menendez](http://twitter.com/search?q=Menendez) | N/A |
-| 21 | [Campeones del 36](http://twitter.com/search?q=Campeones+del+36) | N/A |
-| 22 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
-| 23 | [Compagnucci](http://twitter.com/search?q=Compagnucci) | N/A |
-| 24 | [#D_DayTracklist](http://twitter.com/search?q=%23D_DayTracklist) | N/A |
-| 25 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 26 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
-| 27 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
-| 28 | [Surco](http://twitter.com/search?q=Surco) | N/A |
-| 29 | [#spaceplanetero](http://twitter.com/search?q=%23spaceplanetero) | N/A |
-| 30 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 31 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 32 | [Lerner](http://twitter.com/search?q=Lerner) | N/A |
-| 33 | [Peruzzi](http://twitter.com/search?q=Peruzzi) | N/A |
-| 34 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 35 | [Apertura](http://twitter.com/search?q=Apertura) | N/A |
-| 36 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
-| 37 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 38 | [Paro](http://twitter.com/search?q=Paro) | N/A |
-| 39 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
-| 40 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
-| 41 | [Piura](http://twitter.com/search?q=Piura) | N/A |
-| 42 | [Cipriani](http://twitter.com/search?q=Cipriani) | N/A |
-| 43 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 44 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 45 | [Life Goes On](http://twitter.com/search?q=Life+Goes+On) | N/A |
-| 46 | [D DAY TRACKLIST IS COMING](http://twitter.com/search?q=D+DAY+TRACKLIST+IS+COMING) | N/A |
-| 47 | [Lander](http://twitter.com/search?q=Lander) | N/A |
-| 48 | [Ballon](http://twitter.com/search?q=Ballon) | N/A |
-| 49 | [Cantolao](http://twitter.com/search?q=Cantolao) | N/A |
-| 50 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 2 | [Urruti](http://twitter.com/search?q=Urruti) | Urruti is a Basque surname. It is derived from the Basque word "urru" which means "wolf". In English, it can be translated to mean "wolf-like". |
+| 3 | [Polo](http://twitter.com/search?q=Polo) | N/A |
+| 4 | [Valera](http://twitter.com/search?q=Valera) | N/A |
+| 5 | [Carvallo](http://twitter.com/search?q=Carvallo) | N/A |
+| 6 | [Sullana](http://twitter.com/search?q=Sullana) | N/A |
+| 7 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 8 | [Calcaterra](http://twitter.com/search?q=Calcaterra) | N/A |
+| 9 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 10 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 11 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 12 | [Corzo](http://twitter.com/search?q=Corzo) | N/A |
+| 13 | [Alianza](http://twitter.com/search?q=Alianza) | N/A |
+| 14 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 15 | [#VoleyxMDeportes](http://twitter.com/search?q=%23VoleyxMDeportes) | N/A |
+| 16 | [#radiocoti](http://twitter.com/search?q=%23radiocoti) | N/A |
+| 17 | [Quispe](http://twitter.com/search?q=Quispe) | N/A |
+| 18 | [Jesús Castillo](http://twitter.com/search?q=Jes%c3%bas+Castillo) | N/A |
+| 19 | [Riveros](http://twitter.com/search?q=Riveros) | N/A |
+| 20 | [#YdaleU](http://twitter.com/search?q=%23YdaleU) | N/A |
+| 21 | [Bryan Reyna](http://twitter.com/search?q=Bryan+Reyna) | N/A |
+| 22 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
+| 23 | [Billboard](http://twitter.com/search?q=Billboard) | N/A |
+| 24 | [Pablo Sabbag](http://twitter.com/search?q=Pablo+Sabbag) | N/A |
+| 25 | [Larcomar](http://twitter.com/search?q=Larcomar) | N/A |
+| 26 | [#TheOwlHouse](http://twitter.com/search?q=%23TheOwlHouse) | N/A |
+| 27 | [Liga 1](http://twitter.com/search?q=Liga+1) | N/A |
+| 28 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 29 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
+| 30 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 31 | [Cantolao](http://twitter.com/search?q=Cantolao) | N/A |
+| 32 | [Magnin](http://twitter.com/search?q=Magnin) | N/A |
+| 33 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 34 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 35 | [Fossati](http://twitter.com/search?q=Fossati) | N/A |
+| 36 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
+| 37 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 38 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 39 | [Huancayo](http://twitter.com/search?q=Huancayo) | N/A |
+| 40 | [Olivares](http://twitter.com/search?q=Olivares) | N/A |
+| 41 | [Zanelatto](http://twitter.com/search?q=Zanelatto) | N/A |
+| 42 | [Feliz Pascua](http://twitter.com/search?q=Feliz+Pascua) | N/A |
+| 43 | [Succar](http://twitter.com/search?q=Succar) | N/A |
+| 44 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 45 | [Menendez](http://twitter.com/search?q=Menendez) | N/A |
+| 46 | [Lerner](http://twitter.com/search?q=Lerner) | N/A |
+| 47 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
+| 48 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
+| 49 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 50 | [Apertura](http://twitter.com/search?q=Apertura) | N/A |
 
 
 

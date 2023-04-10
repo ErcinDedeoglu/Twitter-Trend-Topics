@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-04-09 23:17:36 UTC`
+📆 Last Updated: `2023-04-10 00:29:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,50 @@ This is top 50 for [Thailand](</Thailand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BNK48JankenTournament2023](http://twitter.com/search?q=%23BNK48JankenTournament2023) | N/A |
-| 2 | [#ขอจีบเฮียนิวหน่อย](http://twitter.com/search?q=%23%e0%b8%82%e0%b8%ad%e0%b8%88%e0%b8%b5%e0%b8%9a%e0%b9%80%e0%b8%ae%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%b4%e0%b8%a7%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%ad%e0%b8%a2) | N/A |
-| 3 | [#รอยยิ้มของซีพฤกษ์](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%ad%e0%b8%a2%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%8b%e0%b8%b5%e0%b8%9e%e0%b8%a4%e0%b8%81%e0%b8%a9%e0%b9%8c) | N/A |
-| 4 | [#destinyxmeenping](http://twitter.com/search?q=%23destinyxmeenping) | N/A |
-| 5 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
-| 6 | [I FEEL GIDDY](http://twitter.com/search?q=I+FEEL+GIDDY) | N/A |
-| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 8 | [7ENSENSE ANNIVERSARY](http://twitter.com/search?q=7ENSENSE+ANNIVERSARY) | N/A |
-| 9 | [YSL Beauty Thailand Ambassador](http://twitter.com/search?q=YSL+Beauty+Thailand+Ambassador) | N/A |
-| 10 | [mew in good day](http://twitter.com/search?q=mew+in+good+day) | N/A |
-| 11 | [DO YOU WANT TO BE FORGIVEN](http://twitter.com/search?q=DO+YOU+WANT+TO+BE+FORGIVEN) | N/A |
-| 12 | [bambam on inkigayo](http://twitter.com/search?q=bambam+on+inkigayo) | N/A |
-| 13 | [7th spring with jaehyun](http://twitter.com/search?q=7th+spring+with+jaehyun) | N/A |
-| 14 | [Nanon UMG EP5](http://twitter.com/search?q=Nanon+UMG+EP5) | N/A |
-| 15 | [patrick movie roadshow](http://twitter.com/search?q=patrick+movie+roadshow) | N/A |
-| 16 | [kanteera 26th bday](http://twitter.com/search?q=kanteera+26th+bday) | N/A |
-| 17 | [JENO DESERVES BETTER](http://twitter.com/search?q=JENO+DESERVES+BETTER) | N/A |
-| 18 | [bambam ahgase](http://twitter.com/search?q=bambam+ahgase) | N/A |
-| 19 | [bambam abyss](http://twitter.com/search?q=bambam+abyss) | N/A |
-| 20 | [bambam album sourandsweet](http://twitter.com/search?q=bambam+album+sourandsweet) | N/A |
-| 21 | [bambam artis](http://twitter.com/search?q=bambam+artis) | N/A |
+| 1 | [10 Morning Dunk](http://twitter.com/search?q=10+Morning+Dunk) | N/A |
+| 2 | [10  MORNING YANGREBA](http://twitter.com/search?q=10++MORNING+YANGREBA) | N/A |
+| 3 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
+| 4 | [patrick movie roadshow](http://twitter.com/search?q=patrick+movie+roadshow) | N/A |
+| 5 | [Morning JoongDunk](http://twitter.com/search?q=Morning+JoongDunk) | N/A |
+| 6 | [7ENSENSE ANNIVERSARY](http://twitter.com/search?q=7ENSENSE+ANNIVERSARY) | N/A |
+| 7 | [bambam abyss](http://twitter.com/search?q=bambam+abyss) | N/A |
+| 8 | [bambam ahgase](http://twitter.com/search?q=bambam+ahgase) | N/A |
+| 9 | [bambam on inkigayo](http://twitter.com/search?q=bambam+on+inkigayo) | N/A |
+| 10 | [bambam artis](http://twitter.com/search?q=bambam+artis) | N/A |
+| 11 | [bambam album sourandsweet](http://twitter.com/search?q=bambam+album+sourandsweet) | N/A |
+| 12 | [Morning PATRICK](http://twitter.com/search?q=Morning+PATRICK) | N/A |
+| 13 | [saint x 12rasi](http://twitter.com/search?q=saint+x+12rasi) | N/A |
+| 14 | [YSL Beauty Thailand Ambassador](http://twitter.com/search?q=YSL+Beauty+Thailand+Ambassador) | N/A |
+| 15 | [7th spring with jaehyun](http://twitter.com/search?q=7th+spring+with+jaehyun) | N/A |
+| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 17 | [LALISA IKETERU IN TOKYO](http://twitter.com/search?q=LALISA+IKETERU+IN+TOKYO) | N/A |
+| 18 | [doyoung 7th debut anniversary](http://twitter.com/search?q=doyoung+7th+debut+anniversary) | N/A |
+| 19 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 20 | [bambam all the butlers ep252](http://twitter.com/search?q=bambam+all+the+butlers+ep252) | N/A |
+| 21 | [kanteera 26th bday](http://twitter.com/search?q=kanteera+26th+bday) | N/A |
 | 22 | [Bright Morning](http://twitter.com/search?q=Bright+Morning) | N/A |
-| 23 | [Shooky 1](http://twitter.com/search?q=Shooky+1) | N/A |
-| 24 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 25 | [BamBan Have](http://twitter.com/search?q=BamBan+Have) | N/A |
-| 26 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 27 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 28 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 29 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
-| 30 | [SOLD OUT](http://twitter.com/search?q=SOLD+OUT) | N/A |
-| 31 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
-| 32 | [#อาสามาหาเธอนะกรุงเทพ](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b2%e0%b8%aa%e0%b8%b2%e0%b8%a1%e0%b8%b2%e0%b8%ab%e0%b8%b2%e0%b9%80%e0%b8%98%e0%b8%ad%e0%b8%99%e0%b8%b0%e0%b8%81%e0%b8%a3%e0%b8%b8%e0%b8%87%e0%b9%80%e0%b8%97%e0%b8%9e) | N/A |
-| 33 | [#RSAxBANGKOK](http://twitter.com/search?q=%23RSAxBANGKOK) | N/A |
-| 34 | [#สบู่มาดามหลุยส์xอิงฟ้า](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%9a%e0%b8%b9%e0%b9%88%e0%b8%a1%e0%b8%b2%e0%b8%94%e0%b8%b2%e0%b8%a1%e0%b8%ab%e0%b8%a5%e0%b8%b8%e0%b8%a2%e0%b8%aa%e0%b9%8cx%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2) | N/A |
-| 35 | [#ThankyouCapCher](http://twitter.com/search?q=%23ThankyouCapCher) | N/A |
-| 36 | [#Photobookแรกของซีนุนิว](http://twitter.com/search?q=%23Photobook%e0%b9%81%e0%b8%a3%e0%b8%81%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%8b%e0%b8%b5%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
-| 37 | [#EXOCLOCK_EXO_FANMEETING](http://twitter.com/search?q=%23EXOCLOCK_EXO_FANMEETING) | N/A |
-| 38 | [#เลือกตั้งล่วงหน้า](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%a5%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2) | N/A |
-| 39 | [#FREENBECKY_FANBOOM_MACAU](http://twitter.com/search?q=%23FREENBECKY_FANBOOM_MACAU) | N/A |
-| 40 | [#BookfluencerxFirstKhaotung](http://twitter.com/search?q=%23BookfluencerxFirstKhaotung) | N/A |
-| 41 | [#แพรี่](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9e%e0%b8%a3%e0%b8%b5%e0%b9%88) | N/A |
-| 42 | [#KristSoloAsiaTour2023inJAPAN](http://twitter.com/search?q=%23KristSoloAsiaTour2023inJAPAN) | N/A |
-| 43 | [#BIU100KZUZAA](http://twitter.com/search?q=%23BIU100KZUZAA) | N/A |
-| 44 | [#hiddenbladeatpavalai](http://twitter.com/search?q=%23hiddenbladeatpavalai) | N/A |
-| 45 | [#เป็ดพรีเมียม](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%94%e0%b8%9e%e0%b8%a3%e0%b8%b5%e0%b9%80%e0%b8%a1%e0%b8%b5%e0%b8%a2%e0%b8%a1) | N/A |
-| 46 | [#Happy26thNongNoeyDay](http://twitter.com/search?q=%23Happy26thNongNoeyDay) | N/A |
-| 47 | [#เขมจิราต้องรอด](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%a1%e0%b8%88%e0%b8%b4%e0%b8%a3%e0%b8%b2%e0%b8%95%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%ad%e0%b8%94) | N/A |
-| 48 | [#พรรคนี้เป็นไงบ้าง](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b9%84%e0%b8%87%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%87) | N/A |
-| 49 | [#ลีน่าจัง](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b5%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%88%e0%b8%b1%e0%b8%87) | N/A |
-| 50 | [#โค่นคมพยัคฆ์](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%84%e0%b9%88%e0%b8%99%e0%b8%84%e0%b8%a1%e0%b8%9e%e0%b8%a2%e0%b8%b1%e0%b8%84%e0%b8%86%e0%b9%8c) | N/A |
+| 23 | [exo'clock fanmeeting](http://twitter.com/search?q=exo%27clock+fanmeeting) | N/A |
+| 24 | [7 Years With NCT](http://twitter.com/search?q=7+Years+With+NCT) | N/A |
+| 25 | [stay with chompu 09](http://twitter.com/search?q=stay+with+chompu+09) | N/A |
+| 26 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
+| 27 | [12rasi with ornoung](http://twitter.com/search?q=12rasi+with+ornoung) | N/A |
+| 28 | [Morning Win](http://twitter.com/search?q=Morning+Win) | N/A |
+| 29 | [BamBan Have](http://twitter.com/search?q=BamBan+Have) | N/A |
+| 30 | [BamBam Handsome](http://twitter.com/search?q=BamBam+Handsome) | N/A |
+| 31 | [Win Metawin](http://twitter.com/search?q=Win+Metawin) | N/A |
+| 32 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 33 | [Bright Vachirawit](http://twitter.com/search?q=Bright+Vachirawit) | Bright Vachirawit is a Thai actor and model. His name is a combination of the words "bright" and "Vachirawit," which mean "light" and "victory" respectively. In English, Bright Vachirawit means "light of victory." |
+| 34 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 35 | [got7](http://twitter.com/search?q=got7) | N/A |
+| 36 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
+| 37 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
+| 38 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 39 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 40 | [SOLD OUT](http://twitter.com/search?q=SOLD+OUT) | N/A |
+| 41 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 42 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 43 | [Morning Cherprang](http://twitter.com/search?q=Morning+Cherprang) | N/A |
+| 44 | [Hussawee So Cute](http://twitter.com/search?q=Hussawee+So+Cute) | N/A |
 
 
 
