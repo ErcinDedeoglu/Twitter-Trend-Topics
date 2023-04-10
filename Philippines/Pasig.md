@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-04-10 06:18:11 UTC`
+📆 Last Updated: `2023-04-10 07:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,39 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jollibee](http://twitter.com/search?q=Jollibee) | N/A |
-| 2 | [karina](http://twitter.com/search?q=karina) | N/A |
-| 3 | [ITS TIKTOCLOCK TIME BINI](http://twitter.com/search?q=ITS+TIKTOCLOCK+TIME+BINI) | N/A |
-| 4 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
-| 5 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
-| 6 | [BINNIE](http://twitter.com/search?q=BINNIE) | N/A |
-| 7 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 8 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 9 | [#NingningTouchdownInManila](http://twitter.com/search?q=%23NingningTouchdownInManila) | N/A |
-| 10 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
-| 11 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 12 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
-| 13 | [JEON JUNGKOOK IS COMING](http://twitter.com/search?q=JEON+JUNGKOOK+IS+COMING) | N/A |
-| 14 | [#지구젤리버블](http://twitter.com/search?q=%23%ec%a7%80%ea%b5%ac%ec%a0%a4%eb%a6%ac%eb%b2%84%eb%b8%94) | N/A |
-| 15 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 16 | [Changbin](http://twitter.com/search?q=Changbin) | N/A |
-| 17 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 18 | [Winter](http://twitter.com/search?q=Winter) | N/A |
-| 19 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 20 | [JJK1 IS COMING](http://twitter.com/search?q=JJK1+IS+COMING) | N/A |
-| 21 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 22 | [Day of Valor](http://twitter.com/search?q=Day+of+Valor) | N/A |
-| 23 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 24 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 25 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 26 | [Pilipino](http://twitter.com/search?q=Pilipino) | N/A |
-| 27 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 28 | [#겨울이버블](http://twitter.com/search?q=%23%ea%b2%a8%ec%9a%b8%ec%9d%b4%eb%b2%84%eb%b8%94) | N/A |
-| 29 | [#푸른_하늘같은_너](http://twitter.com/search?q=%23%ed%91%b8%eb%a5%b8_%ed%95%98%eb%8a%98%ea%b0%99%ec%9d%80_%eb%84%88) | N/A |
-| 30 | [#PLUUS_Amigo1MViews](http://twitter.com/search?q=%23PLUUS_Amigo1MViews) | N/A |
-| 31 | [#NICE_TO_MIXX_YOU](http://twitter.com/search?q=%23NICE_TO_MIXX_YOU) | N/A |
-| 32 | [#BOYCOTTEBxAPTxGMA761](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA761) | N/A |
-| 33 | [#MaineMendoza](http://twitter.com/search?q=%23MaineMendoza) | N/A |
+| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 3 | [D4 KDLEXPETA COMEBACK](http://twitter.com/search?q=D4+KDLEXPETA+COMEBACK) | N/A |
+| 4 | [#BINIonTikToClock](http://twitter.com/search?q=%23BINIonTikToClock) | N/A |
+| 5 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
+| 6 | [Jollibee](http://twitter.com/search?q=Jollibee) | N/A |
+| 7 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
+| 8 | [#JISOOatInkigayo](http://twitter.com/search?q=%23JISOOatInkigayo) | N/A |
+| 9 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
+| 10 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
+| 11 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 12 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 13 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 14 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
+| 15 | [JEON JUNGKOOK IS COMING](http://twitter.com/search?q=JEON+JUNGKOOK+IS+COMING) | N/A |
+| 16 | [#MHMA2023](http://twitter.com/search?q=%23MHMA2023) | N/A |
+| 17 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 18 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
+| 19 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
+| 20 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 21 | [JK x JB](http://twitter.com/search?q=JK+x+JB) | N/A |
+| 22 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 23 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
+| 24 | [D-4 TO PARAISO](http://twitter.com/search?q=D-4+TO+PARAISO) | N/A |
+| 25 | [Day of Valor](http://twitter.com/search?q=Day+of+Valor) | N/A |
+| 26 | [JJK1 IS COMING](http://twitter.com/search?q=JJK1+IS+COMING) | N/A |
+| 27 | [d-5 to anji paraiso](http://twitter.com/search?q=d-5+to+anji+paraiso) | N/A |
+| 28 | [ACEs STRONGER 2GETHER](http://twitter.com/search?q=ACEs+STRONGER+2GETHER) | N/A |
+| 29 | [gabbluke moshies anniversary](http://twitter.com/search?q=gabbluke+moshies+anniversary) | N/A |
+| 30 | [maligayang pasko](http://twitter.com/search?q=maligayang+pasko) | N/A |
+| 31 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
+| 32 | [Woosung](http://twitter.com/search?q=Woosung) | N/A |
+| 33 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 34 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 35 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 36 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
+| 37 | [BINNIE](http://twitter.com/search?q=BINNIE) | N/A |
+| 38 | [TAEHYUNG TAEHYUNG](http://twitter.com/search?q=TAEHYUNG+TAEHYUNG) | N/A |
+| 39 | [MABUHAY TAGLAMIG](http://twitter.com/search?q=MABUHAY+TAGLAMIG) | N/A |
+| 40 | [World War II](http://twitter.com/search?q=World+War+II) | N/A |
+| 41 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 42 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
+| 43 | [Changbin](http://twitter.com/search?q=Changbin) | N/A |
+| 44 | [WE LOVE YOU BELLE](http://twitter.com/search?q=WE+LOVE+YOU+BELLE) | N/A |
+| 45 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 46 | [Christ is Risen](http://twitter.com/search?q=Christ+is+Risen) | N/A |
+| 47 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 48 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
+| 49 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
+| 50 | [Kuki](http://twitter.com/search?q=Kuki) | N/A |
 
 
 

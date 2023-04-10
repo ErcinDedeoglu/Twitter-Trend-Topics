@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-04-10 06:18:19 UTC`
+📆 Last Updated: `2023-04-10 07:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 1 | [#امپورٹڈ_حکومت_نامنظور](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%be%d9%88%d8%b1%d9%b9%da%88_%d8%ad%da%a9%d9%88%d9%85%d8%aa_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
 | 2 | [#9thAprilBlackDay](http://twitter.com/search?q=%239thAprilBlackDay) | N/A |
 | 3 | [#چوروں_کا_ایک_سال](http://twitter.com/search?q=%23%da%86%d9%88%d8%b1%d9%88%da%ba_%da%a9%d8%a7_%d8%a7%db%8c%da%a9_%d8%b3%d8%a7%d9%84) | N/A |
-| 4 | [#boldossieruffkyazulmhai](http://twitter.com/search?q=%23boldossieruffkyazulmhai) | N/A |
-| 5 | [#فزت_ورب_الكعبه](http://twitter.com/search?q=%23%d9%81%d8%b2%d8%aa_%d9%88%d8%b1%d8%a8_%d8%a7%d9%84%d9%83%d8%b9%d8%a8%d9%87) | N/A |
+| 4 | [#فزت_ورب_الكعبه](http://twitter.com/search?q=%23%d9%81%d8%b2%d8%aa_%d9%88%d8%b1%d8%a8_%d8%a7%d9%84%d9%83%d8%b9%d8%a8%d9%87) | N/A |
+| 5 | [#فُزتُ_وَرَبِّ_الكعبةِ](http://twitter.com/search?q=%23%d9%81%d9%8f%d8%b2%d8%aa%d9%8f_%d9%88%d9%8e%d8%b1%d9%8e%d8%a8%d9%90%d9%91_%d8%a7%d9%84%d9%83%d8%b9%d8%a8%d8%a9%d9%90) | N/A |
 | 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 7 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
 | 8 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
@@ -27,8 +27,8 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 10 | [OUSTED BUT NOT DEFEATED](http://twitter.com/search?q=OUSTED+BUT+NOT+DEFEATED) | N/A |
 | 11 | [Consummate](http://twitter.com/search?q=Consummate) | N/A |
 | 12 | [bol network](http://twitter.com/search?q=bol+network) | N/A |
-| 13 | [bol media group](http://twitter.com/search?q=bol+media+group) | N/A |
-| 14 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
+| 13 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
+| 14 | [bol media group](http://twitter.com/search?q=bol+media+group) | N/A |
 | 15 | [Iqrar](http://twitter.com/search?q=Iqrar) | N/A |
 | 16 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
 | 17 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
@@ -43,28 +43,28 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 26 | [By the Lord of Kaaba](http://twitter.com/search?q=By+the+Lord+of+Kaaba) | N/A |
 | 27 | [Sujood](http://twitter.com/search?q=Sujood) | N/A |
 | 28 | [19th of Ramadan](http://twitter.com/search?q=19th+of+Ramadan) | N/A |
-| 29 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 30 | [Haya](http://twitter.com/search?q=Haya) | N/A |
-| 31 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 32 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
-| 33 | [FATF](http://twitter.com/search?q=FATF) | N/A |
-| 34 | [Orphans](http://twitter.com/search?q=Orphans) | N/A |
-| 35 | [Source](http://twitter.com/search?q=Source) | N/A |
-| 36 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 37 | [By God](http://twitter.com/search?q=By+God) | N/A |
-| 38 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 39 | [Local](http://twitter.com/search?q=Local) | N/A |
-| 40 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 41 | [Beshumar](http://twitter.com/search?q=Beshumar) | N/A |
-| 42 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 43 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 44 | [Youthia](http://twitter.com/search?q=Youthia) | N/A |
-| 45 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 46 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
-| 47 | [Captain](http://twitter.com/search?q=Captain) | N/A |
-| 48 | [Shahid Afridi](http://twitter.com/search?q=Shahid+Afridi) | Shahid Afridi is a Pakistani cricketer who is known for his aggressive batting style and powerful hitting. He is one of the most popular cricketers in the world and has been playing international cricket since 1996. The name "Shahid Afridi" translates to "Hero of Afridi" in English. |
-| 49 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 50 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
+| 29 | [By God](http://twitter.com/search?q=By+God) | N/A |
+| 30 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 31 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 32 | [Haya](http://twitter.com/search?q=Haya) | N/A |
+| 33 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
+| 34 | [Roza](http://twitter.com/search?q=Roza) | N/A |
+| 35 | [FATF](http://twitter.com/search?q=FATF) | N/A |
+| 36 | [Orphans](http://twitter.com/search?q=Orphans) | N/A |
+| 37 | [Source](http://twitter.com/search?q=Source) | N/A |
+| 38 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 39 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 40 | [News Headlines](http://twitter.com/search?q=News+Headlines) | N/A |
+| 41 | [Local](http://twitter.com/search?q=Local) | N/A |
+| 42 | [Pashtuns](http://twitter.com/search?q=Pashtuns) | N/A |
+| 43 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
+| 44 | [Generals](http://twitter.com/search?q=Generals) | N/A |
+| 45 | [Bhutto](http://twitter.com/search?q=Bhutto) | N/A |
+| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 47 | [Maryam Nawaz](http://twitter.com/search?q=Maryam+Nawaz) | N/A |
+| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 49 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
+| 50 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
 
 
 

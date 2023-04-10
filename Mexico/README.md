@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-04-10 06:18:37 UTC`
+📆 Last Updated: `2023-04-10 07:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Mexico
 | 5 | [Jardines del Pedregal](http://twitter.com/search?q=Jardines+del+Pedregal) | N/A |
 | 6 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
 | 7 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 8 | [#DomingoGlorioso](http://twitter.com/search?q=%23DomingoGlorioso) | N/A |
-| 9 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
+| 8 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
+| 9 | [#DomingoGlorioso](http://twitter.com/search?q=%23DomingoGlorioso) | N/A |
 | 10 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 11 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 11 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
 | 12 | [#AtletasPorUnAuto](http://twitter.com/search?q=%23AtletasPorUnAuto) | N/A |
-| 13 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
-| 14 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 15 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
+| 13 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 14 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
+| 15 | [Mora](http://twitter.com/search?q=Mora) | N/A |
 | 16 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 17 | [Changbin](http://twitter.com/search?q=Changbin) | N/A |
-| 18 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 19 | [ESTAMOS CONTIGO NAT](http://twitter.com/search?q=ESTAMOS+CONTIGO+NAT) | N/A |
-| 20 | [Marco Antonio](http://twitter.com/search?q=Marco+Antonio) | N/A |
-| 21 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
-| 22 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 23 | [Arreola](http://twitter.com/search?q=Arreola) | N/A |
-| 24 | [DT de Tigres](http://twitter.com/search?q=DT+de+Tigres) | N/A |
-| 25 | [#엘프가_이특을_안아줘요](http://twitter.com/search?q=%23%ec%97%98%ed%94%84%ea%b0%80_%ec%9d%b4%ed%8a%b9%ec%9d%84_%ec%95%88%ec%95%84%ec%a4%98%ec%9a%94) | N/A |
-| 26 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 27 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 28 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
-| 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 30 | [Juárez](http://twitter.com/search?q=Ju%c3%a1rez) | N/A |
-| 31 | [Paseo Bravo](http://twitter.com/search?q=Paseo+Bravo) | N/A |
-| 32 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
-| 33 | [Guido Pizarro](http://twitter.com/search?q=Guido+Pizarro) | N/A |
-| 34 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 35 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
-| 36 | [#MYCON_EN_MEXICO](http://twitter.com/search?q=%23MYCON_EN_MEXICO) | N/A |
-| 37 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 38 | [MEXICO LOVES MAMAMOO](http://twitter.com/search?q=MEXICO+LOVES+MAMAMOO) | N/A |
-| 39 | [Bravos](http://twitter.com/search?q=Bravos) | N/A |
-| 40 | [Perote](http://twitter.com/search?q=Perote) | N/A |
-| 41 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 42 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 43 | [Logrado](http://twitter.com/search?q=Logrado) | N/A |
-| 44 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 45 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 46 | [Duolingo](http://twitter.com/search?q=Duolingo) | N/A |
-| 47 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 48 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 49 | [valdo](http://twitter.com/search?q=valdo) | N/A |
-| 50 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 17 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
+| 18 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 19 | [Changbin](http://twitter.com/search?q=Changbin) | N/A |
+| 20 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
+| 21 | [Marco Antonio](http://twitter.com/search?q=Marco+Antonio) | N/A |
+| 22 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 23 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 24 | [Arreola](http://twitter.com/search?q=Arreola) | N/A |
+| 25 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 27 | [Juárez](http://twitter.com/search?q=Ju%c3%a1rez) | N/A |
+| 28 | [#엘프가_이특을_안아줘요](http://twitter.com/search?q=%23%ec%97%98%ed%94%84%ea%b0%80_%ec%9d%b4%ed%8a%b9%ec%9d%84_%ec%95%88%ec%95%84%ec%a4%98%ec%9a%94) | N/A |
+| 29 | [Paseo Bravo](http://twitter.com/search?q=Paseo+Bravo) | N/A |
+| 30 | [Guido Pizarro](http://twitter.com/search?q=Guido+Pizarro) | N/A |
+| 31 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
+| 32 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 33 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 34 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 35 | [Perote](http://twitter.com/search?q=Perote) | N/A |
+| 36 | [#LEETEUK](http://twitter.com/search?q=%23LEETEUK) | N/A |
+| 37 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 38 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 39 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 40 | [Enrique de la Madrid](http://twitter.com/search?q=Enrique+de+la+Madrid) | N/A |
+| 41 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 42 | [Duolingo](http://twitter.com/search?q=Duolingo) | N/A |
+| 43 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 44 | [Logrado](http://twitter.com/search?q=Logrado) | N/A |
+| 45 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 46 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 47 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
+| 48 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 49 | [#ConLosNiñosNo](http://twitter.com/search?q=%23ConLosNi%c3%b1osNo) | N/A |
+| 50 | [#Vecinos](http://twitter.com/search?q=%23Vecinos) | N/A |
 
 
 

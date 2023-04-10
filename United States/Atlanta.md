@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-10 06:18:24 UTC`
+📆 Last Updated: `2023-04-10 07:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 2 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 3 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 4 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 5 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 2 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 3 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 4 | [#NCTDREAM_THEDREAMSHOW2_in_ATL](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2_in_ATL) | N/A |
+| 5 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
 | 6 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 7 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 8 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 9 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 7 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 8 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 9 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
 | 10 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 11 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 12 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 13 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 14 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
-| 15 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
-| 16 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 11 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 12 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 13 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
+| 14 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
+| 15 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 16 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
 | 17 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 18 | [Titter](http://twitter.com/search?q=Titter) | N/A |
-| 19 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 20 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 21 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 22 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 23 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
-| 24 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 25 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 26 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 18 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
+| 19 | [Titter](http://twitter.com/search?q=Titter) | N/A |
+| 20 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 21 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 22 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
+| 23 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
+| 24 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
+| 25 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 26 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
 | 27 | [Willa](http://twitter.com/search?q=Willa) | N/A |
-| 28 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
-| 29 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
-| 30 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 31 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 32 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
-| 33 | [Preece](http://twitter.com/search?q=Preece) | N/A |
-| 34 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
+| 28 | [#Wordle660](http://twitter.com/search?q=%23Wordle660) | N/A |
+| 29 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
+| 30 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 31 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 32 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 33 | [Zachary Gordon](http://twitter.com/search?q=Zachary+Gordon) | N/A |
+| 34 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
 | 35 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 36 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 37 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
-| 38 | [#NCTDREAM_THEDREAMSHOW2_in_ATL](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2_in_ATL) | N/A |
-| 39 | [Chuckles the Clown](http://twitter.com/search?q=Chuckles+the+Clown) | N/A |
-| 40 | [BINNIE](http://twitter.com/search?q=BINNIE) | N/A |
+| 36 | [BINNIE](http://twitter.com/search?q=BINNIE) | N/A |
+| 37 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 38 | [Ozymandias](http://twitter.com/search?q=Ozymandias) | N/A |
+| 39 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
+| 40 | [Preece](http://twitter.com/search?q=Preece) | N/A |
 | 41 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 42 | [Zachary Gordon](http://twitter.com/search?q=Zachary+Gordon) | N/A |
-| 43 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 42 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 43 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
 | 44 | [L to the OG](http://twitter.com/search?q=L+to+the+OG) | N/A |
-| 45 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
-| 46 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 47 | [Kieran Culkin](http://twitter.com/search?q=Kieran+Culkin) | N/A |
-| 48 | [Joan Baez](http://twitter.com/search?q=Joan+Baez) | N/A |
-| 49 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 50 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 45 | [Newsom](http://twitter.com/search?q=Newsom) | N/A |
+| 46 | [Beef](http://twitter.com/search?q=Beef) | N/A |
+| 47 | [Chuckles the Clown](http://twitter.com/search?q=Chuckles+the+Clown) | N/A |
+| 48 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 49 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 50 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 
 
 

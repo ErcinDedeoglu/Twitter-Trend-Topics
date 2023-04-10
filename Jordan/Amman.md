@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-04-10 06:18:16 UTC`
+📆 Last Updated: `2023-04-10 07:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Jordan](</Jordan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [١٩ رمضان](http://twitter.com/search?q=%d9%a1%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 2 | [كروز دخان](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b2+%d8%af%d8%ae%d8%a7%d9%86) | N/A |
-| 3 | [19 رمضان](http://twitter.com/search?q=19+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 4 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
-| 5 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 6 | [#النصر_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
-| 7 | [جمعية البنوك](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d9%8a%d8%a9+%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83) | N/A |
-| 8 | [تاجيل الاقساط](http://twitter.com/search?q=%d8%aa%d8%a7%d8%ac%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%82%d8%b3%d8%a7%d8%b7) | N/A |
-| 9 | [الامن العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 12 | [غسان كنفاني](http://twitter.com/search?q=%d8%ba%d8%b3%d8%a7%d9%86+%d9%83%d9%86%d9%81%d8%a7%d9%86%d9%8a) | N/A |
-| 13 | [الجولان المحتل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%84) | N/A |
-| 14 | [السوق المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
-| 15 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
-| 16 | [#عرين_الاسود](http://twitter.com/search?q=%23%d8%b9%d8%b1%d9%8a%d9%86_%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
-| 17 | [العشره الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
-| 18 | [#القبه_نيوز](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%a8%d9%87_%d9%86%d9%8a%d9%88%d8%b2) | N/A |
-| 19 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 20 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 21 | [#صلاه_الفجر](http://twitter.com/search?q=%23%d8%b5%d9%84%d8%a7%d9%87_%d8%a7%d9%84%d9%81%d8%ac%d8%b1) | N/A |
-| 22 | [ساندرو](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%af%d8%b1%d9%88) | N/A |
-| 23 | [علي الدوام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%a7%d9%85) | N/A |
-| 24 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
+| 1 | [الحاله الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 2 | [١٩ رمضان](http://twitter.com/search?q=%d9%a1%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 3 | [كروز دخان](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b2+%d8%af%d8%ae%d8%a7%d9%86) | N/A |
+| 4 | [19 رمضان](http://twitter.com/search?q=19+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 5 | [الطواري المتوسطه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%88%d8%a7%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%d9%87) | N/A |
+| 6 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 7 | [#النصر_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
+| 8 | [جمعية البنوك](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d9%8a%d8%a9+%d8%a7%d9%84%d8%a8%d9%86%d9%88%d9%83) | N/A |
+| 9 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
+| 10 | [تاجيل الاقساط](http://twitter.com/search?q=%d8%aa%d8%a7%d8%ac%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%82%d8%b3%d8%a7%d8%b7) | N/A |
+| 11 | [الامن العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 14 | [غسان كنفاني](http://twitter.com/search?q=%d8%ba%d8%b3%d8%a7%d9%86+%d9%83%d9%86%d9%81%d8%a7%d9%86%d9%8a) | N/A |
+| 15 | [الجولان المحتل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%ad%d8%aa%d9%84) | N/A |
+| 16 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 17 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
+| 18 | [العشره الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
+| 19 | [#عرين_الاسود](http://twitter.com/search?q=%23%d8%b9%d8%b1%d9%8a%d9%86_%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
+| 20 | [#القبه_نيوز](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%a8%d9%87_%d9%86%d9%8a%d9%88%d8%b2) | N/A |
+| 21 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 22 | [علي الدوام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%a7%d9%85) | N/A |
+| 23 | [#صلاه_الفجر](http://twitter.com/search?q=%23%d8%b5%d9%84%d8%a7%d9%87_%d8%a7%d9%84%d9%81%d8%ac%d8%b1) | N/A |
+| 24 | [ساندرو](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d8%af%d8%b1%d9%88) | N/A |
 | 25 | [صدام حسين](http://twitter.com/search?q=%d8%b5%d8%af%d8%a7%d9%85+%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
 | 26 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 27 | [العام الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 28 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 29 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
-| 30 | [الانستقرام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d9%85) | N/A |
-| 31 | [الجيش الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
-| 32 | [صنعاء](http://twitter.com/search?q=%d8%b5%d9%86%d8%b9%d8%a7%d8%a1) | N/A |
-| 33 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 34 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 35 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 36 | [إيران](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 37 | [بدي حدا](http://twitter.com/search?q=%d8%a8%d8%af%d9%8a+%d8%ad%d8%af%d8%a7) | N/A |
-| 38 | [الدوري الاسباني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
-| 39 | [عيسى](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%89) | N/A |
-| 40 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 41 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 42 | [الاسبوع الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 27 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
+| 28 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
+| 29 | [الجيش الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 30 | [صنعاء](http://twitter.com/search?q=%d8%b5%d9%86%d8%b9%d8%a7%d8%a1) | N/A |
+| 31 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
+| 32 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 33 | [الانستقرام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d9%85) | N/A |
+| 34 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 35 | [بدي حدا](http://twitter.com/search?q=%d8%a8%d8%af%d9%8a+%d8%ad%d8%af%d8%a7) | N/A |
+| 36 | [الدوري الاسباني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
+| 37 | [عيسى](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%89) | N/A |
+| 38 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
+| 39 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
+| 40 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 41 | [الاسبوع الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 42 | [إيران](http://twitter.com/search?q=%d8%a5%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
 | 43 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 44 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
 | 45 | [الاسف الشديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d9%81+%d8%a7%d9%84%d8%b4%d8%af%d9%8a%d8%af) | N/A |
-| 46 | [علي الدنيا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
-| 47 | [اكرم الاكرمين](http://twitter.com/search?q=%d8%a7%d9%83%d8%b1%d9%85+%d8%a7%d9%84%d8%a7%d9%83%d8%b1%d9%85%d9%8a%d9%86) | N/A |
-| 48 | [علي راسك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b1%d8%a7%d8%b3%d9%83) | N/A |
-| 49 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 50 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
+| 46 | [العام الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 47 | [علي الدنيا](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
+| 48 | [اكرم الاكرمين](http://twitter.com/search?q=%d8%a7%d9%83%d8%b1%d9%85+%d8%a7%d9%84%d8%a7%d9%83%d8%b1%d9%85%d9%8a%d9%86) | N/A |
+| 49 | [علي راسك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b1%d8%a7%d8%b3%d9%83) | N/A |
+| 50 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
 
 
 

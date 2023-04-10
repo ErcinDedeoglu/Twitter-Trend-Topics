@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-04-10 06:17:47 UTC`
+📆 Last Updated: `2023-04-10 07:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 1 | [Chantal](http://twitter.com/search?q=Chantal) | N/A |
 | 2 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
 | 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 4 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 5 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
+| 4 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
+| 5 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
 | 6 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
 | 7 | [#mlbporteleantillas](http://twitter.com/search?q=%23mlbporteleantillas) | N/A |
 | 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
@@ -50,8 +50,8 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 33 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 34 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 35 | [#vivirsinviolenciaesposible](http://twitter.com/search?q=%23vivirsinviolenciaesposible) | N/A |
-| 36 | [Las Terrenas](http://twitter.com/search?q=Las+Terrenas) | N/A |
-| 37 | [Play-in](http://twitter.com/search?q=Play-in) | N/A |
+| 36 | [las terrenas](http://twitter.com/search?q=las+terrenas) | N/A |
+| 37 | [Play-In](http://twitter.com/search?q=Play-In) | N/A |
 | 38 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
 | 39 | [villa altagracia](http://twitter.com/search?q=villa+altagracia) | N/A |
 | 40 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
@@ -59,7 +59,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 42 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
 | 43 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
 | 44 | [Playoffs](http://twitter.com/search?q=Playoffs) | N/A |
-| 45 | [Carlos Peña](http://twitter.com/search?q=Carlos+Pe%c3%b1a) | N/A |
+| 45 | [carlos peña](http://twitter.com/search?q=carlos+pe%c3%b1a) | N/A |
 | 46 | [VUDÚ](http://twitter.com/search?q=VUD%c3%9a) | N/A |
 | 47 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
 | 48 | [Vuelvo](http://twitter.com/search?q=Vuelvo) | N/A |

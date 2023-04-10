@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-04-10 06:17:53 UTC`
+📆 Last Updated: `2023-04-10 07:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 | 2 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
-| 3 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
-| 4 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 3 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 4 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
 | 5 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
 | 6 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 7 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 7 | [#FicaBruna](http://twitter.com/search?q=%23FicaBruna) | N/A |
 | 8 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
-| 9 | [inep](http://twitter.com/search?q=inep) | N/A |
-| 10 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 11 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 12 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
-| 13 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 14 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 15 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
-| 16 | [#ficavp](http://twitter.com/search?q=%23ficavp) | N/A |
-| 17 | [Fantástico](http://twitter.com/search?q=Fant%c3%a1stico) | N/A |
+| 9 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 10 | [inep](http://twitter.com/search?q=inep) | N/A |
+| 11 | [Se a Bruna](http://twitter.com/search?q=Se+a+Bruna) | N/A |
+| 12 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 13 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
+| 14 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
+| 15 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 16 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
+| 17 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
 | 18 | [xurrasco](http://twitter.com/search?q=xurrasco) | N/A |
-| 19 | [bogum](http://twitter.com/search?q=bogum) | N/A |
-| 20 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
-| 21 | [ELIMINAR](http://twitter.com/search?q=ELIMINAR) | N/A |
-| 22 | [Tchau Fred](http://twitter.com/search?q=Tchau+Fred) | N/A |
-| 23 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 24 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
-| 25 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 26 | [Se a Amanda](http://twitter.com/search?q=Se+a+Amanda) | N/A |
+| 19 | [Fantástico](http://twitter.com/search?q=Fant%c3%a1stico) | N/A |
+| 20 | [bogum](http://twitter.com/search?q=bogum) | N/A |
+| 21 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
+| 22 | [ELIMINAR](http://twitter.com/search?q=ELIMINAR) | N/A |
+| 23 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
+| 24 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 25 | [Fred e Bruna](http://twitter.com/search?q=Fred+e+Bruna) | N/A |
+| 26 | [Connor](http://twitter.com/search?q=Connor) | N/A |
 | 27 | [COM FORÇA](http://twitter.com/search?q=COM+FOR%c3%87A) | N/A |
 | 28 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
 | 29 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
 | 30 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
 | 31 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 32 | [EXPULSO](http://twitter.com/search?q=EXPULSO) | N/A |
+| 32 | [Expulso](http://twitter.com/search?q=Expulso) | N/A |
 | 33 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 34 | [Dinâmica](http://twitter.com/search?q=Din%c3%a2mica) | N/A |
-| 35 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
+| 34 | [Bruna Gritão](http://twitter.com/search?q=Bruna+Grit%c3%a3o) | N/A |
+| 35 | [Dinâmica](http://twitter.com/search?q=Din%c3%a2mica) | N/A |
 | 36 | [Eliminado](http://twitter.com/search?q=Eliminado) | N/A |
-| 37 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
-| 38 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
-| 39 | [Brunete](http://twitter.com/search?q=Brunete) | N/A |
-| 40 | [nora](http://twitter.com/search?q=nora) | N/A |
-| 41 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 42 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 43 | [Bruneca](http://twitter.com/search?q=Bruneca) | N/A |
-| 44 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 45 | [Brumanda](http://twitter.com/search?q=Brumanda) | N/A |
-| 46 | [Impurity Test](http://twitter.com/search?q=Impurity+Test) | N/A |
-| 47 | [Nichato](http://twitter.com/search?q=Nichato) | N/A |
-| 48 | [Yaiba](http://twitter.com/search?q=Yaiba) | N/A |
-| 49 | [bela adormecida](http://twitter.com/search?q=bela+adormecida) | N/A |
-| 50 | [Lisca](http://twitter.com/search?q=Lisca) | N/A |
+| 37 | [nora](http://twitter.com/search?q=nora) | N/A |
+| 38 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
+| 39 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 40 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
+| 41 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 42 | [Bruneca](http://twitter.com/search?q=Bruneca) | N/A |
+| 43 | [Brumanda](http://twitter.com/search?q=Brumanda) | N/A |
+| 44 | [Impurity Test](http://twitter.com/search?q=Impurity+Test) | N/A |
+| 45 | [Yaiba](http://twitter.com/search?q=Yaiba) | N/A |
+| 46 | [bela adormecida](http://twitter.com/search?q=bela+adormecida) | N/A |
+| 47 | [Lisca](http://twitter.com/search?q=Lisca) | N/A |
+| 48 | [Tudo NORMAL](http://twitter.com/search?q=Tudo+NORMAL) | N/A |
+| 49 | [#ForaAmanda](http://twitter.com/search?q=%23ForaAmanda) | N/A |
 
 
 
