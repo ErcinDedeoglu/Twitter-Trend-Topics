@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-04-10 11:17:58 UTC`
+📆 Last Updated: `2023-04-10 12:19:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AskPau](http://twitter.com/search?q=%23AskPau) | N/A |
-| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 3 | [#IVE_1ST_ALBUM_RELEASE](http://twitter.com/search?q=%23IVE_1ST_ALBUM_RELEASE) | N/A |
-| 4 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 5 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 6 | [D4 KDLEXPETA COMEBACK](http://twitter.com/search?q=D4+KDLEXPETA+COMEBACK) | N/A |
-| 7 | [FRANSETH 1M PROMLOVE](http://twitter.com/search?q=FRANSETH+1M+PROMLOVE) | N/A |
-| 8 | [#BINIonTikToClock](http://twitter.com/search?q=%23BINIonTikToClock) | N/A |
+| 1 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
+| 2 | [#IveIVE](http://twitter.com/search?q=%23IveIVE) | N/A |
+| 3 | [#AskPau](http://twitter.com/search?q=%23AskPau) | N/A |
+| 4 | [FRANSETH 1M PROMLOVE](http://twitter.com/search?q=FRANSETH+1M+PROMLOVE) | N/A |
+| 5 | [#OurSkyy2](http://twitter.com/search?q=%23OurSkyy2) | N/A |
+| 6 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 7 | [#IVE_1ST_ALBUM_RELEASE](http://twitter.com/search?q=%23IVE_1ST_ALBUM_RELEASE) | N/A |
+| 8 | [#FELIP_COMPLEXlive](http://twitter.com/search?q=%23FELIP_COMPLEXlive) | N/A |
 | 9 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 10 | [jisoo debut stage](http://twitter.com/search?q=jisoo+debut+stage) | N/A |
-| 11 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 12 | [#JISOOatInkigayo](http://twitter.com/search?q=%23JISOOatInkigayo) | N/A |
-| 13 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 14 | [Good Works and Giving](http://twitter.com/search?q=Good+Works+and+Giving) | N/A |
-| 15 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 16 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
+| 10 | [Good Works and Giving](http://twitter.com/search?q=Good+Works+and+Giving) | N/A |
+| 11 | [VoteFiLay AsiasIconicLoveteam](http://twitter.com/search?q=VoteFiLay+AsiasIconicLoveteam) | N/A |
+| 12 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 13 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 14 | [D4 KDLEXPETA COMEBACK](http://twitter.com/search?q=D4+KDLEXPETA+COMEBACK) | N/A |
+| 15 | [jieun](http://twitter.com/search?q=jieun) | N/A |
+| 16 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
 | 17 | [Back to the City](http://twitter.com/search?q=Back+to+the+City) | N/A |
-| 18 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 19 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 20 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 21 | [MIN YOONGI](http://twitter.com/search?q=MIN+YOONGI) | MIN YOONGI is the stage name of South Korean rapper, songwriter, and record producer Suga. In English, it translates to "Suga" or "Suga of Min". |
-| 22 | [jieun](http://twitter.com/search?q=jieun) | N/A |
-| 23 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 24 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
-| 25 | [JEON JUNGKOOK IS COMING](http://twitter.com/search?q=JEON+JUNGKOOK+IS+COMING) | N/A |
-| 26 | [suchwita](http://twitter.com/search?q=suchwita) | N/A |
-| 27 | [NOT YOUR GIRL](http://twitter.com/search?q=NOT+YOUR+GIRL) | N/A |
-| 28 | [VoteFiLay AsiasIconicLoveteam](http://twitter.com/search?q=VoteFiLay+AsiasIconicLoveteam) | N/A |
+| 18 | [winwin](http://twitter.com/search?q=winwin) | N/A |
+| 19 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 20 | [Shine With Me](http://twitter.com/search?q=Shine+With+Me) | N/A |
+| 21 | [NOT YOUR GIRL](http://twitter.com/search?q=NOT+YOUR+GIRL) | N/A |
+| 22 | [Palette](http://twitter.com/search?q=Palette) | N/A |
+| 23 | [Manila](http://twitter.com/search?q=Manila) | N/A |
+| 24 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
+| 25 | [Celine](http://twitter.com/search?q=Celine) | N/A |
+| 26 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
+| 27 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 28 | [Aespa](http://twitter.com/search?q=Aespa) | N/A |
 | 29 | [Jollibee](http://twitter.com/search?q=Jollibee) | N/A |
-| 30 | [Shine With Me](http://twitter.com/search?q=Shine+With+Me) | N/A |
-| 31 | [Gaeul](http://twitter.com/search?q=Gaeul) | N/A |
-| 32 | [JK x JB](http://twitter.com/search?q=JK+x+JB) | N/A |
-| 33 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 34 | [Marie Claire](http://twitter.com/search?q=Marie+Claire) | N/A |
-| 35 | [EIGHT LIVE](http://twitter.com/search?q=EIGHT+LIVE) | N/A |
-| 36 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 37 | [Blue Blood](http://twitter.com/search?q=Blue+Blood) | N/A |
-| 38 | [Day of Valor](http://twitter.com/search?q=Day+of+Valor) | N/A |
-| 39 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
-| 40 | [IU and Yoongi](http://twitter.com/search?q=IU+and+Yoongi) | N/A |
-| 41 | [Palette](http://twitter.com/search?q=Palette) | N/A |
-| 42 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 43 | [Happy Ending](http://twitter.com/search?q=Happy+Ending) | N/A |
-| 44 | [Next Page](http://twitter.com/search?q=Next+Page) | N/A |
-| 45 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 46 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
-| 47 | [SOTY](http://twitter.com/search?q=SOTY) | SOTY stands for "Song of the Year" and is a term used to refer to a popular song that has been released in the past year. It is usually chosen by music critics or fans as the best song of the year. |
-| 48 | [D-4 TO PARAISO](http://twitter.com/search?q=D-4+TO+PARAISO) | N/A |
-| 49 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 50 | [Woosung](http://twitter.com/search?q=Woosung) | N/A |
+| 30 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 31 | [Intramuros](http://twitter.com/search?q=Intramuros) | N/A |
+| 32 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 33 | [#FELIP_ROCKSTA](http://twitter.com/search?q=%23FELIP_ROCKSTA) | #FELIP_ROCKSTA is a hashtag used to show support for the artist Felip Rocksta. It is often used on social media platforms such as Twitter and Instagram to show appreciation for his music and artistry. |
+| 34 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 35 | [#FiLayAILxMCI](http://twitter.com/search?q=%23FiLayAILxMCI) | N/A |
+| 36 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
+| 37 | [#lucalive](http://twitter.com/search?q=%23lucalive) | N/A |
+| 38 | [#FirstEightWP](http://twitter.com/search?q=%23FirstEightWP) | N/A |
+| 39 | [#KVersePH](http://twitter.com/search?q=%23KVersePH) | N/A |
+| 40 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 41 | [#Kep1er](http://twitter.com/search?q=%23Kep1er) | N/A |
+| 42 | [#HereComesTheGroom](http://twitter.com/search?q=%23HereComesTheGroom) | N/A |
 
 
 

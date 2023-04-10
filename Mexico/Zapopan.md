@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zapopan
 
-📆 Last Updated: `2023-04-10 11:17:34 UTC`
+📆 Last Updated: `2023-04-10 12:18:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,21 +18,21 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [Juárez](http://twitter.com/search?q=Ju%c3%a1rez) | N/A |
 | 2 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
 | 3 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
-| 4 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 4 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 6 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 7 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 8 | [CD9 IS BACK](http://twitter.com/search?q=CD9+IS+BACK) | N/A |
-| 9 | [#CD910AÑOS](http://twitter.com/search?q=%23CD910A%c3%91OS) | N/A |
-| 10 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
+| 6 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 7 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 8 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
+| 9 | [cd9 is back](http://twitter.com/search?q=cd9+is+back) | N/A |
+| 10 | [#cd910años](http://twitter.com/search?q=%23cd910a%c3%b1os) | N/A |
 | 11 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
-| 12 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 13 | [CD9 COMEBACK](http://twitter.com/search?q=CD9+COMEBACK) | N/A |
-| 14 | [#DomingoGlorioso](http://twitter.com/search?q=%23DomingoGlorioso) | N/A |
+| 12 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
+| 13 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 14 | [CD9 COMEBACK](http://twitter.com/search?q=CD9+COMEBACK) | N/A |
 | 15 | [CD9 RETURN](http://twitter.com/search?q=CD9+RETURN) | N/A |
-| 16 | [#LaMañaneraNoSeToca](http://twitter.com/search?q=%23LaMa%c3%b1aneraNoSeToca) | N/A |
-| 17 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 18 | [#AtletasPorUnAuto](http://twitter.com/search?q=%23AtletasPorUnAuto) | N/A |
+| 16 | [#DomingoGlorioso](http://twitter.com/search?q=%23DomingoGlorioso) | N/A |
+| 17 | [#LaMañaneraNoSeToca](http://twitter.com/search?q=%23LaMa%c3%b1aneraNoSeToca) | N/A |
+| 18 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 19 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
 | 20 | [Jardines del Pedregal](http://twitter.com/search?q=Jardines+del+Pedregal) | N/A |
 | 21 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for [Mexico](</Mexico>)
 | 37 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
 | 38 | [jisoo debut stage](http://twitter.com/search?q=jisoo+debut+stage) | N/A |
 | 39 | [MEXICO LOVES MAMAMOO](http://twitter.com/search?q=MEXICO+LOVES+MAMAMOO) | N/A |
-| 40 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 41 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 40 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 41 | [CODERS CLOWNS](http://twitter.com/search?q=CODERS+CLOWNS) | N/A |
 | 42 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 43 | [CODERS CLOWNS](http://twitter.com/search?q=CODERS+CLOWNS) | N/A |
-| 44 | [estamos contigo nat](http://twitter.com/search?q=estamos+contigo+nat) | N/A |
-| 45 | [VIÑAS](http://twitter.com/search?q=VI%c3%91AS) | N/A |
-| 46 | [return of cd9](http://twitter.com/search?q=return+of+cd9) | N/A |
-| 47 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 48 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 49 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 50 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 43 | [estamos contigo nat](http://twitter.com/search?q=estamos+contigo+nat) | N/A |
+| 44 | [viñas](http://twitter.com/search?q=vi%c3%b1as) | N/A |
+| 45 | [return of cd9](http://twitter.com/search?q=return+of+cd9) | N/A |
+| 46 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 47 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 48 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
+| 49 | [malagón](http://twitter.com/search?q=malag%c3%b3n) | N/A |
+| 50 | [Julio González](http://twitter.com/search?q=Julio+Gonz%c3%a1lez) | N/A |
 
 
 

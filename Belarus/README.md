@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-10 11:18:26 UTC`
+📆 Last Updated: `2023-04-10 12:19:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,16 +22,18 @@ This is top 50 for Belarus
 | 5 | [Беларусь](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
 | 6 | [Скоро](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%be) | N/A |
 | 7 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
-| 8 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 9 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
-| 10 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
-| 11 | [#digitalart](http://twitter.com/search?q=%23digitalart) | N/A |
-| 12 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
+| 8 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
+| 9 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
+| 10 | [#digitalart](http://twitter.com/search?q=%23digitalart) | N/A |
+| 11 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
+| 12 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
 | 13 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | N/A |
-| 14 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
-| 15 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
+| 14 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
+| 15 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 16 | [Главное](http://twitter.com/search?q=%d0%93%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5) | N/A |
-| 17 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
+| 17 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 18 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
+| 19 | [Возможно](http://twitter.com/search?q=%d0%92%d0%be%d0%b7%d0%bc%d0%be%d0%b6%d0%bd%d0%be) | N/A |
 
 
 

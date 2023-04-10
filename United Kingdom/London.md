@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-04-10 11:17:30 UTC`
+📆 Last Updated: `2023-04-10 12:18:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 2 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
-| 3 | [#Mondaymorning](http://twitter.com/search?q=%23Mondaymorning) | N/A |
+| 2 | [#ToriesOut277](http://twitter.com/search?q=%23ToriesOut277) | N/A |
+| 3 | [Saville](http://twitter.com/search?q=Saville) | N/A |
 | 4 | [#Wordle660](http://twitter.com/search?q=%23Wordle660) | N/A |
 | 5 | [IT'S MATCHDAY](http://twitter.com/search?q=IT%27S+MATCHDAY) | N/A |
-| 6 | [Doug](http://twitter.com/search?q=Doug) | N/A |
+| 6 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
 | 7 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 8 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 9 | [Neville](http://twitter.com/search?q=Neville) | N/A |
-| 10 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 11 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 12 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 13 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 14 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 15 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 16 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 17 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 18 | [#BankHolidayMonday](http://twitter.com/search?q=%23BankHolidayMonday) | N/A |
-| 19 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
-| 20 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 21 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
-| 22 | [Ferdinand](http://twitter.com/search?q=Ferdinand) | N/A |
-| 23 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 24 | [Stam](http://twitter.com/search?q=Stam) | N/A |
-| 25 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
-| 26 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 27 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 28 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 29 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 30 | [Good Friday Agreement](http://twitter.com/search?q=Good+Friday+Agreement) | N/A |
-| 31 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
-| 32 | [Thornberry](http://twitter.com/search?q=Thornberry) | N/A |
-| 33 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
-| 34 | [Constantine Hatzidakis](http://twitter.com/search?q=Constantine+Hatzidakis) | N/A |
-| 35 | [Dermot Gallagher](http://twitter.com/search?q=Dermot+Gallagher) | N/A |
-| 36 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 37 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
-| 38 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
-| 39 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 40 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 41 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
-| 42 | [Senna](http://twitter.com/search?q=Senna) | N/A |
-| 43 | [Daily Quordle 441](http://twitter.com/search?q=Daily+Quordle+441) | N/A |
-| 44 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 45 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 46 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 47 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
-| 48 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
-| 49 | [Irish Grand National](http://twitter.com/search?q=Irish+Grand+National) | N/A |
+| 8 | [Doug](http://twitter.com/search?q=Doug) | N/A |
+| 9 | [#YesSWC2023](http://twitter.com/search?q=%23YesSWC2023) | N/A |
+| 10 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 11 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 12 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 13 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 14 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 15 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 16 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 17 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 18 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
+| 19 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 20 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 21 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 22 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 23 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
+| 24 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 25 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 26 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 27 | [Ferdinand](http://twitter.com/search?q=Ferdinand) | N/A |
+| 28 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
+| 29 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 30 | [Team GB](http://twitter.com/search?q=Team+GB) | N/A |
+| 31 | [Stam](http://twitter.com/search?q=Stam) | N/A |
+| 32 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
+| 33 | [Best CB](http://twitter.com/search?q=Best+CB) | N/A |
+| 34 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 35 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 36 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 37 | [Constantine Hatzidakis](http://twitter.com/search?q=Constantine+Hatzidakis) | N/A |
+| 38 | [Dele Alli](http://twitter.com/search?q=Dele+Alli) | Dele Alli is the nickname of English professional footballer Dele Alli, who plays for Tottenham Hotspur and the England national team. The name is a combination of his given name, Bamidele, and his surname, Alli. |
+| 39 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 40 | [Passport to Pimlico](http://twitter.com/search?q=Passport+to+Pimlico) | N/A |
+| 41 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 42 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
+| 43 | [Dermot Gallagher](http://twitter.com/search?q=Dermot+Gallagher) | N/A |
+| 44 | [Good Friday Agreement](http://twitter.com/search?q=Good+Friday+Agreement) | N/A |
+| 45 | [India Willoughby](http://twitter.com/search?q=India+Willoughby) | N/A |
+| 46 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
+| 47 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
+| 48 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 49 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
 
 
 
