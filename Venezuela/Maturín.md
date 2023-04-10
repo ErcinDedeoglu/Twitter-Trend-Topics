@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maturín
 
-📆 Last Updated: `2023-04-10 15:17:23 UTC`
+📆 Last Updated: `2023-04-10 16:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Venezuela](</Venezuela>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#10Abr](http://twitter.com/search?q=%2310Abr) | N/A |
-| 2 | [#EsteEsMiPaís](http://twitter.com/search?q=%23EsteEsMiPa%c3%ads) | N/A |
-| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 4 | [#9Abr](http://twitter.com/search?q=%239Abr) | N/A |
-| 5 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 6 | [Hola Tadeo](http://twitter.com/search?q=Hola+Tadeo) | "Hola Tadeo" is a Spanish greeting, which translates to "Hello Tadeo" in English. It is a friendly way to greet someone. |
-| 7 | [#domingodereencuentro](http://twitter.com/search?q=%23domingodereencuentro) | N/A |
-| 8 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 9 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 10 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
+| 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 3 | [#EsteEsMiPaís](http://twitter.com/search?q=%23EsteEsMiPa%c3%ads) | N/A |
+| 4 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 5 | [#9Abr](http://twitter.com/search?q=%239Abr) | N/A |
+| 6 | [#domingodereencuentro](http://twitter.com/search?q=%23domingodereencuentro) | N/A |
+| 7 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 8 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
+| 9 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
+| 10 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 11 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
-| 12 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 13 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
-| 14 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
-| 15 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 16 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
-| 17 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
-| 18 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 19 | [Jorge Negrete](http://twitter.com/search?q=Jorge+Negrete) | N/A |
-| 20 | [Edecio](http://twitter.com/search?q=Edecio) | N/A |
-| 21 | [Lisandro Alvarado](http://twitter.com/search?q=Lisandro+Alvarado) | N/A |
-| 22 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 23 | [Feliz Inicio de Semana](http://twitter.com/search?q=Feliz+Inicio+de+Semana) | N/A |
-| 24 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
+| 12 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
+| 13 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 14 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 15 | [Edecio](http://twitter.com/search?q=Edecio) | N/A |
+| 16 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
+| 17 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 18 | [Jorge Negrete](http://twitter.com/search?q=Jorge+Negrete) | N/A |
+| 19 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
+| 20 | [Lisandro Alvarado](http://twitter.com/search?q=Lisandro+Alvarado) | N/A |
+| 21 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 22 | [Ivonne Attas](http://twitter.com/search?q=Ivonne+Attas) | N/A |
+| 23 | [Dr. Bernardo Houssay](http://twitter.com/search?q=Dr.+Bernardo+Houssay) | N/A |
+| 24 | [Feliz Inicio de Semana](http://twitter.com/search?q=Feliz+Inicio+de+Semana) | N/A |
 | 25 | [Eladio Lares](http://twitter.com/search?q=Eladio+Lares) | N/A |
-| 26 | [Ivonne Attas](http://twitter.com/search?q=Ivonne+Attas) | N/A |
-| 27 | [Tíbet](http://twitter.com/search?q=T%c3%adbet) | N/A |
-| 28 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
-| 29 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
-| 30 | [Dr. Bernardo Houssay](http://twitter.com/search?q=Dr.+Bernardo+Houssay) | N/A |
-| 31 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 26 | [Tíbet](http://twitter.com/search?q=T%c3%adbet) | N/A |
+| 27 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
+| 28 | [Zelle](http://twitter.com/search?q=Zelle) | N/A |
+| 29 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
+| 30 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
+| 31 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
 | 32 | [Felipe González](http://twitter.com/search?q=Felipe+Gonz%c3%a1lez) | N/A |
 | 33 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
-| 34 | [Jaime Lusinchi](http://twitter.com/search?q=Jaime+Lusinchi) | N/A |
-| 35 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 36 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
-| 37 | [Luis Oliveros](http://twitter.com/search?q=Luis+Oliveros) | N/A |
-| 38 | [Alex Saab](http://twitter.com/search?q=Alex+Saab) | N/A |
+| 34 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 35 | [Luis Oliveros](http://twitter.com/search?q=Luis+Oliveros) | N/A |
+| 36 | [Lusinchi](http://twitter.com/search?q=Lusinchi) | N/A |
+| 37 | [Alex Saab](http://twitter.com/search?q=Alex+Saab) | N/A |
+| 38 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
 | 39 | [Esequibo](http://twitter.com/search?q=Esequibo) | N/A |
 | 40 | [Lacava](http://twitter.com/search?q=Lacava) | N/A |
 | 41 | [América Alonso](http://twitter.com/search?q=Am%c3%a9rica+Alonso) | N/A |
-| 42 | [Judas](http://twitter.com/search?q=Judas) | N/A |
-| 43 | [María Félix](http://twitter.com/search?q=Mar%c3%ada+F%c3%a9lix) | N/A |
-| 44 | [El 10](http://twitter.com/search?q=El+10) | N/A |
-| 45 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 46 | [Guarenas](http://twitter.com/search?q=Guarenas) | N/A |
+| 42 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
+| 43 | [Judas](http://twitter.com/search?q=Judas) | N/A |
+| 44 | [Guarenas](http://twitter.com/search?q=Guarenas) | N/A |
+| 45 | [María Félix](http://twitter.com/search?q=Mar%c3%ada+F%c3%a9lix) | N/A |
+| 46 | [El 10](http://twitter.com/search?q=El+10) | N/A |
 | 47 | [Carlos Andrés Pérez](http://twitter.com/search?q=Carlos+Andr%c3%a9s+P%c3%a9rez) | N/A |
-| 48 | [Zelle](http://twitter.com/search?q=Zelle) | N/A |
-| 49 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 50 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 48 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 49 | [Ana Teresa Torres](http://twitter.com/search?q=Ana+Teresa+Torres) | N/A |
+| 50 | [Feliz Semana](http://twitter.com/search?q=Feliz+Semana) | N/A |
 
 
 

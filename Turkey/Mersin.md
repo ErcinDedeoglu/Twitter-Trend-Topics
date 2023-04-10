@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-04-10 15:17:55 UTC`
+📆 Last Updated: `2023-04-10 16:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Turkey](</Turkey>)
 | 2 | [#TürkiyeTarihYazacak](http://twitter.com/search?q=%23T%c3%bcrkiyeTarihYazacak) | N/A |
 | 3 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
 | 4 | [SİHA](http://twitter.com/search?q=S%c4%b0HA) | N/A |
-| 5 | [Teyiti Engelliyoruz](http://twitter.com/search?q=Teyiti+Engelliyoruz) | N/A |
-| 6 | [#OyumEk55BinÖğretmene](http://twitter.com/search?q=%23OyumEk55Bin%c3%96%c4%9fretmene) | N/A |
+| 5 | [#nolcakşimdi](http://twitter.com/search?q=%23nolcak%c5%9fimdi) | N/A |
+| 6 | [TetikçininOğlu FOXta](http://twitter.com/search?q=Tetik%c3%a7ininO%c4%9flu+FOXta) | N/A |
 | 7 | [DevrimErtan İbrahimSelime](http://twitter.com/search?q=DevrimErtan+%c4%b0brahimSelime) | N/A |
-| 8 | [Asalet](http://twitter.com/search?q=Asalet) | N/A |
-| 9 | [Levent Uysal](http://twitter.com/search?q=Levent+Uysal) | N/A |
-| 10 | [Umut Nayir](http://twitter.com/search?q=Umut+Nayir) | Umut Nayir is a Turkish phrase that translates to "hope for the future". It is often used as a motto or slogan to express optimism and positivity. |
-| 11 | [Amasya](http://twitter.com/search?q=Amasya) | N/A |
-| 12 | [58 Hizbullah](http://twitter.com/search?q=58+Hizbullah) | N/A |
-| 13 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
-| 14 | [Uçak](http://twitter.com/search?q=U%c3%a7ak) | N/A |
-| 15 | [Merzifon](http://twitter.com/search?q=Merzifon) | N/A |
-| 16 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 17 | [Tokat](http://twitter.com/search?q=Tokat) | N/A |
-| 18 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
-| 19 | [Kuzey Kore](http://twitter.com/search?q=Kuzey+Kore) | N/A |
-| 20 | [Pide](http://twitter.com/search?q=Pide) | N/A |
-| 21 | [Genelkurmay Başkanı](http://twitter.com/search?q=Genelkurmay+Ba%c5%9fkan%c4%b1) | N/A |
-| 22 | [Kızılelma](http://twitter.com/search?q=K%c4%b1z%c4%b1lelma) | N/A |
-| 23 | [osman naim kaya](http://twitter.com/search?q=osman+naim+kaya) | N/A |
-| 24 | [Kuruluş Yıl Dönümü](http://twitter.com/search?q=Kurulu%c5%9f+Y%c4%b1l+D%c3%b6n%c3%bcm%c3%bc) | N/A |
-| 25 | [Mareşal Fevzi Çakmak](http://twitter.com/search?q=Mare%c5%9fal+Fevzi+%c3%87akmak) | N/A |
-| 26 | [Şule Çet](http://twitter.com/search?q=%c5%9eule+%c3%87et) | N/A |
-| 27 | [Diagne](http://twitter.com/search?q=Diagne) | N/A |
-| 28 | [Türk Silahlı Kuvvetleri](http://twitter.com/search?q=T%c3%bcrk+Silahl%c4%b1+Kuvvetleri) | N/A |
-| 29 | [Ahmet Adanur](http://twitter.com/search?q=Ahmet+Adanur) | N/A |
-| 30 | [Emeği](http://twitter.com/search?q=Eme%c4%9fi) | N/A |
-| 31 | [Kolin](http://twitter.com/search?q=Kolin) | N/A |
-| 32 | [11 Nisan Salı](http://twitter.com/search?q=11+Nisan+Sal%c4%b1) | N/A |
-| 33 | [Emniyet](http://twitter.com/search?q=Emniyet) | N/A |
-| 34 | [Fuat](http://twitter.com/search?q=Fuat) | Fuat is a Turkish name derived from the Arabic word "Fawwaz", meaning "successful". It is also used as a surname in Turkey. |
-| 35 | [12 Nisan Çarşamba](http://twitter.com/search?q=12+Nisan+%c3%87ar%c5%9famba) | N/A |
-| 36 | [savunma](http://twitter.com/search?q=savunma) | N/A |
-| 37 | [Cem Garipoğlu](http://twitter.com/search?q=Cem+Garipo%c4%9flu) | N/A |
-| 38 | [Abdullah Öcalan](http://twitter.com/search?q=Abdullah+%c3%96calan) | N/A |
-| 39 | [Alırsın](http://twitter.com/search?q=Al%c4%b1rs%c4%b1n) | N/A |
-| 40 | [Deniz Kuvvetleri Komutanlığına](http://twitter.com/search?q=Deniz+Kuvvetleri+Komutanl%c4%b1%c4%9f%c4%b1na) | N/A |
-| 41 | [Kaymakamımız Sn](http://twitter.com/search?q=Kaymakam%c4%b1m%c4%b1z+Sn) | N/A |
-| 42 | [Ece Güner](http://twitter.com/search?q=Ece+G%c3%bcner) | N/A |
-| 43 | [HAYIRLI OLSUN](http://twitter.com/search?q=HAYIRLI+OLSUN) | N/A |
-| 44 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
-| 45 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
-| 46 | [Ferhat](http://twitter.com/search?q=Ferhat) | N/A |
-| 47 | [AK Parti'de](http://twitter.com/search?q=AK+Parti%27de) | N/A |
-| 48 | [idris naim şahin](http://twitter.com/search?q=idris+naim+%c5%9fahin) | N/A |
+| 8 | [Teyiti Engelliyoruz](http://twitter.com/search?q=Teyiti+Engelliyoruz) | N/A |
+| 9 | [Asalet](http://twitter.com/search?q=Asalet) | N/A |
+| 10 | [58 Hizbullah](http://twitter.com/search?q=58+Hizbullah) | N/A |
+| 11 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
+| 12 | [Umut Nayir](http://twitter.com/search?q=Umut+Nayir) | Umut Nayir is a Turkish phrase that translates to "hope for the future". It is often used as a motto or slogan to express optimism and positivity. |
+| 13 | [Mutlu Akşamlar](http://twitter.com/search?q=Mutlu+Ak%c5%9famlar) | N/A |
+| 14 | [Levent Uysal](http://twitter.com/search?q=Levent+Uysal) | N/A |
+| 15 | [Amasya](http://twitter.com/search?q=Amasya) | N/A |
+| 16 | [Çağdaş Atan](http://twitter.com/search?q=%c3%87a%c4%9fda%c5%9f+Atan) | N/A |
+| 17 | [Uçak](http://twitter.com/search?q=U%c3%a7ak) | N/A |
+| 18 | [Emrullah](http://twitter.com/search?q=Emrullah) | N/A |
+| 19 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 20 | [Tokat](http://twitter.com/search?q=Tokat) | N/A |
+| 21 | [Merzifon](http://twitter.com/search?q=Merzifon) | N/A |
+| 22 | [Diagne](http://twitter.com/search?q=Diagne) | N/A |
+| 23 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 24 | [Fulya](http://twitter.com/search?q=Fulya) | N/A |
+| 25 | [Genelkurmay Başkanı](http://twitter.com/search?q=Genelkurmay+Ba%c5%9fkan%c4%b1) | N/A |
+| 26 | [Takla](http://twitter.com/search?q=Takla) | N/A |
+| 27 | [Emeği](http://twitter.com/search?q=Eme%c4%9fi) | N/A |
+| 28 | [Kuzey Kore](http://twitter.com/search?q=Kuzey+Kore) | N/A |
+| 29 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
+| 30 | [Kuruluş Yıl Dönümü](http://twitter.com/search?q=Kurulu%c5%9f+Y%c4%b1l+D%c3%b6n%c3%bcm%c3%bc) | N/A |
+| 31 | [Pide](http://twitter.com/search?q=Pide) | N/A |
+| 32 | [Kolin](http://twitter.com/search?q=Kolin) | N/A |
+| 33 | [Kızılelma](http://twitter.com/search?q=K%c4%b1z%c4%b1lelma) | N/A |
+| 34 | [11 Nisan Salı](http://twitter.com/search?q=11+Nisan+Sal%c4%b1) | N/A |
+| 35 | [Şule Çet](http://twitter.com/search?q=%c5%9eule+%c3%87et) | N/A |
+| 36 | [Fuat](http://twitter.com/search?q=Fuat) | Fuat is a Turkish name derived from the Arabic word "Fawwaz", meaning "successful". It is also used as a surname in Turkey. |
+| 37 | [Mareşal Fevzi Çakmak](http://twitter.com/search?q=Mare%c5%9fal+Fevzi+%c3%87akmak) | N/A |
+| 38 | [Emniyet](http://twitter.com/search?q=Emniyet) | N/A |
+| 39 | [Türk Silahlı Kuvvetleri](http://twitter.com/search?q=T%c3%bcrk+Silahl%c4%b1+Kuvvetleri) | N/A |
+| 40 | [Cem Garipoğlu](http://twitter.com/search?q=Cem+Garipo%c4%9flu) | N/A |
+| 41 | [Alırsın](http://twitter.com/search?q=Al%c4%b1rs%c4%b1n) | N/A |
+| 42 | [Çarşamba](http://twitter.com/search?q=%c3%87ar%c5%9famba) | N/A |
+| 43 | [Deniz Kuvvetleri Komutanlığına](http://twitter.com/search?q=Deniz+Kuvvetleri+Komutanl%c4%b1%c4%9f%c4%b1na) | N/A |
+| 44 | [Kaymakamımız Sn](http://twitter.com/search?q=Kaymakam%c4%b1m%c4%b1z+Sn) | N/A |
+| 45 | [Abdullah Öcalan](http://twitter.com/search?q=Abdullah+%c3%96calan) | N/A |
+| 46 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
+| 47 | [Ece Güner](http://twitter.com/search?q=Ece+G%c3%bcner) | N/A |
+| 48 | [HAYIRLI OLSUN](http://twitter.com/search?q=HAYIRLI+OLSUN) | N/A |
 
 
 

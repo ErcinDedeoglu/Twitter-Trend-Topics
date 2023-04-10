@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-04-10 15:18:09 UTC`
+📆 Last Updated: `2023-04-10 16:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Chile
 | ------- | ------------ | ------------ |
 | 1 | [Ovimarlixion](http://twitter.com/search?q=Ovimarlixion) | N/A |
 | 2 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
-| 3 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
+| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 4 | [Chimbarongo](http://twitter.com/search?q=Chimbarongo) | N/A |
-| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 5 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
 | 6 | [#ToleranciaCero](http://twitter.com/search?q=%23ToleranciaCero) | N/A |
-| 7 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 8 | [#MuchoGustoMega](http://twitter.com/search?q=%23MuchoGustoMega) | N/A |
-| 9 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 10 | [Luis Lugo Machado](http://twitter.com/search?q=Luis+Lugo+Machado) | N/A |
-| 11 | [tenía 19](http://twitter.com/search?q=ten%c3%ada+19) | N/A |
-| 12 | [Santiago City](http://twitter.com/search?q=Santiago+City) | N/A |
-| 13 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 14 | [Paulsen](http://twitter.com/search?q=Paulsen) | N/A |
-| 15 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
+| 7 | [#temblor](http://twitter.com/search?q=%23temblor) | N/A |
+| 8 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 9 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 10 | [Arlixon](http://twitter.com/search?q=Arlixon) | N/A |
+| 11 | [Luis Lugo Machado](http://twitter.com/search?q=Luis+Lugo+Machado) | N/A |
+| 12 | [Tenía 19](http://twitter.com/search?q=Ten%c3%ada+19) | N/A |
+| 13 | [Paulsen](http://twitter.com/search?q=Paulsen) | N/A |
+| 14 | [Santiago City](http://twitter.com/search?q=Santiago+City) | N/A |
+| 15 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
 | 16 | [Colina](http://twitter.com/search?q=Colina) | N/A |
-| 17 | [Quinta Normal](http://twitter.com/search?q=Quinta+Normal) | N/A |
-| 18 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 17 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 18 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
 | 19 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
 | 20 | [Baby Shower](http://twitter.com/search?q=Baby+Shower) | N/A |
-| 21 | [lucas soto](http://twitter.com/search?q=lucas+soto) | N/A |
-| 22 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
-| 23 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
-| 24 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 25 | [Copa Chile](http://twitter.com/search?q=Copa+Chile) | N/A |
-| 26 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 27 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
-| 28 | [Toha](http://twitter.com/search?q=Toha) | N/A |
-| 29 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 30 | [Batuco](http://twitter.com/search?q=Batuco) | N/A |
-| 31 | [bolados](http://twitter.com/search?q=bolados) | N/A |
-| 32 | [Diario Oficial](http://twitter.com/search?q=Diario+Oficial) | N/A |
-| 33 | [nació simón](http://twitter.com/search?q=naci%c3%b3+sim%c3%b3n) | N/A |
+| 21 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 22 | [Quinta Normal](http://twitter.com/search?q=Quinta+Normal) | N/A |
+| 23 | [Lucas Soto](http://twitter.com/search?q=Lucas+Soto) | N/A |
+| 24 | [Copa Chile](http://twitter.com/search?q=Copa+Chile) | N/A |
+| 25 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
+| 26 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 27 | [Ministra Vallejo](http://twitter.com/search?q=Ministra+Vallejo) | N/A |
+| 28 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 29 | [Batuco](http://twitter.com/search?q=Batuco) | N/A |
+| 30 | [Toha](http://twitter.com/search?q=Toha) | N/A |
+| 31 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 32 | [nació simón](http://twitter.com/search?q=naci%c3%b3+sim%c3%b3n) | N/A |
+| 33 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
 | 34 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 35 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
-| 36 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 37 | [Saldivia](http://twitter.com/search?q=Saldivia) | N/A |
-| 38 | [vicho pizarro](http://twitter.com/search?q=vicho+pizarro) | N/A |
-| 39 | [kike acuña](http://twitter.com/search?q=kike+acu%c3%b1a) | N/A |
-| 40 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 41 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
-| 42 | [gallegos](http://twitter.com/search?q=gallegos) | N/A |
-| 43 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 44 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
-| 45 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
-| 46 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
+| 35 | [Daniel Palma](http://twitter.com/search?q=Daniel+Palma) | N/A |
+| 36 | [vicho pizarro](http://twitter.com/search?q=vicho+pizarro) | N/A |
+| 37 | [kike acuña](http://twitter.com/search?q=kike+acu%c3%b1a) | N/A |
+| 38 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
+| 39 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
+| 40 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
+| 41 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 42 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
+| 43 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 44 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
+| 45 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
+| 46 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
 | 47 | [Nico Guerra](http://twitter.com/search?q=Nico+Guerra) | N/A |
-| 48 | [kiwi rojas](http://twitter.com/search?q=kiwi+rojas) | N/A |
-| 49 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
-| 50 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
+| 48 | [Diario Oficial](http://twitter.com/search?q=Diario+Oficial) | N/A |
+| 49 | [Feliz Pascua](http://twitter.com/search?q=Feliz+Pascua) | N/A |
+| 50 | [vicente pizarro](http://twitter.com/search?q=vicente+pizarro) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-10 15:17:57 UTC`
+📆 Last Updated: `2023-04-10 16:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
 | 3 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
 | 4 | [#NCTDREAM_THEDREAMSHOW2](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2) | N/A |
-| 5 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 6 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
 | 7 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 8 | [#NationalSiblingsDay](http://twitter.com/search?q=%23NationalSiblingsDay) | N/A |
-| 9 | [Old National Bank](http://twitter.com/search?q=Old+National+Bank) | N/A |
-| 10 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 11 | [Monday in America](http://twitter.com/search?q=Monday+in+America) | N/A |
+| 8 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 10 | [#NationalSiblingsDay](http://twitter.com/search?q=%23NationalSiblingsDay) | N/A |
+| 11 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
 | 12 | [#ItsTheGuns](http://twitter.com/search?q=%23ItsTheGuns) | N/A |
-| 13 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
-| 14 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 15 | [Active Shooter](http://twitter.com/search?q=Active+Shooter) | N/A |
-| 16 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 17 | [Slugger Field](http://twitter.com/search?q=Slugger+Field) | N/A |
-| 18 | [BLOOMING KARINA DAY](http://twitter.com/search?q=BLOOMING+KARINA+DAY) | N/A |
-| 19 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 20 | [Olay](http://twitter.com/search?q=Olay) | N/A |
-| 21 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
-| 22 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
-| 23 | [another monday](http://twitter.com/search?q=another+monday) | N/A |
-| 24 | [Al Roker](http://twitter.com/search?q=Al+Roker) | N/A |
-| 25 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 26 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 27 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
-| 28 | [Neil Young](http://twitter.com/search?q=Neil+Young) | N/A |
-| 29 | [Andy Beshear](http://twitter.com/search?q=Andy+Beshear) | N/A |
-| 30 | [Daily Quordle 441](http://twitter.com/search?q=Daily+Quordle+441) | N/A |
-| 31 | [Fahrenheit 451](http://twitter.com/search?q=Fahrenheit+451) | N/A |
-| 32 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 33 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
-| 34 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 35 | [Dyngus Day](http://twitter.com/search?q=Dyngus+Day) | N/A |
-| 36 | [Gulf of Mexico](http://twitter.com/search?q=Gulf+of+Mexico) | N/A |
-| 37 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 38 | [Volume 2](http://twitter.com/search?q=Volume+2) | N/A |
-| 39 | [Will Zalatoris](http://twitter.com/search?q=Will+Zalatoris) | N/A |
-| 40 | [Titter](http://twitter.com/search?q=Titter) | N/A |
-| 41 | [Paved](http://twitter.com/search?q=Paved) | N/A |
-| 42 | [My Monday](http://twitter.com/search?q=My+Monday) | N/A |
-| 43 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 44 | [Ana Kasparian](http://twitter.com/search?q=Ana+Kasparian) | N/A |
-| 45 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
-| 46 | [Red Pill](http://twitter.com/search?q=Red+Pill) | N/A |
-| 47 | [Hello Monday](http://twitter.com/search?q=Hello+Monday) | N/A |
-| 48 | [Nancy Mace](http://twitter.com/search?q=Nancy+Mace) | N/A |
+| 13 | [Old National Bank](http://twitter.com/search?q=Old+National+Bank) | N/A |
+| 14 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 15 | [Monday in America](http://twitter.com/search?q=Monday+in+America) | N/A |
+| 16 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
+| 17 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 18 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
+| 19 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
+| 20 | [JCTC](http://twitter.com/search?q=JCTC) | N/A |
+| 21 | [Active Shooter](http://twitter.com/search?q=Active+Shooter) | N/A |
+| 22 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
+| 23 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 24 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 25 | [Andy Beshear](http://twitter.com/search?q=Andy+Beshear) | N/A |
+| 26 | [Olay](http://twitter.com/search?q=Olay) | N/A |
+| 27 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
+| 28 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
+| 29 | [BLOOMING KARINA DAY](http://twitter.com/search?q=BLOOMING+KARINA+DAY) | N/A |
+| 30 | [Al Roker](http://twitter.com/search?q=Al+Roker) | N/A |
+| 31 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
+| 32 | [Slugger Field](http://twitter.com/search?q=Slugger+Field) | N/A |
+| 33 | [HAPPY BIRTHDAY DANIELLE](http://twitter.com/search?q=HAPPY+BIRTHDAY+DANIELLE) | N/A |
+| 34 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 35 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 36 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 37 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 38 | [Fahrenheit 451](http://twitter.com/search?q=Fahrenheit+451) | N/A |
+| 39 | [Nancy Mace](http://twitter.com/search?q=Nancy+Mace) | N/A |
+| 40 | [Gulf of Mexico](http://twitter.com/search?q=Gulf+of+Mexico) | N/A |
+| 41 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 42 | [Neil Young](http://twitter.com/search?q=Neil+Young) | N/A |
+| 43 | [Celebration](http://twitter.com/search?q=Celebration) | N/A |
+| 44 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 45 | [My Monday](http://twitter.com/search?q=My+Monday) | N/A |
+| 46 | [Dwayne Haskins](http://twitter.com/search?q=Dwayne+Haskins) | N/A |
+| 47 | [Red Pill](http://twitter.com/search?q=Red+Pill) | N/A |
+| 48 | [AIDS Awareness Day](http://twitter.com/search?q=AIDS+Awareness+Day) | N/A |
 | 49 | [Huckleberry](http://twitter.com/search?q=Huckleberry) | N/A |
-| 50 | [Barr](http://twitter.com/search?q=Barr) | Barr is a Scottish surname derived from the Gaelic word "barra", meaning "spear". It is also a common given name in Scotland. |
+| 50 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
 
 
 

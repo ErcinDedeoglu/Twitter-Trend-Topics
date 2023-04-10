@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bristol
 
-📆 Last Updated: `2023-04-10 15:17:11 UTC`
+📆 Last Updated: `2023-04-10 16:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Neil Warnock](http://twitter.com/search?q=Neil+Warnock) | N/A |
-| 2 | [Afternoon](http://twitter.com/search?q=Afternoon) | N/A |
-| 3 | [Evans](http://twitter.com/search?q=Evans) | N/A |
-| 4 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
-| 5 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
-| 6 | [Constantine Hatzidakis](http://twitter.com/search?q=Constantine+Hatzidakis) | N/A |
-| 7 | [Jimmy Saville](http://twitter.com/search?q=Jimmy+Saville) | N/A |
-| 8 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
-| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 10 | [#NotMyKing](http://twitter.com/search?q=%23NotMyKing) | N/A |
-| 11 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 12 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 13 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
-| 14 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 15 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
-| 16 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 17 | [#AbolishTheMonarchy](http://twitter.com/search?q=%23AbolishTheMonarchy) | N/A |
-| 18 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 19 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 20 | [Good Friday Agreement](http://twitter.com/search?q=Good+Friday+Agreement) | N/A |
-| 21 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 22 | [Ayling](http://twitter.com/search?q=Ayling) | Ayling is a surname of English origin. It is derived from the Old English personal name Aethelwine, which means "noble friend". |
-| 23 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 24 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 25 | [John Bostock](http://twitter.com/search?q=John+Bostock) | N/A |
-| 26 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 27 | [Monkfish](http://twitter.com/search?q=Monkfish) | N/A |
-| 28 | [#WXMNOT](http://twitter.com/search?q=%23WXMNOT) | N/A |
+| 1 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
+| 2 | [#oafc](http://twitter.com/search?q=%23oafc) | N/A |
+| 3 | [#YTFC](http://twitter.com/search?q=%23YTFC) | N/A |
+| 4 | [MK Dons](http://twitter.com/search?q=MK+Dons) | N/A |
+| 5 | [#BestOfBritish](http://twitter.com/search?q=%23BestOfBritish) | N/A |
+| 6 | [Albion](http://twitter.com/search?q=Albion) | N/A |
+| 7 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
+| 8 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 9 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 10 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
+| 11 | [Afternoon](http://twitter.com/search?q=Afternoon) | N/A |
+| 12 | [#htafc](http://twitter.com/search?q=%23htafc) | N/A |
+| 13 | [Evans](http://twitter.com/search?q=Evans) | N/A |
+| 14 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 15 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 16 | [Hughes](http://twitter.com/search?q=Hughes) | Hughes is a surname of Welsh origin. It is derived from the Welsh personal name "Hugh," which is derived from the Germanic elements "hug" meaning "heart, mind, spirit" and "heil" meaning "brave, strong." |
+| 17 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
+| 18 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 19 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
+| 20 | [Carra](http://twitter.com/search?q=Carra) | N/A |
+| 21 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 22 | [Ferdinand](http://twitter.com/search?q=Ferdinand) | N/A |
+| 23 | [Stam](http://twitter.com/search?q=Stam) | N/A |
+| 24 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 25 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 26 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 27 | [#WRXNCO](http://twitter.com/search?q=%23WRXNCO) | N/A |
+| 28 | [Bostock](http://twitter.com/search?q=Bostock) | N/A |
 | 29 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 30 | [#wafc](http://twitter.com/search?q=%23wafc) | N/A |
-| 31 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
-| 32 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 33 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 34 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 35 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
-| 36 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 37 | [Harness](http://twitter.com/search?q=Harness) | N/A |
-| 38 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 39 | [Blackburn](http://twitter.com/search?q=Blackburn) | N/A |
-| 40 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 41 | [Blood Destiny](http://twitter.com/search?q=Blood+Destiny) | N/A |
-| 42 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 43 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 44 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 45 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 46 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
-| 47 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 48 | [Aardman](http://twitter.com/search?q=Aardman) | N/A |
-| 49 | [Creggan](http://twitter.com/search?q=Creggan) | N/A |
-| 50 | [Olay](http://twitter.com/search?q=Olay) | N/A |
+| 30 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 31 | [Ince](http://twitter.com/search?q=Ince) | N/A |
+| 32 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 33 | [Monkfish](http://twitter.com/search?q=Monkfish) | N/A |
+| 34 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 35 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 36 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
+| 37 | [Keith Stroud](http://twitter.com/search?q=Keith+Stroud) | N/A |
+| 38 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 39 | [Elliot Lee](http://twitter.com/search?q=Elliot+Lee) | N/A |
+| 40 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 41 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 42 | [GoPro](http://twitter.com/search?q=GoPro) | N/A |
+| 43 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 44 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 45 | [Pukki](http://twitter.com/search?q=Pukki) | N/A |
+| 46 | [Preston](http://twitter.com/search?q=Preston) | Preston is a name of English origin, derived from the Old English preost (priest) and tun (town or settlement). It is a unisex name, meaning "priest's town" or "priest's settlement". |
+| 47 | [Hamer](http://twitter.com/search?q=Hamer) | N/A |
+| 48 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
+| 49 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
+| 50 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
 
 
 
