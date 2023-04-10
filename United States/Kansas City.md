@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-04-10 17:19:18 UTC`
+📆 Last Updated: `2023-04-10 18:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [United States](</United States>)
 | 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 5 | [#NationalSiblingsDay](http://twitter.com/search?q=%23NationalSiblingsDay) | N/A |
 | 6 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 7 | [#ItsTheGuns](http://twitter.com/search?q=%23ItsTheGuns) | N/A |
-| 8 | [Old National Bank](http://twitter.com/search?q=Old+National+Bank) | N/A |
+| 7 | [Old National Bank](http://twitter.com/search?q=Old+National+Bank) | N/A |
+| 8 | [#ItsTheGuns](http://twitter.com/search?q=%23ItsTheGuns) | N/A |
 | 9 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 10 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
-| 11 | [Monday in America](http://twitter.com/search?q=Monday+in+America) | N/A |
-| 12 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 13 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 14 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
-| 15 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
+| 10 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
+| 11 | [#GunControl](http://twitter.com/search?q=%23GunControl) | N/A |
+| 12 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 13 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 14 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
+| 15 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
 | 16 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
-| 17 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
-| 18 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 19 | [JCTC](http://twitter.com/search?q=JCTC) | N/A |
-| 20 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 21 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
-| 22 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
-| 23 | [Active Shooter](http://twitter.com/search?q=Active+Shooter) | N/A |
-| 24 | [Andy Beshear](http://twitter.com/search?q=Andy+Beshear) | N/A |
-| 25 | [Olay](http://twitter.com/search?q=Olay) | N/A |
-| 26 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 27 | [Marcus Domask](http://twitter.com/search?q=Marcus+Domask) | N/A |
-| 28 | [ryan murphy](http://twitter.com/search?q=ryan+murphy) | N/A |
-| 29 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 30 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
-| 31 | [Armadillo](http://twitter.com/search?q=Armadillo) | N/A |
-| 32 | [Japan in 2025](http://twitter.com/search?q=Japan+in+2025) | N/A |
-| 33 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 34 | [HAPPY BIRTHDAY DANIELLE](http://twitter.com/search?q=HAPPY+BIRTHDAY+DANIELLE) | N/A |
+| 17 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
+| 18 | [Monday in America](http://twitter.com/search?q=Monday+in+America) | N/A |
+| 19 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 20 | [Ryan Murphy](http://twitter.com/search?q=Ryan+Murphy) | Ryan Murphy is an American screenwriter, director, and producer. He is best known for creating the television series Glee, American Horror Story, Pose, and 9-1-1. He has also directed several feature films including The Normal Heart and Eat Pray Love. Murphy's work often focuses on themes of acceptance and inclusion. |
+| 21 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
+| 22 | [Andy Beshear](http://twitter.com/search?q=Andy+Beshear) | N/A |
+| 23 | [Pronouns](http://twitter.com/search?q=Pronouns) | N/A |
+| 24 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 25 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 26 | [JCTC](http://twitter.com/search?q=JCTC) | N/A |
+| 27 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
+| 28 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
+| 29 | [Olay](http://twitter.com/search?q=Olay) | N/A |
+| 30 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
+| 31 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 32 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 33 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
+| 34 | [Marcus Domask](http://twitter.com/search?q=Marcus+Domask) | N/A |
 | 35 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 36 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 37 | [Al Roker](http://twitter.com/search?q=Al+Roker) | N/A |
-| 38 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
-| 39 | [BLOOMING KARINA DAY](http://twitter.com/search?q=BLOOMING+KARINA+DAY) | N/A |
-| 40 | [Red Pill](http://twitter.com/search?q=Red+Pill) | N/A |
-| 41 | [Slugger Field](http://twitter.com/search?q=Slugger+Field) | N/A |
-| 42 | [Nancy Mace](http://twitter.com/search?q=Nancy+Mace) | N/A |
+| 36 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
+| 37 | [Japan in 2025](http://twitter.com/search?q=Japan+in+2025) | N/A |
+| 38 | [BLOOMING KARINA DAY](http://twitter.com/search?q=BLOOMING+KARINA+DAY) | N/A |
+| 39 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 40 | [Armadillo](http://twitter.com/search?q=Armadillo) | N/A |
+| 41 | [Al Roker](http://twitter.com/search?q=Al+Roker) | N/A |
+| 42 | [Red Pill](http://twitter.com/search?q=Red+Pill) | N/A |
 | 43 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 44 | [Fahrenheit 451](http://twitter.com/search?q=Fahrenheit+451) | N/A |
-| 45 | [Celebration](http://twitter.com/search?q=Celebration) | N/A |
-| 46 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
-| 47 | [Neil Young](http://twitter.com/search?q=Neil+Young) | N/A |
-| 48 | [Gulf of Mexico](http://twitter.com/search?q=Gulf+of+Mexico) | N/A |
-| 49 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 50 | [Dwayne Haskins](http://twitter.com/search?q=Dwayne+Haskins) | N/A |
+| 44 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 45 | [Nancy Mace](http://twitter.com/search?q=Nancy+Mace) | N/A |
+| 46 | [Neil Young](http://twitter.com/search?q=Neil+Young) | N/A |
+| 47 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
+| 48 | [Celebration](http://twitter.com/search?q=Celebration) | N/A |
+| 49 | [Dwayne Haskins](http://twitter.com/search?q=Dwayne+Haskins) | N/A |
+| 50 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
 
 
 

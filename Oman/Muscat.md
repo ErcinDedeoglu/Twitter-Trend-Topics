@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-04-10 17:19:09 UTC`
+📆 Last Updated: `2023-04-10 18:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,10 +28,10 @@ This is top 50 for [Oman](</Oman>)
 | 11 | [صوت الاذان](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d9%86) | N/A |
 | 12 | [الصوت الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
 | 13 | [وادي بني](http://twitter.com/search?q=%d9%88%d8%a7%d8%af%d9%8a+%d8%a8%d9%86%d9%8a) | N/A |
-| 14 | [وادي الحواسنه](http://twitter.com/search?q=%d9%88%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b3%d9%86%d9%87) | N/A |
-| 15 | [نصر بن محمد الطايي](http://twitter.com/search?q=%d9%86%d8%b5%d8%b1+%d8%a8%d9%86+%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
-| 16 | [عثمان بن عفان](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d9%81%d8%a7%d9%86) | N/A |
-| 17 | [احمد بن ماجد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%85%d8%a7%d8%ac%d8%af) | N/A |
+| 14 | [نصر بن محمد الطائي](http://twitter.com/search?q=%d9%86%d8%b5%d8%b1+%d8%a8%d9%86+%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b7%d8%a7%d8%a6%d9%8a) | N/A |
+| 15 | [وادي الحواسنه](http://twitter.com/search?q=%d9%88%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b3%d9%86%d9%87) | N/A |
+| 16 | [احمد بن ماجد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%85%d8%a7%d8%ac%d8%af) | N/A |
+| 17 | [عثمان بن عفان](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d9%81%d8%a7%d9%86) | N/A |
 | 18 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
 | 19 | [صوت الامام](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85) | N/A |
 | 20 | [سماحة الشيخ](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7%d8%ad%d8%a9+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for [Oman](</Oman>)
 | 40 | [بلون الثلج النقي](http://twitter.com/search?q=%d8%a8%d9%84%d9%88%d9%86+%d8%a7%d9%84%d8%ab%d9%84%d8%ac+%d8%a7%d9%84%d9%86%d9%82%d9%8a) | N/A |
 | 41 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
 | 42 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 43 | [بلاد الاسلام](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 44 | [وزارة التربية والتعليم](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9+%d9%88%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85) | N/A |
-| 45 | [الشيخ الخليلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
-| 46 | [جامع الغبره الشماليه](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9+%d8%a7%d9%84%d8%ba%d8%a8%d8%b1%d9%87+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 47 | [الدراسه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 48 | [بني بوعلي](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d8%a8%d9%88%d8%b9%d9%84%d9%8a) | N/A |
-| 49 | [صوت المساجد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%ac%d8%af) | N/A |
-| 50 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
+| 43 | [وزارة التربية والتعليم](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9+%d9%88%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85) | N/A |
+| 44 | [بلاد الاسلام](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85) | N/A |
+| 45 | [زايد الخير](http://twitter.com/search?q=%d8%b2%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 46 | [الشيخ الخليلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d9%84%d9%8a) | N/A |
+| 47 | [مركز الشباب](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
+| 48 | [جامع الغبره الشماليه](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9+%d8%a7%d9%84%d8%ba%d8%a8%d8%b1%d9%87+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 49 | [الدراسه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 50 | [بني بوعلي](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d8%a8%d9%88%d8%b9%d9%84%d9%8a) | N/A |
 
 
 

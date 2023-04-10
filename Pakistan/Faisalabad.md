@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Faisalabad
 
-📆 Last Updated: `2023-04-10 17:19:09 UTC`
+📆 Last Updated: `2023-04-10 18:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#BabarAzamIsOurRedLine](http://twitter.com/search?q=%23BabarAzamIsOurRedLine) | N/A |
 | 4 | [#آئین_حقوق_کا_محافظ](http://twitter.com/search?q=%23%d8%a2%d8%a6%db%8c%d9%86_%d8%ad%d9%82%d9%88%d9%82_%da%a9%d8%a7_%d9%85%d8%ad%d8%a7%d9%81%d8%b8) | N/A |
 | 5 | [#StayInYourLimitsNajamSethi](http://twitter.com/search?q=%23StayInYourLimitsNajamSethi) | N/A |
-| 6 | [Mansoor](http://twitter.com/search?q=Mansoor) | N/A |
-| 7 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 6 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 7 | [Mansoor](http://twitter.com/search?q=Mansoor) | N/A |
 | 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 9 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
 | 10 | [Iqrar](http://twitter.com/search?q=Iqrar) | N/A |
@@ -41,30 +41,30 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 24 | [Lala](http://twitter.com/search?q=Lala) | N/A |
 | 25 | [Suno](http://twitter.com/search?q=Suno) | N/A |
 | 26 | [Abi Talib](http://twitter.com/search?q=Abi+Talib) | N/A |
-| 27 | [Ya Ali](http://twitter.com/search?q=Ya+Ali) | N/A |
-| 28 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 27 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 28 | [Ya Ali](http://twitter.com/search?q=Ya+Ali) | N/A |
 | 29 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 30 | [UAE Embassy](http://twitter.com/search?q=UAE+Embassy) | N/A |
-| 31 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 31 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
 | 32 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 33 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 34 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
-| 35 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 36 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
+| 33 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
+| 34 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 35 | [Good Evening](http://twitter.com/search?q=Good+Evening) | N/A |
+| 36 | [SHEHNAAZ IN KBKJ TRAILER](http://twitter.com/search?q=SHEHNAAZ+IN+KBKJ+TRAILER) | N/A |
 | 37 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
-| 38 | [Mery](http://twitter.com/search?q=Mery) | N/A |
-| 39 | [Count](http://twitter.com/search?q=Count) | N/A |
-| 40 | [Kahan](http://twitter.com/search?q=Kahan) | N/A |
-| 41 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 42 | [Quaid](http://twitter.com/search?q=Quaid) | N/A |
-| 43 | [Yessss](http://twitter.com/search?q=Yessss) | N/A |
-| 44 | [Chairman](http://twitter.com/search?q=Chairman) | N/A |
-| 45 | [Mian](http://twitter.com/search?q=Mian) | N/A |
-| 46 | [Asia Cup](http://twitter.com/search?q=Asia+Cup) | N/A |
-| 47 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 48 | [#50YearsOfConstitution](http://twitter.com/search?q=%2350YearsOfConstitution) | N/A |
-| 49 | [#QaziFaezIsa](http://twitter.com/search?q=%23QaziFaezIsa) | N/A |
-| 50 | [#اس_کو_کاٹو](http://twitter.com/search?q=%23%d8%a7%d8%b3_%da%a9%d9%88_%da%a9%d8%a7%d9%b9%d9%88) | N/A |
+| 38 | [Kahan](http://twitter.com/search?q=Kahan) | N/A |
+| 39 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 40 | [Quaid](http://twitter.com/search?q=Quaid) | N/A |
+| 41 | [Count](http://twitter.com/search?q=Count) | N/A |
+| 42 | [Convention](http://twitter.com/search?q=Convention) | N/A |
+| 43 | [Shaheed Zulfikar Ali Bhutto](http://twitter.com/search?q=Shaheed+Zulfikar+Ali+Bhutto) | N/A |
+| 44 | [Yessss](http://twitter.com/search?q=Yessss) | N/A |
+| 45 | [Salman](http://twitter.com/search?q=Salman) | N/A |
+| 46 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 47 | [London](http://twitter.com/search?q=London) | N/A |
+| 48 | [Prime](http://twitter.com/search?q=Prime) | N/A |
+| 49 | [#50YearsOfConstitution](http://twitter.com/search?q=%2350YearsOfConstitution) | N/A |
+| 50 | [#QaziFaezIsa](http://twitter.com/search?q=%23QaziFaezIsa) | N/A |
 
 
 

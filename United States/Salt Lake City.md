@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salt Lake City
 
-📆 Last Updated: `2023-04-10 17:19:22 UTC`
+📆 Last Updated: `2023-04-10 18:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [United States](</United States>)
 | 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 5 | [#NationalSiblingsDay](http://twitter.com/search?q=%23NationalSiblingsDay) | N/A |
 | 6 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 7 | [#ItsTheGuns](http://twitter.com/search?q=%23ItsTheGuns) | N/A |
-| 8 | [Old National Bank](http://twitter.com/search?q=Old+National+Bank) | N/A |
+| 7 | [Old National Bank](http://twitter.com/search?q=Old+National+Bank) | N/A |
+| 8 | [#ItsTheGuns](http://twitter.com/search?q=%23ItsTheGuns) | N/A |
 | 9 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 10 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
-| 11 | [Monday in America](http://twitter.com/search?q=Monday+in+America) | N/A |
+| 10 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
+| 11 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
 | 12 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 13 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 14 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
+| 13 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
+| 14 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
 | 15 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
-| 16 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
-| 17 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 18 | [JCTC](http://twitter.com/search?q=JCTC) | N/A |
-| 19 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 20 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
-| 21 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
-| 22 | [Active Shooter](http://twitter.com/search?q=Active+Shooter) | N/A |
-| 23 | [Andy Beshear](http://twitter.com/search?q=Andy+Beshear) | N/A |
-| 24 | [Olay](http://twitter.com/search?q=Olay) | N/A |
-| 25 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 26 | [Marcus Domask](http://twitter.com/search?q=Marcus+Domask) | N/A |
-| 27 | [ryan murphy](http://twitter.com/search?q=ryan+murphy) | N/A |
-| 28 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 29 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
-| 30 | [Armadillo](http://twitter.com/search?q=Armadillo) | N/A |
-| 31 | [Japan in 2025](http://twitter.com/search?q=Japan+in+2025) | N/A |
-| 32 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 33 | [HAPPY BIRTHDAY DANIELLE](http://twitter.com/search?q=HAPPY+BIRTHDAY+DANIELLE) | N/A |
+| 16 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
+| 17 | [Monday in America](http://twitter.com/search?q=Monday+in+America) | N/A |
+| 18 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 19 | [Ryan Murphy](http://twitter.com/search?q=Ryan+Murphy) | Ryan Murphy is an American screenwriter, director, and producer. He is best known for creating the television series Glee, American Horror Story, Pose, and 9-1-1. He has also directed several feature films including The Normal Heart and Eat Pray Love. Murphy's work often focuses on themes of acceptance and inclusion. |
+| 20 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
+| 21 | [Andy Beshear](http://twitter.com/search?q=Andy+Beshear) | N/A |
+| 22 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 23 | [Pronouns](http://twitter.com/search?q=Pronouns) | N/A |
+| 24 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 25 | [JCTC](http://twitter.com/search?q=JCTC) | N/A |
+| 26 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
+| 27 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
+| 28 | [Olay](http://twitter.com/search?q=Olay) | N/A |
+| 29 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
+| 30 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 31 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 32 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
+| 33 | [Marcus Domask](http://twitter.com/search?q=Marcus+Domask) | N/A |
 | 34 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 35 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
-| 36 | [Al Roker](http://twitter.com/search?q=Al+Roker) | N/A |
-| 37 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
-| 38 | [BLOOMING KARINA DAY](http://twitter.com/search?q=BLOOMING+KARINA+DAY) | N/A |
-| 39 | [Red Pill](http://twitter.com/search?q=Red+Pill) | N/A |
-| 40 | [Slugger Field](http://twitter.com/search?q=Slugger+Field) | N/A |
-| 41 | [Nancy Mace](http://twitter.com/search?q=Nancy+Mace) | N/A |
+| 35 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
+| 36 | [Japan in 2025](http://twitter.com/search?q=Japan+in+2025) | N/A |
+| 37 | [BLOOMING KARINA DAY](http://twitter.com/search?q=BLOOMING+KARINA+DAY) | N/A |
+| 38 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 39 | [Armadillo](http://twitter.com/search?q=Armadillo) | N/A |
+| 40 | [Al Roker](http://twitter.com/search?q=Al+Roker) | N/A |
+| 41 | [Red Pill](http://twitter.com/search?q=Red+Pill) | N/A |
 | 42 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 43 | [Fahrenheit 451](http://twitter.com/search?q=Fahrenheit+451) | N/A |
-| 44 | [Celebration](http://twitter.com/search?q=Celebration) | N/A |
+| 43 | [Nancy Mace](http://twitter.com/search?q=Nancy+Mace) | N/A |
+| 44 | [Neil Young](http://twitter.com/search?q=Neil+Young) | N/A |
 | 45 | [jesper](http://twitter.com/search?q=jesper) | N/A |
-| 46 | [Neil Young](http://twitter.com/search?q=Neil+Young) | N/A |
-| 47 | [Gulf of Mexico](http://twitter.com/search?q=Gulf+of+Mexico) | N/A |
-| 48 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 46 | [Celebration](http://twitter.com/search?q=Celebration) | N/A |
+| 47 | [Dwayne Haskins](http://twitter.com/search?q=Dwayne+Haskins) | N/A |
+| 48 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
 
 
 

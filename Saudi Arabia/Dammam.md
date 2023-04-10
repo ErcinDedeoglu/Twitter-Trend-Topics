@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dammam
 
-📆 Last Updated: `2023-04-10 17:19:04 UTC`
+📆 Last Updated: `2023-04-10 18:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,48 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#طاش_ماطاش_حلقه19](http://twitter.com/search?q=%23%d8%b7%d8%a7%d8%b4_%d9%85%d8%a7%d8%b7%d8%a7%d8%b4_%d8%ad%d9%84%d9%82%d9%8719) | N/A |
-| 2 | [عبدالله السبع](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%a8%d8%b9) | N/A |
-| 3 | [#الدعاء_بهذه_الليالي_المباركه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%b9%d8%a7%d8%a1_%d8%a8%d9%87%d8%b0%d9%87_%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 1 | [#طاش_العوده](http://twitter.com/search?q=%23%d8%b7%d8%a7%d8%b4_%d8%a7%d9%84%d8%b9%d9%88%d8%af%d9%87) | N/A |
+| 2 | [#طاش_ماطاش_حلقه19](http://twitter.com/search?q=%23%d8%b7%d8%a7%d8%b4_%d9%85%d8%a7%d8%b7%d8%a7%d8%b4_%d8%ad%d9%84%d9%82%d9%8719) | N/A |
+| 3 | [عبدالله السبع](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%a8%d8%b9) | N/A |
 | 4 | [عبدالرحمن الراشد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86+%d8%a7%d9%84%d8%b1%d8%a7%d8%b4%d8%af) | N/A |
-| 5 | [١٩ رمضان](http://twitter.com/search?q=%d9%a1%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 6 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
-| 7 | [روبن](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%86) | N/A |
-| 8 | [محمد الشهري](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
-| 9 | [ديماريا](http://twitter.com/search?q=%d8%af%d9%8a%d9%85%d8%a7%d8%b1%d9%8a%d8%a7) | N/A |
-| 10 | [الحياه الحديثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87+%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%ab%d9%87) | N/A |
-| 11 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 12 | [جنوب غرب](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%ba%d8%b1%d8%a8) | N/A |
-| 13 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
-| 14 | [الامانه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 15 | [العشر الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
-| 16 | [تمويل الاولي](http://twitter.com/search?q=%d8%aa%d9%85%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 17 | [قصر شبرا](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%b4%d8%a8%d8%b1%d8%a7) | N/A |
-| 18 | [علي صوت المطر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | "علي صوت المطر" is an Arabic phrase that translates to "to the sound of the rain". It is often used as a metaphor for something that is calming and peaceful. |
-| 19 | [علي قبور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d9%88%d8%b1) | N/A |
-| 20 | [#هدايا_رسيس8](http://twitter.com/search?q=%23%d9%87%d8%af%d8%a7%d9%8a%d8%a7_%d8%b1%d8%b3%d9%8a%d8%b38) | N/A |
-| 21 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
-| 22 | [#قصه_بطل19](http://twitter.com/search?q=%23%d9%82%d8%b5%d9%87_%d8%a8%d8%b7%d9%8419) | N/A |
-| 23 | [#خالد_الجريوي](http://twitter.com/search?q=%23%d8%ae%d8%a7%d9%84%d8%af_%d8%a7%d9%84%d8%ac%d8%b1%d9%8a%d9%88%d9%8a) | N/A |
-| 24 | [#الهلال_الطايي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
-| 25 | [#وطمانينه](http://twitter.com/search?q=%23%d9%88%d8%b7%d9%85%d8%a7%d9%86%d9%8a%d9%86%d9%87) | N/A |
-| 26 | [#مسلسل_بحر_دلهوم19](http://twitter.com/search?q=%23%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d8%a8%d8%ad%d8%b1_%d8%af%d9%84%d9%87%d9%88%d9%8519) | N/A |
-| 27 | [#العشر_الاواخر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b4%d8%b1_%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
-| 28 | [#رمضان19](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%8619) | N/A |
-| 29 | [#حكايه_وعد](http://twitter.com/search?q=%23%d8%ad%d9%83%d8%a7%d9%8a%d9%87_%d9%88%d8%b9%d8%af) | N/A |
-| 30 | [#زد_رصيدك77](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8377) | N/A |
-| 31 | [#الاهلي_العين](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%8a%d9%86) | N/A |
-| 32 | [#مانشستريونايتد_اشبيليه](http://twitter.com/search?q=%23%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af_%d8%a7%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d9%87) | N/A |
-| 33 | [#الباحه_الان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%a7%d8%ad%d9%87_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
-| 34 | [#حايل_الان](http://twitter.com/search?q=%23%d8%ad%d8%a7%d9%8a%d9%84_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
+| 5 | [#الدعاء_بهذه_الليالي_المباركه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%b9%d8%a7%d8%a1_%d8%a8%d9%87%d8%b0%d9%87_%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 6 | [#هدايا_رسيس8](http://twitter.com/search?q=%23%d9%87%d8%af%d8%a7%d9%8a%d8%a7_%d8%b1%d8%b3%d9%8a%d8%b38) | N/A |
+| 7 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
+| 8 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 9 | [١٩ رمضان](http://twitter.com/search?q=%d9%a1%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 10 | [روبن](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%86) | N/A |
+| 11 | [محمد الشهري](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
+| 12 | [ديماريا](http://twitter.com/search?q=%d8%af%d9%8a%d9%85%d8%a7%d8%b1%d9%8a%d8%a7) | N/A |
+| 13 | [جنوب غرب](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%ba%d8%b1%d8%a8) | N/A |
+| 14 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 15 | [الامانه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 16 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
+| 17 | [تمويل الاولي](http://twitter.com/search?q=%d8%aa%d9%85%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 18 | [المدينه المنورة](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87+%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d8%a9) | N/A |
+| 19 | [قصر شبرا](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%b4%d8%a8%d8%b1%d8%a7) | N/A |
+| 20 | [#الهلال_الطايي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
+| 21 | [#قصه_بطل19](http://twitter.com/search?q=%23%d9%82%d8%b5%d9%87_%d8%a8%d8%b7%d9%8419) | N/A |
+| 22 | [#خالد_الجريوي](http://twitter.com/search?q=%23%d8%ae%d8%a7%d9%84%d8%af_%d8%a7%d9%84%d8%ac%d8%b1%d9%8a%d9%88%d9%8a) | N/A |
+| 23 | [#مسلسل_بحر_دلهوم19](http://twitter.com/search?q=%23%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d8%a8%d8%ad%d8%b1_%d8%af%d9%84%d9%87%d9%88%d9%8519) | N/A |
+| 24 | [#العشر_الاواخر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b4%d8%b1_%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
+| 25 | [#زد_رصيدك77](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8377) | N/A |
+| 26 | [#حكايه_وعد](http://twitter.com/search?q=%23%d8%ad%d9%83%d8%a7%d9%8a%d9%87_%d9%88%d8%b9%d8%af) | N/A |
+| 27 | [#رمضان19](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%8619) | N/A |
+| 28 | [#الاهلي_العين](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%8a%d9%86) | N/A |
+| 29 | [#العقود_الرسميه_ياولي_العهد](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d9%82%d9%88%d8%af_%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d9%87_%d9%8a%d8%a7%d9%88%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 30 | [#مانشستريونايتد_اشبيليه](http://twitter.com/search?q=%23%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af_%d8%a7%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d9%87) | N/A |
+| 31 | [#الباحه_الان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%a7%d8%ad%d9%87_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
+| 32 | [#الروشن19](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8619) | N/A |
+| 33 | [#حايل_الان](http://twitter.com/search?q=%23%d8%ad%d8%a7%d9%8a%d9%84_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
+| 34 | [#مكبرات_المساجد_حاجه_وطمانينه](http://twitter.com/search?q=%23%d9%85%d9%83%d8%a8%d8%b1%d8%a7%d8%aa_%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%ac%d8%af_%d8%ad%d8%a7%d8%ac%d9%87_%d9%88%d8%b7%d9%85%d8%a7%d9%86%d9%8a%d9%86%d9%87) | N/A |
 | 35 | [#مفقود_ثادق_فهد](http://twitter.com/search?q=%23%d9%85%d9%81%d9%82%d9%88%d8%af_%d8%ab%d8%a7%d8%af%d9%82_%d9%81%d9%87%d8%af) | N/A |
 | 36 | [#منخفض_جوي](http://twitter.com/search?q=%23%d9%85%d9%86%d8%ae%d9%81%d8%b6_%d8%ac%d9%88%d9%8a) | N/A |
-| 37 | [#ليله_الضربه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%b6%d8%b1%d8%a8%d9%87) | N/A |
-| 38 | [#مسابقه_المربع_نت19](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa19) | N/A |
-| 39 | [#ريال_مدريد_تشيلسي](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af_%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | N/A |
-| 40 | [#تعليم_المدينه_المنوره](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87_%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d9%87) | N/A |
+| 37 | [#مسابقه_المربع_نت19](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa19) | N/A |
+| 38 | [#مبارك_علي_الرشيدي](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%b9%d9%84%d9%8a_%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a) | N/A |
+| 39 | [#ضمك_العداله](http://twitter.com/search?q=%23%d8%b6%d9%85%d9%83_%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87) | N/A |
+| 40 | [#ريال_مدريد_تشيلسي](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af_%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | N/A |
+| 41 | [#الرايد_الفتح](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%a7%d9%8a%d8%af_%d8%a7%d9%84%d9%81%d8%aa%d8%ad) | N/A |
+| 42 | [#من_الوصول_الي_الحصول19](http://twitter.com/search?q=%23%d9%85%d9%86_%d8%a7%d9%84%d9%88%d8%b5%d9%88%d9%84_%d8%a7%d9%84%d9%8a_%d8%a7%d9%84%d8%ad%d8%b5%d9%88%d9%8419) | N/A |
 
 
 

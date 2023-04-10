@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-04-10 17:19:29 UTC`
+📆 Last Updated: `2023-04-10 18:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for Lebanon
 | ------- | ------------ | ------------ |
 | 1 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
 | 2 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
-| 3 | [#ما_تفكر_مرتين](http://twitter.com/search?q=%23%d9%85%d8%a7_%d8%aa%d9%81%d9%83%d8%b1_%d9%85%d8%b1%d8%aa%d9%8a%d9%86) | N/A |
-| 4 | [#تهدمت_والله_اركان_الهدي](http://twitter.com/search?q=%23%d8%aa%d9%87%d8%af%d9%85%d8%aa_%d9%88%d8%a7%d9%84%d9%84%d9%87_%d8%a7%d8%b1%d9%83%d8%a7%d9%86_%d8%a7%d9%84%d9%87%d8%af%d9%8a) | N/A |
+| 3 | [#تهدمت_والله_اركان_الهدي](http://twitter.com/search?q=%23%d8%aa%d9%87%d8%af%d9%85%d8%aa_%d9%88%d8%a7%d9%84%d9%84%d9%87_%d8%a7%d8%b1%d9%83%d8%a7%d9%86_%d8%a7%d9%84%d9%87%d8%af%d9%8a) | N/A |
+| 4 | [#ما_تفكر_مرتين](http://twitter.com/search?q=%23%d9%85%d8%a7_%d8%aa%d9%81%d9%83%d8%b1_%d9%85%d8%b1%d8%aa%d9%8a%d9%86) | N/A |
 | 5 | [#فزت_ورب_الكعبه](http://twitter.com/search?q=%23%d9%81%d8%b2%d8%aa_%d9%88%d8%b1%d8%a8_%d8%a7%d9%84%d9%83%d8%b9%d8%a8%d9%87) | N/A |
 | 6 | [#كلام_الله_الناطق](http://twitter.com/search?q=%23%d9%83%d9%84%d8%a7%d9%85_%d8%a7%d9%84%d9%84%d9%87_%d8%a7%d9%84%d9%86%d8%a7%d8%b7%d9%82) | N/A |
 | 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
@@ -43,28 +43,28 @@ This is top 50 for Lebanon
 | 26 | [فياريال](http://twitter.com/search?q=%d9%81%d9%8a%d8%a7%d8%b1%d9%8a%d8%a7%d9%84) | فياريال (Fyarīāl) is an Arabic word meaning "valuable" or "precious". It is often used to describe something that is highly valued or cherished. |
 | 27 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
 | 28 | [الوفد السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 29 | [علي الرغم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%ba%d9%85) | N/A |
-| 30 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
-| 31 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
-| 32 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
-| 33 | [عيد مبارك](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 34 | [مريم العذراء](http://twitter.com/search?q=%d9%85%d8%b1%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%b0%d8%b1%d8%a7%d8%a1) | N/A |
-| 35 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 36 | [محمد باقر الصدر](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d8%a7%d9%82%d8%b1+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
-| 37 | [العهد القديم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d9%85) | N/A |
-| 38 | [الامام السيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
-| 39 | [الحرم القدسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d9%85+%d8%a7%d9%84%d9%82%d8%af%d8%b3%d9%8a) | N/A |
-| 40 | [الكتاب المقدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d9%82%d8%af%d8%b3) | N/A |
-| 41 | [الدين المسيحي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad%d9%8a) | N/A |
-| 42 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
-| 43 | [علي امل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%85%d9%84) | N/A |
-| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 45 | [طارق تميم](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%aa%d9%85%d9%8a%d9%85) | N/A |
-| 46 | [علي الخامنيي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d9%86%d9%8a%d9%8a) | N/A |
-| 47 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 48 | [سامي الجميل](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
-| 49 | [أحمد](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af) | N/A |
-| 50 | [يسوع المسيح](http://twitter.com/search?q=%d9%8a%d8%b3%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad) | N/A |
+| 29 | [الحرب الاهليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d8%a8+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a%d9%87) | N/A |
+| 30 | [علي الرغم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%ba%d9%85) | N/A |
+| 31 | [ميشال عون](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d8%a7%d9%84+%d8%b9%d9%88%d9%86) | N/A |
+| 32 | [بغداد](http://twitter.com/search?q=%d8%a8%d8%ba%d8%af%d8%a7%d8%af) | N/A |
+| 33 | [عيد الفصح](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b5%d8%ad) | N/A |
+| 34 | [الاتحاد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | الاتحاد is an Arabic word meaning "union" or "alliance" in English. It is often used to refer to a political union or alliance between two or more countries, organizations, or groups. |
+| 35 | [عيد مبارك](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 36 | [مريم العذراء](http://twitter.com/search?q=%d9%85%d8%b1%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%b0%d8%b1%d8%a7%d8%a1) | N/A |
+| 37 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 38 | [محمد باقر الصدر](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d8%a7%d9%82%d8%b1+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
+| 39 | [العهد القديم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d9%85) | N/A |
+| 40 | [الامام السيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
+| 41 | [الحرم القدسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d9%85+%d8%a7%d9%84%d9%82%d8%af%d8%b3%d9%8a) | N/A |
+| 42 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 43 | [الدين المسيحي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d9%8a%d8%ad%d9%8a) | N/A |
+| 44 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
+| 45 | [سليمان فرنجية](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86+%d9%81%d8%b1%d9%86%d8%ac%d9%8a%d8%a9) | N/A |
+| 46 | [علي امل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%85%d9%84) | N/A |
+| 47 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 48 | [طارق تميم](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%aa%d9%85%d9%8a%d9%85) | N/A |
+| 49 | [الكتاب المقدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d9%82%d8%af%d8%b3) | N/A |
+| 50 | [علي الخامنيي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d9%86%d9%8a%d9%8a) | N/A |
 
 
 

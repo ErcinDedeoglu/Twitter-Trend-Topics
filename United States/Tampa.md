@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-04-10 17:19:23 UTC`
+📆 Last Updated: `2023-04-10 18:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Newsom](http://twitter.com/search?q=Newsom) | N/A |
-| 2 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 4 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 6 | [#NationalSiblingsDay](http://twitter.com/search?q=%23NationalSiblingsDay) | N/A |
-| 7 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 8 | [#ItsTheGuns](http://twitter.com/search?q=%23ItsTheGuns) | N/A |
-| 9 | [Old National Bank](http://twitter.com/search?q=Old+National+Bank) | N/A |
-| 10 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
-| 11 | [Monday in America](http://twitter.com/search?q=Monday+in+America) | N/A |
-| 12 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 13 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
-| 14 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 15 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
-| 16 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
-| 17 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 18 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 19 | [JCTC](http://twitter.com/search?q=JCTC) | N/A |
-| 20 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
-| 21 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
-| 22 | [Active Shooter](http://twitter.com/search?q=Active+Shooter) | N/A |
-| 23 | [Olay](http://twitter.com/search?q=Olay) | N/A |
-| 24 | [Andy Beshear](http://twitter.com/search?q=Andy+Beshear) | N/A |
-| 25 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 26 | [Marcus Domask](http://twitter.com/search?q=Marcus+Domask) | N/A |
-| 27 | [ryan murphy](http://twitter.com/search?q=ryan+murphy) | N/A |
-| 28 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 29 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
-| 30 | [Armadillo](http://twitter.com/search?q=Armadillo) | N/A |
-| 31 | [Pronouns](http://twitter.com/search?q=Pronouns) | N/A |
-| 32 | [Japan in 2025](http://twitter.com/search?q=Japan+in+2025) | N/A |
-| 33 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
-| 34 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 35 | [BLOOMING KARINA DAY](http://twitter.com/search?q=BLOOMING+KARINA+DAY) | N/A |
-| 36 | [HAPPY BIRTHDAY DANIELLE](http://twitter.com/search?q=HAPPY+BIRTHDAY+DANIELLE) | N/A |
-| 37 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 38 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 1 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 3 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [#NationalSiblingsDay](http://twitter.com/search?q=%23NationalSiblingsDay) | N/A |
+| 6 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 7 | [#ItsTheGuns](http://twitter.com/search?q=%23ItsTheGuns) | N/A |
+| 8 | [Old National Bank](http://twitter.com/search?q=Old+National+Bank) | N/A |
+| 9 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
+| 10 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 11 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 12 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
+| 13 | [Emma Roberts](http://twitter.com/search?q=Emma+Roberts) | N/A |
+| 14 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
+| 15 | [Monday in America](http://twitter.com/search?q=Monday+in+America) | N/A |
+| 16 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 17 | [American Horror Story](http://twitter.com/search?q=American+Horror+Story) | N/A |
+| 18 | [Ryan Murphy](http://twitter.com/search?q=Ryan+Murphy) | Ryan Murphy is an American screenwriter, director, and producer. He is best known for creating the television series Glee, American Horror Story, Pose, and 9-1-1. He has also directed several feature films including The Normal Heart and Eat Pray Love. Murphy's work often focuses on themes of acceptance and inclusion. |
+| 19 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
+| 20 | [Andy Beshear](http://twitter.com/search?q=Andy+Beshear) | N/A |
+| 21 | [Pronouns](http://twitter.com/search?q=Pronouns) | N/A |
+| 22 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 23 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 24 | [JCTC](http://twitter.com/search?q=JCTC) | N/A |
+| 25 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
+| 26 | [LMPD](http://twitter.com/search?q=LMPD) | N/A |
+| 27 | [Olay](http://twitter.com/search?q=Olay) | N/A |
+| 28 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
+| 29 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 30 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 31 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
+| 32 | [Marcus Domask](http://twitter.com/search?q=Marcus+Domask) | N/A |
+| 33 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 34 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
+| 35 | [Japan in 2025](http://twitter.com/search?q=Japan+in+2025) | N/A |
+| 36 | [BLOOMING KARINA DAY](http://twitter.com/search?q=BLOOMING+KARINA+DAY) | N/A |
+| 37 | [Black Mirror](http://twitter.com/search?q=Black+Mirror) | N/A |
+| 38 | [Armadillo](http://twitter.com/search?q=Armadillo) | N/A |
 | 39 | [Al Roker](http://twitter.com/search?q=Al+Roker) | N/A |
 | 40 | [Red Pill](http://twitter.com/search?q=Red+Pill) | N/A |
-| 41 | [Slugger Field](http://twitter.com/search?q=Slugger+Field) | N/A |
-| 42 | [Nancy Mace](http://twitter.com/search?q=Nancy+Mace) | N/A |
-| 43 | [jesper](http://twitter.com/search?q=jesper) | N/A |
+| 41 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 42 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 43 | [Nancy Mace](http://twitter.com/search?q=Nancy+Mace) | N/A |
 | 44 | [Neil Young](http://twitter.com/search?q=Neil+Young) | N/A |
-| 45 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 45 | [jesper](http://twitter.com/search?q=jesper) | N/A |
 | 46 | [Celebration](http://twitter.com/search?q=Celebration) | N/A |
-| 47 | [Fahrenheit 451](http://twitter.com/search?q=Fahrenheit+451) | N/A |
+| 47 | [Dwayne Haskins](http://twitter.com/search?q=Dwayne+Haskins) | N/A |
 
 
 
