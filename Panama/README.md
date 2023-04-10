@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-10 05:18:17 UTC`
+📆 Last Updated: `2023-04-10 06:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for Panama
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 2 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
-| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 4 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 5 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 6 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 1 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 2 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 3 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 4 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 5 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
+| 6 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
 | 7 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 8 | [marta cox](http://twitter.com/search?q=marta+cox) | N/A |
 | 9 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
@@ -37,34 +37,34 @@ This is top 50 for Panama
 | 20 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
 | 21 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
 | 22 | [#MiAniversarioDeTwitter](http://twitter.com/search?q=%23MiAniversarioDeTwitter) | N/A |
-| 23 | [Nombe](http://twitter.com/search?q=Nombe) | N/A |
-| 24 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 25 | [Motta](http://twitter.com/search?q=Motta) | N/A |
+| 23 | [Resucitado](http://twitter.com/search?q=Resucitado) | N/A |
+| 24 | [Nombe](http://twitter.com/search?q=Nombe) | N/A |
+| 25 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 26 | [Sábado de Gloria](http://twitter.com/search?q=S%c3%a1bado+de+Gloria) | N/A |
 | 27 | [#EEUU](http://twitter.com/search?q=%23EEUU) | N/A |
-| 28 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 29 | [David](http://twitter.com/search?q=David) | N/A |
-| 30 | [#Rusia](http://twitter.com/search?q=%23Rusia) | N/A |
-| 31 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
-| 32 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 28 | [David](http://twitter.com/search?q=David) | N/A |
+| 29 | [#Rusia](http://twitter.com/search?q=%23Rusia) | N/A |
+| 30 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
+| 31 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 32 | [Peach](http://twitter.com/search?q=Peach) | N/A |
 | 33 | [Antón](http://twitter.com/search?q=Ant%c3%b3n) | N/A |
 | 34 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
 | 35 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 36 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 37 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
-| 38 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 39 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 40 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 41 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
+| 36 | [Motta](http://twitter.com/search?q=Motta) | N/A |
+| 37 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 38 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 39 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 40 | [Sigan](http://twitter.com/search?q=Sigan) | N/A |
+| 41 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 42 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 43 | [Chitré](http://twitter.com/search?q=Chitr%c3%a9) | N/A |
-| 44 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 45 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 46 | [Chiriquí](http://twitter.com/search?q=Chiriqu%c3%ad) | N/A |
-| 47 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
-| 48 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
-| 49 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 50 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 43 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 44 | [Chiriquí](http://twitter.com/search?q=Chiriqu%c3%ad) | N/A |
+| 45 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 46 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 47 | [Sábado Santo](http://twitter.com/search?q=S%c3%a1bado+Santo) | N/A |
+| 48 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 49 | [Chitré](http://twitter.com/search?q=Chitr%c3%a9) | N/A |
+| 50 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
 
 
 

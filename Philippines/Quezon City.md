@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-04-10 05:17:51 UTC`
+📆 Last Updated: `2023-04-10 06:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,39 +15,40 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BINIonTikToClock](http://twitter.com/search?q=%23BINIonTikToClock) | N/A |
-| 2 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
-| 3 | [Jollibee](http://twitter.com/search?q=Jollibee) | N/A |
-| 4 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
-| 5 | [#지구젤리버블](http://twitter.com/search?q=%23%ec%a7%80%ea%b5%ac%ec%a0%a4%eb%a6%ac%eb%b2%84%eb%b8%94) | N/A |
-| 6 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 7 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 8 | [JK x JB](http://twitter.com/search?q=JK+x+JB) | N/A |
-| 9 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
-| 10 | [JEON JUNGKOOK IS COMING](http://twitter.com/search?q=JEON+JUNGKOOK+IS+COMING) | N/A |
-| 11 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 12 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
-| 13 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 14 | [JJK1 IS COMING](http://twitter.com/search?q=JJK1+IS+COMING) | N/A |
-| 15 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 16 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 17 | [Day of Valor](http://twitter.com/search?q=Day+of+Valor) | N/A |
-| 18 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 20 | [Pilipino](http://twitter.com/search?q=Pilipino) | N/A |
-| 21 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
-| 22 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
-| 23 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 24 | [#NingningTouchdownInManila](http://twitter.com/search?q=%23NingningTouchdownInManila) | N/A |
-| 25 | [#HotGirlGISELLEinManila](http://twitter.com/search?q=%23HotGirlGISELLEinManila) | N/A |
-| 26 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 27 | [#PLUUS_Amigo1MViews](http://twitter.com/search?q=%23PLUUS_Amigo1MViews) | N/A |
-| 28 | [#푸른_하늘같은_너](http://twitter.com/search?q=%23%ed%91%b8%eb%a5%b8_%ed%95%98%eb%8a%98%ea%b0%99%ec%9d%80_%eb%84%88) | N/A |
-| 29 | [#NICE_TO_MIXX_YOU](http://twitter.com/search?q=%23NICE_TO_MIXX_YOU) | N/A |
-| 30 | [#WINTER](http://twitter.com/search?q=%23WINTER) | N/A |
-| 31 | [#BOYCOTTEBxAPTxGMA761](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA761) | N/A |
-| 32 | [#MaineGoalsSeason3](http://twitter.com/search?q=%23MaineGoalsSeason3) | N/A |
-| 33 | [#MaineMendoza](http://twitter.com/search?q=%23MaineMendoza) | N/A |
+| 1 | [Jollibee](http://twitter.com/search?q=Jollibee) | N/A |
+| 2 | [D4 KDLEXPETA COMEBACK](http://twitter.com/search?q=D4+KDLEXPETA+COMEBACK) | N/A |
+| 3 | [karina](http://twitter.com/search?q=karina) | N/A |
+| 4 | [ITS TIKTOCLOCK TIME BINI](http://twitter.com/search?q=ITS+TIKTOCLOCK+TIME+BINI) | N/A |
+| 5 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
+| 6 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
+| 7 | [BINNIE](http://twitter.com/search?q=BINNIE) | N/A |
+| 8 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 9 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 10 | [#NingningTouchdownInManila](http://twitter.com/search?q=%23NingningTouchdownInManila) | N/A |
+| 11 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
+| 12 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 13 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
+| 14 | [JEON JUNGKOOK IS COMING](http://twitter.com/search?q=JEON+JUNGKOOK+IS+COMING) | N/A |
+| 15 | [#지구젤리버블](http://twitter.com/search?q=%23%ec%a7%80%ea%b5%ac%ec%a0%a4%eb%a6%ac%eb%b2%84%eb%b8%94) | N/A |
+| 16 | [Changbin](http://twitter.com/search?q=Changbin) | N/A |
+| 17 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 18 | [Winter](http://twitter.com/search?q=Winter) | N/A |
+| 19 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 20 | [JJK1 IS COMING](http://twitter.com/search?q=JJK1+IS+COMING) | N/A |
+| 21 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
+| 22 | [Day of Valor](http://twitter.com/search?q=Day+of+Valor) | N/A |
+| 23 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 24 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 25 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 26 | [Pilipino](http://twitter.com/search?q=Pilipino) | N/A |
+| 27 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 28 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 29 | [#겨울이버블](http://twitter.com/search?q=%23%ea%b2%a8%ec%9a%b8%ec%9d%b4%eb%b2%84%eb%b8%94) | N/A |
+| 30 | [#푸른_하늘같은_너](http://twitter.com/search?q=%23%ed%91%b8%eb%a5%b8_%ed%95%98%eb%8a%98%ea%b0%99%ec%9d%80_%eb%84%88) | N/A |
+| 31 | [#PLUUS_Amigo1MViews](http://twitter.com/search?q=%23PLUUS_Amigo1MViews) | N/A |
+| 32 | [#NICE_TO_MIXX_YOU](http://twitter.com/search?q=%23NICE_TO_MIXX_YOU) | N/A |
+| 33 | [#BOYCOTTEBxAPTxGMA761](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA761) | N/A |
+| 34 | [#MaineMendoza](http://twitter.com/search?q=%23MaineMendoza) | N/A |
 
 
 

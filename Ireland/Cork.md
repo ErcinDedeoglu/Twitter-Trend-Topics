@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-04-10 05:17:37 UTC`
+📆 Last Updated: `2023-04-10 06:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,8 +35,8 @@ This is top 50 for [Ireland](</Ireland>)
 | 18 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 19 | [Lee Chin](http://twitter.com/search?q=Lee+Chin) | N/A |
 | 20 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
-| 21 | [Reed](http://twitter.com/search?q=Reed) | N/A |
-| 22 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 21 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 22 | [Reed](http://twitter.com/search?q=Reed) | N/A |
 | 23 | [the snapper](http://twitter.com/search?q=the+snapper) | N/A |
 | 24 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 25 | [#LIVARS](http://twitter.com/search?q=%23LIVARS) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for [Ireland](</Ireland>)
 | 29 | [gaelic park](http://twitter.com/search?q=gaelic+park) | N/A |
 | 30 | [#blockrockinbeats](http://twitter.com/search?q=%23blockrockinbeats) | N/A |
 | 31 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 32 | [Masvidal](http://twitter.com/search?q=Masvidal) | Masvidal is a Spanish surname derived from the Latin word mas vidale, meaning "more wooded". It is also a variation of the Italian surname Masvidale. |
-| 33 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 34 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
-| 35 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 36 | [Sunday Times](http://twitter.com/search?q=Sunday+Times) | N/A |
-| 37 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 38 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 39 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 40 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 41 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
-| 42 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
-| 43 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 44 | [sinead farrelly](http://twitter.com/search?q=sinead+farrelly) | N/A |
-| 45 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 46 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 47 | [hozier](http://twitter.com/search?q=hozier) | N/A |
-| 48 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 49 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
-| 50 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 32 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 33 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
+| 34 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 35 | [Sunday Times](http://twitter.com/search?q=Sunday+Times) | N/A |
+| 36 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 37 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 38 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 39 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 40 | [Pickford](http://twitter.com/search?q=Pickford) | Pickford is a surname of English origin. It is derived from the Old English words "pic" meaning "pointed" and "ford" meaning "ford". The name was originally given to someone who lived near a ford with pointed rocks. |
+| 41 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
+| 42 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 43 | [sinead farrelly](http://twitter.com/search?q=sinead+farrelly) | N/A |
+| 44 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 45 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 46 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 47 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 48 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
+| 49 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 50 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
 
 
 

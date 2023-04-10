@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-04-10 05:18:11 UTC`
+📆 Last Updated: `2023-04-10 06:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [クラス替え](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b9%e6%9b%bf%e3%81%88) | N/A |
-| 2 | [フラッグ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%83%e3%82%b0) | N/A |
-| 3 | [#kuizy](http://twitter.com/search?q=%23kuizy) | N/A |
+| 2 | [#kuizy](http://twitter.com/search?q=%23kuizy) | N/A |
+| 3 | [#青春の味ベーコンポテトパイってどんな味](http://twitter.com/search?q=%23%e9%9d%92%e6%98%a5%e3%81%ae%e5%91%b3%e3%83%99%e3%83%bc%e3%82%b3%e3%83%b3%e3%83%9d%e3%83%86%e3%83%88%e3%83%91%e3%82%a4%e3%81%a3%e3%81%a6%e3%81%a9%e3%82%93%e3%81%aa%e5%91%b3) | N/A |
 | 4 | [ゴースト](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
-| 5 | [大阪自民](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e8%87%aa%e6%b0%91) | N/A |
-| 6 | [エンゼルス](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%bc%e3%83%ab%e3%82%b9) | N/A |
-| 7 | [#企業公式が毎朝地元の天気を言い合う](http://twitter.com/search?q=%23%e4%bc%81%e6%a5%ad%e5%85%ac%e5%bc%8f%e3%81%8c%e6%af%8e%e6%9c%9d%e5%9c%b0%e5%85%83%e3%81%ae%e5%a4%a9%e6%b0%97%e3%82%92%e8%a8%80%e3%81%84%e5%90%88%e3%81%86) | N/A |
+| 5 | [フラッグ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%83%e3%82%b0) | N/A |
+| 6 | [大阪自民](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e8%87%aa%e6%b0%91) | N/A |
+| 7 | [エンゼルス](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%bc%e3%83%ab%e3%82%b9) | N/A |
 | 8 | [日向ぼっこ](http://twitter.com/search?q=%e6%97%a5%e5%90%91%e3%81%bc%e3%81%a3%e3%81%93) | N/A |
-| 9 | [大阪府民](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e5%ba%9c%e6%b0%91) | N/A |
-| 10 | [吉村さん](http://twitter.com/search?q=%e5%90%89%e6%9d%91%e3%81%95%e3%82%93) | N/A |
+| 9 | [#だが情熱はある](http://twitter.com/search?q=%23%e3%81%a0%e3%81%8c%e6%83%85%e7%86%b1%e3%81%af%e3%81%82%e3%82%8b) | N/A |
+| 10 | [大阪府民](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e5%ba%9c%e6%b0%91) | N/A |
 | 11 | [統一地方選](http://twitter.com/search?q=%e7%b5%b1%e4%b8%80%e5%9c%b0%e6%96%b9%e9%81%b8) | N/A |
 | 12 | [サイフォス](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%95%e3%82%a9%e3%82%b9) | N/A |
 | 13 | [#あなたを属性女子化](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%82%92%e5%b1%9e%e6%80%a7%e5%a5%b3%e5%ad%90%e5%8c%96) | N/A |
-| 14 | [バクフーン](http://twitter.com/search?q=%e3%83%90%e3%82%af%e3%83%95%e3%83%bc%e3%83%b3) | N/A |
-| 15 | [ローレル](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%ac%e3%83%ab) | N/A |
+| 14 | [#全自分が号泣した映画](http://twitter.com/search?q=%23%e5%85%a8%e8%87%aa%e5%88%86%e3%81%8c%e5%8f%b7%e6%b3%a3%e3%81%97%e3%81%9f%e6%98%a0%e7%94%bb) | N/A |
+| 15 | [ナヒーダ](http://twitter.com/search?q=%e3%83%8a%e3%83%92%e3%83%bc%e3%83%80) | N/A |
 | 16 | [ニィロウ](http://twitter.com/search?q=%e3%83%8b%e3%82%a3%e3%83%ad%e3%82%a6) | N/A |
-| 17 | [ローアイアス](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%82%a2%e3%82%a4%e3%82%a2%e3%82%b9) | N/A |
-| 18 | [#全自分が号泣した映画](http://twitter.com/search?q=%23%e5%85%a8%e8%87%aa%e5%88%86%e3%81%8c%e5%8f%b7%e6%b3%a3%e3%81%97%e3%81%9f%e6%98%a0%e7%94%bb) | N/A |
-| 19 | [スニーク](http://twitter.com/search?q=%e3%82%b9%e3%83%8b%e3%83%bc%e3%82%af) | N/A |
-| 20 | [#フォントの日](http://twitter.com/search?q=%23%e3%83%95%e3%82%a9%e3%83%b3%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
-| 21 | [ダンサーさん](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%82%b5%e3%83%bc%e3%81%95%e3%82%93) | N/A |
-| 22 | [忍ちゃん](http://twitter.com/search?q=%e5%bf%8d%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 23 | [技能実習](http://twitter.com/search?q=%e6%8a%80%e8%83%bd%e5%ae%9f%e7%bf%92) | N/A |
-| 24 | [フォントのわたし診断](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%b3%e3%83%88%e3%81%ae%e3%82%8f%e3%81%9f%e3%81%97%e8%a8%ba%e6%96%ad) | N/A |
-| 25 | [レイラちゃん](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 26 | [ハモカラ](http://twitter.com/search?q=%e3%83%8f%e3%83%a2%e3%82%ab%e3%83%a9) | N/A |
-| 27 | [京都大作戦](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e5%a4%a7%e4%bd%9c%e6%88%a6) | N/A |
-| 28 | [シェリー](http://twitter.com/search?q=%e3%82%b7%e3%82%a7%e3%83%aa%e3%83%bc) | N/A |
-| 29 | [正面衝突](http://twitter.com/search?q=%e6%ad%a3%e9%9d%a2%e8%a1%9d%e7%aa%81) | N/A |
-| 30 | [ハーモニーインカラー](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%a2%e3%83%8b%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%ab%e3%83%a9%e3%83%bc) | N/A |
-| 31 | [レジェンドレース](http://twitter.com/search?q=%e3%83%ac%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%89%e3%83%ac%e3%83%bc%e3%82%b9) | N/A |
-| 32 | [サンレス](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%ac%e3%82%b9) | N/A |
-| 33 | [自転車同士](http://twitter.com/search?q=%e8%87%aa%e8%bb%a2%e8%bb%8a%e5%90%8c%e5%a3%ab) | N/A |
-| 34 | [タカさん](http://twitter.com/search?q=%e3%82%bf%e3%82%ab%e3%81%95%e3%82%93) | N/A |
+| 17 | [バクフーン](http://twitter.com/search?q=%e3%83%90%e3%82%af%e3%83%95%e3%83%bc%e3%83%b3) | N/A |
+| 18 | [ローレル](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%ac%e3%83%ab) | N/A |
+| 19 | [ローアイアス](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%82%a2%e3%82%a4%e3%82%a2%e3%82%b9) | N/A |
+| 20 | [忍ちゃん](http://twitter.com/search?q=%e5%bf%8d%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 21 | [正面衝突](http://twitter.com/search?q=%e6%ad%a3%e9%9d%a2%e8%a1%9d%e7%aa%81) | N/A |
+| 22 | [フォントのわたし診断](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%b3%e3%83%88%e3%81%ae%e3%82%8f%e3%81%9f%e3%81%97%e8%a8%ba%e6%96%ad) | N/A |
+| 23 | [スニーク](http://twitter.com/search?q=%e3%82%b9%e3%83%8b%e3%83%bc%e3%82%af) | N/A |
+| 24 | [ダンサーさん](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%82%b5%e3%83%bc%e3%81%95%e3%82%93) | N/A |
+| 25 | [技能実習](http://twitter.com/search?q=%e6%8a%80%e8%83%bd%e5%ae%9f%e7%bf%92) | N/A |
+| 26 | [レイラちゃん](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 27 | [ままの自由人](http://twitter.com/search?q=%e3%81%be%e3%81%be%e3%81%ae%e8%87%aa%e7%94%b1%e4%ba%ba) | N/A |
+| 28 | [風属性女子](http://twitter.com/search?q=%e9%a2%a8%e5%b1%9e%e6%80%a7%e5%a5%b3%e5%ad%90) | N/A |
+| 29 | [自転車同士](http://twitter.com/search?q=%e8%87%aa%e8%bb%a2%e8%bb%8a%e5%90%8c%e5%a3%ab) | N/A |
+| 30 | [消費税14](http://twitter.com/search?q=%e6%b6%88%e8%b2%bb%e7%a8%8e14) | N/A |
+| 31 | [ポケセン](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%82%bb%e3%83%b3) | ポケセン is short for ポケモンセンター, which is the Japanese name for Pokémon Centers. These are stores found in Japan that sell Pokémon merchandise and provide services such as trading and healing Pokémon. In English, it can be translated to "Pokémon Center". |
+| 32 | [タカさん](http://twitter.com/search?q=%e3%82%bf%e3%82%ab%e3%81%95%e3%82%93) | N/A |
+| 33 | [シェリー](http://twitter.com/search?q=%e3%82%b7%e3%82%a7%e3%83%aa%e3%83%bc) | N/A |
+| 34 | [京都大作戦](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e5%a4%a7%e4%bd%9c%e6%88%a6) | N/A |
 | 35 | [しいたけ占い](http://twitter.com/search?q=%e3%81%97%e3%81%84%e3%81%9f%e3%81%91%e5%8d%a0%e3%81%84) | しいたけ占い (Shiitake Fortune Telling) is a traditional Japanese fortune-telling game that uses shiitake mushrooms. Players take turns picking up mushrooms from a pile and interpreting the shape of the mushroom to determine their fortune. The fortunes range from good luck to bad luck, and can be interpreted in various ways. In English, it is sometimes referred to as Shiitake Mushroom Divination. |
-| 36 | [トルクレンチ](http://twitter.com/search?q=%e3%83%88%e3%83%ab%e3%82%af%e3%83%ac%e3%83%b3%e3%83%81) | N/A |
-| 37 | [外国人材確保](http://twitter.com/search?q=%e5%a4%96%e5%9b%bd%e4%ba%ba%e6%9d%90%e7%a2%ba%e4%bf%9d) | N/A |
-| 38 | [政府会議](http://twitter.com/search?q=%e6%94%bf%e5%ba%9c%e4%bc%9a%e8%ad%b0) | N/A |
-| 39 | [パレード](http://twitter.com/search?q=%e3%83%91%e3%83%ac%e3%83%bc%e3%83%89) | パレード (Pareedo) is a Japanese word meaning "parade". It is used to refer to a procession of people or vehicles, usually accompanied by music, that moves along a street or other public area. It can also refer to a festive event featuring marching bands, floats, and other entertainment. |
-| 40 | [リゾートバイト](http://twitter.com/search?q=%e3%83%aa%e3%82%be%e3%83%bc%e3%83%88%e3%83%90%e3%82%a4%e3%83%88) | N/A |
-| 41 | [ままの自由人](http://twitter.com/search?q=%e3%81%be%e3%81%be%e3%81%ae%e8%87%aa%e7%94%b1%e4%ba%ba) | N/A |
-| 42 | [風属性女子](http://twitter.com/search?q=%e9%a2%a8%e5%b1%9e%e6%80%a7%e5%a5%b3%e5%ad%90) | N/A |
-| 43 | [アライグマ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%82%a4%e3%82%b0%e3%83%9e) | アライグマ (araiguma) is the Japanese word for raccoon. It literally translates to "washing bear" in English. |
-| 44 | [ヒノアラシ](http://twitter.com/search?q=%e3%83%92%e3%83%8e%e3%82%a2%e3%83%a9%e3%82%b7) | N/A |
-| 45 | [フロート](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%bc%e3%83%88) | N/A |
-| 46 | [VOGUE GIRL](http://twitter.com/search?q=VOGUE+GIRL) | N/A |
-| 47 | [チャンミ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%9f) | チャンミ is a Japanese term that means "half-hearted" or "lacking enthusiasm". It is often used to describe someone who is not giving their full effort or attention to something. |
-| 48 | [ナヒーダ2凸](http://twitter.com/search?q=%e3%83%8a%e3%83%92%e3%83%bc%e3%83%802%e5%87%b8) | N/A |
-| 49 | [プレショ](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%b7%e3%83%a7) | N/A |
-| 50 | [ヘルメット着用](http://twitter.com/search?q=%e3%83%98%e3%83%ab%e3%83%a1%e3%83%83%e3%83%88%e7%9d%80%e7%94%a8) | N/A |
+| 36 | [ハモカラ](http://twitter.com/search?q=%e3%83%8f%e3%83%a2%e3%82%ab%e3%83%a9) | N/A |
+| 37 | [レジェンドレース](http://twitter.com/search?q=%e3%83%ac%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%89%e3%83%ac%e3%83%bc%e3%82%b9) | N/A |
+| 38 | [ハーモニーインカラー](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%a2%e3%83%8b%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%ab%e3%83%a9%e3%83%bc) | N/A |
+| 39 | [トルクレンチ](http://twitter.com/search?q=%e3%83%88%e3%83%ab%e3%82%af%e3%83%ac%e3%83%b3%e3%83%81) | N/A |
+| 40 | [ダンサー復活](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%82%b5%e3%83%bc%e5%be%a9%e6%b4%bb) | ダンサー復活 is a Japanese phrase that literally translates to "dancer revival". It is used to refer to the return of a dancer or group of dancers to the stage after a period of absence. |
+| 41 | [ベルモット](http://twitter.com/search?q=%e3%83%99%e3%83%ab%e3%83%a2%e3%83%83%e3%83%88) | ベルモット is a type of French pastry that is made with puff pastry and filled with a sweet or savory filling. In English, it is known as a vol-au-vent. |
+| 42 | [サンレス](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%ac%e3%82%b9) | N/A |
+| 43 | [ヘルメット着用](http://twitter.com/search?q=%e3%83%98%e3%83%ab%e3%83%a1%e3%83%83%e3%83%88%e7%9d%80%e7%94%a8) | N/A |
+| 44 | [パレード](http://twitter.com/search?q=%e3%83%91%e3%83%ac%e3%83%bc%e3%83%89) | パレード (Pareedo) is a Japanese word meaning "parade". It is used to refer to a procession of people or vehicles, usually accompanied by music, that moves along a street or other public area. It can also refer to a festive event featuring marching bands, floats, and other entertainment. |
+| 45 | [沿線火災](http://twitter.com/search?q=%e6%b2%bf%e7%b7%9a%e7%81%ab%e7%81%bd) | N/A |
+| 46 | [外国人材確保](http://twitter.com/search?q=%e5%a4%96%e5%9b%bd%e4%ba%ba%e6%9d%90%e7%a2%ba%e4%bf%9d) | N/A |
+| 47 | [咲希ちゃん](http://twitter.com/search?q=%e5%92%b2%e5%b8%8c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 48 | [リゾートバイト](http://twitter.com/search?q=%e3%83%aa%e3%82%be%e3%83%bc%e3%83%88%e3%83%90%e3%82%a4%e3%83%88) | N/A |
+| 49 | [政府会議](http://twitter.com/search?q=%e6%94%bf%e5%ba%9c%e4%bc%9a%e8%ad%b0) | N/A |
+| 50 | [京田辺市](http://twitter.com/search?q=%e4%ba%ac%e7%94%b0%e8%be%ba%e5%b8%82) | N/A |
 
 
 

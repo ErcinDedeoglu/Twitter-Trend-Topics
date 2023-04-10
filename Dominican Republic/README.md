@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-10 05:18:13 UTC`
+📆 Last Updated: `2023-04-10 06:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -46,25 +46,25 @@ This is top 50 for Dominican Republic
 | 29 | [Corea del Sur](http://twitter.com/search?q=Corea+del+Sur) | N/A |
 | 30 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 31 | [Jensy Graciano](http://twitter.com/search?q=Jensy+Graciano) | N/A |
-| 32 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 33 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 34 | [#vivirsinviolenciaesposible](http://twitter.com/search?q=%23vivirsinviolenciaesposible) | N/A |
-| 35 | [Las Terrenas](http://twitter.com/search?q=Las+Terrenas) | N/A |
-| 36 | [Play-In](http://twitter.com/search?q=Play-In) | N/A |
-| 37 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 38 | [villa altagracia](http://twitter.com/search?q=villa+altagracia) | N/A |
-| 39 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 40 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
-| 41 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 42 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
-| 43 | [Playoffs](http://twitter.com/search?q=Playoffs) | N/A |
-| 44 | [Carlos Peña](http://twitter.com/search?q=Carlos+Pe%c3%b1a) | N/A |
-| 45 | [VUDÚ](http://twitter.com/search?q=VUD%c3%9a) | N/A |
-| 46 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
-| 47 | [Vuelvo](http://twitter.com/search?q=Vuelvo) | N/A |
-| 48 | [gaga](http://twitter.com/search?q=gaga) | N/A |
-| 49 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 50 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
+| 32 | [Laje](http://twitter.com/search?q=Laje) | N/A |
+| 33 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 34 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 35 | [#vivirsinviolenciaesposible](http://twitter.com/search?q=%23vivirsinviolenciaesposible) | N/A |
+| 36 | [Las Terrenas](http://twitter.com/search?q=Las+Terrenas) | N/A |
+| 37 | [Play-in](http://twitter.com/search?q=Play-in) | N/A |
+| 38 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 39 | [villa altagracia](http://twitter.com/search?q=villa+altagracia) | N/A |
+| 40 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 41 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
+| 42 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 43 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
+| 44 | [Playoffs](http://twitter.com/search?q=Playoffs) | N/A |
+| 45 | [Carlos Peña](http://twitter.com/search?q=Carlos+Pe%c3%b1a) | N/A |
+| 46 | [VUDÚ](http://twitter.com/search?q=VUD%c3%9a) | N/A |
+| 47 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
+| 48 | [Vuelvo](http://twitter.com/search?q=Vuelvo) | N/A |
+| 49 | [gaga](http://twitter.com/search?q=gaga) | N/A |
+| 50 | [Madison](http://twitter.com/search?q=Madison) | N/A |
 
 
 

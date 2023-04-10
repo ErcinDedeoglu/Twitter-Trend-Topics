@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-04-10 05:18:16 UTC`
+📆 Last Updated: `2023-04-10 06:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,35 +28,35 @@ This is top 50 for Kuwait
 | 11 | [19 رمضان](http://twitter.com/search?q=19+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 12 | [سلم بوبيان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%a8%d9%88%d8%a8%d9%8a%d8%a7%d9%86) | N/A |
 | 13 | [الحكومه الجديده](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
-| 14 | [جامع الناس](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
-| 15 | [ابن ملجم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d9%85%d9%84%d8%ac%d9%85) | N/A |
-| 16 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
-| 17 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
-| 18 | [الطاقه المتجدده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d8%ac%d8%af%d8%af%d9%87) | N/A |
-| 19 | [بارتون](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d8%aa%d9%88%d9%86) | N/A |
-| 20 | [العروه الوثقي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d9%88%d9%87+%d8%a7%d9%84%d9%88%d8%ab%d9%82%d9%8a) | N/A |
-| 21 | [تشكيل الحكومه](http://twitter.com/search?q=%d8%aa%d8%b4%d9%83%d9%8a%d9%84+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87) | N/A |
-| 22 | [المناطق الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 23 | [المكان المناسب](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8) | N/A |
-| 24 | [وزير العدل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
-| 25 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 26 | [اليوم الثامن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86) | N/A |
-| 27 | [قدم الصالات](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
-| 28 | [الرزيه العظمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%b2%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%85%d9%8a) | N/A |
-| 29 | [Sushant Singh Rajput](http://twitter.com/search?q=Sushant+Singh+Rajput) | N/A |
-| 30 | [محمد زيد الصانع](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b2%d9%8a%d8%af+%d8%a7%d9%84%d8%b5%d8%a7%d9%86%d8%b9) | N/A |
-| 31 | [الليالي العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
-| 32 | [سمير](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1) | N/A |
-| 33 | [الوقفه التضامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d9%81%d9%87+%d8%a7%d9%84%d8%aa%d8%b6%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
-| 34 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 35 | [الايام المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 36 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
-| 37 | [علي المرتضي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%b6%d9%8a) | N/A |
-| 38 | [عاليه الخالد](http://twitter.com/search?q=%d8%b9%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af) | N/A |
-| 39 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
-| 40 | [يعقوب](http://twitter.com/search?q=%d9%8a%d8%b9%d9%82%d9%88%d8%a8) | N/A |
-| 41 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
-| 42 | [المذاهب الاربعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b0%d8%a7%d9%87%d8%a8+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d9%87) | N/A |
+| 14 | [ابن ملجم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d9%85%d9%84%d8%ac%d9%85) | N/A |
+| 15 | [جامع الناس](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
+| 16 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
+| 17 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
+| 18 | [الحكم الاجنبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a) | الحكم الاجنبي is a term used in Arabic to refer to foreign or international law. It literally translates to "foreign judgment" or "foreign ruling". |
+| 19 | [الطاقه المتجدده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d8%ac%d8%af%d8%af%d9%87) | N/A |
+| 20 | [بارتون](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d8%aa%d9%88%d9%86) | N/A |
+| 21 | [العروه الوثقي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d9%88%d9%87+%d8%a7%d9%84%d9%88%d8%ab%d9%82%d9%8a) | N/A |
+| 22 | [تشكيل الحكومه](http://twitter.com/search?q=%d8%aa%d8%b4%d9%83%d9%8a%d9%84+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87) | N/A |
+| 23 | [المناطق الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 24 | [المكان المناسب](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8) | N/A |
+| 25 | [وزير الماليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 26 | [وزير العدل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
+| 27 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 28 | [اليوم الثامن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86) | N/A |
+| 29 | [قدم الصالات](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
+| 30 | [الرزيه العظمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%b2%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%85%d9%8a) | N/A |
+| 31 | [Sushant Singh Rajput](http://twitter.com/search?q=Sushant+Singh+Rajput) | N/A |
+| 32 | [الليالي العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
+| 33 | [سمير](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1) | N/A |
+| 34 | [الوقفه التضامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d9%81%d9%87+%d8%a7%d9%84%d8%aa%d8%b6%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
+| 35 | [علي المرتضي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%b6%d9%8a) | N/A |
+| 36 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 37 | [الايام المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 38 | [العمري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d9%8a) | العمري is an Arabic phrase meaning "my age". |
+| 39 | [عاليه الخالد](http://twitter.com/search?q=%d8%b9%d8%a7%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af) | N/A |
+| 40 | [ارسنال](http://twitter.com/search?q=%d8%a7%d8%b1%d8%b3%d9%86%d8%a7%d9%84) | ارسنال (Arsenal) is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 First Division and Premier League titles and a record 14 FA Cups. The club's name is derived from the Royal Arsenal, an armaments factory in Woolwich, south-east London. |
+| 41 | [يعقوب](http://twitter.com/search?q=%d9%8a%d8%b9%d9%82%d9%88%d8%a8) | N/A |
+| 42 | [لاتسيو](http://twitter.com/search?q=%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88) | لاتسيو is an Arabic phrase meaning "Don't worry". |
 | 43 | [القريب العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d9%8a%d8%a8+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
 | 44 | [النوايا البيض](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%88%d8%a7%d9%8a%d8%a7+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6) | N/A |
 | 45 | [اللهم العوض الجميل](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d9%85+%d8%a7%d9%84%d8%b9%d9%88%d8%b6+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Kuwait
 | 47 | [نساء الكويت](http://twitter.com/search?q=%d9%86%d8%b3%d8%a7%d8%a1+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
 | 48 | [كاس الاتحاد](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af) | N/A |
 | 49 | [الصانع الكرام](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%a7%d9%86%d8%b9+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85) | N/A |
-| 50 | [انريكي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
+| 50 | [الجهات المختصه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d8%b5%d9%87) | N/A |
 
 
 

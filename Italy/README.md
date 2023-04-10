@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-04-10 05:18:15 UTC`
+📆 Last Updated: `2023-04-10 06:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Italy
 | ------- | ------------ | ------------ |
 | 1 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
 | 2 | [Buona Pasquetta](http://twitter.com/search?q=Buona+Pasquetta) | N/A |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 4 | [#LazioJuve](http://twitter.com/search?q=%23LazioJuve) | N/A |
-| 5 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 6 | [Alex sandro](http://twitter.com/search?q=Alex+sandro) | N/A |
-| 7 | [#torinoroma](http://twitter.com/search?q=%23torinoroma) | N/A |
-| 8 | [#9aprile](http://twitter.com/search?q=%239aprile) | N/A |
-| 9 | [#10aprile](http://twitter.com/search?q=%2310aprile) | N/A |
-| 10 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 11 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
-| 12 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
-| 13 | [milinkovic](http://twitter.com/search?q=milinkovic) | N/A |
-| 14 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
-| 15 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
+| 3 | [#10aprile](http://twitter.com/search?q=%2310aprile) | N/A |
+| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 5 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 6 | [#LazioJuventus](http://twitter.com/search?q=%23LazioJuventus) | N/A |
+| 7 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 8 | [#torinoroma](http://twitter.com/search?q=%23torinoroma) | N/A |
+| 9 | [#9aprile](http://twitter.com/search?q=%239aprile) | N/A |
+| 10 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 11 | [Buon Lunedì](http://twitter.com/search?q=Buon+Luned%c3%ac) | N/A |
+| 12 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
+| 13 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 14 | [Milinkovic](http://twitter.com/search?q=Milinkovic) | N/A |
+| 15 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
 | 16 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
 | 17 | [Tanti](http://twitter.com/search?q=Tanti) | N/A |
-| 18 | [Gesù](http://twitter.com/search?q=Ges%c3%b9) | N/A |
+| 18 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
 | 19 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 20 | [cricca](http://twitter.com/search?q=cricca) | N/A |
-| 21 | [Raimondo](http://twitter.com/search?q=Raimondo) | Raimondo is an Italian given name derived from the Germanic name Raginmund, which means "wise protector". It is also a surname. |
-| 22 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 23 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 24 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
+| 20 | [Gesù](http://twitter.com/search?q=Ges%c3%b9) | N/A |
+| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 22 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 23 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 24 | [luis alberto](http://twitter.com/search?q=luis+alberto) | N/A |
 | 25 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 26 | [luis alberto](http://twitter.com/search?q=luis+alberto) | N/A |
-| 27 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
+| 26 | [Buongiorno Clelia](http://twitter.com/search?q=Buongiorno+Clelia) | N/A |
+| 27 | [Di Bello](http://twitter.com/search?q=Di+Bello) | N/A |
 | 28 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 29 | [Non Comunista](http://twitter.com/search?q=Non+Comunista) | N/A |
+| 29 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
 | 30 | [Altrettanto](http://twitter.com/search?q=Altrettanto) | N/A |
-| 31 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 32 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 33 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 34 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 31 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 32 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
+| 33 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
+| 34 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
 | 35 | [STELLINI](http://twitter.com/search?q=STELLINI) | N/A |
 | 36 | [lorella](http://twitter.com/search?q=lorella) | N/A |
 | 37 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
-| 38 | [Risorto](http://twitter.com/search?q=Risorto) | N/A |
-| 39 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
-| 40 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 41 | [Ricambio](http://twitter.com/search?q=Ricambio) | N/A |
+| 38 | [Natale](http://twitter.com/search?q=Natale) | Natale is an Italian word meaning "Christmas". It is derived from the Latin phrase "natalis dies", which translates to "birthday". |
+| 39 | [Non Comunista](http://twitter.com/search?q=Non+Comunista) | N/A |
+| 40 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 41 | [Risorto](http://twitter.com/search?q=Risorto) | N/A |
 | 42 | [Confucio](http://twitter.com/search?q=Confucio) | N/A |
-| 43 | [Deer](http://twitter.com/search?q=Deer) | N/A |
-| 44 | [Ave Maria](http://twitter.com/search?q=Ave+Maria) | N/A |
-| 45 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 46 | [livaja](http://twitter.com/search?q=livaja) | N/A |
-| 47 | [Israele](http://twitter.com/search?q=Israele) | N/A |
-| 48 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 49 | [DICIAMO NO](http://twitter.com/search?q=DICIAMO+NO) | N/A |
-| 50 | [auguri matteo](http://twitter.com/search?q=auguri+matteo) | N/A |
+| 43 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
+| 44 | [Ricambio](http://twitter.com/search?q=Ricambio) | N/A |
+| 45 | [Galilea](http://twitter.com/search?q=Galilea) | N/A |
+| 46 | [Deer](http://twitter.com/search?q=Deer) | N/A |
+| 47 | [DICIAMO NO](http://twitter.com/search?q=DICIAMO+NO) | N/A |
+| 48 | [livaja](http://twitter.com/search?q=livaja) | N/A |
+| 49 | [Buongiorno Sergio](http://twitter.com/search?q=Buongiorno+Sergio) | N/A |
+| 50 | [Israele](http://twitter.com/search?q=Israele) | N/A |
 
 
 
