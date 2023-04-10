@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-10 04:17:21 UTC`
+📆 Last Updated: `2023-04-10 05:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 2 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
 | 3 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 4 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
-| 5 | [Masters](http://twitter.com/search?q=Masters) | N/A |
-| 6 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 7 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 8 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 10 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 11 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 12 | [kendall](http://twitter.com/search?q=kendall) | N/A |
-| 13 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
-| 14 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 15 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 16 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 17 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 18 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 19 | [Preece](http://twitter.com/search?q=Preece) | N/A |
-| 20 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 21 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
-| 22 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 23 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
+| 4 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 5 | [Kyle](http://twitter.com/search?q=Kyle) | N/A |
+| 6 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 7 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 8 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 9 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 10 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 11 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
+| 12 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 13 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 14 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 15 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
+| 16 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
+| 17 | [Titter](http://twitter.com/search?q=Titter) | N/A |
+| 18 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 19 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 20 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 21 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
+| 22 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
+| 23 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
 | 24 | [Willa](http://twitter.com/search?q=Willa) | N/A |
-| 25 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 26 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
-| 27 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
-| 28 | [Titter](http://twitter.com/search?q=Titter) | N/A |
-| 29 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 25 | [Preece](http://twitter.com/search?q=Preece) | N/A |
+| 26 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
+| 27 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 28 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
+| 29 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
 | 30 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 31 | [Odell](http://twitter.com/search?q=Odell) | N/A |
-| 32 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
-| 33 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
-| 34 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
-| 35 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 36 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
-| 37 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 38 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 31 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 32 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
+| 33 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
+| 34 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 35 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 36 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
+| 37 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
+| 38 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
 | 39 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 40 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 40 | [Kieran Culkin](http://twitter.com/search?q=Kieran+Culkin) | N/A |
 | 41 | [Chuckles the Clown](http://twitter.com/search?q=Chuckles+the+Clown) | N/A |
-| 42 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
-| 43 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 44 | [Briscoe](http://twitter.com/search?q=Briscoe) | N/A |
-| 45 | [Christopher Bell](http://twitter.com/search?q=Christopher+Bell) | N/A |
-| 46 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 47 | [Kieran](http://twitter.com/search?q=Kieran) | Kieran is an Irish name derived from the Gaelic name Ciarán, which means "little dark one". It is also a variant of the name Kieron, which is derived from the Latin name Ciaran. |
-| 48 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 49 | [Paty](http://twitter.com/search?q=Paty) | N/A |
-| 50 | [Joan Baez](http://twitter.com/search?q=Joan+Baez) | N/A |
+| 42 | [Odell](http://twitter.com/search?q=Odell) | N/A |
+| 43 | [L to the OG](http://twitter.com/search?q=L+to+the+OG) | N/A |
+| 44 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 45 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 46 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
+| 47 | [Karolina](http://twitter.com/search?q=Karolina) | N/A |
+| 48 | [Joan Baez](http://twitter.com/search?q=Joan+Baez) | N/A |
+| 49 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 50 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
 
 
 

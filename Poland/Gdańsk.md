@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-10 04:16:48 UTC`
+📆 Last Updated: `2023-04-10 05:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [wesołych świąt](http://twitter.com/search?q=weso%c5%82ych+%c5%9bwi%c4%85t) | N/A |
+| 1 | [Wesołych Świąt](http://twitter.com/search?q=Weso%c5%82ych+%c5%9awi%c4%85t) | Wesołych Świąt is a Polish phrase meaning "Merry Christmas". |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 4 | [wesołego alleluja](http://twitter.com/search?q=weso%c5%82ego+alleluja) | N/A |
-| 5 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 4 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 5 | [Wesołego Alleluja](http://twitter.com/search?q=Weso%c5%82ego+Alleluja) | N/A |
 | 6 | [chrystus zmartwychwstał](http://twitter.com/search?q=chrystus+zmartwychwsta%c5%82) | N/A |
 | 7 | [#grucze](http://twitter.com/search?q=%23grucze) | N/A |
 | 8 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 9 | [Kukiz](http://twitter.com/search?q=Kukiz) | N/A |
 | 10 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 11 | [Zdrowych](http://twitter.com/search?q=Zdrowych) | N/A |
+| 11 | [zdrowych](http://twitter.com/search?q=zdrowych) | N/A |
 | 12 | [wielka sobota](http://twitter.com/search?q=wielka+sobota) | N/A |
-| 13 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 14 | [nawzajem](http://twitter.com/search?q=nawzajem) | N/A |
-| 15 | [puszczy](http://twitter.com/search?q=puszczy) | N/A |
-| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 13 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
+| 14 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 15 | [nawzajem](http://twitter.com/search?q=nawzajem) | N/A |
+| 16 | [puszczy](http://twitter.com/search?q=puszczy) | N/A |
 | 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 18 | [huberta](http://twitter.com/search?q=huberta) | N/A |
-| 19 | [OIOM](http://twitter.com/search?q=OIOM) | N/A |
-| 20 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 21 | [Jajko](http://twitter.com/search?q=Jajko) | N/A |
+| 18 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 19 | [huberta](http://twitter.com/search?q=huberta) | N/A |
+| 20 | [oiom](http://twitter.com/search?q=oiom) | N/A |
+| 21 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 22 | [niepołomicach](http://twitter.com/search?q=niepo%c5%82omicach) | N/A |
-| 23 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 24 | [warty](http://twitter.com/search?q=warty) | N/A |
-| 25 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 26 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 27 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
-| 28 | [Wysoka](http://twitter.com/search?q=Wysoka) | N/A |
-| 29 | [raczkowski](http://twitter.com/search?q=raczkowski) | N/A |
-| 30 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 31 | [kujawski](http://twitter.com/search?q=kujawski) | N/A |
-| 32 | [krowa](http://twitter.com/search?q=krowa) | N/A |
-| 33 | [znachora](http://twitter.com/search?q=znachora) | N/A |
-| 34 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 35 | [Sienkiewicz](http://twitter.com/search?q=Sienkiewicz) | N/A |
-| 36 | [Legutko](http://twitter.com/search?q=Legutko) | N/A |
-| 37 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 38 | [Boga](http://twitter.com/search?q=Boga) | N/A |
-| 39 | [wielki piątek](http://twitter.com/search?q=wielki+pi%c4%85tek) | N/A |
-| 40 | [wigilii paschalnej](http://twitter.com/search?q=wigilii+paschalnej) | N/A |
-| 41 | [murawa](http://twitter.com/search?q=murawa) | N/A |
-| 42 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
-| 43 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
-| 44 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 45 | [rutkowskiego](http://twitter.com/search?q=rutkowskiego) | N/A |
-| 46 | [Tajwanu](http://twitter.com/search?q=Tajwanu) | N/A |
-| 47 | [Francja](http://twitter.com/search?q=Francja) | N/A |
-| 48 | [Życzę Wam](http://twitter.com/search?q=%c5%bbycz%c4%99+Wam) | N/A |
-| 49 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 23 | [Jajko](http://twitter.com/search?q=Jajko) | N/A |
+| 24 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 25 | [warty](http://twitter.com/search?q=warty) | N/A |
+| 26 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 27 | [Macierewicza](http://twitter.com/search?q=Macierewicza) | N/A |
+| 28 | [velde](http://twitter.com/search?q=velde) | N/A |
+| 29 | [Szmata](http://twitter.com/search?q=Szmata) | N/A |
+| 30 | [Wysoka](http://twitter.com/search?q=Wysoka) | N/A |
+| 31 | [raczkowski](http://twitter.com/search?q=raczkowski) | N/A |
+| 32 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 33 | [kujawski](http://twitter.com/search?q=kujawski) | N/A |
+| 34 | [krowa](http://twitter.com/search?q=krowa) | N/A |
+| 35 | [znachora](http://twitter.com/search?q=znachora) | N/A |
+| 36 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 37 | [Sienkiewicz](http://twitter.com/search?q=Sienkiewicz) | N/A |
+| 38 | [Legutko](http://twitter.com/search?q=Legutko) | N/A |
+| 39 | [Boga](http://twitter.com/search?q=Boga) | N/A |
+| 40 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 41 | [wielki piątek](http://twitter.com/search?q=wielki+pi%c4%85tek) | N/A |
+| 42 | [wigilii paschalnej](http://twitter.com/search?q=wigilii+paschalnej) | N/A |
+| 43 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 44 | [murawa](http://twitter.com/search?q=murawa) | N/A |
+| 45 | [ba loua](http://twitter.com/search?q=ba+loua) | N/A |
+| 46 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
+| 47 | [Jarosław](http://twitter.com/search?q=Jaros%c5%82aw) | N/A |
+| 48 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 49 | [Tajwanu](http://twitter.com/search?q=Tajwanu) | N/A |
 
 
 

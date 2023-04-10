@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-04-10 04:16:43 UTC`
+📆 Last Updated: `2023-04-10 05:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ToleranciaCero](http://twitter.com/search?q=%23ToleranciaCero) | N/A |
-| 2 | [#TheVoiceCHV](http://twitter.com/search?q=%23TheVoiceCHV) | N/A |
+| 1 | [#TheVoiceCHV](http://twitter.com/search?q=%23TheVoiceCHV) | N/A |
+| 2 | [#ToleranciaCero](http://twitter.com/search?q=%23ToleranciaCero) | N/A |
 | 3 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
 | 4 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
 | 5 | [Chimbarongo](http://twitter.com/search?q=Chimbarongo) | N/A |
 | 6 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 7 | [#Cadem](http://twitter.com/search?q=%23Cadem) | N/A |
-| 8 | [Colina](http://twitter.com/search?q=Colina) | N/A |
-| 9 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 10 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 11 | [Santiago City](http://twitter.com/search?q=Santiago+City) | N/A |
+| 7 | [Colina](http://twitter.com/search?q=Colina) | N/A |
+| 8 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 9 | [#Cadem](http://twitter.com/search?q=%23Cadem) | N/A |
+| 10 | [Santiago City](http://twitter.com/search?q=Santiago+City) | N/A |
+| 11 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
 | 12 | [Tenía 19](http://twitter.com/search?q=Ten%c3%ada+19) | N/A |
-| 13 | [Baby Shower](http://twitter.com/search?q=Baby+Shower) | N/A |
-| 14 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
-| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 13 | [Paulsen](http://twitter.com/search?q=Paulsen) | N/A |
+| 14 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 15 | [Lucas Soto](http://twitter.com/search?q=Lucas+Soto) | N/A |
 | 16 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 17 | [Lucas Soto](http://twitter.com/search?q=Lucas+Soto) | N/A |
-| 18 | [Camila Vallejo](http://twitter.com/search?q=Camila+Vallejo) | N/A |
-| 19 | [Copa Chile](http://twitter.com/search?q=Copa+Chile) | N/A |
-| 20 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
-| 21 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 22 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
-| 23 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 24 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 25 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
-| 26 | [Batuco](http://twitter.com/search?q=Batuco) | N/A |
-| 27 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
-| 28 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
-| 29 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
-| 30 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 17 | [Baby Shower](http://twitter.com/search?q=Baby+Shower) | N/A |
+| 18 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
+| 19 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
+| 20 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 21 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
+| 22 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 23 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
+| 24 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
+| 25 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 26 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 27 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
+| 28 | [Camila Vallejo](http://twitter.com/search?q=Camila+Vallejo) | N/A |
+| 29 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 30 | [Batuco](http://twitter.com/search?q=Batuco) | N/A |
 | 31 | [Juana](http://twitter.com/search?q=Juana) | N/A |
 | 32 | [Nico Guerra](http://twitter.com/search?q=Nico+Guerra) | N/A |
-| 33 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
-| 34 | [Toha](http://twitter.com/search?q=Toha) | N/A |
-| 35 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
-| 36 | [Kike Acuña](http://twitter.com/search?q=Kike+Acu%c3%b1a) | N/A |
-| 37 | [Nació Simón](http://twitter.com/search?q=Naci%c3%b3+Sim%c3%b3n) | N/A |
-| 38 | [Vicente Pizarro](http://twitter.com/search?q=Vicente+Pizarro) | N/A |
-| 39 | [Insulza](http://twitter.com/search?q=Insulza) | N/A |
-| 40 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 41 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 42 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 43 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 44 | [Huerta](http://twitter.com/search?q=Huerta) | N/A |
-| 45 | [Feliz Pascua](http://twitter.com/search?q=Feliz+Pascua) | N/A |
-| 46 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
-| 47 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 33 | [Toha](http://twitter.com/search?q=Toha) | N/A |
+| 34 | [Dituro](http://twitter.com/search?q=Dituro) | N/A |
+| 35 | [Kike Acuña](http://twitter.com/search?q=Kike+Acu%c3%b1a) | N/A |
+| 36 | [Nació Simón](http://twitter.com/search?q=Naci%c3%b3+Sim%c3%b3n) | N/A |
+| 37 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
+| 38 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
+| 39 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 40 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 41 | [Huerta](http://twitter.com/search?q=Huerta) | N/A |
+| 42 | [Feliz Pascua](http://twitter.com/search?q=Feliz+Pascua) | N/A |
+| 43 | [Insulza](http://twitter.com/search?q=Insulza) | N/A |
+| 44 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
+| 45 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 46 | [Vicente Pizarro](http://twitter.com/search?q=Vicente+Pizarro) | N/A |
+| 47 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
 | 48 | [Karina](http://twitter.com/search?q=Karina) | N/A |
 | 49 | [Gallegos](http://twitter.com/search?q=Gallegos) | Gallegos is a Spanish surname derived from the region of Galicia in northwestern Spain. It is derived from the Latin word Gallaecia, which means "land of the Gauls". In English, it can be translated to mean "from Galicia". |
 | 50 | [Paco](http://twitter.com/search?q=Paco) | N/A |

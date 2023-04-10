@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-04-10 04:17:26 UTC`
+📆 Last Updated: `2023-04-10 05:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Ecuador
 | 2 | [Guayaquil City](http://twitter.com/search?q=Guayaquil+City) | N/A |
 | 3 | [Otero](http://twitter.com/search?q=Otero) | N/A |
 | 4 | [Villalba](http://twitter.com/search?q=Villalba) | N/A |
-| 5 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 6 | [MAR EN MARIE CLAIRE](http://twitter.com/search?q=MAR+EN+MARIE+CLAIRE) | N/A |
-| 7 | [Cifuentes](http://twitter.com/search?q=Cifuentes) | N/A |
+| 5 | [Cifuentes](http://twitter.com/search?q=Cifuentes) | N/A |
+| 6 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 7 | [MAR EN MARIE CLAIRE](http://twitter.com/search?q=MAR+EN+MARIE+CLAIRE) | N/A |
 | 8 | [Cevallos](http://twitter.com/search?q=Cevallos) | N/A |
 | 9 | [Alberti](http://twitter.com/search?q=Alberti) | N/A |
 | 10 | [Romario Caicedo](http://twitter.com/search?q=Romario+Caicedo) | N/A |
 | 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 12 | [Zubeldía](http://twitter.com/search?q=Zubeld%c3%ada) | N/A |
-| 13 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
+| 12 | [Rondelli](http://twitter.com/search?q=Rondelli) | N/A |
+| 13 | [Zubeldia](http://twitter.com/search?q=Zubeldia) | N/A |
 | 14 | [#LigaPro](http://twitter.com/search?q=%23LigaPro) | N/A |
-| 15 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 16 | [#LibertadPresosPoliticos](http://twitter.com/search?q=%23LibertadPresosPoliticos) | N/A |
-| 17 | [#LosQueremosLibres](http://twitter.com/search?q=%23LosQueremosLibres) | N/A |
-| 18 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
-| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 20 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 21 | [Piovi](http://twitter.com/search?q=Piovi) | Piovi is an Italian word that means "to rain". It is used to describe the sound of rain falling. |
-| 22 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
-| 23 | [García](http://twitter.com/search?q=Garc%c3%ada) | N/A |
-| 24 | [parrales](http://twitter.com/search?q=parrales) | N/A |
-| 25 | [Gonzalo Pozo Ripalda](http://twitter.com/search?q=Gonzalo+Pozo+Ripalda) | N/A |
-| 26 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 27 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
-| 28 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 29 | [González](http://twitter.com/search?q=Gonz%c3%a1lez) | N/A |
-| 30 | [Alejandro Cabeza](http://twitter.com/search?q=Alejandro+Cabeza) | N/A |
-| 31 | [Cabezas](http://twitter.com/search?q=Cabezas) | Cabezas is a Spanish word meaning "heads". It can refer to the heads of people, animals, or objects. It can also be used figuratively to refer to a leader or someone in charge. |
-| 32 | [Nebot](http://twitter.com/search?q=Nebot) | N/A |
-| 33 | [Fecha 5](http://twitter.com/search?q=Fecha+5) | N/A |
+| 15 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
+| 16 | [Piovi](http://twitter.com/search?q=Piovi) | Piovi is an Italian word that means "to rain". It is used to describe the sound of rain falling. |
+| 17 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
+| 18 | [García](http://twitter.com/search?q=Garc%c3%ada) | N/A |
+| 19 | [Neme](http://twitter.com/search?q=Neme) | N/A |
+| 20 | [parrales](http://twitter.com/search?q=parrales) | N/A |
+| 21 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 22 | [Gonzalo Pozo Ripalda](http://twitter.com/search?q=Gonzalo+Pozo+Ripalda) | N/A |
+| 23 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 24 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
+| 25 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 26 | [González](http://twitter.com/search?q=Gonz%c3%a1lez) | N/A |
+| 27 | [Alejandro Cabeza](http://twitter.com/search?q=Alejandro+Cabeza) | N/A |
+| 28 | [Cabezas](http://twitter.com/search?q=Cabezas) | Cabezas is a Spanish word meaning "heads". It can refer to the heads of people, animals, or objects. It can also be used figuratively to refer to a leader or someone in charge. |
+| 29 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 30 | [Nebot](http://twitter.com/search?q=Nebot) | N/A |
+| 31 | [Fecha 5](http://twitter.com/search?q=Fecha+5) | N/A |
+| 32 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 33 | [#LibertadPresosPoliticos](http://twitter.com/search?q=%23LibertadPresosPoliticos) | N/A |
 | 34 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 35 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 36 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 37 | [alzugaray](http://twitter.com/search?q=alzugaray) | N/A |
-| 38 | [Napa](http://twitter.com/search?q=Napa) | N/A |
-| 39 | [Mushuc Runa](http://twitter.com/search?q=Mushuc+Runa) | N/A |
-| 40 | [Fara](http://twitter.com/search?q=Fara) | N/A |
-| 41 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 42 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 43 | [Chillogallo](http://twitter.com/search?q=Chillogallo) | N/A |
-| 44 | [Vamos Liga](http://twitter.com/search?q=Vamos+Liga) | N/A |
-| 45 | [melfi nominado x heat](http://twitter.com/search?q=melfi+nominado+x+heat) | N/A |
-| 46 | [Rescalvo](http://twitter.com/search?q=Rescalvo) | N/A |
-| 47 | [Liga de Quito](http://twitter.com/search?q=Liga+de+Quito) | N/A |
-| 48 | [Bombillo](http://twitter.com/search?q=Bombillo) | N/A |
-| 49 | [bagner delgado](http://twitter.com/search?q=bagner+delgado) | N/A |
-| 50 | [Klebinho](http://twitter.com/search?q=Klebinho) | N/A |
+| 35 | [#LosQueremosLibres](http://twitter.com/search?q=%23LosQueremosLibres) | N/A |
+| 36 | [Napa](http://twitter.com/search?q=Napa) | N/A |
+| 37 | [Mushuc Runa](http://twitter.com/search?q=Mushuc+Runa) | N/A |
+| 38 | [Fara](http://twitter.com/search?q=Fara) | N/A |
+| 39 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 40 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 41 | [Chillogallo](http://twitter.com/search?q=Chillogallo) | N/A |
+| 42 | [Vamos Liga](http://twitter.com/search?q=Vamos+Liga) | N/A |
+| 43 | [melfi nominado x heat](http://twitter.com/search?q=melfi+nominado+x+heat) | N/A |
+| 44 | [Rescalvo](http://twitter.com/search?q=Rescalvo) | N/A |
+| 45 | [Liga de Quito](http://twitter.com/search?q=Liga+de+Quito) | N/A |
+| 46 | [Bombillo](http://twitter.com/search?q=Bombillo) | N/A |
+| 47 | [bagner delgado](http://twitter.com/search?q=bagner+delgado) | N/A |
+| 48 | [klebinho](http://twitter.com/search?q=klebinho) | N/A |
+| 49 | [Alzugaray](http://twitter.com/search?q=Alzugaray) | N/A |
+| 50 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
 
 
 

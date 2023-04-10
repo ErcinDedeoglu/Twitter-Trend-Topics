@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-10 04:16:58 UTC`
+📆 Last Updated: `2023-04-10 05:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [#SWIvFEV](http://twitter.com/search?q=%23SWIvFEV) | N/A |
-| 3 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 2 | [#AFLCatsHawks](http://twitter.com/search?q=%23AFLCatsHawks) | N/A |
+| 3 | [#SWIvFEV](http://twitter.com/search?q=%23SWIvFEV) | N/A |
 | 4 | [#mvcvper](http://twitter.com/search?q=%23mvcvper) | N/A |
-| 5 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 6 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 7 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 8 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 9 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 10 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 11 | [Aries](http://twitter.com/search?q=Aries) | N/A |
-| 12 | [Dame Edna](http://twitter.com/search?q=Dame+Edna) | N/A |
-| 13 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 14 | [Happy Birthday Katy](http://twitter.com/search?q=Happy+Birthday+Katy) | N/A |
-| 15 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 16 | [Debunking 10](http://twitter.com/search?q=Debunking+10) | N/A |
-| 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 5 | [#AFLDonsGiants](http://twitter.com/search?q=%23AFLDonsGiants) | N/A |
+| 6 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 7 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 8 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 9 | [Fever](http://twitter.com/search?q=Fever) | N/A |
+| 10 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
+| 11 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 12 | [Swifts](http://twitter.com/search?q=Swifts) | N/A |
+| 13 | [Dame Edna](http://twitter.com/search?q=Dame+Edna) | N/A |
+| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 15 | [Debunking 10](http://twitter.com/search?q=Debunking+10) | N/A |
+| 16 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 17 | [Happy Birthday Katy](http://twitter.com/search?q=Happy+Birthday+Katy) | N/A |
 | 18 | [Keath](http://twitter.com/search?q=Keath) | N/A |
-| 19 | [Rapana](http://twitter.com/search?q=Rapana) | N/A |
-| 20 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 20 | [Rapana](http://twitter.com/search?q=Rapana) | N/A |
 | 21 | [Adam Goodes](http://twitter.com/search?q=Adam+Goodes) | N/A |
-| 22 | [Richo](http://twitter.com/search?q=Richo) | N/A |
-| 23 | [Woosung](http://twitter.com/search?q=Woosung) | N/A |
-| 24 | [vale bruce haigh](http://twitter.com/search?q=vale+bruce+haigh) | N/A |
-| 25 | [Slippery](http://twitter.com/search?q=Slippery) | N/A |
-| 26 | [Ben Hunt](http://twitter.com/search?q=Ben+Hunt) | N/A |
-| 27 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
+| 22 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
+| 23 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 24 | [Richo](http://twitter.com/search?q=Richo) | N/A |
+| 25 | [Aries](http://twitter.com/search?q=Aries) | N/A |
+| 26 | [vale bruce haigh](http://twitter.com/search?q=vale+bruce+haigh) | N/A |
+| 27 | [Mundine](http://twitter.com/search?q=Mundine) | N/A |
 | 28 | [Murdoch Press](http://twitter.com/search?q=Murdoch+Press) | N/A |
-| 29 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
-| 30 | [GASTELUM](http://twitter.com/search?q=GASTELUM) | N/A |
-| 31 | [Monash](http://twitter.com/search?q=Monash) | N/A |
-| 32 | [Warwick Farm](http://twitter.com/search?q=Warwick+Farm) | N/A |
-| 33 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
-| 34 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 35 | [Mundine](http://twitter.com/search?q=Mundine) | N/A |
-| 36 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 37 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 38 | [Bali](http://twitter.com/search?q=Bali) | N/A |
-| 39 | [Lorraine](http://twitter.com/search?q=Lorraine) | N/A |
-| 40 | [Stringer](http://twitter.com/search?q=Stringer) | N/A |
-| 41 | [Bronwyn Bishop](http://twitter.com/search?q=Bronwyn+Bishop) | N/A |
-| 42 | [Cantlay](http://twitter.com/search?q=Cantlay) | N/A |
-| 43 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 44 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 45 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 46 | [Phil Mickelson](http://twitter.com/search?q=Phil+Mickelson) | N/A |
-| 47 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 48 | [Jaden](http://twitter.com/search?q=Jaden) | N/A |
-| 49 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 29 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 30 | [Slippery](http://twitter.com/search?q=Slippery) | N/A |
+| 31 | [Warwick Farm](http://twitter.com/search?q=Warwick+Farm) | N/A |
+| 32 | [Ben Hunt](http://twitter.com/search?q=Ben+Hunt) | N/A |
+| 33 | [HASTE 2](http://twitter.com/search?q=HASTE+2) | N/A |
+| 34 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
+| 35 | [Joe Alwyn](http://twitter.com/search?q=Joe+Alwyn) | N/A |
+| 36 | [Monash](http://twitter.com/search?q=Monash) | N/A |
+| 37 | [OWGR](http://twitter.com/search?q=OWGR) | N/A |
+| 38 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
+| 39 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
+| 40 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
+| 41 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 42 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 43 | [Bronwyn Bishop](http://twitter.com/search?q=Bronwyn+Bishop) | N/A |
+| 44 | [Woosung](http://twitter.com/search?q=Woosung) | N/A |
+| 45 | [Stringer](http://twitter.com/search?q=Stringer) | N/A |
+| 46 | [Cantlay](http://twitter.com/search?q=Cantlay) | N/A |
+| 47 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 48 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 49 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
 
 
 

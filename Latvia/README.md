@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-10 04:17:28 UTC`
+📆 Last Updated: `2023-04-10 05:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,25 +15,25 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [priecīgas lieldienas](http://twitter.com/search?q=priec%c4%abgas+lieldienas) | N/A |
+| 1 | [Priecīgas Lieldienas](http://twitter.com/search?q=Priec%c4%abgas+Lieldienas) | N/A |
 | 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 3 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
 | 4 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 | 5 | [Russians](http://twitter.com/search?q=Russians) | N/A |
 | 6 | [jēzus](http://twitter.com/search?q=j%c4%93zus) | N/A |
 | 7 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
-| 8 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
-| 9 | [vakar](http://twitter.com/search?q=vakar) | N/A |
-| 10 | [latvians](http://twitter.com/search?q=latvians) | N/A |
-| 11 | [kariņš](http://twitter.com/search?q=kari%c5%86%c5%a1) | N/A |
-| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 13 | [riga](http://twitter.com/search?q=riga) | N/A |
-| 14 | [vajag](http://twitter.com/search?q=vajag) | N/A |
-| 15 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 16 | [daudz](http://twitter.com/search?q=daudz) | N/A |
-| 17 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
-| 18 | [nekad](http://twitter.com/search?q=nekad) | N/A |
-| 19 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
+| 8 | [vakar](http://twitter.com/search?q=vakar) | N/A |
+| 9 | [latvians](http://twitter.com/search?q=latvians) | N/A |
+| 10 | [kariņš](http://twitter.com/search?q=kari%c5%86%c5%a1) | N/A |
+| 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 12 | [Riga](http://twitter.com/search?q=Riga) | N/A |
+| 13 | [vajag](http://twitter.com/search?q=vajag) | N/A |
+| 14 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 15 | [daudz](http://twitter.com/search?q=daudz) | N/A |
+| 16 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
+| 17 | [nekad](http://twitter.com/search?q=nekad) | N/A |
+| 18 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
+| 19 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
 | 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 21 | [USSR](http://twitter.com/search?q=USSR) | N/A |
 | 22 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
@@ -43,28 +43,27 @@ This is top 50 for Latvia
 | 26 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
 | 27 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
 | 28 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
-| 29 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 30 | [pirms](http://twitter.com/search?q=pirms) | N/A |
-| 31 | [kādi](http://twitter.com/search?q=k%c4%81di) | N/A |
-| 32 | [viņš](http://twitter.com/search?q=vi%c5%86%c5%a1) | N/A |
-| 33 | [vienīgais](http://twitter.com/search?q=vien%c4%abgais) | N/A |
-| 34 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
-| 35 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
-| 36 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | N/A |
-| 37 | [pareizi](http://twitter.com/search?q=pareizi) | N/A |
-| 38 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
-| 39 | [domāju](http://twitter.com/search?q=dom%c4%81ju) | N/A |
-| 40 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
-| 41 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
-| 42 | [pievienojos](http://twitter.com/search?q=pievienojos) | N/A |
-| 43 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
-| 44 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
-| 45 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
-| 46 | [Ķīnas](http://twitter.com/search?q=%c4%b6%c4%abnas) | N/A |
-| 47 | [laikam](http://twitter.com/search?q=laikam) | N/A |
-| 48 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
-| 49 | [vai tu](http://twitter.com/search?q=vai+tu) | N/A |
-| 50 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
+| 29 | [pirms](http://twitter.com/search?q=pirms) | N/A |
+| 30 | [viņš](http://twitter.com/search?q=vi%c5%86%c5%a1) | N/A |
+| 31 | [Domāju](http://twitter.com/search?q=Dom%c4%81ju) | N/A |
+| 32 | [vienīgais](http://twitter.com/search?q=vien%c4%abgais) | N/A |
+| 33 | [vācijā](http://twitter.com/search?q=v%c4%81cij%c4%81) | N/A |
+| 34 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
+| 35 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | N/A |
+| 36 | [pareizi](http://twitter.com/search?q=pareizi) | N/A |
+| 37 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
+| 38 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
+| 39 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
+| 40 | [pievienojos](http://twitter.com/search?q=pievienojos) | N/A |
+| 41 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
+| 42 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
+| 43 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
+| 44 | [Ķīnas](http://twitter.com/search?q=%c4%b6%c4%abnas) | N/A |
+| 45 | [laikam](http://twitter.com/search?q=laikam) | N/A |
+| 46 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
+| 47 | [vai tu](http://twitter.com/search?q=vai+tu) | N/A |
+| 48 | [šobrīd](http://twitter.com/search?q=%c5%a1obr%c4%abd) | N/A |
+| 49 | [Tātad](http://twitter.com/search?q=T%c4%81tad) | N/A |
 
 
 

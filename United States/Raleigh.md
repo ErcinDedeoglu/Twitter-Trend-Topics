@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-04-10 04:17:22 UTC`
+📆 Last Updated: `2023-04-10 05:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#C9WIN](http://twitter.com/search?q=%23C9WIN) | N/A |
-| 2 | [Masters](http://twitter.com/search?q=Masters) | N/A |
-| 3 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 6 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 7 | [kendall](http://twitter.com/search?q=kendall) | N/A |
-| 8 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
-| 9 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 1 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 2 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 3 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 4 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 5 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
+| 6 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 7 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 8 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
+| 9 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
 | 10 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 11 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 12 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 13 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 14 | [Preece](http://twitter.com/search?q=Preece) | N/A |
-| 15 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
-| 16 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 17 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 18 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
-| 19 | [Willa](http://twitter.com/search?q=Willa) | N/A |
-| 20 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 21 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
-| 22 | [Titter](http://twitter.com/search?q=Titter) | N/A |
-| 23 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
-| 24 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 25 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 26 | [Odell](http://twitter.com/search?q=Odell) | N/A |
-| 27 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
-| 28 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
-| 29 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
-| 30 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 31 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
-| 32 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 33 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 34 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 35 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 36 | [Chuckles the Clown](http://twitter.com/search?q=Chuckles+the+Clown) | N/A |
-| 37 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
-| 38 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 39 | [Briscoe](http://twitter.com/search?q=Briscoe) | N/A |
-| 40 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 41 | [Christopher Bell](http://twitter.com/search?q=Christopher+Bell) | N/A |
-| 42 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 43 | [Kieran](http://twitter.com/search?q=Kieran) | Kieran is an Irish name derived from the Gaelic name Ciarán, which means "little dark one". It is also a variant of the name Kieron, which is derived from the Latin name Ciaran. |
-| 44 | [Paty](http://twitter.com/search?q=Paty) | N/A |
-| 45 | [Joan Baez](http://twitter.com/search?q=Joan+Baez) | N/A |
-| 46 | [Red Wedding](http://twitter.com/search?q=Red+Wedding) | N/A |
-| 47 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 48 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 49 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 50 | [Chastain](http://twitter.com/search?q=Chastain) | N/A |
+| 11 | [Titter](http://twitter.com/search?q=Titter) | N/A |
+| 12 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 13 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 14 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 15 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
+| 16 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
+| 17 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 18 | [Willa](http://twitter.com/search?q=Willa) | N/A |
+| 19 | [Preece](http://twitter.com/search?q=Preece) | N/A |
+| 20 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
+| 21 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 22 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
+| 23 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 24 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 25 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 26 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
+| 27 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
+| 28 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 29 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 30 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
+| 31 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
+| 32 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
+| 33 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 34 | [Kieran Culkin](http://twitter.com/search?q=Kieran+Culkin) | N/A |
+| 35 | [Chuckles the Clown](http://twitter.com/search?q=Chuckles+the+Clown) | N/A |
+| 36 | [L to the OG](http://twitter.com/search?q=L+to+the+OG) | N/A |
+| 37 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 38 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 39 | [Odell](http://twitter.com/search?q=Odell) | N/A |
+| 40 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
+| 41 | [Karolina](http://twitter.com/search?q=Karolina) | N/A |
+| 42 | [Joan Baez](http://twitter.com/search?q=Joan+Baez) | N/A |
+| 43 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 44 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 45 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 46 | [Ozymandias](http://twitter.com/search?q=Ozymandias) | N/A |
+| 47 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 48 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 49 | [Alan Ruck](http://twitter.com/search?q=Alan+Ruck) | N/A |
+| 50 | [Christopher Bell](http://twitter.com/search?q=Christopher+Bell) | N/A |
 
 
 

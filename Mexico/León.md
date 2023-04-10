@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-04-10 04:16:42 UTC`
+📆 Last Updated: `2023-04-10 05:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 2 | [#AtletasPorUnAuto](http://twitter.com/search?q=%23AtletasPorUnAuto) | N/A |
-| 3 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
-| 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 5 | [#DomingoGlorioso](http://twitter.com/search?q=%23DomingoGlorioso) | N/A |
-| 6 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 2 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
+| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 4 | [#DomingoGlorioso](http://twitter.com/search?q=%23DomingoGlorioso) | N/A |
+| 5 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 6 | [#AtletasPorUnAuto](http://twitter.com/search?q=%23AtletasPorUnAuto) | N/A |
 | 7 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
-| 8 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 9 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
-| 10 | [ESTAMOS CONTIGO NAT](http://twitter.com/search?q=ESTAMOS+CONTIGO+NAT) | N/A |
-| 11 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
-| 12 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [#엘프가_이특을_안아줘요](http://twitter.com/search?q=%23%ec%97%98%ed%94%84%ea%b0%80_%ec%9d%b4%ed%8a%b9%ec%9d%84_%ec%95%88%ec%95%84%ec%a4%98%ec%9a%94) | N/A |
-| 15 | [#Vecinos](http://twitter.com/search?q=%23Vecinos) | N/A |
-| 16 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
+| 8 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 9 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 10 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 11 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
+| 12 | [Rebel](http://twitter.com/search?q=Rebel) | N/A |
+| 13 | [ESTAMOS CONTIGO NAT](http://twitter.com/search?q=ESTAMOS+CONTIGO+NAT) | N/A |
+| 14 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
+| 15 | [Juárez](http://twitter.com/search?q=Ju%c3%a1rez) | N/A |
+| 16 | [Marco Antonio](http://twitter.com/search?q=Marco+Antonio) | N/A |
 | 17 | [Paseo Bravo](http://twitter.com/search?q=Paseo+Bravo) | N/A |
-| 18 | [DT de Tigres](http://twitter.com/search?q=DT+de+Tigres) | N/A |
-| 19 | [Julián Quiñones](http://twitter.com/search?q=Juli%c3%a1n+Qui%c3%b1ones) | N/A |
-| 20 | [Slime](http://twitter.com/search?q=Slime) | N/A |
-| 21 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 22 | [Perote](http://twitter.com/search?q=Perote) | N/A |
-| 23 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 24 | [MEXICO LOVES MAMAMOO](http://twitter.com/search?q=MEXICO+LOVES+MAMAMOO) | N/A |
-| 25 | [MARIE CLAIRE](http://twitter.com/search?q=MARIE+CLAIRE) | MARIE CLAIRE is a French magazine for women that was first published in 1937. It covers topics such as fashion, beauty, health, entertainment, and lifestyle. The name of the magazine is derived from the French phrase "Marie Claire de Coeur," which translates to "Mary of the Heart." |
-| 26 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 27 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
+| 18 | [Arreola](http://twitter.com/search?q=Arreola) | N/A |
+| 19 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
+| 20 | [#엘프가_이특을_안아줘요](http://twitter.com/search?q=%23%ec%97%98%ed%94%84%ea%b0%80_%ec%9d%b4%ed%8a%b9%ec%9d%84_%ec%95%88%ec%95%84%ec%a4%98%ec%9a%94) | N/A |
+| 21 | [DT de Tigres](http://twitter.com/search?q=DT+de+Tigres) | N/A |
+| 22 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
+| 23 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
+| 24 | [Slime](http://twitter.com/search?q=Slime) | N/A |
+| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 26 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 27 | [Julián Quiñones](http://twitter.com/search?q=Juli%c3%a1n+Qui%c3%b1ones) | N/A |
 | 28 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 29 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 30 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 31 | [Logrado](http://twitter.com/search?q=Logrado) | N/A |
-| 32 | [Zitlaltepec](http://twitter.com/search?q=Zitlaltepec) | N/A |
-| 33 | [Santos Laguna](http://twitter.com/search?q=Santos+Laguna) | N/A |
-| 34 | [Informados](http://twitter.com/search?q=Informados) | N/A |
-| 35 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 36 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 37 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 38 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 39 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 40 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 41 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 42 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 43 | [Mustang](http://twitter.com/search?q=Mustang) | N/A |
-| 44 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 45 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
-| 46 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 47 | [CODERS CLOWNS](http://twitter.com/search?q=CODERS+CLOWNS) | N/A |
+| 29 | [Perote](http://twitter.com/search?q=Perote) | N/A |
+| 30 | [#MYCON_EN_MEXICO](http://twitter.com/search?q=%23MYCON_EN_MEXICO) | N/A |
+| 31 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 32 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 33 | [MEXICO LOVES MAMAMOO](http://twitter.com/search?q=MEXICO+LOVES+MAMAMOO) | N/A |
+| 34 | [Bravos](http://twitter.com/search?q=Bravos) | N/A |
+| 35 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 36 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 37 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 38 | [Logrado](http://twitter.com/search?q=Logrado) | N/A |
+| 39 | [Almada](http://twitter.com/search?q=Almada) | N/A |
+| 40 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 41 | [Zitlaltepec](http://twitter.com/search?q=Zitlaltepec) | N/A |
+| 42 | [Vaca](http://twitter.com/search?q=Vaca) | N/A |
+| 43 | [Santos Laguna](http://twitter.com/search?q=Santos+Laguna) | N/A |
+| 44 | [Informados](http://twitter.com/search?q=Informados) | N/A |
+| 45 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 46 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 47 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
 
 
 

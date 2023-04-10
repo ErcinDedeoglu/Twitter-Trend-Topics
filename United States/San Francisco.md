@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-10 04:17:23 UTC`
+📆 Last Updated: `2023-04-10 05:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 2 | [Lugo](http://twitter.com/search?q=Lugo) | N/A |
-| 3 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 4 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 5 | [Masters](http://twitter.com/search?q=Masters) | N/A |
-| 6 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 7 | [Chase](http://twitter.com/search?q=Chase) | Chase is a verb meaning to pursue or follow someone or something in order to catch them. It can also mean to try hard to achieve something. |
-| 8 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
-| 9 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
-| 10 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 11 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 12 | [Koepka](http://twitter.com/search?q=Koepka) | N/A |
-| 13 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 14 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 15 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 17 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 18 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 19 | [kendall](http://twitter.com/search?q=kendall) | N/A |
-| 20 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
-| 21 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 22 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 23 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 24 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 25 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 26 | [Preece](http://twitter.com/search?q=Preece) | N/A |
-| 27 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 28 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
-| 29 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 30 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
-| 31 | [Willa](http://twitter.com/search?q=Willa) | N/A |
+| 1 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 2 | [#FlyTogether](http://twitter.com/search?q=%23FlyTogether) | N/A |
+| 3 | [Kings in 6](http://twitter.com/search?q=Kings+in+6) | N/A |
+| 4 | [Chase](http://twitter.com/search?q=Chase) | Chase is a verb meaning to pursue or follow someone or something in order to catch them. It can also mean to try hard to achieve something. |
+| 5 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 6 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 7 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 8 | [Resurrection Day](http://twitter.com/search?q=Resurrection+Day) | N/A |
+| 9 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 10 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 11 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 12 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 13 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 14 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
+| 15 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 16 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 17 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
+| 18 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 19 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
+| 20 | [Titter](http://twitter.com/search?q=Titter) | N/A |
+| 21 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 22 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 23 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 24 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
+| 25 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
+| 26 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 27 | [Willa](http://twitter.com/search?q=Willa) | N/A |
+| 28 | [Preece](http://twitter.com/search?q=Preece) | N/A |
+| 29 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
+| 30 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 31 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
 | 32 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 33 | [#SWVXSCAPE](http://twitter.com/search?q=%23SWVXSCAPE) | N/A |
-| 34 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
-| 35 | [Titter](http://twitter.com/search?q=Titter) | N/A |
-| 36 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 37 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 38 | [Odell](http://twitter.com/search?q=Odell) | N/A |
-| 39 | [Halle Berry](http://twitter.com/search?q=Halle+Berry) | N/A |
-| 40 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
-| 41 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
-| 42 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 43 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
-| 44 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 45 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 46 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 47 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 48 | [Chuckles the Clown](http://twitter.com/search?q=Chuckles+the+Clown) | N/A |
+| 33 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 34 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 35 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 36 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
+| 37 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 38 | [Bristol](http://twitter.com/search?q=Bristol) | N/A |
+| 39 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
+| 40 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
+| 41 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 42 | [Kieran Culkin](http://twitter.com/search?q=Kieran+Culkin) | N/A |
+| 43 | [Chuckles the Clown](http://twitter.com/search?q=Chuckles+the+Clown) | N/A |
+| 44 | [L to the OG](http://twitter.com/search?q=L+to+the+OG) | N/A |
+| 45 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 46 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 47 | [Odell](http://twitter.com/search?q=Odell) | N/A |
+| 48 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
 | 49 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
-| 50 | [Briscoe](http://twitter.com/search?q=Briscoe) | N/A |
+| 50 | [Karolina](http://twitter.com/search?q=Karolina) | N/A |
 
 
 

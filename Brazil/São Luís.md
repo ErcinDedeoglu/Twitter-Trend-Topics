@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-04-10 04:16:47 UTC`
+📆 Last Updated: `2023-04-10 05:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
-| 2 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
-| 3 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 4 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 5 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
-| 6 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 7 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 8 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
-| 9 | [#FicaSarah](http://twitter.com/search?q=%23FicaSarah) | N/A |
-| 10 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
-| 11 | [inep](http://twitter.com/search?q=inep) | N/A |
-| 12 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 13 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 14 | [Fantástico](http://twitter.com/search?q=Fant%c3%a1stico) | N/A |
-| 15 | [Xurrasco](http://twitter.com/search?q=Xurrasco) | N/A |
-| 16 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 17 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 18 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 19 | [Fred e Sarah](http://twitter.com/search?q=Fred+e+Sarah) | N/A |
-| 20 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
+| 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 2 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 3 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
+| 4 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
+| 5 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 6 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 7 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 8 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 9 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
+| 10 | [inep](http://twitter.com/search?q=inep) | N/A |
+| 11 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
+| 12 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 13 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 14 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 15 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
+| 16 | [Xurrasco](http://twitter.com/search?q=Xurrasco) | N/A |
+| 17 | [#ficavp](http://twitter.com/search?q=%23ficavp) | N/A |
+| 18 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 19 | [Fantástico](http://twitter.com/search?q=Fant%c3%a1stico) | N/A |
+| 20 | [ELIMINAR](http://twitter.com/search?q=ELIMINAR) | N/A |
 | 21 | [Tchau Fred](http://twitter.com/search?q=Tchau+Fred) | N/A |
-| 22 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
-| 23 | [Maracanã](http://twitter.com/search?q=Maracan%c3%a3) | N/A |
-| 24 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 25 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
-| 26 | [Se a Amanda](http://twitter.com/search?q=Se+a+Amanda) | N/A |
-| 27 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
-| 28 | [Se a Sarah](http://twitter.com/search?q=Se+a+Sarah) | N/A |
-| 29 | [ELIMINAR](http://twitter.com/search?q=ELIMINAR) | N/A |
-| 30 | [COM FORÇA](http://twitter.com/search?q=COM+FOR%c3%87A) | N/A |
-| 31 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
-| 32 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 33 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 34 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 35 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
-| 36 | [Dinâmica](http://twitter.com/search?q=Din%c3%a2mica) | N/A |
-| 37 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
-| 38 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 39 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
-| 40 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 41 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 42 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
-| 43 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 44 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 45 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 46 | [Cif Cremoso](http://twitter.com/search?q=Cif+Cremoso) | N/A |
-| 47 | [Coitada da Sarah](http://twitter.com/search?q=Coitada+da+Sarah) | N/A |
+| 22 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
+| 23 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
+| 24 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
+| 25 | [bogum](http://twitter.com/search?q=bogum) | N/A |
+| 26 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 27 | [Se a Amanda](http://twitter.com/search?q=Se+a+Amanda) | N/A |
+| 28 | [COM FORÇA](http://twitter.com/search?q=COM+FOR%c3%87A) | N/A |
+| 29 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 30 | [Emmy](http://twitter.com/search?q=Emmy) | N/A |
+| 31 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 32 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 33 | [Dinâmica](http://twitter.com/search?q=Din%c3%a2mica) | N/A |
+| 34 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
+| 35 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 36 | [EXPULSO](http://twitter.com/search?q=EXPULSO) | N/A |
+| 37 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
+| 38 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 39 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
+| 40 | [Gerri](http://twitter.com/search?q=Gerri) | N/A |
+| 41 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 42 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 43 | [Cif Cremoso](http://twitter.com/search?q=Cif+Cremoso) | N/A |
+| 44 | [Eliminado](http://twitter.com/search?q=Eliminado) | N/A |
+| 45 | [Bruneca](http://twitter.com/search?q=Bruneca) | N/A |
+| 46 | [pierce the veil](http://twitter.com/search?q=pierce+the+veil) | N/A |
+| 47 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
 | 48 | [Brunete](http://twitter.com/search?q=Brunete) | N/A |
-| 49 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 50 | [Bruneca](http://twitter.com/search?q=Bruneca) | N/A |
+| 49 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 50 | [Carioca](http://twitter.com/search?q=Carioca) | N/A |
 
 
 

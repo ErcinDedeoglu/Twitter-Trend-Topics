@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-04-10 04:17:04 UTC`
+📆 Last Updated: `2023-04-10 05:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,38 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 3 | [#BINIonTikToClock](http://twitter.com/search?q=%23BINIonTikToClock) | N/A |
-| 4 | [#aespaInKVersePH](http://twitter.com/search?q=%23aespaInKVersePH) | N/A |
-| 5 | [SAKURA MOMENTS WITHKDLEX](http://twitter.com/search?q=SAKURA+MOMENTS+WITHKDLEX) | N/A |
-| 6 | [#ensd](http://twitter.com/search?q=%23ensd) | N/A |
-| 7 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 8 | [#FREENBECKYinMACAU](http://twitter.com/search?q=%23FREENBECKYinMACAU) | N/A |
-| 9 | [#NingningTouchdownInManila](http://twitter.com/search?q=%23NingningTouchdownInManila) | N/A |
+| 1 | [#BINIonTikToClock](http://twitter.com/search?q=%23BINIonTikToClock) | N/A |
+| 2 | [Jollibee](http://twitter.com/search?q=Jollibee) | N/A |
+| 3 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
+| 4 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
+| 5 | [#지구젤리버블](http://twitter.com/search?q=%23%ec%a7%80%ea%b5%ac%ec%a0%a4%eb%a6%ac%eb%b2%84%eb%b8%94) | N/A |
+| 6 | [#NingningTouchdownInManila](http://twitter.com/search?q=%23NingningTouchdownInManila) | N/A |
+| 7 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 8 | [JK x JB](http://twitter.com/search?q=JK+x+JB) | N/A |
+| 9 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
 | 10 | [JEON JUNGKOOK IS COMING](http://twitter.com/search?q=JEON+JUNGKOOK+IS+COMING) | N/A |
-| 11 | [JISOO DEBUT STAGE](http://twitter.com/search?q=JISOO+DEBUT+STAGE) | N/A |
-| 12 | [He is Risen](http://twitter.com/search?q=He+is+Risen) | N/A |
-| 13 | [aces stronger 2gether](http://twitter.com/search?q=aces+stronger+2gether) | N/A |
-| 14 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
-| 15 | [JK x JB](http://twitter.com/search?q=JK+x+JB) | N/A |
-| 16 | [MABUHAY TAGLAMIG](http://twitter.com/search?q=MABUHAY+TAGLAMIG) | N/A |
-| 17 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 18 | [JJK1 IS COMING](http://twitter.com/search?q=JJK1+IS+COMING) | N/A |
-| 19 | [IU's Palette](http://twitter.com/search?q=IU%27s+Palette) | N/A |
-| 20 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 21 | [EXO'CLOCK FANMEETING](http://twitter.com/search?q=EXO%27CLOCK+FANMEETING) | N/A |
-| 22 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
-| 23 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
-| 24 | [Day of Valor](http://twitter.com/search?q=Day+of+Valor) | N/A |
-| 25 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 26 | [d-5 to anji paraiso](http://twitter.com/search?q=d-5+to+anji+paraiso) | N/A |
-| 27 | [gabbluke moshies anniversary](http://twitter.com/search?q=gabbluke+moshies+anniversary) | N/A |
-| 28 | [maligayang pasko](http://twitter.com/search?q=maligayang+pasko) | N/A |
-| 29 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 30 | [Andrew Watt](http://twitter.com/search?q=Andrew+Watt) | N/A |
-| 31 | [Welcome to the Philippines](http://twitter.com/search?q=Welcome+to+the+Philippines) | N/A |
-| 32 | [Woosung](http://twitter.com/search?q=Woosung) | N/A |
-| 33 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 34 | [World War II](http://twitter.com/search?q=World+War+II) | N/A |
-| 35 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 36 | [7 YEARS WITH NCT](http://twitter.com/search?q=7+YEARS+WITH+NCT) | N/A |
-| 37 | [Jollibee](http://twitter.com/search?q=Jollibee) | N/A |
-| 38 | [Cornelia Street](http://twitter.com/search?q=Cornelia+Street) | N/A |
-| 39 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 40 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 41 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 42 | [31months with brentmanalo](http://twitter.com/search?q=31months+with+brentmanalo) | N/A |
-| 43 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 44 | [Good Enough](http://twitter.com/search?q=Good+Enough) | N/A |
-| 45 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 46 | [Christ is Risen](http://twitter.com/search?q=Christ+is+Risen) | N/A |
-| 47 | [WE LOVE YOU BELLE](http://twitter.com/search?q=WE+LOVE+YOU+BELLE) | N/A |
-| 48 | [WHO OUT NOW](http://twitter.com/search?q=WHO+OUT+NOW) | N/A |
-| 49 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
-| 50 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 11 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
+| 12 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 13 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 14 | [JJK1 IS COMING](http://twitter.com/search?q=JJK1+IS+COMING) | N/A |
+| 15 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
+| 16 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 17 | [Day of Valor](http://twitter.com/search?q=Day+of+Valor) | N/A |
+| 18 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 20 | [Pilipino](http://twitter.com/search?q=Pilipino) | N/A |
+| 21 | [JHOPE](http://twitter.com/search?q=JHOPE) | N/A |
+| 22 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
+| 23 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 24 | [#NingningTouchdownInManila](http://twitter.com/search?q=%23NingningTouchdownInManila) | N/A |
+| 25 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 26 | [#푸른_하늘같은_너](http://twitter.com/search?q=%23%ed%91%b8%eb%a5%b8_%ed%95%98%eb%8a%98%ea%b0%99%ec%9d%80_%eb%84%88) | N/A |
+| 27 | [#PLUUS_Amigo1MViews](http://twitter.com/search?q=%23PLUUS_Amigo1MViews) | N/A |
+| 28 | [#NICE_TO_MIXX_YOU](http://twitter.com/search?q=%23NICE_TO_MIXX_YOU) | N/A |
+| 29 | [#WINTER](http://twitter.com/search?q=%23WINTER) | N/A |
+| 30 | [#BOYCOTTEBxAPTxGMA761](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA761) | N/A |
+| 31 | [#MaineGoalsSeason3](http://twitter.com/search?q=%23MaineGoalsSeason3) | N/A |
+| 32 | [#MaineMendoza](http://twitter.com/search?q=%23MaineMendoza) | N/A |
 
 
 

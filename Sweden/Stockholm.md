@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-04-10 04:16:56 UTC`
+📆 Last Updated: `2023-04-10 05:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,25 +21,25 @@ This is top 50 for [Sweden](</Sweden>)
 | 4 | [galajda](http://twitter.com/search?q=galajda) | N/A |
 | 5 | [Borg](http://twitter.com/search?q=Borg) | N/A |
 | 6 | [hutchings](http://twitter.com/search?q=hutchings) | N/A |
-| 7 | [Glenn](http://twitter.com/search?q=Glenn) | Glenn is a masculine given name of Scottish origin, derived from the Gaelic word for "valley". It is also used as a surname. In English, it is usually pronounced with a hard "G" sound. |
-| 8 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 9 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 11 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 12 | [#degerforsif](http://twitter.com/search?q=%23degerforsif) | N/A |
-| 13 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
-| 14 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 15 | [Glad Påsk](http://twitter.com/search?q=Glad+P%c3%a5sk) | N/A |
+| 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 8 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 9 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 10 | [#degerforsif](http://twitter.com/search?q=%23degerforsif) | N/A |
+| 11 | [Mitoma](http://twitter.com/search?q=Mitoma) | Mitoma is a Japanese word that means “to see” or “to look.” It is often used in the context of looking at something with admiration or appreciation. |
+| 12 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 13 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
+| 14 | [Glad Påsk](http://twitter.com/search?q=Glad+P%c3%a5sk) | N/A |
+| 15 | [Glenn](http://twitter.com/search?q=Glenn) | Glenn is a masculine given name of Scottish origin, derived from the Gaelic word for "valley". It is also used as a surname. In English, it is usually pronounced with a hard "G" sound. |
 | 16 | [Mannerheim](http://twitter.com/search?q=Mannerheim) | N/A |
 | 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 18 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 19 | [#kristusäruppstånden](http://twitter.com/search?q=%23kristus%c3%a4ruppst%c3%a5nden) | N/A |
-| 20 | [irland](http://twitter.com/search?q=irland) | N/A |
-| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 22 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 23 | [linnér](http://twitter.com/search?q=linn%c3%a9r) | N/A |
-| 24 | [stråhle](http://twitter.com/search?q=str%c3%a5hle) | N/A |
-| 25 | [ingvar hirdwall](http://twitter.com/search?q=ingvar+hirdwall) | N/A |
+| 20 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 21 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 22 | [linnér](http://twitter.com/search?q=linn%c3%a9r) | N/A |
+| 23 | [stråhle](http://twitter.com/search?q=str%c3%a5hle) | N/A |
+| 24 | [ingvar hirdwall](http://twitter.com/search?q=ingvar+hirdwall) | N/A |
+| 25 | [Irland](http://twitter.com/search?q=Irland) | N/A |
 | 26 | [mustonen](http://twitter.com/search?q=mustonen) | N/A |
 | 27 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
 | 28 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
@@ -54,15 +54,15 @@ This is top 50 for [Sweden](</Sweden>)
 | 37 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
 | 38 | [vecchia](http://twitter.com/search?q=vecchia) | N/A |
 | 39 | [hbtq](http://twitter.com/search?q=hbtq) | N/A |
-| 40 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 41 | [solvalla](http://twitter.com/search?q=solvalla) | N/A |
-| 42 | [hisingen](http://twitter.com/search?q=hisingen) | N/A |
-| 43 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
-| 44 | [#kalmarff](http://twitter.com/search?q=%23kalmarff) | N/A |
-| 45 | [Henrik](http://twitter.com/search?q=Henrik) | N/A |
-| 46 | [kejsaren](http://twitter.com/search?q=kejsaren) | N/A |
-| 47 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 48 | [livets](http://twitter.com/search?q=livets) | N/A |
+| 40 | [solvalla](http://twitter.com/search?q=solvalla) | N/A |
+| 41 | [hisingen](http://twitter.com/search?q=hisingen) | N/A |
+| 42 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | N/A |
+| 43 | [#kalmarff](http://twitter.com/search?q=%23kalmarff) | N/A |
+| 44 | [Henrik](http://twitter.com/search?q=Henrik) | N/A |
+| 45 | [kejsaren](http://twitter.com/search?q=kejsaren) | N/A |
+| 46 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 47 | [livets](http://twitter.com/search?q=livets) | N/A |
+| 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 49 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 50 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 
