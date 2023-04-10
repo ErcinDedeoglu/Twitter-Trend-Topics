@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-04-10 22:16:38 UTC`
+📆 Last Updated: `2023-04-10 23:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,44 +21,44 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 4 | [#Welcome_to_MyKarina](http://twitter.com/search?q=%23Welcome_to_MyKarina) | N/A |
 | 5 | [Oatside Mini](http://twitter.com/search?q=Oatside+Mini) | N/A |
 | 6 | [#지민아_마이의_푸른봄은_너야](http://twitter.com/search?q=%23%ec%a7%80%eb%af%bc%ec%95%84_%eb%a7%88%ec%9d%b4%ec%9d%98_%ed%91%b8%eb%a5%b8%eb%b4%84%ec%9d%80_%eb%84%88%ec%95%bc) | N/A |
-| 7 | [#gakadayangkelewat](http://twitter.com/search?q=%23gakadayangkelewat) | N/A |
-| 8 | [#Welcome_Home_YoungK](http://twitter.com/search?q=%23Welcome_Home_YoungK) | N/A |
-| 9 | [#GalaxyA54](http://twitter.com/search?q=%23GalaxyA54) | N/A |
+| 7 | [#Welcome_Home_YoungK](http://twitter.com/search?q=%23Welcome_Home_YoungK) | N/A |
+| 8 | [#AwesomePerformance](http://twitter.com/search?q=%23AwesomePerformance) | N/A |
+| 9 | [#GalaxyA34](http://twitter.com/search?q=%23GalaxyA34) | N/A |
 | 10 | [bri banyak untungnya](http://twitter.com/search?q=bri+banyak+untungnya) | N/A |
 | 11 | [silaturahmi kebangsaan](http://twitter.com/search?q=silaturahmi+kebangsaan) | N/A |
-| 12 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 13 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 14 | [OPPO Reno8 T](http://twitter.com/search?q=OPPO+Reno8+T) | OPPO Reno8 T is a smartphone made by the Chinese electronics company OPPO. It features a 6.43-inch OLED display, a triple rear camera setup, and a MediaTek Dimensity 800U processor. The "T" in the name stands for "Turbo", indicating that the device has been optimized for faster performance. |
-| 15 | [penuhi hak kesehatan helmut](http://twitter.com/search?q=penuhi+hak+kesehatan+helmut) | N/A |
-| 16 | [partai perindo](http://twitter.com/search?q=partai+perindo) | N/A |
-| 17 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 12 | [OPPO Reno8 T](http://twitter.com/search?q=OPPO+Reno8+T) | OPPO Reno8 T is a smartphone made by the Chinese electronics company OPPO. It features a 6.43-inch OLED display, a triple rear camera setup, and a MediaTek Dimensity 800U processor. The "T" in the name stands for "Turbo", indicating that the device has been optimized for faster performance. |
+| 13 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 14 | [penuhi hak kesehatan helmut](http://twitter.com/search?q=penuhi+hak+kesehatan+helmut) | N/A |
+| 15 | [partai perindo](http://twitter.com/search?q=partai+perindo) | N/A |
+| 16 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 17 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 18 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 19 | [Aku 15](http://twitter.com/search?q=Aku+15) | N/A |
-| 20 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 21 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
-| 22 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 23 | [Lebaran 2020](http://twitter.com/search?q=Lebaran+2020) | N/A |
+| 19 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
+| 20 | [Aku 15](http://twitter.com/search?q=Aku+15) | N/A |
+| 21 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 22 | [Lebaran 2020](http://twitter.com/search?q=Lebaran+2020) | N/A |
+| 23 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
 | 24 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
-| 25 | [Gue 15](http://twitter.com/search?q=Gue+15) | N/A |
-| 26 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 25 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 26 | [Gue 15](http://twitter.com/search?q=Gue+15) | N/A |
 | 27 | [Pak Taka](http://twitter.com/search?q=Pak+Taka) | N/A |
 | 28 | [7 years with nct](http://twitter.com/search?q=7+years+with+nct) | N/A |
-| 29 | [LEGENDARY LIKE BANG CHAN](http://twitter.com/search?q=LEGENDARY+LIKE+BANG+CHAN) | N/A |
-| 30 | [who out now](http://twitter.com/search?q=who+out+now) | N/A |
-| 31 | [Akaza](http://twitter.com/search?q=Akaza) | N/A |
-| 32 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 33 | [Gw 15](http://twitter.com/search?q=Gw+15) | N/A |
-| 34 | [JJK1 IS COMING](http://twitter.com/search?q=JJK1+IS+COMING) | N/A |
-| 35 | [HANSAMU YAMA](http://twitter.com/search?q=HANSAMU+YAMA) | N/A |
-| 36 | [Ibu Negara](http://twitter.com/search?q=Ibu+Negara) | N/A |
-| 37 | [prabowo menangkan rakyat](http://twitter.com/search?q=prabowo+menangkan+rakyat) | N/A |
-| 38 | [koalisi besar tercapai](http://twitter.com/search?q=koalisi+besar+tercapai) | N/A |
-| 39 | [JEON JUNGKOOK IS COMING](http://twitter.com/search?q=JEON+JUNGKOOK+IS+COMING) | N/A |
-| 40 | [Pasar Selo](http://twitter.com/search?q=Pasar+Selo) | N/A |
-| 41 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 42 | [Salma x Judika](http://twitter.com/search?q=Salma+x+Judika) | N/A |
-| 43 | [MELODY OF SCENTS D3](http://twitter.com/search?q=MELODY+OF+SCENTS+D3) | N/A |
-| 44 | [selamat hari paskah](http://twitter.com/search?q=selamat+hari+paskah) | N/A |
+| 29 | [who out now](http://twitter.com/search?q=who+out+now) | N/A |
+| 30 | [Akaza](http://twitter.com/search?q=Akaza) | N/A |
+| 31 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 32 | [JJK1 IS COMING](http://twitter.com/search?q=JJK1+IS+COMING) | N/A |
+| 33 | [Ibu Negara](http://twitter.com/search?q=Ibu+Negara) | N/A |
+| 34 | [HANSAMU YAMA](http://twitter.com/search?q=HANSAMU+YAMA) | N/A |
+| 35 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 36 | [LEGENDARY LIKE BANG CHAN](http://twitter.com/search?q=LEGENDARY+LIKE+BANG+CHAN) | N/A |
+| 37 | [TWELVE YEARS WITH LISA](http://twitter.com/search?q=TWELVE+YEARS+WITH+LISA) | N/A |
+| 38 | [prabowo menangkan rakyat](http://twitter.com/search?q=prabowo+menangkan+rakyat) | N/A |
+| 39 | [koalisi besar tercapai](http://twitter.com/search?q=koalisi+besar+tercapai) | N/A |
+| 40 | [JEON JUNGKOOK IS COMING](http://twitter.com/search?q=JEON+JUNGKOOK+IS+COMING) | N/A |
+| 41 | [Pasar Selo](http://twitter.com/search?q=Pasar+Selo) | N/A |
+| 42 | [MELODY OF SCENTS D3](http://twitter.com/search?q=MELODY+OF+SCENTS+D3) | N/A |
+| 43 | [selamat hari paskah](http://twitter.com/search?q=selamat+hari+paskah) | N/A |
+| 44 | [Salma x Judika](http://twitter.com/search?q=Salma+x+Judika) | N/A |
 | 45 | [lylyawithrenjun](http://twitter.com/search?q=lylyawithrenjun) | N/A |
 | 46 | [Isyana](http://twitter.com/search?q=Isyana) | N/A |
 | 47 | [Douma](http://twitter.com/search?q=Douma) | N/A |

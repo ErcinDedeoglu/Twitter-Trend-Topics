@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-04-10 22:16:54 UTC`
+📆 Last Updated: `2023-04-10 23:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,43 +16,43 @@ This is top 50 for [Oman](</Oman>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#مكبرات_المساجد_حاجه_وطمانينه](http://twitter.com/search?q=%23%d9%85%d9%83%d8%a8%d8%b1%d8%a7%d8%aa_%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%ac%d8%af_%d8%ad%d8%a7%d8%ac%d9%87_%d9%88%d8%b7%d9%85%d8%a7%d9%86%d9%8a%d9%86%d9%87) | N/A |
-| 2 | [#منخفض_جوي](http://twitter.com/search?q=%23%d9%85%d9%86%d8%ae%d9%81%d8%b6_%d8%ac%d9%88%d9%8a) | N/A |
-| 3 | [#العشر_الاواخر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b4%d8%b1_%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
+| 2 | [#العشر_الاواخر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b4%d8%b1_%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
+| 3 | [#منخفض_جوي](http://twitter.com/search?q=%23%d9%85%d9%86%d8%ae%d9%81%d8%b6_%d8%ac%d9%88%d9%8a) | N/A |
 | 4 | [#خيرك_مشكور](http://twitter.com/search?q=%23%d8%ae%d9%8a%d8%b1%d9%83_%d9%85%d8%b4%d9%83%d9%88%d8%b1) | N/A |
-| 5 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 6 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 7 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
-| 8 | [وزير الاوقاف](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%82%d8%a7%d9%81) | N/A |
-| 9 | [بنت محمد بن يوسف العبريه](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa+%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d8%b9%d8%a8%d8%b1%d9%8a%d9%87) | N/A |
-| 10 | [صوت القران](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
+| 5 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
+| 6 | [وزير الاوقاف](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%82%d8%a7%d9%81) | N/A |
+| 7 | [بنت محمد بن يوسف العبريه](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa+%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d8%b9%d8%a8%d8%b1%d9%8a%d9%87) | N/A |
+| 8 | [صوت القران](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
+| 9 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 10 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
 | 11 | [الصوت الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
 | 12 | [صوت الاذان](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d9%86) | N/A |
 | 13 | [جابر بن زيد الوقفيه](http://twitter.com/search?q=%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a8%d9%86+%d8%b2%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d9%82%d9%81%d9%8a%d9%87) | N/A |
 | 14 | [سواريز](http://twitter.com/search?q=%d8%b3%d9%88%d8%a7%d8%b1%d9%8a%d8%b2) | N/A |
 | 15 | [وادي الحواسنه](http://twitter.com/search?q=%d9%88%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b3%d9%86%d9%87) | N/A |
 | 16 | [عثمان بن عفان](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d9%81%d8%a7%d9%86) | N/A |
-| 17 | [١٩ رمضان](http://twitter.com/search?q=%d9%a1%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 18 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 19 | [الشوون الدينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 20 | [وادي بني](http://twitter.com/search?q=%d9%88%d8%a7%d8%af%d9%8a+%d8%a8%d9%86%d9%8a) | N/A |
-| 21 | [احمد بن ماجد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%85%d8%a7%d8%ac%d8%af) | N/A |
-| 22 | [صوت الامام](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85) | N/A |
-| 23 | [نصر بن محمد الطايي](http://twitter.com/search?q=%d9%86%d8%b5%d8%b1+%d8%a8%d9%86+%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
+| 17 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 18 | [١٩ رمضان](http://twitter.com/search?q=%d9%a1%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 19 | [وادي بني](http://twitter.com/search?q=%d9%88%d8%a7%d8%af%d9%8a+%d8%a8%d9%86%d9%8a) | N/A |
+| 20 | [احمد بن ماجد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%85%d8%a7%d8%ac%d8%af) | N/A |
+| 21 | [صوت الامام](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85) | N/A |
+| 22 | [نصر بن محمد الطايي](http://twitter.com/search?q=%d9%86%d8%b5%d8%b1+%d8%a8%d9%86+%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
+| 23 | [الشوون الدينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%87) | N/A |
 | 24 | [سماحة الشيخ](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7%d8%ad%d8%a9+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
 | 25 | [الايرادات العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
 | 26 | [مازن بن](http://twitter.com/search?q=%d9%85%d8%a7%d8%b2%d9%86+%d8%a8%d9%86) | N/A |
 | 27 | [الحديد المختزل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d8%b2%d9%84) | N/A |
 | 28 | [محمود الخاطري](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%ae%d8%a7%d8%b7%d8%b1%d9%8a) | N/A |
-| 29 | [زايد الخير](http://twitter.com/search?q=%d8%b2%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 30 | [برشلونه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | N/A |
-| 31 | [الانماء المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
-| 32 | [حقل الطماطم](http://twitter.com/search?q=%d8%ad%d9%82%d9%84+%d8%a7%d9%84%d8%b7%d9%85%d8%a7%d8%b7%d9%85) | N/A |
-| 33 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 34 | [علي جبال الحجر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ac%d8%a8%d8%a7%d9%84+%d8%a7%d9%84%d8%ad%d8%ac%d8%b1) | N/A |
-| 35 | [المكبرات الصوتيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a8%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a%d9%87) | N/A |
-| 36 | [الراي العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 37 | [حصن الحمام](http://twitter.com/search?q=%d8%ad%d8%b5%d9%86+%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%85) | N/A |
-| 38 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 29 | [الانماء المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
+| 30 | [حقل الطماطم](http://twitter.com/search?q=%d8%ad%d9%82%d9%84+%d8%a7%d9%84%d8%b7%d9%85%d8%a7%d8%b7%d9%85) | N/A |
+| 31 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 32 | [علي جبال الحجر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ac%d8%a8%d8%a7%d9%84+%d8%a7%d9%84%d8%ad%d8%ac%d8%b1) | N/A |
+| 33 | [زايد الخير](http://twitter.com/search?q=%d8%b2%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 34 | [المكبرات الصوتيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a8%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a%d9%87) | N/A |
+| 35 | [الراي العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 36 | [حصن الحمام](http://twitter.com/search?q=%d8%ad%d8%b5%d9%86+%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%85) | N/A |
+| 37 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 38 | [الأهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a) | الأهلي is the name of a professional Saudi Arabian football club based in Jeddah. In English, it translates to "The Family". |
 | 39 | [بلده الفياض](http://twitter.com/search?q=%d8%a8%d9%84%d8%af%d9%87+%d8%a7%d9%84%d9%81%d9%8a%d8%a7%d8%b6) | N/A |
 | 40 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
 | 41 | [بلاد الاسلام](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for [Oman](</Oman>)
 | 45 | [مركز الشباب](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
 | 46 | [جامع الغبره الشماليه](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9+%d8%a7%d9%84%d8%ba%d8%a8%d8%b1%d9%87+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
 | 47 | [الرياضه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
-| 48 | [صوت الصلاه](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
-| 49 | [الموسسات الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
-| 50 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 48 | [الموسسات الصغيره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d9%87) | N/A |
+| 49 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 50 | [صوت الصلاه](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
 
 
 

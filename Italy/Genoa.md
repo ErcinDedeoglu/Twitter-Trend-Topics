@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-04-10 22:16:34 UTC`
+📆 Last Updated: `2023-04-10 23:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,43 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
-| 3 | [#trapalcoerealtà](http://twitter.com/search?q=%23trapalcoerealt%c3%a0) | N/A |
-| 4 | [Ezio Greggio](http://twitter.com/search?q=Ezio+Greggio) | N/A |
-| 5 | [#Stramorgan](http://twitter.com/search?q=%23Stramorgan) | N/A |
-| 6 | [Enea](http://twitter.com/search?q=Enea) | N/A |
-| 7 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 8 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 9 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
-| 10 | [#freedomitalia1](http://twitter.com/search?q=%23freedomitalia1) | N/A |
-| 11 | [Elisa](http://twitter.com/search?q=Elisa) | N/A |
-| 12 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
-| 13 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 14 | [Nellina](http://twitter.com/search?q=Nellina) | N/A |
-| 15 | [Corsica](http://twitter.com/search?q=Corsica) | N/A |
-| 16 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 17 | [Non Comunista](http://twitter.com/search?q=Non+Comunista) | N/A |
-| 18 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
-| 19 | [Parzialmente Comunista](http://twitter.com/search?q=Parzialmente+Comunista) | N/A |
-| 20 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 21 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
-| 22 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 23 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
-| 24 | [Vaticano](http://twitter.com/search?q=Vaticano) | N/A |
-| 25 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 26 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 27 | [#EtuttoInsieme](http://twitter.com/search?q=%23EtuttoInsieme) | N/A |
-| 28 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
-| 29 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
-| 30 | [#Pasquetta2023](http://twitter.com/search?q=%23Pasquetta2023) | N/A |
-| 31 | [#PerugiaMilano](http://twitter.com/search?q=%23PerugiaMilano) | N/A |
-| 32 | [#atuttoreality](http://twitter.com/search?q=%23atuttoreality) | N/A |
-| 33 | [#cheplayoff](http://twitter.com/search?q=%23cheplayoff) | N/A |
-| 34 | [#superlega](http://twitter.com/search?q=%23superlega) | N/A |
-| 35 | [#Cassano](http://twitter.com/search?q=%23Cassano) | N/A |
-| 36 | [#pensioni](http://twitter.com/search?q=%23pensioni) | N/A |
-| 37 | [#BenficaInter](http://twitter.com/search?q=%23BenficaInter) | N/A |
-| 38 | [#SerieB](http://twitter.com/search?q=%23SerieB) | N/A |
+| 2 | [Pasquetta](http://twitter.com/search?q=Pasquetta) | N/A |
+| 3 | [#orielespace](http://twitter.com/search?q=%23orielespace) | N/A |
+| 4 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
+| 5 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
+| 6 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 7 | [#10aprile](http://twitter.com/search?q=%2310aprile) | N/A |
+| 8 | [#Stramorgan](http://twitter.com/search?q=%23Stramorgan) | N/A |
+| 9 | [Ezio Greggio](http://twitter.com/search?q=Ezio+Greggio) | N/A |
+| 10 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
+| 11 | [Enea](http://twitter.com/search?q=Enea) | N/A |
+| 12 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 13 | [Non Comunista](http://twitter.com/search?q=Non+Comunista) | N/A |
+| 14 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
+| 15 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
+| 16 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 17 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 18 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 19 | [Corsica](http://twitter.com/search?q=Corsica) | N/A |
+| 20 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
+| 21 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 22 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
+| 23 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 24 | [Parzialmente Comunista](http://twitter.com/search?q=Parzialmente+Comunista) | N/A |
+| 25 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 26 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 27 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
+| 28 | [Due Vite](http://twitter.com/search?q=Due+Vite) | N/A |
+| 29 | [Buon Lunedì](http://twitter.com/search?q=Buon+Luned%c3%ac) | N/A |
+| 30 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
+| 31 | [Fusani](http://twitter.com/search?q=Fusani) | N/A |
+| 32 | [Lampedusa](http://twitter.com/search?q=Lampedusa) | N/A |
+| 33 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
+| 34 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 35 | [Albano](http://twitter.com/search?q=Albano) | N/A |
+| 36 | [Livaja](http://twitter.com/search?q=Livaja) | N/A |
+| 37 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 38 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
+| 39 | [Niccolò](http://twitter.com/search?q=Niccol%c3%b2) | N/A |
+| 40 | [Wanna Marchi](http://twitter.com/search?q=Wanna+Marchi) | N/A |
+| 41 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
+| 42 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 43 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 44 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 45 | [Decisamente Comunista](http://twitter.com/search?q=Decisamente+Comunista) | N/A |
+| 46 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
+| 47 | [Festival](http://twitter.com/search?q=Festival) | N/A |
+| 48 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 49 | [Soumahoro](http://twitter.com/search?q=Soumahoro) | N/A |
+| 50 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
 
 
 

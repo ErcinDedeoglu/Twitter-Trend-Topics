@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-04-10 22:16:25 UTC`
+📆 Last Updated: `2023-04-10 23:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Colombia](</Colombia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PolloTriste](http://twitter.com/search?q=%23PolloTriste) | N/A |
-| 2 | [#NoAlcanzaPara](http://twitter.com/search?q=%23NoAlcanzaPara) | N/A |
-| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 4 | [#MeAngustia](http://twitter.com/search?q=%23MeAngustia) | N/A |
-| 5 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 6 | [Gaitán](http://twitter.com/search?q=Gait%c3%a1n) | N/A |
-| 7 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 8 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
-| 9 | [RTVC](http://twitter.com/search?q=RTVC) | N/A |
-| 10 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 11 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 3 | [#NoAlcanzaPara](http://twitter.com/search?q=%23NoAlcanzaPara) | N/A |
+| 4 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 5 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 6 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
+| 7 | [Gaitán](http://twitter.com/search?q=Gait%c3%a1n) | N/A |
+| 8 | [#MeAngustia](http://twitter.com/search?q=%23MeAngustia) | N/A |
+| 9 | [Didier](http://twitter.com/search?q=Didier) | N/A |
+| 10 | [RTVC](http://twitter.com/search?q=RTVC) | N/A |
+| 11 | [Morris](http://twitter.com/search?q=Morris) | N/A |
 | 12 | [Marcela García](http://twitter.com/search?q=Marcela+Garc%c3%ada) | N/A |
-| 13 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 14 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 15 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 16 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
-| 17 | [Natalia Lafourcade](http://twitter.com/search?q=Natalia+Lafourcade) | N/A |
-| 18 | [Didier](http://twitter.com/search?q=Didier) | N/A |
-| 19 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 20 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
-| 21 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 22 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 13 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 14 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
+| 15 | [Natalia Lafourcade](http://twitter.com/search?q=Natalia+Lafourcade) | N/A |
+| 16 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 17 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
+| 18 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 19 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 20 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 21 | [Candelo](http://twitter.com/search?q=Candelo) | N/A |
+| 22 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
 | 23 | [Espitia](http://twitter.com/search?q=Espitia) | N/A |
-| 24 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 25 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 26 | [Harold Rivera](http://twitter.com/search?q=Harold+Rivera) | N/A |
-| 27 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 28 | [Candelo](http://twitter.com/search?q=Candelo) | N/A |
-| 29 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 30 | [Laje](http://twitter.com/search?q=Laje) | N/A |
-| 31 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 32 | [morelo](http://twitter.com/search?q=morelo) | N/A |
+| 24 | [Atanasio Girardot](http://twitter.com/search?q=Atanasio+Girardot) | N/A |
+| 25 | [Harold Rivera](http://twitter.com/search?q=Harold+Rivera) | N/A |
+| 26 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 27 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 28 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 29 | [Kelvin Osorio](http://twitter.com/search?q=Kelvin+Osorio) | N/A |
+| 30 | [Canal Capital](http://twitter.com/search?q=Canal+Capital) | N/A |
+| 31 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 32 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
 | 33 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
-| 34 | [Campo Dos](http://twitter.com/search?q=Campo+Dos) | N/A |
-| 35 | [Fabiola Rubiano](http://twitter.com/search?q=Fabiola+Rubiano) | N/A |
-| 36 | [Kelvin Osorio](http://twitter.com/search?q=Kelvin+Osorio) | N/A |
-| 37 | [Canal Capital](http://twitter.com/search?q=Canal+Capital) | N/A |
-| 38 | [Chochó](http://twitter.com/search?q=Choch%c3%b3) | N/A |
-| 39 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 40 | [Cadavid](http://twitter.com/search?q=Cadavid) | N/A |
-| 41 | [OCDE](http://twitter.com/search?q=OCDE) | N/A |
+| 34 | [Laje](http://twitter.com/search?q=Laje) | N/A |
+| 35 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 36 | [Cadavid](http://twitter.com/search?q=Cadavid) | N/A |
+| 37 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
+| 38 | [Luz Fabiola Rubiano](http://twitter.com/search?q=Luz+Fabiola+Rubiano) | N/A |
+| 39 | [OCDE](http://twitter.com/search?q=OCDE) | N/A |
+| 40 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 41 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
 | 42 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 43 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 44 | [Logan Roy](http://twitter.com/search?q=Logan+Roy) | N/A |
-| 45 | [Alianza](http://twitter.com/search?q=Alianza) | N/A |
-| 46 | [bituima](http://twitter.com/search?q=bituima) | N/A |
-| 47 | [Pedofilo](http://twitter.com/search?q=Pedofilo) | N/A |
-| 48 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 49 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 50 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
+| 43 | [bituima](http://twitter.com/search?q=bituima) | N/A |
+| 44 | [Campo Dos](http://twitter.com/search?q=Campo+Dos) | N/A |
+| 45 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 46 | [Pedofilo](http://twitter.com/search?q=Pedofilo) | N/A |
+| 47 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 48 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
+| 49 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
+| 50 | [Chochó](http://twitter.com/search?q=Choch%c3%b3) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-10 22:16:36 UTC`
+📆 Last Updated: `2023-04-10 23:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,28 +30,28 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 14 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
 | 15 | [Mainstream](http://twitter.com/search?q=Mainstream) | N/A |
-| 16 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 17 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 16 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 17 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
 | 18 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 19 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 20 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 21 | [Bundeshaus](http://twitter.com/search?q=Bundeshaus) | N/A |
-| 22 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 23 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 24 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 26 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
-| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 28 | [#srfsport](http://twitter.com/search?q=%23srfsport) | N/A |
-| 29 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
-| 30 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
-| 31 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 32 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
-| 33 | [Tränen](http://twitter.com/search?q=Tr%c3%a4nen) | N/A |
-| 34 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 35 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 36 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 37 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 19 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
+| 20 | [Bundeshaus](http://twitter.com/search?q=Bundeshaus) | N/A |
+| 21 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 22 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 23 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 24 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 25 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
+| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 27 | [#srfsport](http://twitter.com/search?q=%23srfsport) | N/A |
+| 28 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
+| 29 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
+| 30 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 31 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
+| 32 | [Tränen](http://twitter.com/search?q=Tr%c3%a4nen) | N/A |
+| 33 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 34 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 35 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 36 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
+| 37 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
 | 38 | [Trans](http://twitter.com/search?q=Trans) | N/A |
 | 39 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
 | 40 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
