@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-04-11 02:30:41 UTC`
+📆 Last Updated: `2023-04-11 03:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,41 +17,43 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
 | 2 | [Julián](http://twitter.com/search?q=Juli%c3%a1n) | Julián is a Spanish name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it is usually pronounced "Hoo-lee-ahn". |
-| 3 | [Emiliano Zapata](http://twitter.com/search?q=Emiliano+Zapata) | N/A |
-| 4 | [Ebrard](http://twitter.com/search?q=Ebrard) | N/A |
-| 5 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 6 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
-| 7 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 8 | [Interjet](http://twitter.com/search?q=Interjet) | N/A |
-| 9 | [Plaza Condesa](http://twitter.com/search?q=Plaza+Condesa) | N/A |
-| 10 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 11 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 12 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 13 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
-| 14 | [#ControlDeDañosEnConvoy](http://twitter.com/search?q=%23ControlDeDa%c3%b1osEnConvoy) | N/A |
-| 15 | [Pan y Circo](http://twitter.com/search?q=Pan+y+Circo) | N/A |
-| 16 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 17 | [Gratuito](http://twitter.com/search?q=Gratuito) | N/A |
-| 18 | [Slime](http://twitter.com/search?q=Slime) | N/A |
-| 19 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
+| 3 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 4 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 5 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 6 | [GALEONA INVENCIBLE](http://twitter.com/search?q=GALEONA+INVENCIBLE) | N/A |
+| 7 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 8 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
+| 9 | [Interjet](http://twitter.com/search?q=Interjet) | N/A |
+| 10 | [Plaza Condesa](http://twitter.com/search?q=Plaza+Condesa) | N/A |
+| 11 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 12 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 13 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
+| 14 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 15 | [#OutBillboard](http://twitter.com/search?q=%23OutBillboard) | N/A |
+| 16 | [Gratuito](http://twitter.com/search?q=Gratuito) | N/A |
+| 17 | [#ControlDeDañosEnConvoy](http://twitter.com/search?q=%23ControlDeDa%c3%b1osEnConvoy) | N/A |
+| 18 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
+| 19 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
 | 20 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
-| 21 | [#CiudadDelBienestar](http://twitter.com/search?q=%23CiudadDelBienestar) | N/A |
-| 22 | [Paul McCartney](http://twitter.com/search?q=Paul+McCartney) | N/A |
-| 23 | [#TalentLand2023](http://twitter.com/search?q=%23TalentLand2023) | N/A |
-| 24 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 21 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
+| 22 | [Pan y Circo](http://twitter.com/search?q=Pan+y+Circo) | N/A |
+| 23 | [Paul McCartney](http://twitter.com/search?q=Paul+McCartney) | N/A |
+| 24 | [Slime](http://twitter.com/search?q=Slime) | N/A |
 | 25 | [Marietto](http://twitter.com/search?q=Marietto) | N/A |
-| 26 | [Es Delfina](http://twitter.com/search?q=Es+Delfina) | N/A |
+| 26 | [Peach](http://twitter.com/search?q=Peach) | N/A |
 | 27 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
-| 28 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
-| 29 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 30 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
+| 28 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 29 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
+| 30 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
 | 31 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
 | 32 | [Caudillo del Sur](http://twitter.com/search?q=Caudillo+del+Sur) | N/A |
 | 33 | [Entrona](http://twitter.com/search?q=Entrona) | N/A |
 | 34 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 35 | [#EscapePerfecto](http://twitter.com/search?q=%23EscapePerfecto) | N/A |
-| 36 | [#MoratoriaConstitucional](http://twitter.com/search?q=%23MoratoriaConstitucional) | N/A |
+| 35 | [#TalentLand](http://twitter.com/search?q=%23TalentLand) | N/A |
+| 36 | [#CiudadDelBienestar](http://twitter.com/search?q=%23CiudadDelBienestar) | N/A |
 | 37 | [#CdVictoria](http://twitter.com/search?q=%23CdVictoria) | N/A |
+| 38 | [#EscapePerfecto](http://twitter.com/search?q=%23EscapePerfecto) | N/A |
+| 39 | [#MoratoriaConstitucional](http://twitter.com/search?q=%23MoratoriaConstitucional) | N/A |
 
 
 

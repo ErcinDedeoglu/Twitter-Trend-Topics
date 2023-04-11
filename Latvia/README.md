@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-11 02:31:28 UTC`
+📆 Last Updated: `2023-04-11 03:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,38 +33,38 @@ This is top 50 for Latvia
 | 16 | [#1188play](http://twitter.com/search?q=%231188play) | N/A |
 | 17 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
 | 18 | [Jūsu](http://twitter.com/search?q=J%c5%absu) | N/A |
-| 19 | [nevajag](http://twitter.com/search?q=nevajag) | N/A |
-| 20 | [nekad](http://twitter.com/search?q=nekad) | N/A |
-| 21 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
-| 22 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 23 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
-| 24 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
-| 25 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
-| 26 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
-| 27 | [#1188lv](http://twitter.com/search?q=%231188lv) | N/A |
-| 28 | [laikam](http://twitter.com/search?q=laikam) | N/A |
-| 29 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
-| 30 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
-| 31 | [Tavu](http://twitter.com/search?q=Tavu) | N/A |
-| 32 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 33 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
-| 34 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 35 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
-| 36 | [krievijā](http://twitter.com/search?q=krievij%c4%81) | N/A |
-| 37 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
-| 38 | [pareizi](http://twitter.com/search?q=pareizi) | N/A |
-| 39 | [jautājums](http://twitter.com/search?q=jaut%c4%81jums) | N/A |
-| 40 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 41 | [latvians](http://twitter.com/search?q=latvians) | N/A |
-| 42 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 43 | [pievienojos](http://twitter.com/search?q=pievienojos) | N/A |
-| 44 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 45 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
-| 46 | [labāk](http://twitter.com/search?q=lab%c4%81k) | N/A |
-| 47 | [tātad](http://twitter.com/search?q=t%c4%81tad) | N/A |
-| 48 | [interesanti](http://twitter.com/search?q=interesanti) | N/A |
-| 49 | [Ukrainu](http://twitter.com/search?q=Ukrainu) | N/A |
-| 50 | [viņiem](http://twitter.com/search?q=vi%c5%86iem) | N/A |
+| 19 | [nekad](http://twitter.com/search?q=nekad) | N/A |
+| 20 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
+| 21 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 22 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 23 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 24 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
+| 25 | [#1188lv](http://twitter.com/search?q=%231188lv) | N/A |
+| 26 | [laikam](http://twitter.com/search?q=laikam) | N/A |
+| 27 | [#ukulele](http://twitter.com/search?q=%23ukulele) | N/A |
+| 28 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
+| 29 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 30 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
+| 31 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
+| 32 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
+| 33 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
+| 34 | [pareizi](http://twitter.com/search?q=pareizi) | N/A |
+| 35 | [jautājums](http://twitter.com/search?q=jaut%c4%81jums) | N/A |
+| 36 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 37 | [latvians](http://twitter.com/search?q=latvians) | N/A |
+| 38 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 39 | [pievienojos](http://twitter.com/search?q=pievienojos) | N/A |
+| 40 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 41 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
+| 42 | [labāk](http://twitter.com/search?q=lab%c4%81k) | N/A |
+| 43 | [nevajag](http://twitter.com/search?q=nevajag) | N/A |
+| 44 | [tātad](http://twitter.com/search?q=t%c4%81tad) | N/A |
+| 45 | [interesanti](http://twitter.com/search?q=interesanti) | N/A |
+| 46 | [Ukrainu](http://twitter.com/search?q=Ukrainu) | N/A |
+| 47 | [viņiem](http://twitter.com/search?q=vi%c5%86iem) | N/A |
+| 48 | [viņš](http://twitter.com/search?q=vi%c5%86%c5%a1) | N/A |
+| 49 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
+| 50 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
 
 
 

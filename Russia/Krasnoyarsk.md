@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Krasnoyarsk
 
-📆 Last Updated: `2023-04-11 02:31:08 UTC`
+📆 Last Updated: `2023-04-11 03:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,39 +19,39 @@ This is top 50 for [Russia](</Russia>)
 | 2 | [Users](http://twitter.com/search?q=Users) | N/A |
 | 3 | [THEE](http://twitter.com/search?q=THEE) | N/A |
 | 4 | [#Binancee](http://twitter.com/search?q=%23Binancee) | N/A |
-| 5 | [Hype](http://twitter.com/search?q=Hype) | N/A |
-| 6 | [#BNBB](http://twitter.com/search?q=%23BNBB) | N/A |
-| 7 | [Bull](http://twitter.com/search?q=Bull) | N/A |
-| 8 | [Cann](http://twitter.com/search?q=Cann) | N/A |
-| 9 | [Employ](http://twitter.com/search?q=Employ) | N/A |
-| 10 | [Thiss](http://twitter.com/search?q=Thiss) | N/A |
-| 11 | [Didd](http://twitter.com/search?q=Didd) | N/A |
-| 12 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
-| 13 | [Onee](http://twitter.com/search?q=Onee) | N/A |
-| 14 | [Havee](http://twitter.com/search?q=Havee) | N/A |
-| 15 | [Thankss](http://twitter.com/search?q=Thankss) | N/A |
-| 16 | [Howw](http://twitter.com/search?q=Howw) | N/A |
-| 17 | [TOP TEAM](http://twitter.com/search?q=TOP+TEAM) | N/A |
+| 5 | [Howw](http://twitter.com/search?q=Howw) | N/A |
+| 6 | [Hype](http://twitter.com/search?q=Hype) | N/A |
+| 7 | [#BNBB](http://twitter.com/search?q=%23BNBB) | N/A |
+| 8 | [Bull](http://twitter.com/search?q=Bull) | N/A |
+| 9 | [Thiss](http://twitter.com/search?q=Thiss) | N/A |
+| 10 | [Cann](http://twitter.com/search?q=Cann) | N/A |
+| 11 | [Employ](http://twitter.com/search?q=Employ) | N/A |
+| 12 | [Didd](http://twitter.com/search?q=Didd) | N/A |
+| 13 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
+| 14 | [Onee](http://twitter.com/search?q=Onee) | N/A |
+| 15 | [Havee](http://twitter.com/search?q=Havee) | N/A |
+| 16 | [Thankss](http://twitter.com/search?q=Thankss) | N/A |
+| 17 | [top team](http://twitter.com/search?q=top+team) | N/A |
 | 18 | [Boss](http://twitter.com/search?q=Boss) | N/A |
 | 19 | [Rate](http://twitter.com/search?q=Rate) | N/A |
 | 20 | [Cryptoo](http://twitter.com/search?q=Cryptoo) | N/A |
 | 21 | [Finallyy](http://twitter.com/search?q=Finallyy) | N/A |
-| 22 | [Everythingg](http://twitter.com/search?q=Everythingg) | N/A |
-| 23 | [Theyy](http://twitter.com/search?q=Theyy) | N/A |
+| 22 | [Theyy](http://twitter.com/search?q=Theyy) | N/A |
+| 23 | [Everythingg](http://twitter.com/search?q=Everythingg) | N/A |
 | 24 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 | 25 | [Recommend](http://twitter.com/search?q=Recommend) | N/A |
 | 26 | [Logical](http://twitter.com/search?q=Logical) | N/A |
 | 27 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
 | 28 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 29 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 30 | [Whyy](http://twitter.com/search?q=Whyy) | N/A |
+| 29 | [Neww](http://twitter.com/search?q=Neww) | N/A |
+| 30 | [Smart](http://twitter.com/search?q=Smart) | N/A |
 | 31 | [Worthh](http://twitter.com/search?q=Worthh) | N/A |
 | 32 | [#NFTdrop](http://twitter.com/search?q=%23NFTdrop) | N/A |
 | 33 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 34 | [Neww](http://twitter.com/search?q=Neww) | N/A |
-| 35 | [Alreadyy](http://twitter.com/search?q=Alreadyy) | N/A |
-| 36 | [keepss](http://twitter.com/search?q=keepss) | N/A |
-| 37 | [Forr](http://twitter.com/search?q=Forr) | N/A |
+| 34 | [Whyy](http://twitter.com/search?q=Whyy) | N/A |
+| 35 | [keepss](http://twitter.com/search?q=keepss) | N/A |
+| 36 | [Forr](http://twitter.com/search?q=Forr) | N/A |
+| 37 | [Alreadyy](http://twitter.com/search?q=Alreadyy) | N/A |
 | 38 | [Dope xD](http://twitter.com/search?q=Dope+xD) | N/A |
 | 39 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
 | 40 | [002 only](http://twitter.com/search?q=002+only) | N/A |
@@ -59,8 +59,8 @@ This is top 50 for [Russia](</Russia>)
 | 42 | [с днём рождения](http://twitter.com/search?q=%d1%81+%d0%b4%d0%bd%d1%91%d0%bc+%d1%80%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
 | 43 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 44 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 45 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 46 | [Покажи](http://twitter.com/search?q=%d0%9f%d0%be%d0%ba%d0%b0%d0%b6%d0%b8) | N/A |
+| 45 | [Покажи](http://twitter.com/search?q=%d0%9f%d0%be%d0%ba%d0%b0%d0%b6%d0%b8) | N/A |
+| 46 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 47 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
 | 48 | [капец](http://twitter.com/search?q=%d0%ba%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
 | 49 | [Gmorning](http://twitter.com/search?q=Gmorning) | N/A |

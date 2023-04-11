@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-04-11 02:30:42 UTC`
+📆 Last Updated: `2023-04-11 03:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,41 +16,45 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
-| 2 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 3 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 2 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 3 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
 | 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 5 | [Interjet](http://twitter.com/search?q=Interjet) | N/A |
-| 6 | [Plaza Condesa](http://twitter.com/search?q=Plaza+Condesa) | N/A |
-| 7 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 8 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 9 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 10 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
-| 11 | [#ControlDeDañosEnConvoy](http://twitter.com/search?q=%23ControlDeDa%c3%b1osEnConvoy) | N/A |
-| 12 | [Pan y Circo](http://twitter.com/search?q=Pan+y+Circo) | N/A |
-| 13 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 14 | [Gratuito](http://twitter.com/search?q=Gratuito) | N/A |
-| 15 | [Slime](http://twitter.com/search?q=Slime) | N/A |
-| 16 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
-| 17 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
-| 18 | [#CiudadDelBienestar](http://twitter.com/search?q=%23CiudadDelBienestar) | N/A |
-| 19 | [Paul McCartney](http://twitter.com/search?q=Paul+McCartney) | N/A |
-| 20 | [#TalentLand2023](http://twitter.com/search?q=%23TalentLand2023) | N/A |
-| 21 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 22 | [Marietto](http://twitter.com/search?q=Marietto) | N/A |
-| 23 | [Es Delfina](http://twitter.com/search?q=Es+Delfina) | N/A |
-| 24 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
-| 25 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
-| 26 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
-| 27 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
-| 28 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
-| 29 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
-| 30 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 31 | [Caudillo del Sur](http://twitter.com/search?q=Caudillo+del+Sur) | N/A |
-| 32 | [Entrona](http://twitter.com/search?q=Entrona) | N/A |
-| 33 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
-| 34 | [#EscapePerfecto](http://twitter.com/search?q=%23EscapePerfecto) | N/A |
-| 35 | [#MoratoriaConstitucional](http://twitter.com/search?q=%23MoratoriaConstitucional) | N/A |
-| 36 | [#CdVictoria](http://twitter.com/search?q=%23CdVictoria) | N/A |
+| 5 | [GALEONA INVENCIBLE](http://twitter.com/search?q=GALEONA+INVENCIBLE) | N/A |
+| 6 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 7 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
+| 8 | [Interjet](http://twitter.com/search?q=Interjet) | N/A |
+| 9 | [Plaza Condesa](http://twitter.com/search?q=Plaza+Condesa) | N/A |
+| 10 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 11 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 12 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 13 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
+| 14 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 15 | [#OutBillboard](http://twitter.com/search?q=%23OutBillboard) | N/A |
+| 16 | [Gratuito](http://twitter.com/search?q=Gratuito) | N/A |
+| 17 | [#ControlDeDañosEnConvoy](http://twitter.com/search?q=%23ControlDeDa%c3%b1osEnConvoy) | N/A |
+| 18 | [Mazda](http://twitter.com/search?q=Mazda) | N/A |
+| 19 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
+| 20 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
+| 21 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
+| 22 | [Pan y Circo](http://twitter.com/search?q=Pan+y+Circo) | N/A |
+| 23 | [Paul McCartney](http://twitter.com/search?q=Paul+McCartney) | N/A |
+| 24 | [Slime](http://twitter.com/search?q=Slime) | N/A |
+| 25 | [Marietto](http://twitter.com/search?q=Marietto) | N/A |
+| 26 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
+| 27 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 28 | [Grupo Firme](http://twitter.com/search?q=Grupo+Firme) | N/A |
+| 29 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 30 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
+| 31 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
+| 32 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 33 | [Caudillo del Sur](http://twitter.com/search?q=Caudillo+del+Sur) | N/A |
+| 34 | [Entrona](http://twitter.com/search?q=Entrona) | N/A |
+| 35 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 36 | [#TalentLand](http://twitter.com/search?q=%23TalentLand) | N/A |
+| 37 | [#CiudadDelBienestar](http://twitter.com/search?q=%23CiudadDelBienestar) | N/A |
+| 38 | [#CdVictoria](http://twitter.com/search?q=%23CdVictoria) | N/A |
+| 39 | [#MoratoriaConstitucional](http://twitter.com/search?q=%23MoratoriaConstitucional) | N/A |
+| 40 | [#EscapePerfecto](http://twitter.com/search?q=%23EscapePerfecto) | N/A |
 
 
 

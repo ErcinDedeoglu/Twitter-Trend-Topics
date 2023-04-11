@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-04-11 02:30:52 UTC`
+📆 Last Updated: `2023-04-11 03:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,10 +17,10 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
 | 2 | [Pasquetta](http://twitter.com/search?q=Pasquetta) | N/A |
-| 3 | [Pasquetta](http://twitter.com/search?q=Pasquetta) | N/A |
+| 3 | [buona pasqua](http://twitter.com/search?q=buona+pasqua) | N/A |
 | 4 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
-| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 6 | [#orielespace](http://twitter.com/search?q=%23orielespace) | N/A |
+| 5 | [#orielespace](http://twitter.com/search?q=%23orielespace) | N/A |
+| 6 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 7 | [#10aprile](http://twitter.com/search?q=%2310aprile) | N/A |
 | 8 | [#quartarepubblica](http://twitter.com/search?q=%23quartarepubblica) | N/A |
 | 9 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
@@ -39,9 +39,9 @@ This is top 50 for [Italy](</Italy>)
 | 22 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
 | 23 | [buon lunedì](http://twitter.com/search?q=buon+luned%c3%ac) | N/A |
 | 24 | [Lampedusa](http://twitter.com/search?q=Lampedusa) | N/A |
-| 25 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 25 | [alex sandro](http://twitter.com/search?q=alex+sandro) | N/A |
 | 26 | [Mangiagalli](http://twitter.com/search?q=Mangiagalli) | N/A |
-| 27 | [Mengoni](http://twitter.com/search?q=Mengoni) | N/A |
+| 27 | [mengoni](http://twitter.com/search?q=mengoni) | N/A |
 | 28 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
 | 29 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
 | 30 | [Livaja](http://twitter.com/search?q=Livaja) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for [Italy](</Italy>)
 | 32 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
 | 33 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
 | 34 | [Wanna Marchi](http://twitter.com/search?q=Wanna+Marchi) | N/A |
-| 35 | [Decisamente Comunista](http://twitter.com/search?q=Decisamente+Comunista) | N/A |
+| 35 | [decisamente comunista](http://twitter.com/search?q=decisamente+comunista) | N/A |
 | 36 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
 | 37 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
 | 38 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Italy](</Italy>)
 | 43 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
 | 44 | [DICIAMO NO](http://twitter.com/search?q=DICIAMO+NO) | N/A |
 | 45 | [Buck](http://twitter.com/search?q=Buck) | N/A |
-| 46 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
-| 47 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 48 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 49 | [Giulietta](http://twitter.com/search?q=Giulietta) | N/A |
-| 50 | [Sicuro](http://twitter.com/search?q=Sicuro) | N/A |
+| 46 | [Giulietta](http://twitter.com/search?q=Giulietta) | N/A |
+| 47 | [Sicuro](http://twitter.com/search?q=Sicuro) | N/A |
+| 48 | [Nellina](http://twitter.com/search?q=Nellina) | N/A |
+| 49 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 50 | [Aiuto](http://twitter.com/search?q=Aiuto) | N/A |
 
 
 

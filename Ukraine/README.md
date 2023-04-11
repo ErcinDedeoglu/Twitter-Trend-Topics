@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-04-11 02:31:31 UTC`
+📆 Last Updated: `2023-04-11 03:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,9 +20,9 @@ This is top 50 for Ukraine
 | 3 | [раночку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
 | 4 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
 | 5 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
-| 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 7 | [F-16s](http://twitter.com/search?q=F-16s) | N/A |
-| 8 | [#kharkiv](http://twitter.com/search?q=%23kharkiv) | N/A |
+| 6 | [F-16s](http://twitter.com/search?q=F-16s) | N/A |
+| 7 | [#kharkiv](http://twitter.com/search?q=%23kharkiv) | N/A |
+| 8 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 9 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
 | 10 | [#sexymonday](http://twitter.com/search?q=%23sexymonday) | N/A |
 | 11 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
@@ -35,7 +35,7 @@ This is top 50 for Ukraine
 | 18 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
 | 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 20 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 21 | [красиво](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 21 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
 | 22 | [запорожье](http://twitter.com/search?q=%d0%b7%d0%b0%d0%bf%d0%be%d1%80%d0%be%d0%b6%d1%8c%d0%b5) | N/A |
 | 23 | [Glory to Ukraine](http://twitter.com/search?q=Glory+to+Ukraine) | N/A |
 | 24 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
@@ -46,7 +46,7 @@ This is top 50 for Ukraine
 | 29 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
 | 30 | [пасху](http://twitter.com/search?q=%d0%bf%d0%b0%d1%81%d1%85%d1%83) | N/A |
 | 31 | [балтии](http://twitter.com/search?q=%d0%b1%d0%b0%d0%bb%d1%82%d0%b8%d0%b8) | N/A |
-| 32 | [Proof-Of-Reserves](http://twitter.com/search?q=Proof-Of-Reserves) | N/A |
+| 32 | [proof-of-reserves](http://twitter.com/search?q=proof-of-reserves) | N/A |
 | 33 | [тайвань](http://twitter.com/search?q=%d1%82%d0%b0%d0%b9%d0%b2%d0%b0%d0%bd%d1%8c) | N/A |
 | 34 | [Бахмут](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82) | N/A |
 | 35 | [таак](http://twitter.com/search?q=%d1%82%d0%b0%d0%b0%d0%ba) | N/A |

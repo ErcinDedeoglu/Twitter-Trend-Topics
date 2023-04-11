@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-11 02:31:24 UTC`
+📆 Last Updated: `2023-04-11 03:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,9 +29,9 @@ This is top 50 for Austria
 | 12 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
 | 13 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | N/A |
 | 14 | [Wecker](http://twitter.com/search?q=Wecker) | N/A |
-| 15 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 16 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 17 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 15 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 16 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 17 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 18 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
 | 19 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
 | 20 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
@@ -40,31 +40,31 @@ This is top 50 for Austria
 | 23 | [stockinger](http://twitter.com/search?q=stockinger) | N/A |
 | 24 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
 | 25 | [Christus](http://twitter.com/search?q=Christus) | N/A |
-| 26 | [Hase](http://twitter.com/search?q=Hase) | N/A |
+| 26 | [hase](http://twitter.com/search?q=hase) | N/A |
 | 27 | [guten morgen peter](http://twitter.com/search?q=guten+morgen+peter) | N/A |
 | 28 | [Deppen](http://twitter.com/search?q=Deppen) | N/A |
 | 29 | [ebenfalls](http://twitter.com/search?q=ebenfalls) | N/A |
 | 30 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 31 | [richtungen](http://twitter.com/search?q=richtungen) | N/A |
+| 31 | [Richtungen](http://twitter.com/search?q=Richtungen) | N/A |
 | 32 | [schafe](http://twitter.com/search?q=schafe) | N/A |
-| 33 | [netzwerk](http://twitter.com/search?q=netzwerk) | N/A |
-| 34 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 35 | [osterfest](http://twitter.com/search?q=osterfest) | N/A |
-| 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 37 | [Feind](http://twitter.com/search?q=Feind) | N/A |
-| 38 | [Komisch](http://twitter.com/search?q=Komisch) | N/A |
-| 39 | [Integration](http://twitter.com/search?q=Integration) | N/A |
-| 40 | [#IRGCterrorists](http://twitter.com/search?q=%23IRGCterrorists) | #IRGCterrorists is a hashtag used on social media to refer to members of the Islamic Revolutionary Guard Corps (IRGC), an Iranian military organization. The hashtag is used to express criticism of the IRGC's alleged involvement in terrorist activities. |
-| 41 | [Finger](http://twitter.com/search?q=Finger) | N/A |
-| 42 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
-| 43 | [#IranRevolution](http://twitter.com/search?q=%23IranRevolution) | N/A |
-| 44 | [schuhe](http://twitter.com/search?q=schuhe) | N/A |
-| 45 | [Planeten](http://twitter.com/search?q=Planeten) | N/A |
+| 33 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 34 | [netzwerk](http://twitter.com/search?q=netzwerk) | N/A |
+| 35 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 36 | [osterfest](http://twitter.com/search?q=osterfest) | N/A |
+| 37 | [Brüssel](http://twitter.com/search?q=Br%c3%bcssel) | N/A |
+| 38 | [Feind](http://twitter.com/search?q=Feind) | N/A |
+| 39 | [Komisch](http://twitter.com/search?q=Komisch) | N/A |
+| 40 | [Integration](http://twitter.com/search?q=Integration) | N/A |
+| 41 | [#IRGCterrorists](http://twitter.com/search?q=%23IRGCterrorists) | #IRGCterrorists is a hashtag used on social media to refer to members of the Islamic Revolutionary Guard Corps (IRGC), an Iranian military organization. The hashtag is used to express criticism of the IRGC's alleged involvement in terrorist activities. |
+| 42 | [Finger](http://twitter.com/search?q=Finger) | N/A |
+| 43 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
+| 44 | [#IranRevolution](http://twitter.com/search?q=%23IranRevolution) | N/A |
+| 45 | [planeten](http://twitter.com/search?q=planeten) | N/A |
 | 46 | [Stärke](http://twitter.com/search?q=St%c3%a4rke) | N/A |
 | 47 | [feiertag](http://twitter.com/search?q=feiertag) | N/A |
 | 48 | [exxpress](http://twitter.com/search?q=exxpress) | N/A |
 | 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 50 | [Böse](http://twitter.com/search?q=B%c3%b6se) | N/A |
+| 50 | [Mund](http://twitter.com/search?q=Mund) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-04-11 02:31:28 UTC`
+📆 Last Updated: `2023-04-11 03:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,13 +25,13 @@ This is top 50 for Kuwait
 | 8 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
 | 9 | [اليمين الدستوريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1%d9%8a%d9%87) | N/A |
 | 10 | [يابو يوسف](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
-| 11 | [كاس مصر](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%85%d8%b5%d8%b1) | N/A |
-| 12 | [الفلفل الحار](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%84%d9%81%d9%84+%d8%a7%d9%84%d8%ad%d8%a7%d8%b1) | N/A |
+| 11 | [الفلفل الحار](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%84%d9%81%d9%84+%d8%a7%d9%84%d8%ad%d8%a7%d8%b1) | N/A |
+| 12 | [كاس مصر](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%85%d8%b5%d8%b1) | N/A |
 | 13 | [ليال عشر](http://twitter.com/search?q=%d9%84%d9%8a%d8%a7%d9%84+%d8%b9%d8%b4%d8%b1) | N/A |
-| 14 | [سالم غانم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%ba%d8%a7%d9%86%d9%85) | N/A |
-| 15 | [الشهر الجاري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ac%d8%a7%d8%b1%d9%8a) | N/A |
-| 16 | [يابو صلاح](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b5%d9%84%d8%a7%d8%ad) | N/A |
-| 17 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 14 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 15 | [سالم غانم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%ba%d8%a7%d9%86%d9%85) | N/A |
+| 16 | [الشهر الجاري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ac%d8%a7%d8%b1%d9%8a) | N/A |
+| 17 | [يابو صلاح](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b5%d9%84%d8%a7%d8%ad) | N/A |
 | 18 | [ابريل الجاري](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d9%8a%d9%84+%d8%a7%d9%84%d8%ac%d8%a7%d8%b1%d9%8a) | N/A |
 | 19 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
 | 20 | [الموسسات العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Kuwait
 | 33 | [المعاشات الاستثناييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b4%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%86%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
 | 34 | [فتحي كميل](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad%d9%8a+%d9%83%d9%85%d9%8a%d9%84) | N/A |
 | 35 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
-| 36 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 37 | [مشعل الاحمد الجابر الصباح](http://twitter.com/search?q=%d9%85%d8%b4%d8%b9%d9%84+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
-| 38 | [القضاء العادل](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%af%d9%84) | N/A |
-| 39 | [ابو لولوه المجوسي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%84%d9%88%d9%84%d9%88%d9%87+%d8%a7%d9%84%d9%85%d8%ac%d9%88%d8%b3%d9%8a) | N/A |
-| 40 | [الاحكام الصادره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d9%87) | N/A |
-| 41 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
-| 42 | [علي بن ابي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
-| 43 | [الفريق الواحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d9%88%d8%a7%d8%ad%d8%af) | N/A |
-| 44 | [وزير الماليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 45 | [مسجد عمر بن الخطاب](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d8%b9%d9%85%d8%b1+%d8%a8%d9%86+%d8%a7%d9%84%d8%ae%d8%b7%d8%a7%d8%a8) | N/A |
-| 46 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 47 | [الدوري الاسباني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
-| 48 | [امين عمر](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d9%86+%d8%b9%d9%85%d8%b1) | N/A |
-| 49 | [المسجد الكبير](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
-| 50 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 36 | [مشعل الاحمد الجابر الصباح](http://twitter.com/search?q=%d9%85%d8%b4%d8%b9%d9%84+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
+| 37 | [القضاء العادل](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%af%d9%84) | N/A |
+| 38 | [ابو لولوه المجوسي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%84%d9%88%d9%84%d9%88%d9%87+%d8%a7%d9%84%d9%85%d8%ac%d9%88%d8%b3%d9%8a) | N/A |
+| 39 | [الاحكام الصادره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d9%87) | N/A |
+| 40 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
+| 41 | [علي بن ابي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 42 | [الفريق الواحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d9%88%d8%a7%d8%ad%d8%af) | N/A |
+| 43 | [وزير الماليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 44 | [مسجد عمر بن الخطاب](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d8%b9%d9%85%d8%b1+%d8%a8%d9%86+%d8%a7%d9%84%d8%ae%d8%b7%d8%a7%d8%a8) | N/A |
+| 45 | [الدوري الاسباني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a) | N/A |
+| 46 | [امين عمر](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d9%86+%d8%b9%d9%85%d8%b1) | N/A |
+| 47 | [المسجد الكبير](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
+| 48 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 49 | [الاحكام القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 50 | [علم النفس](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%86%d9%81%d8%b3) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-04-11 02:31:19 UTC`
+📆 Last Updated: `2023-04-11 03:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 2 | [#BeatLA](http://twitter.com/search?q=%23BeatLA) | N/A |
-| 3 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 4 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
-| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 6 | [Sparks](http://twitter.com/search?q=Sparks) | N/A |
-| 7 | [Nola](http://twitter.com/search?q=Nola) | N/A |
-| 8 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 9 | [#MassShooting](http://twitter.com/search?q=%23MassShooting) | N/A |
-| 10 | [#NationalSiblingsDay](http://twitter.com/search?q=%23NationalSiblingsDay) | N/A |
-| 11 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 12 | [#GunReformNOW](http://twitter.com/search?q=%23GunReformNOW) | N/A |
-| 13 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
-| 14 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 15 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 1 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 2 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 3 | [#BeatLA](http://twitter.com/search?q=%23BeatLA) | N/A |
+| 4 | [Outman](http://twitter.com/search?q=Outman) | N/A |
+| 5 | [Joey Bart](http://twitter.com/search?q=Joey+Bart) | N/A |
+| 6 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 7 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 8 | [Looney](http://twitter.com/search?q=Looney) | N/A |
+| 9 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
+| 10 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 11 | [#NationalSiblingsDay](http://twitter.com/search?q=%23NationalSiblingsDay) | N/A |
+| 12 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 13 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 14 | [#GunReformNOW](http://twitter.com/search?q=%23GunReformNOW) | N/A |
+| 15 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
 | 16 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 17 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
+| 17 | [Haley](http://twitter.com/search?q=Haley) | N/A |
 | 18 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 19 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 20 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 21 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 22 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 23 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 24 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
-| 25 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 19 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 20 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 21 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
+| 22 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 23 | [#MassShooting](http://twitter.com/search?q=%23MassShooting) | N/A |
+| 24 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 25 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
 | 26 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 27 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 28 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 27 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 28 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
 | 29 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 30 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 31 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 32 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 33 | [Wrestlemania Backlash](http://twitter.com/search?q=Wrestlemania+Backlash) | N/A |
-| 34 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 35 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
-| 36 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 37 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 38 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 39 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
-| 40 | [Kliff Kingsbury](http://twitter.com/search?q=Kliff+Kingsbury) | Kliff Kingsbury is an American football coach and former player. He is currently the head coach of the Arizona Cardinals of the National Football League (NFL). He previously served as the head coach at Texas Tech University from 2013 to 2018. |
-| 41 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 42 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
-| 43 | [Jarred Kelenic](http://twitter.com/search?q=Jarred+Kelenic) | N/A |
-| 44 | [Alpha Academy](http://twitter.com/search?q=Alpha+Academy) | N/A |
-| 45 | [CUBS WIN](http://twitter.com/search?q=CUBS+WIN) | N/A |
-| 46 | [Nico Hoerner](http://twitter.com/search?q=Nico+Hoerner) | N/A |
-| 47 | [John Tavares](http://twitter.com/search?q=John+Tavares) | N/A |
-| 48 | [Minter](http://twitter.com/search?q=Minter) | N/A |
-| 49 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 30 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 31 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 32 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 33 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 34 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 35 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 36 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 37 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 38 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 39 | [Scott Barry](http://twitter.com/search?q=Scott+Barry) | N/A |
+| 40 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 41 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
+| 42 | [Kliff Kingsbury](http://twitter.com/search?q=Kliff+Kingsbury) | Kliff Kingsbury is an American football coach and former player. He is currently the head coach of the Arizona Cardinals of the National Football League (NFL). He previously served as the head coach at Texas Tech University from 2013 to 2018. |
+| 43 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
+| 44 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 45 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
+| 46 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
+| 47 | [Nico Hoerner](http://twitter.com/search?q=Nico+Hoerner) | N/A |
+| 48 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
+| 49 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-04-11 02:31:16 UTC`
+📆 Last Updated: `2023-04-11 03:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Orioles](http://twitter.com/search?q=%23Orioles) | N/A |
-| 2 | [Austin Hays](http://twitter.com/search?q=Austin+Hays) | N/A |
-| 3 | [Adley](http://twitter.com/search?q=Adley) | N/A |
-| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 5 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 6 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 7 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
-| 8 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
-| 9 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 2 | [Kyle Gibson](http://twitter.com/search?q=Kyle+Gibson) | N/A |
+| 3 | [Austin Hays](http://twitter.com/search?q=Austin+Hays) | N/A |
+| 4 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
+| 5 | [Adley](http://twitter.com/search?q=Adley) | N/A |
+| 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 7 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 8 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
+| 9 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
 | 10 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 11 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 12 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
-| 13 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
-| 14 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
-| 15 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 16 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 17 | [Wrestlemania Backlash](http://twitter.com/search?q=Wrestlemania+Backlash) | N/A |
-| 18 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 19 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 20 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
-| 21 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 22 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 23 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
-| 24 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 25 | [Kliff Kingsbury](http://twitter.com/search?q=Kliff+Kingsbury) | Kliff Kingsbury is an American football coach and former player. He is currently the head coach of the Arizona Cardinals of the National Football League (NFL). He previously served as the head coach at Texas Tech University from 2013 to 2018. |
-| 26 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 27 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
-| 28 | [Jarred Kelenic](http://twitter.com/search?q=Jarred+Kelenic) | N/A |
-| 29 | [Alpha Academy](http://twitter.com/search?q=Alpha+Academy) | N/A |
-| 30 | [John Tavares](http://twitter.com/search?q=John+Tavares) | N/A |
-| 31 | [Minter](http://twitter.com/search?q=Minter) | N/A |
-| 32 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 33 | [Nico Hoerner](http://twitter.com/search?q=Nico+Hoerner) | N/A |
-| 34 | [CUBS WIN](http://twitter.com/search?q=CUBS+WIN) | N/A |
-| 35 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
-| 36 | [Derek Law](http://twitter.com/search?q=Derek+Law) | N/A |
-| 37 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
-| 38 | [BRAVES WIN](http://twitter.com/search?q=BRAVES+WIN) | N/A |
-| 39 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 40 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 41 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 42 | [Otis](http://twitter.com/search?q=Otis) | N/A |
-| 43 | [Lindy](http://twitter.com/search?q=Lindy) | N/A |
-| 44 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
-| 45 | [EL BOMBI](http://twitter.com/search?q=EL+BOMBI) | N/A |
-| 46 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
-| 47 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 48 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
-| 49 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 50 | [Brandon Lowe](http://twitter.com/search?q=Brandon+Lowe) | N/A |
+| 11 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
+| 12 | [#darceyandstacey](http://twitter.com/search?q=%23darceyandstacey) | N/A |
+| 13 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 14 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 15 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 16 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 17 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 18 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 19 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 20 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 21 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 22 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 23 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 24 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 25 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 26 | [Scott Barry](http://twitter.com/search?q=Scott+Barry) | N/A |
+| 27 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 28 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
+| 29 | [Kliff Kingsbury](http://twitter.com/search?q=Kliff+Kingsbury) | Kliff Kingsbury is an American football coach and former player. He is currently the head coach of the Arizona Cardinals of the National Football League (NFL). He previously served as the head coach at Texas Tech University from 2013 to 2018. |
+| 30 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
+| 31 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 32 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
+| 33 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
+| 34 | [Nico Hoerner](http://twitter.com/search?q=Nico+Hoerner) | N/A |
+| 35 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
+| 36 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 37 | [Alpha Academy](http://twitter.com/search?q=Alpha+Academy) | N/A |
+| 38 | [CUBS WIN](http://twitter.com/search?q=CUBS+WIN) | N/A |
+| 39 | [Nate Eaton](http://twitter.com/search?q=Nate+Eaton) | N/A |
+| 40 | [Derek Law](http://twitter.com/search?q=Derek+Law) | N/A |
+| 41 | [Jarred Kelenic](http://twitter.com/search?q=Jarred+Kelenic) | N/A |
+| 42 | [John Tavares](http://twitter.com/search?q=John+Tavares) | N/A |
+| 43 | [Minter](http://twitter.com/search?q=Minter) | N/A |
+| 44 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
+| 45 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 46 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 47 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 48 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
+| 49 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
+| 50 | [BRAVES WIN](http://twitter.com/search?q=BRAVES+WIN) | N/A |
 
 
 

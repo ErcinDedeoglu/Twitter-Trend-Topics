@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-04-11 02:31:26 UTC`
+📆 Last Updated: `2023-04-11 03:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for Ireland
 | 7 | [Torres](http://twitter.com/search?q=Torres) | N/A |
 | 8 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
 | 9 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 10 | [Paul Townend](http://twitter.com/search?q=Paul+Townend) | N/A |
+| 10 | [paul townend](http://twitter.com/search?q=paul+townend) | N/A |
 | 11 | [Keane](http://twitter.com/search?q=Keane) | N/A |
 | 12 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 | 13 | [Seve](http://twitter.com/search?q=Seve) | N/A |
@@ -36,7 +36,7 @@ This is top 50 for Ireland
 | 19 | [John Rahm](http://twitter.com/search?q=John+Rahm) | N/A |
 | 20 | [#fairyhouse](http://twitter.com/search?q=%23fairyhouse) | N/A |
 | 21 | [Shels](http://twitter.com/search?q=Shels) | N/A |
-| 22 | [I Am Maximus](http://twitter.com/search?q=I+Am+Maximus) | N/A |
+| 22 | [i am maximus](http://twitter.com/search?q=i+am+maximus) | N/A |
 | 23 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
 | 24 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
 | 25 | [Lee Chin](http://twitter.com/search?q=Lee+Chin) | N/A |

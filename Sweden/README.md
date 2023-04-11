@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-04-11 02:31:31 UTC`
+📆 Last Updated: `2023-04-11 03:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,18 +24,18 @@ This is top 50 for Sweden
 | 7 | [gnaget](http://twitter.com/search?q=gnaget) | N/A |
 | 8 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 9 | [ifk norrköping](http://twitter.com/search?q=ifk+norrk%c3%b6ping) | N/A |
-| 10 | [Ceesay](http://twitter.com/search?q=Ceesay) | N/A |
+| 10 | [ceesay](http://twitter.com/search?q=ceesay) | N/A |
 | 11 | [mjällby](http://twitter.com/search?q=mj%c3%a4llby) | N/A |
 | 12 | [kristoffer karlsson](http://twitter.com/search?q=kristoffer+karlsson) | N/A |
 | 13 | [brännström](http://twitter.com/search?q=br%c3%a4nnstr%c3%b6m) | N/A |
 | 14 | [önas prince](http://twitter.com/search?q=%c3%b6nas+prince) | N/A |
 | 15 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 16 | [Dabo](http://twitter.com/search?q=Dabo) | Dabo is a traditional board game from West Africa. It is a two-player strategy game that involves placing stones on a board in order to capture the opponent's pieces. The name "Dabo" comes from the Fula language and means "to win". |
-| 17 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 18 | [aiks](http://twitter.com/search?q=aiks) | N/A |
-| 19 | [#elfsborg](http://twitter.com/search?q=%23elfsborg) | N/A |
-| 20 | [solna](http://twitter.com/search?q=solna) | N/A |
-| 21 | [gefle](http://twitter.com/search?q=gefle) | N/A |
+| 16 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 17 | [aiks](http://twitter.com/search?q=aiks) | N/A |
+| 18 | [#elfsborg](http://twitter.com/search?q=%23elfsborg) | N/A |
+| 19 | [solna](http://twitter.com/search?q=solna) | N/A |
+| 20 | [gefle](http://twitter.com/search?q=gefle) | N/A |
+| 21 | [Dabo](http://twitter.com/search?q=Dabo) | Dabo is a traditional board game from West Africa. It is a two-player strategy game that involves placing stones on a board in order to capture the opponent's pieces. The name "Dabo" comes from the Fula language and means "to win". |
 | 22 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
 | 23 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 24 | [nyman](http://twitter.com/search?q=nyman) | N/A |
@@ -44,27 +44,27 @@ This is top 50 for Sweden
 | 27 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
 | 28 | [durmaz](http://twitter.com/search?q=durmaz) | N/A |
 | 29 | [wessner](http://twitter.com/search?q=wessner) | N/A |
-| 30 | [Växjö](http://twitter.com/search?q=V%c3%a4xj%c3%b6) | N/A |
-| 31 | [Bilal](http://twitter.com/search?q=Bilal) | N/A |
-| 32 | [Mild](http://twitter.com/search?q=Mild) | N/A |
-| 33 | [norling](http://twitter.com/search?q=norling) | N/A |
-| 34 | [värnamo](http://twitter.com/search?q=v%c3%a4rnamo) | N/A |
-| 35 | [jimmie åkesson](http://twitter.com/search?q=jimmie+%c3%a5kesson) | N/A |
-| 36 | [Sanny](http://twitter.com/search?q=Sanny) | N/A |
-| 37 | [Jomshof](http://twitter.com/search?q=Jomshof) | N/A |
-| 38 | [dovin](http://twitter.com/search?q=dovin) | N/A |
-| 39 | [väsby](http://twitter.com/search?q=v%c3%a4sby) | N/A |
-| 40 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 41 | [avgå](http://twitter.com/search?q=avg%c3%a5) | N/A |
-| 42 | [Guidetti](http://twitter.com/search?q=Guidetti) | N/A |
-| 43 | [Stahre](http://twitter.com/search?q=Stahre) | N/A |
-| 44 | [widar](http://twitter.com/search?q=widar) | N/A |
-| 45 | [gvfö](http://twitter.com/search?q=gvf%c3%b6) | N/A |
-| 46 | [guillou](http://twitter.com/search?q=guillou) | N/A |
-| 47 | [myrenberg](http://twitter.com/search?q=myrenberg) | N/A |
-| 48 | [örgryte](http://twitter.com/search?q=%c3%b6rgryte) | N/A |
-| 49 | [#j20sm](http://twitter.com/search?q=%23j20sm) | N/A |
-| 50 | [nordfeldt](http://twitter.com/search?q=nordfeldt) | N/A |
+| 30 | [växjö](http://twitter.com/search?q=v%c3%a4xj%c3%b6) | N/A |
+| 31 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 32 | [Bilal](http://twitter.com/search?q=Bilal) | N/A |
+| 33 | [Mild](http://twitter.com/search?q=Mild) | N/A |
+| 34 | [norling](http://twitter.com/search?q=norling) | N/A |
+| 35 | [värnamo](http://twitter.com/search?q=v%c3%a4rnamo) | N/A |
+| 36 | [jimmie åkesson](http://twitter.com/search?q=jimmie+%c3%a5kesson) | N/A |
+| 37 | [sanny](http://twitter.com/search?q=sanny) | N/A |
+| 38 | [Jomshof](http://twitter.com/search?q=Jomshof) | N/A |
+| 39 | [dovin](http://twitter.com/search?q=dovin) | N/A |
+| 40 | [väsby](http://twitter.com/search?q=v%c3%a4sby) | N/A |
+| 41 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 42 | [avgå](http://twitter.com/search?q=avg%c3%a5) | N/A |
+| 43 | [Guidetti](http://twitter.com/search?q=Guidetti) | N/A |
+| 44 | [stahre](http://twitter.com/search?q=stahre) | N/A |
+| 45 | [widar](http://twitter.com/search?q=widar) | N/A |
+| 46 | [gvfö](http://twitter.com/search?q=gvf%c3%b6) | N/A |
+| 47 | [guillou](http://twitter.com/search?q=guillou) | N/A |
+| 48 | [myrenberg](http://twitter.com/search?q=myrenberg) | N/A |
+| 49 | [örgryte](http://twitter.com/search?q=%c3%b6rgryte) | N/A |
+| 50 | [#j20sm](http://twitter.com/search?q=%23j20sm) | N/A |
 
 
 

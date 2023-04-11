@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-04-11 02:31:29 UTC`
+📆 Last Updated: `2023-04-11 03:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,21 +17,21 @@ This is top 50 for Norway
 | ------- | ------------ | ------------ |
 | 1 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
 | 2 | [#2fantasy](http://twitter.com/search?q=%232fantasy) | N/A |
-| 3 | [FotballXtra](http://twitter.com/search?q=FotballXtra) | N/A |
+| 3 | [fotballxtra](http://twitter.com/search?q=fotballxtra) | N/A |
 | 4 | [Viking](http://twitter.com/search?q=Viking) | N/A |
 | 5 | [Fotballkveld](http://twitter.com/search?q=Fotballkveld) | N/A |
 | 6 | [Finne](http://twitter.com/search?q=Finne) | N/A |
 | 7 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
 | 8 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 9 | [Sarpsborg](http://twitter.com/search?q=Sarpsborg) | N/A |
+| 9 | [sarpsborg](http://twitter.com/search?q=sarpsborg) | N/A |
 | 10 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 11 | [#obosligaen](http://twitter.com/search?q=%23obosligaen) | N/A |
 | 12 | [Brann](http://twitter.com/search?q=Brann) | N/A |
-| 13 | [Molde](http://twitter.com/search?q=Molde) | N/A |
+| 13 | [molde](http://twitter.com/search?q=molde) | N/A |
 | 14 | [heia start](http://twitter.com/search?q=heia+start) | N/A |
 | 15 | [steinkjer](http://twitter.com/search?q=steinkjer) | N/A |
 | 16 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 17 | [Tromsø](http://twitter.com/search?q=Troms%c3%b8) | N/A |
+| 17 | [tromsø](http://twitter.com/search?q=troms%c3%b8) | N/A |
 | 18 | [godset](http://twitter.com/search?q=godset) | N/A |
 | 19 | [Udahl](http://twitter.com/search?q=Udahl) | N/A |
 | 20 | [Woke](http://twitter.com/search?q=Woke) | N/A |
@@ -44,7 +44,7 @@ This is top 50 for Norway
 | 27 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
 | 28 | [Eurosport](http://twitter.com/search?q=Eurosport) | N/A |
 | 29 | [nadderud](http://twitter.com/search?q=nadderud) | N/A |
-| 30 | [Stadion](http://twitter.com/search?q=Stadion) | N/A |
+| 30 | [stadion](http://twitter.com/search?q=stadion) | N/A |
 | 31 | [#ffk1903](http://twitter.com/search?q=%23ffk1903) | N/A |
 | 32 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 | 33 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
@@ -56,7 +56,7 @@ This is top 50 for Norway
 | 39 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
 | 40 | [TV 2](http://twitter.com/search?q=TV+2) | N/A |
 | 41 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 42 | [Melløs](http://twitter.com/search?q=Mell%c3%b8s) | N/A |
+| 42 | [melløs](http://twitter.com/search?q=mell%c3%b8s) | N/A |
 | 43 | [salvesen](http://twitter.com/search?q=salvesen) | N/A |
 | 44 | [Kamma](http://twitter.com/search?q=Kamma) | N/A |
 | 45 | [aafk](http://twitter.com/search?q=aafk) | N/A |

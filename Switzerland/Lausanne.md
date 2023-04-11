@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-11 02:30:54 UTC`
+📆 Last Updated: `2023-04-11 03:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,30 +19,30 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 3 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
 | 4 | [Buona Pasquetta](http://twitter.com/search?q=Buona+Pasquetta) | N/A |
-| 5 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 6 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 7 | [Hunger](http://twitter.com/search?q=Hunger) | N/A |
-| 8 | [buona pasqua](http://twitter.com/search?q=buona+pasqua) | N/A |
-| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 10 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 12 | [Mainstream](http://twitter.com/search?q=Mainstream) | N/A |
-| 13 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 14 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
-| 15 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 16 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 5 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 6 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 7 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 8 | [Hunger](http://twitter.com/search?q=Hunger) | N/A |
+| 9 | [buona pasqua](http://twitter.com/search?q=buona+pasqua) | N/A |
+| 10 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 11 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 13 | [Mainstream](http://twitter.com/search?q=Mainstream) | N/A |
+| 14 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 15 | [Joyeuses Pâques](http://twitter.com/search?q=Joyeuses+P%c3%a2ques) | N/A |
+| 16 | [National League](http://twitter.com/search?q=National+League) | N/A |
 | 17 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
 | 18 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 19 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 20 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
-| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 22 | [#srfsport](http://twitter.com/search?q=%23srfsport) | N/A |
-| 23 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 24 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
-| 25 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
-| 26 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
-| 27 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 28 | [Tränen](http://twitter.com/search?q=Tr%c3%a4nen) | N/A |
+| 19 | [Beispiele](http://twitter.com/search?q=Beispiele) | N/A |
+| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 21 | [#srfsport](http://twitter.com/search?q=%23srfsport) | N/A |
+| 22 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 23 | [rimoldi](http://twitter.com/search?q=rimoldi) | N/A |
+| 24 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
+| 25 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
+| 26 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 27 | [Tränen](http://twitter.com/search?q=Tr%c3%a4nen) | N/A |
+| 28 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 29 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
 | 30 | [Poland](http://twitter.com/search?q=Poland) | N/A |
 | 31 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |

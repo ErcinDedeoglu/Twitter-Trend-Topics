@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-11 02:31:20 UTC`
+📆 Last Updated: `2023-04-11 03:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 2 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
 | 3 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 4 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 5 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 4 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 5 | [Igor](http://twitter.com/search?q=Igor) | N/A |
 | 6 | [Casey Mittelstadt](http://twitter.com/search?q=Casey+Mittelstadt) | N/A |
-| 7 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 8 | [Guillorme](http://twitter.com/search?q=Guillorme) | N/A |
-| 9 | [Domingo German](http://twitter.com/search?q=Domingo+German) | N/A |
-| 10 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 11 | [Jeff McNeil](http://twitter.com/search?q=Jeff+McNeil) | Jeff McNeil is an American professional baseball player who currently plays for the New York Mets of Major League Baseball (MLB). He is primarily a second baseman, but has also played third base and left field. |
-| 12 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 13 | [Bieber](http://twitter.com/search?q=Bieber) | N/A |
-| 14 | [Paige](http://twitter.com/search?q=Paige) | N/A |
-| 15 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 7 | [Guillorme](http://twitter.com/search?q=Guillorme) | N/A |
+| 8 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 9 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 10 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 11 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 12 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 13 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 14 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
+| 15 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
 | 16 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
-| 17 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
-| 18 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
-| 19 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 20 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 21 | [Cleveland](http://twitter.com/search?q=Cleveland) | N/A |
-| 22 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 23 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 24 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 25 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 26 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 27 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
-| 28 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
+| 17 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 18 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 19 | [German](http://twitter.com/search?q=German) | N/A |
+| 20 | [Cleveland](http://twitter.com/search?q=Cleveland) | N/A |
+| 21 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 22 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 23 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 24 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
+| 25 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
+| 26 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 27 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
+| 28 | [#darceyandstacey](http://twitter.com/search?q=%23darceyandstacey) | N/A |
 | 29 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 30 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 31 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 32 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
-| 33 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
-| 34 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 35 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 36 | [Wrestlemania Backlash](http://twitter.com/search?q=Wrestlemania+Backlash) | N/A |
-| 37 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 38 | [#darceyandstacey](http://twitter.com/search?q=%23darceyandstacey) | N/A |
-| 39 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 40 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
-| 41 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 42 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 43 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
-| 44 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 45 | [Kliff Kingsbury](http://twitter.com/search?q=Kliff+Kingsbury) | Kliff Kingsbury is an American football coach and former player. He is currently the head coach of the Arizona Cardinals of the National Football League (NFL). He previously served as the head coach at Texas Tech University from 2013 to 2018. |
-| 46 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 47 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
-| 48 | [Jarred Kelenic](http://twitter.com/search?q=Jarred+Kelenic) | N/A |
-| 49 | [Alpha Academy](http://twitter.com/search?q=Alpha+Academy) | N/A |
-| 50 | [CUBS WIN](http://twitter.com/search?q=CUBS+WIN) | N/A |
+| 30 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 31 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 32 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 33 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 34 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 35 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
+| 36 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 37 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 38 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 39 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 40 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 41 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 42 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 43 | [Scott Barry](http://twitter.com/search?q=Scott+Barry) | N/A |
+| 44 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 45 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
+| 46 | [Kliff Kingsbury](http://twitter.com/search?q=Kliff+Kingsbury) | Kliff Kingsbury is an American football coach and former player. He is currently the head coach of the Arizona Cardinals of the National Football League (NFL). He previously served as the head coach at Texas Tech University from 2013 to 2018. |
+| 47 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
+| 48 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 49 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
+| 50 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
 
 
 

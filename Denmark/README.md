@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-11 02:31:25 UTC`
+📆 Last Updated: `2023-04-11 03:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -57,14 +57,14 @@ This is top 50 for Denmark
 | 40 | [fedt](http://twitter.com/search?q=fedt) | N/A |
 | 41 | [Korrekt](http://twitter.com/search?q=Korrekt) | N/A |
 | 42 | [københavn](http://twitter.com/search?q=k%c3%b8benhavn) | N/A |
-| 43 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 44 | [mener](http://twitter.com/search?q=mener) | N/A |
-| 45 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 46 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 47 | [Rolf](http://twitter.com/search?q=Rolf) | N/A |
-| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 49 | [lars løkke](http://twitter.com/search?q=lars+l%c3%b8kke) | N/A |
-| 50 | [Schweiz](http://twitter.com/search?q=Schweiz) | N/A |
+| 43 | [mener](http://twitter.com/search?q=mener) | N/A |
+| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 45 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 46 | [Rolf](http://twitter.com/search?q=Rolf) | N/A |
+| 47 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 48 | [lars løkke](http://twitter.com/search?q=lars+l%c3%b8kke) | N/A |
+| 49 | [Schweiz](http://twitter.com/search?q=Schweiz) | N/A |
+| 50 | [Michael](http://twitter.com/search?q=Michael) | N/A |
 
 
 

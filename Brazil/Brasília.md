@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-04-11 02:30:45 UTC`
+📆 Last Updated: `2023-04-11 03:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 1 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
 | 2 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
-| 3 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 4 | [BRUNA INSUPORTÁVEL](http://twitter.com/search?q=BRUNA+INSUPORT%c3%81VEL) | N/A |
+| 3 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 4 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
 | 5 | [mc gui](http://twitter.com/search?q=mc+gui) | N/A |
-| 6 | [#VaiHelôPegaElesTudo](http://twitter.com/search?q=%23VaiHel%c3%b4PegaElesTudo) | N/A |
-| 7 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
-| 8 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
-| 9 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
-| 10 | [#TerraEPaixão](http://twitter.com/search?q=%23TerraEPaix%c3%a3o) | N/A |
-| 11 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 12 | [#7DiasDeLivramento](http://twitter.com/search?q=%237DiasDeLivramento) | N/A |
-| 13 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
-| 14 | [gabi brandt](http://twitter.com/search?q=gabi+brandt) | N/A |
-| 15 | [SMOKE CHARTS](http://twitter.com/search?q=SMOKE+CHARTS) | N/A |
-| 16 | [Jhony](http://twitter.com/search?q=Jhony) | N/A |
-| 17 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 18 | [Heldes](http://twitter.com/search?q=Heldes) | N/A |
-| 19 | [Giovanna Antonelli](http://twitter.com/search?q=Giovanna+Antonelli) | N/A |
-| 20 | [Dani Lins](http://twitter.com/search?q=Dani+Lins) | N/A |
-| 21 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
-| 22 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 23 | [Pilar](http://twitter.com/search?q=Pilar) | N/A |
-| 24 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
-| 25 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 26 | [MONTEZ](http://twitter.com/search?q=MONTEZ) | N/A |
-| 27 | [Essas 4](http://twitter.com/search?q=Essas+4) | N/A |
-| 28 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
-| 29 | [Sambô](http://twitter.com/search?q=Samb%c3%b4) | N/A |
-| 30 | [Sapatinho](http://twitter.com/search?q=Sapatinho) | N/A |
-| 31 | [Cidália](http://twitter.com/search?q=Cid%c3%a1lia) | N/A |
-| 32 | [Sesi Bauru](http://twitter.com/search?q=Sesi+Bauru) | N/A |
-| 33 | [Beni](http://twitter.com/search?q=Beni) | N/A |
-| 34 | [Jean Dias](http://twitter.com/search?q=Jean+Dias) | N/A |
-| 35 | [Carpini](http://twitter.com/search?q=Carpini) | N/A |
-| 36 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
-| 37 | [Franca](http://twitter.com/search?q=Franca) | N/A |
-| 38 | [Paulo Bracks](http://twitter.com/search?q=Paulo+Bracks) | N/A |
-| 39 | [Pague Menos](http://twitter.com/search?q=Pague+Menos) | N/A |
-| 40 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 41 | [Melhoras Alex](http://twitter.com/search?q=Melhoras+Alex) | N/A |
-| 42 | [Filipe Toledo](http://twitter.com/search?q=Filipe+Toledo) | N/A |
-| 43 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
-| 44 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
-| 45 | [Alexandre Nero](http://twitter.com/search?q=Alexandre+Nero) | N/A |
-| 46 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 47 | [Prior](http://twitter.com/search?q=Prior) | Prior is an adjective that means earlier in time, order, or importance. It can also be used as a noun to refer to someone who holds a higher rank or position. |
-| 48 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
-| 49 | [Quadrado](http://twitter.com/search?q=Quadrado) | N/A |
-| 50 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
+| 6 | [Omissa](http://twitter.com/search?q=Omissa) | N/A |
+| 7 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
+| 8 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
+| 9 | [MAS CÊ TÁ BRAVA](http://twitter.com/search?q=MAS+C%c3%8a+T%c3%81+BRAVA) | N/A |
+| 10 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
+| 11 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 12 | [#VaiHelôPegaElesTudo](http://twitter.com/search?q=%23VaiHel%c3%b4PegaElesTudo) | N/A |
+| 13 | [#SenhoraDoDestinoNoVIVA](http://twitter.com/search?q=%23SenhoraDoDestinoNoVIVA) | N/A |
+| 14 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
+| 15 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
+| 16 | [Cezar Black](http://twitter.com/search?q=Cezar+Black) | Cezar Black is a Romanian name derived from the Latin name Caesar, which means "emperor". It is also a surname that is used by some families in Romania. In English, Cezar Black can be translated to mean "Emperor Black". |
+| 17 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 18 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
+| 19 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
+| 20 | [Jhony](http://twitter.com/search?q=Jhony) | N/A |
+| 21 | [Arrogante](http://twitter.com/search?q=Arrogante) | N/A |
+| 22 | [DOUTOR FRED](http://twitter.com/search?q=DOUTOR+FRED) | DOUTOR FRED is a Brazilian television series that aired from 1975 to 1976. It follows the adventures of a doctor, Dr. Fred, who travels around Brazil helping people in need. The show's title translates to "Doctor Fred" in English. |
+| 23 | [gabi brandt](http://twitter.com/search?q=gabi+brandt) | N/A |
+| 24 | [SMOKE CHARTS](http://twitter.com/search?q=SMOKE+CHARTS) | N/A |
+| 25 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
+| 26 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 27 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 28 | [Dani Lins](http://twitter.com/search?q=Dani+Lins) | N/A |
+| 29 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 30 | [Pilar](http://twitter.com/search?q=Pilar) | N/A |
+| 31 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 32 | [Giovanna Antonelli](http://twitter.com/search?q=Giovanna+Antonelli) | N/A |
+| 33 | [Essas 4](http://twitter.com/search?q=Essas+4) | N/A |
+| 34 | [Cidália](http://twitter.com/search?q=Cid%c3%a1lia) | N/A |
+| 35 | [MONTEZ](http://twitter.com/search?q=MONTEZ) | N/A |
+| 36 | [Sambô](http://twitter.com/search?q=Samb%c3%b4) | N/A |
+| 37 | [Bauru](http://twitter.com/search?q=Bauru) | N/A |
+| 38 | [Heldes](http://twitter.com/search?q=Heldes) | N/A |
+| 39 | [Sapatinho](http://twitter.com/search?q=Sapatinho) | N/A |
+| 40 | [Carpini](http://twitter.com/search?q=Carpini) | N/A |
+| 41 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
+| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 43 | [Pague Menos](http://twitter.com/search?q=Pague+Menos) | N/A |
+| 44 | [Melhoras Alex](http://twitter.com/search?q=Melhoras+Alex) | N/A |
+| 45 | [KEEP TRYING](http://twitter.com/search?q=KEEP+TRYING) | N/A |
+| 46 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 47 | [Franca](http://twitter.com/search?q=Franca) | N/A |
+| 48 | [Black e Domitila](http://twitter.com/search?q=Black+e+Domitila) | N/A |
+| 49 | [Jean Dias](http://twitter.com/search?q=Jean+Dias) | N/A |
+| 50 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-04-11 02:30:45 UTC`
+📆 Last Updated: `2023-04-11 03:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,47 +22,47 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 5 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 6 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 7 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 8 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
-| 9 | [Lupita Ferrer](http://twitter.com/search?q=Lupita+Ferrer) | N/A |
-| 10 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
-| 11 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
-| 12 | [El Cafetal](http://twitter.com/search?q=El+Cafetal) | N/A |
-| 13 | [Edecio](http://twitter.com/search?q=Edecio) | N/A |
-| 14 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 15 | [Carlos Prosperi](http://twitter.com/search?q=Carlos+Prosperi) | N/A |
-| 16 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 17 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 8 | [Lupita Ferrer](http://twitter.com/search?q=Lupita+Ferrer) | N/A |
+| 9 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
+| 10 | [El Cafetal](http://twitter.com/search?q=El+Cafetal) | N/A |
+| 11 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
+| 12 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 13 | [Movistar](http://twitter.com/search?q=Movistar) | N/A |
+| 14 | [Carlos Prosperi](http://twitter.com/search?q=Carlos+Prosperi) | N/A |
+| 15 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
+| 16 | [Edecio](http://twitter.com/search?q=Edecio) | N/A |
+| 17 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 18 | [Salomón Rondón](http://twitter.com/search?q=Salom%c3%b3n+Rond%c3%b3n) | Salomón Rondón is a Venezuelan professional footballer who plays as a striker for Chinese Super League club Dalian Yifang and the Venezuela national team. His name translates to Solomon Rondon in English. |
-| 19 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 20 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 21 | [Guatire](http://twitter.com/search?q=Guatire) | N/A |
-| 22 | [Feliz Inicio de Semana](http://twitter.com/search?q=Feliz+Inicio+de+Semana) | N/A |
-| 23 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
-| 24 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 25 | [Lee Majors](http://twitter.com/search?q=Lee+Majors) | N/A |
-| 26 | [Herminia Martinez](http://twitter.com/search?q=Herminia+Martinez) | N/A |
-| 27 | [Banco Nacional de Descuento](http://twitter.com/search?q=Banco+Nacional+de+Descuento) | N/A |
-| 28 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
-| 29 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 30 | [jorge negrete](http://twitter.com/search?q=jorge+negrete) | N/A |
-| 31 | [Chelo Rodríguez](http://twitter.com/search?q=Chelo+Rodr%c3%adguez) | N/A |
-| 32 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
-| 33 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
-| 34 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
-| 35 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
-| 36 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 37 | [Caraqueña](http://twitter.com/search?q=Caraque%c3%b1a) | N/A |
-| 38 | [Los Intocables](http://twitter.com/search?q=Los+Intocables) | N/A |
-| 39 | [Caridad Canelón](http://twitter.com/search?q=Caridad+Canel%c3%b3n) | N/A |
-| 40 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 41 | [Ivonne Attas](http://twitter.com/search?q=Ivonne+Attas) | N/A |
-| 42 | [Lisandro Alvarado](http://twitter.com/search?q=Lisandro+Alvarado) | N/A |
-| 43 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
-| 44 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 45 | [José Antonio Páez](http://twitter.com/search?q=Jos%c3%a9+Antonio+P%c3%a1ez) | N/A |
-| 46 | [Salma Hayek](http://twitter.com/search?q=Salma+Hayek) | N/A |
-| 47 | [Delsa Solórzano](http://twitter.com/search?q=Delsa+Sol%c3%b3rzano) | N/A |
-| 48 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
+| 19 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 20 | [Chuck Norris](http://twitter.com/search?q=Chuck+Norris) | Chuck Norris is an American actor and martial artist who is known for his roles in action films such as The Delta Force, Missing in Action, and Walker, Texas Ranger. He has become an Internet meme, with jokes about his toughness and invincibility often circulating online. |
+| 21 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 23 | [Feliz Inicio de Semana](http://twitter.com/search?q=Feliz+Inicio+de+Semana) | N/A |
+| 24 | [Guatire](http://twitter.com/search?q=Guatire) | N/A |
+| 25 | [Herminia Martinez](http://twitter.com/search?q=Herminia+Martinez) | N/A |
+| 26 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
+| 27 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
+| 28 | [Banco Nacional de Descuento](http://twitter.com/search?q=Banco+Nacional+de+Descuento) | N/A |
+| 29 | [jorge negrete](http://twitter.com/search?q=jorge+negrete) | N/A |
+| 30 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 31 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
+| 32 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
+| 33 | [Chelo Rodríguez](http://twitter.com/search?q=Chelo+Rodr%c3%adguez) | N/A |
+| 34 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 35 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
+| 36 | [Los Intocables](http://twitter.com/search?q=Los+Intocables) | N/A |
+| 37 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
+| 38 | [Lee Majors](http://twitter.com/search?q=Lee+Majors) | N/A |
+| 39 | [Caraqueña](http://twitter.com/search?q=Caraque%c3%b1a) | N/A |
+| 40 | [Lisandro Alvarado](http://twitter.com/search?q=Lisandro+Alvarado) | N/A |
+| 41 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
+| 42 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 43 | [Caridad Canelón](http://twitter.com/search?q=Caridad+Canel%c3%b3n) | N/A |
+| 44 | [Salma Hayek](http://twitter.com/search?q=Salma+Hayek) | N/A |
+| 45 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 46 | [José Antonio Páez](http://twitter.com/search?q=Jos%c3%a9+Antonio+P%c3%a1ez) | N/A |
+| 47 | [Diosdado Cabello](http://twitter.com/search?q=Diosdado+Cabello) | N/A |
+| 48 | [Delsa Solórzano](http://twitter.com/search?q=Delsa+Sol%c3%b3rzano) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-04-11 02:30:49 UTC`
+📆 Last Updated: `2023-04-11 03:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 7 | [Torres](http://twitter.com/search?q=Torres) | N/A |
 | 8 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
 | 9 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 10 | [Paul Townend](http://twitter.com/search?q=Paul+Townend) | N/A |
+| 10 | [paul townend](http://twitter.com/search?q=paul+townend) | N/A |
 | 11 | [Keane](http://twitter.com/search?q=Keane) | N/A |
 | 12 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 | 13 | [Seve](http://twitter.com/search?q=Seve) | N/A |
