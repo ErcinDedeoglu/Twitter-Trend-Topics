@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-04-11 14:18:55 UTC`
+📆 Last Updated: `2023-04-11 15:18:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Israel
 | 3 | [רומן רוסי](http://twitter.com/search?q=%d7%a8%d7%95%d7%9e%d7%9f+%d7%a8%d7%95%d7%a1%d7%99) | N/A |
 | 4 | [של לה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%94) | N/A |
 | 5 | [אוהד מכבי חיפה](http://twitter.com/search?q=%d7%90%d7%95%d7%94%d7%93+%d7%9e%d7%9b%d7%91%d7%99+%d7%97%d7%99%d7%a4%d7%94) | N/A |
-| 6 | [#DeesDay](http://twitter.com/search?q=%23DeesDay) | N/A |
-| 7 | [בן כספית](http://twitter.com/search?q=%d7%91%d7%9f+%d7%9b%d7%a1%d7%a4%d7%99%d7%aa) | N/A |
-| 8 | [עשה מילואים](http://twitter.com/search?q=%d7%a2%d7%a9%d7%94+%d7%9e%d7%99%d7%9c%d7%95%d7%90%d7%99%d7%9d) | N/A |
-| 9 | [דגל ישראל](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 10 | [שלומי רייזמן](http://twitter.com/search?q=%d7%a9%d7%9c%d7%95%d7%9e%d7%99+%d7%a8%d7%99%d7%99%d7%96%d7%9e%d7%9f) | N/A |
-| 11 | [ליאו די](http://twitter.com/search?q=%d7%9c%d7%99%d7%90%d7%95+%d7%93%d7%99) | N/A |
+| 6 | [בן כספית](http://twitter.com/search?q=%d7%91%d7%9f+%d7%9b%d7%a1%d7%a4%d7%99%d7%aa) | N/A |
+| 7 | [#DeesDay](http://twitter.com/search?q=%23DeesDay) | N/A |
+| 8 | [ליאו די](http://twitter.com/search?q=%d7%9c%d7%99%d7%90%d7%95+%d7%93%d7%99) | N/A |
+| 9 | [שקרן בן שקרן](http://twitter.com/search?q=%d7%a9%d7%a7%d7%a8%d7%9f+%d7%91%d7%9f+%d7%a9%d7%a7%d7%a8%d7%9f) | N/A |
+| 10 | [דגל ישראל](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 11 | [עם ישראל חי](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%97%d7%99) | N/A |
 | 12 | [של לוסי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%95%d7%a1%d7%99) | N/A |
-| 13 | [עם ישראל חי](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%97%d7%99) | N/A |
-| 14 | [שקרן בן שקרן](http://twitter.com/search?q=%d7%a9%d7%a7%d7%a8%d7%9f+%d7%91%d7%9f+%d7%a9%d7%a7%d7%a8%d7%9f) | N/A |
-| 15 | [אור הלר](http://twitter.com/search?q=%d7%90%d7%95%d7%a8+%d7%94%d7%9c%d7%a8) | N/A |
-| 16 | [אוהד בית](http://twitter.com/search?q=%d7%90%d7%95%d7%94%d7%93+%d7%91%d7%99%d7%aa) | N/A |
-| 17 | [ארגון טרור](http://twitter.com/search?q=%d7%90%d7%a8%d7%92%d7%95%d7%9f+%d7%98%d7%a8%d7%95%d7%a8) | N/A |
-| 18 | [אח שכול](http://twitter.com/search?q=%d7%90%d7%97+%d7%a9%d7%9b%d7%95%d7%9c) | N/A |
-| 19 | [רועי נוימן](http://twitter.com/search?q=%d7%a8%d7%95%d7%a2%d7%99+%d7%a0%d7%95%d7%99%d7%9e%d7%9f) | N/A |
-| 20 | [עובד תחזוקה](http://twitter.com/search?q=%d7%a2%d7%95%d7%91%d7%93+%d7%aa%d7%97%d7%96%d7%95%d7%a7%d7%94) | N/A |
-| 21 | [ציר מדיני](http://twitter.com/search?q=%d7%a6%d7%99%d7%a8+%d7%9e%d7%93%d7%99%d7%a0%d7%99) | N/A |
-| 22 | [עם לה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%9c%d7%94) | N/A |
-| 23 | [Maia](http://twitter.com/search?q=Maia) | N/A |
-| 24 | [אוהד חיפה](http://twitter.com/search?q=%d7%90%d7%95%d7%94%d7%93+%d7%97%d7%99%d7%a4%d7%94) | N/A |
-| 25 | [נאום נתניהו](http://twitter.com/search?q=%d7%a0%d7%90%d7%95%d7%9d+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
-| 26 | [של נתניהו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
-| 27 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
-| 28 | [ציר ישראל](http://twitter.com/search?q=%d7%a6%d7%99%d7%a8+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 29 | [ים סוף](http://twitter.com/search?q=%d7%99%d7%9d+%d7%a1%d7%95%d7%a3) | N/A |
-| 30 | [ימי מילואים](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%9e%d7%99%d7%9c%d7%95%d7%90%d7%99%d7%9d) | N/A |
-| 31 | [שופטים של](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98%d7%99%d7%9d+%d7%a9%d7%9c) | N/A |
-| 32 | [שביעי של פסח](http://twitter.com/search?q=%d7%a9%d7%91%d7%99%d7%a2%d7%99+%d7%a9%d7%9c+%d7%a4%d7%a1%d7%97) | N/A |
-| 33 | [Rabbi Leo Dee](http://twitter.com/search?q=Rabbi+Leo+Dee) | N/A |
-| 34 | [ראש הממשלה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
-| 35 | [בן ארי](http://twitter.com/search?q=%d7%91%d7%9f+%d7%90%d7%a8%d7%99) | N/A |
-| 36 | [עובד שם](http://twitter.com/search?q=%d7%a2%d7%95%d7%91%d7%93+%d7%a9%d7%9d) | N/A |
-| 37 | [טל שניידר](http://twitter.com/search?q=%d7%98%d7%9c+%d7%a9%d7%a0%d7%99%d7%99%d7%93%d7%a8) | N/A |
-| 38 | [לקח אחריות](http://twitter.com/search?q=%d7%9c%d7%a7%d7%97+%d7%90%d7%97%d7%a8%d7%99%d7%95%d7%aa) | N/A |
-| 39 | [ערוץ תעמולה](http://twitter.com/search?q=%d7%a2%d7%a8%d7%95%d7%a5+%d7%aa%d7%a2%d7%9e%d7%95%d7%9c%d7%94) | N/A |
-| 40 | [ארגון לה](http://twitter.com/search?q=%d7%90%d7%a8%d7%92%d7%95%d7%9f+%d7%9c%d7%94) | N/A |
-| 41 | [עם כיפה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%9b%d7%99%d7%a4%d7%94) | N/A |
-| 42 | [דני ב](http://twitter.com/search?q=%d7%93%d7%a0%d7%99+%d7%91) | N/A |
-| 43 | [איש תחזוקה](http://twitter.com/search?q=%d7%90%d7%99%d7%a9+%d7%aa%d7%97%d7%96%d7%95%d7%a7%d7%94) | N/A |
-| 44 | [חבר בלה](http://twitter.com/search?q=%d7%97%d7%91%d7%a8+%d7%91%d7%9c%d7%94) | N/A |
-| 45 | [קעקוע לה](http://twitter.com/search?q=%d7%a7%d7%a2%d7%a7%d7%95%d7%a2+%d7%9c%d7%94) | N/A |
+| 13 | [עשה מילואים](http://twitter.com/search?q=%d7%a2%d7%a9%d7%94+%d7%9e%d7%99%d7%9c%d7%95%d7%90%d7%99%d7%9d) | N/A |
+| 14 | [אוהד בית](http://twitter.com/search?q=%d7%90%d7%95%d7%94%d7%93+%d7%91%d7%99%d7%aa) | N/A |
+| 15 | [ארגון טרור](http://twitter.com/search?q=%d7%90%d7%a8%d7%92%d7%95%d7%9f+%d7%98%d7%a8%d7%95%d7%a8) | N/A |
+| 16 | [אור הלר](http://twitter.com/search?q=%d7%90%d7%95%d7%a8+%d7%94%d7%9c%d7%a8) | N/A |
+| 17 | [אח שכול](http://twitter.com/search?q=%d7%90%d7%97+%d7%a9%d7%9b%d7%95%d7%9c) | N/A |
+| 18 | [רועי נוימן](http://twitter.com/search?q=%d7%a8%d7%95%d7%a2%d7%99+%d7%a0%d7%95%d7%99%d7%9e%d7%9f) | N/A |
+| 19 | [עובד תחזוקה](http://twitter.com/search?q=%d7%a2%d7%95%d7%91%d7%93+%d7%aa%d7%97%d7%96%d7%95%d7%a7%d7%94) | N/A |
+| 20 | [עם לה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%9c%d7%94) | N/A |
+| 21 | [Maia](http://twitter.com/search?q=Maia) | N/A |
+| 22 | [אוהד חיפה](http://twitter.com/search?q=%d7%90%d7%95%d7%94%d7%93+%d7%97%d7%99%d7%a4%d7%94) | N/A |
+| 23 | [שביעי של פסח](http://twitter.com/search?q=%d7%a9%d7%91%d7%99%d7%a2%d7%99+%d7%a9%d7%9c+%d7%a4%d7%a1%d7%97) | N/A |
+| 24 | [של נתניהו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
+| 25 | [ציר ישראל](http://twitter.com/search?q=%d7%a6%d7%99%d7%a8+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 26 | [נאום נתניהו](http://twitter.com/search?q=%d7%a0%d7%90%d7%95%d7%9d+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
+| 27 | [ים סוף](http://twitter.com/search?q=%d7%99%d7%9d+%d7%a1%d7%95%d7%a3) | N/A |
+| 28 | [ימי מילואים](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%9e%d7%99%d7%9c%d7%95%d7%90%d7%99%d7%9d) | N/A |
+| 29 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
+| 30 | [שופטים של](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98%d7%99%d7%9d+%d7%a9%d7%9c) | N/A |
+| 31 | [Rabbi Leo Dee](http://twitter.com/search?q=Rabbi+Leo+Dee) | N/A |
+| 32 | [ראש הממשלה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
+| 33 | [עובד שם](http://twitter.com/search?q=%d7%a2%d7%95%d7%91%d7%93+%d7%a9%d7%9d) | N/A |
+| 34 | [לקח אחריות](http://twitter.com/search?q=%d7%9c%d7%a7%d7%97+%d7%90%d7%97%d7%a8%d7%99%d7%95%d7%aa) | N/A |
+| 35 | [טל שניידר](http://twitter.com/search?q=%d7%98%d7%9c+%d7%a9%d7%a0%d7%99%d7%99%d7%93%d7%a8) | N/A |
+| 36 | [בן ארי](http://twitter.com/search?q=%d7%91%d7%9f+%d7%90%d7%a8%d7%99) | N/A |
+| 37 | [ברוך דיין](http://twitter.com/search?q=%d7%91%d7%a8%d7%95%d7%9a+%d7%93%d7%99%d7%99%d7%9f) | N/A |
+| 38 | [ערוץ תעמולה](http://twitter.com/search?q=%d7%a2%d7%a8%d7%95%d7%a5+%d7%aa%d7%a2%d7%9e%d7%95%d7%9c%d7%94) | N/A |
+| 39 | [ארגון לה](http://twitter.com/search?q=%d7%90%d7%a8%d7%92%d7%95%d7%9f+%d7%9c%d7%94) | N/A |
+| 40 | [שני אחים](http://twitter.com/search?q=%d7%a9%d7%a0%d7%99+%d7%90%d7%97%d7%99%d7%9d) | N/A |
+| 41 | [שלומי רייזמן](http://twitter.com/search?q=%d7%a9%d7%9c%d7%95%d7%9e%d7%99+%d7%a8%d7%99%d7%99%d7%96%d7%9e%d7%9f) | N/A |
+| 42 | [עם כיפה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%9b%d7%99%d7%a4%d7%94) | N/A |
+| 43 | [ציר מדיני](http://twitter.com/search?q=%d7%a6%d7%99%d7%a8+%d7%9e%d7%93%d7%99%d7%a0%d7%99) | N/A |
+| 44 | [דני ב](http://twitter.com/search?q=%d7%93%d7%a0%d7%99+%d7%91) | N/A |
+| 45 | [איש תחזוקה](http://twitter.com/search?q=%d7%90%d7%99%d7%a9+%d7%aa%d7%97%d7%96%d7%95%d7%a7%d7%94) | N/A |
 | 46 | [מיכאל חי](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%90%d7%9c+%d7%97%d7%99) | N/A |
-| 47 | [La Familia](http://twitter.com/search?q=La+Familia) | N/A |
-| 48 | [ר ירושלים](http://twitter.com/search?q=%d7%a8+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
+| 47 | [ר ירושלים](http://twitter.com/search?q=%d7%a8+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
+| 48 | [חבר בלה](http://twitter.com/search?q=%d7%97%d7%91%d7%a8+%d7%91%d7%9c%d7%94) | N/A |
 | 49 | [מנהיג אמיתי](http://twitter.com/search?q=%d7%9e%d7%a0%d7%94%d7%99%d7%92+%d7%90%d7%9e%d7%99%d7%aa%d7%99) | N/A |
-| 50 | [די הי](http://twitter.com/search?q=%d7%93%d7%99+%d7%94%d7%99) | N/A |
+| 50 | [בוקר אור](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%90%d7%95%d7%a8) | N/A |
 
 
 

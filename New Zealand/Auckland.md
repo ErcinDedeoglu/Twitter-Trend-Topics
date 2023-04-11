@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-11 14:18:41 UTC`
+📆 Last Updated: `2023-04-11 15:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,31 +40,31 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 23 | [Norway](http://twitter.com/search?q=Norway) | N/A |
 | 24 | [#indiemusic](http://twitter.com/search?q=%23indiemusic) | N/A |
 | 25 | [chantelle](http://twitter.com/search?q=chantelle) | N/A |
-| 26 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 27 | [Bull](http://twitter.com/search?q=Bull) | N/A |
-| 28 | [Jeez](http://twitter.com/search?q=Jeez) | N/A |
-| 29 | [matt king](http://twitter.com/search?q=matt+king) | N/A |
-| 30 | [Genocide](http://twitter.com/search?q=Genocide) | N/A |
-| 31 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 32 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 33 | [national and act](http://twitter.com/search?q=national+and+act) | N/A |
-| 34 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 35 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 36 | [Herald](http://twitter.com/search?q=Herald) | N/A |
-| 37 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 38 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 39 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 40 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 41 | [Overload](http://twitter.com/search?q=Overload) | N/A |
-| 42 | [3 waters](http://twitter.com/search?q=3+waters) | N/A |
-| 43 | [False](http://twitter.com/search?q=False) | N/A |
-| 44 | [#Australia](http://twitter.com/search?q=%23Australia) | N/A |
-| 45 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
-| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 47 | [Clint](http://twitter.com/search?q=Clint) | N/A |
-| 48 | [Incorrect](http://twitter.com/search?q=Incorrect) | N/A |
-| 49 | [The Platform](http://twitter.com/search?q=The+Platform) | N/A |
-| 50 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 26 | [Bull](http://twitter.com/search?q=Bull) | N/A |
+| 27 | [Jeez](http://twitter.com/search?q=Jeez) | N/A |
+| 28 | [matt king](http://twitter.com/search?q=matt+king) | N/A |
+| 29 | [Genocide](http://twitter.com/search?q=Genocide) | N/A |
+| 30 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 31 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 32 | [national and act](http://twitter.com/search?q=national+and+act) | N/A |
+| 33 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 34 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 35 | [Herald](http://twitter.com/search?q=Herald) | N/A |
+| 36 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 37 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 38 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 39 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 40 | [Overload](http://twitter.com/search?q=Overload) | N/A |
+| 41 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
+| 42 | [False](http://twitter.com/search?q=False) | N/A |
+| 43 | [#Australia](http://twitter.com/search?q=%23Australia) | N/A |
+| 44 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 46 | [Clint](http://twitter.com/search?q=Clint) | N/A |
+| 47 | [Incorrect](http://twitter.com/search?q=Incorrect) | N/A |
+| 48 | [the platform](http://twitter.com/search?q=the+platform) | N/A |
+| 49 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 50 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
 
 
 
