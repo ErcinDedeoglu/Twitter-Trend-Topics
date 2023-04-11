@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-04-11 04:18:43 UTC`
+📆 Last Updated: `2023-04-11 05:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
 | 2 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 3 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 3 | [Braves](http://twitter.com/search?q=Braves) | N/A |
 | 4 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
 | 5 | [Bieber](http://twitter.com/search?q=Bieber) | N/A |
 | 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 7 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
-| 8 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 9 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
-| 10 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 11 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
-| 12 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 13 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
-| 14 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
-| 15 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 16 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 17 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
-| 18 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 19 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 20 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 21 | [Zac Gallen](http://twitter.com/search?q=Zac+Gallen) | N/A |
-| 22 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
-| 23 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 24 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 25 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 26 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 27 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 28 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 29 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 30 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
-| 31 | [Scott Barry](http://twitter.com/search?q=Scott+Barry) | N/A |
-| 32 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 33 | [Johansson](http://twitter.com/search?q=Johansson) | N/A |
-| 34 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 35 | [Foligno](http://twitter.com/search?q=Foligno) | N/A |
-| 36 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 37 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
-| 38 | [Kliff Kingsbury](http://twitter.com/search?q=Kliff+Kingsbury) | Kliff Kingsbury is an American football coach and former player. He is currently the head coach of the Arizona Cardinals of the National Football League (NFL). He previously served as the head coach at Texas Tech University from 2013 to 2018. |
-| 39 | [Faber](http://twitter.com/search?q=Faber) | N/A |
-| 40 | [Nate Eaton](http://twitter.com/search?q=Nate+Eaton) | N/A |
-| 41 | [Nico Hoerner](http://twitter.com/search?q=Nico+Hoerner) | N/A |
-| 42 | [Praying for Steve](http://twitter.com/search?q=Praying+for+Steve) | N/A |
-| 43 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 44 | [Alpha Academy](http://twitter.com/search?q=Alpha+Academy) | N/A |
-| 45 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
-| 46 | [Boldy](http://twitter.com/search?q=Boldy) | Boldy is a slang term used to describe someone who is brave and confident. It can also be used to describe someone who takes risks or stands up for what they believe in. |
-| 47 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 48 | [Derek Law](http://twitter.com/search?q=Derek+Law) | N/A |
-| 49 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
+| 8 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 9 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 10 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
+| 11 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
+| 12 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
+| 13 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
+| 14 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 15 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
+| 16 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 17 | [nick cannon](http://twitter.com/search?q=nick+cannon) | N/A |
+| 18 | [Flames](http://twitter.com/search?q=Flames) | N/A |
+| 19 | [Preds](http://twitter.com/search?q=Preds) | N/A |
+| 20 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 21 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 22 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
+| 23 | [Zac Gallen](http://twitter.com/search?q=Zac+Gallen) | N/A |
+| 24 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
+| 25 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
+| 26 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 27 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 28 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 29 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 30 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 31 | [Praying for Steve](http://twitter.com/search?q=Praying+for+Steve) | N/A |
+| 32 | [Scott Barry](http://twitter.com/search?q=Scott+Barry) | N/A |
+| 33 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 34 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 35 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 36 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 37 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 38 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 39 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 40 | [Johansson](http://twitter.com/search?q=Johansson) | N/A |
+| 41 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
+| 42 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
+| 43 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 44 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 45 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
+| 46 | [Jared McCann](http://twitter.com/search?q=Jared+McCann) | N/A |
+| 47 | [Kliff](http://twitter.com/search?q=Kliff) | Kliff is a German word meaning "cliff" or "precipice." It is used to describe a steep, rocky face of a mountain or hill. |
+| 48 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 49 | [Faber](http://twitter.com/search?q=Faber) | N/A |
 
 
 
